@@ -1,24 +1,875 @@
 {
-  "creator": "Jim Rutt",
+  "id": "bd813a9cb60a",
+  "createdAt": 1550149650636,
+  "firstPublishedAt": 1550150299726,
   "title": "Making Liquid Democracy Work — Pay The Delegates",
-  "link": "https://medium.com/@memetic007/making-liquid-democracy-work-pay-the-delegates-bd813a9cb60a?source=rss-d14f90fcad6c------2",
-  "pubDate": "Thu, 14 Feb 2019 13:18:19 GMT",
-  "dc:creator": "Jim Rutt",
-  "content": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@memetic007/making-liquid-democracy-work-pay-the-delegates-bd813a9cb60a?source=rss-d14f90fcad6c------2\"><img src=\"https://cdn-images-1.medium.com/max/600/1*L9mi2H2fO3exH73CSzjEdw.png\" width=\"600\"></a></p><p class=\"medium-feed-snippet\">By Jim Rutt</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@memetic007/making-liquid-democracy-work-pay-the-delegates-bd813a9cb60a?source=rss-d14f90fcad6c------2\">Continue reading on Medium »</a></p></div>",
-  "contentSnippet": "By Jim RuttContinue reading on Medium »",
-  "guid": "https://medium.com/p/bd813a9cb60a",
-  "categories": [
-    "cryptocurrency",
-    "future",
-    "governance",
-    "politics",
-    "liquid-democracy"
+  "socialTitle": "",
+  "metaDescription": "",
+  "previewContent": {
+    "subtitle": "By Jim Rutt",
+    "bodyModel": {
+      "paragraphs": [
+        {
+          "id": "7f55f763d8f6_preview_0",
+          "href": null,
+          "name": "previewImage",
+          "text": "",
+          "metadata": {
+            "id": "1*L9mi2H2fO3exH73CSzjEdw.png",
+            "alt": null
+          },
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": "CROPPED_HEIGHT_PREVIEW",
+          "markups": [],
+          "type": "IMG"
+        },
+        {
+          "id": "7f55f763d8f6_preview_1",
+          "href": null,
+          "name": "ddef",
+          "text": "Making Liquid Democracy Work — Pay The Delegates",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "H3"
+        },
+        {
+          "id": "7f55f763d8f6_preview_2",
+          "href": null,
+          "name": "6fe1",
+          "text": "By Jim Rutt",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        }
+      ]
+    },
+    "isFullContent": false
+  },
+  "creator": {
+    "id": "d14f90fcad6c",
+    "name": "Jim Rutt",
+    "username": "memetic007",
+    "bio": "Podcast: https://www.jimruttshow.com/ Bio: https://www.santafe.edu/people/profile/jim-rutt"
+  },
+  "tags": [
+    {
+      "id": "politics",
+      "displayTitle": "Politics"
+    },
+    {
+      "id": "liquid-democracy",
+      "displayTitle": "Liquid Democracy"
+    },
+    {
+      "id": "future",
+      "displayTitle": "Future"
+    },
+    {
+      "id": "governance",
+      "displayTitle": "Governance"
+    },
+    {
+      "id": "cryptocurrency",
+      "displayTitle": "Cryptocurrency"
+    }
   ],
-  "isoDate": "2019-02-14T13:18:19.000Z",
-  "publishedAt": "2019-02-14T13:18:19.000Z",
-  "image": "https://cdn-images-1.medium.com/max/600/1*L9mi2H2fO3exH73CSzjEdw.png",
+  "topics": [
+    {
+      "id": "4d562ee63426",
+      "name": "Politics"
+    }
+  ],
+  "canonicalUrl": "",
+  "mediumUrl": "https://medium.com/@memetic007/making-liquid-democracy-work-pay-the-delegates-bd813a9cb60a",
+  "previewImage": {
+    "id": "1*L9mi2H2fO3exH73CSzjEdw.png"
+  },
+  "content": {
+    "bodyModel": {
+      "paragraphs": [
+        {
+          "id": "7f55f763d8f6_0",
+          "href": null,
+          "name": "3d74",
+          "text": "",
+          "metadata": {
+            "id": "1*L9mi2H2fO3exH73CSzjEdw.png",
+            "alt": null
+          },
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": "INSET_CENTER",
+          "markups": [],
+          "type": "IMG"
+        },
+        {
+          "id": "7f55f763d8f6_1",
+          "href": null,
+          "name": "ddef",
+          "text": "Making Liquid Democracy Work — Pay The Delegates",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "H3"
+        },
+        {
+          "id": "7f55f763d8f6_2",
+          "href": null,
+          "name": "6fe1",
+          "text": "By Jim Rutt",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_3",
+          "href": null,
+          "name": "86cf",
+          "text": "Me on Twitter",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 13,
+              "href": "https://twitter.com/jim_rutt",
+              "rel": "",
+              "start": 0,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_4",
+          "href": null,
+          "name": "c681",
+          "text": "Mini Bio",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 8,
+              "href": "https://www.santafe.edu/people/profile/jim-rutt",
+              "rel": "",
+              "start": 0,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_5",
+          "href": null,
+          "name": "c3af",
+          "text": "For the past year or so I’ve been thinking, talking, and writing about Liquid Democracy. As I described in my previous Introduction, Liquid Democracy is a technologically enabled and scalable hybrid of direct and representative democracy. It enables voters — to the extent they desire — to vote for themselves on some or all legislation or to give their vote — their proxy — to a Delegate, that is, an individual or not-for-profit organization of their choice.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 131,
+              "href": "https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f",
+              "rel": "",
+              "start": 119,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_6",
+          "href": null,
+          "name": "36e8",
+          "text": "My version of Liquid Democracy suggests dividing all legislation into approximately 25 “Issue Areas.” Examples of possible Issue Areas include Defense, Health, Energy, Civil Rights, Taxes, etc. Every voter has the option to give his or her proxy, on each voting Issue Area, to another person or organization. Moreover, once a person or organization has received a proxy, they too can further pass it on to another individual or organizational Delegate. At any time, a voter can take back his or her proxy and either reassign it to a different Delegate or vote directly. Details here.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 582,
+              "href": "https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f",
+              "rel": "",
+              "start": 570,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            },
+            {
+              "end": 570,
+              "href": null,
+              "rel": null,
+              "start": 194,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "EM",
+              "name": null,
+              "creatorIds": null
+            },
+            {
+              "end": 583,
+              "href": null,
+              "rel": null,
+              "start": 582,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "EM",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_7",
+          "href": null,
+          "name": "c76f",
+          "text": "As I continue to talk with interested individuals and groups from around the world, it has become clear to me that the job of a conscientious Delegate under Liquid Democracy — as an individual or organization to whom other people assign or give their votes — would not be a simple or trivial matter. Given the complexity and contentiousness of our country’s political process, to be an excellent Delegate would likely require a significant commitment of thinking, research, effort, and time.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_8",
+          "href": null,
+          "name": "a12f",
+          "text": "To compensate them for their time, energy, and efforts while encouraging them to do the best possible job, Delegates would need to be financially compensated.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_9",
+          "href": null,
+          "name": "c1b0",
+          "text": "Imagine that you presented yourself as an educational policy Delegate. Realistically, as an educational policy Delegate, before most people would want to confidently entrust you with their vote you would have to spend considerable time following relevant educational research, and reading and analyzing legislative proposals. And if you wanted to take part in actually crafting legislation, that could well require an entire staff of people.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_10",
+          "href": null,
+          "name": "6b97",
+          "text": "If the real value of the work it takes to be an effective Delegate isn’t assessed and Delegates aren’t financially compensated, then, sure enough, the meanest and most corrupting financial and political influences will once again assert their control. Providing sufficient funding at every level — from the concerned individual citizen to the nonprofit think tank — will enable those who are not bought and paid for by big economic interests to serve as Delegates.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_11",
+          "href": null,
+          "name": "9abd",
+          "text": "This short article provides a brief sketch of a method for compensating Delegates that I believe would be fair and realistic and could even contribute a partial or full solution to the serious problem of removing the corrupting influence of money from politics.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_12",
+          "href": null,
+          "name": "322d",
+          "text": "The Proposed Solution: A Democracy Allowance of $5 a Month of Delegate Dollars per Voter",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 88,
+              "href": null,
+              "rel": null,
+              "start": 0,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "STRONG",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_13",
+          "href": null,
+          "name": "c74a",
+          "text": "As the diagram below shows, the proposed solution begins with the U.S. Treasury issuing a “Democracy Allowance” of $5 a month, or $60 a year, to every voter. With 200 million registered voters, that would come to $12 billion a year. If the final price tag for the 2016 presidential and congressional elections was around $6.5 billion, and Congress and the legislative branch cost about $6 billion to operate yearly, this $12 billion allowance can be seen as a reasonable, within-scale number, and it could be adjusted upward or downward as experience dictates.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 333,
+              "href": "https://www.washingtonpost.com/news/wonk/wp/2017/04/14/somebody-just-put-a-price-tag-on-the-2016-election-its-a-doozy/?utm_term=.a14162555b92",
+              "rel": "",
+              "start": 321,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            },
+            {
+              "end": 414,
+              "href": "https://skeptics.stackexchange.com/questions/10172/does-us-congress-cost-30m-per-day-to-run",
+              "rel": "",
+              "start": 380,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_14",
+          "href": null,
+          "name": "58af",
+          "text": "",
+          "metadata": {
+            "id": "1*l_aQyOCp-DvYeBQYK7F-1g.png",
+            "alt": null
+          },
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": "INSET_CENTER",
+          "markups": [],
+          "type": "IMG"
+        },
+        {
+          "id": "7f55f763d8f6_15",
+          "href": null,
+          "name": "360a",
+          "text": "Each voter’s Democracy Allowance would then be proportionately allocated and paid to any Delegates to whom the voter gave his or her proxy. For example, a voter who gave his or her proxy for all 25 Issue Areas to a single Delegate would be paying that Delegate $5 every month for his or her research, legwork, and voting efforts.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_16",
+          "href": null,
+          "name": "5bb5",
+          "text": "If a voter gave his or her proxy for one area to only one Delegate, that Delegate would receive a proportional 1/25th payment (20 cents) of the $5, and the rest of the voter’s Democracy Allowance would return to the Treasury. Alternatively, voters could allocate their proxies to various Delegates in any way they cared to. For example, a voter might assign five Issue Areas to Delegate A, who would receive 5 × 20 cents, or $1 a month. Simultaneously, that same voter might give proxies in 10 other Issue Areas to Delegate B, who would then receive $2 a month, while the voter could retain the other 10 Issue Areas, resulting in $2 being returned to the Treasury. If a Delegate transfers his or her proxy to yet another Delegate, the money would flow with the proxy.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_17",
+          "href": null,
+          "name": "ee7c",
+          "text": "For “professional Delegates,” this plan would provide a realistic source of income. For example, if someone collected 1,000 proxies for the full 25 Issue Areas, he or she would earn $60,000 a year, enough to live on in much of the country. With 150 full proxies, a Delegate would earn $9,000 a year, surely enough to incentivize many “political hobbyists” to represent friends, families, and neighbors better than they would represent themselves.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_18",
+          "href": null,
+          "name": "79c2",
+          "text": "This system would also provide substantial funding for large-scale specialist Delegates. For example, a nonprofit like the Sierra Club could collect a million proxies, worth 20 cents per month, for the Environment Issue Area. That would produce a budget of $2,400,000 a year — $0.20 × 1,000,000 × 12. This would amount to a very substantial resource that would enable them to put together a first-rate research and legislative drafting team.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_19",
+          "href": null,
+          "name": "a775",
+          "text": "Proxy fees from each voter’s Democracy Allowance would also be a great way to build alternative political parties, which are mostly nonviable under our current Team Red/Team Blue duopoly. Consider alternative political parties like the Greens or the Libertarians. If a million voters a year gave their full proxy to a minor political party, that would be $60 million a year, substantially greater than the current budgets of any alternative American party. This would allow these alternative views to gain visibility in our political space and, if they merit it, gain traction.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_20",
+          "href": null,
+          "name": "8874",
+          "text": "Even more interesting, suppose we think of this flow of money as analogous to Ilya Prigogine’s ideas about the nonequilibrium flow of energy as the source of complexity. We might expect that Democracy Allowance money flowing and branching through many levels of giving proxies to Delegates would fuel the emergence of a variety of novel forms of political representation beyond what we can envision today. That is, this flow of money would radically open up the search space for how to do politics.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 100,
+              "href": "https://link.springer.com/chapter/10.1007/978-94-009-6239-2_1",
+              "rel": "",
+              "start": 83,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_21",
+          "href": null,
+          "name": "9129",
+          "text": "Possible Objections and Solutions",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 33,
+              "href": null,
+              "rel": null,
+              "start": 0,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "STRONG",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_22",
+          "href": null,
+          "name": "a711",
+          "text": "Here, in very brief sketch form, are some possible objections and potential technical solutions.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_23",
+          "href": null,
+          "name": "303c",
+          "text": "First, should anyone and everyone automatically be eligible, or do you have to officially put yourself out there as a registered Delegate? One solution would be to allow unregistered Delegates but have an income ceiling, such as a maximum of $5,000 a month. If an individual or a not-for-profit organization wanted to be eligible to receive more than $5,000 a month, they would have to officially register themselves as a Delegate, provide their background, and perhaps specify in which of the 25 Issue Areas they are open to receiving proxies.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_24",
+          "href": null,
+          "name": "d0b4",
+          "text": "Second, as suggested above, the easiest case to imagine would be a linear formula for allocating money per Issue Area that is proxied to a delegate. However, a nonlinear formula could be used, which would penalize Delegates for putting themselves out as being open to more than a certain number of Issue Areas. In this situation, if voters gave most or all of their voting proxies to one delegate, that Delegate might receive substantially less than the total available that is allocated to each voter.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 309,
+              "href": null,
+              "rel": null,
+              "start": 158,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "EM",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_25",
+          "href": null,
+          "name": "ec3f",
+          "text": "A third objection might be the rise of the “celebrity Delegate.” If you are a Charlie Sheen or a Gwyneth Paltrow type, or even a Robert Reich, with a million diehard followers in your fan base, why not put yourself out there as someone who wants to be a Delegate in all Issue Areas so you can make the most money possible? Well, the registration and nonlinear formulas suggested above would limit the celebrity Delegate phenomenon somewhat, but, even more importantly, there is probably nothing wrong with having celebrity Delegates.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_26",
+          "href": null,
+          "name": "27e0",
+          "text": "Why not? Because compared with the average American voter, celebrity Delegates would likely be much more informed. As Jason Brennan has described in his provocative book Against Democracy, American voters on average “generally know who the president is but not much else.” Most American voters can’t name the vice president, don’t know which party is more conservative, and have an extraordinarily woeful grasp on basic historical facts (such as what century World War II happened in). So, yes, Hollywood celebrities may seem uninformed, but compared with the average uninformed American voter, they are likely to be much better informed. And even if they aren’t, they could afford to hire a staff to make them so.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 131,
+              "href": "https://foreignpolicy.com/2016/11/10/the-dance-of-the-dunces-trump-clinton-election-republican-democrat/",
+              "rel": "",
+              "start": 118,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            },
+            {
+              "end": 187,
+              "href": "https://www.amazon.com/Against-Democracy-Jason-Brennan/dp/0691162603",
+              "rel": "",
+              "start": 170,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            },
+            {
+              "end": 187,
+              "href": null,
+              "rel": null,
+              "start": 170,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "EM",
+              "name": null,
+              "creatorIds": null
+            },
+            {
+              "end": 637,
+              "href": null,
+              "rel": null,
+              "start": 542,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "EM",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_27",
+          "href": null,
+          "name": "b9fe",
+          "text": "Taking Corrupting Money Out of Politics",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 39,
+              "href": null,
+              "rel": null,
+              "start": 0,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "STRONG",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_28",
+          "href": null,
+          "name": "5f86",
+          "text": "The proposed Democracy Allowance system to fund the effort and work of Delegates could help remove corrupting money from politics. Since the annual $12 billion being proposed here is more than is currently spent on all presidential and congressional political campaigns, one option would be to legislatively decree that this would be the only allowable way to finance political campaigns.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_29",
+          "href": null,
+          "name": "8a60",
+          "text": "Alternatively, new limitations on the amount individuals and organizations are allowed to directly donate to candidates could be put into place — perhaps the same amount as the Democracy Allowance: $60 per year, along with the elimination of the many loopholes that make the current limits a joke for Big Money. While still allowing some independent funding, this would result in Democracy Allowances proxy payments being the economically strongest factor in elections.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_30",
+          "href": null,
+          "name": "ac31",
+          "text": "Conclusion",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 10,
+              "href": null,
+              "rel": null,
+              "start": 0,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "STRONG",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_31",
+          "href": null,
+          "name": "cf16",
+          "text": "Liquid Democracy is a work in progress. Numerous trials on a small scale in local and then state jurisdictions will be needed before a national-level implementation becomes possible. This article is meant to spur further thinking and questions about what it would take for Liquid Democracy to succeed. An important place to begin is the fair financial compensation of the Delegates to whom proxied votes are given so they can be motivated by the right reasons and do the best job possible.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_32",
+          "href": null,
+          "name": "fa6d",
+          "text": "[Note, too, if you are blockchain savvy, that the kind of Delegate funding system applied here could also be applied there. Indeed, there seem to be some rumblings from projects like IOHK about ideas like this as applied to public ledger systems.]",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_33",
+          "href": null,
+          "name": "66b6",
+          "text": "My previous articles on the subject:",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_34",
+          "href": null,
+          "name": "9150",
+          "text": "• An Introduction to Liquid Democracy",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 37,
+              "href": "https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f",
+              "rel": "",
+              "start": 2,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7f55f763d8f6_35",
+          "href": null,
+          "name": "0c57",
+          "text": "• Reclaiming American Democracy — Starting Right NOW!",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 53,
+              "href": "https://medium.com/@memetic007/reclaiming-american-democracy-starting-right-now-339c13ed5a4",
+              "rel": "",
+              "start": 2,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        }
+      ]
+    }
+  },
+  "_id": "bd813a9cb60a",
+  "publishedAt": "2019-02-14T14:18:19+01:00",
   "collections": [
-    "https://medium.com/feed/@memetic007"
-  ],
-  "_id": "bd813a9cb60a"
+    "https://medium.com/@memetic007"
+  ]
 }

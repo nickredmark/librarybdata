@@ -1,21 +1,918 @@
 {
-  "creator": "Jordan Hall",
+  "id": "e8075e2ede5c",
+  "createdAt": 1457973309515,
+  "firstPublishedAt": 1462560505975,
   "title": "The League of Extraordinary Developers Part II: The Prestige",
-  "link": "https://medium.com/practical-imagination/the-league-of-extraordinary-developers-part-ii-the-prestige-e8075e2ede5c?source=rss----a0abc4f51e04---4",
-  "pubDate": "Fri, 06 May 2016 18:48:26 GMT",
-  "content:encoded": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*xyukMptMa9TBJjgrmDOq-A.jpeg\" /></figure><p>With the recent “Homestead” release of <a href=\"https://www.ethereum.org/\">Ethereum</a>, I’ve found my thoughts turned distinctly in the blockchain direction. Today’s exercise in Practical Imagination is an updated and improved version of my “<a href=\"https://medium.com/practical-imagination/one-software-company-to-rule-them-all-41c629874e56#.plihheicj\">one software company to rule them all</a>” notion that takes advantage of the idea of “<a href=\"https://medium.com/deep-code/lets-get-this-straight-bitcoin-is-an-experiment-in-self-organizing-collective-intelligence-52d78212c5e6#.3rrfi34sl\">self organizing collective intelligences</a>” (SOCI).</p><p>Like all SOCI, the League proceeds through a series of phase transitions. It begins very simply and might very well live or die without doing much. But if it is able to attract enough of the right kind of attention and energy to “level up” it will proceed to its next phase. And so on and so on. If it can make it through three or so transitions, it will have become something very interesting indeed: <em>a decentralized collaborative organization that includes nearly all of the best software developers and is responsible for nearly all important software development in the world</em>. Sound fun? Read on!</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/960/1*Y2WP_KYqJWLCcR3LXLKh1g.jpeg\" /></figure><p><strong>Phase One:</strong></p><p>The League begins without much fanfare. Perhaps no more than a League token built on the Ethereum blockchain using the <a href=\"http://www.backfeed.cc\">Backfeed</a> protocols and maybe some simple web tech like a wiki and a slack channel.</p><p>Oh, and a few Members. This is the most important part — the early members of the League need to be open source software developers (perhaps initially focused on blockchain development) with substantial real-world credibility and a willingness to invest some time curating the world of open source software.</p><p>This curation function is entirely driven by the Backfeed protocols. I’m not going to go into the details, but it sort of works like this:</p><ol><li>Founding League members have a “Credibility” rating that is determined by the Backfeed protocols and lives on the blockchain.</li><li>League Members “Evaluate” software contributions made by anyone to any project. This is up to the Member. They might focus on particular kinds of projects (say on the blockchain as a space) or on specific projects (e.g., the most valuable contributions to Ethereum) or on specific contributors (e.g., going out and Evaluating <a href=\"http://gavinandresen.ninja/\">Gavin</a> or <a href=\"https://blog.ethereum.org/author/vitalik-buterin/\">Vitalik’s</a> most valuable contributions). Some might focus on recent or contemporary contributions. Others might go back to the beginning of time and Evaluate the core contributors to things like Apache, Linux and Python.</li><li>When a “critical mass” (as determined by the Backfeed protocols) of Credibility has Evaluated a particular contribution, the protocols kick in and allocate an appropriate number of League Tokens to the contribution and, thence, to the Contributor.</li><li>If the Contributor then decides to claim their tokens, they become a Member of the League and begin the process of building Credibility with which to Evaluate other contributions.</li></ol><p>What happens during this Phase One, then, is the creation of a sort of “Open Source Software Hall of Fame” or a “Who’s Who of OSS” curated by and for the developers themselves.</p><p>As the curation rolls out, two kinds of status emerge. The folks who hold lots of Tokens show up as major Contributors. These are the people responsible for much of the value in open source. And not just in a “Top 10 List” kind of format, but with a deep link to the actual work that was the most important.</p><p>The second kind of status is that of Curator. You earn Credibility by being the first person to accurately (as determined by the Protocols) evaluate contributions. So, folks like Linus and Guido might hold a lot of Tokens, but unless they are active and effective in Curation, they won’t necessarily have much Credibility as Curators.</p><p>While being a high Credibility Curator might not be as sexy as having a lot of contribution Tokens, Cred is important. Because Token rewards are conditioned on a critical mass of Credibility, high Cred Curators are the folks who are going to determine who receives Tokens on a go-forward basis. It is interesting to imagine who the great evaluators and Curators of open source might be.</p><p>(For those who have read this far and are worried about gaming the system, don’t worry, the Backfeed Protocols have been very carefully designed to resist efforts to game Token awards. This is complicated, but for now just assume it to be the case. Notably, the Protocols keep very close track on precisely which Members and which Credibility have been responsible for Evaluations. The result is a graph that can be used to derive a view of “the whole League” but at the same time captures the real clusters and relationships between and among the Members. For example, the current Bitcoin block size debate might show up revealing that both Gavin Andresen and <a href=\"https://github.com/gmaxwell\">Gregory Maxwell</a> have significant Credibility within the League, but that they each represent different sub-communities within the Bitcoin sub-set of the League.)</p><p>The result of a successful Phase One, then, would be a rich, nuanced and transparent accounting of some large portion of who has been an important contributor to the <em>history</em> of open source software and a qualified community of Curators empowered to identify which people, projects and activities are the most valuable <em>right now</em>.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*p5p-2MHAmAjUVD1aUqiZew.jpeg\" /></figure><p><strong>Phase Two</strong></p><p>Phase Two begins when people start to care about Guild Tokens and Credibility. Which is to say, when people start to modify their behaviour in order to receive Tokens or Credibility. Even if this incentive structure is only very minor in the beginning, it can have significant results: those projects that are most likely to deliver Tokens will be more likely to attract contributors.</p><p>This can become a very powerful self-reinforcing feedback loop. High Credibility Curators serve a <a href=\"http://p2pfoundation.net/Stigmergy\">stigmergetic</a> function by providing signs and signals of which projects are the most valuable and who is doing the best work moving the ball forward (i.e., is making the best contributions). “League” projects begin to have status in and of themselves — they get more attention from Curators, they get more energy from contributors.</p><p>This stigmergetic structure helps the entire community to orient, allocate their attention and their energy. The evolution of the open source community into a self organizing collective intelligence.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*nEzBgPW_HcuFf_hzBSoSNQ.jpeg\" /></figure><p><strong>Phase Three</strong></p><p>Phase Three begins when League tokens are monetized.</p><p>This results from two observations:</p><ol><li>League Tokens can be used to access (i.e., pay for) things.</li></ol><p>2. It is possible for anyone to <strong>buy</strong> League Tokens (not be awarded them).</p><p>The Backfeed protocols contemplate this move from the beginning. While the primary way that people get League Tokens in the beginning is by earning them (being awarded them as a result of contributions), there is always a way to buy tokens (at some price) directly from the protocols.</p><p>In the beginning, of course, no-one buys tokens and the price is nominal. But lets imagine League Members have developed a game. And that the team behind it decides to make this game cost tokens. If you want to play the game, you are going to have to get tokens from somewhere. If you are a League Member with lots of Tokens, no problem. But if you aren’t you are either going to have to buy them from a League Member or directly from the Backfeed protocols.</p><p>Either way, the League Tokens acquire a new, monetary, value. Its easy enough, of course, to make a distinction between Tokens that have been earned and Tokens that have been bought. So the Tokens don’t lose their ability to confer prestige even as they start to provide a new value: income.</p><p>Naturally, if this idea gets any traction we can expect feedback loops to kick in. The more projects that require Tokens to play, the more “market demand” there is for Tokens. The more of these kinds of projects created by the League, the more valuable League tokens become.</p><p>Accordingly, everyone holding League tokens will have some level of incentive to see monetized projects be successful. And monetized League projects will tend to get more Curator and contributor attention. Feedback loop closed.</p><p>Consider what would happen, for example, if a critical mass of contributors to existing open source projects decided to do a hard fork and focus their efforts on League-powered branches of the software. Imagine if software like the VLC player, the Apache server or Bittorrent were to implement token-powered models. These applications alone would represent an enormous demand for Tokens.</p><p>Open source never was supposed to <a href=\"http://www.gnu.org/philosophy/selling.en.html\">have to be free (as in beer</a>). It’s just that until now monetization of open source software was nearly impossible without deeply violating its ethos and intent. With the emergence of cryptocurrency, this no longer needs to be the case.</p><p>Would this happen? Maybe, maybe not. There is, after all, a lot of momentum and prestige already associated with these older projects and it might not be appropriate to drive a hard fork like this. But it is possible. And if even a small amount of open source value is monetized to provide income for open source developers, this is a meaningful and powerful change.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*WRt2myDqSop_5s2Jb2MR_w.jpeg\" /></figure><p><strong>fin</strong></p><p>If the League transitions through these three phases, it is entirely plausible to imagine a renaissance in the open source movement. Flows of monetized League Tokens could at long last enable tens of thousands of developers to quit their day jobs and focus on the software projects that they (and the League) think are the most important. These developers, unconstrained by corporate requirements and hierarchical decision-making, could unleash a torrent of innovation. A SOCI of tremendous power and impact.</p><p>Moreover, with the approach outlined here, many of the people who have contributed value in the form of open source over the years will be rewarded with League Tokens. At long last appropriately compensated for the enormous value that they have contributed to our shared digital world.</p><p>Better late than never.</p><img src=\"https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e8075e2ede5c\" width=\"1\" height=\"1\"><hr><p><a href=\"https://medium.com/practical-imagination/the-league-of-extraordinary-developers-part-ii-the-prestige-e8075e2ede5c\">The League of Extraordinary Developers Part II: The Prestige</a> was originally published in <a href=\"https://medium.com/practical-imagination\">Practical Imagination</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>",
-  "dc:creator": "Jordan Hall",
-  "guid": "https://medium.com/p/e8075e2ede5c",
-  "categories": [
-    "bitcoin",
-    "open-source",
-    "blockchain"
+  "socialTitle": "",
+  "metaDescription": "",
+  "previewContent": {
+    "subtitle": "With the recent “Homestead” release of Ethereum, I’ve found my thoughts turned distinctly in the blockchain direction. Today’s exercise in…",
+    "bodyModel": {
+      "paragraphs": [
+        {
+          "id": "7be7c0594de8_preview_0",
+          "href": null,
+          "name": "7f6e",
+          "text": "",
+          "metadata": {
+            "id": "1*xyukMptMa9TBJjgrmDOq-A.jpeg",
+            "alt": null
+          },
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": "CROPPED_HEIGHT_PREVIEW",
+          "markups": [],
+          "type": "IMG"
+        },
+        {
+          "id": "7be7c0594de8_preview_1",
+          "href": null,
+          "name": "e2f6",
+          "text": "The League of Extraordinary Developers Part II: The Prestige",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "H3"
+        }
+      ]
+    },
+    "isFullContent": false
+  },
+  "creator": {
+    "id": "affe923beaf9",
+    "name": "Jordan Hall",
+    "username": "jordangreenhall",
+    "bio": "Changed my name back to Hall, sorry for the confusion. Also, if you are interested, my video channel: https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  },
+  "tags": [
+    {
+      "id": "blockchain",
+      "displayTitle": "Blockchain"
+    },
+    {
+      "id": "bitcoin",
+      "displayTitle": "Bitcoin"
+    },
+    {
+      "id": "open-source",
+      "displayTitle": "Open Source"
+    }
   ],
-  "isoDate": "2016-05-06T18:48:26.000Z",
-  "publishedAt": "2016-05-06T18:48:26.000Z",
-  "image": "https://cdn-images-1.medium.com/max/1024/1*xyukMptMa9TBJjgrmDOq-A.jpeg",
+  "topics": [],
+  "canonicalUrl": "",
+  "mediumUrl": "https://medium.com/practical-imagination/the-league-of-extraordinary-developers-part-ii-the-prestige-e8075e2ede5c",
+  "previewImage": {
+    "id": "1*xyukMptMa9TBJjgrmDOq-A.jpeg"
+  },
+  "content": {
+    "bodyModel": {
+      "paragraphs": [
+        {
+          "id": "7be7c0594de8_0",
+          "href": null,
+          "name": "7f6e",
+          "text": "",
+          "metadata": {
+            "id": "1*xyukMptMa9TBJjgrmDOq-A.jpeg",
+            "alt": null
+          },
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": "OUTSET_CENTER",
+          "markups": [],
+          "type": "IMG"
+        },
+        {
+          "id": "7be7c0594de8_1",
+          "href": null,
+          "name": "e2f6",
+          "text": "The League of Extraordinary Developers Part II: The Prestige",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "H3"
+        },
+        {
+          "id": "7be7c0594de8_2",
+          "href": null,
+          "name": "0f8e",
+          "text": "With the recent “Homestead” release of Ethereum, I’ve found my thoughts turned distinctly in the blockchain direction. Today’s exercise in Practical Imagination is an updated and improved version of my “one software company to rule them all” notion that takes advantage of the idea of “self organizing collective intelligences” (SOCI).",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 47,
+              "href": "https://www.ethereum.org/",
+              "rel": "",
+              "start": 39,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            },
+            {
+              "end": 240,
+              "href": "https://medium.com/practical-imagination/one-software-company-to-rule-them-all-41c629874e56#.plihheicj",
+              "rel": "",
+              "start": 203,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            },
+            {
+              "end": 326,
+              "href": "https://medium.com/deep-code/lets-get-this-straight-bitcoin-is-an-experiment-in-self-organizing-collective-intelligence-52d78212c5e6#.3rrfi34sl",
+              "rel": "",
+              "start": 286,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_3",
+          "href": null,
+          "name": "ff4c",
+          "text": "Like all SOCI, the League proceeds through a series of phase transitions. It begins very simply and might very well live or die without doing much. But if it is able to attract enough of the right kind of attention and energy to “level up” it will proceed to its next phase. And so on and so on. If it can make it through three or so transitions, it will have become something very interesting indeed: a decentralized collaborative organization that includes nearly all of the best software developers and is responsible for nearly all important software development in the world. Sound fun? Read on!",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 579,
+              "href": null,
+              "rel": null,
+              "start": 402,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "EM",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_4",
+          "href": null,
+          "name": "432d",
+          "text": "",
+          "metadata": {
+            "id": "1*Y2WP_KYqJWLCcR3LXLKh1g.jpeg",
+            "alt": null
+          },
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": "INSET_CENTER",
+          "markups": [],
+          "type": "IMG"
+        },
+        {
+          "id": "7be7c0594de8_5",
+          "href": null,
+          "name": "6fae",
+          "text": "Phase One:",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 10,
+              "href": null,
+              "rel": null,
+              "start": 0,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "STRONG",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_6",
+          "href": null,
+          "name": "66c2",
+          "text": "The League begins without much fanfare. Perhaps no more than a League token built on the Ethereum blockchain using the Backfeed protocols and maybe some simple web tech like a wiki and a slack channel.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 127,
+              "href": "http://www.backfeed.cc",
+              "rel": "",
+              "start": 119,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_7",
+          "href": null,
+          "name": "cc58",
+          "text": "Oh, and a few Members. This is the most important part — the early members of the League need to be open source software developers (perhaps initially focused on blockchain development) with substantial real-world credibility and a willingness to invest some time curating the world of open source software.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_8",
+          "href": null,
+          "name": "5a2d",
+          "text": "This curation function is entirely driven by the Backfeed protocols. I’m not going to go into the details, but it sort of works like this:",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_9",
+          "href": null,
+          "name": "30ee",
+          "text": "Founding League members have a “Credibility” rating that is determined by the Backfeed protocols and lives on the blockchain.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "OLI"
+        },
+        {
+          "id": "7be7c0594de8_10",
+          "href": null,
+          "name": "e35f",
+          "text": "League Members “Evaluate” software contributions made by anyone to any project. This is up to the Member. They might focus on particular kinds of projects (say on the blockchain as a space) or on specific projects (e.g., the most valuable contributions to Ethereum) or on specific contributors (e.g., going out and Evaluating Gavin or Vitalik’s most valuable contributions). Some might focus on recent or contemporary contributions. Others might go back to the beginning of time and Evaluate the core contributors to things like Apache, Linux and Python.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 331,
+              "href": "http://gavinandresen.ninja/",
+              "rel": "",
+              "start": 326,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            },
+            {
+              "end": 344,
+              "href": "https://blog.ethereum.org/author/vitalik-buterin/",
+              "rel": "",
+              "start": 335,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "OLI"
+        },
+        {
+          "id": "7be7c0594de8_11",
+          "href": null,
+          "name": "d64e",
+          "text": "When a “critical mass” (as determined by the Backfeed protocols) of Credibility has Evaluated a particular contribution, the protocols kick in and allocate an appropriate number of League Tokens to the contribution and, thence, to the Contributor.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "OLI"
+        },
+        {
+          "id": "7be7c0594de8_12",
+          "href": null,
+          "name": "73ea",
+          "text": "If the Contributor then decides to claim their tokens, they become a Member of the League and begin the process of building Credibility with which to Evaluate other contributions.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "OLI"
+        },
+        {
+          "id": "7be7c0594de8_13",
+          "href": null,
+          "name": "881c",
+          "text": "What happens during this Phase One, then, is the creation of a sort of “Open Source Software Hall of Fame” or a “Who’s Who of OSS” curated by and for the developers themselves.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_14",
+          "href": null,
+          "name": "4677",
+          "text": "As the curation rolls out, two kinds of status emerge. The folks who hold lots of Tokens show up as major Contributors. These are the people responsible for much of the value in open source. And not just in a “Top 10 List” kind of format, but with a deep link to the actual work that was the most important.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_15",
+          "href": null,
+          "name": "55a3",
+          "text": "The second kind of status is that of Curator. You earn Credibility by being the first person to accurately (as determined by the Protocols) evaluate contributions. So, folks like Linus and Guido might hold a lot of Tokens, but unless they are active and effective in Curation, they won’t necessarily have much Credibility as Curators.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_16",
+          "href": null,
+          "name": "77d5",
+          "text": "While being a high Credibility Curator might not be as sexy as having a lot of contribution Tokens, Cred is important. Because Token rewards are conditioned on a critical mass of Credibility, high Cred Curators are the folks who are going to determine who receives Tokens on a go-forward basis. It is interesting to imagine who the great evaluators and Curators of open source might be.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_17",
+          "href": null,
+          "name": "f9c3",
+          "text": "(For those who have read this far and are worried about gaming the system, don’t worry, the Backfeed Protocols have been very carefully designed to resist efforts to game Token awards. This is complicated, but for now just assume it to be the case. Notably, the Protocols keep very close track on precisely which Members and which Credibility have been responsible for Evaluations. The result is a graph that can be used to derive a view of “the whole League” but at the same time captures the real clusters and relationships between and among the Members. For example, the current Bitcoin block size debate might show up revealing that both Gavin Andresen and Gregory Maxwell have significant Credibility within the League, but that they each represent different sub-communities within the Bitcoin sub-set of the League.)",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 676,
+              "href": "https://github.com/gmaxwell",
+              "rel": "",
+              "start": 661,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_18",
+          "href": null,
+          "name": "418d",
+          "text": "The result of a successful Phase One, then, would be a rich, nuanced and transparent accounting of some large portion of who has been an important contributor to the history of open source software and a qualified community of Curators empowered to identify which people, projects and activities are the most valuable right now.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 173,
+              "href": null,
+              "rel": null,
+              "start": 166,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "EM",
+              "name": null,
+              "creatorIds": null
+            },
+            {
+              "end": 327,
+              "href": null,
+              "rel": null,
+              "start": 318,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "EM",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_19",
+          "href": null,
+          "name": "424b",
+          "text": "",
+          "metadata": {
+            "id": "1*p5p-2MHAmAjUVD1aUqiZew.jpeg",
+            "alt": null
+          },
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": "INSET_CENTER",
+          "markups": [],
+          "type": "IMG"
+        },
+        {
+          "id": "7be7c0594de8_20",
+          "href": null,
+          "name": "39f2",
+          "text": "Phase Two",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 9,
+              "href": null,
+              "rel": null,
+              "start": 0,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "STRONG",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_21",
+          "href": null,
+          "name": "f913",
+          "text": "Phase Two begins when people start to care about Guild Tokens and Credibility. Which is to say, when people start to modify their behaviour in order to receive Tokens or Credibility. Even if this incentive structure is only very minor in the beginning, it can have significant results: those projects that are most likely to deliver Tokens will be more likely to attract contributors.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_22",
+          "href": null,
+          "name": "0707",
+          "text": "This can become a very powerful self-reinforcing feedback loop. High Credibility Curators serve a stigmergetic function by providing signs and signals of which projects are the most valuable and who is doing the best work moving the ball forward (i.e., is making the best contributions). “League” projects begin to have status in and of themselves — they get more attention from Curators, they get more energy from contributors.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 110,
+              "href": "http://p2pfoundation.net/Stigmergy",
+              "rel": "",
+              "start": 98,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_23",
+          "href": null,
+          "name": "f14a",
+          "text": "This stigmergetic structure helps the entire community to orient, allocate their attention and their energy. The evolution of the open source community into a self organizing collective intelligence.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_24",
+          "href": null,
+          "name": "9c9c",
+          "text": "",
+          "metadata": {
+            "id": "1*nEzBgPW_HcuFf_hzBSoSNQ.jpeg",
+            "alt": null
+          },
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": "INSET_CENTER",
+          "markups": [],
+          "type": "IMG"
+        },
+        {
+          "id": "7be7c0594de8_25",
+          "href": null,
+          "name": "4362",
+          "text": "Phase Three",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 11,
+              "href": null,
+              "rel": null,
+              "start": 0,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "STRONG",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_26",
+          "href": null,
+          "name": "281d",
+          "text": "Phase Three begins when League tokens are monetized.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_27",
+          "href": null,
+          "name": "9c7e",
+          "text": "This results from two observations:",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_28",
+          "href": null,
+          "name": "73da",
+          "text": "League Tokens can be used to access (i.e., pay for) things.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "OLI"
+        },
+        {
+          "id": "7be7c0594de8_29",
+          "href": null,
+          "name": "96f0",
+          "text": "2. It is possible for anyone to buy League Tokens (not be awarded them).",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 35,
+              "href": null,
+              "rel": null,
+              "start": 32,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "STRONG",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_30",
+          "href": null,
+          "name": "4ebb",
+          "text": "The Backfeed protocols contemplate this move from the beginning. While the primary way that people get League Tokens in the beginning is by earning them (being awarded them as a result of contributions), there is always a way to buy tokens (at some price) directly from the protocols.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_31",
+          "href": null,
+          "name": "6d86",
+          "text": "In the beginning, of course, no-one buys tokens and the price is nominal. But lets imagine League Members have developed a game. And that the team behind it decides to make this game cost tokens. If you want to play the game, you are going to have to get tokens from somewhere. If you are a League Member with lots of Tokens, no problem. But if you aren’t you are either going to have to buy them from a League Member or directly from the Backfeed protocols.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_32",
+          "href": null,
+          "name": "94a6",
+          "text": "Either way, the League Tokens acquire a new, monetary, value. Its easy enough, of course, to make a distinction between Tokens that have been earned and Tokens that have been bought. So the Tokens don’t lose their ability to confer prestige even as they start to provide a new value: income.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_33",
+          "href": null,
+          "name": "9b20",
+          "text": "Naturally, if this idea gets any traction we can expect feedback loops to kick in. The more projects that require Tokens to play, the more “market demand” there is for Tokens. The more of these kinds of projects created by the League, the more valuable League tokens become.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_34",
+          "href": null,
+          "name": "33f3",
+          "text": "Accordingly, everyone holding League tokens will have some level of incentive to see monetized projects be successful. And monetized League projects will tend to get more Curator and contributor attention. Feedback loop closed.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_35",
+          "href": null,
+          "name": "f437",
+          "text": "Consider what would happen, for example, if a critical mass of contributors to existing open source projects decided to do a hard fork and focus their efforts on League-powered branches of the software. Imagine if software like the VLC player, the Apache server or Bittorrent were to implement token-powered models. These applications alone would represent an enormous demand for Tokens.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_36",
+          "href": null,
+          "name": "5bb0",
+          "text": "Open source never was supposed to have to be free (as in beer). It’s just that until now monetization of open source software was nearly impossible without deeply violating its ethos and intent. With the emergence of cryptocurrency, this no longer needs to be the case.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 61,
+              "href": "http://www.gnu.org/philosophy/selling.en.html",
+              "rel": "",
+              "start": 34,
+              "title": "",
+              "anchorType": "LINK",
+              "linkMetadata": null,
+              "type": "A",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_37",
+          "href": null,
+          "name": "cae9",
+          "text": "Would this happen? Maybe, maybe not. There is, after all, a lot of momentum and prestige already associated with these older projects and it might not be appropriate to drive a hard fork like this. But it is possible. And if even a small amount of open source value is monetized to provide income for open source developers, this is a meaningful and powerful change.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_38",
+          "href": null,
+          "name": "f8d8",
+          "text": "",
+          "metadata": {
+            "id": "1*WRt2myDqSop_5s2Jb2MR_w.jpeg",
+            "alt": null
+          },
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": "INSET_CENTER",
+          "markups": [],
+          "type": "IMG"
+        },
+        {
+          "id": "7be7c0594de8_39",
+          "href": null,
+          "name": "fddb",
+          "text": "fin",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 3,
+              "href": null,
+              "rel": null,
+              "start": 0,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "STRONG",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_40",
+          "href": null,
+          "name": "d652",
+          "text": "If the League transitions through these three phases, it is entirely plausible to imagine a renaissance in the open source movement. Flows of monetized League Tokens could at long last enable tens of thousands of developers to quit their day jobs and focus on the software projects that they (and the League) think are the most important. These developers, unconstrained by corporate requirements and hierarchical decision-making, could unleash a torrent of innovation. A SOCI of tremendous power and impact.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_41",
+          "href": null,
+          "name": "cebb",
+          "text": "Moreover, with the approach outlined here, many of the people who have contributed value in the form of open source over the years will be rewarded with League Tokens. At long last appropriately compensated for the enormous value that they have contributed to our shared digital world.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "7be7c0594de8_42",
+          "href": null,
+          "name": "615e",
+          "text": "Better late than never.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        }
+      ]
+    }
+  },
+  "_id": "e8075e2ede5c",
+  "publishedAt": "2016-05-06T20:48:25+02:00",
   "collections": [
-    "https://medium.com/feed/practical-imagination"
-  ],
-  "_id": "e8075e2ede5c"
+    "https://medium.com/@jordangreenhall"
+  ]
 }

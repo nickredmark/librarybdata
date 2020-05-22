@@ -1,21 +1,164 @@
 {
-  "creator": "Bonnitta Roy",
+  "id": "f33a426ba425",
+  "createdAt": 1555760485732,
+  "firstPublishedAt": 1555767676285,
   "title": "Relations and time in complex systems",
-  "link": "https://medium.com/perspectives-on-complexity/relations-and-time-in-complex-systems-f33a426ba425?source=rss----5212f124e8d3---4",
-  "pubDate": "Sat, 20 Apr 2019 13:41:16 GMT",
-  "dc:creator": "Bonnitta Roy",
-  "content": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">A complex system is a pattern of interactions among individuals that is stable enough to be identifiable as if it were a system at the&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/perspectives-on-complexity/relations-and-time-in-complex-systems-f33a426ba425?source=rss----5212f124e8d3---4\">Continue reading on Perspectives on Complexity »</a></p></div>",
-  "contentSnippet": "A complex system is a pattern of interactions among individuals that is stable enough to be identifiable as if it were a system at the…Continue reading on Perspectives on Complexity »",
-  "guid": "https://medium.com/p/f33a426ba425",
-  "categories": [
-    "complexity-theory",
-    "time",
-    "process-philosophy"
+  "socialTitle": "",
+  "metaDescription": "",
+  "previewContent": {
+    "subtitle": "A complex system is a pattern of interactions among individuals that is stable enough to be identifiable as if it were a system at the…",
+    "bodyModel": {
+      "paragraphs": [
+        {
+          "id": "dde0c0f44ae1_preview_0",
+          "href": null,
+          "name": "dbfe",
+          "text": "Relations and time in complex systems",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "H3"
+        },
+        {
+          "id": "dde0c0f44ae1_preview_1",
+          "href": null,
+          "name": "3db9",
+          "text": "A complex system is a pattern of interactions among individuals that is stable enough to be identifiable as if it were a system at the systems level of abstraction. When we look beneath the systems level of abstraction, we see only individual agents enacting their…",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        }
+      ]
+    },
+    "isFullContent": false
+  },
+  "creator": {
+    "id": "fcfed0b1fdf4",
+    "name": "Bonnitta Roy",
+    "username": "bonnittaroy",
+    "bio": "source code analyst .. APP AI"
+  },
+  "tags": [
+    {
+      "id": "complexity-theory",
+      "displayTitle": "Complexity Theory"
+    },
+    {
+      "id": "time",
+      "displayTitle": "Time"
+    },
+    {
+      "id": "process-philosophy",
+      "displayTitle": "Process Philosophy"
+    }
   ],
-  "isoDate": "2019-04-20T13:41:16.000Z",
-  "publishedAt": "2019-04-20T13:41:16.000Z",
+  "topics": [],
+  "canonicalUrl": "",
+  "mediumUrl": "https://medium.com/perspectives-on-complexity/relations-and-time-in-complex-systems-f33a426ba425",
+  "previewImage": {
+    "id": ""
+  },
+  "content": {
+    "bodyModel": {
+      "paragraphs": [
+        {
+          "id": "dde0c0f44ae1_0",
+          "href": null,
+          "name": "dbfe",
+          "text": "Relations and time in complex systems",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "H3"
+        },
+        {
+          "id": "dde0c0f44ae1_1",
+          "href": null,
+          "name": "3db9",
+          "text": "A complex system is a pattern of interactions among individuals that is stable enough to be identifiable as if it were a system at the systems level of abstraction. When we look beneath the systems level of abstraction, we see only individual agents enacting their agency, by sensing, probing, choosing and acting. Each individual agent has a unique set of potentials that set the possibilities for acting in so many ways, and not others; and each individual acts in certain ways and not others, depending on what their local environment affords. Together — the set of potentials and affordances — constitutes the possibility space for the agent.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [
+            {
+              "end": 631,
+              "href": null,
+              "rel": null,
+              "start": 614,
+              "title": null,
+              "anchorType": null,
+              "linkMetadata": null,
+              "type": "EM",
+              "name": null,
+              "creatorIds": null
+            }
+          ],
+          "type": "P"
+        },
+        {
+          "id": "dde0c0f44ae1_2",
+          "href": null,
+          "name": "03f6",
+          "text": "As an agent acts, the agent constructs new internal relations. For example, learning something new, or learning by confirming something already known, constructs or reinforces the internal relations of the individual. This changes the set of potentials for them. Additionally, as the agent acts, the agent constructs new external relations, by altering the local environment. This changes the set of affordances in their world. Through these enactments of internal and external relations, the possibility space evolves.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "dde0c0f44ae1_3",
+          "href": null,
+          "name": "2de2",
+          "text": "Since individual agents share both internal and external relations with each other, the possibility space of the system has the potential to complexify exponentially. Yet since what is possible depends both on the interactions between external relations, as well as the conservation of internal relations (i.e. agent’s collective memory), the set of potentials, even if infinite, is not exhaustive. This is the underlying protocol that defines the arrow of time — time is not indicated through the growth of new potentials, but is implicated by the case that some prior potentials are eliminated from the set of possibilities. Without that cut, we could not construct a concept of change through time, we would only have the perception of continuous transitions in space.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "P"
+        },
+        {
+          "id": "dde0c0f44ae1_4",
+          "href": null,
+          "name": "58cc",
+          "text": "It is not change itself that marks time, but the irrevocability of loss.",
+          "metadata": null,
+          "mixtapeMetadata": null,
+          "hasDropCap": null,
+          "dropCapImage": null,
+          "iframe": null,
+          "layout": null,
+          "markups": [],
+          "type": "PQ"
+        }
+      ]
+    }
+  },
+  "_id": "f33a426ba425",
+  "publishedAt": "2019-04-20T15:41:16+02:00",
   "collections": [
-    "https://medium.com/feed/perspectives-on-complexity"
-  ],
-  "_id": "f33a426ba425"
+    "https://medium.com/@bonnittaroy"
+  ]
 }
