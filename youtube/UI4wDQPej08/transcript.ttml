@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:07.080" style="s2">a say a personality tracker</p>
+<p begin="00:00:04.350" end="00:00:08.820" style="s2">I like how 23andme is for DNA but</p>
+<p begin="00:00:07.080" end="00:00:09.870" style="s2">finding out all your different</p>
+<p begin="00:00:08.820" end="00:00:11.880" style="s2">personality types</p>
+<p begin="00:00:09.870" end="00:00:14.009" style="s2">your horoscope or whatever that you</p>
+<p begin="00:00:11.880" end="00:00:16.710" style="s2">believe in figuring out how those</p>
+<p begin="00:00:14.009" end="00:00:17.699" style="s2">actually interact to create a unique use</p>
+<p begin="00:00:16.710" end="00:00:19.650" style="s2">I just figured out I don&#39;t think</p>
+<p begin="00:00:17.699" end="00:00:21.470" style="s2">horoscopes to be the boss that official</p>
+<p begin="00:00:19.650" end="00:00:25.080" style="s2">bit more tests and stuff that tell you</p>
+<p begin="00:00:21.470" end="00:00:26.789" style="s2">don&#39;t run for an extroverted how what</p>
+<p begin="00:00:25.080" end="00:00:30.689" style="s2">kind of intelligences do you have what</p>
+<p begin="00:00:26.789" end="00:00:32.309" style="s2">kind of things interest you actually</p>
+<p begin="00:00:30.689" end="00:00:37.520" style="s2">being able to figure out for yourself</p>
+<p begin="00:00:32.309" end="00:00:37.520" style="s2">and map your personality and interests</p>
+</div>
+</body>
+</tt>

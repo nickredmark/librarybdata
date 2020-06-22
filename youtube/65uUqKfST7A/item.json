@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "BwUBmrBfc5TzR_sktZcFCgCoNKc",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "65uUqKfST7A"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-20T20:00:00Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Queerness part 1",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/65uUqKfST7A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/65uUqKfST7A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/65uUqKfST7A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves Our World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-20T20:00:00Z"
+  },
+  "_id": "65uUqKfST7A",
+  "publishedAt": "2020-02-20T20:00:00Z",
+  "collections": [
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
+  ]
+}

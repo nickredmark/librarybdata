@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:02.680" end="00:00:05.130" style="s2"> all right </p>
+<p begin="00:00:16.890" end="00:00:19.890" style="s2"> 40 </p>
+<p begin="00:00:22.040" end="00:00:25.180" style="s2"> [Music] </p>
+<p begin="00:00:30.789" end="00:00:33.960" style="s2"> pini buzzi </p>
+<p begin="00:00:41.420" end="00:00:46.540" style="s2"> the series trains the steak which </p>
+<p begin="00:00:51.180" end="00:00:54.180" style="s2"> and </p>
+</div>
+</body>
+</tt>

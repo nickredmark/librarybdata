@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:02.689" end="00:00:10.799" style="s2">it&#39;s easy to put people in boxes there&#39;s</p>
+<p begin="00:00:07.680" end="00:00:13.949" style="s2">us and there&#39;s them</p>
+<p begin="00:00:10.799" end="00:00:18.300" style="s2">the high earnest and those just getting</p>
+<p begin="00:00:13.949" end="00:00:23.400" style="s2">by those we trust and those we try to</p>
+<p begin="00:00:18.300" end="00:00:26.220" style="s2">avoid there&#39;s the new Danes and those</p>
+<p begin="00:00:23.400" end="00:00:28.829" style="s2">who&#39;ve always been here the people from</p>
+<p begin="00:00:26.220" end="00:00:33.660" style="s2">the countryside and those have never</p>
+<p begin="00:00:28.829" end="00:00:36.750" style="s2">seen a cow the religious and the</p>
+<p begin="00:00:33.660" end="00:00:39.719" style="s2">self-confidence there are those we share</p>
+<p begin="00:00:36.750" end="00:00:44.520" style="s2">something with and those we don&#39;t share</p>
+<p begin="00:00:39.719" end="00:00:47.420" style="s2">anything with welcome ecchymosis tell us</p>
+<p begin="00:00:44.520" end="00:00:51.440" style="s2">pass holiday new novel coal Valley</p>
+<p begin="00:00:47.420" end="00:00:51.440" style="s2">softly when</p>
+</div>
+</body>
+</tt>

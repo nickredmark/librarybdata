@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.230" end="00:00:05.150" style="s2">welcome to the first app prototype</p>
+<p begin="00:00:02.639" end="00:00:08.610" style="s2">planning session thank you for joining</p>
+<p begin="00:00:05.150" end="00:00:10.940" style="s2">for now it&#39;s just me and Bentley we will</p>
+<p begin="00:00:08.610" end="00:00:13.650" style="s2">start off talking I guess about some</p>
+<p begin="00:00:10.940" end="00:00:15.420" style="s2">general questions and thoughts to do</p>
+<p begin="00:00:13.650" end="00:00:17.550" style="s2">with sort of planning I guess the tech</p>
+<p begin="00:00:15.420" end="00:00:19.740" style="s2">stack behind an app that sort of thing</p>
+<p begin="00:00:17.550" end="00:00:21.300" style="s2">and I believe that Matus will be joining</p>
+<p begin="00:00:19.740" end="00:00:23.970" style="s2">us shortly and we can dive into</p>
+<p begin="00:00:21.300" end="00:00:27.740" style="s2">specifics on this particular project</p>
+<p begin="00:00:23.970" end="00:00:29.670" style="s2">which is the prototype for wiki election</p>
+<p begin="00:00:27.740" end="00:00:32.790" style="s2">for the most part I&#39;m just playing the</p>
+<p begin="00:00:29.670" end="00:00:34.559" style="s2">role of like the idea person there&#39;s not</p>
+<p begin="00:00:32.790" end="00:00:37.950" style="s2">actually a developer which i think is a</p>
+<p begin="00:00:34.559" end="00:00:40.680" style="s2">role that a lot of people in the game be</p>
+<p begin="00:00:37.950" end="00:00:42.510" style="s2">project space identify with so I like</p>
+<p begin="00:00:40.680" end="00:00:43.860" style="s2">that role and Bentley you can be you</p>
+<p begin="00:00:42.510" end="00:00:45.899" style="s2">were you actually know you&#39;re a</p>
+<p begin="00:00:43.860" end="00:00:47.730" style="s2">developer and a project manager and that</p>
+<p begin="00:00:45.899" end="00:00:50.160" style="s2">sort of things so you&#39;ll have a lot more</p>
+<p begin="00:00:47.730" end="00:00:54.180" style="s2">useful stuff to say than I probably will</p>
+<p begin="00:00:50.160" end="00:00:56.489" style="s2">even know what to ask about so yeah it&#39;s</p>
+<p begin="00:00:54.180" end="00:00:59.969" style="s2">really helpful when two people from two</p>
+<p begin="00:00:56.489" end="00:01:02.640" style="s2">different perspectives talk so I think</p>
+<p begin="00:00:59.969" end="00:01:07.320" style="s2">it&#39;d be really helpful you know even</p>
+<p begin="00:01:02.640" end="00:01:09.000" style="s2">kind of did to start it off I I guess</p>
+<p begin="00:01:07.320" end="00:01:13.350" style="s2">one thing I&#39;d like to say is that every</p>
+<p begin="00:01:09.000" end="00:01:15.540" style="s2">project is different and so often times</p>
+<p begin="00:01:13.350" end="00:01:17.610" style="s2">when I hear advice like this people say</p>
+<p begin="00:01:15.540" end="00:01:19.830" style="s2">oh well you need to like do an MVP first</p>
+<p begin="00:01:17.610" end="00:01:22.439" style="s2">and I&#39;m like wow when they created the</p>
+<p begin="00:01:19.830" end="00:01:23.970" style="s2">lightbulb they did a thousand tests</p>
+<p begin="00:01:22.439" end="00:01:25.500" style="s2">before they put it in anyone&#39;s home</p>
+<p begin="00:01:23.970" end="00:01:29.220" style="s2">because I couldn&#39;t get it to last more</p>
+<p begin="00:01:25.500" end="00:01:31.430" style="s2">than 20 minutes right so some things you</p>
+<p begin="00:01:29.220" end="00:01:35.250" style="s2">can prototype quickly and some things</p>
+<p begin="00:01:31.430" end="00:01:37.500" style="s2">you can&#39;t you know if you&#39;re developing</p>
+<p begin="00:01:35.250" end="00:01:40.380" style="s2">a vaccine you have to invest a year into</p>
+<p begin="00:01:37.500" end="00:01:42.979" style="s2">it before you actually well at several</p>
+<p begin="00:01:40.380" end="00:01:45.659" style="s2">months before you can even do trials on</p>
+<p begin="00:01:42.979" end="00:01:48.079" style="s2">skin cells and then you do it on you</p>
+<p begin="00:01:45.659" end="00:01:50.250" style="s2">know animals and then humans so</p>
+<p begin="00:01:48.079" end="00:01:51.979" style="s2">everybody is a little bit different but</p>
+<p begin="00:01:50.250" end="00:01:55.829" style="s2">we could definitely use wiki election as</p>
+<p begin="00:01:51.979" end="00:01:58.310" style="s2">an example and then I can also talk a</p>
+<p begin="00:01:55.829" end="00:02:01.590" style="s2">little bit about reason score and stuff</p>
+<p begin="00:01:58.310" end="00:02:03.659" style="s2">but I drew how was the process for you</p>
+<p begin="00:02:01.590" end="00:02:05.520" style="s2">so far so just so people know you&#39;ve</p>
+<p begin="00:02:03.659" end="00:02:09.060" style="s2">been building prototypes and no code</p>
+<p begin="00:02:05.520" end="00:02:11.819" style="s2">solutions right yeah and then now you&#39;re</p>
+<p begin="00:02:09.060" end="00:02:15.510" style="s2">doing your first prototype</p>
+<p begin="00:02:11.819" end="00:02:17.010" style="s2">a custom-built and Marta she&#39;s been</p>
+<p begin="00:02:15.510" end="00:02:19.170" style="s2">doing that</p>
+<p begin="00:02:17.010" end="00:02:22.950" style="s2">so how&#39;s what have you learned so far in</p>
+<p begin="00:02:19.170" end="00:02:24.480" style="s2">the process um I mean the no code</p>
+<p begin="00:02:22.950" end="00:02:27.590" style="s2">solutions were definitely good to sort</p>
+<p begin="00:02:24.480" end="00:02:30.510" style="s2">of act as a proof of concept I find that</p>
+<p begin="00:02:27.590" end="00:02:32.430" style="s2">in general trying to explain software</p>
+<p begin="00:02:30.510" end="00:02:34.110" style="s2">like even you know working at a software</p>
+<p begin="00:02:32.430" end="00:02:36.269" style="s2">company working with people who are used</p>
+<p begin="00:02:34.110" end="00:02:38.910" style="s2">to working with my software trying to</p>
+<p begin="00:02:36.269" end="00:02:41.000" style="s2">explain software almost never works like</p>
+<p begin="00:02:38.910" end="00:02:46.459" style="s2">unless you&#39;ve got something to show them</p>
+<p begin="00:02:41.000" end="00:02:48.209" style="s2">and mock-ups help but even that&#39;s pretty</p>
+<p begin="00:02:46.459" end="00:02:49.590" style="s2">limited like I would say sort of you</p>
+<p begin="00:02:48.209" end="00:02:51.690" style="s2">know mock-ups like just an image of how</p>
+<p begin="00:02:49.590" end="00:02:54.030" style="s2">it might look is kind of like the bare</p>
+<p begin="00:02:51.690" end="00:02:55.290" style="s2">bones like don&#39;t even try to explain it</p>
+<p begin="00:02:54.030" end="00:02:59.099" style="s2">if you don&#39;t have that it&#39;s because</p>
+<p begin="00:02:55.290" end="00:03:01.860" style="s2">that&#39;s really hard and then the further</p>
+<p begin="00:02:59.099" end="00:03:03.750" style="s2">along that path you go the easier is</p>
+<p begin="00:03:01.860" end="00:03:05.010" style="s2">going to be to explain so like you know</p>
+<p begin="00:03:03.750" end="00:03:06.989" style="s2">started out with mock-ups and then I</p>
+<p begin="00:03:05.010" end="00:03:08.790" style="s2">sort of used those to guide myself to</p>
+<p begin="00:03:06.989" end="00:03:10.680" style="s2">figure out what can I build in these no</p>
+<p begin="00:03:08.790" end="00:03:12.329" style="s2">code solutions and that&#39;s where it</p>
+<p begin="00:03:10.680" end="00:03:13.799" style="s2">started to make a bit more sense I think</p>
+<p begin="00:03:12.329" end="00:03:17.519" style="s2">the people where they were able to go in</p>
+<p begin="00:03:13.799" end="00:03:22.350" style="s2">there and look and jump around it does</p>
+<p begin="00:03:17.519" end="00:03:24.150" style="s2">get hard to explain like the really</p>
+<p begin="00:03:22.350" end="00:03:25.709" style="s2">unique elements where no code solutions</p>
+<p begin="00:03:24.150" end="00:03:27.480" style="s2">tend to be pretty basic and just sort of</p>
+<p begin="00:03:25.709" end="00:03:29.670" style="s2">show off like here&#39;s a database here&#39;s</p>
+<p begin="00:03:27.480" end="00:03:32.160" style="s2">you know showing fields from from</p>
+<p begin="00:03:29.670" end="00:03:33.480" style="s2">records which still helps I think for a</p>
+<p begin="00:03:32.160" end="00:03:34.950" style="s2">lot of people to picture how you would</p>
+<p begin="00:03:33.480" end="00:03:37.079" style="s2">navigate what kind of information you</p>
+<p begin="00:03:34.950" end="00:03:40.530" style="s2">would show but that&#39;s definitely where</p>
+<p begin="00:03:37.079" end="00:03:44.370" style="s2">some of the limitations hit for the no</p>
+<p begin="00:03:40.530" end="00:03:46.500" style="s2">code solutions I find is a it it&#39;s</p>
+<p begin="00:03:44.370" end="00:03:49.139" style="s2">definitely better than just a static</p>
+<p begin="00:03:46.500" end="00:03:50.910" style="s2">mock-up but I&#39;m getting to the point now</p>
+<p begin="00:03:49.139" end="00:03:55.349" style="s2">where I&#39;m starting to you know I want to</p>
+<p begin="00:03:50.910" end="00:03:57.269" style="s2">do some of the more unique elements and</p>
+<p begin="00:03:55.349" end="00:03:59.970" style="s2">actually have it be like a full coated</p>
+<p begin="00:03:57.269" end="00:04:01.440" style="s2">solution that will actually allow people</p>
+<p begin="00:03:59.970" end="00:04:03.840" style="s2">to register his numbers and be a bit</p>
+<p begin="00:04:01.440" end="00:04:06.420" style="s2">more streamlined then you want to build</p>
+<p begin="00:04:03.840" end="00:04:07.919" style="s2">which yes the other part it was hard</p>
+<p begin="00:04:06.420" end="00:04:11.459" style="s2">because there&#39;s so many of them up there</p>
+<p begin="00:04:07.919" end="00:04:14.069" style="s2">that I did some early research I found</p>
+<p begin="00:04:11.459" end="00:04:17.820" style="s2">knack it seemed to do a pretty good job</p>
+<p begin="00:04:14.069" end="00:04:20.099" style="s2">on some other stuff and it worked so I</p>
+<p begin="00:04:17.820" end="00:04:22.340" style="s2">sort of delve into that and for lack of</p>
+<p begin="00:04:20.099" end="00:04:24.240" style="s2">a better term committed to using that</p>
+<p begin="00:04:22.340" end="00:04:26.310" style="s2">and then found that there was a bunch of</p>
+<p begin="00:04:24.240" end="00:04:28.410" style="s2">other no code</p>
+<p begin="00:04:26.310" end="00:04:30.810" style="s2">platforms that maybe would have been</p>
+<p begin="00:04:28.410" end="00:04:33.180" style="s2">better but I did find it like okay I&#39;ve</p>
+<p begin="00:04:30.810" end="00:04:35.460" style="s2">got my no code one it&#39;s you know twenty</p>
+<p begin="00:04:33.180" end="00:04:37.650" style="s2">percent of the way there that&#39;s good</p>
+<p begin="00:04:35.460" end="00:04:38.970" style="s2">enough for a no code I still sort of</p>
+<p begin="00:04:37.650" end="00:04:40.380" style="s2">poked and prodded them to see if there</p>
+<p begin="00:04:38.970" end="00:04:42.000" style="s2">was anything like oh I actually could</p>
+<p begin="00:04:40.380" end="00:04:44.550" style="s2">use this like they make their real</p>
+<p begin="00:04:42.000" end="00:04:46.020" style="s2">prototype I haven&#39;t found any no code</p>
+<p begin="00:04:44.550" end="00:04:47.630" style="s2">solutions that I&#39;m that confident in</p>
+<p begin="00:04:46.020" end="00:04:50.940" style="s2">that I could actually build like a</p>
+<p begin="00:04:47.630" end="00:04:52.590" style="s2">usable you know the first real version</p>
+<p begin="00:04:50.940" end="00:04:54.479" style="s2">to get actual users on and start doing</p>
+<p begin="00:04:52.590" end="00:04:56.940" style="s2">data entry I didn&#39;t feel confident</p>
+<p begin="00:04:54.479" end="00:05:01.860" style="s2">enough in any of that you know goat</p>
+<p begin="00:04:56.940" end="00:05:03.630" style="s2">solutions yeah yeah as far as no code</p>
+<p begin="00:05:01.860" end="00:05:07.350" style="s2">solutions of hoping a developer friend</p>
+<p begin="00:05:03.630" end="00:05:13.460" style="s2">build a out of community site she has</p>
+<p begin="00:05:07.350" end="00:05:19.650" style="s2">tried web flow bubble and is now using</p>
+<p begin="00:05:13.460" end="00:05:23.850" style="s2">app Guyver the challenge she&#39;s been</p>
+<p begin="00:05:19.650" end="00:05:25.560" style="s2">having is getting a community login so</p>
+<p begin="00:05:23.850" end="00:05:27.330" style="s2">that people can sign up kinda like a</p>
+<p begin="00:05:25.560" end="00:05:29.880" style="s2">social media site create their own</p>
+<p begin="00:05:27.330" end="00:05:31.830" style="s2">content and then share it manage content</p>
+<p begin="00:05:29.880" end="00:05:33.660" style="s2">which Pollione them with your thing</p>
+<p begin="00:05:31.830" end="00:05:36.720" style="s2">which is funny because I&#39;m now thinking</p>
+<p begin="00:05:33.660" end="00:05:38.639" style="s2">I thought bubble actually had examples</p>
+<p begin="00:05:36.720" end="00:05:40.200" style="s2">of a social media site so I might have</p>
+<p begin="00:05:38.639" end="00:05:41.729" style="s2">to go back and look and see how they</p>
+<p begin="00:05:40.200" end="00:05:48.720" style="s2">handled the authentication for that</p>
+<p begin="00:05:41.729" end="00:05:51.120" style="s2">right so she really likes app divert</p>
+<p begin="00:05:48.720" end="00:05:52.349" style="s2">from a design standpoint web flow was</p>
+<p begin="00:05:51.120" end="00:05:54.630" style="s2">pretty good from a design standpoint</p>
+<p begin="00:05:52.349" end="00:05:57.450" style="s2">bubble was horrific</p>
+<p begin="00:05:54.630" end="00:06:00.419" style="s2">from a UI standpoint but had really good</p>
+<p begin="00:05:57.450" end="00:06:02.729" style="s2">kind of back-end and stuff right and</p>
+<p begin="00:06:00.419" end="00:06:04.710" style="s2">they may have had a they may have</p>
+<p begin="00:06:02.729" end="00:06:08.700" style="s2">already had the member management system</p>
+<p begin="00:06:04.710" end="00:06:11.310" style="s2">I can&#39;t remember but with app cover app</p>
+<p begin="00:06:08.700" end="00:06:14.880" style="s2">Guyver hasn&#39;t better open to the public</p>
+<p begin="00:06:11.310" end="00:06:17.070" style="s2">for very long and then I&#39;ve struggled</p>
+<p begin="00:06:14.880" end="00:06:18.990" style="s2">for the last two weeks to get a</p>
+<p begin="00:06:17.070" end="00:06:21.990" style="s2">membership system integrated that</p>
+<p begin="00:06:18.990" end="00:06:25.110" style="s2">includes login from like the specific</p>
+<p begin="00:06:21.990" end="00:06:28.410" style="s2">tool is for business people so we wanted</p>
+<p begin="00:06:25.110" end="00:06:32.300" style="s2">to LinkedIn login and there you cannot</p>
+<p begin="00:06:28.410" end="00:06:34.919" style="s2">do it without having another your own</p>
+<p begin="00:06:32.300" end="00:06:37.469" style="s2">back-end somewhere in there you can&#39;t</p>
+<p begin="00:06:34.919" end="00:06:39.390" style="s2">use off the 0 we have a bug that they&#39;re</p>
+<p begin="00:06:37.469" end="00:06:42.480" style="s2">going to fix you can&#39;t you</p>
+<p begin="00:06:39.390" end="00:06:44.460" style="s2">is the link in direct login because you</p>
+<p begin="00:06:42.480" end="00:06:47.370" style="s2">do need some sort of back-end for that</p>
+<p begin="00:06:44.460" end="00:06:55.940" style="s2">right and they&#39;re back in won&#39;t work for</p>
+<p begin="00:06:47.370" end="00:06:59.610" style="s2">it someone else has gotten oh it is a</p>
+<p begin="00:06:55.940" end="00:07:00.930" style="s2">firebase from Google working as a login</p>
+<p begin="00:06:59.610" end="00:07:03.030" style="s2">but that&#39;s what you type in using an ID</p>
+<p begin="00:07:00.930" end="00:07:05.940" style="s2">and password he didn&#39;t try to get it</p>
+<p begin="00:07:03.030" end="00:07:07.950" style="s2">that they do support like LinkedIn and</p>
+<p begin="00:07:05.940" end="00:07:10.170" style="s2">other things right but I think you&#39;re</p>
+<p begin="00:07:07.950" end="00:07:15.780" style="s2">gonna have the same problem as the</p>
+<p begin="00:07:10.170" end="00:07:17.400" style="s2">office zero solution so I mean for her</p>
+<p begin="00:07:15.780" end="00:07:19.080" style="s2">specific situation I&#39;m probably gonna go</p>
+<p begin="00:07:17.400" end="00:07:20.610" style="s2">ahead and just set up username and</p>
+<p begin="00:07:19.080" end="00:07:23.580" style="s2">password log in later on we&#39;ll get it</p>
+<p begin="00:07:20.610" end="00:07:27.840" style="s2">integrated with LinkedIn and AB divers</p>
+<p begin="00:07:23.580" end="00:07:29.640" style="s2">is about to implement a login system so</p>
+<p begin="00:07:27.840" end="00:07:31.260" style="s2">that&#39;s probably getting down into much</p>
+<p begin="00:07:29.640" end="00:07:33.480" style="s2">of the weeds but I think a lot of the</p>
+<p begin="00:07:31.260" end="00:07:37.260" style="s2">apps that people are producing is some</p>
+<p begin="00:07:33.480" end="00:07:38.700" style="s2">form of community app I think if you</p>
+<p begin="00:07:37.260" end="00:07:42.030" style="s2">were just gonna do a Content app these</p>
+<p begin="00:07:38.700" end="00:07:45.330" style="s2">days you know you content site you know</p>
+<p begin="00:07:42.030" end="00:07:48.360" style="s2">there&#39;s Squarespace and and there&#39;s</p>
+<p begin="00:07:45.330" end="00:07:50.400" style="s2">there&#39;s tons right I mean if you&#39;re just</p>
+<p begin="00:07:48.360" end="00:07:52.740" style="s2">gonna be doing it yourself as the</p>
+<p begin="00:07:50.400" end="00:07:54.450" style="s2">backend you mean right yeah totally yet</p>
+<p begin="00:07:52.740" end="00:07:56.850" style="s2">like if you just have a website or a</p>
+<p begin="00:07:54.450" end="00:07:58.560" style="s2">wordpress or however yeah right if you</p>
+<p begin="00:07:56.850" end="00:08:00.240" style="s2">don&#39;t have any real features and it&#39;s</p>
+<p begin="00:07:58.560" end="00:08:05.210" style="s2">just content I think everyone&#39;s got that</p>
+<p begin="00:08:00.240" end="00:08:05.210" style="s2">settled so I can&#39;t think of many things</p>
+<p begin="00:08:05.640" end="00:08:10.650" style="s2">the only time you&#39;d really need a no</p>
+<p begin="00:08:07.710" end="00:08:13.470" style="s2">code solution I think is is some sort of</p>
+<p begin="00:08:10.650" end="00:08:15.630" style="s2">community based content which surprises</p>
+<p begin="00:08:13.470" end="00:08:17.760" style="s2">me then that none of these systems have</p>
+<p begin="00:08:15.630" end="00:08:19.650" style="s2">a I&#39;m just taking through this live on</p>
+<p begin="00:08:17.760" end="00:08:20.940" style="s2">air now these places really have a good</p>
+<p begin="00:08:19.650" end="00:08:28.140" style="s2">community system and then there are</p>
+<p begin="00:08:20.940" end="00:08:30.450" style="s2">complete community sites like what was</p>
+<p begin="00:08:28.140" end="00:08:33.420" style="s2">it bell there was something Bell I can&#39;t</p>
+<p begin="00:08:30.450" end="00:08:36.060" style="s2">remember it was anyways but they&#39;re kind</p>
+<p begin="00:08:33.420" end="00:08:37.380" style="s2">of like kind of like slack and stuff</p>
+<p begin="00:08:36.060" end="00:08:41.910" style="s2">like that but I have a little bit more</p>
+<p begin="00:08:37.380" end="00:08:44.100" style="s2">features but they&#39;d but they won&#39;t have</p>
+<p begin="00:08:41.910" end="00:08:46.650" style="s2">what you need which is both community</p>
+<p begin="00:08:44.100" end="00:08:50.010" style="s2">login and really straight customized</p>
+<p begin="00:08:46.650" end="00:08:51.810" style="s2">features right exactly and that&#39;s one of</p>
+<p begin="00:08:50.010" end="00:08:53.130" style="s2">the areas where nack actually is pretty</p>
+<p begin="00:08:51.810" end="00:08:55.140" style="s2">good is the like</p>
+<p begin="00:08:53.130" end="00:08:57.450" style="s2">the database side of knack I didn&#39;t see</p>
+<p begin="00:08:55.140" end="00:08:59.340" style="s2">any of the apps out there were as good</p>
+<p begin="00:08:57.450" end="00:09:00.810" style="s2">now app Guyver it sounds like could</p>
+<p begin="00:08:59.340" end="00:09:02.760" style="s2">connect to air table which I haven&#39;t</p>
+<p begin="00:09:00.810" end="00:09:05.220" style="s2">played with but I believe that alone</p>
+<p begin="00:09:02.760" end="00:09:08.970" style="s2">should have a lot of the features that I</p>
+<p begin="00:09:05.220" end="00:09:11.010" style="s2">probably want but neck does have sort of</p>
+<p begin="00:09:08.970" end="00:09:12.690" style="s2">member registration and one of the</p>
+<p begin="00:09:11.010" end="00:09:14.370" style="s2">things I like is that if you get into</p>
+<p begin="00:09:12.690" end="00:09:15.690" style="s2">the paid version I think technically</p>
+<p begin="00:09:14.370" end="00:09:17.130" style="s2">even the free version allows this but</p>
+<p begin="00:09:15.690" end="00:09:19.710" style="s2">you&#39;re limited to how many records you</p>
+<p begin="00:09:17.130" end="00:09:23.250" style="s2">have all of your member logins just</p>
+<p begin="00:09:19.710" end="00:09:24.420" style="s2">count as records so which is quite nice</p>
+<p begin="00:09:23.250" end="00:09:27.210" style="s2">look if you actually trying to build it</p>
+<p begin="00:09:24.420" end="00:09:29.940" style="s2">up fairly large and in the prototype for</p>
+<p begin="00:09:27.210" end="00:09:32.880" style="s2">the game view projects the together tech</p>
+<p begin="00:09:29.940" end="00:09:34.650" style="s2">thing I kind of have a bit more lockdown</p>
+<p begin="00:09:32.880" end="00:09:37.770" style="s2">and I haven&#39;t played too much with the</p>
+<p begin="00:09:34.650" end="00:09:40.110" style="s2">trying to streamline that but like the</p>
+<p begin="00:09:37.770" end="00:09:42.540" style="s2">the database side and the member part is</p>
+<p begin="00:09:40.110" end="00:09:44.880" style="s2">decent the UI it isn&#39;t as good as the</p>
+<p begin="00:09:42.540" end="00:09:48.480" style="s2">other options that you shall meet the UI</p>
+<p begin="00:09:44.880" end="00:09:50.130" style="s2">on those is way better yeah yeah but it</p>
+<p begin="00:09:48.480" end="00:09:56.210" style="s2">has really good kind of table and</p>
+<p begin="00:09:50.130" end="00:09:59.130" style="s2">reporting it seems and actually me and</p>
+<p begin="00:09:56.210" end="00:10:01.620" style="s2">carry the person is what I was talking</p>
+<p begin="00:09:59.130" end="00:10:04.590" style="s2">about are going to be doing a local no</p>
+<p begin="00:10:01.620" end="00:10:07.350" style="s2">code meetup group so we&#39;ll be doing it</p>
+<p begin="00:10:04.590" end="00:10:09.180" style="s2">locally and we posting that content on</p>
+<p begin="00:10:07.350" end="00:10:11.790" style="s2">YouTube and stuff so people nice</p>
+<p begin="00:10:09.180" end="00:10:13.350" style="s2">so we&#39;ll start consulting on no code</p>
+<p begin="00:10:11.790" end="00:10:17.010" style="s2">engagements help people get set up and</p>
+<p begin="00:10:13.350" end="00:10:19.110" style="s2">stuff like that so and is that more how</p>
+<p begin="00:10:17.010" end="00:10:20.970" style="s2">to use a specific one like here&#39;s how to</p>
+<p begin="00:10:19.110" end="00:10:22.320" style="s2">use app divert or is it starting out</p>
+<p begin="00:10:20.970" end="00:10:24.780" style="s2">with like here&#39;s the options here&#39;s how</p>
+<p begin="00:10:22.320" end="00:10:27.540" style="s2">to compare them yeah we&#39;re gonna start</p>
+<p begin="00:10:24.780" end="00:10:28.980" style="s2">from there but then when we kind of pick</p>
+<p begin="00:10:27.540" end="00:10:31.580" style="s2">the ones that made our needs those are</p>
+<p begin="00:10:28.980" end="00:10:34.170" style="s2">the ones we&#39;re going to end up being</p>
+<p begin="00:10:31.580" end="00:10:36.360" style="s2">focusing on but but I think there will</p>
+<p begin="00:10:34.170" end="00:10:38.520" style="s2">be a lot of times doing comparisons I&#39;m</p>
+<p begin="00:10:36.360" end="00:10:40.140" style="s2">kind of figuring out although I checked</p>
+<p begin="00:10:38.520" end="00:10:42.570" style="s2">on Twitter and you know I followed one</p>
+<p begin="00:10:40.140" end="00:10:44.160" style="s2">no code person or our own no code sight</p>
+<p begin="00:10:42.570" end="00:10:45.720" style="s2">and then it suggested people I was like</p>
+<p begin="00:10:44.160" end="00:10:47.880" style="s2">oh I&#39;ll follow that and then I was like</p>
+<p begin="00:10:45.720" end="00:10:52.290" style="s2">it like 20 and I&#39;m like oh right</p>
+<p begin="00:10:47.880" end="00:11:01.320" style="s2">apparently this is popular so I don&#39;t</p>
+<p begin="00:10:52.290" end="00:11:03.390" style="s2">know no worse probably could have done a</p>
+<p begin="00:11:01.320" end="00:11:05.310" style="s2">better job with scheduling this ahead of</p>
+<p begin="00:11:03.390" end="00:11:08.060" style="s2">time and pushing that here in fishing</p>
+<p begin="00:11:05.310" end="00:11:11.250" style="s2">out there so my poll</p>
+<p begin="00:11:08.060" end="00:11:13.230" style="s2">so yeah but Tish we were just going</p>
+<p begin="00:11:11.250" end="00:11:18.120" style="s2">through general kind of no code</p>
+<p begin="00:11:13.230" end="00:11:23.760" style="s2">solutions and Adriel progress so far in</p>
+<p begin="00:11:18.120" end="00:11:27.510" style="s2">trying to get his app from but from idea</p>
+<p begin="00:11:23.760" end="00:11:29.630" style="s2">to concept MVP Minimum Viable Product</p>
+<p begin="00:11:27.510" end="00:11:32.600" style="s2">for anything and that&#39;s watching</p>
+<p begin="00:11:29.630" end="00:11:36.329" style="s2">although it&#39;s just reading a post about</p>
+<p begin="00:11:32.600" end="00:11:38.519" style="s2">minimum lovable product which is</p>
+<p begin="00:11:36.329" end="00:11:42.529" style="s2">interesting but that that to me is</p>
+<p begin="00:11:38.519" end="00:11:45.389" style="s2">beyond Minimum Viable Product right and</p>
+<p begin="00:11:42.529" end="00:11:46.680" style="s2">and even before Minimum Viable Product I</p>
+<p begin="00:11:45.389" end="00:11:50.100" style="s2">was realizing that there&#39;s a minimum</p>
+<p begin="00:11:46.680" end="00:11:51.870" style="s2">learn about experiment alright which</p>
+<p begin="00:11:50.100" end="00:11:54.600" style="s2">there&#39;s I think there&#39;s an official term</p>
+<p begin="00:11:51.870" end="00:11:56.370" style="s2">for that and that&#39;s not it but something</p>
+<p begin="00:11:54.600" end="00:11:58.110" style="s2">like that or you know run small</p>
+<p begin="00:11:56.370" end="00:12:01.980" style="s2">experiments which is where I am and</p>
+<p begin="00:11:58.110" end="00:12:03.839" style="s2">reason score and Marty sure I was</p>
+<p begin="00:12:01.980" end="00:12:09.630" style="s2">talking about that each kind of project</p>
+<p begin="00:12:03.839" end="00:12:11.819" style="s2">has its own kind of R&amp;D kind of phase</p>
+<p begin="00:12:09.630" end="00:12:13.829" style="s2">some are big some are small you know</p>
+<p begin="00:12:11.819" end="00:12:19.079" style="s2">what they are a recent scores got a huge</p>
+<p begin="00:12:13.829" end="00:12:22.949" style="s2">R&amp;D phase wiki election wasn&#39;t as big</p>
+<p begin="00:12:19.079" end="00:12:24.569" style="s2">but still had its own so so I&#39;m not a</p>
+<p begin="00:12:22.949" end="00:12:30.120" style="s2">drone now that Mar - she&#39;s here we could</p>
+<p begin="00:12:24.569" end="00:12:32.459" style="s2">focus on the wiki election yeah I guess</p>
+<p begin="00:12:30.120" end="00:12:33.750" style="s2">or a transition from the no code to the</p>
+<p begin="00:12:32.459" end="00:12:36.990" style="s2">next step which is the code of one so</p>
+<p begin="00:12:33.750" end="00:12:39.569" style="s2">that actually kind of perfect timing</p>
+<p begin="00:12:36.990" end="00:12:41.670" style="s2">just on the note of the MVP one of the</p>
+<p begin="00:12:39.569" end="00:12:44.100" style="s2">of the things that I find when I talk to</p>
+<p begin="00:12:41.670" end="00:12:46.139" style="s2">people about it is this notion of like</p>
+<p begin="00:12:44.100" end="00:12:49.920" style="s2">it almost feels that people think that&#39;s</p>
+<p begin="00:12:46.139" end="00:12:51.779" style="s2">the first sort of attempt at like really</p>
+<p begin="00:12:49.920" end="00:12:53.910" style="s2">okay that&#39;s the first thing that that</p>
+<p begin="00:12:51.779" end="00:12:55.920" style="s2">we&#39;re gonna test and like with you know</p>
+<p begin="00:12:53.910" end="00:12:58.709" style="s2">I I you and I have briefly discussed you</p>
+<p begin="00:12:55.920" end="00:13:00.209" style="s2">know agile you kind of start out with</p>
+<p begin="00:12:58.709" end="00:13:02.760" style="s2">like as you sort of said like the</p>
+<p begin="00:13:00.209" end="00:13:04.380" style="s2">minimums or a learning experiment and</p>
+<p begin="00:13:02.760" end="00:13:06.029" style="s2">then you keep building it until it</p>
+<p begin="00:13:04.380" end="00:13:08.069" style="s2">becomes viable and then you&#39;ll sort of</p>
+<p begin="00:13:06.029" end="00:13:09.630" style="s2">know that during testing and actually as</p>
+<p begin="00:13:08.069" end="00:13:12.360" style="s2">you actually start to use it you&#39;re like</p>
+<p begin="00:13:09.630" end="00:13:15.600" style="s2">oh people would use this you know yeah</p>
+<p begin="00:13:12.360" end="00:13:17.610" style="s2">oh yeah the terms are a bit kind of</p>
+<p begin="00:13:15.600" end="00:13:19.950" style="s2">floppy and used around everywhere like</p>
+<p begin="00:13:17.610" end="00:13:21.839" style="s2">there&#39;s a website called quick MVP</p>
+<p begin="00:13:19.950" end="00:13:24.510" style="s2">but all that website is is a landing</p>
+<p begin="00:13:21.839" end="00:13:26.430" style="s2">page where you where people kicking son</p>
+<p begin="00:13:24.510" end="00:13:28.529" style="s2">say yes I&#39;d like to do it and then you</p>
+<p begin="00:13:26.430" end="00:13:30.230" style="s2">have no product behind it and that so</p>
+<p begin="00:13:28.529" end="00:13:32.790" style="s2">you&#39;re really just testing your</p>
+<p begin="00:13:30.230" end="00:13:36.029" style="s2">description of your concept right and</p>
+<p begin="00:13:32.790" end="00:13:37.470" style="s2">see and also you tend to buy traffic or</p>
+<p begin="00:13:36.029" end="00:13:39.329" style="s2">at least with what used to be but you</p>
+<p begin="00:13:37.470" end="00:13:43.010" style="s2">buy traffic from Google so you&#39;re</p>
+<p begin="00:13:39.329" end="00:13:46.139" style="s2">checking your ability to pay for</p>
+<p begin="00:13:43.010" end="00:13:48.690" style="s2">customers right which is to me as a</p>
+<p begin="00:13:46.139" end="00:13:50.250" style="s2">minimum viable experiment right kind of</p>
+<p begin="00:13:48.690" end="00:13:54.240" style="s2">like a proof of concept if I were to</p>
+<p begin="00:13:50.250" end="00:13:55.709" style="s2">build this would you want in right I can</p>
+<p begin="00:13:54.240" end="00:13:57.959" style="s2">see how that&#39;s valuable but yet not</p>
+<p begin="00:13:55.709" end="00:14:01.740" style="s2">really I&#39;m deep ei right yeah at all</p>
+<p begin="00:13:57.959" end="00:14:04.139" style="s2">yeah okay yeah this we talked a bit</p>
+<p begin="00:14:01.740" end="00:14:05.820" style="s2">about the no code solution personally I</p>
+<p begin="00:14:04.139" end="00:14:08.250" style="s2">still recommend starting there that&#39;s</p>
+<p begin="00:14:05.820" end="00:14:09.540" style="s2">definite like as I built it as I saw</p>
+<p begin="00:14:08.250" end="00:14:11.250" style="s2">some of the UI even though it wasn&#39;t</p>
+<p begin="00:14:09.540" end="00:14:12.990" style="s2">perfect I still learned stuff and I you</p>
+<p begin="00:14:11.250" end="00:14:14.070" style="s2">know updated my design I&#39;m like oh that</p>
+<p begin="00:14:12.990" end="00:14:15.779" style="s2">actually doesn&#39;t look that good when</p>
+<p begin="00:14:14.070" end="00:14:17.100" style="s2">you&#39;re using it or oh the brick there&#39;s</p>
+<p begin="00:14:15.779" end="00:14:20.850" style="s2">a screen in between this one and that</p>
+<p begin="00:14:17.100" end="00:14:24.480" style="s2">one so that did that did you have no</p>
+<p begin="00:14:20.850" end="00:14:27.930" style="s2">helped I think as the pension if it is</p>
+<p begin="00:14:24.480" end="00:14:29.730" style="s2">going to be more like member facing it</p>
+<p begin="00:14:27.930" end="00:14:31.500" style="s2">doesn&#39;t sound like anyone here is aware</p>
+<p begin="00:14:29.730" end="00:14:33.930" style="s2">of a really good no code solution that</p>
+<p begin="00:14:31.500" end="00:14:36.240" style="s2">supports that so that might be a reason</p>
+<p begin="00:14:33.930" end="00:14:38.880" style="s2">to sort of still do no code but you</p>
+<p begin="00:14:36.240" end="00:14:40.740" style="s2">might not be there very long before you</p>
+<p begin="00:14:38.880" end="00:14:42.029" style="s2">start wanting to get into actually I</p>
+<p begin="00:14:40.740" end="00:14:46.649" style="s2">would it sold out</p>
+<p begin="00:14:42.029" end="00:14:51.420" style="s2">I think the future will be a no code or</p>
+<p begin="00:14:46.649" end="00:14:53.579" style="s2">low code really right and and I was just</p>
+<p begin="00:14:51.420" end="00:14:55.730" style="s2">realizing I&#39;ve done low code for 20</p>
+<p begin="00:14:53.579" end="00:14:58.800" style="s2">years now cuz I was using access to oh</p>
+<p begin="00:14:55.730" end="00:15:00.750" style="s2">okay first no code platforms because you</p>
+<p begin="00:14:58.800" end="00:15:03.510" style="s2">could create an app put it on someone&#39;s</p>
+<p begin="00:15:00.750" end="00:15:06.810" style="s2">desk top and we used them and I didn&#39;t</p>
+<p begin="00:15:03.510" end="00:15:09.360" style="s2">write a single interesting it wasn&#39;t</p>
+<p begin="00:15:06.810" end="00:15:11.579" style="s2">web-based of course but okay yeah but I</p>
+<p begin="00:15:09.360" end="00:15:12.959" style="s2">mean I was technically an echo yeah I</p>
+<p begin="00:15:11.579" end="00:15:14.790" style="s2">totally agree that that&#39;s where things</p>
+<p begin="00:15:12.959" end="00:15:16.860" style="s2">are headed like in my day job I helped</p>
+<p begin="00:15:14.790" end="00:15:19.889" style="s2">manage sales force and that&#39;s like you</p>
+<p begin="00:15:16.860" end="00:15:22.620" style="s2">know enterprise levels CRM where their</p>
+<p begin="00:15:19.889" end="00:15:24.300" style="s2">instruction is like clicks not code if</p>
+<p begin="00:15:22.620" end="00:15:26.250" style="s2">you can avoid using code do it just use</p>
+<p begin="00:15:24.300" end="00:15:28.430" style="s2">our platform and you can do a lot so I</p>
+<p begin="00:15:26.250" end="00:15:30.240" style="s2">think as you start to see these like not</p>
+<p begin="00:15:28.430" end="00:15:33.000" style="s2">billion-dollar companies start to</p>
+<p begin="00:15:30.240" end="00:15:33.720" style="s2">improve their platforms and you&#39;re</p>
+<p begin="00:15:33.000" end="00:15:35.100" style="s2">totally right</p>
+<p begin="00:15:33.720" end="00:15:37.740" style="s2">we&#39;ll get to a point where it&#39;s almost</p>
+<p begin="00:15:35.100" end="00:15:39.930" style="s2">like a mix of you know app Guyver and</p>
+<p begin="00:15:37.740" end="00:15:42.660" style="s2">like Ruby on Rails we can actually make</p>
+<p begin="00:15:39.930" end="00:15:45.569" style="s2">a good somewhat stable relatively</p>
+<p begin="00:15:42.660" end="00:15:46.769" style="s2">performance you know okay app was just</p>
+<p begin="00:15:45.569" end="00:15:49.829" style="s2">you know clicking and dragging and</p>
+<p begin="00:15:46.769" end="00:15:51.689" style="s2">connecting your components yeah and then</p>
+<p begin="00:15:49.829" end="00:15:53.519" style="s2">the developers will be focusing more on</p>
+<p begin="00:15:51.689" end="00:15:55.980" style="s2">building out components of building</p>
+<p begin="00:15:53.519" end="00:15:59.970" style="s2">these systems right and then making</p>
+<p begin="00:15:55.980" end="00:16:03.389" style="s2">customized widgets that that the the</p>
+<p begin="00:15:59.970" end="00:16:05.579" style="s2">unique parts of each right yeah so sort</p>
+<p begin="00:16:03.389" end="00:16:07.350" style="s2">of like the I guess so similar to the</p>
+<p begin="00:16:05.579" end="00:16:09.300" style="s2">these helpers model of you want to go</p>
+<p begin="00:16:07.350" end="00:16:11.519" style="s2">clicks nut code but in some cases you</p>
+<p begin="00:16:09.300" end="00:16:13.680" style="s2">still need code it&#39;s not still it&#39;s not</p>
+<p begin="00:16:11.519" end="00:16:16.410" style="s2">reasonable to completely exclude it but</p>
+<p begin="00:16:13.680" end="00:16:19.019" style="s2">trying to to limit it well a lot of</p>
+<p begin="00:16:16.410" end="00:16:21.959" style="s2">companies will have their their unique</p>
+<p begin="00:16:19.019" end="00:16:24.930" style="s2">proposition and a lot of times that will</p>
+<p begin="00:16:21.959" end="00:16:26.759" style="s2">require some sort of right yeah because</p>
+<p begin="00:16:24.930" end="00:16:29.930" style="s2">if you can just click and drag it then</p>
+<p begin="00:16:26.759" end="00:16:32.069" style="s2">there&#39;s not really a unique proposition</p>
+<p begin="00:16:29.930" end="00:16:33.540" style="s2">its unique in that I&#39;m the only one that</p>
+<p begin="00:16:32.069" end="00:16:36.329" style="s2">there&#39;s drag this component onto this</p>
+<p begin="00:16:33.540" end="00:16:45.750" style="s2">page so do you think it&#39;d be helpful if</p>
+<p begin="00:16:36.329" end="00:16:48.600" style="s2">Marty walked us through his yeah yeah I</p>
+<p begin="00:16:45.750" end="00:16:50.850" style="s2">guess or even just like the like what</p>
+<p begin="00:16:48.600" end="00:16:53.100" style="s2">went into your decisions of like what</p>
+<p begin="00:16:50.850" end="00:16:55.350" style="s2">you know tech pieces to use anything</p>
+<p begin="00:16:53.100" end="00:16:57.389" style="s2">else that you know you may be a decision</p>
+<p begin="00:16:55.350" end="00:16:59.309" style="s2">that you made in getting the the current</p>
+<p begin="00:16:57.389" end="00:17:00.839" style="s2">prototype to where it is and stuff that</p>
+<p begin="00:16:59.309" end="00:17:02.329" style="s2">maybe we haven&#39;t covered yet or the</p>
+<p begin="00:17:00.839" end="00:17:04.679" style="s2">people who watch this at some point</p>
+<p begin="00:17:02.329" end="00:17:06.900" style="s2">might be interested to in a motor be</p>
+<p begin="00:17:04.679" end="00:17:08.010" style="s2">interesting to yeah also since you know</p>
+<p begin="00:17:06.900" end="00:17:11.100" style="s2">since we are kind of helping other</p>
+<p begin="00:17:08.010" end="00:17:12.600" style="s2">people what what decisions you may made</p>
+<p begin="00:17:11.100" end="00:17:17.490" style="s2">differently based on your discussions</p>
+<p begin="00:17:12.600" end="00:17:25.280" style="s2">with Adria or his unique situation might</p>
+<p begin="00:17:17.490" end="00:17:29.700" style="s2">be cool okay so my decisions driven by</p>
+<p begin="00:17:25.280" end="00:17:32.640" style="s2">the stuff I know so because I know react</p>
+<p begin="00:17:29.700" end="00:17:36.980" style="s2">and its components and bits and pieces</p>
+<p begin="00:17:32.640" end="00:17:41.030" style="s2">and from what I know react is one of the</p>
+<p begin="00:17:36.980" end="00:17:44.520" style="s2">fastest system called but still</p>
+<p begin="00:17:41.030" end="00:17:48.299" style="s2">prototyping the so obviously I decided</p>
+<p begin="00:17:44.520" end="00:17:51.679" style="s2">to use that I people have good</p>
+<p begin="00:17:48.299" end="00:17:56.039" style="s2">experiences with Ruby on Rails but</p>
+<p begin="00:17:51.679" end="00:18:00.059" style="s2">that&#39;s I&#39;m not as proficient in in that</p>
+<p begin="00:17:56.039" end="00:18:03.419" style="s2">react was was the choice then in my</p>
+<p begin="00:18:00.059" end="00:18:06.710" style="s2">previous projects even with prototypes</p>
+<p begin="00:18:03.419" end="00:18:09.780" style="s2">just prototypes I did use some</p>
+<p begin="00:18:06.710" end="00:18:15.450" style="s2">relational relational database like</p>
+<p begin="00:18:09.780" end="00:18:17.340" style="s2">Postgres which usually was like half of</p>
+<p begin="00:18:15.450" end="00:18:21.960" style="s2">the project to get the database right</p>
+<p begin="00:18:17.340" end="00:18:27.390" style="s2">and to create basically back-end and in</p>
+<p begin="00:18:21.960" end="00:18:32.370" style="s2">this case and in my recent prototypes</p>
+<p begin="00:18:27.390" end="00:18:35.960" style="s2">I used firebase which is not relational</p>
+<p begin="00:18:32.370" end="00:18:39.090" style="s2">but it doesn&#39;t need to be in most cases</p>
+<p begin="00:18:35.960" end="00:18:42.809" style="s2">so to create a quick prototype it&#39;s it&#39;s</p>
+<p begin="00:18:39.090" end="00:18:45.830" style="s2">really straightforward and easy and</p>
+<p begin="00:18:42.809" end="00:18:48.809" style="s2">quick to just install just to create</p>
+<p begin="00:18:45.830" end="00:18:53.580" style="s2">like a store on firebase and start using</p>
+<p begin="00:18:48.809" end="00:18:56.220" style="s2">it a quick technical question did you</p>
+<p begin="00:18:53.580" end="00:19:09.510" style="s2">end up using fire store or real-time for</p>
+<p begin="00:18:56.220" end="00:19:11.789" style="s2">information no so be slightly more</p>
+<p begin="00:19:09.510" end="00:19:13.409" style="s2">functionality and the other is faster I</p>
+<p begin="00:19:11.789" end="00:19:15.990" style="s2">think something that they did redone</p>
+<p begin="00:19:13.409" end="00:19:16.620" style="s2">good article about it I don&#39;t know all</p>
+<p begin="00:19:15.990" end="00:19:18.780" style="s2">the eggs</p>
+<p begin="00:19:16.620" end="00:19:22.169" style="s2">I&#39;m preferably a fire store right now</p>
+<p begin="00:19:18.780" end="00:19:26.789" style="s2">usually yeah fire store the real-time</p>
+<p begin="00:19:22.169" end="00:19:29.070" style="s2">firebases is slightly faster but most of</p>
+<p begin="00:19:26.789" end="00:19:30.499" style="s2">the time we don&#39;t need that sub-second</p>
+<p begin="00:19:29.070" end="00:19:36.929" style="s2">response time</p>
+<p begin="00:19:30.499" end="00:19:39.570" style="s2">and collaborate firestorm yes and the</p>
+<p begin="00:19:36.929" end="00:19:42.299" style="s2">good thing about Firestar is it handles</p>
+<p begin="00:19:39.570" end="00:19:44.909" style="s2">not only data itself about user</p>
+<p begin="00:19:42.299" end="00:19:49.830" style="s2">authentication and it has a quite</p>
+<p begin="00:19:44.909" end="00:19:55.529" style="s2">extensive list of what it can use for</p>
+<p begin="00:19:49.830" end="00:19:58.799" style="s2">the authentication ways so it can we can</p>
+<p begin="00:19:55.529" end="00:20:02.489" style="s2">connect the application to Facebook to</p>
+<p begin="00:19:58.799" end="00:20:03.719" style="s2">Google to linked into some they actually</p>
+<p begin="00:20:02.489" end="00:20:06.029" style="s2">doesn&#39;t have and they don&#39;t have</p>
+<p begin="00:20:03.719" end="00:20:07.589" style="s2">LinkedIn on there I found that you can&#39;t</p>
+<p begin="00:20:06.029" end="00:20:10.320" style="s2">do it but they don&#39;t have it as a</p>
+<p begin="00:20:07.589" end="00:20:11.879" style="s2">prebuilt one because i was just looking</p>
+<p begin="00:20:10.320" end="00:20:13.379" style="s2">at it yesterday and I was like I thought</p>
+<p begin="00:20:11.879" end="00:20:19.219" style="s2">LinkedIn was in the list I don&#39;t know if</p>
+<p begin="00:20:13.379" end="00:20:23.190" style="s2">they took it out oh yeah there was oh</p>
+<p begin="00:20:19.219" end="00:20:24.959" style="s2">okay yeah I just thought I&#39;d mention</p>
+<p begin="00:20:23.190" end="00:20:26.279" style="s2">that because I didn&#39;t meant into before</p>
+<p begin="00:20:24.959" end="00:20:28.619" style="s2">he came on that I was helping a friend</p>
+<p begin="00:20:26.279" end="00:20:31.709" style="s2">and we wanted LinkedIn login and that</p>
+<p begin="00:20:28.619" end="00:20:33.479" style="s2">was one of the challenges is that they</p>
+<p begin="00:20:31.709" end="00:20:42.570" style="s2">don&#39;t have it there&#39;s a there&#39;s a tool</p>
+<p begin="00:20:33.479" end="00:20:45.239" style="s2">where you can set it up whoo-hoo no</p>
+<p begin="00:20:42.570" end="00:20:47.219" style="s2">LinkedIn you need in that bizarre I</p>
+<p begin="00:20:45.239" end="00:20:55.950" style="s2">think maybe linkedin&#39;s because its face</p>
+<p begin="00:20:47.219" end="00:21:01.799" style="s2">because it&#39;s Microsoft okay so yeah and</p>
+<p begin="00:20:55.950" end="00:21:05.789" style="s2">it&#39;s just easy and quick to and it&#39;s</p>
+<p begin="00:21:01.799" end="00:21:09.809" style="s2">better to not have to call back end for</p>
+<p begin="00:21:05.789" end="00:21:15.029" style="s2">just blows back it works and it&#39;s free</p>
+<p begin="00:21:09.809" end="00:21:18.979" style="s2">as well so have not paid to do the</p>
+<p begin="00:21:15.029" end="00:21:29.999" style="s2">marketing for them but yeah very good</p>
+<p begin="00:21:18.979" end="00:21:36.089" style="s2">so that initially I didn&#39;t use github to</p>
+<p begin="00:21:29.999" end="00:21:39.960" style="s2">put the code on because we didn&#39;t</p>
+<p begin="00:21:36.089" end="00:21:43.600" style="s2">discuss exactly when it&#39;s during to the</p>
+<p begin="00:21:39.960" end="00:21:50.720" style="s2">open source so it&#39;s private</p>
+<p begin="00:21:43.600" end="00:21:53.840" style="s2">and and github does allow free two or</p>
+<p begin="00:21:50.720" end="00:21:54.950" style="s2">three free private repos now so you</p>
+<p begin="00:21:53.840" end="00:21:56.510" style="s2">can&#39;t put it on there as well</p>
+<p begin="00:21:54.950" end="00:22:13.190" style="s2">yeah change if you&#39;re not already using</p>
+<p begin="00:21:56.510" end="00:22:15.200" style="s2">up here I did have a link to using any</p>
+<p begin="00:22:13.190" end="00:22:19.340" style="s2">terms that need to be explained you</p>
+<p begin="00:22:15.200" end="00:22:21.110" style="s2">might help us remember I vaguely</p>
+<p begin="00:22:19.340" end="00:22:23.720" style="s2">understand I mean I know you know sort</p>
+<p begin="00:22:21.110" end="00:22:26.300" style="s2">of the code repositories and that getup</p>
+<p begin="00:22:23.720" end="00:22:29.150" style="s2">tends to be more popular one the whole</p>
+<p begin="00:22:26.300" end="00:22:30.650" style="s2">like private versus open sorts thing I I</p>
+<p begin="00:22:29.150" end="00:22:34.040" style="s2">was not aware what was anything with</p>
+<p begin="00:22:30.650" end="00:22:36.140" style="s2">that so that&#39;s interesting yeah yeah for</p>
+<p begin="00:22:34.040" end="00:22:38.390" style="s2">the the near future like it won&#39;t be</p>
+<p begin="00:22:36.140" end="00:22:40.010" style="s2">open source to start with until actually</p>
+<p begin="00:22:38.390" end="00:22:41.540" style="s2">starts working and then you know if the</p>
+<p begin="00:22:40.010" end="00:22:42.710" style="s2">community says hey we&#39;d like for these</p>
+<p begin="00:22:41.540" end="00:22:46.070" style="s2">parts to be open source then we can</p>
+<p begin="00:22:42.710" end="00:22:48.770" style="s2">definitely explore it but this whole</p>
+<p begin="00:22:46.070" end="00:22:50.750" style="s2">thing like it&#39;s a pretty big emphasis at</p>
+<p begin="00:22:48.770" end="00:22:56.060" style="s2">least later on down the road for like</p>
+<p begin="00:22:50.750" end="00:22:58.280" style="s2">privacy and security and I have some</p>
+<p begin="00:22:56.060" end="00:22:59.720" style="s2">projects managed to you know walk that</p>
+<p begin="00:22:58.280" end="00:23:03.590" style="s2">line fine still be open source in</p>
+<p begin="00:22:59.720" end="00:23:05.180" style="s2">private and secure but I&#39;ll probably</p>
+<p begin="00:23:03.590" end="00:23:07.280" style="s2">wait until them sort of more down the</p>
+<p begin="00:23:05.180" end="00:23:10.490" style="s2">road and actually have like staff and</p>
+<p begin="00:23:07.280" end="00:23:12.800" style="s2">and more like dedicated security people</p>
+<p begin="00:23:10.490" end="00:23:15.430" style="s2">to figure out how that works in what</p>
+<p begin="00:23:12.800" end="00:23:17.870" style="s2">should and shouldn&#39;t be open source</p>
+<p begin="00:23:15.430" end="00:23:26.360" style="s2">generally it&#39;s better to go open source</p>
+<p begin="00:23:17.870" end="00:23:28.610" style="s2">because you have people who source</p>
+<p begin="00:23:26.360" end="00:23:31.850" style="s2">products are known to be much more</p>
+<p begin="00:23:28.610" end="00:23:37.640" style="s2">secure because they are open because</p>
+<p begin="00:23:31.850" end="00:23:41.290" style="s2">people are generally nice enough so when</p>
+<p begin="00:23:37.640" end="00:23:46.040" style="s2">they see a bug they tell you instead of</p>
+<p begin="00:23:41.290" end="00:23:49.460" style="s2">exploiting it hopefully hmm but yeah the</p>
+<p begin="00:23:46.040" end="00:23:53.570" style="s2">history shows that open source security</p>
+<p begin="00:23:49.460" end="00:23:56.690" style="s2">wise is the way to go but yeah I do</p>
+<p begin="00:23:53.570" end="00:23:57.260" style="s2">think there that will end up that way in</p>
+<p begin="00:23:56.690" end="00:23:59.210" style="s2">sort of</p>
+<p begin="00:23:57.260" end="00:24:00.980" style="s2">with the end goal being as transparent</p>
+<p begin="00:23:59.210" end="00:24:03.710" style="s2">as reasonably possible which I think</p>
+<p begin="00:24:00.980" end="00:24:06.169" style="s2">open source is it&#39;s definitely a part of</p>
+<p begin="00:24:03.710" end="00:24:06.890" style="s2">that the thing that I don&#39;t know of an</p>
+<p begin="00:24:06.169" end="00:24:10.160" style="s2">open source</p>
+<p begin="00:24:06.890" end="00:24:12.470" style="s2">I mean maybe like Firefox or Linux might</p>
+<p begin="00:24:10.160" end="00:24:15.080" style="s2">kind of get to this well it&#39;s like if</p>
+<p begin="00:24:12.470" end="00:24:17.059" style="s2">this is actually successful it people</p>
+<p begin="00:24:15.080" end="00:24:19.280" style="s2">will be trying to game it at like the</p>
+<p begin="00:24:17.059" end="00:24:21.500" style="s2">level of trying to game Facebook or</p>
+<p begin="00:24:19.280" end="00:24:23.929" style="s2">Twitter or something that right like if</p>
+<p begin="00:24:21.500" end="00:24:27.679" style="s2">your goal is to be able to sort of bend</p>
+<p begin="00:24:23.929" end="00:24:29.480" style="s2">the data to your will you know if if</p>
+<p begin="00:24:27.679" end="00:24:31.760" style="s2">that thing works I think having a fully</p>
+<p begin="00:24:29.480" end="00:24:34.460" style="s2">exposed like know exactly how the guts</p>
+<p begin="00:24:31.760" end="00:24:36.919" style="s2">work helps with that like how Google</p>
+<p begin="00:24:34.460" end="00:24:39.320" style="s2">does it make their their algorithm</p>
+<p begin="00:24:36.919" end="00:24:40.280" style="s2">public it&#39;s quite the opposite and so I</p>
+<p begin="00:24:39.320" end="00:24:49.760" style="s2">think it&#39;s going to end up being</p>
+<p begin="00:24:40.280" end="00:24:55.240" style="s2">abundant at this point so it was made</p>
+<p begin="00:24:49.760" end="00:24:57.169" style="s2">efficient open source which we aren&#39;t</p>
+<p begin="00:24:55.240" end="00:24:59.419" style="s2">reinventing any wheels here so I&#39;m not</p>
+<p begin="00:24:57.169" end="00:25:01.640" style="s2">too too worried yet but like I&#39;m more</p>
+<p begin="00:24:59.419" end="00:25:03.620" style="s2">thinking down the road like long term so</p>
+<p begin="00:25:01.640" end="00:25:05.000" style="s2">yeah if it&#39;s especially if all the</p>
+<p begin="00:25:03.620" end="00:25:07.040" style="s2">components that were using are resource</p>
+<p begin="00:25:05.000" end="00:25:13.760" style="s2">as you said by definition it could kind</p>
+<p begin="00:25:07.040" end="00:25:18.160" style="s2">of already yes okay so that&#39;s about the</p>
+<p begin="00:25:13.760" end="00:25:20.360" style="s2">choices should we go into the crowd and</p>
+<p begin="00:25:18.160" end="00:25:23.179" style="s2">technical choices inside of the</p>
+<p begin="00:25:20.360" end="00:25:26.390" style="s2">application itself oh I don&#39;t know if we</p>
+<p begin="00:25:23.179" end="00:25:28.429" style="s2">want to get to I think yeah yeah I think</p>
+<p begin="00:25:26.390" end="00:25:29.900" style="s2">I think this is a good level here so</p>
+<p begin="00:25:28.429" end="00:25:33.860" style="s2">maybe if we want to go ahead and look at</p>
+<p begin="00:25:29.900" end="00:25:36.200" style="s2">the UI and and people can see the</p>
+<p begin="00:25:33.860" end="00:25:37.370" style="s2">feedback between you and Adrienne oh</p>
+<p begin="00:25:36.200" end="00:25:40.730" style="s2">yeah I&#39;ve done a little bit of feedback</p>
+<p begin="00:25:37.370" end="00:25:44.179" style="s2">but just la get I think if y&#39;all don&#39;t</p>
+<p begin="00:25:40.730" end="00:25:47.179" style="s2">mind just having other people see what</p>
+<p begin="00:25:44.179" end="00:25:49.580" style="s2">it&#39;s like to work with rival upper right</p>
+<p begin="00:25:47.179" end="00:25:51.740" style="s2">and now it is very early days so seeing</p>
+<p begin="00:25:49.580" end="00:25:53.960" style="s2">what a very early days prototype looks</p>
+<p begin="00:25:51.740" end="00:25:55.610" style="s2">like so you don&#39;t get scared away yeah</p>
+<p begin="00:25:53.960" end="00:25:57.440" style="s2">it&#39;s like a lot of stuff is hard-coded</p>
+<p begin="00:25:55.610" end="00:26:00.710" style="s2">which completely makes sense for the</p>
+<p begin="00:25:57.440" end="00:26:03.320" style="s2">very very first version now the question</p>
+<p begin="00:26:00.710" end="00:26:06.980" style="s2">is because I am string art I can&#39;t share</p>
+<p begin="00:26:03.320" end="00:26:09.980" style="s2">screen all right now yeah I can probably</p>
+<p begin="00:26:06.980" end="00:26:15.740" style="s2">share the spring and you can share it</p>
+<p begin="00:26:09.980" end="00:26:18.480" style="s2">though just let me see a screen option I</p>
+<p begin="00:26:15.740" end="00:26:23.010" style="s2">was going to have the prototype ready</p>
+<p begin="00:26:18.480" end="00:26:32.210" style="s2">like for this meeting which is added</p>
+<p begin="00:26:23.010" end="00:26:32.210" style="s2">much some functionality it&#39;s not ready</p>
+<p begin="00:26:39.970" end="00:26:43.460" style="s2">[Music]</p>
+<p begin="00:26:47.720" end="00:26:58.080" style="s2">and yeah that&#39;s the one yeah for those</p>
+<p begin="00:26:56.190" end="00:27:02.220" style="s2">watching never ever do a build wall</p>
+<p begin="00:26:58.080" end="00:27:07.710" style="s2">doing Marcy she&#39;s gonna do it but don&#39;t</p>
+<p begin="00:27:02.220" end="00:27:10.380" style="s2">do it don&#39;t do like Marty&#39;s right it&#39;s</p>
+<p begin="00:27:07.710" end="00:27:16.410" style="s2">risky don&#39;t do it don&#39;t do it after 5</p>
+<p begin="00:27:10.380" end="00:27:18.900" style="s2">p.m. just don&#39;t just nothing can go</p>
+<p begin="00:27:16.410" end="00:27:20.880" style="s2">wrong it will at some point yeah I think</p>
+<p begin="00:27:18.900" end="00:27:22.350" style="s2">at this point it&#39;s not like this is</p>
+<p begin="00:27:20.880" end="00:27:24.150" style="s2">mission critical for anything so it&#39;s</p>
+<p begin="00:27:22.350" end="00:27:27.800" style="s2">not too too worrisome but yeah I think</p>
+<p begin="00:27:24.150" end="00:27:33.240" style="s2">that&#39;s a safe a safe standard to employ</p>
+<p begin="00:27:27.800" end="00:27:37.010" style="s2">and I prefer to not have to in the</p>
+<p begin="00:27:33.240" end="00:27:45.390" style="s2">middle of life demo see any bugs and</p>
+<p begin="00:27:37.010" end="00:27:46.950" style="s2">yeah okay it&#39;s oh is this the new</p>
+<p begin="00:27:45.390" end="00:27:52.430" style="s2">version with these how many changes</p>
+<p begin="00:27:46.950" end="00:27:54.390" style="s2">there we discussed yes yeah I think I</p>
+<p begin="00:27:52.430" end="00:27:56.370" style="s2">didn&#39;t hear the first part of that or</p>
+<p begin="00:27:54.390" end="00:27:58.680" style="s2">you guys may have been talking sorry you</p>
+<p begin="00:27:56.370" end="00:27:59.970" style="s2">know code speak and so I was like I saw</p>
+<p begin="00:27:58.680" end="00:28:01.500" style="s2">you guys get to the point where like yet</p>
+<p begin="00:27:59.970" end="00:28:03.270" style="s2">don&#39;t release it indeed you know in</p>
+<p begin="00:28:01.500" end="00:28:08.990" style="s2">these situations now make sense why that</p>
+<p begin="00:28:03.270" end="00:28:17.450" style="s2">came up okay and now I did what I said I</p>
+<p begin="00:28:08.990" end="00:28:21.840" style="s2">should not yes it is it&#39;s working for me</p>
+<p begin="00:28:17.450" end="00:28:23.850" style="s2">refresh the page and yeah I just</p>
+<p begin="00:28:21.840" end="00:28:29.820" style="s2">realized I left it</p>
+<p begin="00:28:23.850" end="00:28:33.330" style="s2">by default on the people venture but you</p>
+<p begin="00:28:29.820" end="00:28:37.460" style="s2">still see the home screen right then you</p>
+<p begin="00:28:33.330" end="00:28:41.630" style="s2">have small links linking to the list of</p>
+<p begin="00:28:37.460" end="00:28:48.740" style="s2">organizations because these are the two</p>
+<p begin="00:28:41.630" end="00:28:53.490" style="s2">initially these are the two main sort</p>
+<p begin="00:28:48.740" end="00:28:55.740" style="s2">local channels right people and the</p>
+<p begin="00:28:53.490" end="00:28:59.549" style="s2">organizations they belong to they work</p>
+<p begin="00:28:55.740" end="00:29:00.950" style="s2">for they have an affiliation with stuff</p>
+<p begin="00:28:59.549" end="00:29:03.539" style="s2">like that okay</p>
+<p begin="00:29:00.950" end="00:29:05.820" style="s2">mmm so the difference between the</p>
+<p begin="00:29:03.539" end="00:29:09.120" style="s2">previous version and this version is you</p>
+<p begin="00:29:05.820" end="00:29:13.400" style="s2">have working sign up or sign in button</p>
+<p begin="00:29:09.120" end="00:29:17.250" style="s2">right yes that&#39;s the one and you can</p>
+<p begin="00:29:13.400" end="00:29:28.679" style="s2">right now even create your account okay</p>
+<p begin="00:29:17.250" end="00:29:30.600" style="s2">cool do that yeah because stop sharing</p>
+<p begin="00:29:28.679" end="00:29:33.809" style="s2">just want to do doing its more so that I</p>
+<p begin="00:29:30.600" end="00:29:40.919" style="s2">don&#39;t have my email recorded and</p>
+<p begin="00:29:33.809" end="00:29:45.360" style="s2">streamed yep yeah it&#39;s funny sometimes</p>
+<p begin="00:29:40.919" end="00:29:52.980" style="s2">on screen sharing goes wrong to show too</p>
+<p begin="00:29:45.360" end="00:29:54.630" style="s2">much so more to show is doing that maybe</p>
+<p begin="00:29:52.980" end="00:29:56.610" style="s2">I can ask you a couple of technical</p>
+<p begin="00:29:54.630" end="00:29:58.409" style="s2">questions and hopefully this won&#39;t be</p>
+<p begin="00:29:56.610" end="00:30:01.169" style="s2">too technical but it looks like you&#39;re</p>
+<p begin="00:29:58.409" end="00:30:05.520" style="s2">not using like react route or anything</p>
+<p begin="00:30:01.169" end="00:30:07.919" style="s2">in this no not at this moment it&#39;s one</p>
+<p begin="00:30:05.520" end="00:30:14.880" style="s2">page application though I&#39;m going to of</p>
+<p begin="00:30:07.919" end="00:30:17.580" style="s2">course rockin as well of the next three</p>
+<p begin="00:30:14.880" end="00:30:25.860" style="s2">phones quicker just add the drop-down</p>
+<p begin="00:30:17.580" end="00:30:27.659" style="s2">menu at the top yeah and you&#39;re not</p>
+<p begin="00:30:25.860" end="00:30:29.909" style="s2">using a bootstrap or anything like that</p>
+<p begin="00:30:27.659" end="00:30:32.520" style="s2">have you decided whether you get to do</p>
+<p begin="00:30:29.909" end="00:30:36.990" style="s2">all custom CSS or are you gonna try and</p>
+<p begin="00:30:32.520" end="00:30:37.650" style="s2">use something I got CSS to minimum so it</p>
+<p begin="00:30:36.990" end="00:30:42.080" style="s2">can be extend</p>
+<p begin="00:30:37.650" end="00:30:48.240" style="s2">when the prototype is ready to be looked</p>
+<p begin="00:30:42.080" end="00:30:53.550" style="s2">at my thumb someone who knows graphics</p>
+<p begin="00:30:48.240" end="00:30:55.650" style="s2">and proper design yeah so we shouldn&#39;t</p>
+<p begin="00:30:53.550" end="00:30:58.170" style="s2">be analyzing it for like mobile</p>
+<p begin="00:30:55.650" end="00:31:01.860" style="s2">performance and stuff like that</p>
+<p begin="00:30:58.170" end="00:31:06.210" style="s2">no it&#39;s not the responsible but it could</p>
+<p begin="00:31:01.860" end="00:31:07.530" style="s2">be yes which once I sort of got a vibe</p>
+<p begin="00:31:06.210" end="00:31:09.600" style="s2">for how it actually flows it did</p>
+<p begin="00:31:07.530" end="00:31:10.890" style="s2">technically to work on my cell phone I</p>
+<p begin="00:31:09.600" end="00:31:12.480" style="s2">just wasn&#39;t used to sort of seeing and</p>
+<p begin="00:31:10.890" end="00:31:13.920" style="s2">that was the first time I viewed it but</p>
+<p begin="00:31:12.480" end="00:31:15.360" style="s2">then after I saw it on desktop I went</p>
+<p begin="00:31:13.920" end="00:31:17.880" style="s2">back computer on mobile and my co this</p>
+<p begin="00:31:15.360" end="00:31:19.950" style="s2">actually it works I&#39;m sure it needs some</p>
+<p begin="00:31:17.880" end="00:31:22.170" style="s2">tweaks but like a loads and you can use</p>
+<p begin="00:31:19.950" end="00:31:36.150" style="s2">it which that&#39;s quite reasonable in my</p>
+<p begin="00:31:22.170" end="00:31:38.550" style="s2">mind oh it&#39;s just yeah which I mean I</p>
+<p begin="00:31:36.150" end="00:31:40.140" style="s2">didn&#39;t start this from like let&#39;s be</p>
+<p begin="00:31:38.550" end="00:31:41.520" style="s2">mobile first like right now I&#39;m just</p>
+<p begin="00:31:40.140" end="00:31:43.440" style="s2">trying to get sort of the data base and</p>
+<p begin="00:31:41.520" end="00:31:47.250" style="s2">proof of concept it&#39;ll end up needing to</p>
+<p begin="00:31:43.440" end="00:31:53.690" style="s2">to to be mobile but that isn&#39;t the first</p>
+<p begin="00:31:47.250" end="00:31:57.990" style="s2">concern right now so I created the user</p>
+<p begin="00:31:53.690" end="00:31:59.910" style="s2">I see and so if I go you&#39;re right so now</p>
+<p begin="00:31:57.990" end="00:32:01.560" style="s2">I&#39;m on the home page and this will end</p>
+<p begin="00:31:59.910" end="00:32:03.660" style="s2">up you know sort of being a fancier like</p>
+<p begin="00:32:01.560" end="00:32:06.210" style="s2">way to visualize different things but</p>
+<p begin="00:32:03.660" end="00:32:08.520" style="s2">for now this is exactly what I asked for</p>
+<p begin="00:32:06.210" end="00:32:11.280" style="s2">just the list of people in organisations</p>
+<p begin="00:32:08.520" end="00:32:14.490" style="s2">so from there I can go to people just me</p>
+<p begin="00:32:11.280" end="00:32:18.750" style="s2">are there I&#39;ve got the one record yeah</p>
+<p begin="00:32:14.490" end="00:32:22.430" style="s2">and this is actually people are now kept</p>
+<p begin="00:32:18.750" end="00:32:24.660" style="s2">in in firebase in backhanded that so</p>
+<p begin="00:32:22.430" end="00:32:29.840" style="s2">this record comes straight from the</p>
+<p begin="00:32:24.660" end="00:32:33.600" style="s2">database which is a good start and now</p>
+<p begin="00:32:29.840" end="00:32:40.020" style="s2">I&#39;m going to quickly change your access</p>
+<p begin="00:32:33.600" end="00:32:40.650" style="s2">to I mean okay thanks and if you reload</p>
+<p begin="00:32:40.020" end="00:32:43.719" style="s2">the page</p>
+<p begin="00:32:40.650" end="00:32:43.719" style="s2">[Music]</p>
+<p begin="00:32:46.580" end="00:32:58.159" style="s2">in money you are hopefully going to see</p>
+<p begin="00:32:50.980" end="00:33:04.519" style="s2">people and organizations and users okay</p>
+<p begin="00:32:58.159" end="00:33:07.549" style="s2">users is what is the least all thank you</p>
+<p begin="00:33:04.519" end="00:33:12.460" style="s2">I am NOT because okay</p>
+<p begin="00:33:07.549" end="00:33:15.710" style="s2">I used my local version of this so here</p>
+<p begin="00:33:12.460" end="00:33:19.789" style="s2">there will be a list of accounts of</p>
+<p begin="00:33:15.710" end="00:33:22.519" style="s2">users of recollection and there are two</p>
+<p begin="00:33:19.789" end="00:33:23.179" style="s2">types of user 1 and so it only and one</p>
+<p begin="00:33:22.519" end="00:33:26.720" style="s2">is ugly</p>
+<p begin="00:33:23.179" end="00:33:32.470" style="s2">and I think and articles and edit them</p>
+<p begin="00:33:26.720" end="00:33:34.580" style="s2">so now if you go back to the people I</p>
+<p begin="00:33:32.470" end="00:33:38.149" style="s2">see if you choose to edit or I can add</p>
+<p begin="00:33:34.580" end="00:33:46.429" style="s2">new person like I just see it and if I</p>
+<p begin="00:33:38.149" end="00:33:55.039" style="s2">go back oh no so yeah and if you&#39;re</p>
+<p begin="00:33:46.429" end="00:33:59.629" style="s2">you&#39;ve got you can add our city of it do</p>
+<p begin="00:33:55.039" end="00:34:02.019" style="s2">I need to refresh this page once a new</p>
+<p begin="00:33:59.629" end="00:34:02.019" style="s2">person</p>
+<p begin="00:34:14.900" end="00:34:23.560" style="s2">children&#39;s committee that&#39;s the last</p>
+<p begin="00:34:21.410" end="00:34:28.760" style="s2">thing I added to behold anything so</p>
+<p begin="00:34:23.560" end="00:34:31.910" style="s2">hopefully it will work well shows right</p>
+<p begin="00:34:28.760" end="00:34:34.070" style="s2">now perfect yes he&#39;s good to get away</p>
+<p begin="00:34:31.910" end="00:34:37.970" style="s2">from and then I can go to my Jones and</p>
+<p begin="00:34:34.070" end="00:34:41.480" style="s2">now it&#39;s got that stuff cool so this is</p>
+<p begin="00:34:37.970" end="00:34:44.720" style="s2">working having the same thing for</p>
+<p begin="00:34:41.480" end="00:34:46.340" style="s2">organizations that&#39;s going to be easy</p>
+<p begin="00:34:44.720" end="00:34:50.150" style="s2">because it&#39;s basically the same same</p>
+<p begin="00:34:46.340" end="00:34:52.370" style="s2">thing just slightly different data so</p>
+<p begin="00:34:50.150" end="00:34:56.290" style="s2">we&#39;re history that is hard-coded right</p>
+<p begin="00:34:52.370" end="00:34:58.430" style="s2">now yes it is because the idea is once</p>
+<p begin="00:34:56.290" end="00:35:00.260" style="s2">both people and organization</p>
+<p begin="00:34:58.430" end="00:35:06.830" style="s2">organizations come from the database</p>
+<p begin="00:35:00.260" end="00:35:08.600" style="s2">then I will have some way of connecting</p>
+<p begin="00:35:06.830" end="00:35:11.330" style="s2">one to the other right</p>
+<p begin="00:35:08.600" end="00:35:12.650" style="s2">and then the records will reflect what</p>
+<p begin="00:35:11.330" end="00:35:16.370" style="s2">is in the database</p>
+<p begin="00:35:12.650" end="00:35:20.510" style="s2">perfect yeah and I think this is what</p>
+<p begin="00:35:16.370" end="00:35:22.730" style="s2">the NDP should look like monomers yeah I</p>
+<p begin="00:35:20.510" end="00:35:23.810" style="s2">mean this is cool very mean hair very</p>
+<p begin="00:35:22.730" end="00:35:28.490" style="s2">close to what I had in mind actually</p>
+<p begin="00:35:23.810" end="00:35:36.740" style="s2">looks really close to the markups yeah I</p>
+<p begin="00:35:28.490" end="00:35:41.450" style="s2">tried to style it as Oh simple but as as</p>
+<p begin="00:35:36.740" end="00:35:47.090" style="s2">the documentation showed right that&#39;s</p>
+<p begin="00:35:41.450" end="00:35:52.430" style="s2">usually yeah our waters the way to do it</p>
+<p begin="00:35:47.090" end="00:35:58.850" style="s2">is basically MVP contains like initial</p>
+<p begin="00:35:52.430" end="00:36:04.100" style="s2">screenshots and images of we think how</p>
+<p begin="00:35:58.850" end="00:36:09.500" style="s2">it should look like and then it can be</p>
+<p begin="00:36:04.100" end="00:36:13.340" style="s2">coded and that they it may be made real</p>
+<p begin="00:36:09.500" end="00:36:16.160" style="s2">and then you have the demo looking more</p>
+<p begin="00:36:13.340" end="00:36:19.220" style="s2">or less like the mock-ups from the first</p>
+<p begin="00:36:16.160" end="00:36:24.890" style="s2">iteration and then you have something to</p>
+<p begin="00:36:19.220" end="00:36:26.289" style="s2">work on and get feedback and think what</p>
+<p begin="00:36:24.890" end="00:36:29.049" style="s2">can be done better</p>
+<p begin="00:36:26.289" end="00:36:32.729" style="s2">and if it&#39;s what you wanted oh there is</p>
+<p begin="00:36:29.049" end="00:36:34.660" style="s2">something to improve change remove</p>
+<p begin="00:36:32.729" end="00:36:36.279" style="s2">certain ones I can just shrimp ring up</p>
+<p begin="00:36:34.660" end="00:36:41.469" style="s2">the mock-up so I can actually show sort</p>
+<p begin="00:36:36.279" end="00:36:43.390" style="s2">of what the starting thing was so yeah</p>
+<p begin="00:36:41.469" end="00:36:45.729" style="s2">that&#39;s why I do this so these are the</p>
+<p begin="00:36:43.390" end="00:36:46.989" style="s2">mock-ups that we sort of started with so</p>
+<p begin="00:36:45.729" end="00:36:48.880" style="s2">you can see the homepage here right we</p>
+<p begin="00:36:46.989" end="00:36:51.339" style="s2">start with just the name of they have up</p>
+<p begin="00:36:48.880" end="00:36:52.390" style="s2">here I think that image may have moved I</p>
+<p begin="00:36:51.339" end="00:36:54.459" style="s2">think that was originally over here but</p>
+<p begin="00:36:52.390" end="00:36:57.939" style="s2">not sure what happened the menu as you</p>
+<p begin="00:36:54.459" end="00:37:00.039" style="s2">can see I mean that&#39;s very close to this</p>
+<p begin="00:36:57.939" end="00:37:02.019" style="s2">menu here and I like your clothes better</p>
+<p begin="00:37:00.039" end="00:37:03.579" style="s2">what before it actually shows the word</p>
+<p begin="00:37:02.019" end="00:37:07.239" style="s2">that&#39;s what I had in mind it was just a</p>
+<p begin="00:37:03.579" end="00:37:09.099" style="s2">bit harder to do in this we have the</p>
+<p begin="00:37:07.239" end="00:37:10.989" style="s2">search bar and then logged in so you can</p>
+<p begin="00:37:09.099" end="00:37:13.239" style="s2">tell that&#39;s very close to the top bar</p>
+<p begin="00:37:10.989" end="00:37:16.029" style="s2">there that&#39;s all the elements were there</p>
+<p begin="00:37:13.239" end="00:37:18.189" style="s2">if we go back to home or you&#39;ve got the</p>
+<p begin="00:37:16.029" end="00:37:20.529" style="s2">list of people in organizations yet the</p>
+<p begin="00:37:18.189" end="00:37:21.939" style="s2">people and election&#39;s just find this was</p>
+<p begin="00:37:20.529" end="00:37:25.299" style="s2">an old mock-up where I changed what</p>
+<p begin="00:37:21.939" end="00:37:27.400" style="s2">objects were actually in the MVB so that</p>
+<p begin="00:37:25.299" end="00:37:28.599" style="s2">that matches it and then you go to</p>
+<p begin="00:37:27.400" end="00:37:32.650" style="s2">something like people where it&#39;s just</p>
+<p begin="00:37:28.599" end="00:37:34.390" style="s2">the list I thought that in these</p>
+<p begin="00:37:32.650" end="00:37:35.650" style="s2">mock-ups I had an actual person detail</p>
+<p begin="00:37:34.390" end="00:37:37.929" style="s2">but I think that may have been a</p>
+<p begin="00:37:35.650" end="00:37:39.549" style="s2">different mock-up that go at it but just</p>
+<p begin="00:37:37.929" end="00:37:42.459" style="s2">so that people can see so that&#39;s what I</p>
+<p begin="00:37:39.549" end="00:37:44.650" style="s2">started off as and the the current</p>
+<p begin="00:37:42.459" end="00:37:49.269" style="s2">version Matushka made is pretty darn</p>
+<p begin="00:37:44.650" end="00:37:51.130" style="s2">close sweet we&#39;ve kind of estimated a</p>
+<p begin="00:37:49.269" end="00:37:55.059" style="s2">couple of weeks for this how are you</p>
+<p begin="00:37:51.130" end="00:37:55.869" style="s2">doing on that timeline is it going</p>
+<p begin="00:37:55.059" end="00:38:01.419" style="s2">faster or slower</p>
+<p begin="00:37:55.869" end="00:38:06.029" style="s2">I think what&#39;s the estimation for a</p>
+<p begin="00:38:01.419" end="00:38:09.819" style="s2">full-time a couple of weeks yeah okay so</p>
+<p begin="00:38:06.029" end="00:38:14.259" style="s2">what you so right now took me about a</p>
+<p begin="00:38:09.819" end="00:38:15.969" style="s2">shelf at 15 to 20 hours okay yeah so and</p>
+<p begin="00:38:14.259" end="00:38:18.489" style="s2">in your head are the discussions though</p>
+<p begin="00:38:15.969" end="00:38:19.959" style="s2">and stuff so that could have changed the</p>
+<p begin="00:38:18.489" end="00:38:23.109" style="s2">requirement stuff but it sounds like</p>
+<p begin="00:38:19.959" end="00:38:25.029" style="s2">you&#39;re well within the estimate which of</p>
+<p begin="00:38:23.109" end="00:38:26.799" style="s2">course everyone needs to remember</p>
+<p begin="00:38:25.029" end="00:38:30.789" style="s2">estimates are always wrong that&#39;s why</p>
+<p begin="00:38:26.799" end="00:38:32.439" style="s2">they were called estimate yes just to</p>
+<p begin="00:38:30.789" end="00:38:35.319" style="s2">give you a ballpark but yeah it looks</p>
+<p begin="00:38:32.439" end="00:38:36.440" style="s2">like yeah just to give kind of people an</p>
+<p begin="00:38:35.319" end="00:38:39.350" style="s2">idea</p>
+<p begin="00:38:36.440" end="00:38:41.600" style="s2">the estimation process and in this case</p>
+<p begin="00:38:39.350" end="00:38:44.630" style="s2">Adriel created some pretty detailed</p>
+<p begin="00:38:41.600" end="00:38:47.060" style="s2">specs and more toosh estimated and I</p>
+<p begin="00:38:44.630" end="00:38:52.130" style="s2">just took a look at it and agreed with</p>
+<p begin="00:38:47.060" end="00:38:55.900" style="s2">the estimate oftentimes though Adriel</p>
+<p begin="00:38:52.130" end="00:38:55.900" style="s2">though you you have experience doing</p>
+<p begin="00:38:58.540" end="00:39:03.950" style="s2">specifications and stuff yeah so that</p>
+<p begin="00:39:01.580" end="00:39:05.630" style="s2">might be a little different for our on</p>
+<p begin="00:39:03.950" end="00:39:07.970" style="s2">technical person that hasn&#39;t worked and</p>
+<p begin="00:39:05.630" end="00:39:09.740" style="s2">the thing at all that right you may be</p>
+<p begin="00:39:07.970" end="00:39:11.900" style="s2">describing what you want and then</p>
+<p begin="00:39:09.740" end="00:39:13.460" style="s2">depending on the developer or if you can</p>
+<p begin="00:39:11.900" end="00:39:16.100" style="s2">hire our project manager they may be</p>
+<p begin="00:39:13.460" end="00:39:18.440" style="s2">helping you kind of make mock-ups and</p>
+<p begin="00:39:16.100" end="00:39:20.060" style="s2">then the kind of the cost would kind of</p>
+<p begin="00:39:18.440" end="00:39:23.000" style="s2">go up from there just a drill had some</p>
+<p begin="00:39:20.060" end="00:39:26.450" style="s2">skills that brought down the cost yeah</p>
+<p begin="00:39:23.000" end="00:39:27.980" style="s2">that&#39;s a good call out and I do find</p>
+<p begin="00:39:26.450" end="00:39:29.510" style="s2">that like even people who&#39;ve you know</p>
+<p begin="00:39:27.980" end="00:39:32.060" style="s2">don&#39;t necessarily have a history of</p>
+<p begin="00:39:29.510" end="00:39:33.800" style="s2">product management I think you know if</p>
+<p begin="00:39:32.060" end="00:39:36.290" style="s2">you can sort of sketch what you want on</p>
+<p begin="00:39:33.800" end="00:39:38.180" style="s2">paper and then and I think the app that</p>
+<p begin="00:39:36.290" end="00:39:41.120" style="s2">I&#39;m using here called mock-ups but with</p>
+<p begin="00:39:38.180" end="00:39:42.470" style="s2">a queue moq UPS there&#39;s a ton of them</p>
+<p begin="00:39:41.120" end="00:39:45.020" style="s2">out there but the test one I&#39;ve been</p>
+<p begin="00:39:42.470" end="00:39:46.430" style="s2">using they make it pretty easy to sort</p>
+<p begin="00:39:45.020" end="00:39:48.710" style="s2">of you know drag out your elements</p>
+<p begin="00:39:46.430" end="00:39:50.570" style="s2">commit to make it see how you look yeah</p>
+<p begin="00:39:48.710" end="00:39:52.580" style="s2">in my experience this is one of the most</p>
+<p begin="00:39:50.570" end="00:39:55.070" style="s2">useful things to be able to give to a</p>
+<p begin="00:39:52.580" end="00:39:57.200" style="s2">developer so you can like this is a</p>
+<p begin="00:39:55.070" end="00:39:58.340" style="s2">pretty you know loaded page as far as</p>
+<p begin="00:39:57.200" end="00:39:59.780" style="s2">you can see the banner up top you can</p>
+<p begin="00:39:58.340" end="00:40:03.080" style="s2">see the tabs you can see the list you</p>
+<p begin="00:39:59.780" end="00:40:04.610" style="s2">can see a grid it&#39;s like to open you can</p>
+<p begin="00:40:03.080" end="00:40:06.470" style="s2">you know the whole like a picture&#39;s</p>
+<p begin="00:40:04.610" end="00:40:09.280" style="s2">worth a thousand words thing that&#39;s</p>
+<p begin="00:40:06.470" end="00:40:12.200" style="s2">probably a bitty you know Hollen free</p>
+<p begin="00:40:09.280" end="00:40:14.900" style="s2">there is a free version I believe yeah I</p>
+<p begin="00:40:12.200" end="00:40:17.210" style="s2">I&#39;m using the the paid version here but</p>
+<p begin="00:40:14.900" end="00:40:19.190" style="s2">if for whatever reason it&#39;s not free</p>
+<p begin="00:40:17.210" end="00:40:21.710" style="s2">there I would bet money that there&#39;s</p>
+<p begin="00:40:19.190" end="00:40:23.690" style="s2">going to be ten free ones out there if</p>
+<p begin="00:40:21.710" end="00:40:26.630" style="s2">you saw one at work people we&#39;re using</p>
+<p begin="00:40:23.690" end="00:40:29.930" style="s2">that has a I think you think they have a</p>
+<p begin="00:40:26.630" end="00:40:33.230" style="s2">pretty decent option called Sigma fi GMA</p>
+<p begin="00:40:29.930" end="00:40:35.300" style="s2">that one seemed to to be nice because on</p>
+<p begin="00:40:33.230" end="00:40:37.430" style="s2">this it&#39;s sort of each page is its own</p>
+<p begin="00:40:35.300" end="00:40:38.240" style="s2">thing and you click between them on that</p>
+<p begin="00:40:37.430" end="00:40:40.490" style="s2">it&#39;s like you&#39;ve still got your</p>
+<p begin="00:40:38.240" end="00:40:41.840" style="s2">individual page but then you zoom oh and</p>
+<p begin="00:40:40.490" end="00:40:44.120" style="s2">it shows all the pages and kind of how</p>
+<p begin="00:40:41.840" end="00:40:45.860" style="s2">it flows which I quite liked for trying</p>
+<p begin="00:40:44.120" end="00:40:47.660" style="s2">to understand and you can even make it</p>
+<p begin="00:40:45.860" end="00:40:48.839" style="s2">tour certain places when you click it&#39;ll</p>
+<p begin="00:40:47.660" end="00:40:51.569" style="s2">go to the</p>
+<p begin="00:40:48.839" end="00:40:53.670" style="s2">the other page I think so yeah which I</p>
+<p begin="00:40:51.569" end="00:40:56.279" style="s2">can technically do in this too but I do</p>
+<p begin="00:40:53.670" end="00:40:59.400" style="s2">like the like zooming out canvas view of</p>
+<p begin="00:40:56.279" end="00:41:02.729" style="s2">pages I do like that more yeah and just</p>
+<p begin="00:40:59.400" end="00:41:05.849" style="s2">a word of caution I do have a friend who</p>
+<p begin="00:41:02.729" end="00:41:07.950" style="s2">was working with a company and she paid</p>
+<p begin="00:41:05.849" end="00:41:10.769" style="s2">a fair amount of money and she said a</p>
+<p begin="00:41:07.950" end="00:41:15.779" style="s2">working prototype and they got her they</p>
+<p begin="00:41:10.769" end="00:41:17.579" style="s2">gave her a figma and oh so it really you</p>
+<p begin="00:41:15.779" end="00:41:21.029" style="s2">know it&#39;s you can&#39;t it doesn&#39;t actually</p>
+<p begin="00:41:17.579" end="00:41:23.039" style="s2">do anything so she was really and she</p>
+<p begin="00:41:21.029" end="00:41:24.779" style="s2">was pretty sure that that she was clear</p>
+<p begin="00:41:23.039" end="00:41:26.549" style="s2">that this was not even a working</p>
+<p begin="00:41:24.779" end="00:41:28.380" style="s2">prototype this was supposed to be a</p>
+<p begin="00:41:26.549" end="00:41:30.029" style="s2">working app right</p>
+<p begin="00:41:28.380" end="00:41:33.960" style="s2">based on her requirements okay that&#39;s</p>
+<p begin="00:41:30.029" end="00:41:35.789" style="s2">already you know not even what I would</p>
+<p begin="00:41:33.960" end="00:41:39.119" style="s2">call a prototype but well I guess it</p>
+<p begin="00:41:35.789" end="00:41:43.549" style="s2">does fit on the term prototype yeah so</p>
+<p begin="00:41:39.119" end="00:41:50.219" style="s2">be be cautious out there yeah and I&#39;m</p>
+<p begin="00:41:43.549" end="00:41:53.309" style="s2">good I just checked because what I had</p>
+<p begin="00:41:50.219" end="00:41:54.749" style="s2">for the requirements and the mock-ups I</p>
+<p begin="00:41:53.309" end="00:41:58.859" style="s2">took from my collection</p>
+<p begin="00:41:54.749" end="00:42:02.190" style="s2">drafts back right just specs which</p>
+<p begin="00:41:58.859" end="00:42:05.849" style="s2">contains no link to the what I&#39;m seeing</p>
+<p begin="00:42:02.190" end="00:42:08.489" style="s2">right now so for the record alright I</p>
+<p begin="00:42:05.849" end="00:42:10.559" style="s2">made sure everyone&#39;s right yeah I</p>
+<p begin="00:42:08.489" end="00:42:12.900" style="s2">totally forgot about that I I made these</p>
+<p begin="00:42:10.559" end="00:42:14.460" style="s2">and then okay that&#39;s a good point</p>
+<p begin="00:42:12.900" end="00:42:16.259" style="s2">I&#39;m gonna go find that one just to see</p>
+<p begin="00:42:14.460" end="00:42:18.960" style="s2">so that actually means that material</p>
+<p begin="00:42:16.259" end="00:42:20.460" style="s2">even better because the ones that I</p>
+<p begin="00:42:18.960" end="00:42:23.819" style="s2">really weren&#39;t that nice ones like where</p>
+<p begin="00:42:20.460" end="00:42:32.160" style="s2">are they great great minds think alike</p>
+<p begin="00:42:23.819" end="00:42:34.200" style="s2">so yeah this one I just yeah so did this</p>
+<p begin="00:42:32.160" end="00:42:35.999" style="s2">like I just use Google draw so I just</p>
+<p begin="00:42:34.200" end="00:42:38.130" style="s2">actually did like you know insert draw</p>
+<p begin="00:42:35.999" end="00:42:40.650" style="s2">and then you can editor here so it&#39;s not</p>
+<p begin="00:42:38.130" end="00:42:42.989" style="s2">nearly as nice looking as the other one</p>
+<p begin="00:42:40.650" end="00:42:44.940" style="s2">but it did it let me sort of more easily</p>
+<p begin="00:42:42.989" end="00:42:50.249" style="s2">embed it in the text field and you can</p>
+<p begin="00:42:44.940" end="00:42:52.410" style="s2">see here like so person the one that you</p>
+<p begin="00:42:50.249" end="00:42:54.599" style="s2">created so this is what was made and</p>
+<p begin="00:42:52.410" end="00:42:56.219" style="s2">that&#39;s what was asked you can see the</p>
+<p begin="00:42:54.599" end="00:42:59.759" style="s2">version diminution made is a hell of a</p>
+<p begin="00:42:56.219" end="00:43:02.359" style="s2">lot nicer looking thank you but it&#39;s not</p>
+<p begin="00:42:59.759" end="00:43:02.359" style="s2">as nice as the</p>
+<p begin="00:43:02.539" end="00:43:15.089" style="s2">before well yeah it&#39;s now that the code</p>
+<p begin="00:43:09.690" end="00:43:16.709" style="s2">is there and styling is yeah it&#39;s</p>
+<p begin="00:43:15.089" end="00:43:20.849" style="s2">totally adjustable</p>
+<p begin="00:43:16.709" end="00:43:24.289" style="s2">so I mmm</p>
+<p begin="00:43:20.849" end="00:43:26.670" style="s2">I&#39;m even too too worried about how it</p>
+<p begin="00:43:24.289" end="00:43:28.499" style="s2">looks yeah I kind of want to get it to</p>
+<p begin="00:43:26.670" end="00:43:29.880" style="s2">like the MVP stage and and then I&#39;ve got</p>
+<p begin="00:43:28.499" end="00:43:32.369" style="s2">people who are quite good at branding</p>
+<p begin="00:43:29.880" end="00:43:34.769" style="s2">and making things look nice</p>
+<p begin="00:43:32.369" end="00:43:38.309" style="s2">I don&#39;t want to spend any time on that</p>
+<p begin="00:43:34.769" end="00:43:40.920" style="s2">until like the structure and skeleton is</p>
+<p begin="00:43:38.309" end="00:43:42.660" style="s2">there because you know I mean as I&#39;m</p>
+<p begin="00:43:40.920" end="00:43:44.839" style="s2">sure we&#39;ve all seen projects change when</p>
+<p begin="00:43:42.660" end="00:43:48.259" style="s2">you&#39;re sort of in the middle of them and</p>
+<p begin="00:43:44.839" end="00:43:50.489" style="s2">I&#39;m going into this knowing that like</p>
+<p begin="00:43:48.259" end="00:43:52.289" style="s2">hey I&#39;m gonna change my mind and B I</p>
+<p begin="00:43:50.489" end="00:43:54.420" style="s2">didn&#39;t do a perfect job at explaining</p>
+<p begin="00:43:52.289" end="00:43:56.039" style="s2">everything and and that&#39;s on me so you</p>
+<p begin="00:43:54.420" end="00:43:58.019" style="s2">know if it ends up being like you build</p>
+<p begin="00:43:56.039" end="00:44:00.329" style="s2">something that wasn&#39;t quite what what</p>
+<p begin="00:43:58.019" end="00:44:01.739" style="s2">well I explained I&#39;m going to assume was</p>
+<p begin="00:44:00.329" end="00:44:05.969" style="s2">probably my fault in this case cuz I</p>
+<p begin="00:44:01.739" end="00:44:08.279" style="s2">didn&#39;t owe as much time is like when</p>
+<p begin="00:44:05.969" end="00:44:09.809" style="s2">I&#39;ve done this for work before I spend</p>
+<p begin="00:44:08.279" end="00:44:13.199" style="s2">10 times longer and it was you know in</p>
+<p begin="00:44:09.809" end="00:44:16.499" style="s2">painstaking agonizing for both me and</p>
+<p begin="00:44:13.199" end="00:44:19.109" style="s2">the developer detail which if I can get</p>
+<p begin="00:44:16.499" end="00:44:26.039" style="s2">up away with avoiding that I will take</p>
+<p begin="00:44:19.109" end="00:44:28.589" style="s2">that off and besides when you just have</p>
+<p begin="00:44:26.039" end="00:44:31.979" style="s2">the initial idea and then you know</p>
+<p begin="00:44:28.589" end="00:44:35.099" style="s2">through stages to get to how you think</p>
+<p begin="00:44:31.979" end="00:44:37.349" style="s2">the MVP should look like the ultimate</p>
+<p begin="00:44:35.099" end="00:44:43.140" style="s2">test for everything is reality</p>
+<p begin="00:44:37.349" end="00:44:48.660" style="s2">and once the thing is created then you</p>
+<p begin="00:44:43.140" end="00:44:51.989" style="s2">can see and compare it to what you know</p>
+<p begin="00:44:48.660" end="00:44:55.589" style="s2">then after getting feedback only then</p>
+<p begin="00:44:51.989" end="00:45:00.859" style="s2">you see how what is really needed and</p>
+<p begin="00:44:55.589" end="00:45:06.539" style="s2">whether and to what extent your idea is</p>
+<p begin="00:45:00.859" end="00:45:07.949" style="s2">fulfilling this like yeah it&#39;s not</p>
+<p begin="00:45:06.539" end="00:45:11.430" style="s2">possible to foresee all the</p>
+<p begin="00:45:07.949" end="00:45:15.030" style="s2">circumstances and details beforehand so</p>
+<p begin="00:45:11.430" end="00:45:18.680" style="s2">you have to have an MVP and then go</p>
+<p begin="00:45:15.030" end="00:45:21.750" style="s2">wrong there but MVP is this important</p>
+<p begin="00:45:18.680" end="00:45:25.410" style="s2">yeah just a starting point which is an</p>
+<p begin="00:45:21.750" end="00:45:27.660" style="s2">important thing to remember and going</p>
+<p begin="00:45:25.410" end="00:45:30.150" style="s2">into it I sort of because I&#39;ve been down</p>
+<p begin="00:45:27.660" end="00:45:31.710" style="s2">this road I know that the MVP won&#39;t</p>
+<p begin="00:45:30.150" end="00:45:35.070" style="s2">actually be what I have in mind right</p>
+<p begin="00:45:31.710" end="00:45:36.990" style="s2">now and that&#39;s just because that&#39;s how</p>
+<p begin="00:45:35.070" end="00:45:37.770" style="s2">reality works right like as we go</p>
+<p begin="00:45:36.990" end="00:45:39.390" style="s2">through it you might be like actually</p>
+<p begin="00:45:37.770" end="00:45:41.340" style="s2">that&#39;s super hard to do it this way I</p>
+<p begin="00:45:39.390" end="00:45:42.390" style="s2">can do it in a tenth of the time if I do</p>
+<p begin="00:45:41.340" end="00:45:44.640" style="s2">it this way instead</p>
+<p begin="00:45:42.390" end="00:45:46.590" style="s2">okay sure that&#39;s probably it could trade</p>
+<p begin="00:45:44.640" end="00:45:47.910" style="s2">off and just you know after I see it on</p>
+<p begin="00:45:46.590" end="00:45:49.380" style="s2">a page I&#39;m like oh I didn&#39;t think it was</p>
+<p begin="00:45:47.910" end="00:45:52.920" style="s2">you know gonna do that and I forgot that</p>
+<p begin="00:45:49.380" end="00:45:55.820" style="s2">this would be on top of that and how it</p>
+<p begin="00:45:52.920" end="00:45:58.230" style="s2">works so it&#39;s like that sort of where</p>
+<p begin="00:45:55.820" end="00:46:00.000" style="s2">I&#39;m coming from I think that that&#39;s an</p>
+<p begin="00:45:58.230" end="00:46:02.820" style="s2">important thing for somebody who&#39;s in my</p>
+<p begin="00:46:00.000" end="00:46:06.660" style="s2">role who&#39;s not the developer to keep in</p>
+<p begin="00:46:02.820" end="00:46:08.220" style="s2">mind like it&#39;s on you if you&#39;re in my</p>
+<p begin="00:46:06.660" end="00:46:09.840" style="s2">role to sort of make sure you explain it</p>
+<p begin="00:46:08.220" end="00:46:13.380" style="s2">right and if it&#39;s not like in</p>
+<p begin="00:46:09.840" end="00:46:16.020" style="s2">painstaking detail realized that that</p>
+<p begin="00:46:13.380" end="00:46:19.500" style="s2">was on you and sofas slightly off yes</p>
+<p begin="00:46:16.020" end="00:46:21.810" style="s2">whose fault it is because I do know that</p>
+<p begin="00:46:19.500" end="00:46:23.430" style="s2">when I hear people planning things it</p>
+<p begin="00:46:21.810" end="00:46:25.380" style="s2">seems a lot like you know it&#39;s a hundred</p>
+<p begin="00:46:23.430" end="00:46:27.330" style="s2">percent they think that that&#39;s how it&#39;s</p>
+<p begin="00:46:25.380" end="00:46:29.160" style="s2">going to be and I think any product</p>
+<p begin="00:46:27.330" end="00:46:31.380" style="s2">manager or developer that hears that you</p>
+<p begin="00:46:29.160" end="00:46:33.690" style="s2">can be pretty safe oh you&#39;ve never done</p>
+<p begin="00:46:31.380" end="00:46:35.280" style="s2">this before if you think that it&#39;s going</p>
+<p begin="00:46:33.690" end="00:46:37.110" style="s2">to go end to end and there&#39;s gonna be no</p>
+<p begin="00:46:35.280" end="00:46:40.400" style="s2">changes and you&#39;re gonna have it exactly</p>
+<p begin="00:46:37.110" end="00:46:43.820" style="s2">planned right from step one almost never</p>
+<p begin="00:46:40.400" end="00:46:47.280" style="s2">those things you know spiraling the</p>
+<p begin="00:46:43.820" end="00:46:50.100" style="s2">first iteration and then based on the</p>
+<p begin="00:46:47.280" end="00:46:52.680" style="s2">first iteration you can and only then</p>
+<p begin="00:46:50.100" end="00:46:55.980" style="s2">you can see what&#39;s to improve because</p>
+<p begin="00:46:52.680" end="00:46:59.490" style="s2">it&#39;s just not possible to ever make a</p>
+<p begin="00:46:55.980" end="00:47:02.000" style="s2">project that good sort of goes to the</p>
+<p begin="00:46:59.490" end="00:47:04.940" style="s2">production stage to the final stage</p>
+<p begin="00:47:02.000" end="00:47:09.510" style="s2">unchanged usually the changes are</p>
+<p begin="00:47:04.940" end="00:47:13.080" style="s2">anything from wide out to huge and</p>
+<p begin="00:47:09.510" end="00:47:16.130" style="s2">sometimes it&#39;s sometimes halfway through</p>
+<p begin="00:47:13.080" end="00:47:21.630" style="s2">you&#39;ll see that the idea was not even</p>
+<p begin="00:47:16.130" end="00:47:23.670" style="s2">yeah sometimes it happens yeah and I</p>
+<p begin="00:47:21.630" end="00:47:26.040" style="s2">think like that at its core is one of</p>
+<p begin="00:47:23.670" end="00:47:28.200" style="s2">the reasons why I like agile is because</p>
+<p begin="00:47:26.040" end="00:47:28.990" style="s2">you know you&#39;re you&#39;re you&#39;re you may</p>
+<p begin="00:47:28.200" end="00:47:30.670" style="s2">still be planning down</p>
+<p begin="00:47:28.990" end="00:47:32.170" style="s2">the road but you&#39;re gonna see it how it</p>
+<p begin="00:47:30.670" end="00:47:33.160" style="s2">changes week over week and then after a</p>
+<p begin="00:47:32.170" end="00:47:34.810" style="s2">month and a half you can be like oh</p>
+<p begin="00:47:33.160" end="00:47:36.760" style="s2">actually maybe we need to pivot a bit</p>
+<p begin="00:47:34.810" end="00:47:38.800" style="s2">mm no that I&#39;m actually seeing it be</p>
+<p begin="00:47:36.760" end="00:47:40.810" style="s2">developed and testing it and trying it</p>
+<p begin="00:47:38.800" end="00:47:41.980" style="s2">out turns out maybe we need to adjust a</p>
+<p begin="00:47:40.810" end="00:47:44.890" style="s2">bit and they keep going down the</p>
+<p begin="00:47:41.980" end="00:47:49.150" style="s2">slightly altered road so what are the</p>
+<p begin="00:47:44.890" end="00:47:51.790" style="s2">next steps for this prototype or this so</p>
+<p begin="00:47:49.150" end="00:47:55.480" style="s2">one of the things that I want to do is</p>
+<p begin="00:47:51.790" end="00:47:58.680" style="s2">to sort of get on its own I guess</p>
+<p begin="00:47:55.480" end="00:48:01.150" style="s2">development environment I think it was</p>
+<p begin="00:47:58.680" end="00:48:03.610" style="s2">mo Tuesday they recommended that I go</p>
+<p begin="00:48:01.150" end="00:48:05.830" style="s2">with digitalocean which I did some</p>
+<p begin="00:48:03.610" end="00:48:08.050" style="s2">research on and that sounded quite good</p>
+<p begin="00:48:05.830" end="00:48:10.960" style="s2">sort of start to set that up and so to</p>
+<p begin="00:48:08.050" end="00:48:13.510" style="s2">get it like a on a you know a</p>
+<p begin="00:48:10.960" end="00:48:16.180" style="s2">environment where I&#39;m not leeching out</p>
+<p begin="00:48:13.510" end="00:48:17.590" style="s2">of your resources and then also to get</p>
+<p begin="00:48:16.180" end="00:48:20.650" style="s2">it to the point where it&#39;s actually on</p>
+<p begin="00:48:17.590" end="00:48:24.190" style="s2">its own domain name or I guess in this</p>
+<p begin="00:48:20.650" end="00:48:26.380" style="s2">case a a subdomain so the I I think the</p>
+<p begin="00:48:24.190" end="00:48:28.990" style="s2">initial idea is like f dot wiki election</p>
+<p begin="00:48:26.380" end="00:48:30.340" style="s2">comm would then go here and you know</p>
+<p begin="00:48:28.990" end="00:48:32.670" style="s2">even though it&#39;s still early days of</p>
+<p begin="00:48:30.340" end="00:48:35.670" style="s2">course as we go through the agile</p>
+<p begin="00:48:32.670" end="00:48:38.320" style="s2">releases that will sort of always be the</p>
+<p begin="00:48:35.670" end="00:48:39.970" style="s2">current version of the prototype until</p>
+<p begin="00:48:38.320" end="00:48:43.000" style="s2">it&#39;s an actual app and then it&#39;ll be the</p>
+<p begin="00:48:39.970" end="00:48:46.840" style="s2">app cool or teach I wonder if you to</p>
+<p begin="00:48:43.000" end="00:48:48.940" style="s2">explain to us and the viewers any</p>
+<p begin="00:48:46.840" end="00:48:53.950" style="s2">reasons why my chosen digitalocean</p>
+<p begin="00:48:48.940" end="00:49:02.980" style="s2">I&#39;m just curious because I used in the</p>
+<p begin="00:48:53.950" end="00:49:06.910" style="s2">past it compares to amazing digital</p>
+<p begin="00:49:02.980" end="00:49:12.090" style="s2">option is less complicated in initial</p>
+<p begin="00:49:06.910" end="00:49:15.840" style="s2">setup and if you need the full power of</p>
+<p begin="00:49:12.090" end="00:49:23.020" style="s2">another cloud you then but otherwise</p>
+<p begin="00:49:15.840" end="00:49:27.430" style="s2">digital option is the price wise it&#39;s I</p>
+<p begin="00:49:23.020" end="00:49:35.590" style="s2">think it&#39;s well depending on but it&#39;s</p>
+<p begin="00:49:27.430" end="00:49:40.300" style="s2">cheaper is at least as fast as AWS and</p>
+<p begin="00:49:35.590" end="00:49:41.950" style="s2">it&#39;s like the second respectable cloud</p>
+<p begin="00:49:40.300" end="00:49:46.900" style="s2">provider</p>
+<p begin="00:49:41.950" end="00:49:55.510" style="s2">in a cloud space and if choice miles it</p>
+<p begin="00:49:46.900" end="00:49:58.569" style="s2">is it auto-scale I think I&#39;ve from the</p>
+<p begin="00:49:55.510" end="00:50:00.430" style="s2">brief amount of research I did aid like</p>
+<p begin="00:49:58.569" end="00:50:02.410" style="s2">they seem to have fewer options which in</p>
+<p begin="00:50:00.430" end="00:50:04.030" style="s2">that case what was good as I tried to go</p>
+<p begin="00:50:02.410" end="00:50:05.710" style="s2">shopping you know like figuring out how</p>
+<p begin="00:50:04.030" end="00:50:07.869" style="s2">much I was good going to pick on Amazon</p>
+<p begin="00:50:05.710" end="00:50:09.099" style="s2">and that process is ridiculous like I</p>
+<p begin="00:50:07.869" end="00:50:11.200" style="s2">was trying to get to the lowest tier</p>
+<p begin="00:50:09.099" end="00:50:12.760" style="s2">price and it was still like for the app</p>
+<p begin="00:50:11.200" end="00:50:14.319" style="s2">hosting was super cheap but then the</p>
+<p begin="00:50:12.760" end="00:50:15.490" style="s2">database part to keep being like five</p>
+<p begin="00:50:14.319" end="00:50:17.380" style="s2">thousand dollars they&#39;d be like I don&#39;t</p>
+<p begin="00:50:15.490" end="00:50:20.650" style="s2">think that&#39;s the lowest price T er but</p>
+<p begin="00:50:17.380" end="00:50:23.200" style="s2">it didn&#39;t quite work properly and the</p>
+<p begin="00:50:20.650" end="00:50:25.150" style="s2">pricing on digital ocean seemed way</p>
+<p begin="00:50:23.200" end="00:50:27.609" style="s2">clear and then the other part that that</p>
+<p begin="00:50:25.150" end="00:50:30.490" style="s2">I like is that it&#39;s not Amazon where I</p>
+<p begin="00:50:27.609" end="00:50:33.369" style="s2">can avoid put any money in just his</p>
+<p begin="00:50:30.490" end="00:50:37.119" style="s2">pocket all air on that side usually but</p>
+<p begin="00:50:33.369" end="00:50:38.920" style="s2">yeah I was the only other I haven&#39;t</p>
+<p begin="00:50:37.119" end="00:50:40.540" style="s2">looked at a lot of posters recently I&#39;ve</p>
+<p begin="00:50:38.920" end="00:50:47.200" style="s2">used Microsoft in the past which is</p>
+<p begin="00:50:40.540" end="00:50:48.730" style="s2">another big tech company and then dangit</p>
+<p begin="00:50:47.200" end="00:50:57.359" style="s2">I forgot the one I was gonna go to</p>
+<p begin="00:50:48.730" end="00:50:59.859" style="s2">there&#39;s a a serverless kind of provider</p>
+<p begin="00:50:57.359" end="00:51:02.280" style="s2">hey uh if I can think of the name I&#39;ll</p>
+<p begin="00:50:59.859" end="00:51:06.549" style="s2">bring it back up but but yeah digital</p>
+<p begin="00:51:02.280" end="00:51:07.930" style="s2">digital ocean sounds um sounds good I</p>
+<p begin="00:51:06.549" end="00:51:10.240" style="s2">have not used them yet but they look</p>
+<p begin="00:51:07.930" end="00:51:12.760" style="s2">really good and they do have you know I</p>
+<p begin="00:51:10.240" end="00:51:14.349" style="s2">I was the aggressive marketing but like</p>
+<p begin="00:51:12.760" end="00:51:16.329" style="s2">fairly centered marketing where as soon</p>
+<p begin="00:51:14.349" end="00:51:17.609" style="s2">as I visited them I saw ads for them on</p>
+<p begin="00:51:16.329" end="00:51:21.220" style="s2">Facebook and YouTube for like two weeks</p>
+<p begin="00:51:17.609" end="00:51:22.839" style="s2">so I mean it&#39;s at least it was relevant</p>
+<p begin="00:51:21.220" end="00:51:24.430" style="s2">and I got to learn a bit more about them</p>
+<p begin="00:51:22.839" end="00:51:27.190" style="s2">through their ad so it wasn&#39;t too bad</p>
+<p begin="00:51:24.430" end="00:51:29.710" style="s2">but uh be aware of that if that happens</p>
+<p begin="00:51:27.190" end="00:51:33.130" style="s2">to be something about this year a couple</p>
+<p begin="00:51:29.710" end="00:51:40.500" style="s2">of years ago I when I was looking for</p>
+<p begin="00:51:33.130" end="00:51:40.500" style="s2">new provider for my services I took</p>
+<p begin="00:51:41.190" end="00:51:49.329" style="s2">different providers and it seemed like</p>
+<p begin="00:51:45.270" end="00:51:51.569" style="s2">the pricing is similar we know that AWS</p>
+<p begin="00:51:49.329" end="00:51:54.849" style="s2">is of course the biggest and the</p>
+<p begin="00:51:51.569" end="00:51:55.660" style="s2">probably most well obviously most use</p>
+<p begin="00:51:54.849" end="00:52:01.059" style="s2">but</p>
+<p begin="00:51:55.660" end="00:52:03.910" style="s2">we the biggest set of you know the most</p>
+<p begin="00:52:01.059" end="00:52:08.049" style="s2">powerful and you can configure anything</p>
+<p begin="00:52:03.910" end="00:52:11.440" style="s2">and its scalability and everything yeah</p>
+<p begin="00:52:08.049" end="00:52:15.970" style="s2">but the gel option was on this very</p>
+<p begin="00:52:11.440" end="00:52:18.520" style="s2">strong second place and better when all</p>
+<p begin="00:52:15.970" end="00:52:25.030" style="s2">you wanted is they seemed to simple VPS</p>
+<p begin="00:52:18.520" end="00:52:28.569" style="s2">and no they given the other do it as so</p>
+<p begin="00:52:25.030" end="00:52:31.089" style="s2">that was my choice and I use them for so</p>
+<p begin="00:52:28.569" end="00:52:36.789" style="s2">there are other projects and they are I</p>
+<p begin="00:52:31.089" end="00:52:39.099" style="s2">guess big enough to be a stable enough</p>
+<p begin="00:52:36.789" end="00:52:44.490" style="s2">though these days probably</p>
+<p begin="00:52:39.099" end="00:52:48.069" style="s2">they all are stable to some extent and</p>
+<p begin="00:52:44.490" end="00:52:51.309" style="s2">it&#39;s matter of preference more than</p>
+<p begin="00:52:48.069" end="00:52:53.770" style="s2">anything I guess but I was never</p>
+<p begin="00:52:51.309" end="00:52:56.289" style="s2">disappointed with that services so I</p>
+<p begin="00:52:53.770" end="00:52:58.809" style="s2">stayed with them and used them for this</p>
+<p begin="00:52:56.289" end="00:53:04.539" style="s2">project as well I guess the one I want</p>
+<p begin="00:52:58.809" end="00:53:07.480" style="s2">to look at is net laugh i but they host</p>
+<p begin="00:53:04.539" end="00:53:10.119" style="s2">hosting environment right so we can</p>
+<p begin="00:53:07.480" end="00:53:14.589" style="s2">provide appears all do they I don&#39;t know</p>
+<p begin="00:53:10.119" end="00:53:23.589" style="s2">well yeah it&#39;s hosting what do you want</p>
+<p begin="00:53:14.589" end="00:53:27.880" style="s2">of VPS because of my background okay</p>
+<p begin="00:53:23.589" end="00:53:29.710" style="s2">yeah I mean I would rather and this is</p>
+<p begin="00:53:27.880" end="00:53:32.849" style="s2">I&#39;m not saying that&#39;s the best thing but</p>
+<p begin="00:53:29.710" end="00:53:35.109" style="s2">I would I would rather go with a</p>
+<p begin="00:53:32.849" end="00:53:38.829" style="s2">scalable hosting provider although</p>
+<p begin="00:53:35.109" end="00:53:43.569" style="s2">honestly if you&#39;re doing a single page</p>
+<p begin="00:53:38.829" end="00:53:46.029" style="s2">app with with using and then using a</p>
+<p begin="00:53:43.569" end="00:53:48.119" style="s2">back-end like far store then you really</p>
+<p begin="00:53:46.029" end="00:53:50.200" style="s2">don&#39;t need you know a content delivery</p>
+<p begin="00:53:48.119" end="00:53:56.020" style="s2">system is probably the best place to</p>
+<p begin="00:53:50.200" end="00:53:58.059" style="s2">host the actual code right so sure okay</p>
+<p begin="00:53:56.020" end="00:53:59.740" style="s2">yeah so that&#39;s kind of why I do net will</p>
+<p begin="00:53:58.059" end="00:54:05.160" style="s2">find not that it&#39;s sir list but it&#39;s</p>
+<p begin="00:53:59.740" end="00:54:05.160" style="s2">yeah it&#39;s just static files but</p>
+<p begin="00:54:05.790" end="00:54:10.840" style="s2">and then they give you the yeah but I</p>
+<p begin="00:54:08.320" end="00:54:13.450" style="s2">but I&#39;m not as familiar with it so you</p>
+<p begin="00:54:10.840" end="00:54:19.210" style="s2">definitely it&#39;s good to go with the</p>
+<p begin="00:54:13.450" end="00:54:21.730" style="s2">technology or familiar with mmm I have</p>
+<p begin="00:54:19.210" end="00:54:23.920" style="s2">to learn the new thing I did here of</p>
+<p begin="00:54:21.730" end="00:54:26.200" style="s2">course about that if I I just I&#39;m not</p>
+<p begin="00:54:23.920" end="00:54:30.670" style="s2">very familiar with what it is exactly</p>
+<p begin="00:54:26.200" end="00:54:35.790" style="s2">they go and how it compares to the PPSS</p>
+<p begin="00:54:30.670" end="00:54:40.990" style="s2">I worked with in the past one thing that</p>
+<p begin="00:54:35.790" end="00:54:48.090" style="s2">came up in some other project was when I</p>
+<p begin="00:54:40.990" end="00:54:52.380" style="s2">wanted to have Oh almost which is the</p>
+<p begin="00:54:48.090" end="00:54:55.780" style="s2">authentication mechanism using github</p>
+<p begin="00:54:52.380" end="00:55:01.150" style="s2">for an application the way it works is</p>
+<p begin="00:54:55.780" end="00:55:04.720" style="s2">you have to have a sound secure space</p>
+<p begin="00:55:01.150" end="00:55:07.210" style="s2">somewhere so we can store the key of the</p>
+<p begin="00:55:04.720" end="00:55:09.880" style="s2">like application application key that</p>
+<p begin="00:55:07.210" end="00:55:15.640" style="s2">you used to connect to github it&#39;s like</p>
+<p begin="00:55:09.880" end="00:55:20.260" style="s2">three points thing together in</p>
+<p begin="00:55:15.640" end="00:55:22.960" style="s2">authorization yeah and then I didn&#39;t</p>
+<p begin="00:55:20.260" end="00:55:28.870" style="s2">need IDPs I&#39;m not sure if not if I</p>
+<p begin="00:55:22.960" end="00:55:30.250" style="s2">solved this and how exactly but yeah</p>
+<p begin="00:55:28.870" end="00:55:31.840" style="s2">there&#39;s sometimes you need a back-end so</p>
+<p begin="00:55:30.250" end="00:55:35.880" style="s2">for them they would they would they</p>
+<p begin="00:55:31.840" end="00:55:42.700" style="s2">would have a us I think they support</p>
+<p begin="00:55:35.880" end="00:55:44.860" style="s2">server less code but yeah but you could</p>
+<p begin="00:55:42.700" end="00:55:47.830" style="s2">also do that and fire store with the</p>
+<p begin="00:55:44.860" end="00:55:50.350" style="s2">firestore thing yeah so there&#39;s lots of</p>
+<p begin="00:55:47.830" end="00:55:52.510" style="s2">there&#39;s lots of solutions so yeah so now</p>
+<p begin="00:55:50.350" end="00:55:56.530" style="s2">the new hotness in that area would be</p>
+<p begin="00:55:52.510" end="00:56:00.490" style="s2">using lambdas or you know little bitty</p>
+<p begin="00:55:56.530" end="00:56:02.170" style="s2">bits of node running on a server</p>
+<p begin="00:56:00.490" end="00:56:04.300" style="s2">somewhere so that would also be without</p>
+<p begin="00:56:02.170" end="00:56:07.870" style="s2">a virtual private server but it would be</p>
+<p begin="00:56:04.300" end="00:56:09.820" style="s2">I can&#39;t read the term right now lambdas</p>
+<p begin="00:56:07.870" end="00:56:11.860" style="s2">one of the names I can&#39;t read the</p>
+<p begin="00:56:09.820" end="00:56:15.250" style="s2">generic term form but serverless</p>
+<p begin="00:56:11.860" end="00:56:16.450" style="s2">functions yes or less function would be</p>
+<p begin="00:56:15.250" end="00:56:18.160" style="s2">one way to go around it</p>
+<p begin="00:56:16.450" end="00:56:22.540" style="s2">in the last it&#39;s</p>
+<p begin="00:56:18.160" end="00:56:29.260" style="s2">Monsoor something I haven&#39;t always go</p>
+<p begin="00:56:22.540" end="00:56:30.580" style="s2">ipfs yes so we got a couple more minutes</p>
+<p begin="00:56:29.260" end="00:56:33.220" style="s2">I don&#39;t know if anyone has any other</p>
+<p begin="00:56:30.580" end="00:56:35.350" style="s2">closing comments I want to wrap one</p>
+<p begin="00:56:33.220" end="00:56:36.850" style="s2">thing I did want to mention I&#39;m not sure</p>
+<p begin="00:56:35.350" end="00:56:38.590" style="s2">if this is easy to change later or if</p>
+<p begin="00:56:36.850" end="00:56:40.540" style="s2">it&#39;s something we have to you know if it</p>
+<p begin="00:56:38.590" end="00:56:42.040" style="s2">makes it way easier to plan for now but</p>
+<p begin="00:56:40.540" end="00:56:43.590" style="s2">with the whole single page app thing</p>
+<p begin="00:56:42.040" end="00:56:46.510" style="s2">does that mean it like no matter what</p>
+<p begin="00:56:43.590" end="00:56:48.720" style="s2">record of content you you&#39;re viewing the</p>
+<p begin="00:56:46.510" end="00:56:53.740" style="s2">URL would still just be like after the</p>
+<p begin="00:56:48.720" end="00:56:58.990" style="s2">election to calm yeah and the idea is to</p>
+<p begin="00:56:53.740" end="00:57:04.980" style="s2">not use URLs at all we see in the</p>
+<p begin="00:56:58.990" end="00:57:09.160" style="s2">application don&#39;t need them well sorry</p>
+<p begin="00:57:04.980" end="00:57:13.570" style="s2">the idea is for the web page to never</p>
+<p begin="00:57:09.160" end="00:57:16.480" style="s2">reload so click on the link and stuff</p>
+<p begin="00:57:13.570" end="00:57:19.240" style="s2">happens but the application itself stays</p>
+<p begin="00:57:16.480" end="00:57:21.070" style="s2">in place on your screen and those</p>
+<p begin="00:57:19.240" end="00:57:26.710" style="s2">changes on the screen is just what you</p>
+<p begin="00:57:21.070" end="00:57:28.600" style="s2">want to change right and then yes I&#39;m</p>
+<p begin="00:57:26.710" end="00:57:30.280" style="s2">just saying it I think I drew want the</p>
+<p begin="00:57:28.600" end="00:57:33.580" style="s2">deep linking URLs though which are about</p>
+<p begin="00:57:30.280" end="00:57:37.570" style="s2">that talked about I think that&#39;s</p>
+<p begin="00:57:33.580" end="00:57:40.870" style="s2">different from it&#39;s going to be one page</p>
+<p begin="00:57:37.570" end="00:57:45.730" style="s2">up anyway but I am going to add the</p>
+<p begin="00:57:40.870" end="00:57:48.250" style="s2">links because the links are necessary if</p>
+<p begin="00:57:45.730" end="00:57:50.740" style="s2">you want to send link to someone linking</p>
+<p begin="00:57:48.250" end="00:57:53.860" style="s2">to the one particular record on the</p>
+<p begin="00:57:50.740" end="00:57:56.250" style="s2">bathroom right yeah we&#39;ll be there</p>
+<p begin="00:57:53.860" end="00:58:01.540" style="s2">that&#39;s okay perfect I want to make sure</p>
+<p begin="00:57:56.250" end="00:58:03.100" style="s2">it&#39;s said that&#39;s a pretty important part</p>
+<p begin="00:58:01.540" end="00:58:04.720" style="s2">for the deep linking because you know</p>
+<p begin="00:58:03.100" end="00:58:06.100" style="s2">you find a cool page on a certain</p>
+<p begin="00:58:04.720" end="00:58:06.940" style="s2">politician or a certain thing you want</p>
+<p begin="00:58:06.100" end="00:58:08.980" style="s2">to be able you know to share it on</p>
+<p begin="00:58:06.940" end="00:58:10.720" style="s2">Facebook or email it or do what else so</p>
+<p begin="00:58:08.980" end="00:58:12.310" style="s2">the links in this case would it would be</p>
+<p begin="00:58:10.720" end="00:58:14.320" style="s2">after that last slasher to be a hash</p>
+<p begin="00:58:12.310" end="00:58:16.420" style="s2">which it actually has on the website</p>
+<p begin="00:58:14.320" end="00:58:18.220" style="s2">right now I think it&#39;s a hash and then</p>
+<p begin="00:58:16.420" end="00:58:19.870" style="s2">when you change that that hash would</p>
+<p begin="00:58:18.220" end="00:58:22.780" style="s2">keeps changing so if you copied it out</p>
+<p begin="00:58:19.870" end="00:58:25.410" style="s2">of the URL and paste it in an email it</p>
+<p begin="00:58:22.780" end="00:58:26.530" style="s2">would take them to the same spot right</p>
+<p begin="00:58:25.410" end="00:58:30.250" style="s2">Artesia</p>
+<p begin="00:58:26.530" end="00:58:31.840" style="s2">yeah I see so that&#39;s like oh it&#39;s not</p>
+<p begin="00:58:30.250" end="00:58:33.910" style="s2">working right now though Oh</p>
+<p begin="00:58:31.840" end="00:58:36.220" style="s2">he just hasn&#39;t yeah he didn&#39;t and I&#39;d</p>
+<p begin="00:58:33.910" end="00:58:39.100" style="s2">asked him at the beginning part of that</p>
+<p begin="00:58:36.220" end="00:58:40.750" style="s2">would be a tool react router but yeah</p>
+<p begin="00:58:39.100" end="00:58:42.820" style="s2">yeah it&#39;s something he&#39;ll add in a</p>
+<p begin="00:58:40.750" end="00:58:44.140" style="s2">little later nice and then that will</p>
+<p begin="00:58:42.820" end="00:58:47.320" style="s2">have more control over sort of how that</p>
+<p begin="00:58:44.140" end="00:58:49.810" style="s2">URL structured for the deep linking yeah</p>
+<p begin="00:58:47.320" end="00:58:52.420" style="s2">yes okay perfect yeah cuz I think in the</p>
+<p begin="00:58:49.810" end="00:58:54.010" style="s2">control in the initial wrote for</p>
+<p begin="00:58:52.420" end="00:58:56.020" style="s2">requirements I think it was sort of</p>
+<p begin="00:58:54.010" end="00:58:58.150" style="s2">hidden in the text for each section it</p>
+<p begin="00:58:56.020" end="00:59:00.970" style="s2">gives an example of like the ideal URL</p>
+<p begin="00:58:58.150" end="00:59:03.130" style="s2">where it&#39;s just like yeah I guess the</p>
+<p begin="00:59:00.970" end="00:59:05.080" style="s2">the preface to to the ID so it&#39;s like</p>
+<p begin="00:59:03.130" end="00:59:07.870" style="s2">the string and then if the ID is just</p>
+<p begin="00:59:05.080" end="00:59:08.950" style="s2">like you know a text string that&#39;s fine</p>
+<p begin="00:59:07.870" end="00:59:10.600" style="s2">too it doesn&#39;t have to be like the</p>
+<p begin="00:59:08.950" end="00:59:12.430" style="s2">person&#39;s name or the action name or</p>
+<p begin="00:59:10.600" end="00:59:14.170" style="s2">anything well though sometimes you&#39;ll</p>
+<p begin="00:59:12.430" end="00:59:18.160" style="s2">you&#39;ll have it to be an ID and then a</p>
+<p begin="00:59:14.170" end="00:59:21.580" style="s2">slash and just put the name of it so</p>
+<p begin="00:59:18.160" end="00:59:24.610" style="s2">that you get stuff but but the system</p>
+<p begin="00:59:21.580" end="00:59:26.020" style="s2">will ignore that here&#39;s the ID that the</p>
+<p begin="00:59:24.610" end="00:59:28.390" style="s2">way if you change the name the links</p>
+<p begin="00:59:26.020" end="00:59:30.460" style="s2">don&#39;t all break right hyojong yeah</p>
+<p begin="00:59:28.390" end="00:59:32.050" style="s2">that&#39;s one way to do it I&#39;m not sure</p>
+<p begin="00:59:30.460" end="00:59:42.220" style="s2">what my teachers thought about that yet</p>
+<p begin="00:59:32.050" end="00:59:45.940" style="s2">I haven&#39;t decided I&#39;m because search</p>
+<p begin="00:59:42.220" end="00:59:48.010" style="s2">engine optimization so you google your</p>
+<p begin="00:59:45.940" end="00:59:50.880" style="s2">favorite politician you got the link to</p>
+<p begin="00:59:48.010" end="00:59:55.320" style="s2">a collection and precisely to the</p>
+<p begin="00:59:50.880" end="00:59:55.320" style="s2">specific information about the person</p>
+<p begin="00:59:55.380" end="01:00:00.550" style="s2">Steve also mentioned Heroku in the chat</p>
+<p begin="00:59:59.050" end="01:00:03.190" style="s2">that&#39;s something that gets some respect</p>
+<p begin="01:00:00.550" end="01:00:06.310" style="s2">with coder groups and yes maybe lets you</p>
+<p begin="01:00:03.190" end="01:00:08.110" style="s2">build for free all of these yeah</p>
+<p begin="01:00:06.310" end="01:00:10.570" style="s2">I&#39;m not actually sure yet what it is I</p>
+<p begin="01:00:08.110" end="01:00:12.610" style="s2">know that yeah we&#39;re like older work</p>
+<p begin="01:00:10.570" end="01:00:15.310" style="s2">ways Salesforce Heroku came up a fair</p>
+<p begin="01:00:12.610" end="01:00:17.110" style="s2">bit I haven&#39;t actually used it but I</p>
+<p begin="01:00:15.310" end="01:00:19.180" style="s2">haven&#39;t tried to use it for hand like</p>
+<p begin="01:00:17.110" end="01:00:23.590" style="s2">building the websites for free and stuff</p>
+<p begin="01:00:19.180" end="01:00:27.010" style="s2">but that&#39;s good and is that parties at</p>
+<p begin="01:00:23.590" end="01:00:29.890" style="s2">some pinnable AWS says that one seemed</p>
+<p begin="01:00:27.010" end="01:00:31.420" style="s2">very useful saying AWS has meant for</p>
+<p begin="01:00:29.890" end="01:00:33.220" style="s2">sort of enterprise scaling for</p>
+<p begin="01:00:31.420" end="01:00:35.260" style="s2">technology which I think you know I</p>
+<p begin="01:00:33.220" end="01:00:38.050" style="s2">would agree with a lot of the huge apps</p>
+<p begin="01:00:35.260" end="01:00:40.150" style="s2">to use AWS for their backbone and then</p>
+<p begin="01:00:38.050" end="01:00:42.310" style="s2">he&#39;s saying maybe don&#39;t bother with them</p>
+<p begin="01:00:40.150" end="01:00:45.490" style="s2">unless you&#39;ve actually got a fair amount</p>
+<p begin="01:00:42.310" end="01:00:47.890" style="s2">of traffic and yeah Desmond</p>
+<p begin="01:00:45.490" end="01:00:50.230" style="s2">Amazon a crap ton of money yeah but even</p>
+<p begin="01:00:47.890" end="01:00:52.740" style="s2">the smaller hosts are now able to</p>
+<p begin="01:00:50.230" end="01:00:54.600" style="s2">support scaling and a lot of that</p>
+<p begin="01:00:52.740" end="01:00:57.400" style="s2">infrastructure has been democratized</p>
+<p begin="01:00:54.600" end="01:01:01.060" style="s2">right so I would even still kind of</p>
+<p begin="01:00:57.400" end="01:01:02.530" style="s2">suggest to reach out to smaller there&#39;s</p>
+<p begin="01:01:01.060" end="01:01:04.150" style="s2">very few companies that would need that</p>
+<p begin="01:01:02.530" end="01:01:09.240" style="s2">and if you&#39;re that big a Polish good to</p>
+<p begin="01:01:04.150" end="01:01:14.380" style="s2">be doing cross cloud anyways so ideally</p>
+<p begin="01:01:09.240" end="01:01:24.450" style="s2">and sometimes even companies I worked</p>
+<p begin="01:01:14.380" end="01:01:28.570" style="s2">for in the past that and when you have</p>
+<p begin="01:01:24.450" end="01:01:31.420" style="s2">not enough up too much traffic or not</p>
+<p begin="01:01:28.570" end="01:01:35.440" style="s2">enough bandwidth sometimes it&#39;s helpful</p>
+<p begin="01:01:31.420" end="01:01:39.550" style="s2">to rethink your strategy about content</p>
+<p begin="01:01:35.440" end="01:01:42.460" style="s2">delivery as in to check you have images</p>
+<p begin="01:01:39.550" end="01:01:46.080" style="s2">like within a reasonable range of size</p>
+<p begin="01:01:42.460" end="01:01:51.190" style="s2">because sometimes I saw web pages that</p>
+<p begin="01:01:46.080" end="01:01:54.550" style="s2">the code of the web page itself was just</p>
+<p begin="01:01:51.190" end="01:01:57.960" style="s2">a couple of kilobytes and it was very</p>
+<p begin="01:01:54.550" end="01:02:01.900" style="s2">fast and didn&#39;t saturate the bandwidth</p>
+<p begin="01:01:57.960" end="01:02:05.500" style="s2">and a dangerous extent but then the</p>
+<p begin="01:02:01.900" end="01:02:14.670" style="s2">background was an image ten megabytes in</p>
+<p begin="01:02:05.500" end="01:02:16.750" style="s2">size so yeah is a cool subject yes</p>
+<p begin="01:02:14.670" end="01:02:19.840" style="s2">yeah and that will definitely end up</p>
+<p begin="01:02:16.750" end="01:02:21.460" style="s2">being important but / / / now I&#39;m not</p>
+<p begin="01:02:19.840" end="01:02:23.170" style="s2">too terribly worried but let&#39;s you know</p>
+<p begin="01:02:21.460" end="01:02:25.359" style="s2">we&#39;ll well all work together to stay</p>
+<p begin="01:02:23.170" end="01:02:28.540" style="s2">away from any 10 megabyte bitmaps and</p>
+<p begin="01:02:25.359" end="01:02:31.660" style="s2">that should help us out I guess we&#39;re</p>
+<p begin="01:02:28.540" end="01:02:33.480" style="s2">out of time yeah that&#39;s anyone think we</p>
+<p begin="01:02:31.660" end="01:02:35.380" style="s2">covered a fair bit here that&#39;s good I</p>
+<p begin="01:02:33.480" end="01:02:37.090" style="s2">guess we can&#39;t end the streaming and</p>
+<p begin="01:02:35.380" end="01:02:38.770" style="s2">wrap up anything we want to say off</p>
+<p begin="01:02:37.090" end="01:02:41.980" style="s2">stream after that so thank you everyone</p>
+<p begin="01:02:38.770" end="01:02:44.410" style="s2">for joining I imagine there will be more</p>
+<p begin="01:02:41.980" end="01:02:46.109" style="s2">of these going forward as we get further</p>
+<p begin="01:02:44.410" end="01:02:49.390" style="s2">along with this prototype so you can</p>
+<p begin="01:02:46.109" end="01:02:52.780" style="s2">watch as we go and learn from any you</p>
+<p begin="01:02:49.390" end="01:02:56.850" style="s2">know mistakes or cool stuff that we end</p>
+<p begin="01:02:52.780" end="01:02:56.850" style="s2">up doing so</p>
+</div>
+</body>
+</tt>

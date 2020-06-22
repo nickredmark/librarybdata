@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "AYVCcdZYqObtFCfIWqAaj5vwteo",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "A1NhFU7Hqvs"
+  },
+  "snippet": {
+    "publishedAt": "2020-06-17T17:31:40Z",
+    "channelId": "UCJZYQRyRNZ1K0HxtT-6t9bA",
+    "title": "John Robb, Adam Townsend, Jack Murphy Live",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/A1NhFU7Hqvs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/A1NhFU7Hqvs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/A1NhFU7Hqvs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jack Murphy Live",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-06-17T17:31:40Z"
+  },
+  "_id": "A1NhFU7Hqvs",
+  "publishedAt": "2020-06-17T17:31:40Z",
+  "collections": [
+    "https://www.youtube.com/channel/UCJZYQRyRNZ1K0HxtT-6t9bA"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "tVJsnmeQLZ-k12aAZFcmyIHA8rY",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "e_VoZmjSGpA"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-15T20:13:19Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "I won $900",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/e_VoZmjSGpA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/e_VoZmjSGpA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/e_VoZmjSGpA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Saves the World",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-02-15T20:13:19Z"
+  },
+  "_id": "e_VoZmjSGpA",
+  "publishedAt": "2020-02-15T20:13:19Z",
+  "collections": [
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
+  ]
+}

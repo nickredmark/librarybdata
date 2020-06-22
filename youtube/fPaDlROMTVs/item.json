@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "swDP3FqQuHRn78DbWLWGotb14Og",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "fPaDlROMTVs"
+  },
+  "snippet": {
+    "publishedAt": "2017-10-12T13:56:17Z",
+    "channelId": "UCN06e1C9M4mMffP5OIgTJtg",
+    "title": "Black Square",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fPaDlROMTVs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fPaDlROMTVs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fPaDlROMTVs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Andrew Sweeny",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-10-12T13:56:17Z"
+  },
+  "_id": "fPaDlROMTVs",
+  "publishedAt": "2017-10-12T13:56:17Z",
+  "collections": [
+    "https://www.youtube.com/channel/UCN06e1C9M4mMffP5OIgTJtg"
+  ]
+}
