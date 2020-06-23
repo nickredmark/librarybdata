@@ -1,0 +1,210 @@
+hey episode 12 as you may have noticed
+I've got my microphone very close to my
+mouth so hopefully this will actually
+help solve some of the problems with
+volume before josh gets the chance to
+come help me set this thing up more
+formally
+maybe I'll go this way so you can
+actually see how cool the microphone is
+all right so episode 12 I thought what I
+do today is tackle the very fun and
+useful concept of phase space this
+concept was actually referenced in the
+episode around the Kineton framework and
+at the end of this I'll loop back and
+connecting it back in any frame right
+now and just do face based on his own so
+Facebook's this takers our model a
+bicycle and we're trying to do is we're
+trying to get a handle on how to model
+the relevant information that describes
+some kind of system so in the case of a
+bicycle we have about five fundamental
+degrees of freedom you've got the
+position of the back wheel we've got the
+position of the chain we've got the
+pedals got the front wheel about the
+handlebars and you know absent for
+example trying to do things like
+position the bike itself and XYZ space
+and Teton and maybe position the entire
+orientation of the bike in that time in
+that space is so four more dimensions
+we've pretty much done I said you got
+either five dimensions to get the the
+space of the state and all those
+characteristics or seven more dimensions
+if you want to really map this thing
+close that was just due to the five so
+now what we do is to say okay the
+degrees of freedom in each the
+dimensions well nicely enough the the
+back wheel the chain the pedals and the
+front wheel are all just grabbed by
+circle so I think they go around and
+they repeat the same thing so they're
+just a they're a model that describes
+and say 360 degrees you can identify
+where they are at any point in time and
+done so you've got a variable that
+describes the the back wheel in terms of
+where it is in its rotation around 360
+degrees in the chain the pedal in the
+front wheel now of course the front
+wheel also has the ability to have is a
+separate dimensional behavior I can you
+can turn and of course the part of the
+Barr's do as well so now we have to do
+is we have to add another dimension for
+the orientation of the front wheel and
+the same dimension for the orientation
+of the Hana boxes it's a 45 degree
+rotation so now with this set of
+dimensions in these set of
+characteristics we have the ability to
+actually fully describe the state of the
+bicycle at any point in time so I can
+take a spot and I can say okay given the
+state so we're around 360 degrees is the
+back wheel the chain the pedal front
+wheel we're in the 45 degree arc because
+that is the front wheel and the
+handlebars and that there would be one
+point that is the unity or this value of
+all of those different dimensions and
+that's gonna be the state of the bicycle
+unemployment time and then as I move
+forward in time where I see is that at
+that point we'll move right so basically
+will end up happening is the the value
+of the 360 degrees for the back wheel
+will continue to go MSM peddling it will
+go around in a circle and so on that
+particular dimension well describes but
+if I could be a certain value go from
+zero to 360 and they return back to zero
+and of course this will happen across
+the entire system so what I'll see is
+I'll have what's called a traverse
+through phase space so phase space is
+what describes as a word that it
+describes the various dimensions that
+we're using and the Traverse is what
+what happens as you drive a particular
+point through face phase as you ride the
+bike you're going to be seeing changes
+in all the various variables and
+whatever those changes show up as is the
+point and when you do that with a normal
+bicycle you'll notice a number of things
+do you notice two things in particular
+one is that you will notice that the
+back wheel the chain and the pedals seem
+to be entrained which is to say that
+there is some strict correlation if it's
+a simple bicycle a very strict
+correlation between those states so that
+as the state in the back wheel changes
+the state had changed chain changes and
+the state in the pedals change and in
+some fixed ratio so in some sense
+are the same and they are entrained most
+likely you will notice that there is
+more of a correlation between the state
+of the front wheel in the back wheel
+meaning that because they are not deeply
+deeply causally connected although they
+are somewhat causally connected about
+the fact that they're both on the ground
+and they're both connected by the
+chassis you'll see that there is a high
+quality relationship between the state
+of the front wheel on the back wheel but
+it may not be as tight as the
+relationship between said the pedals and
+the back wheel but when you will see is
+that there is a tight entrainment
+between the handlebars in the front
+wheel and I mean when you turn the
+handlebars one do we didn't left the
+front wheel also choice one degrees left
+if you've got a well function your bike
+okay so that's that's it like that's the
+concept so so now let's take this and be
+a little bit more robust so try to
+imagine constructing a phase space to
+describe say a horse well you're going
+to notice I think two things the first
+is that it's enormously larger face
+space because we're dealing with
+something which is has vastly more
+degrees of freedom so we're not just
+talking about say the the state of each
+two legs and a head in the tail we might
+also have to model and for example the
+state of the blood pressure and the
+circulation of the pumping of the heart
+or the dilation of the eye not the total
+number of possible states the district
+necessary to describe of course is
+qualitatively enormous now of course we
+can decide to do a sampling so you know
+we're just going to model say the
+positions of the legs and be done with
+it they can simplify the model a lot and
+that's a very useful thing to do but the
+first observation is that you're dealing
+with something like an evolved organism
+you're dealing with just an enormous
+amount face space in comparison to a
+designed object like a bicycle the
+second thing that you'll notice is that
+what you may not notice it the soldiers
+tell you is that the phase space of a
+bicycle is finite and bounded which is
+to say that so long as it is still a
+bicycle the dimensions that I just
+described is what they are and the
+variables that they can they can take
+aren't changing so you're not having
+361 degrees suddenly
+merging in your bicycle wheel it's just
+commuters 60 degrees and that's all it
+is by contrast in the horse the phase
+space is in fact not bounded meaning
+that in time in relationship to its
+environment the horse can actually
+change the shape of his phase space and
+new kinds of possible variables can
+emerge inside certain dimensionality
+it's the say for example the horse
+changes its gait in response to the
+environment that it's in and this
+emerges is something that has never
+happened before in that particular horse
+run horses in general this is all
+possible of course it have that capacity
+and in fact in principle one can
+actually imagine the emergence of
+entirely new degrees of freedom
+entirely new dimensionalities obviously
+in the situation of evolution which is
+this happen all the time like the
+emergence of light-sensitive cells is
+entirely novel but that didn't exist and
+then it did it's a pretty entirely new
+portion of face base not just the value
+values that it can handle and so the
+idea here is that now we're connecting
+back to the Kineton framework a
+complicated system is the system but has
+a finite and bounded phase space so
+bicycles and airplanes a complex system
+is the system that does not it has an
+unbounded phase space and I think that's
+that's pretty much it
+so with this new concept we're going to
+be able to do other stuff in the future
+but for now I think that's all we have
+to do

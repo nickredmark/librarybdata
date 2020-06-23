@@ -1,0 +1,2730 @@
+hey everybody we are back it is Jack
+Murphy and you are on the Jack Murphy
+live podcast flagship podcast of the
+liberal order and today I have a
+wonderful guest very excited to talk
+about this guy is truly world-class
+leading expert in artificial
+intelligence we had a very interesting
+way that we came together and learning
+about his new software and his work
+ladies and gentlemen like to introduce
+to you my new friend Nick Casas Matt is
+how you doing buddy good Jack thanks for
+having me on the show hey it's my
+pleasure and Nick you know the main
+thrust of these podcasts is that I
+really want to just try to help guys get
+a better understanding of the world
+around them today and artificial
+intelligence and and computer science
+obviously very important issue for us
+moving forward into the future my guys
+in the limo Order are very focused on
+the way technology impacts the way that
+we organize community technology impacts
+the way that we communicate we're all
+very focused on the way technology
+impacts our way to even learn and have
+ideas or even an understanding of who we
+are as humans and what tribes and our
+social affiliations we have so this is
+something that fits right in theme with
+the the larger overarching themes of the
+podcasts but it is gonna be probably a
+little bit more technical a little
+nerdier than usual which is fine with me
+I love it and I know the audience is
+willing to go for it too so and in
+contrast ARAG Weinstein's patil portal
+podcast where he says if anybody gets
+left behind so be it forget them they
+don't want to dumb anything down or go
+into basics I think we're gonna take the
+opposite approach here and while you are
+and I'll have you explain your
+background imminently qualified to
+discuss the finest details of the
+subject matter my goal here is to have a
+conversation that is gonna be digestible
+and useful and informative for for most
+people who aren't experts but certainly
+are bringing with them a fair amount of
+intellectual firepower for understanding
+and processing this stuff so with that
+in mind let's just get started I mean we
+were introduced through a mutual
+associate a few months ago and I gotta
+be honest when we set up to have a phone
+call
+I just had the phone call with you and
+then after Hertz went back and started
+researching your background and I'm glad
+that I did that in that order because I
+would have been a little nervous I think
+to talk to you because you have a very
+impressive background and pedigree maybe
+you could just start off by sharing
+people with people a little bit about
+where he came from generally speaking
+and you know what sort of brought you to
+this point so that I mean that's a big
+question but you know what I mean
+sure sure I guess so briefly I was you
+know coming up basically when the first
+personal computer revolution when AI
+actually had its you know a burst of
+popularity at that time and I decided to
+become an artificial intelligence
+researcher I was a professor in the
+field for about nine years where did you
+where did you study
+artificial enjoy what is that does that
+a degree do you go to ecology be like I
+want to get an artificial intelligence
+degree you know it's a time no I I did
+my undergrad at MIT in math just to gave
+me a lot of flexibility to learn lots of
+because think about artificial
+intelligence is that it's you know if
+you just study the AI stuff out of
+computer science you're gonna be pretty
+narrow if you but you should it really
+touches on linguistics psychology
+philosophy and so just the way things
+were at at MIT it was best to do a math
+major because that gave you the
+flexibility to take a lot of these other
+classes as well so did that then I
+decided believe it or not that I wanted
+to make computers learn and that's a
+good place to start what does that mean
+how do you and that's a question I
+really have I hear this machine learning
+I don't even know what it means what how
+do you how do you make a computer learn
+stuff right that's actually a really
+good deep question actually because it's
+you know what what people call machine
+learning right now actually technically
+it is learning I mean basically the
+computer starts out being able to do
+very little than I can do more so you
+can call that learning I guess the
+difference is the way machine learning
+is done today mostly is it's really deep
+down basically a lot of memorization and
+pattern recognition so for example if
+you want to have a computer learned
+you know what phases look like for
+example recognize faces and so forth you
+just show it a billion faces and it
+starts to sort of maybe get some
+patterns so so that so that like the the
+joke about the the CAPTCHA stuff being
+us teaching computers how to you know
+pick up you know stoplights and doors
+and cars and stuff that that's not
+actually a joke or you know maybe
+they're using that system or but there's
+really like just human manual
+interaction to help teach the computer
+what it is and then also back this up
+for me a little bit my experience in
+programming is with basic okay yeah good
+and it was very simple you know line 10
+and put this line 20 if then and like
+the computer program it so it didn't
+write anything or remember anything so
+I'm confused about how you teach it does
+it does it begin writing its own code
+like what happens there yeah that's a
+good question so it's funny by the way
+basic was my first language too and
+let's see so take the caption that's a
+good example so even something simple
+like recognizing letters and numbers and
+so forth
+basically it's hard to sort of describe
+in a nutshell without getting technical
+very technical but but its nutshell what
+you do is you show it a bunch of letters
+say if you want to recognize letters and
+then it tries to figure out sort of
+actually let me let me think of it but
+let me think of an easier example let's
+say you wanted to text strawberries
+right because you and this is one of the
+earlier problems and artificial
+intelligence yeah you know back decades
+ago because you want to sort
+strawberries from something else right
+because you have some automated sort of
+an industrial process or agricultural
+process you show it a bunch of pictures
+of strawberries and so you know part of
+the thing you get in a picture is what
+colors do you see you see a lot of red
+then there's a lot of other things I
+like do you see a lot of curves because
+strawberries are curved rather than
+square and so forth so there's you get
+sets of properties that you input to the
+to the computer and then basically you
+see tons of these things
+and over time you say oh well you
+no four and then you tell it well these
+are strawberries these are not
+strawberries and a person has to sort of
+sit there and say this is a strawberry
+that's not a strawberry
+then the computer figures out well you
+know jeez and 95% of the you know 99% of
+the cases where there's a strawberry
+there's it's red and it figures out well
+you know basically the sound in the
+background basically doesn't really
+matter whether something is a strawberry
+not fifty percent you know if they're so
+basically it's through tons of data it
+tries to figure out which features
+correlate the most with whether
+something is a strawberry or not or well
+you know whatever you're trying to learn
+so it's a classic way of doing machine
+learning and the more slightly more
+modern way is that there's slightly more
+complicated techniques for figuring out
+what those features are relevant which
+aren't and but that's really that's
+really what a huge amount of machine
+learning is and it's it's really
+everybody thinks there's a lot of really
+magic going on where people are writing
+over their own programs or people are
+doing all kinds of computers are doing
+all kinds of really smart things that's
+really all they are they're glorified
+tabulations of statistics that they use
+to in a lot of cases make predictions
+and classifications so am I getting this
+right that like the power of artificial
+intelligence is driven by human clicking
+on certain things yeah actually that's
+one of the biggest challenges and
+expenses in a lot of machine learning
+projects is getting the data without a
+human annotates so yeah if you need a
+hundred thousand faces they'll train a
+trainer a face recognition system you
+need to find a way to sort of label
+those faces label the victors that
+sounds like a severely limiting factor
+it is yeah and there are startups their
+whole startups that sort of try to help
+someone automate that or make it cheaper
+or like have banks of people who like
+mechanical to I know if you're familiar
+with Mechanical Turk it's it's this
+Amazon process it's a it's an Amazon
+sort of a subsidiary where they
+literally have people that you can
+outsource these kinds of processes to
+and basically where you basically send
+them a thousand pictures also news
+thousand people over the world you pay
+them $10 you know per hour or whatever
+it is to label these pictures so it's a
+real limiting factor both an expense in
+time and so forth yeah there's some
+really deep irony in that actually think
+about it this this quest to create I
+think what you call a human level
+artificial intelligence involves in some
+degrees the most manual of physical
+human labor possible at this point oh
+yeah that is true yeah it's like almost
+like a sweat shot for a I've a sip like
+yeah that is wild and so when when you
+say that they learn stuff it is like the
+file size of whatever this program is
+this is it continuously growing as it
+like learns and becomes a custom is it
+writing and expanding itself like if you
+sit there and watch it doodle and I'm a
+layman I don't know any of the stuff to
+do the lines of code increases the file
+size get bigger or whatever as it begins
+to learn more and more way to think
+about it is think of a lot of these
+systems is like you think of like a
+wiring diagram in electronics and and so
+usually these motor color models are
+fairly are fairly they're fairly static
+they don't change a lot so the wire you
+don't add new wires I mean in some in
+some advanced methods you do sometimes
+but but generally what everybody's using
+what you hear about you don't you
+basically start with a bunch of wires
+your diagram and basically all you
+really are learning is for every wire
+every in the diagram there's like a
+number of you know how much current to
+put through there
+and so really all these things are
+really doing is based on the data
+adjusting the current those those
+numbers on the wires yeah
+interesting interesting all right so I'm
+having visions I've watched Silicon
+Valley I don't know if you've watched
+that show a couple I have a couple of
+friends who are actually in the heart of
+the Beast and they say that this shows
+pretty realistic and like the characters
+are based on people in real life but I'm
+just remembering this one episode where
+one of the guys creates an app that's
+supposed to be able to identify certain
+foods or something but it turns out all
+it can identify is hotdogs or sausages
+because it's all based on on dick pics
+or something like that I just this the I
+can't get past this extreme irony of
+that in order to create the most
+advanced piece of technology we've ever
+seen it's gonna involve people in
+sweatshops just being like hot dog yes
+hot dog no hot dog yes hot dog no added
+up over how many instances over how many
+times for how long
+knowing the fal ability of human of
+humans in general what are the odds you
+think that we roll up massive human
+error into this big project because I'm
+just starting to see just from the
+ground up all the way up it seems like
+there's so many opportunities for
+something really up to happen so
+like for example in the limo order we've
+got you guys who are in Silicon Valley
+and we just did this thing loosely
+called computer literacy but it was much
+deeper than that but it was basically to
+understand how computers work and one of
+the big things I took away from it is
+that a computer basically just just
+gonna go from A to B you got a tougher
+go from A to B and then makes a decision
+it goes from B to C and it's just a just
+a pathway of decision makings but like
+we're telling it what decisions to make
+there seems like so many opportunities
+for human error and it seems like these
+things will become compounded and
+increase in scope and size and problems
+I mean is that a fundamental issue that
+you guys are dealing with or is that
+something that's been solved already or
+or what does that mean for the future I
+mean I cannot get over how much human
+involvement is they're trying to teach a
+computer on how to be bigger better and
+smarter than we are
+yeah it's an issue I mean you know one
+example would be sort of you know
+Facebook Google these companies taught
+you know they automatically filter out
+sort of a lot of content under platforms
+to detect hate speech for example would
+be one example and in obscenities and
+and and things like that
+well I mean there are basically trained
+to do that by people and people are
+telling and the way that's done is you
+give lots of examples of text and this
+is hate that's not etc and so basically
+you're building in the bias of the
+person who's actually training it and so
+so there's there's more talk about that
+and in the field are people doing much
+about it I don't know tell you the truth
+because I don't know really
+what you can do about it from sort of an
+AI pointed from now growing point of
+view it's tough because you you know is
+you rely so heavily on these people
+the best thing you can do is try to like
+instruct the people in some way you have
+to train two people to be better
+trainers but it's it's a problem and
+there's no real obvious solution hmm and
+this is something people are working on
+and it's like is this in the
+literature's as I could known I mean I
+didn't just discover yes I'm talking to
+you in 12 minutes
+oh it's something people talk about a
+lot you know and basically I don't think
+if you go like to an academic conference
+on on AI you're gonna see a lot of sort
+of methods for this but it's definitely
+there's what people talk about it in
+terms of in the blogosphere or socially
+in social media and so forth and their
+meetups about this but uh if people see
+it as a problem in some ways it's a
+little bit overhyped of a problem
+sometimes basically the world is biased
+and so basically so you it's not
+surprising that AI would be a little
+biased as well in some ways and so so
+that's um it's a problem people are
+starting to think about yeah and work on
+I mean jumpin jumpin really far far far
+down the line here ultimately when you
+you know you use this phrase human level
+artificial intelligence one day the
+artificial intelligence they're going to
+be human-like and that they're even take
+with us our own human flaws that's a
+good question so first off I do think it
+is possible someday for computers to be
+as smartest people I and but I think
+like all the people right now saying
+that's about to happen and we really
+need to worry about that I think they're
+kind of they're way off base that
+basically the stuff that's happening in
+AI right now is nowhere close to taking
+us that level and and it seems like
+there's a lot of new stuff happening in
+AI but there really isn't what's really
+happening is there's a lot of old stuff
+that wasn't artificial intelligence that
+is being rebranded as artificial
+intelligence so like all these you know
+you might remember or not five or ten
+years ago there was a big lot of hype
+about big data and you kept hearing
+about that so all of that stuff now
+is being called AI and so it's it's yeah
+so it's really just a lot of rebranding
+that even so even though the hype has
+increased by say a thousand percent
+literally the actual stuff in AI has an
+increased by it by that much what do you
+what do you attribute that to so for
+example there's discussions I listen to
+Peter Thiel somebody I think that you've
+had experience with I've listened to him
+talk about how there hasn't been any
+advances in certain fields and he's very
+troubled by that and in fact he's making
+the argument that were in a period of
+technological stagnation Erik Weinstein
+has them come up again he's making sore
+the same argument in physics and I think
+that that's something that we're being
+sort of misled by we feel like we're
+living in this crazy age of innovation
+because you get a new iPhone every year
+and there's new fancy apps and updates
+and stuff and all that's very
+interesting but in terms of leaps and
+bounds and huge significant legs up
+you're saying that we the rate of
+acceleration in the development doesn't
+lead you to believe that we're gonna hit
+you know this human level anytime soon
+what do you attribute the pace of change
+or innovation to within your field
+could it be higher what's holding it
+back what what's the current status
+there I think there's a lot of stuff I
+mean overall just generalizing just from
+AI but to a lot of fields I think you
+know if you look at what's happened in
+science this is the first time in
+history where you can make a good living
+being a scientist and and so and I think
+what's happened is to come
+professionalize so if you up until I
+don't know what the data is you know if
+you look at like World War weinrobe war
+two right right after World War two
+there's a lot of science funding that
+that I was was a science funding for the
+first time started really being put into
+the economy from from the government and
+so up until then up until maybe the 50s
+in the 60s even or the 70s it was just
+something you did if you were nerd you
+were earnest about it and the people it
+was basically blunderers and science
+were organizing themselves and so that
+had some downsides but it had the upside
+which is that you were actually doing
+sort of fairly real science I
+as it became more professionalized as
+there was more money into it basically
+it got taken over by based professionals
+and a bad in a bad sense based so
+basically the people running the field
+or the people who are really good at
+raising funding and the skills it takes
+to raise funding are completely the
+opposite skills that it takes to make
+scientific innovation and so I think
+that's part of it it's become
+institutionalized so in most
+institutions don't stay vital and
+productive for decades and decades and
+decades like this classic example of
+that is if you look at the the Dow the
+ the companies in the Dow index I
+think maybe one or two or three I don't
+know what the right number is or have
+been there for though for the last
+hundred years all the rest of them have
+changed but if you look at sort of the
+top a lot of top schools a lot of top
+institutions they haven't changed in
+decades and so so I think that's part of
+it I think within artificial
+intelligence I think there is this
+almost religion on about this machine
+learning and data and so forth where you
+have to use all this data and you have
+to you can't actually see and see all
+these people doing machine learning is
+are telling themselves well actually
+we're not actually telling our computers
+our computers are just using data to
+sort of learn stuff we're not actually
+programming the computers to do things
+and so there's just and but in reality
+what they're doing actually is having
+people train the computers using the
+data that that's our training but that's
+sort of no hot dog yeah but that
+religion basically is is basically I
+think really a damper on AI because
+that's really not how people think or
+you know people don't need a billion
+sort of examples of things to learn
+almost anything is is that sentiment
+widely accepted in your industry are you
+sort of a renegade voice on that matter
+or no it's pretty red acade yeah I mean
+there's yeah yeah there's a lot of
+that's how we like it around here yeah
+yeah definitely
+ok so what what is the what is the
+orthodoxy that you're battling against
+that stymieing innovation and from what
+I've heard similar phrase
+I've heard of de-risking de-risking of
+the market rate that these people want
+to maintain their funding in their
+career they're called careerists and
+other circumstances um what is the what
+is the dog mother you're fighting
+against as them as a renegade AI
+professional and academic yeah there's a
+couple things on the one when Dogma is
+basically that you should be able to
+measure everything very precisely and
+quantitative quantitatively so if you
+want to advance a new AI method the way
+you do that is you show that it's better
+than other AI methods on a data set
+that's already been accepted so for
+example let's say somebody there's a
+recognized data set for recognizing
+characters right CAPTCHA type stuff and
+then the way you show your algorithm is
+better is by doing just as well on that
+but if you in and that's the game people
+like to play that's all of science
+basically all of engineering as well for
+a lot most of it but the problem for
+that if you wanna do something really
+new that actually takes the the does
+something much smarter than that then
+and there's no data set for that that
+other people are working on then
+basically you really can't even prove
+that what you're doing is good it's
+really very difficult it's some sense
+you're because the game is to like beat
+other people and data that already
+exists you're kind of that data is like
+an anchor making you for work on really
+boring sort of isolated problems so it
+exists well give an example and and your
+solution to that well you know my last
+startup had a technology for
+understanding natural language and and
+so the problem was the natural language
+understood was much more complicated
+it's sort of than any other data than
+any other software could understand and
+so we really couldn't really measure it
+against existing data sets so our
+solution was just to build it and have
+it work on real-world problems and and
+hopefully that people would see the
+value of it through that so that's
+that's basically one solution but it's
+it's brutal like and if you want to you
+can do that once your technology is easy
+enough to sort of good enough to get to
+that level it's almost you know that
+that's like step three step one and two
+are actually doing a lot of basic
+research and
+in that period is very difficult because
+no one really wants to support you or
+hire you during that period right you
+can be a professional scientist you just
+can't do real professional scientist
+scientists exactly well that is that is
+yet another irony that we've uncovered
+so you mentioned you mentioned your last
+startup and I believe me I have a
+billion questions but I want to put it I
+want to put a narrative structure into
+this as well - so you mentioned in your
+last startup I think that I have a lot
+of guys myself included or very
+intrigued at this idea of what it means
+to do a startup get it funded and bring
+it to fruition and have it be something
+worthwhile
+what was your experience what was the
+name of the company you know how where
+did you get started tell us a little bit
+about that would you sure sure yeah I
+was a professor at the time and we had
+developed some natural language
+understanding technology and that just
+means you know the human the computer
+could understand English not sort of
+basic you know so and you got to the
+point where it was I thought it was
+useful in the real world so I found that
+a small little startup and I hired two
+or three of my students total in total
+and we built something it this was
+before Amazon echo so this was this was
+actually when people still didn't really
+a I was really a hard sell was something
+called the AI winter and this was really
+hard yeah yeah yeah definitely it's a
+huge burst of enthusiasm in AI in the
+80s and then a lot of promises were made
+there that weren't kept and so during
+the 90s and a 2000's in the early 2010's
+basically it was AI winter and that
+meant that it was a really unpopular
+thing to do people told me not to do AI
+it's gonna be horrible for your career
+and all kinds of things like that and so
+it was brutal it was brutal and so we
+but it was still it was difficult
+explaining it to investors basically
+people I'd show them you know a really
+nice demo if we say something like I
+don't know find me the last three emails
+I got from Jack that had a PDF in them
+and you know would go to Gmail and just
+find those three emails right and and
+the thing is people say why would I want
+that you know I really had a lot of
+trouble explaining why anybody would
+want
+but but ultimately we were we were
+bought out by by Yahoo but but a year or
+two later than the echo comes out and
+that was really the first real and
+natural language processing the really
+first real success that we're actual
+consumers wanted something because Siri
+the first iterations of Siri you might
+remember that back in 2012 ish no one
+read it felt yeah terrible no one really
+wanted to use it and it was the sort of
+emphasize as a product for a while so
+echo comes out changes the world
+basically everybody wants to do way I
+and things got easier but before that it
+was tough doing a start-up you know I
+woke my mind that that this idea of
+working towards human level artificial
+intelligence what's it is super exciting
+or sexy filled in that there was a an AI
+winter would what was that all about
+what how did that come how was their AI
+winter I had never even heard of this
+yeah yeah back in the 80s for the most
+part there were a lot of investment in
+AI and this was mostly in the Northeast
+mostly in Boston
+probably emanating from MIT I would
+guess a lot of it was and there's a lot
+of money venture capitalists put into a
+artificial intelligence there was a lot
+of a hype in the press about it you can
+go back and look at Time magazine covers
+from the 80s and and it you you know and
+you'll see basically that there are
+stories that about robots taking over
+the world and all the fears people have
+now we're actually being sort of
+expressed then and but basically almost
+all of that all those companies failed
+and almost all of that hype sort of came
+to naught and so people said well you
+know this was you know we just got taken
+its overhyped and and and so for
+literally 10 a lot of people got burned
+financially and so for you know 20 ish
+years 25 years whatever it was it was
+really tough to no one really wanted the
+fund AI and this was when actually even
+within the field of artificial
+intelligence the academic field went to
+this machine learning stuff because
+because before that people actually
+tried to make computers that could
+reason and think and because that didn't
+turn out so well they said well well you
+know let's let's forget that let's have
+them learn
+their own because we can't trust
+researchers to make them think and so
+what they called learning was this
+really wrote fairly stupid sort of
+data-driven kind of learning and that's
+that sort of was the the failure of that
+early part of AI led to this sort of
+machine learning sort of sort of
+takeover of the field and that'll happen
+during that winter interesting and you
+think it was the the Amazon echo Alexa
+you think that was what got people back
+sort of wind under the the sails here
+for AI I mean it seems like a
+interesting push-pull circumstance would
+you find that another feel fields were
+like a very basic consumer product is
+actually gonna excite academic
+development and research and development
+in the field I guess so it makes people
+feel like that there's a reason for
+moving forward I suppose home that's a
+good question you know I mean I'm sure
+like back in a Sputnik for example that
+wasn't a consumer product but it was
+sort of you know something happening in
+the world that that that basically
+probably sort of affected how much stuff
+was going on in academia run aerospace
+and physics and so forth and you know
+that like technology to what it to what
+extent is the government involved in
+making this stuff happen you know I had
+an associate who worked for DARPA and I
+was amazed to learn all the things that
+they were working on to what extent is
+the government right now actively
+working and tried to push the field and
+and fund specific projects and work in
+that way that the DARPA net did spill
+over into Internet here we are talking
+over my laptop is there something like
+that in the works right now with with
+the feds and and various governments
+around the world yeah I mean overall
+from the from the 50s up until today the
+the government's been funding AI
+research I would say you know I don't
+know the actual numbers but I would say
+up until the last five or 10 years it's
+probably been the majority of it and now
+I get I don't know raw numbers but now
+it seems like the center and they were
+funding it through sort of academic they
+were funding you know professors to do
+and their students and their labs to do
+AI research I guess more recently it
+seems like the center of gravity
+move more into sort of the googles and
+the Facebook's and the large companies
+of the world
+so yet no government's been involved for
+a long time in AI go ahead well you can
+look at you could look at something like
+that I mean like the cruise missile
+right so you know it's basically a very
+simple feedback mechanism like am I am I
+going tomorrow to the ride too far to
+the left right and it's sort of adjust
+it seems very simple and basic now but
+when that that went out with technology
+was first sort of invented it was sort
+of in his field of cybernetics which was
+sort of this pre AI type site field so
+there's a lot of things like another
+example would be in the you probably had
+a modem back in the day where 300 baud
+maybe yeah there are it at the bottom
+now at the top there you go yeah and you
+remember that they had a hiss in the
+beginning right and that was sort of
+like there's a little bit of AI going on
+in there just for calibrate itself
+towards the acoustics of the the Y of
+the telephone wire and so that had a
+little bit of AI in it and so long story
+short there's a lot of you know stuff
+through history that has evolved some
+some AI that's in a lot of it's been
+funded by the government it's a fact fax
+machine is that AI G's yeah yeah a
+little bit yeah
+I guess I will never look at the facts
+again no smart little guy
+what's your hissing I do remember man
+300 I remember we went to 2,400 9600
+these were heady times man when you had
+in 9600 and a 486 PC man you were just
+jamming along I remember that my first
+computer was a PC junior and it had I
+got upgraded to 640 kilobytes of memory
+so that's like a fraction of a megabyte
+and I had a disk drive just in memory
+and I compiled all my programs in memory
+and and boy I felt I've never felt more
+satisfied in terms of computational
+power I've never thought that that was
+the only time in my life where I thought
+I don't want more computational power
+yeah right yeah back before we even knew
+what was possible um what do you so I
+it's interesting the AI seemed seems to
+you said there was it the winter and
+then there's been an uptick in activity
+but now you're saying a lot of its just
+reap
+packaged other stuff sold his AI for
+investors and to make people look good
+and whatever but where where is the
+cutting edge right now it's a good
+question if you keep saying that after
+my questions I'm gonna start to thinking
+that I'm getting good at this
+there you go there you go uh-huh there's
+I would say basically if you look in
+history of fields depends what you like
+cutting edge if you mean basically
+taking the existing stuff that's
+happening right now and making it sort
+of incrementally better then that's
+happening everywhere you know that is
+happening sort of in companies it's
+happening in academia
+if you mean you know where is the stuff
+that's gonna take the next leap forward
+that's that's a significant leap I think
+that's hard to predict I think if you
+those things then you know I don't know
+they wouldn't be such giant leaps and so
+I don't know if you know this this
+paradigm stuff is new about TS Coon and
+paradigmatic SCI there's a there's a
+philosopher called TS Kuhn who did a
+looked in the history of science and he
+said there's normal science which is
+what people do every day and then
+there's paradigm added there's a
+revolutionary science which is Einstein
+and Newton who's like totally change up
+people think of stuff and I think in
+some ways AI
+so the normal science and AI is
+happening in academia and Industry and
+some of its good the sort of
+revolutionary step that we need to go to
+the next level I think that's that that
+always you can't predict that it always
+comes out of left field yeah do you but
+please know make your prediction sure do
+you is it what's limiting is it like
+human brain power or computational power
+like what's the what's the road block
+like it would I be right in assuming
+that we could take like everything that
+we have now if we had infinite energy
+and infinite computational power to get
+to where we want it to go or are we
+still we don't know even how to do that
+if we had infinite power and resources
+we don't know how to do even that and
+and because there used to be you know 10
+20 years ago these things these books
+you'd say well you know boy if we just
+had 10 times more power they try to
+compute how much compute power was in
+the brain right and I'd say how long is
+it before a computer can have that power
+but now with things like Amazon Web
+Services and Google cloud you know these
+these these online places we can rent
+servers you can you there's no excuse
+anymore like anybody like for an hour
+can rent that kind of power I can
+there's it's relatively affordable for a
+lot of companies and a lot of
+universities to have a thousand giant
+sort of superfast workstations going all
+at once which is probably more power
+which is at least more power than
+anybody ever thought we would need for
+AI so that's not the problem the the
+problem is it's what is what you said
+it's basically it's human brain that
+somebody just needs to think of think of
+think of how to do it I mean you know if
+you look at Einsteins stuff for example
+there were 20 30 years ago
+he didn't there was nothing he did that
+relied on new cutting-edge science it's
+just it took you know all the data he
+used all them importance or results for
+decades they were known for a while it's
+just somebody needed to just sit down
+and think about it do you do you think
+that we're in the weeds of evolution on
+this matter so it seems slow but in
+historical terms if you scan up and
+you're like oh well then it happened in
+1985 and then 2005 and then 2025 people
+would be like oh that happened pretty
+quickly or is it actually really
+happening slowly and especially in this
+age of seemingly ever-increasing
+acceleration on all fronts all around us
+all the time are we just stuck in the
+weeds and it seems slow because watching
+the paint dry socks or or in a
+historical sense is it gonna actually be
+something that took place quickly I
+suppose on a cosmic timescale
+that's a good question I guess if you
+look at you know what was the distance
+between Einstein and Newton right
+because one way of looking at physics is
+that you know I you know Newton had a
+revolution and then Einstein sort of had
+his next revolution I don't know was at
+300 years I don't know it was centuries
+let's put it that way and so in that
+sense things aren't going any faster
+than any slower than that I guess the
+the difference is we're used to progress
+in so many other things accelerating you
+know and I don't think that the progress
+and maybe basic science is quite
+accelerated as fast
+yeah I just wonder if there's something
+systemic holding us back if if Peter
+Thiel and Weinstein are talked
+about physics and nuclear energy and
+computing and whatnot that that is just
+not we're just not making the huge leaps
+and bounds I wonder if there's something
+broader based that's that's limiting
+limiting our progress in this field
+which again on the cosmic timescale is
+really happening in plant and I but for
+us as impatient it's taking
+forever I definitely think there's
+something systemic I think honestly the
+problem is paradoxically there's too
+much funding for it there's too much
+support for it because you you pile in a
+lot of money and you just get a lot of
+people who chase money rather than
+actual people who are you know deep
+scientists who are going to do this
+stuff that changes the culture of
+everything it's different people become
+in charge of stuff it becomes impossible
+and then people are chasing money for
+short term there's all these short-term
+sort of things you can make progress on
+like like sorting strawberries but the
+long term sort of goals no one really
+cares about that so in a lot of ways the
+money is a wet blanket it really
+actually makes these worse yeah I think
+about the times in my life where I've
+made some of the biggest leaps and
+bounds and it wasn't because I had
+everything that I wanted yeah because
+it's because I had none of the things
+that I wanted or needed and I had to
+make serious change is there anybody in
+the industry right now who sees things
+similarly to you that's working to
+create a space where these wet blankets
+aren't a problem and maybe give you the
+freedom to think outside of the box a
+little bit more than would be if you are
+otherwise constrained by budgets and
+reporting and grants and research and
+that kind of stuff that's a good
+question I mean I don't know
+I know sort of individuals who have
+similar views on on artificial
+intelligence but is there anybody with
+some institutional clout who's trying to
+make this kind of a home for that not
+that I know of I mean there are people
+so a very common pattern is you'll get a
+billionaire Steve Allen was one who
+they'll fund and they I said it'll take
+an AI Center and no they'll put a lot of
+money in a fund any I Center but then
+the first thing they do is they go out
+and they hire someone who's sort of
+already well recognized leader in the
+field and really what they come and do
+is they just come and you just really do
+normal science they just show up they do
+what everybody else is doing they do it
+better than everybody else or better
+than average but but but it but
+their mo is that they just go get the
+best person in the field they you know
+who's recognized in the field and and
+what you really want up doing just doing
+more the same right in one of their
+papers of yours that I've read which one
+that you sent me as being for lay people
+I pretty sure I got out of there that
+one of the issues that you've raised is
+that the scientific method isn't
+appropriate for AI research did I get
+that right if so could you expand on
+that tell me what the flaw is because
+although you know not everybody in the
+audience may be a scientist but we all
+learn the scientific method we
+understand question hypothesis test fail
+whatever move forward can you did I get
+that right from your from your piece and
+if so what is a new scientific method
+model of research or exploration that
+you see is necessary in your field yeah
+no that is correct you know that like
+you said the scientific method the sort
+of the caricature of it is that
+basically somebody forms a hypothesis
+they have an experiment that tests the
+hypothesis and they collect some data
+and they you know and they see basically
+whether that causes confirmed or not and
+the way this sort of plays out on
+artificial intelligence is that people
+love to see you know scientific papers
+that have nice charts with improvements
+and numbers in them and so forth and so
+you know getting back to the strawberry
+sorter basically what I can do is I can
+create a strawberry sorter and I can
+show it as 75% accuracy and then I come
+across try berry sorter and it has 78
+percent accuracy and that's a huge
+result
+it makes my career and I spend the rest
+of my life sort of getting students
+using that method described just on the
+we do oranges and and we push 78 percent
+to 81 percent and and that's that's
+intoxicating to sort of institutional
+sort of normal engineers and scientists
+because they constantly have some goal
+they can measure it it seems kind of
+objective and but at least this sort of
+short-term sort of focus on
+you know relatively incremental
+irrelevant sort of gains and if you
+really wanted to do something that say
+couldn't sort of just sort strawberries
+but actually say have a conversation
+about you know what which strawberries
+are better than others and how would you
+make a strawberry milkshake or something
+like this to be you know a little bit
+you know eccentric about it
+you couldn't even that that would be a
+big project it would take several years
+to do that and these other guys every
+six months they're making a strawberry
+sword or half a percent faster a half a
+percent or half a percent more accurate
+and so they're they're they look they're
+looking productive because they're
+looking like what scientists are
+supposed to look like whereas you wind
+up in a corner seem like you're just
+some some loser basically users I really
+do anything that that's really gonna
+mount to anything so it's that that that
+sort of that's really one of the main
+earth at that sort of view of what
+science is and and and it's sort of
+confidence people get from like short
+term metrics and incremental results I
+do think is a major sort of impediment
+to science that's a to to development in
+AI and it would have been in physics too
+by the way I mean basically Einstein
+didn't do any experiments he didn't
+really do collect a lot of fine-grained
+data or anything like that he just did a
+lot of deep thinking and so and came up
+with revolutionary theories so so that's
+basically I think why the scientific
+method in a nutshell sort of hurts
+things I think the solution in my mind
+is what people ought to do is try to
+actually build machines just to just
+find little microcosms I call them so so
+what would be an example of this and a
+little example is like what if you could
+build like a two-year-old somebody so
+and if you think a two-year-old can
+speak some very simple you know language
+they can learn a lot they can solve
+little problems and so forth and so
+build a simulate a two-year-old and and
+that's it that's much harder than
+anybody thinks if but anyway
+to pick little pick something that would
+I call microcosm sort of something
+that's a small example of what you
+really want a two-year-old has a lot of
+what we wanted an adult intelligence
+just in it's sort of a seed forms and so
+trying to trying to like projects like
+that would be good and but then even
+within that there's a lot of sort of
+ways of screwing it up so you can say
+alright building a two-year-old a lot of
+people say well let's build a robot that
+moves around in the world and basically
+you can walk like a two-year-old and
+they'll spend millions of dollars and on
+sort of irrelevant details about exactly
+how they walk and how you know building
+a robot and so it's you really need to
+be smart about what exactly about a
+two-year-old is it that you that's sort
+of different than sort of a two-year-old
+sort of dog and try to build that out
+and build a simulation that does that so
+basically binds build simulated really
+small intelligences and grow from there
+and the other thing about the
+two-year-old example is very common in
+AI is to baled not in integrated systems
+so what you'll do is you'll build a
+strawberry sorter or you'll build
+something that detects phases but if you
+think of human sort of intelligence it's
+super integrated so like in this
+conversation for example right now I'm
+recognizing you know your your your your
+gestures your your your facial
+expressions using my vision I'm
+recognizing your voice using sort of
+speech recognition and I'm gonna try to
+understand what you're saying using
+reasoning and memory and knowledge and
+so forth and it's all happening
+literally it's integrated set in a
+sub-second sort of timeframe and so so
+you look at the two-year-old
+two-year-old can look and do all those
+things and learn recognize faces and so
+forth so that's the other thing I would
+I would just don't just build
+two-year-old sort of speech recognition
+capability but actually build a
+two-year-old I can understand speech
+second that can um you know make plans I
+could solve problems and they can
+recognize sort of faces and do those all
+at once that's something that's not
+encouraged in the field that I would
+encourage as well do you think that
+that's a where's the best place for that
+to happen to me as you're talking about
+this this sounds like tenured
+professorship academia yeah it sounds
+like that might be the best place to
+happen it sounds to me like the worst
+place
+that to happen would be place like Yahoo
+or something for example like you ended
+up at Yahoo after you sold your your
+startup did you find that to be
+intellect bash any company I generally
+say in general that yeah it's tough to
+do in main industry generally because
+basically there's a lot of focus on on
+immediately short term results right it
+honestly there's a history if you take a
+bunch of PhDs and you put them in a
+corner say don't show me results for
+five years they're not going to do
+anything for five mean that's just human
+human nature for years and six months in
+they're like alright what are we really
+doing here yeah yeah that that's human
+nature which which again it just brings
+me back to some of the original stuff
+we're talking about it's like we are
+humans building this thing that we want
+to call human level artificial
+intelligence I'm pretty damn sure it's
+gonna look you might end up looking like
+a human with all of its flaws I I put
+out a question on a tweet I said hey I'm
+talking to an AI expert what would you
+ask one of the questions I get back was
+very interesting actually it was do you
+is there value in neuro a typical humans
+and if so will they'll be value in neuro
+a typical AI right like should we create
+artificial intelligence that reflects
+the span of our neuro capabilities and
+we build should we build like autistic
+artificial intelligence machines I mean
+these are these are something like
+fascinating questions actually yeah they
+are and in some sense all artificial
+intelligent machines today are autistic
+they're really good at doing one thing
+and nothing else so they're hyper
+autistic but yeah and in relating back
+to your first question about you know
+about AI and are but not our biases but
+it will it have our motivations and our
+flaws and so forth
+I think a couple of things there first
+off the reason we have a lot of these
+flies is because of evolution basically
+that that right be basically you know
+we're all here because our ancestors
+sort of killed a genocide over the next
+into the people in the next Valley right
+all you know we're all you know we're
+all really we're all
+the Center for war criminals in some
+sets and so you know there's no reason
+why an AI if an AI is designed it
+doesn't necessarily need to have those
+problems so I worry much more about I
+think it's possible to have a relative
+to design a benign AI the more you know
+the real threat to me is people in
+charge of a eyes so you gotta have a
+nuclear weapon that's benign it just
+sits there all day it doesn't do
+anything it's really the you're the
+person bombing someone with it is the
+problem right and so guns don't kill
+people
+exactly yeah it's people who and so it's
+that same argument for AI doesn't
+doesn't need to kill people it's people
+who are gonna kill people using AI and
+so that's that's that I did but um I
+don't interrupt you here but like this
+is one thing I kept coming back to as I
+was reading your work was if we're
+trying to model human level and
+artificial intelligence and but I've
+talked to so many evolutionary
+psychologists recently that I'm
+convinced that we're only adapted to
+adapt right like the our brain exists so
+that we can stay alive and reproduce and
+if we imbue and artificial intelligence
+with those same two characteristics of
+staying alive and reproducing that
+sounds terrifying to me right like I
+don't want them to be human because
+humans do things that aren't necessarily
+morally right are economically right
+seemingly irrational because all we
+really are is finely tuned instruments
+on how to adapt and how to continue to
+exist is that I mean if we were to
+create an actual human intelligence then
+that it would be its goal - right to
+just reproduce and to exist at all cost
+basically I don't think you need to
+actually I don't think that's necessary
+I think you can create sort of something
+that's super smart as smart as we are
+can do a lot all the things we can do
+but has no desire to kill people or has
+no desire to to do anything bad we're
+about to exist
+even that I mean I don't I don't think I
+mean they're plenty humans who who don't
+have a desire to exist right I mean
+everyday just a suicide right I mean I
+mean it's kind of morbid but but uh but
+uh no IIIi think that's the desire to
+exist is like an outgrowth of our
+evolution and I don't think it's
+necessary I don't think it's necessary
+is there a point in time in which to say
+I stuff gets programmed and set up to
+evolve on its own and if so would that
+not be a circumstance in which it would
+find its optimization in evolution
+rather than its optimization towards a
+specific goal definitely yeah I mean I'm
+not saying I'm saying it's possible to
+sort of make AI that's benign but you're
+definitely right it's it's also possible
+to breed a super sort of intense
+competitive AI as well if you want yeah
+and I guess the the risk is that not all
+the actors in this marketplace are going
+to be rational or have the same desired
+outcome as people working in a science
+lab or at MIT or whatever you know
+acceleration is people want to see that
+in the world Nile Nile is without the
+Constitution for suicide but would
+rather do mass homicide you know things
+like that that that to me seems to be
+like one of the more troubling issues
+and I just keep thinking about if they
+act like humans were we need them
+to be better than humans we need them to
+be simpler than humans and we need it to
+be more constrained and and with a goal
+of doing its goal rather than but again
+I come back I hear this Paperclip
+example you know like we for people who
+don't know where you set up in an AI
+whose job it is is to make the most
+amount of paperclips possible and
+instead of just like making the factory
+run as well as it can is somehow figures
+how to take over the whole world to make
+as many paper clips as you possibly can
+it seems like the opportunity for a
+fuckup along those lines given how much
+how inclined we are to make mistakes as
+humans this is this seemed probable
+probabilistic does it seem somewhat
+inevitable perhaps that we would err
+like just the actual error rather than a
+I'm not a malicious one I agree yeah no
+I'm not I totally agree that that it is
+possible to have flaws like that and I
+yeah so just because yeah definitely I
+don't think computers just I don't think
+there's anything inherent to sort of
+being conscious or intelligent that
+makes you malicious but I definitely do
+believe that someone can make them be
+malicious and that there are sort of
+unintended consequences sometimes we're
+like you said if you tell a computer hey
+you know build the best paperclip
+Factory then sure let me just kill all
+of you know Louisiana and and you know
+and make paper clips out of the raw
+materials or something like that that's
+definitely something that that's
+something should worry about frankly
+though I mean it's it's I mean I would
+worry much more about that's not gonna
+happen anytime soon in our field I mean
+done nuclear proliferation of a bio
+warfare those are much serious more
+serious yeah risks yeah I was thinking
+the bio stuff and and genetic stuff team
+seems to be making progress enough that
+those types of ethical and and you know
+existential worries seem to be much more
+relevant in those industries than here
+where we can't even get the computer to
+tell me if that's a stoplight or
+not at this point so we're probably
+still some time away from that I wanted
+to just take a total detour and talk
+about reality first sure so we're
+creating these machines whose job it is
+to observe reality around them right
+where what does that tell us about this
+reality itself like is the existence of
+the computer and we get ten of them and
+we all set them in the same room and
+they're supposed to scan up the room and
+tell us everything that's in there
+whatnot are they all gonna see it all
+the same way are they gonna see things
+that we're not seeing it is there gonna
+be a unified version of what reality is
+because it's a machine deducing it from
+us versus all of us with our own biases
+and our own distractions and everything
+that we carry with us what does it mean
+for like our understanding of a concrete
+objective reality we're like this pen in
+my hand this is it this is all there is
+to it but you know I can't see there's
+like bacteria all over it whatever
+like what are what are what are machines
+gonna tell us about the nature of
+reality that we don't already know yeah
+that's a good question
+I think a very simple first stab at that
+which isn't so interesting but but but
+sort of might be a decent example is
+that in the earliest days of computer
+vision you know making you know
+computers recognize the environment
+around them using light signals people
+were shocked at basically what looks the
+same that you and me from looks totally
+different from from like if you look at
+me from this angle but I know where no
+one can see this but and then I turned
+45 degrees or I changed it lighting a
+little bit but people don't realize is
+oh it looks are the same thing that
+looked very similar to us if you
+actually flew the computer are vastly
+different little things like shadows and
+shading and the hues of the light
+shining on them are vastly different and
+and it's just our brain sort of some can
+cancel all that out and just see the
+essential stuff and it makes him see
+that be the same so that was one example
+where the history of the field were
+looking at something through the prism
+of a computer made us see things that we
+wouldn't have seen in our own and so and
+see differences that we wouldn't have
+seen on our own now the bigger so I
+think I think actually again for someone
+who's intellectually earnest not doesn't
+have an agenda I think you know seeing
+stuff through again through the prism of
+a computer can really make you more
+objective because computers are
+objective I mean they don't they don't
+have an agenda and and computers
+basically are very dumb and and so they
+they belabor everything and they make
+you sort of realize what your
+assumptions are so there's all kinds of
+assumptions behind your conversation
+here everything we say I'll give you
+another very some example if I say
+something like the Brady Bunch
+so the Brady Bunch by the way is a
+family of what it was eight or nine
+people for those who don't like have any
+good education of our culture are as old
+as we are yeah exactly the uneducated
+masses
+basically you know the Brady Bunch went
+for a ride in their Corolla right
+tweedle crawl a small car and so if if
+so if I just say that that's you're
+gonna say hey wait
+basically how's that possible the ten
+people can fit into a Corolla right and
+you'll instantly think of that like
+literally in less than a second and so
+if you think about that there's this
+background knowledge about about sort of
+people of their size the cars how they
+do the physics of whether they can all
+fit in something and we're able to sort
+of Martin in in constantly in our
+conversations we have all this
+background knowledge and assumptions
+that were sort of marshalling to sort of
+make sense of what's going on and when
+you try to make a computer understand a
+sentence like that you find it actually
+doesn't have any of that and in and it
+makes you realize for the first time all
+the assumptions you had and so I think
+and and I think a predecessor of that
+was the before computers you know making
+proofs like in math and science and
+logic was another example of that that
+basically proofs our computer like in
+their stupidity they're just steps one
+step to the other I think when you try
+to like see the world through that prism
+it's limiting in some ways but in the
+other ways it sort of brings up all of
+these biases you had all these
+assumptions you had and it's really
+tremendous I think in terms of like
+making you more enlightened to make you
+more a sort of insightful about the
+world so I think you know in that sense
+AI and if you look at if you do it well
+or do you do what sort of earnestly
+could be great for people actually make
+us understand the world better do you
+think that do you think that that will
+lead us to like do you think that
+there's one common reality that we're
+all miss observing or is there multitude
+of realities that we're all experiencing
+independently I think there's one
+reality but there's different ways of
+thinking about it and and so and
+different so I what's a good example of
+that is I can't think of a great example
+off topic I had but you know you see
+basically somebody sees somebody kid
+fall over right maybe the parents sort
+of see thinks of the pain the kids
+having maybe a physicist thinks of like
+you know the actual physics of it
+and the gyroscopic forces and so quick
+but so there's there's different sort of
+aspects of realities from ways of
+looking at the different models of
+reality but I think deep down there
+actually is something that we can sort
+of there is a reality that that actually
+is there that sort of our mental models
+don't really affect in any way but it's
+a lot of work to actually even like when
+people are really smart and a really
+earnest and they're really dedicated and
+energetic about it it's hard enough to
+sort of be right about that but then on
+top of that you add sort of laziness and
+and sort of agendas and sort of emotions
+and so forth
+it's hard to get at that it's hard to
+actually be accurate about that and I
+think yeah there is a proper use of sort
+of not just computers but just generally
+sort of more formal rigorous methods of
+looking at the world that can help us
+sort of get more on agreement on stuff
+but it sort of depends on people sort of
+having this sort of motive to see it I
+think the problems with people having
+different perspectives I don't think
+they're driven I mean there is different
+people can look at the world in
+different ways and different backgrounds
+and and and sort of different sort of
+personalities and different sort of ways
+of thinking can affect that but I think
+95% the problems we have about sort of
+people having different ways of looking
+at the world aren't driven by anything
+that's inherent it's driven by the fact
+that people just are being sort of
+distorted by their by their emotions and
+by their agendas and so forth I think
+that I think if you if you really put
+people who are seriously legitimately
+earnest they're not afraid of
+confronting facts that that they're that
+are scary to them or unpopular I think
+and are willing to take conclusions to
+where they lead and have the mental
+energy intelligence to do that I think
+you put all those people together and
+are really earnest about it I think you
+can get a lot more agreement I think the
+problem is that almost nobody has all
+those all those characteristics yeah I
+was gonna ask you how can you help me
+devise like a boot camp to get people up
+to that level so that they can so that
+they can't engage with these
+conversations and that capacity very
+tough right it's tough and you know I
+mean I think that's that's the problem
+so like everybody expects sort of you
+know technology and in a classroom for
+example to make hits
+smarter that's not what it is to make
+his learn better it's it's been it's uh
+it's it's it's other things it's your
+habits it's your it's our outlook it's
+it's you can have a great education with
+books and pen and paper it really but I
+think that's the question I think that's
+the what you just described if somebody
+needs to figure that out and that would
+be the thing is let's say somebody did
+figure that out my question is who would
+actually want that I don't I don't I
+don't know how many people really you
+say did you want to be rational do you
+want to be insightful do you want to be
+objective sure right but actually when
+they see what that means how many people
+would really want that another example
+would be think of like let's say you
+let's say you invented some class that
+was really good at this and made kids
+super enlightened rational objective
+whatever you want to put it and then you
+eat and you shut up shop next to sort of
+an SAT prep course right like no one's
+gonna take their kids to this thing
+they're all gonna take their kids of the
+SAT prep course so I'm not trying to
+dump on the idea I think it's the most
+important idea is the main I think I
+really do I believe that I think it's
+really one of the most important
+problems in history and civilization
+like not just now in the past and in the
+future but that's the challenge it's
+getting people to want it I think if
+people want something it happens well
+I'm not known for taking on easy tasks
+so funny you should say that's something
+that we've been really that that's like
+one of the goals of the liminal order
+actually is to is to how do you find how
+do you create yourself to become in a
+state in which you can pass you know
+interpret information discern what's
+valuable make a choice and a commitment
+and embody your ideals as it relates to
+that information and in my conversations
+with guys like Jordan Greenhalgh who's
+now going by Jordan Hall he's a you know
+a tech guy turned philosopher who's
+really thinking about this issue quite a
+bit and and thinking about sense making
+and cohesion national cohesion and you
+know you combine that with the stories
+and and the narratives and the power of
+our shared imagined orders and whatnot
+and you can see how social media has
+really all that up and made
+much much worse and that we don't have
+we don't have Rosie it's the postman
+you're fine
+Rosie no my dog well maybe we'll add
+that out later but maybe not so we have
+a we've we've lost the shared narratives
+that held us all together and social
+media has really punctuated us and tueur
+blasted us into a million pieces instead
+of one single coherent unit and one of
+the things that Jordans come up with and
+I and and this is not brand new
+information it's it's sort of ancient
+wisdoms
+you know his idea is that you have to
+become the most finely tuned version of
+yourself as possible right and so that
+means making sure that you're physically
+sound making sure that you're mentally
+clear for me and for my guys that's for
+like that's for like meditating and and
+for effort through exercise and
+community service and effort and then
+and realizing that you have to be of
+service and commitment to other people
+and so if you start to stack these
+things up it begins to create this sense
+of personal sovereignty which is allows
+you to sort of detach from some of the
+chaos that's out there and detach from
+the agendas and develop an earnestness
+and a courage to address some of these
+issues and have difficult conversations
+and and to accept competing ideas and
+and have people push back against you
+and not take it personal and to and to
+really just engage in the pursuit of of
+intellectual progress and and dialogue
+and that's what we're doing right now
+and that's what we're doing you and I
+are doing right now and that's what
+we're doing in the luminal order and
+that's what I hope for from all our
+guests is to be able to sort of put some
+that stuff aside and to really think
+about it Menke Majan how much more
+popular I would be if all I did all day
+was throw out red meat and Trump this
+and then and you know and just throw out
+political sausage for people to fry I
+mean that would be that would bore me to
+death absolutely and so we're going for
+nuance and we're going for actual
+commitment and we're going for
+embodiment and courage and being able to
+think about some of these things with
+courage I think is something that's
+totally missing out there so when you
+say the kids won't your parents won't
+send you that school for you know SAT
+they'll choose SAT over that I'm hoping
+that guys as they start to mature in the
+world and start to sense
+that the mental models that they've been
+given the ways that they're perceiving
+the data the systems that they have they
+realize that they're stale they're
+outdated they're not returning the the
+the positive or productive information
+or data that you need and so we need to
+update those mental models just like
+you're saying you need to update sort of
+the scientific method as it relates to
+artificial intelligence research or at
+least in trying to create bigger leaps
+forward rather than this boring-ass
+incremental strawberry efficiency
+ which I'll never forget that
+example from now on and so we're really
+we're trying to get outside of that day
+to day grind and so I appreciate
+appreciate you coming on to talk about
+some of these things I wanted to take
+one more turn because this is something
+that I have a personal interest in I
+don't know anything about really but it
+dovetails off of like computers being
+able to process reality and to see like
+is this pen here or whatever where are
+you on and have you even considered
+simulation Theory an idea that we may be
+operating within some sort of simulation
+that there's some supercomputer advanced
+civilization far out in the future that
+has turned us into little technological
+slaves and ones and zeroes the Rick and
+Morty scenario I mean some of it sounds
+really far-fetched but then there's some
+like actual fundamental arguments that
+seeming are seemingly very convincing as
+well too so I imagine you've given this
+some thought I have and you know I mean
+to me the question I think about a lot
+of them I mean lots of other people do
+is you know I mean why is there no sign
+of life anywhere else and and lots of
+theories about that you know we could be
+the first we could be some experiment it
+could be that actually this is some
+transitory you know there's there's like
+being like a dog and then there's
+basically being sort of there's
+something that happens after us that's
+superhuman that's sort of non-physical
+that we don't even know how to observe
+right maybe we're in this I don't know
+there's lots of theories but um I don't
+know what I don't know what to make of
+that I don't know what I can do about
+that and yeah are we some simulation I
+think it's possible I guess my edit and
+I do again I think about these things
+that but I then I wonder like what how
+does it really affect me how can I
+actually what can I do about it and it
+was very
+I can actually no it's just it is fun it
+is yeah it's a night it's an it's a
+that's what it is it's fun yeah it's
+like watching a football game or
+something like that it's a doll indulge
+me for a minute oh don't use what you
+want yeah but on the fun side of this I
+mean okay so one of the fundamental
+things that I heard that got me thinking
+was like we're on a path however long
+that path may take the computational
+power and the energy within the universe
+at some point should be sufficient
+enough that they could create someone
+could create a simulation that would be
+rich enough to confuse the human mind
+and if that we're on that path and that
+path could take thousand years or 10,000
+or hundred thousand years from now that
+the odds of us being the first one on
+that path are so impressively small that
+problems speaking from probability that
+we're not the first iteration to come
+through here does that hold any weight
+for you yeah I mean that's s5u as well
+like it's almost inconceivable that were
+the first ones I mean it's it's a real
+puzzle to me and the only the only
+theories I have or one is you know again
+these aren't I think none of these are
+really my idea but one is that there's
+something like all civilizations just
+inherently self-destruct right at some
+level that's one theory the other theory
+is that they all reach some form of
+enlightenment where you know where the
+thing to do is you sit around like
+meditate in a cave all day and so they
+which I don't believe either I don't
+think that's really what's then the
+other thing is I'm starting to feel that
+way what is way movie being detached and
+but the other way is you know maybe like
+somehow like oh we are they all sort of
+like upload our brains into some kind of
+like ether of some sort that we don't
+even really know about or it's like
+we're looking for at the wrong sort of
+spectrum of electromagnetic frequency to
+see where people are so those are those
+are all theories of what it could be
+going on but yeah I don't know what else
+to say it's it's just shocking to me
+that there's no other signs of life
+anywhere yeah that's the one that gets
+me and you know you go through the Fermi
+paradox and whatever but I mean it's
+just so big there's so many places
+there's so much possibility source
+opportunity that you would think
+statistically speaking it would be
+probable for us to have at least
+detected anything out there whatsoever
+but it doesn't seem like there is I mean
+have you heard we heard there's been
+like credible you
+for reports I mean I haven't done too
+much into that is that anything that you
+you pay attention to at all you know
+like as an amusement I guess I guess it
+seems like probably some airforce secret
+Air Force project is probably a better
+explanation for a lot of those things I
+think one other thing to think about
+actually just think about our own
+history as humans is that that um you
+know basically technology really I mean
+are sort of modern industrial
+technological sort of society it
+happened once and involved once and and
+there were and people had happen sort of
+in Western Europe and and is really
+where it started and people don't really
+realize this but a lot of people don't
+but really Western Europe is like a
+backwater right like basically from a
+history no civilization started a lot of
+other elsewhere and so there is this
+sort of thing and even human industry
+where there's plenty of precedent of
+people having the mental capability to
+sort of do everything we're doing now
+but they haven't many other cults from
+there the time to do what they the
+resources to do it
+so then you have to ask yourself maybe
+there's really something maybe it's more
+rare than it looks right but but any
+other hand you know again there's
+another billion sort of stars out there
+whatever it is and planets not there so
+that yeah but anyway that's the other
+theories that there's really something
+magically rare about what we're doing
+that that it's more rare than we would
+take it would be well and that's that's
+where I'm starting to come down the more
+I think about the math and the science
+and the just nature of infinity it and
+space and everything that's out there it
+really did it seems to me and I was
+raised half Jewish half Catholic but I
+left all that in childhood I've not been
+a practicing religious person as an
+adult but I gotta say that the more I
+learn about stuff the more I am inclined
+to take a to receive an answer that is
+like beyond science something super
+special oh there's a word that I'm
+mystical or something there's a word
+that I'm missing here yeah but it seems
+to me there's so many questions upon
+questions upon questions and you take
+down deeper deeper deeper and there's
+still just more questions it gets just
+more complicated and whatnot
+and it seems to me you know I don't know
+I become more and more open to accepting
+the presence of some sort of
+supernatural something or other you know
+I'm not ready to put a face on it or
+anything but it does seem to me that it
+would it would answer a lot of questions
+and I think that that is basically been
+the primary goal over time really you
+know we're not the first generation of
+humans to wake up and look up at the sky
+and be like I wonder what's out there
+we've all had these we've all had these
+questions and we've all felt the urge to
+have them answered and so having an
+answer that worked as a blanket answer
+for things I think I can really see the
+productive value and that muscle
+starting to see the sort of emotional
+spiritual value and that as well too
+which is why some of these conversations
+about reality perception and reality
+simulation stuff creating a new human
+mind out of VO sand and glass and heat
+and whatever all these things are tied
+together yeah which makes it so
+absolutely fascinating such an
+interesting field I know you said you
+entered AI in the wintertime or whatever
+but it seems like you're in the end of
+really fascinating exciting realm of our
+existence today I mean what what brings
+it all together quite like that
+it's very pretty fascinating to me it is
+yeah I mean a question for you is have
+you noticed that um again my V so there
+are these deep questions why are we here
+what caused everything and and I
+remember when I was my first you know
+you go to college there's a bunch of
+other kids thinking about the same
+things I get a sense now I don't mean
+young kids now both when I was a
+professor but also sort of just in
+normal life now I don't get a sense that
+they're asking the same questions I mean
+I almost feel like like the curiosity
+about the deeper questions is actually
+waned I don't know if that's you found
+that as well or not I mean one theory is
+there's so much to social media just
+constant simulation you don't even have
+time to think about these things that
+you're just it's like a brave new world
+or something like that where your cost
+like so your constant cap so occupy you
+never think about the deep questions
+yeah there's definitely information
+overload and there there's new religion
+now too though so there's new moral
+codes and new religions that are
+secular secular religions that have
+popped up that are driving our
+institutions in our education system
+that don't even make space for those
+kinds of conversations I think maybe the
+lack of a questioning in that regard
+could come from feeling like you already
+have the answer and the answer is zero
+blank dark nothing nihilistic totally
+spiritualist just total random
+matter and a random place in a ragam
+time and there's no answer that's
+interesting actually yeah that basically
+that that we're becoming sort of almost
+like this there's almost like this
+doctrine it's being imposed on everybody
+it's just not what it used to be and it
+doesn't really have really space for
+these kinds of questions and yeah
+because it could it's presented as that
+is the answer right right yeah here's
+the answer and they did and they I think
+from what my senses on campus and
+talking to people studying curricula and
+things is that it's not presented in a
+way that kruta invites exploration
+either especially there's the new
+secular religions intersectionality
+critical theory things like that these
+things are being presented as just fact
+question asked question answered just
+move forward we have to be activists we
+have to take care we have to make change
+there's no there's no question for that
+type of you know I'm gonna say
+navel-gazing that's pejorative so you
+know just dreaming imagining I mean dude
+how much time did I spend just like
+sticking poking a stick in the mud when
+I was a kid yeah oh I'm just playing and
+just where does your mind go and the
+things you think about I mean
+daydreaming used to be something that
+they people look down on daydreaming but
+man daydreaming is where I get most of
+my good work done you know it's like I
+can be totally lost in my own head and
+and working even though it looks like
+I'm just kind of staring off into space
+and we don't
+I mean I'm as a victim of this today as
+anybody I that phone that phone is
+ got me I'm like a heroin junkie
+a iphone and I have to set really strict
+parameters in its usage and day time and
+and limits and stuff because I I can't
+get deep work done when I have to when
+I'm like doing social media and it's
+part of my job and I love it I love
+doing it but it just it starts a cascade
+of thought and action
+ward that that is really hard to break
+out of you know if I start off my
+morning doing social media and I have
+some tweets like take off then I can
+lose another two hours just watching
+like thousands of notifications come in
+when really all I wanted to do is set
+off a couple of tweets and then get back
+to writing or reading or prepping for an
+interview or something so like for me
+personally as an adult I've had to find
+ways to create space in order to allow
+my mind to go and as a writer luckily I
+have a system for that too you know and
+as I write people say you got to think
+before you write I know no man I write
+so I can think and that's when I start
+to see things come together but I don't
+see us really like creating those spaces
+for our children and for our youth today
+and and it's it's this transition period
+you and I are approximately the same age
+you can see yourself Gen X oh yeah
+exactly yeah Gen X okay so we're part of
+this transition time where we're all
+making these mistakes you know like here
+give your kid a phone when
+they're 10 no it's probably a pretty bad
+idea or a number of different mistakes
+is like how to manage your privacy
+online or how to just not be an idiot on
+social media these are all things I had
+no idea stuff I was doing I was 14
+online was still gonna be out there
+today
+yeah so we're learning through trial and
+error through humans which is and what
+you wait a bummer and what you said
+about sort of like your kid he had time
+to just poke a stick in the mud and you
+can't do that anymore and you have a se
+out here in Silicon Valley you see all
+these parents taking their kids they go
+to these world-class schools and then
+afterwards they go to these tutoring
+centers and and so these kids are so
+over program and they're constantly
+scheduled although I'm not the first
+person to say this but basically that's
+all they're doing and they're being
+turning the end it's good in some ways
+but it's also making them fragile in
+other ways and and they don't actually
+think well and they don't even have time
+to think for themselves and so I think
+it's a scary thing where you get sort of
+this elite we're breeding we're
+basically it's super sort of intense and
+concentrated and focused in certain ways
+but also completely sort of incapable of
+thinking about or having curiosity about
+sort of what they're doing and why
+they're doing it and it's not really a
+sauna
+so it's not a really good experimental
+thing no it's not and we're beginning to
+see those first kind of those people
+raised like that in professional
+industry now so like journalism for
+example you know how many journalists
+are between ages of 25 and 35 and who
+grew up in this whole same environment
+where you don't have any moment to
+reflect you're taking everything at
+everything is given as Dogma you really
+aren't being critical you've had no time
+to self explore other than those like
+four weeks you took and in Spain after
+your study abroad semester or whatever
+drinking with other kids from Australia
+that doesn't really count and so we're
+seeing I think sort of that my op myopic
+yeah I'm thinking in journalism and then
+into our discourse and then it just
+that's why in my book I called the
+college campuses ground ground zero
+patient zero because that's where that's
+where it's all starting and then it just
+Criss crosses the country infiltrates
+our institutions and then the
+institutions these days seem to be
+bending to adopt to the needs of the new
+people rather than the old days like
+forcing the new entrants to adopt to the
+institutional standards and norms which
+I think is also very troubling
+in fact I hadn't put this together now
+but yeah the the cult of the child which
+has evolved over the last few decades
+here where the parents put the needs and
+wants of the children first reads an
+institutional structure an organization
+in which the leadership of those
+organizations are gonna want to put
+those the needs of those child's and new
+entrants first to and then there begin
+to lose track of what their mission was
+what their shareholder you know
+responsibilities are it cetera and so
+everybody gets distracted and though
+you've got the kids sort of running the
+insane asylum even though we rose them
+raised them to be crazy in the first
+place man
+there's a lot in there but I'm doing my
+best to not have that happen with my
+kids I mean we have family dinner every
+night
+and they I cannot get the kids away from
+the table they sit there no devices know
+anything they sit there they ask
+questions we probe we talk about all
+kinds of and now my daughter's in
+high school or following the election
+and stuff and she's been a hurt her job
+in her AP government her job was to
+represent mayor Pete in her class
+discussions every week and so it's been
+really fun to see her process all that
+stuff I can't wait to talk to her
+tonight about what happened in Iowa last
+night because you know we'll release
+this in a week or two but last night
+there was crazy who knows what's gonna
+even come out of the Iowa caucus they
+don't have any results 24 hours later at
+this point but um it's been an hour and
+20 minutes and I wanted to just wrap up
+with a couple of other things I could
+really rap about this with you for
+forever this is very fascinating you're
+a very interesting guy and I really
+appreciate you coming on to talk to me
+what I know that you you started your
+company you sold to Yahoo you work for
+them for a little bit you wouldn't work
+for Samsung I believe for a little bit
+as well as right and then and now you've
+transitioned into something new once you
+tell us about that - they sent its
+you're able I'm very interested yeah
+sure absolutely thanks for asking you
+know the overall you know but there's
+just expression software's eating the
+world and what that really means is that
+the entire economy the into all of
+society at some level is being fueled by
+software depends on software so you know
+example be you know the taxi industry
+now is like uber and so there's software
+underlying that may or beam be sort of
+in the hospitality industry and I could
+go on everything at dating new even dog
+walking I didn't think of that but I
+believe it really it really is sued you
+can there's an app now where wherever
+you are if you're a dog walker you just
+pull it up and there's like five people
+within 50 feet of you that need their
+dog walked Wow just go and you walk the
+dog and they GPS tracks the walk that
+you did you take a picture and you
+upload it and you don't ever meet the
+people but you know it's dog walking on
+demand thank you very much Fitbit leash
+somebody yeah oh you know what yeah
+that's actually a really good idea yeah
+I'm surprised it hasn't happened already
+so that's a good Kickstarter project but
+but but um so software's taking over the
+world and and it's the software's
+required everywhere but really the
+supply of software developers is limited
+that
+that you know you contrary to what
+people say everybody just can't learn
+the code actually it's a very sort of
+small amount of people who are really
+good at being able to become good good
+coders and so what you see is that
+there's a shortage of programmers the
+salaries are going super high which is
+good if you're a programmer but what it
+means is for most projects is that they
+can't happen because the software for
+what they want to do is actually doesn't
+exist and we talked about that a little
+bit in sort of relationship a liminal
+order but it's everywhere
+and so so or company and so one other -
+wait that's one other way of talking
+about it is if you follow with economics
+at all or the stock market historically
+when the price of oil or energy goes up
+the economy does poorly because
+basically profits go down because the
+cost of making everything sort of
+increases and because there's no profit
+there's no investment new things don't
+happen it's horrible
+I think software's like that - that
+basically basically the fact that
+software smokes is to produce is a huge
+sort of wet blanket on the entire human
+progress literally so our startups goal
+is to make software orders of magnitude
+easier to produce and so we have a
+technology that makes does that it for a
+certain array of software we we can make
+it a thousand times easier to produce
+and and that's nice for the reasons I
+just described but I also think it's
+nice for maybe some of the things that
+that you know your community's
+interested in as well which is that if
+you look at a lot of the dysfunction on
+the web today I think a lot of it is
+driven by this so you know you have four
+or five platforms that are really
+controlling the vast majority what
+people see or think and and and and
+attend to and and the reason you have
+that to some extent a lot of reasons but
+one of them is is that it's so expensive
+to create these platforms that no one
+can create an alternative that if you're
+unhappy with how sort of Facebook or
+Twitter or anybody's doing stuff to
+create your own version of these things
+is super expensive and and so if you can
+make software virtually free to create
+then you could have alternatives to a
+lot of these things and
+and everything will and I think in a lot
+of ways there'll be a lot more diversity
+and sort of in our tech platforms a lot
+more be more customized what people want
+that's sort of driven by top-down and I
+think that the final angle on this is
+that software super expensive to produce
+you know literally Facebook and Google
+spend billions of dollars on developers
+but at the same time people want it to
+be free and so the way you the way you
+reconcile that is you charge for
+advertising and that sort of gives you
+an economic incentive to to sort of
+hoard data and control people's data and
+and limit their experience a certain way
+so you can serve ads on their software
+so basically the so again a lot of
+things that we don't really think of
+having to do with sort of economics or
+or programming skills or programming
+development actually our problems that
+at least part of their cause is how
+expensive it is to create software so
+that's in a nutshell what we're doing I
+guess short term I mean we're trying to
+build sort of people have your own
+social network or your own you know
+collaboration type software you want to
+create let us know or reach out to us
+we're happy to sort of see if you if we
+can help you in some way and that's it's
+called dry IO dried out IO that's right
+and you just search for that you'll find
+us send so button so what you're saying
+is that the high cost of software
+development is basically a drag on human
+development at this point in time right
+exactly yeah
+and it's enabled huge monopolies to take
+over our communication platforms or
+create and then control them collect
+data on us sell it to the highest bidder
+and use us basically in pawns for both
+their political agendas and in their
+money-making agendas and whatnot so
+basically we feel like we're free but
+we're also kind of trapped and and you
+in part attribute that to the high cost
+this was basically like a huge high
+barrier to entry in this market so that
+it keeps people out and allows these
+companies to make whatever decisions
+they want to make everybody can just
+scream and cry about it me for example I
+got banned I got banned from Twitter for
+using the word
+retard which I also then laughably saw
+in your piece you use the word retard
+but you use it in exactly the same way I
+used it which is to say that it was like
+limiting function and their limiting
+factor in this person's development now
+or in this case software development and
+I got banned for 12 hours from that so I
+know that I'm like so precariously at
+the mercy yeah they could just on a whim
+I mean I'm already on shadow bandless I
+can already see and feel the algorithmic
+soar manipulation
+there's also manual manipulation that
+goes on within Twitter we know that to
+be true
+and so you know I'm constantly battling
+an uphill uphill mix my metaphors uphill
+wind in my face you know tailwhip I
+don't know
+I'm definitely father dealing with
+issues and and so I'm sort of at their
+mercy but what you're saying is you have
+devised and I would love to know a
+little bit more of the how on this
+because it sounds like like a fantasy
+right like how were you able to create a
+system that can help people create an
+array of software you say that is going
+to they're gonna be able to build it and
+customize it and play it at a much
+faster rate one that would be on par of
+taking did you give me this example
+before but of taking the price of oil
+from ten thousand down to ten dollars
+and would really pump up all of our
+outcomes here like a do I haven't that
+right and be how do you how do you do
+that sorry yeah that's correct that's
+correct
+so there's two ways of thinking about
+how we do it I mean sort of one is a
+very high-level way of thinking about it
+but uh you know you could look at sort
+of what does a computer programmer do
+right they basically have a normal
+person who's not a programmer say you
+know I want my software to do XYZ and
+they say that say in English right a
+natural human language and then there's
+the computer which you know has a
+computer language where you need to tell
+it to do stuff and so what really what
+the programmer does in some sense is
+translate from human language to
+computer language and it turns out
+that's something that sort of you and I
+can talk about I can describe an app for
+you in ten minutes it would take that
+same app it took to actually implement
+that up in a computer
+can take literally tens or hundreds of
+thousands of pages of code it can take
+literally person months of effort to do
+and so if you could automate that
+translation process then you can make
+programming faster and so that's not
+we're not there yet that would be the
+ideal I just talked to the I just talked
+for 10 minutes and suddenly my software
+is created but we've done is we've
+created sort of a way of describing
+software that's sort of a lot simpler
+closer about humans think of software
+than how computers think of software
+that lets you sort of describe your
+software very simply and that actually
+and we have a way of converting that
+into actually running software and that
+makes things faster I think that the
+last part that's that's the secret sauce
+we have a way of converting that into
+ways that machines can understand does
+this does this draw I presumably on you
+know the work that you've started at MIT
+and then worked on that where were you
+at Rensselaer or things right and then
+is this is this part of your career
+trajectory or is this a off branch is
+this a u-turn what is this now it's part
+of my career trajectory I guess I
+developed this theory called the
+cognitive substrate and the basic idea
+there is if if you look at you know what
+we evolved say 50 or 200,000 years ago
+as humans right that's when we the last
+sort of major step in human evolution
+where we came Homo sapiens sapiens there
+hasn't been much that's changed since
+then evolution is much slower than that
+so we have and if you look at what we
+were doing 200,000 years ago we were
+basically running around being you know
+manipulating the physical world
+organizing in small groups and our
+brains evolved for that so our brains
+are not evolved to think about
+Parliament's or elections or stock
+markets or option prices or all the
+things we think of our computers or
+anything that we think of most of
+anything we think about now so whatever
+so all these sort of billions of things
+people think about now really must be
+sort of running on machinery that was
+built for a small number of things that
+we cared about one or two hundred
+thousand years ago and so figuring out
+what's that core sort of operating
+system or what's the core sort of
+substrate
+mechanisms that sort of enable
+everything else to sort of happen is
+sort of what my whole career has been
+about sort of identifying what the score
+is and then implementing it and so in
+the sense what we're doing right now is
+identifying that core for computer
+programming for software and sort of
+finding a way to implement that so
+people can leverage that to sort of
+write their own software okay let me
+make it a little bit more concrete
+so look yeah to find for me one of my
+questions I had pleased to find
+cognitive substrate I think that's I
+would I would like that and then you
+know any other further example that you
+have I mean you explained it very well
+it's just it's a profound thought you've
+been working on this for your career I'm
+trying to process it right now school so
+work with me absolutely so so you know
+you 200,000 years ago you're you're
+wherever people have evolved to 1,000
+years ago and you know what are you
+doing let's say when you're a big part
+of your brain say was a fall for
+tracking some animal because you're
+hunting it right and so that involves
+having really good capabilities for you
+know cause this sort of sort of memory
+of where something was for being able to
+predict where it's going to be in you
+know the next minute it involves
+basically being able to recognize
+objects and separate them from their
+background it involves some knowledge of
+time like if this happened before that
+it involves cause and effect like if I I
+don't know if I if I hit something with
+a spear it's gonna it's gonna select
+fall down and therefore I could eat it
+so there are these primitive mechanisms
+cause and effect time categorizations
+and other ones so categorizing where
+things are what things are and how they
+behave and so there are all those sort
+of mental mechanisms we have for those
+things and I'd say there's 10 or 20 of
+those whatever they are and the the
+trick is those evolved just for those
+narrow circumstances but whatever we do
+now to think about stock options or
+Parliament's or or whatever are using
+just those same 10 mechanisms
+I'm great okay yeah I got that okay so
+we're we're woefully ill-equipped to
+deal with the complexity of the world
+around us today yeah yeah and the other
+way of looking at is we kind of like
+stuff the world we have around us into
+that sort of paradigm so one example is
+this like here's a here's an example
+like let's say I'm on a bank or some
+sort and I'm taking money and I'm giving
+it from company a to Company B right so
+I'm taking you know let's say GM is
+paying who makes tires I forget
+Firestone exactly they're paying
+Firestone save a hundred million dollars
+to buy some money well it turns out that
+in our so we think of that money is
+moving from point A to point B and we
+use the same part even though that money
+really is just all electronically might
+even be it's nowhere it's like in the
+cloud somewhere it's it's in some
+database somewhere the way we think
+about it in our head is like X moving
+from physical location it's like moving
+sort of a basketball from court a to
+court B right it's that we so that's we
+use those kinds of same mechanisms to to
+to think about sort of more abstract
+things that's yeah and now and how is
+that applying to your work here with dry
+eye oh sure so so it turns out that
+there's like five or ten things that you
+could look at and say those are core
+processes that happen in all software so
+one simple example would be
+categorization so if you think of for
+example email you had folders and email
+right so you that it's really or that's
+really a way of categorizing your emails
+right if you look at something like
+slack you know which is a chat a channel
+a chat system I know you guys use
+something else but you know but I think
+most people are familiar with slack
+basically there's channels and you can
+look at channels is another way of just
+categorizing you know it's categorizing
+your messages if I have a channel on in
+my in my ski club and I have a channel
+on skis another channel on slopes or
+something like that I you know that
+they're categorizing your messages if
+you look at something like folders in
+sort of your operating system on your
+computer
+those are ways of categorizing files so
+this notion of
+at aghori a folder shows up actually
+everywhere and in all and almost all
+kinds of in done self-driving cars but
+but it's like huge amount of software we
+get this notion of categorization and
+shows up in different ways another
+example of that is search right so you
+could look at basically your email inbox
+is just sort of sort of like a search
+result for showing me like you know show
+me all my emails sorted by time right
+you could look at your facebook stream
+as sort of another search result like
+show me all Facebook posts posted by my
+friends sorted by time said and I could
+go on about other piece of software like
+that so there's these core ideas like
+search categorization and there's a
+handful of other ones like that that
+actually underlie all of software
+another one is permissioning so back in
+nature you know a big thing is who who
+who controlled what fruit who was
+married to whom you know who was mating
+with whom and who controlled what piece
+of land so in data and software that
+kind of access is an important thing
+that happens a lot too so email for
+example Facebook's like another good
+example so classically in facebook you
+can see a message you have access to it
+basically if you posted it or if a
+friend of you're supposed to it in
+Twitter anybody could see any message at
+least on a private on a public feed in
+an email you can see a message only if
+you sent it your asunder a receiver in
+and slack you can see a message only if
+you remember the channel it was in so
+there's these sort of I can describe
+them in one or two sentences these sort
+of what I would call permission rules
+and it turns out to implement them takes
+can take hundreds of thousands of pages
+of code but I can describe them one or
+two sentences and @na it in the apply to
+all software so so basically it turns
+out if a if I if I if I if you give me
+sort of your data model like what what
+objects do you care about you give me
+permission rules you give me some some
+views of how you want to see it then a
+small number of things like that are
+enough to characterize what all software
+does so yeah but are you are you let's
+say today if you want to develop
+you know Product X it takes $100,000 are
+you taking like 99 thousand dollars
+worth of work and just doing it all your
+damn self and making and having your
+client do a thousand a thousand dollars
+worth of work or are you actually making
+it so that you only have to do a
+thousand dollars worth of work and the
+client only has to do a thousand dollars
+worth of work and all of a sudden it
+only costs two thousand seven hundred
+thousand do you do you understand are
+you just taking on more responsibilities
+on the front end or are whereas the
+total amount of Labor is still the same
+or is your year process you're actually
+reducing the amount of Labor required
+overall yeah the amount of labor is
+reduced overall absolutely the name so
+the name of our company is a dried out I
+oh and and dry stands for don't repeat
+yourself which is a very common sort of
+expression for programmers and it turns
+out that everybody is always rebuilding
+the same things
+so this permissions stuff everybody's
+building their own version of it the
+search stuff the the folder stuff and so
+it you know is so it'd be great if you
+could just build it into one platform
+and everybody could use it the reason
+that hasn't happened so far is because
+it's different for everybody
+and so adapting it to everybody's
+specific needs has been no one's really
+know how to do that sort of quickly it
+we found a way to do it quickly
+oh that's that sounds like the very
+important part that's the part you
+should probably keep under lock and key
+and that's a sounds really fascinating
+to me based on everything that we've
+talked about I mean if we could reduce
+some of the barriers to entry into these
+markets reduce the friction involved in
+trying to get something new produced
+reduce the the inter platform headaches
+and nonsense that I have to deal with
+sometimes I could see how that would
+open up greater efficiencies for more
+communication and more innovation hella
+could even open up greater avenues for
+empathy and human understanding for
+other people so personally from the
+perspective of the liminal order that
+sounds all very super interesting to us
+and I can't wait to see how you guys
+move along like where would you consider
+you got yourselves in the in the process
+in terms of creating a new
+company we have a prototype and we're
+gradually in the position now we're on a
+cusp of moving if to something from a
+prototype to something people can use so
+we're starting to look for early users
+basically early people who have a
+community say like yours who might want
+to use develop special software for it
+and and you know very common use cases
+would be you have your own social
+network you want to build your own sort
+of messaging platform your own forums so
+anything like that we're happy to sort
+of talk to people and sort of make them
+test cases so build something for them
+and use them to make this offer better
+yeah well I would very much like for a
+limo order to be a test case I know
+we've talked about that and I look
+forward to having an opportunity to
+explore there anybody else who might be
+interested reach out to Nick it dry dot
+IO and Nick thank you so very much for
+all of this it's been wonderful
+conversation I know I learned a ton and
+and I hope and I know that the rest of
+the guys in the audience are definitely
+going to appreciate this conversation as
+well understanding the world today is
+very complicated but understanding
+computing and technology and artificial
+intelligence is certainly one of the the
+areas in which you have to have at least
+some basic understanding to see what's
+going on around you and why and what the
+roadblocks and and bottlenecks are and
+implications are for the future and
+whatnot so thank you very much for
+taking the time to come on I really
+sincerely appreciate it and you know
+hopefully we can have a chance to do
+this again sometime soon
+is there any place in particular where
+the guys like are you present on social
+media or do you have any sort of contact
+out there besides dry i/o or is that
+like the best place to get you yeah try
+to find me on LinkedIn that's honestly a
+place you've just directly message to be
+there you can um you could follow us at
+yeah try I oh that's that's or honestly
+I don't even know where my twitter
+handle is it's truth right now we use it
+so frigging frequently I think I'll
+stick it in the show I'd appreciate that
+Thanks
+yeah
+no problem at all but the website is
+definitely dry dot IO yeah and you can
+look up Nick on LinkedIn as well too but
+again thank you so much I really
+appreciate it look forward to talking to
+you some more and you know man thanks a
+lot and let's do it again
+likewise Jack this has been a lot of fun
+I appreciate it

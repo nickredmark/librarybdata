@@ -1,0 +1,2283 @@
+welcome to the stoa
+the stoa is a digital campfire where we
+cohere
+and dialogue about what matters most at
+the knife's edge
+of what's happening now
+welcome to the dark stoa with pat ryan
+i'm your host daniel kazanjian and
+for the uninitiated these events tend to
+deal with
+slightly more challenging subject matter
+sometimes they prompt existential horror
+and sometimes they blow your mind a
+little bit and they make you think
+so consider yourself warned
+the structure for tonight is pretty
+simple in a moment i'm going to hand it
+over to pat
+and he's going to take us through a
+really interesting mind-bending
+presentation
+and throughout this presentation i
+encourage everybody to write down any
+questions that come up any ways that you
+want to challenge pat anything you don't
+understand
+and then we'll shift over to q a and
+we'll
+send it and we can
+have some dialogue with pat ryan
+um yeah and without further delay
+i gave you pat ryan
+howdy folks welcome back thanks for
+coming back um
+the last string of episodes have been
+fairly
+oh first is my volume okay
+okay great um first a couple
+s episodes of this have been kind of
+like
+uh uh this one i'm going to pump the
+brakes a bit um because i'm sure if
+you've been following along you might be
+asking yourself the question does he
+have any morality at all
+um the answer is going to be answered uh
+with this presentation which is called
+the morality machine
+belief as a technology so the word
+belief is pretty
+loaded everyone has their own personal
+definition of it and i'm going to do my
+best to fight each and every one of you
+on it
+and uh so bear with me as i go along i'm
+going to attempt to
+explain how
+how neural networks actually work
+without ever getting into the
+technicality of it
+because they're pretty complicated by
+themselves in principle they're simple
+but if you're not initiated to that kind
+of thing is pretty daunting
+they make a lot of assumptions and
+unfortunately neural networks themselves
+aren't following any type of
+systematized logical approach
+it's all very haphazardly discovered as
+we go along
+so i'm going to do my best to frame how
+a neural network works exclusively in
+philosophical terms and that should
+hopefully be a useful bridge
+to then explore some of our
+hair trigger inclinations when it comes
+to questions
+of moral decision making
+um and
+that's as best of a summary as i can
+come up with let me share the screen and
+let's get started
+oh no you have to enable screen sharing
+sir
+excellent let us begin
+cool let me get all this stuff
+situated
+oh that's wrong go back there we go
+okay uh i think we're good here
+okay uh morality machine if anybody's
+played chrono trigger
+one of my favorite games this scene blew
+my mind when i was a kid
+uh also i'm still experimenting with a
+vpn sponsorship so if you want to
+have a crack at beating some quantum
+computers
+wild apparently that's going to be a
+thing um try these guys out you can qr
+code this
+or there's a url here okay so
+moving on
+okay so
+we're going to talk about categorical
+correspondence which is a fancy way of
+saying
+um does this category correspond to this
+category
+now it doesn't have to be a tight
+category if i was to say
+shapes correspond to triangles that's a
+that's a correspondence
+if i was to say
+[Music]
+mugs of coffee correspond to cats i'd
+have to work a little bit harder to make
+the correspondence
+so i'm basically i'm this is about
+making
+taking a concept and figuring out what
+category that concept belongs
+in is what we're kind of always doing
+with logic and trying to determine these
+things
+now you can do hard categorization say
+this thing is absolutely in this
+category
+or you can do kind of a gaussian
+categorization where you say this is
+about 40
+in this category and 30 in this other
+category
+and this is the kind of rash now we use
+to start
+evaluating moral systems to begin with
+we always start in this typing
+categorical process
+and it's made more relevant especially
+in a time
+when we have surrounded ourselves in so
+much technology that is all just a
+direct extension of set theory anyways
+so from sit you get type category and so
+forth and so on
+so the
+we have put ourselves in this position
+where
+our morality is now being shaped
+not only by us but by our desire to make
+our morality representable within
+machines
+we're able to do that because we have
+the internet the internet is a way where
+we can reach out and poke one another
+and say
+did i poke you and get the behavior i
+want if the answer is no then the poking
+will continue
+and as a result we just keep iterating
+and coming up with these new ways to
+jam our morality in these machines and
+the way
+we're doing that right now as of 2020
+is through neural networks so i'm going
+to walk you through it real quick
+and if you know how this stuff works
+please bear with me i'm doing my best to
+bridge it in philosophical terms
+okay so let's say i have a brightness
+sensor
+it's uh you've all seen these things
+they you you walk near a garage and it
+kicks on a light because of a motion
+sensor
+right that's that's kind of a brightness
+sensor or an ir sensor or anything along
+those lines so there's something out
+there
+reading light or heat or something and
+as it's exposed to that heat it then
+represents the intensity in a numeric
+form it could say
+uh well it's about let's say that 256 is
+as bright as it can handle
+and zero is as dark as i can right so
+everything in between
+is a gradient of brightness right from
+zero which is absolute dark to 256 which
+is absolute brightness right
+so in this case i have a set of these
+values
+this is the brightness that the
+brightness sensor just happened to get
+in some
+random sample of time that i just picked
+for convenience okay
+so what i'm doing is each one of these
+lines
+will carry what's called a weight
+meaning i'm going to say hey 256 to the
+dark
+quite for um for the assessment of how
+dark 256 is
+there's going to be a weight here that
+explains
+exactly what that means so 256 remember
+that's as bright as it gets
+to the dark categorizer it's going to
+say that's zero dark
+because this is braze against now if i
+if i sent
+0 to the dark categorizer that would be
+100
+dark right so each one of these lines
+carries the bias
+that the categorizer uses to make the
+evaluation
+so if i sent it uh 128 which is half of
+256 i send it to the bright categorizer
+it says that's 50 bright and if i send
+it to dark it's also going to say it's
+50
+dark so that's pretty straightforward
+right so i say
+64 in this case i send it to bright that
+should be around if i can do my math
+right that's like
+75 no it's 25 bright and 75
+dark right so it's pretty simple it's
+just a formal way of representing
+um the weight and what comes out of it
+so what we're doing is we're taking
+these events these brightness events and
+we're encoding the value
+wow that's a terrible place to put that
+uh we're encoding the value
+as a category basically that's all we're
+doing here right so if you see these
+graphs
+you now know what these graphs are
+actually now i'm not going to get into
+hidden layers because i don't want to
+chase anyone out in fact i'm going to
+save that for last so just
+pump your brakes a bit right so just to
+walk us through um
+this is my training i'm training my
+categorizers to understand this stuff so
+that when
+i hit it with a value it's never seen
+before in this case 76 because i didn't
+start with 76.
+what's going to happen is i'm going to
+run it through this network and it's
+going to
+tell me that it's 29 bright the
+categorizer will tell me that in the
+dark it'll tell me the inverse
+so pretty straightforward kind of as
+best as i can put it so we're doing a
+categorical assessment of a new event
+this new
+76 is a new event that's a new
+brightness hasn't been there before
+the machine uh the categorizers are able
+to say
+it's this bright or it's this dark right
+pretty straightforward so let's switch
+it up a bit
+let's make it about morality instead of
+light and dark let's do good and evil
+now we're going to open up all kinds of
+problems because i just said the two
+magic words that make this a big problem
+what is evil what is good well that
+depends upon what behavior are you
+are you quantifying as morality you know
+what's what's the value here are you
+256 what 256 dollars you donated
+is it 256 times you hugged your kid what
+what is this value representing here
+right
+so we can have infinite questions about
+what these numbers should be these
+things will work
+there's no doubt about that if i if
+these things will absolutely categorize
+whatever the hell i
+train it so now we got to step back and
+say what are we what are you
+categorizing here really
+i mean is can you even do this type of
+thing
+so that's like red flag number one
+that's uh
+behavior as quantified morality who
+who's labeling these values right who's
+coming up with these numbers
+and who's actually able to like agree to
+those numbers and comport to them right
+so the problems are starting to amass
+from the junk
+if i give it 76 using the same exact
+model from the previous slide
+then 76 is 29 good
+so whatever people say well it's not
+about good and evil it's the gray area
+in between
+congratulations i've given that gray
+area a number
+it's now 29 you are 29 good i can now
+measure your greatness right
+so now our morality is starting to um
+it's starting to turn into an
+interesting thought experiment before
+morality was the
+measure of man's inaction or man's
+action with
+itself and other people and the world
+and the universe and being in reason and
+trying to formulate all that stuff and
+now
+i'm this is how machines seem this is
+how ai will
+take these deep problems that we've
+enamored ourselves with
+and it will spit it out into these
+distributions these percentage
+distributions
+and that's what it's currently doing
+right now regarding how
+how much hate speech exists in a in a
+post
+how much uh how offensive a meme is
+um is this is a is a
+piece of web content uh
+uh of um you know the basic stuff uh
+offensive and stuff like that right
+so that may sound good and that's how
+they sell it they're eliminating h
+speech and that kind of thing but
+this is what it looks like i mean this
+is what it actually looks like at the
+mathematical scale
+which is again we know the problems of
+trying to
+quantify morality as behavior values if
+the problems don't go away
+when we extend and we we go further it
+gets worse
+in fact um so
+what i've tapped into is this this
+unending holy war about
+not only the quantification of of the
+moral behavior you're trying to measure
+now we talk about
+categorization errors that 76 is 29
+good well turns out the fan club of 76
+they're really pissed about that rating
+they know that they're better than 29
+in fact they have the historical
+evidence they can say god damn it we are
+not 29
+good we are at least 80 so now you have
+these holy wars about the outcomes of
+these things to begin with because your
+priors were all wrong your values were
+then here they come oh i got a million
+litany of reasons as to why this value
+is bad
+they're just gonna yell at you all day
+and oh by the way they also have
+unaccountable influence in silicon
+valley so they can ban you from paypal
+and stripe and
+your life basically so
+these people are very upset and this is
+just
+the stereotype i'm throwing her out
+there because the internet's a lovely
+place
+um they're very upset about this it's 29
+right this is bad
+they they are not happy with that
+numbers in fact it's
+there's systemic reasons and
+socioeconomic conditions and
+they just keep throwing just books and
+books of
+perverted sociology at you until you
+just say fine i'll change a
+number right
+so how do i change a number i have to
+calculate the loss
+that's a math term and i apologize but i
+have to calculate the loss
+or more correctly in philosophical terms
+the categorization error
+meaning that 20 that 76 was not supposed
+to be 29
+because this person's real pissed off
+and they put a gun to my head so i
+better make it 80
+so how do i do that well i got to take
+the 29 percent that is that it's done i
+got to run this creature through it and
+then i can calculate my loss
+so i got my loss and now i have to
+reapply it back
+to my categorization methodology
+so that looks like this i take my loss
+and i start affecting my weights
+remember these are the weights these are
+the things that inform the
+categorization
+they say yes okay 256 means this
+and evil in 256 means this and good but
+our
+the person who put the gun to our heads
+says uh that's that's mean
+and they're calling these things racist
+and these things aren't racist
+this this is the problem right here it's
+not these things
+these things are just doing whatever you
+train them to do it's not even
+calculating the losses the problem it's
+not even the weights or the biases that
+are the problem it's actually this
+insane idea that you can quantify
+morality
+that's where the problem is but we don't
+care we don't want to do that we suck
+way too many billions of dollars in
+these machines and god damn it i want to
+return on investment so we're going to
+tweak the loss instead
+so we're going to take that loss and
+we're going to apply it to all of our
+weights
+and now suddenly 76 is 80 good but we
+did we did it we hacked the numbers
+right right we uh we represented the the
+exception
+in our moral framework and we've baked
+it in the machine so when the machine
+sees the 76 again it will make the
+appropriate categorization which means
+the gun that's against our head
+will back off slowly right so we did it
+right we're not making moral assessments
+anymore we're compensating for people
+with power
+well now we're no longer talking about
+morality we did it right we have now
+jumped the shark we don't want to keep
+we we don't want to catch ourselves jump
+in the shark because that gun can come
+back any time you know you can come in
+your birthday
+tuesday you don't want that right
+so
+ah damn it it's not good enough
+eighty percent wasn't good enough
+she puts it higher she was at ninety
+percent it's
+she has a million more reasons now why
+that's like oh god now we gotta do this
+again
+oh okay fine all right we'll just apply
+the laws again all right we know how to
+do this
+it's not the end of the world we know
+how to do this we're going to do it
+okay so we're going to take the law
+since something's interfering with
+humanist progress and it's up to us
+this is our holy crusade to do this we
+got this people we got this we know how
+to do this
+so we take the loss because we know how
+to take the loss and we know how to
+apply it
+to the next iteration each one of these
+is it's like an iteration of every time
+i apply the loss
+i'm applying the loss to change weights
+so the categories are better
+so let's do it again and we're going to
+keep on doing it we're going to keep on
+doing it so we get that number we're
+looking for we're going to just
+we're going to we're going to hack this
+damn thing we're going to get that
+number
+and we got this we we got this we know
+we got this
+wait hold on what do you mean the
+percentage change zero
+zero zero one hold up whoa whoa whoa
+whoa oh gosh she's back
+oh no like what are we going to do about
+this i i changed the numbers i did the
+thing
+i did the thing i i made the loss like
+what the hell what did i do wrong
+what is going on here well now in
+addition to compensating for someone
+with a gun
+uh we are now fighting the machine
+itself
+so now we're not even talking about
+morality anymore that's just how we gave
+that up
+like two slides ago right now we're
+talking about now we gotta fight the
+machine
+okay so now i promise to keep the
+technical away
+i have to delve into this a little bit
+uh just
+this is the time to write questions if
+you have them so
+what's going on here well i've been
+showing you the categorizers as like the
+that's like the end of the neural
+network there's actually these things
+called hidden layers in between them
+i don't want to get into them because i
+think the name itself is confusing for
+people who don't know it so what i'm
+going to do is i'm going to represent
+those hidden layers as
+feature detectors so um think of a
+feature as
+uh think of a feature as
+if there if there are categories for
+good and evil then a feature would be a
+subset of properties
+for what is good and what is bad and
+that's just that's just the wrong
+definition that's the best i got right
+um okay so we're going to go through
+these features
+about the the categorical the means in
+which the categorical
+the categorical correspondence is
+evaluated that's what these futures are
+doing
+so for example we're going to pump our
+numbers in and the neural network has
+come up with
+four a layer made of four nodes and it
+just turns out
+that they happen to represent
+these kind of things i'm just throwing
+names on there just for now just for
+labeling and comprehension reasons
+you'll never get labels in an absolute
+network by the way you can't actually
+examine this stuff um
+so like maybe maybe nervousness is a
+part of morality or emotional sentiment
+averaging or
+some weird pattern some some
+correspondence
+correlation mechanism right and then
+that passes to the next layer
+i'm just going to say you know maybe
+this layer is looking for these things
+and then it passes to the next layer and
+maybe it's looking for these things and
+when it goes through this whole thing
+that's how it makes its actual
+categorization
+so you start with your 256 it's jump in
+here it's it's giving you the it
+jumps here does the product to here the
+product to here and then
+you get your evaluations and so forth
+like i said these are just placeholders
+to convey a concept
+uh if you want to look into how hidden
+layers actually work feel free
+there are way better resources out there
+than i'm currently providing but this is
+just to demonstrate again our problem is
+that the person has the gun to our head
+and we weren't able to change percentage
+and we got to change the percentage or
+we're going to shoot us
+so what the hell right so what's
+happening
+oh now she's back and now she's actually
+in the layers and she's saying well this
+doesn't represent all of reality
+this doesn't represent all the moral
+things that we could have infinitely
+more layers
+we could have layers for i don't know
+how many giraffes did you lick
+last week like that's a moral thing
+right we could throw that in there i
+mean we may have to
+she has a gun what are we going to do so
+all right
+we'll get to the problem i try to tell
+her i say we can't add more layers
+because that's actually the problem it
+won't do anything she doesn't get it
+she doesn't understand it she just wants
+the moral victory she wants the
+political victory right
+so the reason why adding more layers
+doesn't work
+it's because a thing called vanishing
+gradients vanishing gradients are a
+if you remember the last talk where i
+focused on infinitesimals
+infinitesimals are back and they are
+causing problems
+so we calculate our laws
+uh which we've done uh just just as we
+do because we're trying to correct
+and then what happens is the losses say
+losses happen to be like 0.1 for
+whatever reason
+so we apply it backwards we propagate it
+backwards into these weights
+to change it so that when this spits out
+values we say
+well your values need to be modified a
+bit and so we can get better results
+here but in the process of doing so it's
+it may then apply
+a little bit less to the layer behind it
+and now
+this one spits out evaluations we modify
+that and it puts it in here
+then this modification might happen the
+moment
+this happens you're you're done
+it's over because this change is so tiny
+it's so infinitesimally vanishing
+that any change here or here or here or
+here
+because the change here is so small
+when it propagates through you're going
+to be stuck with the same value over and
+over again
+because you have to do heavy changes
+here in order to get this network to do
+its categorization properly
+if the if the if the loss compensation
+goes here and it's so tiny
+then nothing you do can ever matter no
+amount of layers you add no amount of
+nodes you add could ever change the
+outcome of your good evil analysis
+so this is what i said this is what i
+mean when you're fighting the machine
+you're fighting just the way that this
+whole thing is structured
+um and if this happens you get the
+vanishing gradient
+and that's why she's mad she's really
+upset she doesn't understand the vanish
+ingredient she just wants some moral
+victory so i try to sit her down and say
+hey to vanishing gradient
+she doesn't care she puts two guns in my
+head because goddammit now she really
+needs the answer
+i was like okay all right i'm fine fine
+i'll hack it i will come up with some
+crazy hack
+we can make this work we'll make this
+work i swear to god just
+just i i give it one more time i say
+that
+i'm just saying it became prematurely
+incandescent you change the weights
+between the wear
+the the layers and it has no effect so
+adding more like i tell her all this
+stuff but
+fine it i'll just i'll just hack it
+right i'll come up with a deep belief
+network right so i'm going to use a deep
+belief network to solve this problem
+because i just i just get the guns out
+of here
+so the same setup but instead what i'm
+doing
+instead of calculating the loss and
+applying it in individually in sequence
+backwards
+what i'm going to do is i'm going to say
+okay well let me let me change how these
+are processing
+these are called restricted boltzmann
+machines
+and what that's a fancy way of saying
+that um
+the inputs here lead to a certain output
+here but it can also reconstruct the
+output to regenerate the input
+so what this means is instead of just
+doubly passing things along
+what this will do is it will come it
+will basically
+process the inputs in a way
+that is locally relevant to itself
+so it's not sitting here waiting for the
+next
+activity it's able to come up with an
+equilibrium within itself and this is
+true for each layer and the reason
+that's important
+is because when we calculate our loss we
+then do it
+fine-tune it everywhere at the same time
+not backwards in the sense where it hits
+here then it hits here and then it's
+here we can actually fine tune the loss
+difference
+completely differently and so by doing
+it this way
+you end up in a very unique position
+where you can add more layers freely
+and you don't ever hit that problem with
+the vanishing gradient
+just completely eliminated so you can
+fine-tune each one of these layers who
+are
+taking the responsibility of
+categorizing the inputs themselves
+now this solution is useful but it's
+also incredibly difficult to train
+even in this example you'll see the
+problems you'll say well
+um this is probably a good tribal way of
+looking at the problem and then the
+religious people over here have a way
+and then the
+humanists have a way and how do i
+synchronize all these people
+well that's exactly the same problem
+you'll have here if you try to
+if you think of this in a philosophical
+manner
+um so it's it's this is a solution to
+the vanishing gradient but it's also
+incredibly difficult to implement
+correctly
+um yeah so to escape the problem with
+the decimals first layers oh and then
+there's the other trick where
+you uh you have known weights to what
+works so at the very first layer you're
+taking a successful model that
+was that was processed somewhere else
+and bolting on right at the beginning as
+well
+so you might remember we were talking
+about morality at some point
+and now we're not now we're talking
+about hacking a machine to
+get more i mean we we've we're off the
+reservation at this point
+but we're not going to stop because
+there's too much money in it god damn it
+and you're probably confused right you
+started out with i just want to
+calculate moral behavior right that's
+all i want to do that can't be that damn
+hard well it turns out it is um
+because now you're fighting the limits
+of the machine so calculating morality
+is a
+remarkably difficult task and we're
+still hell-bent on doing it
+of course well she knows the answer of
+course we'll just add more layers
+put her in charge and they'll just tweak
+the
+the the biases all day long and just
+don't question anything it'll be fine
+obviously duh they're all conspiracy
+theorists if you disagree
+um but that's just not it this there's
+you're up against problems that involve
+energy economics that's really what
+you're fighting against
+because even if you add more layers it
+doesn't necessarily mean more
+intelligence
+and adding more data doesn't mean better
+results either because
+each one of these is a calculation
+it takes energy to calculate these
+things
+this is expensive stuff i mean you may
+have seen the uh the video
+of mario brothers the character
+um beating an ai training
+mario to go through the first level of
+mario brothers right
+that cost ten thousand dollars to train
+yeah yeah ten thousand right i can sit
+my like a child in front of that
+and feed it like a two dollar sandwich
+and that child's gonna beat mario
+brothers right
+that's a the nerds have said ten
+thousand dollars is an acceptable cost
+to do this and we're not going to
+question our a priori
+uh uh concepts we're not going to
+question our approach to this thing
+we're just going to
+bolt on more layers man we're doing it
+we're just going to keep doing it we're
+going to scale horizontally and just
+make more gpus everywhere
+and you can't that doesn't make things
+more intelligent we've seen how
+we've seen how it doesn't work right we
+look at this right that's a mess
+so instead of
+taking this naive approach maybe it's
+important to take the person with the
+gun and get them out of the equation
+let's get that person out of there right
+because that person is
+skewing the results they're they're
+selecting for
+criteria that is incorrect um they're
+biasing the research
+tremendously in their moral crusade just
+get them out of here
+just get rid of them because
+they're interfering with actual progress
+at this point um and
+that that balance line right that's the
+dollar sign that's that's the hard limit
+we're up against
+so there is one technique and this is
+actually patented by google
+so they actually did one thing right for
+once this is called dropout
+and dropout is a very interesting
+technique
+because they've accidentally made
+a neural network perform the equivalence
+of belief
+and they don't know it yet so
+what is dropout well we've seen how all
+this stuff works how each one of these
+lines is a weight and a bias
+and that determines how this thing
+categorizes which then is a weight and a
+bias and categorizes and we end up with
+our good evil
+distribution percentage um
+what if i knock one out
+what if i knock two out what if i knock
+that one out
+so knockout is uh there there are
+different rhythms to knock out you can
+either
+uh remove the node at random or at set
+intervals or under different conditions
+or whichever
+so what this does this actually defeats
+a very serious problem in your moral
+assessments
+where you may say well 256
+has a pretty good non-violence rating
+but according to hindus it does this
+thing in population
+if you go back a couple steps before the
+knockouts and you say okay well
+it turns out that these two things end
+up being related somehow
+so the inc so it is very feasible you
+end up in a scenario where
+the christian ranking and the islamic
+ranking end up directly influencing one
+another
+and that's not a result you won because
+now you're not getting a
+good representation of either one of
+these things you actually want these
+two things to operate independently so
+that you can get a proper assessment of
+what they're doing
+but if they end up in a scenario just
+because of how the training worked or
+the value that dealing with
+they will end up sometimes in a scenario
+where one's
+ability to process will have an
+interlocking
+ability to interfere with this one's
+processing as well so what you do is you
+knock them out
+by knocking them out the neural network
+or the categorizational process i should
+say
+uh what it will do is it will find
+paths around to actually go through and
+say okay well i don't need that
+dependency i'll
+i'll redo it this way and so what you're
+able to do is you're able to
+curate these these hidden layers in a
+way
+to where it is your um you're
+eliminating path dependency which is
+another way of saying um
+uh um
+correlating correlating values which i
+don't think is the right word i'm sorry
+um so in doing this
+what you're actually doing is more
+similar to what the brain
+is doing as opposed to anything else
+that we looked at there's an entire army
+of uh ai scientists who are convinced
+the brain does back propagation
+and back propagation is that that
+vanishing gradient thing there's an
+entire army
+of people who are convinced that's what
+our brain is doing and there's
+absolutely no evidence
+it's just it's all a hoax it's not real
+um this
+is more close to what the brain is doing
+than anything else that i've seen in the
+ai space
+now why is that um because one
+you're forcing the ais you're forcing a
+categorizational process
+to do more with less connections
+so you're forcing it to be energy
+efficient so instead of solving the
+problem the way you want to solve it
+because you're a moral
+paragon and you never make mistakes
+right instead of doing that
+you say well let this thing solve it
+but it doesn't solve the morality it
+just solves the energy efficiency
+which sounds a little weird you wouldn't
+it's almost like deferring morality to
+like an accountant
+which can go wrong pretty bad pretty
+quickly
+but it turns out well each neuron is an
+accountant too
+it has its inputs of energy and it has
+its outputs and it has its waste
+so there's an accounting process in
+every part of cognition
+dropout allows us to say oh now there's
+an accounting process here too
+and so now we're getting more in sync
+with how cognition actually works
+through a drop-out process and
+only and the only reason we're getting
+close to that cognitive model is because
+we're solving energy efficiency problems
+we're not actually solving for morality
+we're not fighting the network anymore
+we're letting the network resolve energy
+efficiency problems and that's how you
+get
+much better answers well this
+discrimination because i
+got damaged in his back because now i'm
+knocking out hinduism and i can't talk
+that knockout because i gotta represent
+all the morality
+i have to represent all of it at all
+times but i get the vanishing gradient
+problem
+but then i can't solve it get these
+people out of here
+right they don't have the spinal
+fortitude to handle
+what has to be done so here's an example
+of
+of belief management is energy
+effectiveness right so
+imagine a world where we do what
+um these moral police say and we have to
+represent every moral conundrum possible
+in our in our
+categorizational process in order to
+make any assessment whatsoever um
+do you think our brain adds more neurons
+on demand when we solve a problem
+that's that'd be ludicrous in fact the
+neuron itself
+has uh has all the capacity to go
+through mitosis it's all there the
+dna is functioning nucleus is air it
+just just doesn't
+just doesn't cook at mitosis but imagine
+if it did right you might think ah
+well the neuron went through mitosis
+we'd be super smart well
+i just walked you through why it
+wouldn't we just went through why that
+wouldn't be the case
+so it turns out the brain is dealing
+with uh a non-scalable
+machine in order to solve its problems
+and let me give you a demonstration this
+ball is a
+whole bunch of photons bouncing off at a
+brazilian events per second
+and it's just being dumped in the brain
+which is heavy dump in the brain
+now meanwhile the poor brain is like
+okay it's
+but that's a lot of events per second
+that's a brazilian i mean that's a big
+number right it's so big it's not even a
+word
+it's it's it's nuts um and the brain is
+already consuming 25
+of the oxygen sweating it poor brain
+right give it a break it doesn't need
+all that stuff
+geez work so hard for you you don't need
+to do this to it
+instead what if it turns out you only
+needed that many
+right what if you only needed that many
+photons to get the exact same ball
+well that's what the brain's done we
+only get this many photons anyway from
+our eyes
+so we don't need all of the data we
+don't need to represent the entirety of
+reality to navigate reality
+and that's okay because it's what we've
+been doing the whole time joke's on us
+so what's happening here is neural
+evolution is actually relying on dropout
+techniques
+it's saying you don't need more neurons
+you don't need to be connected
+everywhere
+we'll just route somewhere else we'll
+connect to something else
+we're going to give you or the the
+neurons are
+solving energy efficiency problems
+they're not solving cognitive problems
+they're not solving um logical problems
+or speech problems or social problems
+it is only solving energy efficiency
+problems
+that's all it's doing and just give an
+example
+good brain it's not sweating anymore you
+can keep it you don't have to breathe
+heavier because you saw a harder math
+that'd be a weird relationship a bunch
+of math kids just dying randomly during
+tests that doesn't work
+uh so
+let's look at it as belief as technology
+so what i'm going to declare is that
+belief is actually path efficiency
+because you're knocking out stuff you're
+not adding more information you're
+taking information away
+that is the origin of a belief if i if
+you had all the information there's
+nothing to believe it's right there but
+if i start stripping information out now
+you have to make beliefs about it right
+so it's it's a path of what we what
+we're calling belief this whole time is
+actually a path efficiency mechanism
+so if we assume that these are you know
+the nodes of the brain just for the sake
+of
+you know visualization um the symbols we
+use the reality
+they're not actually there's not some
+homogenous sitting in the brain
+like driving us right um each symbol is
+a path
+through the knocked out limitations
+so every symbol you see in reality is
+actually a
+path that is carved from the belief
+energy efficiency saving mechanism
+even even the image you're looking at me
+right now it takes 200 milliseconds
+for you know this thing to move and then
+it registers in your eyes it's going
+through a lot of things it's not hitting
+all your neurons it's hitting
+a path of neurons and then it's changing
+its direction it's changing it's it's
+solving for the efficiency as it goes
+through each one of those cognitive
+subsystems
+and uh we're
+slowly getting there right now with our
+ai because we've
+finally played around with the knockout
+process and this is
+forcing this is indirectly creating
+belief
+as a technology um so instead of like
+coding belief
+what we're doing is we're emulating it
+um
+by taking away instead of constantly
+adding to
+so that's that's that's it that's what
+happens when you apply morality to a
+machine
+you're put in this arms race where you
+have to solve for energy efficiency
+over the actual thing you went out to
+solve for um and as a process
+uh you accidentally create belief tada
+that's it that's my talk
+wow amazing all right everybody
+this will be a good opportunity to start
+preparing your questions and throw them
+into the chat
+i know that some were already written
+but they're
+kind of buried so feel free to write
+them again if you still want to ask them
+in the meantime i will get pat warmed up
+with a couple of my own
+so pat one thing that came up which
+seems to be something of a theme
+across all of your talks is that you're
+pointing to this
+idea that human beings want to but
+ultimately can't
+quantize reality um can you say more
+about this like
+where does this desire come from why is
+it fundamentally flawed
+uh what are the deeper motivations here
+yeah
+playing the game of this is 25 good this
+is 70
+bad has
+it's ludicrous when you see that game
+played out
+and the reason is ludicrous is because
+um
+i said well welcome to whose line is it
+anyway or all the
+where the rules are made up and the the
+score doesn't matter
+you know kind of like that um
+it's ludicrous because
+if i got into interactions with you i
+wouldn't know
+where the line is just between you and i
+and anyone else if it was just me and
+you were chatting and doing the human
+thing
+i know where the line is i mean i have
+my autism moments but i know damn well
+where the line is and you know damn well
+where the line is too
+we don't need to sit there and formulate
+it and draw it out and have a contract
+and write it down
+really need to do that thing if we're
+going to walk away from each other
+so if it's just you and i and you're
+here we can we can hash this out and
+figure it out but if i got to go over
+there then i got to
+represent this line that we already
+established with one another and then i
+got to enforce it and then i gotta build
+this
+legal system on top of it and i gotta it
+we've seen what happens it results in
+these
+tremendous moments of gain a sort of
+centralization
+that's the most efficient way of
+enforcing that type of mole
+you know that moral emulation that we
+call law or
+the moral emulation that we find often
+in theology
+um and people are tilting at the wrong
+windmill when they say oh religion
+causes this and all
+uh authority causes this that's not it's
+that's not it we're trying to
+we're trying to recreate the line that
+that human beings naturally
+have uh we're trying to recreate that in
+abstractions
+and it's messy it gets ugly it gets
+weird we start fighting the machine
+right we're
+instead of trying to represent the moral
+equilibrium that we had with one another
+during that very organic exchange
+now we're no longer solving for that
+we're fighting the machine just as we do
+with vanishing gradient um so i think
+i i think it's
+i mean my brother's in jail that's not
+helping
+i certainly have some beef on that um
+and i can explain all the socioeconomic
+factors on that one too
+um but but independent of my own
+personal experience
+i think what we're what we're
+we have this instinct to quantize
+morality and put a little box around
+each action
+and give it a wait about what's good and
+bad and then someone comes along and
+says well kick that dictator out now
+it's my turn to label the weights and
+then everybody wants to label the
+weights now you end up with never-ending
+ posting on the internet and then
+it's 2020 and you can't leave your house
+and you have problems um
+a common theme that comes up in a lot of
+the sessions at the stoa
+is this idea of the different types of
+knowing and in particular
+there's uh there's basically the sense
+that we're over
+indexing on propositional knowing um
+[Music]
+painting reality in terms of highly
+legible
+well-formulated words and concepts
+uh but i think there's a lot of people
+here that have an intuition and that's a
+key word
+that that is missing something it's
+missing a huge piece and what you just
+said there is that
+two people can kind of intuitively even
+say intuitive but
+we know where the line is can you speak
+a little bit more about
+where does that line that intuition is
+my word but that intuition of that moral
+equilibrium come from
+and why do humans have that ability
+yeah we're social animals so as a result
+you know emotions evolved probably
+exclusively like
+roll back the clock 50 000 years and
+it's just a bunch of people
+sitting somewhere fighting nature and
+each other to a degree
+and we have maybe 200 words maybe tops
+we're still conveying stuff that's
+useful i mean yeah i can't send you a
+google link and i can't you know
+argue pull up the dictionary and say you
+know this but
+we're still conveying information that
+we need to do our
+daily survival so i need to convey to
+you that
+i'm feeling exhausted i'm not going to
+invent new words and then explain to you
+how i'm exhausted i'm going to
+you know i'm going to have the physical
+behavior about my being and you're going
+to be able to read that and see that and
+go oh
+okay we'll take the heavy load off that
+person put on that person now we've
+solved
+the tribal problem because the one
+individual was honestly conveying
+the emotional social data that was
+needed to make the tribal assessment
+and and we see this in animals in terms
+of how
+group animals also operate in the same
+manner
+you see in schools of fish one fish
+turns they all turn right so
+we're conveying the behavior between one
+another at all times and emotions are
+one
+one way in which that's uh that whole
+decoding encoding process works but
+there's other ways to convey it we found
+a way to convey it with writing or we
+convey it with all these other
+abstractions
+um the older i get the more i hate
+language
+that's i think that's i'm going to be a
+crotchety old man that hates language
+i'm going to
+be a post-modernist i'm going to say
+deconstruct all language i don't know i
+don't know
+um but i think it's uh
+i think
+the conveyance of knowing what knowing
+where the line is is a byproduct that
+that moral equilibrium
+is naturally derived to um as we are
+engaging the encoding decoding
+of emotional behavior and if that's
+removed
+then you when you learn to live without
+it or
+uh you emulate it you come up with these
+proxies for it
+and now we're on zoom right this is all
+a proxy for
+emotional conveyance is what we're doing
+right now
+is it good enough is it the real thing i
+mean it's good enough
+but it's not the real thing so
+we have approximations it's just
+approximations all the way down
+which sucks because all we want to do is
+just be in the same room and drink
+around a fire
+i think that's it yeah that's uh it's
+very accurate
+very much how i'm feeling right now
+okay last question for me kind of
+segways from that
+with your model how do you think uh how
+would you say
+psychedelics like psilocybin influence
+the dropout techniques
+that you are suggesting that the human
+mind is continually doing
+the only mind-altering chemical i've
+ever taken is alcohol
+i have never done drugs never um
+so i don't know i can't speak from an
+experience point
+so i have to defer to people who have
+researched that
+and there's there's different
+qualities of research on that point
+you'll have
+the experimental anecdotal stuff um
+but unfortunately that's all tied into
+the moral machine work too because of
+drug trade
+and drug flow and drug regulation so as
+a result people end up lying about their
+experiences
+you don't get honest insights people are
+people enjoy the high but they are
+forced to rationalize it even if it
+ their life up
+um so it's a bit of a it's hard to get
+true readings on there so then you're
+forced to look at other types of
+research maybe big pharma research or
+government research or black budget
+jeffrey epstein style stuff
+and you end up in all kinds of
+experiments to drop out stuff we do it
+with mice for example when you start
+knocking out parts of the brain
+uh at the genetic level you actually
+just
+deny the dna from ever growing that part
+of the brain so
+we do knock out experiments there too
+regarding drugs that do it lsd was
+supposed to be this wonder drug it was
+supposed to make superhumans because
+this is all derivative of humanist
+garbage where
+they think that the mind is infinitely
+plastic and if you make it
+more plastic then you get more
+intelligence but
+that's not it either you don't get more
+intelligence from more plasticity
+because there's still
+it's an energy efficiency problem still
+that's all it is so
+i've seen what these guys have done i
+mean there's stuff like mkultra
+where they oh we can change the
+plasticity we can change how things are
+connected and we can do it through
+trauma-based training or we can do it by
+slipping lsd and every single cia
+agent's coffee just wouldn't last
+it gets it gets ludicrous um
+you do find things about human nature
+though it's not it's not that all the
+research was terrible
+um most of it was but the
+uh what you do get from is an
+understanding of trying to
+turn a human being's mind into a machine
+which is the purpose of that research to
+begin with
+that's the idea of like trying to
+understand how to
+[Music]
+uh get the mind in a suggestible state
+to then retrain the pavlovian responses
+to then respond to
+an input an encoded input a associative
+input and then have the behavior out in
+the desired manner
+so that's ultimately where that level of
+research goes and
+that's even just as skewed as the drug
+law research
+so behind each and every one of it is
+still the agenda of power seeking
+and it's it's really the
+research like
+like i'm an advocate of like abstract
+math from the 1800s where the
+mathematicians just studied math for the
+sake of studying math
+uh there was no application for their
+research whatsoever
+and as a result you ended up with this
+huge huge huge explosion
+of technological capabilities by the
+1900s
+i think if we're studying human
+psychology and remove the power element
+out of it then you might get a very
+equivalent
+golden era as well yeah that
+definitely seems to be a common theme uh
+power corrupting okay so i'm gonna start
+to pick some questions from the chat
+uh janelle would you like to read your
+question
+feel free to unmute yourself and just go
+for it
+if you're still there all right
+i'm gonna pass it to
+rachel would you like to read your
+question
+hi yeah i was just curious about your
+view on
+virtual reality with this talk about
+psychedelics on different worlds
+separation how do you view virtual
+reality and what steps do you think um
+we're going to achieve with it in the
+future
+that is a fantastic question i have had
+the joy of experiencing this one
+firsthand i'm going to tell a story it's
+going to be
+disturbing and then it's going to be
+funny so there's this room
+there's this one app called vr chat
+that's where the
+uganda knuckles meme came from um this
+is a chat room where everybody can
+change their avatar to be anything
+up to and including serial killers or
+the blue screen of death from windows
+i've seen that in that game
+and uh they just have social
+interactions they sit around and they
+do the social thing um but what's most
+interesting about it
+is that it's not the internet we're used
+to
+uh the internet we're used to at least i
+might be speaking as an old man i'm used
+to
+text-based internet right you type all
+the time and
+you come up with these linguistic
+extraction abstractions to represent
+yourself
+and then nobody reads it right and then
+it's endless flame wars that's the
+internet i come
+from the virtual reality space was
+totally alien
+because people could interact in a way
+that was pretty
+high resolution replication of human
+interaction
+as best you could because uh the feet
+problems still exist
+they haven't done the feet quite well
+yet but they've got the hands and the
+head pretty good
+and they have emulations of the upper
+torso correct and that matters for body
+language
+and that's the missing dimension that a
+lot of internet use has
+that body language element is in oh man
+it changes everything and here's where
+i'm going with this
+so i'm in the room and i'm just cracking
+jokes and being myself and someone
+comes up and says hey let me show you
+let me take you to this private spot and
+whatever goes there and it's like this
+room that he made
+and well manicured like it was this
+project and you really care about it he
+did a good job
+uh then he invited me to this other
+thing and i always end up at this part
+of the internet i don't know
+it's not my thing i just end up there
+whether it's 4chan or anything end up at
+the part of the internet where it's a
+bunch of dudes dressed up as anime girls
+i don't know how this keeps happening
+i'm not asking for this i'm not putting
+whatever i'm putting out there whatever
+um so it's just a bunch of like 40 year
+old dudes like hey bro nice
+nice uh nice motto you got there i think
+they're all like modelers or something
+they're in the end i don't know
+i just find anime internet all the
+goddamn time
+and uh in this room of what would widely
+be considered social rejects
+the highest order even their pecking
+orders uh
+uh formed naturally and they form
+naturally because of the body language
+not because of linguistics or because
+you have an admin little symbol or
+because of your roles and permissions or
+because you're well liked
+straight up body language was the
+uh was the formation of the pecking
+order
+so and i can say this because there was
+one person there who did not say a word
+everybody else was talking and getting
+to know each other and doing the social
+thing except this one character
+he did not say a word not a single
+ word
+and i don't i wasn't a boy it was a guy
+i don't know what it was i have no idea
+they didn't say a word so you can't
+really tell it's just
+it's anime girl but a high resolution
+model this person had to have had a
+vocab set up
+absolutely had to because she was
+dancing around she was doing all these
+things
+so she had the full access of body
+language where everyone else didn't and
+because of that difference that that
+asymmetrical difference
+the pecking order revolved around her
+just from that alone
+and i found that fascinating i was like
+oh man
+oh man this is the future of politics i
+know it i see it it's coming
+this is it so vr is is going to
+create a high resolution access point to
+emu to
+recreating that moral equilibrium that i
+was talking about earlier
+all right uh alexander lee would you
+like to unmute yourself and ask your
+question
+yeah thanks for your discussion pat
+my question is um do you see this drop
+out feature as being somewhat equivalent
+to
+a verveiki's salience landscape
+i do not know that one please please uh
+please give me a summary
+uh okay so raviki uh introduces it
+in a variety of ways it actually comes
+out of autism research
+in psychology the idea is the salience
+landscape is basically a metaphorical
+construct to
+describe the configurations of how
+people
+notice things in their environment and
+situation so
+it's an explanation for how different
+emotional cues
+mappings and meanings can be constructed
+out of the different aspects
+that people notice so you know
+everybody has a different salience
+landscape and the difference in salience
+landscape
+can contribute to meaning making and as
+you develop
+as a person you
+can develop your salience landscape so
+that's that's directly connected to
+for reiki's discussion how do you find
+relevancy
+and how do you develop wisdom that's a
+very good
+analogy i would say the idea of
+going through and using knockout to
+curate the results you are effectively
+curating that salience landscape that's
+a good that's a good way of putting that
+i think knockout because you can't keep
+track of everything
+there's there's too much information
+going on at all times it's mostly noise
+biology does a fantastic job in
+filtering down what
+it should be looking for and you
+probably want to check up hoffman's
+um ted talk about that regarding
+uh why we don't see reality and what
+we're actually filtering from it is
+primarily mating signals
+because the moment any simulated life
+started seeing reality it was dead in
+three generations
+because it wasn't looking for any it
+wasn't looking to reproduce it was too
+busy looking at the atoms
+so it wasn't able to find mating signals
+and keep going
+so i think um by the very nature of
+cognitive evolution itself here
+it's all knockout uh in terms of data
+availability
+um you just don't have access to
+everything and that
+will that will change
+i mean what you see is what you're
+exposed to as an influence and stuff and
+what you're not exposed to also
+influences you too
+and that landscape mechanism is a good
+explanation of explaining that outside
+of my little
+network spasm that happened 20 minutes
+ago
+um how do you develop wisdom from that
+[Music]
+that's a hard question because i i live
+in a time in which wisdom doesn't exist
+so i don't know that answer that
+question
+well i mean viveki um i mean when you
+when you involve other people
+and ultimately it's about coordination
+between other people so
+a wisdom is maybe can be defined in some
+way as
+having a salience landscape that's
+flexible enough to notice
+what's relevant to other people i see i
+see
+cross overlap
+is that sufficient is it sufficient
+enough to leave is it sufficient enough
+to do your own knockouts
+meaning remove that yeah it's good
+practice to conduct your own self
+knockouts
+um it's very good practice in fact to
+say okay i know how this model works now
+i have to take everything i know about
+that model and get rid of it
+start from scratch because i may have
+missed something
+if you get too complacent on a subject
+you may miss developments on it that
+could be a good definition
+i think you'll work with that cool
+thanks
+so we are approaching 9 30 but there's
+still a couple more questions in the
+chat
+uh normally we do go over this mark um
+because of the energy and the
+conversation pat are you still get to
+stay on for
+the 10 15 minutes okay great um
+okay uh julian would you like to share
+your question
+uh sure um let me just read it easier
+so it's pretty similar to alexander's i
+think
+um so i'll read it out i said are you
+aware of any
+systematic programmable approaches to
+analyzing
+the different results from different
+knockout neural network solves
+where the learnings from these analysis
+can be applied to other areas fields
+without having to rerun the new neural
+network sort of like what our brain does
+does that make sense it does the
+the knockout formulation the the
+knockout networks
+are usually applied to solve very
+specific problems
+that's one of the bigger challenges of a
+lot of the the neural network
+development is that everything is
+very artisanal there's no general
+solution
+quite yet you have to really tune and
+get everything so there's plenty of
+differentials out there
+but they're all tailored to the specific
+domain of a very specific problem
+so you won't be able to scale that up to
+the completeness of human cognition
+okay yeah because i've just been
+thinking about that sort of thing for a
+while and have never really
+managed to come up with any solution
+yeah it's it's a tough one
+but the the knockout that i'm
+recommending as
+uh the energy efficiency
+which is ultimately i'm using knockout
+and energy efficiency as kind of a
+transferable concept here or a trend a
+concept of transitive
+properties between it
+[Music]
+the the knockout is just as it is in the
+neural space it's happening in very
+local systems
+in the brain as well um when when you
+have two neurons and they're connected
+and that connection breaks
+that's a knockout yeah it's connected
+somewhere else so that's
+that's how you put one thing the path
+the path is reformed
+so you get uh you get different symbols
+or you get different intensities or
+different
+experiences as well um but at the
+but if that is that scale invariant the
+answer is no
+it's not it can't be because it's not as
+if i'm taking my brain and literally
+pulling it out and then thinking about
+stuff and putting i can't i can't knock
+out entire
+regions of my brain uh safely at least
+um
+like i suppose alcohol does its best but
+for the most part i don't i i'm not
+seeing
+knockout at a systemic level it's it's
+primarily local
+okay thank you i i'm wondering pat
+if this idea that knockouts
+and beliefs are more than just analogous
+like there's something
+something deeper behind it are we taking
+steps towards
+building machines with belief systems
+we are not consciously doing that
+i am of the opinion that the machines
+control so much of our economy
+that they're doing it for us that sounds
+ludicrous i'm out here saying that oh my
+god these machines will never
+reach human consciousness yes that's
+true um
+but again we're solving for energy
+efficiency that's
+all that's ever being solved for so
+when we defer our stock market to high
+frequency trading algorithms
+we say here keep our numbers up
+regardless of what we're doing
+regardless of our actual
+productivity we just need to keep the
+numbers up because
+god damn it all those 401ks you don't
+want them sinking or it's going to be
+bloodbath everywhere so now we said here
+ai solved this for us now we go to
+google and
+say hey solve our morality for us
+because this is too messy and we don't
+want to be liable
+we have all these political ambitions
+but we just don't want to be caught
+doing it
+so can we just defer this to uh the
+machine and then they can do it for us
+so now we're deferring that right and
+then we go to politics and we say well
+we know what cambridge analytica can do
+it can alter the reality tunnel of
+individual people
+uh ideally a small competition space
+such as a
+uh an electoral college which is only 5
+000 people that's very easy to target
+so now you defer your your influence
+operations to ai as well which then
+extends naturally to marketing
+so before you know it your entire
+civilizational infrastructure is at
+has been influenced in one capacity or
+another
+by these machines which aren't even
+cognizant
+now you might say well we still control
+the machines i don't think so
+i don't think we control the
+ anymore i think they have
+steered
+so many prime parts of our economy and
+our civilization
+that they are now running the show
+effectively now they're not consciously
+doing it it's not a conspiracy it's not
+like they show up in the smoky back room
+of some
+i don't know dark web website and go ha
+ha how do we make the humans go it's not
+like that at all
+it's more like it's it's it's flip
+it's past the inflection point where
+our behavior has been so systematized
+into certain activities where you wake
+up you go to work you make your money
+you have your fund
+you consume you go to sleep right that's
+basically the cycle
+of of being a member of an
+industrialized civilization
+you have to produce you have to consume
+some people get to be over consumers
+some people get to be overproducers but
+the distribution
+you know you can argue the distribution
+all day long but that's roughly it
+if you reduce human potential down to
+just that vector
+it's very easy for these machines to say
+if i control this point
+then the humans will then channel
+resources into me
+so now the question is which one of
+these ais
+wins is really what i'm asking because
+is it going to be the financial ai's
+are they able to steer human behavior
+into dumping resources into it
+will it be the influence ais will be the
+political ais
+what happens when religion gets involved
+it's coming it's going to be
+ weird but it's coming
+uh memetic caper can you ask your
+question
+hi uh what happens uh when there's too
+much energy efficiency
+in a neural net does the ring the range
+of inputs
+that don't gener generate category
+errors that shrinks
+like you get to uh you sort of get a
+tunnel vision in your
+um algorithm yep that's called over
+training
+so that's overfitting that's the that's
+the term for it
+that's where you are you are correcting
+for
+such a narrow problem that it's just
+easier to write
+an algorithm to do it instead
+okay so it's like once you get over
+fitting
+you should just stop using machine
+learning is what you're saying
+basically yes the cost benefit analysis
+has to be made whether do we just keep
+tuning this model or is our problem
+actually as small as we think it is or
+have we looked at our training sets
+incorrectly you start asking a bunch of
+questions about again solving your own
+energy efficiency in the form of
+allocating resources
+okay all right thank you
+all right marshall do you want to ask
+about the machine elves
+uh sure um well actually you know what i
+think that uh
+david swedlow had some good questions
+and i think that he should totally ask
+because mine was kind of posting
+out loud so
+let's let him do it i appreciate that
+uh david feel free to unmute yourself
+and ask a question
+it's almost i'm almost scared of the
+sense
+so i'm going to ask this this is kind of
+a this is a thought experiment
+and as a question um if i think of what
+a neuron is doing
+individual neuron and this is based
+partly on on reading
+um sapolsky and behave
+it's it's a kind of a model of of
+plato's cave
+it's trying to make sense of the shadows
+on the wall and effectively
+the firing of the neuron is when it can
+no longer effectively model the outside
+world and it must actually go out into
+the world and see what's happening
+and update its map of the wall and i
+think that human beings are doing
+something similar
+we live in our little cave until we
+can't stand it till the noise is so much
+that we're effectively where
+where and that what um boulder yard
+talks about with
+the desert of the reel our our systems
+can no longer make sense of the
+that this the algorithms are so poorly
+modeling our reality
+based on overfittedness that we have to
+come out of our caves
+and effectively i think that's where we
+are right now so something like
+wisdom cultivation feels like this kind
+of fractal
+updating of my internal maps of the cave
+on the wall and coming out and actually
+saying okay what the is really
+going on
+that's right yeah it does make sense in
+fact uh
+that goes back to the calculating your
+loss um
+where your your categorization error has
+hit your threshold
+and saying this is no longer acceptable
+i need to do something
+to either my experiences but we're
+always we're always modifying our brains
+we just don't know it
+um you have an experience you're
+modifying your brain it's not like your
+brain is this box and it's like
+immutable it's
+it's you know it's rewiring itself as it
+goes so
+um the models that we use come from
+our symbol efficiency tricks so when i
+look at that ball
+that's in the slide a couple a couple 10
+10 20 minutes ago
+um that ball is there in its own space
+but now it's in my mind
+as a path efficiency it's there it's
+it's
+baked in and now i can go down the path
+i can reconstruct the memory of the ball
+so i have the model of the ball
+available but if the ball disappears
+my model needs to be updated so my
+categorization
+where the ball is is now wrong so i
+gotta modify either
+my biases i can't do self surgery on
+individual neurons so what i do is i
+just steer my body to go find the ball
+i'm gonna go find it right so there are
+thresholds in which the models do go out
+of whack and we have a whole range of
+corrective behavior to engage
+just just a quick update on that in some
+sense when i think about that
+what each neuron actually is doing is
+way
+more complex than what brain scientists
+tend to think that they're doing
+you know they're just now starting to
+say wait a minute it looks like it's
+actually
+not only is a brain on a neuron cell
+isn't just a neural network
+node it's it's doing exclusive or
+in the dendrites so it's doing something
+way
+more complicated than a single bit
+that that energy efficiency is going to
+compound into its structure itself
+yeah absolutely i would agree with that
+all right this might be our last
+question
+unless somebody has something really
+someone really eager has something else
+next arya can you unmute yourself and
+ask your question
+hey pat thanks for the talk it's pretty
+cool
+um i had a question about how you would
+factor an intent
+into the moral machines uh would you
+think something like an adversarial
+approach could work
+where instead of having an adversarial
+machine you had an adversarial human
+and their job was to try and fool the
+machine of its intent
+and then this like fullness intent
+fullness factor was added into the lost
+function and
+the game continued from there what
+problems do you see you are skipping
+ahead to the end
+sir you should not be listening further
+um
+what you are describing is my butterfly
+war effectively
+my butterfly war was the ability to make
+these moral machines
+make mistakes uh the ability to
+they were out there chasing certain
+moral causes um
+in this case the the material the
+western material humanist cause of
+of i can even call it liberal democracy
+it's more like
+um never-ending extensions of
+middle-class 1960s as a moral framework
+whatever word that is
+um uh and what i said was if you target
+certain data sets
+then you can confuse the ai into
+actually targeting the things it wants
+to protect
+using exclusively moral machine analysis
+alone
+uh this put me on a bunch of radars boy
+did my life change
+because that wasn't supposed to happen
+but apparently it did
+and so what happens what what happens
+when you play that game where you have
+an absolute human
+in the space and they are now steering
+the machine indirectly and there's
+nothing you can do
+you can't program it to not do that um
+because if you do so then let's take my
+example where i say well
+uh certain morality actions are being
+punished and certain morality behaviors
+are not
+so therefore if the people are being
+punished can demonstrate the veneer of
+the moral behaviors that are not
+well then there you go that's your
+protection that's way better than the
+cafe antivirus
+that's way better than a vpn now you can
+be yourself you just have this fully
+automated layer of crap
+that the ai then let's pass because well
+i'm trying to
+i'm trying to solve my moral causes and
+do my moral things and as a result they
+would then have to attack actual people
+demonstrating that veneer who they're
+actually trying to protect but they're
+more
+with their moral engine so the whole
+thing just goes belly up as a result
+um but if you step if you
+apply that to what i said about the ais
+are already in control
+and they're competing to get resources
+and using us to get those resources
+the one i'm talking about here is
+effectively a eugenic multiplier
+between the ai's
+so remember these ais certain ones live
+and certain ones die which ones die
+well the ones that are underfunded ones
+that are built on a bad business model
+the ones that are um
+incapable of channeling human energy
+into the resources to keep it alive
+ais die all the time they don't get
+funding they
+lose a cloud connection their team goes
+belly up
+happens all the time so certain ones
+naturally select
+and certain ones don't so now we're
+playing the the darwinian game there's a
+natural selection element going on in ai
+survival
+and what butterfly does is it acts as
+eugenic multiplier
+the same way that camouflage
+but why i picked the butterfly the same
+way that butterfly acts as a eugenic
+multiplier as well
+you'll see that the butterfly when it
+takes its wing patterns
+uh it's doing that to fool the
+predator's tongue
+we didn't learn that until like way
+someone actually ate a butterfly and
+said this is rather sour
+um it turns out that when the predator
+eats the butterfly it comes to the same
+conclusion
+he says wow this thing tastes like crap
+but because there's so many bright
+colors associated with it the last thing
+it sees are those bright colors before
+it closes its mouth
+so then it associates those bright
+colors with the toxic taste
+and so it ignores the bright colors and
+then other species that aren't
+butterflies start
+generating those colors by the way
+mammals lizards flowers they start
+generating that color because they're
+selecting in a way that well the
+predator doesn't eat that color
+then i'm making the decision obviously
+it's not how natural selection works
+but it is a eugenics multiplier things
+get to survive that otherwise should not
+because this one thing tasted bad the
+predator has been sold
+so the answer to your question is
+natural selection
+eugenics in the game of camouflage
+that's where it ends
+if you try to impose an intent in these
+moral machines what i'm saying
+yeah do you think if enough of us uh
+started playing the game of fooling
+intent we would just engage in this like
+infinite game with the machines
+yes correct cool
+thanks
+all right hannah take us home ask us the
+last question
+um so my understanding of thought is
+i roughly call it a pavlovian model
+and my understanding is something like
+each neural pathway becomes
+the more probable pathway for thought
+every time you take it sort of like
+wearing in a hiking trail
+and so i'm sort of curious on your
+thoughts on this model and how it
+corresponds to what you've been talking
+about today yeah the um the
+pavlovian training repetition exposure
+um again it's a path efficiency what
+you're describing
+it's not that the path is being selected
+intentionally in this case you're
+overriding the efficiencies and forcing
+one into play
+so instead of letting the brain come up
+with these conclusions of what's good
+around it
+that would be a way of imposing intent
+uh into the moral machine of the brain
+the same way if you try to force
+uh weights and biases into
+a neural network you get things you have
+to come up with this very complicated
+effectively therapy to fix the the moral
+machine
+and the same is true about pavlovian
+responses if you if you train someone
+through repetition
+on these on certain domains um
+there are costs that are seen in their
+behavior and you have to engage in
+serious therapy don't do it
+thank you
+all right thank you so much everyone for
+participating
+uh feel free to click the zoom reaction
+button and clap for pat ryan
+or you can snap your fingers in the kind
+of cringy way that people tend to do on
+zoom
+um thanks again pat ryan for another
+amazing session at the dark stoa
+[Music]
+i'm just going to mention a couple
+things about what's happening at the
+stoa
+for everybody here so
+if i can pull it all up
+so uh there's a there's an event coming
+up with
+david fuller from rebel wisdom and
+imagine a lot of the people in
+attendance here are familiar with rebel
+wisdom
+it's sense-making journalism in the
+liminal war and it's going to be at 1 pm
+eastern on tuesday
+and peter and david fuller will be
+discussing
+a recent rebel wisdom talk that they had
+and also
+just uh one thing to for people who
+don't know
+the stoa has a series of recurring
+events kind of like this one that
+happens every friday
+uh that we call the wisdom gym and if
+you go to the stoa.ca you can figure out
+which one of those events you want to
+plug into and their are mastermind
+groups there
+are meditation exercises and all sorts
+of things
+so check that out uh and the final thing
+i'll say is the stow is a gift
+um and this is our gift to you
+and if you feel like you have a gift to
+give in return
+you can do so at the website that i'm
+going to put in the chat below
+all right thanks everybody
+see you all soon

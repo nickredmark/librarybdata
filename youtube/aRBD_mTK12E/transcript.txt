@@ -1,0 +1,1276 @@
+welcome to the first app prototype
+planning session thank you for joining
+for now it's just me and Bentley we will
+start off talking I guess about some
+general questions and thoughts to do
+with sort of planning I guess the tech
+stack behind an app that sort of thing
+and I believe that Matus will be joining
+us shortly and we can dive into
+specifics on this particular project
+which is the prototype for wiki election
+for the most part I'm just playing the
+role of like the idea person there's not
+actually a developer which i think is a
+role that a lot of people in the game be
+project space identify with so I like
+that role and Bentley you can be you
+were you actually know you're a
+developer and a project manager and that
+sort of things so you'll have a lot more
+useful stuff to say than I probably will
+even know what to ask about so yeah it's
+really helpful when two people from two
+different perspectives talk so I think
+it'd be really helpful you know even
+kind of did to start it off I I guess
+one thing I'd like to say is that every
+project is different and so often times
+when I hear advice like this people say
+oh well you need to like do an MVP first
+and I'm like wow when they created the
+lightbulb they did a thousand tests
+before they put it in anyone's home
+because I couldn't get it to last more
+than 20 minutes right so some things you
+can prototype quickly and some things
+you can't you know if you're developing
+a vaccine you have to invest a year into
+it before you actually well at several
+months before you can even do trials on
+skin cells and then you do it on you
+know animals and then humans so
+everybody is a little bit different but
+we could definitely use wiki election as
+an example and then I can also talk a
+little bit about reason score and stuff
+but I drew how was the process for you
+so far so just so people know you've
+been building prototypes and no code
+solutions right yeah and then now you're
+doing your first prototype
+a custom-built and Marta she's been
+doing that
+so how's what have you learned so far in
+the process um I mean the no code
+solutions were definitely good to sort
+of act as a proof of concept I find that
+in general trying to explain software
+like even you know working at a software
+company working with people who are used
+to working with my software trying to
+explain software almost never works like
+unless you've got something to show them
+and mock-ups help but even that's pretty
+limited like I would say sort of you
+know mock-ups like just an image of how
+it might look is kind of like the bare
+bones like don't even try to explain it
+if you don't have that it's because
+that's really hard and then the further
+along that path you go the easier is
+going to be to explain so like you know
+started out with mock-ups and then I
+sort of used those to guide myself to
+figure out what can I build in these no
+code solutions and that's where it
+started to make a bit more sense I think
+the people where they were able to go in
+there and look and jump around it does
+get hard to explain like the really
+unique elements where no code solutions
+tend to be pretty basic and just sort of
+show off like here's a database here's
+you know showing fields from from
+records which still helps I think for a
+lot of people to picture how you would
+navigate what kind of information you
+would show but that's definitely where
+some of the limitations hit for the no
+code solutions I find is a it it's
+definitely better than just a static
+mock-up but I'm getting to the point now
+where I'm starting to you know I want to
+do some of the more unique elements and
+actually have it be like a full coated
+solution that will actually allow people
+to register his numbers and be a bit
+more streamlined then you want to build
+which yes the other part it was hard
+because there's so many of them up there
+that I did some early research I found
+knack it seemed to do a pretty good job
+on some other stuff and it worked so I
+sort of delve into that and for lack of
+a better term committed to using that
+and then found that there was a bunch of
+other no code
+platforms that maybe would have been
+better but I did find it like okay I've
+got my no code one it's you know twenty
+percent of the way there that's good
+enough for a no code I still sort of
+poked and prodded them to see if there
+was anything like oh I actually could
+use this like they make their real
+prototype I haven't found any no code
+solutions that I'm that confident in
+that I could actually build like a
+usable you know the first real version
+to get actual users on and start doing
+data entry I didn't feel confident
+enough in any of that you know goat
+solutions yeah yeah as far as no code
+solutions of hoping a developer friend
+build a out of community site she has
+tried web flow bubble and is now using
+app Guyver the challenge she's been
+having is getting a community login so
+that people can sign up kinda like a
+social media site create their own
+content and then share it manage content
+which Pollione them with your thing
+which is funny because I'm now thinking
+I thought bubble actually had examples
+of a social media site so I might have
+to go back and look and see how they
+handled the authentication for that
+right so she really likes app divert
+from a design standpoint web flow was
+pretty good from a design standpoint
+bubble was horrific
+from a UI standpoint but had really good
+kind of back-end and stuff right and
+they may have had a they may have
+already had the member management system
+I can't remember but with app cover app
+Guyver hasn't better open to the public
+for very long and then I've struggled
+for the last two weeks to get a
+membership system integrated that
+includes login from like the specific
+tool is for business people so we wanted
+to LinkedIn login and there you cannot
+do it without having another your own
+back-end somewhere in there you can't
+use off the 0 we have a bug that they're
+going to fix you can't you
+is the link in direct login because you
+do need some sort of back-end for that
+right and they're back in won't work for
+it someone else has gotten oh it is a
+firebase from Google working as a login
+but that's what you type in using an ID
+and password he didn't try to get it
+that they do support like LinkedIn and
+other things right but I think you're
+gonna have the same problem as the
+office zero solution so I mean for her
+specific situation I'm probably gonna go
+ahead and just set up username and
+password log in later on we'll get it
+integrated with LinkedIn and AB divers
+is about to implement a login system so
+that's probably getting down into much
+of the weeds but I think a lot of the
+apps that people are producing is some
+form of community app I think if you
+were just gonna do a Content app these
+days you know you content site you know
+there's Squarespace and and there's
+there's tons right I mean if you're just
+gonna be doing it yourself as the
+backend you mean right yeah totally yet
+like if you just have a website or a
+wordpress or however yeah right if you
+don't have any real features and it's
+just content I think everyone's got that
+settled so I can't think of many things
+the only time you'd really need a no
+code solution I think is is some sort of
+community based content which surprises
+me then that none of these systems have
+a I'm just taking through this live on
+air now these places really have a good
+community system and then there are
+complete community sites like what was
+it bell there was something Bell I can't
+remember it was anyways but they're kind
+of like kind of like slack and stuff
+like that but I have a little bit more
+features but they'd but they won't have
+what you need which is both community
+login and really straight customized
+features right exactly and that's one of
+the areas where nack actually is pretty
+good is the like
+the database side of knack I didn't see
+any of the apps out there were as good
+now app Guyver it sounds like could
+connect to air table which I haven't
+played with but I believe that alone
+should have a lot of the features that I
+probably want but neck does have sort of
+member registration and one of the
+things I like is that if you get into
+the paid version I think technically
+even the free version allows this but
+you're limited to how many records you
+have all of your member logins just
+count as records so which is quite nice
+look if you actually trying to build it
+up fairly large and in the prototype for
+the game view projects the together tech
+thing I kind of have a bit more lockdown
+and I haven't played too much with the
+trying to streamline that but like the
+the database side and the member part is
+decent the UI it isn't as good as the
+other options that you shall meet the UI
+on those is way better yeah yeah but it
+has really good kind of table and
+reporting it seems and actually me and
+carry the person is what I was talking
+about are going to be doing a local no
+code meetup group so we'll be doing it
+locally and we posting that content on
+YouTube and stuff so people nice
+so we'll start consulting on no code
+engagements help people get set up and
+stuff like that so and is that more how
+to use a specific one like here's how to
+use app divert or is it starting out
+with like here's the options here's how
+to compare them yeah we're gonna start
+from there but then when we kind of pick
+the ones that made our needs those are
+the ones we're going to end up being
+focusing on but but I think there will
+be a lot of times doing comparisons I'm
+kind of figuring out although I checked
+on Twitter and you know I followed one
+no code person or our own no code sight
+and then it suggested people I was like
+oh I'll follow that and then I was like
+it like 20 and I'm like oh right
+apparently this is popular so I don't
+know no worse probably could have done a
+better job with scheduling this ahead of
+time and pushing that here in fishing
+out there so my poll
+so yeah but Tish we were just going
+through general kind of no code
+solutions and Adriel progress so far in
+trying to get his app from but from idea
+to concept MVP Minimum Viable Product
+for anything and that's watching
+although it's just reading a post about
+minimum lovable product which is
+interesting but that that to me is
+beyond Minimum Viable Product right and
+and even before Minimum Viable Product I
+was realizing that there's a minimum
+learn about experiment alright which
+there's I think there's an official term
+for that and that's not it but something
+like that or you know run small
+experiments which is where I am and
+reason score and Marty sure I was
+talking about that each kind of project
+has its own kind of R&D kind of phase
+some are big some are small you know
+what they are a recent scores got a huge
+R&D phase wiki election wasn't as big
+but still had its own so so I'm not a
+drone now that Mar - she's here we could
+focus on the wiki election yeah I guess
+or a transition from the no code to the
+next step which is the code of one so
+that actually kind of perfect timing
+just on the note of the MVP one of the
+of the things that I find when I talk to
+people about it is this notion of like
+it almost feels that people think that's
+the first sort of attempt at like really
+okay that's the first thing that that
+we're gonna test and like with you know
+I I you and I have briefly discussed you
+know agile you kind of start out with
+like as you sort of said like the
+minimums or a learning experiment and
+then you keep building it until it
+becomes viable and then you'll sort of
+know that during testing and actually as
+you actually start to use it you're like
+oh people would use this you know yeah
+oh yeah the terms are a bit kind of
+floppy and used around everywhere like
+there's a website called quick MVP
+but all that website is is a landing
+page where you where people kicking son
+say yes I'd like to do it and then you
+have no product behind it and that so
+you're really just testing your
+description of your concept right and
+see and also you tend to buy traffic or
+at least with what used to be but you
+buy traffic from Google so you're
+checking your ability to pay for
+customers right which is to me as a
+minimum viable experiment right kind of
+like a proof of concept if I were to
+build this would you want in right I can
+see how that's valuable but yet not
+really I'm deep ei right yeah at all
+yeah okay yeah this we talked a bit
+about the no code solution personally I
+still recommend starting there that's
+definite like as I built it as I saw
+some of the UI even though it wasn't
+perfect I still learned stuff and I you
+know updated my design I'm like oh that
+actually doesn't look that good when
+you're using it or oh the brick there's
+a screen in between this one and that
+one so that did that did you have no
+helped I think as the pension if it is
+going to be more like member facing it
+doesn't sound like anyone here is aware
+of a really good no code solution that
+supports that so that might be a reason
+to sort of still do no code but you
+might not be there very long before you
+start wanting to get into actually I
+would it sold out
+I think the future will be a no code or
+low code really right and and I was just
+realizing I've done low code for 20
+years now cuz I was using access to oh
+okay first no code platforms because you
+could create an app put it on someone's
+desk top and we used them and I didn't
+write a single interesting it wasn't
+web-based of course but okay yeah but I
+mean I was technically an echo yeah I
+totally agree that that's where things
+are headed like in my day job I helped
+manage sales force and that's like you
+know enterprise levels CRM where their
+instruction is like clicks not code if
+you can avoid using code do it just use
+our platform and you can do a lot so I
+think as you start to see these like not
+billion-dollar companies start to
+improve their platforms and you're
+totally right
+we'll get to a point where it's almost
+like a mix of you know app Guyver and
+like Ruby on Rails we can actually make
+a good somewhat stable relatively
+performance you know okay app was just
+you know clicking and dragging and
+connecting your components yeah and then
+the developers will be focusing more on
+building out components of building
+these systems right and then making
+customized widgets that that the the
+unique parts of each right yeah so sort
+of like the I guess so similar to the
+these helpers model of you want to go
+clicks nut code but in some cases you
+still need code it's not still it's not
+reasonable to completely exclude it but
+trying to to limit it well a lot of
+companies will have their their unique
+proposition and a lot of times that will
+require some sort of right yeah because
+if you can just click and drag it then
+there's not really a unique proposition
+its unique in that I'm the only one that
+there's drag this component onto this
+page so do you think it'd be helpful if
+Marty walked us through his yeah yeah I
+guess or even just like the like what
+went into your decisions of like what
+you know tech pieces to use anything
+else that you know you may be a decision
+that you made in getting the the current
+prototype to where it is and stuff that
+maybe we haven't covered yet or the
+people who watch this at some point
+might be interested to in a motor be
+interesting to yeah also since you know
+since we are kind of helping other
+people what what decisions you may made
+differently based on your discussions
+with Adria or his unique situation might
+be cool okay so my decisions driven by
+the stuff I know so because I know react
+and its components and bits and pieces
+and from what I know react is one of the
+fastest system called but still
+prototyping the so obviously I decided
+to use that I people have good
+experiences with Ruby on Rails but
+that's I'm not as proficient in in that
+react was was the choice then in my
+previous projects even with prototypes
+just prototypes I did use some
+relational relational database like
+Postgres which usually was like half of
+the project to get the database right
+and to create basically back-end and in
+this case and in my recent prototypes
+I used firebase which is not relational
+but it doesn't need to be in most cases
+so to create a quick prototype it's it's
+really straightforward and easy and
+quick to just install just to create
+like a store on firebase and start using
+it a quick technical question did you
+end up using fire store or real-time for
+information no so be slightly more
+functionality and the other is faster I
+think something that they did redone
+good article about it I don't know all
+the eggs
+I'm preferably a fire store right now
+usually yeah fire store the real-time
+firebases is slightly faster but most of
+the time we don't need that sub-second
+response time
+and collaborate firestorm yes and the
+good thing about Firestar is it handles
+not only data itself about user
+authentication and it has a quite
+extensive list of what it can use for
+the authentication ways so it can we can
+connect the application to Facebook to
+Google to linked into some they actually
+doesn't have and they don't have
+LinkedIn on there I found that you can't
+do it but they don't have it as a
+prebuilt one because i was just looking
+at it yesterday and I was like I thought
+LinkedIn was in the list I don't know if
+they took it out oh yeah there was oh
+okay yeah I just thought I'd mention
+that because I didn't meant into before
+he came on that I was helping a friend
+and we wanted LinkedIn login and that
+was one of the challenges is that they
+don't have it there's a there's a tool
+where you can set it up whoo-hoo no
+LinkedIn you need in that bizarre I
+think maybe linkedin's because its face
+because it's Microsoft okay so yeah and
+it's just easy and quick to and it's
+better to not have to call back end for
+just blows back it works and it's free
+as well so have not paid to do the
+marketing for them but yeah very good
+so that initially I didn't use github to
+put the code on because we didn't
+discuss exactly when it's during to the
+open source so it's private
+and and github does allow free two or
+three free private repos now so you
+can't put it on there as well
+yeah change if you're not already using
+up here I did have a link to using any
+terms that need to be explained you
+might help us remember I vaguely
+understand I mean I know you know sort
+of the code repositories and that getup
+tends to be more popular one the whole
+like private versus open sorts thing I I
+was not aware what was anything with
+that so that's interesting yeah yeah for
+the the near future like it won't be
+open source to start with until actually
+starts working and then you know if the
+community says hey we'd like for these
+parts to be open source then we can
+definitely explore it but this whole
+thing like it's a pretty big emphasis at
+least later on down the road for like
+privacy and security and I have some
+projects managed to you know walk that
+line fine still be open source in
+private and secure but I'll probably
+wait until them sort of more down the
+road and actually have like staff and
+and more like dedicated security people
+to figure out how that works in what
+should and shouldn't be open source
+generally it's better to go open source
+because you have people who source
+products are known to be much more
+secure because they are open because
+people are generally nice enough so when
+they see a bug they tell you instead of
+exploiting it hopefully hmm but yeah the
+history shows that open source security
+wise is the way to go but yeah I do
+think there that will end up that way in
+sort of
+with the end goal being as transparent
+as reasonably possible which I think
+open source is it's definitely a part of
+that the thing that I don't know of an
+open source
+I mean maybe like Firefox or Linux might
+kind of get to this well it's like if
+this is actually successful it people
+will be trying to game it at like the
+level of trying to game Facebook or
+Twitter or something that right like if
+your goal is to be able to sort of bend
+the data to your will you know if if
+that thing works I think having a fully
+exposed like know exactly how the guts
+work helps with that like how Google
+does it make their their algorithm
+public it's quite the opposite and so I
+think it's going to end up being
+abundant at this point so it was made
+efficient open source which we aren't
+reinventing any wheels here so I'm not
+too too worried yet but like I'm more
+thinking down the road like long term so
+yeah if it's especially if all the
+components that were using are resource
+as you said by definition it could kind
+of already yes okay so that's about the
+choices should we go into the crowd and
+technical choices inside of the
+application itself oh I don't know if we
+want to get to I think yeah yeah I think
+I think this is a good level here so
+maybe if we want to go ahead and look at
+the UI and and people can see the
+feedback between you and Adrienne oh
+yeah I've done a little bit of feedback
+but just la get I think if y'all don't
+mind just having other people see what
+it's like to work with rival upper right
+and now it is very early days so seeing
+what a very early days prototype looks
+like so you don't get scared away yeah
+it's like a lot of stuff is hard-coded
+which completely makes sense for the
+very very first version now the question
+is because I am string art I can't share
+screen all right now yeah I can probably
+share the spring and you can share it
+though just let me see a screen option I
+was going to have the prototype ready
+like for this meeting which is added
+much some functionality it's not ready
+[Music]
+and yeah that's the one yeah for those
+watching never ever do a build wall
+doing Marcy she's gonna do it but don't
+do it don't do like Marty's right it's
+risky don't do it don't do it after 5
+p.m. just don't just nothing can go
+wrong it will at some point yeah I think
+at this point it's not like this is
+mission critical for anything so it's
+not too too worrisome but yeah I think
+that's a safe a safe standard to employ
+and I prefer to not have to in the
+middle of life demo see any bugs and
+yeah okay it's oh is this the new
+version with these how many changes
+there we discussed yes yeah I think I
+didn't hear the first part of that or
+you guys may have been talking sorry you
+know code speak and so I was like I saw
+you guys get to the point where like yet
+don't release it indeed you know in
+these situations now make sense why that
+came up okay and now I did what I said I
+should not yes it is it's working for me
+refresh the page and yeah I just
+realized I left it
+by default on the people venture but you
+still see the home screen right then you
+have small links linking to the list of
+organizations because these are the two
+initially these are the two main sort
+local channels right people and the
+organizations they belong to they work
+for they have an affiliation with stuff
+like that okay
+mmm so the difference between the
+previous version and this version is you
+have working sign up or sign in button
+right yes that's the one and you can
+right now even create your account okay
+cool do that yeah because stop sharing
+just want to do doing its more so that I
+don't have my email recorded and
+streamed yep yeah it's funny sometimes
+on screen sharing goes wrong to show too
+much so more to show is doing that maybe
+I can ask you a couple of technical
+questions and hopefully this won't be
+too technical but it looks like you're
+not using like react route or anything
+in this no not at this moment it's one
+page application though I'm going to of
+course rockin as well of the next three
+phones quicker just add the drop-down
+menu at the top yeah and you're not
+using a bootstrap or anything like that
+have you decided whether you get to do
+all custom CSS or are you gonna try and
+use something I got CSS to minimum so it
+can be extend
+when the prototype is ready to be looked
+at my thumb someone who knows graphics
+and proper design yeah so we shouldn't
+be analyzing it for like mobile
+performance and stuff like that
+no it's not the responsible but it could
+be yes which once I sort of got a vibe
+for how it actually flows it did
+technically to work on my cell phone I
+just wasn't used to sort of seeing and
+that was the first time I viewed it but
+then after I saw it on desktop I went
+back computer on mobile and my co this
+actually it works I'm sure it needs some
+tweaks but like a loads and you can use
+it which that's quite reasonable in my
+mind oh it's just yeah which I mean I
+didn't start this from like let's be
+mobile first like right now I'm just
+trying to get sort of the data base and
+proof of concept it'll end up needing to
+to to be mobile but that isn't the first
+concern right now so I created the user
+I see and so if I go you're right so now
+I'm on the home page and this will end
+up you know sort of being a fancier like
+way to visualize different things but
+for now this is exactly what I asked for
+just the list of people in organisations
+so from there I can go to people just me
+are there I've got the one record yeah
+and this is actually people are now kept
+in in firebase in backhanded that so
+this record comes straight from the
+database which is a good start and now
+I'm going to quickly change your access
+to I mean okay thanks and if you reload
+the page
+[Music]
+in money you are hopefully going to see
+people and organizations and users okay
+users is what is the least all thank you
+I am NOT because okay
+I used my local version of this so here
+there will be a list of accounts of
+users of recollection and there are two
+types of user 1 and so it only and one
+is ugly
+and I think and articles and edit them
+so now if you go back to the people I
+see if you choose to edit or I can add
+new person like I just see it and if I
+go back oh no so yeah and if you're
+you've got you can add our city of it do
+I need to refresh this page once a new
+person
+children's committee that's the last
+thing I added to behold anything so
+hopefully it will work well shows right
+now perfect yes he's good to get away
+from and then I can go to my Jones and
+now it's got that stuff cool so this is
+working having the same thing for
+organizations that's going to be easy
+because it's basically the same same
+thing just slightly different data so
+we're history that is hard-coded right
+now yes it is because the idea is once
+both people and organization
+organizations come from the database
+then I will have some way of connecting
+one to the other right
+and then the records will reflect what
+is in the database
+perfect yeah and I think this is what
+the NDP should look like monomers yeah I
+mean this is cool very mean hair very
+close to what I had in mind actually
+looks really close to the markups yeah I
+tried to style it as Oh simple but as as
+the documentation showed right that's
+usually yeah our waters the way to do it
+is basically MVP contains like initial
+screenshots and images of we think how
+it should look like and then it can be
+coded and that they it may be made real
+and then you have the demo looking more
+or less like the mock-ups from the first
+iteration and then you have something to
+work on and get feedback and think what
+can be done better
+and if it's what you wanted oh there is
+something to improve change remove
+certain ones I can just shrimp ring up
+the mock-up so I can actually show sort
+of what the starting thing was so yeah
+that's why I do this so these are the
+mock-ups that we sort of started with so
+you can see the homepage here right we
+start with just the name of they have up
+here I think that image may have moved I
+think that was originally over here but
+not sure what happened the menu as you
+can see I mean that's very close to this
+menu here and I like your clothes better
+what before it actually shows the word
+that's what I had in mind it was just a
+bit harder to do in this we have the
+search bar and then logged in so you can
+tell that's very close to the top bar
+there that's all the elements were there
+if we go back to home or you've got the
+list of people in organizations yet the
+people and election's just find this was
+an old mock-up where I changed what
+objects were actually in the MVB so that
+that matches it and then you go to
+something like people where it's just
+the list I thought that in these
+mock-ups I had an actual person detail
+but I think that may have been a
+different mock-up that go at it but just
+so that people can see so that's what I
+started off as and the the current
+version Matushka made is pretty darn
+close sweet we've kind of estimated a
+couple of weeks for this how are you
+doing on that timeline is it going
+faster or slower
+I think what's the estimation for a
+full-time a couple of weeks yeah okay so
+what you so right now took me about a
+shelf at 15 to 20 hours okay yeah so and
+in your head are the discussions though
+and stuff so that could have changed the
+requirement stuff but it sounds like
+you're well within the estimate which of
+course everyone needs to remember
+estimates are always wrong that's why
+they were called estimate yes just to
+give you a ballpark but yeah it looks
+like yeah just to give kind of people an
+idea
+the estimation process and in this case
+Adriel created some pretty detailed
+specs and more toosh estimated and I
+just took a look at it and agreed with
+the estimate oftentimes though Adriel
+though you you have experience doing
+specifications and stuff yeah so that
+might be a little different for our on
+technical person that hasn't worked and
+the thing at all that right you may be
+describing what you want and then
+depending on the developer or if you can
+hire our project manager they may be
+helping you kind of make mock-ups and
+then the kind of the cost would kind of
+go up from there just a drill had some
+skills that brought down the cost yeah
+that's a good call out and I do find
+that like even people who've you know
+don't necessarily have a history of
+product management I think you know if
+you can sort of sketch what you want on
+paper and then and I think the app that
+I'm using here called mock-ups but with
+a queue moq UPS there's a ton of them
+out there but the test one I've been
+using they make it pretty easy to sort
+of you know drag out your elements
+commit to make it see how you look yeah
+in my experience this is one of the most
+useful things to be able to give to a
+developer so you can like this is a
+pretty you know loaded page as far as
+you can see the banner up top you can
+see the tabs you can see the list you
+can see a grid it's like to open you can
+you know the whole like a picture's
+worth a thousand words thing that's
+probably a bitty you know Hollen free
+there is a free version I believe yeah I
+I'm using the the paid version here but
+if for whatever reason it's not free
+there I would bet money that there's
+going to be ten free ones out there if
+you saw one at work people we're using
+that has a I think you think they have a
+pretty decent option called Sigma fi GMA
+that one seemed to to be nice because on
+this it's sort of each page is its own
+thing and you click between them on that
+it's like you've still got your
+individual page but then you zoom oh and
+it shows all the pages and kind of how
+it flows which I quite liked for trying
+to understand and you can even make it
+tour certain places when you click it'll
+go to the
+the other page I think so yeah which I
+can technically do in this too but I do
+like the like zooming out canvas view of
+pages I do like that more yeah and just
+a word of caution I do have a friend who
+was working with a company and she paid
+a fair amount of money and she said a
+working prototype and they got her they
+gave her a figma and oh so it really you
+know it's you can't it doesn't actually
+do anything so she was really and she
+was pretty sure that that she was clear
+that this was not even a working
+prototype this was supposed to be a
+working app right
+based on her requirements okay that's
+already you know not even what I would
+call a prototype but well I guess it
+does fit on the term prototype yeah so
+be be cautious out there yeah and I'm
+good I just checked because what I had
+for the requirements and the mock-ups I
+took from my collection
+drafts back right just specs which
+contains no link to the what I'm seeing
+right now so for the record alright I
+made sure everyone's right yeah I
+totally forgot about that I I made these
+and then okay that's a good point
+I'm gonna go find that one just to see
+so that actually means that material
+even better because the ones that I
+really weren't that nice ones like where
+are they great great minds think alike
+so yeah this one I just yeah so did this
+like I just use Google draw so I just
+actually did like you know insert draw
+and then you can editor here so it's not
+nearly as nice looking as the other one
+but it did it let me sort of more easily
+embed it in the text field and you can
+see here like so person the one that you
+created so this is what was made and
+that's what was asked you can see the
+version diminution made is a hell of a
+lot nicer looking thank you but it's not
+as nice as the
+before well yeah it's now that the code
+is there and styling is yeah it's
+totally adjustable
+so I mmm
+I'm even too too worried about how it
+looks yeah I kind of want to get it to
+like the MVP stage and and then I've got
+people who are quite good at branding
+and making things look nice
+I don't want to spend any time on that
+until like the structure and skeleton is
+there because you know I mean as I'm
+sure we've all seen projects change when
+you're sort of in the middle of them and
+I'm going into this knowing that like
+hey I'm gonna change my mind and B I
+didn't do a perfect job at explaining
+everything and and that's on me so you
+know if it ends up being like you build
+something that wasn't quite what what
+well I explained I'm going to assume was
+probably my fault in this case cuz I
+didn't owe as much time is like when
+I've done this for work before I spend
+10 times longer and it was you know in
+painstaking agonizing for both me and
+the developer detail which if I can get
+up away with avoiding that I will take
+that off and besides when you just have
+the initial idea and then you know
+through stages to get to how you think
+the MVP should look like the ultimate
+test for everything is reality
+and once the thing is created then you
+can see and compare it to what you know
+then after getting feedback only then
+you see how what is really needed and
+whether and to what extent your idea is
+fulfilling this like yeah it's not
+possible to foresee all the
+circumstances and details beforehand so
+you have to have an MVP and then go
+wrong there but MVP is this important
+yeah just a starting point which is an
+important thing to remember and going
+into it I sort of because I've been down
+this road I know that the MVP won't
+actually be what I have in mind right
+now and that's just because that's how
+reality works right like as we go
+through it you might be like actually
+that's super hard to do it this way I
+can do it in a tenth of the time if I do
+it this way instead
+okay sure that's probably it could trade
+off and just you know after I see it on
+a page I'm like oh I didn't think it was
+you know gonna do that and I forgot that
+this would be on top of that and how it
+works so it's like that sort of where
+I'm coming from I think that that's an
+important thing for somebody who's in my
+role who's not the developer to keep in
+mind like it's on you if you're in my
+role to sort of make sure you explain it
+right and if it's not like in
+painstaking detail realized that that
+was on you and sofas slightly off yes
+whose fault it is because I do know that
+when I hear people planning things it
+seems a lot like you know it's a hundred
+percent they think that that's how it's
+going to be and I think any product
+manager or developer that hears that you
+can be pretty safe oh you've never done
+this before if you think that it's going
+to go end to end and there's gonna be no
+changes and you're gonna have it exactly
+planned right from step one almost never
+those things you know spiraling the
+first iteration and then based on the
+first iteration you can and only then
+you can see what's to improve because
+it's just not possible to ever make a
+project that good sort of goes to the
+production stage to the final stage
+unchanged usually the changes are
+anything from wide out to huge and
+sometimes it's sometimes halfway through
+you'll see that the idea was not even
+yeah sometimes it happens yeah and I
+think like that at its core is one of
+the reasons why I like agile is because
+you know you're you're you're you may
+still be planning down
+the road but you're gonna see it how it
+changes week over week and then after a
+month and a half you can be like oh
+actually maybe we need to pivot a bit
+mm no that I'm actually seeing it be
+developed and testing it and trying it
+out turns out maybe we need to adjust a
+bit and they keep going down the
+slightly altered road so what are the
+next steps for this prototype or this so
+one of the things that I want to do is
+to sort of get on its own I guess
+development environment I think it was
+mo Tuesday they recommended that I go
+with digitalocean which I did some
+research on and that sounded quite good
+sort of start to set that up and so to
+get it like a on a you know a
+environment where I'm not leeching out
+of your resources and then also to get
+it to the point where it's actually on
+its own domain name or I guess in this
+case a a subdomain so the I I think the
+initial idea is like f dot wiki election
+comm would then go here and you know
+even though it's still early days of
+course as we go through the agile
+releases that will sort of always be the
+current version of the prototype until
+it's an actual app and then it'll be the
+app cool or teach I wonder if you to
+explain to us and the viewers any
+reasons why my chosen digitalocean
+I'm just curious because I used in the
+past it compares to amazing digital
+option is less complicated in initial
+setup and if you need the full power of
+another cloud you then but otherwise
+digital option is the price wise it's I
+think it's well depending on but it's
+cheaper is at least as fast as AWS and
+it's like the second respectable cloud
+provider
+in a cloud space and if choice miles it
+is it auto-scale I think I've from the
+brief amount of research I did aid like
+they seem to have fewer options which in
+that case what was good as I tried to go
+shopping you know like figuring out how
+much I was good going to pick on Amazon
+and that process is ridiculous like I
+was trying to get to the lowest tier
+price and it was still like for the app
+hosting was super cheap but then the
+database part to keep being like five
+thousand dollars they'd be like I don't
+think that's the lowest price T er but
+it didn't quite work properly and the
+pricing on digital ocean seemed way
+clear and then the other part that that
+I like is that it's not Amazon where I
+can avoid put any money in just his
+pocket all air on that side usually but
+yeah I was the only other I haven't
+looked at a lot of posters recently I've
+used Microsoft in the past which is
+another big tech company and then dangit
+I forgot the one I was gonna go to
+there's a a serverless kind of provider
+hey uh if I can think of the name I'll
+bring it back up but but yeah digital
+digital ocean sounds um sounds good I
+have not used them yet but they look
+really good and they do have you know I
+I was the aggressive marketing but like
+fairly centered marketing where as soon
+as I visited them I saw ads for them on
+Facebook and YouTube for like two weeks
+so I mean it's at least it was relevant
+and I got to learn a bit more about them
+through their ad so it wasn't too bad
+but uh be aware of that if that happens
+to be something about this year a couple
+of years ago I when I was looking for
+new provider for my services I took
+different providers and it seemed like
+the pricing is similar we know that AWS
+is of course the biggest and the
+probably most well obviously most use
+but
+we the biggest set of you know the most
+powerful and you can configure anything
+and its scalability and everything yeah
+but the gel option was on this very
+strong second place and better when all
+you wanted is they seemed to simple VPS
+and no they given the other do it as so
+that was my choice and I use them for so
+there are other projects and they are I
+guess big enough to be a stable enough
+though these days probably
+they all are stable to some extent and
+it's matter of preference more than
+anything I guess but I was never
+disappointed with that services so I
+stayed with them and used them for this
+project as well I guess the one I want
+to look at is net laugh i but they host
+hosting environment right so we can
+provide appears all do they I don't know
+well yeah it's hosting what do you want
+of VPS because of my background okay
+yeah I mean I would rather and this is
+I'm not saying that's the best thing but
+I would I would rather go with a
+scalable hosting provider although
+honestly if you're doing a single page
+app with with using and then using a
+back-end like far store then you really
+don't need you know a content delivery
+system is probably the best place to
+host the actual code right so sure okay
+yeah so that's kind of why I do net will
+find not that it's sir list but it's
+yeah it's just static files but
+and then they give you the yeah but I
+but I'm not as familiar with it so you
+definitely it's good to go with the
+technology or familiar with mmm I have
+to learn the new thing I did here of
+course about that if I I just I'm not
+very familiar with what it is exactly
+they go and how it compares to the PPSS
+I worked with in the past one thing that
+came up in some other project was when I
+wanted to have Oh almost which is the
+authentication mechanism using github
+for an application the way it works is
+you have to have a sound secure space
+somewhere so we can store the key of the
+like application application key that
+you used to connect to github it's like
+three points thing together in
+authorization yeah and then I didn't
+need IDPs I'm not sure if not if I
+solved this and how exactly but yeah
+there's sometimes you need a back-end so
+for them they would they would they
+would have a us I think they support
+server less code but yeah but you could
+also do that and fire store with the
+firestore thing yeah so there's lots of
+there's lots of solutions so yeah so now
+the new hotness in that area would be
+using lambdas or you know little bitty
+bits of node running on a server
+somewhere so that would also be without
+a virtual private server but it would be
+I can't read the term right now lambdas
+one of the names I can't read the
+generic term form but serverless
+functions yes or less function would be
+one way to go around it
+in the last it's
+Monsoor something I haven't always go
+ipfs yes so we got a couple more minutes
+I don't know if anyone has any other
+closing comments I want to wrap one
+thing I did want to mention I'm not sure
+if this is easy to change later or if
+it's something we have to you know if it
+makes it way easier to plan for now but
+with the whole single page app thing
+does that mean it like no matter what
+record of content you you're viewing the
+URL would still just be like after the
+election to calm yeah and the idea is to
+not use URLs at all we see in the
+application don't need them well sorry
+the idea is for the web page to never
+reload so click on the link and stuff
+happens but the application itself stays
+in place on your screen and those
+changes on the screen is just what you
+want to change right and then yes I'm
+just saying it I think I drew want the
+deep linking URLs though which are about
+that talked about I think that's
+different from it's going to be one page
+up anyway but I am going to add the
+links because the links are necessary if
+you want to send link to someone linking
+to the one particular record on the
+bathroom right yeah we'll be there
+that's okay perfect I want to make sure
+it's said that's a pretty important part
+for the deep linking because you know
+you find a cool page on a certain
+politician or a certain thing you want
+to be able you know to share it on
+Facebook or email it or do what else so
+the links in this case would it would be
+after that last slasher to be a hash
+which it actually has on the website
+right now I think it's a hash and then
+when you change that that hash would
+keeps changing so if you copied it out
+of the URL and paste it in an email it
+would take them to the same spot right
+Artesia
+yeah I see so that's like oh it's not
+working right now though Oh
+he just hasn't yeah he didn't and I'd
+asked him at the beginning part of that
+would be a tool react router but yeah
+yeah it's something he'll add in a
+little later nice and then that will
+have more control over sort of how that
+URL structured for the deep linking yeah
+yes okay perfect yeah cuz I think in the
+control in the initial wrote for
+requirements I think it was sort of
+hidden in the text for each section it
+gives an example of like the ideal URL
+where it's just like yeah I guess the
+the preface to to the ID so it's like
+the string and then if the ID is just
+like you know a text string that's fine
+too it doesn't have to be like the
+person's name or the action name or
+anything well though sometimes you'll
+you'll have it to be an ID and then a
+slash and just put the name of it so
+that you get stuff but but the system
+will ignore that here's the ID that the
+way if you change the name the links
+don't all break right hyojong yeah
+that's one way to do it I'm not sure
+what my teachers thought about that yet
+I haven't decided I'm because search
+engine optimization so you google your
+favorite politician you got the link to
+a collection and precisely to the
+specific information about the person
+Steve also mentioned Heroku in the chat
+that's something that gets some respect
+with coder groups and yes maybe lets you
+build for free all of these yeah
+I'm not actually sure yet what it is I
+know that yeah we're like older work
+ways Salesforce Heroku came up a fair
+bit I haven't actually used it but I
+haven't tried to use it for hand like
+building the websites for free and stuff
+but that's good and is that parties at
+some pinnable AWS says that one seemed
+very useful saying AWS has meant for
+sort of enterprise scaling for
+technology which I think you know I
+would agree with a lot of the huge apps
+to use AWS for their backbone and then
+he's saying maybe don't bother with them
+unless you've actually got a fair amount
+of traffic and yeah Desmond
+Amazon a crap ton of money yeah but even
+the smaller hosts are now able to
+support scaling and a lot of that
+infrastructure has been democratized
+right so I would even still kind of
+suggest to reach out to smaller there's
+very few companies that would need that
+and if you're that big a Polish good to
+be doing cross cloud anyways so ideally
+and sometimes even companies I worked
+for in the past that and when you have
+not enough up too much traffic or not
+enough bandwidth sometimes it's helpful
+to rethink your strategy about content
+delivery as in to check you have images
+like within a reasonable range of size
+because sometimes I saw web pages that
+the code of the web page itself was just
+a couple of kilobytes and it was very
+fast and didn't saturate the bandwidth
+and a dangerous extent but then the
+background was an image ten megabytes in
+size so yeah is a cool subject yes
+yeah and that will definitely end up
+being important but / / / now I'm not
+too terribly worried but let's you know
+we'll well all work together to stay
+away from any 10 megabyte bitmaps and
+that should help us out I guess we're
+out of time yeah that's anyone think we
+covered a fair bit here that's good I
+guess we can't end the streaming and
+wrap up anything we want to say off
+stream after that so thank you everyone
+for joining I imagine there will be more
+of these going forward as we get further
+along with this prototype so you can
+watch as we go and learn from any you
+know mistakes or cool stuff that we end
+up doing so
