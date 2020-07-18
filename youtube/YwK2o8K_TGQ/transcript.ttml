@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.140" end="00:00:06.779" style="s2">okay so today I want to try to introduce</p>
+<p begin="00:00:04.230" end="00:00:10.349" style="s2">another concept this concepts that think</p>
+<p begin="00:00:06.779" end="00:00:12.540" style="s2">a little tricky so for the last half</p>
+<p begin="00:00:10.349" end="00:00:15.089" style="s2">I&#39;ll also try to give a concrete example</p>
+<p begin="00:00:12.540" end="00:00:17.010" style="s2">which luckily enough</p>
+<p begin="00:00:15.089" end="00:00:19.230" style="s2">I&#39;ve happened upon recently in it but in</p>
+<p begin="00:00:17.010" end="00:00:21.150" style="s2">conversation with the team behind this</p>
+<p begin="00:00:19.230" end="00:00:22.619" style="s2">particular concrete example and I think</p>
+<p begin="00:00:21.150" end="00:00:25.710" style="s2">it&#39;s awesome there&#39;s also a great</p>
+<p begin="00:00:22.619" end="00:00:30.480" style="s2">example so the concept I&#39;m going to use</p>
+<p begin="00:00:25.710" end="00:00:31.890" style="s2">the term the transcendent operator now I</p>
+<p begin="00:00:30.480" end="00:00:33.750" style="s2">don&#39;t know if anybody else uses that</p>
+<p begin="00:00:31.890" end="00:00:36.620" style="s2">term I&#39;m hoping not because that way</p>
+<p begin="00:00:33.750" end="00:00:39.719" style="s2">it&#39;s not going to be confused but the</p>
+<p begin="00:00:36.620" end="00:00:41.250" style="s2">the basic idea and I think I&#39;m kind of</p>
+<p begin="00:00:39.719" end="00:00:43.590" style="s2">maybe stealing the idea for my friend</p>
+<p begin="00:00:41.250" end="00:00:47.940" style="s2">Jeff Gomez in the context of transmedia</p>
+<p begin="00:00:43.590" end="00:00:52.710" style="s2">so so here&#39;s the idea you have some kind</p>
+<p begin="00:00:47.940" end="00:00:54.930" style="s2">of object which is very abstract and the</p>
+<p begin="00:00:52.710" end="00:00:58.949" style="s2">the abstraction describes the object in</p>
+<p begin="00:00:54.930" end="00:01:02.070" style="s2">a way that is in some sense specifically</p>
+<p begin="00:00:58.949" end="00:01:05.189" style="s2">its uniqueness or its characteristics</p>
+<p begin="00:01:02.070" end="00:01:07.909" style="s2">its necessary characteristics its unique</p>
+<p begin="00:01:05.189" end="00:01:09.540" style="s2">and singular characteristics but</p>
+<p begin="00:01:07.909" end="00:01:11.700" style="s2">separate from any particular</p>
+<p begin="00:01:09.540" end="00:01:14.010" style="s2">actualization or instantiation like an</p>
+<p begin="00:01:11.700" end="00:01:15.869" style="s2">instance so in computer science we could</p>
+<p begin="00:01:14.010" end="00:01:17.100" style="s2">think of it as an object class and then</p>
+<p begin="00:01:15.869" end="00:01:18.299" style="s2">we could talk about an instance of an</p>
+<p begin="00:01:17.100" end="00:01:21.860" style="s2">object class where the specific</p>
+<p begin="00:01:18.299" end="00:01:25.640" style="s2">characteristics are in fact given values</p>
+<p begin="00:01:21.860" end="00:01:29.670" style="s2">in the context of transmedia so Jeff&#39;s</p>
+<p begin="00:01:25.640" end="00:01:31.710" style="s2">domain we can think of like in the</p>
+<p begin="00:01:29.670" end="00:01:35.100" style="s2">Marvel Cinematic Universe you have this</p>
+<p begin="00:01:31.710" end="00:01:37.200" style="s2">notion of say Thor and they have a</p>
+<p begin="00:01:35.100" end="00:01:40.710" style="s2">problem which is that they need to be</p>
+<p begin="00:01:37.200" end="00:01:43.979" style="s2">able to empower into the director of the</p>
+<p begin="00:01:40.710" end="00:01:45.720" style="s2">Avengers to make Thor like to do Thor</p>
+<p begin="00:01:43.979" end="00:01:47.939" style="s2">and they needed to power the director of</p>
+<p begin="00:01:45.720" end="00:01:49.200" style="s2">the of the movie Thor to do throw these</p>
+<p begin="00:01:47.939" end="00:01:50.130" style="s2">are actually very different people with</p>
+<p begin="00:01:49.200" end="00:01:52.320" style="s2">different aesthetics different</p>
+<p begin="00:01:50.130" end="00:01:54.720" style="s2">sensibilities different stories</p>
+<p begin="00:01:52.320" end="00:01:57.270" style="s2">different requirements and yet of course</p>
+<p begin="00:01:54.720" end="00:01:59.520" style="s2">the character needs to be felt as being</p>
+<p begin="00:01:57.270" end="00:02:03.649" style="s2">Thor the same person right continuity</p>
+<p begin="00:01:59.520" end="00:02:07.380" style="s2">across distinct instantiations distinct</p>
+<p begin="00:02:03.649" end="00:02:09.060" style="s2">contexts and so that&#39;s the object or the</p>
+<p begin="00:02:07.380" end="00:02:12.180" style="s2">intent of a transcendent operators be</p>
+<p begin="00:02:09.060" end="00:02:13.510" style="s2">able to create something and to enable</p>
+<p begin="00:02:12.180" end="00:02:17.860" style="s2">it to have content</p>
+<p begin="00:02:13.510" end="00:02:20.769" style="s2">newah tea while also having specificity</p>
+<p begin="00:02:17.860" end="00:02:21.790" style="s2">or uniqueness in distinct contexts all</p>
+<p begin="00:02:20.769" end="00:02:24.610" style="s2">right now what does that mean in the</p>
+<p begin="00:02:21.790" end="00:02:28.120" style="s2">context of Scipio okay</p>
+<p begin="00:02:24.610" end="00:02:29.680" style="s2">so the notion of sevilla is very very</p>
+<p begin="00:02:28.120" end="00:02:31.599" style="s2">much tied to this idea of the</p>
+<p begin="00:02:29.680" end="00:02:32.799" style="s2">transcendent operator so i&#39;ll give you</p>
+<p begin="00:02:31.599" end="00:02:35.470" style="s2">an example and then I&#39;ll tie this</p>
+<p begin="00:02:32.799" end="00:02:37.000" style="s2">example to the to the concreting to the</p>
+<p begin="00:02:35.470" end="00:02:38.890" style="s2">concrete real world example it&#39;s</p>
+<p begin="00:02:37.000" end="00:02:42.340" style="s2">happening</p>
+<p begin="00:02:38.890" end="00:02:44.290" style="s2">we have a transcendent operator that</p>
+<p begin="00:02:42.340" end="00:02:46.390" style="s2">describes the characteristics what I&#39;ll</p>
+<p begin="00:02:44.290" end="00:02:48.909" style="s2">call the ontological design of Sevilla</p>
+<p begin="00:02:46.390" end="00:02:50.970" style="s2">which is to say the the aspects of</p>
+<p begin="00:02:48.909" end="00:02:53.970" style="s2">living this the the physical</p>
+<p begin="00:02:50.970" end="00:02:56.049" style="s2">architectural elements things like how</p>
+<p begin="00:02:53.970" end="00:02:58.269" style="s2">people living in sitting them deal with</p>
+<p begin="00:02:56.049" end="00:03:00.579" style="s2">problems of energy how do they get</p>
+<p begin="00:02:58.269" end="00:03:03.010" style="s2">energy or waste or food or</p>
+<p begin="00:03:00.579" end="00:03:04.470" style="s2">transportation or physical domicile and</p>
+<p begin="00:03:03.010" end="00:03:07.720" style="s2">things like that all the different</p>
+<p begin="00:03:04.470" end="00:03:09.760" style="s2">questions you have to ask to answer the</p>
+<p begin="00:03:07.720" end="00:03:13.659" style="s2">problem of how do we live together in</p>
+<p begin="00:03:09.760" end="00:03:15.849" style="s2">community in space there&#39;s a there&#39;s a</p>
+<p begin="00:03:13.659" end="00:03:18.340" style="s2">set of design characteristics of what a</p>
+<p begin="00:03:15.849" end="00:03:21.430" style="s2">an instantiation of Sevilla must look</p>
+<p begin="00:03:18.340" end="00:03:23.769" style="s2">like and then what happens is is you</p>
+<p begin="00:03:21.430" end="00:03:26.919" style="s2">actually instantiate an actual sibian in</p>
+<p begin="00:03:23.769" end="00:03:29.560" style="s2">a real context in a real bio region</p>
+<p begin="00:03:26.919" end="00:03:32.319" style="s2">specifically so each distinct sibian</p>
+<p begin="00:03:29.560" end="00:03:34.690" style="s2">will have its transcendent</p>
+<p begin="00:03:32.319" end="00:03:37.870" style="s2">characteristics in common across the</p>
+<p begin="00:03:34.690" end="00:03:39.340" style="s2">globe but in particular unique bio</p>
+<p begin="00:03:37.870" end="00:03:42.069" style="s2">regions will have very specific</p>
+<p begin="00:03:39.340" end="00:03:44.560" style="s2">different instantiations right so if I</p>
+<p begin="00:03:42.069" end="00:03:46.480" style="s2">were to instantiate a Sevilla min say</p>
+<p begin="00:03:44.560" end="00:03:50.019" style="s2">the desert and then instantiate a</p>
+<p begin="00:03:46.480" end="00:03:52.540" style="s2">Sevilla min like Oregon on the coast of</p>
+<p begin="00:03:50.019" end="00:03:54.430" style="s2">Oregon those are of course in many many</p>
+<p begin="00:03:52.540" end="00:03:56.349" style="s2">ways going to be quite different because</p>
+<p begin="00:03:54.430" end="00:03:58.209" style="s2">the the actual ways that they will</p>
+<p begin="00:03:56.349" end="00:04:02.290" style="s2">answer questions like how to resource</p>
+<p begin="00:03:58.209" end="00:04:04.480" style="s2">food water will be different but they&#39;ll</p>
+<p begin="00:04:02.290" end="00:04:05.919" style="s2">also have a lot of similarities and I</p>
+<p begin="00:04:04.480" end="00:04:07.269" style="s2">don&#39;t mean just generically that they</p>
+<p begin="00:04:05.919" end="00:04:10.000" style="s2">both will have to source food in water</p>
+<p begin="00:04:07.269" end="00:04:12.159" style="s2">but things like how do you that what was</p>
+<p begin="00:04:10.000" end="00:04:14.560" style="s2">the set of toolkits that you might bring</p>
+<p begin="00:04:12.159" end="00:04:17.229" style="s2">to bear in general across all possible</p>
+<p begin="00:04:14.560" end="00:04:18.880" style="s2">solutions at least now for enabling</p>
+<p begin="00:04:17.229" end="00:04:20.769" style="s2">closed loops and so one of the</p>
+<p begin="00:04:18.880" end="00:04:23.320" style="s2">characteristics of a sybian construct is</p>
+<p begin="00:04:20.769" end="00:04:25.510" style="s2">to close as many loops as possible so</p>
+<p begin="00:04:23.320" end="00:04:27.340" style="s2">there&#39;s one answer to the question of</p>
+<p begin="00:04:25.510" end="00:04:28.870" style="s2">closed loops water</p>
+<p begin="00:04:27.340" end="00:04:30.220" style="s2">in the desert there&#39;s another answer to</p>
+<p begin="00:04:28.870" end="00:04:33.520" style="s2">the question of closed-loop closed-loop</p>
+<p begin="00:04:30.220" end="00:04:35.919" style="s2">water and Oregon and both of those</p>
+<p begin="00:04:33.520" end="00:04:38.530" style="s2">answers sort of take the basic toolkit</p>
+<p begin="00:04:35.919" end="00:04:43.270" style="s2">and apply some of this some of that</p>
+<p begin="00:04:38.530" end="00:04:44.889" style="s2">together and and solve the problem</p>
+<p begin="00:04:43.270" end="00:04:46.900" style="s2">answer the question well and of course</p>
+<p begin="00:04:44.889" end="00:04:51.430" style="s2">you go across the entire set of</p>
+<p begin="00:04:46.900" end="00:04:53.500" style="s2">questions in a living space so the the</p>
+<p begin="00:04:51.430" end="00:04:56.410" style="s2">the civvie InDesign or in fact the</p>
+<p begin="00:04:53.500" end="00:04:58.000" style="s2">transcendent design is is a problem of</p>
+<p begin="00:04:56.410" end="00:05:02.460" style="s2">designing at the level of the</p>
+<p begin="00:04:58.000" end="00:05:04.750" style="s2">transcendent operator in in the mode of</p>
+<p begin="00:05:02.460" end="00:05:07.000" style="s2">what we might call architecture or</p>
+<p begin="00:05:04.750" end="00:05:10.330" style="s2">physical design questions like energy</p>
+<p begin="00:05:07.000" end="00:05:13.210" style="s2">and food in the mode of culture and in</p>
+<p begin="00:05:10.330" end="00:05:14.710" style="s2">the mode of like socio technology things</p>
+<p begin="00:05:13.210" end="00:05:17.140" style="s2">like governments in economic which is</p>
+<p begin="00:05:14.710" end="00:05:18.160" style="s2">not strictly the same and I would say</p>
+<p begin="00:05:17.140" end="00:05:20.770" style="s2">the cultures probably the most</p>
+<p begin="00:05:18.160" end="00:05:24.760" style="s2">fundamental so doing the transcendent</p>
+<p begin="00:05:20.770" end="00:05:27.010" style="s2">operator around culture and then and</p>
+<p begin="00:05:24.760" end="00:05:31.090" style="s2">then the process for instantiating that</p>
+<p begin="00:05:27.010" end="00:05:33.220" style="s2">in given specific actualizations is the</p>
+<p begin="00:05:31.090" end="00:05:34.210" style="s2">most fundamental work the example I&#39;m</p>
+<p begin="00:05:33.220" end="00:05:37.680" style="s2">going to give is actually an example</p>
+<p begin="00:05:34.210" end="00:05:41.050" style="s2">from the level of architecture and</p>
+<p begin="00:05:37.680" end="00:05:43.530" style="s2">systems design but so let&#39;s move on to</p>
+<p begin="00:05:41.050" end="00:05:43.530" style="s2">the example</p>
+<p begin="00:05:44.420" end="00:05:50.400" style="s2">okay so the the actual real-world</p>
+<p begin="00:05:47.250" end="00:05:54.360" style="s2">project that I&#39;ve come into contact with</p>
+<p begin="00:05:50.400" end="00:05:56.280" style="s2">recently is called Oceanics and what</p>
+<p begin="00:05:54.360" end="00:05:58.440" style="s2">I&#39;ll do is I&#39;ll be using the the actual</p>
+<p begin="00:05:56.280" end="00:06:01.860" style="s2">concept design by the vrk ingles group</p>
+<p begin="00:05:58.440" end="00:06:03.600" style="s2">to help articulate the concepts when I</p>
+<p begin="00:06:01.860" end="00:06:05.280" style="s2">ran into the team at Oceanics and I&#39;ve</p>
+<p begin="00:06:03.600" end="00:06:08.220" style="s2">done that with him several times I was</p>
+<p begin="00:06:05.280" end="00:06:10.530" style="s2">taken by the degree to which it really</p>
+<p begin="00:06:08.220" end="00:06:12.930" style="s2">is very similar to a lot of the cilium</p>
+<p begin="00:06:10.530" end="00:06:16.560" style="s2">notions particularly if you were to</p>
+<p begin="00:06:12.930" end="00:06:18.810" style="s2">imagine it as a an instantiation of this</p>
+<p begin="00:06:16.560" end="00:06:21.540" style="s2">idiom transcendent operator in the</p>
+<p begin="00:06:18.810" end="00:06:24.240" style="s2">context of the ocean particularly ocean</p>
+<p begin="00:06:21.540" end="00:06:27.450" style="s2">30 degrees north and south of the</p>
+<p begin="00:06:24.240" end="00:06:29.700" style="s2">Equator with a big lean towards the</p>
+<p begin="00:06:27.450" end="00:06:33.780" style="s2">physical layer so so let&#39;s take a look</p>
+<p begin="00:06:29.700" end="00:06:36.630" style="s2">at that so the first thing that they did</p>
+<p begin="00:06:33.780" end="00:06:40.710" style="s2">is they take a look at the whole system</p>
+<p begin="00:06:36.630" end="00:06:42.230" style="s2">and the the set of holistic requirements</p>
+<p begin="00:06:40.710" end="00:06:46.200" style="s2">that are necessary to actually make a</p>
+<p begin="00:06:42.230" end="00:06:47.940" style="s2">given instance of Oceanics complete</p>
+<p begin="00:06:46.200" end="00:06:49.170" style="s2">right so you have to be able to take</p>
+<p begin="00:06:47.940" end="00:06:51.630" style="s2">care of food and you have to take care</p>
+<p begin="00:06:49.170" end="00:06:53.610" style="s2">of water and add it at a design level at</p>
+<p begin="00:06:51.630" end="00:06:59.790" style="s2">the very high level things like</p>
+<p begin="00:06:53.610" end="00:07:03.060" style="s2">sustainability and localism and lack of</p>
+<p begin="00:06:59.790" end="00:07:06.420" style="s2">waste are all and living this by the way</p>
+<p begin="00:07:03.060" end="00:07:09.270" style="s2">wholesomeness are all key values that</p>
+<p begin="00:07:06.420" end="00:07:11.400" style="s2">feed into the design and then they run a</p>
+<p begin="00:07:09.270" end="00:07:13.320" style="s2">process where they take a look at how do</p>
+<p begin="00:07:11.400" end="00:07:15.840" style="s2">we express these values given the</p>
+<p begin="00:07:13.320" end="00:07:18.560" style="s2">limitations and the capacities of the</p>
+<p begin="00:07:15.840" end="00:07:18.560" style="s2">local environment</p>
+<p begin="00:07:19.300" end="00:07:22.509" style="s2">what they do is they have what they call</p>
+<p begin="00:07:20.919" end="00:07:24.580" style="s2">a kit of parts so they took a look at</p>
+<p begin="00:07:22.509" end="00:07:28.180" style="s2">each particular problem say for example</p>
+<p begin="00:07:24.580" end="00:07:29.440" style="s2">food or energy and then they look</p>
+<p begin="00:07:28.180" end="00:07:31.030" style="s2">through all the different possible</p>
+<p begin="00:07:29.440" end="00:07:33.250" style="s2">answers to that problem and then they</p>
+<p begin="00:07:31.030" end="00:07:36.099" style="s2">took a look at which of those answers</p>
+<p begin="00:07:33.250" end="00:07:37.750" style="s2">are most valid and least valid in the</p>
+<p begin="00:07:36.099" end="00:07:40.659" style="s2">context both at the local environment</p>
+<p begin="00:07:37.750" end="00:07:44.110" style="s2">and in the context of the larger whole</p>
+<p begin="00:07:40.659" end="00:07:47.110" style="s2">so for example in the case of oceanic so</p>
+<p begin="00:07:44.110" end="00:07:50.139" style="s2">if you&#39;ve got floating platforms in the</p>
+<p begin="00:07:47.110" end="00:07:52.389" style="s2">ocean you have access to ocean tidal</p>
+<p begin="00:07:50.139" end="00:07:54.099" style="s2">power to produce electricity obviously</p>
+<p begin="00:07:52.389" end="00:07:55.780" style="s2">in the context of the broader Sylvia</p>
+<p begin="00:07:54.099" end="00:07:58.000" style="s2">MIFF your instantiate eNOS idiom in the</p>
+<p begin="00:07:55.780" end="00:07:59.319" style="s2">desert you don&#39;t but if you&#39;re in Stan</p>
+<p begin="00:07:58.000" end="00:08:01.690" style="s2">shooting it in the desert perhaps you</p>
+<p begin="00:07:59.319" end="00:08:06.009" style="s2">have a the ability to rely on solar</p>
+<p begin="00:08:01.690" end="00:08:08.319" style="s2">power more effectively so now let&#39;s take</p>
+<p begin="00:08:06.009" end="00:08:10.240" style="s2">a look at the structural design and this</p>
+<p begin="00:08:08.319" end="00:08:12.969" style="s2">is where my eyes were really opened in</p>
+<p begin="00:08:10.240" end="00:08:14.319" style="s2">terms of the relationship between what</p>
+<p begin="00:08:12.969" end="00:08:16.840" style="s2">they&#39;re doing at Oceanics and the</p>
+<p begin="00:08:14.319" end="00:08:19.870" style="s2">Scythian vision they&#39;ve taken a what was</p>
+<p begin="00:08:16.840" end="00:08:22.030" style="s2">frankly a fractal and Hellenic approach</p>
+<p begin="00:08:19.870" end="00:08:23.610" style="s2">okay so if we take a look at this basic</p>
+<p begin="00:08:22.030" end="00:08:25.719" style="s2">unit which they call a neighborhood as</p>
+<p begin="00:08:23.610" end="00:08:28.060" style="s2">you can see it&#39;s actually designed</p>
+<p begin="00:08:25.719" end="00:08:30.909" style="s2">around roughly the level of the Dunbar</p>
+<p begin="00:08:28.060" end="00:08:33.190" style="s2">number and it&#39;s designed around the</p>
+<p begin="00:08:30.909" end="00:08:36.539" style="s2">ability to have a a decent fraction of</p>
+<p begin="00:08:33.190" end="00:08:39.640" style="s2">the whole of life happening in a given</p>
+<p begin="00:08:36.539" end="00:08:41.380" style="s2">neighborhood so the neighborhood has</p>
+<p begin="00:08:39.640" end="00:08:43.659" style="s2">food and water and waste and power</p>
+<p begin="00:08:41.380" end="00:08:46.240" style="s2">electricity and education and human</p>
+<p begin="00:08:43.659" end="00:08:48.310" style="s2">development and vocation anchored and</p>
+<p begin="00:08:46.240" end="00:08:50.980" style="s2">grounded at the at the neighborhood</p>
+<p begin="00:08:48.310" end="00:08:54.399" style="s2">level then a series of neighborhoods is</p>
+<p begin="00:08:50.980" end="00:08:59.500" style="s2">collected into the next fractal level up</p>
+<p begin="00:08:54.399" end="00:09:01.899" style="s2">the village so in each transformation</p>
+<p begin="00:08:59.500" end="00:09:05.079" style="s2">each ilanic level up you have a really</p>
+<p begin="00:09:01.899" end="00:09:08.170" style="s2">interesting dialogue between generality</p>
+<p begin="00:09:05.079" end="00:09:11.949" style="s2">and specificity or uniqueness so for</p>
+<p begin="00:09:08.170" end="00:09:14.020" style="s2">example any given neighborhood will have</p>
+<p begin="00:09:11.949" end="00:09:16.089" style="s2">a sizeable fraction of self-sufficiency</p>
+<p begin="00:09:14.020" end="00:09:19.060" style="s2">it&#39;ll produce a sizeable fraction wits</p>
+<p begin="00:09:16.089" end="00:09:22.380" style="s2">and food is an energy etc etc but then</p>
+<p begin="00:09:19.060" end="00:09:25.480" style="s2">also will have a meaningful fraction of</p>
+<p begin="00:09:22.380" end="00:09:28.120" style="s2">dependence on other neighborhoods in its</p>
+<p begin="00:09:25.480" end="00:09:30.160" style="s2">village and uniqueness respess</p>
+<p begin="00:09:28.120" end="00:09:32.290" style="s2">officially so in the context of a given</p>
+<p begin="00:09:30.160" end="00:09:33.110" style="s2">village for example you may have one</p>
+<p begin="00:09:32.290" end="00:09:34.910" style="s2">neighborhood</p>
+<p begin="00:09:33.110" end="00:09:36.800" style="s2">leans more heavily in the direction of</p>
+<p begin="00:09:34.910" end="00:09:39.019" style="s2">say food so it&#39;s kind of like the</p>
+<p begin="00:09:36.800" end="00:09:41.290" style="s2">restaurant district another one leads</p>
+<p begin="00:09:39.019" end="00:09:46.070" style="s2">more in the direction of say art or</p>
+<p begin="00:09:41.290" end="00:09:49.390" style="s2">research and and and industry and and so</p>
+<p begin="00:09:46.070" end="00:09:52.430" style="s2">you get this really nice tension between</p>
+<p begin="00:09:49.390" end="00:09:57.470" style="s2">resilience self-sufficiency decoupling</p>
+<p begin="00:09:52.430" end="00:10:00.320" style="s2">and specialization and intensity and and</p>
+<p begin="00:09:57.470" end="00:10:02.240" style="s2">by the way also communication as people</p>
+<p begin="00:10:00.320" end="00:10:04.610" style="s2">you know if I never leave my</p>
+<p begin="00:10:02.240" end="00:10:07.430" style="s2">neighborhood then what happens is I not</p>
+<p begin="00:10:04.610" end="00:10:09.170" style="s2">creating a parochialism but if I leave</p>
+<p begin="00:10:07.430" end="00:10:11.029" style="s2">my neighborhood to go to another</p>
+<p begin="00:10:09.170" end="00:10:12.320" style="s2">neighborhood in the same village because</p>
+<p begin="00:10:11.029" end="00:10:14.000" style="s2">they have something that my neighborhood</p>
+<p begin="00:10:12.320" end="00:10:16.370" style="s2">doesn&#39;t have then of course this creates</p>
+<p begin="00:10:14.000" end="00:10:20.089" style="s2">flow and creates a felt sense of</p>
+<p begin="00:10:16.370" end="00:10:23.470" style="s2">connection then villages for their part</p>
+<p begin="00:10:20.089" end="00:10:26.060" style="s2">can be connected up into into cities</p>
+<p begin="00:10:23.470" end="00:10:27.560" style="s2">start getting into larger population</p>
+<p begin="00:10:26.060" end="00:10:30.350" style="s2">densities you know you&#39;ll notice by the</p>
+<p begin="00:10:27.560" end="00:10:31.940" style="s2">way at the level of the city you also</p>
+<p begin="00:10:30.350" end="00:10:36.170" style="s2">started seeing the interesting addition</p>
+<p begin="00:10:31.940" end="00:10:37.880" style="s2">of stochastic or asymmetric elements</p>
+<p begin="00:10:36.170" end="00:10:39.800" style="s2">elements that are not strictly the</p>
+<p begin="00:10:37.880" end="00:10:41.660" style="s2">hexagon and that&#39;s an important aspect</p>
+<p begin="00:10:39.800" end="00:10:43.190" style="s2">as well right so an increase in the</p>
+<p begin="00:10:41.660" end="00:10:45.490" style="s2">richness or diversity of the</p>
+<p begin="00:10:43.190" end="00:10:47.870" style="s2">characteristic while also maintaining</p>
+<p begin="00:10:45.490" end="00:10:49.760" style="s2">the symmetry at the primary</p>
+<p begin="00:10:47.870" end="00:10:52.760" style="s2">characteristic and of course as you get</p>
+<p begin="00:10:49.760" end="00:10:55.279" style="s2">into larger populations the degree to</p>
+<p begin="00:10:52.760" end="00:10:57.860" style="s2">which you might have for example a given</p>
+<p begin="00:10:55.279" end="00:10:59.329" style="s2">village may have a real lien given</p>
+<p begin="00:10:57.860" end="00:11:02.360" style="s2">direction you know it&#39;s it&#39;s a</p>
+<p begin="00:10:59.329" end="00:11:04.329" style="s2">gastronome village or it&#39;s a village</p>
+<p begin="00:11:02.360" end="00:11:08.380" style="s2">that is sort of renowned for its</p>
+<p begin="00:11:04.329" end="00:11:11.199" style="s2">athletics where where the the larger</p>
+<p begin="00:11:08.380" end="00:11:14.089" style="s2">city now has even stronger</p>
+<p begin="00:11:11.199" end="00:11:16.040" style="s2">differentiation in principle this</p>
+<p begin="00:11:14.089" end="00:11:19.130" style="s2">construct continued to scale so you</p>
+<p begin="00:11:16.040" end="00:11:22.430" style="s2">could get a population of Manhattan in a</p>
+<p begin="00:11:19.130" end="00:11:24.529" style="s2">city &#39;m as Arion Oceanics of adequate</p>
+<p begin="00:11:22.430" end="00:11:26.660" style="s2">size and what&#39;s fascinating is the</p>
+<p begin="00:11:24.529" end="00:11:29.470" style="s2">actual size isn&#39;t that vast particularly</p>
+<p begin="00:11:26.660" end="00:11:33.380" style="s2">in the context of the ocean but has a</p>
+<p begin="00:11:29.470" end="00:11:34.730" style="s2">vastly better physical layout for for</p>
+<p begin="00:11:33.380" end="00:11:36.730" style="s2">living this we&#39;ll take a look at some of</p>
+<p begin="00:11:34.730" end="00:11:38.750" style="s2">those the way that feels in second</p>
+<p begin="00:11:36.730" end="00:11:41.630" style="s2">returning back to some of the principles</p>
+<p begin="00:11:38.750" end="00:11:44.569" style="s2">you can see that we have for example an</p>
+<p begin="00:11:41.630" end="00:11:46.220" style="s2">intent to rely as much as possible on</p>
+<p begin="00:11:44.569" end="00:11:48.470" style="s2">locally sourced</p>
+<p begin="00:11:46.220" end="00:11:51.590" style="s2">and either recyclable or regenerative</p>
+<p begin="00:11:48.470" end="00:11:54.410" style="s2">materials and to engage in wood in the</p>
+<p begin="00:11:51.590" end="00:11:56.290" style="s2">Oceanics context is what we would call</p>
+<p begin="00:11:54.410" end="00:11:59.810" style="s2">regenerative agriculture or regenerative</p>
+<p begin="00:11:56.290" end="00:12:02.540" style="s2">permaculture in general so we have a</p>
+<p begin="00:11:59.810" end="00:12:04.640" style="s2">vision that talks about how the building</p>
+<p begin="00:12:02.540" end="00:12:07.670" style="s2">out of this new way this kind of cool</p>
+<p begin="00:12:04.640" end="00:12:09.890" style="s2">fun interesting new concept can also be</p>
+<p begin="00:12:07.670" end="00:12:11.600" style="s2">used as a bridge to instantiate a whole</p>
+<p begin="00:12:09.890" end="00:12:13.700" style="s2">bunch of values that we won&#39;t want to</p>
+<p begin="00:12:11.600" end="00:12:15.740" style="s2">see in general and by weaving these</p>
+<p begin="00:12:13.700" end="00:12:18.560" style="s2">values together you actually get a</p>
+<p begin="00:12:15.740" end="00:12:21.770" style="s2">really meaningful chance of of actualize</p>
+<p begin="00:12:18.560" end="00:12:23.420" style="s2">in them in reality so then we can look</p>
+<p begin="00:12:21.770" end="00:12:26.780" style="s2">at the the felt sense the sense of</p>
+<p begin="00:12:23.420" end="00:12:28.850" style="s2">living this and I think Engels did a</p>
+<p begin="00:12:26.780" end="00:12:30.280" style="s2">great job here of creating some visual</p>
+<p begin="00:12:28.850" end="00:12:34.330" style="s2">images that capture things like</p>
+<p begin="00:12:30.280" end="00:12:36.530" style="s2">wholesomeness and connectedness and</p>
+<p begin="00:12:34.330" end="00:12:38.360" style="s2">living a right relationship with nature</p>
+<p begin="00:12:36.530" end="00:12:40.070" style="s2">you notice for example if the buildings</p>
+<p begin="00:12:38.360" end="00:12:42.550" style="s2">are at least in this particular</p>
+<p begin="00:12:40.070" end="00:12:45.320" style="s2">instantiation constructed out of bamboo</p>
+<p begin="00:12:42.550" end="00:12:48.740" style="s2">and with an intent that the bamboo can</p>
+<p begin="00:12:45.320" end="00:12:50.480" style="s2">be removed and replaced and regrown and</p>
+<p begin="00:12:48.740" end="00:12:52.700" style="s2">delivered back into the environment by</p>
+<p begin="00:12:50.480" end="00:12:56.480" style="s2">closed loops everywhere you look as much</p>
+<p begin="00:12:52.700" end="00:13:00.590" style="s2">as you can and then finally the notion</p>
+<p begin="00:12:56.480" end="00:13:04.010" style="s2">of specificity or already in the context</p>
+<p begin="00:13:00.590" end="00:13:07.970" style="s2">of Oceanics the the necessity and the</p>
+<p begin="00:13:04.010" end="00:13:10.160" style="s2">capacity for true actualization of the</p>
+<p begin="00:13:07.970" end="00:13:11.390" style="s2">transcendent operator differentially</p>
+<p begin="00:13:10.160" end="00:13:12.410" style="s2">based on different bioregions</p>
+<p begin="00:13:11.390" end="00:13:14.900" style="s2">or different locations different</p>
+<p begin="00:13:12.410" end="00:13:18.380" style="s2">contexts so for example if you were to</p>
+<p begin="00:13:14.900" end="00:13:21.230" style="s2">actualize it in the ocean but the ocean</p>
+<p begin="00:13:18.380" end="00:13:23.180" style="s2">next to her near say the arab peninsula</p>
+<p begin="00:13:21.230" end="00:13:25.070" style="s2">there&#39;s going to be one set of</p>
+<p begin="00:13:23.180" end="00:13:26.570" style="s2">characteristics that will apply and if</p>
+<p begin="00:13:25.070" end="00:13:29.960" style="s2">we were to actualize it in the ocean</p>
+<p begin="00:13:26.570" end="00:13:31.340" style="s2">near say a more northern clime country</p>
+<p begin="00:13:29.960" end="00:13:33.200" style="s2">the different set of characteristics</p>
+<p begin="00:13:31.340" end="00:13:34.880" style="s2">apply iein so that&#39;s that toolkit the</p>
+<p begin="00:13:33.200" end="00:13:36.700" style="s2">mission of the kid of parts or the</p>
+<p begin="00:13:34.880" end="00:13:38.780" style="s2">notion of the transcendent operator</p>
+<p begin="00:13:36.700" end="00:13:41.240" style="s2">combining with the process for</p>
+<p begin="00:13:38.780" end="00:13:45.070" style="s2">actualization in a given context giving</p>
+<p begin="00:13:41.240" end="00:13:47.930" style="s2">rise to events that are simultaneously</p>
+<p begin="00:13:45.070" end="00:13:49.610" style="s2">specific and unique and yet also have a</p>
+<p begin="00:13:47.930" end="00:13:52.340" style="s2">sentence felt sense of continuity with</p>
+<p begin="00:13:49.610" end="00:13:54.440" style="s2">each other so that&#39;s a sense of this</p>
+<p begin="00:13:52.340" end="00:13:55.060" style="s2">notion of the transcendent operator and</p>
+<p begin="00:13:54.440" end="00:13:57.380" style="s2">it&#39;s</p>
+<p begin="00:13:55.060" end="00:13:59.269" style="s2">actualization in a given context</p>
+<p begin="00:13:57.380" end="00:14:01.999" style="s2">obviously in the context of</p>
+<p begin="00:13:59.269" end="00:14:04.579" style="s2">the ocean for Oceanics and you can</p>
+<p begin="00:14:01.999" end="00:14:07.009" style="s2">imagine that same basic process applied</p>
+<p begin="00:14:04.579" end="00:14:10.189" style="s2">in other bio regions you can imagine it</p>
+<p begin="00:14:07.009" end="00:14:12.619" style="s2">being applied in in in the desert you</p>
+<p begin="00:14:10.189" end="00:14:15.040" style="s2">can apply it in Cascadia you could apply</p>
+<p begin="00:14:12.619" end="00:14:18.410" style="s2">it in the you know equatorial</p>
+<p begin="00:14:15.040" end="00:14:20.929" style="s2">rainforests etc and in each case the the</p>
+<p begin="00:14:18.410" end="00:14:25.100" style="s2">point always the hope of the CBM model</p>
+<p begin="00:14:20.929" end="00:14:27.649" style="s2">is that there would be a very important</p>
+<p begin="00:14:25.100" end="00:14:29.209" style="s2">local distinctness right there&#39;s a real</p>
+<p begin="00:14:27.649" end="00:14:31.779" style="s2">difference coming up to the local</p>
+<p begin="00:14:29.209" end="00:14:33.829" style="s2">environment local materials the local</p>
+<p begin="00:14:31.779" end="00:14:37.279" style="s2">characteristics that have constraints</p>
+<p begin="00:14:33.829" end="00:14:41.209" style="s2">like Sun and rain and whatnot and yet</p>
+<p begin="00:14:37.279" end="00:14:44.839" style="s2">also a very distinct sense of sameness</p>
+<p begin="00:14:41.209" end="00:14:46.939" style="s2">and continuity so that a given cilium</p>
+<p begin="00:14:44.839" end="00:14:48.829" style="s2">would have a sense of translate ability</p>
+<p begin="00:14:46.939" end="00:14:51.709" style="s2">and connectedness with any other given</p>
+<p begin="00:14:48.829" end="00:14:54.769" style="s2">Sevilla while maintaining that distinct</p>
+<p begin="00:14:51.709" end="00:14:58.579" style="s2">sense of difference and the creative</p>
+<p begin="00:14:54.769" end="00:15:02.350" style="s2">gradient the results and one other</p>
+<p begin="00:14:58.579" end="00:15:05.410" style="s2">takeaway this particular presentation is</p>
+<p begin="00:15:02.350" end="00:15:07.970" style="s2">the possibility that the potential</p>
+<p begin="00:15:05.410" end="00:15:10.730" style="s2">Oceanics is it&#39;s a real project and</p>
+<p begin="00:15:07.970" end="00:15:12.529" style="s2">frankly it&#39;s it&#39;s it&#39;s it could be done</p>
+<p begin="00:15:10.730" end="00:15:15.829" style="s2">like it&#39;s really a matter of financing</p>
+<p begin="00:15:12.529" end="00:15:18.470" style="s2">and frankly not that much financing to</p>
+<p begin="00:15:15.829" end="00:15:20.329" style="s2">build a neighborhood right for the very</p>
+<p begin="00:15:18.470" end="00:15:21.559" style="s2">first time ever and then of course once</p>
+<p begin="00:15:20.329" end="00:15:22.639" style="s2">they&#39;ve built the first neighborhood you</p>
+<p begin="00:15:21.559" end="00:15:23.779" style="s2">can start building the second and the</p>
+<p begin="00:15:22.639" end="00:15:28.040" style="s2">third and the fourth and begin to</p>
+<p begin="00:15:23.779" end="00:15:30.049" style="s2">replicate it and it really really pushes</p>
+<p begin="00:15:28.040" end="00:15:32.119" style="s2">the bar in terms of of the kinds of</p>
+<p begin="00:15:30.049" end="00:15:33.889" style="s2">living miss we can create I mean the</p>
+<p begin="00:15:32.119" end="00:15:35.420" style="s2">ability to to deal with a lot of the</p>
+<p begin="00:15:33.889" end="00:15:38.329" style="s2">problems that we want to deal with the</p>
+<p begin="00:15:35.420" end="00:15:40.970" style="s2">problems like well for example just</p>
+<p begin="00:15:38.329" end="00:15:44.299" style="s2">waste or energy how do we produce the</p>
+<p begin="00:15:40.970" end="00:15:46.429" style="s2">the food we want and also problems of</p>
+<p begin="00:15:44.299" end="00:15:48.860" style="s2">community and in culture and how do we</p>
+<p begin="00:15:46.429" end="00:15:53.720" style="s2">actually live more real grounded</p>
+<p begin="00:15:48.860" end="00:15:55.970" style="s2">wholesome humane lives there&#39;s a lot of</p>
+<p begin="00:15:53.720" end="00:15:58.220" style="s2">pent-up possibility right the reality is</p>
+<p begin="00:15:55.970" end="00:16:00.769" style="s2">is that one of the reasons why CBM is</p>
+<p begin="00:15:58.220" end="00:16:03.920" style="s2">right is we&#39;ve been sitting on an old</p>
+<p begin="00:16:00.769" end="00:16:09.019" style="s2">construct in these sort of 19th century</p>
+<p begin="00:16:03.920" end="00:16:10.970" style="s2">cities grossed up and hypertrophied by a</p>
+<p begin="00:16:09.019" end="00:16:13.570" style="s2">virtue of the technologies of the 20th</p>
+<p begin="00:16:10.970" end="00:16:16.820" style="s2">the 21st century</p>
+<p begin="00:16:13.570" end="00:16:20.090" style="s2">this like a stretched rubber band and if</p>
+<p begin="00:16:16.820" end="00:16:22.460" style="s2">we if we just pop into a new model with</p>
+<p begin="00:16:20.090" end="00:16:27.680" style="s2">these smart villages constructed in this</p>
+<p begin="00:16:22.460" end="00:16:29.870" style="s2">fractal and whole onic structure there&#39;s</p>
+<p begin="00:16:27.680" end="00:16:31.850" style="s2">a lot of possibility that we can we can</p>
+<p begin="00:16:29.870" end="00:16:34.600" style="s2">leap to we can leapfrog into a very</p>
+<p begin="00:16:31.850" end="00:16:34.600" style="s2">distinct space</p>
+</div>
+</body>
+</tt>
