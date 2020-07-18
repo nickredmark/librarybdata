@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "8oCsdThE5vti3vVsRxaT2LZhHW4",
+  "etag": "_tg8xEUmz5Rq2hipYSauKx6vIB8",
   "id": {
     "kind": "youtube#video",
     "videoId": "ZBZHObCa6NY"
@@ -12,28 +12,29 @@
     "description": "Saturdays (9am PST) we hold project Roundtables. Each participant Tells us about their project (brief “elevator style” pitch) What they have been doing since last ...",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/ZBZHObCa6NY/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/ZBZHObCa6NY/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/ZBZHObCa6NY/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/ZBZHObCa6NY/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/ZBZHObCa6NY/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/ZBZHObCa6NY/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
     "channelTitle": "TogetherTec",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "publishTime": "2020-07-13T23:35:11Z"
   },
   "_id": "ZBZHObCa6NY",
   "publishedAt": "2020-07-13T23:35:11Z",
   "collections": [
     "https://www.youtube.com/channel/UCKxyC0UUSUjy1mXvfpR2RKg"
-  ]
+  ],
+  "type": "youtube-channel-item"
 }
