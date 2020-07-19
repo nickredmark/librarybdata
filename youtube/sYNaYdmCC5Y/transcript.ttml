@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:04.320" style="s2">howdy this is Jim rut and this is the</p>
+<p begin="00:00:02.399" end="00:00:09.320" style="s2">Jim rut show</p>
+<p begin="00:00:04.320" end="00:00:12.210" style="s2">[Music]</p>
+<p begin="00:00:09.320" end="00:00:14.580" style="s2">today&#39;s guest is Stewart Kaufman one of</p>
+<p begin="00:00:12.210" end="00:00:17.039" style="s2">the foundational figures in complexity</p>
+<p begin="00:00:14.580" end="00:00:18.779" style="s2">science great to be here it&#39;s a</p>
+<p begin="00:00:17.039" end="00:00:21.480" style="s2">wonderful be told I&#39;m a foundational</p>
+<p begin="00:00:18.779" end="00:00:24.240" style="s2">figure in complexity science ah true it</p>
+<p begin="00:00:21.480" end="00:00:27.090" style="s2">is makes an old man feel that whether</p>
+<p begin="00:00:24.240" end="00:00:28.740" style="s2">it&#39;s true or not Jim buy it&#39;s true at</p>
+<p begin="00:00:27.090" end="00:00:30.599" style="s2">least in my opinion if Stewart was</p>
+<p begin="00:00:28.740" end="00:00:32.340" style="s2">trained as a medical doctor but is best</p>
+<p begin="00:00:30.599" end="00:00:35.309" style="s2">known for his work in developmental</p>
+<p begin="00:00:32.340" end="00:00:37.680" style="s2">genetics evolutionary theory theoretical</p>
+<p begin="00:00:35.309" end="00:00:40.320" style="s2">biology and especially the emergence of</p>
+<p begin="00:00:37.680" end="00:00:42.059" style="s2">order in far from equilibrium complex</p>
+<p begin="00:00:40.320" end="00:00:43.980" style="s2">systems he was one of the first</p>
+<p begin="00:00:42.059" end="00:00:46.050" style="s2">generation of resident faculty at the</p>
+<p begin="00:00:43.980" end="00:00:48.360" style="s2">Santa Fe Institute he has won a number</p>
+<p begin="00:00:46.050" end="00:00:51.030" style="s2">of awards including a MacArthur Fellow</p>
+<p begin="00:00:48.360" end="00:00:53.969" style="s2">and is the author of several interesting</p>
+<p begin="00:00:51.030" end="00:00:56.309" style="s2">and important books his most recent book</p>
+<p begin="00:00:53.969" end="00:00:58.530" style="s2">is a world beyond physics the emergence</p>
+<p begin="00:00:56.309" end="00:01:00.480" style="s2">and evolution of life which we&#39;re going</p>
+<p begin="00:00:58.530" end="00:01:02.579" style="s2">to talk about today but before we do I&#39;d</p>
+<p begin="00:01:00.480" end="00:01:05.850" style="s2">like to recommend to other of Stewart&#39;s</p>
+<p begin="00:01:02.579" end="00:01:08.220" style="s2">books his origins of order holds a</p>
+<p begin="00:01:05.850" end="00:01:10.080" style="s2">special place for me it&#39;s the second</p>
+<p begin="00:01:08.220" end="00:01:12.900" style="s2">book in the area complexity science that</p>
+<p begin="00:01:10.080" end="00:01:16.290" style="s2">I read checking my Amazon account way</p>
+<p begin="00:01:12.900" end="00:01:18.900" style="s2">back in 1998 it&#39;s both thick and dense</p>
+<p begin="00:01:16.290" end="00:01:20.850" style="s2">but it&#39;s amazingly rich in ideas and I</p>
+<p begin="00:01:18.900" end="00:01:22.470" style="s2">still use a lot of those ideas today</p>
+<p begin="00:01:20.850" end="00:01:24.900" style="s2">for the most important books I&#39;ve ever</p>
+<p begin="00:01:22.470" end="00:01:27.270" style="s2">read tell you the other one I&#39;d like to</p>
+<p begin="00:01:24.900" end="00:01:29.070" style="s2">recommend to our folks at home is at</p>
+<p begin="00:01:27.270" end="00:01:30.780" style="s2">home in the universe which serves as</p>
+<p begin="00:01:29.070" end="00:01:33.210" style="s2">both a good layman&#39;s introduction to</p>
+<p begin="00:01:30.780" end="00:01:35.040" style="s2">complexity science as well as explaining</p>
+<p begin="00:01:33.210" end="00:01:38.220" style="s2">many though not all the ideas from</p>
+<p begin="00:01:35.040" end="00:01:40.920" style="s2">origins of order in a less dense form I</p>
+<p begin="00:01:38.220" end="00:01:43.229" style="s2">thought that was great tips and you know</p>
+<p begin="00:01:40.920" end="00:01:46.229" style="s2">I get about a penny in a corner when the</p>
+<p begin="00:01:43.229" end="00:01:47.790" style="s2">book sells so I&#39;m retired now at you</p>
+<p begin="00:01:46.229" end="00:01:50.070" style="s2">know it could become a source of income</p>
+<p begin="00:01:47.790" end="00:01:53.340" style="s2">there are actually good books the</p>
+<p begin="00:01:50.070" end="00:01:55.890" style="s2">origins of order is is really thick and</p>
+<p begin="00:01:53.340" end="00:01:59.640" style="s2">it&#39;s about 700 pages it took me 10 years</p>
+<p begin="00:01:55.890" end="00:02:02.430" style="s2">to write I&#39;m glad I was younger I&#39;ll</p>
+<p begin="00:01:59.640" end="00:02:04.439" style="s2">actually love that book but that&#39;s it&#39;s</p>
+<p begin="00:02:02.430" end="00:02:06.390" style="s2">me but before we get started talking</p>
+<p begin="00:02:04.439" end="00:02:08.160" style="s2">about the specifics of your new book</p>
+<p begin="00:02:06.390" end="00:02:10.379" style="s2">maybe you can start off with some</p>
+<p begin="00:02:08.160" end="00:02:12.599" style="s2">thoughts on the overarching themes of</p>
+<p begin="00:02:10.379" end="00:02:13.870" style="s2">your career what&#39;s your career been</p>
+<p begin="00:02:12.599" end="00:02:17.060" style="s2">about</p>
+<p begin="00:02:13.870" end="00:02:19.819" style="s2">that&#39;s an interesting question you know</p>
+<p begin="00:02:17.060" end="00:02:21.590" style="s2">I mean everybody&#39;s intrigued if they&#39;re</p>
+<p begin="00:02:19.819" end="00:02:23.390" style="s2">asked a question like that what my</p>
+<p begin="00:02:21.590" end="00:02:25.510" style="s2">career has been about in a funny sense</p>
+<p begin="00:02:23.390" end="00:02:27.590" style="s2">has been finding interesting questions</p>
+<p begin="00:02:25.510" end="00:02:28.610" style="s2">what are the important aspects of</p>
+<p begin="00:02:27.590" end="00:02:30.920" style="s2">science it&#39;s finding an interesting</p>
+<p begin="00:02:28.610" end="00:02:32.480" style="s2">question people don&#39;t talk about it and</p>
+<p begin="00:02:30.920" end="00:02:33.709" style="s2">you can&#39;t get a grant for it was gonna</p>
+<p begin="00:02:32.480" end="00:02:36.260" style="s2">give you a grant to say I&#39;m trying to</p>
+<p begin="00:02:33.709" end="00:02:39.380" style="s2">think of the question but I&#39;ve done that</p>
+<p begin="00:02:36.260" end="00:02:41.330" style="s2">a number of times when I was about 25 it</p>
+<p begin="00:02:39.380" end="00:02:43.390" style="s2">had been discovered the genes turn one</p>
+<p begin="00:02:41.330" end="00:02:46.640" style="s2">another on and off by Jacque cobraman Oh</p>
+<p begin="00:02:43.390" end="00:02:47.720" style="s2">in 1960 which answered central problems</p>
+<p begin="00:02:46.640" end="00:02:51.170" style="s2">and evolutionary and developmental</p>
+<p begin="00:02:47.720" end="00:02:54.319" style="s2">biology and I wondered were there</p>
+<p begin="00:02:51.170" end="00:02:56.420" style="s2">classes of networks of genes turning one</p>
+<p begin="00:02:54.319" end="00:02:58.700" style="s2">another on off that&#39;s spontaneous order</p>
+<p begin="00:02:56.420" end="00:03:01.670" style="s2">and to ask that I invented random</p>
+<p begin="00:02:58.700" end="00:03:03.500" style="s2">boolean Nets and lots of interesting</p>
+<p begin="00:03:01.670" end="00:03:06.410" style="s2">stuff followed they can&#39;t exhibit or</p>
+<p begin="00:03:03.500" end="00:03:08.420" style="s2">they can be chaotic order or critical</p>
+<p begin="00:03:06.410" end="00:03:10.549" style="s2">and it&#39;s turning out the genetic Nets</p>
+<p begin="00:03:08.420" end="00:03:12.410" style="s2">are critical a few years later I was</p>
+<p begin="00:03:10.549" end="00:03:14.030" style="s2">wondering about the origin of life and</p>
+<p begin="00:03:12.410" end="00:03:16.819" style="s2">everybody knew about template</p>
+<p begin="00:03:14.030" end="00:03:18.530" style="s2">replicating DNA and RNA and I asked a</p>
+<p begin="00:03:16.819" end="00:03:20.470" style="s2">funny question I said well what if the</p>
+<p begin="00:03:18.530" end="00:03:22.880" style="s2">contents of nature were different and</p>
+<p begin="00:03:20.470" end="00:03:25.130" style="s2">you couldn&#39;t make nitrogen and carbon</p>
+<p begin="00:03:22.880" end="00:03:26.959" style="s2">but you could make chemicals would life</p>
+<p begin="00:03:25.130" end="00:03:29.420" style="s2">be impossible and my thought was that</p>
+<p begin="00:03:26.959" end="00:03:32.420" style="s2">just can&#39;t be true life has to be a set</p>
+<p begin="00:03:29.420" end="00:03:35.239" style="s2">of molecules that can mutually catalyze</p>
+<p begin="00:03:32.420" end="00:03:36.350" style="s2">one another&#39;s formation so I came up</p>
+<p begin="00:03:35.239" end="00:03:39.319" style="s2">with the idea of collectively</p>
+<p begin="00:03:36.350" end="00:03:42.620" style="s2">autocatalytic sets and roughly 50 years</p>
+<p begin="00:03:39.319" end="00:03:44.930" style="s2">later literally about 48 it looks like</p>
+<p begin="00:03:42.620" end="00:03:46.850" style="s2">that&#39;s right Joanna Xavier and Bill</p>
+<p begin="00:03:44.930" end="00:03:49.850" style="s2">Martin and disel Dorf have found a</p>
+<p begin="00:03:46.850" end="00:03:53.060" style="s2">collectively autocratic set of small</p>
+<p begin="00:03:49.850" end="00:03:55.790" style="s2">molecule metabolites in archaea and</p>
+<p begin="00:03:53.060" end="00:03:58.250" style="s2">bacteria from before oxygen was in the</p>
+<p begin="00:03:55.790" end="00:04:00.950" style="s2">atmosphere strongly suggesting that life</p>
+<p begin="00:03:58.250" end="00:04:02.359" style="s2">started as molecular reproducing systems</p>
+<p begin="00:04:00.950" end="00:04:04.819" style="s2">you might want to talk about it&#39;s</p>
+<p begin="00:04:02.359" end="00:04:07.940" style="s2">fascinating so I keep finding these</p>
+<p begin="00:04:04.819" end="00:04:10.430" style="s2">wacky things to think about and some of</p>
+<p begin="00:04:07.940" end="00:04:12.500" style="s2">it&#39;s now standard complexity the santa</p>
+<p begin="00:04:10.430" end="00:04:14.989" style="s2">fe suit in my early life if I guesses in</p>
+<p begin="00:04:12.500" end="00:04:17.989" style="s2">my 40s and 50s not better it was just an</p>
+<p begin="00:04:14.989" end="00:04:19.729" style="s2">amazing adventure and I&#39;ve gone off in</p>
+<p begin="00:04:17.989" end="00:04:22.880" style="s2">other directions thinking about quantum</p>
+<p begin="00:04:19.729" end="00:04:26.599" style="s2">mechanics and and the mind-body problem</p>
+<p begin="00:04:22.880" end="00:04:27.760" style="s2">and how to answer to card 350 years</p>
+<p begin="00:04:26.599" end="00:04:33.260" style="s2">later</p>
+<p begin="00:04:27.760" end="00:04:35.480" style="s2">so it&#39;s just a sprawling mess great you</p>
+<p begin="00:04:33.260" end="00:04:37.460" style="s2">could do that right you know I probably</p>
+<p begin="00:04:35.480" end="00:04:40.010" style="s2">have had a similar model that though I</p>
+<p begin="00:04:37.460" end="00:04:41.090" style="s2">had a less grand level I&#39;ve been in lots</p>
+<p begin="00:04:40.010" end="00:04:44.180" style="s2">of different businesses and</p>
+<p begin="00:04:41.090" end="00:04:46.520" style="s2">organizations and projects I&#39;m one not</p>
+<p begin="00:04:44.180" end="00:04:48.169" style="s2">to let too much grass core under my feet</p>
+<p begin="00:04:46.520" end="00:04:50.180" style="s2">no I haven&#39;t had a chance to address</p>
+<p begin="00:04:48.169" end="00:04:52.010" style="s2">some of these grand problems let&#39;s hop</p>
+<p begin="00:04:50.180" end="00:04:54.110" style="s2">in and talk about a world beyond physics</p>
+<p begin="00:04:52.010" end="00:04:55.550" style="s2">a little bit but one theme that comes up</p>
+<p begin="00:04:54.110" end="00:04:57.560" style="s2">again and again in the book is the</p>
+<p begin="00:04:55.550" end="00:04:59.960" style="s2">notion that Darwinian evolution is</p>
+<p begin="00:04:57.560" end="00:05:02.389" style="s2">incomplete with respect to the origins</p>
+<p begin="00:04:59.960" end="00:05:04.340" style="s2">and evolution of life could you expand</p>
+<p begin="00:05:02.389" end="00:05:05.330" style="s2">on that well Darwin knew that that&#39;s</p>
+<p begin="00:05:04.340" end="00:05:08.030" style="s2">nothing new</p>
+<p begin="00:05:05.330" end="00:05:11.660" style="s2">a Darwin takes on the evolution of life</p>
+<p begin="00:05:08.030" end="00:05:14.330" style="s2">once it has started but he&#39;s silent on</p>
+<p begin="00:05:11.660" end="00:05:16.880" style="s2">the question of how life comes to be so</p>
+<p begin="00:05:14.330" end="00:05:19.220" style="s2">that&#39;s not me saying that Darwin himself</p>
+<p begin="00:05:16.880" end="00:05:22.220" style="s2">said it he said there&#39;s sort of no point</p>
+<p begin="00:05:19.220" end="00:05:25.850" style="s2">on speculating about that at the present</p>
+<p begin="00:05:22.220" end="00:05:27.680" style="s2">time in 1859 or 1860 he does say but oh</p>
+<p begin="00:05:25.850" end="00:05:30.710" style="s2">what if there were a warm little pond</p>
+<p begin="00:05:27.680" end="00:05:33.770" style="s2">with ammonia and other things what would</p>
+<p begin="00:05:30.710" end="00:05:35.870" style="s2">happen so many of us are thinking about</p>
+<p begin="00:05:33.770" end="00:05:37.400" style="s2">what happens in warm little ponds and</p>
+<p begin="00:05:35.870" end="00:05:39.289" style="s2">we&#39;re the ones who were concerned with</p>
+<p begin="00:05:37.400" end="00:05:40.729" style="s2">the origin of life Darla&#39;s would have</p>
+<p begin="00:05:39.289" end="00:05:42.919" style="s2">completely agreed that&#39;s not an insult</p>
+<p begin="00:05:40.729" end="00:05:44.419" style="s2">the Darwin at all oh don&#39;t don&#39;t you</p>
+<p begin="00:05:42.919" end="00:05:46.820" style="s2">also talk about the fact that at least</p>
+<p begin="00:05:44.419" end="00:05:49.520" style="s2">the biological implementation of</p>
+<p begin="00:05:46.820" end="00:05:51.410" style="s2">evolution has other things going on</p>
+<p begin="00:05:49.520" end="00:05:53.840" style="s2">significant other things going on other</p>
+<p begin="00:05:51.410" end="00:05:57.229" style="s2">than Darwinian evolution other ways in</p>
+<p begin="00:05:53.840" end="00:06:01.190" style="s2">which order is formed well yes my first</p>
+<p begin="00:05:57.229" end="00:06:03.740" style="s2">book my tome origins of order takes up</p>
+<p begin="00:06:01.190" end="00:06:05.000" style="s2">the theme that I don&#39;t think Darwin</p>
+<p begin="00:06:03.740" end="00:06:06.200" style="s2">would have minded this at all you&#39;d have</p>
+<p begin="00:06:05.000" end="00:06:08.720" style="s2">been I think he&#39;d have been delighted</p>
+<p begin="00:06:06.200" end="00:06:11.510" style="s2">there&#39;s a lot of self-organization out</p>
+<p begin="00:06:08.720" end="00:06:13.940" style="s2">there in which things spontaneously get</p>
+<p begin="00:06:11.510" end="00:06:16.580" style="s2">organized and you know why wouldn&#39;t</p>
+<p begin="00:06:13.940" end="00:06:17.780" style="s2">natural selection make use of that so</p>
+<p begin="00:06:16.580" end="00:06:20.479" style="s2">that&#39;s what my whole first books about</p>
+<p begin="00:06:17.780" end="00:06:23.270" style="s2">and that looks like it&#39;s true in lots of</p>
+<p begin="00:06:20.479" end="00:06:23.570" style="s2">cases so I could talk about that for a</p>
+<p begin="00:06:23.270" end="00:06:25.729" style="s2">minute</p>
+<p begin="00:06:23.570" end="00:06:28.520" style="s2">the biggest thing about the new book is</p>
+<p begin="00:06:25.729" end="00:06:30.530" style="s2">it says the evolution of life can&#39;t be</p>
+<p begin="00:06:28.520" end="00:06:31.880" style="s2">explained by physics alone so we should</p>
+<p begin="00:06:30.530" end="00:06:34.729" style="s2">really talk about that but just briefly</p>
+<p begin="00:06:31.880" end="00:06:37.370" style="s2">about self-organization so to get your</p>
+<p begin="00:06:34.729" end="00:06:40.039" style="s2">listeners on board just think of a</p>
+<p begin="00:06:37.370" end="00:06:41.129" style="s2">snowflake it&#39;s got six fold symmetry and</p>
+<p begin="00:06:40.039" end="00:06:43.259" style="s2">beautiful so</p>
+<p begin="00:06:41.129" end="00:06:45.689" style="s2">flex structure that nobody thinks</p>
+<p begin="00:06:43.259" end="00:06:47.759" style="s2">natural selection did that there&#39;s a</p>
+<p begin="00:06:45.689" end="00:06:50.729" style="s2">spontaneous orders and it&#39;s due to the</p>
+<p begin="00:06:47.759" end="00:06:52.589" style="s2">the space group of relevant oxygen and</p>
+<p begin="00:06:50.729" end="00:06:54.839" style="s2">couple hydrogens that make up the water</p>
+<p begin="00:06:52.589" end="00:06:57.959" style="s2">molecule or think of a quartz crystal</p>
+<p begin="00:06:54.839" end="00:06:59.999" style="s2">it&#39;s got beautiful structure now think</p>
+<p begin="00:06:57.959" end="00:07:02.459" style="s2">of a whirlpool world who&#39;s got structure</p>
+<p begin="00:06:59.999" end="00:07:04.289" style="s2">they&#39;re called dissipative structures so</p>
+<p begin="00:07:02.459" end="00:07:06.689" style="s2">there&#39;s structure around all over the</p>
+<p begin="00:07:04.289" end="00:07:09.479" style="s2">place if you take lipids and put them in</p>
+<p begin="00:07:06.689" end="00:07:11.909" style="s2">water like cholesterol they firm hollow</p>
+<p begin="00:07:09.479" end="00:07:13.679" style="s2">vesicles called liposomes that are</p>
+<p begin="00:07:11.909" end="00:07:15.899" style="s2">essentially the origin of your cell</p>
+<p begin="00:07:13.679" end="00:07:18.449" style="s2">membranes well didn&#39;t take selection to</p>
+<p begin="00:07:15.899" end="00:07:21.809" style="s2">food that&#39;s physical chemistry what I</p>
+<p begin="00:07:18.449" end="00:07:24.899" style="s2">was struck by who was on the one hand my</p>
+<p begin="00:07:21.809" end="00:07:27.029" style="s2">study of these random boolean Nets as</p>
+<p begin="00:07:24.899" end="00:07:30.209" style="s2">models of genetic regulatory networks</p>
+<p begin="00:07:27.029" end="00:07:32.490" style="s2">Jim they just have astounding order when</p>
+<p begin="00:07:30.209" end="00:07:32.759" style="s2">I first found it as I said fifty years</p>
+<p begin="00:07:32.490" end="00:07:35.339" style="s2">ago</p>
+<p begin="00:07:32.759" end="00:07:37.800" style="s2">well I was 25 I&#39;m 80 as of a couple</p>
+<p begin="00:07:35.339" end="00:07:40.050" style="s2">weeks ago and knock my socks off and it</p>
+<p begin="00:07:37.800" end="00:07:42.329" style="s2">still does but that&#39;s the case of</p>
+<p begin="00:07:40.050" end="00:07:43.709" style="s2">self-organization not in the sense that</p>
+<p begin="00:07:42.329" end="00:07:46.199" style="s2">there&#39;s a cell for just a spontaneous</p>
+<p begin="00:07:43.709" end="00:07:48.509" style="s2">order that appears at the level of the</p>
+<p begin="00:07:46.199" end="00:07:50.459" style="s2">system of simple components here there</p>
+<p begin="00:07:48.509" end="00:07:51.749" style="s2">are just a bunch of light bulbs look to</p>
+<p begin="00:07:50.459" end="00:07:54.479" style="s2">one another training one or they&#39;re on</p>
+<p begin="00:07:51.749" end="00:07:56.550" style="s2">and off and all you have to do is make</p>
+<p begin="00:07:54.479" end="00:07:58.619" style="s2">networks with a thousand light bulbs</p>
+<p begin="00:07:56.550" end="00:08:00.959" style="s2">turning one another on and off and each</p>
+<p begin="00:07:58.619" end="00:08:03.839" style="s2">life up has inputs from two other light</p>
+<p begin="00:08:00.959" end="00:08:06.839" style="s2">bulbs then is guided by some rule like</p>
+<p begin="00:08:03.839" end="00:08:09.269" style="s2">called a boolean function like or or and</p>
+<p begin="00:08:06.839" end="00:08:11.429" style="s2">where or says I will be on if either one</p>
+<p begin="00:08:09.269" end="00:08:14.039" style="s2">or both of my inputs are on and an says</p>
+<p begin="00:08:11.429" end="00:08:16.679" style="s2">now both of my inputs have to be on so</p>
+<p begin="00:08:14.039" end="00:08:18.809" style="s2">you for two inputs there&#39;s 16 billion</p>
+<p begin="00:08:16.679" end="00:08:21.149" style="s2">functions like if a NAND and nor and so</p>
+<p begin="00:08:18.809" end="00:08:22.800" style="s2">on just make a random network with a</p>
+<p begin="00:08:21.149" end="00:08:25.289" style="s2">thousand light bulbs everybody having</p>
+<p begin="00:08:22.800" end="00:08:26.849" style="s2">inputs from two light bulbs and give</p>
+<p begin="00:08:25.289" end="00:08:29.249" style="s2">each light bulb a random boolean</p>
+<p begin="00:08:26.849" end="00:08:31.079" style="s2">function like order if those networks</p>
+<p begin="00:08:29.249" end="00:08:34.259" style="s2">turn out to believe with just stunning</p>
+<p begin="00:08:31.079" end="00:08:38.189" style="s2">order which I ran across and was</p>
+<p begin="00:08:34.259" end="00:08:39.839" style="s2">thrilled about when I was 25 and why</p>
+<p begin="00:08:38.189" end="00:08:42.120" style="s2">wouldn&#39;t evolution make use of that and</p>
+<p begin="00:08:39.839" end="00:08:44.449" style="s2">it does those networks are dynamically</p>
+<p begin="00:08:42.120" end="00:08:47.040" style="s2">critical and literally 50 years later</p>
+<p begin="00:08:44.449" end="00:08:48.899" style="s2">maybe in the last couple of years we&#39;re</p>
+<p begin="00:08:47.040" end="00:08:51.620" style="s2">gonna have good evidence so that genetic</p>
+<p begin="00:08:48.899" end="00:08:53.519" style="s2">regulatory networks are critical they&#39;re</p>
+<p begin="00:08:51.620" end="00:08:54.660" style="s2">critical means they&#39;re dynamically</p>
+<p begin="00:08:53.519" end="00:08:57.180" style="s2">critical critical</p>
+<p begin="00:08:54.660" end="00:08:59.579" style="s2">they&#39;re poised on in doing farmers of</p>
+<p begin="00:08:57.180" end="00:09:02.519" style="s2">lovely phrase on the edge of chaos there</p>
+<p begin="00:08:59.579" end="00:09:04.980" style="s2">between order and chaos yes that was one</p>
+<p begin="00:09:02.519" end="00:09:07.709" style="s2">of the big takeaways out of origins of</p>
+<p begin="00:09:04.980" end="00:09:09.899" style="s2">Warner&#39;s whole idea of criticality much</p>
+<p begin="00:09:07.709" end="00:09:12.029" style="s2">credit to Chris lengthened who did much</p>
+<p begin="00:09:09.899" end="00:09:14.040" style="s2">to discover it and hasn&#39;t been able to</p>
+<p begin="00:09:12.029" end="00:09:16.050" style="s2">pursue it for other reasons I want you</p>
+<p begin="00:09:14.040" end="00:09:17.250" style="s2">take a little aside here this is</p>
+<p begin="00:09:16.050" end="00:09:19.759" style="s2">something I know our audience is</p>
+<p begin="00:09:17.250" end="00:09:21.480" style="s2">interested in this idea that&#39;s</p>
+<p begin="00:09:19.759" end="00:09:23.730" style="s2">oversimplification but fruitful things</p>
+<p begin="00:09:21.480" end="00:09:24.600" style="s2">happen at the boundary between order and</p>
+<p begin="00:09:23.730" end="00:09:27.089" style="s2">chaos</p>
+<p begin="00:09:24.600" end="00:09:28.829" style="s2">well they do there&#39;s something else I</p>
+<p begin="00:09:27.089" end="00:09:30.449" style="s2">want to talk about Jim as we get along I</p>
+<p begin="00:09:28.829" end="00:09:33.689" style="s2">wrote down an equation about two years</p>
+<p begin="00:09:30.449" end="00:09:36.930" style="s2">ago that is utterly relevant to its us</p>
+<p begin="00:09:33.689" end="00:09:38.639" style="s2">now and it&#39;s not in my last book but</p>
+<p begin="00:09:36.930" end="00:09:41.189" style="s2">let&#39;s just talk about fruitful things on</p>
+<p begin="00:09:38.639" end="00:09:43.829" style="s2">the boundary between order and chaos so</p>
+<p begin="00:09:41.189" end="00:09:47.040" style="s2">an example is your brain is dynamically</p>
+<p begin="00:09:43.829" end="00:09:49.410" style="s2">critical and as I said genetic networks</p>
+<p begin="00:09:47.040" end="00:09:51.509" style="s2">are dynamically critical what happens in</p>
+<p begin="00:09:49.410" end="00:09:53.490" style="s2">such networks is that just imagine a</p>
+<p begin="00:09:51.509" end="00:09:55.410" style="s2">bunch of Christmas tree light bulbs</p>
+<p begin="00:09:53.490" end="00:09:57.480" style="s2">twinkling on and off in some pattern and</p>
+<p begin="00:09:55.410" end="00:09:59.730" style="s2">you can ask the following question if</p>
+<p begin="00:09:57.480" end="00:10:02.220" style="s2">you change a given light but right now</p>
+<p begin="00:09:59.730" end="00:10:04.680" style="s2">from on dog just transiently flip it</p>
+<p begin="00:10:02.220" end="00:10:08.370" style="s2">call it damage the color it purple and</p>
+<p begin="00:10:04.680" end="00:10:10.139" style="s2">now watch if any other light bulb you</p>
+<p begin="00:10:08.370" end="00:10:12.180" style="s2">know that&#39;s connected to it one two</p>
+<p begin="00:10:10.139" end="00:10:13.769" style="s2">three steps away does something</p>
+<p begin="00:10:12.180" end="00:10:16.050" style="s2">different than it would have done color</p>
+<p begin="00:10:13.769" end="00:10:17.069" style="s2">it purple that&#39;s called a damaged by</p>
+<p begin="00:10:16.050" end="00:10:19.740" style="s2">Dietrich Stouffer</p>
+<p begin="00:10:17.069" end="00:10:22.230" style="s2">and so you get avalanches of purple guys</p>
+<p begin="00:10:19.740" end="00:10:24.839" style="s2">and what Dietrich and others have found</p>
+<p begin="00:10:22.230" end="00:10:28.500" style="s2">is you get a lot of little out launches</p>
+<p begin="00:10:24.839" end="00:10:30.149" style="s2">and very few big ones so a bit of</p>
+<p begin="00:10:28.500" end="00:10:33.269" style="s2">mathematics if you plot this on a</p>
+<p begin="00:10:30.149" end="00:10:36.720" style="s2">log-log plot we all learn logs you know</p>
+<p begin="00:10:33.269" end="00:10:39.750" style="s2">in the 10th grade so 10 is 10 raised to</p>
+<p begin="00:10:36.720" end="00:10:42.029" style="s2">the first power 100 is 10 raised to the</p>
+<p begin="00:10:39.750" end="00:10:43.800" style="s2">second power thousands 10 raised to the</p>
+<p begin="00:10:42.029" end="00:10:46.199" style="s2">third power it&#39;s just the number of</p>
+<p begin="00:10:43.800" end="00:10:48.209" style="s2">zeros so if you make a log log plot of</p>
+<p begin="00:10:46.199" end="00:10:50.970" style="s2">these avalanches it&#39;s a straight line</p>
+<p begin="00:10:48.209" end="00:10:54.480" style="s2">down to the right and the steepness of</p>
+<p begin="00:10:50.970" end="00:10:57.029" style="s2">the thing is minus 1.5 that&#39;s called</p>
+<p begin="00:10:54.480" end="00:10:59.339" style="s2">dynamically critical so action so</p>
+<p begin="00:10:57.029" end="00:11:02.579" style="s2">critical networks do that and part of</p>
+<p begin="00:10:59.339" end="00:11:04.649" style="s2">what it means is one variable can</p>
+<p begin="00:11:02.579" end="00:11:06.839" style="s2">sometimes influence things nearby but</p>
+<p begin="00:11:04.649" end="00:11:08.279" style="s2">sometimes things far away so it&#39;s got a</p>
+<p begin="00:11:06.839" end="00:11:10.649" style="s2">pretty wide span of</p>
+<p begin="00:11:08.279" end="00:11:12.600" style="s2">control deep in the order regime if you</p>
+<p begin="00:11:10.649" end="00:11:15.240" style="s2">trigger a lightbulb nothing much happens</p>
+<p begin="00:11:12.600" end="00:11:17.519" style="s2">and if it&#39;s an accounting regime if you</p>
+<p begin="00:11:15.240" end="00:11:19.379" style="s2">flip one lightbulb roughly half the guys</p>
+<p begin="00:11:17.519" end="00:11:21.839" style="s2">change what they&#39;re doing do these vast</p>
+<p begin="00:11:19.379" end="00:11:24.480" style="s2">avalanches and that may be why it&#39;s</p>
+<p begin="00:11:21.839" end="00:11:27.059" style="s2">really good being on on this edge of</p>
+<p begin="00:11:24.480" end="00:11:29.670" style="s2">chaos or another thing is a fancy word</p>
+<p begin="00:11:27.059" end="00:11:32.730" style="s2">called Tresor entropy and it&#39;s roughly</p>
+<p begin="00:11:29.670" end="00:11:35.309" style="s2">how much do the variables now control</p>
+<p begin="00:11:32.730" end="00:11:38.579" style="s2">what happens in the future and that&#39;s</p>
+<p begin="00:11:35.309" end="00:11:40.079" style="s2">maximized in critical networks so let&#39;s</p>
+<p begin="00:11:38.579" end="00:11:43.319" style="s2">see we can think of some other examples</p>
+<p begin="00:11:40.079" end="00:11:45.360" style="s2">I think there&#39;s work that I know a</p>
+<p begin="00:11:43.319" end="00:11:48.029" style="s2">little bit about my wife Catherine does</p>
+<p begin="00:11:45.360" end="00:11:51.180" style="s2">I believe that this is true if you think</p>
+<p begin="00:11:48.029" end="00:11:52.949" style="s2">about birds flocking Birds try to stay</p>
+<p begin="00:11:51.180" end="00:11:55.290" style="s2">some reasonable distance from the other</p>
+<p begin="00:11:52.949" end="00:11:57.389" style="s2">birds they try to head more or less in</p>
+<p begin="00:11:55.290" end="00:11:59.550" style="s2">the right direction and I think that</p>
+<p begin="00:11:57.389" end="00:12:02.129" style="s2">bird flocks are dynamically critical I</p>
+<p begin="00:11:59.550" end="00:12:04.319" style="s2">think ant nests are dynamically critical</p>
+<p begin="00:12:02.129" end="00:12:06.449" style="s2">I&#39;m not sure about this Jim but it seems</p>
+<p begin="00:12:04.319" end="00:12:08.279" style="s2">to be a general feature interesting and</p>
+<p begin="00:12:06.449" end="00:12:11.040" style="s2">now you know we have human artifacts</p>
+<p begin="00:12:08.279" end="00:12:14.339" style="s2">like the electrical grid which is known</p>
+<p begin="00:12:11.040" end="00:12:16.139" style="s2">to be on the edge of chaos if you had</p>
+<p begin="00:12:14.339" end="00:12:17.610" style="s2">made it too ordered to be too expensive</p>
+<p begin="00:12:16.139" end="00:12:20.160" style="s2">it made it too chaotic it wouldn&#39;t be</p>
+<p begin="00:12:17.610" end="00:12:21.750" style="s2">very useful right in fact some set of a</p>
+<p begin="00:12:20.160" end="00:12:24.329" style="s2">Institute folks have worked with people</p>
+<p begin="00:12:21.750" end="00:12:26.009" style="s2">Aragon National Labs and essentially</p>
+<p begin="00:12:24.329" end="00:12:28.680" style="s2">proven that the electrical grid is</p>
+<p begin="00:12:26.009" end="00:12:30.000" style="s2">inherently unstable and does indeed have</p>
+<p begin="00:12:28.680" end="00:12:32.670" style="s2">failures on a power-law distribution</p>
+<p begin="00:12:30.000" end="00:12:34.620" style="s2">which would lead us to believe that it&#39;s</p>
+<p begin="00:12:32.670" end="00:12:35.850" style="s2">somewhere at the critical rate right and</p>
+<p begin="00:12:34.620" end="00:12:39.540" style="s2">that&#39;s this interesting work that&#39;s</p>
+<p begin="00:12:35.850" end="00:12:41.519" style="s2">grown up what I did my first work got 50</p>
+<p begin="00:12:39.540" end="00:12:43.079" style="s2">years ago I made what are called</p>
+<p begin="00:12:41.519" end="00:12:45.149" style="s2">erdos-renyi networks</p>
+<p begin="00:12:43.079" end="00:12:47.209" style="s2">it just means you got a bunch of light</p>
+<p begin="00:12:45.149" end="00:12:49.920" style="s2">bulbs and you randomly connect everybody</p>
+<p begin="00:12:47.209" end="00:12:53.189" style="s2">and all I could think about is a random</p>
+<p begin="00:12:49.920" end="00:12:54.959" style="s2">wiring diagram Turin yay or a regular</p>
+<p begin="00:12:53.189" end="00:12:56.459" style="s2">lattice like you put everybody on the</p>
+<p begin="00:12:54.959" end="00:12:57.809" style="s2">corners of a tile and connected grid</p>
+<p begin="00:12:56.459" end="00:12:59.610" style="s2">therefore nearest neighbor in two</p>
+<p begin="00:12:57.809" end="00:13:01.110" style="s2">dimensions and I knew that this is</p>
+<p begin="00:12:59.610" end="00:13:03.300" style="s2">stupid there was something in between it</p>
+<p begin="00:13:01.110" end="00:13:05.819" style="s2">like everything but I didn&#39;t know what</p>
+<p begin="00:13:03.300" end="00:13:07.920" style="s2">to do well bear about seeing others and</p>
+<p begin="00:13:05.819" end="00:13:09.240" style="s2">Mark Newman developed and others have</p>
+<p begin="00:13:07.920" end="00:13:12.179" style="s2">developed a whole thing called Network</p>
+<p begin="00:13:09.240" end="00:13:13.589" style="s2">science in which you have some nodes</p>
+<p begin="00:13:12.179" end="00:13:15.329" style="s2">that have lots of things that are</p>
+<p begin="00:13:13.589" end="00:13:17.189" style="s2">connected to they&#39;re called hubs and</p>
+<p begin="00:13:15.329" end="00:13:19.079" style="s2">others that are connected to not too</p>
+<p begin="00:13:17.189" end="00:13:21.269" style="s2">many things and that&#39;s power law</p>
+<p begin="00:13:19.079" end="00:13:21.930" style="s2">distributed and a lot of people study</p>
+<p begin="00:13:21.269" end="00:13:24.300" style="s2">that be</p>
+<p begin="00:13:21.930" end="00:13:26.399" style="s2">they&#39;re resistant to damage if you if</p>
+<p begin="00:13:24.300" end="00:13:28.470" style="s2">you knock out the rear hubs you damaged</p>
+<p begin="00:13:26.399" end="00:13:29.580" style="s2">a lot but if you knock out guys that</p>
+<p begin="00:13:28.470" end="00:13:31.170" style="s2">aren&#39;t connected to what you don&#39;t</p>
+<p begin="00:13:29.580" end="00:13:33.839" style="s2">damage very much there&#39;s no literature</p>
+<p begin="00:13:31.170" end="00:13:36.149" style="s2">about that indeed and of course we&#39;re</p>
+<p begin="00:13:33.839" end="00:13:38.899" style="s2">finding in the social sciences social</p>
+<p begin="00:13:36.149" end="00:13:40.620" style="s2">systems that at least roughly power law</p>
+<p begin="00:13:38.899" end="00:13:42.959" style="s2">distributions are turning up all over</p>
+<p begin="00:13:40.620" end="00:13:44.580" style="s2">the place live dispute on how close they</p>
+<p begin="00:13:42.959" end="00:13:48.000" style="s2">actually are to power all distributions</p>
+<p begin="00:13:44.580" end="00:13:51.720" style="s2">but they do have that attribute deaths</p>
+<p begin="00:13:48.000" end="00:13:54.060" style="s2">and Wars size of traffic jams size of</p>
+<p begin="00:13:51.720" end="00:13:56.250" style="s2">company size of cities that are have</p>
+<p begin="00:13:54.060" end="00:13:58.350" style="s2">this similar kind of distribution seems</p>
+<p begin="00:13:56.250" end="00:14:01.589" style="s2">to be a regularity it appears again and</p>
+<p begin="00:13:58.350" end="00:14:03.510" style="s2">again in complex system does by the way</p>
+<p begin="00:14:01.589" end="00:14:06.149" style="s2">there&#39;s a wonderful book by Jeffrey West</p>
+<p begin="00:14:03.510" end="00:14:07.740" style="s2">called scale that your readers might</p>
+<p begin="00:14:06.149" end="00:14:10.760" style="s2">enjoy and in fact we&#39;ll be having</p>
+<p begin="00:14:07.740" end="00:14:13.290" style="s2">Jeffrey on here I think in November good</p>
+<p begin="00:14:10.760" end="00:14:15.270" style="s2">but look I want to touch you about if I</p>
+<p begin="00:14:13.290" end="00:14:18.690" style="s2">may about this this equation that I read</p>
+<p begin="00:14:15.270" end="00:14:21.300" style="s2">so let&#39;s do it because I am I think I&#39;ve</p>
+<p begin="00:14:18.690" end="00:14:22.770" style="s2">stumbled across something is much more</p>
+<p begin="00:14:21.300" end="00:14:24.420" style="s2">important than I realized when I wrote</p>
+<p begin="00:14:22.770" end="00:14:26.640" style="s2">it down so I&#39;m not much of a</p>
+<p begin="00:14:24.420" end="00:14:29.490" style="s2">mathematician literally here&#39;s what</p>
+<p begin="00:14:26.640" end="00:14:31.410" style="s2">happened my wife Kate and Jim Harriette</p>
+<p begin="00:14:29.490" end="00:14:33.600" style="s2">a friend and I were up at our my summer</p>
+<p begin="00:14:31.410" end="00:14:36.150" style="s2">home on a little island near Seattle</p>
+<p begin="00:14:33.600" end="00:14:38.940" style="s2">called crane and I wondered about the</p>
+<p begin="00:14:36.150" end="00:14:43.380" style="s2">following thing suppose I know there&#39;s m</p>
+<p begin="00:14:38.940" end="00:14:46.440" style="s2">goods in an economy at time T so M sub T</p>
+<p begin="00:14:43.380" end="00:14:48.900" style="s2">like M is 24 goods in the economy now</p>
+<p begin="00:14:46.440" end="00:14:50.400" style="s2">could I write down some equation for how</p>
+<p begin="00:14:48.900" end="00:14:53.970" style="s2">many goods would be in the economy at</p>
+<p begin="00:14:50.400" end="00:14:56.610" style="s2">the next time at M of T plus 1 and as I</p>
+<p begin="00:14:53.970" end="00:14:59.880" style="s2">thought something really simple M of T</p>
+<p begin="00:14:56.610" end="00:15:02.910" style="s2">plus 1 will be what we&#39;ve got now M of T</p>
+<p begin="00:14:59.880" end="00:15:06.120" style="s2">plus and here&#39;s the central idea Jim</p>
+<p begin="00:15:02.910" end="00:15:07.829" style="s2">plus all the new things we can make out</p>
+<p begin="00:15:06.120" end="00:15:11.070" style="s2">of the 24 things you&#39;ve got lying around</p>
+<p begin="00:15:07.829" end="00:15:12.480" style="s2">now so I could take any one of the 24</p>
+<p begin="00:15:11.070" end="00:15:14.520" style="s2">things and see if I could do something</p>
+<p begin="00:15:12.480" end="00:15:16.290" style="s2">interesting with it or I could take any</p>
+<p begin="00:15:14.520" end="00:15:18.660" style="s2">pair of things and try to make something</p>
+<p begin="00:15:16.290" end="00:15:20.430" style="s2">out of it or any triple of things and</p>
+<p begin="00:15:18.660" end="00:15:23.040" style="s2">try to make something out of and so on</p>
+<p begin="00:15:20.430" end="00:15:25.560" style="s2">so to give an example the Gutenberg</p>
+<p begin="00:15:23.040" end="00:15:28.649" style="s2">printing press is a recombination or a</p>
+<p begin="00:15:25.560" end="00:15:31.740" style="s2">combination between a winepress and</p>
+<p begin="00:15:28.649" end="00:15:34.260" style="s2">movable type the right brother airplane</p>
+<p begin="00:15:31.740" end="00:15:35.790" style="s2">is a combination between an airfoil a</p>
+<p begin="00:15:34.260" end="00:15:38.580" style="s2">light gas engine</p>
+<p begin="00:15:35.790" end="00:15:40.350" style="s2">bicycle wheels and a propeller so I just</p>
+<p begin="00:15:38.580" end="00:15:42.600" style="s2">wrote down literally the simplest</p>
+<p begin="00:15:40.350" end="00:15:45.990" style="s2">equation you can write down it just says</p>
+<p begin="00:15:42.600" end="00:15:48.030" style="s2">got the M things you got now and you got</p>
+<p begin="00:15:45.990" end="00:15:50.550" style="s2">some chance of making something useful</p>
+<p begin="00:15:48.030" end="00:15:53.190" style="s2">out of all the single things some</p>
+<p begin="00:15:50.550" end="00:15:54.870" style="s2">smaller chance of making something out</p>
+<p begin="00:15:53.190" end="00:15:56.640" style="s2">of all of the pairs of things but</p>
+<p begin="00:15:54.870" end="00:15:58.530" style="s2">there&#39;s a lot more pairs of things than</p>
+<p begin="00:15:56.640" end="00:16:00.060" style="s2">there are single things right and an</p>
+<p begin="00:15:58.530" end="00:16:03.480" style="s2">even smaller probability of making</p>
+<p begin="00:16:00.060" end="00:16:05.370" style="s2">something useful out of triplets of the</p>
+<p begin="00:16:03.480" end="00:16:08.100" style="s2">24 things but there&#39;s an awful lot of</p>
+<p begin="00:16:05.370" end="00:16:08.730" style="s2">those and this equation to something</p>
+<p begin="00:16:08.100" end="00:16:10.500" style="s2">amazing</p>
+<p begin="00:16:08.730" end="00:16:12.690" style="s2">apparently it hadn&#39;t been written down</p>
+<p begin="00:16:10.500" end="00:16:15.210" style="s2">there&#39;s now theorems about it that might</p>
+<p begin="00:16:12.690" end="00:16:17.460" style="s2">steal this burgers there&#39;s two papers on</p>
+<p begin="00:16:15.210" end="00:16:20.130" style="s2">archive but nothing published yet here&#39;s</p>
+<p begin="00:16:17.460" end="00:16:22.890" style="s2">what it does Jim so put time on the</p>
+<p begin="00:16:20.130" end="00:16:25.440" style="s2">horizontal axis and M the number of</p>
+<p begin="00:16:22.890" end="00:16:28.590" style="s2">goods on the vertical axis the this</p>
+<p begin="00:16:25.440" end="00:16:31.020" style="s2">thing goes along it had increases very</p>
+<p begin="00:16:28.590" end="00:16:33.330" style="s2">very very slowly glacially for a long</p>
+<p begin="00:16:31.020" end="00:16:36.050" style="s2">time then all of a sudden it&#39;s</p>
+<p begin="00:16:33.330" end="00:16:39.660" style="s2">skyrockets upward in a hockey stick and</p>
+<p begin="00:16:36.050" end="00:16:42.750" style="s2">most importantly it goes to infinity at</p>
+<p begin="00:16:39.660" end="00:16:45.840" style="s2">some finite time it goes vertical it&#39;s</p>
+<p begin="00:16:42.750" end="00:16:47.460" style="s2">called a pole mathematically so I hope</p>
+<p begin="00:16:45.840" end="00:16:50.310" style="s2">that was interesting and I got in touch</p>
+<p begin="00:16:47.460" end="00:16:52.080" style="s2">with a friend named Bretton Roger Koppel</p>
+<p begin="00:16:50.310" end="00:16:53.850" style="s2">you might want to talk to Roger about</p>
+<p begin="00:16:52.080" end="00:16:56.250" style="s2">he&#39;s at the University of Syracuse an</p>
+<p begin="00:16:53.850" end="00:16:58.110" style="s2">economist and Roger said it and he said</p>
+<p begin="00:16:56.250" end="00:17:01.800" style="s2">you know that looks like the Industrial</p>
+<p begin="00:16:58.110" end="00:17:05.730" style="s2">Revolution so we worked with the equate</p>
+<p begin="00:17:01.800" end="00:17:07.310" style="s2">this equation which we call ta P boldly</p>
+<p begin="00:17:05.730" end="00:17:11.220" style="s2">it&#39;s the theory of the adjacent possible</p>
+<p begin="00:17:07.310" end="00:17:13.860" style="s2">and it turns out I I&#39;m finding this</p>
+<p begin="00:17:11.220" end="00:17:16.500" style="s2">remarkable so let&#39;s suppose over because</p>
+<p begin="00:17:13.860" end="00:17:18.180" style="s2">it actually has a societal import two</p>
+<p begin="00:17:16.500" end="00:17:20.880" style="s2">million years ago our ancestors</p>
+<p begin="00:17:18.180" end="00:17:23.160" style="s2">Australia Pittacus three million years</p>
+<p begin="00:17:20.880" end="00:17:25.500" style="s2">ago started making stone tools and they</p>
+<p begin="00:17:23.160" end="00:17:28.230" style="s2">had maybe ten really crude tools like</p>
+<p begin="00:17:25.500" end="00:17:30.170" style="s2">you know facial stone scrapers over a</p>
+<p begin="00:17:28.230" end="00:17:32.700" style="s2">couple million years not much happens</p>
+<p begin="00:17:30.170" end="00:17:35.850" style="s2">and we get to Homo erectus and Homo</p>
+<p begin="00:17:32.700" end="00:17:38.490" style="s2">habilis homo sapiens is around 300,000</p>
+<p begin="00:17:35.850" end="00:17:41.070" style="s2">years ago some homo sapien bore about</p>
+<p begin="00:17:38.490" end="00:17:43.440" style="s2">bones were just found in Greece from two</p>
+<p begin="00:17:41.070" end="00:17:45.510" style="s2">hundred ten thousand years ago not much</p>
+<p begin="00:17:43.440" end="00:17:48.330" style="s2">happens you get to cro-magnon who&#39;s oz</p>
+<p begin="00:17:45.510" end="00:17:49.789" style="s2">thirty thousand years ago they now have</p>
+<p begin="00:17:48.330" end="00:17:54.090" style="s2">a few hundred</p>
+<p begin="00:17:49.789" end="00:17:56.580" style="s2">ranging in complexity from arrowheads to</p>
+<p begin="00:17:54.090" end="00:17:57.840" style="s2">you know the atlatl it&#39;s really neat yep</p>
+<p begin="00:17:56.580" end="00:17:59.460" style="s2">yeah thrower</p>
+<p begin="00:17:57.840" end="00:18:01.679" style="s2">yeah they invented the spear throw</p>
+<p begin="00:17:59.460" end="00:18:04.139" style="s2">doesn&#39;t really complex saying it helped</p>
+<p begin="00:18:01.679" end="00:18:06.779" style="s2">a lot you could throw your spear at the</p>
+<p begin="00:18:04.139" end="00:18:08.389" style="s2">ORAC you know from 15 feet away rather</p>
+<p begin="00:18:06.779" end="00:18:10.440" style="s2">than running up to it and jabbing it</p>
+<p begin="00:18:08.389" end="00:18:13.440" style="s2">opportunity if it was something you know</p>
+<p begin="00:18:10.440" end="00:18:16.429" style="s2">bigger than an ORAC so they had a few</p>
+<p begin="00:18:13.440" end="00:18:18.750" style="s2">hundred tools ranging in complexity from</p>
+<p begin="00:18:16.429" end="00:18:20.610" style="s2">simple things to more complex things</p>
+<p begin="00:18:18.750" end="00:18:22.950" style="s2">part of what I want to convey is how</p>
+<p begin="00:18:20.610" end="00:18:25.200" style="s2">long everything cook it took a hundred</p>
+<p begin="00:18:22.950" end="00:18:27.330" style="s2">thousand years to get to cro-magnon</p>
+<p begin="00:18:25.200" end="00:18:29.759" style="s2">that&#39;s human that says that&#39;s humans</p>
+<p begin="00:18:27.330" end="00:18:32.190" style="s2">ignoring and all the tricks it takes</p>
+<p begin="00:18:29.759" end="00:18:35.279" style="s2">another eight ten thousand years to get</p>
+<p begin="00:18:32.190" end="00:18:37.230" style="s2">to agriculture when agriculture comes we</p>
+<p begin="00:18:35.279" end="00:18:39.690" style="s2">get to Mesopotamia five thousand years</p>
+<p begin="00:18:37.230" end="00:18:40.860" style="s2">ago four thousand years ago on another</p>
+<p begin="00:18:39.690" end="00:18:42.690" style="s2">tiger said you afraid</p>
+<p begin="00:18:40.860" end="00:18:44.460" style="s2">then a few thousand kinds of things</p>
+<p begin="00:18:42.690" end="00:18:46.320" style="s2">ranging from needles that have been</p>
+<p begin="00:18:44.460" end="00:18:49.620" style="s2">around for sixty thousand years to</p>
+<p begin="00:18:46.320" end="00:18:51.799" style="s2">chariots so see an increasing diversity</p>
+<p begin="00:18:49.620" end="00:18:53.940" style="s2">of things and an increasing</p>
+<p begin="00:18:51.799" end="00:18:56.370" style="s2">diversification and two simple and more</p>
+<p begin="00:18:53.940" end="00:18:58.769" style="s2">complex things all of this falls out</p>
+<p begin="00:18:56.370" end="00:19:01.919" style="s2">from this little tap equation well then</p>
+<p begin="00:18:58.769" end="00:19:04.440" style="s2">you get to us now and this process</p>
+<p begin="00:19:01.919" end="00:19:06.870" style="s2">skyrockets upward we now have billions</p>
+<p begin="00:19:04.440" end="00:19:09.360" style="s2">of goods ranging from needles to space</p>
+<p begin="00:19:06.870" end="00:19:11.820" style="s2">stations Jim nobody knows how that</p>
+<p begin="00:19:09.360" end="00:19:15.690" style="s2">happened I think this ridiculously</p>
+<p begin="00:19:11.820" end="00:19:18.000" style="s2">simple equation says it but it says more</p>
+<p begin="00:19:15.690" end="00:19:20.730" style="s2">what it says is that the more things you</p>
+<p begin="00:19:18.000" end="00:19:23.279" style="s2">got the easier it is to make yet more</p>
+<p begin="00:19:20.730" end="00:19:25.350" style="s2">things out of what you got and we are</p>
+<p begin="00:19:23.279" end="00:19:28.769" style="s2">now assuming upward almost vertically</p>
+<p begin="00:19:25.350" end="00:19:31.440" style="s2">that&#39;s why we&#39;re in the Anthropocene now</p>
+<p begin="00:19:28.769" end="00:19:33.899" style="s2">were the same species we can invent</p>
+<p begin="00:19:31.440" end="00:19:36.990" style="s2">things so trivially now we have a</p>
+<p begin="00:19:33.899" end="00:19:40.230" style="s2">hundred trillion dollar global economy</p>
+<p begin="00:19:36.990" end="00:19:42.840" style="s2">growing at 4% a year inventing ever more</p>
+<p begin="00:19:40.230" end="00:19:45.299" style="s2">new things lifting millions of people</p>
+<p begin="00:19:42.840" end="00:19:47.159" style="s2">out of poverty and invading every niche</p>
+<p begin="00:19:45.299" end="00:19:50.360" style="s2">on the planet we&#39;re destroying the</p>
+<p begin="00:19:47.159" end="00:19:53.970" style="s2">planet with our own creativity and this</p>
+<p begin="00:19:50.360" end="00:19:56.639" style="s2">simple little equation says it so it&#39;s</p>
+<p begin="00:19:53.970" end="00:19:58.980" style="s2">tap it&#39;s this process buried in it are a</p>
+<p begin="00:19:56.639" end="00:20:01.500" style="s2">couple more things you make the next</p>
+<p begin="00:19:58.980" end="00:20:03.240" style="s2">more complex thing that you make out of</p>
+<p begin="00:20:01.500" end="00:20:05.160" style="s2">the less complex things you</p>
+<p begin="00:20:03.240" end="00:20:07.440" style="s2">now you couldn&#39;t make a space station</p>
+<p begin="00:20:05.160" end="00:20:08.910" style="s2">you know until we had Rockets you</p>
+<p begin="00:20:07.440" end="00:20:11.630" style="s2">couldn&#39;t make a crossbow till you had a</p>
+<p begin="00:20:08.910" end="00:20:13.590" style="s2">bow and this little process says has</p>
+<p begin="00:20:11.630" end="00:20:16.830" style="s2">reinterpreted says the same thing it</p>
+<p begin="00:20:13.590" end="00:20:18.420" style="s2">says at any time T the last thing you</p>
+<p begin="00:20:16.830" end="00:20:20.400" style="s2">made is the most complex thing you got</p>
+<p begin="00:20:18.420" end="00:20:23.640" style="s2">the next thing you could make could be</p>
+<p begin="00:20:20.400" end="00:20:26.280" style="s2">more complex and therefore it gives rise</p>
+<p begin="00:20:23.640" end="00:20:28.140" style="s2">to an increasing number of things with</p>
+<p begin="00:20:26.280" end="00:20:31.800" style="s2">increasing differentiation it&#39;s simple</p>
+<p begin="00:20:28.140" end="00:20:33.929" style="s2">and more complex things okay so Tim</p>
+<p begin="00:20:31.800" end="00:20:36.179" style="s2">Koehler is an archaeologist who I&#39;m now</p>
+<p begin="00:20:33.929" end="00:20:40.050" style="s2">working with Tim&#39;s look at the onset of</p>
+<p begin="00:20:36.179" end="00:20:42.929" style="s2">inequality in humans in Neolithic sites</p>
+<p begin="00:20:40.050" end="00:20:45.390" style="s2">and 67 Neolithic sites from you know 30</p>
+<p begin="00:20:42.929" end="00:20:47.910" style="s2">or 40 thousand years ago it&#39;s called the</p>
+<p begin="00:20:45.390" end="00:20:50.610" style="s2">Gini index there&#39;s already inequality</p>
+<p begin="00:20:47.910" end="00:20:53.220" style="s2">way before agriculture you find</p>
+<p begin="00:20:50.610" end="00:20:54.990" style="s2">Neolithic sites with simple graves and</p>
+<p begin="00:20:53.220" end="00:20:57.390" style="s2">to the same place there&#39;s more complex</p>
+<p begin="00:20:54.990" end="00:20:59.970" style="s2">graves I was stunned to find that in in</p>
+<p begin="00:20:57.390" end="00:21:02.880" style="s2">and in one of them I read there&#39;s three</p>
+<p begin="00:20:59.970" end="00:21:05.130" style="s2">adolescents buried and they have very</p>
+<p begin="00:21:02.880" end="00:21:06.990" style="s2">complicated necklaces around their neck</p>
+<p begin="00:21:05.130" end="00:21:09.809" style="s2">with shells from a couple hundred miles</p>
+<p begin="00:21:06.990" end="00:21:12.300" style="s2">away that tells you that thirty thousand</p>
+<p begin="00:21:09.809" end="00:21:14.190" style="s2">years ago says their adolescence there&#39;s</p>
+<p begin="00:21:12.300" end="00:21:16.200" style="s2">inheritance there&#39;s a marked</p>
+<p begin="00:21:14.190" end="00:21:17.970" style="s2">differentiation in wealth and people are</p>
+<p begin="00:21:16.200" end="00:21:19.950" style="s2">gathering shells from a couple thousand</p>
+<p begin="00:21:17.970" end="00:21:22.380" style="s2">miles away a couple hundred miles away</p>
+<p begin="00:21:19.950" end="00:21:24.809" style="s2">so do you have the onset of inheritance</p>
+<p begin="00:21:22.380" end="00:21:27.480" style="s2">inequality and the same little equation</p>
+<p begin="00:21:24.809" end="00:21:29.580" style="s2">says inequality if you can make chariots</p>
+<p begin="00:21:27.480" end="00:21:31.470" style="s2">and you can make needles people who loan</p>
+<p begin="00:21:29.580" end="00:21:33.780" style="s2">chariots have more valuable property</p>
+<p begin="00:21:31.470" end="00:21:35.520" style="s2">than people who have needles so the same</p>
+<p begin="00:21:33.780" end="00:21:37.460" style="s2">process gives rise to where as part of</p>
+<p begin="00:21:35.520" end="00:21:39.360" style="s2">giving rise to an equality and</p>
+<p begin="00:21:37.460" end="00:21:41.460" style="s2">inequality it&#39;s now one of the</p>
+<p begin="00:21:39.360" end="00:21:43.500" style="s2">overwhelming things on the planet look</p>
+<p begin="00:21:41.460" end="00:21:45.510" style="s2">at inequality in New York it&#39;s it&#39;s the</p>
+<p begin="00:21:43.500" end="00:21:48.000" style="s2">worst it&#39;s been in history go to San</p>
+<p begin="00:21:45.510" end="00:21:50.340" style="s2">Francisco and see 10,000 people living</p>
+<p begin="00:21:48.000" end="00:21:54.059" style="s2">on the street in the richest city in the</p>
+<p begin="00:21:50.340" end="00:21:56.070" style="s2">world probably you know and somehow an</p>
+<p begin="00:21:54.059" end="00:21:58.650" style="s2">awful lot of this is a consequence of</p>
+<p begin="00:21:56.070" end="00:22:01.830" style="s2">the same simple process but even more</p>
+<p begin="00:21:58.650" end="00:22:03.990" style="s2">struck me it&#39;s taking me some time this</p>
+<p begin="00:22:01.830" end="00:22:06.210" style="s2">is very said Jim it&#39;s certainly not</p>
+<p begin="00:22:03.990" end="00:22:08.160" style="s2">published but think about the big bang</p>
+<p begin="00:22:06.210" end="00:22:11.220" style="s2">so here you have the big bang and you</p>
+<p begin="00:22:08.160" end="00:22:13.080" style="s2">got quarks and gluons and stuff and the</p>
+<p begin="00:22:11.220" end="00:22:16.169" style="s2">three quarks get together it&#39;s called</p>
+<p begin="00:22:13.080" end="00:22:17.010" style="s2">heteros ation it&#39;s roughly the same</p>
+<p begin="00:22:16.169" end="00:22:19.440" style="s2">process</p>
+<p begin="00:22:17.010" end="00:22:22.200" style="s2">all that step process does is it says</p>
+<p begin="00:22:19.440" end="00:22:24.210" style="s2">take what&#39;s lying around and make new</p>
+<p begin="00:22:22.200" end="00:22:27.000" style="s2">things out of it don&#39;t have to be a</p>
+<p begin="00:22:24.210" end="00:22:28.770" style="s2">person so what happens in the early</p>
+<p begin="00:22:27.000" end="00:22:32.640" style="s2">universe is you get quarks and</p>
+<p begin="00:22:28.770" end="00:22:36.150" style="s2">antiquarks and they combine to make</p>
+<p begin="00:22:32.640" end="00:22:39.870" style="s2">protons and neutrons and electrons which</p>
+<p begin="00:22:36.150" end="00:22:43.170" style="s2">combine to make hydrogen and helium then</p>
+<p begin="00:22:39.870" end="00:22:45.930" style="s2">three helium nuclei get together to make</p>
+<p begin="00:22:43.170" end="00:22:48.660" style="s2">carbon so what happens is two helium&#39;s</p>
+<p begin="00:22:45.930" end="00:22:50.070" style="s2">get together and then make beryllium so</p>
+<p begin="00:22:48.660" end="00:22:51.870" style="s2">watch - things have gotten together to</p>
+<p begin="00:22:50.070" end="00:22:55.410" style="s2">make a new things than beryllium and</p>
+<p begin="00:22:51.870" end="00:22:57.120" style="s2">helium combined to make carbon so now</p>
+<p begin="00:22:55.410" end="00:22:59.010" style="s2">you&#39;ve got the synthesis nucleus</p>
+<p begin="00:22:57.120" end="00:23:00.930" style="s2">synthesis and the stars of 100 nuclei</p>
+<p begin="00:22:59.010" end="00:23:03.810" style="s2">that are stable then you start getting</p>
+<p begin="00:23:00.930" end="00:23:06.000" style="s2">space chemistry so you&#39;ve got the atoms</p>
+<p begin="00:23:03.810" end="00:23:08.670" style="s2">of organic molecule carbon hydrogen</p>
+<p begin="00:23:06.000" end="00:23:11.520" style="s2">nitrogen and so on and you start making</p>
+<p begin="00:23:08.670" end="00:23:14.280" style="s2">molecules of increasing complexity it&#39;s</p>
+<p begin="00:23:11.520" end="00:23:16.350" style="s2">roughly the same princess new things get</p>
+<p begin="00:23:14.280" end="00:23:18.240" style="s2">made out of old things and it doesn&#39;t</p>
+<p begin="00:23:16.350" end="00:23:21.000" style="s2">matter whether it&#39;s pots or ideas or</p>
+<p begin="00:23:18.240" end="00:23:22.380" style="s2">molecules it&#39;s the same wacky process</p>
+<p begin="00:23:21.000" end="00:23:24.630" style="s2">and would you take things and combine</p>
+<p begin="00:23:22.380" end="00:23:26.550" style="s2">them and I&#39;m starting to think the</p>
+<p begin="00:23:24.630" end="00:23:29.130" style="s2">following I think if one looks at the</p>
+<p begin="00:23:26.550" end="00:23:30.960" style="s2">chemical evolution of the universe it</p>
+<p begin="00:23:29.130" end="00:23:33.060" style="s2">probably looks like tap it goes along</p>
+<p begin="00:23:30.960" end="00:23:36.180" style="s2">very very slowly for a long time</p>
+<p begin="00:23:33.060" end="00:23:39.030" style="s2">that it starts shooting upward and some</p>
+<p begin="00:23:36.180" end="00:23:40.830" style="s2">evidence for that is that meteorites the</p>
+<p begin="00:23:39.030" end="00:23:44.970" style="s2">Murchison from five billion years ago</p>
+<p begin="00:23:40.830" end="00:23:47.700" style="s2">has 35,000 organic molecules so does the</p>
+<p begin="00:23:44.970" end="00:23:49.410" style="s2">enceladus of the moon of Saturn if you</p>
+<p begin="00:23:47.700" end="00:23:52.020" style="s2">go through it&#39;s Jets have thousands of</p>
+<p begin="00:23:49.410" end="00:23:54.600" style="s2">organic molecules in a guy in Germany</p>
+<p begin="00:23:52.020" end="00:23:57.030" style="s2">I&#39;ll break up is just under an</p>
+<p begin="00:23:54.600" end="00:23:57.930" style="s2">experiment it&#39;s worth pausing over this</p>
+<p begin="00:23:57.030" end="00:24:00.480" style="s2">term do you know the miller-urey</p>
+<p begin="00:23:57.930" end="00:24:03.780" style="s2">experiment yo yes were the lightning and</p>
+<p begin="00:24:00.480" end="00:24:06.510" style="s2">the bottle and the Miller a year do this</p>
+<p begin="00:24:03.780" end="00:24:09.480" style="s2">in the 50s so they took a flask they</p>
+<p begin="00:24:06.510" end="00:24:12.480" style="s2">have water in it and carbon dioxide and</p>
+<p begin="00:24:09.480" end="00:24:14.220" style="s2">methane and ammonia I guess they were</p>
+<p begin="00:24:12.480" end="00:24:15.750" style="s2">trying to mimic the atmosphere of the</p>
+<p begin="00:24:14.220" end="00:24:17.250" style="s2">early Earth and they said electric</p>
+<p begin="00:24:15.750" end="00:24:19.380" style="s2">sparks they would tried to mimic the</p>
+<p begin="00:24:17.250" end="00:24:21.000" style="s2">early atmosphere and Miller was a young</p>
+<p begin="00:24:19.380" end="00:24:22.800" style="s2">graduates that anne-marie was a Nobel</p>
+<p begin="00:24:21.000" end="00:24:24.240" style="s2">laureate in chemistry at three days</p>
+<p begin="00:24:22.800" end="00:24:27.870" style="s2">later or four days later they had a</p>
+<p begin="00:24:24.240" end="00:24:29.400" style="s2">brown scum on the bottom of the pot they</p>
+<p begin="00:24:27.870" end="00:24:30.450" style="s2">looked at it was full of amino acids of</p>
+<p begin="00:24:29.400" end="00:24:32.670" style="s2">different kinds</p>
+<p begin="00:24:30.450" end="00:24:36.000" style="s2">and everybody was rightly excited it</p>
+<p begin="00:24:32.670" end="00:24:37.680" style="s2">said gosh look at this we can have the</p>
+<p begin="00:24:36.000" end="00:24:39.750" style="s2">synthesis out of simple things of the</p>
+<p begin="00:24:37.680" end="00:24:41.460" style="s2">building blocks of life and that started</p>
+<p begin="00:24:39.750" end="00:24:44.820" style="s2">a 40-year search to see what else you</p>
+<p begin="00:24:41.460" end="00:24:46.350" style="s2">could make that way on earth and then we</p>
+<p begin="00:24:44.820" end="00:24:47.580" style="s2">learned there&#39;s in fall two meteorites</p>
+<p begin="00:24:46.350" end="00:24:50.820" style="s2">that brought stuff too like the</p>
+<p begin="00:24:47.580" end="00:24:53.820" style="s2">Murchison well roughly in the last two</p>
+<p begin="00:24:50.820" end="00:24:57.630" style="s2">years this guy al rushed up</p>
+<p begin="00:24:53.820" end="00:24:59.640" style="s2">OTT who is at a university in Germany I</p>
+<p begin="00:24:57.630" end="00:25:02.250" style="s2">can&#39;t remember what he&#39;s done the</p>
+<p begin="00:24:59.640" end="00:25:04.230" style="s2">falling amazing experiment Jim he&#39;s</p>
+<p begin="00:25:02.250" end="00:25:06.090" style="s2">taken the miller-urey experiment and I</p>
+<p begin="00:25:04.230" end="00:25:09.240" style="s2">guess he&#39;s let it run for a month he</p>
+<p begin="00:25:06.090" end="00:25:12.240" style="s2">gets thousands of organic molecules I&#39;m</p>
+<p begin="00:25:09.240" end="00:25:14.640" style="s2">calling it a spray well I think he&#39;s</p>
+<p begin="00:25:12.240" end="00:25:17.880" style="s2">getting what the universe has done for</p>
+<p begin="00:25:14.640" end="00:25:20.100" style="s2">the past 13 billion years molecules make</p>
+<p begin="00:25:17.880" end="00:25:22.530" style="s2">more molecules which can combine to make</p>
+<p begin="00:25:20.100" end="00:25:24.270" style="s2">more molecule to get more complex and</p>
+<p begin="00:25:22.530" end="00:25:27.240" style="s2">I&#39;m wondering whether or not there&#39;s a</p>
+<p begin="00:25:24.270" end="00:25:28.800" style="s2">hockey stick evolution gradual for a</p>
+<p begin="00:25:27.240" end="00:25:31.710" style="s2">long time then scooting upward really</p>
+<p begin="00:25:28.800" end="00:25:34.050" style="s2">fast as the universe makes more complex</p>
+<p begin="00:25:31.710" end="00:25:37.280" style="s2">molecules so for example this means that</p>
+<p begin="00:25:34.050" end="00:25:40.320" style="s2">five billion years ago if the earth had</p>
+<p begin="00:25:37.280" end="00:25:41.520" style="s2">a soup of thirty five thousand or so</p>
+<p begin="00:25:40.320" end="00:25:43.680" style="s2">organic molecules</p>
+<p begin="00:25:41.520" end="00:25:46.230" style="s2">so did planets everywhere in the</p>
+<p begin="00:25:43.680" end="00:25:47.610" style="s2">universe how do we fly the way you could</p>
+<p begin="00:25:46.230" end="00:25:50.220" style="s2">have gotten life because they could have</p>
+<p begin="00:25:47.610" end="00:25:52.050" style="s2">been self reproducing molecular sets so</p>
+<p begin="00:25:50.220" end="00:25:53.820" style="s2">this tap thing may be catching something</p>
+<p begin="00:25:52.050" end="00:25:56.250" style="s2">really general it looks like it&#39;s</p>
+<p begin="00:25:53.820" end="00:25:58.500" style="s2">capturing something about technological</p>
+<p begin="00:25:56.250" end="00:26:00.300" style="s2">evolution about cultural evolution about</p>
+<p begin="00:25:58.500" end="00:26:02.820" style="s2">the evolution of the chemistry of the</p>
+<p begin="00:26:00.300" end="00:26:04.380" style="s2">universe it&#39;s so simple you just take</p>
+<p begin="00:26:02.820" end="00:26:06.390" style="s2">what you got and combine it and see what</p>
+<p begin="00:26:04.380" end="00:26:07.920" style="s2">new you can make out of it do you have</p>
+<p begin="00:26:06.390" end="00:26:09.960" style="s2">to have a pruning rule which is that</p>
+<p begin="00:26:07.920" end="00:26:13.050" style="s2">many in fact most combinations make no</p>
+<p begin="00:26:09.960" end="00:26:15.390" style="s2">sense right have no utility and you know</p>
+<p begin="00:26:13.050" end="00:26:18.510" style="s2">the generative nough subtly existing set</p>
+<p begin="00:26:15.390" end="00:26:20.610" style="s2">is highly dependent upon the the rule</p>
+<p begin="00:26:18.510" end="00:26:22.140" style="s2">which combinations make sense and which</p>
+<p begin="00:26:20.610" end="00:26:24.990" style="s2">ones don&#39;t and it&#39;s certainly possible</p>
+<p begin="00:26:22.140" end="00:26:27.360" style="s2">to have a transition matrix in which the</p>
+<p begin="00:26:24.990" end="00:26:30.270" style="s2">result is only minimal increase in</p>
+<p begin="00:26:27.360" end="00:26:32.130" style="s2">complexity over time why let&#39;s hold</p>
+<p begin="00:26:30.270" end="00:26:33.480" style="s2">right there so let&#39;s get to economics</p>
+<p begin="00:26:32.130" end="00:26:35.760" style="s2">which is what you&#39;re talking about right</p>
+<p begin="00:26:33.480" end="00:26:38.070" style="s2">now I&#39;m not sure that that applies to</p>
+<p begin="00:26:35.760" end="00:26:39.690" style="s2">molecules I don&#39;t know I mean there&#39;s</p>
+<p begin="00:26:38.070" end="00:26:42.330" style="s2">going to be some stability for different</p>
+<p begin="00:26:39.690" end="00:26:44.010" style="s2">molecules one way of asking it is to</p>
+<p begin="00:26:42.330" end="00:26:46.050" style="s2">take this out break</p>
+<p begin="00:26:44.010" end="00:26:47.490" style="s2">our system and say what does this look</p>
+<p begin="00:26:46.050" end="00:26:49.020" style="s2">like over time I don&#39;t know that</p>
+<p begin="00:26:47.490" end="00:26:51.390" style="s2">Albert&#39;s looked at it one could look at</p>
+<p begin="00:26:49.020" end="00:26:53.550" style="s2">it in fact a group of this is trying to</p>
+<p begin="00:26:51.390" end="00:26:56.730" style="s2">get money from CERN to look at just that</p>
+<p begin="00:26:53.550" end="00:26:59.970" style="s2">so now let&#39;s take the economy so you&#39;re</p>
+<p begin="00:26:56.730" end="00:27:02.490" style="s2">right so my old example is I take a</p>
+<p begin="00:26:59.970" end="00:27:04.560" style="s2">parachute and I put it over the stack of</p>
+<p begin="00:27:02.490" end="00:27:06.630" style="s2">the Queen Mary and you just get a mess</p>
+<p begin="00:27:04.560" end="00:27:08.160" style="s2">but if you put it at the back of an</p>
+<p begin="00:27:06.630" end="00:27:11.160" style="s2">airplane and it pops up when the</p>
+<p begin="00:27:08.160" end="00:27:12.840" style="s2">airplanes lands you made an air break so</p>
+<p begin="00:27:11.160" end="00:27:15.840" style="s2">only some combinations will produce</p>
+<p begin="00:27:12.840" end="00:27:17.400" style="s2">something useful for a given task I mean</p>
+<p begin="00:27:15.840" end="00:27:19.050" style="s2">maybe you want to put it over the</p>
+<p begin="00:27:17.400" end="00:27:22.170" style="s2">smokestack of the Queen Mary for some</p>
+<p begin="00:27:19.050" end="00:27:24.000" style="s2">stupid task only some combinations will</p>
+<p begin="00:27:22.170" end="00:27:26.550" style="s2">prove useful and that&#39;s actually already</p>
+<p begin="00:27:24.000" end="00:27:29.490" style="s2">in this little equation it says out of</p>
+<p begin="00:27:26.550" end="00:27:31.680" style="s2">all the possible subsets of three things</p>
+<p begin="00:27:29.490" end="00:27:34.320" style="s2">out of a thousand which is something</p>
+<p begin="00:27:31.680" end="00:27:36.810" style="s2">like a thousand times a thousand times a</p>
+<p begin="00:27:34.320" end="00:27:38.760" style="s2">thousand which is I guess a billion only</p>
+<p begin="00:27:36.810" end="00:27:42.780" style="s2">a modestly small subset will be useful</p>
+<p begin="00:27:38.760" end="00:27:44.400" style="s2">for any particular thing so one of the</p>
+<p begin="00:27:42.780" end="00:27:46.320" style="s2">ways I think about this this is like</p>
+<p begin="00:27:44.400" end="00:27:48.720" style="s2">jury-rigging would you rather</p>
+<p begin="00:27:46.320" end="00:27:51.150" style="s2">jury-rigged with a garage full of junk</p>
+<p begin="00:27:48.720" end="00:27:53.400" style="s2">or almost nothing well you&#39;d rather do</p>
+<p begin="00:27:51.150" end="00:27:55.140" style="s2">it with a garage full of things because</p>
+<p begin="00:27:53.400" end="00:27:57.270" style="s2">if you got a bunch of stuff out there I</p>
+<p begin="00:27:55.140" end="00:28:00.290" style="s2">said technically you&#39;ll find something</p>
+<p begin="00:27:57.270" end="00:28:03.410" style="s2">to jury-rig do lots of different things</p>
+<p begin="00:28:00.290" end="00:28:06.480" style="s2">that&#39;s real technical talk but it&#39;s true</p>
+<p begin="00:28:03.410" end="00:28:09.180" style="s2">your rigging is not algorithmic it&#39;s we</p>
+<p begin="00:28:06.480" end="00:28:11.070" style="s2">just go do it and indeed it certainly</p>
+<p begin="00:28:09.180" end="00:28:13.680" style="s2">speaks the most common sense and basic</p>
+<p begin="00:28:11.070" end="00:28:15.300" style="s2">quantitative analysis that the more more</p>
+<p begin="00:28:13.680" end="00:28:16.860" style="s2">components you have to try to I&#39;m more</p>
+<p begin="00:28:15.300" end="00:28:19.140" style="s2">likely you are to find something that</p>
+<p begin="00:28:16.860" end="00:28:20.910" style="s2">actually does make sense right but the</p>
+<p begin="00:28:19.140" end="00:28:22.860" style="s2">thing that I&#39;d like us to just pause</p>
+<p begin="00:28:20.910" end="00:28:25.350" style="s2">over Jim we really are in the</p>
+<p begin="00:28:22.860" end="00:28:28.230" style="s2">Anthropocene we are living in a hundred</p>
+<p begin="00:28:25.350" end="00:28:29.910" style="s2">trillion global economy it really is</p>
+<p begin="00:28:28.230" end="00:28:32.100" style="s2">growing at 4% a year</p>
+<p begin="00:28:29.910" end="00:28:34.170" style="s2">it really is lifting millions of people</p>
+<p begin="00:28:32.100" end="00:28:36.270" style="s2">out of poverty in China for example</p>
+<p begin="00:28:34.170" end="00:28:38.190" style="s2">right now and it really is invading</p>
+<p begin="00:28:36.270" end="00:28:40.290" style="s2">every niche on the planet did you see</p>
+<p begin="00:28:38.190" end="00:28:42.690" style="s2">the UN report about extinction events oh</p>
+<p begin="00:28:40.290" end="00:28:46.320" style="s2">yes the two came out a couple of months</p>
+<p begin="00:28:42.690" end="00:28:48.150" style="s2">ago then it&#39;s expected by 2050 20% of</p>
+<p begin="00:28:46.320" end="00:28:50.730" style="s2">all species is going to be extinct a</p>
+<p begin="00:28:48.150" end="00:28:51.450" style="s2">million species what are we doing to the</p>
+<p begin="00:28:50.730" end="00:28:53.940" style="s2">bio sir</p>
+<p begin="00:28:51.450" end="00:28:55.380" style="s2">we&#39;re eradicating it you can recover</p>
+<p begin="00:28:53.940" end="00:28:57.230" style="s2">from global warming which is a</p>
+<p begin="00:28:55.380" end="00:28:59.570" style="s2">catastrophe in thousands of years</p>
+<p begin="00:28:57.230" end="00:29:02.000" style="s2">recovering from a mass extinction event</p>
+<p begin="00:28:59.570" end="00:29:03.980" style="s2">as millions of years we have no idea</p>
+<p begin="00:29:02.000" end="00:29:05.990" style="s2">what we&#39;re doing with didn&#39;t parent I</p>
+<p begin="00:29:03.980" end="00:29:07.910" style="s2">don&#39;t even know how to say chip what can</p>
+<p begin="00:29:05.990" end="00:29:10.600" style="s2">you imagine that will slow down this</p>
+<p begin="00:29:07.910" end="00:29:13.940" style="s2">juggernaut of an expanding economy</p>
+<p begin="00:29:10.600" end="00:29:18.590" style="s2">inventing ever new things doing evermore</p>
+<p begin="00:29:13.940" end="00:29:20.000" style="s2">huge projects decimating love and</p>
+<p begin="00:29:18.590" end="00:29:22.250" style="s2">certainly we&#39;re getting close to the</p>
+<p begin="00:29:20.000" end="00:29:26.419" style="s2">edge I mean to my favorite scary</p>
+<p begin="00:29:22.250" end="00:29:28.730" style="s2">statistics are the mass of humans and</p>
+<p begin="00:29:26.419" end="00:29:31.130" style="s2">their domestic animals mostly cattle in</p>
+<p begin="00:29:28.730" end="00:29:35.000" style="s2">terms of actual weight is now something</p>
+<p begin="00:29:31.130" end="00:29:37.340" style="s2">like 60% of all large mammals on earth</p>
+<p begin="00:29:35.000" end="00:29:38.960" style="s2">that&#39;s absurd</p>
+<p begin="00:29:37.340" end="00:29:41.240" style="s2">right and it&#39;s and for birds the numbers</p>
+<p begin="00:29:38.960" end="00:29:43.730" style="s2">even higher the weight of all birds in</p>
+<p begin="00:29:41.240" end="00:29:47.150" style="s2">the world is utterly dominated by</p>
+<p begin="00:29:43.730" end="00:29:48.470" style="s2">domestic fowl under that rule yes I</p>
+<p begin="00:29:47.150" end="00:29:50.419" style="s2">couldn&#39;t believe it when I read that so</p>
+<p begin="00:29:48.470" end="00:29:52.700" style="s2">I&#39;ve researched and found it referenced</p>
+<p begin="00:29:50.419" end="00:29:54.980" style="s2">in multiple places Jim it&#39;s terrifying</p>
+<p begin="00:29:52.700" end="00:29:56.809" style="s2">that something really struck me we</p>
+<p begin="00:29:54.980" end="00:29:59.660" style="s2">debate whether humans are having an</p>
+<p begin="00:29:56.809" end="00:30:00.080" style="s2">impact on the globe so just think of</p>
+<p begin="00:29:59.660" end="00:30:02.870" style="s2">this</p>
+<p begin="00:30:00.080" end="00:30:04.640" style="s2">so 35,000 years ago there&#39;s cro-magnon</p>
+<p begin="00:30:02.870" end="00:30:06.590" style="s2">and they&#39;re living in the caves of the</p>
+<p begin="00:30:04.640" end="00:30:09.890" style="s2">door down on the north Oh Fran in Spain</p>
+<p begin="00:30:06.590" end="00:30:11.960" style="s2">and they&#39;re there for 15,000 years and</p>
+<p begin="00:30:09.890" end="00:30:13.610" style="s2">they paint the walls of the caves and</p>
+<p begin="00:30:11.960" end="00:30:15.320" style="s2">they go from you know a few hundred</p>
+<p begin="00:30:13.610" end="00:30:18.169" style="s2">kinds of tools to a few hundred kinds of</p>
+<p begin="00:30:15.320" end="00:30:21.290" style="s2">tools and then some of them migrate</p>
+<p begin="00:30:18.169" end="00:30:23.120" style="s2">north when the ice sheets go away and</p>
+<p begin="00:30:21.290" end="00:30:25.549" style="s2">the guys in the north of Spain I guess</p>
+<p begin="00:30:23.120" end="00:30:27.980" style="s2">stay there and go clam fishing or</p>
+<p begin="00:30:25.549" end="00:30:29.510" style="s2">whatever for ten thousand years or</p>
+<p begin="00:30:27.980" end="00:30:32.230" style="s2">fifteen thousand years there are they&#39;re</p>
+<p begin="00:30:29.510" end="00:30:35.929" style="s2">there they&#39;re the same species and</p>
+<p begin="00:30:32.230" end="00:30:39.770" style="s2">nothing much changes two things my</p>
+<p begin="00:30:35.929" end="00:30:41.900" style="s2">father was born in 1903 I&#39;m getting at</p>
+<p begin="00:30:39.770" end="00:30:43.610" style="s2">the rate of change and it&#39;s bigger D</p>
+<p begin="00:30:41.900" end="00:30:45.500" style="s2">into the fact that the more stuff you</p>
+<p begin="00:30:43.610" end="00:30:48.049" style="s2">got the more stuff you can make in the</p>
+<p begin="00:30:45.500" end="00:30:52.160" style="s2">same period of time right so my dad was</p>
+<p begin="00:30:48.049" end="00:30:54.200" style="s2">born in 1903 my son was born in 1969 my</p>
+<p begin="00:30:52.160" end="00:30:57.020" style="s2">dad was born the year flight was</p>
+<p begin="00:30:54.200" end="00:30:59.510" style="s2">invented my son was born sixty-six years</p>
+<p begin="00:30:57.020" end="00:31:02.059" style="s2">later when we landed on the moon the</p>
+<p begin="00:30:59.510" end="00:31:04.850" style="s2">pace of change is enormous because we</p>
+<p begin="00:31:02.059" end="00:31:07.909" style="s2">can make so many things so fast now for</p>
+<p begin="00:31:04.850" end="00:31:10.850" style="s2">the impact on the planet so I&#39;m I&#39;m 80</p>
+<p begin="00:31:07.909" end="00:31:12.890" style="s2">gosh cos I was born in 1939</p>
+<p begin="00:31:10.850" end="00:31:17.000" style="s2">I grew up with milk being delivered in</p>
+<p begin="00:31:12.890" end="00:31:19.850" style="s2">milk bottles in the graduate Dustin</p>
+<p begin="00:31:17.000" end="00:31:24.070" style="s2">Hoffman is famously told think plastics</p>
+<p begin="00:31:19.850" end="00:31:28.130" style="s2">well plastics was a big thing in 1960</p>
+<p begin="00:31:24.070" end="00:31:30.470" style="s2">sixty years later 2020 we have crashed</p>
+<p begin="00:31:28.130" end="00:31:32.810" style="s2">our oceans and our sea shores all around</p>
+<p begin="00:31:30.470" end="00:31:36.050" style="s2">the planet with gargantuan piles of</p>
+<p begin="00:31:32.810" end="00:31:39.170" style="s2">plastic crap that will not decay in</p>
+<p begin="00:31:36.050" end="00:31:42.020" style="s2">thousands of years and we&#39;re making more</p>
+<p begin="00:31:39.170" end="00:31:42.500" style="s2">of it have we affected the planet at 16</p>
+<p begin="00:31:42.020" end="00:31:46.040" style="s2">years</p>
+<p begin="00:31:42.500" end="00:31:48.560" style="s2">well there&#39;s masses of plastics floating</p>
+<p begin="00:31:46.040" end="00:31:51.110" style="s2">in the oceans then we didn&#39;t even have</p>
+<p begin="00:31:48.560" end="00:31:53.210" style="s2">plastic 60 years ago so let&#39;s not debate</p>
+<p begin="00:31:51.110" end="00:31:55.970" style="s2">the fact that humanity&#39;s impacting the</p>
+<p begin="00:31:53.210" end="00:31:57.950" style="s2">planet we&#39;re overwhelming of it and it</p>
+<p begin="00:31:55.970" end="00:32:01.580" style="s2">were not being mean nobody&#39;s</p>
+<p begin="00:31:57.950" end="00:32:04.010" style="s2">mean-spirited it&#39;s not capitalism it is</p>
+<p begin="00:32:01.580" end="00:32:06.080" style="s2">the inventiveness of the tap process in</p>
+<p begin="00:32:04.010" end="00:32:07.940" style="s2">which we inevitably invent more things</p>
+<p begin="00:32:06.080" end="00:32:10.340" style="s2">that are useful for stuff but we just</p>
+<p begin="00:32:07.940" end="00:32:12.200" style="s2">keep doing it if it&#39;s inevitable and you</p>
+<p begin="00:32:10.340" end="00:32:14.060" style="s2">know the tap equation at least says the</p>
+<p begin="00:32:12.200" end="00:32:17.630" style="s2">jacent possible will exponentially</p>
+<p begin="00:32:14.060" end="00:32:19.280" style="s2">increase over time how do we get out of</p>
+<p begin="00:32:17.630" end="00:32:20.900" style="s2">that is there is there any way to get</p>
+<p begin="00:32:19.280" end="00:32:23.780" style="s2">out of it or we are gonna just go up</p>
+<p begin="00:32:20.900" end="00:32:25.730" style="s2">against the limits and crash tap if it&#39;s</p>
+<p begin="00:32:23.780" end="00:32:27.740" style="s2">fundamental would indicate that might be</p>
+<p begin="00:32:25.730" end="00:32:30.380" style="s2">what happens Jim it&#39;s worse than</p>
+<p begin="00:32:27.740" end="00:32:32.630" style="s2">exponential an exponential never reaches</p>
+<p begin="00:32:30.380" end="00:32:34.850" style="s2">infinity in finite time this thing goes</p>
+<p begin="00:32:32.630" end="00:32:37.370" style="s2">vertical it reaches infinity and finite</p>
+<p begin="00:32:34.850" end="00:32:39.950" style="s2">time I think we are now going steeply up</p>
+<p begin="00:32:37.370" end="00:32:43.850" style="s2">this is curved and this is the</p>
+<p begin="00:32:39.950" end="00:32:45.500" style="s2">Anthropocene and what we confront you</p>
+<p begin="00:32:43.850" end="00:32:49.610" style="s2">know one could say this and you know</p>
+<p begin="00:32:45.500" end="00:32:52.460" style="s2">it&#39;s so stark what we&#39;re confronting is</p>
+<p begin="00:32:49.610" end="00:32:55.480" style="s2">global and what we&#39;re confronting is</p>
+<p begin="00:32:52.460" end="00:32:58.970" style="s2">civilizational this is our own humanity</p>
+<p begin="00:32:55.480" end="00:33:00.260" style="s2">creating and creating and we&#39;re</p>
+<p begin="00:32:58.970" end="00:33:03.170" style="s2">wonderful at it we&#39;ve been doing it for</p>
+<p begin="00:33:00.260" end="00:33:05.540" style="s2">three million years overwhelming the</p>
+<p begin="00:33:03.170" end="00:33:07.190" style="s2">planet this image came to be a couple of</p>
+<p begin="00:33:05.540" end="00:33:09.800" style="s2">weeks ago you know Easter Island</p>
+<p begin="00:33:07.190" end="00:33:12.980" style="s2">so there&#39;s Easter Island of this the</p>
+<p begin="00:33:09.800" end="00:33:14.360" style="s2">stone figures facing east it&#39;s an island</p>
+<p begin="00:33:12.980" end="00:33:16.250" style="s2">out in the middle of the ocean</p>
+<p begin="00:33:14.360" end="00:33:19.610" style="s2">what did the person who cut down the</p>
+<p begin="00:33:16.250" end="00:33:22.280" style="s2">last tree think well the earth is an</p>
+<p begin="00:33:19.610" end="00:33:24.519" style="s2">island in space Jim were cutting down</p>
+<p begin="00:33:22.280" end="00:33:26.679" style="s2">the last tree</p>
+<p begin="00:33:24.519" end="00:33:30.219" style="s2">we have to find a way of becoming aware</p>
+<p begin="00:33:26.679" end="00:33:31.119" style="s2">of this as a species with all of our</p>
+<p begin="00:33:30.219" end="00:33:34.029" style="s2">interesting</p>
+<p begin="00:33:31.119" end="00:33:36.429" style="s2">identity politics and Muslims versus</p>
+<p begin="00:33:34.029" end="00:33:38.830" style="s2">Jews versus Hindus versus whatever and</p>
+<p begin="00:33:36.429" end="00:33:42.509" style="s2">the civilizational goods and Bad&#39;s of</p>
+<p begin="00:33:38.830" end="00:33:46.149" style="s2">the global civilization emerging ends if</p>
+<p begin="00:33:42.509" end="00:33:49.659" style="s2">conceivable make some transformation in</p>
+<p begin="00:33:46.149" end="00:33:53.619" style="s2">which we find valuable human lives when</p>
+<p begin="00:33:49.659" end="00:33:55.899" style="s2">we are of nature not above it Western</p>
+<p begin="00:33:53.619" end="00:34:00.339" style="s2">society there&#39;s this amazing line by</p>
+<p begin="00:33:55.899" end="00:34:01.659" style="s2">Francis Bacon in about 1660 the West is</p>
+<p begin="00:34:00.339" end="00:34:03.549" style="s2">just turning to look at the real world</p>
+<p begin="00:34:01.659" end="00:34:06.009" style="s2">if this is the start of empirical</p>
+<p begin="00:34:03.549" end="00:34:07.809" style="s2">science and bacon says I take all</p>
+<p begin="00:34:06.009" end="00:34:10.149" style="s2">knowledge to be my province which was</p>
+<p begin="00:34:07.809" end="00:34:12.700" style="s2">easier than their woman&#39;s much then he</p>
+<p begin="00:34:10.149" end="00:34:15.460" style="s2">roughly says didn&#39;t quite say this but</p>
+<p begin="00:34:12.700" end="00:34:18.059" style="s2">it says meaning to put nature on the</p>
+<p begin="00:34:15.460" end="00:34:21.309" style="s2">rack and rest our do</p>
+<p begin="00:34:18.059" end="00:34:23.919" style="s2">well that&#39;s center of extractive</p>
+<p begin="00:34:21.309" end="00:34:25.990" style="s2">modernity and it works within the</p>
+<p begin="00:34:23.919" end="00:34:28.089" style="s2">context of the rules of modernity the</p>
+<p begin="00:34:25.990" end="00:34:30.669" style="s2">problem is we&#39;ve now reached the limits</p>
+<p begin="00:34:28.089" end="00:34:33.279" style="s2">and our social operating system seems to</p>
+<p begin="00:34:30.669" end="00:34:33.819" style="s2">have no way to constrain itself that&#39;s</p>
+<p begin="00:34:33.279" end="00:34:35.740" style="s2">right</p>
+<p begin="00:34:33.819" end="00:34:39.909" style="s2">it&#39;s overwhelming Jim I&#39;m living in a</p>
+<p begin="00:34:35.740" end="00:34:42.429" style="s2">beautiful house in Santa Fe with with</p>
+<p begin="00:34:39.909" end="00:34:46.000" style="s2">Kate and it&#39;s got all the conveniences</p>
+<p begin="00:34:42.429" end="00:34:47.740" style="s2">and as as a Jeffery West says enough</p>
+<p begin="00:34:46.000" end="00:34:51.639" style="s2">energy per person to be a thousand</p>
+<p begin="00:34:47.740" end="00:34:54.899" style="s2">slaves and we&#39;re already comfortable we</p>
+<p begin="00:34:51.639" end="00:34:57.160" style="s2">have it&#39;s a species of planetary species</p>
+<p begin="00:34:54.899" end="00:34:59.140" style="s2">essentially to become aware of the</p>
+<p begin="00:34:57.160" end="00:35:01.630" style="s2">implications of this type thing that I</p>
+<p begin="00:34:59.140" end="00:35:03.910" style="s2">wrote down two years ago that&#39;s why it&#39;s</p>
+<p begin="00:35:01.630" end="00:35:05.980" style="s2">happening it&#39;s not mal-intent</p>
+<p begin="00:35:03.910" end="00:35:08.799" style="s2">we&#39;re no different in our intent than</p>
+<p begin="00:35:05.980" end="00:35:10.450" style="s2">people were 40,000 years ago not much</p>
+<p begin="00:35:08.799" end="00:35:12.660" style="s2">happen for thousands of years with the</p>
+<p begin="00:35:10.450" end="00:35:15.190" style="s2">same emotional structure then as now</p>
+<p begin="00:35:12.660" end="00:35:16.660" style="s2">it&#39;s just that we can create so much out</p>
+<p begin="00:35:15.190" end="00:35:19.180" style="s2">of what we&#39;ve created that we keep</p>
+<p begin="00:35:16.660" end="00:35:20.829" style="s2">creating we&#39;re gonna die by our own</p>
+<p begin="00:35:19.180" end="00:35:22.349" style="s2">creativity as we were talking about</p>
+<p begin="00:35:20.829" end="00:35:25.420" style="s2">earlier before we went on the air</p>
+<p begin="00:35:22.349" end="00:35:28.720" style="s2">there&#39;s something charming about life in</p>
+<p begin="00:35:25.420" end="00:35:31.359" style="s2">America in the 18th century and the</p>
+<p begin="00:35:28.720" end="00:35:33.279" style="s2">energy density was vastly lower we would</p>
+<p begin="00:35:31.359" end="00:35:37.000" style="s2">not be destroying the planet if we had</p>
+<p begin="00:35:33.279" end="00:35:37.900" style="s2">somehow found a way to say stop right</p>
+<p begin="00:35:37.000" end="00:35:41.559" style="s2">what</p>
+<p begin="00:35:37.900" end="00:35:42.910" style="s2">in 1840 was we were on the we were on</p>
+<p begin="00:35:41.559" end="00:35:45.759" style="s2">the frontier of the Industrial</p>
+<p begin="00:35:42.910" end="00:35:49.299" style="s2">Revolution and we&#39;ve exploded since then</p>
+<p begin="00:35:45.759" end="00:35:52.779" style="s2">and a per capita GDP has gone up faster</p>
+<p begin="00:35:49.299" end="00:35:55.359" style="s2">than population growth can so population</p>
+<p begin="00:35:52.779" end="00:35:57.789" style="s2">for the first time in history it started</p>
+<p begin="00:35:55.359" end="00:35:59.829" style="s2">exploding a couple of centuries ago most</p>
+<p begin="00:35:57.789" end="00:36:01.660" style="s2">seven billion people now because per</p>
+<p begin="00:35:59.829" end="00:36:04.089" style="s2">capita GDP is going up faster than</p>
+<p begin="00:36:01.660" end="00:36:05.799" style="s2">population when you multiply the two</p>
+<p begin="00:36:04.089" end="00:36:08.950" style="s2">together you&#39;re at least in a rough</p>
+<p begin="00:36:05.799" end="00:36:10.839" style="s2">order the load on the ecosystem and as</p>
+<p begin="00:36:08.950" end="00:36:12.390" style="s2">we were just saying it&#39;s we&#39;ve got to be</p>
+<p begin="00:36:10.839" end="00:36:15.160" style="s2">getting close to the limits and the</p>
+<p begin="00:36:12.390" end="00:36:16.869" style="s2">operating system itself has no means to</p>
+<p begin="00:36:15.160" end="00:36:19.539" style="s2">correct itself at least it&#39;s very very</p>
+<p begin="00:36:16.869" end="00:36:21.759" style="s2">difficult in my own work in politics I</p>
+<p begin="00:36:19.539" end="00:36:24.400" style="s2">analyze the engine of money on money</p>
+<p begin="00:36:21.759" end="00:36:27.009" style="s2">return it&#39;s now become Unleashed from</p>
+<p begin="00:36:24.400" end="00:36:29.710" style="s2">human control you know everybody dances</p>
+<p begin="00:36:27.009" end="00:36:31.749" style="s2">to money and money corrupts politics</p>
+<p begin="00:36:29.710" end="00:36:34.359" style="s2">until we learn to develop a new social</p>
+<p begin="00:36:31.749" end="00:36:36.190" style="s2">signaling network or constrain the power</p>
+<p begin="00:36:34.359" end="00:36:38.440" style="s2">of money it&#39;s not obvious to me how we</p>
+<p begin="00:36:36.190" end="00:36:40.269" style="s2">can stop this beast driving us right</p>
+<p begin="00:36:38.440" end="00:36:42.460" style="s2">over the cliff I think you&#39;re right it&#39;s</p>
+<p begin="00:36:40.269" end="00:36:44.289" style="s2">driving us over to cliffs it&#39;s certainly</p>
+<p begin="00:36:42.460" end="00:36:46.119" style="s2">that the rich get richer you know the</p>
+<p begin="00:36:44.289" end="00:36:46.749" style="s2">top one percent the top tenth of a</p>
+<p begin="00:36:46.119" end="00:36:49.660" style="s2">percent</p>
+<p begin="00:36:46.749" end="00:36:52.420" style="s2">have you seen Thomas Piketty discussion</p>
+<p begin="00:36:49.660" end="00:36:54.489" style="s2">of this in my read capital and I&#39;ve read</p>
+<p begin="00:36:52.420" end="00:36:56.259" style="s2">some of his more recent articles well</p>
+<p begin="00:36:54.489" end="00:36:57.099" style="s2">I&#39;ve only read about capital but I think</p>
+<p begin="00:36:56.259" end="00:36:59.769" style="s2">I understand it</p>
+<p begin="00:36:57.099" end="00:37:03.579" style="s2">his basic idea with respect to this is a</p>
+<p begin="00:36:59.769" end="00:37:06.339" style="s2">tax that just taxes people on big</p>
+<p begin="00:37:03.579" end="00:37:09.730" style="s2">estates take any estate over 50 million</p>
+<p begin="00:37:06.339" end="00:37:12.099" style="s2">and take away 2% of it every year and</p>
+<p begin="00:37:09.730" end="00:37:13.720" style="s2">put it into a general pot well that</p>
+<p begin="00:37:12.099" end="00:37:15.519" style="s2">would do it it&#39;s good he&#39;ll never pass</p>
+<p begin="00:37:13.720" end="00:37:17.170" style="s2">but that would do it in a sense</p>
+<p begin="00:37:15.519" end="00:37:19.150" style="s2">Elizabeth Warren&#39;s doing that or</p>
+<p begin="00:37:17.170" end="00:37:20.589" style="s2">proposing that but Jim that won&#39;t do</p>
+<p begin="00:37:19.150" end="00:37:23.619" style="s2">anything about the fact that we&#39;re</p>
+<p begin="00:37:20.589" end="00:37:26.049" style="s2">inventing ever new things and processes</p>
+<p begin="00:37:23.619" end="00:37:27.999" style="s2">and wished to make bubblegum and purple</p>
+<p begin="00:37:26.049" end="00:37:31.749" style="s2">plastic penguins for the pool side and</p>
+<p begin="00:37:27.999" end="00:37:34.269" style="s2">apps and new kinds of penicillin and new</p>
+<p begin="00:37:31.749" end="00:37:36.309" style="s2">kinds of gadgets and new kinds of vast</p>
+<p begin="00:37:34.269" end="00:37:38.859" style="s2">projects like the Silk Road that the</p>
+<p begin="00:37:36.309" end="00:37:40.720" style="s2">Chinese are doing now that is just going</p>
+<p begin="00:37:38.859" end="00:37:42.249" style="s2">to keep invading the planet even if we</p>
+<p begin="00:37:40.720" end="00:37:45.549" style="s2">were to distribute the money better and</p>
+<p begin="00:37:42.249" end="00:37:47.769" style="s2">help inequality what&#39;s gonna slow down</p>
+<p begin="00:37:45.549" end="00:37:49.089" style="s2">the juggernaut that&#39;s growing and here&#39;s</p>
+<p begin="00:37:47.769" end="00:37:50.410" style="s2">the part that a lot of people have not</p>
+<p begin="00:37:49.089" end="00:37:52.329" style="s2">caught</p>
+<p begin="00:37:50.410" end="00:37:55.450" style="s2">which is not only do we have this tap</p>
+<p begin="00:37:52.329" end="00:37:57.490" style="s2">driven faster than exponential wave of</p>
+<p begin="00:37:55.450" end="00:38:00.250" style="s2">new products most of which we don&#39;t need</p>
+<p begin="00:37:57.490" end="00:38:02.859" style="s2">or want probably but the money on money</p>
+<p begin="00:38:00.250" end="00:38:05.319" style="s2">return machine drives the</p>
+<p begin="00:38:02.859" end="00:38:08.859" style="s2">psychologically informed marketing to</p>
+<p begin="00:38:05.319" end="00:38:11.349" style="s2">invent new needs for you right well yes</p>
+<p begin="00:38:08.859" end="00:38:14.460" style="s2">but but pause there&#39;s the inventing of</p>
+<p begin="00:38:11.349" end="00:38:17.799" style="s2">new needs since it was the guy been a</p>
+<p begin="00:38:14.460" end="00:38:19.960" style="s2">you know who was a the the nephew of</p>
+<p begin="00:38:17.799" end="00:38:23.710" style="s2">Freud and my son you know he invented in</p>
+<p begin="00:38:19.960" end="00:38:26.799" style="s2">about 1920 advertising and cigarettes or</p>
+<p begin="00:38:23.710" end="00:38:29.140" style="s2">freedom candles or something but it&#39;s</p>
+<p begin="00:38:26.799" end="00:38:31.720" style="s2">more in dodging so that if you invent a</p>
+<p begin="00:38:29.140" end="00:38:34.690" style="s2">screw it meets its complement the</p>
+<p begin="00:38:31.720" end="00:38:38.020" style="s2">screwdriver to be useful so goods in the</p>
+<p begin="00:38:34.690" end="00:38:39.880" style="s2">economy call forth the invention of</p>
+<p begin="00:38:38.020" end="00:38:42.039" style="s2">still more new goods that are the</p>
+<p begin="00:38:39.880" end="00:38:44.500" style="s2">complements or substitutes of existing</p>
+<p begin="00:38:42.039" end="00:38:47.230" style="s2">goods so once you got cellphones you get</p>
+<p begin="00:38:44.500" end="00:38:49.900" style="s2">apps with once you&#39;ve got rockets you</p>
+<p begin="00:38:47.230" end="00:38:52.059" style="s2">get the space station advertising as a</p>
+<p begin="00:38:49.900" end="00:38:54.099" style="s2">piece of it but this has been going on</p>
+<p begin="00:38:52.059" end="00:38:56.049" style="s2">since long before advertising let&#39;s turn</p>
+<p begin="00:38:54.099" end="00:38:59.170" style="s2">up you made a big point of that in your</p>
+<p begin="00:38:56.049" end="00:39:01.510" style="s2">book that complementarity by itself a</p>
+<p begin="00:38:59.170" end="00:39:03.819" style="s2">draws forth the future right especially</p>
+<p begin="00:39:01.510" end="00:39:06.490" style="s2">in the economy by the way it&#39;s time to</p>
+<p begin="00:39:03.819" end="00:39:10.140" style="s2">mention Brian Arthur Bryant&#39;s book the</p>
+<p begin="00:39:06.490" end="00:39:14.410" style="s2">nature of Technology 2009 talks about</p>
+<p begin="00:39:10.140" end="00:39:16.420" style="s2">lots of this Brian we&#39;re old friends</p>
+<p begin="00:39:14.410" end="00:39:18.579" style="s2">Brian doesn&#39;t have this equation but</p>
+<p begin="00:39:16.420" end="00:39:20.109" style="s2">he&#39;s got lots of the central tenets and</p>
+<p begin="00:39:18.579" end="00:39:21.460" style="s2">is you should really read the book</p>
+<p begin="00:39:20.109" end="00:39:23.710" style="s2">good night not only did I read the book</p>
+<p begin="00:39:21.460" end="00:39:25.150" style="s2">I actually read some of the chapters</p>
+<p begin="00:39:23.710" end="00:39:26.980" style="s2">before it was published and gave him</p>
+<p begin="00:39:25.150" end="00:39:28.690" style="s2">some feedback on it oh great</p>
+<p begin="00:39:26.980" end="00:39:31.089" style="s2">Brian and I were actually office mates</p>
+<p begin="00:39:28.690" end="00:39:34.450" style="s2">when I was at full-time at the Institute</p>
+<p begin="00:39:31.089" end="00:39:36.430" style="s2">back in 2002 to 2004 oh really</p>
+<p begin="00:39:34.450" end="00:39:38.319" style="s2">yeah so yes I&#39;m very familiar with that</p>
+<p begin="00:39:36.430" end="00:39:40.000" style="s2">book that&#39;s a must read for anybody</p>
+<p begin="00:39:38.319" end="00:39:42.220" style="s2">that&#39;s thinking in these in these areas</p>
+<p begin="00:39:40.000" end="00:39:44.710" style="s2">and that book got less attention that it</p>
+<p begin="00:39:42.220" end="00:39:48.390" style="s2">should really I mean that is one of the</p>
+<p begin="00:39:44.710" end="00:39:50.829" style="s2">most profound books on network models of</p>
+<p begin="00:39:48.390" end="00:39:53.020" style="s2">one important part of the economy which</p>
+<p begin="00:39:50.829" end="00:39:55.569" style="s2">is the evolution of technologically</p>
+<p begin="00:39:53.020" end="00:39:57.760" style="s2">driven products and businesses I think I</p>
+<p begin="00:39:55.569" end="00:40:00.069" style="s2">agree with Brian set the foundation and</p>
+<p begin="00:39:57.760" end="00:40:01.750" style="s2">the stuff I&#39;m talking about that grows</p>
+<p begin="00:40:00.069" end="00:40:03.500" style="s2">out of it there&#39;s not a bunch of there&#39;s</p>
+<p begin="00:40:01.750" end="00:40:06.859" style="s2">some you know Brian&#39;s doing it too</p>
+<p begin="00:40:03.500" end="00:40:09.740" style="s2">O&#39;Brien even gets to the idea well I did</p>
+<p begin="00:40:06.859" end="00:40:11.390" style="s2">too and I guess in 1998 Brian and I were</p>
+<p begin="00:40:09.740" end="00:40:13.790" style="s2">friends at the early age we kept going</p>
+<p begin="00:40:11.390" end="00:40:15.859" style="s2">to babes for lunch it was really cute</p>
+<p begin="00:40:13.790" end="00:40:18.530" style="s2">because we&#39;d go to babes and Brian would</p>
+<p begin="00:40:15.859" end="00:40:20.900" style="s2">order fish stew and each time he&#39;d say</p>
+<p begin="00:40:18.530" end="00:40:24.920" style="s2">this fish do is just terrible and he</p>
+<p begin="00:40:20.900" end="00:40:26.570" style="s2">keep ordering three kids anyway Brian</p>
+<p begin="00:40:24.920" end="00:40:29.720" style="s2">taught me some economics said I wrote a</p>
+<p begin="00:40:26.570" end="00:40:31.910" style="s2">paper in 1988 about it actually I wanted</p>
+<p begin="00:40:29.720" end="00:40:34.160" style="s2">Brian to be a co-author but for some</p>
+<p begin="00:40:31.910" end="00:40:36.619" style="s2">reason he didn&#39;t want to be didn&#39;t</p>
+<p begin="00:40:34.160" end="00:40:39.980" style="s2">happen so once you start thinking about</p>
+<p begin="00:40:36.619" end="00:40:42.349" style="s2">things making things it&#39;s growing on me</p>
+<p begin="00:40:39.980" end="00:40:46.550" style="s2">how simple it is suppose that you have a</p>
+<p begin="00:40:42.349" end="00:40:48.140" style="s2">number of things in and in general two</p>
+<p begin="00:40:46.550" end="00:40:49.910" style="s2">things can get together and making new</p>
+<p begin="00:40:48.140" end="00:40:52.250" style="s2">things okay I&#39;d like to what we&#39;re</p>
+<p begin="00:40:49.910" end="00:40:54.950" style="s2">talking about then the differential</p>
+<p begin="00:40:52.250" end="00:40:59.050" style="s2">equation for the number of things is DN</p>
+<p begin="00:40:54.950" end="00:41:02.090" style="s2">DT is equal to n times N or N squared</p>
+<p begin="00:40:59.050" end="00:41:04.280" style="s2">even I can integrate it that means that</p>
+<p begin="00:41:02.090" end="00:41:08.839" style="s2">and and I&#39;ve checked it with it with</p>
+<p begin="00:41:04.280" end="00:41:11.720" style="s2">regard so like so if you integrated DN</p>
+<p begin="00:41:08.839" end="00:41:14.869" style="s2">DT is equal to K N squared if you</p>
+<p begin="00:41:11.720" end="00:41:18.200" style="s2">integrate it as n is equal to n to the</p>
+<p begin="00:41:14.869" end="00:41:20.450" style="s2">third per time and that&#39;s hyperbolic it</p>
+<p begin="00:41:18.200" end="00:41:22.760" style="s2">goes infinite times - yeah but yeah</p>
+<p begin="00:41:20.450" end="00:41:24.530" style="s2">once you&#39;ve got a general process that</p>
+<p begin="00:41:22.760" end="00:41:26.330" style="s2">takes pairs of things that makes new</p>
+<p begin="00:41:24.530" end="00:41:27.740" style="s2">things out of it and you can sample</p>
+<p begin="00:41:26.330" end="00:41:30.140" style="s2">pretty much the things that are around</p>
+<p begin="00:41:27.740" end="00:41:31.580" style="s2">now there&#39;s a process it looks like it&#39;s</p>
+<p begin="00:41:30.140" end="00:41:34.910" style="s2">going to reach infinity in finite time</p>
+<p begin="00:41:31.580" end="00:41:37.609" style="s2">well point out again the fecundity</p>
+<p begin="00:41:34.910" end="00:41:39.650" style="s2">filter makes it go not that fast because</p>
+<p begin="00:41:37.609" end="00:41:41.630" style="s2">not all not all the combinations work in</p>
+<p begin="00:41:39.650" end="00:41:44.420" style="s2">fact the combinations at work are quite</p>
+<p begin="00:41:41.630" end="00:41:46.730" style="s2">sparse and if they&#39;re sparse enough it</p>
+<p begin="00:41:44.420" end="00:41:49.670" style="s2">changes from a hyperbolic to a parabolic</p>
+<p begin="00:41:46.730" end="00:41:51.830" style="s2">or even to a super linear the national</p>
+<p begin="00:41:49.670" end="00:41:53.960" style="s2">theorems that bike still has produced in</p>
+<p begin="00:41:51.830" end="00:41:56.630" style="s2">a paper that we&#39;ve got online this</p>
+<p begin="00:41:53.960" end="00:41:58.609" style="s2">process is hyperbolic but the model</p>
+<p begin="00:41:56.630" end="00:42:01.250" style="s2">doesn&#39;t have it that things die right</p>
+<p begin="00:41:58.609" end="00:42:03.140" style="s2">things fail or combinations fail yeah so</p>
+<p begin="00:42:01.250" end="00:42:05.540" style="s2">if you put into the things just go away</p>
+<p begin="00:42:03.140" end="00:42:08.300" style="s2">so things could just drop out or any</p>
+<p begin="00:42:05.540" end="00:42:11.030" style="s2">moment so call that view then if mu is 0</p>
+<p begin="00:42:08.300" end="00:42:13.339" style="s2">goes to infinity a theorem if you use a</p>
+<p begin="00:42:11.030" end="00:42:15.980" style="s2">little greater than zero it either goes</p>
+<p begin="00:42:13.339" end="00:42:17.420" style="s2">to infinity or or it goes to zero at</p>
+<p begin="00:42:15.980" end="00:42:19.460" style="s2">finite time</p>
+<p begin="00:42:17.420" end="00:42:21.530" style="s2">some probability so we know a little bit</p>
+<p begin="00:42:19.460" end="00:42:23.720" style="s2">about that that&#39;s still not adequate</p>
+<p begin="00:42:21.530" end="00:42:25.280" style="s2">because things don&#39;t die alone when one</p>
+<p begin="00:42:23.720" end="00:42:27.230" style="s2">thing dies a bunch of other things die</p>
+<p begin="00:42:25.280" end="00:42:29.720" style="s2">within Schumpeterian guilds of creative</p>
+<p begin="00:42:27.230" end="00:42:31.160" style="s2">instruction and we don&#39;t know very much</p>
+<p begin="00:42:29.720" end="00:42:33.230" style="s2">about that yet well this has been</p>
+<p begin="00:42:31.160" end="00:42:34.730" style="s2">amazingly interesting back and forth</p>
+<p begin="00:42:33.230" end="00:42:36.589" style="s2">about all kinds of cool things but we&#39;ve</p>
+<p begin="00:42:34.730" end="00:42:38.630" style="s2">gone a long way from your book you know</p>
+<p begin="00:42:36.589" end="00:42:40.490" style="s2">one of the cores of your book is the I</p>
+<p begin="00:42:38.630" end="00:42:42.859" style="s2">took it way as the point point of your</p>
+<p begin="00:42:40.490" end="00:42:44.780" style="s2">book was origin of life why don&#39;t we</p>
+<p begin="00:42:42.859" end="00:42:46.549" style="s2">talk about what you think about the</p>
+<p begin="00:42:44.780" end="00:42:49.099" style="s2">origin of life today after having</p>
+<p begin="00:42:46.549" end="00:42:51.799" style="s2">studied it for lo these many years it&#39;s</p>
+<p begin="00:42:49.099" end="00:42:53.660" style="s2">so fascinating Jim let me tell you how</p>
+<p begin="00:42:51.799" end="00:42:57.230" style="s2">its it&#39;s interesting how the problem</p>
+<p begin="00:42:53.660" end="00:42:59.359" style="s2">arose before about the middle 1900s</p>
+<p begin="00:42:57.230" end="00:43:01.640" style="s2">there was no problem about the origin of</p>
+<p begin="00:42:59.359" end="00:43:04.880" style="s2">life if you looked at a rotten log after</p>
+<p begin="00:43:01.640" end="00:43:07.040" style="s2">a rain you know there were maggots so</p>
+<p begin="00:43:04.880" end="00:43:08.869" style="s2">they obviously had sprung forth from the</p>
+<p begin="00:43:07.040" end="00:43:11.119" style="s2">from the rotten lug</p>
+<p begin="00:43:08.869" end="00:43:13.010" style="s2">now then hardik who&#39;s just written a</p>
+<p begin="00:43:11.119" end="00:43:15.349" style="s2">review of the early of the orc send it</p>
+<p begin="00:43:13.010" end="00:43:17.170" style="s2">to you you know finds us what wonderful</p>
+<p begin="00:43:15.349" end="00:43:20.990" style="s2">thing in which there&#39;s some doctor in</p>
+<p begin="00:43:17.170" end="00:43:24.260" style="s2">1740 who says that if you take a piece</p>
+<p begin="00:43:20.990" end="00:43:27.109" style="s2">of cloth that is laden with sweat from</p>
+<p begin="00:43:24.260" end="00:43:29.630" style="s2">your armpit and you mix it with wheat</p>
+<p begin="00:43:27.109" end="00:43:34.309" style="s2">and you put it in a box a mousehole</p>
+<p begin="00:43:29.630" end="00:43:36.440" style="s2">emerge okay so what happened is that in</p>
+<p begin="00:43:34.309" end="00:43:38.000" style="s2">somewhere in the late nineteen hundreds</p>
+<p begin="00:43:36.440" end="00:43:41.030" style="s2">of mid nineteen hundreds there was a</p>
+<p begin="00:43:38.000" end="00:43:43.309" style="s2">prize set by the French people now had</p>
+<p begin="00:43:41.030" end="00:43:45.440" style="s2">microscopes and they were making wine</p>
+<p begin="00:43:43.309" end="00:43:47.900" style="s2">ads on they found that if you put a</p>
+<p begin="00:43:45.440" end="00:43:50.299" style="s2">broth out a couple they said it was all</p>
+<p begin="00:43:47.900" end="00:43:52.150" style="s2">milky and was full of bacteria and the</p>
+<p begin="00:43:50.299" end="00:43:54.799" style="s2">question was was this spontaneous life</p>
+<p begin="00:43:52.150" end="00:43:57.890" style="s2">so Pasteur did a brilliant simple</p>
+<p begin="00:43:54.799" end="00:44:00.410" style="s2">experiment and the neck is s-shaped that</p>
+<p begin="00:43:57.890" end="00:44:03.020" style="s2">comes comes up and down then up and he</p>
+<p begin="00:44:00.410" end="00:44:04.490" style="s2">filled the neck words down with water so</p>
+<p begin="00:44:03.020" end="00:44:07.640" style="s2">air couldn&#39;t get in from the outside</p>
+<p begin="00:44:04.490" end="00:44:10.160" style="s2">here to the sterile flask and ten days</p>
+<p begin="00:44:07.640" end="00:44:13.089" style="s2">later there was no bacteria in it so</p>
+<p begin="00:44:10.160" end="00:44:16.730" style="s2">after a very finding or a foie gras and</p>
+<p begin="00:44:13.089" end="00:44:19.910" style="s2">Luca Daniel people wrote differently he</p>
+<p begin="00:44:16.730" end="00:44:22.430" style="s2">says life only comes from life well</p>
+<p begin="00:44:19.910" end="00:44:24.770" style="s2">that&#39;s right but then the question comes</p>
+<p begin="00:44:22.430" end="00:44:26.809" style="s2">the where did life come from the pester</p>
+<p begin="00:44:24.770" end="00:44:29.599" style="s2">sets the problem of the origin of life</p>
+<p begin="00:44:26.809" end="00:44:30.970" style="s2">in 1870 or whenever basically nothing</p>
+<p begin="00:44:29.599" end="00:44:34.240" style="s2">happened around nineteen</p>
+<p begin="00:44:30.970" end="00:44:36.190" style="s2">and halt dein and upper and operon and</p>
+<p begin="00:44:34.240" end="00:44:38.200" style="s2">russia and holiday and start to think</p>
+<p begin="00:44:36.190" end="00:44:40.450" style="s2">about my operon says there&#39;s going to be</p>
+<p begin="00:44:38.200" end="00:44:42.789" style="s2">coacervate sore little jaunt like things</p>
+<p begin="00:44:40.450" end="00:44:44.500" style="s2">in the early Earth and somehow they&#39;re</p>
+<p begin="00:44:42.789" end="00:44:46.599" style="s2">gonna have complex chemical mixtures and</p>
+<p begin="00:44:44.500" end="00:44:48.010" style="s2">life&#39;s going to happen and halt dein</p>
+<p begin="00:44:46.599" end="00:44:50.500" style="s2">comes up with the idea of a primitive</p>
+<p begin="00:44:48.010" end="00:44:53.170" style="s2">soup in which those kinds of organic</p>
+<p begin="00:44:50.500" end="00:44:55.510" style="s2">molecules in the ocean so for many years</p>
+<p begin="00:44:53.170" end="00:44:57.369" style="s2">origin of life talks often had somebody</p>
+<p begin="00:44:55.510" end="00:45:00.730" style="s2">with some Campbell Soup can label</p>
+<p begin="00:44:57.369" end="00:45:02.920" style="s2">primitive soup then Miller and Urey come</p>
+<p begin="00:45:00.730" end="00:45:04.599" style="s2">along in the 50s so they show you know</p>
+<p begin="00:45:02.920" end="00:45:07.390" style="s2">you already can make amino acids out of</p>
+<p begin="00:45:04.599" end="00:45:09.280" style="s2">just the atmosphere and organ life were</p>
+<p begin="00:45:07.390" end="00:45:11.680" style="s2">sort of exploded then and for around</p>
+<p begin="00:45:09.280" end="00:45:14.140" style="s2">twenty or thirty years even now people</p>
+<p begin="00:45:11.680" end="00:45:16.380" style="s2">are showing that out of beginning things</p>
+<p begin="00:45:14.140" end="00:45:19.720" style="s2">you can make things like sugars and</p>
+<p begin="00:45:16.380" end="00:45:22.569" style="s2">nucleotides and lipids and so on people</p>
+<p begin="00:45:19.720" end="00:45:24.700" style="s2">don&#39;t know yet about this guy Abra</p>
+<p begin="00:45:22.569" end="00:45:25.809" style="s2">coughs result with the spray I don&#39;t</p>
+<p begin="00:45:24.700" end="00:45:29.140" style="s2">know why he&#39;s not getting more attention</p>
+<p begin="00:45:25.809" end="00:45:32.520" style="s2">it&#39;s amazing so you wait for a month and</p>
+<p begin="00:45:29.140" end="00:45:34.800" style="s2">you get thousands of organic molecules</p>
+<p begin="00:45:32.520" end="00:45:38.369" style="s2">so then what happened in the origin of</p>
+<p begin="00:45:34.800" end="00:45:41.880" style="s2">life field is by 1954 we know about DNA</p>
+<p begin="00:45:38.369" end="00:45:45.060" style="s2">replication is Watson incorrect so what</p>
+<p begin="00:45:41.880" end="00:45:48.630" style="s2">I was coming into biology around 63 or</p>
+<p begin="00:45:45.060" end="00:45:51.990" style="s2">64 the obviously about the origin of</p>
+<p begin="00:45:48.630" end="00:45:54.240" style="s2">life was DNA as a double helix it</p>
+<p begin="00:45:51.990" end="00:45:56.130" style="s2">specifies its own sequence those RNA you</p>
+<p begin="00:45:54.240" end="00:45:58.860" style="s2">can make a double helix of RNA and</p>
+<p begin="00:45:56.130" end="00:46:02.940" style="s2">everybody had the a idea take a single</p>
+<p begin="00:45:58.860" end="00:46:05.760" style="s2">strand of RNA a ucg some salt long</p>
+<p begin="00:46:02.940" end="00:46:08.010" style="s2">polymer call it the watson strand will</p>
+<p begin="00:46:05.760" end="00:46:10.590" style="s2">it please line up free nucleotides that</p>
+<p begin="00:46:08.010" end="00:46:12.150" style="s2">will make this bind to the watson strand</p>
+<p begin="00:46:10.590" end="00:46:14.490" style="s2">so you&#39;ve got a bunch of free</p>
+<p begin="00:46:12.150" end="00:46:16.020" style="s2">nucleotides and then something links</p>
+<p begin="00:46:14.490" end="00:46:18.480" style="s2">them together and now you&#39;ve got the</p>
+<p begin="00:46:16.020" end="00:46:20.640" style="s2">Crick strand with its complement they</p>
+<p begin="00:46:18.480" end="00:46:22.410" style="s2">melt a part in cycle and that&#39;s all life</p>
+<p begin="00:46:20.640" end="00:46:24.690" style="s2">started and that&#39;s a perfectly</p>
+<p begin="00:46:22.410" end="00:46:26.400" style="s2">reasonable idea it&#39;s a fine idea</p>
+<p begin="00:46:24.690" end="00:46:29.130" style="s2">less than a argue and others have tried</p>
+<p begin="00:46:26.400" end="00:46:30.840" style="s2">to do it for 50 years the experiment</p>
+<p begin="00:46:29.130" end="00:46:33.540" style="s2">doesn&#39;t work it should but it doesn&#39;t</p>
+<p begin="00:46:30.840" end="00:46:36.150" style="s2">and the reasons are sort of chemical if</p>
+<p begin="00:46:33.540" end="00:46:38.810" style="s2">the replicated strand is full of G&#39;s</p>
+<p begin="00:46:36.150" end="00:46:41.970" style="s2">Nazis it folds up in little knots and</p>
+<p begin="00:46:38.810" end="00:46:44.190" style="s2">precipitates and DNA and RNA have three</p>
+<p begin="00:46:41.970" end="00:46:46.320" style="s2">prime five prime phosphate ester bonds</p>
+<p begin="00:46:44.190" end="00:46:48.900" style="s2">but thermodynamically they&#39;d rather do</p>
+<p begin="00:46:46.320" end="00:46:51.540" style="s2">two prime v from the quick summary is</p>
+<p begin="00:46:48.900" end="00:46:53.760" style="s2">all the years laters nobody&#39;s made at</p>
+<p begin="00:46:51.540" end="00:46:56.910" style="s2">work so pause it&#39;s still the dominant</p>
+<p begin="00:46:53.760" end="00:47:00.210" style="s2">view and it became even more dominant in</p>
+<p begin="00:46:56.910" end="00:47:01.890" style="s2">I guess 1986 the ribozymes had been</p>
+<p begin="00:47:00.210" end="00:47:04.950" style="s2">discovered these are RNA molecules that</p>
+<p begin="00:47:01.890" end="00:47:06.390" style="s2">catalyze reactions and while I Gilbert</p>
+<p begin="00:47:04.950" end="00:47:08.400" style="s2">published an article in Nature said we</p>
+<p begin="00:47:06.390" end="00:47:10.950" style="s2">can conceive of a world just with RNA</p>
+<p begin="00:47:08.400" end="00:47:13.380" style="s2">molecules let&#39;s call it the RNA well</p>
+<p begin="00:47:10.950" end="00:47:14.970" style="s2">that view is dominated and what is</p>
+<p begin="00:47:13.380" end="00:47:17.670" style="s2">dominated in that view of life is</p>
+<p begin="00:47:14.970" end="00:47:19.530" style="s2">template replicating RNA and it might</p>
+<p begin="00:47:17.670" end="00:47:22.170" style="s2">work someday and people are trying to</p>
+<p begin="00:47:19.530" end="00:47:23.760" style="s2">make it work then hornik I&#39;ll send you</p>
+<p begin="00:47:22.170" end="00:47:26.130" style="s2">is he&#39;s just written an article that</p>
+<p begin="00:47:23.760" end="00:47:26.700" style="s2">came out in biological theory literally</p>
+<p begin="00:47:26.130" end="00:47:29.250" style="s2">today</p>
+<p begin="00:47:26.700" end="00:47:31.770" style="s2">so then it&#39;s traced the history of the</p>
+<p begin="00:47:29.250" end="00:47:34.859" style="s2">theory of auto catalytic cents which</p>
+<p begin="00:47:31.770" end="00:47:37.020" style="s2">actually I started and published in 71</p>
+<p begin="00:47:34.859" end="00:47:39.240" style="s2">but that idea is that I catalyze the</p>
+<p begin="00:47:37.020" end="00:47:41.820" style="s2">formation of you out of two jim parts</p>
+<p begin="00:47:39.240" end="00:47:43.619" style="s2">and you catalyze the formation of bill</p>
+<p begin="00:47:41.820" end="00:47:45.540" style="s2">out of to develop parts and bill</p>
+<p begin="00:47:43.619" end="00:47:46.380" style="s2">catalyzes the formation of stew out of</p>
+<p begin="00:47:45.540" end="00:47:49.140" style="s2">stupor</p>
+<p begin="00:47:46.380" end="00:47:52.260" style="s2">it&#39;s a mutually autocad except nobody</p>
+<p begin="00:47:49.140" end="00:47:55.040" style="s2">catalyzes information so there&#39;s been a</p>
+<p begin="00:47:52.260" end="00:47:58.380" style="s2">lot of work started by me I guess in</p>
+<p begin="00:47:55.040" end="00:48:00.720" style="s2">1971 then in 1986 with some theorems</p>
+<p begin="00:47:58.380" end="00:48:02.520" style="s2">it&#39;s a work done with don&#39;t farmer and</p>
+<p begin="00:48:00.720" end="00:48:04.650" style="s2">norm Packard that you really could get</p>
+<p begin="00:48:02.520" end="00:48:06.810" style="s2">these systems fundamentally if you get</p>
+<p begin="00:48:04.650" end="00:48:09.090" style="s2">it complicated enough system it&#39;ll</p>
+<p begin="00:48:06.810" end="00:48:12.240" style="s2">spontaneously make auto catalytic sets</p>
+<p begin="00:48:09.090" end="00:48:14.340" style="s2">so that was theory for some time then</p>
+<p begin="00:48:12.240" end="00:48:16.200" style="s2">real ones were made so good new front</p>
+<p begin="00:48:14.340" end="00:48:20.280" style="s2">caderousse key made the first auto</p>
+<p begin="00:48:16.200" end="00:48:24.180" style="s2">catalytic set out of DNA in 94 in about</p>
+<p begin="00:48:20.280" end="00:48:27.410" style="s2">95 residue Deary at Scripps made the</p>
+<p begin="00:48:24.180" end="00:48:30.330" style="s2">first self-reproducing protein he took a</p>
+<p begin="00:48:27.410" end="00:48:32.910" style="s2">protein sequence like 32 amino acids</p>
+<p begin="00:48:30.330" end="00:48:35.970" style="s2">that&#39;s an alpha helix that coils back on</p>
+<p begin="00:48:32.910" end="00:48:38.340" style="s2">itself making coiled coil and he</p>
+<p begin="00:48:35.970" end="00:48:41.130" style="s2">reasoned as they say after the fact that</p>
+<p begin="00:48:38.340" end="00:48:42.030" style="s2">if he took the two fragments 15 and 17</p>
+<p begin="00:48:41.130" end="00:48:44.460" style="s2">long</p>
+<p begin="00:48:42.030" end="00:48:46.860" style="s2">true fragments would bind to the 32</p>
+<p begin="00:48:44.460" end="00:48:49.110" style="s2">Marin and go together and he&#39;d get the</p>
+<p begin="00:48:46.860" end="00:48:52.350" style="s2">32 mer to reproduce itself well it does</p>
+<p begin="00:48:49.110" end="00:48:53.820" style="s2">within a few years gone on ashkenazi now</p>
+<p begin="00:48:52.350" end="00:48:56.430" style="s2">in the ben-gurion had made a nine</p>
+<p begin="00:48:53.820" end="00:48:59.810" style="s2">peptide collectively Auto kind of accept</p>
+<p begin="00:48:56.430" end="00:49:02.850" style="s2">pause that tells you that molecular</p>
+<p begin="00:48:59.810" end="00:49:04.980" style="s2">reproduction absolutely does not depend</p>
+<p begin="00:49:02.850" end="00:49:08.160" style="s2">on template replicating DNA or RNA</p>
+<p begin="00:49:04.980" end="00:49:10.830" style="s2">it just doesn&#39;t so that happened</p>
+<p begin="00:49:08.160" end="00:49:14.610" style="s2">experimentally then I told you that I</p>
+<p begin="00:49:10.830" end="00:49:17.130" style="s2">think they were about 2012 now Salim and</p>
+<p begin="00:49:14.610" end="00:49:19.200" style="s2">and vitae published an article in Nature</p>
+<p begin="00:49:17.130" end="00:49:20.970" style="s2">I think was at that time the most</p>
+<p begin="00:49:19.200" end="00:49:23.280" style="s2">important experiment on the origin of</p>
+<p begin="00:49:20.970" end="00:49:27.150" style="s2">life they took some ribozymes</p>
+<p begin="00:49:23.280" end="00:49:29.250" style="s2">and chop them in half where ribozyme a</p>
+<p begin="00:49:27.150" end="00:49:30.780" style="s2">chopped in half could glue together with</p>
+<p begin="00:49:29.250" end="00:49:33.570" style="s2">one of the halves of chopped a be</p>
+<p begin="00:49:30.780" end="00:49:35.850" style="s2">chopped in half and they put it in a pot</p>
+<p begin="00:49:33.570" end="00:49:38.700" style="s2">and it spontaneously went collectively</p>
+<p begin="00:49:35.850" end="00:49:40.980" style="s2">autocannon sets of ribosomes so that was</p>
+<p begin="00:49:38.700" end="00:49:42.660" style="s2">superb except that that so one good a</p>
+<p begin="00:49:40.980" end="00:49:45.030" style="s2">spontaneous formation of collectively</p>
+<p begin="00:49:42.660" end="00:49:47.160" style="s2">unaccounted sets and a bunch of us are</p>
+<p begin="00:49:45.030" end="00:49:50.130" style="s2">writing about that now but they&#39;re still</p>
+<p begin="00:49:47.160" end="00:49:51.990" style="s2">using evolve molecules so what we want</p>
+<p begin="00:49:50.130" end="00:49:54.570" style="s2">to know is if you take random polymers</p>
+<p begin="00:49:51.990" end="00:49:57.690" style="s2">can you make autocad make sense there&#39;s</p>
+<p begin="00:49:54.570" end="00:49:59.870" style="s2">hints that you can it&#39;s possible the</p>
+<p begin="00:49:57.690" end="00:50:01.940" style="s2">fellow named Lee Cronin is doing</p>
+<p begin="00:49:59.870" end="00:50:04.940" style="s2">not at liberty to tell you the details</p>
+<p begin="00:50:01.940" end="00:50:06.770" style="s2">yes and publish it yet we have this</p>
+<p begin="00:50:04.940" end="00:50:10.730" style="s2">money I told you about to try to do it</p>
+<p begin="00:50:06.770" end="00:50:12.590" style="s2">from from CERN and I told you the next</p>
+<p begin="00:50:10.730" end="00:50:15.980" style="s2">most important thing that&#39;s happened is</p>
+<p begin="00:50:12.590" end="00:50:19.370" style="s2">Johanna is Xavier and Bill Martin and a</p>
+<p begin="00:50:15.980" end="00:50:21.170" style="s2">paper still not published Mike Steel</p>
+<p begin="00:50:19.370" end="00:50:23.150" style="s2">then Hornick on the paper I&#39;m a</p>
+<p begin="00:50:21.170" end="00:50:25.280" style="s2">co-author but I did nothing much on the</p>
+<p begin="00:50:23.150" end="00:50:26.960" style="s2">paper except they put my name on it I</p>
+<p begin="00:50:25.280" end="00:50:29.600" style="s2">thank them they have found this</p>
+<p begin="00:50:26.960" end="00:50:32.060" style="s2">metabolic autocatalytic said where no</p>
+<p begin="00:50:29.600" end="00:50:36.140" style="s2">polymers in it at all so it&#39;s almost</p>
+<p begin="00:50:32.060" end="00:50:39.620" style="s2">sure now that life started in a rich</p>
+<p begin="00:50:36.140" end="00:50:41.540" style="s2">soup of organic molecules everywhere in</p>
+<p begin="00:50:39.620" end="00:50:44.270" style="s2">the universe around 5 billion years ago</p>
+<p begin="00:50:41.540" end="00:50:46.970" style="s2">what&#39;s missing Jim is how hard is it to</p>
+<p begin="00:50:44.270" end="00:50:50.240" style="s2">get an autocatalytic set and a bunch of</p>
+<p begin="00:50:46.970" end="00:50:52.490" style="s2">small molecules and totally unpublished</p>
+<p begin="00:50:50.240" end="00:50:54.980" style="s2">Mike steel is just proving theorems</p>
+<p begin="00:50:52.490" end="00:50:58.010" style="s2">right now that it should be pretty easy</p>
+<p begin="00:50:54.980" end="00:51:00.980" style="s2">and if so we might be able to detect it</p>
+<p begin="00:50:58.010" end="00:51:02.840" style="s2">pretty soon experimental e and so I&#39;ve</p>
+<p begin="00:51:00.980" end="00:51:04.940" style="s2">got significant dreams that we could do</p>
+<p begin="00:51:02.840" end="00:51:07.550" style="s2">that the group of us that&#39;s gotten money</p>
+<p begin="00:51:04.940" end="00:51:09.830" style="s2">from CERN is meeting soon and maybe will</p>
+<p begin="00:51:07.550" end="00:51:12.590" style="s2">think is possible figured out and</p>
+<p begin="00:51:09.830" end="00:51:15.080" style="s2">suppose that works so you got molecular</p>
+<p begin="00:51:12.590" end="00:51:16.880" style="s2">reproduction five billion years ago all</p>
+<p begin="00:51:15.080" end="00:51:19.910" style="s2">over the universe because the universe</p>
+<p begin="00:51:16.880" end="00:51:21.860" style="s2">has cooked up this stuff well so now you</p>
+<p begin="00:51:19.910" end="00:51:23.990" style="s2">got this metabolic autocatalytic said</p>
+<p begin="00:51:21.860" end="00:51:26.240" style="s2">you&#39;d like to get some polymers going</p>
+<p begin="00:51:23.990" end="00:51:28.850" style="s2">how would you glued the two together so</p>
+<p begin="00:51:26.240" end="00:51:31.400" style="s2">you had that polymers catalyzing the</p>
+<p begin="00:51:28.850" end="00:51:33.230" style="s2">reactions of the metabolism how do you</p>
+<p begin="00:51:31.400" end="00:51:36.650" style="s2">put the thing in a liposome that I told</p>
+<p begin="00:51:33.230" end="00:51:38.750" style="s2">you about Roberto sara has shown they</p>
+<p begin="00:51:36.650" end="00:51:40.610" style="s2">will synchronize the division of the</p>
+<p begin="00:51:38.750" end="00:51:43.580" style="s2">molecular system in the auto County and</p>
+<p begin="00:51:40.610" end="00:51:45.590" style="s2">the polymer system so can we actually</p>
+<p begin="00:51:43.580" end="00:51:48.110" style="s2">make protocells and the reason we&#39;re new</p>
+<p begin="00:51:45.590" end="00:51:49.850" style="s2">feature well maybe people always say</p>
+<p begin="00:51:48.110" end="00:51:52.550" style="s2">it&#39;s around the corner then it&#39;s not so</p>
+<p begin="00:51:49.850" end="00:51:54.920" style="s2">maybe we can that&#39;s huge as we can do it</p>
+<p begin="00:51:52.550" end="00:51:55.720" style="s2">it&#39;s all isn&#39;t loose in science how does</p>
+<p begin="00:51:54.920" end="00:51:59.180" style="s2">life emerge</p>
+<p begin="00:51:55.720" end="00:52:01.760" style="s2">maybe he&#39;s it&#39;s sort of a process of tap</p>
+<p begin="00:51:59.180" end="00:52:04.520" style="s2">and auto catalysis maybe let me push</p>
+<p begin="00:52:01.760" end="00:52:06.350" style="s2">back just a little bit can I&#39;ve been</p>
+<p begin="00:52:04.520" end="00:52:08.570" style="s2">following this for many many years spent</p>
+<p begin="00:52:06.350" end="00:52:10.040" style="s2">time talking to norm Packard I spent</p>
+<p begin="00:52:08.570" end="00:52:12.690" style="s2">time talking to you back when I was at</p>
+<p begin="00:52:10.040" end="00:52:15.690" style="s2">SFI the one part of it that I have a</p>
+<p begin="00:52:12.690" end="00:52:19.589" style="s2">time getting my head around and over is</p>
+<p begin="00:52:15.690" end="00:52:22.140" style="s2">that these earlier prebiotic chemical</p>
+<p begin="00:52:19.589" end="00:52:25.020" style="s2">regimes are not by any means high</p>
+<p begin="00:52:22.140" end="00:52:27.480" style="s2">fidelity replicators and we know we know</p>
+<p begin="00:52:25.020" end="00:52:28.680" style="s2">from mathematically in evolutionary</p>
+<p begin="00:52:27.480" end="00:52:30.780" style="s2">theory there&#39;s something called the</p>
+<p begin="00:52:28.680" end="00:52:33.510" style="s2">error catastrophe that if the fidelity</p>
+<p begin="00:52:30.780" end="00:52:35.160" style="s2">of copying is not greater than X and X</p>
+<p begin="00:52:33.510" end="00:52:37.589" style="s2">is actually a pretty crisp number for</p>
+<p begin="00:52:35.160" end="00:52:41.150" style="s2">any well-defined system ability to</p>
+<p begin="00:52:37.589" end="00:52:43.500" style="s2">ratchet evolution is surprisingly small</p>
+<p begin="00:52:41.150" end="00:52:45.960" style="s2">entropy quickly breaks down what</p>
+<p begin="00:52:43.500" end="00:52:48.990" style="s2">evolution builds up and these are all</p>
+<p begin="00:52:45.960" end="00:52:51.720" style="s2">low fidelity replicators and yet our</p>
+<p begin="00:52:48.990" end="00:52:54.119" style="s2">world the world of all life that we know</p>
+<p begin="00:52:51.720" end="00:52:56.400" style="s2">is built on a high fidelity replicator</p>
+<p begin="00:52:54.119" end="00:52:58.890" style="s2">its DNA plus replication plus error</p>
+<p begin="00:52:56.400" end="00:53:00.960" style="s2">correction which appears at least</p>
+<p begin="00:52:58.890" end="00:53:03.810" style="s2">empirically to be well past the error</p>
+<p begin="00:53:00.960" end="00:53:08.880" style="s2">catastrophe stage so how in the world</p>
+<p begin="00:53:03.810" end="00:53:12.960" style="s2">does this free life protocell chemistry</p>
+<p begin="00:53:08.880" end="00:53:15.810" style="s2">world ratchet itself up with worse than</p>
+<p begin="00:53:12.960" end="00:53:17.670" style="s2">era catastrophe driven evolution to</p>
+<p begin="00:53:15.810" end="00:53:19.859" style="s2">create high fidelity information</p>
+<p begin="00:53:17.670" end="00:53:21.900" style="s2">transfer and if we can&#39;t do that we</p>
+<p begin="00:53:19.859" end="00:53:24.329" style="s2">don&#39;t actually get life as we know it</p>
+<p begin="00:53:21.900" end="00:53:26.670" style="s2">other short answers you&#39;re right chimp</p>
+<p begin="00:53:24.329" end="00:53:31.020" style="s2">so here&#39;s sort of what we know what I&#39;ve</p>
+<p begin="00:53:26.670" end="00:53:33.660" style="s2">told you does not get us to RNA template</p>
+<p begin="00:53:31.020" end="00:53:37.170" style="s2">replication or DNA template replication</p>
+<p begin="00:53:33.660" end="00:53:40.380" style="s2">or coding of encoded proteins is where</p>
+<p begin="00:53:37.170" end="00:53:44.460" style="s2">the deep mystery is proteins that are</p>
+<p begin="00:53:40.380" end="00:53:47.490" style="s2">encoded are the amino acids synthetases</p>
+<p begin="00:53:44.460" end="00:53:49.109" style="s2">that translate the code there&#39;s some</p>
+<p begin="00:53:47.490" end="00:53:51.300" style="s2">chicken and egg problem that&#39;s huge how</p>
+<p begin="00:53:49.109" end="00:53:53.670" style="s2">did that ever emerge and we we don&#39;t</p>
+<p begin="00:53:51.300" end="00:53:55.500" style="s2">know Peter wills is working out a lot of</p>
+<p begin="00:53:53.670" end="00:53:58.020" style="s2">people have worked on it for a long time</p>
+<p begin="00:53:55.500" end="00:54:01.560" style="s2">it&#39;s not cracked yet there&#39;s some ideas</p>
+<p begin="00:53:58.020" end="00:54:03.510" style="s2">so I had David Deamer and others can fit</p>
+<p begin="00:54:01.560" end="00:54:05.910" style="s2">right in and have little protocell</p>
+<p begin="00:54:03.510" end="00:54:08.220" style="s2">floating around without any DNA or RNA</p>
+<p begin="00:54:05.910" end="00:54:10.619" style="s2">or you could put DNA in RNA you can make</p>
+<p begin="00:54:08.220" end="00:54:13.890" style="s2">an autocratic set out of RNA now it&#39;s</p>
+<p begin="00:54:10.619" end="00:54:14.970" style="s2">lame and did years ago the question is</p>
+<p begin="00:54:13.890" end="00:54:17.790" style="s2">how do you get to something like</p>
+<p begin="00:54:14.970" end="00:54:20.190" style="s2">template replicating DNA and RNA then</p>
+<p begin="00:54:17.790" end="00:54:21.869" style="s2">actually Paul Davies rightly points out</p>
+<p begin="00:54:20.190" end="00:54:24.630" style="s2">in his book on the origin I&#39;ve called</p>
+<p begin="00:54:21.869" end="00:54:26.460" style="s2">the demon in the Machine the the</p>
+<p begin="00:54:24.630" end="00:54:29.940" style="s2">ribosome plus the</p>
+<p begin="00:54:26.460" end="00:54:33.480" style="s2">code is in von Neumann sensei Universal</p>
+<p begin="00:54:29.940" end="00:54:36.030" style="s2">constructor it can make any protein out</p>
+<p begin="00:54:33.480" end="00:54:38.280" style="s2">of the standard 20 amino acids that&#39;s</p>
+<p begin="00:54:36.030" end="00:54:40.109" style="s2">amazing and just imagine what it left</p>
+<p begin="00:54:38.280" end="00:54:42.000" style="s2">for the origin of life of that happened</p>
+<p begin="00:54:40.109" end="00:54:44.250" style="s2">you could explore protein space</p>
+<p begin="00:54:42.000" end="00:54:47.550" style="s2">trivially just by you know making</p>
+<p begin="00:54:44.250" end="00:54:49.770" style="s2">proteins so there&#39;s some ideas about how</p>
+<p begin="00:54:47.550" end="00:54:51.480" style="s2">the code could have emerged I even have</p>
+<p begin="00:54:49.770" end="00:54:53.730" style="s2">some ideas out of the codes have emerged</p>
+<p begin="00:54:51.480" end="00:54:55.770" style="s2">then I&#39;m not competent to talk about it</p>
+<p begin="00:54:53.730" end="00:54:57.720" style="s2">you should talk to people wills it is</p>
+<p begin="00:54:55.770" end="00:55:00.359" style="s2">clear that these Auto counting systems</p>
+<p begin="00:54:57.720" end="00:55:02.940" style="s2">can evolve without encoded protein</p>
+<p begin="00:55:00.359" end="00:55:05.580" style="s2">synthesis and the reason is do basically</p>
+<p begin="00:55:02.940" end="00:55:07.260" style="s2">to might steal and and dim Hornick I&#39;ll</p>
+<p begin="00:55:05.580" end="00:55:09.060" style="s2">send you the link that they just sent me</p>
+<p begin="00:55:07.260" end="00:55:11.400" style="s2">that them to send me these article came</p>
+<p begin="00:55:09.060" end="00:55:13.109" style="s2">out today an autocatalytic set is made</p>
+<p begin="00:55:11.400" end="00:55:16.440" style="s2">up of a large network irreducible</p>
+<p begin="00:55:13.109" end="00:55:18.240" style="s2">autocatalytic sets and first rough marry</p>
+<p begin="00:55:16.440" end="00:55:20.040" style="s2">led a group of us to show that these</p>
+<p begin="00:55:18.240" end="00:55:22.800" style="s2">irreducible odd occurrences could be</p>
+<p begin="00:55:20.040" end="00:55:25.339" style="s2">gained and lost the little replicating</p>
+<p begin="00:55:22.800" end="00:55:28.440" style="s2">systems and they&#39;re acting like genes</p>
+<p begin="00:55:25.339" end="00:55:31.680" style="s2">animal evolution from that and as don</p>
+<p begin="00:55:28.440" end="00:55:33.599" style="s2">farmer and and ragga show years ago you</p>
+<p begin="00:55:31.680" end="00:55:35.880" style="s2">can imagine that unkennel has reactions</p>
+<p begin="00:55:33.599" end="00:55:38.280" style="s2">happen they can be captured by the</p>
+<p begin="00:55:35.880" end="00:55:41.040" style="s2">system and the system can evolve to some</p>
+<p begin="00:55:38.280" end="00:55:43.619" style="s2">extent not like you can&#39;t with encoded</p>
+<p begin="00:55:41.040" end="00:55:45.720" style="s2">proteins we&#39;ve got it there&#39;s no talk of</p>
+<p begin="00:55:43.619" end="00:55:48.210" style="s2">energy in all of this yet either if you</p>
+<p begin="00:55:45.720" end="00:55:49.770" style="s2">put things through a wet/dry cycle it&#39;s</p>
+<p begin="00:55:48.210" end="00:55:53.119" style="s2">called the plasting reaction I was</p>
+<p begin="00:55:49.770" end="00:55:56.210" style="s2">writing about it in 1993 Dave Deemer and</p>
+<p begin="00:55:53.119" end="00:55:58.410" style="s2">Bruce Damer are focusing on it now</p>
+<p begin="00:55:56.210" end="00:56:01.200" style="s2">dehydrating and rehydrating the life of</p>
+<p begin="00:55:58.410" end="00:56:03.450" style="s2">some is adding energy to the system and</p>
+<p begin="00:56:01.200" end="00:56:05.810" style="s2">people are finding Dave dealers got some</p>
+<p begin="00:56:03.450" end="00:56:08.940" style="s2">wonderful things about the onset of</p>
+<p begin="00:56:05.810" end="00:56:11.270" style="s2">transport across membranes he&#39;s in Santa</p>
+<p begin="00:56:08.940" end="00:56:13.950" style="s2">Cruz he&#39;s really worth talking to you</p>
+<p begin="00:56:11.270" end="00:56:16.410" style="s2">it&#39;s not there yet Jim but it&#39;s not as</p>
+<p begin="00:56:13.950" end="00:56:18.150" style="s2">far away as it was interesting one of</p>
+<p begin="00:56:16.410" end="00:56:20.730" style="s2">the topics we talk about a lot on this</p>
+<p begin="00:56:18.150" end="00:56:22.410" style="s2">show is the Fermi paradox where are they</p>
+<p begin="00:56:20.730" end="00:56:24.660" style="s2">right and you know the called the</p>
+<p begin="00:56:22.410" end="00:56:28.619" style="s2">Stewart Kaufmann view life&#39;s probably</p>
+<p begin="00:56:24.660" end="00:56:30.660" style="s2">ubiquitous right there&#39;s 22 stars in the</p>
+<p begin="00:56:28.619" end="00:56:32.220" style="s2">universe it&#39;s not less debated that</p>
+<p begin="00:56:30.660" end="00:56:35.400" style="s2">something like half of them have holders</p>
+<p begin="00:56:32.220" end="00:56:37.710" style="s2">solar systems so it&#39;s 10 to the 22 solar</p>
+<p begin="00:56:35.400" end="00:56:39.720" style="s2">systems suppose one in a thousand of</p>
+<p begin="00:56:37.710" end="00:56:41.060" style="s2">them have life so that&#39;s 10 to the 19th</p>
+<p begin="00:56:39.720" end="00:56:44.220" style="s2">bias years out</p>
+<p begin="00:56:41.060" end="00:56:46.740" style="s2">that&#39;s a lot of biases if it turns out</p>
+<p begin="00:56:44.220" end="00:56:49.770" style="s2">the true life was easily reachable</p>
+<p begin="00:56:46.740" end="00:56:52.110" style="s2">across this information gap this error</p>
+<p begin="00:56:49.770" end="00:56:53.910" style="s2">catastrophe gap and you know when I was</p>
+<p begin="00:56:52.110" end="00:56:55.890" style="s2">a 14 year old nerd I would have bet any</p>
+<p begin="00:56:53.910" end="00:56:57.990" style="s2">sum of money that I had which wasn&#39;t</p>
+<p begin="00:56:55.890" end="00:56:59.910" style="s2">much that there was lots of intelligent</p>
+<p begin="00:56:57.990" end="00:57:01.980" style="s2">species out there but the more I&#39;ve</p>
+<p begin="00:56:59.910" end="00:57:04.050" style="s2">thought about it hard read on the Fermi</p>
+<p begin="00:57:01.980" end="00:57:06.390" style="s2">paradox the various Prudy rules it&#39;s</p>
+<p begin="00:57:04.050" end="00:57:09.150" style="s2">possible we might be the only one right</p>
+<p begin="00:57:06.390" end="00:57:12.120" style="s2">but turns out this gap is unbelievably</p>
+<p begin="00:57:09.150" end="00:57:14.010" style="s2">hard at low probability we hard and low</p>
+<p begin="00:57:12.120" end="00:57:17.250" style="s2">possibility you&#39;re right but if there&#39;s</p>
+<p begin="00:57:14.010" end="00:57:19.860" style="s2">if by my crude calculation there&#39;s 10 to</p>
+<p begin="00:57:17.250" end="00:57:21.090" style="s2">the 20th biospheres out there then for</p>
+<p begin="00:57:19.860" end="00:57:24.930" style="s2">there to be none it&#39;s gonna have to be</p>
+<p begin="00:57:21.090" end="00:57:27.830" style="s2">really small compared to 10 to the 20 10</p>
+<p begin="00:57:24.930" end="00:57:30.660" style="s2">to the 20 prebiotic autocatalytic</p>
+<p begin="00:57:27.830" end="00:57:32.790" style="s2">metabolism works just waiting for</p>
+<p begin="00:57:30.660" end="00:57:34.860" style="s2">something like yes this is where I&#39;ve</p>
+<p begin="00:57:32.790" end="00:57:37.670" style="s2">come out is that Stuart Kaufman is</p>
+<p begin="00:57:34.860" end="00:57:40.500" style="s2">correct that probably there is a</p>
+<p begin="00:57:37.670" end="00:57:44.720" style="s2">unbelievably large number of integrated</p>
+<p begin="00:57:40.500" end="00:57:48.780" style="s2">auto catalytic and metabolic networks</p>
+<p begin="00:57:44.720" end="00:57:51.540" style="s2">yeah and inside of you know fat but all</p>
+<p begin="00:57:48.780" end="00:57:54.120" style="s2">that question is how what percentage of</p>
+<p begin="00:57:51.540" end="00:57:57.030" style="s2">them ratchet up so having high fidelity</p>
+<p begin="00:57:54.120" end="00:57:58.890" style="s2">information transfer until we have some</p>
+<p begin="00:57:57.030" end="00:58:02.460" style="s2">understanding about how hard it is to</p>
+<p begin="00:57:58.890" end="00:58:05.490" style="s2">get to template replicating DNA or in it</p>
+<p begin="00:58:02.460" end="00:58:07.860" style="s2">or some other molecule to compari we&#39;re</p>
+<p begin="00:58:05.490" end="00:58:10.620" style="s2">really talking about Schrodinger&#39;s what</p>
+<p begin="00:58:07.860" end="00:58:13.680" style="s2">is life in a periodic solid of which DNA</p>
+<p begin="00:58:10.620" end="00:58:16.890" style="s2">and re are the wonderful examples that</p>
+<p begin="00:58:13.680" end="00:58:19.620" style="s2">could carry as he says a micro code for</p>
+<p begin="00:58:16.890" end="00:58:21.300" style="s2">the organism which DNA does until we</p>
+<p begin="00:58:19.620" end="00:58:23.730" style="s2">know how that happens and the micro code</p>
+<p begin="00:58:21.300" end="00:58:27.090" style="s2">is reliably transferred we don&#39;t know</p>
+<p begin="00:58:23.730" end="00:58:28.980" style="s2">but it can&#39;t be that far away Jim we&#39;ll</p>
+<p begin="00:58:27.090" end="00:58:31.920" style="s2">find out as people are working on it I</p>
+<p begin="00:58:28.980" end="00:58:34.230" style="s2">still remain agnostic right but I will</p>
+<p begin="00:58:31.920" end="00:58:36.630" style="s2">say I now give fair credit to those who</p>
+<p begin="00:58:34.230" end="00:58:39.030" style="s2">say that that leap may be so damn hard</p>
+<p begin="00:58:36.630" end="00:58:41.430" style="s2">it only happened one if that is true</p>
+<p begin="00:58:39.030" end="00:58:44.790" style="s2">this talk we&#39;ve had earlier about to</p>
+<p begin="00:58:41.430" end="00:58:47.160" style="s2">destroy our ecosystem is even more Wow</p>
+<p begin="00:58:44.790" end="00:58:49.140" style="s2">it&#39;s even more morally it&#39;s morally</p>
+<p begin="00:58:47.160" end="00:58:50.790" style="s2">loaded right if we&#39;re the only life in</p>
+<p begin="00:58:49.140" end="00:58:52.800" style="s2">the universe and one could say perhaps</p>
+<p begin="00:58:50.790" end="00:58:54.510" style="s2">our destiny is to bring the universe to</p>
+<p begin="00:58:52.800" end="00:58:57.870" style="s2">life if we snuff</p>
+<p begin="00:58:54.510" end="00:58:59.970" style="s2">intelligent like it&#39;ll not be good well</p>
+<p begin="00:58:57.870" end="00:59:01.410" style="s2">I think some bacteria will survive yeah</p>
+<p begin="00:58:59.970" end="00:59:03.420" style="s2">I think they will to it and probably</p>
+<p begin="00:59:01.410" end="00:59:05.670" style="s2">even other animals but will they get</p>
+<p begin="00:59:03.420" end="00:59:08.070" style="s2">back to intelligence cockroaches will</p>
+<p begin="00:59:05.670" end="00:59:09.900" style="s2">make it cockroaches we always have with</p>
+<p begin="00:59:08.070" end="00:59:11.300" style="s2">us Thank You Stuart this has been great</p>
+<p begin="00:59:09.900" end="00:59:13.650" style="s2">we&#39;ve had a few technical difficulties</p>
+<p begin="00:59:11.300" end="00:59:15.600" style="s2">the audio is not going to be as good as</p>
+<p begin="00:59:13.650" end="00:59:17.640" style="s2">it usually is but man what a great</p>
+<p begin="00:59:15.600" end="00:59:22.440" style="s2">conversation and that&#39;s the important</p>
+<p begin="00:59:17.640" end="00:59:24.720" style="s2">thing we all have to think about what</p>
+<p begin="00:59:22.440" end="00:59:25.860" style="s2">tap means for the Anthropocene and what</p>
+<p begin="00:59:24.720" end="00:59:28.200" style="s2">we&#39;re going to do as a species</p>
+<p begin="00:59:25.860" end="00:59:29.940" style="s2">everything else is trivial yeah yeah</p>
+<p begin="00:59:28.200" end="00:59:31.980" style="s2">it&#39;s interesting this the idea of tap if</p>
+<p begin="00:59:29.940" end="00:59:34.230" style="s2">you actually express tap without the</p>
+<p begin="00:59:31.980" end="00:59:36.990" style="s2">equation in your book right you talked</p>
+<p begin="00:59:34.230" end="00:59:39.540" style="s2">about this combinatoric unfolding of</p>
+<p begin="00:59:36.990" end="00:59:41.370" style="s2">both life and economy but once you have</p>
+<p begin="00:59:39.540" end="00:59:43.710" style="s2">the equation it actually is more stark</p>
+<p begin="00:59:41.370" end="00:59:47.190" style="s2">it in our face that unless we figure out</p>
+<p begin="00:59:43.710" end="00:59:49.080" style="s2">how to stop tap we&#39;re going to just run</p>
+<p begin="00:59:47.190" end="00:59:51.030" style="s2">outside all them out of the borders of</p>
+<p begin="00:59:49.080" end="00:59:52.680" style="s2">every resource and crush our planet</p>
+<p begin="00:59:51.030" end="00:59:55.320" style="s2">probably in the next hundred years</p>
+<p begin="00:59:52.680" end="00:59:57.600" style="s2">I think that&#39;s roughly right you we are</p>
+<p begin="00:59:55.320" end="01:00:01.110" style="s2">chopping down the last tree yeah that is</p>
+<p begin="00:59:57.600" end="01:00:03.810" style="s2">an unpleasant thought what has to start</p>
+<p begin="01:00:01.110" end="01:00:07.530" style="s2">happening Jim as we as a species have to</p>
+<p begin="01:00:03.810" end="01:00:08.850" style="s2">take on what this means and that is so</p>
+<p begin="01:00:07.530" end="01:00:10.530" style="s2">we&#39;re beyond anything we can say</p>
+<p begin="01:00:08.850" end="01:00:11.610" style="s2">fortunately there&#39;s some people working</p>
+<p begin="01:00:10.530" end="01:00:13.050" style="s2">on that some of the people I&#39;ve</p>
+<p begin="01:00:11.610" end="01:00:14.460" style="s2">interviewed on the show will be</p>
+<p begin="01:00:13.050" end="01:00:16.530" style="s2">interviewing on the show what is the</p>
+<p begin="01:00:14.460" end="01:00:18.810" style="s2">operating system of the future look like</p>
+<p begin="01:00:16.530" end="01:00:21.180" style="s2">that has the attributes of allowing us</p>
+<p begin="01:00:18.810" end="01:00:23.670" style="s2">to have an interesting intellectually</p>
+<p begin="01:00:21.180" end="01:00:25.830" style="s2">probing species yet not destroy our</p>
+<p begin="01:00:23.670" end="01:00:27.630" style="s2">planet I will say nobody has solved that</p>
+<p begin="01:00:25.830" end="01:00:29.250" style="s2">equation yet but there are people</p>
+<p begin="01:00:27.630" end="01:00:32.790" style="s2">working on it I want to hear more from</p>
+<p begin="01:00:29.250" end="01:00:37.160" style="s2">the advantages thank you I&#39;m hoarse this</p>
+<p begin="01:00:32.790" end="01:00:37.160" style="s2">bye bye take care be good</p>
+<p begin="01:00:38.630" end="01:00:44.610" style="s2">production services and audio editing by</p>
+<p begin="01:00:41.280" end="01:00:49.040" style="s2">Jared Jane&#39;s Consulting LLC music by Tom</p>
+<p begin="01:00:44.610" end="01:00:49.040" style="s2">Muller at modern space music com</p>
+<p begin="01:00:49.730" end="01:00:53.260" style="s2">[Music]</p>
+</div>
+</body>
+</tt>

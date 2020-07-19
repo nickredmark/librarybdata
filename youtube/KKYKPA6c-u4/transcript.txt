@@ -1,0 +1,783 @@
+howdy this is Jim rut and this is the
+Jim rut show listeners have asked us to
+provide pointers some of the resources
+we talked about on the show we now have
+links to books and articles referenced
+in recent podcasts that are available on
+our website
+we also offer full transcripts go to Jim
+rut show.com that's Jim ruts show com
+this is another in our extra koban 19
+related mini podcasts
+today's guest is michelle gurbin a
+physics professor at the University of
+Maryland College Park campus and
+external faculty at the Santa Fe
+Institute she's also one of the
+strongest researchers in the area of
+network science that I know of
+and I've asked her to come on today to
+talk a little bit about networks and
+network propagations of Epidemiology and
+what we have to think about on the
+backside of the curb in terms of dynamic
+responses to manage this disease on the
+network Michelle take it away why don't
+you talk to us a little bit about the
+very basics of network science how
+diseases propagate on a network and how
+changes in the nature of the network
+such as through social distancing can
+change the dynamics of network
+propagation of a disease thanks Jim for
+having me here I am delighted to be here
+to talk about applying network science
+to this pandemic that we're experiencing
+you know what's interesting for me from
+a modeling perspective is how much the
+general public is starting to learn
+about mathematical modeling so that's
+really exciting to me to see news
+articles in The Washington Post's in the
+New York Times talking about these si
+are models susceptible infected
+recovered and talking about modeling
+parameters and quantities like are not
+so that's probably what some of you have
+seen a bunch of the news are not is the
+average number of people infected when
+one person gets effect infected and this
+is
+at the start of the disease before you
+have any herd immunity and herd immunity
+another term you've probably heard is
+something where a lot of people who have
+contracted the disease cancel that can
+slow down the spread because there
+aren't so many susceptibles so let's go
+back so that's some of the basics of you
+know epidemics 101 but epidemics 101
+really thinks about a fully mixed
+population so every person is sort of
+equally likely to interact with every
+other person they have a certain number
+of connections on average and everyone
+has about the same number of connections
+so what's important from a network
+science perspective is to think about
+heterogeneity in the connection patterns
+between people so one of the most
+important heterogeneity is degree
+distribution so some people have huge
+numbers of connections while most people
+have lower kind of more average numbers
+of connect or more typical numbers of
+connections just a few get strong
+connections and that really changes the
+spreading pattern so if you consider a
+network where everybody has the same
+number of connections compared to a
+network where they're the same total
+number of connections in the system but
+some people have a much bigger share of
+those connections so consider those two
+networks the first homogeneous network
+and the second heterogeneous network so
+it turns out if you do the math
+spreading on the heterogeneous network
+is much more rapid and you end up with a
+much greater fraction of the population
+infected so the reason being is that
+those people who have a high number of
+connections they're likely to
+the disease and then because they have a
+high light high number connections
+they're also likely to spread the
+disease really quickly so this is one of
+the parts that's not mentioned so much
+in this great news coverage about
+mathematical modeling but not only do we
+have to think about our nacht and the
+average properties of the network but we
+have to think about the heterogenous
+properties of the network and that's
+where like closings schools comes in as
+it is important because schools are a
+big source of heterogeneity right
+because school children interact really
+strongly with it one another you have
+it's kind of like a source of giving
+people a lot of connections and so
+closing these large things shutting down
+big conferences part of that
+intervention strategy is not to really
+change the average properties but to cut
+off that high end that tail end of the
+distribution which is so responsible for
+spreading so like for instance at a
+conference with a thousand people who
+are jammed into a room and are shoulder
+to shoulder in the hospitality suite
+afterwards
+man that's a mixing bowl for viruses
+big-time that's very different than sort
+of the average interactions that we
+might have on the street that that what
+you're getting at
+absolutely absolutely and so these there
+can be two ways that this happens
+because we have these highly clustered
+interactions like conferences or because
+we might have individuals that we would
+call super spreaders who just go around
+and are connected to so many people so
+it's those that tail end that we really
+want to control in our network type
+interventions and are not one way to
+think about the network science part of
+this is to realize that on average your
+friends have way more friends than you
+do this is the friendship paradox and
+network science and I think it's like
+the first thing that you should learn if
+you're trying to wrap your mind around
+network
+science says hey more about that I
+remember reading about that early on
+when I started digging into Network
+science back in the early double lots
+when I was going what how could that
+possibly be true and then I work through
+the math and I go yep for the average
+person it's true could you run through a
+simple example or illuminate that for us
+a little bit sure I mean so so we all
+think of ourselves as average and you
+know we probably think of our friends as
+average and so our friends are just like
+us
+right but consider Facebook for example
+if you go and if you're on Facebook and
+you look at what your number of friends
+are and you look through all your
+friends and find out their average
+number of friends probably that average
+is gonna be a lot higher than your own
+number of friends and the reason is
+because an average person in the network
+you take the whole network you pick a
+person at random you look at that
+person's number of friends that's
+different than following a random link
+so picking a random one of your own
+friends by following a link from you to
+them
+that link is followed preferentially by
+their number of connections so because
+there are some people who have so many
+more connections you're way more likely
+to be connected to somebody who has lots
+of connections so then when you take a
+step back and look at it the average
+number of connections of your friends
+you really expect that to be a lot
+higher than the average number of
+connections of an individual or the
+number of connections that you have that
+makes actually makes perfect sense when
+you think about it from that way and
+that's one of the things why network
+science was such a huge contribution to
+the intellectual working capital the
+human race is that it produces very
+actionable insights such as that that
+are not intuitive yeah absolutely and I
+think that that's a first way for people
+to understand network science and to
+realize oh when we're thinking about
+these epidemiological models we just do
+everything at the population average
+level we're missing a lot of important
+elements that really change
+behaviors of the whole system and the
+course of disease spread and I'm really
+glad that we have a number of people
+particularly in our Santa Fe Institute
+community who are bringing advanced
+epidemiological modeling with a network
+understanding on top of it because you
+know that provides as a very different
+view rather than using these population
+averages because you now to address a
+little bit about how things like social
+distancing either you know low end
+social distancing like staying six feet
+apart and more radical such as stay at
+home orders how they change the literal
+nature of the network and what impact
+they are likely to have on the spread of
+the disease that's a really good
+question and there are a couple ways in
+which they change the nature of the
+spreading pattern so in these Network
+models of disease spread you have a lot
+of different parameters not only do you
+have the network structure who's
+connected to whom but you also have
+parameters of the dynamics of the
+disease the probability of transmission
+along an edge so this staying six feet
+apart from from one another if you still
+are going about and interacting with the
+same people like you're going to work
+but you're staying far apart from one
+another that's really changing the
+probability of spreading between people
+now it's also in part changing the
+network because it's giving you fewer
+opportunities to interact kind of
+casually with people you might interact
+with in a normal situation but what
+really changes the network is these
+lockdown situations where you're staying
+at home you're completely reducing the
+number of connections you have so not
+only have you changed the probability of
+transmission but you've changed the
+network topology yep and so for instance
+if we think about our relationships with
+everybody we know it's a link between
+let's say you and me and if the nature
+of the link right now is you and I going
+out to have dinner
+at a restaurant we were sitting 18
+inches apart the dynamics of how the
+disease spreads probabilistically is one
+thing if you and I are talking over zoom
+it's entirely different so if instead of
+doing this by zoom we did it face to
+face we would be changing the nature of
+propagation on the network exactly okay
+and so that each one of these
+essentially is changing the property of
+the link we stop we don't stop knowing
+people so our social graph in some sense
+is still unchanged but the properties of
+the graph the properties of each link
+change as we social distance right and I
+like to think about it as we have you
+know our underlying social interaction
+Network and then we have a subset of
+that network the network along which the
+transmission can spread so if you if
+we're we have a social connection but
+that connection is only being realized
+virtually that's not a potential link
+for spreading right and as people switch
+from physical presence to virtual
+presence I'm thinking in my head of
+nodes and lengths you know the nature of
+the links changes it now becomes
+impossible for you know Jim to give
+Michele Corcovado face meeting to a zoom
+meeting and the more of those that
+change literally the propensity to
+propagate on the network changes very
+considerably and another thing that we
+really have to think about is that the
+networks adapt in response to the
+spreading patterns now one thing I think
+that we as a community have been doing
+pretty well is cutting down the number
+of visits to doctors offices where you
+have questionable symptoms and you might
+then then healthy people who might get
+the disease at a doctor's office so
+there have been various policy
+suggestions call your doctor from home a
+move to move to telemedicine instead of
+in-person visits because you know what
+happens is when people are sick they go
+to the doctor
+and maybe they're sick with coronavirus
+but maybe they're sick with a common
+cold and then you know if you they're
+all meeting especially this is a high
+density of people who have kovat 19 in a
+small space that really increases the
+transmission so I think that's one thing
+we've actually been doing right is
+keeping people from going directly to
+the doctor's office and trying to cut
+off some of the spread that happens in
+that way and this is of courses for
+people who have just mild symptoms I'll
+give you a perfect examples we talked
+about pre-roll on the show my daughter's
+like 25 weeks pregnant and
+fingers-crossed been a very healthy
+non-problematic pregnancy and her and
+her doctor negotiated changing many of
+her normal check-in visits from in
+office to telemedicine for exactly that
+reason the you know the benefit of a
+routine office visit for a healthy
+pregnancy is not zero but it's not huge
+compared to a telemedicine and the risk
+is significant so the math works out do
+telemedicine right on the other hand if
+she were to have a complication sheet of
+course go to the doctor or the hospital
+because at that point the the risk
+reward works the other way and you know
+so humans are smart we're you know a
+smart adaptive agents and we are making
+those changes again as we talked about
+in the pre-roll both of us are now using
+order in advance pick up at the grocery
+store quarantined the food in a cooler
+for a day etc and that's sort of
+bottom-up self-organizing modifying the
+network you know my relationship to my
+grocery store is now a much less
+powerful vector for viral spread right
+absolutely i but I do wonder about some
+of these changes have they gone far
+enough I mean certainly there we need
+our health care workers to keep going
+you need our grocery workers to keep
+going but are we putting enough measures
+in to protect those people because they
+are interacting with so many people
+every day and what else can we do to
+change the
+transmission parameters to help protect
+them also you know I kind of luckily
+removed from manufacturing processes and
+things like that but are the plants that
+are manufacturing these goods what are
+what are the network properties of the
+individuals who are doing this important
+work during this time and how can we
+protect them better yeah and of course a
+lot of that a different topic but
+something you know near and dear to a
+complexity science perspective is
+unfortunately our hyper capitalist
+short-term money on money return Society
+has engineered everything for efficiency
+and not for robustness you know for
+instance we know these plagues are
+coming look at the the data on
+respiratory illnesses in the number of
+cases and if you assume a fat tail
+distribution which certainly seems
+reasonable something like this is very
+predictable to have happened someone who
+was thinking in terms of robustness and
+complexity would have stockpiled
+billions of face masks right you know
+tens of thousands of ventilators body
+suits and so these issues of our health
+care workers having to expose themselves
+and a lot of them are heroes I mean my
+sister-in-law is a nurse practitioner
+and a heroic medical person who is
+putting her life on the line literally
+every day to help her patients I would
+have felt a hell of a lot better and we
+actually you know sent her masks and
+things like that my brother sent her
+some masks and you know if we've been a
+smart robust and resilience thinking
+society we would have prepared for this
+right absolutely and right now that
+could be a big weakness that we have in
+our system because that's a point rate
+so while everything else is closed down
+it's these mega centers like hospitals
+where there is a big possibility for
+continued spread of the disease and if
+we're not we don't have enough equipment
+to make those precautions we're not
+cutting off that tail like we need to
+yea Lantern as you would say from the
+network perspective those are you know
+hi mixing nodes with a high propensity
+of sick people right so just what you
+don't want absolutely
+another thing that I seen recently and
+this is not related to my expertise in
+network science so but I think it's an
+interesting feature that's not been
+included and a lot of the modeling is
+the level of exposure that people have
+so you know healthcare workers they can
+get much hotter they can be exposed to
+much higher doses of the virus as
+compared to somebody who gets it from a
+surface and as I've read again on expert
+in this that how sick you get for many
+types of viruses is strongly correlated
+with that level of exposure so it's also
+something we can be we should be taking
+into account yes in fact a mini podcast
+like we are publishing today from Robin
+Hanson
+we discuss in considerable detail dose
+response and what might seem paradoxical
+guidance that comes from that you know
+for instance he's famous I kind of
+classed and he talks about you know
+maybe young people should voluntarily
+get the illness be paid a small premium
+for doing so and be given a card that
+shows that are immune and maybe people
+shouldn't shelter-in-place at home
+because if one person in the house gets
+it the dosage level in the house is
+going to be very high so you know that's
+an area that I'd like to see some of our
+modelers you know hop on thinking about
+this dose response possibility and maybe
+it produces some you know non-intuitive
+ways of responding yes and and you also
+mentioned something that's really
+important and part of the next step out
+of this quarantine situation which is
+knowing who's who had the infection
+right so a lot of these different
+strategies like you know getting the
+virus which I'm not sure is good
+strategy I'm not condoning that at the
+moment but a lot of these different
+strategies are predicated on knowing who
+was infected and who wasn't so I think
+that that's going to be a really
+important part in designing our way out
+of this after it you know if we are
+successful in flattening the peak which
+it seems like there is a good effort in
+this area that these the you know
+quarantine efforts are making a
+difference but then what's next and how
+can we plan for what's next without the
+ability to test who's had the who's had
+the disease or not
+ah that's exactly right that's a good
+time to transition to the second topic
+which is managing the back side of the
+curve that's now where all my attention
+is in terms of actual work trying to
+figure out what guidance to give to
+government not-for-profits etc and I
+feel like we're way behind the curve on
+managing the backside of the curve and
+it's going to be more difficult require
+more you know a more aggressive
+intellectually deep mindset than
+managing the front side which has been
+you know essentially fairly
+straightforward break the network smash
+the the curve doing the dance on the
+back side is going to be very very
+tricky if we're going to avoid the
+historical second peak you know in the
+famous influenza of 1918 which is
+probably closest to in magnitude the
+second peak you know four or five six
+months later killed more people in the
+first peak and there are ideas about how
+we you know be much more dynamic on our
+social distancing so we can take it off
+in some places and bring it on in others
+but that's gonna require data and
+dynamic decision-making could you talk a
+little bit about the you know the
+network science and any thoughts you
+have on managing the back side of the
+curve until we have a vaccine that is
+such an important question and as you
+mentioned so much harder to answer so
+from a mathematical modeling perspective
+whether we're doing this like mixed
+fully mixed population assumption or
+whether we're adding in some of the
+details of the network structure and the
+heterogeneity is where some people have
+lots of connections but most people have
+a lower number so regardless of what
+approach you take in the beginning it's
+much easier to capture this because you
+can make
+something that almost everybody is
+susceptible right and then as many as a
+significant fraction of your population
+gets infected with this and then
+recovers modeling that side of things is
+much harder and it's much harder in this
+scenario when you have the hidden
+variables that you don't know the states
+of individuals whether they're they've
+recovered or not or whether they were
+never infected and so the mathematical
+modeling is more complicated because for
+two reasons you can't just consider
+everybody to be susceptible and put the
+name really harder part of connecting
+mathematical modeling with intervention
+strategies is you need to know what
+class each of your people the
+individuals are in are they still
+susceptible or are they recovered and
+now hopefully as we've heard enough of
+that you know there is evidence that
+they should be immune at least for a
+while
+yep and again this is multi-dimensional
+analysis with unfortunately our society
+ain't great at and you know we need to
+have disease testing to catch people
+with symptoms to crack down on them
+quickly after the fact and as you point
+out the immunity testing would be huge
+to you know certify people to work in
+dangerous virally dangerous frontline
+physicians you know wouldn't it be great
+if there were a ID certificate that said
+I am immune and let those people go back
+to work as uber drivers and working as
+the store clerks etc and the other thing
+is this monitoring so that we can bring
+our resources to bear and I will say
+there's one hopeful part of this is I've
+been thinking about the network dynamics
+let's say the smashing the curve works
+we see a crash in the number of new
+cases to gets down to a very low number
+in late June and early July but we ramp
+up testing then when the inevitable
+hotspots reflet first and we'll hit one
+and yet we built up this big reserve of
+ventilators and
+you know 15-minute test equipment we
+should be able to mobilize them very
+rapidly if necessary have the Marine
+Corps fly men on helicopters and swarm
+these new hot spots with 15-minute tests
+you know with anybody testing etc and if
+we need to shut them back down again
+maybe it's just a County in a little
+County in West Virginia that somehow
+never had any disease at all so has no
+immunity somehow somebody visits from
+someplace get started flares up but if
+we do a high enough level of testing you
+know we'll be able to detect it early
+and because we've already mobilized all
+the equipment and stuff we can fly it in
+and squash it but to do that requires a
+warfighting data-driven model driven
+mentality which so far is only slowly
+spinning up absolutely I mean it really
+has to be an organized effort so two
+things that you touched on which really
+I think are worth emphasizing and
+thinking about more no I love this idea
+of doing antibody testing you know there
+is a little bit of a concern that people
+who want to go back to work will
+intentionally get the virus so that they
+can now be card-carrying certified
+recovered so that's something to worry
+about and then another thing is to think
+about the timing to use some of these
+mathematical network based models to
+really time the intervention strategies
+and the social distancing requirements
+at various times because what I suspect
+on the backside of the curve also as it
+was in the front side of the curve you
+need to start changing people's behavior
+before it looks bad absolutely or you
+know the hospital system is overwhelmed
+it's kind of hard to convince people to
+change their behavior when things aren't
+looking too bad so the timing of those
+strategies is something that we really
+need this combination of data analysis
+and mathematical modeling to get right
+yeah in fact just Aflac told me
+I did the other day I can't find it on
+the internet but she said that Paul
+Romer was suggesting that it was worth
+economically worthwhile to do was at 20
+million tests a day so that we had
+essentially instant information on any
+flare-up so we're not waiting for you
+know hospitals to be overrun but we find
+in this county in West Virginia three
+cases where there had been none for you
+know six months and then we immediately
+marshal the resources to squash it so
+it's a you know you have modeling you
+and you have data and you have the
+ability to instantly respond and you
+don't wait for weeks to go by for these
+massive for these high-volume signals to
+occur it's kind of an interesting idea
+and I think you say it would cost three
+hundred fifty billion dollars or
+something but it'd be money well spent
+so I think this kind of thinking is what
+managing the back side of the curve is
+going to be all about right absolutely I
+hadn't thought about how that investment
+might be really sensible from from an
+economic payoff certainly from from an
+ability to change the backside of the
+curve absolutely it's gonna change
+things and so I think it is a good
+investment because by waiting and having
+to quarantine and shut so many things so
+many industries down it's a huge
+economic impact but if we could have
+really large-scale testing I mean it
+would be very costly but it's great you
+know to really see that analysis done to
+see the economic benefits of that and I
+look at the stock market alone how much
+does it lost six trillion dollars
+something like that and that's a you
+know two hundred million two hundred
+billion dollar year investment in
+absolutely ubiquitous testing be
+damn cheap to get our economy back to
+work and as this kind of thinking
+informed by modeling and exactly the
+kind of network analysis combined with
+epidemiology that we've been talking
+about is what we need to be driving
+whoever's in charge of thinking through
+the strategy on the
+backside of the curve and I wonder if we
+could get companies involved like big
+companies involved in this somehow to
+say well you guys could send your full
+workforce back to work if you agree to
+pay for the testing yep frankly I've
+been you know writing down business
+ideas that this epidemic produces and
+one of the ones near the top of the list
+is a business that does nothing but
+certify people to be for their immunity
+and so a company could hire this company
+you know rut go four hundred dollars per
+employee to certify them as immune and
+of course we have to have some caveats
+tests aren't always accurate but if you
+wanted to be more accurate you have them
+tested twice right and we'll cart charge
+you $200 and that will take the you know
+basically the product of the error rates
+so the error rate goes way down and they
+also want to certify you also want the
+company to monitor people who are
+susceptible and continually monitor them
+so it would be nice for them to be able
+to go back to work too but we're trying
+to guarantee a pretty safe environment
+and to do this we keep testing the
+susceptibles all the time yeah that's
+the Paul Romer army 20 million tests a
+week a day I think it was it some crazy
+number but you're basically constant
+surveillance everywhere so it's
+relatively safe to go back to your
+office as long as you know that if Sally
+at the other end of your floor is got
+the disease even though she's
+pre-symptomatic and it's then told she
+has to go quarantine for 15 days your
+risks go way way down and if you know if
+you're young and healthy it probably
+makes sense to go back to work so again
+you know thinking holistically about
+networks propagations interventions
+testing mobilization I believe that if
+we did this right we could manage the
+back side of the curve so that we did
+not get a second peak until the vaccine
+gets here but it will require a very
+fancy dance to do it and I sure the hell
+hope the powers that be are able to
+organize a set of talent skills analysis
+and action taking sufficient to do
+it's doable and it will allow our
+economy to restart it'll save probably
+at least as many deaths and disabilities
+as have happened from the first wave but
+it's going to require smarter footwork
+than we've seen on the front side I
+totally agree the backside is the
+challenge that we all need to put our
+minds to now okay well thank you
+Michelle this has been a wonderful
+episode exactly what I was hoping but
+before we sign off I'd like you to tell
+our audience about a zoom based course
+that you guys are offering on network
+epidemiology so I direct the combined
+program at the University of Maryland
+combined stands for computation and
+mathematics in biological networks so
+network epidemiology is an important
+focus within the field of biological
+networks and when we shifted to an
+online environment I thought okay well
+I'm not my combining fellows to stay in
+touch so let's do a little series on
+network epidemiology but then I thought
+well if we're gonna do an online series
+there are a lot of people who might want
+to learn about this so why not have a
+bigger reach so then we partnered with
+the Vermont complex system Center Santa
+Fe Institute sent out a bunch of
+announcements for us and we got a whole
+bunch of people involved in this online
+series on understanding and exploring
+network epidemiology and the time of
+coronavirus so this is a four week
+series meeting once a week we have
+tutorials and seminars but then we have
+discussion sections and we have people
+sign up to participate in group projects
+and so they're all self-organizing on a
+slack site so the live online sessions
+are already oversubscribed
+had many more excellent dedicated
+applicants than we could accommodate but
+we want true we want these resources to
+reach anyone who is interested so we're
+putting everything on our YouTube
+channel so you can get to our YouTube
+channel from the main combined website
+combined is combined UMD edu you can
+also google combined UMD and find those
+videos we had an excellent tutorial
+yesterday introducing us to network
+epidemiology by Laurent Abair Dufresne
+from the University of Vermont who's
+done some really excellent work on
+network epidemiology in general and also
+on coronavirus or commit nineteen so and
+as always we will have these links on
+the episode page for Michelle's podcast
+Thank You Michelle this has been
+absolutely wonderful thank you
+[Music]
+production services and audio editing by
+jerod Jane's consulting music by Tom
+Muller at modern space music com
+[Music]

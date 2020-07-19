@@ -1,0 +1,2059 @@
+howdy this is Jim rut and this is the
+Jim rut show
+[Music]
+hey this is Jim rut and this is the Jim
+rut show our guest today has been
+virtual one of the world's leading
+figures in the effort to achieve
+artificial intelligence and the human
+level and beyond what is often called
+artificial general intelligence or AGI a
+term that been coined we will likely use
+the term AGI a lot today when we are
+referring to AI at a fully human level
+and beyond in addition to being a
+researcher and prolific author Ben is
+the leader of the open cobb open-source
+AGI software framework and he's the CEO
+of singularity net a distributed network
+that lets anyone create share and
+monetize AI services at scale welcome
+back hey Jim thanks for having me yeah
+great to have you maybe we could start
+remember our audience while a
+intelligent and well-read audience isn't
+necessarily an expert audience and AI
+could you tell us what AGI is and how it
+differs from narrow AI and why the
+emergence of AGI is so significant yeah
+when the AI field began in the middle of
+the last century the basic informally
+understood goal with Street intelligence
+of kind of the same type that people had
+then during the next few decades it was
+discovered that was possible to create
+software hardware systems doing
+particular things that seemed very
+intelligent when people did them but
+doing these things in a very different
+way from how people did them and doing
+them in a much more you know narrowly
+defined way so I mean in the 50s it
+wasn't clear that you know would make
+sense to make a program that could play
+chess as well as a grandmaster but
+didn't approach it anything like a
+grandmaster did and couldn't play you
+know Scrabble or checkers at all without
+some reprogramming so the existence of
+these narrow a eyes that do particular
+intelligence seeming things in narrowly
+defined ways very different from our
+human suitum I mean this was it was
+really a major discovery which is quite
+interesting and it's left us in a
+situation now that I think of as a
+narrow AI revolution where we have a
+astounding variety of systems that can
+do particular very intelligent seeming
+things yet they're not doing anything
+like how people did it and as part of
+that difference from our people did it
+you know they're not able to generalize
+they're intelligent function beyond the
+very narrow class of contacts and so I
+introduced the term AG AI artificial
+general intelligence 15 years ago or so
+with a view toward distinguishing
+between a eyes that are very good at
+doing tasks that seem very narrow in the
+context of ordinary human life versus a
+eyes that are capable of achieving
+intelligence at least with the same your
+generality of contexts that people can
+other terms like transfer learning and
+lifelong learning live arisen in the AI
+community have closely related meanings
+because I mean to achieve general
+intelligence you need to be able to
+transfer knowledge from one domain to a
+domain that's qualitatively different
+from a human view from the domains you
+were you know program for or or trained
+for and you know it's important to
+understand humans are not the maximally
+generally intelligent system I mean from
+the standpoint of computability Theory
+Marcus withers they're universal I I
+sort of articulates whether fully
+mathematically general intelligence
+would be like we're definitely not that
+like if you if you give a human in based
+around and 275 dimensions they'll
+probably do a very bad way so we're not
+a good at generalizing beyond for
+example the dimensionality of the
+physical universe that we live in so
+we're we're not maximally general by any
+means we're very narrow compared to some
+systems you can imagine but we're very
+general compared to the AI systems that
+are in commercial use right now so I
+think as a research goal it's worth
+thinking about how do we make a eyes
+that are at least as generally
+intelligent as humans ultimately more
+generally intelligent and it's an open
+question to what extent you can get to
+human-level AGI my sort of incrementally
+improving current style narrow AI
+systems versus needing some
+substantially new approach to get to
+higher levels of AGI well with all the
+various contending approaches out there
+is there a rough estimate either in the
+community or your own or both on when we
+might expect to see you know human level
+general intelligence my stock answer to
+that in recent times has been five to
+thirty years from now and I'd say in the
+AI community there's a fair percent of
+people who agree with that but you'll
+get a range of estimates aiming from
+five or ten years up through hundreds of
+years and there are very few serious AI
+researchers who think it will never
+happen but there are some who think a
+digital computer just can't achieve
+human-level general intelligence because
+the human brain is a quantum computer or
+a quantum gravity computer or something
+but if if you set aside the small
+minority of researchers who think the
+human brain
+you know fundamentally relies on some
+trends Turing computing for its general
+intelligence setting aside those guys
+for the moment you have estimates that
+are you know 10 30 50 70 100 years not a
+lot better another 500 years and I'd say
+during the last 10 years
+the mean and variance of these estimates
+have gone way down so I mean 10 or 20
+years ago there was a small percent of
+researchers who thought AGI was 10 to 20
+years off a few thought was 50 years off
+a lot and thought it was a couple
+hundred years off now from what I've
+seen substantial plurality probably a
+decent majority think it's coming in the
+next century so I I remain on the
+optimistic end but the trend has been in
+direction of me rather than in the
+direction of AGI pessimists that's
+interesting our last guest on the Jim
+run show was Robin Hanson and we talked
+a lot about AGI via upload or emulation
+of a human directly scanning their
+neural system their connectome and
+representing that on earth in a computer
+it seems to me that one could at least
+at one level divide AGI approaches into
+uploads slash emulations and software
+approaches to just maybe speak a little
+bit about your thoughts on those two
+broadly different ways of achieving AGI
+I think right now the idea of achieving
+AGI via an upload or emulation of the
+human brain is really just an idea I
+mean it's an idea that seems to be
+scientifically feasible according to the
+known laws of physics but there's really
+no one working directly on that there
+are people working on supporting
+technologies that could eventually lead
+you to be able to scan the brain Acula
+enough that you could start seriously
+working on that but right now we just
+don't have the brain scanning tech to
+scan the mind out of a living brain and
+we don't have the reconstructive tech to
+take a dead brain like freeze it slice
+it scan and then reconstruct the
+dynamics of that brain I mean in theory
+you could do that by the laws of physics
+but we're way without speaking of time
+estimates and we were very far away in
+terms of tools and concepts from being
+able to do that right now worse the
+attempt to create a GI via software be a
+very loosely brain inspired software
+like current deep neural nets or more
+math and cognitive science inspired
+software like OpenCog I mean the
+prospect of getting AGI by software this
+is a subject of like really concrete
+research projects now so it's certainly
+much more than an idea I mean it may be
+that all these projects
+wrongheaded but at least we're directly
+working on the problem right now
+so I mean conceptually you could divide
+AGI into those two approaches but I'd
+say those two approaches are there are
+very different practical status at the
+moment at one point I made when I was
+talking with Robin is that the upload
+emulation approach is essentially
+all-or-nothing
+either you can upload him a brain maybe
+not a human brain but a full brain and
+make it work like it's supposed to or
+you can't
+while the software world one can see in
+fact we obviously are already seeing
+lots of incremental benefits and you
+know for my experience in the business
+world the investment world
+I generally guide people away from
+trying to jump up a cliff right go from
+zero to a hundred in one single project
+I don't think that's quite a fair
+assessment because I think the missing
+link for being able to mind upload
+people or simulate people in detail I
+mean the missing links are the right
+kind of hardware / wetware and on the
+other hand the right kind of brain
+scanning equipment and I think
+incremental approaches toward you know
+brain like hardware or wetware and
+toward really stretch you too broadly
+accurate brain scanning
+I think you know those advances would
+lead to a lot of amazing incremental
+achievements I mean get making advances
+and that kind of hardware or wetware
+will probably do a lot of funky narrow
+machines doing robot control or
+perception there's something and
+advances in brain scanning would lead to
+amazing progress in you know
+understanding how the human mind works
+and diagnosing diseases the brain and so
+on so I think incremental progress in
+that direction could be valuable for
+reasons other than building AI systems
+and you know it might be valuable for
+building animal level eyes too right if
+you want to build an artificial rodent
+or a bug or something then progress is
+scanning organisms and emulating them
+can be pretty interesting also so I I
+don't think that's it
+and by any means it's it's super
+interesting I just think right now
+that's about the research on supporting
+technologies rather than about mind
+uploading per say a brain emulation per
+se yeah I thought you make some good
+points and that suggests that we're
+likely to see both tracks gradually
+attract more and more resources as we
+get to it
+I would say like brain scanning needs a
+breakthrough right it needs a radical
+breakthrough in imaging or else a
+radical breakthrough in extrapolating
+the dynamics of the brain forward giving
+a static snapshot and it's not as
+obvious that Adi needs a radically
+different sort of technology than what
+now exists I mean it it might but it's
+not obvious as it is for for brain
+emulation I think people who aren't
+building the technology but who are
+speculating about it they like the brain
+emulation idea because it's a proof of
+principle right it just like the bird is
+a proof of principle that a flying
+machine can be built out of molecules
+but then as we all know that the best
+proof of principle isn't always the best
+way to build something in nanotech is a
+good example that I mean in Derek
+Drexler's initial books on nanotech I
+mean he was making all these pictures of
+gears and pulleys and you know now that
+structures have looked like big machines
+that we make and that's the right
+approach to take if you want to make it
+first proof of principle that a nano
+machines could exists but now it's
+becoming clear the way nanotech is
+probably gonna work is a bit more
+molecular biology ish but that's a
+harder way to work out details in the
+proof of principle type way but it may
+be a more artful way to actually make
+the machines work so I think it's it's
+not bad if you're a proof of principle
+system ends up totally different than
+the system you actually build but of
+course also my double earnings interest
+and Yas cos were humans right and even
+if that's the most awkward way to make
+AGI from the perspective of making the
+most intelligent possible systems the
+fastest or the cheapest I mean from our
+particular position as humans like I
+would love to have you know a mind
+upload of Friedrich Nietzsche or philip
+k dick to play ping pong
+and of myself for that matter so I don't
+have to be stuck in this body forever so
+there's there's interesting value to
+that apart from how good an AGI approach
+it is with my AGI hat on
+however yeah I'm more drawn to more
+heterogeneous approaches that no
+leverage what we know about the
+mathematics of cognition and leverage
+the current hardware that we have to a
+greater extent into the brain emulation
+approach can take I mean the current
+hardware we have is very little like the
+brain unless you did get super high
+level loops of abstraction I mean we now
+understand a lot about how to do some
+types of intelligent activities like
+theorem proving or arithmetic or
+database lookup way better than the
+human brain does so it's interesting to
+think about how to create AGI in a way
+that leverages this hardware that we
+have in this knowledge that we have
+while also leveraging what we do know
+about how the brain works and that that
+leads you to a more opportunistic
+approach to AGI where you say well how
+can we put together the various
+technologies we have now including
+brandish and non brandish technologies
+to take the best stab at creating an
+intelligent system and a system that can
+move from no AI + + toward general
+intelligence so man you've been working
+on the OpenCog project for a number of
+years which is an approach to AGI that's
+quite different from the deep learning
+approach we hear about so much about the
+media could you tell us about OpenCog
+the history of it and what it is so the
+history of OpenCog goes back before
+OpenCog I mean it goes back to the
+mid-90s when I started thinking about I
+could make an AI which was a sort of
+agent system that was a society of mind
+as Marvin Minsky had described it but
+with more of a focus on emergence so
+Marvin Minsky viewed the mind the human
+mind is an artificial mind there's a
+collection of AI agents that each carry
+out its own
+particular form of intelligence but they
+are interacting with each other much
+like people in the society interact with
+each other within the intelligence came
+out the overall society I like this idea
+because I like self-organizing systems
+and I thought this sort of
+self-organizing complex system might be
+the right kind of mind like behaviors
+but when I dug into it more I realized
+Marvin Minsky didn't like emergence and
+he doesn't like nonlinear dynamics at
+least not in an AI or cognitive science
+context whereas I was viewing the
+emergent level of dynamics and the
+emergence of like overall structures in
+the network of agents as being equally
+important to be intelligent be
+individual agents in the society so I
+mean I I tried in the late nineties to
+code myself a system called web mind
+which will be a bunch of agents
+distributed across the internet each of
+which you know trying to do its own kind
+of intelligent processing and where they
+all coordinated together in the way of
+yield emergent intelligence we did some
+amazing prototyping in the company in
+New York I formed web mind incorporated
+but then no we failed to make a success
+of our business in spite of decent
+effort and ran out of money when the.com
+boom crash in 2001 and I then started
+building a system called the novo
+metacognition engine much of which was
+eventually open sourced into the open
+cog system and I would say open cog and
+then the singularity network each of
+these reflects different aspects of what
+we were trying to do in web mind so web
+mind was really a bunch of agents which
+was sort of heterogeneous that we're
+supposed to cooperate to form an
+emergently intelligence system now
+OpenCog we tried to control things a lot
+more so we have a knowledge graph which
+is a weighted labeled hyper graph called
+the atom space with particular types of
+nodes and links in it particular types
+of values attached just some of the
+nodes and links such as truth values and
+attention values of various sorts then
+we have multiple AI algorithms that act
+on this out of space you know
+dynamically rewriting it and in some
+cases watching what each
+and helping each other out in that
+rewriting process so there's a
+problematic logic engine called PLN
+probabilistic logic networks it was
+described in a book from 2006 or so
+there's Moses which is a probabilistic
+evolutionary program learning algorithm
+that can learn little atom space sub
+networks representing executive or
+programs there's eke and economic
+attention that works that propagates
+attention values through this
+distributed network of nodes and then
+you can use deep neural networks to
+recognize perceptual patterns or
+patterns and other sorts of data and
+then create nodes in this knowledge
+graph representing sub networks or
+layers in the deep neural networks so
+you have all these different AI
+algorithms cooperating together on the
+same knowledge graph and the concept of
+cognitive synergy I coined that term to
+refer to the process by which for one a
+AI algorithm gets stuck or makes slow
+progress and it's learning then the
+other AI algorithms can understand
+something about where it's got stuck so
+understanding something about its
+intermediate state and when it was
+trying to do and then can intervene to
+help make new progress that can can
+unstick the a algorithm that got stuck
+so if a reasoning engine gets talkative
+logical inference maybe evolutionary
+learning could come in to introduce some
+new creative ideas or perception can
+introduce some sensory level metaphors
+you know if a deep neural net gets stuck
+at recognizing what's in the video it
+can refer the reasoning to do some
+analogy inference or it could it could
+refer to you know evolutionary learning
+to brainstorm some creative ideas you
+know to make an OpenCog system easy to
+do a lot of thinking about how these
+different AI algorithms can really
+cooperate and help each other
+acting concurrently on the same
+knowledge store it's different than like
+a modular system where you have
+different modules inviting different AI
+algorithms with a sort of clean API
+interface between the modules we don't
+have a clean API interface between the
+open
+modules the design is more than these
+different algorithms are cooperating in
+real-time on the same dynamic knowledge
+graph which is then stored in RAM and
+this is a there's some resemblance to
+what was called a blackboard system in
+the 80s a long time ago but the
+blackboard is this dynamic in RAM
+weighted labeled hyper graph and the eye
+algorithms are all uncertainty savvy and
+you know interacting largely on the
+level of exchanging probabilities and
+probability distribution just has two
+different pieces of knowledge and so
+that I mean the focus on graphs and
+probabilities is different than
+blackboard system said we're back
+decades ago talking about cognitive
+synergy you know I'm thinking that idea
+from you guys and thought about it a bit
+more real-time dynamic fashion we're not
+only can one set of algorithms attempt
+to solve a problem that another one is
+stuck on but also think about
+bi-directional problem-solving for
+instance taking from human cognitive or
+animal cognitive science it certainly
+appears that high level clues flow back
+from higher levels of the mind to the
+perceptual system for instance when the
+perceptual the upper levels the
+perceptual stack are trying to identify
+an object you know for instance the
+scene at a higher level makes more sense
+with certain objects than with others
+and you know that's something I
+generally don't see in most current deep
+learning projects but I see OpenCog
+being very well structured to do that
+kind of real-time dynamic multi-level
+processing bi-directional yeah yeah
+absolutely I mean the concept of
+cognitive synergy was always intended to
+be bi-directional and concurrent with
+multiple AI algorithms helping each
+other out at the same time in cycles and
+complex networks and I I tried to
+formalize the cognoscenti notion using
+of category theory and probability in
+the paper at one of the AGI conferences
+but I mean that brings you in a whole
+direction of mathematical abstraction
+the the example he mentioned certainly
+is an important one and I'd say and then
+there are science analogy current deep
+learning networks for vision or audition
+probably model well what the human brain
+does in less than half a second or so
+and when you take longer than that to
+perceive something it's often because
+you're using cognition in some form to
+you know disambiguate or interpret to
+bring some background knowledge on
+interpreting the perceptual stimuli
+that's something current deep neural
+Nets don't really try to do I mean of
+course you could attempt it in a neural
+net architecture by taking in their own
+net with a long term declarative memory
+and long term episodic memory and like
+coach training them in some way with a
+perceptual neural network but that's not
+something being worked on a lot and
+we've been working toward doing that
+sort of thing in OpenCog where you have
+a symbolic cognitive engine atoms face
+and pln and so forth
+interacting with a deep neural net for
+doing perception we've done some simple
+experiments in that regard and there
+there's been a lot of tweaking we've had
+to do to the OpenCog atom space
+framework not so much the added space as
+a representational tool but to the
+pattern matcher which is a key
+operational tool on top of the atom
+space so a lot of tweaks we've had to do
+the pattern matcher to make it
+interactively in real time with deep
+neural networks but we're mostly through
+that now and I've been doing some
+interesting experiments in the direction
+you've suggested and I think this can be
+valuable in natural language processing
+also where I mean we have Bert Ernie
+these various even neural net
+architectures doing a great job at
+recognizing various complex statistical
+patterns in natural language text so
+that they can then you know emulate
+natural language in a way that looks
+realistic in the short run yeah
+clearly they're not getting the overall
+meaning of a document or the deeper
+semantics of what's being said but you
+can see in the indian meaningless
+aspects of their generated text over a
+medium tough medium scale of text length
+so we've been working on combining deep
+neural nets for text analysis with a
+more symbolic approach to extracting the
+meaning from text so I think I think
+this sort of neural symbolic approach to
+AI is gonna be very big three or four
+years from now because deep neural Nets
+in their current form we're gonna run
+out of steam I mean there's still more
+steam left because you know real-time
+analysis of videos and videos with audio
+on your mobile phones chip that's not
+yet rolled out commercially right so
+there's more steps to be followed to
+kind of straightforwardly by just
+incrementally improving and scaling up
+current deep neural nets but I think you
+know once enough sensory data processing
+has been milked using these deep neural
+nets we're gonna hit a bunch of problems
+that need more abstraction and I'm
+guessing that tweaking deep neural nets
+to do abstraction is not gonna be the
+step forward now there may be many paths
+forward you can perhaps take a multiple
+there on that architecture where some of
+the neural nets have a totally different
+architecture than the current
+hierarchical deep neural networks I mean
+Google went a little bit in that
+direction with differential neural
+computers and there's another papers
+like that but I'm guessing that in
+interfacing and synergizing logic
+systems with neural nets it's gonna be a
+much less obscure thing in a few years
+and what we're already seeing more and
+more papers coming out on hybridizing
+knowledge graphs with deep neural nets
+so once you've done that I mean a logic
+engine is a natural way to you know
+dynamically update a knowledge graph and
+I think you're gonna see more and more
+powerful logic engines used on the
+knowledge graphs being hybridized with
+deep neural nets until people rediscover
+that predicate logic and term logic are
+interesting ways to manipulate knowledge
+graphs and OpenCog may
+we'll get there first before others I
+mean we're already there in terms of the
+design we may well get there first in
+terms of having amazing results on
+cognitive in heads perception before
+others get there by sort of
+incrementally having more and more
+cognition to their deep neuron that
+architectures but whether it comes from
+OpenCog successfully integrating deep
+neural Nets that's gonna be one way or
+the other right we're adding deep neural
+Nets onto OpenCog I'm working on using
+them to feed knowledge into our logic
+engine but the deep neural net guys have
+started adding knowledge graphs on to
+their neural nets and I'm sure they're
+gonna be adding more and more logic ish
+operations on to their knowledge graphs
+so we're going to see a convergence of
+these two approaches and it's going to
+lead to you know maybe a convergence to
+those two into one approach or maybe
+just into a whole family of parallel
+approaches each of which is learning
+something from each other seems to me
+the most likely let's not back a little
+bit to something you mentioned in
+passing when talking about open cogs
+symbolic and sub symbolic working
+together we talked to look you talked
+quite a bit about cognitively informed
+perception but the other to my mind
+really big gateway problem that maybe
+your approaches are knocking on the door
+of is language understanding I look at
+how we move from narrow out area I to
+near AGI one of the biggest barriers
+seems to be real language understanding
+whatever that actually means right I
+know you guys have done some work on
+that could you talk about your thoughts
+on language understanding and where your
+projects are and maybe a little bit
+about where you think other people might
+be I think language understanding is
+quite critical to the AGI project I
+would say probably the most critical
+thing that we're working on now toward
+AGI is meta-reasoning reasoning about
+reasoning but we can come back to that
+language understanding is certainly
+easier to understand and we have
+been working on likely to understand the
+anokhin cog for some time and they're
+just now playing with hybridizing that
+with deep neural nets in various ways so
+forth
+for syntax parsing I mean we're working
+on using a combination of symbolic
+pattern recognition and deep neural nets
+to guide the symbolic pattern
+recognition for automatically learning a
+grammar from a large corpus of text and
+then to map grammatical parses of
+sentences into semantic representations
+of those sentences in a framework like
+OpenCog which has a native logic
+representation as part of its
+representational repertoire then this
+semantic interpretation task becomes a
+matter of learning mappings from parses
+of sentences syntax parts of sentences
+into logical expressions representing
+key aspects of the semantics of the
+sentences so I mean semantics is a big
+and rich thing the semantics of a
+sentence may involve no memories and
+episodic memory images that are evoked
+to get involve a lot of things but I
+believe that I got key and perhaps core
+aspect of the semantics of a sentence is
+in essence a logic expression or
+something you know homomorphic to a
+logic expression so you can think of
+semantic interpretation as mapping a
+syntax parts into a logic expression
+plus a bunch of other things like images
+episodic memories sounds and so on that
+they're sort of linked from or
+ornamented on this logic expression so
+how do you learn the mapping of syntax
+parses into logic expressions that's
+sort of part 2 of a language
+understanding problem in part 3 that
+being pragmatics how do you map the
+semantics into the overall broader
+context which i think is well treated as
+a problem of Association learning and
+reasoning in OpenCog we really deal with
+the syntax learning tasks
+the syntax of semantics mapping learning
+tasks
+and then the pragmatics learning tasks
+in somewhat separate ways although all
+using the same underlying repertoire of
+AI algorithms and we've been focusing
+more on syntax learning recently and
+focusing on unsupervised language
+acquisition where we're trying to make a
+system that automatically learns the
+dependency grammar which can then be fed
+into the link parser which is a well
+known grammar parser out of Carnegie
+Mellon University to parse sentences and
+we're making decent progress there I
+mean it gets better and better each
+month we're able to parse more more
+sentences with greater and greater
+coverage we're not yet at the level of
+supervised learning based grammar
+parsers that you feed a corpus of
+diagram sentences into but one
+interesting thing we've been playing
+with is if you start with just a little
+bit of supervised data not even parse
+sentences but start with a little bit of
+chunk of parsing in tracing like like
+mapping of linked collections of words
+in a sentence into semantic relations
+not a very small part of your corpus so
+if you start with just a little bit of
+partial parse information and then use
+that to seed your unsupervised learning
+you can get much more accurate results
+and I think this is interesting because
+what well I think unsupervised learning
+is a great paradigm I also think we
+don't have to be total purists about it
+I mean starting with like whole complex
+parse sentences like in the pantry bank
+parse sentence corpus or something feels
+wrong to me but if you can start with
+like simpler semantics or syntactic
+information about you know ten thousand
+sentences or something a very small
+percent of the senses you're looking at
+maybe that's okay rather than a pure
+unsupervised approach and that brings us
+into how you learn semantics because one
+approach
+cymatics is to look at say captioned
+images as a desert source because if you
+have images with captions I mean then
+you can use under on that and they're
+all that connected the OpenCog say to
+recognize the relationships between
+what's in the images and then if you
+correlate that with the syntax parses of
+the sentences that are captions to the
+images then you're connecting what the
+sentence is about which is the image
+with the syntax structure in in in the
+image right so suppose you have you know
+ten thousand or a hundred thousand
+captioned images and ten million
+sentences without captions then you know
+if you take the supervised data that
+comes from the captured images which is
+supervised in the sense that you have
+some semantics there in the images which
+is correlate with those sentences and
+then the unsupervised data of all the
+other senses in your corpus now if you
+can make something work from that that's
+also very interesting perhaps just as
+interesting as pure unsupervised grammar
+learning right so we're we're playing
+with both of these approaches pure
+unsupervised grammar reduction and then
+grammar induction where you have a small
+percent of your sentence corpus which
+has links into something non non
+grammatical and that's I mean that's
+sort of how people do it right we have
+some senses that we had a non linguistic
+corrala - and then a lot of senses that
+we don't have a non linguistic koyla -
+but we have to figure it out and do the
+semantic interpretation yeah I was gonna
+say that we have an existence proof that
+in the one existence proof we have the
+language learning is a mixture of
+supervised and unsupervised right how a
+child learns you know they are babbling
+away and random initially and then they
+get feedback mom smiles when you say ba
+for instance right and as people have
+done more and more research there's
+clearly a lot of feedback
+it's an existence proof or cross modal
+learning with very crude reinforcement
+based supervision which is different
+than either unsupervised corpus learning
+or supervised learning in the sense of
+computational linguistics where you're
+fed sends parses of the sentences right
+how kids learn is different than either
+of those and I mean this really gets
+into the AGI preschool idea that I had
+proposed a long time ago I mean this
+gets into the idea of no little kids are
+a they're just observing a huge
+multimodal world and an unstructured way
+and B they're trying to achieve goals in
+particular contexts for choosing actions
+that achieve those goals and their
+learning linguistic along with non
+linguistic action and perception
+patterns in the context of your
+practical goal achievement in particular
+context which is just different than
+unsupervised grammar induction or
+supervised grammar reduction or studying
+caption images or whatever right so I I
+tend to take a sort of heterogeneous and
+opportunistic approach here and know
+there's a lot to be learned from
+unsupervised grammar induction we've
+learned something from supervised
+grammar induction too but I think we may
+have learned what there is to be learned
+from that there's a lot to be learned
+from studying captioned images there's
+something to be learned from robots even
+as crude as they are now or game
+characters and all the available
+learning paradigms are a bit different
+than what you know the human kids are
+doing and we may need to do something
+more like where the human baby is doing
+or it may be that by piecing together
+these different more computing friendly
+learning paradigms we're gonna solve the
+problem right I mean we don't know and
+there's a lot of interesting experiments
+to do I think for semantics in the end
+you need to apply learning between
+grammar and sentences that are parsed
+using a grammar and a non linguistic
+domain and you know that a non
+linguistic domain could be logic
+expressions gotten from somewhere like a
+parallel corpus of English and large
+bond which is a language speak about by
+people with as syntax is directly
+personal in the predicate logic
+or it could come from correlation of
+English census and images are gonna
+captured image corpus or movies with
+dialogue or closed captions associated
+it could come from a robot that hears
+stuff in the context of the environment
+that's trying to act in but I mean
+clearly although much semantics that we
+humans use is very abstract like if
+we're talking about quantum mechanics or
+continental philosophy you know the
+basis for the abstract semantics that we
+learn is earlier stage smacks it comes
+from correlating linguistic productions
+with sensory non linguistic environments
+so I think you know pattern mining
+across linguistic productions and non
+linguistic sensory environments or
+situations this is how you have to get
+to semantics and then of course
+pragmatics is the same way but I mean
+you're there you're correlating
+linguistic productions with whole
+episodes and then you're looking at
+perception and goal based processing
+across the episodes yeah Ben let me jump
+off from that into something that just
+come across my desk recently which was
+paper by Jeff Klum he had three pillars
+of how to go after artificial general
+intelligence the first two I thought
+were not that do but the third I thought
+was quite interesting and perhaps
+relevant to this language understanding
+problem which is to develop technologies
+for generating learning environments
+could we for instance somehow miracle
+occurs be able to develop language
+learning environments that had embedded
+within them pragmatics and semantics and
+were supported by natural language
+syntax and we're able to generate cases
+for these language learning systems to
+use to use multi-level learning the way
+humans seem to as you point out either
+classic unsupervised nor classic
+computational linguistics provides that
+multi-level problem solving framework
+which is what we know that children do
+does this seem to you a fruitful
+approach
+perhaps for language learning I mean
+it's interesting I mean I think I would
+say at a crude level we were generating
+learning environments I don't know what
+eight or seven or eight years ago and
+I'm sure other people were well before
+me right I mean because that anyone who
+has tried to do AGI oriented or transfer
+learning oriented learning in the video
+game world usually they don't have a lot
+of game world authors on their team so
+they end up writing scripts to generate
+stuff and then in the game world from
+some probability distribution so I think
+that that practice is not remotely new
+but that paper that you're referencing
+sort of highlighted it as a key portion
+of an AGI approach with with greater
+greater oomph and and rigor than had
+been done before which is it's
+potentially valuable I mean I think I'm
+uh I don't think we yet have the models
+that we would need we don't yet have the
+discriminative models we would need to
+generate an interesting enough diversity
+of learning environments but it would be
+certainly interesting to do I mean the
+world that we live in you know that's a
+weird and and diverse collection of
+patterns in it that we're just not at
+in-game world yeah I'd like to echo
+tonight you know I baked cookies with my
+wife from my 16 month old baby we make
+one batch of peanut butter cookies and
+one batch of cookies with some other
+type of nut butter one of them was much
+thicker than the other before we cooked
+it and that result in the different
+consistency after we cooked it right and
+I mean the baby is learning from that
+and there's endless things like that in
+our everyday life like different kinds
+of mud that you walked through the way
+the beach near my house looked at high
+versus low tide and how that affects the
+behavior of the animals and plants there
+you know each example like this seems
+like a kind of irrelevant thing but the
+point is we live in a
+with an endless abundance of these weird
+little distinctions which however are
+carefully patterned on many different
+levels right and we're just not getting
+that in game worlds now these are
+multi-sensory it'd be hard to get them
+from videos unless you had a heck of a
+lot of videos and many different scales
+and space and time so I sort of I wonder
+if the best attempts we had to do that
+in a game world now would still be to
+sort of rigid and limited in their
+variety to drive the you know the
+abundance of examples that humans have
+in their minds from what should we draw
+analogies to do our abductive inference
+that drives our are transfer learning so
+as as a concept it's great I'm not yet
+convinced that we have the models needed
+to generate diverse enough environments
+to really do a GI now whether of course
+generating game worlds with diverse
+environments is cool for prototyping and
+experimenting and that's been done by a
+lot of people over over a long long
+period of time but if we broaden the
+idea a bit I mean I think the idea of
+you're trying to use learning to learn
+more training examples to train your AI
+and then the smarter AI and then use
+learning to learn more training examples
+and create more training examples that's
+interesting I mean I've been thinking
+about that in a mathematical theorem
+proving context where you know what
+issue you have there is the number of
+theorems that human mathematicians have
+created in the history of math is not
+that large when you compared to the
+requirement of you know deep learning
+algorithms and other machine learning
+algorithm selling we don't have as many
+theorems as we do sentences or images
+right but yeah the complexity of
+theorems is probably greater than that
+of senses or images so on the other hand
+just generating a bunch of random truth
+theorems is not useful because they're
+boring right so the idea there is if you
+had a rule to identify
+it's an interesting theorem then you can
+generate trillions of interesting
+theorems have your theorem prover try to
+prove them it would fail a lot but maybe
+you could prove billions of interesting
+theorems then the proofs of those
+billions of interesting theorems are
+training data for a machine learning to
+learn how to do proofs right so there's
+a similarity there to the gameworld idea
+right you're wanting to you know study
+what you have to generate a new training
+data use that new training data to train
+a eyes which then gets smarter and you
+can use to to generate even better
+training data and lather rinse repeat so
+I'm I think that idea can be interesting
+in game worlds it could be interesting
+and fair improving and in a lot of
+places it's a question of whether you
+have enough like requisite variety in
+your available data to seed that initial
+stage of automated environment
+generation interesting all right the
+next I think an area well worth people
+studying up and passing includes paper
+around trying to get people interested
+in it sounds like you agree there's at
+least some merit to it let's move on to
+one another item closely related which
+you know at some level dealing with
+robotics is a pain in the ass right
+stuff breaks you know that fall over
+they have to deal with the holes of the
+ground etc however when working with
+robotics you get an amazingly detailed
+simulation for free ie the universe
+could you talk a little bit about the
+intersection between AG AI and robotics
+and what you think
+robotics Springs or doesn't bring or the
+mixed bag of things and brands I would
+have to add that programming is also a
+pain in the ass I mean we're just
+choosing between pick your poison right
+none of these things are not annoying
+what
+you really dig into the I mean writing a
+simple Python script is one thing but
+building OpenCog is not always that
+simple or entertaining either there's a
+lot of kinds of pain in the ass and it
+is true the closer you get to the real
+world
+maybe that maybe the more painful things
+become but I mean dealing with huge
+image corpuses and video corpuses is
+also highly there's a lot about her
+there too right so anyone who's gonna
+work on the AGI in any aspect it's gotta
+have a very high pain tolerance
+otherwise they'll do something that
+gives more immediate gratification and
+pays you more money quicker right but
+robotics I mean the main issue isn't
+that tapering the robots is a pain the
+issue is that the current robots don't
+so easily do what you want them to do
+for AG I like what you want is a robot
+that can move around in everyday human
+worlds freely battery runs for at least
+like a day on end before you have to
+have to recharge it is gathering you
+know multi-sensory input even if there's
+glare or dim light or background noise
+or something I mean basically that's
+doing what a little kid does it rambles
+around your house it looks and hears and
+sees it grabs stuff and manipulates it
+and picks it up and puts it down you may
+not let them run up and down the stairs
+you may not be able to pick up
+everything as heavy as you can but he's
+manipulating and perceiving and moving a
+lot right and right now you don't quite
+have that toddler robot yet you know if
+you put all the pieces together but the
+other Boston Dynamics movement with
+Henson robotics
+emotion expression and human perception
+with the you know the arm I hand
+coordination of I come and the fingertip
+sensitivity of sin touch if you put
+together all the robot bits and pieces
+that exist now in various robotics
+projects around the world you would have
+that artificial toddler but no one seems
+to be funded to do that so we have all
+the pieces now but no one has put
+together that toddler robot for AGI yet
+and to do so would be expensive right
+and to do it cheaply it's also probably
+possible but it involves a lot of
+engineering our
+d which is gonna take years to do it
+expensively easy and it cost you at
+least hundreds of thousands of dollars
+for the first toddler and so that's
+that's what's really a pain is that
+you're dealing with one or another robot
+that's very limited in what it can do
+either in you know manipulation or
+mobility or perception or battery life
+or something right and that's a bit
+ironic because in theory the robot
+should be much more flexible than AI in
+a virtual world and practice given the
+limitations of each robot if still
+limited what you can do with each robot
+but I think you know this is like years
+not decades away from being resolves
+it's mostly a matter of integrating
+components that exist now and bring down
+the costs through scaling up
+manufacturing so that's I think you know
+within three to eight years let's say
+robots are gonna be a really useful tool
+for AGI although they're that's only
+very weakly true right now of course in
+principle for AGI you don't need a robot
+right I mean in principle you could get
+a superhuman Superman living on the
+internet there's a loads of sensors and
+actuators attached there but everyone a
+human-like mind for it to have roughly
+human-like body it's gonna be pretty
+valuable because so many aspects of the
+human mind I mean they're attuned to
+having a human-like body that's what we
+are that that's simple things relatively
+simple things like how we do I hand
+coordination by combining movement and
+perception and lower-level cognition but
+also you know little things like the the
+narrative self and the the quasi
+illusion of free will and the relation
+between self another like all these
+things have to do with being agents
+controlling a body that feels pain and
+has an inside and an outside and so then
+I mean you know when when you eat and
+then you or you put something in
+your mouth squish it and spit it out all
+these things teach you something about
+the relation in yourself and in the
+world and persistence of objects and you
+get all those
+lessons in different way if you're
+distributed supermind use mind and body
+or the internet but how much you can
+understand human values culture and
+psychology that way I don't know right
+so there's one question which is how
+important is embodiment for getting a
+really smart AGI the other question is
+how important is embodiment for in the
+AGI that understands what humans are and
+empathizes with humans to a significant
+extent that's interesting I had not
+thought of that particular additional
+benefit from doing the embodied
+cognition even if it was wasn't
+necessary to get the AGI it might make
+an AGI that's much more relatable to us
+and us to them let's move on to the next
+subject I want to talk about which is
+your singularity net project you know
+this is really interesting you know the
+idea of building a very broad network
+that anybody can build AG AI components
+on they can work with each other etc
+want to give us a good detailed
+description of singularity net and you
+know what status is currently and what
+you see going forward absolutely some
+singularity net you know it manifests
+some ideas I've had for a long time and
+then I was prototyping in the web mind
+project in the late nineties because web
+mind was a you know a distributed
+network of sort of autonomous agents
+cooperating together to manifest some
+emergent intelligence OpenCog to some of
+those ideas and tried to make him sort
+of more orderly and structured where you
+have a very carefully chosen set of AI
+algorithms acting in a common knowledge
+store much more carefully designed to
+configured to work closely entirely
+together than anything in web mind was
+singular net goes the other direction
+it's like let's take these different AI
+agents take a whole population of AI
+agents each doing AI in their own way
+and they don't necessarily need to know
+how each other are working internally
+they can interact via api's if they want
+to share state they can do that too but
+it's optional and then this society of
+minds can have a payment system where
+the AI is in that society page other
+work or get paid by external agents for
+work to the society minds is an economy
+of mind and the economic aspect can be
+used to do no assignment of credit and
+assessment of value within the network
+which is an important aspect of
+cognition as well and then you know this
+economy of minds is both it's another
+approach to getting emergent AI where
+you have a more loosely coupled network
+of AI agents so you have an open cog but
+which can still manifest some emergent
+cognitive dynamics and it's collective
+behaviors but then also you have
+potentially a viable commercial
+ecosystem wherein anyone can put an AI
+agent into this network and the the you
+know the AI agent give in charge
+external software processes for services
+and the eyes in the network can charge
+each other for services and then you
+know this becomes a marketplace and it's
+however the infrastructure that we've
+chosen to implement this was based on
+you know the idea that this agent system
+is a self-organizing system without the
+central controller just as I mean the
+brain doesn't have a central cell right
+I mean the brain has some aspects that
+are in more of a controlling role than
+others but it's it's a massively
+parallel system where each part of the
+brain is you know getting energy on its
+own and metabolizing and in some sense
+guiding its own interactions so we use
+blockchain as part of the plumbing for
+the singular infrastructure to enable a
+bunch of AI agents to interact in a way
+that has no central controller but is
+you know heterogeneous Li controlled and
+the AI agents of the network sort of in
+a participatory democratic issue a they
+interact and then guide the interaction
+the overall network and I think this is
+it's both a good way to architect you
+know a self-organizing agent system
+moving from general intelligence toward
+Adi and it's a very interesting way to
+make a practical marketplace for a eyes
+which know potentially can be more
+heterogeneous in
+kinds of applications it serves and then
+who gets profit from that I that's done
+then the current mainstream AI ecosystem
+which is highly centered on a few large
+corporations you have the visions
+obviously just astounding and that two
+fronts one this idea that anybody can
+play pieces can be added that could be
+explorations by a eyes to find out what
+other pieces of AI might be synergistic
+to their own capabilities the last point
+you made that this is an ecosystem not
+controlled by the big boys is something
+I found very attractive when I first
+learned about singularity that because
+we are in a world where it seems that
+deep progress in AI is being more and
+more concentrated into fewer and fewer
+hands and singularity net looks like one
+of the relatively few counter trends to
+that concentration could you talk a
+little bit more about that and why you
+think it might be important yeah I think
+the importance of decentralized and open
+approach to I is multifold right it's
+important right now because it can
+enable AI to do more good in the world
+then this is gonna be possible with the
+centralized hegemonic approach we've
+seen the industry now it's also
+important if you think that know the
+current internet work of no ai's is
+going to evolve into tomorrow's emergent
+AGI because I mean if you look at what's
+the current network of centralized AI is
+doing I'd like to summarize it as
+selling spying killing and gambling
+right I mean it's advertising it's
+making surveillance systems it's
+controlling weapons systems and it's
+doing finance financial prediction risk
+management for large banks and so on so
+I mean this you know felling spying
+killing and gambling are part of the
+human condition we're not gonna stamp
+them out I don't know if we want to
+stamp them out but I don't want them to
+be as large a percent of the high
+ecosystem as they are right now you'd
+rather see more like educating
+diseases doing science helping old
+people creating art both because these
+are cool things step around more on the
+planet now and because if I know I eyes
+are gonna turn into AG eyes I'd rather
+have the AG eyes doing these
+compassionate and aesthetically creative
+things then you know serving the goals
+of current corporations and large large
+government so I think yeah there's a new
+term importance and then there's a
+little more speculative importance in
+terms of the your potential of current
+know I eyes in giving rise to tomorrow's
+AG eyes and you know if you look at how
+the current hegemonic situation has come
+about that's not really because of bad
+guys you know it's because of
+self-organizing socio-economic dynamics
+I mean that the Google founder is pretty
+good people you know they're they're
+trying to make money like all business
+people are they're also genuinely trying
+to build AI that will do good for the
+world
+but I mean the way they're doing it is
+the way a public company has to do it as
+they're trying to do good for the world
+as a side effect of generating
+shareholder value and the way they're
+generating shareholder value is kind of
+the way they have to do it they're
+taking whatever works and they're just
+doubling down on it I mean they're
+trying a lot of side projects to but in
+the end ads are what's making the money
+I mean it's their fiduciary duty to be
+using the best AI for that as much as
+makes sense and if you look in China
+I mean Xi Jinping is doing some things
+that don't agree with on the other hand
+you know Chinese government has lift
+lifted way more people out of poverty
+over the last thirty years than every
+other part of the world combined and I
+think you know Chinese government is
+genuinely trying to advance the total
+utility of the Chinese population and
+they see that AI is very helpful for
+this and you know they think building a
+surveillance state is in the interest of
+the you know the utilitarian
+good of the Chinese population we're not
+looking at psychopaths who are trying to
+develop AI
+to build the Terminator or something
+we're looking at people developing AI in
+the interest of generally beneficial
+minded goals but there's these network
+effects involved and that's both good
+and bad right I mean the network effects
+allow a smart AI to accumulate more and
+more resources that can partly go to a
+building smarter and smarter AI but the
+network effects often mean that whoever
+you know succeeds first with neuro a
+eyes in particular tasks that lends
+himself to rapid deployment of neuro AI
+for useful ends whoever succeeds first
+you can you accumulate the hell of a lot
+of money I love data to train the a eyes
+a lot of processing power to feed the
+eyes and there's a powerful network
+effect there and this is what Google has
+been benefiting from I mean the Chinese
+government is benefiting from this
+Facebook use Microsoft is IBM for
+example isn't so much because they've
+been deploying AI in markets in ways
+that don't lead to these tremendous
+network effects and that's cause them to
+fall behind in spite of having a lot of
+smart AI people and some AI technologies
+are very good at certain things I mean
+one of the cool things with singularity
+net is intrinsically at least the logic
+of singularity Nets economic model has a
+lot of network effects to it it's a
+double-sided platform like uber Airbnb
+or you know Amazon's neural net model
+marketplace it's a double-sided platform
+in the sense that one side is the supply
+of AI that developers for open-ended
+network the other side is the demand
+which is product developers who want to
+use the eyes of the network to fuel
+their products and it at end users right
+and so that's something that can be very
+powerful if you can get off the ground
+so if you get enough demand you can get
+more supply and the supply you can get
+more
+does she have this going enough they can
+take off really really fast so there's
+the possibility to use the same network
+effect trick that Google Facebook you
+know and then Tencent Baidu Holly Baba
+and so on have used to get this
+decentralized network of I eyes off the
+ground and you know it doesn't have to
+displace totally the big tech companies
+to have a huge impact we can look at
+Linux as an example I mean Linux didn't
+obsolete Apple and Microsoft they're
+still making money you know trillion
+dollar companies but on the other hand
+Linux it's a number one mobile operating
+system its dominant in the server market
+it's big in the open-source ethos behind
+it has been huge has been used available
+for the developing world for the maker
+and robotics community right so
+similarly if we can get a decentralized
+a ID network to have a major role in the
+way that AI is utilized in the world I
+mean then that's gonna be tremendous
+even if it doesn't obsolete the hegemony
+growing that network with the
+double-sided network effect is certainly
+a practical challenge right and that's
+what we're working on with a singularity
+that platform now one thing I'd like to
+pick up on the singularity that model
+you described how you have a potential
+network effect around a two-sided market
+those are indeed very very powerful
+business models you know much of my
+business career was actually around
+trying to build two-sided markets and
+sometimes we were successful sometimes
+we weren't usually it meant
+investing in building one side of the
+market first could you talk a little bit
+about your go-to-market strategy for
+singularity net and how you expect to
+achieve a critical mass somewhere to get
+the two-sided market start the cycle
+there's a couple of different strategies
+we're applying here but I would say if
+it's one side in the market first we're
+essentially focusing on building the
+and cited the market first and then
+training the supply internally initially
+because we have a bunch of AI developers
+on the singularity net foundation team
+or a larger the people I work with on
+previous projects and so we're able to
+build some AI ourselves to put in in the
+network and then where we are doing AI
+developer workshops and we're putting
+some requests for AI on the platform and
+and say people with tokens to put new AI
+into the network so we're not totally
+neglecting the supply side but the
+demand side is getting more of a big
+push in a couple forums so one of those
+forms is we're spinning off a for-profit
+company called singularity studio which
+is a whole separate enterprise aimed at
+building commercial products into the
+enterprise on top of of the singularity
+net platform and initially we're
+building a product suite aimed at
+FinTech in the finance industry so say
+you'll have a risk management product
+which then you know it would be
+subscribed to by a large financial firm
+to solve a problem and say hedging or a
+credit risk assessment or something but
+then on the back end that product is
+getting its AI by making calls into the
+singularity net platform so if this
+business succeeds in creating and
+selling you know successful products
+initially to financial services and
+after that other vertical markets
+Internet of Things health tech and so on
+then you know each product that sold the
+licensing fees for each year a fraction
+that will be converted from fiat into a
+GI token and used to drive the Adi token
+based market in singularity net so
+that's one thing the singularity studio
+which we're currently pulling together
+and we have some enterprise customers
+already for that I mean a couple that
+are publicly announced but there's
+bunch more big ones that we're working
+with they're going to be announced in
+the next few months we've also launched
+accelerator called singularity net X lab
+where we're recruiting projects from the
+community that will build software
+products aimed at certain niches again
+using AI in the singularity net and this
+again is focused on the demand for the
+network side because they're building
+products on top of singular net but they
+also help with supply cuz in most cases
+they I that we put in there is being
+augmented by AI that that this team puts
+in there also and then the projects in
+the X lab incubator so that they're
+being you know we can give them some
+tokens help them get AI services on the
+network and we can help them with
+publicity using our PR engine and help
+them with with AI expertise where we can
+so these are both efforts kind of brute
+force the demand side we're also talking
+to some investors scaling up this
+accelerator slash incubator effort where
+we'd be able to put some more money into
+seeding projects leveraging the platform
+using some investment money raised
+specifically for that purpose so I think
+if if we get the singularity studio
+building enterprise products and getting
+some large enterprises using through
+these products a singularity net and
+then we get some smaller entrepreneurial
+products from the X lab accelerator then
+you know we're getting some serious
+utilization of the token and if through
+these efforts we get serious utilization
+of the ATI token and the AG ITER
+committed ecosystem you know all of a
+sudden we have a utility talking with
+actual utility which is almost unheard
+of in the blockchain space right and
+this this is gonna attract a lot more
+attention in the blockchain community
+and hopefully in the AI community and I
+think this will then incent more people
+to put their AI into the platform we'll
+get some usage from the developer
+workshops we're doing but in the end I
+mean having demand for the platform was
+sort of it will give some extra appeal
+to developers because then it's not only
+but they're putting
+ái out there in a really cool yo
+decentralized democratically governed
+platform there's an actual you know
+market of customers who will pay them to
+use their AI which is certainly the
+financial incentive only won't be enough
+for quite a while to it's a really huge
+market but a a decent financial
+incentives that's meaningful
+combined with the cool value and the
+political appeal of what we're doing I
+think we'll be able to seduce the supply
+side a lot well this is a truly
+visionary project which you know could
+change the world
+there's a lot of will it works will you
+reach a critical mass that's the token
+aspect getting away or does it add value
+all unknown but it's certainly a very
+interesting experiment worth trying
+let's move on to an another topic which
+is thinking about AI and AGI in the
+context of complex self-organizing
+systems emergence chaos strange
+attractors I know those are things
+you've thought a lot about and I thought
+least a little about so take it away Ben
+yeah I think my focus on complex
+nonlinear dynamics and emergence is
+something that sets my line of thinking
+apart from the mainstream of the AI
+world now like I remember when Jeff
+Hopkins book on intelligence came out
+you know 15 years ago or something seems
+like forever but I mean that that book
+laid out the vision of no AI in terms of
+hierarchical neural nets combining
+probabilistic reasoning with
+backpropagation I mean it was different
+than the deep neural Nets that are most
+successful now but conceptually it was
+along very very similar lines and when I
+reviewed that book I what I said is well
+this is interesting it's part of the
+story but he's leaving out two key
+things he's leaving out evolutionary
+learning which we know is there in the
+brain in the sensory tlemen snarled
+Darwinism modeling the brain is
+developing system and he's leaving out
+no none
+vyx and emergence and strange attractors
+which you know are key and how the brain
+synchronizes and coordinates all its
+parts like these hierarchical networks
+doing learning and probabilistic pattern
+recognition are there but they're only
+part of the story if you don't have
+evolution and although poesis like self
+reconstruction and self construction
+based on linear dynamical attractors
+then you're really missing out a lot so
+in the early 90s when I was first
+thinking about how the mind works I
+wrote a book called the evolving mind
+where I argued there are sort of two key
+forces underlying intelligence systems I
+mean in philosophy terms that come down
+to being and becoming so we're back to
+Hegel right but in dynamics terms you
+can think of them as evolution and other
+places other voices being a term
+introduced by Maturana and Varela
+meaning like self creation self building
+which is is one particular kind of
+complex non-linear dynamics that you've
+seen in biology where a system is
+involved with rebuilding and
+reconstructing itself I knew all the
+time and you know evolution creates the
+new from the old and other places keeps
+you know an organism a system intact in
+a changing and mutating environment and
+no nonlinear dynamics are key to both of
+these you could also think of this as
+evolution and ecology which are
+hand-in-hand in natural systems and even
+in the body where you have Eagleman
+neural Darwinism explaining brain data
+because evolution and you know gern is
+clonal selection theory explaining the
+immune system as an evolving system
+along with you know the cell assembly
+theory which had came up with to explain
+part of the have the brain works I mean
+that's basically an ecological theory
+and it's self-assembly is sort of
+autocratic system that keeps
+constructing and rebuilding itself in
+the immune system the network theory of
+Jonah is the the autocratic ecological
+aspect so I mean you if you
+leave out ecology slash other places in
+evolution and you have only hierarchical
+pattern recognition you're leaving out a
+whole lot of what makes the even mind
+interesting like creativity is evolution
+and you know the self and the will and
+all these and you know the conscious
+focus of attention which is binding
+together different parts of the mind
+into a perceived impractical unity this
+is all about strange attractors emerging
+in the brain building you know
+autopoietic systems of activity pattern
+so you're leaving out all this like you
+do in modern deep learning systems well
+you're leaving out a of a lot about
+what makes the human minds interesting
+granted that you're also capturing some
+some interesting parts and not much
+study your thought is going into these
+aspects in the mind right now and this
+is partly because of the business models
+of the large companies and governments
+are driving AI development because you
+know creativity and ecological self
+reconstruction design that directly tied
+to easily measurable metrics that you
+can use to drive supervisor
+reinforcement learning so for a company
+that's driven by their KPIs and whatnot
+that company is naturally driven toward
+AI algorithms that are focused on
+maximizing some simply formulated reward
+function that's a little harder if
+you're talking about evolution to create
+new things or an ecological system whose
+goal is to maintain and grow itself the
+money on money returned monster yeah
+yeah yeah exactly so it ties into like
+the Neo Darwinist you have evolution its
+nature tooth and claw thinks nature make
+sure red in tooth and claw I mean this
+this view of evolution takes evolution
+is about you know maximizing some
+simplicity defined Fitness function when
+you look at evolution and ecology tied
+together in more of a nonlinear
+dynamical view
+you're getting beyond the simplicity
+defined Fitness function and it's a
+little more fuzzy to grapple with this
+goes back to you know something I
+observed a long time ago I pushed
+forward the idea of AGI but actually
+it's a bad term from a fundamental
+philosophical you like no one knows what
+intelligence means humans aren't really
+all that general I don't know what
+artificial is really because it's all
+part of nature so I don't like the
+unofficial the general or the
+intelligence really what I'm after is
+self-organizing complex adaptive
+dynamical systems I mean that's that's
+just more of a mouthful and it's kind of
+fuzzier to grapple with and
+conceptualize this ties in with what my
+friend Weaver David Weinberg called
+open-ended intelligence in his PhD
+thesis of that title from the global
+green Institute in Brussels I mean
+fundamentally if an AGI emerges like out
+of the Internet of the conglomeration of
+a bunch of a GI system narrow AI systems
+this may be an open-ended intelligence
+which stretches our notion of what
+intelligence is but is an incredibly
+complex self-organizing adaptive system
+which in many ways has more generality
+than humans do but isn't even about
+maximizing reward functions in any
+simplistic way although you may be you
+can model some aspects of what it does
+like locally in terms of certain reward
+functions if that's a very interesting
+question on what is what is that thing
+is it a mind it may not be conscious in
+the sense we we think of ourselves as
+being conscious but it may have some
+attributes that are in some way
+analogous to consciousness or in partly
+a larger space of efficacy in the world
+which aren't necessarily congruent with
+consciousness but nonetheless give it
+the ability to respond to feedback and
+find its way in the world if you take a
+view like Chalmers takes in his
+philosophy of consciousness what he says
+is every
+thing in the universe has some spark of
+proto consciousness I guess he he calls
+it proto consciousness to try to make it
+more palatable to people with different
+perspectives on consciousness if
+everything in the universe has some
+spark of proto consciousness in some
+form then you would view like a human
+like your mammal like consciousness and
+something that emerges from these sparks
+of proto consciousness you know when
+they're associated with a certain type
+of information processing system like a
+system that achieves goals in the
+context of controlling some localized
+embodied organism right so if you look
+at it in that way the smarts of proto
+consciousness you know involved in a
+global distributed complex
+self-organizing dynamical system across
+the internet which doesn't have a
+central controller even as much as are
+like hypothalamus or basal ganglia are
+our central controller in some broader
+sense maybe there is a variety of
+consciousness associated with it like
+there's some complex self-organizing
+pattern of proto conscious sparks there
+but it may not have the unity that
+characterizes human-like consciousness
+and so what in a way like this unity if
+our consciousness is there because our
+body is a unified system that has to
+control itself without dying right and
+so that gives us some unified goals of
+like food sex and survival if you have a
+different kind of complex
+self-organizing mindish system which can
+replace its parts that will and with the
+different parts are pursuing various
+overlapping goals in a very dynamic way
+I mean whatever self-organizing
+conglomeration of proto conscious sparks
+exists there may be much less unified
+that what's associated with the human
+mind brain and then is that better is
+that worse I mean that comes out to your
+value system and yeah the fact that our
+value system values this unified variety
+of consciousness ish stuff more than
+this
+more diffuse but perhaps more complex
+variety of consciousness ish being like
+is there any more profound than saying
+like we think human women look more
+beautiful than gorillas right like we
+like what we have exactly I will say I'm
+finding it useful to not co-mingle the
+concept of intelligence so strongly into
+this broader picture of mind you know
+the more I dig into consciousness the
+more I appreciate John Searle you know I
+used to say sir all of his damn Chinese
+room.what misleading stuff but you know
+more I thought about the more appreciate
+it
+Cyril argues in our consciousness is our
+consciousness human consciousness is
+very specific so the way we are
+organized in terms of our memories that
+have a couple on various time frames we
+have perhaps something like Bernard bars
+global workspace and how all those
+things work produce something called
+consciousness and Cyril likes to say
+consciousness is a lot like digestion
+you can't point to some part of the body
+and say that's the digestion digestion
+is a process that includes our teeth our
+thread our stomach our colon our liver
+etc and consciousness could be thought
+of the same way and so you know Cyril
+had been laughed at by some AI
+researchers when they interpret him is
+saying that you know machine
+consciousness is not possible but as
+I've gotten to understand Searles
+argument better I think his argument is
+that something that it's analogous to
+human consciousness in a machine can't
+be the same because it's details of its
+design won't be the same in the same way
+in the food industry in the
+pharmaceutical industry we have
+digesters which are analogous to what
+our digestive system does but don't do
+it the same way and are very very
+different with respect to the details so
+I'm starting to use consciousness in a
+narrower frame as something that is more
+like what humans are and so I'm willing
+to buy the will
+some point had things that are sort of
+like our consciousnesses in a machine
+but that's only a small part of the much
+bigger mind space and the things that
+you were talking about you know what is
+the what is it like to be a loosely
+coupled set of intelligences running
+across the internet solving many
+problems both in serial and in parallel
+might be nothing at all like
+intelligence we have a tendency to
+anthropomorphize from our consciousness
+to what these larger brain mind as I use
+the word mind types might be
+increasingly finding that attempt to
+expand the concept of consciousness
+unhelpful actually yeah I guess you know
+Weaver's concept of open-ended
+intelligence was created to you know
+deal with intelligence and these broader
+types of dynamical systems beyond
+anything human like or mammal like
+whether you want to extend the word
+intelligence to deal with these
+different types of dynamical systems or
+have a different word for it is that
+yeah that's the kind of issue that I
+never worried about much sort of it as a
+mathematician originally my attitude is
+like you can define your word to mean
+whatever you want and then use it that
+way so I mean whether that really is
+intelligence or not or is some other
+broader thing terminology choice
+regarding consciousness I think you and
+I don't entirely see it the same way but
+vaguely close I mean when I wrote a
+paper on consciousness basically I
+called it characterizing human-like
+consciousness I think because I
+considered that a sort of separate
+problem I mean one one type of problem
+is understanding nature of consciousness
+in general which is interesting but
+another type of problem is you know the
+consciousness of human-like systems
+where then you have to define what you
+mean by a human-like system but I was
+thinking of you know if you have a
+system whose goal is to control your
+mobile
+body in a much larger and more complex
+environment and then you know the the
+goals involve orchestrating actions over
+various time scales I think yeah these
+requirements sort of Drive you to a
+narrow subset of the scope of possible
+cognitive architectures and you could
+say then they lead you to some of the
+aspects of human-like consciousness I
+think where we might differ is I mean I
+think Thoreau was arguing something
+stronger than what you're saying and I
+think Searle was arguing in essence that
+the qualia are there in the human being
+and the crowley wouldn't be there in the
+digital computer and maybe since you
+don't take crowley seriously maybe
+you're ignoring the aspect of Searles
+argument whereas i I do take qualia
+seriously but I think that Craig are
+universal I'm a Penn psychist so then
+the way I look at it is you know the
+elementary qualia associated with every
+percept concept entity Whitehead II in
+process whatever you know these organize
+themselves into collective system level
+qualia differently depending on the kind
+of system so that human-like species or
+variety of consciousness that variety of
+experience is associated with systems
+that are organized like a human and it's
+not clear that at the level of
+description Searle was using of like
+what words come in and out of the of the
+box of the guy in the Chinese room it's
+not clear you could distinguish what is
+the state of consciousness of the guy
+inside the room so I mean his point
+there was sort of if if you have some
+giant lookup table or deep neural net or
+whatever inside a box that's acting like
+a human it doesn't have to have the same
+conscious state as iam and then I think
+that's that seems true to me but that
+just means that that level of
+observation the external day that
+doesn't let you reverse-engineer the
+internal state right I mean it's amusing
+that quantum mechanics would like if you
+if you
+all the vibrations of the elementary
+particles in the universe you can induce
+the State of Mind of the guy inside the
+box right but from from the verbal
+productions I guess you you couldn't but
+I mean I don't know if that proves what
+Sura wanted it to prove really it just
+proves that the functional description
+at the crude level doesn't imply the
+internal state but if the state of
+consciousness if the qualia are
+associated with the internal state and
+dynamics and not just the crude
+functional description then so what I'm
+not sure I think I think as you know we
+do disagree about this a little bit and
+at some degree I do expect that when we
+fully understand consciousness we're
+gonna say so what it's not it's it's
+less amazing than we thought however I
+do believe it it's cerillion in the
+sense that one would not expect
+consciousness from the Chinese room
+because consciousness is the experience
+of processing information in a specific
+architecture and I strongly suspect that
+has to do with the couplings of our
+memories on various time frames
+yeah human-like consciousness is that
+but then I mean you're you're bypassing
+the question of whether a tree or rock
+or the Internet has some form of qualia
+some form of awareness or experience
+yeah those like a tree maybe I don't
+know about rock but a tree could have
+information flows with storage and sense
+of continuity perhaps you can't
+distinguish physics from information
+every physical system can be
+equivalently viewed as doing information
+processing so I mean that distinction
+sort of isn't there
+the math level yeah though it's a much
+simpler kind of information processing
+one could argue well anyway this has
+been a truly interesting conversation so
+thank you very much for a very
+interesting conversation Ben and you
+know I look forward to seeing the work
+you do going forward production services
+and audio editing by Stanton media lab
+music by Tom Muller at modern space
+music com

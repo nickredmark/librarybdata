@@ -1,0 +1,7587 @@
+[
+  {
+    "text": "howdy this is Jim rut and this is the",
+    "begin": "00:00:00.030",
+    "end": "00:00:04.320"
+  },
+  {
+    "text": "Jim rut show",
+    "begin": "00:00:02.399",
+    "end": "00:00:09.320"
+  },
+  {
+    "text": "[Music]",
+    "begin": "00:00:04.320",
+    "end": "00:00:12.210"
+  },
+  {
+    "text": "today's guest is Stewart Kaufman one of",
+    "begin": "00:00:09.320",
+    "end": "00:00:14.580"
+  },
+  {
+    "text": "the foundational figures in complexity",
+    "begin": "00:00:12.210",
+    "end": "00:00:17.039"
+  },
+  {
+    "text": "science great to be here it's a",
+    "begin": "00:00:14.580",
+    "end": "00:00:18.779"
+  },
+  {
+    "text": "wonderful be told I'm a foundational",
+    "begin": "00:00:17.039",
+    "end": "00:00:21.480"
+  },
+  {
+    "text": "figure in complexity science ah true it",
+    "begin": "00:00:18.779",
+    "end": "00:00:24.240"
+  },
+  {
+    "text": "is makes an old man feel that whether",
+    "begin": "00:00:21.480",
+    "end": "00:00:27.090"
+  },
+  {
+    "text": "it's true or not Jim buy it's true at",
+    "begin": "00:00:24.240",
+    "end": "00:00:28.740"
+  },
+  {
+    "text": "least in my opinion if Stewart was",
+    "begin": "00:00:27.090",
+    "end": "00:00:30.599"
+  },
+  {
+    "text": "trained as a medical doctor but is best",
+    "begin": "00:00:28.740",
+    "end": "00:00:32.340"
+  },
+  {
+    "text": "known for his work in developmental",
+    "begin": "00:00:30.599",
+    "end": "00:00:35.309"
+  },
+  {
+    "text": "genetics evolutionary theory theoretical",
+    "begin": "00:00:32.340",
+    "end": "00:00:37.680"
+  },
+  {
+    "text": "biology and especially the emergence of",
+    "begin": "00:00:35.309",
+    "end": "00:00:40.320"
+  },
+  {
+    "text": "order in far from equilibrium complex",
+    "begin": "00:00:37.680",
+    "end": "00:00:42.059"
+  },
+  {
+    "text": "systems he was one of the first",
+    "begin": "00:00:40.320",
+    "end": "00:00:43.980"
+  },
+  {
+    "text": "generation of resident faculty at the",
+    "begin": "00:00:42.059",
+    "end": "00:00:46.050"
+  },
+  {
+    "text": "Santa Fe Institute he has won a number",
+    "begin": "00:00:43.980",
+    "end": "00:00:48.360"
+  },
+  {
+    "text": "of awards including a MacArthur Fellow",
+    "begin": "00:00:46.050",
+    "end": "00:00:51.030"
+  },
+  {
+    "text": "and is the author of several interesting",
+    "begin": "00:00:48.360",
+    "end": "00:00:53.969"
+  },
+  {
+    "text": "and important books his most recent book",
+    "begin": "00:00:51.030",
+    "end": "00:00:56.309"
+  },
+  {
+    "text": "is a world beyond physics the emergence",
+    "begin": "00:00:53.969",
+    "end": "00:00:58.530"
+  },
+  {
+    "text": "and evolution of life which we're going",
+    "begin": "00:00:56.309",
+    "end": "00:01:00.480"
+  },
+  {
+    "text": "to talk about today but before we do I'd",
+    "begin": "00:00:58.530",
+    "end": "00:01:02.579"
+  },
+  {
+    "text": "like to recommend to other of Stewart's",
+    "begin": "00:01:00.480",
+    "end": "00:01:05.850"
+  },
+  {
+    "text": "books his origins of order holds a",
+    "begin": "00:01:02.579",
+    "end": "00:01:08.220"
+  },
+  {
+    "text": "special place for me it's the second",
+    "begin": "00:01:05.850",
+    "end": "00:01:10.080"
+  },
+  {
+    "text": "book in the area complexity science that",
+    "begin": "00:01:08.220",
+    "end": "00:01:12.900"
+  },
+  {
+    "text": "I read checking my Amazon account way",
+    "begin": "00:01:10.080",
+    "end": "00:01:16.290"
+  },
+  {
+    "text": "back in 1998 it's both thick and dense",
+    "begin": "00:01:12.900",
+    "end": "00:01:18.900"
+  },
+  {
+    "text": "but it's amazingly rich in ideas and I",
+    "begin": "00:01:16.290",
+    "end": "00:01:20.850"
+  },
+  {
+    "text": "still use a lot of those ideas today",
+    "begin": "00:01:18.900",
+    "end": "00:01:22.470"
+  },
+  {
+    "text": "for the most important books I've ever",
+    "begin": "00:01:20.850",
+    "end": "00:01:24.900"
+  },
+  {
+    "text": "read tell you the other one I'd like to",
+    "begin": "00:01:22.470",
+    "end": "00:01:27.270"
+  },
+  {
+    "text": "recommend to our folks at home is at",
+    "begin": "00:01:24.900",
+    "end": "00:01:29.070"
+  },
+  {
+    "text": "home in the universe which serves as",
+    "begin": "00:01:27.270",
+    "end": "00:01:30.780"
+  },
+  {
+    "text": "both a good layman's introduction to",
+    "begin": "00:01:29.070",
+    "end": "00:01:33.210"
+  },
+  {
+    "text": "complexity science as well as explaining",
+    "begin": "00:01:30.780",
+    "end": "00:01:35.040"
+  },
+  {
+    "text": "many though not all the ideas from",
+    "begin": "00:01:33.210",
+    "end": "00:01:38.220"
+  },
+  {
+    "text": "origins of order in a less dense form I",
+    "begin": "00:01:35.040",
+    "end": "00:01:40.920"
+  },
+  {
+    "text": "thought that was great tips and you know",
+    "begin": "00:01:38.220",
+    "end": "00:01:43.229"
+  },
+  {
+    "text": "I get about a penny in a corner when the",
+    "begin": "00:01:40.920",
+    "end": "00:01:46.229"
+  },
+  {
+    "text": "book sells so I'm retired now at you",
+    "begin": "00:01:43.229",
+    "end": "00:01:47.790"
+  },
+  {
+    "text": "know it could become a source of income",
+    "begin": "00:01:46.229",
+    "end": "00:01:50.070"
+  },
+  {
+    "text": "there are actually good books the",
+    "begin": "00:01:47.790",
+    "end": "00:01:53.340"
+  },
+  {
+    "text": "origins of order is is really thick and",
+    "begin": "00:01:50.070",
+    "end": "00:01:55.890"
+  },
+  {
+    "text": "it's about 700 pages it took me 10 years",
+    "begin": "00:01:53.340",
+    "end": "00:01:59.640"
+  },
+  {
+    "text": "to write I'm glad I was younger I'll",
+    "begin": "00:01:55.890",
+    "end": "00:02:02.430"
+  },
+  {
+    "text": "actually love that book but that's it's",
+    "begin": "00:01:59.640",
+    "end": "00:02:04.439"
+  },
+  {
+    "text": "me but before we get started talking",
+    "begin": "00:02:02.430",
+    "end": "00:02:06.390"
+  },
+  {
+    "text": "about the specifics of your new book",
+    "begin": "00:02:04.439",
+    "end": "00:02:08.160"
+  },
+  {
+    "text": "maybe you can start off with some",
+    "begin": "00:02:06.390",
+    "end": "00:02:10.379"
+  },
+  {
+    "text": "thoughts on the overarching themes of",
+    "begin": "00:02:08.160",
+    "end": "00:02:12.599"
+  },
+  {
+    "text": "your career what's your career been",
+    "begin": "00:02:10.379",
+    "end": "00:02:13.870"
+  },
+  {
+    "text": "about",
+    "begin": "00:02:12.599",
+    "end": "00:02:17.060"
+  },
+  {
+    "text": "that's an interesting question you know",
+    "begin": "00:02:13.870",
+    "end": "00:02:19.819"
+  },
+  {
+    "text": "I mean everybody's intrigued if they're",
+    "begin": "00:02:17.060",
+    "end": "00:02:21.590"
+  },
+  {
+    "text": "asked a question like that what my",
+    "begin": "00:02:19.819",
+    "end": "00:02:23.390"
+  },
+  {
+    "text": "career has been about in a funny sense",
+    "begin": "00:02:21.590",
+    "end": "00:02:25.510"
+  },
+  {
+    "text": "has been finding interesting questions",
+    "begin": "00:02:23.390",
+    "end": "00:02:27.590"
+  },
+  {
+    "text": "what are the important aspects of",
+    "begin": "00:02:25.510",
+    "end": "00:02:28.610"
+  },
+  {
+    "text": "science it's finding an interesting",
+    "begin": "00:02:27.590",
+    "end": "00:02:30.920"
+  },
+  {
+    "text": "question people don't talk about it and",
+    "begin": "00:02:28.610",
+    "end": "00:02:32.480"
+  },
+  {
+    "text": "you can't get a grant for it was gonna",
+    "begin": "00:02:30.920",
+    "end": "00:02:33.709"
+  },
+  {
+    "text": "give you a grant to say I'm trying to",
+    "begin": "00:02:32.480",
+    "end": "00:02:36.260"
+  },
+  {
+    "text": "think of the question but I've done that",
+    "begin": "00:02:33.709",
+    "end": "00:02:39.380"
+  },
+  {
+    "text": "a number of times when I was about 25 it",
+    "begin": "00:02:36.260",
+    "end": "00:02:41.330"
+  },
+  {
+    "text": "had been discovered the genes turn one",
+    "begin": "00:02:39.380",
+    "end": "00:02:43.390"
+  },
+  {
+    "text": "another on and off by Jacque cobraman Oh",
+    "begin": "00:02:41.330",
+    "end": "00:02:46.640"
+  },
+  {
+    "text": "in 1960 which answered central problems",
+    "begin": "00:02:43.390",
+    "end": "00:02:47.720"
+  },
+  {
+    "text": "and evolutionary and developmental",
+    "begin": "00:02:46.640",
+    "end": "00:02:51.170"
+  },
+  {
+    "text": "biology and I wondered were there",
+    "begin": "00:02:47.720",
+    "end": "00:02:54.319"
+  },
+  {
+    "text": "classes of networks of genes turning one",
+    "begin": "00:02:51.170",
+    "end": "00:02:56.420"
+  },
+  {
+    "text": "another on off that's spontaneous order",
+    "begin": "00:02:54.319",
+    "end": "00:02:58.700"
+  },
+  {
+    "text": "and to ask that I invented random",
+    "begin": "00:02:56.420",
+    "end": "00:03:01.670"
+  },
+  {
+    "text": "boolean Nets and lots of interesting",
+    "begin": "00:02:58.700",
+    "end": "00:03:03.500"
+  },
+  {
+    "text": "stuff followed they can't exhibit or",
+    "begin": "00:03:01.670",
+    "end": "00:03:06.410"
+  },
+  {
+    "text": "they can be chaotic order or critical",
+    "begin": "00:03:03.500",
+    "end": "00:03:08.420"
+  },
+  {
+    "text": "and it's turning out the genetic Nets",
+    "begin": "00:03:06.410",
+    "end": "00:03:10.549"
+  },
+  {
+    "text": "are critical a few years later I was",
+    "begin": "00:03:08.420",
+    "end": "00:03:12.410"
+  },
+  {
+    "text": "wondering about the origin of life and",
+    "begin": "00:03:10.549",
+    "end": "00:03:14.030"
+  },
+  {
+    "text": "everybody knew about template",
+    "begin": "00:03:12.410",
+    "end": "00:03:16.819"
+  },
+  {
+    "text": "replicating DNA and RNA and I asked a",
+    "begin": "00:03:14.030",
+    "end": "00:03:18.530"
+  },
+  {
+    "text": "funny question I said well what if the",
+    "begin": "00:03:16.819",
+    "end": "00:03:20.470"
+  },
+  {
+    "text": "contents of nature were different and",
+    "begin": "00:03:18.530",
+    "end": "00:03:22.880"
+  },
+  {
+    "text": "you couldn't make nitrogen and carbon",
+    "begin": "00:03:20.470",
+    "end": "00:03:25.130"
+  },
+  {
+    "text": "but you could make chemicals would life",
+    "begin": "00:03:22.880",
+    "end": "00:03:26.959"
+  },
+  {
+    "text": "be impossible and my thought was that",
+    "begin": "00:03:25.130",
+    "end": "00:03:29.420"
+  },
+  {
+    "text": "just can't be true life has to be a set",
+    "begin": "00:03:26.959",
+    "end": "00:03:32.420"
+  },
+  {
+    "text": "of molecules that can mutually catalyze",
+    "begin": "00:03:29.420",
+    "end": "00:03:35.239"
+  },
+  {
+    "text": "one another's formation so I came up",
+    "begin": "00:03:32.420",
+    "end": "00:03:36.350"
+  },
+  {
+    "text": "with the idea of collectively",
+    "begin": "00:03:35.239",
+    "end": "00:03:39.319"
+  },
+  {
+    "text": "autocatalytic sets and roughly 50 years",
+    "begin": "00:03:36.350",
+    "end": "00:03:42.620"
+  },
+  {
+    "text": "later literally about 48 it looks like",
+    "begin": "00:03:39.319",
+    "end": "00:03:44.930"
+  },
+  {
+    "text": "that's right Joanna Xavier and Bill",
+    "begin": "00:03:42.620",
+    "end": "00:03:46.850"
+  },
+  {
+    "text": "Martin and disel Dorf have found a",
+    "begin": "00:03:44.930",
+    "end": "00:03:49.850"
+  },
+  {
+    "text": "collectively autocratic set of small",
+    "begin": "00:03:46.850",
+    "end": "00:03:53.060"
+  },
+  {
+    "text": "molecule metabolites in archaea and",
+    "begin": "00:03:49.850",
+    "end": "00:03:55.790"
+  },
+  {
+    "text": "bacteria from before oxygen was in the",
+    "begin": "00:03:53.060",
+    "end": "00:03:58.250"
+  },
+  {
+    "text": "atmosphere strongly suggesting that life",
+    "begin": "00:03:55.790",
+    "end": "00:04:00.950"
+  },
+  {
+    "text": "started as molecular reproducing systems",
+    "begin": "00:03:58.250",
+    "end": "00:04:02.359"
+  },
+  {
+    "text": "you might want to talk about it's",
+    "begin": "00:04:00.950",
+    "end": "00:04:04.819"
+  },
+  {
+    "text": "fascinating so I keep finding these",
+    "begin": "00:04:02.359",
+    "end": "00:04:07.940"
+  },
+  {
+    "text": "wacky things to think about and some of",
+    "begin": "00:04:04.819",
+    "end": "00:04:10.430"
+  },
+  {
+    "text": "it's now standard complexity the santa",
+    "begin": "00:04:07.940",
+    "end": "00:04:12.500"
+  },
+  {
+    "text": "fe suit in my early life if I guesses in",
+    "begin": "00:04:10.430",
+    "end": "00:04:14.989"
+  },
+  {
+    "text": "my 40s and 50s not better it was just an",
+    "begin": "00:04:12.500",
+    "end": "00:04:17.989"
+  },
+  {
+    "text": "amazing adventure and I've gone off in",
+    "begin": "00:04:14.989",
+    "end": "00:04:19.729"
+  },
+  {
+    "text": "other directions thinking about quantum",
+    "begin": "00:04:17.989",
+    "end": "00:04:22.880"
+  },
+  {
+    "text": "mechanics and and the mind-body problem",
+    "begin": "00:04:19.729",
+    "end": "00:04:26.599"
+  },
+  {
+    "text": "and how to answer to card 350 years",
+    "begin": "00:04:22.880",
+    "end": "00:04:27.760"
+  },
+  {
+    "text": "later",
+    "begin": "00:04:26.599",
+    "end": "00:04:33.260"
+  },
+  {
+    "text": "so it's just a sprawling mess great you",
+    "begin": "00:04:27.760",
+    "end": "00:04:35.480"
+  },
+  {
+    "text": "could do that right you know I probably",
+    "begin": "00:04:33.260",
+    "end": "00:04:37.460"
+  },
+  {
+    "text": "have had a similar model that though I",
+    "begin": "00:04:35.480",
+    "end": "00:04:40.010"
+  },
+  {
+    "text": "had a less grand level I've been in lots",
+    "begin": "00:04:37.460",
+    "end": "00:04:41.090"
+  },
+  {
+    "text": "of different businesses and",
+    "begin": "00:04:40.010",
+    "end": "00:04:44.180"
+  },
+  {
+    "text": "organizations and projects I'm one not",
+    "begin": "00:04:41.090",
+    "end": "00:04:46.520"
+  },
+  {
+    "text": "to let too much grass core under my feet",
+    "begin": "00:04:44.180",
+    "end": "00:04:48.169"
+  },
+  {
+    "text": "no I haven't had a chance to address",
+    "begin": "00:04:46.520",
+    "end": "00:04:50.180"
+  },
+  {
+    "text": "some of these grand problems let's hop",
+    "begin": "00:04:48.169",
+    "end": "00:04:52.010"
+  },
+  {
+    "text": "in and talk about a world beyond physics",
+    "begin": "00:04:50.180",
+    "end": "00:04:54.110"
+  },
+  {
+    "text": "a little bit but one theme that comes up",
+    "begin": "00:04:52.010",
+    "end": "00:04:55.550"
+  },
+  {
+    "text": "again and again in the book is the",
+    "begin": "00:04:54.110",
+    "end": "00:04:57.560"
+  },
+  {
+    "text": "notion that Darwinian evolution is",
+    "begin": "00:04:55.550",
+    "end": "00:04:59.960"
+  },
+  {
+    "text": "incomplete with respect to the origins",
+    "begin": "00:04:57.560",
+    "end": "00:05:02.389"
+  },
+  {
+    "text": "and evolution of life could you expand",
+    "begin": "00:04:59.960",
+    "end": "00:05:04.340"
+  },
+  {
+    "text": "on that well Darwin knew that that's",
+    "begin": "00:05:02.389",
+    "end": "00:05:05.330"
+  },
+  {
+    "text": "nothing new",
+    "begin": "00:05:04.340",
+    "end": "00:05:08.030"
+  },
+  {
+    "text": "a Darwin takes on the evolution of life",
+    "begin": "00:05:05.330",
+    "end": "00:05:11.660"
+  },
+  {
+    "text": "once it has started but he's silent on",
+    "begin": "00:05:08.030",
+    "end": "00:05:14.330"
+  },
+  {
+    "text": "the question of how life comes to be so",
+    "begin": "00:05:11.660",
+    "end": "00:05:16.880"
+  },
+  {
+    "text": "that's not me saying that Darwin himself",
+    "begin": "00:05:14.330",
+    "end": "00:05:19.220"
+  },
+  {
+    "text": "said it he said there's sort of no point",
+    "begin": "00:05:16.880",
+    "end": "00:05:22.220"
+  },
+  {
+    "text": "on speculating about that at the present",
+    "begin": "00:05:19.220",
+    "end": "00:05:25.850"
+  },
+  {
+    "text": "time in 1859 or 1860 he does say but oh",
+    "begin": "00:05:22.220",
+    "end": "00:05:27.680"
+  },
+  {
+    "text": "what if there were a warm little pond",
+    "begin": "00:05:25.850",
+    "end": "00:05:30.710"
+  },
+  {
+    "text": "with ammonia and other things what would",
+    "begin": "00:05:27.680",
+    "end": "00:05:33.770"
+  },
+  {
+    "text": "happen so many of us are thinking about",
+    "begin": "00:05:30.710",
+    "end": "00:05:35.870"
+  },
+  {
+    "text": "what happens in warm little ponds and",
+    "begin": "00:05:33.770",
+    "end": "00:05:37.400"
+  },
+  {
+    "text": "we're the ones who were concerned with",
+    "begin": "00:05:35.870",
+    "end": "00:05:39.289"
+  },
+  {
+    "text": "the origin of life Darla's would have",
+    "begin": "00:05:37.400",
+    "end": "00:05:40.729"
+  },
+  {
+    "text": "completely agreed that's not an insult",
+    "begin": "00:05:39.289",
+    "end": "00:05:42.919"
+  },
+  {
+    "text": "the Darwin at all oh don't don't you",
+    "begin": "00:05:40.729",
+    "end": "00:05:44.419"
+  },
+  {
+    "text": "also talk about the fact that at least",
+    "begin": "00:05:42.919",
+    "end": "00:05:46.820"
+  },
+  {
+    "text": "the biological implementation of",
+    "begin": "00:05:44.419",
+    "end": "00:05:49.520"
+  },
+  {
+    "text": "evolution has other things going on",
+    "begin": "00:05:46.820",
+    "end": "00:05:51.410"
+  },
+  {
+    "text": "significant other things going on other",
+    "begin": "00:05:49.520",
+    "end": "00:05:53.840"
+  },
+  {
+    "text": "than Darwinian evolution other ways in",
+    "begin": "00:05:51.410",
+    "end": "00:05:57.229"
+  },
+  {
+    "text": "which order is formed well yes my first",
+    "begin": "00:05:53.840",
+    "end": "00:06:01.190"
+  },
+  {
+    "text": "book my tome origins of order takes up",
+    "begin": "00:05:57.229",
+    "end": "00:06:03.740"
+  },
+  {
+    "text": "the theme that I don't think Darwin",
+    "begin": "00:06:01.190",
+    "end": "00:06:05.000"
+  },
+  {
+    "text": "would have minded this at all you'd have",
+    "begin": "00:06:03.740",
+    "end": "00:06:06.200"
+  },
+  {
+    "text": "been I think he'd have been delighted",
+    "begin": "00:06:05.000",
+    "end": "00:06:08.720"
+  },
+  {
+    "text": "there's a lot of self-organization out",
+    "begin": "00:06:06.200",
+    "end": "00:06:11.510"
+  },
+  {
+    "text": "there in which things spontaneously get",
+    "begin": "00:06:08.720",
+    "end": "00:06:13.940"
+  },
+  {
+    "text": "organized and you know why wouldn't",
+    "begin": "00:06:11.510",
+    "end": "00:06:16.580"
+  },
+  {
+    "text": "natural selection make use of that so",
+    "begin": "00:06:13.940",
+    "end": "00:06:17.780"
+  },
+  {
+    "text": "that's what my whole first books about",
+    "begin": "00:06:16.580",
+    "end": "00:06:20.479"
+  },
+  {
+    "text": "and that looks like it's true in lots of",
+    "begin": "00:06:17.780",
+    "end": "00:06:23.270"
+  },
+  {
+    "text": "cases so I could talk about that for a",
+    "begin": "00:06:20.479",
+    "end": "00:06:23.570"
+  },
+  {
+    "text": "minute",
+    "begin": "00:06:23.270",
+    "end": "00:06:25.729"
+  },
+  {
+    "text": "the biggest thing about the new book is",
+    "begin": "00:06:23.570",
+    "end": "00:06:28.520"
+  },
+  {
+    "text": "it says the evolution of life can't be",
+    "begin": "00:06:25.729",
+    "end": "00:06:30.530"
+  },
+  {
+    "text": "explained by physics alone so we should",
+    "begin": "00:06:28.520",
+    "end": "00:06:31.880"
+  },
+  {
+    "text": "really talk about that but just briefly",
+    "begin": "00:06:30.530",
+    "end": "00:06:34.729"
+  },
+  {
+    "text": "about self-organization so to get your",
+    "begin": "00:06:31.880",
+    "end": "00:06:37.370"
+  },
+  {
+    "text": "listeners on board just think of a",
+    "begin": "00:06:34.729",
+    "end": "00:06:40.039"
+  },
+  {
+    "text": "snowflake it's got six fold symmetry and",
+    "begin": "00:06:37.370",
+    "end": "00:06:41.129"
+  },
+  {
+    "text": "beautiful so",
+    "begin": "00:06:40.039",
+    "end": "00:06:43.259"
+  },
+  {
+    "text": "flex structure that nobody thinks",
+    "begin": "00:06:41.129",
+    "end": "00:06:45.689"
+  },
+  {
+    "text": "natural selection did that there's a",
+    "begin": "00:06:43.259",
+    "end": "00:06:47.759"
+  },
+  {
+    "text": "spontaneous orders and it's due to the",
+    "begin": "00:06:45.689",
+    "end": "00:06:50.729"
+  },
+  {
+    "text": "the space group of relevant oxygen and",
+    "begin": "00:06:47.759",
+    "end": "00:06:52.589"
+  },
+  {
+    "text": "couple hydrogens that make up the water",
+    "begin": "00:06:50.729",
+    "end": "00:06:54.839"
+  },
+  {
+    "text": "molecule or think of a quartz crystal",
+    "begin": "00:06:52.589",
+    "end": "00:06:57.959"
+  },
+  {
+    "text": "it's got beautiful structure now think",
+    "begin": "00:06:54.839",
+    "end": "00:06:59.999"
+  },
+  {
+    "text": "of a whirlpool world who's got structure",
+    "begin": "00:06:57.959",
+    "end": "00:07:02.459"
+  },
+  {
+    "text": "they're called dissipative structures so",
+    "begin": "00:06:59.999",
+    "end": "00:07:04.289"
+  },
+  {
+    "text": "there's structure around all over the",
+    "begin": "00:07:02.459",
+    "end": "00:07:06.689"
+  },
+  {
+    "text": "place if you take lipids and put them in",
+    "begin": "00:07:04.289",
+    "end": "00:07:09.479"
+  },
+  {
+    "text": "water like cholesterol they firm hollow",
+    "begin": "00:07:06.689",
+    "end": "00:07:11.909"
+  },
+  {
+    "text": "vesicles called liposomes that are",
+    "begin": "00:07:09.479",
+    "end": "00:07:13.679"
+  },
+  {
+    "text": "essentially the origin of your cell",
+    "begin": "00:07:11.909",
+    "end": "00:07:15.899"
+  },
+  {
+    "text": "membranes well didn't take selection to",
+    "begin": "00:07:13.679",
+    "end": "00:07:18.449"
+  },
+  {
+    "text": "food that's physical chemistry what I",
+    "begin": "00:07:15.899",
+    "end": "00:07:21.809"
+  },
+  {
+    "text": "was struck by who was on the one hand my",
+    "begin": "00:07:18.449",
+    "end": "00:07:24.899"
+  },
+  {
+    "text": "study of these random boolean Nets as",
+    "begin": "00:07:21.809",
+    "end": "00:07:27.029"
+  },
+  {
+    "text": "models of genetic regulatory networks",
+    "begin": "00:07:24.899",
+    "end": "00:07:30.209"
+  },
+  {
+    "text": "Jim they just have astounding order when",
+    "begin": "00:07:27.029",
+    "end": "00:07:32.490"
+  },
+  {
+    "text": "I first found it as I said fifty years",
+    "begin": "00:07:30.209",
+    "end": "00:07:32.759"
+  },
+  {
+    "text": "ago",
+    "begin": "00:07:32.490",
+    "end": "00:07:35.339"
+  },
+  {
+    "text": "well I was 25 I'm 80 as of a couple",
+    "begin": "00:07:32.759",
+    "end": "00:07:37.800"
+  },
+  {
+    "text": "weeks ago and knock my socks off and it",
+    "begin": "00:07:35.339",
+    "end": "00:07:40.050"
+  },
+  {
+    "text": "still does but that's the case of",
+    "begin": "00:07:37.800",
+    "end": "00:07:42.329"
+  },
+  {
+    "text": "self-organization not in the sense that",
+    "begin": "00:07:40.050",
+    "end": "00:07:43.709"
+  },
+  {
+    "text": "there's a cell for just a spontaneous",
+    "begin": "00:07:42.329",
+    "end": "00:07:46.199"
+  },
+  {
+    "text": "order that appears at the level of the",
+    "begin": "00:07:43.709",
+    "end": "00:07:48.509"
+  },
+  {
+    "text": "system of simple components here there",
+    "begin": "00:07:46.199",
+    "end": "00:07:50.459"
+  },
+  {
+    "text": "are just a bunch of light bulbs look to",
+    "begin": "00:07:48.509",
+    "end": "00:07:51.749"
+  },
+  {
+    "text": "one another training one or they're on",
+    "begin": "00:07:50.459",
+    "end": "00:07:54.479"
+  },
+  {
+    "text": "and off and all you have to do is make",
+    "begin": "00:07:51.749",
+    "end": "00:07:56.550"
+  },
+  {
+    "text": "networks with a thousand light bulbs",
+    "begin": "00:07:54.479",
+    "end": "00:07:58.619"
+  },
+  {
+    "text": "turning one another on and off and each",
+    "begin": "00:07:56.550",
+    "end": "00:08:00.959"
+  },
+  {
+    "text": "life up has inputs from two other light",
+    "begin": "00:07:58.619",
+    "end": "00:08:03.839"
+  },
+  {
+    "text": "bulbs then is guided by some rule like",
+    "begin": "00:08:00.959",
+    "end": "00:08:06.839"
+  },
+  {
+    "text": "called a boolean function like or or and",
+    "begin": "00:08:03.839",
+    "end": "00:08:09.269"
+  },
+  {
+    "text": "where or says I will be on if either one",
+    "begin": "00:08:06.839",
+    "end": "00:08:11.429"
+  },
+  {
+    "text": "or both of my inputs are on and an says",
+    "begin": "00:08:09.269",
+    "end": "00:08:14.039"
+  },
+  {
+    "text": "now both of my inputs have to be on so",
+    "begin": "00:08:11.429",
+    "end": "00:08:16.679"
+  },
+  {
+    "text": "you for two inputs there's 16 billion",
+    "begin": "00:08:14.039",
+    "end": "00:08:18.809"
+  },
+  {
+    "text": "functions like if a NAND and nor and so",
+    "begin": "00:08:16.679",
+    "end": "00:08:21.149"
+  },
+  {
+    "text": "on just make a random network with a",
+    "begin": "00:08:18.809",
+    "end": "00:08:22.800"
+  },
+  {
+    "text": "thousand light bulbs everybody having",
+    "begin": "00:08:21.149",
+    "end": "00:08:25.289"
+  },
+  {
+    "text": "inputs from two light bulbs and give",
+    "begin": "00:08:22.800",
+    "end": "00:08:26.849"
+  },
+  {
+    "text": "each light bulb a random boolean",
+    "begin": "00:08:25.289",
+    "end": "00:08:29.249"
+  },
+  {
+    "text": "function like order if those networks",
+    "begin": "00:08:26.849",
+    "end": "00:08:31.079"
+  },
+  {
+    "text": "turn out to believe with just stunning",
+    "begin": "00:08:29.249",
+    "end": "00:08:34.259"
+  },
+  {
+    "text": "order which I ran across and was",
+    "begin": "00:08:31.079",
+    "end": "00:08:38.189"
+  },
+  {
+    "text": "thrilled about when I was 25 and why",
+    "begin": "00:08:34.259",
+    "end": "00:08:39.839"
+  },
+  {
+    "text": "wouldn't evolution make use of that and",
+    "begin": "00:08:38.189",
+    "end": "00:08:42.120"
+  },
+  {
+    "text": "it does those networks are dynamically",
+    "begin": "00:08:39.839",
+    "end": "00:08:44.449"
+  },
+  {
+    "text": "critical and literally 50 years later",
+    "begin": "00:08:42.120",
+    "end": "00:08:47.040"
+  },
+  {
+    "text": "maybe in the last couple of years we're",
+    "begin": "00:08:44.449",
+    "end": "00:08:48.899"
+  },
+  {
+    "text": "gonna have good evidence so that genetic",
+    "begin": "00:08:47.040",
+    "end": "00:08:51.620"
+  },
+  {
+    "text": "regulatory networks are critical they're",
+    "begin": "00:08:48.899",
+    "end": "00:08:53.519"
+  },
+  {
+    "text": "critical means they're dynamically",
+    "begin": "00:08:51.620",
+    "end": "00:08:54.660"
+  },
+  {
+    "text": "critical critical",
+    "begin": "00:08:53.519",
+    "end": "00:08:57.180"
+  },
+  {
+    "text": "they're poised on in doing farmers of",
+    "begin": "00:08:54.660",
+    "end": "00:08:59.579"
+  },
+  {
+    "text": "lovely phrase on the edge of chaos there",
+    "begin": "00:08:57.180",
+    "end": "00:09:02.519"
+  },
+  {
+    "text": "between order and chaos yes that was one",
+    "begin": "00:08:59.579",
+    "end": "00:09:04.980"
+  },
+  {
+    "text": "of the big takeaways out of origins of",
+    "begin": "00:09:02.519",
+    "end": "00:09:07.709"
+  },
+  {
+    "text": "Warner's whole idea of criticality much",
+    "begin": "00:09:04.980",
+    "end": "00:09:09.899"
+  },
+  {
+    "text": "credit to Chris lengthened who did much",
+    "begin": "00:09:07.709",
+    "end": "00:09:12.029"
+  },
+  {
+    "text": "to discover it and hasn't been able to",
+    "begin": "00:09:09.899",
+    "end": "00:09:14.040"
+  },
+  {
+    "text": "pursue it for other reasons I want you",
+    "begin": "00:09:12.029",
+    "end": "00:09:16.050"
+  },
+  {
+    "text": "take a little aside here this is",
+    "begin": "00:09:14.040",
+    "end": "00:09:17.250"
+  },
+  {
+    "text": "something I know our audience is",
+    "begin": "00:09:16.050",
+    "end": "00:09:19.759"
+  },
+  {
+    "text": "interested in this idea that's",
+    "begin": "00:09:17.250",
+    "end": "00:09:21.480"
+  },
+  {
+    "text": "oversimplification but fruitful things",
+    "begin": "00:09:19.759",
+    "end": "00:09:23.730"
+  },
+  {
+    "text": "happen at the boundary between order and",
+    "begin": "00:09:21.480",
+    "end": "00:09:24.600"
+  },
+  {
+    "text": "chaos",
+    "begin": "00:09:23.730",
+    "end": "00:09:27.089"
+  },
+  {
+    "text": "well they do there's something else I",
+    "begin": "00:09:24.600",
+    "end": "00:09:28.829"
+  },
+  {
+    "text": "want to talk about Jim as we get along I",
+    "begin": "00:09:27.089",
+    "end": "00:09:30.449"
+  },
+  {
+    "text": "wrote down an equation about two years",
+    "begin": "00:09:28.829",
+    "end": "00:09:33.689"
+  },
+  {
+    "text": "ago that is utterly relevant to its us",
+    "begin": "00:09:30.449",
+    "end": "00:09:36.930"
+  },
+  {
+    "text": "now and it's not in my last book but",
+    "begin": "00:09:33.689",
+    "end": "00:09:38.639"
+  },
+  {
+    "text": "let's just talk about fruitful things on",
+    "begin": "00:09:36.930",
+    "end": "00:09:41.189"
+  },
+  {
+    "text": "the boundary between order and chaos so",
+    "begin": "00:09:38.639",
+    "end": "00:09:43.829"
+  },
+  {
+    "text": "an example is your brain is dynamically",
+    "begin": "00:09:41.189",
+    "end": "00:09:47.040"
+  },
+  {
+    "text": "critical and as I said genetic networks",
+    "begin": "00:09:43.829",
+    "end": "00:09:49.410"
+  },
+  {
+    "text": "are dynamically critical what happens in",
+    "begin": "00:09:47.040",
+    "end": "00:09:51.509"
+  },
+  {
+    "text": "such networks is that just imagine a",
+    "begin": "00:09:49.410",
+    "end": "00:09:53.490"
+  },
+  {
+    "text": "bunch of Christmas tree light bulbs",
+    "begin": "00:09:51.509",
+    "end": "00:09:55.410"
+  },
+  {
+    "text": "twinkling on and off in some pattern and",
+    "begin": "00:09:53.490",
+    "end": "00:09:57.480"
+  },
+  {
+    "text": "you can ask the following question if",
+    "begin": "00:09:55.410",
+    "end": "00:09:59.730"
+  },
+  {
+    "text": "you change a given light but right now",
+    "begin": "00:09:57.480",
+    "end": "00:10:02.220"
+  },
+  {
+    "text": "from on dog just transiently flip it",
+    "begin": "00:09:59.730",
+    "end": "00:10:04.680"
+  },
+  {
+    "text": "call it damage the color it purple and",
+    "begin": "00:10:02.220",
+    "end": "00:10:08.370"
+  },
+  {
+    "text": "now watch if any other light bulb you",
+    "begin": "00:10:04.680",
+    "end": "00:10:10.139"
+  },
+  {
+    "text": "know that's connected to it one two",
+    "begin": "00:10:08.370",
+    "end": "00:10:12.180"
+  },
+  {
+    "text": "three steps away does something",
+    "begin": "00:10:10.139",
+    "end": "00:10:13.769"
+  },
+  {
+    "text": "different than it would have done color",
+    "begin": "00:10:12.180",
+    "end": "00:10:16.050"
+  },
+  {
+    "text": "it purple that's called a damaged by",
+    "begin": "00:10:13.769",
+    "end": "00:10:17.069"
+  },
+  {
+    "text": "Dietrich Stouffer",
+    "begin": "00:10:16.050",
+    "end": "00:10:19.740"
+  },
+  {
+    "text": "and so you get avalanches of purple guys",
+    "begin": "00:10:17.069",
+    "end": "00:10:22.230"
+  },
+  {
+    "text": "and what Dietrich and others have found",
+    "begin": "00:10:19.740",
+    "end": "00:10:24.839"
+  },
+  {
+    "text": "is you get a lot of little out launches",
+    "begin": "00:10:22.230",
+    "end": "00:10:28.500"
+  },
+  {
+    "text": "and very few big ones so a bit of",
+    "begin": "00:10:24.839",
+    "end": "00:10:30.149"
+  },
+  {
+    "text": "mathematics if you plot this on a",
+    "begin": "00:10:28.500",
+    "end": "00:10:33.269"
+  },
+  {
+    "text": "log-log plot we all learn logs you know",
+    "begin": "00:10:30.149",
+    "end": "00:10:36.720"
+  },
+  {
+    "text": "in the 10th grade so 10 is 10 raised to",
+    "begin": "00:10:33.269",
+    "end": "00:10:39.750"
+  },
+  {
+    "text": "the first power 100 is 10 raised to the",
+    "begin": "00:10:36.720",
+    "end": "00:10:42.029"
+  },
+  {
+    "text": "second power thousands 10 raised to the",
+    "begin": "00:10:39.750",
+    "end": "00:10:43.800"
+  },
+  {
+    "text": "third power it's just the number of",
+    "begin": "00:10:42.029",
+    "end": "00:10:46.199"
+  },
+  {
+    "text": "zeros so if you make a log log plot of",
+    "begin": "00:10:43.800",
+    "end": "00:10:48.209"
+  },
+  {
+    "text": "these avalanches it's a straight line",
+    "begin": "00:10:46.199",
+    "end": "00:10:50.970"
+  },
+  {
+    "text": "down to the right and the steepness of",
+    "begin": "00:10:48.209",
+    "end": "00:10:54.480"
+  },
+  {
+    "text": "the thing is minus 1.5 that's called",
+    "begin": "00:10:50.970",
+    "end": "00:10:57.029"
+  },
+  {
+    "text": "dynamically critical so action so",
+    "begin": "00:10:54.480",
+    "end": "00:10:59.339"
+  },
+  {
+    "text": "critical networks do that and part of",
+    "begin": "00:10:57.029",
+    "end": "00:11:02.579"
+  },
+  {
+    "text": "what it means is one variable can",
+    "begin": "00:10:59.339",
+    "end": "00:11:04.649"
+  },
+  {
+    "text": "sometimes influence things nearby but",
+    "begin": "00:11:02.579",
+    "end": "00:11:06.839"
+  },
+  {
+    "text": "sometimes things far away so it's got a",
+    "begin": "00:11:04.649",
+    "end": "00:11:08.279"
+  },
+  {
+    "text": "pretty wide span of",
+    "begin": "00:11:06.839",
+    "end": "00:11:10.649"
+  },
+  {
+    "text": "control deep in the order regime if you",
+    "begin": "00:11:08.279",
+    "end": "00:11:12.600"
+  },
+  {
+    "text": "trigger a lightbulb nothing much happens",
+    "begin": "00:11:10.649",
+    "end": "00:11:15.240"
+  },
+  {
+    "text": "and if it's an accounting regime if you",
+    "begin": "00:11:12.600",
+    "end": "00:11:17.519"
+  },
+  {
+    "text": "flip one lightbulb roughly half the guys",
+    "begin": "00:11:15.240",
+    "end": "00:11:19.379"
+  },
+  {
+    "text": "change what they're doing do these vast",
+    "begin": "00:11:17.519",
+    "end": "00:11:21.839"
+  },
+  {
+    "text": "avalanches and that may be why it's",
+    "begin": "00:11:19.379",
+    "end": "00:11:24.480"
+  },
+  {
+    "text": "really good being on on this edge of",
+    "begin": "00:11:21.839",
+    "end": "00:11:27.059"
+  },
+  {
+    "text": "chaos or another thing is a fancy word",
+    "begin": "00:11:24.480",
+    "end": "00:11:29.670"
+  },
+  {
+    "text": "called Tresor entropy and it's roughly",
+    "begin": "00:11:27.059",
+    "end": "00:11:32.730"
+  },
+  {
+    "text": "how much do the variables now control",
+    "begin": "00:11:29.670",
+    "end": "00:11:35.309"
+  },
+  {
+    "text": "what happens in the future and that's",
+    "begin": "00:11:32.730",
+    "end": "00:11:38.579"
+  },
+  {
+    "text": "maximized in critical networks so let's",
+    "begin": "00:11:35.309",
+    "end": "00:11:40.079"
+  },
+  {
+    "text": "see we can think of some other examples",
+    "begin": "00:11:38.579",
+    "end": "00:11:43.319"
+  },
+  {
+    "text": "I think there's work that I know a",
+    "begin": "00:11:40.079",
+    "end": "00:11:45.360"
+  },
+  {
+    "text": "little bit about my wife Catherine does",
+    "begin": "00:11:43.319",
+    "end": "00:11:48.029"
+  },
+  {
+    "text": "I believe that this is true if you think",
+    "begin": "00:11:45.360",
+    "end": "00:11:51.180"
+  },
+  {
+    "text": "about birds flocking Birds try to stay",
+    "begin": "00:11:48.029",
+    "end": "00:11:52.949"
+  },
+  {
+    "text": "some reasonable distance from the other",
+    "begin": "00:11:51.180",
+    "end": "00:11:55.290"
+  },
+  {
+    "text": "birds they try to head more or less in",
+    "begin": "00:11:52.949",
+    "end": "00:11:57.389"
+  },
+  {
+    "text": "the right direction and I think that",
+    "begin": "00:11:55.290",
+    "end": "00:11:59.550"
+  },
+  {
+    "text": "bird flocks are dynamically critical I",
+    "begin": "00:11:57.389",
+    "end": "00:12:02.129"
+  },
+  {
+    "text": "think ant nests are dynamically critical",
+    "begin": "00:11:59.550",
+    "end": "00:12:04.319"
+  },
+  {
+    "text": "I'm not sure about this Jim but it seems",
+    "begin": "00:12:02.129",
+    "end": "00:12:06.449"
+  },
+  {
+    "text": "to be a general feature interesting and",
+    "begin": "00:12:04.319",
+    "end": "00:12:08.279"
+  },
+  {
+    "text": "now you know we have human artifacts",
+    "begin": "00:12:06.449",
+    "end": "00:12:11.040"
+  },
+  {
+    "text": "like the electrical grid which is known",
+    "begin": "00:12:08.279",
+    "end": "00:12:14.339"
+  },
+  {
+    "text": "to be on the edge of chaos if you had",
+    "begin": "00:12:11.040",
+    "end": "00:12:16.139"
+  },
+  {
+    "text": "made it too ordered to be too expensive",
+    "begin": "00:12:14.339",
+    "end": "00:12:17.610"
+  },
+  {
+    "text": "it made it too chaotic it wouldn't be",
+    "begin": "00:12:16.139",
+    "end": "00:12:20.160"
+  },
+  {
+    "text": "very useful right in fact some set of a",
+    "begin": "00:12:17.610",
+    "end": "00:12:21.750"
+  },
+  {
+    "text": "Institute folks have worked with people",
+    "begin": "00:12:20.160",
+    "end": "00:12:24.329"
+  },
+  {
+    "text": "Aragon National Labs and essentially",
+    "begin": "00:12:21.750",
+    "end": "00:12:26.009"
+  },
+  {
+    "text": "proven that the electrical grid is",
+    "begin": "00:12:24.329",
+    "end": "00:12:28.680"
+  },
+  {
+    "text": "inherently unstable and does indeed have",
+    "begin": "00:12:26.009",
+    "end": "00:12:30.000"
+  },
+  {
+    "text": "failures on a power-law distribution",
+    "begin": "00:12:28.680",
+    "end": "00:12:32.670"
+  },
+  {
+    "text": "which would lead us to believe that it's",
+    "begin": "00:12:30.000",
+    "end": "00:12:34.620"
+  },
+  {
+    "text": "somewhere at the critical rate right and",
+    "begin": "00:12:32.670",
+    "end": "00:12:35.850"
+  },
+  {
+    "text": "that's this interesting work that's",
+    "begin": "00:12:34.620",
+    "end": "00:12:39.540"
+  },
+  {
+    "text": "grown up what I did my first work got 50",
+    "begin": "00:12:35.850",
+    "end": "00:12:41.519"
+  },
+  {
+    "text": "years ago I made what are called",
+    "begin": "00:12:39.540",
+    "end": "00:12:43.079"
+  },
+  {
+    "text": "erdos-renyi networks",
+    "begin": "00:12:41.519",
+    "end": "00:12:45.149"
+  },
+  {
+    "text": "it just means you got a bunch of light",
+    "begin": "00:12:43.079",
+    "end": "00:12:47.209"
+  },
+  {
+    "text": "bulbs and you randomly connect everybody",
+    "begin": "00:12:45.149",
+    "end": "00:12:49.920"
+  },
+  {
+    "text": "and all I could think about is a random",
+    "begin": "00:12:47.209",
+    "end": "00:12:53.189"
+  },
+  {
+    "text": "wiring diagram Turin yay or a regular",
+    "begin": "00:12:49.920",
+    "end": "00:12:54.959"
+  },
+  {
+    "text": "lattice like you put everybody on the",
+    "begin": "00:12:53.189",
+    "end": "00:12:56.459"
+  },
+  {
+    "text": "corners of a tile and connected grid",
+    "begin": "00:12:54.959",
+    "end": "00:12:57.809"
+  },
+  {
+    "text": "therefore nearest neighbor in two",
+    "begin": "00:12:56.459",
+    "end": "00:12:59.610"
+  },
+  {
+    "text": "dimensions and I knew that this is",
+    "begin": "00:12:57.809",
+    "end": "00:13:01.110"
+  },
+  {
+    "text": "stupid there was something in between it",
+    "begin": "00:12:59.610",
+    "end": "00:13:03.300"
+  },
+  {
+    "text": "like everything but I didn't know what",
+    "begin": "00:13:01.110",
+    "end": "00:13:05.819"
+  },
+  {
+    "text": "to do well bear about seeing others and",
+    "begin": "00:13:03.300",
+    "end": "00:13:07.920"
+  },
+  {
+    "text": "Mark Newman developed and others have",
+    "begin": "00:13:05.819",
+    "end": "00:13:09.240"
+  },
+  {
+    "text": "developed a whole thing called Network",
+    "begin": "00:13:07.920",
+    "end": "00:13:12.179"
+  },
+  {
+    "text": "science in which you have some nodes",
+    "begin": "00:13:09.240",
+    "end": "00:13:13.589"
+  },
+  {
+    "text": "that have lots of things that are",
+    "begin": "00:13:12.179",
+    "end": "00:13:15.329"
+  },
+  {
+    "text": "connected to they're called hubs and",
+    "begin": "00:13:13.589",
+    "end": "00:13:17.189"
+  },
+  {
+    "text": "others that are connected to not too",
+    "begin": "00:13:15.329",
+    "end": "00:13:19.079"
+  },
+  {
+    "text": "many things and that's power law",
+    "begin": "00:13:17.189",
+    "end": "00:13:21.269"
+  },
+  {
+    "text": "distributed and a lot of people study",
+    "begin": "00:13:19.079",
+    "end": "00:13:21.930"
+  },
+  {
+    "text": "that be",
+    "begin": "00:13:21.269",
+    "end": "00:13:24.300"
+  },
+  {
+    "text": "they're resistant to damage if you if",
+    "begin": "00:13:21.930",
+    "end": "00:13:26.399"
+  },
+  {
+    "text": "you knock out the rear hubs you damaged",
+    "begin": "00:13:24.300",
+    "end": "00:13:28.470"
+  },
+  {
+    "text": "a lot but if you knock out guys that",
+    "begin": "00:13:26.399",
+    "end": "00:13:29.580"
+  },
+  {
+    "text": "aren't connected to what you don't",
+    "begin": "00:13:28.470",
+    "end": "00:13:31.170"
+  },
+  {
+    "text": "damage very much there's no literature",
+    "begin": "00:13:29.580",
+    "end": "00:13:33.839"
+  },
+  {
+    "text": "about that indeed and of course we're",
+    "begin": "00:13:31.170",
+    "end": "00:13:36.149"
+  },
+  {
+    "text": "finding in the social sciences social",
+    "begin": "00:13:33.839",
+    "end": "00:13:38.899"
+  },
+  {
+    "text": "systems that at least roughly power law",
+    "begin": "00:13:36.149",
+    "end": "00:13:40.620"
+  },
+  {
+    "text": "distributions are turning up all over",
+    "begin": "00:13:38.899",
+    "end": "00:13:42.959"
+  },
+  {
+    "text": "the place live dispute on how close they",
+    "begin": "00:13:40.620",
+    "end": "00:13:44.580"
+  },
+  {
+    "text": "actually are to power all distributions",
+    "begin": "00:13:42.959",
+    "end": "00:13:48.000"
+  },
+  {
+    "text": "but they do have that attribute deaths",
+    "begin": "00:13:44.580",
+    "end": "00:13:51.720"
+  },
+  {
+    "text": "and Wars size of traffic jams size of",
+    "begin": "00:13:48.000",
+    "end": "00:13:54.060"
+  },
+  {
+    "text": "company size of cities that are have",
+    "begin": "00:13:51.720",
+    "end": "00:13:56.250"
+  },
+  {
+    "text": "this similar kind of distribution seems",
+    "begin": "00:13:54.060",
+    "end": "00:13:58.350"
+  },
+  {
+    "text": "to be a regularity it appears again and",
+    "begin": "00:13:56.250",
+    "end": "00:14:01.589"
+  },
+  {
+    "text": "again in complex system does by the way",
+    "begin": "00:13:58.350",
+    "end": "00:14:03.510"
+  },
+  {
+    "text": "there's a wonderful book by Jeffrey West",
+    "begin": "00:14:01.589",
+    "end": "00:14:06.149"
+  },
+  {
+    "text": "called scale that your readers might",
+    "begin": "00:14:03.510",
+    "end": "00:14:07.740"
+  },
+  {
+    "text": "enjoy and in fact we'll be having",
+    "begin": "00:14:06.149",
+    "end": "00:14:10.760"
+  },
+  {
+    "text": "Jeffrey on here I think in November good",
+    "begin": "00:14:07.740",
+    "end": "00:14:13.290"
+  },
+  {
+    "text": "but look I want to touch you about if I",
+    "begin": "00:14:10.760",
+    "end": "00:14:15.270"
+  },
+  {
+    "text": "may about this this equation that I read",
+    "begin": "00:14:13.290",
+    "end": "00:14:18.690"
+  },
+  {
+    "text": "so let's do it because I am I think I've",
+    "begin": "00:14:15.270",
+    "end": "00:14:21.300"
+  },
+  {
+    "text": "stumbled across something is much more",
+    "begin": "00:14:18.690",
+    "end": "00:14:22.770"
+  },
+  {
+    "text": "important than I realized when I wrote",
+    "begin": "00:14:21.300",
+    "end": "00:14:24.420"
+  },
+  {
+    "text": "it down so I'm not much of a",
+    "begin": "00:14:22.770",
+    "end": "00:14:26.640"
+  },
+  {
+    "text": "mathematician literally here's what",
+    "begin": "00:14:24.420",
+    "end": "00:14:29.490"
+  },
+  {
+    "text": "happened my wife Kate and Jim Harriette",
+    "begin": "00:14:26.640",
+    "end": "00:14:31.410"
+  },
+  {
+    "text": "a friend and I were up at our my summer",
+    "begin": "00:14:29.490",
+    "end": "00:14:33.600"
+  },
+  {
+    "text": "home on a little island near Seattle",
+    "begin": "00:14:31.410",
+    "end": "00:14:36.150"
+  },
+  {
+    "text": "called crane and I wondered about the",
+    "begin": "00:14:33.600",
+    "end": "00:14:38.940"
+  },
+  {
+    "text": "following thing suppose I know there's m",
+    "begin": "00:14:36.150",
+    "end": "00:14:43.380"
+  },
+  {
+    "text": "goods in an economy at time T so M sub T",
+    "begin": "00:14:38.940",
+    "end": "00:14:46.440"
+  },
+  {
+    "text": "like M is 24 goods in the economy now",
+    "begin": "00:14:43.380",
+    "end": "00:14:48.900"
+  },
+  {
+    "text": "could I write down some equation for how",
+    "begin": "00:14:46.440",
+    "end": "00:14:50.400"
+  },
+  {
+    "text": "many goods would be in the economy at",
+    "begin": "00:14:48.900",
+    "end": "00:14:53.970"
+  },
+  {
+    "text": "the next time at M of T plus 1 and as I",
+    "begin": "00:14:50.400",
+    "end": "00:14:56.610"
+  },
+  {
+    "text": "thought something really simple M of T",
+    "begin": "00:14:53.970",
+    "end": "00:14:59.880"
+  },
+  {
+    "text": "plus 1 will be what we've got now M of T",
+    "begin": "00:14:56.610",
+    "end": "00:15:02.910"
+  },
+  {
+    "text": "plus and here's the central idea Jim",
+    "begin": "00:14:59.880",
+    "end": "00:15:06.120"
+  },
+  {
+    "text": "plus all the new things we can make out",
+    "begin": "00:15:02.910",
+    "end": "00:15:07.829"
+  },
+  {
+    "text": "of the 24 things you've got lying around",
+    "begin": "00:15:06.120",
+    "end": "00:15:11.070"
+  },
+  {
+    "text": "now so I could take any one of the 24",
+    "begin": "00:15:07.829",
+    "end": "00:15:12.480"
+  },
+  {
+    "text": "things and see if I could do something",
+    "begin": "00:15:11.070",
+    "end": "00:15:14.520"
+  },
+  {
+    "text": "interesting with it or I could take any",
+    "begin": "00:15:12.480",
+    "end": "00:15:16.290"
+  },
+  {
+    "text": "pair of things and try to make something",
+    "begin": "00:15:14.520",
+    "end": "00:15:18.660"
+  },
+  {
+    "text": "out of it or any triple of things and",
+    "begin": "00:15:16.290",
+    "end": "00:15:20.430"
+  },
+  {
+    "text": "try to make something out of and so on",
+    "begin": "00:15:18.660",
+    "end": "00:15:23.040"
+  },
+  {
+    "text": "so to give an example the Gutenberg",
+    "begin": "00:15:20.430",
+    "end": "00:15:25.560"
+  },
+  {
+    "text": "printing press is a recombination or a",
+    "begin": "00:15:23.040",
+    "end": "00:15:28.649"
+  },
+  {
+    "text": "combination between a winepress and",
+    "begin": "00:15:25.560",
+    "end": "00:15:31.740"
+  },
+  {
+    "text": "movable type the right brother airplane",
+    "begin": "00:15:28.649",
+    "end": "00:15:34.260"
+  },
+  {
+    "text": "is a combination between an airfoil a",
+    "begin": "00:15:31.740",
+    "end": "00:15:35.790"
+  },
+  {
+    "text": "light gas engine",
+    "begin": "00:15:34.260",
+    "end": "00:15:38.580"
+  },
+  {
+    "text": "bicycle wheels and a propeller so I just",
+    "begin": "00:15:35.790",
+    "end": "00:15:40.350"
+  },
+  {
+    "text": "wrote down literally the simplest",
+    "begin": "00:15:38.580",
+    "end": "00:15:42.600"
+  },
+  {
+    "text": "equation you can write down it just says",
+    "begin": "00:15:40.350",
+    "end": "00:15:45.990"
+  },
+  {
+    "text": "got the M things you got now and you got",
+    "begin": "00:15:42.600",
+    "end": "00:15:48.030"
+  },
+  {
+    "text": "some chance of making something useful",
+    "begin": "00:15:45.990",
+    "end": "00:15:50.550"
+  },
+  {
+    "text": "out of all the single things some",
+    "begin": "00:15:48.030",
+    "end": "00:15:53.190"
+  },
+  {
+    "text": "smaller chance of making something out",
+    "begin": "00:15:50.550",
+    "end": "00:15:54.870"
+  },
+  {
+    "text": "of all of the pairs of things but",
+    "begin": "00:15:53.190",
+    "end": "00:15:56.640"
+  },
+  {
+    "text": "there's a lot more pairs of things than",
+    "begin": "00:15:54.870",
+    "end": "00:15:58.530"
+  },
+  {
+    "text": "there are single things right and an",
+    "begin": "00:15:56.640",
+    "end": "00:16:00.060"
+  },
+  {
+    "text": "even smaller probability of making",
+    "begin": "00:15:58.530",
+    "end": "00:16:03.480"
+  },
+  {
+    "text": "something useful out of triplets of the",
+    "begin": "00:16:00.060",
+    "end": "00:16:05.370"
+  },
+  {
+    "text": "24 things but there's an awful lot of",
+    "begin": "00:16:03.480",
+    "end": "00:16:08.100"
+  },
+  {
+    "text": "those and this equation to something",
+    "begin": "00:16:05.370",
+    "end": "00:16:08.730"
+  },
+  {
+    "text": "amazing",
+    "begin": "00:16:08.100",
+    "end": "00:16:10.500"
+  },
+  {
+    "text": "apparently it hadn't been written down",
+    "begin": "00:16:08.730",
+    "end": "00:16:12.690"
+  },
+  {
+    "text": "there's now theorems about it that might",
+    "begin": "00:16:10.500",
+    "end": "00:16:15.210"
+  },
+  {
+    "text": "steal this burgers there's two papers on",
+    "begin": "00:16:12.690",
+    "end": "00:16:17.460"
+  },
+  {
+    "text": "archive but nothing published yet here's",
+    "begin": "00:16:15.210",
+    "end": "00:16:20.130"
+  },
+  {
+    "text": "what it does Jim so put time on the",
+    "begin": "00:16:17.460",
+    "end": "00:16:22.890"
+  },
+  {
+    "text": "horizontal axis and M the number of",
+    "begin": "00:16:20.130",
+    "end": "00:16:25.440"
+  },
+  {
+    "text": "goods on the vertical axis the this",
+    "begin": "00:16:22.890",
+    "end": "00:16:28.590"
+  },
+  {
+    "text": "thing goes along it had increases very",
+    "begin": "00:16:25.440",
+    "end": "00:16:31.020"
+  },
+  {
+    "text": "very very slowly glacially for a long",
+    "begin": "00:16:28.590",
+    "end": "00:16:33.330"
+  },
+  {
+    "text": "time then all of a sudden it's",
+    "begin": "00:16:31.020",
+    "end": "00:16:36.050"
+  },
+  {
+    "text": "skyrockets upward in a hockey stick and",
+    "begin": "00:16:33.330",
+    "end": "00:16:39.660"
+  },
+  {
+    "text": "most importantly it goes to infinity at",
+    "begin": "00:16:36.050",
+    "end": "00:16:42.750"
+  },
+  {
+    "text": "some finite time it goes vertical it's",
+    "begin": "00:16:39.660",
+    "end": "00:16:45.840"
+  },
+  {
+    "text": "called a pole mathematically so I hope",
+    "begin": "00:16:42.750",
+    "end": "00:16:47.460"
+  },
+  {
+    "text": "that was interesting and I got in touch",
+    "begin": "00:16:45.840",
+    "end": "00:16:50.310"
+  },
+  {
+    "text": "with a friend named Bretton Roger Koppel",
+    "begin": "00:16:47.460",
+    "end": "00:16:52.080"
+  },
+  {
+    "text": "you might want to talk to Roger about",
+    "begin": "00:16:50.310",
+    "end": "00:16:53.850"
+  },
+  {
+    "text": "he's at the University of Syracuse an",
+    "begin": "00:16:52.080",
+    "end": "00:16:56.250"
+  },
+  {
+    "text": "economist and Roger said it and he said",
+    "begin": "00:16:53.850",
+    "end": "00:16:58.110"
+  },
+  {
+    "text": "you know that looks like the Industrial",
+    "begin": "00:16:56.250",
+    "end": "00:17:01.800"
+  },
+  {
+    "text": "Revolution so we worked with the equate",
+    "begin": "00:16:58.110",
+    "end": "00:17:05.730"
+  },
+  {
+    "text": "this equation which we call ta P boldly",
+    "begin": "00:17:01.800",
+    "end": "00:17:07.310"
+  },
+  {
+    "text": "it's the theory of the adjacent possible",
+    "begin": "00:17:05.730",
+    "end": "00:17:11.220"
+  },
+  {
+    "text": "and it turns out I I'm finding this",
+    "begin": "00:17:07.310",
+    "end": "00:17:13.860"
+  },
+  {
+    "text": "remarkable so let's suppose over because",
+    "begin": "00:17:11.220",
+    "end": "00:17:16.500"
+  },
+  {
+    "text": "it actually has a societal import two",
+    "begin": "00:17:13.860",
+    "end": "00:17:18.180"
+  },
+  {
+    "text": "million years ago our ancestors",
+    "begin": "00:17:16.500",
+    "end": "00:17:20.880"
+  },
+  {
+    "text": "Australia Pittacus three million years",
+    "begin": "00:17:18.180",
+    "end": "00:17:23.160"
+  },
+  {
+    "text": "ago started making stone tools and they",
+    "begin": "00:17:20.880",
+    "end": "00:17:25.500"
+  },
+  {
+    "text": "had maybe ten really crude tools like",
+    "begin": "00:17:23.160",
+    "end": "00:17:28.230"
+  },
+  {
+    "text": "you know facial stone scrapers over a",
+    "begin": "00:17:25.500",
+    "end": "00:17:30.170"
+  },
+  {
+    "text": "couple million years not much happens",
+    "begin": "00:17:28.230",
+    "end": "00:17:32.700"
+  },
+  {
+    "text": "and we get to Homo erectus and Homo",
+    "begin": "00:17:30.170",
+    "end": "00:17:35.850"
+  },
+  {
+    "text": "habilis homo sapiens is around 300,000",
+    "begin": "00:17:32.700",
+    "end": "00:17:38.490"
+  },
+  {
+    "text": "years ago some homo sapien bore about",
+    "begin": "00:17:35.850",
+    "end": "00:17:41.070"
+  },
+  {
+    "text": "bones were just found in Greece from two",
+    "begin": "00:17:38.490",
+    "end": "00:17:43.440"
+  },
+  {
+    "text": "hundred ten thousand years ago not much",
+    "begin": "00:17:41.070",
+    "end": "00:17:45.510"
+  },
+  {
+    "text": "happens you get to cro-magnon who's oz",
+    "begin": "00:17:43.440",
+    "end": "00:17:48.330"
+  },
+  {
+    "text": "thirty thousand years ago they now have",
+    "begin": "00:17:45.510",
+    "end": "00:17:49.789"
+  },
+  {
+    "text": "a few hundred",
+    "begin": "00:17:48.330",
+    "end": "00:17:54.090"
+  },
+  {
+    "text": "ranging in complexity from arrowheads to",
+    "begin": "00:17:49.789",
+    "end": "00:17:56.580"
+  },
+  {
+    "text": "you know the atlatl it's really neat yep",
+    "begin": "00:17:54.090",
+    "end": "00:17:57.840"
+  },
+  {
+    "text": "yeah thrower",
+    "begin": "00:17:56.580",
+    "end": "00:17:59.460"
+  },
+  {
+    "text": "yeah they invented the spear throw",
+    "begin": "00:17:57.840",
+    "end": "00:18:01.679"
+  },
+  {
+    "text": "doesn't really complex saying it helped",
+    "begin": "00:17:59.460",
+    "end": "00:18:04.139"
+  },
+  {
+    "text": "a lot you could throw your spear at the",
+    "begin": "00:18:01.679",
+    "end": "00:18:06.779"
+  },
+  {
+    "text": "ORAC you know from 15 feet away rather",
+    "begin": "00:18:04.139",
+    "end": "00:18:08.389"
+  },
+  {
+    "text": "than running up to it and jabbing it",
+    "begin": "00:18:06.779",
+    "end": "00:18:10.440"
+  },
+  {
+    "text": "opportunity if it was something you know",
+    "begin": "00:18:08.389",
+    "end": "00:18:13.440"
+  },
+  {
+    "text": "bigger than an ORAC so they had a few",
+    "begin": "00:18:10.440",
+    "end": "00:18:16.429"
+  },
+  {
+    "text": "hundred tools ranging in complexity from",
+    "begin": "00:18:13.440",
+    "end": "00:18:18.750"
+  },
+  {
+    "text": "simple things to more complex things",
+    "begin": "00:18:16.429",
+    "end": "00:18:20.610"
+  },
+  {
+    "text": "part of what I want to convey is how",
+    "begin": "00:18:18.750",
+    "end": "00:18:22.950"
+  },
+  {
+    "text": "long everything cook it took a hundred",
+    "begin": "00:18:20.610",
+    "end": "00:18:25.200"
+  },
+  {
+    "text": "thousand years to get to cro-magnon",
+    "begin": "00:18:22.950",
+    "end": "00:18:27.330"
+  },
+  {
+    "text": "that's human that says that's humans",
+    "begin": "00:18:25.200",
+    "end": "00:18:29.759"
+  },
+  {
+    "text": "ignoring and all the tricks it takes",
+    "begin": "00:18:27.330",
+    "end": "00:18:32.190"
+  },
+  {
+    "text": "another eight ten thousand years to get",
+    "begin": "00:18:29.759",
+    "end": "00:18:35.279"
+  },
+  {
+    "text": "to agriculture when agriculture comes we",
+    "begin": "00:18:32.190",
+    "end": "00:18:37.230"
+  },
+  {
+    "text": "get to Mesopotamia five thousand years",
+    "begin": "00:18:35.279",
+    "end": "00:18:39.690"
+  },
+  {
+    "text": "ago four thousand years ago on another",
+    "begin": "00:18:37.230",
+    "end": "00:18:40.860"
+  },
+  {
+    "text": "tiger said you afraid",
+    "begin": "00:18:39.690",
+    "end": "00:18:42.690"
+  },
+  {
+    "text": "then a few thousand kinds of things",
+    "begin": "00:18:40.860",
+    "end": "00:18:44.460"
+  },
+  {
+    "text": "ranging from needles that have been",
+    "begin": "00:18:42.690",
+    "end": "00:18:46.320"
+  },
+  {
+    "text": "around for sixty thousand years to",
+    "begin": "00:18:44.460",
+    "end": "00:18:49.620"
+  },
+  {
+    "text": "chariots so see an increasing diversity",
+    "begin": "00:18:46.320",
+    "end": "00:18:51.799"
+  },
+  {
+    "text": "of things and an increasing",
+    "begin": "00:18:49.620",
+    "end": "00:18:53.940"
+  },
+  {
+    "text": "diversification and two simple and more",
+    "begin": "00:18:51.799",
+    "end": "00:18:56.370"
+  },
+  {
+    "text": "complex things all of this falls out",
+    "begin": "00:18:53.940",
+    "end": "00:18:58.769"
+  },
+  {
+    "text": "from this little tap equation well then",
+    "begin": "00:18:56.370",
+    "end": "00:19:01.919"
+  },
+  {
+    "text": "you get to us now and this process",
+    "begin": "00:18:58.769",
+    "end": "00:19:04.440"
+  },
+  {
+    "text": "skyrockets upward we now have billions",
+    "begin": "00:19:01.919",
+    "end": "00:19:06.870"
+  },
+  {
+    "text": "of goods ranging from needles to space",
+    "begin": "00:19:04.440",
+    "end": "00:19:09.360"
+  },
+  {
+    "text": "stations Jim nobody knows how that",
+    "begin": "00:19:06.870",
+    "end": "00:19:11.820"
+  },
+  {
+    "text": "happened I think this ridiculously",
+    "begin": "00:19:09.360",
+    "end": "00:19:15.690"
+  },
+  {
+    "text": "simple equation says it but it says more",
+    "begin": "00:19:11.820",
+    "end": "00:19:18.000"
+  },
+  {
+    "text": "what it says is that the more things you",
+    "begin": "00:19:15.690",
+    "end": "00:19:20.730"
+  },
+  {
+    "text": "got the easier it is to make yet more",
+    "begin": "00:19:18.000",
+    "end": "00:19:23.279"
+  },
+  {
+    "text": "things out of what you got and we are",
+    "begin": "00:19:20.730",
+    "end": "00:19:25.350"
+  },
+  {
+    "text": "now assuming upward almost vertically",
+    "begin": "00:19:23.279",
+    "end": "00:19:28.769"
+  },
+  {
+    "text": "that's why we're in the Anthropocene now",
+    "begin": "00:19:25.350",
+    "end": "00:19:31.440"
+  },
+  {
+    "text": "were the same species we can invent",
+    "begin": "00:19:28.769",
+    "end": "00:19:33.899"
+  },
+  {
+    "text": "things so trivially now we have a",
+    "begin": "00:19:31.440",
+    "end": "00:19:36.990"
+  },
+  {
+    "text": "hundred trillion dollar global economy",
+    "begin": "00:19:33.899",
+    "end": "00:19:40.230"
+  },
+  {
+    "text": "growing at 4% a year inventing ever more",
+    "begin": "00:19:36.990",
+    "end": "00:19:42.840"
+  },
+  {
+    "text": "new things lifting millions of people",
+    "begin": "00:19:40.230",
+    "end": "00:19:45.299"
+  },
+  {
+    "text": "out of poverty and invading every niche",
+    "begin": "00:19:42.840",
+    "end": "00:19:47.159"
+  },
+  {
+    "text": "on the planet we're destroying the",
+    "begin": "00:19:45.299",
+    "end": "00:19:50.360"
+  },
+  {
+    "text": "planet with our own creativity and this",
+    "begin": "00:19:47.159",
+    "end": "00:19:53.970"
+  },
+  {
+    "text": "simple little equation says it so it's",
+    "begin": "00:19:50.360",
+    "end": "00:19:56.639"
+  },
+  {
+    "text": "tap it's this process buried in it are a",
+    "begin": "00:19:53.970",
+    "end": "00:19:58.980"
+  },
+  {
+    "text": "couple more things you make the next",
+    "begin": "00:19:56.639",
+    "end": "00:20:01.500"
+  },
+  {
+    "text": "more complex thing that you make out of",
+    "begin": "00:19:58.980",
+    "end": "00:20:03.240"
+  },
+  {
+    "text": "the less complex things you",
+    "begin": "00:20:01.500",
+    "end": "00:20:05.160"
+  },
+  {
+    "text": "now you couldn't make a space station",
+    "begin": "00:20:03.240",
+    "end": "00:20:07.440"
+  },
+  {
+    "text": "you know until we had Rockets you",
+    "begin": "00:20:05.160",
+    "end": "00:20:08.910"
+  },
+  {
+    "text": "couldn't make a crossbow till you had a",
+    "begin": "00:20:07.440",
+    "end": "00:20:11.630"
+  },
+  {
+    "text": "bow and this little process says has",
+    "begin": "00:20:08.910",
+    "end": "00:20:13.590"
+  },
+  {
+    "text": "reinterpreted says the same thing it",
+    "begin": "00:20:11.630",
+    "end": "00:20:16.830"
+  },
+  {
+    "text": "says at any time T the last thing you",
+    "begin": "00:20:13.590",
+    "end": "00:20:18.420"
+  },
+  {
+    "text": "made is the most complex thing you got",
+    "begin": "00:20:16.830",
+    "end": "00:20:20.400"
+  },
+  {
+    "text": "the next thing you could make could be",
+    "begin": "00:20:18.420",
+    "end": "00:20:23.640"
+  },
+  {
+    "text": "more complex and therefore it gives rise",
+    "begin": "00:20:20.400",
+    "end": "00:20:26.280"
+  },
+  {
+    "text": "to an increasing number of things with",
+    "begin": "00:20:23.640",
+    "end": "00:20:28.140"
+  },
+  {
+    "text": "increasing differentiation it's simple",
+    "begin": "00:20:26.280",
+    "end": "00:20:31.800"
+  },
+  {
+    "text": "and more complex things okay so Tim",
+    "begin": "00:20:28.140",
+    "end": "00:20:33.929"
+  },
+  {
+    "text": "Koehler is an archaeologist who I'm now",
+    "begin": "00:20:31.800",
+    "end": "00:20:36.179"
+  },
+  {
+    "text": "working with Tim's look at the onset of",
+    "begin": "00:20:33.929",
+    "end": "00:20:40.050"
+  },
+  {
+    "text": "inequality in humans in Neolithic sites",
+    "begin": "00:20:36.179",
+    "end": "00:20:42.929"
+  },
+  {
+    "text": "and 67 Neolithic sites from you know 30",
+    "begin": "00:20:40.050",
+    "end": "00:20:45.390"
+  },
+  {
+    "text": "or 40 thousand years ago it's called the",
+    "begin": "00:20:42.929",
+    "end": "00:20:47.910"
+  },
+  {
+    "text": "Gini index there's already inequality",
+    "begin": "00:20:45.390",
+    "end": "00:20:50.610"
+  },
+  {
+    "text": "way before agriculture you find",
+    "begin": "00:20:47.910",
+    "end": "00:20:53.220"
+  },
+  {
+    "text": "Neolithic sites with simple graves and",
+    "begin": "00:20:50.610",
+    "end": "00:20:54.990"
+  },
+  {
+    "text": "to the same place there's more complex",
+    "begin": "00:20:53.220",
+    "end": "00:20:57.390"
+  },
+  {
+    "text": "graves I was stunned to find that in in",
+    "begin": "00:20:54.990",
+    "end": "00:20:59.970"
+  },
+  {
+    "text": "and in one of them I read there's three",
+    "begin": "00:20:57.390",
+    "end": "00:21:02.880"
+  },
+  {
+    "text": "adolescents buried and they have very",
+    "begin": "00:20:59.970",
+    "end": "00:21:05.130"
+  },
+  {
+    "text": "complicated necklaces around their neck",
+    "begin": "00:21:02.880",
+    "end": "00:21:06.990"
+  },
+  {
+    "text": "with shells from a couple hundred miles",
+    "begin": "00:21:05.130",
+    "end": "00:21:09.809"
+  },
+  {
+    "text": "away that tells you that thirty thousand",
+    "begin": "00:21:06.990",
+    "end": "00:21:12.300"
+  },
+  {
+    "text": "years ago says their adolescence there's",
+    "begin": "00:21:09.809",
+    "end": "00:21:14.190"
+  },
+  {
+    "text": "inheritance there's a marked",
+    "begin": "00:21:12.300",
+    "end": "00:21:16.200"
+  },
+  {
+    "text": "differentiation in wealth and people are",
+    "begin": "00:21:14.190",
+    "end": "00:21:17.970"
+  },
+  {
+    "text": "gathering shells from a couple thousand",
+    "begin": "00:21:16.200",
+    "end": "00:21:19.950"
+  },
+  {
+    "text": "miles away a couple hundred miles away",
+    "begin": "00:21:17.970",
+    "end": "00:21:22.380"
+  },
+  {
+    "text": "so do you have the onset of inheritance",
+    "begin": "00:21:19.950",
+    "end": "00:21:24.809"
+  },
+  {
+    "text": "inequality and the same little equation",
+    "begin": "00:21:22.380",
+    "end": "00:21:27.480"
+  },
+  {
+    "text": "says inequality if you can make chariots",
+    "begin": "00:21:24.809",
+    "end": "00:21:29.580"
+  },
+  {
+    "text": "and you can make needles people who loan",
+    "begin": "00:21:27.480",
+    "end": "00:21:31.470"
+  },
+  {
+    "text": "chariots have more valuable property",
+    "begin": "00:21:29.580",
+    "end": "00:21:33.780"
+  },
+  {
+    "text": "than people who have needles so the same",
+    "begin": "00:21:31.470",
+    "end": "00:21:35.520"
+  },
+  {
+    "text": "process gives rise to where as part of",
+    "begin": "00:21:33.780",
+    "end": "00:21:37.460"
+  },
+  {
+    "text": "giving rise to an equality and",
+    "begin": "00:21:35.520",
+    "end": "00:21:39.360"
+  },
+  {
+    "text": "inequality it's now one of the",
+    "begin": "00:21:37.460",
+    "end": "00:21:41.460"
+  },
+  {
+    "text": "overwhelming things on the planet look",
+    "begin": "00:21:39.360",
+    "end": "00:21:43.500"
+  },
+  {
+    "text": "at inequality in New York it's it's the",
+    "begin": "00:21:41.460",
+    "end": "00:21:45.510"
+  },
+  {
+    "text": "worst it's been in history go to San",
+    "begin": "00:21:43.500",
+    "end": "00:21:48.000"
+  },
+  {
+    "text": "Francisco and see 10,000 people living",
+    "begin": "00:21:45.510",
+    "end": "00:21:50.340"
+  },
+  {
+    "text": "on the street in the richest city in the",
+    "begin": "00:21:48.000",
+    "end": "00:21:54.059"
+  },
+  {
+    "text": "world probably you know and somehow an",
+    "begin": "00:21:50.340",
+    "end": "00:21:56.070"
+  },
+  {
+    "text": "awful lot of this is a consequence of",
+    "begin": "00:21:54.059",
+    "end": "00:21:58.650"
+  },
+  {
+    "text": "the same simple process but even more",
+    "begin": "00:21:56.070",
+    "end": "00:22:01.830"
+  },
+  {
+    "text": "struck me it's taking me some time this",
+    "begin": "00:21:58.650",
+    "end": "00:22:03.990"
+  },
+  {
+    "text": "is very said Jim it's certainly not",
+    "begin": "00:22:01.830",
+    "end": "00:22:06.210"
+  },
+  {
+    "text": "published but think about the big bang",
+    "begin": "00:22:03.990",
+    "end": "00:22:08.160"
+  },
+  {
+    "text": "so here you have the big bang and you",
+    "begin": "00:22:06.210",
+    "end": "00:22:11.220"
+  },
+  {
+    "text": "got quarks and gluons and stuff and the",
+    "begin": "00:22:08.160",
+    "end": "00:22:13.080"
+  },
+  {
+    "text": "three quarks get together it's called",
+    "begin": "00:22:11.220",
+    "end": "00:22:16.169"
+  },
+  {
+    "text": "heteros ation it's roughly the same",
+    "begin": "00:22:13.080",
+    "end": "00:22:17.010"
+  },
+  {
+    "text": "process",
+    "begin": "00:22:16.169",
+    "end": "00:22:19.440"
+  },
+  {
+    "text": "all that step process does is it says",
+    "begin": "00:22:17.010",
+    "end": "00:22:22.200"
+  },
+  {
+    "text": "take what's lying around and make new",
+    "begin": "00:22:19.440",
+    "end": "00:22:24.210"
+  },
+  {
+    "text": "things out of it don't have to be a",
+    "begin": "00:22:22.200",
+    "end": "00:22:27.000"
+  },
+  {
+    "text": "person so what happens in the early",
+    "begin": "00:22:24.210",
+    "end": "00:22:28.770"
+  },
+  {
+    "text": "universe is you get quarks and",
+    "begin": "00:22:27.000",
+    "end": "00:22:32.640"
+  },
+  {
+    "text": "antiquarks and they combine to make",
+    "begin": "00:22:28.770",
+    "end": "00:22:36.150"
+  },
+  {
+    "text": "protons and neutrons and electrons which",
+    "begin": "00:22:32.640",
+    "end": "00:22:39.870"
+  },
+  {
+    "text": "combine to make hydrogen and helium then",
+    "begin": "00:22:36.150",
+    "end": "00:22:43.170"
+  },
+  {
+    "text": "three helium nuclei get together to make",
+    "begin": "00:22:39.870",
+    "end": "00:22:45.930"
+  },
+  {
+    "text": "carbon so what happens is two helium's",
+    "begin": "00:22:43.170",
+    "end": "00:22:48.660"
+  },
+  {
+    "text": "get together and then make beryllium so",
+    "begin": "00:22:45.930",
+    "end": "00:22:50.070"
+  },
+  {
+    "text": "watch - things have gotten together to",
+    "begin": "00:22:48.660",
+    "end": "00:22:51.870"
+  },
+  {
+    "text": "make a new things than beryllium and",
+    "begin": "00:22:50.070",
+    "end": "00:22:55.410"
+  },
+  {
+    "text": "helium combined to make carbon so now",
+    "begin": "00:22:51.870",
+    "end": "00:22:57.120"
+  },
+  {
+    "text": "you've got the synthesis nucleus",
+    "begin": "00:22:55.410",
+    "end": "00:22:59.010"
+  },
+  {
+    "text": "synthesis and the stars of 100 nuclei",
+    "begin": "00:22:57.120",
+    "end": "00:23:00.930"
+  },
+  {
+    "text": "that are stable then you start getting",
+    "begin": "00:22:59.010",
+    "end": "00:23:03.810"
+  },
+  {
+    "text": "space chemistry so you've got the atoms",
+    "begin": "00:23:00.930",
+    "end": "00:23:06.000"
+  },
+  {
+    "text": "of organic molecule carbon hydrogen",
+    "begin": "00:23:03.810",
+    "end": "00:23:08.670"
+  },
+  {
+    "text": "nitrogen and so on and you start making",
+    "begin": "00:23:06.000",
+    "end": "00:23:11.520"
+  },
+  {
+    "text": "molecules of increasing complexity it's",
+    "begin": "00:23:08.670",
+    "end": "00:23:14.280"
+  },
+  {
+    "text": "roughly the same princess new things get",
+    "begin": "00:23:11.520",
+    "end": "00:23:16.350"
+  },
+  {
+    "text": "made out of old things and it doesn't",
+    "begin": "00:23:14.280",
+    "end": "00:23:18.240"
+  },
+  {
+    "text": "matter whether it's pots or ideas or",
+    "begin": "00:23:16.350",
+    "end": "00:23:21.000"
+  },
+  {
+    "text": "molecules it's the same wacky process",
+    "begin": "00:23:18.240",
+    "end": "00:23:22.380"
+  },
+  {
+    "text": "and would you take things and combine",
+    "begin": "00:23:21.000",
+    "end": "00:23:24.630"
+  },
+  {
+    "text": "them and I'm starting to think the",
+    "begin": "00:23:22.380",
+    "end": "00:23:26.550"
+  },
+  {
+    "text": "following I think if one looks at the",
+    "begin": "00:23:24.630",
+    "end": "00:23:29.130"
+  },
+  {
+    "text": "chemical evolution of the universe it",
+    "begin": "00:23:26.550",
+    "end": "00:23:30.960"
+  },
+  {
+    "text": "probably looks like tap it goes along",
+    "begin": "00:23:29.130",
+    "end": "00:23:33.060"
+  },
+  {
+    "text": "very very slowly for a long time",
+    "begin": "00:23:30.960",
+    "end": "00:23:36.180"
+  },
+  {
+    "text": "that it starts shooting upward and some",
+    "begin": "00:23:33.060",
+    "end": "00:23:39.030"
+  },
+  {
+    "text": "evidence for that is that meteorites the",
+    "begin": "00:23:36.180",
+    "end": "00:23:40.830"
+  },
+  {
+    "text": "Murchison from five billion years ago",
+    "begin": "00:23:39.030",
+    "end": "00:23:44.970"
+  },
+  {
+    "text": "has 35,000 organic molecules so does the",
+    "begin": "00:23:40.830",
+    "end": "00:23:47.700"
+  },
+  {
+    "text": "enceladus of the moon of Saturn if you",
+    "begin": "00:23:44.970",
+    "end": "00:23:49.410"
+  },
+  {
+    "text": "go through it's Jets have thousands of",
+    "begin": "00:23:47.700",
+    "end": "00:23:52.020"
+  },
+  {
+    "text": "organic molecules in a guy in Germany",
+    "begin": "00:23:49.410",
+    "end": "00:23:54.600"
+  },
+  {
+    "text": "I'll break up is just under an",
+    "begin": "00:23:52.020",
+    "end": "00:23:57.030"
+  },
+  {
+    "text": "experiment it's worth pausing over this",
+    "begin": "00:23:54.600",
+    "end": "00:23:57.930"
+  },
+  {
+    "text": "term do you know the miller-urey",
+    "begin": "00:23:57.030",
+    "end": "00:24:00.480"
+  },
+  {
+    "text": "experiment yo yes were the lightning and",
+    "begin": "00:23:57.930",
+    "end": "00:24:03.780"
+  },
+  {
+    "text": "the bottle and the Miller a year do this",
+    "begin": "00:24:00.480",
+    "end": "00:24:06.510"
+  },
+  {
+    "text": "in the 50s so they took a flask they",
+    "begin": "00:24:03.780",
+    "end": "00:24:09.480"
+  },
+  {
+    "text": "have water in it and carbon dioxide and",
+    "begin": "00:24:06.510",
+    "end": "00:24:12.480"
+  },
+  {
+    "text": "methane and ammonia I guess they were",
+    "begin": "00:24:09.480",
+    "end": "00:24:14.220"
+  },
+  {
+    "text": "trying to mimic the atmosphere of the",
+    "begin": "00:24:12.480",
+    "end": "00:24:15.750"
+  },
+  {
+    "text": "early Earth and they said electric",
+    "begin": "00:24:14.220",
+    "end": "00:24:17.250"
+  },
+  {
+    "text": "sparks they would tried to mimic the",
+    "begin": "00:24:15.750",
+    "end": "00:24:19.380"
+  },
+  {
+    "text": "early atmosphere and Miller was a young",
+    "begin": "00:24:17.250",
+    "end": "00:24:21.000"
+  },
+  {
+    "text": "graduates that anne-marie was a Nobel",
+    "begin": "00:24:19.380",
+    "end": "00:24:22.800"
+  },
+  {
+    "text": "laureate in chemistry at three days",
+    "begin": "00:24:21.000",
+    "end": "00:24:24.240"
+  },
+  {
+    "text": "later or four days later they had a",
+    "begin": "00:24:22.800",
+    "end": "00:24:27.870"
+  },
+  {
+    "text": "brown scum on the bottom of the pot they",
+    "begin": "00:24:24.240",
+    "end": "00:24:29.400"
+  },
+  {
+    "text": "looked at it was full of amino acids of",
+    "begin": "00:24:27.870",
+    "end": "00:24:30.450"
+  },
+  {
+    "text": "different kinds",
+    "begin": "00:24:29.400",
+    "end": "00:24:32.670"
+  },
+  {
+    "text": "and everybody was rightly excited it",
+    "begin": "00:24:30.450",
+    "end": "00:24:36.000"
+  },
+  {
+    "text": "said gosh look at this we can have the",
+    "begin": "00:24:32.670",
+    "end": "00:24:37.680"
+  },
+  {
+    "text": "synthesis out of simple things of the",
+    "begin": "00:24:36.000",
+    "end": "00:24:39.750"
+  },
+  {
+    "text": "building blocks of life and that started",
+    "begin": "00:24:37.680",
+    "end": "00:24:41.460"
+  },
+  {
+    "text": "a 40-year search to see what else you",
+    "begin": "00:24:39.750",
+    "end": "00:24:44.820"
+  },
+  {
+    "text": "could make that way on earth and then we",
+    "begin": "00:24:41.460",
+    "end": "00:24:46.350"
+  },
+  {
+    "text": "learned there's in fall two meteorites",
+    "begin": "00:24:44.820",
+    "end": "00:24:47.580"
+  },
+  {
+    "text": "that brought stuff too like the",
+    "begin": "00:24:46.350",
+    "end": "00:24:50.820"
+  },
+  {
+    "text": "Murchison well roughly in the last two",
+    "begin": "00:24:47.580",
+    "end": "00:24:53.820"
+  },
+  {
+    "text": "years this guy al rushed up",
+    "begin": "00:24:50.820",
+    "end": "00:24:57.630"
+  },
+  {
+    "text": "OTT who is at a university in Germany I",
+    "begin": "00:24:53.820",
+    "end": "00:24:59.640"
+  },
+  {
+    "text": "can't remember what he's done the",
+    "begin": "00:24:57.630",
+    "end": "00:25:02.250"
+  },
+  {
+    "text": "falling amazing experiment Jim he's",
+    "begin": "00:24:59.640",
+    "end": "00:25:04.230"
+  },
+  {
+    "text": "taken the miller-urey experiment and I",
+    "begin": "00:25:02.250",
+    "end": "00:25:06.090"
+  },
+  {
+    "text": "guess he's let it run for a month he",
+    "begin": "00:25:04.230",
+    "end": "00:25:09.240"
+  },
+  {
+    "text": "gets thousands of organic molecules I'm",
+    "begin": "00:25:06.090",
+    "end": "00:25:12.240"
+  },
+  {
+    "text": "calling it a spray well I think he's",
+    "begin": "00:25:09.240",
+    "end": "00:25:14.640"
+  },
+  {
+    "text": "getting what the universe has done for",
+    "begin": "00:25:12.240",
+    "end": "00:25:17.880"
+  },
+  {
+    "text": "the past 13 billion years molecules make",
+    "begin": "00:25:14.640",
+    "end": "00:25:20.100"
+  },
+  {
+    "text": "more molecules which can combine to make",
+    "begin": "00:25:17.880",
+    "end": "00:25:22.530"
+  },
+  {
+    "text": "more molecule to get more complex and",
+    "begin": "00:25:20.100",
+    "end": "00:25:24.270"
+  },
+  {
+    "text": "I'm wondering whether or not there's a",
+    "begin": "00:25:22.530",
+    "end": "00:25:27.240"
+  },
+  {
+    "text": "hockey stick evolution gradual for a",
+    "begin": "00:25:24.270",
+    "end": "00:25:28.800"
+  },
+  {
+    "text": "long time then scooting upward really",
+    "begin": "00:25:27.240",
+    "end": "00:25:31.710"
+  },
+  {
+    "text": "fast as the universe makes more complex",
+    "begin": "00:25:28.800",
+    "end": "00:25:34.050"
+  },
+  {
+    "text": "molecules so for example this means that",
+    "begin": "00:25:31.710",
+    "end": "00:25:37.280"
+  },
+  {
+    "text": "five billion years ago if the earth had",
+    "begin": "00:25:34.050",
+    "end": "00:25:40.320"
+  },
+  {
+    "text": "a soup of thirty five thousand or so",
+    "begin": "00:25:37.280",
+    "end": "00:25:41.520"
+  },
+  {
+    "text": "organic molecules",
+    "begin": "00:25:40.320",
+    "end": "00:25:43.680"
+  },
+  {
+    "text": "so did planets everywhere in the",
+    "begin": "00:25:41.520",
+    "end": "00:25:46.230"
+  },
+  {
+    "text": "universe how do we fly the way you could",
+    "begin": "00:25:43.680",
+    "end": "00:25:47.610"
+  },
+  {
+    "text": "have gotten life because they could have",
+    "begin": "00:25:46.230",
+    "end": "00:25:50.220"
+  },
+  {
+    "text": "been self reproducing molecular sets so",
+    "begin": "00:25:47.610",
+    "end": "00:25:52.050"
+  },
+  {
+    "text": "this tap thing may be catching something",
+    "begin": "00:25:50.220",
+    "end": "00:25:53.820"
+  },
+  {
+    "text": "really general it looks like it's",
+    "begin": "00:25:52.050",
+    "end": "00:25:56.250"
+  },
+  {
+    "text": "capturing something about technological",
+    "begin": "00:25:53.820",
+    "end": "00:25:58.500"
+  },
+  {
+    "text": "evolution about cultural evolution about",
+    "begin": "00:25:56.250",
+    "end": "00:26:00.300"
+  },
+  {
+    "text": "the evolution of the chemistry of the",
+    "begin": "00:25:58.500",
+    "end": "00:26:02.820"
+  },
+  {
+    "text": "universe it's so simple you just take",
+    "begin": "00:26:00.300",
+    "end": "00:26:04.380"
+  },
+  {
+    "text": "what you got and combine it and see what",
+    "begin": "00:26:02.820",
+    "end": "00:26:06.390"
+  },
+  {
+    "text": "new you can make out of it do you have",
+    "begin": "00:26:04.380",
+    "end": "00:26:07.920"
+  },
+  {
+    "text": "to have a pruning rule which is that",
+    "begin": "00:26:06.390",
+    "end": "00:26:09.960"
+  },
+  {
+    "text": "many in fact most combinations make no",
+    "begin": "00:26:07.920",
+    "end": "00:26:13.050"
+  },
+  {
+    "text": "sense right have no utility and you know",
+    "begin": "00:26:09.960",
+    "end": "00:26:15.390"
+  },
+  {
+    "text": "the generative nough subtly existing set",
+    "begin": "00:26:13.050",
+    "end": "00:26:18.510"
+  },
+  {
+    "text": "is highly dependent upon the the rule",
+    "begin": "00:26:15.390",
+    "end": "00:26:20.610"
+  },
+  {
+    "text": "which combinations make sense and which",
+    "begin": "00:26:18.510",
+    "end": "00:26:22.140"
+  },
+  {
+    "text": "ones don't and it's certainly possible",
+    "begin": "00:26:20.610",
+    "end": "00:26:24.990"
+  },
+  {
+    "text": "to have a transition matrix in which the",
+    "begin": "00:26:22.140",
+    "end": "00:26:27.360"
+  },
+  {
+    "text": "result is only minimal increase in",
+    "begin": "00:26:24.990",
+    "end": "00:26:30.270"
+  },
+  {
+    "text": "complexity over time why let's hold",
+    "begin": "00:26:27.360",
+    "end": "00:26:32.130"
+  },
+  {
+    "text": "right there so let's get to economics",
+    "begin": "00:26:30.270",
+    "end": "00:26:33.480"
+  },
+  {
+    "text": "which is what you're talking about right",
+    "begin": "00:26:32.130",
+    "end": "00:26:35.760"
+  },
+  {
+    "text": "now I'm not sure that that applies to",
+    "begin": "00:26:33.480",
+    "end": "00:26:38.070"
+  },
+  {
+    "text": "molecules I don't know I mean there's",
+    "begin": "00:26:35.760",
+    "end": "00:26:39.690"
+  },
+  {
+    "text": "going to be some stability for different",
+    "begin": "00:26:38.070",
+    "end": "00:26:42.330"
+  },
+  {
+    "text": "molecules one way of asking it is to",
+    "begin": "00:26:39.690",
+    "end": "00:26:44.010"
+  },
+  {
+    "text": "take this out break",
+    "begin": "00:26:42.330",
+    "end": "00:26:46.050"
+  },
+  {
+    "text": "our system and say what does this look",
+    "begin": "00:26:44.010",
+    "end": "00:26:47.490"
+  },
+  {
+    "text": "like over time I don't know that",
+    "begin": "00:26:46.050",
+    "end": "00:26:49.020"
+  },
+  {
+    "text": "Albert's looked at it one could look at",
+    "begin": "00:26:47.490",
+    "end": "00:26:51.390"
+  },
+  {
+    "text": "it in fact a group of this is trying to",
+    "begin": "00:26:49.020",
+    "end": "00:26:53.550"
+  },
+  {
+    "text": "get money from CERN to look at just that",
+    "begin": "00:26:51.390",
+    "end": "00:26:56.730"
+  },
+  {
+    "text": "so now let's take the economy so you're",
+    "begin": "00:26:53.550",
+    "end": "00:26:59.970"
+  },
+  {
+    "text": "right so my old example is I take a",
+    "begin": "00:26:56.730",
+    "end": "00:27:02.490"
+  },
+  {
+    "text": "parachute and I put it over the stack of",
+    "begin": "00:26:59.970",
+    "end": "00:27:04.560"
+  },
+  {
+    "text": "the Queen Mary and you just get a mess",
+    "begin": "00:27:02.490",
+    "end": "00:27:06.630"
+  },
+  {
+    "text": "but if you put it at the back of an",
+    "begin": "00:27:04.560",
+    "end": "00:27:08.160"
+  },
+  {
+    "text": "airplane and it pops up when the",
+    "begin": "00:27:06.630",
+    "end": "00:27:11.160"
+  },
+  {
+    "text": "airplanes lands you made an air break so",
+    "begin": "00:27:08.160",
+    "end": "00:27:12.840"
+  },
+  {
+    "text": "only some combinations will produce",
+    "begin": "00:27:11.160",
+    "end": "00:27:15.840"
+  },
+  {
+    "text": "something useful for a given task I mean",
+    "begin": "00:27:12.840",
+    "end": "00:27:17.400"
+  },
+  {
+    "text": "maybe you want to put it over the",
+    "begin": "00:27:15.840",
+    "end": "00:27:19.050"
+  },
+  {
+    "text": "smokestack of the Queen Mary for some",
+    "begin": "00:27:17.400",
+    "end": "00:27:22.170"
+  },
+  {
+    "text": "stupid task only some combinations will",
+    "begin": "00:27:19.050",
+    "end": "00:27:24.000"
+  },
+  {
+    "text": "prove useful and that's actually already",
+    "begin": "00:27:22.170",
+    "end": "00:27:26.550"
+  },
+  {
+    "text": "in this little equation it says out of",
+    "begin": "00:27:24.000",
+    "end": "00:27:29.490"
+  },
+  {
+    "text": "all the possible subsets of three things",
+    "begin": "00:27:26.550",
+    "end": "00:27:31.680"
+  },
+  {
+    "text": "out of a thousand which is something",
+    "begin": "00:27:29.490",
+    "end": "00:27:34.320"
+  },
+  {
+    "text": "like a thousand times a thousand times a",
+    "begin": "00:27:31.680",
+    "end": "00:27:36.810"
+  },
+  {
+    "text": "thousand which is I guess a billion only",
+    "begin": "00:27:34.320",
+    "end": "00:27:38.760"
+  },
+  {
+    "text": "a modestly small subset will be useful",
+    "begin": "00:27:36.810",
+    "end": "00:27:42.780"
+  },
+  {
+    "text": "for any particular thing so one of the",
+    "begin": "00:27:38.760",
+    "end": "00:27:44.400"
+  },
+  {
+    "text": "ways I think about this this is like",
+    "begin": "00:27:42.780",
+    "end": "00:27:46.320"
+  },
+  {
+    "text": "jury-rigging would you rather",
+    "begin": "00:27:44.400",
+    "end": "00:27:48.720"
+  },
+  {
+    "text": "jury-rigged with a garage full of junk",
+    "begin": "00:27:46.320",
+    "end": "00:27:51.150"
+  },
+  {
+    "text": "or almost nothing well you'd rather do",
+    "begin": "00:27:48.720",
+    "end": "00:27:53.400"
+  },
+  {
+    "text": "it with a garage full of things because",
+    "begin": "00:27:51.150",
+    "end": "00:27:55.140"
+  },
+  {
+    "text": "if you got a bunch of stuff out there I",
+    "begin": "00:27:53.400",
+    "end": "00:27:57.270"
+  },
+  {
+    "text": "said technically you'll find something",
+    "begin": "00:27:55.140",
+    "end": "00:28:00.290"
+  },
+  {
+    "text": "to jury-rig do lots of different things",
+    "begin": "00:27:57.270",
+    "end": "00:28:03.410"
+  },
+  {
+    "text": "that's real technical talk but it's true",
+    "begin": "00:28:00.290",
+    "end": "00:28:06.480"
+  },
+  {
+    "text": "your rigging is not algorithmic it's we",
+    "begin": "00:28:03.410",
+    "end": "00:28:09.180"
+  },
+  {
+    "text": "just go do it and indeed it certainly",
+    "begin": "00:28:06.480",
+    "end": "00:28:11.070"
+  },
+  {
+    "text": "speaks the most common sense and basic",
+    "begin": "00:28:09.180",
+    "end": "00:28:13.680"
+  },
+  {
+    "text": "quantitative analysis that the more more",
+    "begin": "00:28:11.070",
+    "end": "00:28:15.300"
+  },
+  {
+    "text": "components you have to try to I'm more",
+    "begin": "00:28:13.680",
+    "end": "00:28:16.860"
+  },
+  {
+    "text": "likely you are to find something that",
+    "begin": "00:28:15.300",
+    "end": "00:28:19.140"
+  },
+  {
+    "text": "actually does make sense right but the",
+    "begin": "00:28:16.860",
+    "end": "00:28:20.910"
+  },
+  {
+    "text": "thing that I'd like us to just pause",
+    "begin": "00:28:19.140",
+    "end": "00:28:22.860"
+  },
+  {
+    "text": "over Jim we really are in the",
+    "begin": "00:28:20.910",
+    "end": "00:28:25.350"
+  },
+  {
+    "text": "Anthropocene we are living in a hundred",
+    "begin": "00:28:22.860",
+    "end": "00:28:28.230"
+  },
+  {
+    "text": "trillion global economy it really is",
+    "begin": "00:28:25.350",
+    "end": "00:28:29.910"
+  },
+  {
+    "text": "growing at 4% a year",
+    "begin": "00:28:28.230",
+    "end": "00:28:32.100"
+  },
+  {
+    "text": "it really is lifting millions of people",
+    "begin": "00:28:29.910",
+    "end": "00:28:34.170"
+  },
+  {
+    "text": "out of poverty in China for example",
+    "begin": "00:28:32.100",
+    "end": "00:28:36.270"
+  },
+  {
+    "text": "right now and it really is invading",
+    "begin": "00:28:34.170",
+    "end": "00:28:38.190"
+  },
+  {
+    "text": "every niche on the planet did you see",
+    "begin": "00:28:36.270",
+    "end": "00:28:40.290"
+  },
+  {
+    "text": "the UN report about extinction events oh",
+    "begin": "00:28:38.190",
+    "end": "00:28:42.690"
+  },
+  {
+    "text": "yes the two came out a couple of months",
+    "begin": "00:28:40.290",
+    "end": "00:28:46.320"
+  },
+  {
+    "text": "ago then it's expected by 2050 20% of",
+    "begin": "00:28:42.690",
+    "end": "00:28:48.150"
+  },
+  {
+    "text": "all species is going to be extinct a",
+    "begin": "00:28:46.320",
+    "end": "00:28:50.730"
+  },
+  {
+    "text": "million species what are we doing to the",
+    "begin": "00:28:48.150",
+    "end": "00:28:51.450"
+  },
+  {
+    "text": "bio sir",
+    "begin": "00:28:50.730",
+    "end": "00:28:53.940"
+  },
+  {
+    "text": "we're eradicating it you can recover",
+    "begin": "00:28:51.450",
+    "end": "00:28:55.380"
+  },
+  {
+    "text": "from global warming which is a",
+    "begin": "00:28:53.940",
+    "end": "00:28:57.230"
+  },
+  {
+    "text": "catastrophe in thousands of years",
+    "begin": "00:28:55.380",
+    "end": "00:28:59.570"
+  },
+  {
+    "text": "recovering from a mass extinction event",
+    "begin": "00:28:57.230",
+    "end": "00:29:02.000"
+  },
+  {
+    "text": "as millions of years we have no idea",
+    "begin": "00:28:59.570",
+    "end": "00:29:03.980"
+  },
+  {
+    "text": "what we're doing with didn't parent I",
+    "begin": "00:29:02.000",
+    "end": "00:29:05.990"
+  },
+  {
+    "text": "don't even know how to say chip what can",
+    "begin": "00:29:03.980",
+    "end": "00:29:07.910"
+  },
+  {
+    "text": "you imagine that will slow down this",
+    "begin": "00:29:05.990",
+    "end": "00:29:10.600"
+  },
+  {
+    "text": "juggernaut of an expanding economy",
+    "begin": "00:29:07.910",
+    "end": "00:29:13.940"
+  },
+  {
+    "text": "inventing ever new things doing evermore",
+    "begin": "00:29:10.600",
+    "end": "00:29:18.590"
+  },
+  {
+    "text": "huge projects decimating love and",
+    "begin": "00:29:13.940",
+    "end": "00:29:20.000"
+  },
+  {
+    "text": "certainly we're getting close to the",
+    "begin": "00:29:18.590",
+    "end": "00:29:22.250"
+  },
+  {
+    "text": "edge I mean to my favorite scary",
+    "begin": "00:29:20.000",
+    "end": "00:29:26.419"
+  },
+  {
+    "text": "statistics are the mass of humans and",
+    "begin": "00:29:22.250",
+    "end": "00:29:28.730"
+  },
+  {
+    "text": "their domestic animals mostly cattle in",
+    "begin": "00:29:26.419",
+    "end": "00:29:31.130"
+  },
+  {
+    "text": "terms of actual weight is now something",
+    "begin": "00:29:28.730",
+    "end": "00:29:35.000"
+  },
+  {
+    "text": "like 60% of all large mammals on earth",
+    "begin": "00:29:31.130",
+    "end": "00:29:37.340"
+  },
+  {
+    "text": "that's absurd",
+    "begin": "00:29:35.000",
+    "end": "00:29:38.960"
+  },
+  {
+    "text": "right and it's and for birds the numbers",
+    "begin": "00:29:37.340",
+    "end": "00:29:41.240"
+  },
+  {
+    "text": "even higher the weight of all birds in",
+    "begin": "00:29:38.960",
+    "end": "00:29:43.730"
+  },
+  {
+    "text": "the world is utterly dominated by",
+    "begin": "00:29:41.240",
+    "end": "00:29:47.150"
+  },
+  {
+    "text": "domestic fowl under that rule yes I",
+    "begin": "00:29:43.730",
+    "end": "00:29:48.470"
+  },
+  {
+    "text": "couldn't believe it when I read that so",
+    "begin": "00:29:47.150",
+    "end": "00:29:50.419"
+  },
+  {
+    "text": "I've researched and found it referenced",
+    "begin": "00:29:48.470",
+    "end": "00:29:52.700"
+  },
+  {
+    "text": "in multiple places Jim it's terrifying",
+    "begin": "00:29:50.419",
+    "end": "00:29:54.980"
+  },
+  {
+    "text": "that something really struck me we",
+    "begin": "00:29:52.700",
+    "end": "00:29:56.809"
+  },
+  {
+    "text": "debate whether humans are having an",
+    "begin": "00:29:54.980",
+    "end": "00:29:59.660"
+  },
+  {
+    "text": "impact on the globe so just think of",
+    "begin": "00:29:56.809",
+    "end": "00:30:00.080"
+  },
+  {
+    "text": "this",
+    "begin": "00:29:59.660",
+    "end": "00:30:02.870"
+  },
+  {
+    "text": "so 35,000 years ago there's cro-magnon",
+    "begin": "00:30:00.080",
+    "end": "00:30:04.640"
+  },
+  {
+    "text": "and they're living in the caves of the",
+    "begin": "00:30:02.870",
+    "end": "00:30:06.590"
+  },
+  {
+    "text": "door down on the north Oh Fran in Spain",
+    "begin": "00:30:04.640",
+    "end": "00:30:09.890"
+  },
+  {
+    "text": "and they're there for 15,000 years and",
+    "begin": "00:30:06.590",
+    "end": "00:30:11.960"
+  },
+  {
+    "text": "they paint the walls of the caves and",
+    "begin": "00:30:09.890",
+    "end": "00:30:13.610"
+  },
+  {
+    "text": "they go from you know a few hundred",
+    "begin": "00:30:11.960",
+    "end": "00:30:15.320"
+  },
+  {
+    "text": "kinds of tools to a few hundred kinds of",
+    "begin": "00:30:13.610",
+    "end": "00:30:18.169"
+  },
+  {
+    "text": "tools and then some of them migrate",
+    "begin": "00:30:15.320",
+    "end": "00:30:21.290"
+  },
+  {
+    "text": "north when the ice sheets go away and",
+    "begin": "00:30:18.169",
+    "end": "00:30:23.120"
+  },
+  {
+    "text": "the guys in the north of Spain I guess",
+    "begin": "00:30:21.290",
+    "end": "00:30:25.549"
+  },
+  {
+    "text": "stay there and go clam fishing or",
+    "begin": "00:30:23.120",
+    "end": "00:30:27.980"
+  },
+  {
+    "text": "whatever for ten thousand years or",
+    "begin": "00:30:25.549",
+    "end": "00:30:29.510"
+  },
+  {
+    "text": "fifteen thousand years there are they're",
+    "begin": "00:30:27.980",
+    "end": "00:30:32.230"
+  },
+  {
+    "text": "there they're the same species and",
+    "begin": "00:30:29.510",
+    "end": "00:30:35.929"
+  },
+  {
+    "text": "nothing much changes two things my",
+    "begin": "00:30:32.230",
+    "end": "00:30:39.770"
+  },
+  {
+    "text": "father was born in 1903 I'm getting at",
+    "begin": "00:30:35.929",
+    "end": "00:30:41.900"
+  },
+  {
+    "text": "the rate of change and it's bigger D",
+    "begin": "00:30:39.770",
+    "end": "00:30:43.610"
+  },
+  {
+    "text": "into the fact that the more stuff you",
+    "begin": "00:30:41.900",
+    "end": "00:30:45.500"
+  },
+  {
+    "text": "got the more stuff you can make in the",
+    "begin": "00:30:43.610",
+    "end": "00:30:48.049"
+  },
+  {
+    "text": "same period of time right so my dad was",
+    "begin": "00:30:45.500",
+    "end": "00:30:52.160"
+  },
+  {
+    "text": "born in 1903 my son was born in 1969 my",
+    "begin": "00:30:48.049",
+    "end": "00:30:54.200"
+  },
+  {
+    "text": "dad was born the year flight was",
+    "begin": "00:30:52.160",
+    "end": "00:30:57.020"
+  },
+  {
+    "text": "invented my son was born sixty-six years",
+    "begin": "00:30:54.200",
+    "end": "00:30:59.510"
+  },
+  {
+    "text": "later when we landed on the moon the",
+    "begin": "00:30:57.020",
+    "end": "00:31:02.059"
+  },
+  {
+    "text": "pace of change is enormous because we",
+    "begin": "00:30:59.510",
+    "end": "00:31:04.850"
+  },
+  {
+    "text": "can make so many things so fast now for",
+    "begin": "00:31:02.059",
+    "end": "00:31:07.909"
+  },
+  {
+    "text": "the impact on the planet so I'm I'm 80",
+    "begin": "00:31:04.850",
+    "end": "00:31:10.850"
+  },
+  {
+    "text": "gosh cos I was born in 1939",
+    "begin": "00:31:07.909",
+    "end": "00:31:12.890"
+  },
+  {
+    "text": "I grew up with milk being delivered in",
+    "begin": "00:31:10.850",
+    "end": "00:31:17.000"
+  },
+  {
+    "text": "milk bottles in the graduate Dustin",
+    "begin": "00:31:12.890",
+    "end": "00:31:19.850"
+  },
+  {
+    "text": "Hoffman is famously told think plastics",
+    "begin": "00:31:17.000",
+    "end": "00:31:24.070"
+  },
+  {
+    "text": "well plastics was a big thing in 1960",
+    "begin": "00:31:19.850",
+    "end": "00:31:28.130"
+  },
+  {
+    "text": "sixty years later 2020 we have crashed",
+    "begin": "00:31:24.070",
+    "end": "00:31:30.470"
+  },
+  {
+    "text": "our oceans and our sea shores all around",
+    "begin": "00:31:28.130",
+    "end": "00:31:32.810"
+  },
+  {
+    "text": "the planet with gargantuan piles of",
+    "begin": "00:31:30.470",
+    "end": "00:31:36.050"
+  },
+  {
+    "text": "plastic crap that will not decay in",
+    "begin": "00:31:32.810",
+    "end": "00:31:39.170"
+  },
+  {
+    "text": "thousands of years and we're making more",
+    "begin": "00:31:36.050",
+    "end": "00:31:42.020"
+  },
+  {
+    "text": "of it have we affected the planet at 16",
+    "begin": "00:31:39.170",
+    "end": "00:31:42.500"
+  },
+  {
+    "text": "years",
+    "begin": "00:31:42.020",
+    "end": "00:31:46.040"
+  },
+  {
+    "text": "well there's masses of plastics floating",
+    "begin": "00:31:42.500",
+    "end": "00:31:48.560"
+  },
+  {
+    "text": "in the oceans then we didn't even have",
+    "begin": "00:31:46.040",
+    "end": "00:31:51.110"
+  },
+  {
+    "text": "plastic 60 years ago so let's not debate",
+    "begin": "00:31:48.560",
+    "end": "00:31:53.210"
+  },
+  {
+    "text": "the fact that humanity's impacting the",
+    "begin": "00:31:51.110",
+    "end": "00:31:55.970"
+  },
+  {
+    "text": "planet we're overwhelming of it and it",
+    "begin": "00:31:53.210",
+    "end": "00:31:57.950"
+  },
+  {
+    "text": "were not being mean nobody's",
+    "begin": "00:31:55.970",
+    "end": "00:32:01.580"
+  },
+  {
+    "text": "mean-spirited it's not capitalism it is",
+    "begin": "00:31:57.950",
+    "end": "00:32:04.010"
+  },
+  {
+    "text": "the inventiveness of the tap process in",
+    "begin": "00:32:01.580",
+    "end": "00:32:06.080"
+  },
+  {
+    "text": "which we inevitably invent more things",
+    "begin": "00:32:04.010",
+    "end": "00:32:07.940"
+  },
+  {
+    "text": "that are useful for stuff but we just",
+    "begin": "00:32:06.080",
+    "end": "00:32:10.340"
+  },
+  {
+    "text": "keep doing it if it's inevitable and you",
+    "begin": "00:32:07.940",
+    "end": "00:32:12.200"
+  },
+  {
+    "text": "know the tap equation at least says the",
+    "begin": "00:32:10.340",
+    "end": "00:32:14.060"
+  },
+  {
+    "text": "jacent possible will exponentially",
+    "begin": "00:32:12.200",
+    "end": "00:32:17.630"
+  },
+  {
+    "text": "increase over time how do we get out of",
+    "begin": "00:32:14.060",
+    "end": "00:32:19.280"
+  },
+  {
+    "text": "that is there is there any way to get",
+    "begin": "00:32:17.630",
+    "end": "00:32:20.900"
+  },
+  {
+    "text": "out of it or we are gonna just go up",
+    "begin": "00:32:19.280",
+    "end": "00:32:23.780"
+  },
+  {
+    "text": "against the limits and crash tap if it's",
+    "begin": "00:32:20.900",
+    "end": "00:32:25.730"
+  },
+  {
+    "text": "fundamental would indicate that might be",
+    "begin": "00:32:23.780",
+    "end": "00:32:27.740"
+  },
+  {
+    "text": "what happens Jim it's worse than",
+    "begin": "00:32:25.730",
+    "end": "00:32:30.380"
+  },
+  {
+    "text": "exponential an exponential never reaches",
+    "begin": "00:32:27.740",
+    "end": "00:32:32.630"
+  },
+  {
+    "text": "infinity in finite time this thing goes",
+    "begin": "00:32:30.380",
+    "end": "00:32:34.850"
+  },
+  {
+    "text": "vertical it reaches infinity and finite",
+    "begin": "00:32:32.630",
+    "end": "00:32:37.370"
+  },
+  {
+    "text": "time I think we are now going steeply up",
+    "begin": "00:32:34.850",
+    "end": "00:32:39.950"
+  },
+  {
+    "text": "this is curved and this is the",
+    "begin": "00:32:37.370",
+    "end": "00:32:43.850"
+  },
+  {
+    "text": "Anthropocene and what we confront you",
+    "begin": "00:32:39.950",
+    "end": "00:32:45.500"
+  },
+  {
+    "text": "know one could say this and you know",
+    "begin": "00:32:43.850",
+    "end": "00:32:49.610"
+  },
+  {
+    "text": "it's so stark what we're confronting is",
+    "begin": "00:32:45.500",
+    "end": "00:32:52.460"
+  },
+  {
+    "text": "global and what we're confronting is",
+    "begin": "00:32:49.610",
+    "end": "00:32:55.480"
+  },
+  {
+    "text": "civilizational this is our own humanity",
+    "begin": "00:32:52.460",
+    "end": "00:32:58.970"
+  },
+  {
+    "text": "creating and creating and we're",
+    "begin": "00:32:55.480",
+    "end": "00:33:00.260"
+  },
+  {
+    "text": "wonderful at it we've been doing it for",
+    "begin": "00:32:58.970",
+    "end": "00:33:03.170"
+  },
+  {
+    "text": "three million years overwhelming the",
+    "begin": "00:33:00.260",
+    "end": "00:33:05.540"
+  },
+  {
+    "text": "planet this image came to be a couple of",
+    "begin": "00:33:03.170",
+    "end": "00:33:07.190"
+  },
+  {
+    "text": "weeks ago you know Easter Island",
+    "begin": "00:33:05.540",
+    "end": "00:33:09.800"
+  },
+  {
+    "text": "so there's Easter Island of this the",
+    "begin": "00:33:07.190",
+    "end": "00:33:12.980"
+  },
+  {
+    "text": "stone figures facing east it's an island",
+    "begin": "00:33:09.800",
+    "end": "00:33:14.360"
+  },
+  {
+    "text": "out in the middle of the ocean",
+    "begin": "00:33:12.980",
+    "end": "00:33:16.250"
+  },
+  {
+    "text": "what did the person who cut down the",
+    "begin": "00:33:14.360",
+    "end": "00:33:19.610"
+  },
+  {
+    "text": "last tree think well the earth is an",
+    "begin": "00:33:16.250",
+    "end": "00:33:22.280"
+  },
+  {
+    "text": "island in space Jim were cutting down",
+    "begin": "00:33:19.610",
+    "end": "00:33:24.519"
+  },
+  {
+    "text": "the last tree",
+    "begin": "00:33:22.280",
+    "end": "00:33:26.679"
+  },
+  {
+    "text": "we have to find a way of becoming aware",
+    "begin": "00:33:24.519",
+    "end": "00:33:30.219"
+  },
+  {
+    "text": "of this as a species with all of our",
+    "begin": "00:33:26.679",
+    "end": "00:33:31.119"
+  },
+  {
+    "text": "interesting",
+    "begin": "00:33:30.219",
+    "end": "00:33:34.029"
+  },
+  {
+    "text": "identity politics and Muslims versus",
+    "begin": "00:33:31.119",
+    "end": "00:33:36.429"
+  },
+  {
+    "text": "Jews versus Hindus versus whatever and",
+    "begin": "00:33:34.029",
+    "end": "00:33:38.830"
+  },
+  {
+    "text": "the civilizational goods and Bad's of",
+    "begin": "00:33:36.429",
+    "end": "00:33:42.509"
+  },
+  {
+    "text": "the global civilization emerging ends if",
+    "begin": "00:33:38.830",
+    "end": "00:33:46.149"
+  },
+  {
+    "text": "conceivable make some transformation in",
+    "begin": "00:33:42.509",
+    "end": "00:33:49.659"
+  },
+  {
+    "text": "which we find valuable human lives when",
+    "begin": "00:33:46.149",
+    "end": "00:33:53.619"
+  },
+  {
+    "text": "we are of nature not above it Western",
+    "begin": "00:33:49.659",
+    "end": "00:33:55.899"
+  },
+  {
+    "text": "society there's this amazing line by",
+    "begin": "00:33:53.619",
+    "end": "00:34:00.339"
+  },
+  {
+    "text": "Francis Bacon in about 1660 the West is",
+    "begin": "00:33:55.899",
+    "end": "00:34:01.659"
+  },
+  {
+    "text": "just turning to look at the real world",
+    "begin": "00:34:00.339",
+    "end": "00:34:03.549"
+  },
+  {
+    "text": "if this is the start of empirical",
+    "begin": "00:34:01.659",
+    "end": "00:34:06.009"
+  },
+  {
+    "text": "science and bacon says I take all",
+    "begin": "00:34:03.549",
+    "end": "00:34:07.809"
+  },
+  {
+    "text": "knowledge to be my province which was",
+    "begin": "00:34:06.009",
+    "end": "00:34:10.149"
+  },
+  {
+    "text": "easier than their woman's much then he",
+    "begin": "00:34:07.809",
+    "end": "00:34:12.700"
+  },
+  {
+    "text": "roughly says didn't quite say this but",
+    "begin": "00:34:10.149",
+    "end": "00:34:15.460"
+  },
+  {
+    "text": "it says meaning to put nature on the",
+    "begin": "00:34:12.700",
+    "end": "00:34:18.059"
+  },
+  {
+    "text": "rack and rest our do",
+    "begin": "00:34:15.460",
+    "end": "00:34:21.309"
+  },
+  {
+    "text": "well that's center of extractive",
+    "begin": "00:34:18.059",
+    "end": "00:34:23.919"
+  },
+  {
+    "text": "modernity and it works within the",
+    "begin": "00:34:21.309",
+    "end": "00:34:25.990"
+  },
+  {
+    "text": "context of the rules of modernity the",
+    "begin": "00:34:23.919",
+    "end": "00:34:28.089"
+  },
+  {
+    "text": "problem is we've now reached the limits",
+    "begin": "00:34:25.990",
+    "end": "00:34:30.669"
+  },
+  {
+    "text": "and our social operating system seems to",
+    "begin": "00:34:28.089",
+    "end": "00:34:33.279"
+  },
+  {
+    "text": "have no way to constrain itself that's",
+    "begin": "00:34:30.669",
+    "end": "00:34:33.819"
+  },
+  {
+    "text": "right",
+    "begin": "00:34:33.279",
+    "end": "00:34:35.740"
+  },
+  {
+    "text": "it's overwhelming Jim I'm living in a",
+    "begin": "00:34:33.819",
+    "end": "00:34:39.909"
+  },
+  {
+    "text": "beautiful house in Santa Fe with with",
+    "begin": "00:34:35.740",
+    "end": "00:34:42.429"
+  },
+  {
+    "text": "Kate and it's got all the conveniences",
+    "begin": "00:34:39.909",
+    "end": "00:34:46.000"
+  },
+  {
+    "text": "and as as a Jeffery West says enough",
+    "begin": "00:34:42.429",
+    "end": "00:34:47.740"
+  },
+  {
+    "text": "energy per person to be a thousand",
+    "begin": "00:34:46.000",
+    "end": "00:34:51.639"
+  },
+  {
+    "text": "slaves and we're already comfortable we",
+    "begin": "00:34:47.740",
+    "end": "00:34:54.899"
+  },
+  {
+    "text": "have it's a species of planetary species",
+    "begin": "00:34:51.639",
+    "end": "00:34:57.160"
+  },
+  {
+    "text": "essentially to become aware of the",
+    "begin": "00:34:54.899",
+    "end": "00:34:59.140"
+  },
+  {
+    "text": "implications of this type thing that I",
+    "begin": "00:34:57.160",
+    "end": "00:35:01.630"
+  },
+  {
+    "text": "wrote down two years ago that's why it's",
+    "begin": "00:34:59.140",
+    "end": "00:35:03.910"
+  },
+  {
+    "text": "happening it's not mal-intent",
+    "begin": "00:35:01.630",
+    "end": "00:35:05.980"
+  },
+  {
+    "text": "we're no different in our intent than",
+    "begin": "00:35:03.910",
+    "end": "00:35:08.799"
+  },
+  {
+    "text": "people were 40,000 years ago not much",
+    "begin": "00:35:05.980",
+    "end": "00:35:10.450"
+  },
+  {
+    "text": "happen for thousands of years with the",
+    "begin": "00:35:08.799",
+    "end": "00:35:12.660"
+  },
+  {
+    "text": "same emotional structure then as now",
+    "begin": "00:35:10.450",
+    "end": "00:35:15.190"
+  },
+  {
+    "text": "it's just that we can create so much out",
+    "begin": "00:35:12.660",
+    "end": "00:35:16.660"
+  },
+  {
+    "text": "of what we've created that we keep",
+    "begin": "00:35:15.190",
+    "end": "00:35:19.180"
+  },
+  {
+    "text": "creating we're gonna die by our own",
+    "begin": "00:35:16.660",
+    "end": "00:35:20.829"
+  },
+  {
+    "text": "creativity as we were talking about",
+    "begin": "00:35:19.180",
+    "end": "00:35:22.349"
+  },
+  {
+    "text": "earlier before we went on the air",
+    "begin": "00:35:20.829",
+    "end": "00:35:25.420"
+  },
+  {
+    "text": "there's something charming about life in",
+    "begin": "00:35:22.349",
+    "end": "00:35:28.720"
+  },
+  {
+    "text": "America in the 18th century and the",
+    "begin": "00:35:25.420",
+    "end": "00:35:31.359"
+  },
+  {
+    "text": "energy density was vastly lower we would",
+    "begin": "00:35:28.720",
+    "end": "00:35:33.279"
+  },
+  {
+    "text": "not be destroying the planet if we had",
+    "begin": "00:35:31.359",
+    "end": "00:35:37.000"
+  },
+  {
+    "text": "somehow found a way to say stop right",
+    "begin": "00:35:33.279",
+    "end": "00:35:37.900"
+  },
+  {
+    "text": "what",
+    "begin": "00:35:37.000",
+    "end": "00:35:41.559"
+  },
+  {
+    "text": "in 1840 was we were on the we were on",
+    "begin": "00:35:37.900",
+    "end": "00:35:42.910"
+  },
+  {
+    "text": "the frontier of the Industrial",
+    "begin": "00:35:41.559",
+    "end": "00:35:45.759"
+  },
+  {
+    "text": "Revolution and we've exploded since then",
+    "begin": "00:35:42.910",
+    "end": "00:35:49.299"
+  },
+  {
+    "text": "and a per capita GDP has gone up faster",
+    "begin": "00:35:45.759",
+    "end": "00:35:52.779"
+  },
+  {
+    "text": "than population growth can so population",
+    "begin": "00:35:49.299",
+    "end": "00:35:55.359"
+  },
+  {
+    "text": "for the first time in history it started",
+    "begin": "00:35:52.779",
+    "end": "00:35:57.789"
+  },
+  {
+    "text": "exploding a couple of centuries ago most",
+    "begin": "00:35:55.359",
+    "end": "00:35:59.829"
+  },
+  {
+    "text": "seven billion people now because per",
+    "begin": "00:35:57.789",
+    "end": "00:36:01.660"
+  },
+  {
+    "text": "capita GDP is going up faster than",
+    "begin": "00:35:59.829",
+    "end": "00:36:04.089"
+  },
+  {
+    "text": "population when you multiply the two",
+    "begin": "00:36:01.660",
+    "end": "00:36:05.799"
+  },
+  {
+    "text": "together you're at least in a rough",
+    "begin": "00:36:04.089",
+    "end": "00:36:08.950"
+  },
+  {
+    "text": "order the load on the ecosystem and as",
+    "begin": "00:36:05.799",
+    "end": "00:36:10.839"
+  },
+  {
+    "text": "we were just saying it's we've got to be",
+    "begin": "00:36:08.950",
+    "end": "00:36:12.390"
+  },
+  {
+    "text": "getting close to the limits and the",
+    "begin": "00:36:10.839",
+    "end": "00:36:15.160"
+  },
+  {
+    "text": "operating system itself has no means to",
+    "begin": "00:36:12.390",
+    "end": "00:36:16.869"
+  },
+  {
+    "text": "correct itself at least it's very very",
+    "begin": "00:36:15.160",
+    "end": "00:36:19.539"
+  },
+  {
+    "text": "difficult in my own work in politics I",
+    "begin": "00:36:16.869",
+    "end": "00:36:21.759"
+  },
+  {
+    "text": "analyze the engine of money on money",
+    "begin": "00:36:19.539",
+    "end": "00:36:24.400"
+  },
+  {
+    "text": "return it's now become Unleashed from",
+    "begin": "00:36:21.759",
+    "end": "00:36:27.009"
+  },
+  {
+    "text": "human control you know everybody dances",
+    "begin": "00:36:24.400",
+    "end": "00:36:29.710"
+  },
+  {
+    "text": "to money and money corrupts politics",
+    "begin": "00:36:27.009",
+    "end": "00:36:31.749"
+  },
+  {
+    "text": "until we learn to develop a new social",
+    "begin": "00:36:29.710",
+    "end": "00:36:34.359"
+  },
+  {
+    "text": "signaling network or constrain the power",
+    "begin": "00:36:31.749",
+    "end": "00:36:36.190"
+  },
+  {
+    "text": "of money it's not obvious to me how we",
+    "begin": "00:36:34.359",
+    "end": "00:36:38.440"
+  },
+  {
+    "text": "can stop this beast driving us right",
+    "begin": "00:36:36.190",
+    "end": "00:36:40.269"
+  },
+  {
+    "text": "over the cliff I think you're right it's",
+    "begin": "00:36:38.440",
+    "end": "00:36:42.460"
+  },
+  {
+    "text": "driving us over to cliffs it's certainly",
+    "begin": "00:36:40.269",
+    "end": "00:36:44.289"
+  },
+  {
+    "text": "that the rich get richer you know the",
+    "begin": "00:36:42.460",
+    "end": "00:36:46.119"
+  },
+  {
+    "text": "top one percent the top tenth of a",
+    "begin": "00:36:44.289",
+    "end": "00:36:46.749"
+  },
+  {
+    "text": "percent",
+    "begin": "00:36:46.119",
+    "end": "00:36:49.660"
+  },
+  {
+    "text": "have you seen Thomas Piketty discussion",
+    "begin": "00:36:46.749",
+    "end": "00:36:52.420"
+  },
+  {
+    "text": "of this in my read capital and I've read",
+    "begin": "00:36:49.660",
+    "end": "00:36:54.489"
+  },
+  {
+    "text": "some of his more recent articles well",
+    "begin": "00:36:52.420",
+    "end": "00:36:56.259"
+  },
+  {
+    "text": "I've only read about capital but I think",
+    "begin": "00:36:54.489",
+    "end": "00:36:57.099"
+  },
+  {
+    "text": "I understand it",
+    "begin": "00:36:56.259",
+    "end": "00:36:59.769"
+  },
+  {
+    "text": "his basic idea with respect to this is a",
+    "begin": "00:36:57.099",
+    "end": "00:37:03.579"
+  },
+  {
+    "text": "tax that just taxes people on big",
+    "begin": "00:36:59.769",
+    "end": "00:37:06.339"
+  },
+  {
+    "text": "estates take any estate over 50 million",
+    "begin": "00:37:03.579",
+    "end": "00:37:09.730"
+  },
+  {
+    "text": "and take away 2% of it every year and",
+    "begin": "00:37:06.339",
+    "end": "00:37:12.099"
+  },
+  {
+    "text": "put it into a general pot well that",
+    "begin": "00:37:09.730",
+    "end": "00:37:13.720"
+  },
+  {
+    "text": "would do it it's good he'll never pass",
+    "begin": "00:37:12.099",
+    "end": "00:37:15.519"
+  },
+  {
+    "text": "but that would do it in a sense",
+    "begin": "00:37:13.720",
+    "end": "00:37:17.170"
+  },
+  {
+    "text": "Elizabeth Warren's doing that or",
+    "begin": "00:37:15.519",
+    "end": "00:37:19.150"
+  },
+  {
+    "text": "proposing that but Jim that won't do",
+    "begin": "00:37:17.170",
+    "end": "00:37:20.589"
+  },
+  {
+    "text": "anything about the fact that we're",
+    "begin": "00:37:19.150",
+    "end": "00:37:23.619"
+  },
+  {
+    "text": "inventing ever new things and processes",
+    "begin": "00:37:20.589",
+    "end": "00:37:26.049"
+  },
+  {
+    "text": "and wished to make bubblegum and purple",
+    "begin": "00:37:23.619",
+    "end": "00:37:27.999"
+  },
+  {
+    "text": "plastic penguins for the pool side and",
+    "begin": "00:37:26.049",
+    "end": "00:37:31.749"
+  },
+  {
+    "text": "apps and new kinds of penicillin and new",
+    "begin": "00:37:27.999",
+    "end": "00:37:34.269"
+  },
+  {
+    "text": "kinds of gadgets and new kinds of vast",
+    "begin": "00:37:31.749",
+    "end": "00:37:36.309"
+  },
+  {
+    "text": "projects like the Silk Road that the",
+    "begin": "00:37:34.269",
+    "end": "00:37:38.859"
+  },
+  {
+    "text": "Chinese are doing now that is just going",
+    "begin": "00:37:36.309",
+    "end": "00:37:40.720"
+  },
+  {
+    "text": "to keep invading the planet even if we",
+    "begin": "00:37:38.859",
+    "end": "00:37:42.249"
+  },
+  {
+    "text": "were to distribute the money better and",
+    "begin": "00:37:40.720",
+    "end": "00:37:45.549"
+  },
+  {
+    "text": "help inequality what's gonna slow down",
+    "begin": "00:37:42.249",
+    "end": "00:37:47.769"
+  },
+  {
+    "text": "the juggernaut that's growing and here's",
+    "begin": "00:37:45.549",
+    "end": "00:37:49.089"
+  },
+  {
+    "text": "the part that a lot of people have not",
+    "begin": "00:37:47.769",
+    "end": "00:37:50.410"
+  },
+  {
+    "text": "caught",
+    "begin": "00:37:49.089",
+    "end": "00:37:52.329"
+  },
+  {
+    "text": "which is not only do we have this tap",
+    "begin": "00:37:50.410",
+    "end": "00:37:55.450"
+  },
+  {
+    "text": "driven faster than exponential wave of",
+    "begin": "00:37:52.329",
+    "end": "00:37:57.490"
+  },
+  {
+    "text": "new products most of which we don't need",
+    "begin": "00:37:55.450",
+    "end": "00:38:00.250"
+  },
+  {
+    "text": "or want probably but the money on money",
+    "begin": "00:37:57.490",
+    "end": "00:38:02.859"
+  },
+  {
+    "text": "return machine drives the",
+    "begin": "00:38:00.250",
+    "end": "00:38:05.319"
+  },
+  {
+    "text": "psychologically informed marketing to",
+    "begin": "00:38:02.859",
+    "end": "00:38:08.859"
+  },
+  {
+    "text": "invent new needs for you right well yes",
+    "begin": "00:38:05.319",
+    "end": "00:38:11.349"
+  },
+  {
+    "text": "but but pause there's the inventing of",
+    "begin": "00:38:08.859",
+    "end": "00:38:14.460"
+  },
+  {
+    "text": "new needs since it was the guy been a",
+    "begin": "00:38:11.349",
+    "end": "00:38:17.799"
+  },
+  {
+    "text": "you know who was a the the nephew of",
+    "begin": "00:38:14.460",
+    "end": "00:38:19.960"
+  },
+  {
+    "text": "Freud and my son you know he invented in",
+    "begin": "00:38:17.799",
+    "end": "00:38:23.710"
+  },
+  {
+    "text": "about 1920 advertising and cigarettes or",
+    "begin": "00:38:19.960",
+    "end": "00:38:26.799"
+  },
+  {
+    "text": "freedom candles or something but it's",
+    "begin": "00:38:23.710",
+    "end": "00:38:29.140"
+  },
+  {
+    "text": "more in dodging so that if you invent a",
+    "begin": "00:38:26.799",
+    "end": "00:38:31.720"
+  },
+  {
+    "text": "screw it meets its complement the",
+    "begin": "00:38:29.140",
+    "end": "00:38:34.690"
+  },
+  {
+    "text": "screwdriver to be useful so goods in the",
+    "begin": "00:38:31.720",
+    "end": "00:38:38.020"
+  },
+  {
+    "text": "economy call forth the invention of",
+    "begin": "00:38:34.690",
+    "end": "00:38:39.880"
+  },
+  {
+    "text": "still more new goods that are the",
+    "begin": "00:38:38.020",
+    "end": "00:38:42.039"
+  },
+  {
+    "text": "complements or substitutes of existing",
+    "begin": "00:38:39.880",
+    "end": "00:38:44.500"
+  },
+  {
+    "text": "goods so once you got cellphones you get",
+    "begin": "00:38:42.039",
+    "end": "00:38:47.230"
+  },
+  {
+    "text": "apps with once you've got rockets you",
+    "begin": "00:38:44.500",
+    "end": "00:38:49.900"
+  },
+  {
+    "text": "get the space station advertising as a",
+    "begin": "00:38:47.230",
+    "end": "00:38:52.059"
+  },
+  {
+    "text": "piece of it but this has been going on",
+    "begin": "00:38:49.900",
+    "end": "00:38:54.099"
+  },
+  {
+    "text": "since long before advertising let's turn",
+    "begin": "00:38:52.059",
+    "end": "00:38:56.049"
+  },
+  {
+    "text": "up you made a big point of that in your",
+    "begin": "00:38:54.099",
+    "end": "00:38:59.170"
+  },
+  {
+    "text": "book that complementarity by itself a",
+    "begin": "00:38:56.049",
+    "end": "00:39:01.510"
+  },
+  {
+    "text": "draws forth the future right especially",
+    "begin": "00:38:59.170",
+    "end": "00:39:03.819"
+  },
+  {
+    "text": "in the economy by the way it's time to",
+    "begin": "00:39:01.510",
+    "end": "00:39:06.490"
+  },
+  {
+    "text": "mention Brian Arthur Bryant's book the",
+    "begin": "00:39:03.819",
+    "end": "00:39:10.140"
+  },
+  {
+    "text": "nature of Technology 2009 talks about",
+    "begin": "00:39:06.490",
+    "end": "00:39:14.410"
+  },
+  {
+    "text": "lots of this Brian we're old friends",
+    "begin": "00:39:10.140",
+    "end": "00:39:16.420"
+  },
+  {
+    "text": "Brian doesn't have this equation but",
+    "begin": "00:39:14.410",
+    "end": "00:39:18.579"
+  },
+  {
+    "text": "he's got lots of the central tenets and",
+    "begin": "00:39:16.420",
+    "end": "00:39:20.109"
+  },
+  {
+    "text": "is you should really read the book",
+    "begin": "00:39:18.579",
+    "end": "00:39:21.460"
+  },
+  {
+    "text": "good night not only did I read the book",
+    "begin": "00:39:20.109",
+    "end": "00:39:23.710"
+  },
+  {
+    "text": "I actually read some of the chapters",
+    "begin": "00:39:21.460",
+    "end": "00:39:25.150"
+  },
+  {
+    "text": "before it was published and gave him",
+    "begin": "00:39:23.710",
+    "end": "00:39:26.980"
+  },
+  {
+    "text": "some feedback on it oh great",
+    "begin": "00:39:25.150",
+    "end": "00:39:28.690"
+  },
+  {
+    "text": "Brian and I were actually office mates",
+    "begin": "00:39:26.980",
+    "end": "00:39:31.089"
+  },
+  {
+    "text": "when I was at full-time at the Institute",
+    "begin": "00:39:28.690",
+    "end": "00:39:34.450"
+  },
+  {
+    "text": "back in 2002 to 2004 oh really",
+    "begin": "00:39:31.089",
+    "end": "00:39:36.430"
+  },
+  {
+    "text": "yeah so yes I'm very familiar with that",
+    "begin": "00:39:34.450",
+    "end": "00:39:38.319"
+  },
+  {
+    "text": "book that's a must read for anybody",
+    "begin": "00:39:36.430",
+    "end": "00:39:40.000"
+  },
+  {
+    "text": "that's thinking in these in these areas",
+    "begin": "00:39:38.319",
+    "end": "00:39:42.220"
+  },
+  {
+    "text": "and that book got less attention that it",
+    "begin": "00:39:40.000",
+    "end": "00:39:44.710"
+  },
+  {
+    "text": "should really I mean that is one of the",
+    "begin": "00:39:42.220",
+    "end": "00:39:48.390"
+  },
+  {
+    "text": "most profound books on network models of",
+    "begin": "00:39:44.710",
+    "end": "00:39:50.829"
+  },
+  {
+    "text": "one important part of the economy which",
+    "begin": "00:39:48.390",
+    "end": "00:39:53.020"
+  },
+  {
+    "text": "is the evolution of technologically",
+    "begin": "00:39:50.829",
+    "end": "00:39:55.569"
+  },
+  {
+    "text": "driven products and businesses I think I",
+    "begin": "00:39:53.020",
+    "end": "00:39:57.760"
+  },
+  {
+    "text": "agree with Brian set the foundation and",
+    "begin": "00:39:55.569",
+    "end": "00:40:00.069"
+  },
+  {
+    "text": "the stuff I'm talking about that grows",
+    "begin": "00:39:57.760",
+    "end": "00:40:01.750"
+  },
+  {
+    "text": "out of it there's not a bunch of there's",
+    "begin": "00:40:00.069",
+    "end": "00:40:03.500"
+  },
+  {
+    "text": "some you know Brian's doing it too",
+    "begin": "00:40:01.750",
+    "end": "00:40:06.859"
+  },
+  {
+    "text": "O'Brien even gets to the idea well I did",
+    "begin": "00:40:03.500",
+    "end": "00:40:09.740"
+  },
+  {
+    "text": "too and I guess in 1998 Brian and I were",
+    "begin": "00:40:06.859",
+    "end": "00:40:11.390"
+  },
+  {
+    "text": "friends at the early age we kept going",
+    "begin": "00:40:09.740",
+    "end": "00:40:13.790"
+  },
+  {
+    "text": "to babes for lunch it was really cute",
+    "begin": "00:40:11.390",
+    "end": "00:40:15.859"
+  },
+  {
+    "text": "because we'd go to babes and Brian would",
+    "begin": "00:40:13.790",
+    "end": "00:40:18.530"
+  },
+  {
+    "text": "order fish stew and each time he'd say",
+    "begin": "00:40:15.859",
+    "end": "00:40:20.900"
+  },
+  {
+    "text": "this fish do is just terrible and he",
+    "begin": "00:40:18.530",
+    "end": "00:40:24.920"
+  },
+  {
+    "text": "keep ordering three kids anyway Brian",
+    "begin": "00:40:20.900",
+    "end": "00:40:26.570"
+  },
+  {
+    "text": "taught me some economics said I wrote a",
+    "begin": "00:40:24.920",
+    "end": "00:40:29.720"
+  },
+  {
+    "text": "paper in 1988 about it actually I wanted",
+    "begin": "00:40:26.570",
+    "end": "00:40:31.910"
+  },
+  {
+    "text": "Brian to be a co-author but for some",
+    "begin": "00:40:29.720",
+    "end": "00:40:34.160"
+  },
+  {
+    "text": "reason he didn't want to be didn't",
+    "begin": "00:40:31.910",
+    "end": "00:40:36.619"
+  },
+  {
+    "text": "happen so once you start thinking about",
+    "begin": "00:40:34.160",
+    "end": "00:40:39.980"
+  },
+  {
+    "text": "things making things it's growing on me",
+    "begin": "00:40:36.619",
+    "end": "00:40:42.349"
+  },
+  {
+    "text": "how simple it is suppose that you have a",
+    "begin": "00:40:39.980",
+    "end": "00:40:46.550"
+  },
+  {
+    "text": "number of things in and in general two",
+    "begin": "00:40:42.349",
+    "end": "00:40:48.140"
+  },
+  {
+    "text": "things can get together and making new",
+    "begin": "00:40:46.550",
+    "end": "00:40:49.910"
+  },
+  {
+    "text": "things okay I'd like to what we're",
+    "begin": "00:40:48.140",
+    "end": "00:40:52.250"
+  },
+  {
+    "text": "talking about then the differential",
+    "begin": "00:40:49.910",
+    "end": "00:40:54.950"
+  },
+  {
+    "text": "equation for the number of things is DN",
+    "begin": "00:40:52.250",
+    "end": "00:40:59.050"
+  },
+  {
+    "text": "DT is equal to n times N or N squared",
+    "begin": "00:40:54.950",
+    "end": "00:41:02.090"
+  },
+  {
+    "text": "even I can integrate it that means that",
+    "begin": "00:40:59.050",
+    "end": "00:41:04.280"
+  },
+  {
+    "text": "and and I've checked it with it with",
+    "begin": "00:41:02.090",
+    "end": "00:41:08.839"
+  },
+  {
+    "text": "regard so like so if you integrated DN",
+    "begin": "00:41:04.280",
+    "end": "00:41:11.720"
+  },
+  {
+    "text": "DT is equal to K N squared if you",
+    "begin": "00:41:08.839",
+    "end": "00:41:14.869"
+  },
+  {
+    "text": "integrate it as n is equal to n to the",
+    "begin": "00:41:11.720",
+    "end": "00:41:18.200"
+  },
+  {
+    "text": "third per time and that's hyperbolic it",
+    "begin": "00:41:14.869",
+    "end": "00:41:20.450"
+  },
+  {
+    "text": "goes infinite times - yeah but yeah",
+    "begin": "00:41:18.200",
+    "end": "00:41:22.760"
+  },
+  {
+    "text": "once you've got a general process that",
+    "begin": "00:41:20.450",
+    "end": "00:41:24.530"
+  },
+  {
+    "text": "takes pairs of things that makes new",
+    "begin": "00:41:22.760",
+    "end": "00:41:26.330"
+  },
+  {
+    "text": "things out of it and you can sample",
+    "begin": "00:41:24.530",
+    "end": "00:41:27.740"
+  },
+  {
+    "text": "pretty much the things that are around",
+    "begin": "00:41:26.330",
+    "end": "00:41:30.140"
+  },
+  {
+    "text": "now there's a process it looks like it's",
+    "begin": "00:41:27.740",
+    "end": "00:41:31.580"
+  },
+  {
+    "text": "going to reach infinity in finite time",
+    "begin": "00:41:30.140",
+    "end": "00:41:34.910"
+  },
+  {
+    "text": "well point out again the fecundity",
+    "begin": "00:41:31.580",
+    "end": "00:41:37.609"
+  },
+  {
+    "text": "filter makes it go not that fast because",
+    "begin": "00:41:34.910",
+    "end": "00:41:39.650"
+  },
+  {
+    "text": "not all not all the combinations work in",
+    "begin": "00:41:37.609",
+    "end": "00:41:41.630"
+  },
+  {
+    "text": "fact the combinations at work are quite",
+    "begin": "00:41:39.650",
+    "end": "00:41:44.420"
+  },
+  {
+    "text": "sparse and if they're sparse enough it",
+    "begin": "00:41:41.630",
+    "end": "00:41:46.730"
+  },
+  {
+    "text": "changes from a hyperbolic to a parabolic",
+    "begin": "00:41:44.420",
+    "end": "00:41:49.670"
+  },
+  {
+    "text": "or even to a super linear the national",
+    "begin": "00:41:46.730",
+    "end": "00:41:51.830"
+  },
+  {
+    "text": "theorems that bike still has produced in",
+    "begin": "00:41:49.670",
+    "end": "00:41:53.960"
+  },
+  {
+    "text": "a paper that we've got online this",
+    "begin": "00:41:51.830",
+    "end": "00:41:56.630"
+  },
+  {
+    "text": "process is hyperbolic but the model",
+    "begin": "00:41:53.960",
+    "end": "00:41:58.609"
+  },
+  {
+    "text": "doesn't have it that things die right",
+    "begin": "00:41:56.630",
+    "end": "00:42:01.250"
+  },
+  {
+    "text": "things fail or combinations fail yeah so",
+    "begin": "00:41:58.609",
+    "end": "00:42:03.140"
+  },
+  {
+    "text": "if you put into the things just go away",
+    "begin": "00:42:01.250",
+    "end": "00:42:05.540"
+  },
+  {
+    "text": "so things could just drop out or any",
+    "begin": "00:42:03.140",
+    "end": "00:42:08.300"
+  },
+  {
+    "text": "moment so call that view then if mu is 0",
+    "begin": "00:42:05.540",
+    "end": "00:42:11.030"
+  },
+  {
+    "text": "goes to infinity a theorem if you use a",
+    "begin": "00:42:08.300",
+    "end": "00:42:13.339"
+  },
+  {
+    "text": "little greater than zero it either goes",
+    "begin": "00:42:11.030",
+    "end": "00:42:15.980"
+  },
+  {
+    "text": "to infinity or or it goes to zero at",
+    "begin": "00:42:13.339",
+    "end": "00:42:17.420"
+  },
+  {
+    "text": "finite time",
+    "begin": "00:42:15.980",
+    "end": "00:42:19.460"
+  },
+  {
+    "text": "some probability so we know a little bit",
+    "begin": "00:42:17.420",
+    "end": "00:42:21.530"
+  },
+  {
+    "text": "about that that's still not adequate",
+    "begin": "00:42:19.460",
+    "end": "00:42:23.720"
+  },
+  {
+    "text": "because things don't die alone when one",
+    "begin": "00:42:21.530",
+    "end": "00:42:25.280"
+  },
+  {
+    "text": "thing dies a bunch of other things die",
+    "begin": "00:42:23.720",
+    "end": "00:42:27.230"
+  },
+  {
+    "text": "within Schumpeterian guilds of creative",
+    "begin": "00:42:25.280",
+    "end": "00:42:29.720"
+  },
+  {
+    "text": "instruction and we don't know very much",
+    "begin": "00:42:27.230",
+    "end": "00:42:31.160"
+  },
+  {
+    "text": "about that yet well this has been",
+    "begin": "00:42:29.720",
+    "end": "00:42:33.230"
+  },
+  {
+    "text": "amazingly interesting back and forth",
+    "begin": "00:42:31.160",
+    "end": "00:42:34.730"
+  },
+  {
+    "text": "about all kinds of cool things but we've",
+    "begin": "00:42:33.230",
+    "end": "00:42:36.589"
+  },
+  {
+    "text": "gone a long way from your book you know",
+    "begin": "00:42:34.730",
+    "end": "00:42:38.630"
+  },
+  {
+    "text": "one of the cores of your book is the I",
+    "begin": "00:42:36.589",
+    "end": "00:42:40.490"
+  },
+  {
+    "text": "took it way as the point point of your",
+    "begin": "00:42:38.630",
+    "end": "00:42:42.859"
+  },
+  {
+    "text": "book was origin of life why don't we",
+    "begin": "00:42:40.490",
+    "end": "00:42:44.780"
+  },
+  {
+    "text": "talk about what you think about the",
+    "begin": "00:42:42.859",
+    "end": "00:42:46.549"
+  },
+  {
+    "text": "origin of life today after having",
+    "begin": "00:42:44.780",
+    "end": "00:42:49.099"
+  },
+  {
+    "text": "studied it for lo these many years it's",
+    "begin": "00:42:46.549",
+    "end": "00:42:51.799"
+  },
+  {
+    "text": "so fascinating Jim let me tell you how",
+    "begin": "00:42:49.099",
+    "end": "00:42:53.660"
+  },
+  {
+    "text": "its it's interesting how the problem",
+    "begin": "00:42:51.799",
+    "end": "00:42:57.230"
+  },
+  {
+    "text": "arose before about the middle 1900s",
+    "begin": "00:42:53.660",
+    "end": "00:42:59.359"
+  },
+  {
+    "text": "there was no problem about the origin of",
+    "begin": "00:42:57.230",
+    "end": "00:43:01.640"
+  },
+  {
+    "text": "life if you looked at a rotten log after",
+    "begin": "00:42:59.359",
+    "end": "00:43:04.880"
+  },
+  {
+    "text": "a rain you know there were maggots so",
+    "begin": "00:43:01.640",
+    "end": "00:43:07.040"
+  },
+  {
+    "text": "they obviously had sprung forth from the",
+    "begin": "00:43:04.880",
+    "end": "00:43:08.869"
+  },
+  {
+    "text": "from the rotten lug",
+    "begin": "00:43:07.040",
+    "end": "00:43:11.119"
+  },
+  {
+    "text": "now then hardik who's just written a",
+    "begin": "00:43:08.869",
+    "end": "00:43:13.010"
+  },
+  {
+    "text": "review of the early of the orc send it",
+    "begin": "00:43:11.119",
+    "end": "00:43:15.349"
+  },
+  {
+    "text": "to you you know finds us what wonderful",
+    "begin": "00:43:13.010",
+    "end": "00:43:17.170"
+  },
+  {
+    "text": "thing in which there's some doctor in",
+    "begin": "00:43:15.349",
+    "end": "00:43:20.990"
+  },
+  {
+    "text": "1740 who says that if you take a piece",
+    "begin": "00:43:17.170",
+    "end": "00:43:24.260"
+  },
+  {
+    "text": "of cloth that is laden with sweat from",
+    "begin": "00:43:20.990",
+    "end": "00:43:27.109"
+  },
+  {
+    "text": "your armpit and you mix it with wheat",
+    "begin": "00:43:24.260",
+    "end": "00:43:29.630"
+  },
+  {
+    "text": "and you put it in a box a mousehole",
+    "begin": "00:43:27.109",
+    "end": "00:43:34.309"
+  },
+  {
+    "text": "emerge okay so what happened is that in",
+    "begin": "00:43:29.630",
+    "end": "00:43:36.440"
+  },
+  {
+    "text": "somewhere in the late nineteen hundreds",
+    "begin": "00:43:34.309",
+    "end": "00:43:38.000"
+  },
+  {
+    "text": "of mid nineteen hundreds there was a",
+    "begin": "00:43:36.440",
+    "end": "00:43:41.030"
+  },
+  {
+    "text": "prize set by the French people now had",
+    "begin": "00:43:38.000",
+    "end": "00:43:43.309"
+  },
+  {
+    "text": "microscopes and they were making wine",
+    "begin": "00:43:41.030",
+    "end": "00:43:45.440"
+  },
+  {
+    "text": "ads on they found that if you put a",
+    "begin": "00:43:43.309",
+    "end": "00:43:47.900"
+  },
+  {
+    "text": "broth out a couple they said it was all",
+    "begin": "00:43:45.440",
+    "end": "00:43:50.299"
+  },
+  {
+    "text": "milky and was full of bacteria and the",
+    "begin": "00:43:47.900",
+    "end": "00:43:52.150"
+  },
+  {
+    "text": "question was was this spontaneous life",
+    "begin": "00:43:50.299",
+    "end": "00:43:54.799"
+  },
+  {
+    "text": "so Pasteur did a brilliant simple",
+    "begin": "00:43:52.150",
+    "end": "00:43:57.890"
+  },
+  {
+    "text": "experiment and the neck is s-shaped that",
+    "begin": "00:43:54.799",
+    "end": "00:44:00.410"
+  },
+  {
+    "text": "comes comes up and down then up and he",
+    "begin": "00:43:57.890",
+    "end": "00:44:03.020"
+  },
+  {
+    "text": "filled the neck words down with water so",
+    "begin": "00:44:00.410",
+    "end": "00:44:04.490"
+  },
+  {
+    "text": "air couldn't get in from the outside",
+    "begin": "00:44:03.020",
+    "end": "00:44:07.640"
+  },
+  {
+    "text": "here to the sterile flask and ten days",
+    "begin": "00:44:04.490",
+    "end": "00:44:10.160"
+  },
+  {
+    "text": "later there was no bacteria in it so",
+    "begin": "00:44:07.640",
+    "end": "00:44:13.089"
+  },
+  {
+    "text": "after a very finding or a foie gras and",
+    "begin": "00:44:10.160",
+    "end": "00:44:16.730"
+  },
+  {
+    "text": "Luca Daniel people wrote differently he",
+    "begin": "00:44:13.089",
+    "end": "00:44:19.910"
+  },
+  {
+    "text": "says life only comes from life well",
+    "begin": "00:44:16.730",
+    "end": "00:44:22.430"
+  },
+  {
+    "text": "that's right but then the question comes",
+    "begin": "00:44:19.910",
+    "end": "00:44:24.770"
+  },
+  {
+    "text": "the where did life come from the pester",
+    "begin": "00:44:22.430",
+    "end": "00:44:26.809"
+  },
+  {
+    "text": "sets the problem of the origin of life",
+    "begin": "00:44:24.770",
+    "end": "00:44:29.599"
+  },
+  {
+    "text": "in 1870 or whenever basically nothing",
+    "begin": "00:44:26.809",
+    "end": "00:44:30.970"
+  },
+  {
+    "text": "happened around nineteen",
+    "begin": "00:44:29.599",
+    "end": "00:44:34.240"
+  },
+  {
+    "text": "and halt dein and upper and operon and",
+    "begin": "00:44:30.970",
+    "end": "00:44:36.190"
+  },
+  {
+    "text": "russia and holiday and start to think",
+    "begin": "00:44:34.240",
+    "end": "00:44:38.200"
+  },
+  {
+    "text": "about my operon says there's going to be",
+    "begin": "00:44:36.190",
+    "end": "00:44:40.450"
+  },
+  {
+    "text": "coacervate sore little jaunt like things",
+    "begin": "00:44:38.200",
+    "end": "00:44:42.789"
+  },
+  {
+    "text": "in the early Earth and somehow they're",
+    "begin": "00:44:40.450",
+    "end": "00:44:44.500"
+  },
+  {
+    "text": "gonna have complex chemical mixtures and",
+    "begin": "00:44:42.789",
+    "end": "00:44:46.599"
+  },
+  {
+    "text": "life's going to happen and halt dein",
+    "begin": "00:44:44.500",
+    "end": "00:44:48.010"
+  },
+  {
+    "text": "comes up with the idea of a primitive",
+    "begin": "00:44:46.599",
+    "end": "00:44:50.500"
+  },
+  {
+    "text": "soup in which those kinds of organic",
+    "begin": "00:44:48.010",
+    "end": "00:44:53.170"
+  },
+  {
+    "text": "molecules in the ocean so for many years",
+    "begin": "00:44:50.500",
+    "end": "00:44:55.510"
+  },
+  {
+    "text": "origin of life talks often had somebody",
+    "begin": "00:44:53.170",
+    "end": "00:44:57.369"
+  },
+  {
+    "text": "with some Campbell Soup can label",
+    "begin": "00:44:55.510",
+    "end": "00:45:00.730"
+  },
+  {
+    "text": "primitive soup then Miller and Urey come",
+    "begin": "00:44:57.369",
+    "end": "00:45:02.920"
+  },
+  {
+    "text": "along in the 50s so they show you know",
+    "begin": "00:45:00.730",
+    "end": "00:45:04.599"
+  },
+  {
+    "text": "you already can make amino acids out of",
+    "begin": "00:45:02.920",
+    "end": "00:45:07.390"
+  },
+  {
+    "text": "just the atmosphere and organ life were",
+    "begin": "00:45:04.599",
+    "end": "00:45:09.280"
+  },
+  {
+    "text": "sort of exploded then and for around",
+    "begin": "00:45:07.390",
+    "end": "00:45:11.680"
+  },
+  {
+    "text": "twenty or thirty years even now people",
+    "begin": "00:45:09.280",
+    "end": "00:45:14.140"
+  },
+  {
+    "text": "are showing that out of beginning things",
+    "begin": "00:45:11.680",
+    "end": "00:45:16.380"
+  },
+  {
+    "text": "you can make things like sugars and",
+    "begin": "00:45:14.140",
+    "end": "00:45:19.720"
+  },
+  {
+    "text": "nucleotides and lipids and so on people",
+    "begin": "00:45:16.380",
+    "end": "00:45:22.569"
+  },
+  {
+    "text": "don't know yet about this guy Abra",
+    "begin": "00:45:19.720",
+    "end": "00:45:24.700"
+  },
+  {
+    "text": "coughs result with the spray I don't",
+    "begin": "00:45:22.569",
+    "end": "00:45:25.809"
+  },
+  {
+    "text": "know why he's not getting more attention",
+    "begin": "00:45:24.700",
+    "end": "00:45:29.140"
+  },
+  {
+    "text": "it's amazing so you wait for a month and",
+    "begin": "00:45:25.809",
+    "end": "00:45:32.520"
+  },
+  {
+    "text": "you get thousands of organic molecules",
+    "begin": "00:45:29.140",
+    "end": "00:45:34.800"
+  },
+  {
+    "text": "so then what happened in the origin of",
+    "begin": "00:45:32.520",
+    "end": "00:45:38.369"
+  },
+  {
+    "text": "life field is by 1954 we know about DNA",
+    "begin": "00:45:34.800",
+    "end": "00:45:41.880"
+  },
+  {
+    "text": "replication is Watson incorrect so what",
+    "begin": "00:45:38.369",
+    "end": "00:45:45.060"
+  },
+  {
+    "text": "I was coming into biology around 63 or",
+    "begin": "00:45:41.880",
+    "end": "00:45:48.630"
+  },
+  {
+    "text": "64 the obviously about the origin of",
+    "begin": "00:45:45.060",
+    "end": "00:45:51.990"
+  },
+  {
+    "text": "life was DNA as a double helix it",
+    "begin": "00:45:48.630",
+    "end": "00:45:54.240"
+  },
+  {
+    "text": "specifies its own sequence those RNA you",
+    "begin": "00:45:51.990",
+    "end": "00:45:56.130"
+  },
+  {
+    "text": "can make a double helix of RNA and",
+    "begin": "00:45:54.240",
+    "end": "00:45:58.860"
+  },
+  {
+    "text": "everybody had the a idea take a single",
+    "begin": "00:45:56.130",
+    "end": "00:46:02.940"
+  },
+  {
+    "text": "strand of RNA a ucg some salt long",
+    "begin": "00:45:58.860",
+    "end": "00:46:05.760"
+  },
+  {
+    "text": "polymer call it the watson strand will",
+    "begin": "00:46:02.940",
+    "end": "00:46:08.010"
+  },
+  {
+    "text": "it please line up free nucleotides that",
+    "begin": "00:46:05.760",
+    "end": "00:46:10.590"
+  },
+  {
+    "text": "will make this bind to the watson strand",
+    "begin": "00:46:08.010",
+    "end": "00:46:12.150"
+  },
+  {
+    "text": "so you've got a bunch of free",
+    "begin": "00:46:10.590",
+    "end": "00:46:14.490"
+  },
+  {
+    "text": "nucleotides and then something links",
+    "begin": "00:46:12.150",
+    "end": "00:46:16.020"
+  },
+  {
+    "text": "them together and now you've got the",
+    "begin": "00:46:14.490",
+    "end": "00:46:18.480"
+  },
+  {
+    "text": "Crick strand with its complement they",
+    "begin": "00:46:16.020",
+    "end": "00:46:20.640"
+  },
+  {
+    "text": "melt a part in cycle and that's all life",
+    "begin": "00:46:18.480",
+    "end": "00:46:22.410"
+  },
+  {
+    "text": "started and that's a perfectly",
+    "begin": "00:46:20.640",
+    "end": "00:46:24.690"
+  },
+  {
+    "text": "reasonable idea it's a fine idea",
+    "begin": "00:46:22.410",
+    "end": "00:46:26.400"
+  },
+  {
+    "text": "less than a argue and others have tried",
+    "begin": "00:46:24.690",
+    "end": "00:46:29.130"
+  },
+  {
+    "text": "to do it for 50 years the experiment",
+    "begin": "00:46:26.400",
+    "end": "00:46:30.840"
+  },
+  {
+    "text": "doesn't work it should but it doesn't",
+    "begin": "00:46:29.130",
+    "end": "00:46:33.540"
+  },
+  {
+    "text": "and the reasons are sort of chemical if",
+    "begin": "00:46:30.840",
+    "end": "00:46:36.150"
+  },
+  {
+    "text": "the replicated strand is full of G's",
+    "begin": "00:46:33.540",
+    "end": "00:46:38.810"
+  },
+  {
+    "text": "Nazis it folds up in little knots and",
+    "begin": "00:46:36.150",
+    "end": "00:46:41.970"
+  },
+  {
+    "text": "precipitates and DNA and RNA have three",
+    "begin": "00:46:38.810",
+    "end": "00:46:44.190"
+  },
+  {
+    "text": "prime five prime phosphate ester bonds",
+    "begin": "00:46:41.970",
+    "end": "00:46:46.320"
+  },
+  {
+    "text": "but thermodynamically they'd rather do",
+    "begin": "00:46:44.190",
+    "end": "00:46:48.900"
+  },
+  {
+    "text": "two prime v from the quick summary is",
+    "begin": "00:46:46.320",
+    "end": "00:46:51.540"
+  },
+  {
+    "text": "all the years laters nobody's made at",
+    "begin": "00:46:48.900",
+    "end": "00:46:53.760"
+  },
+  {
+    "text": "work so pause it's still the dominant",
+    "begin": "00:46:51.540",
+    "end": "00:46:56.910"
+  },
+  {
+    "text": "view and it became even more dominant in",
+    "begin": "00:46:53.760",
+    "end": "00:47:00.210"
+  },
+  {
+    "text": "I guess 1986 the ribozymes had been",
+    "begin": "00:46:56.910",
+    "end": "00:47:01.890"
+  },
+  {
+    "text": "discovered these are RNA molecules that",
+    "begin": "00:47:00.210",
+    "end": "00:47:04.950"
+  },
+  {
+    "text": "catalyze reactions and while I Gilbert",
+    "begin": "00:47:01.890",
+    "end": "00:47:06.390"
+  },
+  {
+    "text": "published an article in Nature said we",
+    "begin": "00:47:04.950",
+    "end": "00:47:08.400"
+  },
+  {
+    "text": "can conceive of a world just with RNA",
+    "begin": "00:47:06.390",
+    "end": "00:47:10.950"
+  },
+  {
+    "text": "molecules let's call it the RNA well",
+    "begin": "00:47:08.400",
+    "end": "00:47:13.380"
+  },
+  {
+    "text": "that view is dominated and what is",
+    "begin": "00:47:10.950",
+    "end": "00:47:14.970"
+  },
+  {
+    "text": "dominated in that view of life is",
+    "begin": "00:47:13.380",
+    "end": "00:47:17.670"
+  },
+  {
+    "text": "template replicating RNA and it might",
+    "begin": "00:47:14.970",
+    "end": "00:47:19.530"
+  },
+  {
+    "text": "work someday and people are trying to",
+    "begin": "00:47:17.670",
+    "end": "00:47:22.170"
+  },
+  {
+    "text": "make it work then hornik I'll send you",
+    "begin": "00:47:19.530",
+    "end": "00:47:23.760"
+  },
+  {
+    "text": "is he's just written an article that",
+    "begin": "00:47:22.170",
+    "end": "00:47:26.130"
+  },
+  {
+    "text": "came out in biological theory literally",
+    "begin": "00:47:23.760",
+    "end": "00:47:26.700"
+  },
+  {
+    "text": "today",
+    "begin": "00:47:26.130",
+    "end": "00:47:29.250"
+  },
+  {
+    "text": "so then it's traced the history of the",
+    "begin": "00:47:26.700",
+    "end": "00:47:31.770"
+  },
+  {
+    "text": "theory of auto catalytic cents which",
+    "begin": "00:47:29.250",
+    "end": "00:47:34.859"
+  },
+  {
+    "text": "actually I started and published in 71",
+    "begin": "00:47:31.770",
+    "end": "00:47:37.020"
+  },
+  {
+    "text": "but that idea is that I catalyze the",
+    "begin": "00:47:34.859",
+    "end": "00:47:39.240"
+  },
+  {
+    "text": "formation of you out of two jim parts",
+    "begin": "00:47:37.020",
+    "end": "00:47:41.820"
+  },
+  {
+    "text": "and you catalyze the formation of bill",
+    "begin": "00:47:39.240",
+    "end": "00:47:43.619"
+  },
+  {
+    "text": "out of to develop parts and bill",
+    "begin": "00:47:41.820",
+    "end": "00:47:45.540"
+  },
+  {
+    "text": "catalyzes the formation of stew out of",
+    "begin": "00:47:43.619",
+    "end": "00:47:46.380"
+  },
+  {
+    "text": "stupor",
+    "begin": "00:47:45.540",
+    "end": "00:47:49.140"
+  },
+  {
+    "text": "it's a mutually autocad except nobody",
+    "begin": "00:47:46.380",
+    "end": "00:47:52.260"
+  },
+  {
+    "text": "catalyzes information so there's been a",
+    "begin": "00:47:49.140",
+    "end": "00:47:55.040"
+  },
+  {
+    "text": "lot of work started by me I guess in",
+    "begin": "00:47:52.260",
+    "end": "00:47:58.380"
+  },
+  {
+    "text": "1971 then in 1986 with some theorems",
+    "begin": "00:47:55.040",
+    "end": "00:48:00.720"
+  },
+  {
+    "text": "it's a work done with don't farmer and",
+    "begin": "00:47:58.380",
+    "end": "00:48:02.520"
+  },
+  {
+    "text": "norm Packard that you really could get",
+    "begin": "00:48:00.720",
+    "end": "00:48:04.650"
+  },
+  {
+    "text": "these systems fundamentally if you get",
+    "begin": "00:48:02.520",
+    "end": "00:48:06.810"
+  },
+  {
+    "text": "it complicated enough system it'll",
+    "begin": "00:48:04.650",
+    "end": "00:48:09.090"
+  },
+  {
+    "text": "spontaneously make auto catalytic sets",
+    "begin": "00:48:06.810",
+    "end": "00:48:12.240"
+  },
+  {
+    "text": "so that was theory for some time then",
+    "begin": "00:48:09.090",
+    "end": "00:48:14.340"
+  },
+  {
+    "text": "real ones were made so good new front",
+    "begin": "00:48:12.240",
+    "end": "00:48:16.200"
+  },
+  {
+    "text": "caderousse key made the first auto",
+    "begin": "00:48:14.340",
+    "end": "00:48:20.280"
+  },
+  {
+    "text": "catalytic set out of DNA in 94 in about",
+    "begin": "00:48:16.200",
+    "end": "00:48:24.180"
+  },
+  {
+    "text": "95 residue Deary at Scripps made the",
+    "begin": "00:48:20.280",
+    "end": "00:48:27.410"
+  },
+  {
+    "text": "first self-reproducing protein he took a",
+    "begin": "00:48:24.180",
+    "end": "00:48:30.330"
+  },
+  {
+    "text": "protein sequence like 32 amino acids",
+    "begin": "00:48:27.410",
+    "end": "00:48:32.910"
+  },
+  {
+    "text": "that's an alpha helix that coils back on",
+    "begin": "00:48:30.330",
+    "end": "00:48:35.970"
+  },
+  {
+    "text": "itself making coiled coil and he",
+    "begin": "00:48:32.910",
+    "end": "00:48:38.340"
+  },
+  {
+    "text": "reasoned as they say after the fact that",
+    "begin": "00:48:35.970",
+    "end": "00:48:41.130"
+  },
+  {
+    "text": "if he took the two fragments 15 and 17",
+    "begin": "00:48:38.340",
+    "end": "00:48:42.030"
+  },
+  {
+    "text": "long",
+    "begin": "00:48:41.130",
+    "end": "00:48:44.460"
+  },
+  {
+    "text": "true fragments would bind to the 32",
+    "begin": "00:48:42.030",
+    "end": "00:48:46.860"
+  },
+  {
+    "text": "Marin and go together and he'd get the",
+    "begin": "00:48:44.460",
+    "end": "00:48:49.110"
+  },
+  {
+    "text": "32 mer to reproduce itself well it does",
+    "begin": "00:48:46.860",
+    "end": "00:48:52.350"
+  },
+  {
+    "text": "within a few years gone on ashkenazi now",
+    "begin": "00:48:49.110",
+    "end": "00:48:53.820"
+  },
+  {
+    "text": "in the ben-gurion had made a nine",
+    "begin": "00:48:52.350",
+    "end": "00:48:56.430"
+  },
+  {
+    "text": "peptide collectively Auto kind of accept",
+    "begin": "00:48:53.820",
+    "end": "00:48:59.810"
+  },
+  {
+    "text": "pause that tells you that molecular",
+    "begin": "00:48:56.430",
+    "end": "00:49:02.850"
+  },
+  {
+    "text": "reproduction absolutely does not depend",
+    "begin": "00:48:59.810",
+    "end": "00:49:04.980"
+  },
+  {
+    "text": "on template replicating DNA or RNA",
+    "begin": "00:49:02.850",
+    "end": "00:49:08.160"
+  },
+  {
+    "text": "it just doesn't so that happened",
+    "begin": "00:49:04.980",
+    "end": "00:49:10.830"
+  },
+  {
+    "text": "experimentally then I told you that I",
+    "begin": "00:49:08.160",
+    "end": "00:49:14.610"
+  },
+  {
+    "text": "think they were about 2012 now Salim and",
+    "begin": "00:49:10.830",
+    "end": "00:49:17.130"
+  },
+  {
+    "text": "and vitae published an article in Nature",
+    "begin": "00:49:14.610",
+    "end": "00:49:19.200"
+  },
+  {
+    "text": "I think was at that time the most",
+    "begin": "00:49:17.130",
+    "end": "00:49:20.970"
+  },
+  {
+    "text": "important experiment on the origin of",
+    "begin": "00:49:19.200",
+    "end": "00:49:23.280"
+  },
+  {
+    "text": "life they took some ribozymes",
+    "begin": "00:49:20.970",
+    "end": "00:49:27.150"
+  },
+  {
+    "text": "and chop them in half where ribozyme a",
+    "begin": "00:49:23.280",
+    "end": "00:49:29.250"
+  },
+  {
+    "text": "chopped in half could glue together with",
+    "begin": "00:49:27.150",
+    "end": "00:49:30.780"
+  },
+  {
+    "text": "one of the halves of chopped a be",
+    "begin": "00:49:29.250",
+    "end": "00:49:33.570"
+  },
+  {
+    "text": "chopped in half and they put it in a pot",
+    "begin": "00:49:30.780",
+    "end": "00:49:35.850"
+  },
+  {
+    "text": "and it spontaneously went collectively",
+    "begin": "00:49:33.570",
+    "end": "00:49:38.700"
+  },
+  {
+    "text": "autocannon sets of ribosomes so that was",
+    "begin": "00:49:35.850",
+    "end": "00:49:40.980"
+  },
+  {
+    "text": "superb except that that so one good a",
+    "begin": "00:49:38.700",
+    "end": "00:49:42.660"
+  },
+  {
+    "text": "spontaneous formation of collectively",
+    "begin": "00:49:40.980",
+    "end": "00:49:45.030"
+  },
+  {
+    "text": "unaccounted sets and a bunch of us are",
+    "begin": "00:49:42.660",
+    "end": "00:49:47.160"
+  },
+  {
+    "text": "writing about that now but they're still",
+    "begin": "00:49:45.030",
+    "end": "00:49:50.130"
+  },
+  {
+    "text": "using evolve molecules so what we want",
+    "begin": "00:49:47.160",
+    "end": "00:49:51.990"
+  },
+  {
+    "text": "to know is if you take random polymers",
+    "begin": "00:49:50.130",
+    "end": "00:49:54.570"
+  },
+  {
+    "text": "can you make autocad make sense there's",
+    "begin": "00:49:51.990",
+    "end": "00:49:57.690"
+  },
+  {
+    "text": "hints that you can it's possible the",
+    "begin": "00:49:54.570",
+    "end": "00:49:59.870"
+  },
+  {
+    "text": "fellow named Lee Cronin is doing",
+    "begin": "00:49:57.690",
+    "end": "00:50:01.940"
+  },
+  {
+    "text": "not at liberty to tell you the details",
+    "begin": "00:49:59.870",
+    "end": "00:50:04.940"
+  },
+  {
+    "text": "yes and publish it yet we have this",
+    "begin": "00:50:01.940",
+    "end": "00:50:06.770"
+  },
+  {
+    "text": "money I told you about to try to do it",
+    "begin": "00:50:04.940",
+    "end": "00:50:10.730"
+  },
+  {
+    "text": "from from CERN and I told you the next",
+    "begin": "00:50:06.770",
+    "end": "00:50:12.590"
+  },
+  {
+    "text": "most important thing that's happened is",
+    "begin": "00:50:10.730",
+    "end": "00:50:15.980"
+  },
+  {
+    "text": "Johanna is Xavier and Bill Martin and a",
+    "begin": "00:50:12.590",
+    "end": "00:50:19.370"
+  },
+  {
+    "text": "paper still not published Mike Steel",
+    "begin": "00:50:15.980",
+    "end": "00:50:21.170"
+  },
+  {
+    "text": "then Hornick on the paper I'm a",
+    "begin": "00:50:19.370",
+    "end": "00:50:23.150"
+  },
+  {
+    "text": "co-author but I did nothing much on the",
+    "begin": "00:50:21.170",
+    "end": "00:50:25.280"
+  },
+  {
+    "text": "paper except they put my name on it I",
+    "begin": "00:50:23.150",
+    "end": "00:50:26.960"
+  },
+  {
+    "text": "thank them they have found this",
+    "begin": "00:50:25.280",
+    "end": "00:50:29.600"
+  },
+  {
+    "text": "metabolic autocatalytic said where no",
+    "begin": "00:50:26.960",
+    "end": "00:50:32.060"
+  },
+  {
+    "text": "polymers in it at all so it's almost",
+    "begin": "00:50:29.600",
+    "end": "00:50:36.140"
+  },
+  {
+    "text": "sure now that life started in a rich",
+    "begin": "00:50:32.060",
+    "end": "00:50:39.620"
+  },
+  {
+    "text": "soup of organic molecules everywhere in",
+    "begin": "00:50:36.140",
+    "end": "00:50:41.540"
+  },
+  {
+    "text": "the universe around 5 billion years ago",
+    "begin": "00:50:39.620",
+    "end": "00:50:44.270"
+  },
+  {
+    "text": "what's missing Jim is how hard is it to",
+    "begin": "00:50:41.540",
+    "end": "00:50:46.970"
+  },
+  {
+    "text": "get an autocatalytic set and a bunch of",
+    "begin": "00:50:44.270",
+    "end": "00:50:50.240"
+  },
+  {
+    "text": "small molecules and totally unpublished",
+    "begin": "00:50:46.970",
+    "end": "00:50:52.490"
+  },
+  {
+    "text": "Mike steel is just proving theorems",
+    "begin": "00:50:50.240",
+    "end": "00:50:54.980"
+  },
+  {
+    "text": "right now that it should be pretty easy",
+    "begin": "00:50:52.490",
+    "end": "00:50:58.010"
+  },
+  {
+    "text": "and if so we might be able to detect it",
+    "begin": "00:50:54.980",
+    "end": "00:51:00.980"
+  },
+  {
+    "text": "pretty soon experimental e and so I've",
+    "begin": "00:50:58.010",
+    "end": "00:51:02.840"
+  },
+  {
+    "text": "got significant dreams that we could do",
+    "begin": "00:51:00.980",
+    "end": "00:51:04.940"
+  },
+  {
+    "text": "that the group of us that's gotten money",
+    "begin": "00:51:02.840",
+    "end": "00:51:07.550"
+  },
+  {
+    "text": "from CERN is meeting soon and maybe will",
+    "begin": "00:51:04.940",
+    "end": "00:51:09.830"
+  },
+  {
+    "text": "think is possible figured out and",
+    "begin": "00:51:07.550",
+    "end": "00:51:12.590"
+  },
+  {
+    "text": "suppose that works so you got molecular",
+    "begin": "00:51:09.830",
+    "end": "00:51:15.080"
+  },
+  {
+    "text": "reproduction five billion years ago all",
+    "begin": "00:51:12.590",
+    "end": "00:51:16.880"
+  },
+  {
+    "text": "over the universe because the universe",
+    "begin": "00:51:15.080",
+    "end": "00:51:19.910"
+  },
+  {
+    "text": "has cooked up this stuff well so now you",
+    "begin": "00:51:16.880",
+    "end": "00:51:21.860"
+  },
+  {
+    "text": "got this metabolic autocatalytic said",
+    "begin": "00:51:19.910",
+    "end": "00:51:23.990"
+  },
+  {
+    "text": "you'd like to get some polymers going",
+    "begin": "00:51:21.860",
+    "end": "00:51:26.240"
+  },
+  {
+    "text": "how would you glued the two together so",
+    "begin": "00:51:23.990",
+    "end": "00:51:28.850"
+  },
+  {
+    "text": "you had that polymers catalyzing the",
+    "begin": "00:51:26.240",
+    "end": "00:51:31.400"
+  },
+  {
+    "text": "reactions of the metabolism how do you",
+    "begin": "00:51:28.850",
+    "end": "00:51:33.230"
+  },
+  {
+    "text": "put the thing in a liposome that I told",
+    "begin": "00:51:31.400",
+    "end": "00:51:36.650"
+  },
+  {
+    "text": "you about Roberto sara has shown they",
+    "begin": "00:51:33.230",
+    "end": "00:51:38.750"
+  },
+  {
+    "text": "will synchronize the division of the",
+    "begin": "00:51:36.650",
+    "end": "00:51:40.610"
+  },
+  {
+    "text": "molecular system in the auto County and",
+    "begin": "00:51:38.750",
+    "end": "00:51:43.580"
+  },
+  {
+    "text": "the polymer system so can we actually",
+    "begin": "00:51:40.610",
+    "end": "00:51:45.590"
+  },
+  {
+    "text": "make protocells and the reason we're new",
+    "begin": "00:51:43.580",
+    "end": "00:51:48.110"
+  },
+  {
+    "text": "feature well maybe people always say",
+    "begin": "00:51:45.590",
+    "end": "00:51:49.850"
+  },
+  {
+    "text": "it's around the corner then it's not so",
+    "begin": "00:51:48.110",
+    "end": "00:51:52.550"
+  },
+  {
+    "text": "maybe we can that's huge as we can do it",
+    "begin": "00:51:49.850",
+    "end": "00:51:54.920"
+  },
+  {
+    "text": "it's all isn't loose in science how does",
+    "begin": "00:51:52.550",
+    "end": "00:51:55.720"
+  },
+  {
+    "text": "life emerge",
+    "begin": "00:51:54.920",
+    "end": "00:51:59.180"
+  },
+  {
+    "text": "maybe he's it's sort of a process of tap",
+    "begin": "00:51:55.720",
+    "end": "00:52:01.760"
+  },
+  {
+    "text": "and auto catalysis maybe let me push",
+    "begin": "00:51:59.180",
+    "end": "00:52:04.520"
+  },
+  {
+    "text": "back just a little bit can I've been",
+    "begin": "00:52:01.760",
+    "end": "00:52:06.350"
+  },
+  {
+    "text": "following this for many many years spent",
+    "begin": "00:52:04.520",
+    "end": "00:52:08.570"
+  },
+  {
+    "text": "time talking to norm Packard I spent",
+    "begin": "00:52:06.350",
+    "end": "00:52:10.040"
+  },
+  {
+    "text": "time talking to you back when I was at",
+    "begin": "00:52:08.570",
+    "end": "00:52:12.690"
+  },
+  {
+    "text": "SFI the one part of it that I have a",
+    "begin": "00:52:10.040",
+    "end": "00:52:15.690"
+  },
+  {
+    "text": "time getting my head around and over is",
+    "begin": "00:52:12.690",
+    "end": "00:52:19.589"
+  },
+  {
+    "text": "that these earlier prebiotic chemical",
+    "begin": "00:52:15.690",
+    "end": "00:52:22.140"
+  },
+  {
+    "text": "regimes are not by any means high",
+    "begin": "00:52:19.589",
+    "end": "00:52:25.020"
+  },
+  {
+    "text": "fidelity replicators and we know we know",
+    "begin": "00:52:22.140",
+    "end": "00:52:27.480"
+  },
+  {
+    "text": "from mathematically in evolutionary",
+    "begin": "00:52:25.020",
+    "end": "00:52:28.680"
+  },
+  {
+    "text": "theory there's something called the",
+    "begin": "00:52:27.480",
+    "end": "00:52:30.780"
+  },
+  {
+    "text": "error catastrophe that if the fidelity",
+    "begin": "00:52:28.680",
+    "end": "00:52:33.510"
+  },
+  {
+    "text": "of copying is not greater than X and X",
+    "begin": "00:52:30.780",
+    "end": "00:52:35.160"
+  },
+  {
+    "text": "is actually a pretty crisp number for",
+    "begin": "00:52:33.510",
+    "end": "00:52:37.589"
+  },
+  {
+    "text": "any well-defined system ability to",
+    "begin": "00:52:35.160",
+    "end": "00:52:41.150"
+  },
+  {
+    "text": "ratchet evolution is surprisingly small",
+    "begin": "00:52:37.589",
+    "end": "00:52:43.500"
+  },
+  {
+    "text": "entropy quickly breaks down what",
+    "begin": "00:52:41.150",
+    "end": "00:52:45.960"
+  },
+  {
+    "text": "evolution builds up and these are all",
+    "begin": "00:52:43.500",
+    "end": "00:52:48.990"
+  },
+  {
+    "text": "low fidelity replicators and yet our",
+    "begin": "00:52:45.960",
+    "end": "00:52:51.720"
+  },
+  {
+    "text": "world the world of all life that we know",
+    "begin": "00:52:48.990",
+    "end": "00:52:54.119"
+  },
+  {
+    "text": "is built on a high fidelity replicator",
+    "begin": "00:52:51.720",
+    "end": "00:52:56.400"
+  },
+  {
+    "text": "its DNA plus replication plus error",
+    "begin": "00:52:54.119",
+    "end": "00:52:58.890"
+  },
+  {
+    "text": "correction which appears at least",
+    "begin": "00:52:56.400",
+    "end": "00:53:00.960"
+  },
+  {
+    "text": "empirically to be well past the error",
+    "begin": "00:52:58.890",
+    "end": "00:53:03.810"
+  },
+  {
+    "text": "catastrophe stage so how in the world",
+    "begin": "00:53:00.960",
+    "end": "00:53:08.880"
+  },
+  {
+    "text": "does this free life protocell chemistry",
+    "begin": "00:53:03.810",
+    "end": "00:53:12.960"
+  },
+  {
+    "text": "world ratchet itself up with worse than",
+    "begin": "00:53:08.880",
+    "end": "00:53:15.810"
+  },
+  {
+    "text": "era catastrophe driven evolution to",
+    "begin": "00:53:12.960",
+    "end": "00:53:17.670"
+  },
+  {
+    "text": "create high fidelity information",
+    "begin": "00:53:15.810",
+    "end": "00:53:19.859"
+  },
+  {
+    "text": "transfer and if we can't do that we",
+    "begin": "00:53:17.670",
+    "end": "00:53:21.900"
+  },
+  {
+    "text": "don't actually get life as we know it",
+    "begin": "00:53:19.859",
+    "end": "00:53:24.329"
+  },
+  {
+    "text": "other short answers you're right chimp",
+    "begin": "00:53:21.900",
+    "end": "00:53:26.670"
+  },
+  {
+    "text": "so here's sort of what we know what I've",
+    "begin": "00:53:24.329",
+    "end": "00:53:31.020"
+  },
+  {
+    "text": "told you does not get us to RNA template",
+    "begin": "00:53:26.670",
+    "end": "00:53:33.660"
+  },
+  {
+    "text": "replication or DNA template replication",
+    "begin": "00:53:31.020",
+    "end": "00:53:37.170"
+  },
+  {
+    "text": "or coding of encoded proteins is where",
+    "begin": "00:53:33.660",
+    "end": "00:53:40.380"
+  },
+  {
+    "text": "the deep mystery is proteins that are",
+    "begin": "00:53:37.170",
+    "end": "00:53:44.460"
+  },
+  {
+    "text": "encoded are the amino acids synthetases",
+    "begin": "00:53:40.380",
+    "end": "00:53:47.490"
+  },
+  {
+    "text": "that translate the code there's some",
+    "begin": "00:53:44.460",
+    "end": "00:53:49.109"
+  },
+  {
+    "text": "chicken and egg problem that's huge how",
+    "begin": "00:53:47.490",
+    "end": "00:53:51.300"
+  },
+  {
+    "text": "did that ever emerge and we we don't",
+    "begin": "00:53:49.109",
+    "end": "00:53:53.670"
+  },
+  {
+    "text": "know Peter wills is working out a lot of",
+    "begin": "00:53:51.300",
+    "end": "00:53:55.500"
+  },
+  {
+    "text": "people have worked on it for a long time",
+    "begin": "00:53:53.670",
+    "end": "00:53:58.020"
+  },
+  {
+    "text": "it's not cracked yet there's some ideas",
+    "begin": "00:53:55.500",
+    "end": "00:54:01.560"
+  },
+  {
+    "text": "so I had David Deamer and others can fit",
+    "begin": "00:53:58.020",
+    "end": "00:54:03.510"
+  },
+  {
+    "text": "right in and have little protocell",
+    "begin": "00:54:01.560",
+    "end": "00:54:05.910"
+  },
+  {
+    "text": "floating around without any DNA or RNA",
+    "begin": "00:54:03.510",
+    "end": "00:54:08.220"
+  },
+  {
+    "text": "or you could put DNA in RNA you can make",
+    "begin": "00:54:05.910",
+    "end": "00:54:10.619"
+  },
+  {
+    "text": "an autocratic set out of RNA now it's",
+    "begin": "00:54:08.220",
+    "end": "00:54:13.890"
+  },
+  {
+    "text": "lame and did years ago the question is",
+    "begin": "00:54:10.619",
+    "end": "00:54:14.970"
+  },
+  {
+    "text": "how do you get to something like",
+    "begin": "00:54:13.890",
+    "end": "00:54:17.790"
+  },
+  {
+    "text": "template replicating DNA and RNA then",
+    "begin": "00:54:14.970",
+    "end": "00:54:20.190"
+  },
+  {
+    "text": "actually Paul Davies rightly points out",
+    "begin": "00:54:17.790",
+    "end": "00:54:21.869"
+  },
+  {
+    "text": "in his book on the origin I've called",
+    "begin": "00:54:20.190",
+    "end": "00:54:24.630"
+  },
+  {
+    "text": "the demon in the Machine the the",
+    "begin": "00:54:21.869",
+    "end": "00:54:26.460"
+  },
+  {
+    "text": "ribosome plus the",
+    "begin": "00:54:24.630",
+    "end": "00:54:29.940"
+  },
+  {
+    "text": "code is in von Neumann sensei Universal",
+    "begin": "00:54:26.460",
+    "end": "00:54:33.480"
+  },
+  {
+    "text": "constructor it can make any protein out",
+    "begin": "00:54:29.940",
+    "end": "00:54:36.030"
+  },
+  {
+    "text": "of the standard 20 amino acids that's",
+    "begin": "00:54:33.480",
+    "end": "00:54:38.280"
+  },
+  {
+    "text": "amazing and just imagine what it left",
+    "begin": "00:54:36.030",
+    "end": "00:54:40.109"
+  },
+  {
+    "text": "for the origin of life of that happened",
+    "begin": "00:54:38.280",
+    "end": "00:54:42.000"
+  },
+  {
+    "text": "you could explore protein space",
+    "begin": "00:54:40.109",
+    "end": "00:54:44.250"
+  },
+  {
+    "text": "trivially just by you know making",
+    "begin": "00:54:42.000",
+    "end": "00:54:47.550"
+  },
+  {
+    "text": "proteins so there's some ideas about how",
+    "begin": "00:54:44.250",
+    "end": "00:54:49.770"
+  },
+  {
+    "text": "the code could have emerged I even have",
+    "begin": "00:54:47.550",
+    "end": "00:54:51.480"
+  },
+  {
+    "text": "some ideas out of the codes have emerged",
+    "begin": "00:54:49.770",
+    "end": "00:54:53.730"
+  },
+  {
+    "text": "then I'm not competent to talk about it",
+    "begin": "00:54:51.480",
+    "end": "00:54:55.770"
+  },
+  {
+    "text": "you should talk to people wills it is",
+    "begin": "00:54:53.730",
+    "end": "00:54:57.720"
+  },
+  {
+    "text": "clear that these Auto counting systems",
+    "begin": "00:54:55.770",
+    "end": "00:55:00.359"
+  },
+  {
+    "text": "can evolve without encoded protein",
+    "begin": "00:54:57.720",
+    "end": "00:55:02.940"
+  },
+  {
+    "text": "synthesis and the reason is do basically",
+    "begin": "00:55:00.359",
+    "end": "00:55:05.580"
+  },
+  {
+    "text": "to might steal and and dim Hornick I'll",
+    "begin": "00:55:02.940",
+    "end": "00:55:07.260"
+  },
+  {
+    "text": "send you the link that they just sent me",
+    "begin": "00:55:05.580",
+    "end": "00:55:09.060"
+  },
+  {
+    "text": "that them to send me these article came",
+    "begin": "00:55:07.260",
+    "end": "00:55:11.400"
+  },
+  {
+    "text": "out today an autocatalytic set is made",
+    "begin": "00:55:09.060",
+    "end": "00:55:13.109"
+  },
+  {
+    "text": "up of a large network irreducible",
+    "begin": "00:55:11.400",
+    "end": "00:55:16.440"
+  },
+  {
+    "text": "autocatalytic sets and first rough marry",
+    "begin": "00:55:13.109",
+    "end": "00:55:18.240"
+  },
+  {
+    "text": "led a group of us to show that these",
+    "begin": "00:55:16.440",
+    "end": "00:55:20.040"
+  },
+  {
+    "text": "irreducible odd occurrences could be",
+    "begin": "00:55:18.240",
+    "end": "00:55:22.800"
+  },
+  {
+    "text": "gained and lost the little replicating",
+    "begin": "00:55:20.040",
+    "end": "00:55:25.339"
+  },
+  {
+    "text": "systems and they're acting like genes",
+    "begin": "00:55:22.800",
+    "end": "00:55:28.440"
+  },
+  {
+    "text": "animal evolution from that and as don",
+    "begin": "00:55:25.339",
+    "end": "00:55:31.680"
+  },
+  {
+    "text": "farmer and and ragga show years ago you",
+    "begin": "00:55:28.440",
+    "end": "00:55:33.599"
+  },
+  {
+    "text": "can imagine that unkennel has reactions",
+    "begin": "00:55:31.680",
+    "end": "00:55:35.880"
+  },
+  {
+    "text": "happen they can be captured by the",
+    "begin": "00:55:33.599",
+    "end": "00:55:38.280"
+  },
+  {
+    "text": "system and the system can evolve to some",
+    "begin": "00:55:35.880",
+    "end": "00:55:41.040"
+  },
+  {
+    "text": "extent not like you can't with encoded",
+    "begin": "00:55:38.280",
+    "end": "00:55:43.619"
+  },
+  {
+    "text": "proteins we've got it there's no talk of",
+    "begin": "00:55:41.040",
+    "end": "00:55:45.720"
+  },
+  {
+    "text": "energy in all of this yet either if you",
+    "begin": "00:55:43.619",
+    "end": "00:55:48.210"
+  },
+  {
+    "text": "put things through a wet/dry cycle it's",
+    "begin": "00:55:45.720",
+    "end": "00:55:49.770"
+  },
+  {
+    "text": "called the plasting reaction I was",
+    "begin": "00:55:48.210",
+    "end": "00:55:53.119"
+  },
+  {
+    "text": "writing about it in 1993 Dave Deemer and",
+    "begin": "00:55:49.770",
+    "end": "00:55:56.210"
+  },
+  {
+    "text": "Bruce Damer are focusing on it now",
+    "begin": "00:55:53.119",
+    "end": "00:55:58.410"
+  },
+  {
+    "text": "dehydrating and rehydrating the life of",
+    "begin": "00:55:56.210",
+    "end": "00:56:01.200"
+  },
+  {
+    "text": "some is adding energy to the system and",
+    "begin": "00:55:58.410",
+    "end": "00:56:03.450"
+  },
+  {
+    "text": "people are finding Dave dealers got some",
+    "begin": "00:56:01.200",
+    "end": "00:56:05.810"
+  },
+  {
+    "text": "wonderful things about the onset of",
+    "begin": "00:56:03.450",
+    "end": "00:56:08.940"
+  },
+  {
+    "text": "transport across membranes he's in Santa",
+    "begin": "00:56:05.810",
+    "end": "00:56:11.270"
+  },
+  {
+    "text": "Cruz he's really worth talking to you",
+    "begin": "00:56:08.940",
+    "end": "00:56:13.950"
+  },
+  {
+    "text": "it's not there yet Jim but it's not as",
+    "begin": "00:56:11.270",
+    "end": "00:56:16.410"
+  },
+  {
+    "text": "far away as it was interesting one of",
+    "begin": "00:56:13.950",
+    "end": "00:56:18.150"
+  },
+  {
+    "text": "the topics we talk about a lot on this",
+    "begin": "00:56:16.410",
+    "end": "00:56:20.730"
+  },
+  {
+    "text": "show is the Fermi paradox where are they",
+    "begin": "00:56:18.150",
+    "end": "00:56:22.410"
+  },
+  {
+    "text": "right and you know the called the",
+    "begin": "00:56:20.730",
+    "end": "00:56:24.660"
+  },
+  {
+    "text": "Stewart Kaufmann view life's probably",
+    "begin": "00:56:22.410",
+    "end": "00:56:28.619"
+  },
+  {
+    "text": "ubiquitous right there's 22 stars in the",
+    "begin": "00:56:24.660",
+    "end": "00:56:30.660"
+  },
+  {
+    "text": "universe it's not less debated that",
+    "begin": "00:56:28.619",
+    "end": "00:56:32.220"
+  },
+  {
+    "text": "something like half of them have holders",
+    "begin": "00:56:30.660",
+    "end": "00:56:35.400"
+  },
+  {
+    "text": "solar systems so it's 10 to the 22 solar",
+    "begin": "00:56:32.220",
+    "end": "00:56:37.710"
+  },
+  {
+    "text": "systems suppose one in a thousand of",
+    "begin": "00:56:35.400",
+    "end": "00:56:39.720"
+  },
+  {
+    "text": "them have life so that's 10 to the 19th",
+    "begin": "00:56:37.710",
+    "end": "00:56:41.060"
+  },
+  {
+    "text": "bias years out",
+    "begin": "00:56:39.720",
+    "end": "00:56:44.220"
+  },
+  {
+    "text": "that's a lot of biases if it turns out",
+    "begin": "00:56:41.060",
+    "end": "00:56:46.740"
+  },
+  {
+    "text": "the true life was easily reachable",
+    "begin": "00:56:44.220",
+    "end": "00:56:49.770"
+  },
+  {
+    "text": "across this information gap this error",
+    "begin": "00:56:46.740",
+    "end": "00:56:52.110"
+  },
+  {
+    "text": "catastrophe gap and you know when I was",
+    "begin": "00:56:49.770",
+    "end": "00:56:53.910"
+  },
+  {
+    "text": "a 14 year old nerd I would have bet any",
+    "begin": "00:56:52.110",
+    "end": "00:56:55.890"
+  },
+  {
+    "text": "sum of money that I had which wasn't",
+    "begin": "00:56:53.910",
+    "end": "00:56:57.990"
+  },
+  {
+    "text": "much that there was lots of intelligent",
+    "begin": "00:56:55.890",
+    "end": "00:56:59.910"
+  },
+  {
+    "text": "species out there but the more I've",
+    "begin": "00:56:57.990",
+    "end": "00:57:01.980"
+  },
+  {
+    "text": "thought about it hard read on the Fermi",
+    "begin": "00:56:59.910",
+    "end": "00:57:04.050"
+  },
+  {
+    "text": "paradox the various Prudy rules it's",
+    "begin": "00:57:01.980",
+    "end": "00:57:06.390"
+  },
+  {
+    "text": "possible we might be the only one right",
+    "begin": "00:57:04.050",
+    "end": "00:57:09.150"
+  },
+  {
+    "text": "but turns out this gap is unbelievably",
+    "begin": "00:57:06.390",
+    "end": "00:57:12.120"
+  },
+  {
+    "text": "hard at low probability we hard and low",
+    "begin": "00:57:09.150",
+    "end": "00:57:14.010"
+  },
+  {
+    "text": "possibility you're right but if there's",
+    "begin": "00:57:12.120",
+    "end": "00:57:17.250"
+  },
+  {
+    "text": "if by my crude calculation there's 10 to",
+    "begin": "00:57:14.010",
+    "end": "00:57:19.860"
+  },
+  {
+    "text": "the 20th biospheres out there then for",
+    "begin": "00:57:17.250",
+    "end": "00:57:21.090"
+  },
+  {
+    "text": "there to be none it's gonna have to be",
+    "begin": "00:57:19.860",
+    "end": "00:57:24.930"
+  },
+  {
+    "text": "really small compared to 10 to the 20 10",
+    "begin": "00:57:21.090",
+    "end": "00:57:27.830"
+  },
+  {
+    "text": "to the 20 prebiotic autocatalytic",
+    "begin": "00:57:24.930",
+    "end": "00:57:30.660"
+  },
+  {
+    "text": "metabolism works just waiting for",
+    "begin": "00:57:27.830",
+    "end": "00:57:32.790"
+  },
+  {
+    "text": "something like yes this is where I've",
+    "begin": "00:57:30.660",
+    "end": "00:57:34.860"
+  },
+  {
+    "text": "come out is that Stuart Kaufman is",
+    "begin": "00:57:32.790",
+    "end": "00:57:37.670"
+  },
+  {
+    "text": "correct that probably there is a",
+    "begin": "00:57:34.860",
+    "end": "00:57:40.500"
+  },
+  {
+    "text": "unbelievably large number of integrated",
+    "begin": "00:57:37.670",
+    "end": "00:57:44.720"
+  },
+  {
+    "text": "auto catalytic and metabolic networks",
+    "begin": "00:57:40.500",
+    "end": "00:57:48.780"
+  },
+  {
+    "text": "yeah and inside of you know fat but all",
+    "begin": "00:57:44.720",
+    "end": "00:57:51.540"
+  },
+  {
+    "text": "that question is how what percentage of",
+    "begin": "00:57:48.780",
+    "end": "00:57:54.120"
+  },
+  {
+    "text": "them ratchet up so having high fidelity",
+    "begin": "00:57:51.540",
+    "end": "00:57:57.030"
+  },
+  {
+    "text": "information transfer until we have some",
+    "begin": "00:57:54.120",
+    "end": "00:57:58.890"
+  },
+  {
+    "text": "understanding about how hard it is to",
+    "begin": "00:57:57.030",
+    "end": "00:58:02.460"
+  },
+  {
+    "text": "get to template replicating DNA or in it",
+    "begin": "00:57:58.890",
+    "end": "00:58:05.490"
+  },
+  {
+    "text": "or some other molecule to compari we're",
+    "begin": "00:58:02.460",
+    "end": "00:58:07.860"
+  },
+  {
+    "text": "really talking about Schrodinger's what",
+    "begin": "00:58:05.490",
+    "end": "00:58:10.620"
+  },
+  {
+    "text": "is life in a periodic solid of which DNA",
+    "begin": "00:58:07.860",
+    "end": "00:58:13.680"
+  },
+  {
+    "text": "and re are the wonderful examples that",
+    "begin": "00:58:10.620",
+    "end": "00:58:16.890"
+  },
+  {
+    "text": "could carry as he says a micro code for",
+    "begin": "00:58:13.680",
+    "end": "00:58:19.620"
+  },
+  {
+    "text": "the organism which DNA does until we",
+    "begin": "00:58:16.890",
+    "end": "00:58:21.300"
+  },
+  {
+    "text": "know how that happens and the micro code",
+    "begin": "00:58:19.620",
+    "end": "00:58:23.730"
+  },
+  {
+    "text": "is reliably transferred we don't know",
+    "begin": "00:58:21.300",
+    "end": "00:58:27.090"
+  },
+  {
+    "text": "but it can't be that far away Jim we'll",
+    "begin": "00:58:23.730",
+    "end": "00:58:28.980"
+  },
+  {
+    "text": "find out as people are working on it I",
+    "begin": "00:58:27.090",
+    "end": "00:58:31.920"
+  },
+  {
+    "text": "still remain agnostic right but I will",
+    "begin": "00:58:28.980",
+    "end": "00:58:34.230"
+  },
+  {
+    "text": "say I now give fair credit to those who",
+    "begin": "00:58:31.920",
+    "end": "00:58:36.630"
+  },
+  {
+    "text": "say that that leap may be so damn hard",
+    "begin": "00:58:34.230",
+    "end": "00:58:39.030"
+  },
+  {
+    "text": "it only happened one if that is true",
+    "begin": "00:58:36.630",
+    "end": "00:58:41.430"
+  },
+  {
+    "text": "this talk we've had earlier about to",
+    "begin": "00:58:39.030",
+    "end": "00:58:44.790"
+  },
+  {
+    "text": "destroy our ecosystem is even more Wow",
+    "begin": "00:58:41.430",
+    "end": "00:58:47.160"
+  },
+  {
+    "text": "it's even more morally it's morally",
+    "begin": "00:58:44.790",
+    "end": "00:58:49.140"
+  },
+  {
+    "text": "loaded right if we're the only life in",
+    "begin": "00:58:47.160",
+    "end": "00:58:50.790"
+  },
+  {
+    "text": "the universe and one could say perhaps",
+    "begin": "00:58:49.140",
+    "end": "00:58:52.800"
+  },
+  {
+    "text": "our destiny is to bring the universe to",
+    "begin": "00:58:50.790",
+    "end": "00:58:54.510"
+  },
+  {
+    "text": "life if we snuff",
+    "begin": "00:58:52.800",
+    "end": "00:58:57.870"
+  },
+  {
+    "text": "intelligent like it'll not be good well",
+    "begin": "00:58:54.510",
+    "end": "00:58:59.970"
+  },
+  {
+    "text": "I think some bacteria will survive yeah",
+    "begin": "00:58:57.870",
+    "end": "00:59:01.410"
+  },
+  {
+    "text": "I think they will to it and probably",
+    "begin": "00:58:59.970",
+    "end": "00:59:03.420"
+  },
+  {
+    "text": "even other animals but will they get",
+    "begin": "00:59:01.410",
+    "end": "00:59:05.670"
+  },
+  {
+    "text": "back to intelligence cockroaches will",
+    "begin": "00:59:03.420",
+    "end": "00:59:08.070"
+  },
+  {
+    "text": "make it cockroaches we always have with",
+    "begin": "00:59:05.670",
+    "end": "00:59:09.900"
+  },
+  {
+    "text": "us Thank You Stuart this has been great",
+    "begin": "00:59:08.070",
+    "end": "00:59:11.300"
+  },
+  {
+    "text": "we've had a few technical difficulties",
+    "begin": "00:59:09.900",
+    "end": "00:59:13.650"
+  },
+  {
+    "text": "the audio is not going to be as good as",
+    "begin": "00:59:11.300",
+    "end": "00:59:15.600"
+  },
+  {
+    "text": "it usually is but man what a great",
+    "begin": "00:59:13.650",
+    "end": "00:59:17.640"
+  },
+  {
+    "text": "conversation and that's the important",
+    "begin": "00:59:15.600",
+    "end": "00:59:22.440"
+  },
+  {
+    "text": "thing we all have to think about what",
+    "begin": "00:59:17.640",
+    "end": "00:59:24.720"
+  },
+  {
+    "text": "tap means for the Anthropocene and what",
+    "begin": "00:59:22.440",
+    "end": "00:59:25.860"
+  },
+  {
+    "text": "we're going to do as a species",
+    "begin": "00:59:24.720",
+    "end": "00:59:28.200"
+  },
+  {
+    "text": "everything else is trivial yeah yeah",
+    "begin": "00:59:25.860",
+    "end": "00:59:29.940"
+  },
+  {
+    "text": "it's interesting this the idea of tap if",
+    "begin": "00:59:28.200",
+    "end": "00:59:31.980"
+  },
+  {
+    "text": "you actually express tap without the",
+    "begin": "00:59:29.940",
+    "end": "00:59:34.230"
+  },
+  {
+    "text": "equation in your book right you talked",
+    "begin": "00:59:31.980",
+    "end": "00:59:36.990"
+  },
+  {
+    "text": "about this combinatoric unfolding of",
+    "begin": "00:59:34.230",
+    "end": "00:59:39.540"
+  },
+  {
+    "text": "both life and economy but once you have",
+    "begin": "00:59:36.990",
+    "end": "00:59:41.370"
+  },
+  {
+    "text": "the equation it actually is more stark",
+    "begin": "00:59:39.540",
+    "end": "00:59:43.710"
+  },
+  {
+    "text": "it in our face that unless we figure out",
+    "begin": "00:59:41.370",
+    "end": "00:59:47.190"
+  },
+  {
+    "text": "how to stop tap we're going to just run",
+    "begin": "00:59:43.710",
+    "end": "00:59:49.080"
+  },
+  {
+    "text": "outside all them out of the borders of",
+    "begin": "00:59:47.190",
+    "end": "00:59:51.030"
+  },
+  {
+    "text": "every resource and crush our planet",
+    "begin": "00:59:49.080",
+    "end": "00:59:52.680"
+  },
+  {
+    "text": "probably in the next hundred years",
+    "begin": "00:59:51.030",
+    "end": "00:59:55.320"
+  },
+  {
+    "text": "I think that's roughly right you we are",
+    "begin": "00:59:52.680",
+    "end": "00:59:57.600"
+  },
+  {
+    "text": "chopping down the last tree yeah that is",
+    "begin": "00:59:55.320",
+    "end": "01:00:01.110"
+  },
+  {
+    "text": "an unpleasant thought what has to start",
+    "begin": "00:59:57.600",
+    "end": "01:00:03.810"
+  },
+  {
+    "text": "happening Jim as we as a species have to",
+    "begin": "01:00:01.110",
+    "end": "01:00:07.530"
+  },
+  {
+    "text": "take on what this means and that is so",
+    "begin": "01:00:03.810",
+    "end": "01:00:08.850"
+  },
+  {
+    "text": "we're beyond anything we can say",
+    "begin": "01:00:07.530",
+    "end": "01:00:10.530"
+  },
+  {
+    "text": "fortunately there's some people working",
+    "begin": "01:00:08.850",
+    "end": "01:00:11.610"
+  },
+  {
+    "text": "on that some of the people I've",
+    "begin": "01:00:10.530",
+    "end": "01:00:13.050"
+  },
+  {
+    "text": "interviewed on the show will be",
+    "begin": "01:00:11.610",
+    "end": "01:00:14.460"
+  },
+  {
+    "text": "interviewing on the show what is the",
+    "begin": "01:00:13.050",
+    "end": "01:00:16.530"
+  },
+  {
+    "text": "operating system of the future look like",
+    "begin": "01:00:14.460",
+    "end": "01:00:18.810"
+  },
+  {
+    "text": "that has the attributes of allowing us",
+    "begin": "01:00:16.530",
+    "end": "01:00:21.180"
+  },
+  {
+    "text": "to have an interesting intellectually",
+    "begin": "01:00:18.810",
+    "end": "01:00:23.670"
+  },
+  {
+    "text": "probing species yet not destroy our",
+    "begin": "01:00:21.180",
+    "end": "01:00:25.830"
+  },
+  {
+    "text": "planet I will say nobody has solved that",
+    "begin": "01:00:23.670",
+    "end": "01:00:27.630"
+  },
+  {
+    "text": "equation yet but there are people",
+    "begin": "01:00:25.830",
+    "end": "01:00:29.250"
+  },
+  {
+    "text": "working on it I want to hear more from",
+    "begin": "01:00:27.630",
+    "end": "01:00:32.790"
+  },
+  {
+    "text": "the advantages thank you I'm hoarse this",
+    "begin": "01:00:29.250",
+    "end": "01:00:37.160"
+  },
+  {
+    "text": "bye bye take care be good",
+    "begin": "01:00:32.790",
+    "end": "01:00:37.160"
+  },
+  {
+    "text": "production services and audio editing by",
+    "begin": "01:00:38.630",
+    "end": "01:00:44.610"
+  },
+  {
+    "text": "Jared Jane's Consulting LLC music by Tom",
+    "begin": "01:00:41.280",
+    "end": "01:00:49.040"
+  },
+  {
+    "text": "Muller at modern space music com",
+    "begin": "01:00:44.610",
+    "end": "01:00:49.040"
+  },
+  {
+    "text": "[Music]",
+    "begin": "01:00:49.730",
+    "end": "01:00:53.260"
+  }
+]

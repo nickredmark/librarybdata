@@ -1,0 +1,1935 @@
+howdy this is Jim rut and this is the
+Jim rut show listeners have asked us to
+provide pointers some of the resources
+we talked about on the show we now have
+links to books and articles referenced
+in recent podcasts that are available on
+our website
+we also offer full transcripts go to Jim
+rut show.com that's Jim ruts show com
+today's guests are fair ananda ibadah
+and art rock of commons engine and the
+holo chain projects and various other
+things got a ask you a quick question
+here before we go on I'm actually
+reading a book called free fair and
+alive the insurgent hour of the Commons
+you ever read that book yes not only
+read that book but Davy bullier
+contacted me to help them to work on the
+follow change section and common sandy
+needs mentioned there and then I spend a
+whole week with them in Germany working
+on anthology and patterns for the
+Commons so yes read it ah that's great
+and as usual listeners we will have
+links to everything we reference whether
+companies websites books papers on the
+episode page for this episode so don't
+feel like you have to take notes just go
+to the website Jim rut show calm and
+you'll have links to everything we
+talked about that book I'm about 20% in
+I'm quite taken with him reading it
+slowly and carefully so I guess there
+was probably a relationship with that
+you know art is work to unlock the
+secrets of the social DNA but which
+people operate and the critical role of
+currencies for programming these
+patterns he's also designed lots of
+currency systems the list is almost
+endless scientific research fishery
+management stock options community based
+economic development etc Federer nonde
+has started off in the area of
+collective intelligence was certainly a
+strong interest to our audience she then
+began working in communities of intent
+intentional communities we might call
+them in our space and there she realized
+that money or we would
+we abstract a little bit and talking
+about the social system signaling that
+is like money was critical and she and
+art and the other holo chain guys found
+each other and thinking I think that's
+how we are today so let's jump in a
+little bit first and talk about hollow
+chain itself well then later talk about
+hollow hollow port hollow fuel the
+hollow token etc but let's talk about
+the hollow chain itself as I was doing
+my research one of the analogies that
+you all used I found very illuminating
+which was describing the hollow chain
+approach as agent centric rather than
+data centric as compared to say Bitcoin
+and etherium and in particular you
+compared hollow chain in ways to get
+could you start with talking about agent
+centric computing and how that's
+fundamentally different than what
+bitcoin and aetherium are doing sure you
+know the the thing that there is in
+common is that we use hash chains which
+you know is a cryptographic structure
+that can give you essentially some
+characteristics of immutability where
+you can't really go back and change the
+past
+once hashes of things that have been
+shared right so it kind of locks in the
+past so there's kind of a common ground
+but one of the better ways to think of
+hollow chain less like blockchain then
+like get plus BitTorrent right so
+instead of managing consensus of what
+blocks have been committed officially to
+one ledger every agent has their own
+source chain we call it because all data
+is sourced in a source chain and it is
+only the data they author their local
+state changes that are written to that
+chain and then published to a DHT as the
+shared ledger global visibility space
+but that's an eventually consistent
+system it's not a consensus driven
+system so that makes for very different
+characteristics of performance and I
+would assert it actually models the way
+the real world works the way we see
+things work in physics and biology and
+some of the naming of things in hollow
+chain like application code is called
+DNA you know things like that so it's a
+pattern that is inspired by nature that
+gives us the scalable coordination ya
+know one things that struck me
+immediately and those have listened to
+this show before know that I will rant
+about Bitcoin and how the main thing
+it's doing is accelerating the heat
+death of the universe right you know it
+strikes me that as you say most
+real-world problems don't actually need
+to be written to a global ledger right
+that everybody in the world has to
+duplicate etc you know take a theory of
+this case it's even more absurd than
+that it's essentially saying every
+computer program in the world doing you
+know class exome application in the case
+of etherium smart contracts has to run
+on the same slow computer who in the
+world would design a system like that
+right and yet those are two of our more
+popular distributed ledger applications
+out there and as I dug into hollow che
+and I said this looks like it might
+actually scale and be a reasonable fit
+for the real world yeah if I could say a
+little bit more about the agent centric
+aspect I think distributed computing
+gets a little hung up by traditional
+computing in terms of we're used to
+thinking that we can hold the whole data
+set the whole data space right and that
+that space has sort of its own inherent
+truth to it this is the kind of data
+centric mentality and what we're
+suggesting is all of that data actually
+came from somewhere whenever it was
+created it was an assertion by an agent
+and if you break that from its
+provenance if you break data from where
+it came from
+you actually have already lost data
+integrity you know if you were to ask me
+what the temperature in the room that
+I'm sitting in right now is you know
+there's a thermostat over on the wall
+that would give you one thing but if I
+had one of those little infrared devices
+and could measure different temperatures
+I'd you know click it over the lamp over
+there that kind of thing I've got lots
+of different temperatures and then if we
+wrote those to a database where Arthur
+used this device and I signed them to a
+database but then we find out tomorrow
+that that infrared little you know gun
+trigger that I was using to measure the
+temperatures is 20%
+calibration now we know which data was
+affected which data is not true when you
+just start off assuming that data has
+sort of inherent truth and you break it
+from where it came from
+I'd suggest you you're starting with
+problems so whole the chain is really
+coming from this agent centric
+perspective that you write data to your
+chain it's signed and shared and so you
+always know where the data came from it
+can always be verified and validated
+against that local state and so that
+just lets us create very different kinds
+of patterns of sense-making and social
+coherence that I would say go far beyond
+kind of the current scope of smart
+contracts and such ok so let's set for
+our audience we'll break this down into
+more bite-sized pieces so when I start
+to develop something or start to be a
+user of hollow chain I could have a
+private key and I write use my private
+key to sign additions to a local block
+chain called the source chain is that
+correct well not a block chain just have
+chain but yes but I read it looked like
+the math was pretty damn similar right
+but ok let's call it a hash chain so you
+say we use the same trick that you sign
+the block including the previous
+signature so it can't be hacked etc well
+what is it what do you call each thing
+that you write what's the name of the of
+the block that is written to the chain
+it's just an entry like an entry in the
+database or whatever we just call them
+entries okay rather than being a block
+of many and great and of course one of
+the nice things about that is that you
+don't require expensive proof of work to
+have the right to write to your source
+chain presumably the only credential you
+need to write to your source Shane is
+your private key exactly okay now of
+course this gets me into one of the
+great Bugaboos of our whole world which
+is private keys than the management
+thereof have you guys done anything they
+help with that problem we have so whole
+a chain has a an API we call DP ki for
+distributed public key infrastructure
+that actually uses a holo chain app in
+the background has a key management
+infrastructure so that you can
+VOC or replace keys because right now in
+the blockchain world if you lose your
+key or if your key gets compromised
+somebody else gets hold of your key
+you've lost your tokens or you've lost
+control of your smart contract or you
+know whatever the the thing is and in
+the case of hold a chain if your laptop
+gets stolen and you had some little
+chain taps on that you could use a
+another device to revoke those keys
+replace those keys with new ones and
+resume control of your identity
+essentially of of your agency because of
+having key management in place that's
+very good and very important because
+eyes again what am i hurting me rant
+about those before one of my critiques
+on traditional blockchain applications
+utterly dependent on your private key
+and we already know that some
+non-trivial percentage of bitcoins are
+probably lost forever because you know
+he will died or lost lost their private
+key fact I actually have some very early
+Bitcoin that I have lost back in the
+days we used to be able to get a tiny
+fraction of a Bitcoin for sending a text
+message to somebody it was hilarious I
+probably have a thousandth of a Bitcoin
+somewhere on one of my dead computers
+that nobody will ever see again so we
+get what we've called intrinsic data
+integrity by signing each element each
+entry going and then you write it into
+your local chain but you guys make a big
+deal out of the fact that private data
+by itself isn't all that interesting
+once you guys riff on that a little bit
+sure actually if I could even just touch
+on the intrinsic data integrity aspect
+of what you were just talking about
+blockchain has been kind of blown up to
+be about tokens and about currency but I
+think what's interesting is it's about
+anybody being able to hold and serve the
+data because the data has intrinsic
+integrity you can tell that it hasn't
+been tampered with right and so in the
+case of what you're talking about we can
+actually have shared sense-making spaces
+and trust each person or anybody on the
+network to be an authority for the data
+so what I mean by that is like who
+wouldn't love to be able to log in and
+change
+bank balance you know say I've got 5,000
+more dollars today than I did yesterday
+well the thing that prevents that in
+this story is that the you can't tamper
+with the data the data is tamper proof
+there has to have actually been a
+transaction that somebody else signed
+for that money to exist right and so all
+state changes are signed by the people
+whose state is changing so in the case
+of implementing a currency on hollow
+chain which doesn't have one built in by
+the way like most block chains - we
+recommend you do it basically like
+double entry accounting and the two
+agents whose state is changing both
+signed the same transaction to each of
+their chains and they give each other
+the counter signatures and then you have
+local state changing and you don't need
+global state or global time to be able
+to make this work well tech will go into
+that application that a particular you
+know small-scale currency applicational
+but later but when we get our data
+written to our local source chain you
+know it's not all that useful sitting on
+our own computer probably some things to
+be all right maybe I want to do a
+catalog of all my DVDs or something but
+if I want to share it with people and
+build online environments that do actual
+work you need to replicate it get that
+data out so other people can have access
+to it now of course this is the tricky
+part of distributed computing in you
+know Facebook or something all the data
+is written in one place or at least it
+looks like it's in one place it's easy
+to search it's one big from the user
+perspective bag of searchable data much
+more tricky in distributed land you guys
+have the idea of peer replication and
+validation maybe you could describe that
+a little bit and how do two peers decide
+to peer with each other so in hollow
+chain each hollow chain application is a
+separate network if you will it's a
+separate peer-to-peer encrypted network
+and you have to be running the same
+application to be a peer of others so
+for example if you take a chat app like
+a slack application you want to create a
+private slack team you could fork in
+existing
+instance by just changing a little
+number and they're changing a UUID and
+they're to make your own little network
+that has its own identity and send
+people an invitation code to join your
+network and they become peers in your
+network by installing that software
+installing that instance of the of the
+slack app and then the the one trick
+there is a bootstrapping process for
+four peers to start finding each other
+so you would need to set give an address
+and right now we're stuck using kind of
+the centralized domain name resolution
+type process for addresses just because
+it's universal so that's kind of the one
+little legacy part of centralization
+that's that's in holo chain is that we
+have to bootstrap somewhere and then the
+peers just gossip with each other to
+manage the sharing of that information
+of those of the slack chats for example
+or other Twitter and that kind of thing
+and so much of the internet now is you
+know web 2.0 it's data that is
+contributed by the users and yet that's
+all given to some central corporation
+when there could be ways that we could
+just hold these things ourselves without
+needing to basically have a surveillance
+corporation in the middle that's making
+money off of selling your data to
+advertisers and we know there's a lot of
+interest particularly in our game be
+world of getting away from these
+centralized data controllers and
+exploiters of users right as we say if
+you're not paying for their service and
+there you are the product right you're
+you're basically retentions being
+hijacked in various pernicious ways and
+if we had control of our own data would
+get away from that so to make it clear
+what peering really means is that
+multiple people two or more people are
+using the exact same app which means
+that the app itself is signed right and
+owned by a private key or an address is
+that approximately correct yeah the app
+code is actually signed into the first
+entry of each person's source chain so
+if that source chain doesn't start with
+the same hash then you're not running
+the same code you know you don't have
+the same rules it's because of the peer
+validation you talked about
+we actually have to be able to check
+each other's work and that has to be
+reliable which means we have to have the
+same rules for checking each other's
+work right and so that's actually the
+very first entry of everybody's chain so
+you can check that hash and make sure
+we're all on the same rules it's also
+part of the network encryption salt so
+that you're not even talking with
+somebody that doesn't have that hash and
+isn't in that encrypted network now one
+objection I have read about that is that
+means that every time you do even the
+most rudimentary bug fix on an app you
+essentially have to have everybody you
+know fully reinstall the app and in fact
+in some real sense it's a different app
+how do you respond to that objection to
+this architecture I would say that is a
+real phenomenon of distributed software
+that objection comes from a centralized
+software viewpoint where everybody has
+to go to one Authority and that one
+authority is managing everything and
+therefore you can just change it in one
+place nice and simple right but if it's
+distributed software then the people
+running it have to receive a new
+distribution of the new version right
+and be able to move to that new version
+part of what we encourage in hollow
+chain to reduce the pain of this is
+first of all not making huge monolithic
+applications but instead building small
+micro services that work together and
+have pretty reliable narrow
+functionality and you keep in the DNA
+you keep the only the data integrity
+management the data validation and
+integrity management rules and all of
+your UI stuff should be outside of the
+DNA and you can change that stuff and
+people can be using different versions
+of UIs and that's fine they'll still
+have the same peer validation for
+checking each other's work that brings
+up a very interesting question let's say
+it is a distributed slack channel if the
+app changes ie the you know the
+signature on the app changes for let's
+say even a fairly rudimentary bug fix
+does the data have to be replicated as
+well or are the data and the data and
+the app some set separate on my machine
+I suppose I have two years worth of
+slack data for our 50-person
+project could be a lot of day
+when the new version of the app comes
+out there's all I have data after we
+replicated - it's a great question so it
+really depends on which type of app it
+is you're talking about and what you can
+do with with whole a chain the apps
+being micro services are small and
+lightweight and you can be running
+multiple versions of an app if need be
+so one of the things that we do to
+address the simplifying that the kind of
+the pain of having to have everybody
+migrate from one version to another is
+that we have this sort of concept of
+closing entries and opening entries on
+your chain where you can say okay I'm
+closing down working on this version and
+have migrated to this new DNA and in the
+in that new DNA after your first entries
+where you put in your the DNA code and
+your agent key then you can have an
+opening entry that says I just came from
+this other DNA hash and that way you can
+actually have queries that span across
+DNA versions and across dhts
+where you can be running them both or
+running multiples and be querying into
+your history across multiple versions
+and so that we can try to try to provide
+it's both an experience as possible
+there I can see that's gonna be a little
+tricky from a application development
+perspective in fact I interviewed
+Stephen levy a couple days ago recently
+wrote a great book about face book right
+and one of the things we talked about
+one of Facebook's competitive advantages
+was it was one of the first major online
+companies to be essentially built with
+DevOps in from the very beginning so
+that they were pushing four or five new
+updates to the face book software every
+day and we know of course now Google
+nobody sees this the same Google
+everybody gets a different Google
+because they're testing hundreds of
+different parameters on the user
+interface every day and it strikes me
+that that hyper agile devops driven you
+know user experience driven way to
+evolve software incremental II would be
+impossible to do in this environment
+well except as you said most of those
+changes are to the experience to the
+user interface
+not to the underlying data integrity so
+it's only when you're changing the
+underlying data models data structures
+or the permissions and and such that
+would that would affect validation that
+you would actually be changing the DNA
+you could have many many different
+versions of UI is running and in fact
+part of the beauty of it is you could
+allow again it's sort of agent centric
+perspective on this where I could
+customize my own op you I run my own
+skins or pull different data from
+different applications into a single UI
+that don't provide that kind of unified
+interface and because what matters from
+the DNA perspective is that no state
+change is happening that is invalid
+but you can collect that data and
+display it however you would like yeah
+though in the case of Google in
+particular Facebook as well there's sort
+of a deep marriage between the data and
+machine learning algorithms which decide
+how its presented and from the UI layer
+those those two things kind of live
+together and it's the machine learning
+layer that's evolving probably even
+faster than the formal UI exactly but
+you would put that machine learning
+layer for the UI outside of the DNA it
+doesn't change the structure of the data
+necessarily it just will filter which
+data like rank which pages come in your
+search or which posts in your feed and
+that kind of thing and this is again the
+beauty of I could use one algorithm and
+you could use another to display your
+feed and we can each get what we want
+that way
+we're right now on Facebook we get what
+fits advertisers won exactly I call it
+the zuc algorithm and I hate it right if
+you can actually pull that off in a way
+that really works for real developers of
+application then this may well be the
+right platform to replace Facebook with
+at some point let's go down a little bit
+into the weeds a tad as I understand it
+for my relatively modest readings the
+actual applications are created out of
+components called zomes which are
+lower-level components which are then
+packaged in a way that are you know not
+that different from micro-services
+dnase because you talk just a little bit
+about the distinction between those two
+and why you chose to do it that way
+yeah Soames was just kind of our silly
+word for modules based on chromosomes in
+DNA right like what are some of the
+subsections well how might you
+modularized your code because generally
+speaking people want to create good
+modularity for sharing and maintaining
+code and reusing portions of things and
+so the idea is as oh maybe a module or
+reusable portion that you might use in
+different places so for example there's
+a anchors pattern that you use a lot in
+hollow chain where you sort of use a
+predictable bit of content to hash let's
+say it's a username you know and then
+you can use that hash to attach a lot of
+links to find other things so if it was
+a Twitter app it could be a your Twitter
+user handle write your Twitter handle
+and then from that handle I can find
+links to your posts to your tweets right
+or to your followers or to who you're
+following or your favorites or you know
+things like that and that handle holds a
+lot of things together well there's an
+anchors API and anchors mix in that a
+lot of applications use and they just
+that's a zone that they can just plug in
+and use this pattern for generating
+anchors that also create kind of a
+little directory system and way of kind
+of having data be more discoverable
+because on a DHT data is tricky to find
+sometimes if you don't know the hash
+right how do you go look for it when
+it's spread across potentially thousands
+or hundreds of thousands of computers
+yep we'll talk about that and I can have
+a whole section on that go in the next
+level so so think of we can think of
+zones as modules and DNA as the
+equivalent of small programs is that a
+fair enough way to describe them yeah
+okay and then the next level up I
+believe you call a chaps as a bundle of
+a client which talks to one or more
+DNA's using a lightweight RPC is that
+approximately correct yeah a half is a
+way of bundling DNA's and UI's into
+something that basically can be
+delivered to an end user there
+maybe a single UI there may be multiple
+you eyes there may be multiple DNA's but
+it provides and integrated a singular
+experience by bundling it all together
+and as we know and a lot of real-world
+problems building that UI is not easy do
+you guys have decent tools for building
+you eyes at this point we have had a few
+different iterations of tools and I'm
+actually very excited about one of the
+newest ones that's coming out of one of
+our guys Philip in Australia who has
+been building a bunch of components in
+view using the view JavaScript framework
+and he's been building a hollow chain
+app designer that is a hula chain app so
+hollow chain sent essentially replaces
+github in this way where you can
+actually use it to manage and share
+designing information while you're
+building an app with other people
+building the app and then there's this
+mode he's calling a chimera mode which
+you know is like a mashed up animal if
+you will part lion part snake part
+whatever right so it's kind of a mash up
+mode where you can pull different DNA's
+together and he's defined slots where
+you can have the UI components the web
+components that from one you I sort of
+populate into another one and you start
+having this kind of pluggable component
+tree for UI components for whole chain
+apps and hopefully we'll be be
+publishing this in the next couple of
+weeks because I think it'll be a fun
+thing for people to play with and those
+things matter I can tell you as a you
+know my business career I did various
+things I was an entrepreneur I was a you
+know sole entrepreneur startup venture
+dude all that's up then I was also a
+corporate CTO for a number of years and
+one of things I saw in the 90s is sort
+of the Microsoft if occation of
+corporate American software was driven
+by one thing visual basic oh my god
+right because it was easy right and they
+you know worked off that and build a
+whole you know Visual Studio etc etc and
+so I would not at all underestimate the
+criticality to your ecosystem of
+having tools that are easy indeed even
+pleasant to use to be able to build you
+know the whole stack out and I hope you
+guys are paying enough attention to that
+could my experience a lot of people in
+this space aren't yeah to me what
+Phillip has built is a bit of a
+breakthrough for us in it we actually
+did have a scaffolding kind of a quick
+start thing that would almost like a
+wizard help you build your app kind of
+thing where you would identify your
+zomes and some entries and create entry
+schemas for you using JSON schema and
+all that kind stuff in the old version
+and it would generate tests and a basic
+testing UI ugly but basic testing UI and
+also your basic crud functions for the
+data you still needed to go in and do
+more with the peer validation rules and
+everything but in terms of like
+bootstrapping somebody up quickly it was
+a really helpful tool and this one was
+supposed to be kind of the successor to
+that and Phillip went a little crazy and
+just started getting into you know
+mixing and matching all the visual
+components as well and I'm really hoping
+that it does create some buzz and stir
+because it's the kind of thing where
+power users can start assembling apps
+and combining pieces of apps into new
+things and that kind of thing and you
+don't have to be a power developer you
+can really kind of be a power user that
+can pace things together and I would
+assert that much of the web emerged that
+way from kind of people pasting together
+stuff that they found on other websites
+and liking that pattern and assembling
+it together right that's kind of how we
+got to where we got to on the the web
+altogether
+yeah I used to make that point that even
+though from my perspective as a you know
+former database designer a network
+protocol aware dude you know I can't
+imagine anything sleazier than HTTP and
+HTML all right holy who'd want to
+build a world on that but the reason it
+happened was you could tell your
+secretary to go view source and steal
+the source from an early 1993 web page
+and duplicate it in 15 minutes right
+that's why HTML HTTP took over the world
+despite the fact that it's an
+abomination
+right it was easy it was viral I guess
+though I suppose we're not supposed to
+say viral anymore in this time of
+pandemic and so yeah those ecosystem
+things make all the difference in the
+world you know it led us to this
+horrible thing called the web which is
+now not so horrible anymore but frankly
+despite its foundations not because of
+them what I'm hoping that it
+accomplishes is actually understanding
+that hollow chain apps can be very small
+in scope they can just be your your
+family's check-in system or you know
+something with a small group of people
+where blockchain apps tend to be viewed
+with much greater sort of weight and
+significance because you're kind of like
+writing something in stone forever on a
+monolithic blockchain if you make a
+mistake in your smart contract you know
+it can be horrifying and have real
+financial consequences in terms of gas
+costs or credits lost or you know
+different things like that and part of
+what I'm hoping can come out of a tool
+set like this is losing a little bit of
+that stigma and fear and significance to
+just say oh I can just invite people to
+play in little spaces and the the risk
+factor in that is extremely low it's
+just sand boxes we can play in yeah and
+I can revoke the program if I want to
+right yeah that's you with your key
+management system I can just like kill
+that sucker right yeah let's move on to
+the next part and frankly as a database
+nerd the part thing I found most
+interesting I'm not sure everybody will
+but I thought it was really cool and
+that really really serious innovation is
+your distributed hash table and
+particularly some of the interesting
+ways that you made that tolerably
+efficient such as basically making
+everything a hash including usernames
+and sorting basically assigning content
+to the agents name who's closest to the
+hash on the content etc could you lay
+out for the audience what is a
+distributed hash table and why is it
+interesting and innovative so the just
+starting with the real basics a hash is
+kind of like a fingerprint for data and
+if the data changes the fingerprint
+should change significantly a hash table
+is kind of a way of organized
+that in a key-value store where the hash
+has a kind of key that you can look up
+the the values you're looking for you
+can retrieve the values you're looking
+for in a table a distributed hash table
+divides that across many many different
+machines so that nobody needs to hold
+the whole thing so it's a way of
+breaking a kind of database into many
+little parts and then when we do that we
+can also create have agents or users
+have addresses in the same address space
+that the data is stored in so now we can
+we can arrange the data we can send it
+to hosts whose address is near the
+address of the data and so whenever
+you're looking for data you just sort of
+get routed toward the hosts with the
+closest addresses or the peers with the
+closest addresses and get back the data
+that you're looking for and so we can
+set up some redundancy levels and we can
+set up gossip and and things for being
+able to have peers that are near each
+other know about the data that each
+other are holding and so we could have
+kind of a self-healing database as peers
+drop off the network the other peers
+near them gossip it you know more more
+broadly and as new peers join they learn
+about the data in their neighborhood and
+get that gossip to them and so it lets
+us have kind of an organic living
+self-healing database which is I think
+what we have to have in these sort of
+peer to peer driven systems now if I'm
+building an app can I set parameters on
+about how much sharing I want you know
+for because you know when we do
+distributed databases I occasionally
+fool around with Apache ignite for
+instance and it's a very cool
+distributed database system that does
+automatic replication but you can define
+the replication rules like and I say I
+want at least five copies of every entry
+or visit less well parameterize than
+that the plan has been that you set a
+target redundancy level and I say has
+been because I think it may be changing
+a little bit as we've learned from from
+actually trying to run these district
+systems individuals don't tend to know
+much about the consequences of that
+decision that they're making right when
+they say well I think there should be a
+hundred copies of the data on the DHT
+right well first of all because of the
+self-healing nature of it what we're
+trying to do is manage how many copies
+are online at any time meaning when
+peers are gossiping with each other
+they're keeping a little log of my
+attempt to reach you what percentage of
+them were successful or which percent
+what percentage of them failed so that I
+have an uptime estimate for you right
+and then I know that if the target data
+a target number here is a hundred but my
+peers are really only have twenty-five
+percent uptime right then basically I
+need to have four hundred copies of the
+data alive right and and since people
+don't know what they're making that kind
+of decision often when they say a
+hundred copies now that you know you
+have four hundred nodes trying to gossip
+data around which slows the whole system
+down and what we're kind of finding is
+that we may want to have the default be
+a kind of autopilot mode where the let
+the network balance itself and make sure
+that there's adequate redundancy and
+adequate load handling rather than have
+sort of a preconceived notion of a
+single single number of redundancy
+factor be able to provide that for now
+we still have that single number as the
+target but I think we're going to be
+tuning this more kind of like auto tune
+mode where we can have applications
+default to auto tune and only override
+that in in kind of exception cases
+that's probably very wise again to help
+people who are who want to just try
+things right because you are absolutely
+correct trying to actually understand a
+distributed database and how you should
+configure it is a problem of nightmarish
+proportions even for people who know
+about this stuff right and as you say
+even relatively small changes in
+parameters when you run across the
+combinatorics of a distributed database
+can have really big implications I would
+take a little sidebar here something's
+going to get to you later but you've
+mentioned the gossip protocol that you
+guys use
+time's gossip protocols are a class of
+protocols there's lots of gossip
+protocols it might be useful for our
+audience who probably have never heard
+the term before it to explain what a
+gossip protocol is and maybe at least a
+little bit what are some of the
+specifics of your protocol cool
+the basic gist you know gossip is
+referring to the same kind of activity
+that we as humans do it's kind of like
+hey what's new what's the news that
+you've heard and so in a gossip protocol
+on whole chain you connect to other
+peers and you may have things to deliver
+to them that you're intending to deliver
+to them like saying hey you need to know
+about this but then you're also asking
+them hey what have you heard about that
+I should know and in hollow chains DHT
+representation we're able to have a very
+simple representation of what data a
+node is holding there's their address
+and then there's another integer which
+is basically the the range beyond their
+address that they're holding so it
+allows nodes with higher capacity to
+hold more and nodes that are maybe
+smaller capacity running on a Raspberry
+Pi with very little storage attached or
+something to hold less but we have a
+simple way of knowing what range you're
+accountable for of addresses in the in
+the DHT and so we can say for my range
+given these two numbers you know about
+me know about my address because it's
+the literally the address I'm contacting
+you from my message is signed by it it
+comes from that address and all you need
+is this one other number to know whether
+or not any of the stuff that you're
+holding are new things you've heard
+about are in my range that you should
+tell me about I hope that that kind of
+is the crux of the of the gossip
+protocol and then nodes are just doing
+this on a periodic basis depending on
+how frequent they're seeing new data and
+the like less active applications can
+calm the gossip a little bit because the
+changes aren't happening very frequently
+and and very active applications are
+gonna have faster gap gossip because
+there's a lot of changes happen and can
+you specify that at the application
+level essentially
+at the moment what we're doing is again
+more we're trying to get more into this
+auto tuning and more like exponential
+back-off s-- where if i haven't gotten
+anything new from you then i wait a
+little bit longer and i wait a little
+bit longer in it you know and then if i
+start getting new things from you then
+that kind of pulls me back into a very
+active mode and then we kind of back off
+and calm a little bit so that's it's
+more built in to the system auto
+behavior at this point okay let's move
+on to the next topic one of my favorites
+which is hashes by definition are
+cryptic links they provide no
+information at all about the data right
+because if they did they wouldn't be a
+hash however in an information system we
+often want to be able to query on the
+content right and at first I said oh
+damn another one of these stupid
+databases of cryptic links that's pretty
+damn useless but then I dug a little
+further into your materials and I
+realize that you've extended the
+concepts some towards a graph database
+with what you guys call tags and anchors
+that make at least feasible in principle
+to allow some traversal of the graph
+that has some content specificity to it
+and of course this is a famously
+difficult problem right I'll just stop
+there actually let you talk a little bit
+about how you make this graph of cryptic
+links into something that's at least
+somewhat searchable yeah as I mentioned
+earlier it can be very hard you can't
+expect to crawl a DHT because by the
+time you even got around to people that
+you knew existed other people might
+exist and other data would exist and
+there's not really a good way it is
+inherently kind of an invention a
+consistent space what you want to do is
+build good ways of finding the data
+through references so those references
+can be in the form of links where those
+references can be in the form of the
+indexes or those references also can be
+in the form of chains meaning we already
+have one
+topology that every piece of data that
+got added at the DHT was in somebody's
+source chain
+so I could find from one of your
+neighbors I could request kind of your
+header history if you were offline and
+basically be able to re-crawl your
+activity your set of state changes
+that's one way that we can find data on
+it right if I have your key or address I
+could talk to neighbors of yours and say
+hey give me give me this header history
+and that's really useful for things that
+matter in a chronological context things
+like monetary transactions right that's
+whether you your current balance is
+based on the chain of your past actions
+which funds you've received and which
+funds you've sent spent right and so
+that topology already exists but what
+we've done like you said with links is
+be able to attach links on to
+essentially anything else and query them
+as meta information and then we have
+this pattern of anchors which is a way
+of giving links a good base to attach to
+that's predictable and known like a
+username or or something like that and
+then we even have created the anchors in
+a sort of tree hierarchy so that you can
+think of that like a browsable directory
+file structure if you will where there's
+a root anchor that tells you what anchor
+types exist and those anchor types tell
+you which anchors exist so if there's a
+user anchor type you could go get the
+list of user names off of the user root
+anchor you know and so get it creates
+ways of having the space be discoverable
+and crawlable and still be distributed
+yep indexing is a whole other problem
+yeah that's a good first step however as
+we know there's a big tension between
+browsing and searching and the way I
+would describe it is that the the
+problem with browsing is that it puts a
+burden on somebody to manage a taxonomy
+right and if we remember the early days
+of the internet Yahoo was actually a
+taxonomy you browsed Yahoo you didn't
+search it in the old days you went down
+these damn menus layer after layer and
+then other people Lykos might have been
+the first one that was an actual search
+engine I'm not quite sure but anyway you
+can actually do full-text searching so
+is the indexing issue and you know to
+bring it back to a tangible example our
+old friend Facebook love it and hate it
+you go up to the Facebook search box and
+you type in almost anything and it's
+surprisingly off and it'll give you what
+you're looking for you know how do you
+do indexing how do you do something like
+search on a distributed hash table I
+think there's gonna end up being a
+number of different indexing strategies
+but one of the ones that we were using
+and the go version of holo chain and the
+apps that we built there I think is
+carrying over in this rust version which
+is basically that there's an indexing
+app another hole a chain app but that
+it's only being run by nodes that are
+more substantial nodes that are online
+reliably that have storage space and
+processing power you can think of those
+as servers because we want
+generally-speaking whole chain apps to
+be lightweight enough for you to just
+run them on your phone and from the
+graphing perspective we can keep that in
+scope and not put too heavy load on
+somebody's phone or something like that
+but if you start running indexing and
+this is a peer-to-peer app that
+everybody's running now you're getting
+back into the sort of blockchain problem
+of everybody holding everything right
+and holding an index to everything or at
+least holding an index anything right so
+because holo chain DNA's can role chain
+apps can bridge to each other locally
+what we can do is you can build your
+Twitter app kind of thing but now you
+want those tweets to be indexed you want
+to be able to search on you know
+emerging terms and that kind of stuff
+well then you can have some nodes be
+indexed nodes we can get into the
+incentives for running an index node in
+a minute but the way that that works is
+the index node runs the Twitter app our
+case it was called clutter and they also
+run the clutter index app and they
+register themselves in the clutter app
+as an index node and then everybody when
+they posts posts to one index node and
+the index nodes gossip with each other
+because it's a whole chain app that's
+gossiping right and you can do queries
+by sending
+a direct message to an index node and
+get back a set of results and then just
+query your Twitter app your clutter app
+Pierce for the actual things that you
+know the results you need to load but
+you get the results list back from one
+of the indexes and we built that index
+pattern using anchors just using
+keywords as anchors that then have links
+that went off to the posts that included
+those words and you know so everything
+that we used in that pattern we've
+already kind of described on this call
+but that's going to have a certain level
+of performance that whole kind of index
+everything as a base word as an anchor
+may have performance limitations but
+there's not any reason that you couldn't
+have these notes actually just plug in
+something that's doing meta searches on
+the data like plug in actual
+elasticsearch or something like that and
+have something outside of hole a chain
+be running the indexing on the whole
+chain entries VM sort of essentially
+have the idea of an external service
+maybe something like that yeah because
+this is agent centric you as an agent
+can connect things in to your data
+locally right and if you are an index
+node then you have all the data that
+needs to be indexed and you can be
+indexing that locally and then you can
+respond to queries using that algorithm
+you know that kind of thing so you can
+do things outside of hollow chain
+locally that's like that's like the like
+you were talking about the machine
+learning for prioritizing results that
+kind of stuff this is a similar sort of
+thing so of course you wouldn't want
+every user to be re-indexing you know
+all a Facebook or even my view into
+Facebook and that's the big advantage
+that centralized systems have they only
+index it once but for resilience if you
+want a decentralized system you probably
+want decentralized indexes where you
+might have 20 or 200 or you know some
+number of nodes that are each
+independently indexing this and then
+you're not relying on only one
+organization now the question is for
+that higher workload what's their
+incentive to do so well sometimes the
+data is the incentive right because
+the view into the data and they want to
+be able to see patterns in the data and
+they and it's the idea that they would
+be willing to run a server and I have
+everybody notify them when they
+published new data into whole a chain
+would be an incentive in and of itself
+right if I want to run I don't know an
+index server for a ride-sharing
+application because I'm a municipality
+and I want to see what the ride-sharing
+needs are what they indicate about where
+we might need transit routes or things
+like that right like I having that data
+for us to do analysis on could actually
+be useful I would have that data if I
+ran an index node if you need to pay
+people because you don't have useful
+data data that is that nobody knows they
+use for which not sure if that exists
+but you know then you could create other
+incentives you could run it on mykola
+hosting and actually have people host
+hosts get paid to run index nodes let's
+assume that for instance someone wants
+to build a competitor to Facebook or
+Twitter for their community but they're
+concerned about privacy's they don't
+think they don't want to and send
+somebody to mine the data - in return
+for providing search so was it the
+application builder who creates the link
+to the concept of search servers it is
+okay you know how we had those different
+zones or we had different micro service
+DNA's the outright the application
+builder can build just a little stub of
+a zone that knows how to call into the
+other DNA right to make send those
+direct messages back and forth to the
+index nodes and that lets you split the
+work between nodes that are carrying the
+heavy or indexing load and no it's a
+similar kind of thing not just for
+indexing if you wanted to run YouTube on
+polar chain you probably want to have
+nodes that are actually serving out
+video streaming video and nodes that
+want to be viewing or maybe even
+sometimes posting video from a phone but
+they don't want to be serving video from
+their phone right now definitely so
+similar kind of thing for a different
+reason where you want to have break it
+out into two classes of nodes that are
+providing different levels of service
+and you do that by breaking it into two
+DNA is that know how to talk to each
+other
+okay oh that's healthy guys we've done a
+lot of thinking and you know we know
+these are the hard problems and
+distributed computing some you're
+clearly thinking about it and we will
+see how it goes you know I have I think
+I mentioned this originally to Fernanda
+that I've actually allocated in my
+schedule June and July of this year to
+write a whole a chain app oh yeah he
+thought myself rust last year in
+November as my new language of the year
+every year I teach myself a new computer
+language got up to the point where I
+could write a bit more than hello world
+in rust and have allocated on my
+calendar June and July to knock out a
+hollow chain app just for fun so I will
+explore some of these issues I'm sure I
+won't but go quite as far as all this
+but these are the kinds of things that I
+am interested in when I am in accessing
+a you know infrastructure ecosystem for
+what it could really do nice then though
+I'll probably write it up as a medium
+post which should be interesting we are
+getting late here we've hadn't had so
+much fun talking I was gonna go into
+validation in a major way it's a very
+important concept in whole chain as far
+as I've been able to ascertain in my
+readings but could you talk a little bit
+about validation and how it really works
+it seems like it's actually quite
+central in how one thinks about
+designing an app yeah it really is it's
+funny validation is a little bit of a
+Bugaboo in an apps people right because
+often when they're in the early learning
+curve all they're trying to do is just
+make something happen
+right like commit the data and read it
+back again and have other people find it
+and woohoo it's working right now we're
+sending tweets around and one of the
+things I loved to show while
+demonstrating the like the clutter app
+was we get to the validation rules and
+validation really is the heart of the
+matter this is where peer-to-peer data
+integrity lives right and I would show
+them how the Edit rule on a tweet would
+check to make sure that you were the
+author of the tweet right and so it
+would compare if I go to edit this tweet
+or if I've submitted an edit to a tweet
+out there to the DHT and other nodes are
+validating this they're first checking
+to see am i the author of that tweet
+and if I'm not then then it doesn't pass
+like I don't get to submit an update to
+that tweet only the author can update
+their own tweet right but then I would
+go to the next section which was delete
+a tweet and it just had returned true so
+it turns out we weren't validating who
+was deleting tweets in that app it was
+just anybody could delete anybody's
+tweets but anybody couldn't edit
+anybody's - incorrect and so this is the
+kind of the thing that creeps in is you
+start off by just sort of throwing a
+return true and the validation rules
+because you just want to see something
+happen you know and then sometimes
+people don't get around to putting in
+all the right kind of permissions or
+enforcement in the validation and
+actually in the tools that that Philips
+been working on the crispys calling it
+CRISPR which because it's for slicing
+and dicing whole chain DNA's we've we've
+sort of abstracted basic permissions
+down so that we can do so we have a
+plug-in with a roles module and you can
+you can actually create some different
+to find some different roles and then
+put permissions in there and we'll even
+fill out some of those things for you so
+that you can constrain something to the
+author only or to a an admin group or to
+other roles that you might create in the
+system so we are trying to help people
+even generate their validation rules
+because permissions is certainly one of
+it but also business logic you know like
+do you have the credits you're spending
+we can't help you automate that you're
+gonna have to do the logic of of summing
+the old transactions and seeing what
+your current look the current balance is
+for example yeah at some point
+presumably like every ecosystem there
+will be modules to do that for you right
+think about the Python ecosystem the
+reason pipe the Python ecosystem I use
+it for our surprisingly I'm a large
+amount of stuff not because I
+particularly love the Python language so
+I think it's okay but because there's a
+bazillion modules available don't do
+almost anything and I think that's gonna
+be real important if your ecosystem is
+gonna take off is to find reusable code
+that people can bootstrap up to high
+levels of functionality without having
+to write too much stuff themselves
+exactly
+it's very important I got a bunch of
+other little things here but I want to
+get to the bigger picture stuff but
+before I do that one critique in fact I
+think I actually dinged you guys on a
+podcast back in October I'd stumbled
+across hollow chain last year maybe
+August somebody said hey check out whole
+chain it looks interesting you'd like it
+I did I said wow this is interesting and
+then I reached out to to my experts on
+blockchain related things distributed
+computing more generally and both of
+them said the same thing which was damn
+said a good ideas but I think they
+killed themselves when they switched
+from their go platform for their rust
+platform they lost too much time lost
+too much the velocity the world's gonna
+pass and by how would you respond to
+that now eight months later they may
+have even gotten that information from
+one of my own blog posts where I
+questioned whether we really screwed
+that up because we our prototype version
+of hollow chain and go was surprisingly
+functional and mature liked it it wasn't
+built with hardened security from the
+outset so we didn't really want to
+encourage people to run kind of
+enterprise level stuff on it we kind of
+downplayed its readiness but meanwhile
+it worked really well and when we went
+to re-implement and rust there were a
+lot of hurdles rust as a very strict
+language and we were sort of willing to
+bite the bullet on that because the idea
+is we wanted to make something more
+hardened and strict and that we could
+stand behind the security of and that
+spending time dealing with that
+strictness upfront may save you a lot of
+the security pains later from
+introducing whatever memory leaks
+vulnerabilities you know re-entrant code
+different kinds of problems that are
+especially challenging in distributed
+systems stupid applications and so there
+was that and there's the kind of
+maturity of rust and the rust ecosystem
+and the level of tools that were
+available and how they kept changing
+under our own feet as we were trying to
+use them but even worse we tried to use
+wasum or we were using Waze and
+webassembly so we're compiling rust to
+webassembly or
+would run in webassembly the idea being
+we wanted to be able to make make this
+in to be able to run in people's
+browsers and stuff and really bring the
+peer-to-peer web right into browsers and
+we were targeting a relationship with
+Mozilla in that as well although that
+hasn't advanced very very far for a lot
+of reasons but we just had this idea of
+like being able to actually run all the
+chain apps right in your browser and not
+may not need servers at all anymore
+and boom you know we've just made it
+super easy and easy to adopt and we've
+completely eliminated that threshold
+that barrier that is like in the way of
+getting into blockchain apps and such
+but wasum was a black box had created a
+black box but you couldn't really like
+debug the problems that were happening
+we had memory management problems we
+didn't really even know how to manage
+wasum x' memory effectively we would
+spawn more instances of Laza me end up
+using a lot more memory than we in
+retrospect now needed to so we've
+learned a lot in this process but it was
+definitely a huge delay and we
+implemented a bunch of these things I
+think using a pattern that it was kind
+of an anti-pattern for holo chain and
+that we were experimenting with running
+Redux as our state model in the local
+state system and I think that that
+tripped us up in a bunch of ways as well
+we actually have done a reset to a whole
+chain state model and things are moving
+much faster clearer and leave I mean I I
+would expect to see somewhere on the
+order of magnitude of 10,000 to 100,000
+times performance increase from this
+refactor but I think we lost a lot of
+steam we lost a lot of momentum in that
+process and I do regret now not actually
+taking the go prototype and building
+more of an ecosystem around it and
+having instead of it being kind of the
+main stream track having it be more like
+a skunkworks track to do the rust
+refactor where we've come out with a
+more hardened version but we
+put all of our attention on that problem
+was we wanted to build something that
+required the hardened security and yeah
+yeah well keep in mind you guys we
+talked about earlier HTTP HTML there
+were just piles of right terrible
+yeah and that but they somehow managed
+to build a whole Empire so yeah well I
+guess time will tell whether that was a
+fatally wrong decision or not yeah you
+know do you feel now that it's
+reasonable for developers to you know
+start looking at the Polo chain and your
+ecosystem to build real stuff what I do
+that we haven't actually released the
+refactored core yet but it will be
+highly compatible with the existing one
+and and much more performance so but so
+you can write apps now that will not
+need to change much to run on the
+refactored core so I think we're
+actually ready for for that and we've
+been putting it through the paces and
+unfortunately that's also been some of
+our delays and launching the whole of
+hosting network is really hardening holo
+chain before we can actually run a real
+hosting network on top of it because you
+know you know there's these two separate
+projects holo as a hosting network and
+holo chain which is a just an
+open-source peer-to-peer dap platform
+essentially and people confuse the two a
+lot because people assume that holo
+chain has a currency for example and it
+doesn't but the holo hosting network
+does and so yeah people complained the -
+well that's a perfect transition because
+that's my next topic on my list as we
+kind of wrap up having talked about holo
+chain and moderate depth ink enough for
+people to get a good sense of what it's
+about let's go there as I was doing my
+research I discovered okay we have holo
+chain but we also have holo holo Fuels
+holo port etc pop up a level and talk
+about the the ecosystem that you're
+building around holo chain and the
+various parts and what they do well we
+really had a commitment to try to bring
+p2p computing to the mainstream and for
+us that means being able to serve people
+right now the way they use the web
+where they can click on a link or type a
+domain name do a search right and
+something comes up in their browser and
+they don't have to know that they're
+dealing with sort of next-gen
+distributed tech yet they can dip their
+toes in the water and use it as a thin
+client where somebody else is kind of
+providing the peer hosting for them
+sorry let me back up and just say Holy
+chain doesn't have a built-in currency
+because we believe that we've segmented
+the problem space in a way that you're
+only carrying a load you want to carry
+you're only running an app you want to
+run like this like we were talking about
+your your company's slack app kind of
+thing right well you hosting each
+other's data for the 50 people in your
+slack team or something like that is a
+minor load and you're carrying it
+because you need to communicate with
+those people you don't have to carry a
+huge monolithic blockchain load of every
+other app in the ecosystem right just
+your own and even that one can be
+charted and broken up into smaller
+pieces right so we believe we already
+solved kind of that built-in incentive
+problem of people running apps but the
+problem is how do you bring in a
+mainstream user that isn't going to
+install some next-gen peer-to-peer
+crypto app and that means they're just
+gonna consume it on a web browser which
+means they're not kind of sharing the
+load which is the way holo chain is
+built it's built to share the load among
+the users and so then that means one of
+these other users kind of has to take on
+an extra load for the web user and
+that's where the whole o peer hosting
+network really kind of comes into being
+and why it came into being is a way to
+be able to take this stuff really
+mainstream and have the experience be
+like you type in your email and a
+password and you think you're logging in
+you are sort of what you're really doing
+is using that to generate keys and
+you're stepping into a world where
+you're now managing your own private
+keys and dealing with cryptographic
+applications that are decentralized but
+we're hiding all of that
+so that it just gives you the mainstream
+experience of using a website got it
+and I think that's critical for this
+stuff to be able to go mainstream and
+it's a huge industry right like the
+whole cloud hosting industry being able
+to host applications on peer networks
+and not give all your data over to
+Amazon or Google or whoever it is that
+you know that makes it easy for the NSA
+or whoever needs to come and file a
+subpoena to access your data you know
+link you're still putting it all in the
+centralized places even though
+theoretically you control those virtual
+servers right they're still under their
+control and this creates a way of
+actually having a resilient framework
+that the community holds itself so let
+me ask a question I think I know the
+answer based on reading the material on
+your websites you described holo as an
+Airbnb for holo chain apps so does that
+mean that holo itself will not actually
+have servers but it is essentially a
+switching system for other people's
+compute capacity or will you have some
+of your own servers or will it be a
+hybrid yeah so you know Airbnb sells
+more room nights or did I don't know
+what the current status of things are
+during pandemic but you know with
+selling more room nights than the
+largest hotel chains but never built a
+hotel we believe that in the dura in the
+direction that things are going toward
+more distributed daps and that kind of
+thing that applications that we could
+host on scale massive infrastructure
+without ever building a data center
+without by being able to tap into
+computing power where it is just like
+Airbnb taps into rooms and homes and
+things where they already are does that
+mean we will have no servers no there
+are some infrastructure parts that are
+still centralized for hollo hosting
+hello chain is way completely
+decentralized hollo hosting you still
+have to do things like resolve domain
+names which means there has to be an
+authority for DNS and now we
+we have taken the centralized parts of
+holo and we're running most of those on
+cloud flares infrastructure through
+their service workers and key value
+stores so even those centralized parts
+are split across thousands of servers on
+on cloud players you know 190 data
+centers and super performance super fast
+because we we want to again give us
+clothes and experience as we can - just
+using a website and so if we can resolve
+the domain name quickly route you to a
+host quickly you know then if that host
+has a slightly slower connection at
+least the process of getting there
+was as fast as we could make it and now
+you're getting some data served out to
+you from a peer host right and we're
+trying to make this as as seamless as
+possible to a web browsing experience
+okay let me just ask a scenario I happen
+to have a couple of surprisingly fast
+surprisingly cheap servers I bought off
+eBay one time I think they got eight
+processors each and four cores each it's
+kind of crazy what they'll do for a few
+hundred bucks could I somehow put that
+compute pool to work without having to
+worry about anything much and get paid
+for running my machines and you
+presumably running holo chain apps on
+that infrastructure how would that work
+yeah so that's where the currency comes
+in that I mentioned earlier is that
+there is an accounting system
+essentially for that host power so how
+that works is yes you can run that on
+your machines we also sold little
+devices that look a little bit like Mac
+minis you know they're small devices you
+can put on a shelf and plug into your
+internet router and run these hosts
+these things from home the idea there
+was it's kind of a plug-and-play system
+you have to put it comes with a USB
+Drive you plug in you go to a website
+and basically configure your keys and
+that all happens locally we don't know
+anything about your keys but you go to
+the website to pull down the software
+that that writes those keys to the USB
+Drive you plug that into the jolla port
+and boot it up and now you have a server
+running on the whole network
+and you could do the same thing with
+your boxes you bought on eBay you don't
+have to buy our hardware but you do at
+this stage have to run huh Laporte OS
+which is a NIC so s built that is how
+we're distributing the hosting framework
+right now it it loads up holo chain and
+sets up the tools for being able to
+install hosted apps and all that kind of
+thing and the problem is that we shipped
+out those holo ports in January and here
+we are in April almost end of April and
+the holo hosting network is not publicly
+available yet we've been still running
+tests behind the scenes and having some
+performance glitches and stuff as you
+may know distributed systems are hard
+and debugging distributed systems is
+hard and so we actually haven't opened
+the hosting network up to the public yet
+but that is the intention imagine some
+of those people about those holo ports
+aren't too happy yeah I imagine so I
+mean we know so yeah presumably they
+were buying them for the purpose of
+getting paid to host apps was that
+pretty much why they bought them
+yeah certainly some were a lot were
+really excited about the vision I mean
+we have a core community that is really
+excited about where we're coming from in
+what we're doing and very supportive of
+what we're doing in supportive of the
+pure hosted web vision and yes it'd be
+great to get paid in some crypto but I
+don't think anybody thought I'm gonna
+make my living off of running one one
+little you know a little Mac Mini style
+device connects in my internet router
+because if you could then everybody
+would do it and then price you get down
+and you'd be making an eleven cents a
+month right just for my own information
+because I am gonna build a polo chain
+app is there some benefit to having a
+holo port host my own app well the way
+that I envision this and this is is that
+yes you can put self hosted apps on your
+own Jolla port if you will on your whole
+whole port OS so the idea is that you
+could handshake between some of your
+other devices say your laptop and your
+phone and your Jolla port and the Jolla
+port then kind of becomes your own
+personal secure data backup of the
+things that you have doing
+going on on your phone and laptop and
+then you don't have to worry if your
+laptop gets stolen or your phone gets
+lost or goes drops into the toilet or
+whatever right with the key management
+if it got stolen you can revoke the keys
+and make a new set and pull things from
+your mykola port as your own personal
+data backup and regenerate your state
+you know you get what I'm saying right
+now I don't need to right go on with the
+examples but well there's a reason to
+have sort of like your own little stable
+box that doesn't get stolen when your
+backpack gets stolen or whatever yeah
+gosh and I could still peer with other
+people you know yeah whether they have
+whole ports or not right at cetera okay
+that's good so I think I'll get me a
+whole port when I start playing with
+this stuff
+bad besides you know me I'm a hopeless
+techie I always like to play with
+something new let's go on to another
+topic which I think there's a little bit
+of confusion about I'm still confused
+tell you the truth what is the
+difference between holo fuel which seems
+to be the currency for paying for holo
+distributed serving capability and your
+hot er c20 token so holo fuel runs on
+the holo chain and powers the whole
+hosting network and needs to be tuned in
+terms of its performance and price
+overhead to be able to do somewhere on
+the order of magnitude of millions if
+not billions of transactions a day we're
+running a hosting network if you have
+let's say I don't know 250 hosts serving
+your app and you have you know thousands
+of users coming in they're getting
+routed out to these different hosts
+those hosts are racking up small amounts
+of hosting that they sign to their hash
+chain they sign an immutable log kind of
+record with back-and-forth handshakes
+with the with the holo client that the
+web browser is actually using for making
+the request it's running in their
+channel JavaScript layer that's signing
+their requests right so that you end up
+with a log that they can provide as
+proof of service essentially that they
+were serving your app
+and that then becomes an invoice that
+you as an app provider instead of paying
+Amazon for hosting services you're
+paying this peer network for hosting
+services went and they send in this this
+invoice which gives you access to the
+log so one of the things that I don't
+know if you're thinking about what you
+have no idea what levels of traffic are
+even happening on your website in a peer
+hosted system unless you have a way of
+collecting this data to a centralized
+point right so the fact that they
+invoice you what they do is they give
+you a little key that lets you collect
+their service log for the services and
+then you can do your fraud detection on
+it or whatever that you want to do to
+make sure that they did the work but
+most importantly it gives you the data
+of the activity levels and what's
+happening in in your app otherwise how
+would you even know what's happening in
+a peer hosted app right like you don't
+have central logs anymore I mean of
+course we know logs are important or you
+know go on for tweeting rubble shooting
+and feedback and what people like and
+what they don't and what's working and
+what's not like you need this data for a
+lot of a lot of things right anyway so
+the whole Oh fuel is for powering that
+Network we need to be able to do very
+small transactions with low validation
+overhead in high volume so in other
+words you as as you know like you've
+gone you've railed before against the
+cost of Bitcoin like the cost of one
+Bitcoin transaction is like five
+American households worth of electricity
+for five days or whatever the thing is
+right it's it's massive we can't afford
+that cost for each one of these Colo
+fuel transactions we have to build a
+system that is highly efficient and I
+don't mean cost even in terms of a
+transaction fee I just mean overall
+system cost right because we're doing
+small micro transactions so we're tuning
+the currency to be a micro currency and
+there's probably going to be a cap on
+the size of transaction you can do in
+hollow fuel because the validation
+security behind it is only sort of up to
+a certain level there are certain
+types of attacks that if you wanted to
+invest a chunk of money and building a
+parallel computing network and that kind
+of thing that you could try to do on
+holo fuel but if you can only do that
+for a $1 or $10 transaction it's not
+worth spending thousands of dollars
+building a competing you know network to
+falsify the $10 transaction right so
+that's holo fuel the hot token was
+something that we did a community
+offering as a placeholder and we'll swap
+one-to-one into Ola fuel as the home of
+fuel actually goes into its beta launch
+and the whole hosting network goes into
+its beta launch those are the two
+different things so holo token is an ER
+C 20 token that lives out there on
+exchanges and it's the temporary thing
+and and as you mentioned and that other
+project has attracted a lot of people
+that you know love or hate us depending
+on whether the market is up or the
+market is down but that I don't think
+that's our core community as much yeah
+you literally you're gonna do a
+one-to-one exchange when the holo fuel
+goes live so anyone can convert a hot
+token to a one-hole of fuel token yeah
+there's gonna be a swap window at least
+a six month period where it's a
+one-to-one redemption okay now
+interestingly at least in my view I'm
+having someone thought about this least
+a little bit you may want to think
+differently about things like price
+stability on something like whole of
+fuel versus you know a typical er C 20
+token which is frankly mostly
+speculative you know have you thought
+about how you want the price of holo
+fuel to vary over time you want to be
+stable deflationary inflationary do you
+have a view about that or I think you do
+you thought you've designed a hundred
+currencies I imagine you have a view
+about that yeah as you know I'm a
+currency geek and part of part of what
+we were setting out to do with holo fuel
+is to provide some healthy examples to
+the largely what I view as unhealthy
+speculative patterns that are out there
+the kind of sort of token ah makes
+people have gotten in their head of just
+you create a bunch of stuff and try to
+then kind of hype it into people
+believing it has value and then you know
+some people get burned and some people
+get rich and you know it's not it's not
+a very safe space for mainstream
+business to operate though if I accept
+payment this week and the bottom might
+fall out 50% and I can't pay my rent
+next week in it right that's a problem
+for most businesses that are not in the
+speculation game they're not in the
+speculation business so holo
+fuel is designed to be anti volatile I
+would say value stable but people then
+think stable coin now they think it's
+fixed to an external currency it's not
+fixed to an external currency but it's
+driven by feedback loops based on the
+cost of providing hosting that the hosts
+have and there's real costs electricity
+bandwidth you know hardware and so
+that's going to create a real operating
+range for which the whole of fuel
+pricing is driven by and I don't know if
+you really want to get into all of the
+the currency dynamics here but it's
+definitely it designed to be a very
+different kind of currency than than the
+norm yeah okay that's good and I think
+that's probably a good place to wrap
+this up I still have some other things
+to talk about and frankly I'm a currency
+geek - actually I've spent eight years
+studying alternative currencies and
+actually designed a couple I'd love to
+have you back on some time just to talk
+about currency would you like to do that
+love to do that okay we'll do it that's
+also the space for Fernanda to be more
+included in the conversation yeah sorry
+for not that we didn't you know we kind
+of geeked out a little bit more than I
+thought we might but hey that's the way
+it goes that's what I like about
+polycast they are what they are I know
+it was great you went really would be
+two great questions and he'd flow the
+flow was really beautiful and so I got
+highly entertained thank you for being a
+entertained audience hopefully our
+actual audience will be as well
+entertained so thank you both art and
+fair Ananda or I think will be a very
+interesting episode
+oh thanks Joe production services and
+audio editing by jarred Jane's
+consulting music by Tom Muller at modern
+space music.com

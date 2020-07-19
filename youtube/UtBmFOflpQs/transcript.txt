@@ -1,0 +1,2568 @@
+howdy this is Jim rut and this is the
+Jim rut show this is the Jim rut show
+I'm Jim rut your host today's guests is
+Simon de deo Simon is assistant
+professor at Carnegie Mellon University
+in the Department of social and decision
+sciences he directs the laboratory for
+social minds he is also external faculty
+at the Santa Fe Institute Simon could
+you give us a brief overview of the
+department and your lab all right well
+thanks Jim social decision sciences it's
+Department here at CMU where we mix
+together the economic and psychological
+so we're interested in how people buy
+and sell obviously we're interested in
+how businesses work how markets work but
+we're also interested in how the mind
+works and in particular how the unusual
+workings of the mind intersect with the
+markets in ways you might not expect we
+tend to think of ourselves at least when
+we operate economically as rational
+people money is on the line and so we
+should behave well we mostly don't
+behave well particularly when we're
+confronted with situations that are
+somewhat counter to the things that our
+culture evolved to handle so out of this
+comes behavioral economics and this
+comes Thinking Fast and Slow behavioral
+heuristics and we're interested in the
+ways that those things go right in fact
+a lot of the snap decisions we make
+actually are pretty good and we're also
+interested in the way those things go
+wrong I come out of the Santa Fe
+Institute and when I was a postdoc there
+I wanted to study the ways in which the
+way we think scales up to the way our
+cultures work and at the time we did not
+have access to a psychological lab we
+couldn't do tests Mechanical Turk was
+pretty young and so I ended up turning
+to large-scale archives so things
+sticking around in places that
+historians tend to look as opposed to
+psychologists from there we ended up
+working mostly in text because we don't
+usually keep very structured records of
+stuff that happened in the past we tend
+to write down things that people say so
+the lab today we work on a range of
+projects some of these are contemporary
+so we look at online behavior we have a
+big project now on the men's seduction
+movement with Chloe Perry we have a
+project on the evolution of mathematical
+theorems so in fact now mathematicians
+are able to prove their
+essentially by writing a computer
+program so we can look at the syntax
+trees and out of that we understand
+something more about the proof that the
+square root of two is irrational and we
+work with some really big and deep data
+sets so a big paper that we had last
+year was on the French Revolution people
+kept records and transcripts of the
+debates that were held in that
+Parliament we've looked at the long time
+school evolution of the Criminal Court
+system the bureaucracy of the court is
+much younger than the need to actually
+solve our problems to punish people who
+do wrong and to redress things in a way
+to keep society going and so in fact
+most of the way we did justice certainly
+before let's say the 20th century was by
+talking to through so in each of these
+cases were looking not at a spreadsheet
+so much as a set of manuscripts and
+those manuscripts can get very very big
+so in the case of online behavior we're
+running a model right now that has 100
+million bulletin board posts and close
+to half a billion words French
+Revolution that long ago 40,000 speeches
+hundreds of thousands of words and so
+you might say we do data science but a
+lot of what we do actually is much more
+focused on the cognition of that process
+so the way people think and how the way
+people think scales up into the way of
+culture things extremely interesting I'm
+my professional life back before I got
+involved in science most of my projects
+were involved in text also we were
+always in a say back in the 80s in a
+small corner of Technology people
+dealing with text right I know I wrote a
+couple of full text search engines back
+in the day I wrote an automated spell
+checker in the early days really crude
+automatic tagging systems for my topic
+etc and only in the last 15 years has
+text processing really come into its own
+yeah I think 2010 maybe we had
+algorithms that came out in the early
+2000 so famously something called topic
+modeling and just the ability to use a
+computer to process a large archive when
+it's sitting on your desk really changed
+things even interact directly with some
+of the objects that come out of those
+algorithms it's funny in the end when we
+want to get something done we usually
+come
+talk it over right there's a reason
+there's the financial district and it's
+not just the light speed travel time of
+a of a market trade we think of
+ourselves as computers but I think we're
+more talkers than calculators I think
+that's right
+we're not very good calculators because
+we know a dollar ninety five calculator
+can beat our ass right but so far nobody
+has been able to automate this course in
+a way you know good enough to fool
+another person
+I think machine has trouble making a
+restaurant reservations and the other
+one not quite linguistic but it's kind
+of procedural as the Wozniak test for
+artificial general intelligence Steve
+Wozniak the Apple guy proposed one track
+which I like which is to be able to take
+your robot plunk it down in any random
+kitchen in America and have it
+relatively seamless figure out how to
+make and actually make a cup of coffee
+it's something most humans could do
+without any great distress right it's
+the kind of multi-variant
+pruning rule kind of problem that you
+know if a robot could do that we'd say
+pretty damn smart quick question on the
+text processing do you work with the
+linguistics technology people and
+Carnegie Mellon has probably the bastard
+arguably the bastard number two
+Department I would say the best chip so
+LTI language technology it's a fantastic
+place and you might say they build the
+Jets and we fly them so we're much less
+interested in the high tech side a lot
+of our algorithms that we use or maybe
+even 10 or 15 years old that's something
+you want right so if you run a chunk of
+Russian from in 1894 a machine you want
+to have a pretty good understanding of
+how that algorithm works so when I watch
+what comes out of those places super
+exciting and at the same time untested
+so if something comes you know straight
+off the assembly line at the skunkworks
+right you're not gonna take that into
+battle just yet so we work with a b-52
+much more often it makes a lot of sense
+of course that is the problem with a lot
+of state-of-the-art machine learning is
+that so much of it is now neural nets
+right and hence a black box and doesn't
+have the visibility the old-fashioned AI
+and linguistic processing item which
+frankly the end of the day was a
+bazillion if-then-else rules right
+we no longer have the ability to even
+look at the code and say what its gonna
+do I mean this is this is a big problem
+it's a problem for science right so for
+example if you run Russian through one
+of these algorithms Russian it's a
+highly inflected language and we don't
+really know what its representation is
+internally when it's speeding up the
+other side instead of semantic claims
+it's a problem for science also a
+problem for Policy right so machine
+learning is incredibly powerful it can
+help us make better decisions but in the
+end we want to be able to ask the people
+who govern us the why questions like why
+didn't I get a mortgage what's your
+problem why did you pull me over and a
+machine learning algorithm a it can't
+give us a straight answer or at least
+not a neural net machine learning
+algorithm yeah yeah I would always want
+to keep this clear at the moment the
+field is highly concentrated on neural
+nets personally I believe it's over
+concentrated in the same way that
+particle physics was over concentrated
+on string theory 10 years ago and I'm
+already starting to see in my
+conversations with AI people that
+there's a renewed interest in things
+outside of deep learning deep neural net
+neural net reinforcement learning
+paradigms but a lot of people when they
+say machine learning now are
+automatically linking it one to one with
+black box and neural net type systems
+yeah so you know Gary Marcus is a great
+proponent of what we I guess we still
+call a good old-fashioned AI right
+symbolic representations I will probably
+get to this in our conversation Jim
+right but this is perhaps the difference
+between biological evolution and
+cultural evolution we're really good
+we're getting better now at building
+machines that can do things that we
+evolved to do hundreds or maybe millions
+of years ago recognize objects avoid
+obstacles we're not so good at the kinds
+of things that we think are hallmarks of
+our species we're not so good at
+programming machine to reflect upon
+itself for example we're not so good at
+programming machines to communicate to
+another machine for example in a way
+that doesn't require a set of protocols
+and a really precise specification of
+the inputs
+I like that that if I heard you're right
+if so it's the first time I've heard
+this suggestion that perhaps neural AI
+is analogous to biological evolution and
+symbolic AI might be analogous the
+cultural evolutions I get there right
+yeah it's I mean it's pretty hard to
+learn to drive a car it's something we
+learn maybe you know in our teens or in
+our 20s there are things that children
+do well before they can drive a car very
+well than a machine still can't that's
+an interesting one right it's it's a set
+of feedback mechanisms much stronger
+than the mechanisms you'll find in a
+design system like a car interesting
+interesting
+yeah I've also been involved with some
+symbolic AI of late for the last several
+years have been affiliated to a greater
+or lesser degree with the OpenCog
+project been Gert cyl and his crew and
+they've been working for many many years
+on a symbolic form of AI but it's open
+and that can also include neural net as
+inputs and then essentially the symbolic
+components can orchestrate non symbolic
+component some sense is what we're
+trained to do when we grow up right we
+have instincts we have things that work
+very well in a world that is no longer
+around and we go to school and they
+teach us a couple of symbolic
+representations that help us get through
+exactly in fact the model I've been
+using think about how this intersects
+your cultural versus biological is that
+the neural net components approximately
+congruent with perception right and that
+symbolic components are more or less
+analogous to Kinnaman system to type
+thinking right and then the system one
+type thinking is something in between
+which is a little bit less clear to me
+we've learned a lot about system one
+from deep learning I think that's I
+think that's right
+one of the things that's quite amazing
+is when you pipe a image or a video
+through one of these neural networks the
+kinds of things it does on the way to
+producing an output is very similar to
+the kinds of things that happen in the
+visual system and the layers that take a
+retinal image and pump it all the way up
+into an interpretable
+I'm very happy to see just the last year
+and a half more and more people
+expanding their perception of what
+machine learning can be and starting to
+put a little bit more emphasis on some
+of the non neural net components at the
+end of the day my hypothesis is it'll be
+both as always right what's the answer
+in social science both right both in
+everything almost like a nurtured nature
+right people get so tied up in nurture
+versus nature so you idiots the answer
+is obviously both we wouldn't have the
+concepts Jim if they weren't constantly
+relevant that's probably correct
+all right that's a wonderful
+introduction Simon's a very interesting
+guy as you can as you can tell right
+this is a next topic we're gonna go on
+to something that I think I'm gonna make
+a feature of this show at least for the
+guests that have a relevant background
+and in addition to is very interesting
+work in data and society and cognition
+way back yonder Simon was an
+astrophysicist right guilty right and so
+I'm gonna have him talk a little bit
+about the Fermi paradox for those of you
+who don't know about the Fermi paradox
+the name Fermi
+for it goes back to Los Alamos where
+they're making the nuclear weapon first
+bomb during World War two and a bunch of
+really smart famous guys were sitting
+around the lunch table speculating on
+how many intelligent species there were
+in the universe and Fermi what the hell
+was his first name
+Enrico Enrico and Rico Fermi comes up to
+them and says okay where are they right
+and ever since this perspective has been
+called the Fermi paradox which is under
+some reasonable sets of assumptions you
+would assume there are many many
+intelligent species probably more
+intelligent than humans because they
+could have been around a lot longer out
+in the universe and yet despite our
+looking for the last 60 70 years with
+growing levels of sophistication we have
+seen absolutely no sign of them and
+there's a long list of thoughts and they
+kind of fall basically into two big
+categories one is they're not out there
+for some reason that's not obvious or
+maybe is obvious if you think about it
+and then on the other side is they're
+out there but they're not showing
+themselves or they exist in a way that's
+not easy for us to the
+TEKT and I've been fascinated with this
+question even before I knew the name of
+it since I was probably 12 years old and
+I read everything I can on the topic and
+try to keep up on it and I thought Simon
+would be a great guy to give his
+thoughts on the Fermi paradox where are
+the aliens aren't there any I think you
+set me up pretty well here Jim right
+because there are two large schools of
+thought for those who think there's no
+one out there
+Andrew Samberg has a really terrific
+paper where he takes essentially our
+best after physical knowledge sticks it
+through a Bayesian machine and he got
+the other side claims this is a 15%
+chance given our best knowledge that
+there is nobody out there at least not
+in our galaxy anders takes the Drake
+Equation and just tries to factor in our
+uncertainties and our uncertainties are
+extremely large though not a bell-curve
+distribution right it's not that we know
+these facts plus or minus one we
+probably know them plus or minus a
+factor of 10
+so that really changes once you
+understand how weak our knowledge is of
+say even something like planet formation
+you can get a lot more skeptical about
+the idea that they should be out there I
+think they are out there Jim and I think
+they're actually here in a funny sense
+we know that if you stick an organism in
+an environment and have it evolve
+we're pretty confident that it's going
+to look reasonably similar to the stuff
+we have around here the visual system
+let's say of a bird is at least in its
+mathematical properties very similar to
+the visual system in a human being and
+we were just talking about very similar
+to the visual system in a self-driving
+car so at that level I think that
+they're around or if they were around we
+would be able to spot them pretty
+clearly but once you go to the symbolic
+level once you ask who are we as
+thinking species you can't build a
+faster than light drive with a deep
+neural network I think you and I would
+probably agree on that
+once you evolve the symbolic
+representations that you need to get
+things done all bets are off when a
+machine or a human being or any kind of
+creature can reflect upon itself
+what comes out the other side is
+completely unpredictable the mines that
+we would encounter would be to my mind
+things that we would have a great deal
+of trouble recognizing so I think we
+would have a great deal of difficulty
+recognizing the very things that we're
+looking for if we could go to a planet
+with life on it I think we'd spot it
+pretty quickly we'd have an out of
+equilibrium system there would be
+something like oxygen there be a set of
+batteries probably coming out of their
+nearest arm but if we look for the
+symbolic products which is what we do
+when we we turn on a radio telescope
+when we run something like the search
+for extraterrestrial intelligence we
+look for radio signals we're looking for
+signals that would be created by
+something similar to a human mind if the
+monkey says David Brin would describe
+the monkeys got uplifted if the Dolphins
+got uplifted we would probably you know
+ruff gasps we'd probably be able to spot
+it but I think if we saw a communication
+from a living organism that had evolved
+beyond our planet I think it would
+probably drive us mad and my guess is is
+we're running some pretty good filters
+to keep us outside the realm of being
+able to see them the psychologists
+wonder a little bit about this right why
+do we have such a theme of alien
+abductions you go back further and
+further and you look at me these are
+essentially religious experiences that
+people have those experiences tend to
+drive people a little bit rather than so
+like I say I wouldn't be surprised when
+I was at Arecibo we had Serendip the
+search for extraterrestrial developed
+industrial populations right so this is
+a very ambitious project my guess is
+we're getting a lot of signals from the
+guys out there and we just don't quite
+know what to look for interesting I mean
+I'm kind of surprised that there aren't
+mathematical techniques to be able to
+distinguish noise from signal
+irrespective of how it's encoded so this
+is a great one actually Chris Moore at
+the Santa Fe Institute this was a paper
+I think he wrote when he was quite young
+the most efficient encoding the best way
+to get data from one place to the other
+given a particular
+where transmission power is also the
+maximum entropy distribution and what
+that means essentially is that if
+somebody's really good at communicating
+it's going to look like a warm light
+bulb there's a lot of inefficiencies in
+the way in which we transmit information
+right now if we're really good at it if
+we're able to compress what we want to
+say efficiently out the other side it's
+actually going to look purely random
+interesting it's thinking out loud here
+suppose the Society's a billion years
+old
+and has essentially codified huge
+amounts of structures of thought right
+and so essentially communication is
+really sending codes to a lookup table
+in this vast tree structure of thought
+and knowledge and codes do look exactly
+like noise that they're well designed
+exactly I mean if there's any pattern in
+communication you should be able to use
+the pattern to make the communication
+shorter if you have a repetition you
+don't repeat you just make a notation
+yeah the Society's been old so I'm going
+to think about if we were able to codify
+everything we knew over a billion years
+and everyone in the galaxy shared this
+semantic net right probably not too much
+it hadn't been explored in a billion
+years other than the recombinations of
+the things in the trees this is a great
+point right so one of the things that
+comes up when people talk about the
+Fermi paradox is the incredibly short
+time scale of cultural evolution
+compared to biological evolution it took
+us a long time to get from the sponges
+well this is something David Krakauer
+talks about right we spent a long time
+as sponges before we really got our
+multicellular act together but we went
+from you know a lifespan of 30 years no
+written language no cities no culture up
+to where we are today mastery of quantum
+mechanics mastery of the electron and
+not even the blink of an eye it's a time
+scale on which biological evolution has
+almost no handle maybe lactose digestion
+right so the Fermi paradox says we'll
+look you know if you pick a civilization
+at random it's really unlikely that
+they're going to be in this very early
+childbirth phase so you know chances are
+they are millions of years old we have
+trouble predicting the next 10 years so
+I think on the one hand people say
+they're so old that
+you know flying around the galaxy and
+warp-drive that may be true but the
+thing that's just as old is not their
+technology but also their culture and
+their minds and we have a lot of thermal
+sources sitting out there in the galaxy
+we have a lot of things that look like
+warm stuff and maybe some of those are
+broadcasting interesting you know as a
+typical 12 year old nerd I of course
+assumed they had to be out there right
+and all along I always assumed they had
+to be out there until I started
+seriously researching the Fermi paradox
+and the arguments on both sides here's a
+couple that make me go hmm this is a
+actually I kind of refined this idea in
+about a 4-hour conversation with Stuart
+Kaufman one time which is you're
+obviously familiar with the era
+catastrophes and evolution when error
+rates are too high for our audience in
+an evolutionary system you copy things
+into the next generation and you copy
+them with a higher lower level of
+fidelity our current DNA system is very
+good it's only a few errors per billion
+until you get to that rate something
+close to that rate evolution doesn't
+work very fast you can't evolve a very
+complex structure with a high error
+rates called the era catastrophe I don't
+remember the exact threshold level where
+you have to get to before it evolution
+to take off but it's pretty high and so
+this conversation with Kaufman was all
+right just do what I by autocatalytic
+networks right which is Stuart's
+theory on sort of the pre evolution of
+life that network can replicate
+themselves and become a standing
+chemical wave essentially but I said how
+do you go from low fidelity copying to
+this massive machinery we have in our
+DNA to have high fidelity copying which
+then allowed evolution to really ratchet
+itself relatively rapidly as far as we
+know all the life that we know about
+today all the way back that archaea you
+know the most primitive bacteria they
+all use the high fidelity copying DNA
+system how did we jump from
+autocatalytic chemistry you know
+chemistry in a warm pond to this very
+complicated machine
+and maybe it's exceedingly rare there is
+you know filters we talked about right
+there are big lucky accidents in the
+modern era some of our big lucky
+accidents are course cultural the Cuban
+Missile Crisis ended as with the whimper
+not a bang I think of evolution right as
+a conversation among a bunch of
+organisms right we're all sitting around
+a table we're talking some of the ideas
+are better than others and maybe one way
+to think of the era catastrophe is how
+do you keep that conversation
+sufficiently on track and if you keep it
+too much on track if if the ideas aren't
+coming if people are simply rehearsing
+and repeating what's come before nothing
+happens but if that group starts moving
+too quickly it becomes chaotic you leave
+the room at the end of the day and
+you've got nothing done and so there is
+a balance there's a balance between
+change and comprehensibility there's a
+balance between making sure your body
+plan looks roughly like my body plan
+right the old joke is you know if a cow
+gives birth to a calf and you've never
+seen a calf that looks like that before
+it's not going well for that calf right
+so we need some stability but we also
+need evolvability we need the chance for
+things to change and that change is
+always stressful most mutations are
+horrific events for us but once in a
+while someone takes a hit for the good
+of the species
+so to speak and off the other side we
+get something new great well I think
+that's it for Fermi paradox we're not
+going to solve it today but very
+interesting topic but let's pick up this
+idea of noise versus coherence right and
+let's talk a little bit about social
+media right and I know you've done some
+work on block lists if you could tell us
+what block lists are and how they relate
+the social media and maybe some
+speculation about their goods and/or
+they're not so good right so you know
+we're a 99% speculation lab right and
+then maybe once every hundred days we
+actually get something done social media
+just on the biggest scale right Jim is
+evolution sped up by factors of hundreds
+tens of thousands and that's happened
+very very quickly you know Wired
+magazine I was a junkie
+the stuff in the 90s Wired magazine it
+puts out an idea right you know
+William gives some rights that article
+and you read it and it blows your mind
+and you do something with it but in
+order to get the feedback into that
+system if I want to take Gibson's idea
+and do something with it
+let's say I read a letter back to Wired
+okay that you know the magazine comes
+out I go to the store I buy it I write
+the letter I mail it in wire decides to
+pick it up they write something so you
+know it takes about a month let's say
+takes about you that's the time scale in
+publication we're now down to time
+scales a minute right you know if
+William Gibson's on Twitter and he says
+something I can get right back as soon
+as I see it 53 seconds after he's
+written it and so if you look at what
+the time scale factor right so you know
+by how many factors have we sped up
+cultural evolution to go from a
+timescale of a month to go to a
+timescale of a second or a minute if we
+had sped up biological evolution by the
+same amount we would have gotten from
+the dinosaurs to us in about 5,000 years
+so I think we're I don't think we're
+ready for what's unfortunately or
+fortunately already happening we're well
+beyond the kind of world that we were
+used to in the 1990s and social science
+has to change we can look in the past
+and what we see is a movie on incredible
+slow motion so social media when I study
+social media I feel a little bit like
+somebody studying the DNA replication
+mechanism right in order for an organism
+to make a copy of itself has to do all
+sorts of fun things and all sorts of
+unpleasant things and you know that
+happens with nine months six months
+twelve months depending on the species
+nowadays not only does it happen faster
+but we're developing new mechanisms
+we're inventing new ways to make those
+copies new ways to keep those copies
+faithful new ways to make those copies
+to break them and reform them comment
+here when we go back and compare wired
+to Twitter let's say you write your
+letter back to Wired something is very
+different in that model than the current
+model which is there's a curator in the
+loop as a filter there could be a
+hundred to
+hundred letters into Wired they might
+publish one write on Twitter
+everybody gets their say right good
+batter and different there is much less
+curation going on at least in the raw
+sense perhaps what we're searching for
+our emergent Bottoms Up curation tools
+that allow us to mold the social media
+environment so it is more positive than
+it's been today it's right you might
+think of Wired as an incredibly well
+engineered multicellular organism right
+there's a head there's a stomach in
+accounting in some sense we've devolved
+right we've broken apart some of those
+institutions and we're much more like a
+soup that soup ran from let's say the
+Usenet era probably into the reddit era
+but and this gets to your question both
+directly after a long detour what we're
+seeing now I think is people
+rediscovering mechanisms to produce
+stable institutions that last 10 years
+and perhaps even a hundred years so for
+awhile for example we worked on
+Wikipedia Wikipedia is as probably with
+the financial markets Wikipedia is
+something that works in practice but not
+in theory and we don't have a good
+theory about how they created an
+incredibly stable and largely functional
+institution it has the same problems
+that any government has it has
+unfairness it has rebels that has
+protests but Wikipedia probably was the
+first example of the post soup era for
+social media for social interaction
+online we had maybe okay early 90s
+people imported the structures from the
+institutions around them which were
+mostly university institutions people
+were online because they were at a
+university they got their account there
+AOL comes along and the system
+completely decomposes right so those of
+us of a certain age talk about eternal
+September the day when the new people
+came and they never stopped coming
+Wikipedia was able to handle that new
+era and we're very curious about
+essentially what we think of as a common
+law system that emerged it's not a
+Napoleonic top-down code Sibyl it's a
+much more informal way of resolving
+disputes but not just resolving disputes
+keeping the system
+running finding ways to provide
+restorative as opposed to retributive
+justice so okay let's go into Twitter
+right so Twitter is in some sense even
+more difficult to run than Wikipedia
+Wikipedia always had a goal right no one
+was quite sure what that goal was but
+they all knew they had a goal and
+sometimes they fight over it it's not
+quite clear what Twitter's goal is and
+so out the other side people have
+produced mechanisms for forming
+societies for forming groups that are
+reasonably stable even in the absence of
+a of an idea of where this is all going
+one of the things that we noticed and
+this is partly just being online but
+it's also partly talking to people what
+we call qualitative research what we
+noticed is this new phenomenon of
+bottom-up censorship we're used to let's
+say Facebook or Twitter cutting people
+out of a conversation their corporations
+they have to do it right you can't have
+a free speech zone online if that
+company also has to answer to
+shareholders and to the people who could
+sue them if they have to answer to the
+advertisers it's just not possible right
+it's not the Agora it's something far
+more like a cafe right if you go into a
+cafe and start saying some weird stuff
+you'll find yourself kicked out so we're
+used to the top-down censorship what we
+started to notice was the creation of
+what are called block lists so on
+Twitter you know give a few and I really
+get into it at some point you might
+decide to block me right and so blocking
+is the individual level version of
+disappearing right you tell Twitter
+erase Simon completely from my
+experience I never want to see him I
+never want to see people reply to him I
+never want to see him retweeted I don't
+want to see commentary on anything he's
+saying and by the way if he wants to
+talk about me the game over - right so
+he can't see me as well as I can't see
+him so this is something Paul skele so
+Twitter friend of mine talks about he's
+a classicist right the Romans did this
+right you'd do something bad enough they
+just they scrub you that you can't
+mention their name any document any
+statue of them is done so you can do
+that on an individual level and you know
+if you have people who think the way you
+- and who are equally irritated by me
+they might also choose to block me what
+we saw emerging were these shared lists
+these shared black lists that people
+were creating so let's say I'm a member
+of a particular community I don't know
+let's say I'm a hardcore Democratic
+Socialist American guy right or let's
+say I'm a hardcore you know Jordan
+Peterson Joe Rogan titrant instead of
+going through the trouble of eliminating
+from my life the people who disagree
+with me and in a way that I find
+upsetting I could look at what my
+friends are doing I can look at the
+people who are blocking them and I can
+essentially say look give me your list
+and I'll just copy it over and so now
+what you have is not an individual level
+decision but in fact some kind of
+distributed curation of a filter bubble
+so we knew Facebook was creating these
+we knew that Facebook in order to keep
+you online was presenting you with
+information that you wanted to encounter
+the friends you agreed with we didn't
+like it we thought this was a problem
+and what we see now is people creating
+their own bubbles and they're creating
+those their own bubbles by consensus
+they're not just Fanning people but
+they're giving other people the
+opportunity to ban exactly the same
+group so they're forming in some sense a
+negative community negative in the sense
+that they don't know who's in it but
+they certainly know who's not in it I
+don't think we know yet what those block
+lists are going to do we have science
+fiction stories of this we have cases
+where a community shuns someone puts a
+scarlet A and kicks them out into the
+forest well here we go right let's see
+what happens Jim let's see what these
+distributed village style mechanisms
+will do when they happen not on the
+scale of a hearth or novel but on second
+time skills interesting first I'd like
+to remind people that the online world
+didn't start in the nineties thanks Jim
+I
+I actually would work for a company
+called the source in 1980 which was the
+very first consumer online service we
+had essentially everything that's on the
+web today at 300 baud character mode
+only ten dollars an hour just about as
+fast as you can type and we quickly had
+tens of thousands of customers and
+eventually hundreds of thousands because
+there was nothing else like it in the
+world
+soon CompuServe came along and so it's
+just useful to remember there's someone
+should write a book on this the
+prehistory of online because there's
+actually several generations before AOL
+even prodigy the Delfy I think Adelphi
+yeah yeah well say you know Jim this is
+this is great right it's a great it's a
+great story I remember I gave a lecture
+on Wikipedia and I had a young guy come
+up to me who had collected a lot of the
+old bulletin board systems and in fact
+they had these were things he dialed up
+right they were the local kind of things
+to remember from the wargames era and
+they didn't even developed a packet
+switching mechanism people would dial up
+that all the systems would dial into
+each other and share things they're a
+little bit like Usenet no centralized
+server one thing I'll say Jim and this
+is you know for you and your your
+colleagues who are in that world we're
+losing all those archives that stuff is
+disappearing because when a company
+shuts down there's really no incentive
+for them to spend any sort of money
+creating an archive saving it to disk in
+a sustainable way that we can look at
+we're doing work right now even in the
+90s looking at the early Usenet postings
+this is to get a handle on the origin of
+some of these these online seduction
+community sees men seduction communities
+and we can't get stuff from let's say
+1993-1994 some of its held by Google we
+convert you know we have some guys who
+maybe shouldn't be scraping Google the
+way they're scraping it but this stuff
+is is disappearing in a way that stuff
+didn't disappear in the 18th century
+right that's very intricate I have a
+very interesting example very good hit
+me yeah I've been an active member of a
+probably the oldest surviving commercial
+online community called the web
+yes well in 1985 especially a spin-off
+of the whole earth review Stuart brand
+Larry brilliant that crew I've been a
+member since 89 so I'll be my 30th
+anniversary this year until recently I
+was on the board helping them keep their
+ somewhat straight but anyway
+somebody recently suggested that I
+talked to the British Museum who was
+saving these old online services
+unfortunately I reached out to the
+archivist and he said we only have a
+remit for British sites so I need now to
+think about who probably Library of
+Congress because the well is continuing
+to dwindle it's kind of becoming the
+Colonial Williamsburg of the Internet
+it's still a very interesting place to
+us the highest quality discourse but
+it's only a few thousand people a couple
+thousand people now and eventually
+actuarial science will take its toll and
+it may well close someday and it would
+be a horrible shame if the well archive
+is not preserved the Sumerian things
+came out of it including the e FF Wired
+magazine Craigslist we're all ideas that
+were brooded on the well back in the
+very early 90s when it was almost the
+reactor where ideas about what the
+internet was gonna be 90 91 92 were
+happening I should say so actually an
+old colleague of mine Jamie Murdoch we
+work together as academics so Jamie
+spent some time with the internet
+archives so there are some nonprofits
+that run this stuff you know a big trunk
+is he put something on a cd-rom and it's
+gone in 15 years Internet Archive has
+the servers has the reliability that you
+need but even the curation is hard it's
+really difficult to scan through a
+million things threaded together with
+some ad hoc database system that was
+invented by a guy in between you know
+hanging out in the mission I was on the
+East Coast in the 90s and we had the
+dirtier meaner grittier grungier version
+of the well called nine box so mine box
+was a local system to the New York City
+area round about 1996 I logged onto mine
+box ad there was just a message on the
+screen that said we're shutting down
+good luck we'll refund any stuff that
+you've sent us pro rata the guys running
+right as far as I can
+they got into some pretty heavy drugs
+and so the discussion boards we had
+there you know we had the iron cross
+symbol of tyranny which was what
+happened when he posted something that
+was too insane or too crazy even for my
+inbox but as far as I know that that
+world of and these were some of the most
+interesting intellectuals in New York
+but also some of the craziest
+drugged-out people in New York I think
+we've probably lost that forever now
+I'll say I'll just tell you started
+about this gym you know on my wall I
+have a pamphlet from the French
+Revolution this is a piece of paper
+that's stuck around since 1792
+pick it up on the banks of the sin paper
+sticks around I can look at it I don't
+need a special interface to read that
+thing we don't have the kind of
+interpret ability and readability that
+we got from paper and colleague of mine
+Tim Hitchcock says look you know 20
+years 30 years go by we'll have a better
+way to preserve this but you know these
+are the Babylonian tablets and they're
+getting broken yes it's something we're
+thinking about I'm gonna give some more
+thought on reaching out and see who
+might preserve the well so interestingly
+I was gonna reason I thought about the
+well is we had a precursor of block
+lists ah well it was written on it's got
+a web interface but the underlying
+mechanism is a command-line UNIX system
+and about 20% of the users still use the
+command line I've almost thought it'd be
+funny to offer a channel on twitch to
+show kids today people are actually
+doing work on a command line logging
+into PI right and doing using a thing
+called picot span which is what the well
+actually runs on the web thing is kind
+of a magic fingers beast on top of Pico
+span but anyway because it was written
+in this crazed Sicily users could
+augment it and add new functionality and
+one of the things that was developed
+probably in the early 90s 1993 I can
+look it up and find out when exactly is
+called bozo filtering you could create a
+a file in your directory called dot Bo
+so I think it was and you put the
+username everybody has a eight up to
+eight character username you know thing
+right no spaces allowed my username is
+mimetic double though just mimetic on
+the well I'm eme t I see and you put
+somebody's name and a bozo filter and
+when you're reading they're essentially
+the forums it'll say blah blah mimetic
+Donna time date etc and then in line
+I'll say this comment has been bozo
+filtered right so it's not a complete
+make you disappear but it makes your
+content disappear in the context of the
+discussions and you can unbowed people
+you can bozo them as we would say it was
+actually quite funny I will say I took
+the position from early on I will never
+bozo anybody and I never did all right
+this goes all the way back to you know
+basic psychological drives right when we
+talk we want to be heard and you look
+online and when people discover that
+they're blocked it's a painful thing and
+you would think I mean just sort of you
+know if you're a purely rational guy
+it's like somebody hates me so much they
+don't want to hear for me well I
+probably don't to hear from them either
+right you know screw you too buddy but
+there's something really deep in us the
+need for recognition this is you know
+the high Galleon story right the the
+story of history is the story of us
+figuring out ways to recognize each
+other in increasingly sophisticated and
+sustainable ways we had that we had the
+bozo filter at mine box dark her name's
+called the kill file right
+and I wonder Jimmy know a the thing
+about the block list right is that they
+can circulate and so I abetted new bad
+ones you were talking about it cuz I'm
+interestingly though I follow the stuff
+fairly closely I did not know about
+block list until I looked on your site
+and saw that you had done some research
+about kind of a light kemal on okay this
+is a whole new level of evolution in
+that these things are replicatable
+they're mimetic right and so what does
+that mean well I mean if block let's
+keep going and you know most of us we
+said this about biological evolution
+right most ideas die there's a reason
+they didn't do it that way
+the idea of block list particularly
+since you tell me that this has been
+running in the well since the 80s and
+this might end up being a permanent
+feature of the online world
+you know if the online world is where
+culture is happening now this may be a
+driver it may be something that that
+fundamentally influences the way in
+which we create ideas and the way in
+which our culture evolves I will say my
+initial reaction to it was I find it
+preferable to the top-down censorship I
+mean you said yes we have two halves or
+we will have censorship on the platforms
+yes at the limit but I suppose my own
+gut level reaction is that we ought to
+encourage that to be as little as
+possible and then again this is a huge
+tension right I'm in the middle of a
+number of Facebook arguments about this
+right you know my own list is we should
+ban calls to violence against anybody
+right either personal or by group
+platform should ban discourse that is in
+bad faith now this is unfortunately
+difficult which is this person post
+something they know to be untrue but
+they do it anyway and they don't do it
+satirically you know the Pelosi thing
+could have fallen into bad faith though
+those who retweeted it or posted a link
+on Facebook may not have been bad faith
+so it's very complicated
+third is misrepresentation of who you
+are and this gets into the vaster
+question of should there be an anonymous
+posting or not right now Twitter being a
+cesspool of anonymity Facebook at least
+attempting to produce an emergent
+network identity of some reasonable
+vitality which of course they're always
+fighting infiltrators and oh yeah and
+then the fourth this is again tricky
+poppers paradox of tolerance right which
+is perhaps we should encourage the
+banning of people who want to suppress
+free speech or to reduce the civil
+rights of identifiable groups but other
+than that I would be in favor of
+tolerating pretty out-there stuff it's
+an interesting way right I mean the
+American legal tradition right Sullivan
+versus New York Times we have a sense
+that malicious lies are grounds for a
+suit we have in some sense a good faith
+exception I spent time in Britain
+Britain does not have a robust free
+speech tradition you can get arrested
+for
+saying things that are racist you can
+get arrested for saying things that are
+homophobic the Official Secrets Act I
+mean there's a whole lot of things yeah
+you sign the wrong piece of paper right
+and I find at this point in time I find
+written to be an increasingly
+uncomfortable place to think and to
+speak it hasn't stopped anything it
+hasn't prevented the emergence of really
+extreme views and really extreme
+expressions of those views what it does
+do and maybe this is just me being too
+much of an American it has what we call
+a chilling effect even the knowledge
+that somebody out there is evaluating
+what you're saying is something that
+prevents you from thinking clearly it's
+something that prevents you from
+exploring ideas right out to the edge
+the distributed nature is tricky to
+write and this is something that happens
+much more in Britain in the United
+States although it happens and you know
+the most British places like New England
+liberal arts colleges is deep
+platforming or no platforming and this
+is something where you know people show
+up and scream and bang drums and and
+chant to prevent a speaker from giving a
+lecture and people that you and I would
+think of as you know radicals but
+reasonably innocuous radicals in the
+sense that no one's gonna kill anybody
+because of what Camille Paglia says
+right no one's gonna kill anybody
+because of what Germaine Greer says and
+yet both of these people have been no
+platformed or at least in the case of
+Amelia's case said people have attempted
+to no platform them you can't stop an
+army with a law very well at least and
+so if there is going to be some
+consensus at least within groups of the
+limits of speech it's gonna have to be
+something that itself evolves the
+paradox of Tolerance is something that
+sits out there but even just getting to
+tolerance is a huge achievement for a
+group I must say I am very disturbed by
+the deep platforming movement right and
+the high high irony that perhaps the
+hottest deep platforming Center is
+Berkeley right the home of the
+free-speech move rehab peace movement
+and again this you know these people you
+might disagree with them but it's funny
+it's left and right it seems to be you
+know it's like getting the flu right
+it's unclear what you have to do wrong
+to end up in a situation where you can't
+speak on the campus of a State
+University like how bad it has to be I
+think people are usually surprised Jon
+Ronson had a great book you know so
+you've been publicly shamed I mean we
+have not just the big figures not just
+the people who've written books
+I think Peggy Lee by the way came out of
+well she was on salon for many years and
+that came out of the well that was one
+of your spin-offs but you know people
+who are far less you might say important
+in the and the kind of are you gonna
+make the New York Times sense also fall
+victim to this it's hard to say where
+that impulse comes from and maybe the
+better way to say it is we have that
+impulse it's hard to say why it's been
+weaponized and magnified in the way see
+see online I think it's extraordinarily
+dangerous and gets us inching towards a
+possible civil war right I mean
+literally I mean you start trying to
+shout down someone like ben shapiro or
+you know charles murray
+i mean whether you agree with them or
+disagree with them they're within the
+context of reasonably serious speech and
+they're not threatening anybody they're
+not operating in bad faith as far as i
+know and the other side starts to apply
+the same rules where does that end up it
+ends up with blood in the streets in
+fact i wrote a short story called blood
+in the streets guys you can find on my
+medium account under jim rut that talks
+about it's actually two linked short
+stories about a series of backs and
+forth between an Tifa and trump
+supporters that essentially ends up in a
+the beginnings of a civil war so it
+could happen back in the day we had a
+pretty clear dividing line between north
+and south here in pittsburgh I used to
+teach at Indiana University the
+geographical separation of the people
+who would start shooting each other is
+on the order of yards as opposed to
+hundreds of miles it'd be more like the
+Syrian or Spanish civil wars it would
+been around
+you at civil war you know the Spanish
+Civil War had at least 10 factions the
+Syrian civil war many more than that I
+think I you like to think that Americans
+are too sensible you know we're as a
+country I think ideologically pretty
+weak and of course it's what drives the
+people on the far left and the far right
+kind of nuts right weird we're not so
+quick to sign on to ideas we're pretty
+quick to sign on to ways to exploit
+people economically and those go pretty
+far and of course they go back to the
+founding but I think this one is
+hopefully going to be more comedy than
+tragedy now that would be very hopeful
+and very good alright let's move on to
+our next topic
+someone Simon and I both know reasonably
+well Murray gell-mann one of the great
+scientific minds of the 20th century
+recently died I guess was last week and
+just an amazing character when I showed
+up at the Santa Fe Institute in 2002 and
+Murray at that time was probably 70
+something like that and was still
+probably the second smartest person I
+had ever met who counted again who's who
+beats Mary Smith and this is at age 70
+right and I'm not talking about you know
+waited for age I'm talking about
+absolute smart right and if you know
+that Eric Schmidt he's like ah I tell
+people you know you want to know what
+humans 2.0 might sort of look like go
+talk to Eric right yeah well Eric Eric
+if he's if he's hearing this he's
+squirming in his seat because you know
+these these advanced mental technologies
+also come with a high level of humility
+in his case you know Murray is I mean
+it's you know I a lot of us we were very
+sad to see Murray go I showed up at the
+Institute and Murray was sharp as you
+ever wanted somebody who loves it
+not just won a Nobel Prize but one sort
+of one of the you know if there was a
+Nobel Prize for Nobel Prizes I think
+would have had a pretty strong shot at
+it you know there's there's the classic
+Apollonian diet ICN split right we have
+richard fineman on one side and we have
+murray goemon on the other and in terms
+of people vying for the image of the
+particle physics the physics style hard
+science personality they were both very
+larger-than-life right I think we under
+ate Murray as just in terms of pure
+personality you know phiman he played
+the bongos he picked up women he was you
+know everything that you wanted out of a
+madman character Murray was extremely
+cultured guy right
+Simon was somebody who essentially
+thought culture was literature art music
+of any level of refinement was
+fundamentally a feminine occupation
+right fivin was with somebody who you
+played dancer the Dacey's he couldn't
+handle it Murray was somebody whose
+ability to think through and appreciate
+art and literature the products of the
+human mind was I would say just as much
+off the scale Murray was somebody he was
+involved in the MacArthur Genius grant
+for many years he was one of the first
+members of the board and you and I both
+know him Jim Cormac McCarthy was one of
+the first recipients of an award that
+changed his life he'd written suitry but
+he his greatest work was in the future
+and without question Murray was involved
+in that decision we never know right
+these guys are pretty secretive about it
+but to be able to spot a talent like
+Cormac McCarthy that early Richard
+Fineman gonna done that right I mean
+Mary was he he had a vision that along
+artistic lines along human lines that I
+think I've never seen a scientist with
+that with that level of ability we love
+the the wacky fireman character right we
+love the fact that he had a really thick
+Brooklyn accent Murray can rub people
+the wrong way who used to rub people the
+wrong way because he also to a great
+deal about your mind as well but I think
+he's Murray I think is due for a
+reevaluation in the coming
+I was always amazed at his breath he has
+a dinner companion he could talk on
+almost any topic in amazed as you say
+both cultured and erudite at the same
+time right to this degree there's a
+difference between the two but the other
+interesting thing about him and unlike
+other some other characters like that he
+was happy to admit he was wrong on three
+occasions when I was having a discussion
+with Murray he somehow wandered into one
+of my patches and made some strong
+statement and I took him through the the
+thinking and the logic in the evidence
+and he said you're right I was wrong
+three times I mean you know people of
+Murray's sort to do that I mean he
+really is was intellectually honest in a
+deep and fundamental way as well as
+unbelievably broad I mean there's almost
+no topic you could bring up that Murray
+didn't have a reasonably informed
+perspective and a surprisingly large
+body of information about how you kill
+your crusher like you know Barry got a
+defined wines right forget it right your
+duck right I'll just I'll drink Jameson
+you know it's Murray I think in the
+modern era right we have and you look at
+people online you look at people in the
+newspapers I think the basic split here
+is between debaters and thinkers it's
+really fun to watch a really good
+debater just crush something right but
+if you are good at debating you're good
+at defending a set of ideas that may be
+wrong and the the way to lose the debate
+is to say well Chris hasn't thought of
+that you might be right that's not a
+debate move that's gonna keep you on a
+podcast it's not a debate movies gonna
+keep you on a TV show
+Murray was not a debater right he was
+not somebody who'd come in with an idea
+and you know walk all over anybody he
+was a thinker and he was somebody who is
+great to have at a dinner party great to
+have on a long hike but he's not
+somebody who would have the you know 50
+million follower account on social media
+I think that's probably correct though
+he did have one
+item that I was aware of that he was
+very doctrinaire about which his hatred
+of mathematicians came from I don't know
+because obviously the boy was
+extraordinarily talented now in
+mathematically with in any kind of
+discussion about mathematicians he like
+throws well this I mean you know that's
+one thing he had firemen had in common
+Marie I mean okay what a Marie Jeremy
+did many things I think sis of course he
+he developed the mathematics behind the
+structure of the proton right he
+discovered discovered invented whatever
+you want to say quarks my understanding
+was I mean so he used the chunk of
+mathematics Li algebras it's called my
+understanding is Marie just had to dig
+that out of a squirrel's of ancient
+wisdom right the mathematicians the way
+they deal with the objects that
+physicists love is it a profoundly
+bizarre and unpleasant way I was a
+physics major in college and being a
+physics major you think you know
+everything and so a bunch of us took the
+most advanced mathematics classically
+allowed to take math 55 and we've
+studied what's called real analysis
+right so it's just stuff you draw right
+it's like curvy lines straight lines
+with an x and a y and as a physicist you
+understand those things very well and so
+I was like well how hard can this be
+we had a textbook we called it Rudin
+after the author and you know you would
+not believe the bizarre and unpleasant
+things mathematicians will do to a
+function and completely useless right
+for anything that we cared about right
+completely useless for the structure
+factor completely useless for the
+function of economics the function of a
+market really useless for writing a
+computer program so I mean you know I
+guess they have fun you know they're you
+know talking about alien species that
+will drive you mad there one of them I
+love it so Oh Minnie Murray I met well I
+mean there's you know five in there
+there's a there's a there's a famous
+theorem of the mathematicians discovered
+which says that you can take a sphere
+and cut it into pieces and make two
+Spears of exactly the same size as the
+old one right I like what right like
+that's that's you know that makes that
+doesn't make any sense because how do
+they do it they do some you know crazy
+construction that involves transfinite
+numbers
+and five and said we mean it looks
+here's her made of atoms right and I can
+count the atoms and I tell you they you
+know unless some very you know
+high-energy things happen that number
+states conflict right so Mary's distaste
+for that gag is not something restricted
+to just one or two I love it all right
+well Marie farewell one of the greatest
+people I'll probably ever meet and some
+time very well spent with Marie over the
+years let's next go on to cultural
+revolutions sort of broadly construed
+over a very long time period yes so
+biological evolution what does it do one
+of the great one-liners is that your
+body is a really great model of the
+world that you encounter right you have
+feet that you walk on because we have a
+gravitational field that we sit in you
+have a bilateral symmetry as opposed to
+radial symmetry because you don't live
+underwater right you know you have a
+left hand on the right hand but not an
+op hand in the down hand so you can
+think of yourself as a story about the
+world and in particular story about the
+physical world the chemical world and to
+a great extent now as a model of the
+biological world as well so your your
+body is has a really good theory about
+small things that make you sick as well
+that's biology right that's the physical
+stuff that you really can't change very
+well
+you can replace parts of a gym right but
+by a larger your body plan is fixed so
+what is cultural evolution what does it
+do for us the underlying mechanism is
+the same Darwin spotted this really
+early on the underlying mechanism is we
+talk we listen we repeat we change we
+alter the DNA mechanism for us is the
+human brain far more complicated right
+your DNA has these ribosomes they they
+make a copy or they they translate the
+internal representation into proteins
+your brain is the ribosome for culture
+it translates internal representations
+into actions behaviors and speech it's
+far more complicated but underlying all
+of that is the sense that
+most of what we see around us is the
+product of we know not who right
+who-who made this language who made the
+idea of a conversation
+who made the idea of a building with
+Windows and with mortises and handles to
+what extent they're reasonably adaptive
+as we say right windows keep the heat in
+and but the rain out and let the light
+through but you know they can't get too
+big or you the room will get too hot so
+in some sense a lot of our culture is
+adaptive and there's some really fun
+stories of you know the the ways in
+which even things as basic as our
+language are adaptive to the climates in
+which that language evolved Italian has
+a different pattern than Swedish in part
+because Italians are speaking in a
+country that's much warmer you don't
+have to be in such close quarters you
+can stand further apart it's also
+probably why we gesture a lot as being
+half italian-american because you know
+when you're that far away from somebody
+and that on the patio right you need to
+really really need to show what you're
+saying so you know some of this is it is
+adaptation to the physical world but
+some of it is adaptation to the very
+nature of knowledge I secretly as an X
+physicist I'm a plate inist right I
+think there are underlying structures to
+the thanks Jim yeah people can't see
+here your large Italian gestures right
+now but you know when I look at the
+development of let's say of political
+systems are working with Alexander
+Barron and a group in Indiana when we
+were studying the evolution of discourse
+in the French Revolution how they're
+working out how to run a country I see
+them as doing two things right one is
+responding to the you know the
+necessities on the ground responding to
+the fact that you know once you decide
+to hold the revolution somebody's got to
+run the pension system and if you
+dismantle the church someone's got to
+keep records so that all the gold
+doesn't disappear into someone's pocket
+this is one of the people on this papers
+Rebecca Spang who's historian and I know
+her view on the French Revolution is in
+part the idea that we've neglected some
+of that stuff right well yeah
+rack you know think about the stupid
+ that we did in Iraq right literally
+the money did disappear the pensions
+were gone they go yeah they go back to
+the City of London mostly exactly right
+so yeah so you know some of that stuff
+is adaptation to circumstances right the
+holder evolution I went declares war
+that you've gotta run there's got some
+problems but I also see the story of the
+French Revolution the story of the
+Soviet era something we have under study
+right now through people's Diaries the
+evolution of theater I see these things
+as in part humankind's contact with
+basic objects of sense and knowledge
+that there is such a thing as alley
+algebra out there it's not simply a
+social construction that's propagated by
+the fact that Marie was supercharging
+and had a twinkle in his eye right that
+what we see is our adaptation to the
+invisible we see in the French
+Revolution for example people
+encountering some of the most basic
+ideas of ethical behavior unlike the
+Americans the French hold a revolution
+and one of the first things they do is
+bring slaves to us today this is
+something that we expect people to
+understand we don't think of slavery as
+something that hey one context is by
+another context not so fine so when we
+look at what people are doing what I'm
+most interested in is the way that they
+deform their minds in response to the
+invisible expand on that look okay
+a lovely statement okay so all right so
+here's one right this is this is unusual
+project we have with Kent Chang so Kent
+joined us I said what do you wanna work
+out and Kent say you know I want to work
+on theater and I want to work on the
+fact that theater is famously a endeavor
+that gay people are drawn to in
+particular gay men right and I'm
+interested in the idea that let's say
+take someone like Oscar Wilde right as
+gay as they come Oscar Wilde writes
+plays that are heterosexual romances
+right famously The Importance of Being
+Earnest
+is on the surface about two men who fall
+in love with two women and they're all
+nuts and they're all you know eating you
+know cucumber sandwiches with the edges
+cut off and what we ended up looking for
+is the ways in which Oscar Wilde is
+encoding human relationships that are
+fundamentally different from the surface
+that he's describing right on the
+surface these are really normative I
+would convention convention top recently
+our local shake we have a great
+Shakespeare Theatre in Staunton Virginia
+the American Shakespeare Center and they
+also occasionally put on other plays and
+they happen to put on The Importance of
+Being Earnest about two years ago I'd
+never seen it and it was like alright
+this is like a beautiful clockwork piece
+of machinery right I mean it's an
+unbelievable play and I think you know
+clockwork is a nice point right you look
+at a clock face and you know there's
+something behind it it looks nothing
+like numbers and enhance right so you
+know what is Oscar Wilde doing well like
+the the simple thing to say
+and both Kent and I think this is is not
+the case but the simple thing to say is
+you know there's a lot of subtle code
+sitting in here right you know there are
+some bits of slang that if you were a
+certain type of guy and you were you
+know in a certain social world you
+understood that he was saying a couple
+things that were not exactly the
+straightest things in the world but we
+think it's pretty limiting to view
+something like The Importance of Being
+Earnest as simply an encryption of
+something else what we think he's doing
+and we see this in not just in earnest
+but in a long tradition that includes
+some people like Tennessee Williams we
+see wild imagining new ways for people
+to be together and not necessarily
+sexual right we see Oscar Wilde is
+working out the terms of a male
+friendship for example and you know
+Wilde when he began was not with
+somebody who thought mostly about how
+people relate to each other so what we
+see him doing is finding ways or
+describing and implicitly projecting
+onto the stage modes of being that today
+we might even take for granted so for
+example the idea that
+the idea that people sexualities are
+more fluid than we would expect is
+something that we see there we see both
+examples in the two main male characters
+whilst discovering something he's
+discovering in those plays he's
+discovering facts about how humans can
+be together how humans can form
+relationships these are possibilities
+that he both creates and runs across
+Daniel Bernstein who writes his library
+to Congress has written a couple books
+great a story on it he has a book called
+the creators he has a book called the
+discoverers write the creators are the
+artists and the discoveries of the
+scientists Oscar Wilde in one sentence a
+creator impressed I got it right but in
+another sense I think we can view
+artists also as discoverers they learn
+things about our minds and tell us about
+our minds in ways that have massive
+downstream consequences they they don't
+just you know it's Kurt Cobain didn't
+invent wearing flannel you know that's
+something that disappeared but he also
+created cognitive patterns that enlarged
+our ability as a species and in order
+for that to happen there had to be some
+contact with the real something beyond
+just the idea that we all agree to say
+the thing that we all agree the same
+interesting so that one law we could
+talk about an unfolding it seems to me
+that culture is at any given time X but
+there's an opportunity and it happens
+constantly to unfold into new areas
+right you know one of the things like
+look back at our ear I find amazingly
+interesting is how rapidly point of view
+about homosexuality has changed you know
+Stonewall's was not that long ago right
+and now gay marriage is accepted
+everywhere and frankly by almost
+everybody under the age of 35 right and
+I wouldn't would have never guessed it
+you know in say 1985 that this could
+happen so quickly but it's a broader
+unfolding because it actually fits
+perfectly well with the Declaration of
+Independence right all men of course
+created equal women that's add them to
+I mean that is why when you think about
+it it's an unfolding but it is grounded
+in something we already had ever said
+has this line I encounter through
+Stanley Cavell are new yet undiscovered
+America you know we are I think building
+things whose consequences we don't
+completely understand pythagoras
+discovers the fact that the square root
+of two can't be composed out of a bunch
+of rods that you divide into pieces
+right I don't think that Pythagoras
+would have anticipated where I would end
+up celia Hayes is at Oxford is somebody
+that we've been strongly influenced by
+she's a great book that just came out on
+which causes cognitive gadgets there's a
+trend right now it's politically popular
+trend to overestimate the power of
+biology in influencing human behaviors
+so evolutionary psychology is only
+partly a science it's gets some things
+right but it misses a lot and Hayes is
+wonderful because she in some sense
+squares the circle right culture has
+lifted off from biology at least 5000
+years ago what you and I do is in no way
+sitting inside our genes and it's more
+than just the adoption of a particular
+let's say particular language it's more
+than just the adoption of a particular
+set of chord sequences and a piece of
+music it's also the creation of the
+conditions of possibility for those we
+don't just invent music we invent the
+idea of music and haze I think has a
+very good account of how the conditions
+of possibility of culture are themselves
+a product of culture something that is
+not hard-coded in us you know this
+debate goes if you want to get deep on
+this it goes back to Chomsky in the
+universal grammar jumps he looks at
+languages there's no way that this is
+something that we invented this has to
+be hard-coded I think we're coming
+around and partly simply through
+empirical investigation I think we're
+coming around to the idea that Chomsky
+was probably wrong about universal
+grammar I had long long conversation
+with John Holland about just this item
+and he was very strongly of the school
+that Chomsky grossly underestimated the
+amount of data that the child is exposed
+to because he was thinking in terms of
+formal instruction and well formal
+instruction is part of it that's by no
+means the whole thing and that was
+probably his number one interest right
+before he died was trying to figure out
+how to demonstrate Chomsky was wrong
+it's I mean this is a great point right
+you know Chomsky came at language
+essentially as a computer scientist and
+he wasn't a computer scientist but if
+you look at the early stuff he's doing
+in the 60s its yanked right out of the
+theory of computer programming languages
+if you look in the modern era and this
+is something that certainly colleague
+Ricard Saleh has worked on it's also
+stuff that we see addressed Tenenbaums
+lab at MIT
+you know Holland I think was more right
+than wrong we can learn and we can learn
+from a set of data that in the past I
+think we would have seen as as too
+impoverished as two small children learn
+language
+so Lee discovers these explosive bursts
+and how language fits together he's not
+the first person notice that he's
+produced incredibly interesting
+mathematical model of it though we go
+from words to word pairs and at some
+point there appears to be a little phase
+transition right there's a discrete jump
+and all of a sudden we're producing the
+kinds of sentences that you know where
+there's a continuum from that to a Henry
+James novel how that happens is
+mysterious but you know someone like
+Hayes would say it I would tend to agree
+that the very possibility of that
+happening was something that we
+developed independent of our genes yeah
+familiar at all with a very a kind of
+classic scholar Daniel Everett no I
+don't know dad check him out okay he
+takes a very strong argument that
+language is a social construct I'm still
+working my way through his books and I
+am kind of at the may be as I said
+earlier on my answer to all these
+questions is always both
+I do suspect there is something genetic
+that allows us to be way more linguistic
+than chimps who are but we are very
+close to and on the other hand I don't
+believe my instinct at least I'm not an
+expert in this area my instincts are the
+Chomsky's wrong that we don't have a
+strong universal grammar with 17
+switches which determines our language
+if for no other reason that you know
+Chomsky's assertion about recursion
+strikes me as overwrought right there is
+at least one language without recursion
+ever it was the anthropologists that
+studied that language which is
+interesting and further you know if we
+look at language in the raw we almost
+never see we never see more than four
+levels of recursion and seldom see more
+than three right and you know being a
+computer dude there's a big difference
+between universal recursion and you know
+a series of nested statements three or
+four levels deep it's a great story the
+cat who chased the rat who ate the
+cheese right this is Cal recursion I
+think Jim rates an easier one to process
+years ago when I was a student in middle
+school we studied laughs right and you
+know we read Julius Caesar we tried her
+hand at Virgil and at some point our
+Latin master said no one actually spoke
+like this right these incredibly baroque
+intricate inflected sentences where the
+verbs are showing up in all sorts of
+places this was not how they actually
+got things done day to day right Virgil
+is constructed a language that in some
+sense is sitting on top of Latin right
+if Latins the assembly code right the
+invented list right so you know the
+stuff that Chomsky was responding to and
+many ways is something that we built
+through our symbolic systems the idea of
+recursion how often do we use it
+Jim we use it in part for social
+signaling to show that you know I read a
+lot of stuff and I was educated by
+people who read a lot of stuff and
+probably my parents read a lot of stuff
+too right but you know the transcript of
+our day to day getting things done and
+including really high stakes things like
+going to the doctor or making a trade on
+the market my guess is is where
+roughly working with a regular grammar
+here right we're working with
+essentially a finite state machine to
+get things done indeed all right let's
+move on to our next topic which is
+consciousness this is a this is a fun
+story for us consciousness is one of the
+things that we think distinguishes us
+from the animals we can go back and
+forth on the extent to which animals
+have a consciousness of course the word
+itself decomposes in lots of different
+ways is consciousness simply the ability
+to have a phenomenal experience of pain
+for example my computer if I do
+something wrong in my computer it might
+crash we don't think it feels pain we do
+wonder to Sammon feel pain is it okay to
+eat a salmon or was it you know having
+this sort of the experience that you and
+I would associate with being hooked
+through the mouth and bashed on the head
+so that's that's one notion of
+consciousness another one that we get
+from in many ways of computer science
+perspective but also from a
+philosophical perspective is
+consciousness is the ability to reflect
+on our actions and our own minds both of
+these definitions have gotten us into
+some really tight squeezes we don't
+really have a good story about what the
+philosophers call qualia right the idea
+that if we're sitting around I'm looking
+at a big New Mexico flag here and it's
+yellow rain I can tell you it's yellow I
+can tell you the configuration of the
+lines on it but there are some things we
+think that we can't quite communicate to
+each other you have to be there we have
+like I remember in second grade asking
+my teacher is your sense of red the same
+as my sense of red yeah hopefully she
+just said yeah I mean this is Hume right
+I mean we've been worried about those
+things for a long time dan Dennett says
+you know what qualia its it doesn't
+exist and then is one of the great
+demystifies it's a bit like a Darwinian
+dickish tiny sits around telling you
+that all the things that you really
+wanted to think about don't actually
+exist everything's done I always
+described as a very long journey to
+nowhere he's yeah he's the guy who ruins
+the party right and you know
+no discussion for another day it's what
+happened yeah that's what happens when
+you get a when you get a central
+European and stick him in Britain for
+too long he gets he gets a bit too
+practical for the world but that's one
+thing that's sitting out there and I
+think while you're real during difficult
+times in my life I stopped believing in
+qualia so I think it's actually a
+measure of how well things are going for
+me I think a mentally healthy person
+does indeed reliably have experiences
+that are first person-centered
+experiences that rely fundamentally on
+the existence of a subjective perceiving
+subject so let me interrupt you you
+don't mind if I have a day job which I
+don't it would sort of be in this area I
+have built metal computer simulations of
+very very rudimentary consciousnesses
+etcetera Brett ball like 50 books two
+other papers and so some thoughts at
+least in this area first you're using
+consciousness in a way that seems to
+distinguish human consciousness fairly
+cleanly from subhuman consciousness and
+we started going down that road but then
+you said there's problems and I suppose
+I come from the other view gerald
+Eagleman he distinguishes primary
+consciousness which is the same
+consciousness we share with a dog
+approximately the dog is alive in a
+scene of some sort it's the same dog
+every time it wakes up it has you know
+similar attributes similar tastes
+similar likes and dislikes and then he
+also posits something called extended
+consciousness which is that's a little
+bit less clear on what that is this
+ability to perhaps reflect on our own
+consciousness and then I also look
+pretty strongly to John Searle and I
+really like Cyril and his you know sort
+of down in dirty definitions of
+consciousness you know he says
+consciousness is a lot like the
+digestive system you can't point at it
+say this is the digestive system you
+know it's the lips it's the throat the
+liver it's the stomach and then the rut
+corollary there is consciousness is like
+the digestive system it often has the
+same output but and under those
+scenarios human consciousness is only a
+bit different
+than subhuman consciousness it maybe has
+one or two new tricks perhaps Terence
+Deakins symbolic thinking maybe and then
+there's others who think that it's a
+very bright line and human consciousness
+is nothing like animal consciousness
+woody you bring up some great minds here
+and when I first started thinking about
+this seriously maybe back in college but
+then this this obsession kept going for
+many many years you know the kind of
+default mode for thinking about these
+issues is the computational analogy we
+are thinking machines whatever we
+consider fundamental to our experiences
+relates to the performance of a function
+that has taken us pretty far right so
+you know famously this theory of
+consciousness called IIT integrated
+information the idea that what you need
+is a sufficiently couple set of
+reasoning devices and once they're
+tightly enough together like swamp Rain
+out the other side comes what we like to
+think of as consciousness it's some
+emergent property sort of like a market
+right markets full of fools the markets
+pretty smart at what point do you go
+from you know a ship of fools to
+something that reliably gets us coffee
+on the table every day you know it's
+certainly a scientific theory it doesn't
+it doesn't have to say that there's a
+spirit sitting in your head kicking your
+pineal gland around but there's also
+something still unsatisfying about it
+for me Jim and I think conscious is one
+of those problems that gets us to the
+limits of science as we do it we think
+of ourselves as evolved beings there's
+no reason we should have gotten it all
+right there's no reason that you know
+the cognitive gadget of science is
+answerable to the world as it is it's at
+least partially so we're you know we
+build things we discover things Murray
+discovered the quarks so it works pretty
+well but there's no reason to think that
+we're a universal translator that are
+our reasoning processes our symbolic
+representations can solve every problem
+even if they could there's by no means a
+guarantee that they have you know our
+modern model is you know
+no older than 16 25 right science plus
+axiomatic systems joined together right
+you know big symbols Newton right and so
+that's very very recent we talked about
+five thousand years ago four hundred
+years ago is almost no time at all right
+and so even if our tools are universal
+problem-solving machines which they
+might be four hundred years nowhere near
+enough to run to the universe through
+the engine and come up with results and
+those are two different points of view
+but they can both leave us at a current
+state where there is a shitload yet
+still to be discovered about the nature
+of reality think about you look at some
+of the smartest people in the history of
+the human species right and you know for
+me okay
+Socrates Plato these are up there you
+read something like the symposium where
+Plato threw the voice of Socrates is
+laying out a theory of knowledge see in
+the Republic tune and you know these
+these guys are not dumb right they they
+have a sense of symbolic systems right
+they call that geometry and music right
+I don't think that the stuff we do today
+at least at the abstract level would be
+incomprehensible to these guys and sort
+of another way they're completely
+comprehensible to us but the further on
+that story goes the further on the
+symposium goes the stranger and stranger
+things get right and at some point you
+know Socrates is hanging out with a this
+sort of mystical spear and he's climbing
+ladders and he's looking at boys the
+whole thing right it's something goes
+weird here I'm not that weird as you
+said it doesn't strike us as even as
+strange as science fiction it's that's
+true I mean it would get you kicked out
+of even CMU right if you if you did this
+for too long he seems to go beyond what
+we informally think of as you know our
+best mechanisms you know what if we took
+that seriously right you know you and I
+learned yo kick Murray seriously he's
+not always right but you can go pretty
+far if you take a genius seriously
+what's that all about that he's not a
+fool he doesn't he's he's not someone
+who believes in the little reality of
+angels but what's going on right what if
+what have we missed and our
+computational metaphors what have we
+missed in even our evolutionary
+metaphors that's some
+we didn't get 1625 we didn't have that
+took us until literally until Darwin or
+maybe his grandfather had to blow it up
+consciousness may be one of those things
+that we don't yet have the gadget to
+understand and explain I think that's
+possible and I think because there is so
+much unclear clarity about the topic
+there's a lot of bad discourse about the
+topic it's really amazing and you know
+one of the ones I'd like to add to this
+is this to my mind wasted argument on
+can a computer be conscious right and I
+lift pretty much full from Cyril and
+then extend it a little bit John Searles
+perspective the answer is no because the
+consciousness is what a human body does
+with the wetware that it has in the same
+way it does digestion however I then
+extend that to say in the pharmaceutical
+industry and in the food processing
+industry we have things called digesters
+right which are used to grow all kinds
+of biochemical feedstocks and you know
+food products etc and we can say by
+analogy that these things are digesters
+used in the pharmaceutical industry and
+they're analogous to how digestion works
+in the humans in the same way we can
+create in computers something we will
+call consciousness which is analogous to
+the consciousness that is the emergent
+phenomena from various bits of meat and
+neuron but it won't be the same thing
+Cyril stop I just saying it's not the
+same thing and I got one step further
+but say what we can build things that
+are analogous to and you know we go back
+to - noni and information on IT right
+having done a lot of reading about -
+noni and anti - noni I come tentatively
+the conclusion that perhaps integrated
+information is necessary but not
+sufficient right and that if we measure
+III on an analogous machine that has
+something we analogously call
+consciousness it will show a high III
+but so all other things that aren't
+conscious and so will be human if we
+could measure it I sort of split the
+difference I say we can talk about
+machine consciousness we just have to
+realize that it is not exactly
+we the same thing as meet consciousness
+as human consciousness in the same way
+that a digester used in the food
+industry isn't the same as our digestive
+system but they both do sort of similar
+things here's a way to come at this
+problem
+what are we one consciousness to do and
+if we look at let's say the cultural
+effects of consciousness we just have an
+odd thing to say you go back in the
+anthropological record and this is Karl
+Jasper's invents this phrase because of
+the axial mirror 800 being abroad
+exactly right he's got to stretch it you
+know but at some point in time in the
+history of the species and this happens
+you know throughout the globe it's
+almost like these little fires lighting
+up right you have the upon assad's in
+the Indian tradition you have some of
+the what we might think of as the modern
+books and in the Torah you have you know
+my favorites in Greece right you have
+the dialogues you have Parmenides a
+little bit before you have the emergence
+of Buddhism each of these things is a
+dramatic shift in the nature of culture
+before the axial age the priests were
+also the kings or the priests were
+fundamentally allied with earthly power
+out the other side of the axial age out
+the other side of the old testament
+Socrates and Plato Buddhism the apana
+shots all of a sudden you have people
+discovering this notion of the
+transcendental people deciding that
+there was actually something beyond the
+pure of a human biological realm
+Jasper's thinks of that as a
+consciousness that emerges at the level
+of a society and maybe the right thing
+to say is you know what when we know we
+consciousness we're having this kind of
+conversation and this kind of
+conversation that's happening in the
+context of people who because they had
+conversations like this built a
+recording device at a university so they
+say all right our computers conscious
+well one thing I say is okay look I
+might run one of these consciousness
+assays on the iPhone and okay maybe it
+is or it isn't but I want to say you
+know where's the great religious work of
+the computers right what have they done
+recently you know have they had an axial
+age have the machines written the
+Upanishads or have they had this
+dialogues and answer I think no right so
+under that test we're the only ones so I
+mean I would suggest that using my
+analogy the computers aren't even there
+yet right the smartest computers in the
+world maybe they're at the Shrew stage
+right and we don't expect shrews to
+write Shakespeare right and so you know
+give it 30 years and then your question
+may be more valid something these
+analogous consciousnesses may well come
+up with things that we think of as on
+par with our best creations but it's too
+early to tell yet I mean this is this
+gets back I think all the way to the
+beginning of our of our conversation
+right with the Fermi paradox you know in
+the end the reason we're really keen
+about aliens is is you know well we want
+to hang out with them right because
+we're bored of our stuff you know maybe
+the question if that does happen if
+these machines do have their axial age
+if their consciousness does actually
+bubble up to the visible level you know
+maybe the question is will they be fun
+to hang out with well we have new
+playmates on the earth again every nerd
+believed yes that there were aliens out
+there and every twelve-year-old nerd-boy
+least in my era believed we could
+eventually build AI so we could talk to
+you absolutely right you know when we're
+talking about the Fermi paradox it's not
+just that they'd be fun to talk to which
+they would be or if they didn't kill us
+right or the silent Forest Theory right
+thank you no the reason everybody is
+quiet out there is because there's a
+certain number of predators and if you
+speak up you will get eaten but there's
+another much deeper issue right if we
+are indeed alone we have a gigantic
+normal responsibility right if we are
+the only general intelligence in the
+universe we have a greater duty to
+preserve ourselves than if they're
+relatively routine because we may be a
+point of the spear of evolution and it
+is perhaps our destiny to bring life to
+and on a live universe and if we knew
+that to be a fact which unfortunately
+proving a negative is extraordinarily
+difficult but if we didn't know that for
+a fact somehow I suspect it would make
+us take everything we do is shitload
+more seriously this is exactly the thing
+I would expect from a good
+self-replicating organism
+like do we have a moral duty well I mean
+only if moral duties there be are their
+species because if we disappear and
+morality disappears with us well they
+were done right so that's fine this is
+maybe their here's the way into this
+into this intuition when we study we
+look into big archives sometimes we get
+famous people and here's the phrase we
+sometimes do sometimes we get ordinary
+people
+this always rubs me the wrong way this
+phrase ordinary because we're absolutely
+extraordinary there's nothing like a
+human mind the differences between two
+human minds are so negligible compared
+to the difference between a human mind
+and a non-human mind you know if you're
+a cognitive scientist or you you study
+social behavior from a cognitive point
+of view it can be an overwhelming
+experience to walk into a crowd and not
+because the crowd is irrational but
+because you're surrounded by this
+unbelievable mechanisms unbelievable
+creatures it's not implausible that
+there's nothing like it elsewhere in the
+world or elsewhere in the universe I
+think neither of us would be surprised
+if a self-replicating organism worked
+out that they could use solar energy to
+make copies of itself that's not a
+surprise right we wouldn't be blown away
+we'd be thrilled if we found life on
+Mars we wouldn't be shocked it would be
+a shocking event to find things with
+consciousness things that we could hang
+out with or at least we thought one day
+we could hang out with if we discovered
+that I think we would be shocked there's
+something miraculous about us it would
+be the biggest news in the history of
+the world well it would be you know in
+some sense the end of news as we know it
+exactly let's go to a last topic and
+then let's wrap up one current science
+fiction I used to be a true science
+fiction aficionado in fact growing up my
+main source of science fiction was a
+library so I prided myself on reading
+every single science fiction book that
+was printed and hard copy which wasn't
+that large a percentage but it was the
+better stuff of it unfortunately over
+the years getting it distracted into
+many other areas in fiction and
+nonfiction tically literary fiction for
+my
+my fiction reading I have kind of
+drifted away from sci-fi I'd love to
+hear what is cool in sci-fi today in one
+sense I think I'm pretty much in tune
+with what everyone's reading right so
+touching obviously blew up can we use
+translator of six and leo chinese
+science fiction has reached the modern
+era right that's super super exciting
+was the three-body problem rhe body
+problem Ken actually is so can I is the
+translator for six and he's also a
+science fiction writer and I was
+thrilled to see he had invented so you
+know we have British Victorian steampunk
+he has Chinese Empire silk clunker right
+so reimagining the legends of a culture
+in a way that's not quite fantasy I
+think because it's a story about the
+technology and not simply the magic
+anybody who's who's bumped into science
+fiction is gonna bump into this one of
+the things that I do with science
+fiction and this is partly because I'm
+interested in the cultural evolution of
+you know the last 10 minutes of
+evolution is the fact that science
+fiction drives culture it tells us
+stories and people just can't help but
+make it real right so the Star Trek
+communicator is a great example and you
+know here it is right you know Apple
+health you know given though 10 years
+and it will die did tell you if you have
+something really deeply wrong in the
+tricorder right it's smaller than the
+tricorder right did we did better so
+science fiction is it helps us imagine
+nailed Neal Stephenson there was a great
+project at Arizona I was on a state
+called the hieroglyph project right and
+the idea was that you know and this is a
+bit politically loaded but you know
+science fiction had got to dystopian and
+it forgotten the idea that arthur c
+clarke invented geostationary satellites
+somebody has to tell a story to motivate
+the engineers to build it right because
+actually it's really boring building a
+spaceship but we are in an era where our
+most interesting technologies are social
+and so i've started asking people not
+what are you reading but what are the
+books that people are reading that
+account for the cultures they've created
+and one of the groups i'm completely
+fascinated by are the people associated
+not with the university
+system but with all the tech money that
+floats around out there in part because
+of things like the platforming some of
+the wealthiest and most interesting
+people on the west coast have just given
+up on the university ever given up on
+the tech schools right so CMU's fine MIT
+is fine but they have given up on
+liberal arts university and they're
+developing parallel systems Peter teal
+says drop out of college things like the
+singularity Institute now the machine
+intelligence Research Institute these
+are groups that exist on the from one
+sense in the point of view in academic
+they exist on the margins right so the
+future humanity Institute if you're a
+professor at Oxford it looks like a
+rented room with a ugly chair but if you
+flip that around Oxford is the thing
+that's a rented room with an ugly chair
+and what we see is people creating a
+very different idea of what learning
+teaching and research could be so I know
+some of these things are fascinating
+people I can give you all their names
+but they're probably be embarrassed to
+be associated with this sometimes people
+call this the rationalists you know
+maybe after life that's you know there
+are some famous characters that surround
+that group le zur is one I'm sure you've
+encountered him yeah he and I have had a
+few chats I could imagine it movable
+objects an unstoppable force so okay
+what I wanted to know was look what are
+I you know great you guys read me yeah
+ways exactly right you guys are smart
+fine you write some you write your code
+in Haskell and you build a blockchain
+good job right but you know what are
+your fantasies you know what's your Star
+Trek what is your account of what things
+could be how do you know if you're
+falling short of yourself you know I
+know that something's gone wrong in my
+life if I think George Eliot would not
+like me right
+so I asked this and one of the answers
+is and this is this won't surprise you
+right Vernor Vinge right but we think of
+her nerve in jazz the guy who invented
+the idea of the singularity one of the
+books that a friend of mine pointed me
+to was part two of a trilogy right we
+know is a book called the children of
+the sky by then by vinge this is not a
+new book right this is maybe a couple
+years ago and children of the sky I
+think encapsulates the the fantasies and
+the mythology of that group
+it's a story about they're coming for us
+right they the silent Forest was right
+and we screwed it up right they're
+coming for us and a small group of
+people have crash-landed on a planet
+that's reasonably backward and what they
+have to do is bootstrap themselves into
+a sufficiently post-industrial
+civilization that they extend a chance
+at surviving children sky has encoded in
+there is an extreme version of the power
+of the mind the idea that if you're
+smart enough right from a grain of sand
+you infer the Sahara if you're smart
+enough from a cup of water you know
+Niagara it's something that comes up in
+quasi science fictional form for David
+Deutsch right in fabric of reality and
+beginning of infinity Jonah the sky is
+the dramatic version of that it has some
+sex
+it has aliens that are actually a bunch
+of minds all linked together and they
+look like pets right so it has a bunch
+of tropes that we're familiar with but
+the overall structure is this idea that
+the universe in one sense is
+fundamentally inhospitable it's trying
+to kill us but in another sense the laws
+of physics drive us inexorably to a
+horizon of infinite possibility so if
+you're sitting in a polyamorous nerd
+commune and Berkeley right now
+the children of the sky answers I think
+to your fantasies in a way that I use
+that word right in a nice way I don't
+mean that in a in a psychologically
+condescending way it's a mythology that
+you can get your teeth into and tells
+you if you're doing it right any other
+examples that's a good question you know
+I brought up David Deutsch right
+dorita's are you one of these
+unbelievable super geniuses yeah I don't
+think he prefer to have his stuff
+thought of as science fiction at this
+point well you know and so you know the
+two books fabric of reality beginning
+were faded they're incredibly compelling
+books and if you read them I mean he has
+one chapter I think it's a beginning of
+infinity where he battles his way out of
+a brain in the VAT right he explains
+exactly how he's gonna show you that you
+know you're not living in a in the
+simulation it takes on a science
+fictional angle one of things I found
+really amusing I was reading I think
+this is in fabric of reality the earlier
+book he gives this proof from first
+principles that the matter density of
+the universe is
+critical that you know Omega if we say
+it's called meiosis in Vegas less than
+one and you mean you're like absolutely
+right the inexorable force of reason is
+such that physics must come to know
+itself and the universe must have you
+know this property in that property and
+I'm reading this I'm like absolutely
+right and then I remember like actually
+it turns out the matter density universe
+is not less than one perfect so
+something's gone wrong and it is
+precisely one unfortunately as far as we
+can tell we can tell though was you know
+what is dark matter what is dark energy
+is it right yeah I take check
+my dissertation right these were great
+problems David has a centrifugal
+intellect you can learn a lot about the
+many-worlds hypothesis of the many
+worlds theory and you could also follow
+it as a narrative as a almost like Olaf
+stapleton right it's an update of a Star
+Maker where dirt goes on a journey that
+takes him in the end to an account of
+human nature that suggests that one day
+we will manipulate indeed the very
+fabric of reality so you know maybe what
+10,000 years if we don't hit one of
+those great filters or great filters
+well thank you very very good
+thank you Jeff thanks
+[Music]

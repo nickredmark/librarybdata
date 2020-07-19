@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:12.360" style="s2">howdy this is Jim rut and this is the</p>
+<p begin="00:00:02.399" end="00:00:14.309" style="s2">Jim rut show listeners have asked us to</p>
+<p begin="00:00:12.360" end="00:00:16.800" style="s2">provide pointers some of the resources</p>
+<p begin="00:00:14.309" end="00:00:18.720" style="s2">we talked about on the show we now have</p>
+<p begin="00:00:16.800" end="00:00:20.910" style="s2">links to books and articles referenced</p>
+<p begin="00:00:18.720" end="00:00:21.840" style="s2">in recent podcasts that are available on</p>
+<p begin="00:00:20.910" end="00:00:24.779" style="s2">our website</p>
+<p begin="00:00:21.840" end="00:00:30.500" style="s2">we also offer full transcripts go to Jim</p>
+<p begin="00:00:24.779" end="00:00:30.500" style="s2">rut show.com that&#39;s Jim ruts show com</p>
+<p begin="00:00:31.309" end="00:00:37.500" style="s2">this is another in our series of extra</p>
+<p begin="00:00:34.380" end="00:00:39.840" style="s2">covered 19 interviews and as on the</p>
+<p begin="00:00:37.500" end="00:00:42.090" style="s2">other extra interviews the audio quality</p>
+<p begin="00:00:39.840" end="00:00:45.570" style="s2">will not be up to our normal standards</p>
+<p begin="00:00:42.090" end="00:00:46.860" style="s2">but the information will be of the usual</p>
+<p begin="00:00:45.570" end="00:00:49.829" style="s2">high quality</p>
+<p begin="00:00:46.860" end="00:00:51.690" style="s2">today&#39;s guest is Jessica flack resident</p>
+<p begin="00:00:49.829" end="00:00:53.640" style="s2">faculty at the Santa Fe Institute as</p>
+<p begin="00:00:51.690" end="00:00:56.550" style="s2">she&#39;s been on the show before and she&#39;s</p>
+<p begin="00:00:53.640" end="00:00:58.890" style="s2">an incredibly good thinker about complex</p>
+<p begin="00:00:56.550" end="00:01:00.480" style="s2">systems interactions between cause at</p>
+<p begin="00:00:58.890" end="00:01:02.850" style="s2">cause and effect there are lots of other</p>
+<p begin="00:01:00.480" end="00:01:05.729" style="s2">interesting things she has some</p>
+<p begin="00:01:02.850" end="00:01:08.729" style="s2">interesting ideas about how the shock to</p>
+<p begin="00:01:05.729" end="00:01:11.640" style="s2">the system from koban 19 may actually</p>
+<p begin="00:01:08.729" end="00:01:13.229" style="s2">provide some opportunities to move our</p>
+<p begin="00:01:11.640" end="00:01:16.049" style="s2">world to a better place</p>
+<p begin="00:01:13.229" end="00:01:18.270" style="s2">so with that Jessica let tell us about</p>
+<p begin="00:01:16.049" end="00:01:19.680" style="s2">your thinking well I mean I guess I just</p>
+<p begin="00:01:18.270" end="00:01:21.000" style="s2">want to start I know you thought about</p>
+<p begin="00:01:19.680" end="00:01:23.100" style="s2">this too she there should be a fun</p>
+<p begin="00:01:21.000" end="00:01:25.439" style="s2">discussion but I just wanted to start by</p>
+<p begin="00:01:23.100" end="00:01:28.950" style="s2">making this point I think we&#39;re at a</p>
+<p begin="00:01:25.439" end="00:01:30.630" style="s2">kind of unique moment in history in the</p>
+<p begin="00:01:28.950" end="00:01:32.970" style="s2">following sense when ever before and</p>
+<p begin="00:01:30.630" end="00:01:34.470" style="s2">it&#39;s two hundred thousand years and Homo</p>
+<p begin="00:01:32.970" end="00:01:37.380" style="s2">sapiens have essentially walked the</p>
+<p begin="00:01:34.470" end="00:01:39.810" style="s2">earth has there been what I would call a</p>
+<p begin="00:01:37.380" end="00:01:42.899" style="s2">collective empirically informed global</p>
+<p begin="00:01:39.810" end="00:01:46.500" style="s2">response of the magnitude that we&#39;re</p>
+<p begin="00:01:42.899" end="00:01:48.119" style="s2">seeing with this Cova nineteen crisis so</p>
+<p begin="00:01:46.500" end="00:01:50.790" style="s2">I don&#39;t think there&#39;s another example</p>
+<p begin="00:01:48.119" end="00:01:52.530" style="s2">when we&#39;ve seen basically all nations or</p>
+<p begin="00:01:50.790" end="00:01:55.189" style="s2">more or less all nations simultaneously</p>
+<p begin="00:01:52.530" end="00:01:57.240" style="s2">faint face the same immediate threat and</p>
+<p begin="00:01:55.189" end="00:01:59.570" style="s2">what&#39;s so interesting about this is that</p>
+<p begin="00:01:57.240" end="00:02:02.399" style="s2">the response it&#39;s been one at one</p>
+<p begin="00:01:59.570" end="00:02:05.930" style="s2">simultaneously chaotic and and full of</p>
+<p begin="00:02:02.399" end="00:02:08.340" style="s2">promise and that might sound</p>
+<p begin="00:02:05.930" end="00:02:11.580" style="s2">inappropriate given you know that this</p>
+<p begin="00:02:08.340" end="00:02:13.800" style="s2">is causing lots of hardship and it&#39;s</p>
+<p begin="00:02:11.580" end="00:02:15.930" style="s2">quite tragic for many people but</p>
+<p begin="00:02:13.800" end="00:02:18.810" style="s2">I think there are opportunities here</p>
+<p begin="00:02:15.930" end="00:02:21.540" style="s2">that can be exploited to perhaps tip</p>
+<p begin="00:02:18.810" end="00:02:23.130" style="s2">society into a better future and I&#39;ll</p>
+<p begin="00:02:21.540" end="00:02:25.260" style="s2">just say a few more things before</p>
+<p begin="00:02:23.130" end="00:02:27.720" style="s2">letting you jump in and that is you know</p>
+<p begin="00:02:25.260" end="00:02:30.270" style="s2">I mean from the low-hanging fruit point</p>
+<p begin="00:02:27.720" end="00:02:32.340" style="s2">of view we&#39;re seeing innovation in our</p>
+<p begin="00:02:30.270" end="00:02:34.830" style="s2">understanding of obviously epidemiology</p>
+<p begin="00:02:32.340" end="00:02:36.330" style="s2">and viral dynamics and and maybe even in</p>
+<p begin="00:02:34.830" end="00:02:39.330" style="s2">the character of science scientific</p>
+<p begin="00:02:36.330" end="00:02:41.790" style="s2">collaboration and and we have the</p>
+<p begin="00:02:39.330" end="00:02:43.530" style="s2">opportunity to better understand how</p>
+<p begin="00:02:41.790" end="00:02:45.810" style="s2">massive environmental events influence</p>
+<p begin="00:02:43.530" end="00:02:49.110" style="s2">the robustness and trajectory of coupl</p>
+<p begin="00:02:45.810" end="00:02:50.990" style="s2">systems like markets and economies but</p>
+<p begin="00:02:49.110" end="00:02:53.790" style="s2">there&#39;s also something much more</p>
+<p begin="00:02:50.990" end="00:02:56.100" style="s2">profound potentially on the table and</p>
+<p begin="00:02:53.790" end="00:02:59.970" style="s2">that&#39;s that perturbations I think like</p>
+<p begin="00:02:56.100" end="00:03:01.950" style="s2">this virus can potentially reveal new</p>
+<p begin="00:02:59.970" end="00:03:04.680" style="s2">approaches or show that value of old</p>
+<p begin="00:03:01.950" end="00:03:07.320" style="s2">approaches did as may be out of reach or</p>
+<p begin="00:03:04.680" end="00:03:09.090" style="s2">nonsensical given the status quo and so</p>
+<p begin="00:03:07.320" end="00:03:13.460" style="s2">like as just an example we can get into</p>
+<p begin="00:03:09.090" end="00:03:13.460" style="s2">many more you know many more ideas</p>
+<p begin="00:03:13.470" end="00:03:18.120" style="s2">one example is you know I think we&#39;re</p>
+<p begin="00:03:15.480" end="00:03:19.890" style="s2">developing an intuition that was kind of</p>
+<p begin="00:03:18.120" end="00:03:22.980" style="s2">before academic for the costs and</p>
+<p begin="00:03:19.890" end="00:03:25.320" style="s2">benefits of say democratic bottom-up</p>
+<p begin="00:03:22.980" end="00:03:29.820" style="s2">american-style capitalism and say</p>
+<p begin="00:03:25.320" end="00:03:30.930" style="s2">Chinese top-down kind of capitalism an</p>
+<p begin="00:03:29.820" end="00:03:32.250" style="s2">intuition that we just didn&#39;t have</p>
+<p begin="00:03:30.930" end="00:03:33.959" style="s2">before because we couldn&#39;t see the</p>
+<p begin="00:03:32.250" end="00:03:36.420" style="s2">effects sort of in real time playing out</p>
+<p begin="00:03:33.959" end="00:03:38.100" style="s2">and of course that&#39;s very noisy and we</p>
+<p begin="00:03:36.420" end="00:03:40.920" style="s2">have biases and it needs to be worked</p>
+<p begin="00:03:38.100" end="00:03:42.510" style="s2">out empirically but but we&#39;re seeing</p>
+<p begin="00:03:40.920" end="00:03:47.190" style="s2">maybe for the first time how certain</p>
+<p begin="00:03:42.510" end="00:03:48.270" style="s2">kinds of changes are driven for example</p>
+<p begin="00:03:47.190" end="00:03:49.800" style="s2">by the institutions and social</p>
+<p begin="00:03:48.270" end="00:03:52.080" style="s2">structures that we have in place much</p>
+<p begin="00:03:49.800" end="00:03:53.640" style="s2">more clearly than in the past</p>
+<p begin="00:03:52.080" end="00:03:56.190" style="s2">yeah the way of framing I&#39;ve been using</p>
+<p begin="00:03:53.640" end="00:03:59.370" style="s2">for these discussions about impact of</p>
+<p begin="00:03:56.190" end="00:04:02.870" style="s2">kovat on the future is in the form of</p>
+<p begin="00:03:59.370" end="00:04:04.920" style="s2">trying to look at where will homeostasis</p>
+<p begin="00:04:02.870" end="00:04:08.340" style="s2">dominate and where will hysteresis</p>
+<p begin="00:04:04.920" end="00:04:11.190" style="s2">dominate for our audience homeostasis is</p>
+<p begin="00:04:08.340" end="00:04:13.019" style="s2">a tendency for complex systems to return</p>
+<p begin="00:04:11.190" end="00:04:15.480" style="s2">to their previous state after a shock</p>
+<p begin="00:04:13.019" end="00:04:16.799" style="s2">for instance you get the get a cold you</p>
+<p begin="00:04:15.480" end="00:04:19.260" style="s2">know you feel like for three days</p>
+<p begin="00:04:16.799" end="00:04:20.790" style="s2">ten days later you&#39;re just fine I&#39;m very</p>
+<p begin="00:04:19.260" end="00:04:22.950" style="s2">little changes happen to you a little</p>
+<p begin="00:04:20.790" end="00:04:24.780" style="s2">bit at the serological level but nothing</p>
+<p begin="00:04:22.950" end="00:04:26.220" style="s2">material the other hand you put a bullet</p>
+<p begin="00:04:24.780" end="00:04:27.720" style="s2">through your heart the homeostasis</p>
+<p begin="00:04:26.220" end="00:04:30.510" style="s2">doesn&#39;t work anymore</p>
+<p begin="00:04:27.720" end="00:04:32.580" style="s2">and that event totally dominates the</p>
+<p begin="00:04:30.510" end="00:04:35.400" style="s2">future and of course that&#39;s an extreme</p>
+<p begin="00:04:32.580" end="00:04:37.080" style="s2">example there&#39;s lots of other more</p>
+<p begin="00:04:35.400" end="00:04:40.620" style="s2">modest examples and so we think about</p>
+<p begin="00:04:37.080" end="00:04:43.290" style="s2">the complex dynamical networks that are</p>
+<p begin="00:04:40.620" end="00:04:46.410" style="s2">our society everything from the economy</p>
+<p begin="00:04:43.290" end="00:04:49.470" style="s2">to education to marriage to friendship</p>
+<p begin="00:04:46.410" end="00:04:52.530" style="s2">to scientific work now this is a big</p>
+<p begin="00:04:49.470" end="00:04:55.110" style="s2">shock you know I liked your framing this</p>
+<p begin="00:04:52.530" end="00:04:56.580" style="s2">is the biggest coordinated action by the</p>
+<p begin="00:04:55.110" end="00:04:58.500" style="s2">human race ever</p>
+<p begin="00:04:56.580" end="00:05:01.770" style="s2">almost certainly I can&#39;t it&#39;s got to be</p>
+<p begin="00:04:58.500" end="00:05:03.960" style="s2">true I would also warrant een many</p>
+<p begin="00:05:01.770" end="00:05:05.490" style="s2">orders I was you yeah by many words</p>
+<p begin="00:05:03.960" end="00:05:08.820" style="s2">Matthew it&#39;s also I would argue the</p>
+<p begin="00:05:05.490" end="00:05:10.380" style="s2">biggest shock at least to the West since</p>
+<p begin="00:05:08.820" end="00:05:14.700" style="s2">world war two and that&#39;s pretty damn big</p>
+<p begin="00:05:10.380" end="00:05:18.150" style="s2">shock so and and it had all kinds of</p>
+<p begin="00:05:14.700" end="00:05:20.070" style="s2">downstream effects so yeah I think we</p>
+<p begin="00:05:18.150" end="00:05:21.570" style="s2">will see some reach attempts to return</p>
+<p begin="00:05:20.070" end="00:05:24.810" style="s2">the way things are but there will also</p>
+<p begin="00:05:21.570" end="00:05:26.310" style="s2">be things that will be more naturally</p>
+<p begin="00:05:24.810" end="00:05:28.800" style="s2">knocked out of their current basin of</p>
+<p begin="00:05:26.310" end="00:05:30.870" style="s2">Attraction and into a new one and let&#39;s</p>
+<p begin="00:05:28.800" end="00:05:32.790" style="s2">explore some of your ideas there I think</p>
+<p begin="00:05:30.870" end="00:05:34.230" style="s2">those are some of the most important and</p>
+<p begin="00:05:32.790" end="00:05:37.560" style="s2">most profound things that will come out</p>
+<p begin="00:05:34.230" end="00:05:39.060" style="s2">of this yeah so I don&#39;t turn that on its</p>
+<p begin="00:05:37.560" end="00:05:42.330" style="s2">head a little bit and ask this question</p>
+<p begin="00:05:39.060" end="00:05:44.400" style="s2">so we in when we think about what we</p>
+<p begin="00:05:42.330" end="00:05:46.169" style="s2">want how we want our society to be</p>
+<p begin="00:05:44.400" end="00:05:48.960" style="s2">structured and what we want to optimize</p>
+<p begin="00:05:46.169" end="00:05:51.800" style="s2">assuming you know or satisfice we often</p>
+<p begin="00:05:48.960" end="00:05:55.530" style="s2">talk about the degree of inequality or</p>
+<p begin="00:05:51.800" end="00:05:56.910" style="s2">you know fairness or whatever side of</p>
+<p begin="00:05:55.530" end="00:05:58.380" style="s2">the spectrum you fall with respect to</p>
+<p begin="00:05:56.910" end="00:05:59.930" style="s2">these issues but we talk about specific</p>
+<p begin="00:05:58.380" end="00:06:01.890" style="s2">outcomes that we would like to see and</p>
+<p begin="00:05:59.930" end="00:06:04.770" style="s2">one of the things I&#39;ve been wondering</p>
+<p begin="00:06:01.890" end="00:06:07.560" style="s2">about is if instead of building</p>
+<p begin="00:06:04.770" end="00:06:09.330" style="s2">societies designed to maximize or</p>
+<p begin="00:06:07.560" end="00:06:12.000" style="s2">minimize certain things like the degree</p>
+<p begin="00:06:09.330" end="00:06:15.419" style="s2">of inequality could we build a society</p>
+<p begin="00:06:12.000" end="00:06:18.270" style="s2">that instead optimized or satisfies for</p>
+<p begin="00:06:15.419" end="00:06:19.620" style="s2">robustness and evolved ability and what</p>
+<p begin="00:06:18.270" end="00:06:22.080" style="s2">would it mean how would we have to</p>
+<p begin="00:06:19.620" end="00:06:23.700" style="s2">change things in order to be optimizing</p>
+<p begin="00:06:22.080" end="00:06:25.260" style="s2">for those things as opposed to specific</p>
+<p begin="00:06:23.700" end="00:06:27.470" style="s2">outcomes and I&#39;m not saying that we</p>
+<p begin="00:06:25.260" end="00:06:30.120" style="s2">right now have the capacity to really</p>
+<p begin="00:06:27.470" end="00:06:32.550" style="s2">optimize even satisfies for inequality</p>
+<p begin="00:06:30.120" end="00:06:33.810" style="s2">of the level of inequality right I don&#39;t</p>
+<p begin="00:06:32.550" end="00:06:35.580" style="s2">I don&#39;t think that&#39;s something that we</p>
+<p begin="00:06:33.810" end="00:06:37.530" style="s2">can very well control but it&#39;s the kind</p>
+<p begin="00:06:35.580" end="00:06:38.310" style="s2">of discussion that we as a society have</p>
+<p begin="00:06:37.530" end="00:06:40.160" style="s2">all the time</p>
+<p begin="00:06:38.310" end="00:06:43.100" style="s2">and in</p>
+<p begin="00:06:40.160" end="00:06:44.630" style="s2">saying what if we switch focus not you</p>
+<p begin="00:06:43.100" end="00:06:47.120" style="s2">know away from specific outcomes and</p>
+<p begin="00:06:44.630" end="00:06:50.300" style="s2">Turin towards tuning mechanisms that</p>
+<p begin="00:06:47.120" end="00:06:51.950" style="s2">allow us to change how a robust and I&#39;m</p>
+<p begin="00:06:50.300" end="00:06:54.230" style="s2">available we are given what&#39;s going on</p>
+<p begin="00:06:51.950" end="00:06:57.740" style="s2">in in the larger world whether it&#39;s</p>
+<p begin="00:06:54.230" end="00:06:59.540" style="s2">ecological or social yeah that makes a</p>
+<p begin="00:06:57.740" end="00:07:01.130" style="s2">huge amount of sense and you know like a</p>
+<p begin="00:06:59.540" end="00:07:03.800" style="s2">lot of people are starting to think that</p>
+<p begin="00:07:01.130" end="00:07:06.230" style="s2">way because you know one of the things</p>
+<p begin="00:07:03.800" end="00:07:08.300" style="s2">I&#39;ve pointed out again and again is that</p>
+<p begin="00:07:06.230" end="00:07:10.100" style="s2">this pen are a pandemic with the</p>
+<p begin="00:07:08.300" end="00:07:12.830" style="s2">statistical attributes of this one were</p>
+<p begin="00:07:10.100" end="00:07:14.900" style="s2">entirely predictable if one understands</p>
+<p begin="00:07:12.830" end="00:07:17.180" style="s2">the fact that pandemics are fat-tailed</p>
+<p begin="00:07:14.900" end="00:07:19.580" style="s2">phenomena and you plot some of the</p>
+<p begin="00:07:17.180" end="00:07:23.960" style="s2">pandemics we&#39;ve had over the last 50</p>
+<p begin="00:07:19.580" end="00:07:25.760" style="s2">years one of this scale is it&#39;s just</p>
+<p begin="00:07:23.960" end="00:07:27.890" style="s2">going to happen and oh by the way this</p>
+<p begin="00:07:25.760" end="00:07:29.630" style="s2">is not way out on the right tail there</p>
+<p begin="00:07:27.890" end="00:07:32.750" style="s2">will be pandemics a lot worse than this</p>
+<p begin="00:07:29.630" end="00:07:37.040" style="s2">one and I think it highlights in fact it</p>
+<p begin="00:07:32.750" end="00:07:39.680" style="s2">shows the amazing stupidity of the</p>
+<p begin="00:07:37.040" end="00:07:42.380" style="s2">hardcore game a money on money return</p>
+<p begin="00:07:39.680" end="00:07:45.490" style="s2">world that works for short term</p>
+<p begin="00:07:42.380" end="00:07:48.470" style="s2">efficiency and essentially tends to</p>
+<p begin="00:07:45.490" end="00:07:51.500" style="s2">never invest except at gunpoint in</p>
+<p begin="00:07:48.470" end="00:07:53.390" style="s2">robustness and resilience you know a</p>
+<p begin="00:07:51.500" end="00:07:55.910" style="s2">tiny investment a couple hundred million</p>
+<p begin="00:07:53.390" end="00:07:58.640" style="s2">dollars in January by the United States</p>
+<p begin="00:07:55.910" end="00:08:02.600" style="s2">government in ramping up masks and</p>
+<p begin="00:07:58.640" end="00:08:05.690" style="s2">ventilator production beginning the you</p>
+<p begin="00:08:02.600" end="00:08:07.580" style="s2">know some at scale run-up of testing</p>
+<p begin="00:08:05.690" end="00:08:09.800" style="s2">because so we wouldn&#39;t have had that</p>
+<p begin="00:08:07.580" end="00:08:11.690" style="s2">first run debacle of testing its after a</p>
+<p begin="00:08:09.800" end="00:08:13.310" style="s2">tiny tiny investment on the scale of</p>
+<p begin="00:08:11.690" end="00:08:15.110" style="s2">things probably would have cut the</p>
+<p begin="00:08:13.310" end="00:08:17.720" style="s2">economic cost of this by a couple of</p>
+<p begin="00:08:15.110" end="00:08:20.690" style="s2">trillion dollars and yet there is no</p>
+<p begin="00:08:17.720" end="00:08:23.570" style="s2">signal within our current social systems</p>
+<p begin="00:08:20.690" end="00:08:25.760" style="s2">that allows that to happen right but</p>
+<p begin="00:08:23.570" end="00:08:27.169" style="s2">that&#39;s true and I think I don&#39;t I guess</p>
+<p begin="00:08:25.760" end="00:08:29.390" style="s2">we have to ask it&#39;s like what would it</p>
+<p begin="00:08:27.169" end="00:08:32.210" style="s2">mean to build society that could more</p>
+<p begin="00:08:29.390" end="00:08:35.599" style="s2">fluidly respond to these kinds of events</p>
+<p begin="00:08:32.210" end="00:08:38.240" style="s2">and also be working when you know</p>
+<p begin="00:08:35.599" end="00:08:40.099" style="s2">everything was running well so for</p>
+<p begin="00:08:38.240" end="00:08:42.560" style="s2">example I mean just think outside my</p>
+<p begin="00:08:40.099" end="00:08:44.630" style="s2">head I imagine that we would invest in</p>
+<p begin="00:08:42.560" end="00:08:47.900" style="s2">technology like 3d printers or whatever</p>
+<p begin="00:08:44.630" end="00:08:50.450" style="s2">the version you know 3d printer 2.0 that</p>
+<p begin="00:08:47.900" end="00:08:53.870" style="s2">could produce infrastructure ventilators</p>
+<p begin="00:08:50.450" end="00:08:57.380" style="s2">and so forth at scale when on demand</p>
+<p begin="00:08:53.870" end="00:08:59.090" style="s2">essentially and in that way you know</p>
+<p begin="00:08:57.380" end="00:09:01.010" style="s2">allow us to have a more and hopefully</p>
+<p begin="00:08:59.090" end="00:09:02.750" style="s2">out of materials that are biodegradable</p>
+<p begin="00:09:01.010" end="00:09:04.010" style="s2">right because if we&#39;re gonna produce</p>
+<p begin="00:09:02.750" end="00:09:05.840" style="s2">materials that we only need during a</p>
+<p begin="00:09:04.010" end="00:09:07.460" style="s2">crisis and and we have nowhere to store</p>
+<p begin="00:09:05.840" end="00:09:11.570" style="s2">them or you know we want we don&#39;t want</p>
+<p begin="00:09:07.460" end="00:09:14.270" style="s2">to cause problems so how could we you</p>
+<p begin="00:09:11.570" end="00:09:16.760" style="s2">know what are the what are the points of</p>
+<p begin="00:09:14.270" end="00:09:17.990" style="s2">entry into a system where you&#39;re</p>
+<p begin="00:09:16.760" end="00:09:20.930" style="s2">optimizing for robustness and</p>
+<p begin="00:09:17.990" end="00:09:22.190" style="s2">evolvability and not specific outcomes</p>
+<p begin="00:09:20.930" end="00:09:24.200" style="s2">it or not like you say so how will you</p>
+<p begin="00:09:22.190" end="00:09:27.700" style="s2">focus on efficiency what are the things</p>
+<p begin="00:09:24.200" end="00:09:29.630" style="s2">we would need to change to do that yep</p>
+<p begin="00:09:27.700" end="00:09:31.990" style="s2">knowledge of you want what do we want to</p>
+<p begin="00:09:29.630" end="00:09:34.310" style="s2">be investing what kinds of educational</p>
+<p begin="00:09:31.990" end="00:09:37.100" style="s2">systems would we want to be investing</p>
+<p begin="00:09:34.310" end="00:09:38.180" style="s2">and maybe for example and this is you</p>
+<p begin="00:09:37.100" end="00:09:40.190" style="s2">know everyone&#39;s talking about this not</p>
+<p begin="00:09:38.180" end="00:09:43.040" style="s2">to education that focuses on</p>
+<p begin="00:09:40.190" end="00:09:45.770" style="s2">probabilistic thinking right as opposed</p>
+<p begin="00:09:43.040" end="00:09:48.140" style="s2">to you know learning just standard</p>
+<p begin="00:09:45.770" end="00:09:50.390" style="s2">statistics and calculus in high school</p>
+<p begin="00:09:48.140" end="00:09:53.690" style="s2">and you know the other one it&#39;s just</p>
+<p begin="00:09:50.390" end="00:09:55.730" style="s2">amazing the general public has no</p>
+<p begin="00:09:53.690" end="00:09:57.860" style="s2">intuition on Exponential&#39;s it&#39;s a</p>
+<p begin="00:09:55.730" end="00:09:59.030" style="s2">staggering to me one of the things that</p>
+<p begin="00:09:57.860" end="00:10:02.210" style="s2">we were talking about before the show</p>
+<p begin="00:09:59.030" end="00:10:03.890" style="s2">was the cognitive difference is how</p>
+<p begin="00:10:02.210" end="00:10:06.650" style="s2">people have behaved under the</p>
+<p begin="00:10:03.890" end="00:10:08.750" style="s2">information flowing out about koban 19</p>
+<p begin="00:10:06.650" end="00:10:10.550" style="s2">and I&#39;ve come to conclusion that there&#39;s</p>
+<p begin="00:10:08.750" end="00:10:12.500" style="s2">a huge line between those who have a</p>
+<p begin="00:10:10.550" end="00:10:15.020" style="s2">good intuition about what an exponential</p>
+<p begin="00:10:12.500" end="00:10:16.640" style="s2">is and those that don&#39;t so that&#39;s</p>
+<p begin="00:10:15.020" end="00:10:18.770" style="s2">another part of our educational toolkit</p>
+<p begin="00:10:16.640" end="00:10:22.250" style="s2">but I would go beyond just technology</p>
+<p begin="00:10:18.770" end="00:10:25.250" style="s2">and hard preparedness I would say that</p>
+<p begin="00:10:22.250" end="00:10:28.400" style="s2">this has also highlighted a major flaw</p>
+<p begin="00:10:25.250" end="00:10:31.220" style="s2">in our information processing you know</p>
+<p begin="00:10:28.400" end="00:10:32.990" style="s2">there was early signal that was</p>
+<p begin="00:10:31.220" end="00:10:37.460" style="s2">available to intelligence services in</p>
+<p begin="00:10:32.990" end="00:10:39.920" style="s2">the West by mid to late December at that</p>
+<p begin="00:10:37.460" end="00:10:43.370" style="s2">point you know especially knowing about</p>
+<p begin="00:10:39.920" end="00:10:45.260" style="s2">the fat-tailed nature of pandemics small</p>
+<p begin="00:10:43.370" end="00:10:47.090" style="s2">bets should have been placed to get</p>
+<p begin="00:10:45.260" end="00:10:50.660" style="s2">ready tens of millions of dollars in the</p>
+<p begin="00:10:47.090" end="00:10:51.830" style="s2">United States context in January should</p>
+<p begin="00:10:50.660" end="00:10:54.290" style="s2">have been hundreds of millions of</p>
+<p begin="00:10:51.830" end="00:10:56.390" style="s2">dollars but the information the signal</p>
+<p begin="00:10:54.290" end="00:10:59.920" style="s2">did not get through the noise and did</p>
+<p begin="00:10:56.390" end="00:11:03.470" style="s2">not get to sense makers and then</p>
+<p begin="00:10:59.920" end="00:11:05.660" style="s2">decision takers and then action makers</p>
+<p begin="00:11:03.470" end="00:11:07.220" style="s2">and so when I think we have to really</p>
+<p begin="00:11:05.660" end="00:11:10.699" style="s2">think through and</p>
+<p begin="00:11:07.220" end="00:11:14.379" style="s2">not just in stuff like 3d printers and</p>
+<p begin="00:11:10.699" end="00:11:18.529" style="s2">flexible manufacturing but a more robust</p>
+<p begin="00:11:14.379" end="00:11:20.540" style="s2">form of signal capture since making</p>
+<p begin="00:11:18.529" end="00:11:22.759" style="s2">decision making and then mobilization</p>
+<p begin="00:11:20.540" end="00:11:24.860" style="s2">for action that may be the thing that</p>
+<p begin="00:11:22.759" end="00:11:26.779" style="s2">gives us the greatest ability to operate</p>
+<p begin="00:11:24.860" end="00:11:28.910" style="s2">dynamically and in the evolutionary</p>
+<p begin="00:11:26.779" end="00:11:31.310" style="s2">context where we don&#39;t necessarily know</p>
+<p begin="00:11:28.910" end="00:11:33.170" style="s2">what the next big threats gonna be yeah</p>
+<p begin="00:11:31.310" end="00:11:35.149" style="s2">I mean I think that this is one of the</p>
+<p begin="00:11:33.170" end="00:11:36.680" style="s2">one of the points I like to make is that</p>
+<p begin="00:11:35.149" end="00:11:38.839" style="s2">when we do have these heavy tail</p>
+<p begin="00:11:36.680" end="00:11:39.680" style="s2">distributions the the they&#39;re sorted</p>
+<p begin="00:11:38.839" end="00:11:41.149" style="s2">they&#39;re different than normal</p>
+<p begin="00:11:39.680" end="00:11:42.350" style="s2">distribution and or they&#39;re the same as</p>
+<p begin="00:11:41.149" end="00:11:44.240" style="s2">a normal distribution in the sense that</p>
+<p begin="00:11:42.350" end="00:11:45.500" style="s2">there&#39;s a lot of things that are more or</p>
+<p begin="00:11:44.240" end="00:11:47.870" style="s2">less similar to each other they&#39;re in</p>
+<p begin="00:11:45.500" end="00:11:51.139" style="s2">the bulk but there are a few things on</p>
+<p begin="00:11:47.870" end="00:11:53.000" style="s2">the tail that are rare but much more</p>
+<p begin="00:11:51.139" end="00:11:55.670" style="s2">much bigger than you would see in a</p>
+<p begin="00:11:53.000" end="00:11:57.860" style="s2">normal distribution but and they&#39;re rare</p>
+<p begin="00:11:55.670" end="00:11:59.540" style="s2">but less rare than they would be in a</p>
+<p begin="00:11:57.860" end="00:12:01.519" style="s2">normal distribution that&#39;s important and</p>
+<p begin="00:11:59.540" end="00:12:03.769" style="s2">one of the things that we see so there</p>
+<p begin="00:12:01.519" end="00:12:05.360" style="s2">there are low probability significant</p>
+<p begin="00:12:03.769" end="00:12:07.879" style="s2">events one of the things that we see</p>
+<p begin="00:12:05.360" end="00:12:10.339" style="s2">when those events occur is that there</p>
+<p begin="00:12:07.879" end="00:12:12.019" style="s2">are second-order events in the tail that</p>
+<p begin="00:12:10.339" end="00:12:14.660" style="s2">are almost impossible to predict ahead</p>
+<p begin="00:12:12.019" end="00:12:16.220" style="s2">of time because they require the first</p>
+<p begin="00:12:14.660" end="00:12:18.800" style="s2">order tail events to have occurred and</p>
+<p begin="00:12:16.220" end="00:12:20.360" style="s2">then their likelihood increases and so</p>
+<p begin="00:12:18.800" end="00:12:24.290" style="s2">these are not things that we can</p>
+<p begin="00:12:20.360" end="00:12:27.170" style="s2">forecast really but they&#39;re scenarios</p>
+<p begin="00:12:24.290" end="00:12:29.180" style="s2">that we can prepare for and we can have</p>
+<p begin="00:12:27.170" end="00:12:31.730" style="s2">strategies if we know we&#39;re entering</p>
+<p begin="00:12:29.180" end="00:12:34.459" style="s2">into you know if we&#39;re in a first order</p>
+<p begin="00:12:31.730" end="00:12:35.600" style="s2">tail event we know that certain kinds of</p>
+<p begin="00:12:34.459" end="00:12:37.579" style="s2">behavioral shifts that make the</p>
+<p begin="00:12:35.600" end="00:12:39.500" style="s2">second-order tail events more likely we</p>
+<p begin="00:12:37.579" end="00:12:41.449" style="s2">know what they are and so we can check</p>
+<p begin="00:12:39.500" end="00:12:43.550" style="s2">our own behavior so these are not things</p>
+<p begin="00:12:41.449" end="00:12:46.459" style="s2">we can forecast but we can set up</p>
+<p begin="00:12:43.550" end="00:12:48.470" style="s2">scenarios or a scenario space and</p>
+<p begin="00:12:46.459" end="00:12:49.819" style="s2">understand or develop a set of</p>
+<p begin="00:12:48.470" end="00:12:51.410" style="s2">strategies for dealing in those</p>
+<p begin="00:12:49.819" end="00:12:53.809" style="s2">scenarios and I think we need to see a</p>
+<p begin="00:12:51.410" end="00:12:55.790" style="s2">lot more of that absolutely in fact one</p>
+<p begin="00:12:53.809" end="00:12:57.139" style="s2">of ideas I&#39;m going to propose I&#39;m gonna</p>
+<p begin="00:12:55.790" end="00:12:59.149" style="s2">do it here for the first time I&#39;ve been</p>
+<p begin="00:12:57.139" end="00:13:01.459" style="s2">taking some notes to myself I&#39;m gonna</p>
+<p begin="00:12:59.149" end="00:13:03.379" style="s2">write a little essay on it is the US</p>
+<p begin="00:13:01.459" end="00:13:07.040" style="s2">government should establish an executive</p>
+<p begin="00:13:03.379" end="00:13:09.500" style="s2">department of wicked risks whose job it</p>
+<p begin="00:13:07.040" end="00:13:11.689" style="s2">is to do just this kind of stuff who</p>
+<p begin="00:13:09.500" end="00:13:14.240" style="s2">basically do advance scenario planning</p>
+<p begin="00:13:11.689" end="00:13:17.630" style="s2">for the civil civilian sector to</p>
+<p begin="00:13:14.240" end="00:13:20.329" style="s2">probabilistic modeling who wargame Red</p>
+<p begin="00:13:17.630" end="00:13:21.710" style="s2">Team responses to theoretical things</p>
+<p begin="00:13:20.329" end="00:13:23.270" style="s2">like for rinse</p>
+<p begin="00:13:21.710" end="00:13:24.830" style="s2">it would have been really nice if we</p>
+<p begin="00:13:23.270" end="00:13:26.720" style="s2">could take an bribe them if necessary</p>
+<p begin="00:13:24.830" end="00:13:29.600" style="s2">you know a medium-sized city a hundred</p>
+<p begin="00:13:26.720" end="00:13:30.980" style="s2">thousand people and literally run a live</p>
+<p begin="00:13:29.600" end="00:13:33.110" style="s2">drill what happens if you have a</p>
+<p begin="00:13:30.980" end="00:13:34.670" style="s2">pandemic of this statistical attribute</p>
+<p begin="00:13:33.110" end="00:13:36.410" style="s2">we would have found all kinds of things</p>
+<p begin="00:13:34.670" end="00:13:39.020" style="s2">like oh we don&#39;t have enough mass</p>
+<p begin="00:13:36.410" end="00:13:40.670" style="s2">we run out of ventilators etc and you</p>
+<p begin="00:13:39.020" end="00:13:42.920" style="s2">know give this department of wicked</p>
+<p begin="00:13:40.670" end="00:13:45.350" style="s2">risks you know five billion dollars a</p>
+<p begin="00:13:42.920" end="00:13:48.520" style="s2">year to play with and you know hire in</p>
+<p begin="00:13:45.350" end="00:13:50.780" style="s2">the most creative most intelligent</p>
+<p begin="00:13:48.520" end="00:13:53.390" style="s2">scenario thinkers that exist on the</p>
+<p begin="00:13:50.780" end="00:13:56.450" style="s2">earth to staff it I think that would be</p>
+<p begin="00:13:53.390" end="00:13:58.460" style="s2">huge for our society that&#39;s that&#39;s a</p>
+<p begin="00:13:56.450" end="00:13:59.960" style="s2">great idea and and I think that you know</p>
+<p begin="00:13:58.460" end="00:14:01.280" style="s2">one of my suspicions of course is that a</p>
+<p begin="00:13:59.960" end="00:14:02.990" style="s2">lot of the problem in terms of</p>
+<p begin="00:14:01.280" end="00:14:05.750" style="s2">responding we&#39;re having in this Cove in</p>
+<p begin="00:14:02.990" end="00:14:08.180" style="s2">nineteen crisis is derived from our</p>
+<p begin="00:14:05.750" end="00:14:09.950" style="s2">current administration but I don&#39;t think</p>
+<p begin="00:14:08.180" end="00:14:11.450" style="s2">this department of what certain things</p>
+<p begin="00:14:09.950" end="00:14:13.580" style="s2">are not in place that have been in place</p>
+<p begin="00:14:11.450" end="00:14:15.800" style="s2">before that maybe would have facilitated</p>
+<p begin="00:14:13.580" end="00:14:17.780" style="s2">things but I but we certainly have is</p>
+<p begin="00:14:15.800" end="00:14:19.790" style="s2">having as far as I know ever have an</p>
+<p begin="00:14:17.780" end="00:14:23.630" style="s2">analogue of the department we could risk</p>
+<p begin="00:14:19.790" end="00:14:25.700" style="s2">in any administration before I think</p>
+<p begin="00:14:23.630" end="00:14:26.960" style="s2">some companies have such things and I</p>
+<p begin="00:14:25.700" end="00:14:29.990" style="s2">was reading a nice article about a</p>
+<p begin="00:14:26.960" end="00:14:31.490" style="s2">grocery store in Texas that&#39;s a very big</p>
+<p begin="00:14:29.990" end="00:14:33.200" style="s2">chain in Texas I forget what it&#39;s called</p>
+<p begin="00:14:31.490" end="00:14:35.780" style="s2">something with an H and it has</p>
+<p begin="00:14:33.200" end="00:14:38.570" style="s2">essentially this and it and was prepared</p>
+<p begin="00:14:35.780" end="00:14:41.840" style="s2">for this pandemic in terms of bolstering</p>
+<p begin="00:14:38.570" end="00:14:44.240" style="s2">its global supply chain storage and so</p>
+<p begin="00:14:41.840" end="00:14:47.210" style="s2">forth and and is you know it is managing</p>
+<p begin="00:14:44.240" end="00:14:49.280" style="s2">very well and that&#39;s just I love that</p>
+<p begin="00:14:47.210" end="00:14:52.250" style="s2">story because it&#39;s just this you know</p>
+<p begin="00:14:49.280" end="00:14:54.280" style="s2">it&#39;s just I guess not I&#39;m not a huge</p>
+<p begin="00:14:52.250" end="00:14:57.830" style="s2">company but quite an effective one that</p>
+<p begin="00:14:54.280" end="00:15:00.590" style="s2">did what our current administration you</p>
+<p begin="00:14:57.830" end="00:15:02.630" style="s2">know didn&#39;t didn&#39;t do it all yeah but</p>
+<p begin="00:15:00.590" end="00:15:04.060" style="s2">the other thing is you know yes it&#39;s we</p>
+<p begin="00:15:02.630" end="00:15:06.470" style="s2">can blame part of it on our</p>
+<p begin="00:15:04.060" end="00:15:08.300" style="s2">administration in the in the United</p>
+<p begin="00:15:06.470" end="00:15:10.520" style="s2">States which anyone who listen to the</p>
+<p begin="00:15:08.300" end="00:15:12.380" style="s2">show knows I&#39;m no great fan of but we</p>
+<p begin="00:15:10.520" end="00:15:15.170" style="s2">should also note that these systemic</p>
+<p begin="00:15:12.380" end="00:15:18.080" style="s2">failures of timely action were pervasive</p>
+<p begin="00:15:15.170" end="00:15:22.700" style="s2">across the West you know</p>
+<p begin="00:15:18.080" end="00:15:24.440" style="s2">Spain Italy UK France none of them did a</p>
+<p begin="00:15:22.700" end="00:15:26.780" style="s2">good job of being ahead of the curve the</p>
+<p begin="00:15:24.440" end="00:15:28.250" style="s2">only people who had did it or did a good</p>
+<p begin="00:15:26.780" end="00:15:31.250" style="s2">job of being ahead of the curve tended</p>
+<p begin="00:15:28.250" end="00:15:35.660" style="s2">to be either very small countries like</p>
+<p begin="00:15:31.250" end="00:15:38.540" style="s2">Denmark or countries who had had</p>
+<p begin="00:15:35.660" end="00:15:42.020" style="s2">a pre pre run drill on the SARS epidemic</p>
+<p begin="00:15:38.540" end="00:15:44.570" style="s2">so the eastern rim Taiwan Hongkong</p>
+<p begin="00:15:42.020" end="00:15:46.160" style="s2">Singapore Japan and to a greater or</p>
+<p begin="00:15:44.570" end="00:15:49.370" style="s2">lesser degree seem to have done well so</p>
+<p begin="00:15:46.160" end="00:15:51.530" style="s2">yes we have our special issues shall we</p>
+<p begin="00:15:49.370" end="00:15:54.190" style="s2">say with our current administration but</p>
+<p begin="00:15:51.530" end="00:15:56.300" style="s2">the West as a whole failed the test</p>
+<p begin="00:15:54.190" end="00:15:58.790" style="s2">yeah I think in the United States that&#39;s</p>
+<p begin="00:15:56.300" end="00:16:00.470" style="s2">complicated because I see one of the</p>
+<p begin="00:15:58.790" end="00:16:03.800" style="s2">great things about the u.s. is this sort</p>
+<p begin="00:16:00.470" end="00:16:07.490" style="s2">of bottom-up innovation and so everyone</p>
+<p begin="00:16:03.800" end="00:16:09.590" style="s2">I know you know from CEOs to scientists</p>
+<p begin="00:16:07.490" end="00:16:13.040" style="s2">is somehow involving themselves and</p>
+<p begin="00:16:09.590" end="00:16:15.410" style="s2">trying to contribute to Kovan 19 and you</p>
+<p begin="00:16:13.040" end="00:16:18.050" style="s2">know it&#39;s chaotic it&#39;s a chaotic semi</p>
+<p begin="00:16:15.410" end="00:16:19.700" style="s2">coordinated response but it generates a</p>
+<p begin="00:16:18.050" end="00:16:22.760" style="s2">lot of novel solutions and local</p>
+<p begin="00:16:19.700" end="00:16:24.740" style="s2">solutions and maybe not you know in this</p>
+<p begin="00:16:22.760" end="00:16:28.070" style="s2">particular pandemic because of the time</p>
+<p begin="00:16:24.740" end="00:16:29.780" style="s2">scales you know it&#39;s not fast enough but</p>
+<p begin="00:16:28.070" end="00:16:34.730" style="s2">I think in the we&#39;re gonna have to wait</p>
+<p begin="00:16:29.780" end="00:16:36.650" style="s2">to see whether to sort of partition</p>
+<p begin="00:16:34.730" end="00:16:39.740" style="s2">partition out these various contributors</p>
+<p begin="00:16:36.650" end="00:16:41.030" style="s2">to to where we&#39;re at today and see how</p>
+<p begin="00:16:39.740" end="00:16:43.190" style="s2">it plays out down the road and whether</p>
+<p begin="00:16:41.030" end="00:16:46.400" style="s2">maybe over the longer term this kind of</p>
+<p begin="00:16:43.190" end="00:16:48.320" style="s2">more you know semi coordinated bottom-up</p>
+<p begin="00:16:46.400" end="00:16:52.010" style="s2">innovation based strategy that the US</p>
+<p begin="00:16:48.320" end="00:16:54.380" style="s2">has is useful and I just want to come</p>
+<p begin="00:16:52.010" end="00:16:56.960" style="s2">back to it&#39;s related point come back to</p>
+<p begin="00:16:54.380" end="00:16:58.730" style="s2">the earlier conversation about building</p>
+<p begin="00:16:56.960" end="00:17:01.040" style="s2">societies and social structures that</p>
+<p begin="00:16:58.730" end="00:17:03.680" style="s2">optimize or satisfies robust and evolved</p>
+<p begin="00:17:01.040" end="00:17:05.030" style="s2">ability as opposed to focus on focusing</p>
+<p begin="00:17:03.680" end="00:17:09.170" style="s2">on getting specific outcomes like a</p>
+<p begin="00:17:05.030" end="00:17:11.209" style="s2">degree of inequality it&#39;s not just about</p>
+<p begin="00:17:09.170" end="00:17:13.220" style="s2">you know to have a department of wicked</p>
+<p begin="00:17:11.209" end="00:17:15.230" style="s2">rest would be awesome and to get people</p>
+<p begin="00:17:13.220" end="00:17:16.610" style="s2">thinking probabilistically and to think</p>
+<p begin="00:17:15.230" end="00:17:18.800" style="s2">in terms of scenarios which is a little</p>
+<p begin="00:17:16.610" end="00:17:21.800" style="s2">different where else to be awesome but I</p>
+<p begin="00:17:18.800" end="00:17:23.900" style="s2">think there&#39;s a much more there&#39;s a</p>
+<p begin="00:17:21.800" end="00:17:24.350" style="s2">profound point philosophically profound</p>
+<p begin="00:17:23.900" end="00:17:26.270" style="s2">point</p>
+<p begin="00:17:24.350" end="00:17:28.160" style="s2">hidden in there and that is to really</p>
+<p begin="00:17:26.270" end="00:17:30.320" style="s2">build a society that optimizes for those</p>
+<p begin="00:17:28.160" end="00:17:32.450" style="s2">things rather than for inequality we</p>
+<p begin="00:17:30.320" end="00:17:35.650" style="s2">have to be comfortable with an open</p>
+<p begin="00:17:32.450" end="00:17:38.630" style="s2">open-ended outcomes because we&#39;re not</p>
+<p begin="00:17:35.650" end="00:17:41.120" style="s2">focusing on specific outcomes like</p>
+<p begin="00:17:38.630" end="00:17:42.830" style="s2">inequality where we&#39;re sort of by</p>
+<p begin="00:17:41.120" end="00:17:45.620" style="s2">focusing on robustus were saying we&#39;re</p>
+<p begin="00:17:42.830" end="00:17:47.360" style="s2">going to let emerge the right solution</p>
+<p begin="00:17:45.620" end="00:17:48.559" style="s2">and social structure to combat this</p>
+<p begin="00:17:47.360" end="00:17:51.950" style="s2">situation</p>
+<p begin="00:17:48.559" end="00:17:53.840" style="s2">that is not typically even though where</p>
+<p begin="00:17:51.950" end="00:17:56.090" style="s2">we love innovation here in the States</p>
+<p begin="00:17:53.840" end="00:17:58.850" style="s2">and we&#39;re very bottom-up that that idea</p>
+<p begin="00:17:56.090" end="00:18:00.259" style="s2">is not a typical idea that I think</p>
+<p begin="00:17:58.850" end="00:18:02.570" style="s2">Americans are comfortable with</p>
+<p begin="00:18:00.259" end="00:18:05.049" style="s2">that&#39;s classic complexity thinking right</p>
+<p begin="00:18:02.570" end="00:18:07.730" style="s2">and the number of mature people in power</p>
+<p begin="00:18:05.049" end="00:18:10.850" style="s2">who are capable of thinking in terms of</p>
+<p begin="00:18:07.730" end="00:18:14.450" style="s2">complex systems are tiny tiny tiny not</p>
+<p begin="00:18:10.850" end="00:18:16.070" style="s2">zero but they&#39;re very small and you know</p>
+<p begin="00:18:14.450" end="00:18:17.870" style="s2">to get that kind of responsible we need</p>
+<p begin="00:18:16.070" end="00:18:19.519" style="s2">to do a better job of selecting leaders</p>
+<p begin="00:18:17.870" end="00:18:22.090" style="s2">and make sure that they&#39;re up to the</p>
+<p begin="00:18:19.519" end="00:18:25.249" style="s2">snuff to do complexity based thinking</p>
+<p begin="00:18:22.090" end="00:18:29.179" style="s2">yeah yeah and I mean we but we also need</p>
+<p begin="00:18:25.249" end="00:18:30.710" style="s2">to sort of come to terms or get</p>
+<p begin="00:18:29.179" end="00:18:32.419" style="s2">comfortable with the idea that for if we</p>
+<p begin="00:18:30.710" end="00:18:34.730" style="s2">were to build up this more fluid system</p>
+<p begin="00:18:32.419" end="00:18:36.139" style="s2">and you know there&#39;s all sorts of we</p>
+<p begin="00:18:34.730" end="00:18:37.669" style="s2">could have a very long conversation very</p>
+<p begin="00:18:36.139" end="00:18:38.990" style="s2">spective one about how and I will put</p>
+<p begin="00:18:37.669" end="00:18:40.940" style="s2">some mechanisms on the table in a little</p>
+<p begin="00:18:38.990" end="00:18:42.169" style="s2">while but we were to build this more</p>
+<p begin="00:18:40.940" end="00:18:44.869" style="s2">fluid system we&#39;d have to be comfortable</p>
+<p begin="00:18:42.169" end="00:18:47.210" style="s2">with the possibility that for perhaps a</p>
+<p begin="00:18:44.869" end="00:18:50.889" style="s2">short time period we might move into a</p>
+<p begin="00:18:47.210" end="00:18:53.269" style="s2">regime that&#39;s a little bit more top-down</p>
+<p begin="00:18:50.889" end="00:18:54.919" style="s2">we might put in place checks so that</p>
+<p begin="00:18:53.269" end="00:18:56.389" style="s2">sort of top-down and I&#39;m not you know</p>
+<p begin="00:18:54.919" end="00:18:58.669" style="s2">I&#39;m not a top-down you know</p>
+<p begin="00:18:56.389" end="00:19:00.529" style="s2">philosophically oriented person but I&#39;m</p>
+<p begin="00:18:58.669" end="00:19:02.450" style="s2">you know I&#39;m trying to be objective here</p>
+<p begin="00:19:00.529" end="00:19:05.269" style="s2">if we if we optimize for buses</p>
+<p begin="00:19:02.450" end="00:19:07.190" style="s2">availability we have to perhaps accept</p>
+<p begin="00:19:05.269" end="00:19:10.249" style="s2">that we&#39;re sometimes going to enter</p>
+<p begin="00:19:07.190" end="00:19:11.869" style="s2">regimes that are maybe the best regime</p>
+<p begin="00:19:10.249" end="00:19:14.119" style="s2">given the environmental challenge we</p>
+<p begin="00:19:11.869" end="00:19:16.700" style="s2">face but maybe not the most optimal</p>
+<p begin="00:19:14.119" end="00:19:19.070" style="s2">regime given our sort of underlying you</p>
+<p begin="00:19:16.700" end="00:19:21.759" style="s2">know our ideas about how we should live</p>
+<p begin="00:19:19.070" end="00:19:24.409" style="s2">as individuals and what society should</p>
+<p begin="00:19:21.759" end="00:19:25.759" style="s2">you know what form it should take yeah</p>
+<p begin="00:19:24.409" end="00:19:28.220" style="s2">we&#39;ve been talking about this I got some</p>
+<p begin="00:19:25.759" end="00:19:30.860" style="s2">friends of mine and I and what we think</p>
+<p begin="00:19:28.220" end="00:19:33.080" style="s2">is that this the kind of meta strategy</p>
+<p begin="00:19:30.860" end="00:19:37.159" style="s2">is that the system whatever it is this</p>
+<p begin="00:19:33.080" end="00:19:38.990" style="s2">complex view system for a new social</p>
+<p begin="00:19:37.159" end="00:19:41.299" style="s2">operating system for our society to be</p>
+<p begin="00:19:38.990" end="00:19:45.019" style="s2">able to deal with recurrent wicked risks</p>
+<p begin="00:19:41.299" end="00:19:47.149" style="s2">has to be capable doing phase changes so</p>
+<p begin="00:19:45.019" end="00:19:49.159" style="s2">it can be in a state that we say honors</p>
+<p begin="00:19:47.149" end="00:19:52.730" style="s2">all of our deepest values but has to be</p>
+<p begin="00:19:49.159" end="00:19:54.619" style="s2">able on demand to switch into a new</p>
+<p begin="00:19:52.730" end="00:19:58.369" style="s2">state literally a new way of operating</p>
+<p begin="00:19:54.619" end="00:20:01.200" style="s2">called a war fighting mode which may not</p>
+<p begin="00:19:58.369" end="00:20:02.610" style="s2">be entirely honoring all of our</p>
+<p begin="00:20:01.200" end="00:20:05.639" style="s2">you know longer-term values but here&#39;s</p>
+<p begin="00:20:02.610" end="00:20:07.769" style="s2">the key you also has to be a reason and</p>
+<p begin="00:20:05.639" end="00:20:10.440" style="s2">a means by which that times out or which</p>
+<p begin="00:20:07.769" end="00:20:14.039" style="s2">it returns to its normal mode relatively</p>
+<p begin="00:20:10.440" end="00:20:16.740" style="s2">quickly once the risk is gone the Roman</p>
+<p begin="00:20:14.039" end="00:20:18.899" style="s2">Republic had an interesting approach to</p>
+<p begin="00:20:16.740" end="00:20:21.360" style="s2">this problem and they survived for what</p>
+<p begin="00:20:18.899" end="00:20:24.960" style="s2">seven hundred years which was that they</p>
+<p begin="00:20:21.360" end="00:20:27.510" style="s2">had a extraordinarily complicated quasi</p>
+<p begin="00:20:24.960" end="00:20:29.700" style="s2">democracy quasi oligarchy with all kinds</p>
+<p begin="00:20:27.510" end="00:20:33.029" style="s2">of different veto points in the system</p>
+<p begin="00:20:29.700" end="00:20:36.210" style="s2">however by a I think that is some super</p>
+<p begin="00:20:33.029" end="00:20:38.940" style="s2">majority of the Senate and not vetoed by</p>
+<p begin="00:20:36.210" end="00:20:40.500" style="s2">the tribunes the the governance</p>
+<p begin="00:20:38.940" end="00:20:42.090" style="s2">mechanism could appoint a dictator</p>
+<p begin="00:20:40.500" end="00:20:45.110" style="s2">that&#39;s literally what they were called a</p>
+<p begin="00:20:42.090" end="00:20:47.730" style="s2">dictator the term lasted only exactly</p>
+<p begin="00:20:45.110" end="00:20:49.860" style="s2">six six months and at the end of that</p>
+<p begin="00:20:47.730" end="00:20:53.190" style="s2">term the dictator was thrown out of</p>
+<p begin="00:20:49.860" end="00:20:54.809" style="s2">office and that&#39;s how they did the phase</p>
+<p begin="00:20:53.190" end="00:20:56.880" style="s2">change obviously we could do something</p>
+<p begin="00:20:54.809" end="00:20:58.380" style="s2">more intelligent but I think that&#39;s kind</p>
+<p begin="00:20:56.880" end="00:21:00.389" style="s2">of the idea you were talking about there</p>
+<p begin="00:20:58.380" end="00:21:02.070" style="s2">right yeah and in nature you know</p>
+<p begin="00:21:00.389" end="00:21:06.840" style="s2">receives sort of two different types of</p>
+<p begin="00:21:02.070" end="00:21:08.399" style="s2">phase changes or transitions in physics</p>
+<p begin="00:21:06.840" end="00:21:10.169" style="s2">the concept is called a critical point</p>
+<p begin="00:21:08.399" end="00:21:11.730" style="s2">where they&#39;re small perturbation or</p>
+<p begin="00:21:10.169" end="00:21:13.049" style="s2">small shock to the system because of</p>
+<p begin="00:21:11.730" end="00:21:14.789" style="s2">long-range correlations kind of big</p>
+<p begin="00:21:13.049" end="00:21:17.429" style="s2">effects and kick you into a new state</p>
+<p begin="00:21:14.789" end="00:21:19.409" style="s2">and sometimes we see a repertoire of</p>
+<p begin="00:21:17.429" end="00:21:21.600" style="s2">state so like the canonical example is</p>
+<p begin="00:21:19.409" end="00:21:23.220" style="s2">the fish school or the fish swimming</p>
+<p begin="00:21:21.600" end="00:21:25.799" style="s2">together and they&#39;re swimming together</p>
+<p begin="00:21:23.220" end="00:21:28.080" style="s2">initially in a console where they&#39;re</p>
+<p begin="00:21:25.799" end="00:21:30.720" style="s2">loosely aligned and foraging and then a</p>
+<p begin="00:21:28.080" end="00:21:32.159" style="s2">predator appears one of the fish detects</p>
+<p begin="00:21:30.720" end="00:21:33.450" style="s2">the predator and this information</p>
+<p begin="00:21:32.159" end="00:21:34.950" style="s2">spreads across the group and because</p>
+<p begin="00:21:33.450" end="00:21:38.010" style="s2">they&#39;re they&#39;re sitting close to the</p>
+<p begin="00:21:34.950" end="00:21:40.380" style="s2">tipping point by by shoaling by having</p>
+<p begin="00:21:38.010" end="00:21:42.510" style="s2">this sort of like low level of alignment</p>
+<p begin="00:21:40.380" end="00:21:44.039" style="s2">they&#39;re able to transition quickly into</p>
+<p begin="00:21:42.510" end="00:21:46.169" style="s2">the schooling state where they&#39;re all</p>
+<p begin="00:21:44.039" end="00:21:49.529" style="s2">highly aligned and escape the predator</p>
+<p begin="00:21:46.169" end="00:21:51.779" style="s2">and it&#39;s a reversible state change they</p>
+<p begin="00:21:49.529" end="00:21:54.120" style="s2">can go back to showing so there the fish</p>
+<p begin="00:21:51.779" end="00:21:55.860" style="s2">have these two these two phases</p>
+<p begin="00:21:54.120" end="00:21:57.539" style="s2">essentially they have the schooling and</p>
+<p begin="00:21:55.860" end="00:21:59.159" style="s2">the shoaling and there&#39;s a mechanism</p>
+<p begin="00:21:57.539" end="00:22:01.200" style="s2">that allows them to move between the</p>
+<p begin="00:21:59.159" end="00:22:02.549" style="s2">school and the shoaling depending on the</p>
+<p begin="00:22:01.200" end="00:22:04.320" style="s2">detection of the predator and of course</p>
+<p begin="00:22:02.549" end="00:22:06.480" style="s2">this is a little bit dangerous because</p>
+<p begin="00:22:04.320" end="00:22:07.710" style="s2">if the fish shoot it initially detects</p>
+<p begin="00:22:06.480" end="00:22:08.850" style="s2">the predator or thinks there&#39;s a</p>
+<p begin="00:22:07.710" end="00:22:10.769" style="s2">predator present has gotten it wrong</p>
+<p begin="00:22:08.850" end="00:22:12.950" style="s2">they might switch the schooling</p>
+<p begin="00:22:10.769" end="00:22:14.340" style="s2">inappropriately so that&#39;s the kind of</p>
+<p begin="00:22:12.950" end="00:22:16.710" style="s2">robustness</p>
+<p begin="00:22:14.340" end="00:22:19.320" style="s2">of sitting near the critical point but</p>
+<p begin="00:22:16.710" end="00:22:21.299" style="s2">on the other hand it allows them to</p>
+<p begin="00:22:19.320" end="00:22:23.940" style="s2">enter a more adaptive state if the fish</p>
+<p begin="00:22:21.299" end="00:22:25.830" style="s2">really is present right so that&#39;s one</p>
+<p begin="00:22:23.940" end="00:22:28.200" style="s2">where we have that&#39;s one example where</p>
+<p begin="00:22:25.830" end="00:22:29.700" style="s2">we have these two sort of known States</p>
+<p begin="00:22:28.200" end="00:22:31.169" style="s2">at the Irate level each of which is</p>
+<p begin="00:22:29.700" end="00:22:33.299" style="s2">adapted to a different environment the</p>
+<p begin="00:22:31.169" end="00:22:35.279" style="s2">presence or absence of the fish but in</p>
+<p begin="00:22:33.299" end="00:22:38.100" style="s2">other cases it might be that you sit</p>
+<p begin="00:22:35.279" end="00:22:40.559" style="s2">near the critical point and you&#39;re you</p>
+<p begin="00:22:38.100" end="00:22:42.000" style="s2">know you you&#39;re-you&#39;re and you keep your</p>
+<p begin="00:22:40.559" end="00:22:43.440" style="s2">interactions and your style your</p>
+<p begin="00:22:42.000" end="00:22:44.730" style="s2">strategies are well tuned to the current</p>
+<p begin="00:22:43.440" end="00:22:47.549" style="s2">environment but then the environment</p>
+<p begin="00:22:44.730" end="00:22:48.750" style="s2">changes and it&#39;s uncertain or changes to</p>
+<p begin="00:22:47.549" end="00:22:53.570" style="s2">a distribution that you haven&#39;t observed</p>
+<p begin="00:22:48.750" end="00:22:56.159" style="s2">before and now you enter a state where</p>
+<p begin="00:22:53.570" end="00:22:59.909" style="s2">that you haven&#39;t been for you or you</p>
+<p begin="00:22:56.159" end="00:23:02.279" style="s2">enter a kind of search space and you</p>
+<p begin="00:22:59.909" end="00:23:04.740" style="s2">don&#39;t know what you&#39;re going to get what</p>
+<p begin="00:23:02.279" end="00:23:06.299" style="s2">you get though you know that what you</p>
+<p begin="00:23:04.740" end="00:23:09.450" style="s2">had before is inappropriate though</p>
+<p begin="00:23:06.299" end="00:23:12.000" style="s2">that&#39;s the key yeah we talked about we</p>
+<p begin="00:23:09.450" end="00:23:14.220" style="s2">use in our game be world that we&#39;re</p>
+<p begin="00:23:12.000" end="00:23:15.929" style="s2">liminal to mean that where you enter a</p>
+<p begin="00:23:14.220" end="00:23:17.990" style="s2">space where you know it ain&#39;t what it</p>
+<p begin="00:23:15.929" end="00:23:21.059" style="s2">was but you&#39;re not sure what it is yet</p>
+<p begin="00:23:17.990" end="00:23:23.730" style="s2">and you know that is a most interesting</p>
+<p begin="00:23:21.059" end="00:23:25.140" style="s2">space and I think for the things you&#39;re</p>
+<p begin="00:23:23.730" end="00:23:26.640" style="s2">talking about is it probably a good way</p>
+<p begin="00:23:25.140" end="00:23:29.610" style="s2">to think about the problem you know the</p>
+<p begin="00:23:26.640" end="00:23:32.880" style="s2">the you know the famous formation</p>
+<p begin="00:23:29.610" end="00:23:34.429" style="s2">switching by birds and by fish you know</p>
+<p begin="00:23:32.880" end="00:23:37.409" style="s2">they&#39;re quite simple you know a simple</p>
+<p begin="00:23:34.429" end="00:23:39.809" style="s2">way of relating it&#39;s either A or B and</p>
+<p begin="00:23:37.409" end="00:23:42.149" style="s2">you know the rule for triggering a and B</p>
+<p begin="00:23:39.809" end="00:23:44.100" style="s2">is quite simplistic as humans we could</p>
+<p begin="00:23:42.149" end="00:23:46.559" style="s2">be way smarter we can allow ourselves to</p>
+<p begin="00:23:44.100" end="00:23:48.870" style="s2">be in a liminal space for a while and we</p>
+<p begin="00:23:46.559" end="00:23:51.899" style="s2">can figure out what&#39;s going on you know</p>
+<p begin="00:23:48.870" end="00:23:53.580" style="s2">and you know those are the kinds of</p>
+<p begin="00:23:51.899" end="00:23:55.590" style="s2">capabilities that we really need to bake</p>
+<p begin="00:23:53.580" end="00:23:58.350" style="s2">into our social operating system</p>
+<p begin="00:23:55.590" end="00:24:00.480" style="s2">well I another you know just again sort</p>
+<p begin="00:23:58.350" end="00:24:02.549" style="s2">of playing with these ideas when things</p>
+<p begin="00:24:00.480" end="00:24:05.100" style="s2">are going well actually might be the</p>
+<p begin="00:24:02.549" end="00:24:08.100" style="s2">time if we could engineer these emergent</p>
+<p begin="00:24:05.100" end="00:24:10.169" style="s2">systems to you know to induce that state</p>
+<p begin="00:24:08.100" end="00:24:12.390" style="s2">change to this more elemental phase so</p>
+<p begin="00:24:10.169" end="00:24:14.159" style="s2">we could explore relatively low cost</p>
+<p begin="00:24:12.390" end="00:24:16.080" style="s2">sort of like roughly analogous to a</p>
+<p begin="00:24:14.159" end="00:24:17.309" style="s2">neutral network in biology because for</p>
+<p begin="00:24:16.080" end="00:24:19.470" style="s2">relatively low cost alternative</p>
+<p begin="00:24:17.309" end="00:24:21.480" style="s2">solutions and ways of doing things and</p>
+<p begin="00:24:19.470" end="00:24:23.429" style="s2">then switch back to the one that we know</p>
+<p begin="00:24:21.480" end="00:24:25.860" style="s2">who works in the given environment it&#39;s</p>
+<p begin="00:24:23.429" end="00:24:26.790" style="s2">not really great to experiment when when</p>
+<p begin="00:24:25.860" end="00:24:28.530" style="s2">the environment is on</p>
+<p begin="00:24:26.790" end="00:24:30.120" style="s2">with the exception being that if you</p>
+<p begin="00:24:28.530" end="00:24:30.900" style="s2">know what you&#39;re doing before isn&#39;t</p>
+<p begin="00:24:30.120" end="00:24:33.450" style="s2">gonna work in the current environment</p>
+<p begin="00:24:30.900" end="00:24:35.090" style="s2">then you have no choice and I just want</p>
+<p begin="00:24:33.450" end="00:24:38.130" style="s2">to put on the table like a few</p>
+<p begin="00:24:35.090" end="00:24:40.679" style="s2">mechanisms and again just these are just</p>
+<p begin="00:24:38.130" end="00:24:42.510" style="s2">mechanisms I&#39;ve kind of like been I&#39;ve</p>
+<p begin="00:24:40.679" end="00:24:44.100" style="s2">been thinking a little bit about my own</p>
+<p begin="00:24:42.510" end="00:24:45.870" style="s2">head I haven&#39;t worked on them and I</p>
+<p begin="00:24:44.100" end="00:24:48.840" style="s2">don&#39;t know if they would work but just</p>
+<p begin="00:24:45.870" end="00:24:50.850" style="s2">as examples of how we might and you know</p>
+<p begin="00:24:48.840" end="00:24:52.590" style="s2">in DC state changes I&#39;ll take markets as</p>
+<p begin="00:24:50.850" end="00:24:56.640" style="s2">my starting point yeah let&#39;s go for it</p>
+<p begin="00:24:52.590" end="00:24:58.410" style="s2">I&#39;d love to hear these okay so so one</p>
+<p begin="00:24:56.640" end="00:25:00.030" style="s2">thing I was thinking about and I have to</p>
+<p begin="00:24:58.410" end="00:25:02.070" style="s2">I think have two examples one thing I</p>
+<p begin="00:25:00.030" end="00:25:03.540" style="s2">was thinking about is so the market you</p>
+<p begin="00:25:02.070" end="00:25:05.280" style="s2">know and I don&#39;t know the history of</p>
+<p begin="00:25:03.540" end="00:25:06.870" style="s2">this yeah I&#39;m working on it the market</p>
+<p begin="00:25:05.280" end="00:25:09.270" style="s2">has these circuit breakers and the</p>
+<p begin="00:25:06.870" end="00:25:10.470" style="s2">circuit breakers I think they you know</p>
+<p begin="00:25:09.270" end="00:25:12.090" style="s2">the circuit breakers stop trading</p>
+<p begin="00:25:10.470" end="00:25:15.030" style="s2">essentially after there&#39;s been a drop of</p>
+<p begin="00:25:12.090" end="00:25:17.070" style="s2">some magnitude for fifteen minutes or</p>
+<p begin="00:25:15.030" end="00:25:19.200" style="s2">something like that and and there&#39;s a</p>
+<p begin="00:25:17.070" end="00:25:20.610" style="s2">lot of criticism of these circuit</p>
+<p begin="00:25:19.200" end="00:25:22.559" style="s2">breakers and I have - one of the things</p>
+<p begin="00:25:20.610" end="00:25:25.110" style="s2">I haven&#39;t determined yet maybe you know</p>
+<p begin="00:25:22.559" end="00:25:26.760" style="s2">Jim I I don&#39;t is what the history on</p>
+<p begin="00:25:25.110" end="00:25:28.440" style="s2">this is and how well studied this</p>
+<p begin="00:25:26.760" end="00:25:30.480" style="s2">particular solution is you know</p>
+<p begin="00:25:28.440" end="00:25:32.370" style="s2">theoretically in mathematical modeling</p>
+<p begin="00:25:30.480" end="00:25:34.080" style="s2">and empirically like is where did this</p>
+<p begin="00:25:32.370" end="00:25:35.730" style="s2">idea come from it&#39;s an interesting idea</p>
+<p begin="00:25:34.080" end="00:25:37.380" style="s2">but it seems quite crude to me on the</p>
+<p begin="00:25:35.730" end="00:25:39.419" style="s2">surface and so one thing I was just</p>
+<p begin="00:25:37.380" end="00:25:41.669" style="s2">playing around with and again this is</p>
+<p begin="00:25:39.419" end="00:25:42.870" style="s2">just literally like no work on this it&#39;s</p>
+<p begin="00:25:41.669" end="00:25:45.540" style="s2">just something that&#39;s occurred to me</p>
+<p begin="00:25:42.870" end="00:25:47.520" style="s2">because of the the ability now to</p>
+<p begin="00:25:45.540" end="00:25:50.100" style="s2">measure the emotional valence in the</p>
+<p begin="00:25:47.520" end="00:25:52.350" style="s2">population via social media so</p>
+<p begin="00:25:50.100" end="00:25:53.910" style="s2">computational story lab at UVM I know</p>
+<p begin="00:25:52.350" end="00:25:58.049" style="s2">you know those guys Peter Dodson and</p>
+<p begin="00:25:53.910" end="00:26:00.620" style="s2">crew have this domitor that they use to</p>
+<p begin="00:25:58.049" end="00:26:03.720" style="s2">measure the sort of emotional valence of</p>
+<p begin="00:26:00.620" end="00:26:06.150" style="s2">people using Twitter and sadly I think</p>
+<p begin="00:26:03.720" end="00:26:08.429" style="s2">they detected recently the the longest</p>
+<p begin="00:26:06.150" end="00:26:11.370" style="s2">concerted sad period in their 12 years</p>
+<p begin="00:26:08.429" end="00:26:12.540" style="s2">of monitoring this but one of the things</p>
+<p begin="00:26:11.370" end="00:26:14.070" style="s2">I was one of the ideas I was kind of</p>
+<p begin="00:26:12.540" end="00:26:16.500" style="s2">playing around with the other days what</p>
+<p begin="00:26:14.070" end="00:26:19.350" style="s2">if you tethered or you made your market</p>
+<p begin="00:26:16.500" end="00:26:22.640" style="s2">tethered the sort of market management</p>
+<p begin="00:26:19.350" end="00:26:26.880" style="s2">strategy to something like the domitor</p>
+<p begin="00:26:22.640" end="00:26:28.620" style="s2">so that when you know the emotional one</p>
+<p begin="00:26:26.880" end="00:26:30.990" style="s2">of the things that supposedly drives big</p>
+<p begin="00:26:28.620" end="00:26:33.330" style="s2">drops and markets and maybe in bubbles</p>
+<p begin="00:26:30.990" end="00:26:34.740" style="s2">in the other direction is is the</p>
+<p begin="00:26:33.330" end="00:26:37.320" style="s2">emotional states of traders in the</p>
+<p begin="00:26:34.740" end="00:26:39.480" style="s2">community animal spirits as john maynard</p>
+<p begin="00:26:37.320" end="00:26:40.290" style="s2">keynes called it the animal spirits</p>
+<p begin="00:26:39.480" end="00:26:42.150" style="s2">right you get these</p>
+<p begin="00:26:40.290" end="00:26:44.580" style="s2">her defects hurting effects and</p>
+<p begin="00:26:42.150" end="00:26:46.080" style="s2">contagions and I think all that used to</p>
+<p begin="00:26:44.580" end="00:26:48.480" style="s2">be better studied but let&#39;s say that</p>
+<p begin="00:26:46.080" end="00:26:51.740" style="s2">that is correct and roughly and and that</p>
+<p begin="00:26:48.480" end="00:26:54.300" style="s2">you know these big drops are traders</p>
+<p begin="00:26:51.740" end="00:26:55.770" style="s2">following the herd essentially causing</p>
+<p begin="00:26:54.300" end="00:26:58.920" style="s2">the very thing they fear through</p>
+<p begin="00:26:55.770" end="00:27:01.620" style="s2">feedback what if you tethered the market</p>
+<p begin="00:26:58.920" end="00:27:04.590" style="s2">to a high domitor so that when you you</p>
+<p begin="00:27:01.620" end="00:27:06.480" style="s2">can implement maybe like shorter uh you</p>
+<p begin="00:27:04.590" end="00:27:09.990" style="s2">could implement time windows on trading</p>
+<p begin="00:27:06.480" end="00:27:13.380" style="s2">or control the number of sales or</p>
+<p begin="00:27:09.990" end="00:27:14.970" style="s2">whatever given what the emotional</p>
+<p begin="00:27:13.380" end="00:27:16.260" style="s2">valence was in the population of course</p>
+<p begin="00:27:14.970" end="00:27:18.840" style="s2">you have to take into account delays and</p>
+<p begin="00:27:16.260" end="00:27:20.310" style="s2">many things and you might let it sort of</p>
+<p begin="00:27:18.840" end="00:27:22.320" style="s2">run freely when things are going well</p>
+<p begin="00:27:20.310" end="00:27:25.020" style="s2">but when the high domitor sorts it</p>
+<p begin="00:27:22.320" end="00:27:27.030" style="s2">starts to indicate that you know things</p>
+<p begin="00:27:25.020" end="00:27:27.600" style="s2">are getting a little boisterous or there</p>
+<p begin="00:27:27.030" end="00:27:29.670" style="s2">or there</p>
+<p begin="00:27:27.600" end="00:27:31.560" style="s2">you know or there or there or fears</p>
+<p begin="00:27:29.670" end="00:27:34.800" style="s2">taking over you might you know turn that</p>
+<p begin="00:27:31.560" end="00:27:36.270" style="s2">knob a little bit interesting idea you</p>
+<p begin="00:27:34.800" end="00:27:37.920" style="s2">need this you needs a huge amount of</p>
+<p begin="00:27:36.270" end="00:27:39.930" style="s2">work and you know empirical and</p>
+<p begin="00:27:37.920" end="00:27:43.110" style="s2">theoretical work but you could sort of</p>
+<p begin="00:27:39.930" end="00:27:49.620" style="s2">tether things like markets to semi</p>
+<p begin="00:27:43.110" end="00:27:50.880" style="s2">exogenous data sources like this and</p>
+<p begin="00:27:49.620" end="00:27:53.850" style="s2">another I&#39;ll just put the other one on</p>
+<p begin="00:27:50.880" end="00:27:55.170" style="s2">the table before you know I we tell me</p>
+<p begin="00:27:53.850" end="00:27:56.670" style="s2">you know what you think these things are</p>
+<p begin="00:27:55.170" end="00:27:57.390" style="s2">if you have any ideas of your own I&#39;m</p>
+<p begin="00:27:56.670" end="00:28:00.810" style="s2">sure you do</p>
+<p begin="00:27:57.390" end="00:28:02.550" style="s2">ISM is the role of noise and so often</p>
+<p begin="00:28:00.810" end="00:28:04.200" style="s2">you know noise I worry a lot about noise</p>
+<p begin="00:28:02.550" end="00:28:06.180" style="s2">and randomness and how it impedes</p>
+<p begin="00:28:04.200" end="00:28:10.350" style="s2">information processing and biology and</p>
+<p begin="00:28:06.180" end="00:28:13.080" style="s2">effects you know are nature&#39;s ability to</p>
+<p begin="00:28:10.350" end="00:28:14.490" style="s2">build systems that are well tuned to the</p>
+<p begin="00:28:13.080" end="00:28:16.410" style="s2">environment cuz basically you see errors</p>
+<p begin="00:28:14.490" end="00:28:19.230" style="s2">and information processing all over the</p>
+<p begin="00:28:16.410" end="00:28:20.580" style="s2">place and you can imagine one reason why</p>
+<p begin="00:28:19.230" end="00:28:22.920" style="s2">that&#39;s the case is that the world is</p>
+<p begin="00:28:20.580" end="00:28:26.160" style="s2">complex and right it&#39;s hard to estimate</p>
+<p begin="00:28:22.920" end="00:28:27.510" style="s2">regularities so noise is often thought</p>
+<p begin="00:28:26.160" end="00:28:28.980" style="s2">of as something that&#39;s problematic and</p>
+<p begin="00:28:27.510" end="00:28:30.660" style="s2">needs to be overcome and I think about</p>
+<p begin="00:28:28.980" end="00:28:32.460" style="s2">in those terms lot but noise is also</p>
+<p begin="00:28:30.660" end="00:28:33.900" style="s2">useful and that&#39;s one example there&#39;s a</p>
+<p begin="00:28:32.460" end="00:28:36.390" style="s2">recent study in Nature Physics that I</p>
+<p begin="00:28:33.900" end="00:28:38.610" style="s2">quite liked by this by Vishu goo tal and</p>
+<p begin="00:28:36.390" end="00:28:42.060" style="s2">his team and they showed in fish again</p>
+<p begin="00:28:38.610" end="00:28:45.630" style="s2">that so the fish this is one particular</p>
+<p begin="00:28:42.060" end="00:28:48.720" style="s2">species of fish that these fish actually</p>
+<p begin="00:28:45.630" end="00:28:50.790" style="s2">when they&#39;re when they&#39;re not then</p>
+<p begin="00:28:48.720" end="00:28:52.590" style="s2">they&#39;re sort of misaligned then the</p>
+<p begin="00:28:50.790" end="00:28:53.470" style="s2">noise in the misalignment feeds back on</p>
+<p begin="00:28:52.590" end="00:28:56.080" style="s2">itself making</p>
+<p begin="00:28:53.470" end="00:28:56.710" style="s2">more making bigger fluctuations in their</p>
+<p begin="00:28:56.080" end="00:28:59.409" style="s2">swimming</p>
+<p begin="00:28:56.710" end="00:29:02.770" style="s2">trajectories and actually eventually</p>
+<p begin="00:28:59.409" end="00:29:05.140" style="s2">tips them into an aligned state so the</p>
+<p begin="00:29:02.770" end="00:29:06.250" style="s2">fish are you know copying or taking into</p>
+<p begin="00:29:05.140" end="00:29:08.650" style="s2">account what their neighbors are doing</p>
+<p begin="00:29:06.250" end="00:29:10.990" style="s2">but that is not what causes them to</p>
+<p begin="00:29:08.650" end="00:29:12.340" style="s2">become aligned what causes them to come</p>
+<p begin="00:29:10.990" end="00:29:15.640" style="s2">to become aligned is this feedback and</p>
+<p begin="00:29:12.340" end="00:29:17.110" style="s2">the noise amplifying itself so noise is</p>
+<p begin="00:29:15.640" end="00:29:20.380" style="s2">potentially a mechanism that could be</p>
+<p begin="00:29:17.110" end="00:29:23.320" style="s2">added to markets or other phenomena to</p>
+<p begin="00:29:20.380" end="00:29:24.760" style="s2">help with tuning and you know you just</p>
+<p begin="00:29:23.320" end="00:29:26.110" style="s2">often don&#39;t think in those terms and</p>
+<p begin="00:29:24.760" end="00:29:29.710" style="s2">that&#39;s you know kind of an out of the</p>
+<p begin="00:29:26.110" end="00:29:31.750" style="s2">box so it&#39;s like not an interest rate</p>
+<p begin="00:29:29.710" end="00:29:33.940" style="s2">but you know adding randomness so the</p>
+<p begin="00:29:31.750" end="00:29:35.740" style="s2">whoever controls the market would add</p>
+<p begin="00:29:33.940" end="00:29:40.059" style="s2">some random trades that would be a</p>
+<p begin="00:29:35.740" end="00:29:41.440" style="s2">really crude first pass example of</p>
+<p begin="00:29:40.059" end="00:29:43.960" style="s2">people to talk to about that would be</p>
+<p begin="00:29:41.440" end="00:29:47.470" style="s2">don&#39;t farmer and the other guys over and</p>
+<p begin="00:29:43.960" end="00:29:49.390" style="s2">I met at Oxford but we were working when</p>
+<p begin="00:29:47.470" end="00:29:52.840" style="s2">I was at an SFI a lot of my work was</p>
+<p begin="00:29:49.390" end="00:29:55.090" style="s2">done with the automated trading stuff</p>
+<p begin="00:29:52.840" end="00:29:57.880" style="s2">and we actually actually specialized in</p>
+<p begin="00:29:55.090" end="00:30:00.460" style="s2">the combination of human-like strategies</p>
+<p begin="00:29:57.880" end="00:30:03.700" style="s2">with noise traders and I could vary the</p>
+<p begin="00:30:00.460" end="00:30:05.320" style="s2">ratios and see how the systems responded</p>
+<p begin="00:30:03.700" end="00:30:08.020" style="s2">it was interesting it was some level</p>
+<p begin="00:30:05.320" end="00:30:10.539" style="s2">noise traders acted as food to strategic</p>
+<p begin="00:30:08.020" end="00:30:11.980" style="s2">traders which is laughing and it&#39;s</p>
+<p begin="00:30:10.539" end="00:30:14.470" style="s2">interesting yeah what would happen if</p>
+<p begin="00:30:11.980" end="00:30:15.970" style="s2">the market goes crazy I&#39;m just gonna</p>
+<p begin="00:30:14.470" end="00:30:20.919" style="s2">we&#39;re getting this out cuz this idea is</p>
+<p begin="00:30:15.970" end="00:30:22.600" style="s2">actually clever so let&#39;s say the the</p>
+<p begin="00:30:20.919" end="00:30:25.480" style="s2">Federal Reserve&#39;s is for lack of any</p>
+<p begin="00:30:22.600" end="00:30:27.039" style="s2">other entity is looking at the markets</p>
+<p begin="00:30:25.480" end="00:30:28.960" style="s2">and sees the markets appear to be</p>
+<p begin="00:30:27.039" end="00:30:30.370" style="s2">overreacting for whatever reason and</p>
+<p begin="00:30:28.960" end="00:30:32.520" style="s2">they just start introducing a bunch of</p>
+<p begin="00:30:30.370" end="00:30:35.440" style="s2">noise traders you know literally now</p>
+<p begin="00:30:32.520" end="00:30:37.120" style="s2">people who buy and sell the algorithm is</p>
+<p begin="00:30:35.440" end="00:30:39.760" style="s2">ridiculously easy to create a noise</p>
+<p begin="00:30:37.120" end="00:30:44.559" style="s2">trader and then the noise trader will</p>
+<p begin="00:30:39.760" end="00:30:46.210" style="s2">actually provide food for other traders</p>
+<p begin="00:30:44.559" end="00:30:48.880" style="s2">and will tend to cause the market to</p>
+<p begin="00:30:46.210" end="00:30:51.130" style="s2">stabilize I believe that is true it&#39;s</p>
+<p begin="00:30:48.880" end="00:30:53.380" style="s2">it&#39;s been 15 years since I did this work</p>
+<p begin="00:30:51.130" end="00:30:55.539" style="s2">but Dunn and his folks might actually be</p>
+<p begin="00:30:53.380" end="00:30:57.460" style="s2">able to provide you with some at least</p>
+<p begin="00:30:55.539" end="00:30:59.289" style="s2">modeling confirmation of that but I like</p>
+<p begin="00:30:57.460" end="00:31:01.330" style="s2">this that&#39;s very clever out-of-the-box</p>
+<p begin="00:30:59.289" end="00:31:02.740" style="s2">linking yeah I mean I mean there&#39;s a</p>
+<p begin="00:31:01.330" end="00:31:04.780" style="s2">couple possibilities I think this is not</p>
+<p begin="00:31:02.740" end="00:31:05.620" style="s2">trivial at all one is well there already</p>
+<p begin="00:31:04.780" end="00:31:08.230" style="s2">are noise trade</p>
+<p begin="00:31:05.620" end="00:31:09.600" style="s2">already in the market and it&#39;s called</p>
+<p begin="00:31:08.230" end="00:31:12.070" style="s2">civilians</p>
+<p begin="00:31:09.600" end="00:31:13.570" style="s2">yeah the mom-and-pop traders yeah ba ba</p>
+<p begin="00:31:12.070" end="00:31:15.610" style="s2">ba traders are actually actually they&#39;re</p>
+<p begin="00:31:13.570" end="00:31:17.590" style="s2">worse than noise traders all the in all</p>
+<p begin="00:31:15.610" end="00:31:19.420" style="s2">the evidence shows that they are</p>
+<p begin="00:31:17.590" end="00:31:22.120" style="s2">considerably worse than noise traders on</p>
+<p begin="00:31:19.420" end="00:31:23.920" style="s2">an average yeah so it means you have to</p>
+<p begin="00:31:22.120" end="00:31:26.110" style="s2">drop Plus you have noise traders you</p>
+<p begin="00:31:23.920" end="00:31:28.780" style="s2">have this incentivizes the very smart</p>
+<p begin="00:31:26.110" end="00:31:30.190" style="s2">active managers to start trading right</p>
+<p begin="00:31:28.780" end="00:31:31.360" style="s2">because they see the markets now</p>
+<p begin="00:31:30.190" end="00:31:33.550" style="s2">becoming a little bit inefficient but</p>
+<p begin="00:31:31.360" end="00:31:36.309" style="s2">it&#39;s also disrupting the signal right</p>
+<p begin="00:31:33.550" end="00:31:38.380" style="s2">the strong downward signal so I don&#39;t</p>
+<p begin="00:31:36.309" end="00:31:39.850" style="s2">know I think it&#39;s non-trivial the other</p>
+<p begin="00:31:38.380" end="00:31:41.890" style="s2">beautiful thing about noise trading is</p>
+<p begin="00:31:39.850" end="00:31:43.480" style="s2">it&#39;s very inexpensive because you&#39;re not</p>
+<p begin="00:31:41.890" end="00:31:44.860" style="s2">making any bets on the trade you&#39;re just</p>
+<p begin="00:31:43.480" end="00:31:47.260" style="s2">basically buying and selling on both</p>
+<p begin="00:31:44.860" end="00:31:49.360" style="s2">sides and so all you&#39;re doing is paying</p>
+<p begin="00:31:47.260" end="00:31:51.580" style="s2">the spread and in today&#39;s world of</p>
+<p begin="00:31:49.360" end="00:31:53.710" style="s2">highly automating the spread is tiny so</p>
+<p begin="00:31:51.580" end="00:31:56.800" style="s2">I could be making you know a hundred</p>
+<p begin="00:31:53.710" end="00:31:59.080" style="s2">thousand dollar bets repeatedly for</p>
+<p begin="00:31:56.800" end="00:32:01.510" style="s2">probably less than a hundred dollars</p>
+<p begin="00:31:59.080" end="00:32:04.300" style="s2">right so the actual cost of the Fed to</p>
+<p begin="00:32:01.510" end="00:32:05.890" style="s2">introduce noise and in fact today being</p>
+<p begin="00:32:04.300" end="00:32:08.050" style="s2">paid for putting a limit order on the</p>
+<p begin="00:32:05.890" end="00:32:09.700" style="s2">book particularly in turbulent times the</p>
+<p begin="00:32:08.050" end="00:32:12.130" style="s2">goddamn Fed might actually make money</p>
+<p begin="00:32:09.700" end="00:32:13.510" style="s2">off of it if I love this idea I&#39;m gonna</p>
+<p begin="00:32:12.130" end="00:32:16.090" style="s2">I&#39;m gonna see if I get somebody to</p>
+<p begin="00:32:13.510" end="00:32:19.270" style="s2">simulate it they could just pour on the</p>
+<p begin="00:32:16.090" end="00:32:21.450" style="s2">noise and dampen the signal but you know</p>
+<p begin="00:32:19.270" end="00:32:23.800" style="s2">coming back to our serve our initial</p>
+<p begin="00:32:21.450" end="00:32:26.700" style="s2">discussion before we started recording</p>
+<p begin="00:32:23.800" end="00:32:29.920" style="s2">about this about having a principled</p>
+<p begin="00:32:26.700" end="00:32:31.510" style="s2">strategy space or family of models for</p>
+<p begin="00:32:29.920" end="00:32:33.730" style="s2">thinking about the Cova nineteen crisis</p>
+<p begin="00:32:31.510" end="00:32:35.050" style="s2">you know in the market or economic</p>
+<p begin="00:32:33.730" end="00:32:38.740" style="s2">portion this is what I would like to see</p>
+<p begin="00:32:35.050" end="00:32:40.090" style="s2">some out-of-the-box mechanisms like in</p>
+<p begin="00:32:38.740" end="00:32:43.200" style="s2">addition to the circuit breaker</p>
+<p begin="00:32:40.090" end="00:32:46.870" style="s2">you know tying to the hydrometer noise</p>
+<p begin="00:32:43.200" end="00:32:48.790" style="s2">injecting noise you know I just like to</p>
+<p begin="00:32:46.870" end="00:32:49.990" style="s2">see and maybe you know one thing to keep</p>
+<p begin="00:32:48.790" end="00:32:51.610" style="s2">in mind is it could be shown in some</p>
+<p begin="00:32:49.990" end="00:32:53.110" style="s2">cases that some of these are</p>
+<p begin="00:32:51.610" end="00:32:56.200" style="s2">mechanistically distinct but</p>
+<p begin="00:32:53.110" end="00:32:58.390" style="s2">mathematically isomorphic so that&#39;s</p>
+<p begin="00:32:56.200" end="00:33:00.190" style="s2">another set of interesting questions but</p>
+<p begin="00:32:58.390" end="00:33:02.290" style="s2">yeah these are the kinds of things that</p>
+<p begin="00:33:00.190" end="00:33:04.929" style="s2">are Department of Rickard wicked risks</p>
+<p begin="00:33:02.290" end="00:33:07.330" style="s2">ought to be working on yeah exactly and</p>
+<p begin="00:33:04.929" end="00:33:10.240" style="s2">yet nobody&#39;s working on it as we know in</p>
+<p begin="00:33:07.330" end="00:33:12.640" style="s2">our kind of bland dumb short-term</p>
+<p begin="00:33:10.240" end="00:33:15.760" style="s2">thinking world and that&#39;s what we gotta</p>
+<p begin="00:33:12.640" end="00:33:18.920" style="s2">change there is this I did hear a little</p>
+<p begin="00:33:15.760" end="00:33:20.920" style="s2">bit about this new exchange called</p>
+<p begin="00:33:18.920" end="00:33:24.290" style="s2">is it&#39;s called the long-term exchange</p>
+<p begin="00:33:20.920" end="00:33:28.400" style="s2">the do you know this yeah so it&#39;s um the</p>
+<p begin="00:33:24.290" end="00:33:30.860" style="s2">long-term stock exchange what do they do</p>
+<p begin="00:33:28.400" end="00:33:32.180" style="s2">long-term stock exchange looks new is on</p>
+<p begin="00:33:30.860" end="00:33:35.240" style="s2">a mission to enable 21st century</p>
+<p begin="00:33:32.180" end="00:33:37.370" style="s2">companies thrive and I think it favors</p>
+<p begin="00:33:35.240" end="00:33:40.250" style="s2">like direct listings over traditional</p>
+<p begin="00:33:37.370" end="00:33:41.360" style="s2">IPOs and I don&#39;t know what this try it</p>
+<p begin="00:33:40.250" end="00:33:42.410" style="s2">doesn&#39;t have much information on this</p>
+<p begin="00:33:41.360" end="00:33:45.230" style="s2">website but apparently it&#39;s been</p>
+<p begin="00:33:42.410" end="00:33:48.590" style="s2">approved as the newest Stock Exchange by</p>
+<p begin="00:33:45.230" end="00:33:50.570" style="s2">the SEC cool have to look into it again</p>
+<p begin="00:33:48.590" end="00:33:52.520" style="s2">innovation good thing all right smart</p>
+<p begin="00:33:50.570" end="00:33:54.770" style="s2">innovation at least and take measured</p>
+<p begin="00:33:52.520" end="00:33:56.000" style="s2">risks but take risks a little bit a</p>
+<p begin="00:33:54.770" end="00:33:57.770" style="s2">little bit of a move in the direction</p>
+<p begin="00:33:56.000" end="00:33:58.850" style="s2">that we&#39;re talking about but what would</p>
+<p begin="00:33:57.770" end="00:34:00.530" style="s2">it take I mean what would it take</p>
+<p begin="00:33:58.850" end="00:34:02.600" style="s2">because I do I do think that there&#39;s you</p>
+<p begin="00:34:00.530" end="00:34:05.990" style="s2">know quite a deep philosophical issue</p>
+<p begin="00:34:02.600" end="00:34:08.480" style="s2">here to get people to be comfortable</p>
+<p begin="00:34:05.990" end="00:34:10.690" style="s2">with open-ended the possibility of</p>
+<p begin="00:34:08.480" end="00:34:12.860" style="s2">open-ended systems that might change</p>
+<p begin="00:34:10.690" end="00:34:14.990" style="s2">temporarily and like you say we need to</p>
+<p begin="00:34:12.860" end="00:34:17.360" style="s2">build mechanisms to make sure these base</p>
+<p begin="00:34:14.990" end="00:34:20.300" style="s2">changes are reversible but temporarily</p>
+<p begin="00:34:17.360" end="00:34:24.110" style="s2">into into into structures that maybe</p>
+<p begin="00:34:20.300" end="00:34:25.760" style="s2">aren&#39;t our ideal and I think one thing</p>
+<p begin="00:34:24.110" end="00:34:27.770" style="s2">we need to do also is have like</p>
+<p begin="00:34:25.760" end="00:34:29.360" style="s2">mechanisms to support to make sure that</p>
+<p begin="00:34:27.770" end="00:34:32.270" style="s2">the bottom never drops beyond a certain</p>
+<p begin="00:34:29.360" end="00:34:33.640" style="s2">level so maybe like these would these</p>
+<p begin="00:34:32.270" end="00:34:36.050" style="s2">mechanisms this more open-ended</p>
+<p begin="00:34:33.640" end="00:34:38.270" style="s2">situation or optimizing for buses and</p>
+<p begin="00:34:36.050" end="00:34:42.409" style="s2">evolvability would require that that we</p>
+<p begin="00:34:38.270" end="00:34:45.890" style="s2">have you know a standard for quality of</p>
+<p begin="00:34:42.409" end="00:34:47.990" style="s2">life that must be met we&#39;re in this</p>
+<p begin="00:34:45.890" end="00:34:50.149" style="s2">system a minimum standard for quality of</p>
+<p begin="00:34:47.990" end="00:34:52.010" style="s2">life and something I don&#39;t want like you</p>
+<p begin="00:34:50.149" end="00:34:54.860" style="s2">know be you know basic Universal income</p>
+<p begin="00:34:52.010" end="00:34:56.570" style="s2">falls into this space and the idea of a</p>
+<p begin="00:34:54.860" end="00:34:58.040" style="s2">Welfare Society but I want to get away</p>
+<p begin="00:34:56.570" end="00:34:59.720" style="s2">from the notion that this would be a</p>
+<p begin="00:34:58.040" end="00:35:01.550" style="s2">welfare sykes I don&#39;t talking about</p>
+<p begin="00:34:59.720" end="00:35:05.360" style="s2">isn&#39;t isn&#39;t that at all but I do think</p>
+<p begin="00:35:01.550" end="00:35:07.850" style="s2">we need to have like we need to maintain</p>
+<p begin="00:35:05.360" end="00:35:11.840" style="s2">some minimum level hopefully high</p>
+<p begin="00:35:07.850" end="00:35:15.350" style="s2">quality of life and and then the operand</p>
+<p begin="00:35:11.840" end="00:35:18.140" style="s2">would be open so in that in in such a</p>
+<p begin="00:35:15.350" end="00:35:20.840" style="s2">scenario there could be huge inequality</p>
+<p begin="00:35:18.140" end="00:35:24.410" style="s2">but if everybody&#39;s if the lower bound is</p>
+<p begin="00:35:20.840" end="00:35:26.900" style="s2">high enough perhaps that huge inequality</p>
+<p begin="00:35:24.410" end="00:35:29.210" style="s2">would not matter so much yeah I</p>
+<p begin="00:35:26.900" end="00:35:31.160" style="s2">absolutely agree on the first part I am</p>
+<p begin="00:35:29.210" end="00:35:32.680" style="s2">much less sanguine that the huge</p>
+<p begin="00:35:31.160" end="00:35:34.690" style="s2">inequality is actually you</p>
+<p begin="00:35:32.680" end="00:35:38.140" style="s2">for certain amount of inequality is</p>
+<p begin="00:35:34.690" end="00:35:41.710" style="s2">useful my magic number is about a factor</p>
+<p begin="00:35:38.140" end="00:35:44.559" style="s2">of 20 from in fact I would have a very</p>
+<p begin="00:35:41.710" end="00:35:46.359" style="s2">very very aggressive tax routine such</p>
+<p begin="00:35:44.559" end="00:35:48.940" style="s2">that once you get the twenty times the</p>
+<p begin="00:35:46.359" end="00:35:50.410" style="s2">minimum wage your tax at about 90% but</p>
+<p begin="00:35:48.940" end="00:35:53.319" style="s2">anyway that&#39;s a difference of opinion</p>
+<p begin="00:35:50.410" end="00:35:55.869" style="s2">you know but I do think the first part</p>
+<p begin="00:35:53.319" end="00:35:58.030" style="s2">would make the the ability if people</p>
+<p begin="00:35:55.869" end="00:35:59.470" style="s2">knew that they personally were safe they</p>
+<p begin="00:35:58.030" end="00:36:01.660" style="s2">were going to have an income that they</p>
+<p begin="00:35:59.470" end="00:36:03.700" style="s2">could have medical care they could</p>
+<p begin="00:36:01.660" end="00:36:06.339" style="s2">afford what they needed to take care of</p>
+<p begin="00:36:03.700" end="00:36:09.250" style="s2">their kids people would be more willing</p>
+<p begin="00:36:06.339" end="00:36:11.740" style="s2">to allow more experimentation with some</p>
+<p begin="00:36:09.250" end="00:36:14.170" style="s2">of the knobs I think right and just to</p>
+<p begin="00:36:11.740" end="00:36:17.470" style="s2">reiterate again I think what I&#39;m sort of</p>
+<p begin="00:36:14.170" end="00:36:19.390" style="s2">proposing here is we&#39;re optimizing or</p>
+<p begin="00:36:17.470" end="00:36:22.059" style="s2">satisficing for a bus and evolvability</p>
+<p begin="00:36:19.390" end="00:36:24.099" style="s2">we&#39;re maintaining a lower bound that&#39;s</p>
+<p begin="00:36:22.059" end="00:36:26.260" style="s2">hopefully reasonably high quality of</p>
+<p begin="00:36:24.099" end="00:36:28.359" style="s2">life but we&#39;re leaving this the upper</p>
+<p begin="00:36:26.260" end="00:36:29.589" style="s2">bound open and so that&#39;s why I push back</p>
+<p begin="00:36:28.359" end="00:36:31.960" style="s2">a little bit on the inequality thing</p>
+<p begin="00:36:29.589" end="00:36:34.540" style="s2">because it&#39;s not that I think large</p>
+<p begin="00:36:31.960" end="00:36:37.559" style="s2">inequality is useful or not it&#39;s that I</p>
+<p begin="00:36:34.540" end="00:36:40.540" style="s2">want to allow all of these possibilities</p>
+<p begin="00:36:37.559" end="00:36:42.280" style="s2">just maintain the lower bound right and</p>
+<p begin="00:36:40.540" end="00:36:44.020" style="s2">so I mean obviously and they might mean</p>
+<p begin="00:36:42.280" end="00:36:46.420" style="s2">it might be the case that you could not</p>
+<p begin="00:36:44.020" end="00:36:48.549" style="s2">maintain a high enough lower bound with</p>
+<p begin="00:36:46.420" end="00:36:51.940" style="s2">very large inequality that might be the</p>
+<p begin="00:36:48.549" end="00:36:53.740" style="s2">case I don&#39;t know but the proposal is</p>
+<p begin="00:36:51.940" end="00:36:55.690" style="s2">instead of tuning for a particular</p>
+<p begin="00:36:53.740" end="00:36:57.369" style="s2">outcome you tuned for robust and</p>
+<p begin="00:36:55.690" end="00:36:59.890" style="s2">evolvability maintaining that lower</p>
+<p begin="00:36:57.369" end="00:37:02.140" style="s2">bound good place to start I think with</p>
+<p begin="00:36:59.890" end="00:37:04.059" style="s2">that we&#39;re gonna wrap up this has been</p>
+<p begin="00:37:02.140" end="00:37:06.579" style="s2">as I knew it was gonna be an amazing</p>
+<p begin="00:37:04.059" end="00:37:08.369" style="s2">intellectual ride lots of new things to</p>
+<p begin="00:37:06.579" end="00:37:11.400" style="s2">think about lots of things to research</p>
+<p begin="00:37:08.369" end="00:37:14.950" style="s2">and as usual we&#39;ll have pointers to</p>
+<p begin="00:37:11.400" end="00:37:17.470" style="s2">these various references on the the</p>
+<p begin="00:37:14.950" end="00:37:20.470" style="s2">episode page so thank you Jessica it&#39;s</p>
+<p begin="00:37:17.470" end="00:37:21.960" style="s2">been great pleasure to be on the show</p>
+<p begin="00:37:20.470" end="00:37:24.489" style="s2">[Music]</p>
+<p begin="00:37:21.960" end="00:37:27.369" style="s2">production services and audio editing by</p>
+<p begin="00:37:24.489" end="00:37:31.960" style="s2">jerod Jane&#39;s consulting music by Tom</p>
+<p begin="00:37:27.369" end="00:37:37.019" style="s2">Muller at modern space music com</p>
+<p begin="00:37:31.960" end="00:37:37.019" style="s2">[Music]</p>
+</div>
+</body>
+</tt>

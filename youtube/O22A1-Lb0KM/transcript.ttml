@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:05.120" style="s2">howdy this is Jim rut and this is the</p>
+<p begin="00:00:02.399" end="00:00:05.120" style="s2">Jim rut show</p>
+<p begin="00:00:07.390" end="00:00:17.529" style="s2">[Music]</p>
+<p begin="00:00:14.880" end="00:00:20.230" style="s2">this is the gym rut show and this is</p>
+<p begin="00:00:17.529" end="00:00:22.930" style="s2">your host Jim rut our guest today is</p>
+<p begin="00:00:20.230" end="00:00:25.470" style="s2">that Voorhees who recently left Google</p>
+<p begin="00:00:22.930" end="00:00:27.970" style="s2">after eight years as a software engineer</p>
+<p begin="00:00:25.470" end="00:00:28.750" style="s2">he has some provocative claims about</p>
+<p begin="00:00:27.970" end="00:00:30.460" style="s2">Google</p>
+<p begin="00:00:28.750" end="00:00:32.800" style="s2">he claims that Google&#39;s been acting</p>
+<p begin="00:00:30.460" end="00:00:35.079" style="s2">improperly and even illegally with</p>
+<p begin="00:00:32.800" end="00:00:37.720" style="s2">respect to search results black lists</p>
+<p begin="00:00:35.079" end="00:00:39.910" style="s2">and more and he has publicly posted a</p>
+<p begin="00:00:37.720" end="00:00:42.430" style="s2">large repository of what he describes as</p>
+<p begin="00:00:39.910" end="00:00:45.100" style="s2">Google internal documents to support his</p>
+<p begin="00:00:42.430" end="00:00:46.929" style="s2">claim this is a special newsmaker</p>
+<p begin="00:00:45.100" end="00:00:49.809" style="s2">episode of the gym rat show which we</p>
+<p begin="00:00:46.929" end="00:00:51.760" style="s2">have pulled together very rapidly unlike</p>
+<p begin="00:00:49.809" end="00:00:54.489" style="s2">on our regular episodes I haven&#39;t</p>
+<p begin="00:00:51.760" end="00:00:57.399" style="s2">researched Zach nor have I reviewed his</p>
+<p begin="00:00:54.489" end="00:01:00.579" style="s2">documents nor do I have a strong opinion</p>
+<p begin="00:00:57.399" end="00:01:02.379" style="s2">about the guests expertise and claims as</p>
+<p begin="00:01:00.579" end="00:01:05.190" style="s2">you will hear in the episode I strongly</p>
+<p begin="00:01:02.379" end="00:01:07.990" style="s2">disagree with some of Zach&#39;s assertions</p>
+<p begin="00:01:05.190" end="00:01:09.730" style="s2">nonetheless the claims Zach makes about</p>
+<p begin="00:01:07.990" end="00:01:12.640" style="s2">Google&#39;s manipulation of our information</p>
+<p begin="00:01:09.730" end="00:01:14.800" style="s2">sphere are very disturbing if true and</p>
+<p begin="00:01:12.640" end="00:01:16.210" style="s2">he does to tie his claims to the</p>
+<p begin="00:01:14.800" end="00:01:19.030" style="s2">publicly available cache of documents</p>
+<p begin="00:01:16.210" end="00:01:21.909" style="s2">that he has collected so decide for</p>
+<p begin="00:01:19.030" end="00:01:24.729" style="s2">yourself with those caveats let&#39;s get</p>
+<p begin="00:01:21.909" end="00:01:26.799" style="s2">started welcome Zach hi how you doing</p>
+<p begin="00:01:24.729" end="00:01:27.759" style="s2">Jim good to be on the show yeah great to</p>
+<p begin="00:01:26.799" end="00:01:31.180" style="s2">have you</p>
+<p begin="00:01:27.759" end="00:01:34.360" style="s2">you&#39;ve recently come into some public</p>
+<p begin="00:01:31.180" end="00:01:36.280" style="s2">notoriety I saw that you&#39;ve put some</p>
+<p begin="00:01:34.360" end="00:01:39.640" style="s2">documents out from your days at Google</p>
+<p begin="00:01:36.280" end="00:01:42.460" style="s2">and have been labeled by others have not</p>
+<p begin="00:01:39.640" end="00:01:44.500" style="s2">yet yourself as the Snowden of Google</p>
+<p begin="00:01:42.460" end="00:01:46.030" style="s2">what do you think about that as a as a</p>
+<p begin="00:01:44.500" end="00:01:46.960" style="s2">description I think it&#39;s somewhat</p>
+<p begin="00:01:46.030" end="00:01:49.090" style="s2">accurate</p>
+<p begin="00:01:46.960" end="00:01:52.780" style="s2">I&#39;ve been collecting documents from</p>
+<p begin="00:01:49.090" end="00:01:54.729" style="s2">Google for a few years and the reason</p>
+<p begin="00:01:52.780" end="00:01:57.070" style="s2">why I collected those documents was</p>
+<p begin="00:01:54.729" end="00:01:59.200" style="s2">because Google was lying to the American</p>
+<p begin="00:01:57.070" end="00:02:01.149" style="s2">public about its meddling not only</p>
+<p begin="00:01:59.200" end="00:02:03.670" style="s2">meddling and search results and YouTube</p>
+<p begin="00:02:01.149" end="00:02:07.149" style="s2">queries but also meddling in elections</p>
+<p begin="00:02:03.670" end="00:02:08.530" style="s2">and I could tell that you know I saw</p>
+<p begin="00:02:07.149" end="00:02:10.410" style="s2">that the Google executives were</p>
+<p begin="00:02:08.530" end="00:02:12.820" style="s2">perjuring themselves in front of</p>
+<p begin="00:02:10.410" end="00:02:16.390" style="s2">congressional testimony and I was able</p>
+<p begin="00:02:12.820" end="00:02:17.680" style="s2">to prove that perjury by seeing that the</p>
+<p begin="00:02:16.390" end="00:02:20.230" style="s2">things that they said didn&#39;t exist</p>
+<p begin="00:02:17.680" end="00:02:22.660" style="s2">actually existed so they said to</p>
+<p begin="00:02:20.230" end="00:02:24.830" style="s2">Congress we don&#39;t employ blacklist</p>
+<p begin="00:02:22.660" end="00:02:26.900" style="s2">that&#39;s just not something that we do</p>
+<p begin="00:02:24.830" end="00:02:29.480" style="s2">and I would as I was listening to that I</p>
+<p begin="00:02:26.900" end="00:02:32.150" style="s2">would go on to the internal search page</p>
+<p begin="00:02:29.480" end="00:02:34.610" style="s2">and I would type in blacklist and it</p>
+<p begin="00:02:32.150" end="00:02:36.410" style="s2">would and I would get results and the</p>
+<p begin="00:02:34.610" end="00:02:38.510" style="s2">one of the results which is really</p>
+<p begin="00:02:36.410" end="00:02:42.350" style="s2">popular is the YouTube query blacklist</p>
+<p begin="00:02:38.510" end="00:02:45.110" style="s2">and so that&#39;s why I decided to disclose</p>
+<p begin="00:02:42.350" end="00:02:47.300" style="s2">was to let the American people know what</p>
+<p begin="00:02:45.110" end="00:02:50.300" style="s2">was really happening what&#39;s been the</p>
+<p begin="00:02:47.300" end="00:02:53.060" style="s2">reaction from Google well Google</p>
+<p begin="00:02:50.300" end="00:02:56.330" style="s2">attempted to stop me from doing this and</p>
+<p begin="00:02:53.060" end="00:02:58.220" style="s2">they called a wellness check once they</p>
+<p begin="00:02:56.330" end="00:03:01.180" style="s2">knew that I was the leaker they called a</p>
+<p begin="00:02:58.220" end="00:03:03.860" style="s2">wellness check on me and that ended up</p>
+<p begin="00:03:01.180" end="00:03:06.320" style="s2">escalating because I didn&#39;t want to talk</p>
+<p begin="00:03:03.860" end="00:03:08.209" style="s2">to the police what is it what&#39;s a</p>
+<p begin="00:03:06.320" end="00:03:09.860" style="s2">wellness check for the benefit art bar</p>
+<p begin="00:03:08.209" end="00:03:12.140" style="s2">listeners that&#39;s kind of a new jargon</p>
+<p begin="00:03:09.860" end="00:03:14.060" style="s2">which I don&#39;t think everybody knows tell</p>
+<p begin="00:03:12.140" end="00:03:16.820" style="s2">us what&#39;s a wellness check yeah I didn&#39;t</p>
+<p begin="00:03:14.060" end="00:03:18.860" style="s2">know about it until it will happen to me</p>
+<p begin="00:03:16.820" end="00:03:21.320" style="s2">but a wellness check is a tip that</p>
+<p begin="00:03:18.860" end="00:03:23.750" style="s2">someone can call in to the police and</p>
+<p begin="00:03:21.320" end="00:03:25.040" style="s2">say I don&#39;t think this person&#39;s well or</p>
+<p begin="00:03:23.750" end="00:03:28.220" style="s2">I think they&#39;re going to do something</p>
+<p begin="00:03:25.040" end="00:03:31.730" style="s2">and the police then have probable cause</p>
+<p begin="00:03:28.220" end="00:03:34.220" style="s2">to come to your house and search and</p>
+<p begin="00:03:31.730" end="00:03:36.140" style="s2">hunt you out until they find you and</p>
+<p begin="00:03:34.220" end="00:03:38.480" style="s2">then they can ask you a series of</p>
+<p begin="00:03:36.140" end="00:03:41.780" style="s2">questions like you know are you suicidal</p>
+<p begin="00:03:38.480" end="00:03:44.030" style="s2">do you plan to hurt yourself have you or</p>
+<p begin="00:03:41.780" end="00:03:46.430" style="s2">hurt anyone else have you taken the</p>
+<p begin="00:03:44.030" end="00:03:48.170" style="s2">proper medication you know and it&#39;s</p>
+<p begin="00:03:46.430" end="00:03:50.209" style="s2">these evasive questions</p>
+<p begin="00:03:48.170" end="00:03:52.160" style="s2">and then once they get the answer that</p>
+<p begin="00:03:50.209" end="00:03:52.970" style="s2">they want they leave and if you say the</p>
+<p begin="00:03:52.160" end="00:03:56.120" style="s2">wrong answer</p>
+<p begin="00:03:52.970" end="00:03:58.310" style="s2">then they detain you and take you into</p>
+<p begin="00:03:56.120" end="00:04:00.709" style="s2">custody pretty Orwellian sounds</p>
+<p begin="00:03:58.310" end="00:04:03.260" style="s2">like to me absolutely and I would</p>
+<p begin="00:04:00.709" end="00:04:06.830" style="s2">suggest anyone who would use such a</p>
+<p begin="00:04:03.260" end="00:04:09.380" style="s2">thing in bad faith is a moral scoundrel</p>
+<p begin="00:04:06.830" end="00:04:11.660" style="s2">of the first water absolutely and I</p>
+<p begin="00:04:09.380" end="00:04:15.440" style="s2">would also say they&#39;d be a very</p>
+<p begin="00:04:11.660" end="00:04:16.729" style="s2">excellent defendant in a lawsuit maybe</p>
+<p begin="00:04:15.440" end="00:04:19.010" style="s2">maybe I mean what they did wasn&#39;t</p>
+<p begin="00:04:16.729" end="00:04:21.220" style="s2">illegal you know and they&#39;re gonna say</p>
+<p begin="00:04:19.010" end="00:04:23.690" style="s2">well he we had probable cause because</p>
+<p begin="00:04:21.220" end="00:04:26.000" style="s2">something that I posted on Twitter which</p>
+<p begin="00:04:23.690" end="00:04:27.169" style="s2">was I posted a Deadman switch and for</p>
+<p begin="00:04:26.000" end="00:04:28.940" style="s2">those that don&#39;t know what a Deadman</p>
+<p begin="00:04:27.169" end="00:04:31.470" style="s2">switch when there&#39;s a whistleblower</p>
+<p begin="00:04:28.940" end="00:04:34.000" style="s2">coming forward or someone that</p>
+<p begin="00:04:31.470" end="00:04:35.800" style="s2">sensitive information and they are</p>
+<p begin="00:04:34.000" end="00:04:37.659" style="s2">concerned that they&#39;re going to be</p>
+<p begin="00:04:35.800" end="00:04:39.849" style="s2">assassinated then what they can do is</p>
+<p begin="00:04:37.659" end="00:04:43.389" style="s2">they can tell their adversary hey look</p>
+<p begin="00:04:39.849" end="00:04:45.189" style="s2">if you kill me then the information that</p>
+<p begin="00:04:43.389" end="00:04:49.090" style="s2">I have will be disclosed to the public</p>
+<p begin="00:04:45.189" end="00:04:52.569" style="s2">and so I put a Deadman switch on Twitter</p>
+<p begin="00:04:49.090" end="00:04:55.930" style="s2">and they use that as a justification to</p>
+<p begin="00:04:52.569" end="00:04:57.969" style="s2">call in the Wellness Jacky sounds like</p>
+<p begin="00:04:55.930" end="00:05:00.009" style="s2">bad faith to me people at Google know</p>
+<p begin="00:04:57.969" end="00:05:02.530" style="s2">what a Deadman switch is right yeah</p>
+<p begin="00:05:00.009" end="00:05:04.990" style="s2">though I suppose they could probably get</p>
+<p begin="00:05:02.530" end="00:05:06.759" style="s2">away with playing stupid and who knows</p>
+<p begin="00:05:04.990" end="00:05:09.580" style="s2">maybe somebody in HR is authentically</p>
+<p begin="00:05:06.759" end="00:05:12.310" style="s2">stupid as we know that that seems to</p>
+<p begin="00:05:09.580" end="00:05:14.500" style="s2">happen a lot it seemed to get stupider</p>
+<p begin="00:05:12.310" end="00:05:16.360" style="s2">the more people join in it&#39;s really a</p>
+<p begin="00:05:14.500" end="00:05:18.550" style="s2">weird phenomenon yeah I remember when</p>
+<p begin="00:05:16.360" end="00:05:20.680" style="s2">Google had you know almost a monopoly on</p>
+<p begin="00:05:18.550" end="00:05:21.909" style="s2">the best and the brightest but it&#39;s not</p>
+<p begin="00:05:20.680" end="00:05:24.069" style="s2">clear that it&#39;s certainly not the best</p>
+<p begin="00:05:21.909" end="00:05:25.779" style="s2">anymore but maybe they still have a</p>
+<p begin="00:05:24.069" end="00:05:28.029" style="s2">pretty good supply of the brightest the</p>
+<p begin="00:05:25.779" end="00:05:29.590" style="s2">engineers are really smart this is the</p>
+<p begin="00:05:28.029" end="00:05:31.419" style="s2">weird thing is that the engineers are so</p>
+<p begin="00:05:29.590" end="00:05:33.069" style="s2">smart and so competent that you expect</p>
+<p begin="00:05:31.419" end="00:05:37.300" style="s2">that management would be you know the</p>
+<p begin="00:05:33.069" end="00:05:39.039" style="s2">same but that&#39;s not the case it seems</p>
+<p begin="00:05:37.300" end="00:05:41.349" style="s2">that they&#39;re selected more for loyalty</p>
+<p begin="00:05:39.039" end="00:05:44.650" style="s2">than for competence yeah that&#39;s when the</p>
+<p begin="00:05:41.349" end="00:05:47.349" style="s2">rot starts to set in when people start</p>
+<p begin="00:05:44.650" end="00:05:50.379" style="s2">kissing up in an organization you know a</p>
+<p begin="00:05:47.349" end="00:05:53.229" style="s2">good good middle level manager executive</p>
+<p begin="00:05:50.379" end="00:05:55.060" style="s2">punches up at their bosses and protects</p>
+<p begin="00:05:53.229" end="00:05:57.279" style="s2">their people right when people start</p>
+<p begin="00:05:55.060" end="00:05:58.330" style="s2">doing the opposite the rot has set in</p>
+<p begin="00:05:57.279" end="00:06:00.129" style="s2">that&#39;s correct</p>
+<p begin="00:05:58.330" end="00:06:03.009" style="s2">that&#39;s correct and that&#39;s what I saw and</p>
+<p begin="00:06:00.129" end="00:06:05.949" style="s2">I started to see that in 2016 right</p>
+<p begin="00:06:03.009" end="00:06:08.889" style="s2">after Trump got elected man interesting</p>
+<p begin="00:06:05.949" end="00:06:12.849" style="s2">so let&#39;s go back to what you have seen</p>
+<p begin="00:06:08.889" end="00:06:15.279" style="s2">as a pattern of egregious behavior at</p>
+<p begin="00:06:12.849" end="00:06:17.860" style="s2">Google that you believe is has some</p>
+<p begin="00:06:15.279" end="00:06:19.270" style="s2">unifying strategy behind it and start</p>
+<p begin="00:06:17.860" end="00:06:21.460" style="s2">start with sort of what you started to</p>
+<p begin="00:06:19.270" end="00:06:22.810" style="s2">see and what your inferences are from</p>
+<p begin="00:06:21.460" end="00:06:25.690" style="s2">that behavior and what you think</p>
+<p begin="00:06:22.810" end="00:06:29.409" style="s2">motivates that behavior yeah so let&#39;s go</p>
+<p begin="00:06:25.690" end="00:06:33.639" style="s2">back to 2016 Trump has won the election</p>
+<p begin="00:06:29.409" end="00:06:36.339" style="s2">and the executives freaked out and they</p>
+<p begin="00:06:33.639" end="00:06:39.009" style="s2">have every week there&#39;s a weekly meeting</p>
+<p begin="00:06:36.339" end="00:06:41.649" style="s2">of the executives with all the Google</p>
+<p begin="00:06:39.009" end="00:06:44.330" style="s2">employees we call it TGIF oddly enough</p>
+<p begin="00:06:41.649" end="00:06:48.110" style="s2">TGIF happens on Thursday now</p>
+<p begin="00:06:44.330" end="00:06:50.840" style="s2">but I digress and so at this TGIF the</p>
+<p begin="00:06:48.110" end="00:06:53.599" style="s2">executives got together and they kind of</p>
+<p begin="00:06:50.840" end="00:06:55.580" style="s2">had like well Trump got elected let&#39;s</p>
+<p begin="00:06:53.599" end="00:06:57.259" style="s2">let&#39;s talk about like what it means and</p>
+<p begin="00:06:55.580" end="00:07:01.610" style="s2">during this meeting they said some</p>
+<p begin="00:06:57.259" end="00:07:03.979" style="s2">really crazy stuff and they were saying</p>
+<p begin="00:07:01.610" end="00:07:06.199" style="s2">that Trump was elected because Russia</p>
+<p begin="00:07:03.979" end="00:07:08.629" style="s2">hacked our election and Trump got</p>
+<p begin="00:07:06.199" end="00:07:11.240" style="s2">elected because there&#39;s a lot of racism</p>
+<p begin="00:07:08.629" end="00:07:12.979" style="s2">and hate and misogyny you know in the</p>
+<p begin="00:07:11.240" end="00:07:15.020" style="s2">general public and that&#39;s just a net and</p>
+<p begin="00:07:12.979" end="00:07:17.930" style="s2">that they didn&#39;t realize how bad it was</p>
+<p begin="00:07:15.020" end="00:07:20.090" style="s2">and so they that&#39;s the new reality and</p>
+<p begin="00:07:17.930" end="00:07:22.669" style="s2">one of the executives even started</p>
+<p begin="00:07:20.090" end="00:07:24.349" style="s2">crying up on stage yeah I heard that I</p>
+<p begin="00:07:22.669" end="00:07:28.009" style="s2">remember that I go what the right</p>
+<p begin="00:07:24.349" end="00:07:30.440" style="s2">yeah so so this was all disclosed so</p>
+<p begin="00:07:28.009" end="00:07:33.050" style="s2">somebody it wasn&#39;t me took a copy of</p>
+<p begin="00:07:30.440" end="00:07:35.469" style="s2">this video and gave it to Breitbart and</p>
+<p begin="00:07:33.050" end="00:07:38.120" style="s2">bright bart posted the video and</p>
+<p begin="00:07:35.469" end="00:07:40.099" style="s2">immediately was like shared with a whole</p>
+<p begin="00:07:38.120" end="00:07:43.370" style="s2">bunch of people is a huge story and</p>
+<p begin="00:07:40.099" end="00:07:45.530" style="s2">everyone was was sort of like taken</p>
+<p begin="00:07:43.370" end="00:07:48.380" style="s2">aback by wow these these people running</p>
+<p begin="00:07:45.530" end="00:07:51.199" style="s2">Google or really really ideologues so</p>
+<p begin="00:07:48.380" end="00:07:53.060" style="s2">what happened with all this is I started</p>
+<p begin="00:07:51.199" end="00:07:56.500" style="s2">to notice that there was some funny</p>
+<p begin="00:07:53.060" end="00:07:58.849" style="s2">stuff going on with Google and around</p>
+<p begin="00:07:56.500" end="00:08:01.219" style="s2">December 2016</p>
+<p begin="00:07:58.849" end="00:08:04.400" style="s2">odd papers started to appear on their</p>
+<p begin="00:08:01.219" end="00:08:06.500" style="s2">internal networks and I&#39;ve included a</p>
+<p begin="00:08:04.400" end="00:08:08.300" style="s2">copy of this in my disclosure to the</p>
+<p begin="00:08:06.500" end="00:08:09.880" style="s2">public and the name of the pacol is</p>
+<p begin="00:08:08.300" end="00:08:12.949" style="s2">something along the lines of</p>
+<p begin="00:08:09.880" end="00:08:16.159" style="s2">psychological induced stress as a result</p>
+<p begin="00:08:12.949" end="00:08:18.259" style="s2">of algorithmic discrimination and some</p>
+<p begin="00:08:16.159" end="00:08:20.509" style="s2">people seems broken on their computer</p>
+<p begin="00:08:18.259" end="00:08:24.560" style="s2">but if you can repair the PDF it&#39;s a</p>
+<p begin="00:08:20.509" end="00:08:27.319" style="s2">it&#39;s like 60 pages of psychology musings</p>
+<p begin="00:08:24.560" end="00:08:29.719" style="s2">about stress of being discriminated</p>
+<p begin="00:08:27.319" end="00:08:31.879" style="s2">against by algorithms and how to make</p>
+<p begin="00:08:29.719" end="00:08:34.520" style="s2">that less of an issue and so one of the</p>
+<p begin="00:08:31.879" end="00:08:36.740" style="s2">things that they said about this is that</p>
+<p begin="00:08:34.520" end="00:08:39.940" style="s2">the way they could relieve a lot of the</p>
+<p begin="00:08:36.740" end="00:08:43.219" style="s2">stress of the users was to give them</p>
+<p begin="00:08:39.940" end="00:08:45.440" style="s2">non-functional buttons and dials that</p>
+<p begin="00:08:43.219" end="00:08:47.899" style="s2">would pretend to turn some of the</p>
+<p begin="00:08:45.440" end="00:08:50.690" style="s2">censorship off and that restoring a</p>
+<p begin="00:08:47.899" end="00:08:53.010" style="s2">user&#39;s sense of control would give them</p>
+<p begin="00:08:50.690" end="00:08:55.140" style="s2">would reduce their</p>
+<p begin="00:08:53.010" end="00:08:56.730" style="s2">stress caused by all the discrimination</p>
+<p begin="00:08:55.140" end="00:08:59.940" style="s2">I&#39;m sitting reading this paper going</p>
+<p begin="00:08:56.730" end="00:09:01.440" style="s2">what the hell what the hell and then</p>
+<p begin="00:08:59.940" end="00:09:04.020" style="s2">there&#39;s weird other weird stuff in there</p>
+<p begin="00:09:01.440" end="00:09:08.120" style="s2">saying that when people are crowded in</p>
+<p begin="00:09:04.020" end="00:09:11.850" style="s2">trains that they tend to buy more</p>
+<p begin="00:09:08.120" end="00:09:14.580" style="s2">products to the to ads and so the paper</p>
+<p begin="00:09:11.850" end="00:09:18.990" style="s2">describes like how do we simulate this</p>
+<p begin="00:09:14.580" end="00:09:20.730" style="s2">this sense of crowding so that people</p>
+<p begin="00:09:18.990" end="00:09:22.380" style="s2">buy more things and I&#39;m just seeing that</p>
+<p begin="00:09:20.730" end="00:09:24.750" style="s2">go wait a minute like we&#39;re we&#39;re</p>
+<p begin="00:09:22.380" end="00:09:27.240" style="s2">getting the best scientists decisions</p>
+<p begin="00:09:24.750" end="00:09:29.130" style="s2">and mathematicians and psychologists so</p>
+<p begin="00:09:27.240" end="00:09:32.310" style="s2">that we can increase at engagement by</p>
+<p begin="00:09:29.130" end="00:09:33.720" style="s2">0.1 percent like what is going on here</p>
+<p begin="00:09:32.310" end="00:09:35.250" style="s2">so that was that was the beginning of it</p>
+<p begin="00:09:33.720" end="00:09:36.630" style="s2">right that was the beginning of sort of</p>
+<p begin="00:09:35.250" end="00:09:39.120" style="s2">like my awakening of what Google was</p>
+<p begin="00:09:36.630" end="00:09:41.340" style="s2">doing and then we hold on just a second</p>
+<p begin="00:09:39.120" end="00:09:43.230" style="s2">here I mean isn&#39;t their business model</p>
+<p begin="00:09:41.340" end="00:09:44.700" style="s2">tweaking at engagement by one tenth of</p>
+<p begin="00:09:43.230" end="00:09:47.400" style="s2">one percent I mean that is the business</p>
+<p begin="00:09:44.700" end="00:09:49.650" style="s2">of Google right is to hijack people&#39;s</p>
+<p begin="00:09:47.400" end="00:09:51.510" style="s2">attention and then auction it off to the</p>
+<p begin="00:09:49.650" end="00:09:54.360" style="s2">highest bidder fair enough fair enough</p>
+<p begin="00:09:51.510" end="00:09:56.430" style="s2">fair enough I guess I just saw it I was</p>
+<p begin="00:09:54.360" end="00:09:57.870" style="s2">just like wow this is really evil and I</p>
+<p begin="00:09:56.430" end="00:09:59.130" style="s2">thought at the beginning that welcome</p>
+<p begin="00:09:57.870" end="00:10:01.050" style="s2">well they&#39;re just trying to like it you</p>
+<p begin="00:09:59.130" end="00:10:02.960" style="s2">know maximize profits for their</p>
+<p begin="00:10:01.050" end="00:10:06.960" style="s2">shareholders which is their fiduciary</p>
+<p begin="00:10:02.960" end="00:10:09.180" style="s2">responsibility right so but I I started</p>
+<p begin="00:10:06.960" end="00:10:12.300" style="s2">goin I started taking myself ooh what&#39;s</p>
+<p begin="00:10:09.180" end="00:10:15.750" style="s2">going on here and what I noticed is the</p>
+<p begin="00:10:12.300" end="00:10:18.420" style="s2">company started ramping up the crazy</p>
+<p begin="00:10:15.750" end="00:10:20.310" style="s2">right and the the first thing that they</p>
+<p begin="00:10:18.420" end="00:10:23.760" style="s2">started doing to really wrap this up was</p>
+<p begin="00:10:20.310" end="00:10:25.710" style="s2">define the concept of fake news the</p>
+<p begin="00:10:23.760" end="00:10:28.290" style="s2">executives explained to the company that</p>
+<p begin="00:10:25.710" end="00:10:30.660" style="s2">fake news was you know a reason that</p>
+<p begin="00:10:28.290" end="00:10:33.810" style="s2">Trump got elected and so they needed to</p>
+<p begin="00:10:30.660" end="00:10:36.030" style="s2">protect the American public from all</p>
+<p begin="00:10:33.810" end="00:10:39.120" style="s2">this fake news and so they started</p>
+<p begin="00:10:36.030" end="00:10:41.730" style="s2">slapping down on fake news they started</p>
+<p begin="00:10:39.120" end="00:10:44.760" style="s2">you know crazies papers about like what</p>
+<p begin="00:10:41.730" end="00:10:48.300" style="s2">fake news is and in that paper they had</p>
+<p begin="00:10:44.760" end="00:10:50.340" style="s2">an example of what fake news was and in</p>
+<p begin="00:10:48.300" end="00:10:53.910" style="s2">that example they actually were listing</p>
+<p begin="00:10:50.340" end="00:10:56.760" style="s2">events that took place okay so I&#39;ll give</p>
+<p begin="00:10:53.910" end="00:11:00.450" style="s2">you an example like Hillary Clinton ran</p>
+<p begin="00:10:56.760" end="00:11:03.300" style="s2">weapons soup and gauzy to fund Isis to</p>
+<p begin="00:11:00.450" end="00:11:04.510" style="s2">arm Isis in Syria this is for anybody</p>
+<p begin="00:11:03.300" end="00:11:07.210" style="s2">that research is just</p>
+<p begin="00:11:04.510" end="00:11:09.850" style="s2">that this is a conspiracy fact Google&#39;s</p>
+<p begin="00:11:07.210" end="00:11:12.340" style="s2">listing this as an example of fake news</p>
+<p begin="00:11:09.850" end="00:11:15.340" style="s2">that they need to censor and I&#39;m</p>
+<p begin="00:11:12.340" end="00:11:17.770" style="s2">thinking why why why are they getting</p>
+<p begin="00:11:15.340" end="00:11:19.480" style="s2">involved in this politics like why do</p>
+<p begin="00:11:17.770" end="00:11:21.430" style="s2">they have a dog in the fight but that&#39;s</p>
+<p begin="00:11:19.480" end="00:11:23.530" style="s2">that that&#39;s clearly where they were</p>
+<p begin="00:11:21.430" end="00:11:26.020" style="s2">going and so they started to sort of</p>
+<p begin="00:11:23.530" end="00:11:28.300" style="s2">sculpt the information landscape and as</p>
+<p begin="00:11:26.020" end="00:11:29.920" style="s2">I start seeing that they were that they</p>
+<p begin="00:11:28.300" end="00:11:31.600" style="s2">were what they were filtering I start</p>
+<p begin="00:11:29.920" end="00:11:33.730" style="s2">investigating will you know what&#39;s</p>
+<p begin="00:11:31.600" end="00:11:35.740" style="s2">what&#39;s really going on is this fake news</p>
+<p begin="00:11:33.730" end="00:11:38.050" style="s2">or is this not fake news and what I</p>
+<p begin="00:11:35.740" end="00:11:40.600" style="s2">discovered was shocking I discovered</p>
+<p begin="00:11:38.050" end="00:11:43.570" style="s2">that Hillary could sell off 20% of</p>
+<p begin="00:11:40.600" end="00:11:46.000" style="s2">America&#39;s uranium capacity to Russia and</p>
+<p begin="00:11:43.570" end="00:11:48.100" style="s2">that there was a book done by this by</p>
+<p begin="00:11:46.000" end="00:11:49.840" style="s2">Pierre Schweitzer of the enthuse the</p>
+<p begin="00:11:48.100" end="00:11:51.940" style="s2">Hoover Institute or something like that</p>
+<p begin="00:11:49.840" end="00:11:53.980" style="s2">one distinct tanks included lays out all</p>
+<p begin="00:11:51.940" end="00:11:56.260" style="s2">the evidence that this is what happened</p>
+<p begin="00:11:53.980" end="00:11:58.480" style="s2">and now I see Google at the company is</p>
+<p begin="00:11:56.260" end="00:12:00.250" style="s2">trying to is try to filter this and I</p>
+<p begin="00:11:58.480" end="00:12:02.290" style="s2">start seeing that like Wikipedia is</p>
+<p begin="00:12:00.250" end="00:12:03.850" style="s2">saying that this is a conspiracy theory</p>
+<p begin="00:12:02.290" end="00:12:05.590" style="s2">even though it seems that it&#39;s a</p>
+<p begin="00:12:03.850" end="00:12:07.450" style="s2">conspiracy fact like it&#39;s it&#39;s</p>
+<p begin="00:12:05.590" end="00:12:08.830" style="s2">unimpeachable the evidence is just so</p>
+<p begin="00:12:07.450" end="00:12:10.690" style="s2">overwhelming and so I start going</p>
+<p begin="00:12:08.830" end="00:12:12.160" style="s2">through this awakening and I and I can I</p>
+<p begin="00:12:10.690" end="00:12:14.380" style="s2">continue down and I continue to get</p>
+<p begin="00:12:12.160" end="00:12:15.970" style="s2">these documents night and I start</p>
+<p begin="00:12:14.380" end="00:12:17.550" style="s2">figuring out that there&#39;s this new</p>
+<p begin="00:12:15.970" end="00:12:22.900" style="s2">system that they&#39;re building called</p>
+<p begin="00:12:17.550" end="00:12:24.670" style="s2">machine learning fairness Naha that&#39;s a</p>
+<p begin="00:12:22.900" end="00:12:27.280" style="s2">little bit of another Orwellian term</p>
+<p begin="00:12:24.670" end="00:12:28.450" style="s2">there tell me about that yeah so what</p>
+<p begin="00:12:27.280" end="00:12:30.670" style="s2">can I say about machine learning</p>
+<p begin="00:12:28.450" end="00:12:33.700" style="s2">fairness well what they thought was</p>
+<p begin="00:12:30.670" end="00:12:35.650" style="s2">because there was all this fake news and</p>
+<p begin="00:12:33.700" end="00:12:38.560" style="s2">there was all this hate and racism</p>
+<p begin="00:12:35.650" end="00:12:41.200" style="s2">online that Google was going to fix it</p>
+<p begin="00:12:38.560" end="00:12:42.820" style="s2">through a project called machine</p>
+<p begin="00:12:41.200" end="00:12:46.210" style="s2">learning fairness and what fairness was</p>
+<p begin="00:12:42.820" end="00:12:48.100" style="s2">going to do was fairness was well it is</p>
+<p begin="00:12:46.210" end="00:12:50.770" style="s2">doing and I&#39;m not gonna use the past</p>
+<p begin="00:12:48.100" end="00:12:53.110" style="s2">tense what it&#39;s doing is it&#39;s revising</p>
+<p begin="00:12:50.770" end="00:12:56.470" style="s2">all of their search results and biasing</p>
+<p begin="00:12:53.110" end="00:12:58.750" style="s2">their YouTube results and it&#39;s revising</p>
+<p begin="00:12:56.470" end="00:13:00.430" style="s2">all of their news so Google search</p>
+<p begin="00:12:58.750" end="00:13:02.560" style="s2">YouTube and news are like the main</p>
+<p begin="00:13:00.430" end="00:13:05.230" style="s2">targets of this like ml fairness from a</p>
+<p begin="00:13:02.560" end="00:13:07.990" style="s2">user perspective and what it does is it</p>
+<p begin="00:13:05.230" end="00:13:11.050" style="s2">takes in as input training data and it&#39;s</p>
+<p begin="00:13:07.990" end="00:13:15.790" style="s2">it generates these rules which are</p>
+<p begin="00:13:11.050" end="00:13:17.139" style="s2">applied to comments videos documents</p>
+<p begin="00:13:15.790" end="00:13:20.230" style="s2">everything that is searching for</p>
+<p begin="00:13:17.139" end="00:13:23.379" style="s2">figures out how to rank the content</p>
+<p begin="00:13:20.230" end="00:13:25.509" style="s2">based on how fair it is and what&#39;s</p>
+<p begin="00:13:23.379" end="00:13:28.869" style="s2">really strange is that one of the</p>
+<p begin="00:13:25.509" end="00:13:31.600" style="s2">documents that they had said like define</p>
+<p begin="00:13:28.869" end="00:13:33.759" style="s2">like what algorithmic unfairness was and</p>
+<p begin="00:13:31.600" end="00:13:37.119" style="s2">what they said is like imagine that you</p>
+<p begin="00:13:33.759" end="00:13:39.569" style="s2">were doing a search for CEOs and most of</p>
+<p begin="00:13:37.119" end="00:13:43.559" style="s2">the results that pop back were male and</p>
+<p begin="00:13:39.569" end="00:13:46.809" style="s2">Google&#39;s words were if even if this</p>
+<p begin="00:13:43.559" end="00:13:49.949" style="s2">represented objective reality we could</p>
+<p begin="00:13:46.809" end="00:13:54.239" style="s2">still classify it as algorithmically</p>
+<p begin="00:13:49.949" end="00:13:57.999" style="s2">unfair and that we should intervene via</p>
+<p begin="00:13:54.239" end="00:14:00.489" style="s2">product intervention oh this is when I</p>
+<p begin="00:13:57.999" end="00:14:02.619" style="s2">said Orwellian in the general sense this</p>
+<p begin="00:14:00.489" end="00:14:05.169" style="s2">now sounds like it&#39;s Orwellian in the</p>
+<p begin="00:14:02.619" end="00:14:08.379" style="s2">specific sense and that they are trying</p>
+<p begin="00:14:05.169" end="00:14:10.660" style="s2">to use the word fairness for distorting</p>
+<p begin="00:14:08.379" end="00:14:13.389" style="s2">reality that&#39;s correct</p>
+<p begin="00:14:10.660" end="00:14:16.209" style="s2">they&#39;re looking to to change the nature</p>
+<p begin="00:14:13.389" end="00:14:17.980" style="s2">of reality to make a better person and</p>
+<p begin="00:14:16.209" end="00:14:20.230" style="s2">in these documents</p>
+<p begin="00:14:17.980" end="00:14:22.089" style="s2">you know it&#39;s talking about how you know</p>
+<p begin="00:14:20.230" end="00:14:25.779" style="s2">they can be algorithmically more fair</p>
+<p begin="00:14:22.089" end="00:14:27.669" style="s2">they&#39;re also describing like what they</p>
+<p begin="00:14:25.779" end="00:14:29.589" style="s2">feel about the user and what they feel</p>
+<p begin="00:14:27.669" end="00:14:31.989" style="s2">about the user is that the user is</p>
+<p begin="00:14:29.589" end="00:14:34.149" style="s2">programmed based upon the content that</p>
+<p begin="00:14:31.989" end="00:14:36.220" style="s2">they&#39;re interacting with so news that&#39;s</p>
+<p begin="00:14:34.149" end="00:14:37.899" style="s2">aggregated and goes to the user like</p>
+<p begin="00:14:36.220" end="00:14:40.119" style="s2">that goes into the users head and then</p>
+<p begin="00:14:37.899" end="00:14:42.309" style="s2">they programs them and then they turn</p>
+<p begin="00:14:40.119" end="00:14:44.799" style="s2">around and then they generate content</p>
+<p begin="00:14:42.309" end="00:14:47.529" style="s2">and this content then contains this</p>
+<p begin="00:14:44.799" end="00:14:49.660" style="s2">fairness bias whatever you want to call</p>
+<p begin="00:14:47.529" end="00:14:51.369" style="s2">it and then that generates more content</p>
+<p begin="00:14:49.660" end="00:14:53.860" style="s2">and that gets aggregated filtered and</p>
+<p begin="00:14:51.369" end="00:14:55.689" style="s2">then this this the program repeats and</p>
+<p begin="00:14:53.860" end="00:14:57.970" style="s2">so the fact that they said that people</p>
+<p begin="00:14:55.689" end="00:15:00.459" style="s2">like us are programmed and that&#39;s the</p>
+<p begin="00:14:57.970" end="00:15:02.589" style="s2">exact words that they used was really</p>
+<p begin="00:15:00.459" end="00:15:04.360" style="s2">disturbing okay so they think people</p>
+<p begin="00:15:02.589" end="00:15:06.220" style="s2">like us can be programmed okay well is</p>
+<p begin="00:15:04.360" end="00:15:08.139" style="s2">this just a one office it&#39;s just one</p>
+<p begin="00:15:06.220" end="00:15:09.910" style="s2">rogue employee but then I saw it in like</p>
+<p begin="00:15:08.139" end="00:15:11.769" style="s2">another document that was that was</p>
+<p begin="00:15:09.910" end="00:15:13.839" style="s2">generated and they&#39;ve done it in a</p>
+<p begin="00:15:11.769" end="00:15:15.970" style="s2">different way and I was like okay this</p>
+<p begin="00:15:13.839" end="00:15:18.039" style="s2">is Akademik they think of us as program</p>
+<p begin="00:15:15.970" end="00:15:20.169" style="s2">programmable units and they&#39;re gonna use</p>
+<p begin="00:15:18.039" end="00:15:22.089" style="s2">their control mechanism in order to</p>
+<p begin="00:15:20.169" end="00:15:23.679" style="s2">program us and like this is something</p>
+<p begin="00:15:22.089" end="00:15:26.709" style="s2">like out of a sci-fi novel but I&#39;m</p>
+<p begin="00:15:23.679" end="00:15:30.549" style="s2">reading it like at my desk and I&#39;m going</p>
+<p begin="00:15:26.709" end="00:15:31.089" style="s2">oh my god the American people need to</p>
+<p begin="00:15:30.549" end="00:15:33.039" style="s2">know</p>
+<p begin="00:15:31.089" end="00:15:35.019" style="s2">what&#39;s coming down the pipeline because</p>
+<p begin="00:15:33.039" end="00:15:36.819" style="s2">if they&#39;re gonna program us and that&#39;s</p>
+<p begin="00:15:35.019" end="00:15:38.049" style="s2">their intention then we can&#39;t escape</p>
+<p begin="00:15:36.819" end="00:15:40.539" style="s2">them because they&#39;re literally</p>
+<p begin="00:15:38.049" end="00:15:42.519" style="s2">everywhere I used the Google Chrome</p>
+<p begin="00:15:40.539" end="00:15:44.319" style="s2">browser to do a google chrome search</p>
+<p begin="00:15:42.519" end="00:15:46.569" style="s2">when I want to contact someone I use</p>
+<p begin="00:15:44.319" end="00:15:49.359" style="s2">Gmail half the people that I talk to</p>
+<p begin="00:15:46.569" end="00:15:51.939" style="s2">have Android phones Google is everywhere</p>
+<p begin="00:15:49.359" end="00:15:54.129" style="s2">and they&#39;ve got the scale necessary to</p>
+<p begin="00:15:51.939" end="00:15:56.199" style="s2">be able to sculpt that information</p>
+<p begin="00:15:54.129" end="00:15:57.969" style="s2">landscape and if you go against a</p>
+<p begin="00:15:56.199" end="00:15:59.259" style="s2">narrative maybe Google is gonna turn</p>
+<p begin="00:15:57.969" end="00:16:00.219" style="s2">evil and then they&#39;re going to be able</p>
+<p begin="00:15:59.259" end="00:16:03.099" style="s2">to know where you are</p>
+<p begin="00:16:00.219" end="00:16:05.859" style="s2">every single moment of the day it&#39;s</p>
+<p begin="00:16:03.099" end="00:16:08.289" style="s2">really quite frightening when I when I</p>
+<p begin="00:16:05.859" end="00:16:09.969" style="s2">started to see the whole future unfold</p>
+<p begin="00:16:08.289" end="00:16:12.639" style="s2">and what was coming down the pipeline</p>
+<p begin="00:16:09.969" end="00:16:15.609" style="s2">aimed directly at Americans might want</p>
+<p begin="00:16:12.639" end="00:16:17.769" style="s2">to recap that for our audience see if I</p>
+<p begin="00:16:15.609" end="00:16:19.749" style="s2">understood what you had to say if I</p>
+<p begin="00:16:17.769" end="00:16:22.439" style="s2">didn&#39;t correct me when I took away from</p>
+<p begin="00:16:19.749" end="00:16:26.109" style="s2">this is that you believe Google believes</p>
+<p begin="00:16:22.439" end="00:16:28.629" style="s2">that it is programming its users by the</p>
+<p begin="00:16:26.109" end="00:16:30.219" style="s2">content it delivers which I&#39;m a</p>
+<p begin="00:16:28.629" end="00:16:32.799" style="s2">cognitive science perspective probably</p>
+<p begin="00:16:30.219" end="00:16:34.749" style="s2">has some validity to it actually but the</p>
+<p begin="00:16:32.799" end="00:16:37.359" style="s2">next step is that they believe they have</p>
+<p begin="00:16:34.749" end="00:16:39.129" style="s2">some kind of moral obligation or</p>
+<p begin="00:16:37.359" end="00:16:41.229" style="s2">business obligation or some other</p>
+<p begin="00:16:39.129" end="00:16:44.319" style="s2">obligation to program people to be</p>
+<p begin="00:16:41.229" end="00:16:47.529" style="s2">better quote unquote in ways they Google</p>
+<p begin="00:16:44.319" end="00:16:48.999" style="s2">believe is better describe that your</p>
+<p begin="00:16:47.529" end="00:16:51.609" style="s2">claim left the center of your claim</p>
+<p begin="00:16:48.999" end="00:16:54.429" style="s2">that&#39;s the center of my claim okay and</p>
+<p begin="00:16:51.609" end="00:16:57.039" style="s2">in the past we&#39;ve all generally assumed</p>
+<p begin="00:16:54.429" end="00:16:58.839" style="s2">and certainly the Google twins page and</p>
+<p begin="00:16:57.039" end="00:17:00.789" style="s2">Brin have claimed that they are</p>
+<p begin="00:16:58.839" end="00:17:03.129" style="s2">objective and that they would never ever</p>
+<p begin="00:17:00.789" end="00:17:04.689" style="s2">try to put a thumb on the scale and you</p>
+<p begin="00:17:03.129" end="00:17:07.419" style="s2">believe you have evidence that shows</p>
+<p begin="00:17:04.689" end="00:17:09.189" style="s2">that that is not true yeah now I do I</p>
+<p begin="00:17:07.419" end="00:17:11.980" style="s2">know I do I have the evidence that</p>
+<p begin="00:17:09.189" end="00:17:14.259" style="s2">discloses evidence and everyone around</p>
+<p begin="00:17:11.980" end="00:17:16.149" style="s2">the world is now in a game of</p>
+<p begin="00:17:14.259" end="00:17:18.009" style="s2">downloading this and dissecting it and</p>
+<p begin="00:17:16.149" end="00:17:21.100" style="s2">posting it online to Twitter and social</p>
+<p begin="00:17:18.009" end="00:17:22.899" style="s2">media networks and let me give the let</p>
+<p begin="00:17:21.100" end="00:17:24.879" style="s2">me give you our audience the address</p>
+<p begin="00:17:22.899" end="00:17:26.829" style="s2">where you can get this data I&#39;m gonna</p>
+<p begin="00:17:24.879" end="00:17:30.610" style="s2">give you a caveat though once I give it</p>
+<p begin="00:17:26.829" end="00:17:33.059" style="s2">to you it&#39;s project Veritas dot-com</p>
+<p begin="00:17:30.610" end="00:17:36.419" style="s2">/ Google -</p>
+<p begin="00:17:33.059" end="00:17:38.519" style="s2">- dump that gets you to a pile of stuff</p>
+<p begin="00:17:36.419" end="00:17:40.860" style="s2">go to the everything got zip and</p>
+<p begin="00:17:38.519" end="00:17:43.080" style="s2">download that ignore their attempt to</p>
+<p begin="00:17:40.860" end="00:17:45.450" style="s2">peddle some software product which may</p>
+<p begin="00:17:43.080" end="00:17:47.519" style="s2">or may not even exist and just download</p>
+<p begin="00:17:45.450" end="00:17:49.110" style="s2">the everything got zip and extract it</p>
+<p begin="00:17:47.519" end="00:17:51.600" style="s2">that&#39;s the best way to get access to</p>
+<p begin="00:17:49.110" end="00:17:52.830" style="s2">Zacks complete archive and I&#39;m start</p>
+<p begin="00:17:51.600" end="00:17:57.480" style="s2">looking through it see if what he says</p>
+<p begin="00:17:52.830" end="00:17:59.519" style="s2">is Veritas the truth right and you know</p>
+<p begin="00:17:57.480" end="00:18:01.289" style="s2">I will say as I&#39;ve been looking around I</p>
+<p begin="00:17:59.519" end="00:18:03.179" style="s2">talked to Pat a little bit it would be</p>
+<p begin="00:18:01.289" end="00:18:05.490" style="s2">very helpful for people like my audience</p>
+<p begin="00:18:03.179" end="00:18:06.929" style="s2">which are smart people but often busy</p>
+<p begin="00:18:05.490" end="00:18:10.080" style="s2">people who don&#39;t have time to do this</p>
+<p begin="00:18:06.929" end="00:18:12.929" style="s2">themselves for someone to craft a well</p>
+<p begin="00:18:10.080" end="00:18:14.610" style="s2">done narrative document maybe ten pages</p>
+<p begin="00:18:12.929" end="00:18:17.279" style="s2">that you know tells the story that</p>
+<p begin="00:18:14.610" end="00:18:19.440" style="s2">you&#39;re trying to sell has some excerpts</p>
+<p begin="00:18:17.279" end="00:18:21.899" style="s2">from these documents and then direct</p>
+<p begin="00:18:19.440" end="00:18:24.179" style="s2">pointers right to the documents so that</p>
+<p begin="00:18:21.899" end="00:18:28.110" style="s2">people in twenty minutes can get the</p>
+<p begin="00:18:24.179" end="00:18:30.269" style="s2">whole story in a in a convincing or not</p>
+<p begin="00:18:28.110" end="00:18:32.610" style="s2">convincing way I would strongly suggest</p>
+<p begin="00:18:30.269" end="00:18:35.070" style="s2">you and your friends do that yep yep and</p>
+<p begin="00:18:32.610" end="00:18:37.970" style="s2">the thing is is that it&#39;s coming the</p>
+<p begin="00:18:35.070" end="00:18:41.100" style="s2">think tanks the people that are</p>
+<p begin="00:18:37.970" end="00:18:42.929" style="s2">influencers are dissecting this and</p>
+<p begin="00:18:41.100" end="00:18:44.999" style="s2">making sense of it you know as we speak</p>
+<p begin="00:18:42.929" end="00:18:47.610" style="s2">one of the people that I urge your</p>
+<p begin="00:18:44.999" end="00:18:50.159" style="s2">listeners to check out is Robert Epstein</p>
+<p begin="00:18:47.610" end="00:18:53.690" style="s2">he is the former chief editor of</p>
+<p begin="00:18:50.159" end="00:18:56.730" style="s2">psychology today and he&#39;s made it his</p>
+<p begin="00:18:53.690" end="00:18:59.720" style="s2">life&#39;s mission for the last few years to</p>
+<p begin="00:18:56.730" end="00:19:01.919" style="s2">prove that Google is engaging in</p>
+<p begin="00:18:59.720" end="00:19:05.669" style="s2">election meddling and doing it</p>
+<p begin="00:19:01.919" end="00:19:07.019" style="s2">intentionally and so you know I for</p>
+<p begin="00:19:05.669" end="00:19:08.669" style="s2">people like Robert Epstein</p>
+<p begin="00:19:07.019" end="00:19:11.580" style="s2">and you know people like your audience</p>
+<p begin="00:19:08.669" end="00:19:14.159" style="s2">to be able to see what Google is really</p>
+<p begin="00:19:11.580" end="00:19:16.440" style="s2">up to because what they say to Congress</p>
+<p begin="00:19:14.159" end="00:19:18.450" style="s2">and under oath is just not based in</p>
+<p begin="00:19:16.440" end="00:19:20.610" style="s2">reality what they&#39;re doing is they&#39;re</p>
+<p begin="00:19:18.450" end="00:19:23.100" style="s2">they&#39;re covering their maliciously</p>
+<p begin="00:19:20.610" end="00:19:25.110" style="s2">covering for their intentions to engage</p>
+<p begin="00:19:23.100" end="00:19:27.240" style="s2">in election interference and we know</p>
+<p begin="00:19:25.110" end="00:19:29.909" style="s2">they have the capability right the book</p>
+<p begin="00:19:27.240" end="00:19:31.950" style="s2">the age of surveillance capitalism by</p>
+<p begin="00:19:29.909" end="00:19:33.899" style="s2">Shoshanna Zubov well I have some</p>
+<p begin="00:19:31.950" end="00:19:37.289" style="s2">quibbles about some of the things in the</p>
+<p begin="00:19:33.899" end="00:19:40.400" style="s2">book I will say that she landed a 6.0</p>
+<p begin="00:19:37.289" end="00:19:43.460" style="s2">perfect stick on showing that google</p>
+<p begin="00:19:40.400" end="00:19:46.250" style="s2">has the power to buy a search result do</p>
+<p begin="00:19:43.460" end="00:19:48.110" style="s2">lots of news results - do they have a</p>
+<p begin="00:19:46.250" end="00:19:50.420" style="s2">sense the unlimited power to make the</p>
+<p begin="00:19:48.110" end="00:19:52.310" style="s2">world appear however they want from</p>
+<p begin="00:19:50.420" end="00:19:54.980" style="s2">within reason from the perspective of</p>
+<p begin="00:19:52.310" end="00:19:56.600" style="s2">the Google user so now we have F Zack</p>
+<p begin="00:19:54.980" end="00:19:58.790" style="s2">saying that not only do they have that</p>
+<p begin="00:19:56.600" end="00:19:59.720" style="s2">power but they are now using it that&#39;s</p>
+<p begin="00:19:58.790" end="00:20:03.200" style="s2">pretty scary</p>
+<p begin="00:19:59.720" end="00:20:05.810" style="s2">pretty scary do you have a hypothesis on</p>
+<p begin="00:20:03.200" end="00:20:07.640" style="s2">why they&#39;re doing this so there&#39;s these</p>
+<p begin="00:20:05.810" end="00:20:10.250" style="s2">establishment media players that are</p>
+<p begin="00:20:07.640" end="00:20:14.120" style="s2">pushing a lot of this racism and this</p>
+<p begin="00:20:10.250" end="00:20:16.520" style="s2">Russian collusion conspiracy hoax that</p>
+<p begin="00:20:14.120" end="00:20:19.220" style="s2">was entrusted upon the American public</p>
+<p begin="00:20:16.520" end="00:20:21.950" style="s2">in the media and my guess is who&#39;s ever</p>
+<p begin="00:20:19.220" end="00:20:25.010" style="s2">been driving them has been also driving</p>
+<p begin="00:20:21.950" end="00:20:26.990" style="s2">the agenda of Google this has been kinda</p>
+<p begin="00:20:25.010" end="00:20:29.810" style="s2">in lockstep with the other social media</p>
+<p begin="00:20:26.990" end="00:20:31.490" style="s2">companies and what&#39;s really curious is</p>
+<p begin="00:20:29.810" end="00:20:33.530" style="s2">that when I go and look at the</p>
+<p begin="00:20:31.490" end="00:20:36.950" style="s2">stockholders of these companies the</p>
+<p begin="00:20:33.530" end="00:20:38.270" style="s2">stockholders are similar and actually I</p>
+<p begin="00:20:36.950" end="00:20:42.260" style="s2">think a lot of cases are almost the same</p>
+<p begin="00:20:38.270" end="00:20:45.140" style="s2">and like the top 7 and if you look at</p>
+<p begin="00:20:42.260" end="00:20:48.470" style="s2">the top 7 they have roughly equal</p>
+<p begin="00:20:45.140" end="00:20:50.990" style="s2">proportions of ownership and so my</p>
+<p begin="00:20:48.470" end="00:20:52.820" style="s2">question is those people that own it you</p>
+<p begin="00:20:50.990" end="00:20:55.040" style="s2">know they own all the stock you know are</p>
+<p begin="00:20:52.820" end="00:20:57.200" style="s2">they the ones driving the agenda and I</p>
+<p begin="00:20:55.040" end="00:20:59.120" style="s2">suspect that they are and I suspect it&#39;s</p>
+<p begin="00:20:57.200" end="00:21:01.730" style="s2">coordinated because it&#39;s not a</p>
+<p begin="00:20:59.120" end="00:21:04.400" style="s2">coincidence that everyone is wrong about</p>
+<p begin="00:21:01.730" end="00:21:06.740" style="s2">the same thing at the same time right</p>
+<p begin="00:21:04.400" end="00:21:08.930" style="s2">like how did everyone get suckered into</p>
+<p begin="00:21:06.740" end="00:21:10.910" style="s2">this Russian collusion conspiracy hoax</p>
+<p begin="00:21:08.930" end="00:21:13.130" style="s2">it&#39;s it&#39;s mind-blowing</p>
+<p begin="00:21:10.910" end="00:21:15.770" style="s2">and so the fact that this is happening</p>
+<p begin="00:21:13.130" end="00:21:18.140" style="s2">that also also the culture war with</p>
+<p begin="00:21:15.770" end="00:21:19.730" style="s2">trying to redefine you know first sex</p>
+<p begin="00:21:18.140" end="00:21:21.710" style="s2">into gender and then we&#39;re talking about</p>
+<p begin="00:21:19.730" end="00:21:23.870" style="s2">gender and then whenever they refer to</p>
+<p begin="00:21:21.710" end="00:21:25.520" style="s2">someone&#39;s you know sexual identity it&#39;s</p>
+<p begin="00:21:23.870" end="00:21:27.410" style="s2">now referring it to their gender</p>
+<p begin="00:21:25.520" end="00:21:29.750" style="s2">identity and now gender identity can be</p>
+<p begin="00:21:27.410" end="00:21:31.690" style="s2">whatever someone decides so now man can</p>
+<p begin="00:21:29.750" end="00:21:34.070" style="s2">have babies and the fact that this</p>
+<p begin="00:21:31.690" end="00:21:35.840" style="s2">consensual delusion is being pushed</p>
+<p begin="00:21:34.070" end="00:21:38.060" style="s2">through all these different channels at</p>
+<p begin="00:21:35.840" end="00:21:39.770" style="s2">the same time means that it&#39;s there&#39;s</p>
+<p begin="00:21:38.060" end="00:21:41.930" style="s2">some coordination going on there&#39;s some</p>
+<p begin="00:21:39.770" end="00:21:44.720" style="s2">agenda that&#39;s being pushed and people</p>
+<p begin="00:21:41.930" end="00:21:46.490" style="s2">need to investigate why this agenda is</p>
+<p begin="00:21:44.720" end="00:21:49.310" style="s2">being pushed by so many establishment</p>
+<p begin="00:21:46.490" end="00:21:50.870" style="s2">players at the same time okay I just did</p>
+<p begin="00:21:49.310" end="00:21:52.039" style="s2">a quick look at the institutional</p>
+<p begin="00:21:50.870" end="00:21:54.710" style="s2">holders</p>
+<p begin="00:21:52.039" end="00:21:57.350" style="s2">of top holders outside the insiders at</p>
+<p begin="00:21:54.710" end="00:22:01.009" style="s2">Google and it&#39;s just basically big</p>
+<p begin="00:21:57.350" end="00:22:04.399" style="s2">pooled capital Vanguard Blackrock tiro</p>
+<p begin="00:22:01.009" end="00:22:06.909" style="s2">price FM our Northern Trust those do not</p>
+<p begin="00:22:04.399" end="00:22:09.350" style="s2">seem to me to be a likely source of</p>
+<p begin="00:22:06.909" end="00:22:11.330" style="s2">ideological influence those people are</p>
+<p begin="00:22:09.350" end="00:22:13.940" style="s2">strictly chasing yield they&#39;re held</p>
+<p begin="00:22:11.330" end="00:22:15.919" style="s2">accountable by yield by their investors</p>
+<p begin="00:22:13.940" end="00:22:18.350" style="s2">heck I invested a couple of those so I</p>
+<p begin="00:22:15.919" end="00:22:21.229" style="s2">doubt that it&#39;s the shareholders if</p>
+<p begin="00:22:18.350" end="00:22:22.009" style="s2">there is a additional force it&#39;s</p>
+<p begin="00:22:21.229" end="00:22:24.019" style="s2">somewhere else</p>
+<p begin="00:22:22.009" end="00:22:25.429" style="s2">okay let&#39;s that&#39;s really interesting cuz</p>
+<p begin="00:22:24.019" end="00:22:27.049" style="s2">i when i saw the vanguard and the</p>
+<p begin="00:22:25.429" end="00:22:28.759" style="s2">Blackwater appear over and over and over</p>
+<p begin="00:22:27.049" end="00:22:31.009" style="s2">again my assumption was like well maybe</p>
+<p begin="00:22:28.759" end="00:22:33.049" style="s2">maybe they&#39;re putting pressure on Google</p>
+<p begin="00:22:31.009" end="00:22:36.019" style="s2">to do the things but you know I&#39;m not</p>
+<p begin="00:22:33.049" end="00:22:38.179" style="s2">not an expert in institutional investing</p>
+<p begin="00:22:36.019" end="00:22:41.359" style="s2">so but you might have more visibility</p>
+<p begin="00:22:38.179" end="00:22:43.970" style="s2">into that I do want to add to that when</p>
+<p begin="00:22:41.359" end="00:22:46.309" style="s2">Google wit IPO they had a really</p>
+<p begin="00:22:43.970" end="00:22:49.070" style="s2">different way of structuring the company</p>
+<p begin="00:22:46.309" end="00:22:51.489" style="s2">with relation to their stock and what</p>
+<p begin="00:22:49.070" end="00:22:54.349" style="s2">they&#39;ve done is that they&#39;ve given and</p>
+<p begin="00:22:51.489" end="00:22:57.259" style="s2">they&#39;ve created a couple different</p>
+<p begin="00:22:54.349" end="00:22:59.389" style="s2">classes of stocks and one of them has</p>
+<p begin="00:22:57.259" end="00:23:01.009" style="s2">preferential voting rights like I said</p>
+<p begin="00:22:59.389" end="00:23:03.799" style="s2">something like ten to one which means</p>
+<p begin="00:23:01.009" end="00:23:07.070" style="s2">that 10% of the stock holders have as</p>
+<p begin="00:23:03.799" end="00:23:09.710" style="s2">much power as 90 percent of the stock</p>
+<p begin="00:23:07.070" end="00:23:11.840" style="s2">holders so when they went IPO they had</p>
+<p begin="00:23:09.710" end="00:23:13.580" style="s2">this like you know note saying that</p>
+<p begin="00:23:11.840" end="00:23:16.009" style="s2">stock holders aren&#39;t going to</p>
+<p begin="00:23:13.580" end="00:23:18.830" style="s2">necessarily understand all their</p>
+<p begin="00:23:16.009" end="00:23:20.960" style="s2">opinions but that they have to trust the</p>
+<p begin="00:23:18.830" end="00:23:23.419" style="s2">executives to make the right decisions</p>
+<p begin="00:23:20.960" end="00:23:26.359" style="s2">for the long-term goal of the company</p>
+<p begin="00:23:23.419" end="00:23:28.159" style="s2">well now it&#39;s 2019 we know actually what</p>
+<p begin="00:23:26.359" end="00:23:29.659" style="s2">they meant by that we&#39;re gonna take over</p>
+<p begin="00:23:28.159" end="00:23:31.639" style="s2">the world and we don&#39;t want the</p>
+<p begin="00:23:29.659" end="00:23:33.349" style="s2">stockholders to revolt against us so</p>
+<p begin="00:23:31.639" end="00:23:36.139" style="s2">we&#39;re gonna take away all of their power</p>
+<p begin="00:23:33.349" end="00:23:38.389" style="s2">do you know many of the tech platform</p>
+<p begin="00:23:36.139" end="00:23:40.729" style="s2">companies have done that Facebook did an</p>
+<p begin="00:23:38.389" end="00:23:42.499" style="s2">even more powerful version of it in fact</p>
+<p begin="00:23:40.729" end="00:23:44.059" style="s2">I just I just pulled it up here on</p>
+<p begin="00:23:42.499" end="00:23:47.149" style="s2">Google they have three classes of shares</p>
+<p begin="00:23:44.059" end="00:23:49.159" style="s2">class a one vote per share of which</p>
+<p begin="00:23:47.149" end="00:23:52.309" style="s2">there are 290 million shares outstanding</p>
+<p begin="00:23:49.159" end="00:23:54.950" style="s2">this was in 2016 so might be a little</p>
+<p begin="00:23:52.309" end="00:23:56.929" style="s2">different but not big collects B with 10</p>
+<p begin="00:23:54.950" end="00:23:59.389" style="s2">votes for share of which there are 52</p>
+<p begin="00:23:56.929" end="00:24:01.730" style="s2">million so that&#39;s 520 million votes</p>
+<p begin="00:23:59.389" end="00:24:03.330" style="s2">versus the 290 million votes of the</p>
+<p begin="00:24:01.730" end="00:24:06.090" style="s2">Class A and Class C</p>
+<p begin="00:24:03.330" end="00:24:07.770" style="s2">with no votes which there are 343</p>
+<p begin="00:24:06.090" end="00:24:10.110" style="s2">million shares outstanding</p>
+<p begin="00:24:07.770" end="00:24:13.260" style="s2">so the Class B shareholders ie the</p>
+<p begin="00:24:10.110" end="00:24:18.240" style="s2">insiders absolutely control the company</p>
+<p begin="00:24:13.260" end="00:24:21.300" style="s2">there you go that is there you go Class</p>
+<p begin="00:24:18.240" end="00:24:22.830" style="s2">B so they&#39;ve created this insider voting</p>
+<p begin="00:24:21.300" end="00:24:25.290" style="s2">block which has a disproportionate</p>
+<p begin="00:24:22.830" end="00:24:28.730" style="s2">amount of power and now it&#39;s clear that</p>
+<p begin="00:24:25.290" end="00:24:30.300" style="s2">Google is abandoning their fiduciary</p>
+<p begin="00:24:28.730" end="00:24:32.700" style="s2">responsibilities to their stockholders</p>
+<p begin="00:24:30.300" end="00:24:33.990" style="s2">and now the stockholders are stuck</p>
+<p begin="00:24:32.700" end="00:24:36.150" style="s2">there&#39;s nothing they can do about it</p>
+<p begin="00:24:33.990" end="00:24:37.830" style="s2">right they can sue Google and say no you</p>
+<p begin="00:24:36.150" end="00:24:39.480" style="s2">can&#39;t do this why are you you know</p>
+<p begin="00:24:37.830" end="00:24:41.040" style="s2">meddling an election theory but they</p>
+<p begin="00:24:39.480" end="00:24:42.870" style="s2">can&#39;t they can&#39;t use the powers or</p>
+<p begin="00:24:41.040" end="00:24:44.580" style="s2">voting and so now what&#39;s happening is</p>
+<p begin="00:24:42.870" end="00:24:46.830" style="s2">that all this flowery language that</p>
+<p begin="00:24:44.580" end="00:24:49.590" style="s2">Google is used to describe like their</p>
+<p begin="00:24:46.830" end="00:24:51.810" style="s2">high MIT morals stance just turns out to</p>
+<p begin="00:24:49.590" end="00:24:54.600" style="s2">be a cover for criminal activity can you</p>
+<p begin="00:24:51.810" end="00:24:56.430" style="s2">substantiate criminal activity on that</p>
+<p begin="00:24:54.600" end="00:24:58.320" style="s2">you mentioned earlier but I think it was</p>
+<p begin="00:24:56.430" end="00:24:58.710" style="s2">probably before we went live and on the</p>
+<p begin="00:24:58.320" end="00:25:00.390" style="s2">record</p>
+<p begin="00:24:58.710" end="00:25:02.190" style="s2">the idea that you believe they&#39;re guilty</p>
+<p begin="00:25:00.390" end="00:25:04.080" style="s2">of perjury to Congress can you prove</p>
+<p begin="00:25:02.190" end="00:25:07.760" style="s2">that I&#39;d love to see you put that</p>
+<p begin="00:25:04.080" end="00:25:11.190" style="s2">together as a document care I just</p>
+<p begin="00:25:07.760" end="00:25:16.080" style="s2">created a medium article today proving</p>
+<p begin="00:25:11.190" end="00:25:18.330" style="s2">that they are engaging in they that</p>
+<p begin="00:25:16.080" end="00:25:20.640" style="s2">they&#39;re engaging in perjury to Congress</p>
+<p begin="00:25:18.330" end="00:25:22.950" style="s2">so there&#39;s a guy by the name of Karen</p>
+<p begin="00:25:20.640" end="00:25:24.480" style="s2">buta I think I believe he used to work</p>
+<p begin="00:25:22.950" end="00:25:26.670" style="s2">at GE and I works at Google</p>
+<p begin="00:25:24.480" end="00:25:29.490" style="s2">and he went before Congress I think of</p>
+<p begin="00:25:26.670" end="00:25:31.890" style="s2">July and he said we just don&#39;t like</p>
+<p begin="00:25:29.490" end="00:25:34.230" style="s2">Google does not employ blacklists like</p>
+<p begin="00:25:31.890" end="00:25:36.690" style="s2">it&#39;s just not something that we do right</p>
+<p begin="00:25:34.230" end="00:25:38.880" style="s2">well that&#39;s really curious because I&#39;ve</p>
+<p begin="00:25:36.690" end="00:25:41.040" style="s2">disclosed to blacklist with my</p>
+<p begin="00:25:38.880" end="00:25:43.410" style="s2">disclosure and Robert Epstein has</p>
+<p begin="00:25:41.040" end="00:25:45.060" style="s2">disclosed nine previous blacklist that</p>
+<p begin="00:25:43.410" end="00:25:47.580" style="s2">he was able to discover through</p>
+<p begin="00:25:45.060" end="00:25:48.960" style="s2">different information channels so now</p>
+<p begin="00:25:47.580" end="00:25:50.490" style="s2">we&#39;ve got a total of like a louder</p>
+<p begin="00:25:48.960" end="00:25:52.170" style="s2">twelve black lists that have been</p>
+<p begin="00:25:50.490" end="00:25:54.120" style="s2">disclosed to the public and here we have</p>
+<p begin="00:25:52.170" end="00:25:56.130" style="s2">you know a representative google</p>
+<p begin="00:25:54.120" end="00:25:58.440" style="s2">testifying under oath to Congress that</p>
+<p begin="00:25:56.130" end="00:25:59.910" style="s2">they don&#39;t use any black lists well he</p>
+<p begin="00:25:58.440" end="00:26:01.320" style="s2">may be able to get off on the fact that</p>
+<p begin="00:25:59.910" end="00:26:02.970" style="s2">he didn&#39;t know but of course he should</p>
+<p begin="00:26:01.320" end="00:26:05.280" style="s2">have caveated that that his knowledge</p>
+<p begin="00:26:02.970" end="00:26:07.050" style="s2">was not he was either lying which is</p>
+<p begin="00:26:05.280" end="00:26:07.800" style="s2">certainly possible or he was ignorant</p>
+<p begin="00:26:07.050" end="00:26:09.600" style="s2">one or the other</p>
+<p begin="00:26:07.800" end="00:26:11.600" style="s2">yeah but it goes all the way up to the</p>
+<p begin="00:26:09.600" end="00:26:13.730" style="s2">CEO because the CEO occurred</p>
+<p begin="00:26:11.600" end="00:26:16.070" style="s2">things similar under under under oath as</p>
+<p begin="00:26:13.730" end="00:26:19.100" style="s2">well I can&#39;t remember exactly what that</p>
+<p begin="00:26:16.070" end="00:26:21.410" style="s2">quote is but but it was it was it was</p>
+<p begin="00:26:19.100" end="00:26:24.320" style="s2">around political censorship and that&#39;s</p>
+<p begin="00:26:21.410" end="00:26:26.840" style="s2">just like completely false like you can</p>
+<p begin="00:26:24.320" end="00:26:28.669" style="s2">go to the Google search engine and you</p>
+<p begin="00:26:26.840" end="00:26:30.860" style="s2">can type in Trump body-count and will</p>
+<p begin="00:26:28.669" end="00:26:33.470" style="s2">it&#39;ll auto predict like that you&#39;re</p>
+<p begin="00:26:30.860" end="00:26:35.330" style="s2">typing in you know Trump&#39;s body count</p>
+<p begin="00:26:33.470" end="00:26:36.830" style="s2">which is ridiculous there&#39;s he doesn&#39;t</p>
+<p begin="00:26:35.330" end="00:26:40.490" style="s2">have one but then you go to Hillary</p>
+<p begin="00:26:36.830" end="00:26:42.950" style="s2">Clinton and she&#39;s got a horrendous body</p>
+<p begin="00:26:40.490" end="00:26:44.480" style="s2">count list it&#39;s like between 45 and 60</p>
+<p begin="00:26:42.950" end="00:26:48.470" style="s2">people have died under mysterious</p>
+<p begin="00:26:44.480" end="00:26:51.530" style="s2">conditions around her and so when you</p>
+<p begin="00:26:48.470" end="00:26:53.720" style="s2">type in Hillary body you know K like</p>
+<p begin="00:26:51.530" end="00:26:56.240" style="s2">with the C it won&#39;t give you any</p>
+<p begin="00:26:53.720" end="00:26:58.400" style="s2">suggestions will do any predictions and</p>
+<p begin="00:26:56.240" end="00:27:00.140" style="s2">then now you can cross-reference this</p>
+<p begin="00:26:58.400" end="00:27:02.570" style="s2">and this is all my article by the way</p>
+<p begin="00:27:00.140" end="00:27:04.309" style="s2">I&#39;m medium you can cross-reference this</p>
+<p begin="00:27:02.570" end="00:27:08.240" style="s2">with another service called Trends</p>
+<p begin="00:27:04.309" end="00:27:10.760" style="s2">Google calm cool calm shows you the real</p>
+<p begin="00:27:08.240" end="00:27:15.020" style="s2">traffic that people are using in order</p>
+<p begin="00:27:10.760" end="00:27:16.820" style="s2">to do these searches okay and so what</p>
+<p begin="00:27:15.020" end="00:27:18.679" style="s2">you can do is you can you can choose</p>
+<p begin="00:27:16.820" end="00:27:20.419" style="s2">what keyword and then you can like put</p>
+<p begin="00:27:18.679" end="00:27:23.030" style="s2">it in relation to another keyword so</p>
+<p begin="00:27:20.419" end="00:27:24.770" style="s2">what I did is I showed that I could put</p>
+<p begin="00:27:23.030" end="00:27:26.419" style="s2">in Hillary Clinton body count and then</p>
+<p begin="00:27:24.770" end="00:27:28.820" style="s2">like trust body count and then I</p>
+<p begin="00:27:26.419" end="00:27:31.159" style="s2">compared those two keywords Trump almost</p>
+<p begin="00:27:28.820" end="00:27:36.980" style="s2">has nobody searching for Trump body</p>
+<p begin="00:27:31.159" end="00:27:39.020" style="s2">count okay but Clinton&#39;s doesn&#39;t show up</p>
+<p begin="00:27:36.980" end="00:27:41.600" style="s2">under the search results you know if</p>
+<p begin="00:27:39.020" end="00:27:44.330" style="s2">this was one isolated incidents of</p>
+<p begin="00:27:41.600" end="00:27:46.700" style="s2">political bias that maybe written off as</p>
+<p begin="00:27:44.330" end="00:27:48.350" style="s2">some sort of an error but you can do</p>
+<p begin="00:27:46.700" end="00:27:50.419" style="s2">this to concern if you could do this to</p>
+<p begin="00:27:48.350" end="00:27:52.789" style="s2">liberal you could do this like men man</p>
+<p begin="00:27:50.419" end="00:27:55.429" style="s2">you can do this to women and what you&#39;re</p>
+<p begin="00:27:52.789" end="00:27:57.799" style="s2">gonna find is that the search terms that</p>
+<p begin="00:27:55.429" end="00:27:59.120" style="s2">they&#39;re Auto predicting are don&#39;t</p>
+<p begin="00:27:57.799" end="00:28:02.600" style="s2">reflect what users are actually</p>
+<p begin="00:27:59.120" end="00:28:06.110" style="s2">searching for so the question is why are</p>
+<p begin="00:28:02.600" end="00:28:09.679" style="s2">all you know what is all this meddling</p>
+<p begin="00:28:06.110" end="00:28:12.440" style="s2">and search all related to the political</p>
+<p begin="00:28:09.679" end="00:28:14.419" style="s2">ideology you know if it was like just</p>
+<p begin="00:28:12.440" end="00:28:16.010" style="s2">you know weird random stuff then you</p>
+<p begin="00:28:14.419" end="00:28:18.890" style="s2">would think that there would be like no</p>
+<p begin="00:28:16.010" end="00:28:21.059" style="s2">orientation but this all has a political</p>
+<p begin="00:28:18.890" end="00:28:22.980" style="s2">orientation and so when</p>
+<p begin="00:28:21.059" end="00:28:24.659" style="s2">say that they don&#39;t use blacklist that&#39;s</p>
+<p begin="00:28:22.980" end="00:28:27.389" style="s2">perjury when they say that they don&#39;t</p>
+<p begin="00:28:24.659" end="00:28:29.669" style="s2">have a political ideology that&#39;s perjury</p>
+<p begin="00:28:27.389" end="00:28:31.440" style="s2">and the thing is is that we know that</p>
+<p begin="00:28:29.669" end="00:28:33.360" style="s2">they&#39;ve got political bias because not</p>
+<p begin="00:28:31.440" end="00:28:33.960" style="s2">only have they interfered in America&#39;s</p>
+<p begin="00:28:33.360" end="00:28:35.970" style="s2">election</p>
+<p begin="00:28:33.960" end="00:28:38.700" style="s2">they&#39;ve also interfered in Ireland&#39;s</p>
+<p begin="00:28:35.970" end="00:28:40.980" style="s2">election do the banning of the of the</p>
+<p begin="00:28:38.700" end="00:28:43.200" style="s2">word or the phrase eighth amendment to</p>
+<p begin="00:28:40.980" end="00:28:45.929" style="s2">the constitution of Ireland which is</p>
+<p begin="00:28:43.200" end="00:28:48.330" style="s2">disclosed in the YouTube query blacklist</p>
+<p begin="00:28:45.929" end="00:28:51.179" style="s2">in my disclosure and also what I just</p>
+<p begin="00:28:48.330" end="00:28:53.490" style="s2">found out recently is that the Supreme</p>
+<p begin="00:28:51.179" end="00:28:55.379" style="s2">Court of Brazil ruled that Google</p>
+<p begin="00:28:53.490" end="00:28:57.570" style="s2">interfered in their election and they</p>
+<p begin="00:28:55.379" end="00:29:01.200" style="s2">know this because they produced a</p>
+<p begin="00:28:57.570" end="00:29:03.240" style="s2">contract between Google and the opponent</p>
+<p begin="00:29:01.200" end="00:29:05.549" style="s2">to the current president of Brazil</p>
+<p begin="00:29:03.240" end="00:29:07.830" style="s2">interesting first I would like to enter</p>
+<p begin="00:29:05.549" end="00:29:09.389" style="s2">just say from my own perspective that</p>
+<p begin="00:29:07.830" end="00:29:11.820" style="s2">the idea that Hillary Clinton has</p>
+<p begin="00:29:09.389" end="00:29:15.210" style="s2">actually killed 46 people or something I</p>
+<p begin="00:29:11.820" end="00:29:17.549" style="s2">find to be extremely unlikely and out</p>
+<p begin="00:29:15.210" end="00:29:19.980" style="s2">there in wackadoodle conspiracy theory</p>
+<p begin="00:29:17.549" end="00:29:22.169" style="s2">land but nonetheless it is interesting</p>
+<p begin="00:29:19.980" end="00:29:24.119" style="s2">that but but you&#39;re correct that many</p>
+<p begin="00:29:22.169" end="00:29:26.549" style="s2">people search on that and believe that</p>
+<p begin="00:29:24.119" end="00:29:27.779" style="s2">while there is no such I didn&#39;t believe</p>
+<p begin="00:29:26.549" end="00:29:29.879" style="s2">it either I may just want to put out I</p>
+<p begin="00:29:27.779" end="00:29:32.999" style="s2">didn&#39;t I was not a conspiracy theorist</p>
+<p begin="00:29:29.879" end="00:29:35.340" style="s2">in 2016 I didn&#39;t believe that Hillary</p>
+<p begin="00:29:32.999" end="00:29:37.679" style="s2">Clinton was doing a this really bad</p>
+<p begin="00:29:35.340" end="00:29:39.269" style="s2">stuff but then once I saw that there was</p>
+<p begin="00:29:37.679" end="00:29:43.379" style="s2">suppression I started looking at it</p>
+<p begin="00:29:39.269" end="00:29:45.450" style="s2">myself and you know that and Wow one</p>
+<p begin="00:29:43.379" end="00:29:48.450" style="s2">after another after another I looked</p>
+<p begin="00:29:45.450" end="00:29:51.210" style="s2">through and there&#39;s like a guy maybe was</p>
+<p begin="00:29:48.450" end="00:29:53.639" style="s2">Vince Foster he was found with two</p>
+<p begin="00:29:51.210" end="00:29:56.039" style="s2">gunshot wounds to the back of the head</p>
+<p begin="00:29:53.639" end="00:29:57.720" style="s2">and it was ruled a suicide and so</p>
+<p begin="00:29:56.039" end="00:29:59.070" style="s2">there&#39;s this like criminal mafia element</p>
+<p begin="00:29:57.720" end="00:30:01.679" style="s2">that&#39;s going through and whacking all</p>
+<p begin="00:29:59.070" end="00:30:03.179" style="s2">these people and it&#39;s people that are</p>
+<p begin="00:30:01.679" end="00:30:06.330" style="s2">just about to come out against the</p>
+<p begin="00:30:03.179" end="00:30:08.220" style="s2">Clintons and like right before testimony</p>
+<p begin="00:30:06.330" end="00:30:10.200" style="s2">they get whacked like I remember there</p>
+<p begin="00:30:08.220" end="00:30:12.720" style="s2">was this one guy that had information</p>
+<p begin="00:30:10.200" end="00:30:14.940" style="s2">about Hillary and the fraud that</p>
+<p begin="00:30:12.720" end="00:30:17.460" style="s2">happened with Haiti and he comes to</p>
+<p begin="00:30:14.940" end="00:30:19.499" style="s2">Florida to like testify and like a</p>
+<p begin="00:30:17.460" end="00:30:22.649" style="s2">couple days before he testifies he dies</p>
+<p begin="00:30:19.499" end="00:30:25.270" style="s2">right I&#39;d be careful about adhering to</p>
+<p begin="00:30:22.649" end="00:30:27.070" style="s2">those things you know there&#39;s</p>
+<p begin="00:30:25.270" end="00:30:29.560" style="s2">part of our brain that loves to build</p>
+<p begin="00:30:27.070" end="00:30:31.480" style="s2">these conspiracy theories but there&#39;s</p>
+<p begin="00:30:29.560" end="00:30:33.370" style="s2">enough honest reporters out there if</p>
+<p begin="00:30:31.480" end="00:30:36.190" style="s2">there was anything solid to them I think</p>
+<p begin="00:30:33.370" end="00:30:38.350" style="s2">we would have seen more about them so my</p>
+<p begin="00:30:36.190" end="00:30:39.970" style="s2">suggestion would be to go slow on claim</p>
+<p begin="00:30:38.350" end="00:30:41.680" style="s2">the conspiracies you don&#39;t need to do</p>
+<p begin="00:30:39.970" end="00:30:44.020" style="s2">that to tell your story you know and</p>
+<p begin="00:30:41.680" end="00:30:46.450" style="s2">think the fact that they have biased the</p>
+<p begin="00:30:44.020" end="00:30:48.070" style="s2">discussion of conspiracy theories is</p>
+<p begin="00:30:46.450" end="00:30:50.500" style="s2">enough you know I would not I would</p>
+<p begin="00:30:48.070" end="00:30:52.240" style="s2">recommend you don&#39;t go beyond that at</p>
+<p begin="00:30:50.500" end="00:30:54.790" style="s2">this point while trying to sell your</p>
+<p begin="00:30:52.240" end="00:30:57.150" style="s2">story not necessary I mean you&#39;re</p>
+<p begin="00:30:54.790" end="00:31:00.010" style="s2">entitled to your opinion but you know I</p>
+<p begin="00:30:57.150" end="00:31:02.680" style="s2">done enough investigation where I built</p>
+<p begin="00:31:00.010" end="00:31:06.340" style="s2">up the what I consider a true model of</p>
+<p begin="00:31:02.680" end="00:31:09.040" style="s2">how the world works and and this is this</p>
+<p begin="00:31:06.340" end="00:31:11.290" style="s2">is I mean there are so many things that</p>
+<p begin="00:31:09.040" end="00:31:13.720" style="s2">the media is not reporting on like no</p>
+<p begin="00:31:11.290" end="00:31:15.790" style="s2">one&#39;s reporting on this Google leak in</p>
+<p begin="00:31:13.720" end="00:31:18.130" style="s2">the establishment media Fox News isn&#39;t</p>
+<p begin="00:31:15.790" end="00:31:20.410" style="s2">covering at CNN isn&#39;t covering at MSNBC</p>
+<p begin="00:31:18.130" end="00:31:21.850" style="s2">isn&#39;t covering it you know there&#39;s some</p>
+<p begin="00:31:20.410" end="00:31:23.710" style="s2">there&#39;s a conspiracy going right now</p>
+<p begin="00:31:21.850" end="00:31:26.080" style="s2">where they&#39;re not allowing this story to</p>
+<p begin="00:31:23.710" end="00:31:28.060" style="s2">reach the American public and they like</p>
+<p begin="00:31:26.080" end="00:31:30.100" style="s2">Fox News reported on you know the first</p>
+<p begin="00:31:28.060" end="00:31:31.990" style="s2">leak that or the the first like minor</p>
+<p begin="00:31:30.100" end="00:31:34.570" style="s2">leak that Project Veritas had they also</p>
+<p begin="00:31:31.990" end="00:31:36.970" style="s2">reported on great Coppola coming out</p>
+<p begin="00:31:34.570" end="00:31:39.190" style="s2">there and talking but when this came out</p>
+<p begin="00:31:36.970" end="00:31:40.360" style="s2">and that and everything got released you</p>
+<p begin="00:31:39.190" end="00:31:42.490" style="s2">would think that they would at least</p>
+<p begin="00:31:40.360" end="00:31:45.280" style="s2">talk about it somewhat but it&#39;s been a</p>
+<p begin="00:31:42.490" end="00:31:48.970" style="s2">media blackout so you know if you if one</p>
+<p begin="00:31:45.280" end="00:31:51.820" style="s2">applies Occam&#39;s razor to the whole set</p>
+<p begin="00:31:48.970" end="00:31:53.830" style="s2">of data that&#39;s out there they they can</p>
+<p begin="00:31:51.820" end="00:31:56.260" style="s2">only come to the conclusion that there</p>
+<p begin="00:31:53.830" end="00:31:58.270" style="s2">is a that there&#39;s some conspiracy that&#39;s</p>
+<p begin="00:31:56.260" end="00:32:00.760" style="s2">going on that reaches all the way into</p>
+<p begin="00:31:58.270" end="00:32:01.840" style="s2">the media system and that&#39;s that&#39;s what</p>
+<p begin="00:32:00.760" end="00:32:04.540" style="s2">I believe and that&#39;s what makes the</p>
+<p begin="00:32:01.840" end="00:32:06.010" style="s2">world simpler and anything that makes</p>
+<p begin="00:32:04.540" end="00:32:08.500" style="s2">the world a little bit simpler is</p>
+<p begin="00:32:06.010" end="00:32:10.150" style="s2">something worth investigating I will</p>
+<p begin="00:32:08.500" end="00:32:11.590" style="s2">that&#39;s what I saw that there was nobody</p>
+<p begin="00:32:10.150" end="00:32:13.600" style="s2">picking this up - one of the reasons I</p>
+<p begin="00:32:11.590" end="00:32:15.880" style="s2">wanted to have you on my podcast right I</p>
+<p begin="00:32:13.600" end="00:32:17.860" style="s2">wanted to get yours really appreciate it</p>
+<p begin="00:32:15.880" end="00:32:19.930" style="s2">you know there&#39;s this is how we get it</p>
+<p begin="00:32:17.860" end="00:32:21.730" style="s2">out there to the people is you know we</p>
+<p begin="00:32:19.930" end="00:32:25.600" style="s2">this story is one of the biggest stories</p>
+<p begin="00:32:21.730" end="00:32:27.730" style="s2">of 2019 and everyone that reads it is is</p>
+<p begin="00:32:25.600" end="00:32:30.100" style="s2">terrified when they see what Google is</p>
+<p begin="00:32:27.730" end="00:32:31.900" style="s2">really up to and and getting the story</p>
+<p begin="00:32:30.100" end="00:32:34.690" style="s2">out to the American public is how we</p>
+<p begin="00:32:31.900" end="00:32:37.030" style="s2">make change because the way to defeat</p>
+<p begin="00:32:34.690" end="00:32:37.870" style="s2">evil is you just gotta expose it you</p>
+<p begin="00:32:37.030" end="00:32:38.650" style="s2">know you don&#39;t have to worry about</p>
+<p begin="00:32:37.870" end="00:32:41.320" style="s2">fighting it</p>
+<p begin="00:32:38.650" end="00:32:43.870" style="s2">you know armor on or swords like he just</p>
+<p begin="00:32:41.320" end="00:32:45.700" style="s2">got to speak the truth and once people</p>
+<p begin="00:32:43.870" end="00:32:48.400" style="s2">understand what&#39;s happening and then</p>
+<p begin="00:32:45.700" end="00:32:50.350" style="s2">change will come as a result it&#39;s a</p>
+<p begin="00:32:48.400" end="00:32:52.300" style="s2">force of nature and it is true that the</p>
+<p begin="00:32:50.350" end="00:32:54.640" style="s2">the big platforms in the mainstream</p>
+<p begin="00:32:52.300" end="00:32:57.130" style="s2">media no longer have an exclusive on</p>
+<p begin="00:32:54.640" end="00:32:58.900" style="s2">dissemination of the truth right</p>
+<p begin="00:32:57.130" end="00:33:01.720" style="s2">we now have collective information</p>
+<p begin="00:32:58.900" end="00:33:04.450" style="s2">networks of people like podcasters like</p>
+<p begin="00:33:01.720" end="00:33:06.850" style="s2">bloggers like Twitter tweeters I guess</p>
+<p begin="00:33:04.450" end="00:33:08.440" style="s2">they call them who can work together not</p>
+<p begin="00:33:06.850" end="00:33:10.360" style="s2">in a tightly coupled way but</p>
+<p begin="00:33:08.440" end="00:33:12.040" style="s2">cooperatively to get out stories that</p>
+<p begin="00:33:10.360" end="00:33:15.250" style="s2">they believe to be true right the</p>
+<p begin="00:33:12.040" end="00:33:17.110" style="s2">gatekeepers are being bypassed and what</p>
+<p begin="00:33:15.250" end="00:33:19.660" style="s2">I like to call this as the new Gutenberg</p>
+<p begin="00:33:17.110" end="00:33:22.840" style="s2">printing press the Gutenberg printing</p>
+<p begin="00:33:19.660" end="00:33:26.260" style="s2">press changed the information landscape</p>
+<p begin="00:33:22.840" end="00:33:29.050" style="s2">and caused a completely new form of</p>
+<p begin="00:33:26.260" end="00:33:31.059" style="s2">society to to come out one rip where</p>
+<p begin="00:33:29.050" end="00:33:33.760" style="s2">most people were you know became</p>
+<p begin="00:33:31.059" end="00:33:36.520" style="s2">literate and and we&#39;re in that</p>
+<p begin="00:33:33.760" end="00:33:37.840" style="s2">transition right now because these</p>
+<p begin="00:33:36.520" end="00:33:40.090" style="s2">networks that people are able to</p>
+<p begin="00:33:37.840" end="00:33:43.480" style="s2">propagate stories and bypass the</p>
+<p begin="00:33:40.090" end="00:33:45.850" style="s2">gatekeepers and so I can I can tell my</p>
+<p begin="00:33:43.480" end="00:33:48.300" style="s2">truth and I can drop you know evidence</p>
+<p begin="00:33:45.850" end="00:33:51.340" style="s2">of criminal wrongdoing and that goes</p>
+<p begin="00:33:48.300" end="00:33:53.230" style="s2">directly to the American public and</p>
+<p begin="00:33:51.340" end="00:33:54.100" style="s2">that&#39;s amazing never had something like</p>
+<p begin="00:33:53.230" end="00:33:55.450" style="s2">that before</p>
+<p begin="00:33:54.100" end="00:33:57.429" style="s2">absolutely I think it&#39;s a great thing</p>
+<p begin="00:33:55.450" end="00:33:59.320" style="s2">can you give me the title of your medium</p>
+<p begin="00:33:57.429" end="00:34:03.070" style="s2">posts so I can find it and give people</p>
+<p begin="00:33:59.320" end="00:34:05.830" style="s2">the link to it I don&#39;t have my laptop</p>
+<p begin="00:34:03.070" end="00:34:08.500" style="s2">next to me at my friend&#39;s laptop Kim can</p>
+<p begin="00:34:05.830" end="00:34:10.090" style="s2">you find me on Twitter because it&#39;s one</p>
+<p begin="00:34:08.500" end="00:34:12.129" style="s2">of the top posts that I have right now</p>
+<p begin="00:34:10.090" end="00:34:16.080" style="s2">and for your listeners out there my</p>
+<p begin="00:34:12.129" end="00:34:19.030" style="s2">twitter handle is at perpetual maniac</p>
+<p begin="00:34:16.080" end="00:34:22.290" style="s2">maniac I like that Zack for he&#39;s</p>
+<p begin="00:34:19.030" end="00:34:26.040" style="s2">perpetual maniac about that</p>
+<p begin="00:34:22.290" end="00:34:28.169" style="s2">okay mines dupper several maniacs the</p>
+<p begin="00:34:26.040" end="00:34:30.750" style="s2">letter went to Tulsi gabbard&#39;s attorney</p>
+<p begin="00:34:28.169" end="00:34:32.369" style="s2">and that&#39;s a pin tweet it&#39;s gonna be two</p>
+<p begin="00:34:30.750" end="00:34:35.520" style="s2">down from that okay why did Google</p>
+<p begin="00:34:32.369" end="00:34:38.240" style="s2">suppress medium okay all right</p>
+<p begin="00:34:35.520" end="00:34:42.030" style="s2">here&#39;s the title why did Google suppress</p>
+<p begin="00:34:38.240" end="00:34:44.730" style="s2">autocomplete for Clinton body count if</p>
+<p begin="00:34:42.030" end="00:34:46.800" style="s2">you type that phrase and medium into</p>
+<p begin="00:34:44.730" end="00:34:49.409" style="s2">your window let&#39;s see Google isn&#39;t some</p>
+<p begin="00:34:46.800" end="00:34:51.119" style="s2">nefarious way censoring it that would be</p>
+<p begin="00:34:49.409" end="00:34:53.310" style="s2">very interesting if they were wouldn&#39;t</p>
+<p begin="00:34:51.119" end="00:34:55.649" style="s2">it so let me actually do a cut and paste</p>
+<p begin="00:34:53.310" end="00:34:59.490" style="s2">here of the title put it into a google</p>
+<p begin="00:34:55.649" end="00:35:03.000" style="s2">search window and see what comes up okay</p>
+<p begin="00:34:59.490" end="00:35:06.780" style="s2">it comes up on Y Combinator is on Y</p>
+<p begin="00:35:03.000" end="00:35:09.060" style="s2">Combinator that story was posted to Y</p>
+<p begin="00:35:06.780" end="00:35:11.609" style="s2">Combinator that search brings up</p>
+<p begin="00:35:09.060" end="00:35:13.109" style="s2">something on Y Combinator let&#39;s see if</p>
+<p begin="00:35:11.609" end="00:35:16.380" style="s2">it takes it to your story</p>
+<p begin="00:35:13.109" end="00:35:18.359" style="s2">it did so yes it&#39;s on Y Combinator cool</p>
+<p begin="00:35:16.380" end="00:35:20.700" style="s2">which means you&#39;ll get some traffic</p>
+<p begin="00:35:18.359" end="00:35:22.650" style="s2">that&#39;s an excellent spot so yeah it&#39;s on</p>
+<p begin="00:35:20.700" end="00:35:25.950" style="s2">why the on the Y Combinator wire right</p>
+<p begin="00:35:22.650" end="00:35:28.140" style="s2">now son that&#39;s the anybody else media</p>
+<p begin="00:35:25.950" end="00:35:31.940" style="s2">all right let me type medium next to it</p>
+<p begin="00:35:28.140" end="00:35:36.330" style="s2">and see if that brings it up help son</p>
+<p begin="00:35:31.940" end="00:35:39.180" style="s2">it&#39;s interesting nope when I type why</p>
+<p begin="00:35:36.330" end="00:35:42.030" style="s2">did Google you know title cut and paste</p>
+<p begin="00:35:39.180" end="00:35:44.970" style="s2">with the word medium it does not bring</p>
+<p begin="00:35:42.030" end="00:35:47.609" style="s2">it up well I&#39;ve been told that all my</p>
+<p begin="00:35:44.970" end="00:35:50.640" style="s2">stuff gets shut up and immediately after</p>
+<p begin="00:35:47.609" end="00:35:53.160" style="s2">I post it so it doesn&#39;t surprise me at</p>
+<p begin="00:35:50.640" end="00:35:56.460" style="s2">this point let me let me put in your</p>
+<p begin="00:35:53.160" end="00:35:58.740" style="s2">name and see if that helps in a that is</p>
+<p begin="00:35:56.460" end="00:36:03.420" style="s2">but it is on what it does come up on Y</p>
+<p begin="00:35:58.740" end="00:36:05.400" style="s2">Combinator as the first thing nope even</p>
+<p begin="00:36:03.420" end="00:36:09.720" style="s2">with your name it does not come up in</p>
+<p begin="00:36:05.400" end="00:36:11.490" style="s2">the top ten on the first page on on</p>
+<p begin="00:36:09.720" end="00:36:13.230" style="s2">Google which is pretty good when did you</p>
+<p begin="00:36:11.490" end="00:36:15.869" style="s2">publish it I published it this morning</p>
+<p begin="00:36:13.230" end="00:36:18.240" style="s2">that may not you know just to be so we</p>
+<p begin="00:36:15.869" end="00:36:21.150" style="s2">don&#39;t over claim it may not yet have</p>
+<p begin="00:36:18.240" end="00:36:23.190" style="s2">been picked up by the indexer so I mean</p>
+<p begin="00:36:21.150" end="00:36:24.930" style="s2">the thing is that medium pushes all of</p>
+<p begin="00:36:23.190" end="00:36:27.480" style="s2">their content directly to the Google</p>
+<p begin="00:36:24.930" end="00:36:29.910" style="s2">search index live so it should it should</p>
+<p begin="00:36:27.480" end="00:36:31.770" style="s2">be in within a few seconds so in which</p>
+<p begin="00:36:29.910" end="00:36:32.790" style="s2">case I would suggest you go to either</p>
+<p begin="00:36:31.770" end="00:36:35.940" style="s2">Twitter</p>
+<p begin="00:36:32.790" end="00:36:37.530" style="s2">and perpetual maniac or go to medium and</p>
+<p begin="00:36:35.940" end="00:36:40.950" style="s2">put in why did Google suppress</p>
+<p begin="00:36:37.530" end="00:36:42.630" style="s2">autocomplete for the tested on medium</p>
+<p begin="00:36:40.950" end="00:36:44.310" style="s2">but make sure that works there that</p>
+<p begin="00:36:42.630" end="00:36:49.410" style="s2">would be really scary but didn&#39;t work on</p>
+<p begin="00:36:44.310" end="00:36:52.680" style="s2">medium medium ok brings you up okay</p>
+<p begin="00:36:49.410" end="00:36:54.810" style="s2">that&#39;s yours now</p>
+<p begin="00:36:52.680" end="00:36:57.210" style="s2">it says detect when Google is lying</p>
+<p begin="00:36:54.810" end="00:37:00.200" style="s2">about autocomplete political bias</p>
+<p begin="00:36:57.210" end="00:37:03.570" style="s2">yeah generator URL and I change the</p>
+<p begin="00:37:00.200" end="00:37:06.510" style="s2">title so the URL is a little funny it</p>
+<p begin="00:37:03.570" end="00:37:07.740" style="s2">says the old keyword stuffing in it okay</p>
+<p begin="00:37:06.510" end="00:37:09.720" style="s2">I like this I&#39;m looking at it quickly</p>
+<p begin="00:37:07.740" end="00:37:13.050" style="s2">and this is exactly what I had in mind</p>
+<p begin="00:37:09.720" end="00:37:15.780" style="s2">take the story back it up with excerpts</p>
+<p begin="00:37:13.050" end="00:37:18.000" style="s2">and tell it in a clear simple way for</p>
+<p begin="00:37:15.780" end="00:37:19.740" style="s2">people to digest not look that carefully</p>
+<p begin="00:37:18.000" end="00:37:21.780" style="s2">I&#39;m not gonna say I believe it yet but I</p>
+<p begin="00:37:19.740" end="00:37:23.970" style="s2">say this is exactly the way I would</p>
+<p begin="00:37:21.780" end="00:37:25.590" style="s2">encourage you to tell your story in a</p>
+<p begin="00:37:23.970" end="00:37:27.360" style="s2">way that you know that a person can</p>
+<p begin="00:37:25.590" end="00:37:30.180" style="s2">follow without having to digest the</p>
+<p begin="00:37:27.360" end="00:37:31.920" style="s2">whole mass of the data yep and the thing</p>
+<p begin="00:37:30.180" end="00:37:34.440" style="s2">is is that right now we&#39;re in a unique</p>
+<p begin="00:37:31.920" end="00:37:36.570" style="s2">situation where trends google.com is</p>
+<p begin="00:37:34.440" end="00:37:38.250" style="s2">still allowed to contradict Google and</p>
+<p begin="00:37:36.570" end="00:37:41.130" style="s2">my guess is that they haven&#39;t figured</p>
+<p begin="00:37:38.250" end="00:37:43.470" style="s2">out how this little trick and so if the</p>
+<p begin="00:37:41.130" end="00:37:45.830" style="s2">people that are listening right now want</p>
+<p begin="00:37:43.470" end="00:37:48.270" style="s2">to test for google bias then</p>
+<p begin="00:37:45.830" end="00:37:51.960" style="s2">cross-reference the other suggestions</p>
+<p begin="00:37:48.270" end="00:37:54.750" style="s2">search feature on google with the</p>
+<p begin="00:37:51.960" end="00:37:56.610" style="s2">tredstep google.com but in the same</p>
+<p begin="00:37:54.750" end="00:37:58.560" style="s2">exact phrase and you&#39;re gonna see what</p>
+<p begin="00:37:56.610" end="00:38:01.560" style="s2">the real traffic is you&#39;re gonna see the</p>
+<p begin="00:37:58.560" end="00:38:03.780" style="s2">ideological bias in play yeah I love</p>
+<p begin="00:38:01.560" end="00:38:05.430" style="s2">that objective evidence that people can</p>
+<p begin="00:38:03.780" end="00:38:07.380" style="s2">make their own eye their own mind up</p>
+<p begin="00:38:05.430" end="00:38:09.540" style="s2">about whether what Zak is saying here is</p>
+<p begin="00:38:07.380" end="00:38:11.400" style="s2">really happening and believe he has</p>
+<p begin="00:38:09.540" end="00:38:13.500" style="s2">presented some compelling evidence but</p>
+<p begin="00:38:11.400" end="00:38:14.730" style="s2">people can go out and manufacture that</p>
+<p begin="00:38:13.500" end="00:38:16.470" style="s2">evidence for themselves would be very</p>
+<p begin="00:38:14.730" end="00:38:19.230" style="s2">interesting if people do find</p>
+<p begin="00:38:16.470" end="00:38:20.700" style="s2">interesting discrepancies to write their</p>
+<p begin="00:38:19.230" end="00:38:22.500" style="s2">own quick medium posts one of the</p>
+<p begin="00:38:20.700" end="00:38:24.480" style="s2">beauties of medium is you can knock</p>
+<p begin="00:38:22.500" end="00:38:27.150" style="s2">together a post in 15 minutes and have</p>
+<p begin="00:38:24.480" end="00:38:29.190" style="s2">it up and have some readers yep it&#39;s</p>
+<p begin="00:38:27.150" end="00:38:30.600" style="s2">great what else would you like our</p>
+<p begin="00:38:29.190" end="00:38:32.750" style="s2">audience to hear about what would you</p>
+<p begin="00:38:30.600" end="00:38:35.430" style="s2">say some of the more flama Tory</p>
+<p begin="00:38:32.750" end="00:38:38.010" style="s2">dangerous scary things that you learned</p>
+<p begin="00:38:35.430" end="00:38:40.080" style="s2">in your in your time at Google right so</p>
+<p begin="00:38:38.010" end="00:38:41.490" style="s2">I&#39;ll talk about the pen tweet that I</p>
+<p begin="00:38:40.080" end="00:38:44.460" style="s2">have right now my twitter account and</p>
+<p begin="00:38:41.490" end="00:38:46.390" style="s2">the title if I remember correctly is I</p>
+<p begin="00:38:44.460" end="00:38:48.519" style="s2">know how insiders</p>
+<p begin="00:38:46.390" end="00:38:50.710" style="s2">could take down Tulsi gabbard&#39;s at</p>
+<p begin="00:38:48.519" end="00:38:54.460" style="s2">account because I saw how insiders took</p>
+<p begin="00:38:50.710" end="00:38:56.529" style="s2">down Jordan B Peterson yep yep and so I</p>
+<p begin="00:38:54.460" end="00:38:59.829" style="s2">want to talk about that story because it</p>
+<p begin="00:38:56.529" end="00:39:02.619" style="s2">illustrates how Google gets is able to</p>
+<p begin="00:38:59.829" end="00:39:05.109" style="s2">implement their political agenda let&#39;s</p>
+<p begin="00:39:02.619" end="00:39:07.630" style="s2">hear it what happened with let&#39;s let&#39;s</p>
+<p begin="00:39:05.109" end="00:39:10.150" style="s2">go back to the Tulsi Gabbard recall that</p>
+<p begin="00:39:07.630" end="00:39:14.230" style="s2">she was part of the Democratic debates</p>
+<p begin="00:39:10.150" end="00:39:16.539" style="s2">and she did a really good job and so</p>
+<p begin="00:39:14.230" end="00:39:19.660" style="s2">people after the debates decided that</p>
+<p begin="00:39:16.539" end="00:39:21.730" style="s2">they were going to search for Tulsi</p>
+<p begin="00:39:19.660" end="00:39:24.490" style="s2">Gabbard well coincidentally Tulsi</p>
+<p begin="00:39:21.730" end="00:39:28.119" style="s2">gabbard&#39;s ad account got suspended for</p>
+<p begin="00:39:24.490" end="00:39:32.019" style="s2">suspicious activity and I talked to her</p>
+<p begin="00:39:28.119" end="00:39:34.480" style="s2">lawyer over the phone and who&#39;s watching</p>
+<p begin="00:39:32.019" end="00:39:36.849" style="s2">a 50 million dollar lawsuit and he was</p>
+<p begin="00:39:34.480" end="00:39:38.710" style="s2">explaining to me about the language that</p>
+<p begin="00:39:36.849" end="00:39:40.269" style="s2">Google used that it was hard to get an</p>
+<p begin="00:39:38.710" end="00:39:41.769" style="s2">answer and they said that there was some</p>
+<p begin="00:39:40.269" end="00:39:43.529" style="s2">suspicious activity related to the</p>
+<p begin="00:39:41.769" end="00:39:46.480" style="s2">account so they took it down this is the</p>
+<p begin="00:39:43.529" end="00:39:48.250" style="s2">deactivated as a precautionary measure</p>
+<p begin="00:39:46.480" end="00:39:49.839" style="s2">now what this meant was that when people</p>
+<p begin="00:39:48.250" end="00:39:52.329" style="s2">were searching Tulsi Gabbard the only</p>
+<p begin="00:39:49.839" end="00:39:54.160" style="s2">promoted websites that came up were her</p>
+<p begin="00:39:52.329" end="00:39:56.230" style="s2">opponents that were trying to capture</p>
+<p begin="00:39:54.160" end="00:39:58.960" style="s2">her audience and divert it to them well</p>
+<p begin="00:39:56.230" end="00:40:01.539" style="s2">I&#39;ve seen this kind of thing before and</p>
+<p begin="00:39:58.960" end="00:40:03.400" style="s2">I saw it with Jordan B Peters and what&#39;s</p>
+<p begin="00:40:01.539" end="00:40:05.440" style="s2">happening is that there&#39;s a security</p>
+<p begin="00:40:03.400" end="00:40:08.799" style="s2">vulnerability that Google has refused to</p>
+<p begin="00:40:05.440" end="00:40:11.230" style="s2">patch and that a group of insiders know</p>
+<p begin="00:40:08.799" end="00:40:13.539" style="s2">about and exploit and the way that it</p>
+<p begin="00:40:11.230" end="00:40:15.220" style="s2">works is pretty simple let&#39;s say that</p>
+<p begin="00:40:13.539" end="00:40:19.569" style="s2">you&#39;ve got let&#39;s say that Jordan</p>
+<p begin="00:40:15.220" end="00:40:22.930" style="s2">Peterson&#39;s email account was xxx at</p>
+<p begin="00:40:19.569" end="00:40:24.880" style="s2">gmail.com now you get this email address</p>
+<p begin="00:40:22.930" end="00:40:27.039" style="s2">and so what you do is that you just say</p>
+<p begin="00:40:24.880" end="00:40:28.990" style="s2">that you&#39;re going to take X X X and</p>
+<p begin="00:40:27.039" end="00:40:31.119" style="s2">you&#39;re gonna replace it with X X Y and</p>
+<p begin="00:40:28.990" end="00:40:34.960" style="s2">then you make a new account and they do</p>
+<p begin="00:40:31.119" end="00:40:36.640" style="s2">X X Z and then maybe dou Z X X right and</p>
+<p begin="00:40:34.960" end="00:40:38.410" style="s2">you create all these different accounts</p>
+<p begin="00:40:36.640" end="00:40:42.009" style="s2">that are close to the original account</p>
+<p begin="00:40:38.410" end="00:40:45.190" style="s2">but they differ by like one letter now</p>
+<p begin="00:40:42.009" end="00:40:49.059" style="s2">you&#39;ve got an email network now this</p>
+<p begin="00:40:45.190" end="00:40:50.740" style="s2">email network starts pushing spam to a</p>
+<p begin="00:40:49.059" end="00:40:54.330" style="s2">bunch of other different email addresses</p>
+<p begin="00:40:50.740" end="00:40:57.390" style="s2">what happens is that the Google AI</p>
+<p begin="00:40:54.330" end="00:40:59.490" style="s2">deactivate the spam Network but</p>
+<p begin="00:40:57.390" end="00:41:02.490" style="s2">surprisingly it will also delete the</p>
+<p begin="00:40:59.490" end="00:41:04.650" style="s2">original email address not delete it</p>
+<p begin="00:41:02.490" end="00:41:07.320" style="s2">will deactivate it okay so now the AI</p>
+<p begin="00:41:04.650" end="00:41:09.780" style="s2">has brought down the target email</p>
+<p begin="00:41:07.320" end="00:41:12.480" style="s2">address wow that&#39;s very very pernicious</p>
+<p begin="00:41:09.780" end="00:41:15.030" style="s2">and very clever yeah and I know this</p>
+<p begin="00:41:12.480" end="00:41:17.310" style="s2">because I saw the book report attached</p>
+<p begin="00:41:15.030" end="00:41:19.980" style="s2">to this because I was pushing the</p>
+<p begin="00:41:17.310" end="00:41:22.470" style="s2">restoration of Jordan B Peterson&#39;s email</p>
+<p begin="00:41:19.980" end="00:41:24.750" style="s2">account on to you back back onto the</p>
+<p begin="00:41:22.470" end="00:41:28.170" style="s2">onto the Google system so I was</p>
+<p begin="00:41:24.750" end="00:41:30.030" style="s2">following this and the report from one</p>
+<p begin="00:41:28.170" end="00:41:31.470" style="s2">of the operators was oh yeah yeah</p>
+<p begin="00:41:30.030" end="00:41:33.180" style="s2">there&#39;s there&#39;s a bunch of spam accounts</p>
+<p begin="00:41:31.470" end="00:41:34.440" style="s2">that was made with this whole thing and</p>
+<p begin="00:41:33.180" end="00:41:36.480" style="s2">I was just like oh my god I&#39;ve got</p>
+<p begin="00:41:34.440" end="00:41:38.670" style="s2">insider knowledge now I can take down</p>
+<p begin="00:41:36.480" end="00:41:42.780" style="s2">anyone&#39;s account and they&#39;re not gonna</p>
+<p begin="00:41:38.670" end="00:41:45.060" style="s2">know how it works right and so this is a</p>
+<p begin="00:41:42.780" end="00:41:46.910" style="s2">pattern that I&#39;ve seen that over and</p>
+<p begin="00:41:45.060" end="00:41:50.250" style="s2">over and over again is that Google has</p>
+<p begin="00:41:46.910" end="00:41:53.070" style="s2">some sort of obscure vulnerability and</p>
+<p begin="00:41:50.250" end="00:41:54.660" style="s2">that a group of insiders gets knowledge</p>
+<p begin="00:41:53.070" end="00:41:56.490" style="s2">of this vulnerability and then they use</p>
+<p begin="00:41:54.660" end="00:41:59.910" style="s2">it to take down anyone that they want at</p>
+<p begin="00:41:56.490" end="00:42:02.880" style="s2">any time and I believe based upon the</p>
+<p begin="00:41:59.910" end="00:42:04.650" style="s2">pattern that Tulsi gabbard&#39;s account was</p>
+<p begin="00:42:02.880" end="00:42:06.720" style="s2">taken down then I believe that this is</p>
+<p begin="00:42:04.650" end="00:42:09.030" style="s2">how she was taken down and so I gave I</p>
+<p begin="00:42:06.720" end="00:42:11.880" style="s2">wrote an open letter to her attorney on</p>
+<p begin="00:42:09.030" end="00:42:14.160" style="s2">how to do discovery so he could find</p>
+<p begin="00:42:11.880" end="00:42:16.860" style="s2">this pattern within Google&#39;s own bug</p>
+<p begin="00:42:14.160" end="00:42:18.960" style="s2">database and then use this in order to</p>
+<p begin="00:42:16.860" end="00:42:20.730" style="s2">further discovery to see if the same</p>
+<p begin="00:42:18.960" end="00:42:22.980" style="s2">thing was happening with Tulsi gabbard&#39;s</p>
+<p begin="00:42:20.730" end="00:42:24.630" style="s2">accounts now I&#39;m not asserting that this</p>
+<p begin="00:42:22.980" end="00:42:26.850" style="s2">happened to Tulsi gabbard&#39;s account</p>
+<p begin="00:42:24.630" end="00:42:29.760" style="s2">because I resigned it the company before</p>
+<p begin="00:42:26.850" end="00:42:32.630" style="s2">this happened but I am asserting that</p>
+<p begin="00:42:29.760" end="00:42:35.250" style="s2">this is a pattern that I know of that</p>
+<p begin="00:42:32.630" end="00:42:38.190" style="s2">insiders used to take down accounts that</p>
+<p begin="00:42:35.250" end="00:42:39.840" style="s2">they target oh that&#39;s that&#39;s one kind of</p>
+<p begin="00:42:38.190" end="00:42:40.980" style="s2">scary especially because it&#39;s so easy</p>
+<p begin="00:42:39.840" end="00:42:43.560" style="s2">anybody could do it</p>
+<p begin="00:42:40.980" end="00:42:45.540" style="s2">and to that if you believe insiders are</p>
+<p begin="00:42:43.560" end="00:42:48.270" style="s2">doing it that&#39;s a gross breach of good</p>
+<p begin="00:42:45.540" end="00:42:49.860" style="s2">faith it is that&#39;s why we need to close</p>
+<p begin="00:42:48.270" end="00:42:52.470" style="s2">this reason why Google needs to be</p>
+<p begin="00:42:49.860" end="00:42:54.810" style="s2">audited yep and for those who are</p>
+<p begin="00:42:52.470" end="00:42:57.800" style="s2">interested in Zak&#39;s pretty detailed</p>
+<p begin="00:42:54.810" end="00:43:02.370" style="s2">story you can find that at minds.com</p>
+<p begin="00:42:57.800" end="00:43:04.470" style="s2">slash perpetual maniac yep and the title</p>
+<p begin="00:43:02.370" end="00:43:06.360" style="s2">the title is open letter dear attorney</p>
+<p begin="00:43:04.470" end="00:43:07.160" style="s2">representing Tulsi Gabbard or you can</p>
+<p begin="00:43:06.360" end="00:43:09.500" style="s2">find it</p>
+<p begin="00:43:07.160" end="00:43:12.230" style="s2">his Twitter account that&#39;s right it&#39;s a</p>
+<p begin="00:43:09.500" end="00:43:16.580" style="s2">pin post they&#39;ll be a pinned for the</p>
+<p begin="00:43:12.230" end="00:43:18.410" style="s2">rest of this day at least okay all right</p>
+<p begin="00:43:16.580" end="00:43:21.110" style="s2">what else anything else that you&#39;d like</p>
+<p begin="00:43:18.410" end="00:43:22.940" style="s2">to tell us yeah I just got it somebody</p>
+<p begin="00:43:21.110" end="00:43:25.370" style="s2">asked yeah so I want to talk about my</p>
+<p begin="00:43:22.940" end="00:43:27.350" style="s2">breaking point my breaking point was</p>
+<p begin="00:43:25.370" end="00:43:28.700" style="s2">when I was like okay it doesn&#39;t matter</p>
+<p begin="00:43:27.350" end="00:43:30.500" style="s2">what the danger is to me I&#39;ve got to</p>
+<p begin="00:43:28.700" end="00:43:34.040" style="s2">come forward to the American people was</p>
+<p begin="00:43:30.500" end="00:43:35.840" style="s2">when I saw Google deleting translation</p>
+<p begin="00:43:34.040" end="00:43:38.120" style="s2">words out of the Arabic to English</p>
+<p begin="00:43:35.840" end="00:43:40.460" style="s2">translation dictionary in order to make</p>
+<p begin="00:43:38.120" end="00:43:42.410" style="s2">a Trump tweet sound crazy and this</p>
+<p begin="00:43:40.460" end="00:43:44.660" style="s2">craziness was then used by the New York</p>
+<p begin="00:43:42.410" end="00:43:46.850" style="s2">Times in order to try to invoke the 25th</p>
+<p begin="00:43:44.660" end="00:43:47.690" style="s2">amendment to remove the President of the</p>
+<p begin="00:43:46.850" end="00:43:50.930" style="s2">United States</p>
+<p begin="00:43:47.690" end="00:43:54.350" style="s2">okay so I&#39;ve disclosed this in this</p>
+<p begin="00:43:50.930" end="00:43:58.160" style="s2">document dump under the name calf F a</p>
+<p begin="00:43:54.350" end="00:44:00.140" style="s2">because calf F a was the word that they</p>
+<p begin="00:43:58.160" end="00:44:02.510" style="s2">deleted and so this background here is</p>
+<p begin="00:44:00.140" end="00:44:06.080" style="s2">that Trump put to Saudi Arabia around</p>
+<p begin="00:44:02.510" end="00:44:09.890" style="s2">and he got back around May 25th 2017 and</p>
+<p begin="00:44:06.080" end="00:44:12.200" style="s2">he returned and he made a tweet and his</p>
+<p begin="00:44:09.890" end="00:44:15.320" style="s2">tweet was the news is fake</p>
+<p begin="00:44:12.200" end="00:44:18.380" style="s2">f f/a something to that effect a copay</p>
+<p begin="00:44:15.320" end="00:44:21.560" style="s2">or something yeah yeah and the calf F a</p>
+<p begin="00:44:18.380" end="00:44:25.070" style="s2">translation was we will stand up and so</p>
+<p begin="00:44:21.560" end="00:44:26.810" style="s2">what he&#39;s saying is the news is fake but</p>
+<p begin="00:44:25.070" end="00:44:29.900" style="s2">we will stand up to it and that&#39;s a word</p>
+<p begin="00:44:26.810" end="00:44:31.790" style="s2">that exists in Arabic and one of my</p>
+<p begin="00:44:29.900" end="00:44:34.010" style="s2">friends said knows Hebrew rule well says</p>
+<p begin="00:44:31.790" end="00:44:35.450" style="s2">yeah that also exists in Hebrew as well</p>
+<p begin="00:44:34.010" end="00:44:37.130" style="s2">well the New York Times wrote an article</p>
+<p begin="00:44:35.450" end="00:44:39.410" style="s2">saying that they had talked to some</p>
+<p begin="00:44:37.130" end="00:44:41.650" style="s2">experts quote-unquote and that these</p>
+<p begin="00:44:39.410" end="00:44:45.560" style="s2">experts said that this word was nonsense</p>
+<p begin="00:44:41.650" end="00:44:46.670" style="s2">and so as a result of that result of</p>
+<p begin="00:44:45.560" end="00:44:50.450" style="s2">that they declared that it was nonsense</p>
+<p begin="00:44:46.670" end="00:44:52.460" style="s2">and so as usual that article a design</p>
+<p begin="00:44:50.450" end="00:44:55.070" style="s2">document was created by one of the</p>
+<p begin="00:44:52.460" end="00:44:56.900" style="s2">executives at Google saying hey let&#39;s</p>
+<p begin="00:44:55.070" end="00:45:00.290" style="s2">replace the translation with an easter</p>
+<p begin="00:44:56.900" end="00:45:03.440" style="s2">egg well guess what the easter egg</p>
+<p begin="00:45:00.290" end="00:45:05.390" style="s2">wasn&#39;t ever put in it was just that the</p>
+<p begin="00:45:03.440" end="00:45:08.300" style="s2">word itself was just deleted and the</p>
+<p begin="00:45:05.390" end="00:45:10.070" style="s2">problem that they had was the problem</p>
+<p begin="00:45:08.300" end="00:45:12.200" style="s2">that they had was that they had they</p>
+<p begin="00:45:10.070" end="00:45:14.450" style="s2">couldn&#39;t just delete it once they had to</p>
+<p begin="00:45:12.200" end="00:45:16.400" style="s2">delete the word twice Jim because what</p>
+<p begin="00:45:14.450" end="00:45:17.640" style="s2">happened was that the Google AI was</p>
+<p begin="00:45:16.400" end="00:45:19.980" style="s2">smart enough to do a</p>
+<p begin="00:45:17.640" end="00:45:24.089" style="s2">netic transliteration of the word and</p>
+<p begin="00:45:19.980" end="00:45:27.150" style="s2">find a path to cafe in the Arabic</p>
+<p begin="00:45:24.089" end="00:45:28.500" style="s2">language and so in the the the</p>
+<p begin="00:45:27.150" end="00:45:31.260" style="s2">implementation notes that I provided</p>
+<p begin="00:45:28.500" end="00:45:33.420" style="s2">under KF under the CAF FA folder of the</p>
+<p begin="00:45:31.260" end="00:45:35.430" style="s2">disclosure you&#39;re gonna see the</p>
+<p begin="00:45:33.420" end="00:45:37.349" style="s2">implement the the operation of these</p>
+<p begin="00:45:35.430" end="00:45:40.200" style="s2">operators as they&#39;re trying to delete</p>
+<p begin="00:45:37.349" end="00:45:43.440" style="s2">this word out and that was just like wow</p>
+<p begin="00:45:40.200" end="00:45:46.650" style="s2">like okay so now it&#39;s not just election</p>
+<p begin="00:45:43.440" end="00:45:48.930" style="s2">meddling it&#39;s also now dishes slash</p>
+<p begin="00:45:46.650" end="00:45:51.089" style="s2">treasonous behavior that Google is</p>
+<p begin="00:45:48.930" end="00:45:53.010" style="s2">engaging in in order to remove a sitting</p>
+<p begin="00:45:51.089" end="00:45:54.390" style="s2">president of the United States that&#39;s</p>
+<p begin="00:45:53.010" end="00:45:58.380" style="s2">when I realized that this is now a</p>
+<p begin="00:45:54.390" end="00:46:00.029" style="s2">national security issue and so you know</p>
+<p begin="00:45:58.380" end="00:46:02.819" style="s2">that was the breaking point that&#39;s when</p>
+<p begin="00:46:00.029" end="00:46:05.819" style="s2">I decided that I was going to disclose</p>
+<p begin="00:46:02.819" end="00:46:07.349" style="s2">this by any means possible interesting</p>
+<p begin="00:46:05.819" end="00:46:09.420" style="s2">then you believe do you believe that the</p>
+<p begin="00:46:07.349" end="00:46:12.029" style="s2">audit trail for that behavior will have</p>
+<p begin="00:46:09.420" end="00:46:14.010" style="s2">been preserved in the Google system I</p>
+<p begin="00:46:12.029" end="00:46:15.569" style="s2">think that it exists somewhere even if</p>
+<p begin="00:46:14.010" end="00:46:18.029" style="s2">they try to describe it there&#39;s so many</p>
+<p begin="00:46:15.569" end="00:46:19.769" style="s2">archives and so many data centers that I</p>
+<p begin="00:46:18.029" end="00:46:22.200" style="s2">believe that they can&#39;t scrub all of it</p>
+<p begin="00:46:19.769" end="00:46:24.329" style="s2">and if they do start scrubbing it then</p>
+<p begin="00:46:22.200" end="00:46:26.130" style="s2">what&#39;s gonna happen is that there&#39;s</p>
+<p begin="00:46:24.329" end="00:46:28.380" style="s2">going to be they&#39;re gonna waken more</p>
+<p begin="00:46:26.130" end="00:46:30.180" style="s2">people up to what Google is doing I</p>
+<p begin="00:46:28.380" end="00:46:32.759" style="s2">think that a lot of Google employees are</p>
+<p begin="00:46:30.180" end="00:46:34.859" style="s2">listening to my interviews and they&#39;re</p>
+<p begin="00:46:32.759" end="00:46:37.319" style="s2">becoming awakened to what Google is</p>
+<p begin="00:46:34.859" end="00:46:39.599" style="s2">doing so if they want to delete it I</p>
+<p begin="00:46:37.319" end="00:46:42.390" style="s2">mean they can try but I don&#39;t think it&#39;s</p>
+<p begin="00:46:39.599" end="00:46:45.569" style="s2">going to be any advantage at this point</p>
+<p begin="00:46:42.390" end="00:46:49.019" style="s2">do you have a place you&#39;d like other</p>
+<p begin="00:46:45.569" end="00:46:51.960" style="s2">Google people who are who have evidence</p>
+<p begin="00:46:49.019" end="00:46:56.250" style="s2">of misdeeds to communicate with you yeah</p>
+<p begin="00:46:51.960" end="00:46:58.829" style="s2">my my advice to them is that they don&#39;t</p>
+<p begin="00:46:56.250" end="00:47:00.839" style="s2">communicate to me because I know that</p>
+<p begin="00:46:58.829" end="00:47:02.940" style="s2">I&#39;m being watched right now I mean</p>
+<p begin="00:47:00.839" end="00:47:04.410" style="s2">that&#39;s what I would do if I had the</p>
+<p begin="00:47:02.940" end="00:47:06.390" style="s2">surveillance system as I would put the</p>
+<p begin="00:47:04.410" end="00:47:10.710" style="s2">spotlight on me I would tell them to</p>
+<p begin="00:47:06.390" end="00:47:12.660" style="s2">instead contact Project Veritas and talk</p>
+<p begin="00:47:10.710" end="00:47:14.099" style="s2">to them they have a professional team</p>
+<p begin="00:47:12.660" end="00:47:16.380" style="s2">there are professional media</p>
+<p begin="00:47:14.099" end="00:47:19.740" style="s2">organization and they&#39;re the ones that</p>
+<p begin="00:47:16.380" end="00:47:22.829" style="s2">have the unique capability and integrity</p>
+<p begin="00:47:19.740" end="00:47:24.809" style="s2">to maintain the discretion of their</p>
+<p begin="00:47:22.829" end="00:47:26.420" style="s2">whistleblowers and to protect their</p>
+<p begin="00:47:24.809" end="00:47:29.180" style="s2">identity and to</p>
+<p begin="00:47:26.420" end="00:47:32.359" style="s2">publish this information only when the</p>
+<p begin="00:47:29.180" end="00:47:35.359" style="s2">person gives them the okay to do so keep</p>
+<p begin="00:47:32.359" end="00:47:36.710" style="s2">in mind Project Veritas had most of</p>
+<p begin="00:47:35.359" end="00:47:39.859" style="s2">these documents that they&#39;ve disclosed</p>
+<p begin="00:47:36.710" end="00:47:41.690" style="s2">for over a year and they they lived up</p>
+<p begin="00:47:39.859" end="00:47:46.490" style="s2">to their end of the bargain they lived</p>
+<p begin="00:47:41.690" end="00:47:47.990" style="s2">up to their embargo and my advice to</p>
+<p begin="00:47:46.490" end="00:47:50.599" style="s2">anyone that wants to out Google&#39;s</p>
+<p begin="00:47:47.990" end="00:47:53.000" style="s2">illegal illegal activity or other social</p>
+<p begin="00:47:50.599" end="00:47:57.319" style="s2">media&#39;s illegal activity is to contact</p>
+<p begin="00:47:53.000" end="00:47:59.089" style="s2">James O&#39;Keefe he is such an amazing</p>
+<p begin="00:47:57.319" end="00:48:01.700" style="s2">human being other people told me that</p>
+<p begin="00:47:59.089" end="00:48:04.160" style="s2">and glowing terms and I was like this</p>
+<p begin="00:48:01.700" end="00:48:07.910" style="s2">guy seems unreal he&#39;s like like he&#39;s so</p>
+<p begin="00:48:04.160" end="00:48:10.160" style="s2">loved but then I met him myself and he&#39;s</p>
+<p begin="00:48:07.910" end="00:48:12.049" style="s2">almost like like a hero out of a movie</p>
+<p begin="00:48:10.160" end="00:48:14.839" style="s2">when when you really get to talk to him</p>
+<p begin="00:48:12.049" end="00:48:17.089" style="s2">and he is fighting the good fight he&#39;s</p>
+<p begin="00:48:14.839" end="00:48:18.769" style="s2">gonna protect you he&#39;s going to help</p>
+<p begin="00:48:17.089" end="00:48:20.450" style="s2">change the world and make it a better</p>
+<p begin="00:48:18.769" end="00:48:22.579" style="s2">place so that&#39;s what I recommend</p>
+<p begin="00:48:20.450" end="00:48:25.309" style="s2">everyone to do is contact James O&#39;Keefe</p>
+<p begin="00:48:22.579" end="00:48:28.279" style="s2">at Project Veritas they&#39;ve got a submit</p>
+<p begin="00:48:25.309" end="00:48:30.500" style="s2">links link on their website and that</p>
+<p begin="00:48:28.279" end="00:48:32.420" style="s2">makes it a lot easier and but I do I do</p>
+<p begin="00:48:30.500" end="00:48:34.819" style="s2">have to tell people that when they do it</p>
+<p begin="00:48:32.420" end="00:48:37.339" style="s2">please do it behind a VPN and a tor</p>
+<p begin="00:48:34.819" end="00:48:39.470" style="s2">browser because the Brout the tor</p>
+<p begin="00:48:37.339" end="00:48:42.109" style="s2">browser is recognized to be pretty safe</p>
+<p begin="00:48:39.470" end="00:48:44.630" style="s2">it was developed by the military and the</p>
+<p begin="00:48:42.109" end="00:48:46.819" style="s2">military doesn&#39;t go after its citizens</p>
+<p begin="00:48:44.630" end="00:48:48.980" style="s2">they go after foreign enemy combatants</p>
+<p begin="00:48:46.819" end="00:48:50.660" style="s2">so you know if they want to that they</p>
+<p begin="00:48:48.980" end="00:48:52.430" style="s2">want to submit information do it to</p>
+<p begin="00:48:50.660" end="00:48:54.650" style="s2">Project Veritas using the tor browser</p>
+<p begin="00:48:52.430" end="00:48:57.200" style="s2">well thank you sac this has been an</p>
+<p begin="00:48:54.650" end="00:49:00.140" style="s2">extraordinarily interesting interview</p>
+<p begin="00:48:57.200" end="00:49:02.150" style="s2">have not been able to have time yet to</p>
+<p begin="00:49:00.140" end="00:49:04.250" style="s2">read all this myself but I you know the</p>
+<p begin="00:49:02.150" end="00:49:06.200" style="s2">charges you are making are very serious</p>
+<p begin="00:49:04.250" end="00:49:08.299" style="s2">and I hope many people take an</p>
+<p begin="00:49:06.200" end="00:49:09.980" style="s2">opportunity to look into this and and</p>
+<p begin="00:49:08.299" end="00:49:13.579" style="s2">see if what you&#39;re alleging is indeed</p>
+<p begin="00:49:09.980" end="00:49:15.410" style="s2">going on yeah don&#39;t my word for it look</p>
+<p begin="00:49:13.579" end="00:49:16.849" style="s2">at the documents that I&#39;ve disposed</p>
+<p begin="00:49:15.410" end="00:49:18.349" style="s2">that&#39;s for all the credibility yes</p>
+<p begin="00:49:16.849" end="00:49:20.210" style="s2">exactly you are willing to stand behind</p>
+<p begin="00:49:18.349" end="00:49:23.750" style="s2">your story by having people look at the</p>
+<p begin="00:49:20.210" end="00:49:26.480" style="s2">data and that that you know increases my</p>
+<p begin="00:49:23.750" end="00:49:28.460" style="s2">my my willingness to to do further</p>
+<p begin="00:49:26.480" end="00:49:31.609" style="s2">research in this story rather than just</p>
+<p begin="00:49:28.460" end="00:49:34.029" style="s2">believe what I say right by the way I</p>
+<p begin="00:49:31.609" end="00:49:36.740" style="s2">just checked five seconds ago on a</p>
+<p begin="00:49:34.029" end="00:49:38.750" style="s2">incognito window completely clean and</p>
+<p begin="00:49:36.740" end="00:49:41.120" style="s2">the title does now</p>
+<p begin="00:49:38.750" end="00:49:43.730" style="s2">come up as the first entry from medium</p>
+<p begin="00:49:41.120" end="00:49:46.370" style="s2">why did Google suppress autocomplete for</p>
+<p begin="00:49:43.730" end="00:49:48.590" style="s2">Clinton body count first result is your</p>
+<p begin="00:49:46.370" end="00:49:51.080" style="s2">medium article the second is the Y</p>
+<p begin="00:49:48.590" end="00:49:53.480" style="s2">Combinator news item which will get you</p>
+<p begin="00:49:51.080" end="00:49:55.010" style="s2">a lot of visibility yeah well you know</p>
+<p begin="00:49:53.480" end="00:49:56.570" style="s2">the thing is is that there&#39;s a lot of</p>
+<p begin="00:49:55.010" end="00:49:59.540" style="s2">Google people following me and listening</p>
+<p begin="00:49:56.570" end="00:50:00.950" style="s2">to everything that I say so you know I</p>
+<p begin="00:49:59.540" end="00:50:03.260" style="s2">just pointed out that they&#39;re</p>
+<p begin="00:50:00.950" end="00:50:06.350" style="s2">suppressing me and then within minutes</p>
+<p begin="00:50:03.260" end="00:50:09.980" style="s2">it gets unsuppressed so welcome to 2019</p>
+<p begin="00:50:06.350" end="00:50:11.660" style="s2">where everyone&#39;s a conspiracy exact but</p>
+<p begin="00:50:09.980" end="00:50:13.520" style="s2">maybe we&#39;ll ask you to come on back in</p>
+<p begin="00:50:11.660" end="00:50:15.320" style="s2">in a week or two when the you know when</p>
+<p begin="00:50:13.520" end="00:50:17.300" style="s2">some clarity starts to come here and we</p>
+<p begin="00:50:15.320" end="00:50:19.940" style="s2">get a sense of what how Google is gonna</p>
+<p begin="00:50:17.300" end="00:50:21.500" style="s2">respond to these claims yes yes I would</p>
+<p begin="00:50:19.940" end="00:50:22.880" style="s2">love to come back on your show and thank</p>
+<p begin="00:50:21.500" end="00:50:24.530" style="s2">you so much for hosting me on your</p>
+<p begin="00:50:22.880" end="00:50:24.870" style="s2">podcast it&#39;s been an honor and a</p>
+<p begin="00:50:24.530" end="00:50:28.190" style="s2">pleasure</p>
+<p begin="00:50:24.870" end="00:50:28.190" style="s2">[Music]</p>
+<p begin="00:50:29.240" end="00:50:35.070" style="s2">production services and audio editing by</p>
+<p begin="00:50:31.890" end="00:50:38.340" style="s2">Stanton media lab music by Tom Muller at</p>
+<p begin="00:50:35.070" end="00:50:44.520" style="s2">modern space music com</p>
+<p begin="00:50:38.340" end="00:50:44.520" style="s2">[Music]</p>
+</div>
+</body>
+</tt>

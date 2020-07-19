@@ -1,0 +1,2450 @@
+howdy this is Jim rut and this is the
+Jim rut show listeners have asked us to
+provide pointers some of the resources
+we talked about on the show we now have
+links to books and articles referenced
+in recent podcasts that are available on
+our website
+we also offer full transcripts go to gym
+rut show.com
+that's Jim ruts show com today's guest
+is Mark Burgess an independent
+researcher and writer
+hey Jim good to meet you in virtue oh
+yeah great to have you on the really
+interesting background mark started out
+as a theoretical physicist and then
+became a technologist
+scientist and other fields and an
+adviser to public and private
+organizations globally his perhaps best
+known as the author of cfengine
+the first industrial grade configuration
+management systems for large computing
+installations still used by some big
+companies he's also what I might call a
+practical philosopher I don't know if
+he'd like that term or not we'll find
+out with his development of promise
+theory which we'll discuss here today
+and yeah he writes music composes
+fiction and thinks about money
+whoa so let's start out just a little
+bit on your background what caused you
+to bail from physics money your soda hey
+you're talking about money I finished my
+PhD I went to Norway of all places too
+many to go skiing I I should tell you
+but skiing and mountaineering but there
+was a postdoc in physics in that and I
+had a couple of years worth of postdoc
+money from the Royal Society which ran
+out sometime in the mid 90s and then it
+was a kind of a low point in in research
+funding so I had to find other sources
+of income and after waiting on the
+corner with my cup for a while nobody
+gave me any money so I I decided to move
+into my hobby at the time which should
+sort of become computer science at that
+point that's great you know I'm involved
+with the Santa Fe Institute and have
+been for many years and SFI we have
+lots of physicists turned I thought I
+call them imperialistic invaders of
+other fields and they do great what do
+you think makes physicists such good
+generalists
+that's a great question I'm young I
+think it's the you know the tool set
+that we have in physics is an amazing
+tool set going back I mean all the way
+to Euclid I suppose and Pythagoras even
+for that matter just the way of looking
+at the world and trying to quantify it
+and at the same time having both
+quantitative and qualitative ideas about
+it and being able to put these into a
+story and tell that story in different
+ways I think that's a general skill
+which perhaps other areas of knowledge
+have not been able to practice in with
+so many deep thinkers throughout the
+years who've taught us great ways to go
+about it
+so I'd like to think that some
+physicists are just great storytellers
+and they're able to apply their thinking
+to stuff that happens you know it's my
+definition physics is the study of stuff
+that happens yeah that's the you know
+the concept of the physical right
+something that really happens so
+something I've noticed when I went out
+to Asif I as a junior researcher after I
+retired from business as I found that
+physicists above everybody else are able
+to think in terms of the simple and you
+know one of the things I took away from
+my time at SFI is that complexity really
+arises from simplicity and in many
+fields people tend to jump in at too
+high a level of complexity and not start
+with the simple does that make any sense
+to you yeah absolutely I couldn't agree
+with you more and you know fine Richard
+Feynman had a famous rant about
+philosophers I'm not gonna repeat that
+although I agree with a little bit of it
+I'm not I'm not his anti philosopher as
+as he was but when I read philosophy and
+I do read quite a bit of philosophy when
+I can what I find is that they tend to
+throw everything up in the air and try
+to catch everything whereas a physicist
+will throw some stuff up in the air and
+try to see the essential pattern and
+then just throw everything else away and
+just look at that and then focus in on
+it narrow in on it you know
+eliminate
+eliminate approximate approximate
+approximate and just keep doing that
+until some some simple essence remains
+and it's boiled down to a perfect
+diamond and then go back up right
+particularly the imperialists who invade
+biology or anthropology they say alright
+let's make sure we start with the simple
+and then from the simple we can grow
+upward well enough on that let's jump in
+to the substance here let's start with
+cfengine
+as i understand it it was a precursor to
+today's configuration management systems
+like puppet and chef and even can be
+considered an ancestor to kubernetes or
+however the hell you pronounce that yeah
+what insights led you to create cfengine
+that way yeah that's another story which
+came about from my dilly-dallying around
+physics which was when I went to when I
+came to Oslo for my skiing a
+mountaineering in physics I got involved
+with installing the computers as as boom
+does and for a while it was interesting
+to me to learn everything that I could
+about these machines and make them work
+and automate them and observe how these
+processes talk to one another across the
+network it was all fascinating to me and
+that was fun doing everything by hand
+for a while to learn I like to get my
+hands dirty when I learn a new field but
+after a couple of months then suddenly
+wasn't so fun anymore to be doing this
+having people knocking at the door in my
+office and say mark could you could you
+just do this for me then could you just
+do that for me and could you fix my
+computer you know it goes so um I
+thought being you know an ardent fan of
+science fiction and technology wouldn't
+it be cool if I could actually write a
+kind of an AI system that could manage
+the thing for me or get the computers to
+manage themselves it seems to make a lot
+of sense because after all you should
+always let your tool do the work as my
+former gardening boss used to say when I
+was working there in a summer job always
+let your tool do the work he instilled
+into me those ethos that let your tools
+do the work so instead
+of humans running around after computers
+fixing everything fallen nursemaiding
+them and fixing every little detail you
+should get the machine to do all by
+itself because how hard could it be
+right so I I sat down and tried to write
+some scripts in Perl and shell and all
+of those little languages and and the
+guys that also University have to give
+them credit because there was some
+amazing imaginative people who were very
+early on making script based automation
+in UNIX I looked at their stuff and
+thought this is cool but what we really
+need is a much simpler way of doing it
+that simplicity again and the thing I
+observed was that when they wrote
+scripts to try to automate software they
+had all of these if-then-else statements
+if this is an HP ux machine or if this
+is an an AIX machine then do this with
+this extremely long command with lots of
+different options added whereas if it's
+a Sun Microsystems machine or an Apollo
+workstation then do this with another
+set of different commands and different
+options added and there were so many
+variations of this that it became a
+litany of incredibly enormous branching
+complexity which was just untenable
+after a while first of all it was
+unreadable incomprehensible and
+impossible to maintain so I thought you
+know what what should really happen is
+that an intelligent agent should wake up
+and say okay where the heck am I what
+what's my environment what kind of
+operating system is this what kind of
+things are going on how shall I adapt to
+this situation and then you should be
+able to specify as a kind of a policy in
+a high-level declarative way what you
+intended the state of the machine to
+look like what's it supposed to be doing
+what kind of security settings should we
+have who are they allowed users and so
+on and so on and then just simply make
+that happen
+turn that into the desired end state of
+the system manipulate a kind of a curved
+space-time you would just sort of roll
+into this black hole of perfect
+configuration
+and the system would simply configure
+itself by magic or by technology so
+that's how it got me started on cfengine
+I wanted to make that super cool AI
+based reasoning system that could
+investigated surroundings adapt to them
+and then set to work it adapting them
+and changing them and manipulating them
+you've also mentioned in the context to
+cfengine something called the
+maintenance theorem theory that looks to
+me like policing and equilibrium by
+detailed balance because you tell us a
+little bit about the maintenance theorem
+and how it relates the cfengine yeah so
+I'm because being of a physics
+background after a while I started
+looking at the computer on my desk and
+you know and for our readers
+I can explain them my background is in
+quantum physics I started out with in
+quantum gravity quantum field theory and
+actually what to even looked a little
+bit of complexity theory in the 80s when
+that was becoming a thing but because I
+wanted to look at the world in terms of
+these nice descriptions of of all things
+communicating and interacting I looked
+at the computer on my desk and said
+shouldn't I be able to understand this
+computer not as a machine but as a
+phenomenon and the standard story in
+computer science these kind of computers
+do what we tell them when we program
+them and when they do exactly what we
+tell them and anyone who's ever worked
+with computers ever notice that that is
+an extremely optimistic idealized idea
+about what computers might do on a good
+day but I figured well we ought to be
+able to look at these things as a
+phenomenon that are somewhat
+unpredictable now because we've
+connected them to a network it's no
+longer just what we program them to do
+but it's what other people elsewhere
+program the neighboring computer to do
+and what it's doing to our computer and
+how they're sharing resources and so on
+and so on so there's a computer program
+any kind of process is actually taking
+place in a highly complex environment
+of different multiple overlapping
+processes sharing resources as a commons
+and as in competition with one another
+and this is influencing every computer
+program we can come back to this is
+really interesting measurements that we
+did around this and that means that all
+of the time you in spite of your best
+laid plans of mice and men of the
+desired end state of this computer the
+programs you're trying to run things are
+going wrong all the time and need to be
+corrected things falling out of whack
+programs
+crashing need to be restarted running
+out of disk space memory etc etc all of
+these things can be corrected fairly
+simply even by a machine just observing
+and maintaining if you know what the
+proper state machine is supposed to be
+so I took this idea of the intended
+state of the computer what's intended by
+the system and this this idea of intent
+comes back many times as a theme and I
+wanted to create a system which could
+every time it went out of whack I whack
+it back in like whack-a-mole this in a
+kind of detailed balance and out of this
+I came up with this this theorem which
+is essentially a rebranding of Shannon's
+error correction theorem which says that
+you can set aside a certain amount of
+resources in your system to correct
+errors assuming that you know what the
+correct state of the system is you can
+correct those errors to that proper
+state simply by reiterating the desired
+policy again and again and then I sort
+of reformulated that in symbolic terms
+for a dynamical system and the computer
+is a dynamical system with symbols as
+well so and that turned into this thing
+which I called the maintenance theorem
+which is as you exactly say is a kind of
+policing of the desired state as you've
+defined it your policy for the system
+and it works in a dynamical way as a
+detail balance that's very interesting
+in 1998 you wrote a paper called
+computer
+you nology about competitive maintenance
+and homeostasis the large scale
+computing homeostasis is something that
+I find very central to how I think about
+the world could you say more about that
+perspective and how has it age you know
+that's that was a really funny story
+because it was a very first time I went
+to the United States in fact was in 1997
+I went to a conference and I talked
+about cfengine I presented my burgeoning
+tool cfengine
+was from 1993 and it developed as an
+open source project for a few years and
+then I was invited to the Lisa
+conference which is a beautiful sunny
+San Diego and I I gave a talk about this
+detailed balanced idea and it was a huge
+conference lots of people and and after
+my talk bunch of guys came up to me and
+they said ah this is very interesting so
+it's like so what is this it's like a an
+advanced form of Chrome Quran is a
+scheduling agent in UNIX for the readers
+and I I went back very dejected and
+thought they didn't understand a word of
+what I was saying so I spent that year
+actually trying to figure out how to
+explain this idea of detail balance and
+maintenance in systems automated
+maintenance and on the plane going home
+this is a true story going home on the
+plane I actually got sick I came down
+with some flu on the plane or whatever
+and I came up with this idea if the
+immune system as an analogy of this idea
+of detailed balance where your body in
+some sense has a policy for it is an a
+healthy ideal state and what it goes out
+of that balance some monitoring system
+picks up on that and then tries to
+restore it to that state by eliminating
+invading pathogens and whatnot not only
+invading pathogens of course but
+regulating the heartbeat and the blood
+supply and oxygen levels and all of
+these kinds of temperature things and
+whatnot so this idea of regulation both
+dynamically in terms of rates and
+and temperatures and so on but also
+symbolically in terms of are you an
+allowed pattern of DNA or are you an
+allowed antigen in my system this was a
+very interesting idea to me and I wanted
+to use that as an analogy to explain my
+idea and at that time there was I don't
+know if you know but there was a very
+interesting lady called Polly Metzinger
+who came up with a theory of immunology
+called the danger theory which was kind
+of a counterpoint to this idea of self
+non-self in the immune system and her
+idea was that self non-self distinction
+is quite a hard computational problem it
+doesn't make a lot of sense in terms of
+evolution but if you could detect danger
+signals that's much easier thing to to
+detect because in the body when when
+cells die badly because of attack they
+tend to die by necrosis they you know
+they burst apart and they leak all of
+their innards and some horrible mass
+inside and those those bits of protein
+are easy to pick up on that's what your
+immune system picks up on
+whereas if cells die properly by
+programmed cell death when they're just
+shutting down your your computer
+programs just shutting down it's
+finished its job and so on then they die
+they die by this program cell death ins
+and that's a clean business so there is
+a simple computational algorithm if you
+will for detecting bad circumstances
+over good circumstances and I wanted to
+try to apply this idea to my cfengine I
+already had the symbolic part but then I
+realized I could add the dynamical part
+and that's what got me into machine
+learning and threshold detection
+adaptive systems and so on so I went and
+I held I gave this paper called computer
+immunology and the guy came up to me
+afterwards and he said oh do you know
+this group at the Santa Fe Institute and
+University of New Mexico Stephanie
+forest group who have been working on
+computer immune systems for security
+and I hadn't heard of them buddy but
+times are we got to know each other a
+little bit and exchange some papers some
+that was a fun thing I was gonna point
+out if you hadn't made the connection
+that Stephanie Forest has been working
+in this area for a long time and and
+she's certainly somebody who's worth
+looking at their work alright so let's
+go from kind of the theory idea to a
+little bit more practical what's your
+view the current state of play of
+configuration management you know I see
+kubernetes sort of a hell you call it
+how do you pronounce that by the way I
+say kubernetes and I think it's it's a
+Greek word it means the steering of the
+steersman the rota system ok that sounds
+good
+anyway I see kubernetes everywhere I
+think the last time I personally fooled
+with any of this we use chef's back in
+2013 you know as a guy who's had his you
+know foot in this category for a long
+time what's your thought of the state of
+play of configuration management great
+questions ask me bit controversial as
+well because this I think people's
+understanding this has changed over time
+it you gotta understand the back in the
+beginning when I started in 1993 100
+machines was quite a lot and then it was
+a thousand machines was quite a lot in
+men it was ten thousand one hundred
+thousand an hour up to millions but
+along the way the way we manage that
+those numbers in the way we manage
+complexity has changed a lot as well so
+in the beginning computers were simply
+what we call bare metal the raw computer
+running programs directly on the
+operating system but along the way we
+introduced virtual machines to try to
+manage the capacity of machines better
+to share workloads between different
+processes while maintaining some kind of
+secure separation between them and
+within building layer upon layer of this
+virtualization on top of machines and
+that's kind of changed the way we need
+to configure systems because each layer
+needs its own configuration to manage it
+cfengine was designed for again because
+of my background I've I designed it for
+extremely large scale
+and for extremely diverse environments
+you know I was working in a university
+and as you know all university guys are
+special kids they they have special
+needs they won't take on a kind of an
+industrial approach they let's make
+everything the same to keep it simple
+for the managers no no no they need
+their own special way of doing it and
+their own particular programs and then
+their own settings so turns out we
+needed to do everything every department
+at the University totally different and
+that having a system that could adapt to
+those differences and still maintain
+them at scale to allowed to be a good
+precursor for what the cloud was turning
+into with this kind of multi-tenant
+environment where all kinds of people
+have different needs overlapping so
+cfengine was designed to be this very
+flexible and highly scalable thing
+running on bare metal and later it could
+be adapted to these over other scenarios
+and then puppet came along and did a
+similar thing in a way that was more
+kind of user friendly to the system
+administrators people found see if my
+cfengine a bit too academic i suppose
+they found a chef to be more friendly
+and more programming worthy so those
+guys took a different a more programming
+kind of approach to to to configuration
+then along comes kubernetes and docker
+and these so-called containerized
+systems where you had a new way of
+packaging software where you could
+deploy software along with all of its
+attendant dependencies and all of the
+things that depended upon as a single
+package or as a set of related packages
+and all the configuration could be kind
+of baked into it in advance and this
+allowed programmers to to set up the
+configuration and maintain it themselves
+if they could control the process and
+reset the process kind of like doing
+control-alt-delete on the process but in
+the cloud
+and that kind of changed the way that
+people manage systems altogether so they
+didn't need to have an immune system
+anymore hunting down these these
+problems they would simply let stuff die
+this is not going back to that
+biological idea of necrosis if you like
+if the system dies badly well just make
+sure you had enough cells to begin with
+and if you lose a few cells doesn't
+matter you still got plenty to back up
+and then just make some new ones just
+let them split up and make a few more
+copies so there was actually this shift
+from a quite rigid and keenly maintained
+fragile system that needed to be
+maintained and repaired in real time by
+detailed balance to a kind of a an
+approach using redundancy let's just set
+up a whole bunch of things in advance
+and if we lose a few no matter we'll
+just start a few more and the the users
+will probably never notice because the
+thing that had changed in the meantime
+was the web you know everything was
+coming online and web-based systems were
+built around this client-server
+architecture which is very much if we
+lose touch with the server we just
+reconnect and try again
+so everything's based on trying again
+we're done Dancy do it again keep doing
+it until it works and that sort of is a
+kind of a repair loop in its own right
+and that allowed people to change the
+way that they manage systems in
+kubernetes was kind of the answer to
+that but the self-healing aspect of
+cfengine was built into kubernetes now
+not at the level of individual process
+attributes but more at the level of
+these entire packages of systems
+managing software I must say I love
+docker you know I like to play around
+with various technologies and docker has
+lowered the threshold to be able to play
+around with some fairly advanced
+technology by a tremendous amount you
+know as you said you no longer have to
+build the environment yourself you'd say
+alright just give me this complete
+canned environment bring it down fire it
+up and docker you know say learn to play
+with tensorflow or something and when
+you're done delete it and you know
+instead of it being a couple of days to
+come up to curb you might be actually
+writing a program in an hour quite
+remarkable the other thing I like about
+docker and similar revolution is how
+much more efficient it is
+you know the layers of virtual machines
+was an unbelievable suck on performance
+and people are still adding those layers
+by the way I mean it's not it's not
+anything anytime soon this could be you
+know actually I make myself unpopular in
+the IT industry by talking about the
+next climate crisis and we as IT
+developers and designers should think
+more about the resources we use because
+the IT industry actually pasts as many
+people know passed the airline industry
+for its carbon emissions some years ago
+and it's only getting worse and when
+blockchain came out of course that's now
+melting one ice cap per week or
+something like that just to exchange
+some dollars between people yeah Ben
+Gertz all my good friend and a GI
+researcher he likes to say about the
+proof-of-work idea in Bitcoin really all
+it's doing is accelerating the heat
+death of the universe right absolutely
+yeah can you be more right let's switch
+directions a little bit here and you
+know from your practical work in
+cfengine you know at least I can see you
+can tell me if I'm full of or not
+you develop promise theory tell us about
+promise theory and maybe if there
+actually was a relationship to what you
+learn from cfengine and where it went
+from there promise theory actually did
+come out of my experiences with cfengine
+you know I wrote cfengine again in 1993
+pretty much by intuition and no idea
+what I was doing I just had some idea of
+how it should probably work using some
+of my physics experience or background I
+suppose almost a thermodynamic or
+statistical mechanics approach to
+management and then as I mentioned to
+you I got into the theory of of
+computers and I wanted to understand
+computers as a kind of a physics of what
+what would be a physics of computer
+networks and being a good physicist of
+course I immediately tried to apply all
+of the tools that I knew differential
+calculus statistical mechanics and on
+and on all of these class
+quantitative methods and I tried to
+write I was making a master's degree
+actually at the University of the time
+and I wanted to write a textbook for
+this so I was trying to put down
+everything that I could think of and I
+tried every theory you can imagine to to
+try to analyze computers in a helpful
+way graph theory game theory queueing
+theory statistical mechanics set theory
+on and on and I wrote this book and made
+a few steps forward here and there I
+would say but at the end I was feeling
+pretty disappointed in the amount of
+sensible predictability that you could
+get out of computers it turns out that
+there are very few predictable patterns
+and computers the only one happens in
+very very busy service and then it turns
+out that servers actually look a lot
+like the heat spectrum of black body
+because network traffic turns out to
+have this kind of a blackbody radiation
+like signature which is being a
+physicist I could recognize but I was
+one tiny little thing that we could
+observe by applying traditional physical
+methods but I suppose by the end of that
+I realized there was one thing missing
+and that was intent you know when we
+make technology it's not just a bunch of
+things random things interacting and
+competing we we make something to
+perform a function a process has a role
+to play in a larger functional system
+same is true in biology of course all
+it's not designed it's it's honed by the
+forces of selection to play a particular
+role in a functional system this notion
+of functionality I think was a huge
+missing piece not only in my work but
+actually in you could even say in modern
+science with shied away from this notion
+of intentionality because going back to
+our philosophers people tend to think
+intentionality assumes the idea of
+freewill we have to have intelligent
+beings or something of this nature
+and I think what I what I successfully
+showed with applying what eventually
+became promise theories that we don't
+need to bring up this notion of free
+will to talk about intense we can define
+the idea of intense simply as a set of
+possible outcomes what are the possible
+pathways for the causal pathways forward
+that a system might take and those
+different alternatives are equivalent to
+the different intentions you could have
+for the system because it's no good
+hoping and wishing for things that
+couldn't happen of course you can wish
+for them if you like but but they won't
+they won't come about so you can
+eliminate them in some way and and this
+told me that there would be some process
+of things that could happen and things
+that would select them a little bit like
+you have mutation and selection in
+evolution but in any kind of process in
+which something is developing causally
+in time you would have things that could
+unfold and things that could proven that
+tree of alternatives and this led me
+into the notion of where what eventually
+called promises and promises form a kind
+of a graph between a selection of nodes
+in which nodes are the active things in
+a system they might be computers they
+might be processes they might be cells
+in biology or people for that matter and
+the important thing about computers that
+I had understood from from looking at
+these so-called blackbody spectrum was
+that in fact the largest influence from
+the environment on our computer systems
+was humans so it makes no sense to speak
+about computers in isolation from humans
+we have to speak about human computer
+systems
+and that overlap that interaction
+between humans and computers formed as a
+statistical what in physics we would
+call a reservoir or a bath a thermal
+bath if you like of interactions between
+humans in the machine which drives it
+much as physical systems can be driven
+you can drive oscillators and it drives
+it as a kind of an external boundary
+condition in such a way that it steers
+the system in a number of ways on a
+small scale by rather strict's
+programming constraints it can make
+selections of outcomes in a symbolic
+fashion on a much larger scale in a
+statistical level if you will it can
+steer systems towards using certain
+resources or competing with one another
+instead of complementing one another and
+that can cause systems to crash or to go
+into nonlinear behavior behavioral modes
+unfortunate feedback loops and and so on
+and trying to combine all of these
+things into a picture of the combined
+both the dynamics of the system with the
+semantics or the intent behind it led me
+to a kind of a network view of the world
+which also was fed into by network
+science which you guys from Santa Fe
+know all about as well compromise theory
+you could say is a kind of a
+generalization of network science which
+can describe systems from the smallest
+scale to the largest scale ten of the
+scaling became an enormous ly important
+issue very cool good introduction let me
+drill down a little bit some of the
+specifics one of the things that you do
+throughout the book or at least quite a
+bit in the book its contrast the idea of
+obligation and the idea of promise could
+you expand on that a little bit yep this
+became my favorite subject
+in computer science of course you have
+this this history or
+of using logic to try to explain things
+and logic again for our readers is a
+very constrained form of mathematical
+reasoning logic call systems are I would
+dare to say even over constrained of
+times there are so many constraints on a
+logical system that the outcome can only
+be either true or false
+this was actually and people often call
+a boolean algebra in fact George Boole
+back in the day was entirely aware that
+there could be a whole range of
+possibilities between true and false
+which are taking on board the idea of
+uncertainty and in his writings he
+actually wrote 0 and 1 as we sometimes
+do today in computing and all of the
+values in between for for different
+levels of certainty where one is truth
+absolute certainty and zero is false
+absolute certainty in but not of truth
+if you will and that's actually a form
+of obligation when you design computer
+systems and say you must have this
+outcome or that outcome and you must
+produce this or that this is the notion
+of obligation which is also called
+deontic logic or it's a form of modal
+logic and as my friend and collaborator
+yan Baxter who co-wrote the promise
+theory book with me he likes to say and
+he is a logician by training in the 50
+or 60 odd years of deontic logic there
+have been almost no useful results and
+the reason for that is that logics of
+obligation are quite inconsistent if you
+have two agents and they try to impose
+on a third you know one says you say
+tomato and the other one says you say
+tomato and that agent in the middle has
+no way of resolving that conflict
+because the conflict arose elsewhere in
+these two other agents and it has no
+power over those the source of those
+obligations so obligations are
+fundamentally hard to resolve because
+obligations come from without rather
+from within
+what I realized was something that's
+important in physics especially in in
+quantum physics and that is the notion
+of locality that if you only base
+descriptions a system on what happens
+from the location at which the property
+is asserted that property comes from
+within then you can always resolve
+conflicts because if I say to you tomato
+or tomato that might be inconsistent but
+I can choose one of the other and decide
+which of them I want to go with and I am
+able to detect that inconsistency myself
+I actually used this idea in cfengine to
+detect conflicts of policy so if a user
+had tried to say I want this program to
+be switched on although I want it to be
+always switched off that's a conflict
+and it's clearly resolvable as long as
+that policy comes from the same source
+my computer can decide for itself
+whether it wants to do it or it doesn't
+want to do it and it can choose between
+them but if those obligations come from
+without then they will simply compete to
+try and switch it on switch it off
+switch it on switch it off and there'll
+be an endless competition between the
+two which is destructive so this idea of
+promise captures the notion of what we
+would call locality in physics where
+rule-based systems can be completely
+consistent and have proper resolutions
+versus systems where things are imposed
+from without if you like have
+contradictory external boundary
+conditions and will forever be in
+competition with one another and that
+allows you to build a notion of
+stability which is again another way of
+saying this this idea of an immune
+system what an immune system does is it
+creates semantic and dynamical stability
+in a functional system
+and that's what we wanted to try to
+achieve for computers as well and I
+think that's what you can say the state
+of modern management has really taken on
+board that idea in in the way that we do
+things today yep I really like the well
+I thought it was the base level of
+simplicity then only an agent can make
+promises of itself right and as you
+pointed out the number of contradictions
+that the system has is much less when
+only an agent can make a promise about
+itself rather than having various agents
+trying to put obligations on each other
+however as you pointed out this results
+in a kind of relativity problem right in
+that any agent can make its own
+sometimes contradicting assessments of
+whether a promise or another agent
+fulfilled the promise or not so one of
+the implications of what I might call
+that information relativity yep exactly
+right so of course this is super
+interesting for me because this goes
+right back to the the huge shift that
+happened in physics in the 20th century
+from this Newtonian view of the world in
+which the universe is kind of an
+obligation imposed by God these these
+laws of physics are almost like a handle
+that God is turning with his own hand
+and driving the universe
+deterministically into this picture
+first picked up on by Einstein which
+showed that actually what you see in the
+universe depends very much on where you
+are and what you're doing at the time
+and which processes are available to you
+which ones you have information about
+and that introduced the idea of the
+communication or the channel of
+information between a source and a
+receiver the phenomenon being observed
+and the the user of that phenomenon or
+the observer of that phenomenon and in a
+computer network of course this comes
+about all the time because computer
+networks are built on the idea of
+services and clients a server will will
+say serve up webpages or a database or
+or something of this nature and a client
+will be trying to observe the database
+or pull out their
+results of that service from a different
+location entirely so you have one local
+system which knows all about its data
+and then you have another system on the
+other side of the planet perhaps trying
+to observe the data from a distance
+possibly through multiple different
+routes through the network different
+pathways and all of those problems that
+emerged in 20th century physics are now
+reimagine in the computer network the
+idea that messages can take multiple
+paths and interfere with one another the
+idea that certain information could have
+be reversed in its order because I'll
+travel them along one path the speed of
+communication is different from the
+speed of communication on another path
+allowing inconsistencies to arise and if
+you try to impose collaboration between
+systems by obligation by pushing data
+you can easily find that those
+obligations as impositions of of data
+turn out to be absolutely inconsistent
+and unresolvable whereas if you take the
+opposite view which is the Einstein
+observer view the local observer view
+that each observer make some
+observations of its own accord and
+promises to resolve conflicts or
+differences that it sees by its own hand
+as it were then it becomes up to the
+observer to resolve those difficulties
+and find the intended outcome now this
+is interesting on the number of levels
+first of all leading implicates
+Shannon's theory of communication which
+was the idea of having a sender and a
+receiver the sender will send a certain
+message and the receiver will try to
+receive it but the receiver may be
+either unable or unwilling to receive
+the message it might be distorted it
+might be in a different language the
+resolution of the receiver might be
+unable to discern the different symbols
+that might be errors he might be
+encrypted again on and on
+so what is promised by the source of a
+message of service and observation is
+not necessarily accepted or received by
+the receiver and this adds an additional
+degree of freedom and premise theory
+that is somehow related to this notion
+of source and receiver in in Shannon's
+theory what he would call the overlap of
+mutual information and interestingly
+it's also analogous to the offer and
+acceptance of the wave function in
+quantum mechanics in quantum mechanics
+we have this curious reformulations of
+physics in which what originates from a
+physical system is then collapsed onto a
+set of eigenstates or potential outcomes
+like these pathways we were talking
+about earlier these intentions these
+intentional outcomes if you will which
+are represented as so called
+mathematical eigenstates in in quantum
+mechanics and that matching between the
+two is almost like the acceptance of or
+the overlap function between what is
+transmitted and what's received by a
+receiver with a limited number of
+degrees of freedom which is analogous to
+what Shannon thought of as an alphabet
+of possibilities in the theory of
+communication now when you try to build
+this into a system you find that this
+this additional degree of freedom
+between offer and acceptance plays now
+an important role in the semantics of
+the system we use that to our good
+intent for example in security we will I
+grant you access to my my system or not
+you may try to impose information on me
+but will I accept it or not no I'm gonna
+filter your packet on the network even
+though you sent it to me I don't want to
+hear that I want to filter out all of
+all of the fake news from Facebook I
+want to I have a policy about this on
+that and the same thing works both on
+receiving requests to supply information
+at a server
+and it applies once the server replies
+with it with data in the other direction
+so there's a kind of a filtering which
+goes on between sender and receiver
+again as a physicist what I find
+interesting there is that that that
+filtering has the analogous role to the
+the hermitian operators that you insert
+into the quantum mechanical wave
+functions in quantum mechanics to to
+extract certain properties of the system
+in a consistent way so there's this
+absolutely fascinating thing that's
+happening in in cloud computing because
+of all of the layers of virtualization
+that are taking place and that is that
+as we get closer and closer to a
+virtualized world of processes
+interacting we're getting closer and
+closer to seeing these very bizarre
+phenomena that have confused us in
+quantum mechanics
+perhaps for a similar reason or perhaps
+for totally different reason we of
+course we don't truly know but that's
+that idea which goes back to Newton that
+similar phenomena may have similar
+explanations opens an intriguing
+possibility which is that we may be able
+to learn something about quantum systems
+by actually looking at how our
+technology now exhibits phenomena that
+seems somewhat counterintuitive but at
+the same time somewhat familiar from
+quantum mechanics very interesting let's
+bring it down one level of abstraction
+that was very very deep but let's bring
+it down a level or two or three of
+abstraction and maybe you can tell us
+how promise Theory either does or
+doesn't shine a light on what is one of
+the big issues in distributed systems
+today which is the trade-off between
+consistency and scalability and lots of
+systems have chosen one form or another
+of what which is called eventually
+consistent you know think about people
+like MongoDB Cassandra and one of my
+current phase was it's just so cool
+Apaches ignite does promise theory or
+other aspects of your work tell us how
+we should think about this idea of
+eventually consistent yeah
+umm I like this topic very much because
+it is exactly one of those cases where
+the quantitative the qualitative the
+relativity and all of these issues come
+into play for a very concrete practical
+purpose I'll try and not to get get too
+deep into it let's let's see let's see
+if we can start simply first so this
+idea of consistency first of all is is
+the idea that all of the observers in a
+system in a distributed system would
+always see the same answer when they
+asked the same question of a particular
+service now this of course would be what
+we would like to happen because we've
+with constructed computer systems based
+on the idea that we only had one
+computer in the beginning and so of
+course one computer is always consistent
+with itself just as if you read one book
+the words aren't changing in front of
+your eyes but if you listen to a story
+from multiple different storytellers as
+it's being spread through the rumor mill
+you might get 20 different answers which
+might not be consistent all so this is
+not good because you would like
+computers to be reliable especially if
+it's your money that's involved in the
+bank and so on but of course we believe
+very much in this notion of truth in the
+water world no matter how naive that
+might be so we want simple answers to
+simple questions of course what Einstein
+showed us is that different observers
+will tend to see different answers
+depending on all kinds of different
+reasons associated with the channel
+between the sender and the receiver it
+could be because there is a finite speed
+of communication so updates that are
+made from one source take longer to
+propagate to some listeners than to
+others so the time at which a listener
+or reader tries to ask a question might
+be critical to the answer that they get
+and as I mentioned earlier
+actually influence the order in which
+they see certain events so if somebody
+is trying to resolve a question about do
+you owe interest to the bank because
+your account was overdrawn you're
+interested in knowing did I pay the bill
+before or after I received my paycheck
+in other words was my account overdrawn
+for a few days or was it actually never
+overdrawn the answer that question might
+not be resolved in the same way by
+different observers so clearly this is
+an important issue of course it's also a
+performance issue right yes the tighter
+you try to make that or the minimize the
+relativity of views the more expensive
+by an exponential it turns out it is to
+maintain a large-scale distributed
+system so there's you know sort of a
+highest level design perspective of how
+long does eventually consistent means or
+how big can the relativity be exactly
+and where scale comes in is is in the
+the distance and therefore the time it
+takes to make that measurement and also
+the amount of data that need to be
+transmitted because obviously it takes a
+longer amount of time to equilibrator or
+make consistent a large amount of data
+than a smaller amount of data and again
+for our readers the this is especially
+critical for databases because the
+process by which databases are
+maintained unmade consistence is
+drastically more inefficient than the
+process by which databases can be
+queried and the reason for that is they
+have to be serialized in order to get
+things in the right order and
+serialization leads to single threaded
+very slow-moving queues that tend to
+build up and resolve very quickly like
+traffic jams in the internet and then
+there's these two philosophies one
+called absolute consistency or acid
+consistency and this countervailing
+based consistency or eventual
+consistency that that says okay we're
+gonna respond to you very quickly but
+the answer you get might not be exactly
+the same as you hear from some
+else deal with it your is up to you as
+an independent observer to deal with it
+that would be a kind of a promise based
+approach because it's putting the
+responsibility onto the receiver to
+resolve that inconsistency themselves
+because they have that control to be
+able to do so the alternative is this
+absolute consistency at the source which
+tries to make it an obligation on all of
+the potential suppliers of that that
+little cartel if you like of service
+that that are promising the information
+they'd all better be consistent or else
+and the only way that they can promise
+that is to check with each other all of
+the time whether or not they have the
+same information in spite of all of the
+possible changes that may be coming in
+from all over the place and that
+requires them to talk to everybody else
+in a kind of an N squared process for
+the mathematical people in the audience
+you can talk em clients can talk to a
+single server in time of order M but if
+M servers are trying to talk to
+everybody else in the network it takes
+something of order N squared or n times
+m to do that which is much much slower
+get a thousand servers it's a million
+all right exactly and so they the number
+of servers that you can have to
+replicate your data is very very small
+it's typically three to seven is the the
+rule of thumb and it's an odd number for
+other reasons but that's typically the
+rule of thumb that people can can expect
+to waiter an acceptable amount of time
+in order to equilibrate those data
+before giving a request and even you
+know seven is already slow the googles
+of the world because they have these
+ultra-fast networks and fast service can
+get away with that for very small
+amounts of data but whenever your amount
+of data gets large you can forget about
+that consistency and you're early then
+stuck with so-called eventual
+consistency and of course that's the
+model which is used by all of the social
+media companies because they have such
+enormous amounts of data that they have
+no hope of being able to make it's a
+strictly consistent yeah I'm the course
+semantically you have to think about the
+semantics from
+many applications in the world the level
+of consistency is not very important you
+know for example if I'm looking at a
+toaster on Amazon and I want to know how
+many stars it has right my usual rule of
+thumb is don't buy it unless it has four
+and a half stars right whether that
+information is one minute or even one
+hours old doesn't really matter to me
+making my decision as long as the end is
+bigger bigger than a hundred is the
+usual number I use so in which case the
+semantics of consistency would say
+doesn't matter much yeah so do your best
+job and if all viewers of Amazon even
+have an hour window of slop about the
+star rating on a given toaster it
+doesn't matter
+on the other hand the example you gave
+you know the order in which debits and
+credits are done on a bank ledger well
+for some applications it needs to be
+real time it's not that many but you
+know again eventual consistency in time
+for calculating fees is probably where
+the semantics comes in so what has to be
+smart and thinking about what you're
+trying to accomplish when one thinks
+about these things exactly right and
+again coming back to your point at the
+beginning Jim about why if physicists
+why do we have a role to play an IT I
+think in physics where we're taught from
+the very beginning to assume uncertainty
+in measurements and to deal with it by a
+statistical means or by repeating
+experiments again and again and and
+building up a picture of a time to take
+into account the uncertainties but
+there's no culture of this in computer
+science computer science was built
+around this idea of logic true or false
+the answer is either one thing or it's
+not there is no in between there's no
+uncertainty or no variability no
+multiplicity if you will no plurality of
+of answers that you can get but this is
+turning out to be entirely untenable in
+a world at scale the kind of world we
+were talking about in the cloud where
+the measurement outcome of a measurement
+is now looking again a bit like quantum
+mechanics it could collapse to any one
+of a number of different values
+depending on how and exactly when that
+collapse takes
+place so this is an area where physics
+can really contribute to designing
+systems because we can build in
+uncertainty as we have to in causal
+models of physical phenomena to take
+into account that scaling of causality
+in a way which computers simply can't do
+I mean a funny story about this as well
+I mean it's almost in its a bit of I was
+a bit embarrassed by it but one of my
+colleagues at the University had just
+graduated his PhD and we had been in the
+subject of object orientation an object
+orientation is one of those philosophies
+in computer science that she comes from
+Oslo so I should probably be careful
+when I say about this but it's a
+top-down philosophy that's tries to
+organize classes of data according to
+types and related activities but it's
+basically an obligation model and they
+were having this resolution problem a
+case in which object orientation was
+absolutely unable to resolve an
+obligation inconsistency and he asked me
+what I thought of this problem using
+premise theory could could anything
+could I come up with an answer for this
+and we sketched around on the blackboard
+for a few minutes and I I simply drew a
+bunch of agents and the promises they
+made to one another and how to resolve
+the inconsistency locally as we were
+just discussing and actually solved the
+problem in about five minutes and and
+this poor guy sat down and he was
+absolutely flummoxed because he's
+literally spent three years on this
+problem trying to solve it using the
+logic of obligations and they'd found a
+workaround which was potentially
+unacceptable but it was a possible
+problem associated with this subject
+oriented model and literally by turning
+the thing from top down to bottom-up or
+local we were able to solve the problem
+in five minutes on the blackboard that's
+amazing today we would call this the
+service-oriented architecture so
+service-oriented computing has now come
+in
+in a big way and you're seeing this in
+microservices and all of these things
+here about on the net but in a way you
+could say that's the legacy of promise
+theory to turn the picture upside down
+from top down to bottom up in a way that
+allows you to resolve these these same
+consistencies well that's wonderful
+let's now turn from promise Theory
+applied to computing to some other
+topics but before we do that I'm gonna
+jump back and hit two things from our
+previous discussion the first is that
+you pointed out the antic logic has not
+been very satisfying in terms of
+actually useful results particularly
+people tried to apply it in AI of you
+know and ended up in dead ends but
+there's a another alternative that been
+Gert cyl I mentioned before who's
+actually been on the show before has
+developed called probabilistic logic
+networks where he does exactly what you
+say is build formally into his logic
+formalism the sense that every logical
+statement is uncertain in a couple of
+different ways and he's finding that to
+actually be quite useful any thoughts
+about whether that sounds reasonable
+absolutely this is actually taking us
+interval into the area of AI now and
+machine learning and whatnot
+going back to the late nineties when I
+was building cfengine and this computer
+immunology study I came up with the idea
+that we really needed to learn the
+patterns of behavior in systems in real
+time and one way to do that was to
+gather information get the machine to
+learn its own behavior and and try to
+look for patterns within that over time
+when you do that wouldn't you are
+basically learning this is called
+unsupervised learning it's it's
+real-time learning without some kind of
+pre-trained curation of information
+upfront so it's really trying to figure
+stuff out as you go along fly by the
+seat of your pants if you will and when
+you build when you learn in that way
+you're building up a picture which is
+longitudinal in the probabilities you're
+measuring data a bit like when you are
+doing polling for an election or
+something you're seeing changes in real
+time and you're aggregating the results
+in time longer to delay one after the
+other like a queue that's that's not
+what we normally do in probabilities and
+it's not what we doing statistical
+mechanics in physics or in probability
+theory what you tend to do there is to
+aggregate data transversely or over
+space rather than time so you look for a
+bunch of equivalence instances that you
+can compare which are running in
+parallel and you'll say I want to
+compare myself to this or to that and
+then build my notion of what's normal or
+not normal based on multiple instances
+so for example in biology you have all
+these redundant cells and you'll be
+looking at looking at the mall and
+saying this is normal and there's a
+cancer cell that ones that one's not
+normal s definitely got a different
+signature than these other guys so the
+way you aggregate data and former or
+what we call an ensemble - or a body of
+data - to form your body of certainty as
+it were the way you aggregate that is
+important with if you do it in time or
+in space or longitudinally or
+transversely and if you're a
+service-oriented system you have no
+choice but to do this longer - dinelli
+and if you're loading to adapt to a
+process in real time again if you're a
+robot or some some visual learning
+system again this is data that are
+arriving longitudinally in time rather
+than in space but if you are if you're
+trying to pre train a deep learning
+network or something of this nature
+based on big data that you've
+accumulated over time then this is more
+analogous to the process of evolution
+where you've got multiplicities of
+similar agents in an environment
+responding in different ways and you're
+looking at a statistical distribution in
+space and looking for the truth from a
+population rather than from an adaptive
+singular system you see what I mean I
+like these are two very different
+perspectives
+the world which now people across
+getting terribly muddled about in in AI
+believing that systems these mana scale
+neural networks deep learning networks
+that are basically a single scale fabric
+and will be therefore capable of
+responding to a single scale phenomenon
+if you want to try to adapt that to make
+a multi scale phenomenon such as you
+might do with big data across something
+tuned over an evolutionary period of
+time of a multiple time scales you're
+going to find that to be extremely
+inefficient you have to have an enormous
+a number of machines a huge amount of
+nodes and it will be incredibly wasteful
+and the time it will take we'll probably
+be extremely silly for one of a better
+word I think that's ties in a little bit
+with this this result people like to
+quote about sharing machines being able
+to simulate any kind of system you know
+trying at this famous theorem that said
+that a Turing machine can simulate any
+kind of computation no matter what it is
+whether it's a brain or what because he
+didn't say how long it would take so you
+might be able to simulate using a Turing
+machine and a deep learning network any
+kind of process but it might take you a
+thousand years to do it a human doesn't
+split second so trying to impose multi
+scale phenomena on a single scale
+process is going to mess up your
+reasoning and your timescales this is
+one of my hobby horses which if you like
+comes out of premise theory but it's
+it's it's a feature of any kind of a
+dynamical system your guys that
+celephais know all about this because
+multi scale systems each scale making
+its own promises if you like or having
+its own special interactions are exactly
+what's the characteristic of complex
+systems and this is exactly why deep
+learning will never be more than
+something like an eyeball or an ear
+a smart sensor rather than an entire
+thinking cognitive system I love that
+because I agree 100% deep learning while
+miraculous I mean it's amazing the
+results they're finding I think in the
+end on the road to artificial general
+intelligence we will think of deep
+learning much like perceptual systems as
+opposed to you know the real thinking
+that gets done in other stages let's
+move on to a very quick discussion of
+another thing that you talked about in
+passing one of my favorite bugaboos
+freewill
+frankly I've come around to the view
+that freewill isn't even worth talking
+about it just seems to me to be in a
+confused muddle and people use it in
+such different ways that there really
+isn't any value in talking about
+freewill do you have any thoughts on
+that I do yeah and again I think this is
+where philosophers have really gone off
+the rails they have this kind of I mean
+you remember back in the Victorian times
+we have this ladder all the species yep
+coming all the way up up to gods and of
+course mankind is next to God this is
+one of those unhelpful things where we
+try to set humans apart from the other
+species I like this idea that we can
+understand cognitive systems as from a
+scaling perspective going all the way
+down to a single atom that can see a
+photon absorb it change its energy level
+and emit the photon again if you like
+passing on the information yep I absorb
+the photon that would be perhaps the
+simplest cognitive system you could
+imagine it has both a sensor it can
+receive information it has the memory to
+remember that bit of information by this
+energy level changing and it can adapt
+to that that change of information you
+can go on scaling that to molecules to
+cells to single celled organisms to
+multi cell organisms to humans and so on
+and so on that's up up and up and up and
+with increasing amounts of memory and
+increasing specificity of sensory
+apparatus you can
+semantically and dynamically scale that
+process up and end up with a human brain
+and and I wrote a book this year called
+smart space-time to try to explain how a
+consistent story around that scaling is
+not difficult to write down I mean
+there's a degree of speculation involved
+obviously but there are bits of evidence
+as well that we can rely on like the
+Dunbar hierarchy for instance of for our
+readers Robin Dunbar was an
+anthropological psychologist actually I
+believe originally from Liverpool
+universities now at Oxford who studied
+the primates nots not the religious
+primates but the on the on the ladder to
+God but the the the monkey primates like
+like us and the sizes of their brains
+and he showed this straight-line
+relationship between the size of the the
+neocortex or the the reasoning part of
+the brain and the size of social groups
+that animals live in and he showed that
+this the amount of processing capacity
+memory and analysis that goes on inside
+the brain is basically related to the
+size of the social group that we're able
+to call our friends or to have a to have
+a relationship with and a relationship
+is not just yes I friended you on
+Facebook it's it's an interactive
+trust-building interaction in the Robert
+Axelrod mode of exchanging like playing
+a dilemma game to see who whether you
+yes I keep my promises no you don't do I
+trust you no I don't this takes some
+time to build up and so obviously it
+requires some memory to remember those
+interactions so more memory more socials
+groups more trust and so on and he also
+showed that the depth of the
+relationship is important so with a
+human brain my brain can manage about
+the size of a family for a really
+close-knit relationship that I know
+really well but at the level of working
+together we can handle maybe 30 odd
+people
+and at the level of sort of sending a
+Christmas card every year at Christmas
+we can hand up to about 150 people so
+with the same processing capacity we can
+do different jobs in different amounts
+of detail depending on how much
+computation is required and that again
+is an important constraint factor on the
+kind of scaling that you can do in any
+kind of learning system from Adam to to
+brain now coming back to freewill I
+think if you if you remember at the
+beginning I said this way of defining
+intent is simply a possible outcome when
+you get to a certain scale the number of
+possible outcomes that you can foresee
+because you have learned of the many
+possible things that can happen in a
+cognitive network a semantic network
+they become really quite large and so
+you may have the illusion of free will
+simply by having many possible choices
+that you can foresee as being rational
+outcomes by having feedback within a
+brain if you will or cognitive agents
+what I found interesting from this
+simple model of cognition and memory so
+in other words a cognitive system being
+something that receives inputs through
+some kind of a sensor and has some
+memory and is able to divide memory and
+by essentially smart discriminators and
+these smart discriminators are honed by
+evolution over long long timescales so
+vision and movement and place and
+direction even faces apparently have a
+specific so-called hardwired circuitry
+those discriminators can then form a
+reasonably organized Network in a memory
+system let's call it a brain for want of
+a better expression and then when the
+senses are switched on it can reason in
+a certain way which is constrained by
+the outer world and if you switch off
+those senses like when we're asleep
+you'll see a different kind of a story
+being told on the brain through dreaming
+which is based on
+same set of memories within the brain or
+within the memory system being pieced
+together with different possible
+outcomes and then of course things go a
+bit haywire because there's no external
+criteria to set a sense of time so our
+brains use their own sense of time to
+piece things together and their own sort
+of resolution mechanisms like emotional
+resolution to piece together storylines
+and I find this notion of stories to be
+extremely compelling in these cognitive
+systems in around the idea of
+consciousness I think that if we ever
+figure out what consciousness is we're
+basically looking at whatever it is in
+the brain that pieces together stories
+in a timeline because even when we're
+asleep we experienced a sense of time
+and yet we just have random access
+memories and if you store a bunch of
+data in a database in your article
+database you'll Mongo DD Beta Bates it
+doesn't suddenly turn into a story or a
+sense of time that has to be constructed
+by some ongoing process extracting
+pieces characters and forcing them into
+a storyline even without external
+sensory stuff going on so in order to
+have this sort of illusion of free will
+and consciousness on these related
+issues
+I suspect of course this is pure
+speculation but I suspect that these
+things will simply emerge naturally once
+we have a sufficiently large multi scale
+semantic Network which is informed by
+data from the outside but at the same
+time can reason on the inside through
+these feedback loops and using an
+independent process possibly several if
+you have multiple personality disorder
+right so multiple storylines going on at
+the same time this this could be the way
+that we understand those issues yeah
+that's what actually if I have a day job
+which I don't really it is the
+scientific study of consciousness and my
+own theories would be essentially at
+least partially parallel in that
+episodic memories are absolutely
+critical and as far as we know there
+our pointers between episodes so there
+is an implicit timeline built into the
+you know the memory structure of
+reasonably advanced animals we're not
+quite sure where the line is so that's
+interesting I think it's time to move on
+a little bit here
+you've mentioned you've applied promise
+theory to city scaling you know along
+the lines of the work of Lewis
+Betancourt and Jeffery West could you
+say more about that yeah you know I had
+the most amazing coincidence I was I was
+in New York for a conference and I met
+Jeff your wife for the first time which
+is amazing because actually we we
+discovered we only have one degree of
+separation between us I think it was
+Mark hindmarsh a mutual friend but we'd
+never met and I had no idea what he was
+gonna talk about he had no idea what I
+was gonna talk and you never heard my
+talk because he left early but I
+listened to his talk about cities
+scaling and was just fascinated because
+I realized he was giving almost the same
+talk that I was going to give just on
+with a different focus and I went home
+and I started to download all of his
+papers I spent my Christmas that year
+literally working through all of the
+papers that he wrote about scaling in
+biological systems and then with Lewis
+Betancourt on scaling in cities and I
+reproduced Lewis's model for deriving
+the universal scaling in cities and then
+I read arrived the whole thing using
+promise theory because I figured that
+although these these universal scaling
+stories are nice they don't really
+reveal what the mechanisms are in fact
+they somehow actively cover up what
+those mechanisms are and I was
+interested in mechanisms because I'm
+more of a hands-on kind of guy I suppose
+so
+and I really I mean we stood all the
+work but just applying the additional
+few bits and pieces there that are in
+promise theory that are not in ordinary
+network thinking allowed me to come up
+with a couple of ideas about how might
+this apply to a different kind of
+network
+rather than a city and again you know
+thinking of cloud computing because
+that's that's where I normally work in
+my day job if you will mere mortals like
+myself have no access to the data from
+the big cloud companies right because I
+don't work for Google and I work for
+Facebook and they don't share with the
+other children
+so we don't have access to that data
+they they have a monopoly on that so I
+began to wonder you know these guys from
+Santa Fe had done an amazing job of
+acquiring data about cities from all of
+these obscure sources and putting
+together a picture and I wondered if
+some of those data might have
+similarities with the kinds of networks
+that you would seen in a computer for
+instance rather than the network's in a
+city just by generalizing the argument
+to different kinds and that was good I
+infer what kind of scaling you might see
+in a computer network and I did
+something around there so I wrote a
+paper one that I sent it to Reese and he
+was generous in giving me some comments
+but we were actually both way too busy
+and had to move on to other things I
+don't think either of us ever ever
+followed up on that stuff I saw he just
+posted a very interesting new paper
+about cities in China which I started to
+read so I'm still interested in that
+stuff because I work a little bit on
+smart cities from time to time but there
+are so many interesting cases were again
+multi scale phenomena and network
+science play a role and I think premise
+theory can inform a lot of those
+discussions cool another area you've at
+least commented on a little bit is
+applications of promise theory to agile
+both at the group level and at the
+organizational level what can you tell
+us about promise theory and agile yeah
+again another amazing coincidence our
+apparently mutual friend daniel mezack
+wrote a book called leadership by
+invitation I believe it's the title in
+which she mentioned premise theory and
+he he let me know that he had mentioned
+he'd used promise theory in his book
+inviting leadership by invitation
+so of course I got the book I read it
+and I thought oh this is this is pretty
+interesting stuff and I'd always had
+this idea that I wanted to use Primus
+theory at the scale of not just quantum
+mechanics computers organisms biology
+but it's society and social interactions
+as a potential network as well and of
+course teams and companies and
+organizations have some kind of dynamics
+of their own and she even Jeffery West
+has done some work on that on a
+different level but I I thought what
+could I do to apply premises directly
+using my algebra of corporation to
+Daniel's work and heat he's brought up
+this issue of boundaries where the
+interesting boundaries are in a system
+and how that influences the cooperation
+between individuals and companies and so
+on this is pretty interesting topic on
+all levels you know where is it exactly
+the boundary of a system you think of an
+organism even though you know biological
+organism i we are all shedding cells
+hairs and cells around us every day in
+all the dust in our apartment's is
+basically bits of us that have fell off
+if I spit on the street is that still
+part of me
+it's got my DNA right so it's labeled
+with my the promise of me is in the
+little lump of spit but it's it's no
+longer able to feed back on the process
+that I conventionally think of us as me
+so dude do I call it me or not me if you
+don't mind I'm gonna jump in here cuz I
+have a keep wrong theory about this it
+comes up all the time on what is me
+right and it goes all the way back to
+conversations in middle school right and
+so what I've decided for practical
+purposes is what is me is those sets of
+cells that are actively engaged in the
+homeostasis network around the transfer
+of gases nutrients and toxins you know I
+think I actually came to
+realization after reading Jeffrey's book
+on scale and some of his papers on
+Biological scaling because it seems to
+me there's a qualitative difference
+between those cells which are getting
+oxygen and carbon dioxide out nutrients
+in and toxins out on the order of a
+couple seconds versus those that don't
+and that allows you to make pretty
+strong distinctions for instance our
+fingernails are not me by that theory
+and nor is our hair but the follicles
+for the hair are because they're still
+in this real-time homeostasis around
+gases foods and toxins so I just throw
+that out as at least one way to think
+about what is me I like that and so in
+your view is our the several kilos of
+bacteria in our gut part of me or not
+yeah that's interesting yeah that's
+their adjacent to me right huh the
+adjacent possible me exactly cuz they're
+not exactly tied into these homeostasis
+networks but they're utterly dependent
+upon it well there's some controversy
+about that as well right they may or may
+not be and tied into those networks in
+ways that were not quite sure man yeah
+but probably indirectly rather than
+directly they're not literally plugged
+in through capillaries pulling gases in
+and pushing gases out as one level of
+indirection so that's actually a
+wonderful example that will make me go
+back and rethink my ideas all right well
+let you get back to your discussion
+about agile and Pt ya know I like your
+characterization and the promise idea I
+think feeds very nicely into that way of
+agents interacting in the autonomy of
+the agents in them and where they come
+together and the thing that promise that
+we kind of points out is that the
+default state of any agent if you will
+is an autonomous state we're basically
+free to do whatever we want
+under gathering in the forest but if we
+want to come together in a corporation
+of social cooperation we basically
+voluntarily give up some of that freedom
+by promising to behave in a certain way
+promising to deliver which which
+constrains us in a little bit it it
+eliminates a little bit of that that
+freedom to do anything we want
+and so of course we can talk about this
+fascination we have obsession with
+freedom of speech and so on in the West
+we've got a new cost free to say what if
+you won't we might not be wise but um
+you know just remember the only advice I
+ever got from my my high school teacher
+for my university exams was just
+whatever you do don't tell them to
+off well I violate that what all the
+time yeah so yes of course we we limit
+our freedom and we do it by the promises
+we offer one we offer ourselves and with
+this discussion I had with Daniel was to
+apply this to the notions like providing
+services to one another in a business
+what does it mean to have authority over
+others given the agent start up
+basically free and autonomous that turns
+out to be related to a notion of
+symbiosis because you can try to impose
+authority on others by attack if you
+like by actually trying to overwhelm
+another agent but normally we do it by a
+cooperative means by delegating a
+mandates to cooperate and sort of a
+mandate for leadership and accepting
+that man shape that mandate for
+leadership and that goes to the point of
+Rights and whether or not we have rights
+a kind of permission which is the
+promise to be able to access or to do
+something that I control and you don't
+and there's even this thing came out of
+it called the downstream principle which
+is who is basically most responsible for
+an outcome happening if you have a chain
+of so a service chain or a logistics
+chain if you like an end-to-end delivery
+you can try to blame the saint you know
+if you order something from Amazon it
+doesn't arrive on time do you blame
+Amazon do you blame the postman or do
+you blame yourself for not having it on
+time what promise Theory kind of says is
+interesting it says you can blame Amazon
+a little bit if you like it's not too
+much juice you can blend the postman a
+little bit more because he's closer to
+you
+but you are the one who ultimately has
+the autonomy to do something about
+getting that book and if it didn't
+arrive on time you could go and buy it
+from someone else so you the father
+downstream you are the closer you are to
+the recipient of a promise in a chain of
+delegated promises the more
+responsibility you have for the outcome
+and that also makes an interesting point
+that if you ultimately try to blame
+someone else
+the only reason for blaming someone else
+is because you didn't keep your own
+promise to find the source for that
+resolution somewhere else so these these
+ways of applying promises to leadership
+had some pretty interesting insights I
+think in ways of truth-telling if you
+will about organizations and management
+structures I found that quite
+fascinating and I continue to work with
+Daniel on putting together some training
+for people in business let's make a real
+call out to daniel mezack for being the
+person who nominated mark to be on the
+show thank you a lot Daniel this has
+been a very productive conversation
+talking about leadership I recorded a
+podcast yesterday with Jamie Weil and he
+is involved with a group called Game B
+which I'm also associated with greater
+or lesser degree which thinks about very
+non-traditional forms of social
+operating systems at all scales from the
+small to the large and one of the ideas
+he talked about yesterday is one that's
+practiced by the US Navy SEALs the elite
+military in it called dynamic
+subordination where there are no leaders
+or their other anomaly leaders being the
+Navy people have rank but when the seals
+are out in combat nobody has power based
+on their position it's a very rapidly
+evolving dynamic situation where people
+take role based leadership sometimes
+just for seconds and then the team is so
+well coordinated that they transition in
+real time from one role based leader to
+another and they call this whole thing
+dynamic subordination any thoughts that
+strike you about that idea I left that
+idea
+first of all this this idea of game B
+that I learned about this through you
+from you or from your podcast very
+interesting absolutely up my alley
+this idea of role based leadership and
+role based activities in a cooperative
+network is exactly
+banging armful for promise theory and
+this notion of military voluntary
+subordination is one of the examples I
+use again and again in my book because
+you know many people will often object
+to this idea of voluntary cooperation
+and what's on a fundamental sort of
+default state of autonomy and agents by
+saying yeah but that's not how society
+works you basically tell people what to
+do and that's what happens and look at
+the military that the most successful
+system in in the world or whatever and
+and you point out that of course people
+in the military have a very ordered
+hierarchy of command and control often
+which is designed to maintain a semantic
+stability and an operational stability
+in operational terms but of course the
+roles who gets to decide may be changing
+on a basis of whether or not you can
+actually communicate or not so that
+delegated authority and the roles as you
+mentioned is exactly the right analogy
+for a dynamical system and of course
+it's exactly what happens in biology
+with with different cells taking the
+lead on different processes as certain
+things come in and air to play the
+immune system a great example so that
+most of the time the immune system is
+pretty inert and other systems are in or
+calling the shots but but when an
+antigen is detected that is unpleasant
+or whatever a response will be mounted
+and certain other systems come into play
+taking a lead role on things like heart
+rate and temperature and so on and
+similarly in computer systems multi
+scale systems in computing this notion
+of so-called microservices where
+individual services may be determining
+specific outcomes on our case-by-case
+basis depending on what the particular
+scenario is taking place and whatever
+context we're in I think we had an
+interaction through Twitter the other
+day about biases in data-based decision
+making systems and whether different
+biases are actually important in
+determining in discriminating different
+contexts for decision making or whether
+they're in fact things to be eliminated
+and I I think you and I had this view
+that biases are actually the mechanism
+by which we make decisions and in a
+human for instance I've always had this
+view that we will never understand the
+intelligence or real or artificial
+without understanding me the role that
+emotions play in resolving when things
+are determined or not determined
+basically by a DF of when we have a good
+explanation for something or a proper
+outcome or a proper decision when we're
+happy with that decision it's whether or
+not our we have an emotional response
+which is favorable or whether we feel
+like we need to keep going because we're
+fearful and uncertain tell me why you
+know this thing is true like kids tell
+yeah but why daddy why daddy and me well
+it's because of this no but why is that
+true oh it's because of this other thing
+you know but why is that true and
+eventually you give up right you simply
+give up because there's an infinite
+chain you could go down but you'll feel
+either exhausted or or happy to receive
+a particular answer and that's when you
+stop that's your go-to explanation so
+the ultimate resolution of logic is
+emotional and that's why I think the
+logic will never be the the basis for
+intelligence it's why without this
+multiscale approach to and this
+approximate very fast name system 1 and
+system 2 in Daniel Kahneman's language
+this fast resolution this emotional
+resolution is in fact the ultimate
+arbiter of decisions in spite of all the
+possible semantics
+pathways that may be selected by our
+neocortical reasoning processes so
+that's that's my long answer to your
+simple question yeah I love it because
+it's actually something I'm I'm a strong
+believer in and actually in my own work
+I use this and that is even in system
+two it turns out that emotion is the
+final adjudicator you build multiple
+competing models and it's frankly your
+emotions that tip you to choose a or B
+or C as this well thought out carefully
+articulated thinking we thought but it's
+not really true but point people to one
+of the I think fundamental books for
+people thinking about consciousness and
+how it relates to the organism the ape
+with clothes that we really are and
+that's called the feeling of what
+happens body and emotion in the making
+of consciousness by Antonio Damasio
+the books a little dated from 2000 in
+the field of consciousness studies
+that's old but it's a book that I would
+really point people to who are
+interested in understanding quite deeply
+how the body and emotion are utterly
+involved in our consciousness in every
+single possible way so I think I think
+we're on the same page there let's move
+on a little bit we can talk about
+consciousness forever but I list it
+still too long so I want to go turn to
+the next big topic you know some of your
+thinking has returned to your roots and
+physics and you saw an isomorphism more
+or less between promise theory and
+space-time which you developed into
+semantic space-time in fact you wrote a
+cool book called smart space-time back a
+quick look at that book convinced me
+that daniel mezack was right this was a
+smart guy we're talking to tell us about
+smart space-time yes I mean this is
+another one of those stories that
+actually came out of that digression
+through cities and networks and over the
+years I've discovered that more and more
+of these phenomena that we're seeing in
+the cloud and in cities and and so on
+implicates a reasoning which is based on
+the notion of things being next to one
+another being directly adjacent being
+able to communicate or being in sequence
+to one another
+in time where time is in fact just
+changes that happen basically it's the
+these the sequence of changes that
+happen is what we mean by a clock in you
+nine Stein's meaning and and so this
+idea of space and time was always in the
+back of my mind as being conspicuously
+present in many of these explanations of
+an abstract way and being a physicist I
+recognize these things we are taught to
+think about space and time these days in
+terms of symmetry so in physics symmetry
+plays a large role and we talk about the
+symmetry of translations or linear
+motion and the symmetry of rotations
+about different axes like the earth
+turning on its axis if you you know you
+rotate it it looks the same like a ball
+then we said that's a symmetry of
+rotation if you move something and you
+can't really see that it's moved because
+there's nothing to compare it to you'd
+say that's the symmetry of translation
+and and the whole of modern physics is
+based on this notion is shift in
+thinking towards symmetry in space and
+time but what I realized in these
+discrete networks that I deal with every
+day in computer science is that that
+idea is not gonna fly in computer
+science first of all because at the
+scale of the networks we have there is
+no large-scale order what we call
+long-range order in physics there's no
+large-scale translational invariance in
+other words on a long long scale you
+don't see any uniformity things are
+pretty muddled up and messy still but as
+the cloud gets bigger and bigger and
+bigger we eventually find these virtual
+forms of uniformity so you can move a
+virtual machine from one physical
+machine to another and you can't tell
+the difference that's a form of
+translation invariance in the cloud can
+reorganize or we connect to different
+servers we were just talking about
+eventual consistency you could flip your
+server from Asia to America for instance
+and and you would not see any difference
+and that would be a kind of rotational
+invariance so there these analogs
+between these in variances or covariance
+is that we see in physics and the
+changes that we can apply in computer
+science and I wondered every one might
+be possible to formalize some of that
+using promise theory so I I said about
+doing this I sat down with my little pen
+and paper and I hate literally do work
+with a fountain pen in a moleskin book
+when I do my work and I I started trying
+to rediscover space-time by using the
+networks and premise theory thinking of
+the points in space as individual agents
+and the connections between them being
+based on the promises that they make it
+one another and this connected
+immediately with Shannon's notion of the
+communications channel sender and
+receiver which only takes you halfway
+from A to B and this was already
+extremely interesting to me because
+again in physics we have this notion
+that if a is next to B then obviously B
+is next to a but in information theory
+and in Kronus theory that doesn't have
+to be true there's an additional promise
+that needs to happen in order to get
+back again if you got for me to be to go
+back from B to a so that the natural
+most primitive state of a space-time if
+you will of in other words of points
+being next to one another in a network
+is for them to be in a kind of a
+directed graph what we call a directed
+Network in in math and to reconstruct
+everything that we known on take for
+granted in physics using a promise
+theoretic network takes actually a lot
+of work it takes a lot a lot of promises
+that we take simply for granted in
+physics and that is very interesting
+because it means that there's a whole
+bunch of things that we ignore in
+physics that we should be paying
+attention to
+now imagine like a leap of faith if you
+will
+to one of your earlier guests Lee Smolin
+who talked a bit about quantum gravity
+and some of his work about quantum
+gravity he's used this pun on graph
+theory quantum gravity is a theory of
+quantum gravity some of his work with
+colla rebellion and so on on this loop
+quantum gravity this is a model in which
+space-time at its most fundamental level
+may be built on points or agents
+connected together into a network and in
+his language is suspend at work like
+Roger Penrose spin networks but
+forgetting about that stuff and just
+thinking about it as a promise network a
+bunch of agents connected with
+information channels in the notion of
+Shannon or in the notion of premise
+theory then you try to reconstruct
+space-time you find a lot of very
+interesting things pop naturally out at
+you like some of the structures in
+quantum mechanics around the emission
+structures of predictability and how
+that might emerge from below a smaller
+level picture the reason for
+singularities a whole bunch of topics
+that we don't have time to go into but
+which I found extremely interesting and
+I tried to write a little bit about in
+in my book smart space-time then right
+at the opposite end of that I read that
+fascinating book by Pat servo Leben the
+hidden life of trees about the complex
+networks and forests between trees as
+agents and the communications channels
+they have between them using fungi and
+various other microorganisms and the
+interactions they have I find this
+absolutely fascinating to go from them
+very tiniest things in nature to the
+very largest things in nature and see
+essentially a kind of space-time
+structure in both where the notion of
+space as memory and time as change allow
+you to construct a simple model of
+cognitive agents that are able to think
+remember stuff about each other simply
+by forming cooperative networks and
+that's essentially the end of the short
+version of my very long book a smart
+space-time you know what I just realized
+that your perspective is very very close
+to one of the five research agendas at
+the Santa Fe Institute called complex
+time I'd recommend you take a look at
+that on their website and if you feel
+the same kind of congruence that I do
+I'd be happy to introduce you to the
+director of that project I think you
+guys would have something very
+interesting to talk about I'll send you
+a link to it and by the way listeners
+we're gonna put links up to all the many
+books that we've talked about here
+including of course Marx and but all the
+various other ones will be up on the
+page for Marx episode just go to gym rut
+show comm and you'll be able to find
+links to all these very interesting
+books I'm gonna do a little bit more
+chopping a my topic list one of the
+areas I personally know a lot about and
+early fascinated with is money but we do
+not have time to talk about money if
+you're willing I'd like to get you back
+on again and talk about money sure but
+let's switch to a couple other smaller
+topics one that listeners of the Jim rut
+show know is a regular recurring feature
+if I can find any excuse I work it in
+with my guests is talking about the
+Fermi paradox the Drake Equation and
+where the hell are all the space aliens
+mark made the big mistake of in an email
+back and forth indicating that that was
+the top gate was willing to talk about
+so mark what do you think about space
+aliens this is I love this topic and I
+first thought about this because Isaac
+Asimov got me interested in this his
+book extraterrestrial civilization so I
+this is a book I got as a teenager so
+I've had this topic on my mind for for
+years and years but I thought about it
+again recently because I wrote about
+artificial intelligence in a blog post
+on my network on my home page rather and
+I forget the name of the of the blog
+post but it was basically about scale
+again you know my favorite topic of
+scale time scales and spacial scales and
+the point I wanted to make was that
+because I've been reading all these
+books about the you know the a is are
+gonna take over they're gonna read all
+our stuff and become evil and steal our
+money and run away with civilization and
+try to kill us and I thought hang on
+hang on a second how do we even know
+that a life form whether it's a real
+life form in outer space or or an
+artificial life form as an AI would have
+any sensory apparatus that responds on
+the same time scale that we do how would
+we know that it's processes are in any
+way comparable to ours in order to
+notice that we even exist
+and the obvious example of that is the
+case I just gave of the hidden life of
+trees Petzval Leben's book in which we
+look at a forest and this is a set of
+life-forms that are thinking reasoning
+changing adapting on a timescale that is
+so much longer than ours that we
+literally can't see any of it happening
+it looks totally frozen in time to us
+and yet there is this living changing
+dynamical Network happening over years
+millennia centuries possibly even
+millennia involving organisms and all
+kinds of scales and you could make the
+same accusation of AI how do you know
+that the data an AI if it evolved got
+interested in and the sensors that it
+was connected to explicitly or
+implicitly that might lead to an
+emergent intelligence how did you know
+that those would be related to our
+scales the scales on which we are
+interested in things and Howard its
+understanding of the world essentially
+overlap with ours I think that may be
+the key to why we are unable to perceive
+or see not only life but dynamical
+phenomena in the universe because we are
+simply ill-equipped on a sensory level
+or in a reasoning
+to think about them in the same time
+scale a spatial scan for that matter
+course that leaves two possibilities
+which both of which could be true things
+that are way faster than we can perceive
+I suppose there is something like life
+somehow in the corona of the Sun with
+this tremendous energy flux going
+through it it may be operating at
+quantum mechanical time speeds right and
+on the other extreme I'll take your
+example of trees and fungus networks and
+scale it up to something interface life
+that lives in interstellar space and
+reacts on the million year time frame we
+would miss both of those does that make
+sense yeah I mean we know the answer to
+the first one because we saw that in
+Star Trek if they if they're going
+really fast they sound like bees you may
+remember that episode one of them
+goddamned later ones I'm only the first
+generation Star Trek man I do not watch
+the later ones that would know this dude
+this was Captain Kirk he fell in love
+with that be on the end of this I'll try
+and try and dig out that name yeah
+the second one definitely interesting in
+my book actually also make the point
+that if you observe phenomena of a long
+long times you may actually extract a
+kind of a space-time picture that looks
+a little bit like Newtonian mechanics
+with things like velocities and
+accelerations and masses explained in
+terms of the nearest neighbor
+interactions between those things and so
+actually scaling also has an explanation
+for how Newtonian ideas can emerge from
+a quantum level which again isn't one of
+those problems that we'd have no good
+answer for currently in physics but it
+could well be that it's a figment of
+scale very very interesting well I think
+with that very interesting insight I'm
+gonna call it and here even though I go
+on for hours I'm gonna take you up on
+your agreement to do another session
+later about mostly money but I know
+we're gonna get into other stuff too so
+I would like to thank you mark for one
+of the most interesting the most
+wide-ranging episodes we've had so far
+on the show thanks Jim really my
+pleasure to do it and it's been huge
+privilege for me to do it and I love
+your show all the guests have been
+amazing I've listened to as many of the
+podcasts as I possibly can I will
+continue to do so well thank you very
+much production services and audio
+editing by jarred Jane's consulting
+music by Tom Muller at moderns

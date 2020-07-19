@@ -1,0 +1,2331 @@
+howdy this is Jim rut and this is the
+Jim rut show listeners have asked us to
+provide pointers some of the resources
+we talked about on the show we now have
+links to books and articles referenced
+in recent podcasts that are available on
+our website
+we also offer full transcripts go to Jim
+rut show.com that's Jim ruts show com
+today's guest is Jessica transit MIT
+associate professor in the Institute for
+data systems and society hi Jim it's
+great to be here hey it's great to have
+you here this should be very very
+interesting
+jessica is a PhD in material science
+from the University of Oxford as a
+Rhodes Scholar she was a fellow of
+Columbia University's legendary Earth
+Institute and she is external faculty at
+the Santa Fe Institute we're doing
+something a little different here on the
+Jim Rutte show with this episode in the
+next couple episodes this is the first
+of a three episode arc this month
+focusing on climate change we can talk
+mostly about climate related things but
+in addition to her work on climate
+issues Jessica also does great work on
+the nature and history of innovation we
+posted a link to that work on the
+episode page at Jim rutt show dot-com if
+you're interested in those topics I
+recommend you check it out now to
+technology and the fight against climate
+change let's start with some basics what
+is er oai or energy return on energy
+invested and why is it so important well
+so the EROI or the energy return on
+investment is just a simple measure of
+the energy you get back from building
+some energy conversion technology so
+building any technology requires
+especially Hardware requires some amount
+of energy for production and
+manufacturing and then you get a certain
+amount of energy back when you're you
+not technology and the ratio of those
+two is the energy return on investment
+okay and why is that so important well
+it's important I would say especially
+today when we're using fossil fuels
+primarily to manufacture many of the low
+carbon energy technologies that people
+may have heard of like solar energy and
+energy panels and wind turbines so we
+use typically fossil fuels to
+manufacture those but then when they're
+put into operation they generate a
+certain amount of electricity and we'd
+like to make sure that that amount of
+electricity is more than the energy put
+in and the more the better right yeah
+the more the better but I will say that
+of course if we get to a regime where
+we're using renewable energy to
+manufacture these technologies then we
+won't be quite as concerned about the
+energy return on investment because
+you're putting basically clean energy
+into manufacturing the hardware and then
+there you're using it to produce clean
+electricity in the case of solar and
+wind energy so that's something that's
+important to keep in mind but certainly
+in this transition period you want to
+make sure that the solar panels and you
+know wind turbines you're building that
+you're gonna get more clean energy out
+than the fossil fuel energy you put in
+okay very good it's a foundation which
+we'll talk about in somewhat more detail
+later okay second foundational idea
+which will reference several times in
+the discussion coming is what is a
+learning curve and could you give us an
+example from something outside of the
+energy field yeah sure so the learning
+curve was first observed in airplane
+manufacturing where it was seen that the
+labor hours or the labor productivity
+increased with the number of units
+produced and so this was named the
+learning curve it was later applied to
+many different technologies outside of
+airplanes and the basic idea in terms of
+the mathematics of the learning
+is that if you're following the typical
+learning curve for each 1% increase in
+cumulative production you get a fixed
+percentage improvement in performance
+and so that could be improvement in cost
+intensity of the technology or it could
+be improvement in some other measure of
+performance but these are simple curves
+and it's a simple model but it's quite
+useful for comparing the rate of
+improvement across different
+technologies and we see that solar cells
+for example in solar panels have
+followed a learning curve wind turbines
+have as well and many technologies
+within energy systems and outside of
+energy systems have followed these
+learning curves one of the interesting
+aspects of this is to try to understand
+where this kind of behavior comes from
+so there have been you know many
+interesting questions and we're starting
+to get answers to them on why we see
+these kinds of trends and technologies
+and also getting some insights on why
+some technologies improve faster than
+others which obviously is really
+important for making good investments in
+climate saving technology because we
+really want to invest in those
+technologies that are going to improve
+quickly that are going to reach cost
+competitiveness that will you know their
+performance will increase and and so
+that they'll be widely you know
+affordable and can be adopted around the
+world yeah very good
+now one well-known statement of a
+learning curve is Moore's Law right
+that's stated in terms of time and then
+there's also forget the name of the guy
+there somebody else is law where the
+that's where it stayed in terms of units
+can you talk a little bit about that and
+the difference between the two yeah so
+so there's something called rights
+rights curve or rights law and Moore's
+curve or Moore's law Moore's law which
+many people may be familiar with is an
+exponential trend so we see
+exponentially improving performance with
+time in the case of solar panels we see
+that the drop in cost was about 10% per
+year over the last 40 years and overall
+we've seen a nine
+9% roughly a 99 percent decline in costs
+over the last 40 years
+so that's Moore's law and then if we
+look at Wright's curve our rates law
+this is the functional form that
+describes what I was mentioning for the
+learning curve so this is a power law
+relationship where we're looking at
+improvement along and metrics such as
+cost with increasing effort and that's
+usually measured as a cumulative
+production so in that case what we see
+is that with each 1% increase in
+cumulative production you see a fixed
+percent decline in costs that if a
+technology follows that kind of behavior
+then it's following what we would expect
+from Bright's law now the interesting
+thing is that when we look at solar
+panels which I mentioned before they
+actually follow both Moore's Law and
+rights law you know so on the face of it
+Moore's law implies something pretty
+different from rights law if we want to
+use this to inform our decisions because
+of course with Moore's law you're
+looking at the improvement as a function
+of time so is there any way in which you
+can speed things up if you know we say
+that cost intensity or cost of you know
+to make it concrete a solar panel is
+falling with time if you just look at
+that on the face of it it looks like
+there's nothing we can do to speed it up
+on the other hand rights law tells us
+something very different and that is
+that if we produce more things will
+improve more quickly so which one of
+these is correct well as I mentioned a
+minute ago we see that both holds for
+the case of solar panels and for a
+number of different technologies why is
+that
+well when we dug into this what we found
+was that there was another type of
+behavior another trend that we had to
+pay attention to and that was the trend
+describing how cumulative production of
+solar panels is increasing with time and
+we see that that production has grown
+roughly exponentially over the last 40
+years so that means that we take those
+two observations we see that costs are
+coming down exponentially with time
+following Moore's law and we see that
+production is growing exponentially with
+time if we take those two things
+together and we plot cost intensity
+against cumulative production we would
+in fact expect to get rights curve out
+or rights law out so that's the reason
+why both describe the behavior and solar
+panels and in fact when we look across
+many different technologies technologies
+that start out with rapidly growing
+production tend to continue to grow
+rapidly and technologies that start out
+with more slowly growing production tend
+to continue to grow more slowly now
+that's not to say that we can't speed
+things up and based on a lot of the
+research that I've done over the years
+my expectation and we see this in a
+couple of cases where we you know where
+we see that technologies their
+production has grown at different rates
+over different periods of time then we
+see a departure from Moore's law and we
+see some of these technologies following
+still following rights law so I guess
+the bottom line is that we can use
+Moore's law to describe many
+technologies and if we just kind of
+leave things alone then technologies
+will tend to grow exponentially with
+time but there are certain kinds of
+government policy interventions that can
+speed things up and then you can you
+know depart from this time-based trend
+and you can actually make improvements
+faster and that's really again really
+important for climate policy because
+it's important to make investments to
+drive innovation and technologies that
+can help us solve the climate problem
+we're going to talk about those policy
+settings a little bit later but good
+setting of the groundwork now from your
+work and also other work I've looked at
+it seems like implicitly most people who
+have looked seriously at the technology
+curves and how to really do this are
+assuming that something close to an all
+electrical society is where we're headed
+do you see that as feasible
+I would say yes we can get close to that
+there are still some energy services
+we're using electricity is difficult so
+we see that in you know steel
+manufacturing or cement production some
+of these energy services and industrial
+applications may require other kinds of
+fuels or we may use electricity to split
+water for example or create other kinds
+of fuels that can be used in some of
+these applications but yeah on the whole
+we are seeing this happening already so
+you do see more energy services becoming
+electrified more heating is being
+produced using electricity and you know
+this is important and the reason is that
+we do have ways we have pretty good ways
+now to produce electricity using
+low-carbon technologies you know to
+basically move away from using fossil
+fuels for electricity production so if
+we can use that electricity not only for
+you know lighting and all of the
+applications that we've traditionally
+used electricity for but also for
+transportation and also for heating and
+for industrial processes the more we can
+do that the better but I do think that
+we shouldn't assume that we can get a
+hundred percent of the way there with
+electrification so one really important
+research area is to think about how we
+can combine electrification using more
+electricity with low-carbon sources with
+the production of new kinds of fuels
+that can serve some of those heavy
+energy those high temperature
+applications or for example what's
+called long distance long-haul
+transportation that just means you're
+going you know a vehicle is covering a
+large distance and may be carrying a
+large mass then we may need to turn to
+other sorts of options other than using
+the electricity directly but yeah
+certainly electrification is a
+important step toward addressing the
+climate problem okay I think we're gonna
+focus mostly on electricity though I
+would also point out that fairly
+recently there was a lot of interest in
+biofuels and also one of my favorites
+fact I actually did some experimental
+manufacture of thermosolar where you can
+heat your house and hot water directly
+with thermal energy at high much higher
+levels of efficiency than you get out of
+PV yeah and I hope people don't forget
+those as well but let's mostly focus on
+electricity because if we're gonna truly
+reform our whole society that's probably
+going to be the main road so one more
+fundamental before we start getting into
+some of the details if you could talk to
+our audience a bit about the difference
+in the electricity range between base
+load and intermittent sources and maybe
+even the concept of dispatch ability
+yeah sure so if we look at the ways in
+which different power plants are
+operating today to meet our demand for
+electricity so our demand for
+electricity and for example the
+Northeast where I am right now you see
+that some of these plants are operating
+all of the time and those are our base
+load plants some of them are operating
+you know good fraction of the time maybe
+50 percent of the time and others are
+operating only for you know 10 percent
+of the time or much less and those would
+be peaker plants so we have the base
+load plants we have the intermediate
+plants and we have the peaker plants and
+so the basic point is that many of these
+power plants are turning on and off
+that's because our demand peaks at
+different times of the day so it rises
+and falls depending on human activities
+we have the diurnal cycle you know most
+people wake up in the morning and they
+may go to work they may pursue other
+activities that consume energy and then
+at some point they're sleeping so our
+energy consumption tends to go down
+although there are some processes of
+course that run through the night but
+anyway we have this fluctuating demand
+for electricity and these power plants
+turning on and off so in a sense many
+power plants are
+intermittent and how they're operated
+but when we bring in what's called
+variable renewable energy which is solar
+and wind energy there there is a
+difference there's kind of a qualitative
+difference between those plants and some
+of the fossil fuel-fired plants that we
+rely on today as well as nuclear which
+is that we are not in control of when
+the sun shining and the winds blowing so
+they turn on and off but not in a way
+that's under our control however there
+are different approaches to dealing with
+that so I'll highlight three main
+approaches one is to use this variable
+renewable energy solar and wind energy
+with energy storage devices like
+batteries to store the energy when we
+have too much of it and then use it
+later
+another approach to dealing with this
+variability is to draw your resources
+from a large geographical area that
+tends to smooth out at least some of
+these fluctuations and then a third
+approach is to use what's called
+demand-side management or create a
+flexible demand where you're matching
+the demand to the supply so you can
+imagine that there are many appliances
+and industrial processes that where
+there's some flexibility you don't have
+to run them at exactly you know the
+point in time at which you turn on the
+dishwasher for example so if you need
+the clean dishes maybe the next morning
+there is some flexibility there and and
+the dishwasher could turn on when
+there's an excess of electricity of
+course if it's overnight that wouldn't
+help for solar and wind but that's just
+an example we can have you know heating
+and cooling that can go up and down by a
+few degrees that's imperceptible to
+people people can't perceive those
+differences but it could save large
+amounts of energy so that would be an
+example of demand-side management yes so
+those are called excellent big picture
+ideas and it's you know I did a bit of a
+dive into mass electrical storage which
+is a topic we're going to go into next
+and my first takeaway is kind of the AHA
+was this why is electricity different
+than any other product and that is if
+you ignore storage
+it has a useful life of one microsecond
+missus only right so that the supply and
+demand has to be intricately balanced
+and a surprising amount of electricity
+is actually discharged into the ground
+like more or less like a local lightning
+bolt when you know but frankly most all
+the time the balance isn't perfect but
+the the dance of the grid is to keep it
+as close as possible and so when one's
+thinking about electricity it's really
+different that almost anything else we
+deal with conceptually in the economy
+and that it has this you know one
+microsecond useful life which is you
+know a good jump until one of my
+favorite topics when I spent six months
+working on back in 2004 which is mass
+storage of electricity and I know you've
+written on this and you know why it's
+important particularly when it's coupled
+to these variable sources because you
+talk a little bit about that and how it
+fundamentally if you have enough of it
+changes the whole nature of what
+variable production could mean yeah sure
+so I mean just to start out I guess one
+way we can think about this if every
+time we build a solar power plant or a
+wind power plant we have some means of
+storing that energy so we convert it to
+electricity and then we store it in some
+form and then we use it later as
+electricity if we can do that then you
+know these plants can be turned on and
+off at will so that's really the idea
+behind energy storage for that
+application for the power sector and
+there are a number of different ways in
+which you can store energy and I
+sometimes say that the technologies that
+we have available for storing energy are
+as diverse or even more so than the
+technologies that we have available for
+converting energy you know to produce
+electricity for example because you can
+imagine that you can store energy in all
+sorts of different forms and you know so
+we can use Pumped hydro storage we could
+use compressed air energy storage we can
+use various what are called
+electrochemical devices so those are the
+batteries that we're familiar with like
+lithium-ion batteries and other kinds of
+batteries and so there are many
+different ways in which we can store
+energy and I would say that we're just
+starting to really
+explore what's called stationary energy
+storage technologies in a serious way
+and you might ask okay so why are why
+have we not explored these previously
+well there hasn't really been a market
+for it because fossil fuels are pretty
+cheap and they're pretty easy at a store
+and so there hasn't been a real
+incentive to develop alternatives now we
+have of course developed batteries for
+mobile applications so those are
+batteries that could be used you know in
+our computers or our cell phones but
+once we start looking at these power
+plants we need to be able to store it
+many more kilowatt hours we need a much
+larger energy capacity to be able to
+shift things around in time and you know
+so that's that's something that there
+hasn't been as much of a demand for but
+now as the use of solar and wind energy
+is growing and as concerns about climate
+change are growing there's a real need
+for this and so I expect that we'll see
+a lot of developments in this area of
+course the outcome of those is still
+uncertain but it's an area that has a
+lot of potential I'd say you know I
+looked into it back in 2004 the
+technology I focused on was vanadium
+redox flow batteries these big sulfuric
+acid filled tanks with vanadium in at
+met cetera and that point in time it
+looked like it cost about $200 a
+kilowatt hour for mass storage you know
+eight hour deep storage 20 hour deep
+storage you know really deep storage and
+my analysis said that was not nearly
+good enough even for a very specialized
+case I was looking at for as a possible
+business venture and I actually
+consulted it was one of the best electro
+chemical engineers in the world who
+unfortunately has since passed away and
+he said young man he was like 91 quite
+that old he was old young man you're
+used to the technology world where
+things double every two or three years
+in electrochemistry it doubles them out
+every 20 years if we're lucky and
+interestingly he was damn close to right
+you know honest $200 for Kurla watt hour
+to her you know around $100 per kilowatt
+hour six
+years later I think you actually wrote
+in a paper that you did recently that
+something around $20 per kilowatt hours
+what we need to really be able to make
+intermittent sources competitive with
+baseload sources that is that the right
+range yeah so that was one target but
+actually there's another way to solve
+the intermittency problem which I which
+I can talk about as well but yeah what
+we did was to look at combining solar
+and wind and using solar and wind to
+reliably meet energy demand over a
+period of twenty years so we wanted to
+meet demand every hour over a period of
+twenty years and so we want and then we
+asked how much storage would be needed
+for that and we developed an
+optimization model so that we're using
+only as much storage as we need and then
+we asked at what cost would these plants
+the solar and wind plants that are
+optimally combined with each other with
+this optimally sized energy storage at
+what point does that technology become
+competitive with other sources of
+electricity and so the rough target that
+we arrived at was twenty dollars per
+kilowatt hour energy capacity cost so
+for your listeners just a quick note
+this is not to be confused with the cost
+of electricity this is instead the cost
+of building the capacity to store energy
+so this is the upfront costs what you
+would put into building your storage
+facility as compared to the electricity
+costs which is per unit electricity
+produced so anyway but that estimate
+that we arrived at was twenty dollars
+per kilowatt hour but this was to meet
+demand a hundred percent of the time if
+instead we relaxed that requirement and
+we say that we're going to use something
+else for just five percent of the time
+then what we see is that the target
+rises to one hundred and fifty dollars
+per kilowatt hour yeah we're there well
+yes and no I mean so those numbers that
+we see publish for
+Kamiya and batteries are not taking into
+account we think the full cost of
+installing a stationary energy storage
+facility but you're right were close to
+there but then that that scenario is not
+also not that necessarily that easy to
+implement because we have to then find
+the other thing that we can use for five
+to ten percent of the time and so that I
+think is a really important research
+area it's one that we're looking at and
+essentially I see us as you know we we
+can we should certainly continue to try
+to drive down the cost of energy storage
+but we should be looking for these other
+solutions and it could be producing low
+carbon fuels with the excess solar and
+wind energy that you have because we see
+that when we optimize the whole system
+you're creating a lot of excess to learn
+wind energy so you could create other
+revenue with that there are ways to and
+this is something I'm working on
+developing technology for a different
+kind of demand side management that
+could help to serve that five to ten
+percent of additional demand so it's
+it's a scenario that I call the energy
+storage plus scenario so it's it's the
+hardware for energy storage but it's
+also using software and developing
+approaches and algorithms as well as
+maybe producing some low carbon fuels
+that can fill in that additional five to
+ten percent of energy demand and so the
+reason why you see that big jump from
+$20 per kilowatt hour to $150 per
+kilowatt hour is that what we uncovered
+when we looked at 20 years of data on
+the solar and wind energy resource and a
+bunch of different locations is that in
+all of these locations you have a small
+number of very large resource shortage
+events so you know overall over the
+20-year period we have these
+fluctuations and the solar and wind
+energy resource but maybe you know
+handful of times maybe five times over
+20 years you have larger fluctuations
+where the amount of solar energy
+available drops significantly or the
+of wind energy available drop
+significantly so these rare but it
+rather extreme events are ones that we
+need to be able to deal with with energy
+storage and batteries and other kinds of
+energy storage technologies as well as
+some of the other approaches that I
+mentioned so that's kind of a big focus
+of mine and I think it's it's becoming
+you know an area that people are looking
+into to look for solutions to that
+problem of course with a new problem
+requiring new technology or new
+approaches there's an opportunity there
+and I think there's a big opportunity in
+that area I'm gonna throw one out just a
+radical idea I'm just thinking out loud
+and probably but whatever right
+suppose we made a major social change
+which said that we're gonna have 15
+floating holidays on average which is
+gonna be on days where energy production
+isn't real high everybody just stay home
+read books yeah play games right it
+could do a social operating system
+change exactly we say all right you know
+here we got 48 hours notice this is
+probably going to be a day where it's
+way better for everybody just stay home
+yeah and on average was 5% of the time
+that's you know 15 16 days a year
+the world would not end if people stayed
+home 16 days a year
+no exactly and I think those are the
+kinds of creative ideas that we need to
+be thinking about and in all of this
+work when I'm thinking about technology
+I'm using a very broad definition and
+it's inspired by the philosopher Lewis
+Mumford and that definition covers not
+just hardware but also software
+institutional design really any codified
+knowledge that you know can be used to
+produce some sort of service so this
+definition of technology that I use is
+anything that transforms raw materials
+that we have here on earth including
+biological and geological materials into
+some more useful form so you know those
+biological materials include the
+information processing capabilities of
+the human brain and we can use software
+and computers to augment that and to do
+new things so that definition of
+technology is very broad and to solve
+this problem we're talking about
+I think we want to be thinking about how
+to combine hardware and software and
+other what I call soft technologies
+that's non hardware technology to
+solving this problem so social
+innovations like the one that you talked
+about would fall under that category and
+of course we'd have to test out these
+ideas we'd have to you know see what
+people might accept but I think that
+there's so much we can do in this area
+and especially with the growth of
+artificial intelligence which is a very
+broad term but in fact the practice
+already in place of accessing data and
+understanding preferences and behaviors
+I think we could put that to work to
+solving these kinds of problems and for
+like social hacks we can use agent-based
+modeling to get at least their rough
+idea whether it's feasible or not yeah
+sure and of course with those models we
+always want to make sure that the
+decision rules and the agent behavior
+were modeling is somehow accurate but
+yeah we can run surveys we can figure
+out what people are willing to do and
+and I think we could get quite far with
+that all right now let's ratchet in a
+little bit a little bit more details I'm
+gonna run across a number of
+technologies basically SolarWinds
+storage nukes and hydrolysis and get
+your take on where we're at in terms of
+innovation learning curves etc on each
+of those technologies that's that okay
+sounds good all right let's start off
+with solar where are we and what are the
+prospects look like for the you know the
+next decade or two yeah so costs have
+fallen by about 99 percent over the last
+40 years for solar energy and here I'm
+talking about photovoltaic solar energy
+specifically and costs have come down
+significantly we're at a point now where
+in many places solar energy is cost
+competitive with other sources of
+electricity now that is for a case where
+you're using small amounts of solar
+energy and so the challenge going
+forward is to continue to bring those
+costs down because if you want to bring
+in what I call augmenting technologies
+like energy storage in order to balance
+the intermittency in the
+ability of solar energy then you're
+gonna need to invest more in these
+plants so there's still a need for
+further cost reduction in part just to
+be able to bring in energy storage or
+other similar technologies to deal with
+the variability of solar now in many
+places solar energy is just providing a
+few percent at most of electricity so
+there's still room for growth and that
+solar energy will be cost competitive
+it's just that when you start to get to
+larger amounts of electricity coming
+from solar that's when you start to need
+storage and that's where we're gonna
+need to see continued cost declines
+what's the science driving the PV
+improvement you know so we looked at
+this and published a paper in in 2018
+and and a number of others have looked
+also at some of these factors like my
+colleagues Greg Nimet and Kelly
+Gallagher but our approach in the paper
+that we published in 2018 was to start
+with the devices themselves and say what
+has changed since 1980 with a
+photovoltaic module physically with the
+actual device itself what has changed
+and then how did that lead to cost
+reductions and then from there we can
+say how much of the cost reduction came
+from research and development how much
+from economies of scale how much from
+learning by doing and then from there we
+can see what kinds of government
+policies were important so just to step
+back for a second and say something
+about these government policies you know
+we we know that solar energy globally
+would not have grown without some
+government policy support because it
+started out very much more expensive
+about a hundred times more expensive
+than you know the alternative sources
+that were used at the time when solar
+energy start to grow so it was more
+expensive and government policy in
+various forms
+it could be subsidies we saw guaranteed
+prices we saw regulations these policies
+around the world incentivize people to
+adopt solar energy and this is often
+held up as a success story in climate
+policy but before we publish this paper
+I would often
+ask audiences and frankly still I asked
+audiences and and I'm still you know
+trying to get these results out there so
+they haven't necessarily read the paper
+but I asked audiences what do you think
+what policies were important for that
+caustic line that 99% caustic line and I
+give them options of different amounts
+of the caustic line coming from
+government funding for research and
+development or a government funding for
+those markets stimulating policies and
+you know the answers are all over the
+place some people will guess that only
+10% came from government funding for
+research and 90% came from the
+government the market stimulated Paul
+stimulating policies and you know the
+opposite end of the spectrum two people
+will guess that 90% came from government
+funding for research and 10% of the cost
+decline came from policies to stimulate
+market growth so it's interesting to me
+that you know despite this being held up
+is probably the most significant success
+story in clean energy policy and climate
+policy people you know when asked many
+experts you know the answers are all
+over the place so this was one of the
+motivations for looking at ok what can
+we pin down what some of the reasons
+were for the cost decline and so yeah so
+we started with the low level mechanisms
+the changes to the device itself and
+then we looked at the high level
+mechanisms and the policy drivers and at
+the level of the device we see that the
+single largest contributor that the cost
+decline was an increase in the
+conversion efficiency of the panel's
+themselves but we also see that many
+other changes at the level of the device
+were important like changes to the
+amount of silicon used changes to the
+wafer size and other kinds of changes at
+that level so that may be actually one
+of the reasons why this technology
+showed this steady and rapid cost
+decline over time was that there were
+many different mechanisms that could
+kick in over that 40-year period I was
+talking about it and then we go up to
+the high level mechanisms I can talk
+about that if you're interested but then
+just to jump up to the policy
+we estimate that 30% of the cost decline
+came from government funding for
+research and 60% from market stimulating
+policies and then 10% from other sources
+so this is important not because there's
+been a debate for a long time about
+whether government should be involved in
+the market or if instead some would
+argue government should focus on funding
+research and then we wait until the
+technologies are ready and the milk are
+on the market but what we see when we
+look under the hood at the this
+technology and what actually changed and
+who did what is that those market
+stimulating policies played a really
+important role in this case and my
+takeaway from this is that we probably
+wouldn't be where we are today if we
+hadn't had these markets stimulating
+policies and that makes a lot of sense
+in the context of something like rights
+law right as you pointed out you get
+caught in this trap if it's market only
+in the early days when it's a hundred
+times more expensive no one's gonna use
+it but if we have some reason to be
+confident that rights law will work then
+it makes sense to do things like
+portfolio mandates or you know giant
+subsidies even though they're not
+economic in the short term to drive us
+up the learning curve to the point where
+it does make sense yeah and so this is
+where like something like rights law it
+may seem like a very academic kind of
+niche concept to many people maybe some
+of your listeners but it's actually I
+would say pretty important to consider
+for a forming in forming many different
+kinds of Technology decisions that
+people may have you know whether they're
+private investors or government
+policymakers or even engineers and we
+can start with rights law to say okay
+there's this relationship between
+production and as I produce more I tend
+to see costs come down following this
+power law and that's a good place to
+start but then of course if we want to
+look at the underlying mechanisms and
+you know the different kinds of efforts
+that lead to improvement that's where
+you'd want to go into applying the
+approaches that I mentioned earlier so
+there you
+we're not just looking at production and
+how costs come down with production but
+we're going deeper into what are all the
+different efforts that went into working
+on this technology so it's it's actual
+repeated processes or learning by doing
+but it's also research and development
+both publicly funded research and
+development and also privately funded
+research and development and economies
+of scale which is more of like an
+emergent property so we can kind of dig
+into that more and come up with more
+mechanistic explanations which then can
+inform other kinds of decisions you know
+like I have a portfolio of investments
+as a government and I want to decide how
+much do I want to mandate that
+electricity should come from these five
+different sources you might apply rates
+curve but if you're somebody that is
+deciding on the allocation of research
+and development funding versus expanding
+production either a government policy
+maker or a private investor or someone
+running a company then you might want to
+apply that more mechanistic approach
+that I mentioned it's gonna be a mix of
+them it's a multi optimization problem
+and it's also depends on the timeframe
+you're looking at right yeah so you've
+talked mostly about the past you have a
+perspective on the future of
+photovoltaic what are we likely to
+expect to over the next say 10 to 20
+years in terms of improvements yeah so I
+mean I think we'll continue to see
+improvements over the next 10 to 20
+years one of the areas that is really
+important to focus on though are what
+are called soft costs so I can explain
+what what that means but but if we take
+the solar energy system or the
+photovoltaic system we can break it up
+into the module and what's called the
+balance of systems so that's everything
+else that includes the inverter it
+includes a construction cost etc and
+that gives us the total cost and so
+looking forward I do expect that we can
+see some improvements
+photovoltaic module costs including and
+in silicon based photovoltaic modules
+but there are also some new exciting
+developments like profs kite solar cells
+the future there is uncertain but but
+it's an interesting and potentially
+promising area to look at but then let
+me focus on the other those other costs
+the balance of systems and then
+specifically on what I mentioned are the
+soft costs so that would include the
+construction cost so it's the cost of
+labor it would include the cost of
+permitting and what's called the cost of
+interconnection so connecting to the
+grid and that's a really interesting and
+important area because what we see is
+that those costs are coming to dominate
+the total cost so well the module costs
+have come down an inverter costs have
+come down those soft costs have not come
+down we do see that in some countries
+they're much lower than in others so in
+Germany it's estimated that those costs
+are about 50% what they are in the u.s.
+so they're half what they are in the US
+but we also see that you know within
+individual countries that you know we're
+not seeing as much signs of changes in
+those costs as we'd like to see so I
+think that's a really important and
+potentially very rewarding area to work
+on it's again one that I'm working on
+and I know many others including the US
+Department of Energy is interested in
+this one of the things that I think
+could work there is actually again in
+this area of soft technology and and
+basically finding ways to codify and
+knowledge of what works to bring
+permitting costs down to bring labor
+costs down in our connection cost down
+collecting data and making sure the
+incentives are in place for those costs
+to drop and that you know that could
+really be very impactful for solar
+energy okay quick aside it wasn't long
+ago there was a fair amount of
+investment including Google not dumb
+people in thermosolar with liquid salt
+storage whatever became of that
+technology yeah so thermal solar or
+otherwise known as concentrating solar
+power is one that hasn't taken off
+as much as people might like the concept
+is different from photovoltaics and one
+of the big differences is that you're
+using direct solar radiation so you no
+longer benefit from indirect solar
+radiation and that's because the way it
+works is you use a system of mirrors to
+concentrate sunlight and to heat some
+medium and so that could be molten salt
+for example as you mentioned and you
+bring that to a very high temperature
+and then you use that to operate
+something that's similar to a
+conventional thermal power plant and so
+those mirrors are set up to capture
+direct sunlight we're not able to
+capture indirect sunlight in those
+systems and so that means that they're
+really best applied in very sunny
+climates and I think there's you know
+there's still a lot of potential for
+concentrating solar power and when we
+look back at the history of technologies
+it's interesting because sometimes you
+see things coming into favor
+you know expectations maybe being a
+little bit too high the technology or
+industry isn't able to meet those
+expectations and then interest drops but
+then it kind of has a resurgence so I
+wouldn't rule out concentrating solar
+power yet but it's tricky to say what's
+going to happen with that technology
+going forward yeah I was kind of
+surprised that you know people as smart
+as Google would have spent you know big
+dollars on that and come up with a goose
+egg but that's what happens sometimes as
+you say maybe in the future something
+will come back let's move on to the next
+big one which is wind what is the
+learning curve look like on win both
+looking back a little bit and then
+looking forward yeah so we've seen again
+major reductions in cost and in wind
+electricity and we've so actually let me
+pause for a minute gem so part of the
+reason it's tricky to make that forecast
+that you wanted with time for solar and
+also for wind it's the same is that it
+really depends on what happens on the
+policy side as well so we we wrote a
+report ahead of the Paris climate
+negotiations and looked at the different
+commitments that countries had made
+to the Paris agreement and asked how
+much might solar and wind electricity
+cost fall between now and 2030 and we
+estimated that cost could fall by 50%
+for solar energy and they could fall by
+25% for wind energy and I will say that
+so far since we did that study ahead of
+the the Paris climate negotiations costs
+have continued to come down for both of
+these technologies now that's one
+estimate and indiscernible into these
+technologies if we increase that effort
+then things could improve more quickly
+or if we decrease we fall back on that
+effort then things could be slower yes
+assuming that rights laws the main one
+in operation it makes perfect sense the
+more we build the cheaper it gets right
+yeah exactly
+and yeah so that's you know and I think
+it's it's fair to assume rights law
+given what we know so far I'm not saying
+it's the best forecasting method and
+certainly with any forecast you want to
+also forecast your expected errors so
+that's something that we typically do so
+there would be ranges around those
+estimates that I just mentioned that's
+really important because then you can
+figure out how to diversify your
+portfolio you know to deal with those
+uncertainties but yeah a lot of the
+research we've been doing does provide
+some support for for rights law now if
+you're a small player and you're someone
+that doesn't have agency you can't make
+a decision about global production or
+large amounts of production then you may
+want to apply Moore's law instead to
+make your forecast so that's something
+that's what ways in which these theories
+can be implemented and used by decision
+makers but yeah to come back to your
+question you asked about wind
+electricity right and then where we see
+that wind electricity costs have fallen
+and shown a pretty impressive trend and
+there's room for further improvement and
+one area that I want to highlight that
+looks very promising is offshore wind
+this is a market that's growing and one
+of the benefits of offshore wind is that
+you're able to access more predictable
+more more sustained less
+variable wind speeds and wind patterns
+by putting your systems offshore so
+that's one of the benefits you're also
+able to access a better wind energy
+resource in many cases so that's an area
+that many are working on there's still
+some innovation challenges and a need
+for research and development investment
+in that technology but there's a lot of
+potential there and currently if we look
+at the costs of wind electricity again
+you see that it's cost competitive in
+many locations but it has the challenge
+that I mentioned before with solar which
+is one of the reasons why you would want
+to bring the cost down further because
+if you need to install energy storage
+alongside these technologies that's an
+additional investment that would have to
+be made and as you start using more and
+more wind energy you'll need either
+supplemental generation from other
+sources or energy storage in order to
+reliably meet demand gotcha
+that's a perfect transition to the next
+technology which is distribution you
+made the very good and important point
+that Geographic what's the health damned
+word I'm looking for here
+diversification diversification the only
+free lunch and Finance is
+diversification right and while it's not
+quite free and energy you can get a lot
+of free lunch with geographic
+diversification but to do that you need
+an upgrade of our distribution network
+sometimes I talk about you know building
+these high voltage DC long-haul cables
+as the interstate highway system for the
+21st century if you could tell us a
+little bit about what's going on in
+distribution and what needs to go on in
+distribution
+yeah so in improving and expanding the
+transmission and distribution
+infrastructure for electricity is
+absolutely critical especially if we
+rely on increasing amounts variable
+solar and wind energy it's important to
+improve and continue to expand the
+transmission and distribution
+infrastructure and so there's a lot of
+interest in that and you know that the
+costs should be manageable at least the
+engineering cost estimates the
+challenges come in in terms of other
+factors
+like whether people in the areas that
+would be affected if you're building a
+new long-distance high voltage
+transmission line whether people in
+those areas will be willing to allow
+those projects and also whether
+investors are willing to take on the
+risks of those projects also
+coordination across different
+geographical areas within the US can be
+a challenge some some of the
+institutional design issues have to be
+worked out but there's a lot of interest
+in that and I think whether or not this
+really takes off will have to do with
+what kind of climate policy we have but
+also from a bottom-up perspective it has
+to do with whether people are able to
+get together and coordinate and make
+decisions to go forward with some of
+these projects or whether you know that
+coordination proves too difficult so
+again I think about this problem in
+terms of what is the right portfolio
+approach and certainly we need to keep
+pushing on transmission and distribution
+infrastructure improvement and expansion
+and I do think that in some places it's
+going to have a very big impact and but
+it's probably going to be more
+applicable in some places than in others
+so if you have obviously small islands
+that becomes more difficult in those
+cases or if you have areas that are
+separated by large mountain ranges or
+national parks or other you know
+pristine wildlife areas that are
+protected and that people you know
+understandably don't want to go into and
+and build on then you're going to have
+some limitations there so really for
+transmission and distribution
+infrastructure expansion we need to look
+at the specifics of the continents the
+countries the states that we're
+considering and see whether this is a
+practical option in those locations and
+in places where it is then it's a great
+idea you mentioned the coordination
+problem what I tend to call the
+collective action problem right it makes
+sense to do it but you can't get people
+to agree for
+you know local interest reasons
+self-interest etc that's why I put the
+framing on it maybe we should think of
+it as the interstate highway system of
+the 21st century where we just decide at
+the top it's worth spending the money to
+make it happen you know the interstate
+highway system for those kids today
+don't remember was built in the 50s 60s
+70s and the federal government paid 90%
+of the cost as a way to incentivize and
+override local objections and it worked
+yeah I mean certainly those top-down
+approaches can work and we do see that
+in some nations today we see more
+top-down decisions happening and in some
+places that seems to work better than in
+others we've seen strong climate policy
+in the Scandinavian countries if we look
+at the case of China in that area in
+terms of you know planning for energy
+infrastructure they take a top-down
+approach as well in some other places
+these top-down policies don't seem to be
+really the way in in which things are
+moving so in the US for example you know
+the current administration isn't
+focusing on climate policy or climate
+change is an issue and what you're
+seeing is more bottom ups what are
+called sub-national actors you know
+basically mayors and governors of states
+and other local policymakers stepping in
+to work on these issues and adopt
+policies but of course those policy
+makers are covering a smaller area they
+have jurisdiction they're representing
+smaller populations and so then you have
+a bit more of a coordination challenge
+but I don't think that all is lost I do
+think that there are ways in which we
+could think about and again be creative
+about finding ways to move forward with
+coordination to incentivize coordination
+and again we can potentially use
+software for this I think we can be
+thinking creatively about how to absolve
+the collective action problem that you
+that you talked about many people
+individually would like to make a
+difference
+we see that we see that based on math
+surveys you see that if you go around
+and talk to people I mean I was just on
+a sabbatical and I was in various parts
+of the country and I would talk to
+people with all sorts of different you
+know backgrounds and about this issue
+and you do see that there are some
+common views even though people may be
+skeptical of climate change when we
+start talking about things that affect
+them personally there is a desire to
+protect the environment so anyway that I
+think there is there's a desire among
+many people to do something about this
+problem but each person can feel
+powerless because their decision alone
+can't bring about a large change so
+again we I think we should be thinking
+about technology and new creative ways
+to bring people together to allow for
+this bottom-up action and bottom-up
+coordination that could accelerate this
+transition to low-carbon energy systems
+well talk about the policy too little
+bit later yeah I don't have to be
+politically correct I don't have a job
+I've retired I don't give a right
+so what I would say is we got to vote
+out politicians who have their heads up
+their ass on this issue right when he
+both bottom-up and top-down and
+currently with the idiotic political
+leadership we have we're not getting any
+guidance on the top-down side so that's
+got to change
+yeah you don't need to agree or disagree
+but if you want to you can well no I was
+just gonna say that policy is is really
+important government policy is really
+important and national level government
+policy can be very impactful
+international agreements can be super
+impactful and so it is I think important
+to highlight for people that their votes
+matter and when they're voting for in
+demanding climate policy the reason for
+that isn't just to bring about emissions
+reduction but it's also you know
+alongside that you have technological
+innovation anytime things are changing
+especially in such an important sector
+like these energy service and youth
+sectors that I've been talking about you
+know if technology is changing there's
+opportunities there's opportunity for
+job creation of course
+there will be winners and losers but for
+society as a whole there is great
+opportunity there there's opportunity to
+address inequities to you know address
+all sorts of environmental and social
+justice issues so I do often try to make
+this point that voting is really
+important you know and that if you vote
+for options you know if you vote for
+climate policy what you'll get are
+options that will allow you to kind of
+act and make decisions and take action
+along your values and so it's important
+to to vote for a climate policy you know
+for all of those above reasons there
+it's a huge opportunity I guess I worry
+that people feel like all is lost and
+feel very down and think my vote can't
+matter but when we look at some of these
+trends in the past
+like we talked about for solar energy
+you see that we saw this really rapid
+improvement in this technology that came
+about because of efforts all around the
+world by many different kinds of people
+and different countries kicked in
+support at different points in time and
+it was kind of this emergent trend that
+we saw that is really pretty impressive
+so I think people I like to share that
+story because I think it can lead to
+more optimism around this problem we'll
+talk about optimism and and how to get
+rid of despair at the end but let's we
+need to move on here getting into the
+weeds a little bit more actually I like
+the week the truth is I like the weeds
+well we're using up our time so let's
+hit a learning curve what's going on in
+storage and nukes quickly will drop
+hydrolysis and then we'll move on so
+storage what has happened and you know
+where are we on the trend on storage
+yeah so we've seen significant declines
+in the cost of lithium-ion batteries for
+example so now you know there are
+estimates of costs around $200 per
+kilowatt hour as I mentioned before once
+you use these as stationary storage
+devices
+and installations there other costs that
+are incurred but costs have come down
+significantly and the other important
+trend to know it is that people are
+working on many different kinds of
+storage technologies you mentioned
+before that you had worked on vanadium
+redox flow batteries that's one kind of
+flow battery but there are many other
+kinds of flow batteries that various
+researchers are working on some of them
+here at my institution at MIT and these
+are batteries where you're basically
+replacing the electrolyte and this opens
+up some design opportunities to really
+bring down those energy capacity costs
+that's important and so basically
+because you don't have to be able to
+carry these stationary storage devices
+around you don't care about the mass and
+the volume so there's all sorts of
+interesting ways in which these
+technologies are being developed another
+important energy storage technology is
+pumped hydro storage now that really
+only makes sense in places where you
+have enough water and where you have the
+right topographical features where you
+have some reservoir of water elevated
+that can be used for this pumped storage
+site and the way it works is you pump
+water uphill and then later you let it
+run downhill to generate electricity so
+where this makes sense where you have
+the right conditions water and
+topography this is an important
+technology to to adopt and of course
+there I want to make sure to highlight
+that there are many concerns in many
+places about building a hydro facility
+and a hydro reservoir and so we really
+want to take those into account as well
+there can be ecosystem impacts and
+impacts on local populations so you know
+it only really makes sense where you
+have the right conditions and and people
+and ecosystems aren't negatively
+impacted so the future development
+potential there is somewhat restricted
+by those factors so those are some of
+the electrochemical storage devices the
+batteries and so batteries and Pumped
+hydro storage are some of the important
+storage technologies to keep an eye on
+and as to where things are going to go
+in the future
+are certainly a lot of room for
+development as I mentioned before we're
+just starting to get working on
+stationary storage devices and in
+earnest and there's more enthusiasm in
+this area there are many different
+directions these technologies could go
+in different forms of energy we can
+store the energy in different forms and
+so I I think there's a lot of potential
+but the future is uncertain so there you
+know in terms of our portfolio again
+we'd want to diversify our investments
+across a number of different options and
+I should mention lithium-ion batteries
+again come back to that there is
+probably a significant room for cost
+reduction and lithium-ion batteries too
+so that's another technology to keep an
+eye on okay how about nukes nuclear
+power you know again people often forget
+about that when we're talking about
+greenhouse gas free power sources but
+hey there's one that emits almost
+nothing in terms of greenhouse gas I
+have a fair big upfront cost but if you
+look at the energy return on investment
+I mean the things about a hundred to one
+say it gets a very good return on energy
+invested where are we today with nuclear
+power and what do you see coming down
+the pike yeah so nuclear fission
+reactors are an important option to look
+at as well so what we've seen in the
+u.s. is that the development of new
+reactors really slowed and essentially
+stopped in recent decades and you know
+there are a couple of possible reasons
+for that but what we see over time with
+nuclear fission reactors we're actually
+working on a paper on this right now is
+that the cost actually rose over time so
+if it didn't follow the kind of learning
+curve we were talking about earlier and
+we think that one of the reasons for
+that Rises the increase in in soft costs
+so that's basically all of the on-site
+construction costs the permitting the
+quality control some of this was in
+response to safety regulations but in
+many cases we think there could be
+opportunities to respond in a different
+way to safety regulations
+and that this cost increase could
+potentially be reversed if we rethink
+how we're developing and constructing
+these nuclear fission reactors so
+basically costs have come up in the u.s.
+in other places costs have not followed
+the same trends and development has
+continued so France as many people may
+know relies a good deal on nuclear
+fission for electricity but in the u.s.
+we haven't seen growth trends in recent
+years so it's a big question as to
+what's going to happen in the future and
+my thoughts on what could happen are the
+following I think there is potential to
+find ways to reduce the costs of nuclear
+fission and to reduce those soft costs
+that I talked about one of the ways to
+do that is to possibly to transition to
+small modular reactors where much of the
+construction is done off-site and the
+on-site construction requirements are
+much more straightforward and that could
+help drive costs down the other big
+question with nuclear fission of course
+is what is the public acceptance of it
+and in some places like in Germany and
+Japan you see that the public acceptance
+is low in other places it's higher and
+so this may be a technology that works
+in some places is a good option in some
+places and not such a good option other
+places I think we should be bringing
+people into those decisions and having
+conversations about that in places where
+it makes sense then this can be a
+contributor to a low-carbon electricity
+there are a couple of other issues that
+we need to think about as well like a
+long-term storage of nuclear waste and
+of course there's always the question of
+nuclear weapons proliferation
+and certainly continuing to focus on
+preventing nuclear weapons proliferation
+so those are some of the challenges but
+also some of the opportunities with
+nuclear fission technology yeah when I
+think about the algebra you know it's a
+multi-factor equation and if we were to
+say triple the amount of nuclear we had
+in the world that would provide a pretty
+good sized base load which makes a lot
+of the other problems much less pressing
+that's right that's right so nuclear
+fission could be used as a base load
+technology and the question is really
+about those three factors that I
+mentioned are let's say for actually the
+answer that question will be determined
+by those four factors one is social
+acceptance the other is the costs and if
+we can bring those soft costs down the
+other is what we do with long term waste
+management and then finally the question
+of nuclear weapons proliferation so
+those are four important factors to keep
+an eye on yep that sounds good
+one last technology before we move on
+what about carbon atmospheric removal is
+that a thing is that gonna really happen
+is there a chance for it where's that
+stand yeah again this is a technology
+that I think we should be investing some
+amount in there are some challenges
+having to do with coordination again and
+public acceptance and some of these
+challenges that we talked about
+regarding you know these not in my
+backyard kinds of challenges now I'm not
+saying move it's too early to see if
+that will really be the determining
+factor for carbon capture and storage
+but these coordination challenges and
+public acceptance challenges are ones
+that could certainly be important
+factors but what we've seen so far
+limiting investment in this technology
+which which may have to do with
+investors perception of those two
+factors that I just mentioned is that
+there hasn't been as much appetite to
+take on the risk of investing in these
+large projects and there have been
+successful demonstration projects but
+the technology really hasn't taken off
+there are a couple of other challenges
+that still have to be addressed so
+is in looking at what are the possible
+storage sites I'm in what form do you
+store the carbon dioxide ideally we'd
+like to be able to convert it to a solid
+form and one of the reasons for that is
+that even a very small leakage rate for
+carbon dioxide could lead to a huge
+problem down the road because carbon
+dioxide once it's in the atmosphere
+sticks around for hundreds of years so
+even if you have very small leaks over
+time you get to a very big climate
+problem so that's something that we'd
+like to avoid so researchers are looking
+at turning carbon dioxide into a solid
+form it's not an easy thing to do what
+you're doing there is trying to drive a
+mineralization reaction which isn't all
+that easy so I guess the bottom line is
+carbon capture and storage is certainly
+something we should be looking at it may
+end up being more of an niche technology
+for certain niche applications like
+industrial emissions that's something
+that could turn out to be how this
+technology is used I think we should
+keep it in the portfolio of technologies
+that we're investing in trying to
+improve okay it's a good thought now I
+will skip over with my last few nerdy
+topics because I think it's particularly
+relevant for this carbon removal and
+sequestration issue into the policy
+space right we have a whole lot of
+different knobs that as a social
+operating system we could set to help us
+move towards carbon neutrality before we
+meltdown in some of the ones we've
+talked about before are things like
+portfolio mandates where you know just
+by regulation we say that utilities must
+convert X percentage of their capacity
+to renewables cap-and-trade where
+there's a complicated market-based
+system and greenhouse gas emissions and
+then things like carbon taxes what do
+you think about those policy things and
+what else do we have in the policy space
+yeah
+so there are a handful of different
+policy instruments that we have to
+choose from I mean some of the major
+ones are government funding for research
+and development and for really all of
+the technologies that we've talked
+about there is a need for further basic
+research and publicly funded research
+that could really go a long way in
+addressing some of the specific problems
+and challenges that still remain for
+those technologies we talked about so
+that's one set of policies that's really
+important and then the other policies
+are ones that I would we can put all of
+them into one large bucket which has the
+label market stimulating policies for
+low carbon technologies so these are
+things like various kinds of incentives
+so subsidies for low carbon energy
+feed-in tariffs are guaranteed prices or
+regulations that mandate a certain
+amount of renewable energy for example
+one example is the renewable portfolio
+standard that you see in some US states
+so those are all market stimulating
+policies but also carbon taxes and a
+cap-and-trade system could also fall
+under those markets stimulating policies
+those are a little different in that
+you're not picking individual
+technologies to target but rather
+targeting the carbon emissions coming
+from those technologies but but those
+can also fall under that category so we
+have a range of different instruments
+that we can use and they've been shown
+to be successful yeah though it's funny
+we don't seem to have much will to do it
+you know the name very people are trying
+cap-and-trade and truthfully I've got a
+fairly strong economics background and
+when I first heard about cap-and-trade I
+said ah this is obviously the right
+answer because you take out the most
+cost-effective carbon first right the
+idea is that everybody bunch of people
+have rights to emit carbon those rights
+go downhill every year people trade them
+amongst themselves so carbon that's easy
+they got getting rid of gets rid of
+early etc but unfortunately there's lots
+of problems with it like who gets those
+credits right you can imagine any
+society that has even a little
+corruption it's gonna be driven by
+political corruption to a large degree
+so we saw in Europe they set the caps
+too high and basically didn't do jack
+ price dropped is almost zero so it
+had no effect etc so I've come around to
+believe very strongly that this is the
+right economic
+for carbon reduction which is a carbon
+tax which is set relatively high say 30
+or 40 dollars a carbon tonne equivalent
+today and is set statutorily to increase
+linearly to $200 per tonne in 20 years
+and continue thereafter further this
+carbon tax will be refunded to the
+populace per capita after a small amount
+may be later a larger amount is used to
+pay for carbon sequestration
+so first what use of the tax is to
+actually pay people the exact reverse of
+the tax rate for taking carbon solidly
+out of the atmosphere and no
+but you know the real deal I hear the
+pier the bricks I can count them and
+then the rest goes back per capita to
+each individual now the beauty of this
+is you don't have the political kick
+back because the average use of
+greenhouse gases is quite a bit higher
+than the median use what does that mean
+it means that the majority and a
+significant majority of people in a
+country like the United States will
+actually be economically ahead if they
+got a per capita redistribution of
+carbon tax and yet every decision they
+make at the micro economic level is
+fully informed by the weight of the
+carbon tax so you know their gas still
+costs twice as much so they're gonna use
+less gas even though in the aggregate
+they're gonna get all that money back
+again at the end of the month so I've
+been thinking about this for a while and
+I can see no better powerful stimulus to
+our innovators to our own conservation
+instincts to everything by a strong and
+rapidly increasing carbon tax that's
+refunded per capita on a monthly basis
+yeah I mean you know I think one of the
+important issues that that your proposal
+will deal with is the otherwise
+regressive nature of a carbon tax or the
+inequitable impacts of a carbon tax you
+know that's one of the concerns is that
+if you have a carbon tax that will
+affect lower-income households and
+people you know more and so with the
+plan that you're talking about you could
+you could begin to deal with with some
+of those issues
+I think certainly a carbon tax could
+work a couple thoughts on that it's
+really important and you touched on this
+it's important what the actual value is
+and whenever anyone says they're
+supporting a carbon tax I always come
+back and ask okay what's what is the tax
+what's the value what value does it
+start at what happens to it over time
+and once we start to get up to $100 a
+ton that's when you really can start to
+see significant changes we know this
+because you can simply look at the cost
+of energy and the carbon intensity of
+energy of different options out there
+and you could see how they change
+relative to one another with different
+levels of a carbon tax and we know that
+you know we can see those changes and
+I've done this analysis and $100 a ton
+is and you'll start you'll see things
+change even at a lower level but $100 a
+ton is when you can start to see these
+shifts and the energy supply
+technologies and really that's what's
+needed you have to get fossil fuels out
+of the energy system or to the extent
+they remain capture the carbon dioxide
+and ideally turn this to a solid form
+that's still a technology that needs
+some development so you know but yeah I
+mean I think a significant sizable
+carbon tax could be a good way to go of
+course the question is will people
+accept it will they support it and some
+of my political science colleagues have
+looked in the into this in detail one
+colleague of mine she's actually a
+former student of mine Leah Stokes at
+University of California Santa Barbara
+is doing some great work in this area
+but anyway you know it's important to
+look at what what do people want I'm not
+saying that that can't change over time
+but we want to pay attention to what is
+acceptable to people what are they going
+to support and some of the studies out
+there are suggesting that people like to
+they don't really like attack so maybe
+we could reframe your policy in such a
+way that it's you know an environmental
+rebate because they're getting something
+back but you know that idea of paying
+something is less popular than the idea
+of investing in something and getting
+something back
+so you know when we talk about investing
+in solar and wind these can be more
+popular policies actually than taxing
+carbon emissions and that perhaps is
+rooted in human psychology but I mean at
+the but at the end of the day I guess
+what I would say is that we have these
+energy supply technologies they have a
+certain amount of carbon emissions
+associated with them they're they cost a
+certain amount they have a certain
+amount of scalability and we can use a
+collection of instruments a carbon tax
+would work a carbon cap would work it
+would lead to a price on carbon
+different technology specific
+instruments would work apply to the
+handful of different technologies we
+have we can use a combination of all of
+these but the idea is to it all of these
+essentially put a price on carbon they
+bring in that external cost of carbon
+emissions and climate change and bring
+that into the price that consumers see
+and another it's getting a little bit
+kind of technical and I don't know how
+much we want to go into these details
+but one of the challenges with setting
+the right carbon price is actually to
+address some of the questions we've been
+covering which is how our technology is
+changing with time because at the end of
+the day if what you want to do is to
+reach a certain emissions target all of
+these policies need to be informed by an
+understanding of the dynamics of
+technological change if you have a
+technology changing and cost by an order
+of magnitude over 10 years that's
+something you really want to take into
+account in your models and use that to
+inform policy so I guess I would tweak
+your proposal a little bit I think a
+carbon tax where it makes sense where
+it's socially acceptable and by the way
+we we have a significant carbon tax in
+Sweden you know I think that makes sense
+to go forward with that but we're
+probably also going to need a number of
+these other policy instruments for
+investing in government-funded R&D but
+also these market stimulating policies
+that target options that look like they
+could be
+very that you know where while the
+evidence suggests that they could be
+very important for addressing climate
+change going forward I think I probably
+is the right answer there is no one
+answer we're all looking for the Silver
+Bullet but it's a question of
+coordination you've mentioned several
+times through the day that our research
+priorities are real important and I saw
+that you'd recently co-authored a paper
+on that you know what are the four
+research priorities for making progress
+on climate could you give us your
+thoughts on where our research
+priorities ought to be yeah sure so
+there are a number of really important
+areas I guess I'll start with technology
+specific priorities and which
+technologies I think we could focus on
+and then I'll go into some other
+priorities so in terms of the
+technologies certainly bringing down
+energy storage costs is really important
+and there I'm referring to not just
+batteries but also other kinds of energy
+storage like technologies figuring out
+how to draw from a more diverse and
+wider geographical area through
+transmission infrastructure expansion
+how to draw solar and wind energy from a
+wider area a larger area along with new
+approaches to demand-side management and
+also integrating energy demand and
+supply across different and new sectors
+electricity transportation heating an
+industry to electrify those services
+those energy services as much as
+possible but then also to find ways to
+maybe generate and produce low carbon
+fuels to meet the portion of the demand
+that can't be met through
+electrification so I I kind of lumped
+these under energy storage plus so the
+physical batteries and then all of these
+other ways of managing and matching
+supply and demand I think that's a huge
+research area and really important so
+that's one certainly bringing down the
+cost of solar energy and specifically
+the soft costs of solar energy is
+important focusing on reducing the soft
+costs of nuclear fission along side
+be creative about ways to deal with the
+waste storage meant and the waste
+management problem as well as the risks
+of weapons proliferation that's really
+important offshore wind has a lot of
+potential and then continuing to invest
+a bit in carbon capture and storage and
+converting carbon dioxide to a solid
+form I think that's important as well we
+should keep an eye on that and keep
+pushing on that now you know if I were
+to make allocations across those areas
+I'd use a portfolio model and you know
+different ones would receive more
+research funding than others but those
+are some important ones oh and also
+continuing to work on electric vehicles
+so that includes battery electric
+vehicles as well as fuel cell vehicles
+and then also transportation technology
+and software that allows us to match
+vehicles to the kinds of trips and the
+features needed for a particular
+transportation service and then finally
+developing technology that allows us to
+seamlessly provide transportation
+services to people combining electric
+vehicles with public transit and other
+low-carbon forms of transportation so
+those are some technology areas that I
+think are really important in terms of
+general themes I guess I'll highlight a
+few one is this issue of soft technology
+and soft costs and just in general
+finding ways to match a low-carbon
+supply to energy demand and to shape the
+energy demand so that goes beyond the
+specific example that I gave before in
+managing variable renewable energy and
+matching that to demand to looking at
+you know the example from transportation
+matching transportation services to
+people's needs but I think we can use
+this as a concept more generally to look
+at industrial energy services and you
+know heating and cooling energy services
+so kind of looking at using soft
+technology to match supply to demand and
+then also you know across the technology
+of the example technology exam
+as I gave I mentioned soft cost
+specifically so that's the cost of labor
+installation maintenance and this is a
+category of cost that hasn't seen as
+much improvement as it could across many
+different low-carbon technology so
+that's specifically something that I
+think would be important to look at one
+other area I want to highlight is
+artificial intelligence I'll just give
+one trivial example which is
+self-driving cars the algorithms that
+are being developed for self-driving
+cars aren't focusing as much as they
+could on energy efficiency reducing
+energy demand per trip but then also we
+should be thinking about how do we use
+automation of vehicles and other
+automation to make our resource use more
+efficient you know so in transportation
+there's a concern that automation could
+double you know or greatly increase
+transportation energy demand it could
+also cause the trend to go in the
+opposite direction and my point is we
+need to be deliberately researching
+these different options and try to you
+know if we care about climate change
+which I obviously do you know try to
+understand how we can use automation for
+benefit in order to bring about
+emissions reduction and decarbonisation
+of transportation so those are a couple
+of general themes yeah well when I
+become president you're gonna be
+available believe my Secretary of Energy
+sure there's one more can I say one more
+sure okay so another theme that's really
+important and this is actually one that
+I'm going to be working on with some
+colleagues at the Santa Fe Institute in
+a small working group next month and
+that's on thinking about how the
+decisions we make today will or will not
+allow us to reach deep decarbonization
+path targets one of the problems that I
+and earlier is a problem that came out
+of some research we did and this was
+published recently in the journal Joule
+on the energy storage requirements of
+almost entirely on solar and wind energy
+and what we see there is that you know
+basically if we go down this path we
+need to be thinking about ways to be
+able to address these large unexpected
+shortage events and solar and wind
+energy and be developing the
+technologies for that ultimate goal now
+even though we're far from you know
+using eighty percent renewable energy or
+more we need to be working on that now
+and then we also need to be giving
+ourselves retaining the option to reach
+deep decarbonisation targets in
+different ways so basically what I'm
+saying is we should be researching and
+understanding now what kinds of policies
+are needed to allow us to retain
+different options so if we think of this
+as a decision tree you know we retain
+certain branches of the decision tree
+through our investment decisions and our
+policies and we want to make sure that
+we can get to these deep decarbonisation
+targets and be deliberate about that
+already now so many states have very
+ambitious
+decarbonisation targets by mid-century
+for example New Mexico recently adopted
+one new york state california both have
+very aggressive decarbonisation targets
+and it's important to be thinking about
+how the policies we adopt now give us
+the options that we need and take into
+account some of the uncertainties that
+are there in order to reach those deep
+decarbonisation targets yeah I think
+that's critical as a society that we'd
+be thinking about that but that we be
+thinking about it realistically one of
+the things that really pissed me off
+about climate change and thinking is how
+a lot of what I call magical thinking
+has been floating around recently
+exactly opposite of the kind of thinking
+you just laid out for instance Bernie
+Sanders a guy I supported in 2016 right
+on his website under his climate change
+policy he puts out as his goal reaching
+100% renewable energy for electricity
+and transportation no later than 2030 I
+mean that's total horseshit
+can't possibly happen yeah I mean I
+think you know
+I have a couple comments on that I think
+really what we want to keep our eyes on
+there as a goal is decarbonisation so
+net zero emissions energy systems is the
+technical term I guess or the jargon
+that use right so that could come from
+renewable sources it may be largely
+solar and wind energy but also from
+other sources like hydro in places where
+it already exists nuclear fission and
+you know that could come through
+electrification as well as producing
+some low carbon fuels like hydrogen
+which is an important one to keep
+working on that's actually an another
+research priority there but yeah so we
+want to be aiming for net zero emissions
+energy systems and it could be that
+that's largely coming from renewable
+energy but the target the policy target
+I believe should be focused on the end
+goal which is getting carbon emissions
+out of energy so that's that net zero
+and emissions energy systems that's
+important and then you know if we set a
+target for a certain time you know so
+say we set a target for 80 to 100
+percent emissions reduction by 2050 it's
+really important to make sure that that
+can be reached and to make sure you have
+a plan for reaching that so the Obama
+administration published a mid-century
+strategy report shortly after the
+elections in 2016 this was something
+that they had been working on for a long
+time and this is the kind of analysis
+that should be behind policy targets for
+2050 for example for decarbonisation it
+is really important to be thinking about
+how we're gonna get to those targets and
+to put out those plans alongside the you
+know a statement of the end goal yeah I
+agree that it has to be realistic
+because again this Bernie thing I mean
+think about what he's saying a hundred
+percent renewable energy for all
+electricity and transportation no later
+than 2030 impossible and what's gonna
+happen is you put that out there as his
+on his platform and it doesn't even come
+close I mean we'd be lucky to get 20% by
+2030
+it's gonna cause people to believe that
+these forecasts and goals are utterly
+unrealistic you know it seems to me the
+takeaway is that political statements
+about goals need to be based on science
+not just on God knows what that damn
+thing was was made up from what I want
+to see first is candidates supporting
+the idea and really engaged and
+understanding the importance of climate
+change mitigation so that's the first
+thing I look for and actually I did
+write some live commentary during the
+candidates climate Town Hall that was
+hosted by CNN last fall so I got a close
+look at all of that time the list of
+candidates Democratic candidates their
+policies and I have to say that I was
+really heartened by the fact that first
+of all this event was being held at all
+if you had told me four years ago that
+CNN would be hosting a primary debate on
+climate change only I'm not sure you
+know how likely I would have thought
+that that would be at that time so the
+fact that this was happening at all was
+really important and you could also see
+that many of the candidates have learned
+about this issue some more than others
+and you know have an understanding of
+the issue so that's one of the first
+things that I look for and a number of
+them I would say we're stronger than
+others in terms of their plans and how
+well thought through they were certainly
+having a plan a tall hat and actually
+wanting to do something about this
+problem is really critically important
+but then of course we want to back that
+up and make sure that those plans are
+informed by achievable targets and
+achievable actions that's of course what
+we want one last thing and then a half a
+thing global collective action problem
+you know the United States or Western
+Europe we could do our thing and we
+could get our carbon equivalent
+emissions to zero but if the rest of the
+world doesn't follow it isn't gonna do
+any good what are some of your thoughts
+on how we address the global collective
+action problem yeah so one of the
+questions that got me interested and
+starting down this path almost two
+decades ago of this
+search that I'm doing was exactly this
+question of how do you bring about
+agreement among different
+decision-makers and specifically among
+countries and regions that are at
+different levels of Economic Development
+so you have some countries that have
+rapidly growing economies they're still
+growing and income levels are rising
+more rapidly there's others where income
+levels are already high fairly high and
+you know growth has sort of leveled out
+some more so basically you have
+developed economies and then rapidly
+growing economies and these
+decision-makers have different problems
+that they're confronting and the
+question was always how to bring these
+decision-makers into agreement because
+rapidly developing economies it was
+thought would not want to sign on to
+climate policy because they don't want
+to have to pay for the carbon emissions
+that developed economies have already
+contributed you know the feeling was
+that developed economies have caused
+this problem and they should be the ones
+to pay for it now from the developed
+economies perspective they said we don't
+want to do this alone you have to
+contribute your fair share to the
+rapidly developing economies and so this
+was a problem but one of the motivations
+for the research that I started to do
+was to ask okay well if we consider a
+technological innovation how does this
+picture change and I can say that I
+think you know there is there is actual
+actually reason for optimism that
+agreements could be reached because what
+you see when you look at what's happened
+over the last few decades is that in
+cases like in solar energy where we had
+policies around the world there wasn't
+much coordination but there were
+different policies at different times in
+different countries you brought that
+brought about this very rapid and
+significant improvement to this
+technology that created a lot of
+opportunities in places where
+manufacturing innovation happened it
+created jobs in installation and
+manufacturing and then this technology
+was used everywhere
+the world and so I think this is
+something that could be repeated and
+other technology so I guess what I'm
+saying is that by adopting climate
+policy what happens is you can and
+especially if you do this in a way
+that's that's you know carefully
+designed and strategic you can stimulate
+very significant technological
+innovation that benefits you and that
+leads to new technologies better
+technologies that can then be exported
+to other markets and so so it can really
+be seen as an opportunity and this is a
+message that was in a report that we
+wrote ahead of the Paris climate
+negotiations it's something that was
+referenced there and used at least in in
+some of the discussions based on on what
+I've heard and this is so it's basically
+it's pointing out that when you adopt
+climate policy and you enforce climate
+policy you don't just get the emissions
+reductions out you also get technology
+innovation out which creates lots of
+opportunities and so I see that there's
+there's actual potential once we
+recognize that innovation opportunity
+for greater agreement decision-makers
+around the world and actually that
+people will not want to be left out you
+know so at some point we'll hit a
+tipping point where this decarbonisation
+trend will really take off I mean I hope
+I don't know if this is going to happen
+but this is something that could happen
+if we put the effort in and so this
+tipping point would then you know once
+we cross this or hit this tipping point
+it's in everybody's interest to kind of
+stay onboard and and just stay on top of
+this and not be left behind so I feel
+like that was a little bit of a
+confusing answer I don't know if I
+should start I think you hit on the key
+point let's let's exit on I hear people
+talk about despair about climate and
+that really makes me mad you know cuz it
+from what I see it's certainly a fixable
+problem you know it's probably on par
+with you know world
+- or something like that in terms of
+percentage of GDP and instead of being
+concentrated in two or three years at
+spread over 50 years so why why do
+people despair I shouldn't say why they
+spare I know why they despair because of
+bad memes floating around social media
+but do you think that there is more hope
+than despair appropriate and where you
+sit and knowing better than almost
+anybody on earth where these
+technologies really are and what's
+possible yeah I think there's a lot of
+reasons to be hopeful now I'm not gonna
+say that it's a done deal and that we
+are you know definitely going to address
+this problem I don't know if we will but
+there's so much opportunity and you know
+I guess my approach and and sort of what
+I would encourage everybody to do is to
+try right if we're not trying if this is
+a problem that you care about and you're
+not trying you're not doing what you can
+then the problem definitely won't be
+addressed but if everyone tries everyone
+that cares about this problem tries then
+will I feel very confident that we'll
+get to where we need to be so I I remain
+hopeful but I don't spend my time
+thinking about whether or not we'll
+address this problem of course that
+thought you know does come to me and I
+do I do have those thoughts but I
+quickly try to refocus my attention on
+doing what I can
+and trying my best the approach I take
+yeah Matt note I want to thank you for
+everything I was hoping this episode
+would be great detail great thoughts and
+a great wrap-up ångström that was that
+was a lot of fun
+[Music]
+production services and audio editing by
+jerod Jane's consulting music by Tom
+Muller at modern space music

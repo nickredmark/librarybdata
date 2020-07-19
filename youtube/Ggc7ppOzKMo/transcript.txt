@@ -1,0 +1,1818 @@
+howdy this is Jim rut and this is the
+Jim rut show
+[Music]
+listeners have asked us provide pointers
+some of the resources we talked about on
+the show we now have links to books and
+articles referenced in recent podcasts
+that are available on our website
+we also offer full transcripts go to gym
+rut show calm
+that's gym rut show calm today's guest
+is Roman Jung pulsky he is a professor
+at the speed School of Engineering at
+the University of Louisville hey Jim
+thanks for inviting me ah great to have
+you on Roman is the author of several
+books and many papers across areas
+including AI safety artificial
+intelligence behavioral biometrics cyber
+security digital forensics games genetic
+algorithms and pattern recognition and
+actually a bunch more I proposed a new
+field of study that he calls intellect
+ology the study of intelligence very
+broadly defined for example he places
+artificial intelligence as a domain
+within intellect ology in fact let's
+start generally in that area in fact the
+first thing I saw of yours when I was
+looking around for topics to discuss was
+your paper the universe of minds which I
+thought was very interesting could you
+talk a little bit about you know maybe
+both intellect ology and also how that
+fits into the concept of the universe of
+minds sure so as you mentioned to have
+many interests I stick my notes in many
+pots but actually they have a comment
+that come looking at intelligence I'm
+looking how to design it how to detect
+it how to measure it how to control it
+anything and everything intelligence and
+many different fields contribute to that
+but they don't have a unifying framework
+and that's where Intel ecology comes
+there the space of minds is a particular
+subtopic and that where we're trying to
+understand well what types of minds are
+really possible so we know human minds
+and they're somewhat diverse we have 8
+billion different humans running around
+but can we go beyond that ok we can add
+animals higher-level animals primates
+fish they have somewhat different minds
+we can start thinking about aliens well
+if aliens exist would they have
+different minds as well different types
+of
+once wishes desires properties and you
+can go with that in the few formalize
+idea of the mind as some sort of a
+software simulating this physical system
+you quickly arrive at possibility of
+essentially equating all that software
+to an infinite set of integers you just
+map it onto integers each individual
+represents some sort of a software
+product and you can show that there is
+no limits to how many different minds
+you can have as long as your definition
+of different minds includes some
+specific level of difference let's say
+one bit difference is sufficient to
+distinguish two minds yep and I think
+from the formal mathematical perspective
+that's interesting but perhaps even more
+useful is to get people to open up their
+thinking about what constitutes a mind I
+know what I'm talking to people about AI
+and particularly AGI I see an awful lot
+of thinking channelized into thinking
+about minds not very different than our
+own may be a little bigger maybe a
+little faster maybe a little smarter but
+you know they're thinking that I've done
+on the topic at least leads me to
+believe that there's a vast space of
+minds available that may be very
+different than ours and that will have
+some serious implications around things
+like AI safety of course and we can
+start thinking about the differences in
+terms of how we get there so we
+simulating human neurons are we evolving
+that software are we designing it from
+scratch all of those lead to very
+different architectures very different
+systems and that's just again tiny drop
+of this infinite universe of
+possibilities yeah I think it's really
+important for people working in this
+field or even in trying to understand
+this field from a policy perspective to
+understand that when AG eyes finally do
+arrive they could well be very very
+alien as compared to human brains
+there's no reason at all they have to be
+very much like you even brains it may
+turn out that's the easiest way to start
+but it may not be the easiest way to do
+it we will soon find out it seems like
+if we just do it without care without
+taking safety into account it's easier
+to create any general intelligence than
+to create a specific one with human
+friendly properties so statistically
+speak
+we're more likely to get a random
+possibly malevolent one if we just do it
+without concern yeah we'll come back to
+that in a bit when we talk about AI AG
+AI and AI safety but I want to happen to
+see that you wrote a paper about one of
+my favorite topics Boltzmann brains I
+want to put a warning in at this point
+if you happen to be tripping on LSD at
+the moment you might want to stop
+listening I always warn people when I
+tell them about Boltzmann brains and
+never think about Boltzmann brains while
+tripping a very bad idea it's one of the
+most curious most mind twisting ideas
+out there why don't you tell our
+audience remember we have an audience of
+smart people but not necessarily
+knowledgeable about the domain what is a
+Boltzmann brain so if you think the
+universe is infinite in all directions
+that's a lot of computational resources
+and there is some physical theories
+which tell us that matter comes into
+existence after quantum fluctuations at
+random and sometimes it's photons
+sometimes it's a molecule but given the
+infinite amount of resources
+periodically something more complex will
+pop out and maybe just maybe a brain
+with memories with capabilities will be
+such fluctuation and they are called
+bossman brains and there are some
+interesting philosophical consequences
+of it for one maybe you one of those
+fluctuations and you just have all these
+memories and universe around as a
+side-effect of being one such absolutely
+random meaningless
+Boltzmann brain yep and the other thing
+about them if you assume as you did you
+laid out nicely the required assumptions
+which I'll get back to later it's
+essentially guaranteed that for instance
+a Boltzmann brain could come into
+existence that was powerful enough to
+simulate our whole visible universe
+for example fact we know it will happen
+if your assumptions are correct that we
+have infinity of time and space and
+matter and the matter behaves the way we
+believe it does under quantum mechanics
+that's what I think is one of the
+weirdest and strangest thing about this
+idea however that's where
+I tend to look at this concept and as
+fascinating as it is I say you know it
+may not be real at all and the reason is
+that those assumptions may not be real
+there may be a limiting case that makes
+them not able to produce high-powered
+Boltzmann brains infinity is the key if
+the universe is infinite
+yeah it's finite I should say even if
+it's very very very very very very large
+the probability of a high-power
+Boltzmann brain randomly fluctuating
+into existence is still astronomically
+small as we that would you agree with
+that all right if resources are not
+sufficient obviously it's not going to
+happen but you can think about some
+simplifying assumptions maybe it's just
+an instance of time maybe another second
+of experience which pops in not a whole
+long life you just perceive it as such
+that's certainly interesting that would
+open up the space a bit say let's assume
+it's very short but I think the other
+thing I've thought about I'd love to get
+your thought on this is even if the
+universe were infinite if a sub-region
+of the universe was limited by its
+causality let's call it the light-cone
+then probably we can rule out a
+Boltzmann brain that has any impact on
+us because if we don't have causality
+across some unit of space-time then that
+is the chunk of space-time that we have
+to use for reckoning whether a Boltzmann
+brain has any relevance to us does that
+seem reasonable it seems reasonable but
+you have to self place yourself in that
+part of the universe if you already a
+Boltzmann brain which is just
+hallucinating things you just perceive
+it as such hallucination it's not
+necessarily true that you are part of
+that restricted part of the universe
+it's true it could be a simulation right
+that's what I you know what I alluded to
+earlier it is certainly possible that if
+there were some higher level domain that
+was infinite in time-space causal
+linkage had matter it sort of acted like
+our matter in with respect to quantum
+behavior then we could say for sure
+there would be a Boltzmann brain of
+sufficient power to have simulated our
+whole visible universe at arbitrary
+levels of precision and we will never
+know the answer to that probably you can
+also take it to the next level it
+doesn't have to be just a brain it could
+be a whole ball slow universe
+into existence just as well I mean if
+resource to say infinite we can go crazy
+with it yeah exactly and so it's
+interesting I have chosen to preserve my
+sanity to take the pruning role that
+Alright
+although implications of Boltzmann
+brains are so crazy that I'm just going
+to for personal purposes assume the
+universe therefore must be finite you
+know can't prove it of course you know
+nuh no such metaphysical speculations
+can be proven that or they wouldn't be
+metaphysics but I do find it very very
+useful to say all right let's just
+assume that the absurdities that come
+from Boltzmann brains can easily be
+turned around and lead us to say alright
+we're going to reject infinite universes
+and instead assume finite universes well
+they can be finite but you can have a
+multiverse of them as well so it could
+be infinite in different directions yes
+it's it's possible but again I would
+come back to the point that if the
+multiverses are finite the probability
+of any of them having a Boltzmann brain
+in them are very of any substance of any
+size is very very small and we'll get to
+this topic later when we talk about
+evolutionary computation but the amount
+of random things it has to happen to
+produce a Boltzmann brain are
+exceedingly low probability and so
+you're for instance a universe the size
+of our visible universe I think I'd be
+willing to say that a long duration
+high-powered Boltzmann brain almost
+certainly has not emerged within our
+visible universe within the last
+thirteen billion years it probably is
+through but then again we're observing
+from insight we are the possible
+hallucination of such a brain so
+whatever resources we observe just what
+we see it's not necessarily to the
+resources available outside of the
+simulation of course and you know at the
+next level up we can't say anything
+actually right which then gets us to the
+a little bit broader question of
+simulation you know many people have
+been talking about it you've written
+about it I believe but what are your
+thoughts about whether our universe is
+the simulation or not or what what can
+we say about that
+statistically it seems very likely I
+would be very surprised if we were one
+ideal world especially given how weird
+it is with some examples of weirdness
+that make you that leads you to that
+conclusion
+a recent political situation definitely
+makes one pause and go this has gotta be
+a reality TV show this cannot video I'm
+joking of course this is not at all
+relevant but if you look at the
+statistical aspects of it just the sheer
+number of video games we're running
+right now already without more advanced
+ability to create graphics and virtual
+experiences it seems very unlikely that
+you are in the real world not in a video
+game not in a simulation let me push
+back on that a little bit you know as I
+mentioned earlier I've chosen to assume
+an infinite universe I'm a finite
+universe sorry about that
+and further one that is the real
+universe I have chosen to take the
+scientific realist perspective on the
+universe we live in and one of the items
+that I put forth as evidence to support
+that assertion and it is an assertion
+there can be no proof about such things
+yet is the amazing fidelity of physical
+laws and not to say that it's impossible
+in a simulation couldn't have that level
+of fidelity but it seems at least
+indicative to me that maybe it's real
+that you know the fact that every
+electron appears to have exactly the
+same mass that quantum mechanics appears
+to be reproducible to fourteen decimal
+points etc what would you say to that
+how would it be different if you were in
+a simulation you'd have very good
+graphics you'd have excellent algorithms
+consistently providing same results I
+don't see how that how would it be able
+to simulate it the same level of detail
+everywhere that appears at least based
+on what we can tell from things like
+spectroscopy that the same quantum laws
+are operating at exactly the same
+precision far far back in time and
+billions of years from now billions of
+years in the past I should say from you
+know from white so I think there are
+some differences in physical laws they
+do change a bit over billions of years
+but I don't see how it would be a
+problem for garite them to be consistent
+throughout the whole simulation I can
+have a video game where the gravity
+constant is the same everywhere and but
+the precision also again 14 decimal
+points is way better than the physics
+engines
+in in our video games today well I agree
+with that but that's not a limit on
+technology there's just a limit and what
+we achieved so far it's following the
+same exponential improvement as anything
+else digital and computational it looks
+to you like it's pretty good graphics
+but you have no idea of what the
+graphics are outside the simulation if
+you are Mario in an 8-bit version of a
+game you don't know any better you think
+8 bits is like awesome
+yeah that's true that is true so and
+again it's not logically impossible we
+certainly could be a simulation and my
+view on this is if there's a realm above
+ours that is infinite then we are
+simulation yeah the fact that there will
+be an infinite number of Boltzmann
+brains powerful enough to simulate our
+whole visible universe essentially makes
+it an almost metaphysical certainty that
+we are a simulation just enough that
+it's a significantly larger percentage
+you know III don't know about that I
+think it has to be infinite world
+creates let's just say hundred hundred
+simulated ones still just 1% chance you
+are yeah it may be true my intuition I
+can't prove it but my assertion is if
+there's a realm that's infinite we're
+definitely in a simulation if there is
+no infinite realm and it may even be
+there's a pruning rule if there is no
+infinite realm that's causally connected
+I'm going to think about that one some
+more then we're not and so that would be
+a program of thinking should we ever be
+able to look beyond our universe to the
+higher realm to maybe get some hints on
+whether we're in a simulation or not
+another paper you wrote was so it was a
+called glitches in the matrix I think at
+the end of the day you rejected glitches
+in the matrix but talk to us about that
+a little bit so we are both interested
+in discovering are we in a simulation or
+not and what you would look for is
+computational artifacts then we do
+computer games
+there are certain things we do to make a
+more efficient for example we may not
+render something if no character is
+looking at that object so you have
+observer effects you can detect you can
+have some sort of you talked about
+precision
+if we see a universe as a digital
+universe right digital philosophy there
+are certain discrete components Planck's
+level of time and space which kind of
+indicative of digital underlying
+architecture so those are not proofs but
+those are interesting things to look for
+if you make a prediction okay we're in a
+simulation
+what possible glitches would I find and
+then you can look for them and see if
+it's in fact the case yep a friend of
+mine and Solomon who was at Miri at one
+point you know I'm sure she's not the
+inventor of this but she would always
+say well wonder what happen if we sent a
+probe Alpha Centauri maybe we find it's
+just a wireframe that would be
+interesting he probably wouldn't be
+because we would be getting there and
+observing it and it would change how it
+is represented it would improve
+rendering for distant objects once we
+got closer yep and if it was like a game
+that would likely be the case the
+example I gave earlier is perhaps more
+interesting that the spectroscopy from
+galaxies very far away in both space and
+time we're not yet able to prove 14
+decimal points of quantum behavior
+fidelity but we can get increasingly
+high levels of quantum fidelity that
+again to your point doesn't prove
+anything but at least is perhaps
+suggestive that the computational loaded
+least to simulate the universe at that
+level of fidelity could be awful large
+as a cybersecurity guy for me the
+interesting part is if it's a software
+simulation how do you hack it how do you
+jailbreak it how do you get source code
+access modify some things so maybe
+escape to the real world
+yeah can you be neo right something like
+that yeah yeah so back to glitches again
+scanning your paper rapidly it looked
+like your conclusion was yeah as a bunch
+of crazy people claiming various
+glitches but there's nothing provable at
+this time is that where you stand the
+crazy ones are definitely meaningless
+they don't mean much I'm more interested
+in how different properties of quantum
+physics can be mapped under this idea of
+us being simulated so observer effect is
+definitely one of them
+interesting ones when you actually try
+to perceive something it changes how it
+is rendered how it is presented to you
+to me that's an interesting surprising
+effect which is very consistent with
+this idea of intelligent beings
+impacting how the virtual reality around
+them is presented of course that's a
+very controversial view in the field of
+quantum foundations earlier in the show
+we had least small anon from the
+perimeter Institute and he would argue
+that there is no observer of fact but
+there is a measurement effect and the
+measurement effect turns out actually to
+have to do with interactions at
+different scales of quantum collapse has
+nothing to do with whether there's an
+observer or not so I think that's still
+an open question whether there really is
+an observer phenomena in quantum
+mechanics
+he's definitely a better physicist no
+doubt but my understanding is that in
+physics they still have not decided what
+he's an observer is it a conscious
+entity is it a measuring device is it
+something else what is the minimal
+observer sufficient to collapse quantum
+equations and things of that nature am I
+wrong in that yeah that's an area again
+it's still as you point out it's still
+an area where people argue but Lee
+Smolin and also my friend recently
+passed away murray gell-mann was also of
+the view that whatever we were calling
+the observer effect really had nothing
+to do with a conscious observer but had
+to do with the interaction between
+uncollapse t' quantum phenomena and
+collapsed quantum phenomena and so there
+really was no observer in the loop
+because he would always say do you think
+that moon didn't exist before someone
+observed it and he'd say of course it
+existed and you know the fact that it
+was a collapsed example of physical
+material was sufficient to essentially
+ground the uncollapse quantum events
+that are happening throughout the moon
+but again it's an open question but it
+would be an interesting area to probe
+other possibilities for detecting
+fluctuations or glitches in the matrix
+again I have a project coming up I
+haven't actively worked on it but the
+idea is to study exact bugs in games and
+virtual software and to see if they're
+equivalent
+in latest physics I collect bugs of all
+sorts one of my big hobbies is bugs in
+AI I have multiple papers on that
+subject just historical examples of
+accidents and so continuing with this
+line of reasoning looking for very
+common artifacts of computation and
+trying to see if we observe them in
+visible universe at least interesting
+now of course in software we can have
+actual bugs in the software and then we
+can also have Hardware transients you
+know the classic example is a cosmic ray
+that flips a bit or two in memory
+absolutely and we can study all relevant
+effects we don't know what type of
+computer is running this simulation is
+that quantum as its classical is it
+something completely different we have
+no idea about and cannot possibly figure
+out but it'd be interesting if a certain
+consistent mapping and predictive power
+and this idea there are some papers
+starting to look at that but they're
+very science fictiony at this point a
+closely related topic that you've
+written on is unexplained ability and in
+comprehensibility in AI tell us what
+those things are so we're starting to
+make really cool AI systems very capable
+and a lot of them are based on deep
+neural networks simulations of human
+neural architecture to a certain degree
+and they are sort of working like black
+boxes they have a lot of components
+millions of neurons billions of
+connecting weights all different weights
+for feature vectors of thousands of
+different features for let's say
+classification tasks and we would like
+to understand how decisions are made
+they make very good decisions may
+outperform humans and many domains but
+they cannot just give you an answer we
+would like to know well how did you get
+this decision if you denied me alone for
+example why the best we can do it now
+some sort of simplified top ten features
+while you deny it for this reason that
+reason but we don't get a full picture
+it's a simplified explanation because we
+just can't handle the full complexity of
+the decision being made
+so many features and a lot of people
+feel that it's just a local limitation
+we're gonna get better at this and we're
+gonna get to the point where we can get
+perfect explanations whereas in the
+paper I argue that it's a fundamental
+impossibility result so there are
+certain things a more capable system a
+more complex system can never fully
+explain to a lower level system and even
+if there was some way to compress this
+information there are limits to our
+comprehension we would not comprehend
+some of the more complex results because
+we're just not smart enough to get to
+that point yeah so I I like that
+actually this thing should you made in
+that paper between unexplained ability
+and incomprehensible 'ti so in one case
+it may be that you know a black box AI
+is just unable to produce sufficiently
+granular explanation but the second
+might be that our cognitive limitations
+would make us unable to comprehend it is
+that what you is that the distinction
+you were making between those two terms
+exactly so we see it a lot with let's
+say universities right for certain
+majors we require students to have
+certain GRE scores as ETS course whatnot
+because we found that students at lower
+level don't seem to understand those
+concepts well so we have even like with
+all of us almost identical in our
+intelligence we see already differences
+in what can be understood that take
+dreams take it to systems with million a
+cue points equivalent it's very unlikely
+that we'd be able to follow along and go
+yep that makes sense all right indeed
+now let's talk about that a little bit
+humans I'd argue and I think you
+actually mentioned this in passing and
+those papers as well are also not
+explainable for instance it's the
+example I love to use we talked about
+this is the last sentence you said you
+have no idea how that sentence was
+created right humans have black boxes
+and there are some beautiful experiments
+and split brain patients and what really
+happens it seems is that we come up with
+explanations for our decisions and
+behavior later and most of the time we
+just make it up it's complete BS yeah
+the famous confabulation and you know
+there's been more and more work on that
+and I'm now coming away it's
+a whole lot of what we do is black box
+so if humans are mostly black box why do
+we believe we need to hold a eyes to a
+higher standard well we hope we can get
+there but for me that's actually
+evidence an argument for why I'm right
+it's not possible and I cite it in the
+paper and I say exactly that if this is
+a simulation of natural neural networks
+why would it be capable of doing
+something the actual thing cannot do
+yeah of course this red Gary Marcus's
+book recently in fact he's gonna be a
+guest on the show later this month and
+he argues actually against deep learning
+or at least relying on it too much
+because of its lack of explained ability
+and he proposed putting more efforts on
+symbolic approaches which are more
+inherently understandable what do you
+think about that I think he likes hybrid
+approaches taking advantage of both
+methods of computation and intelligence
+and it seems to be what humans are doing
+we have a subconscious component where
+some magical set of neurons fires and we
+get kind of a few good choices to decide
+for example for chess and then we use
+our symbolic explicit reasoning to pick
+the best one out of two or three and
+it's likely that machines will follow in
+the same way it will be a very deep
+neural network doing pre-processing and
+then some sort of expert like system
+making final decision due to some
+constraints as well yeah that's the
+approach project I've been associated
+with lightly for a few years called
+OpenCog is taking that approach where
+there's an inner symbolic layer and then
+there's the ability to plug in a many
+different perhaps deep learning type
+architectures to do the equivalence of
+perception and classification object
+identification etc so I'm with you on
+that one and Gary that probably it's
+some hybrid that's gonna be the way we
+actually reach AGI I think so and there
+are so many different methods in AI over
+the years and I think all of them are
+valuable they just different patches of
+this bigger puzzle and eventually we'll
+learn to see how they fit together and
+that's going to be the way to succeed
+interesting let's see here where are you
+on predicting the road to AGI and for
+again for our audience AGI is
+artificial general intelligence which
+means more or less something like a
+human level of ability to solve many
+different problems at a human level of
+competency looking at where we got good
+results and succeeded it seems that just
+adding a lot more compute and a lot more
+data to existing neural architectures
+takes us very far and it doesn't seem to
+stop taking us in that direction so for
+a while I think we'll make great
+progress just kind of scaling everything
+we have at some point we'll hit some
+bottlenecks and that's where this other
+method symbolic methods will allow us to
+move to the next level I think certainly
+deep learning is just amazing the
+progress it continues to make every week
+we see an interesting result on the
+other hand I thought Gary Marcus made
+some good points of showing that yes
+it's amazing the results it makes but
+the limitations are also pretty
+staggering so far for instance in
+language understanding so far there's
+nothing like real understanding it's all
+very very powerful statistical
+associations and that he at least would
+argue that's qualitatively different
+than real understanding any thoughts on
+that right but the real understanding of
+language is AI complete if we had it we
+would have AGI you can get partial AI
+complete solution you either have it or
+not and so for a while we're not gonna
+have real understanding until we do and
+that's too late at this point we got
+full-blown
+AGI interesting yeah let's hop ahead a
+couple one of my questions I have is
+you've written on AI complete AI easy AI
+hard and the Turing test could you
+explain those terms and and and your
+thoughts on the Turing test which as you
+know is quite controversial whether it
+is or is not a good test
+all right so in computer science theory
+there is a very useful concept of NP
+completeness we found that almost every
+interesting problem is both difficult
+and can be converted to every other
+interesting difficult problem so if you
+solved one of them it's like you found
+solution to all of them and I argued
+that in AI there is a similar
+survey I complete problems starting with
+passing the Turing test as the original
+one where if you find a perfect solution
+to one of them you basically got a GI
+you got solution to AI if you can pass
+Turing test you can have intelligent
+conversation and any topic you can be
+creative you can be novel you can do
+well in any domain because any domain
+can be a subdomain of questioning in a
+real unrestricted Turing test so those
+are the problems I call they I complete
+I did originate this term I just kind of
+try to formalize it and use it and it
+seems that language understanding true
+language understanding is required to
+pass the Turing test yeah if it's not
+constricted to two minutes with amateurs
+and then that makes it an AI complete
+problem and so we're not gonna see any
+sort of warning we're not gonna see
+partial understanding before we get to
+four one interesting I have to say I
+agree with you I've been advocating on
+the OpenCog project for how many years
+now five years that language
+understanding is the bottleneck if we
+get through that on the other side we're
+mighty close to AGI right I just go next
+level and I think that's AGI if you have
+full understanding if there's no limits
+to your linguistic abilities you you are
+one of us now probably they met or it's
+just shy of it we'll see maybe they also
+have to have some linkage to affordances
+in whatever domain you're operating in
+because intelligence is not just
+understanding it's also the ability to
+act and solve problems right so notice
+that humans we perceive humans as
+general intelligences but in reality
+they are very limited most of us are not
+general in all the means most of us have
+very hard time doing things we require a
+eyes to do to become a GIS right I
+cannot fix a car I don't speak Chinese
+there is whole bunch of things they
+cannot do even though I claim to be a
+type of AGI on the other hand if we
+assume well let me back up a little bit
+I agree with you that we overestimate
+human capability in fact I like to say
+because mother nature is
+seldom profligate in her gifts from
+evolution which we'll get to later it's
+almost certain that humans are just
+above the line of general intelligence
+we're almost certainly a weak general
+intelligence and from the work I've done
+in in research I've done in cognitive
+science and cognitive neuroscience it's
+really obvious where some of those
+weaknesses are for instance our working
+set size of working memory of you know
+seven plus or minus two it would seem
+pretty clear that a mind sort of like
+ours with a working set size of a
+hundred would be qualitatively different
+than five who's the village idiot and
+nine who's Einstein we got to 100 it
+would be a very different brain some
+other examples on why we're pretty damn
+weak is our memory as we know it's low
+fidelity it's unstable its rewritable
+from when you retrieve it can be
+accidentally rewritten with changes etc
+so we are a pretty weak example of of
+AGI I agree we have a paper on
+artificial stupidity where we talk about
+safety features which basically limit
+artificial intelligence systems to those
+human levels making them not better than
+us and so making us capable of competing
+and controlling with them I actually
+sent that paper to David Krakauer my
+friend who's president of the Santa Fe
+Institute turns out one of the areas
+he's interested in is stupidity and he
+is collecting interesting research ideas
+about stupidity so I actually said to
+him yesterday when I was doing my
+preparation so if he reaches out to you
+you'll know why that happened well I'm
+always a stupid expert you know and he
+was on my show earlier and he said I'd
+like to propose that somebody set up
+endow a chair as a professor in
+stupidity he says we need that position
+I thought that was hilarious and of
+course you need the smartest person
+around to be a professor of stupidity
+self-esteem exactly right you got to
+have a you know fully confident of
+yourself so we've talked about a lot of
+things where I was going to talk about
+later but now we can hop back to some of
+the framing which was how are these
+things related to AI safety fact maybe
+if you could just talk a little bit
+about AI safety in general and then kind
+of relate how some of these ideas we've
+talked about have some bearings on AI
+safety great question so if you look at
+examples of other minds we have wild
+animals for example or pit bulls
+they are somewhat different in what we
+trying to do and so sometimes may hurt
+us people who unfortunate to have mental
+disabilities sometimes act in dangerous
+ways so those are trivial examples with
+a little bit of difference there are
+already some dangerous and safe
+behaviors if you take it to extreme the
+difference has become extreme the danger
+grows so a lot of times it's not
+malevolent intention it's just a side
+effect there are some silly examples
+like if I have the super powerful system
+but it's not very well aligned with
+human preferences and I tell it well
+make it so there are no people with
+cancer around there are multiple ways to
+get to that goal and some of those like
+killing all humans are not what we have
+in mind
+whereas others were you're actually
+curing cancer and people are happy is
+exactly what we hope for
+so specifying those differences and
+making sure that the system is under our
+control is what we're trying to do but
+we don't fully understand well how is
+the system different I have other papers
+and impassibility results talking about
+limits to predictability of such systems
+we cannot predict what they gonna do if
+they smarter than us there are other
+limitations and one of the papers I'm
+working on right now is kind of
+surveying those limitations from
+different domains all of which are part
+of a ICT research game theory control
+fee a systems networks all of them have
+well-known impossibilities also
+mathematics of course economics public
+choice theory and it doesn't seem like
+we have any tools to overcome some of
+those limitations so maybe the best we
+can hope for is safer AI not safe a guy
+in a perfect sense we're referring back
+to some of the earlier things we talked
+about certainly the fact that there is a
+very large universe of Minds available
+to AI may make this problem as you say
+unsolvable I'm leaning towards that
+conclusion more and more I'm starting to
+see
+some kind of paradox based
+self-referential proofs for that of
+course it really depends on what
+specific system we have whatever high
+tech chure what limits are in place for
+it but it seems like unrestricted super
+intelligent system would not be
+controlled by us or at least it will be
+very very difficult right I'm leaning
+towards impossible at that point control
+will switch and there is hope that maybe
+there is some alignment between us but
+it's very unlikely to be by chance it's
+only if we have some sort of control
+over initial design and those initial
+features are propagated to later updates
+of that software okay that's interesting
+so basically you say we're doomed well
+not yet we still have a bit of time it's
+possible we'll make some good decisions
+about what to do and not to do we have
+examples from other domains where we
+kind of slow down a bit with research
+human cloning genetic engineering
+chemical weapons biological weapons lots
+of examples of situations where we said
+let's not do it just yet let's study it
+a bit more and then we'll decide if we
+need to clone humans maybe it's super
+beneficial but let's make sure we do it
+right the first time yeah interesting
+now I've heard some people propose a
+very extreme measures to avoid the AI
+apocalypse you know some of the folks
+associated with miry have floated crazy
+ideas like maybe we should sterilize the
+earth with very large EMP pulses every
+10 years that would destroy all
+electronics to keep people from creating
+a GIS so sometimes medicine is worse
+than disease and don't propose anything
+which will completely destroy our
+standards of living or anything of that
+nature of course if you truly believe
+that problem is unsolvable and the
+outcome is doom as you put it then
+perhaps the solutions become less crazy
+yeah I think a lot of that comes around
+to what one things about the singularity
+you know for our audience at home the
+singularity
+is a very interesting concept almost as
+wild as Boltzmann brains not quite I
+think it was first stated by Vernor
+Vinge though there were some predecessor
+people who said things very similar but
+it's essentially as follows let's
+imagine we have an artificial
+intelligence that's about as powerful as
+a human maybe a little bit better to
+keep the argument simple let's call it
+one point one human power what happens
+if we give that artificial intelligence
+the job of creating its successor and
+it's not only smarter than humans but a
+lot faster than humans and so fairly
+quickly it produces a improved version
+of itself that's 1.3 human power and
+then you tell that artificial
+intelligence to design its own successor
+and it produces a successor that's 1.9
+human horsepower and then the next one
+is 3.6 and the next one's 10 and then
+one after that's a thousand and soon
+it's a million times as powerful as a
+human
+that's essentially argument about the
+singularity some people believe the
+singularity could occur within hours or
+days after reaching ági levels of say
+1.1 humans others say no and if it were
+to have runaway super intelligence
+within hours of creating the first AGI
+then it strikes me AI risk is really
+high if it turns out it will take
+centuries to grow from say one point one
+to a hundred human horsepower
+equivalents then the idea of AI risk is
+probably very manageable where do you
+come out on this concept of the
+singularity I think it would be a very
+fast process we are simulating as you
+said human intelligence just at scales
+of many many magnitudes larger with
+larger memories larger access to
+information so speed up would be huge we
+don't need to sleep they don't need to
+eat they don't take breaks you can run
+many many such systems in parallel so I
+think the process would be very fast at
+that point trying to develop safety
+mechanisms and the goal would be a
+little too late interesting and I have
+to say after thinking about how limited
+humans are I agree there's a lot of room
+above us which I think it's at least
+supportive of the argument that the
+take-off could be fast as used to have
+those limits and memory and short-term
+memory if they were just moved we would
+already be much more capable you see it
+with certain savants and their
+mathematical ability and other abilities
+yeah and those people have working
+memory sizes no bigger than nine or ten
+so what happens when you get to a
+hundred it's almost unfathomable is that
+now so let's both agree that at some
+point the singularity could be fast
+takeoff another article that you wrote
+is called leak proofing the singularity
+talk to us about that how do we be
+prepared to deal with a fast takeoff AI
+situation so this paper specifically
+talks about developing tools for us to
+be able to safely design develop and
+test artificial intelligence systems so
+everyone's working and making one but do
+they have appropriate infrastructure to
+study it to control inputs to control
+outputs if you are working with a
+computer virus
+you're gonna isolate it and a machine
+not connected to internet you will try
+to understand what servers it's
+connecting to and so on there is not a
+similar protocol for working with
+intelligent systems so that was my
+attempt to do that design different
+levels of communication protocols how
+much information goes in what type of
+information goes out to prevent social
+engineering attacks overall conclusions
+of that paper is that it's a very useful
+tool it buys us some time but at the end
+of the day the system always escapes
+from its containment ah that's
+interesting so we're doomed you keep
+saying that I think you know there are
+other people working on you know this
+question you know one group of future of
+humanity Institute for instance what do
+you think of other people's work in this
+area it's a very good we take very
+different approaches I looked at it from
+cyber security point of view
+specifically side-channel attacks they
+look at it from I think more
+philosophical point of view being
+philosophers but I think we all agree
+that it's not a long-term solution you
+he staked a superintelligence to a box
+permanently the miry guys are now
+Eliezer is at least thinking that maybe
+we can I don't think he does I think he
+actually did experiments where he
+pretended to be super intelligence and
+was able to escape almost every time
+just by talking to regular people so
+that's not encouraging he and I had a
+debate one time where I took the
+perspective there there's no way you
+will ever be able to constrain in a
+super AI and he claimed at that point I
+met this was 12 years ago that yes I
+can't debit you know I don't know if
+you've ever met him but he's strongly
+argue strongly argumentative guy and so
+am I so we had a good time I don't think
+either of us convinced the other but we
+had a very fruitful conversation I'm
+glad to hear that he has come around to
+my point of you goddammit then it's
+gonna be exceedingly difficult if it's
+at all possible to be able to constrain
+a super AI what we need is more
+mathematical proofs and the rigorous
+arguments showing who's right and people
+love discussing static but I think there
+is very little formal argumentation for
+either point of view I'm happy to see
+someone prove that it's possible and we
+are actually not doomed my guess is we
+won't be able to prove it one way or the
+other that this is a complex systems
+problem and having been involved with
+the Santa Fe Institute for the last 19
+years 18 years and making the study of
+complexity one of my areas of strong
+interest I've come away to realize there
+are a huge amounts of domains that
+aren't really very amenable to closed
+form mathematical analysis at least not
+with existing tools there proves that
+that cannot be done in principle yeah
+there may the world like there's two
+different oh well there's three
+different cases there ones that can't be
+done in principle you know boydle has
+shown us that such things exist but I
+would argue there's a vastly larger
+group of things that can't be done in
+practice and the one I point to as a
+very general case example is
+deterministic chaos we know that even
+rising ly simple complex systems
+you know the three-body problem for
+instance even minor changes or Lorentz
+equations even minor minor
+in the initial conditions any
+measurements produce you know vastly and
+entirely in commensurable results and I
+suspect strongly that AI AGI is going to
+be in that case that even if in
+principle it were mathematically
+determinable the realities of dealing
+with a real AI and all the huge numbers
+of design space questions about it would
+lead you to a situation like
+deterministic chaos or are in a bill the
+limits of our ability to be precise
+would make solving it in closed form
+mathematics
+whether it was containable or not
+impossible I don't disagree with you I
+just would love to see someone publish
+indirect oh yeah I'm sure they're people
+working on it but I my bet I'll put
+money on the long bets thing anyone that
+wants to argue the other side I'm gonna
+bet that no such proof will be done I
+will not take the argument that we can
+prove it can't be done but I'm not gonna
+say just that it isn't done because of
+something like the deterministic chaos
+problem you might be completely right
+I'll share my next paper with you on
+some of those impossibility results I'd
+love it that's an area I'm hugely
+interested in as you can see now let's
+turn from the the real runaway we're
+doomed without which I call the emperor
+of paper clips scenario you know that
+being an example I think was Bostrom
+used like a laser actually used this way
+back yonder also that you know we
+stupidly give a super intelligence the
+job of optimizing a paperclip Factory
+and it escapes the factory and decides
+to turn the whole earth into paperclips
+builds interstellar spaceship so it can
+go around the universe turn all the
+planets and all the stars into paper
+clips you know that's the AGI run amok
+scenario I'm saying yes that's possible
+that that is a risk however there's an
+earlier risk and I think this is one
+that will resonate with you based on
+some of your more practical AI security
+issues work that you've done which is I
+called the bad humans with sub AGI a
+eyes you know that's put a very tangible
+example the Chinese I think we have a
+lot of things we have to worry about
+risks with the misuse of AGI or you know
+everyone will decide what's used for
+misuse of AI
+in ways that are bad long before we get
+to AGI I agree I have the original paper
+and malevolent AI how to create it how
+to abuse it and that's the unsolved
+problem even if you manage somehow to
+create a very nice friendly AI product
+what stops the bad guys from flipping a
+bit and now it's spreading cancer
+instead of hearing it that's hard to
+solve inside of that is very difficult
+to address we don't have any solutions
+in that domain we only have a few papers
+and a few workshops even looking at that
+and that's definitely a harder problem
+because it includes all the other
+concerns misaligned values bugs and code
+poor software design you name it it's
+still part of it but now you have
+additional malevolent payload yeah and
+even that's not necessarily even my
+level and I kind of doubt that the
+leadership of China is malevolent they
+probably think that they are doing the
+right thing but from our perspective at
+least I think we would argue that what
+they're building is the technologically
+empowered fascist dictatorship that even
+George Orwell couldn't have imagined
+well we're not limited just to very
+powerful governments as bad guys it
+could be anyone with access to this code
+and a lot of this code is becoming
+open-source crazy people Domesday calls
+just anyone suicidal people you name it
+anyone can just add their own goals to
+AI as a product yeah if if it's powerful
+enough I mean this is where I make the
+distinction between sub AGI and AGI if
+we have AGI then yes one could imagine
+let's say it's some crank in the
+basement it seems the first AGI they
+could do great damage how much damage
+can they do with a sub Agia I the damage
+is proportional to capability we already
+see people whose ransomware scripts they
+not experts they're not hackers they're
+on a program and caused billions of
+dollars in damage its scale so ci
+becomes more capable damage goes
+perforation grows but the problem is the
+same you have actors who are not
+necessarily experts are very powerful
+with access to this very powerful
+technology and once it gets to general
+super intelligence
+it only gets worse I mean most of a
+casus I think about the person next to
+it gets punished first but let's say it
+is controlled in some way by good guys
+that bad guys can still change that fact
+interesting are you alluded to that one
+of the issues here is that a lot of AI
+code is open source I'm sure you know
+that the recent case where open AI who
+was set up with a name
+open AI to be open has decided not to
+publish the full form of one of their
+models the GPT two language processing
+system could you tell us a little bit
+about things like that and whether open
+source is or isn't a good idea for AI as
+a you know as a AI security practitioner
+sure so I think that particular example
+is more of an exercise in seeing how you
+can not release a model what effect it
+would have on community would it be an
+acceptable practice would someone else
+quickly just achieve the same results by
+passing this limitation I don't think
+that particular model is that dangerous
+and there are some partial models and
+competing models which achieved very
+similar results but as a general concept
+yes if you had somehow managed to get
+working AG ID products releasing it on
+the internet right now with no safety
+mechanisms will be a very bad idea
+and yes ironic that their name is open
+AI in general open source software is
+better reviewed more reliable has less
+backdoors but this is like releasing
+code for a very dangerous virus or
+something similar to that it's just not
+safe to do so yeah that's an interesting
+question
+again the OpenCog project now also the
+singularity net project which I said
+then loosely affiliated with for a
+number of years they make the opposite
+argument they argue that there's an even
+bigger risk which is the problem of the
+first AGI being achieved in a closed
+fashion by some power whether it's US
+government whether it's China whether
+it's
+whether it's Google and that the danger
+of a single first mover with AGI is so
+large that it's better to do AGI
+research as open source so that there
+are multiple AG eyes that come into
+existence you know at the moment of the
+assuming it's that they're their project
+is the one that gets over the line first
+so if there's many AG eyes that can be
+used to police each other what do you
+think of that argument so there are good
+arguments and both sites open a closed
+but this particular argument they think
+is not optimal so in my opinion if it's
+not a controlled AGI you just got there
+first you probably be the first victim
+to begin with so it doesn't give you any
+advantage to be next to it physically
+first you do have control of it if you
+don't have control of it you don't have
+an advantage is not beneficial to you
+the best argument they have for slowing
+down is exactly that if you get there
+first but you can't monetize it you
+can't even survive it why why are you
+doing it in the first place
+and again that's assuming fast takeoff
+right and I think we both agreed fast
+takeoff is not a bad hypothesis if it's
+low takeoff it's a different story and I
+think that's a very interesting fork in
+the road when we're thinking about this
+if an AGI takes off to the singularity
+rapidly then it's probably unsafe to
+have out in multiple hands in an
+open-source fashion if it's slow take
+off maybe not so much it also creates
+competition and possibly warlike
+scenarios so let's say one is more
+likely to be changed into a safe version
+always safer now you have multiple
+problems to deal with you have multiple
+rogue general intelligence is competing
+fighting using I don't even know what
+technology to defeat the others and
+humanity is a side thought they don't
+really care about us but yeah this this
+is the game theoretical trap right
+unfortunately which is let's assume
+there's competition to produce the first
+AGI and let's you know let's get rid of
+the open source let's say they don't
+have the resources but it's you know a
+dozen proprietary entities around the
+world corporations countries a small
+number of really rich people like open
+AI they all have an
+centum to be their first particularly in
+fast takeoff because whoever gets there
+first can probably dominate everybody
+else and prevent them from achieving AGI
+we there that for have a race to be
+first and if we assume that safety comes
+with a costs in both resources and time
+there's an unfortunate perhaps deadly
+game theoretical trap which there will
+be a strong incentive to not pay
+attention to safety because if you pay
+attention to safety the person that
+doesn't pay attention to safety will get
+it to AGI first and be able to suppress
+you you are correct but what most people
+don't realize is that money in a post
+singular it's world has very different
+value I'm not sure if it has any so if
+you're trying to maximize shareholder
+profit and you get there first and you
+have this uncontrolled superintelligence
+this is your least concern how much
+money you share some where you really
+have much bigger problems to address if
+you still around yeah I great money may
+not be the factor in fact truthfully I
+think the rich people interested in AGI
+it's not about money it's about hubris
+and ego right you know they're smart
+enough to realize that the world will be
+very very very different the other side
+of AGI would take Lee if there's fast
+take off and you know the current status
+hierarchy will be completely overturned
+you know but think of somebody like
+Putin right he has said accurately at
+some level he who controls AI controls
+the world and I think we can say with a
+high level of confidence that what Putin
+would like to do is control the world so
+let's imagine that a Russian government
+lab produces the first AGI or at least
+is aiming for it and they under Putin's
+instructions he says forget about safety
+you know we want to be first so we can
+dominate the world aren't we caught in a
+game theoretical trap around that you
+correctly said whoever controls AI not
+whoever has access to random super
+intelligence okay we make that
+distinction no that's that's good work
+that one control are you actually
+telling it what to do or you just have
+this super powerful genie with no
+controls and it does whatever it wants
+and maybe you will be used for resources
+first your country let's
+Rasha will be the first set of molecules
+converted into paperclips
+ah okay I like this so so that if a
+sponsor for AGI is rational is rational
+enough whatever that means
+then they will not fall into the game
+theory trap of rushing for AGI without
+safety because they will get no benefit
+from it that to me is a strongest
+argument for any type of moratorium of
+self restriction and visa research
+basically pointing out if you're smart
+enough to understand this argument if
+you're smart enough to build HDI you
+should be smart enough to understand
+this argument very interesting I like
+that a lot because it's the kind of
+argument that's accessible to any
+reasonably intelligent person it
+requires no special knowledge in AI or
+engineering or anything else it's
+probably an argument that a bright guy
+like Putin could understand now the
+question is has the people around Putin
+made sure that he is educated with that
+argument I'm not in the know I don't
+have any insider information from
+Kremlin but my concern would be that as
+he's getting older he has less to lose
+and it's kind of gamble you can take if
+you're gonna be gone anyways in the
+hopes of getting solutions to mortality
+solutions to other problems just
+becoming that historical figure who got
+there so if you have less to lose you
+more likely to take the risk even if you
+understand it ah yes humans they are not
+so rational right as we know they have
+all kinds of agendas that are not
+strictly rational we talked about
+stupidity as a big factor in all of this
+so yes yeah I was saying you know kind
+like Putin is clearly not stupid but he
+but he may have agendas that aren't
+strictly rational and for the good of
+the human race or even for the good of
+Russia they could be purely ego driven
+absolutely and again as people get older
+they change how they think how well they
+think so that's why term limits a good
+thing yeah yep you know we just noticed
+the Chinese got rid of their term limits
+which is a bad very bad sign for exactly
+that reason
+you know now one guy couldn't say you
+know the state is me and as you say if
+he's interested mostly in his historical
+record or something like that you know
+he might go all out and he has a lot
+more resources that Putin does to try to
+get there first and to ignore this
+logical argument that ignoring safety is
+actually not the smart thing to do
+because you'll get no benefit for it
+maybe an argument in such cases is to
+say that the system would be more
+powerful than the leader and so he'd
+lose power to that new leadership yep I
+think it's important to get these ideas
+out into the world because I don't think
+they are out in the world all that well
+very few people in this space
+unfortunately if you look at everyone
+working in AI safety in general
+full-time it would not be a lot of
+people in comparison to how many work on
+developing more capable AI I think
+that's absolutely right for the game
+theory reason right what business is
+going to invest in safety when there's
+no return for it in the short term well
+for big corporations very certain cost
+of unsafe embarrassing products we saw
+for example with Microsoft Chad but
+there was a lot of negative publicity if
+they just read my papers they wouldn't
+make such silly mistakes as releasing a
+Chad but to learn from teenagers on the
+Internet yeah no I think that's about
+political correctness not about AI
+safety I think frankly nothing wrong
+with what they did they were just too
+much of wimps to take the result you
+know the world was not threatened by
+that chatbot but because of political
+correctness were embarrassed by it
+of course what I'm saying is malevolence
+is proportionate to capability
+everything that Chad bot could do was
+kind of insult people and it did exactly
+that as it becomes more capable it will
+do whatever have a bad thing is capable
+of if you don't explicitly work around
+it alright okay so now this gets to my
+next question yeah to a degree that
+that's a a company like Microsoft must
+be investing in safety probably in part
+ought to be driven by how close we think
+we are to AGI if we're four centuries
+away as some people argue then you know
+the moral argument for must invest
+heavily in safety is relatively modest
+it's just pragmatic is the you know
+embarrassment or
+quality of your products worth spending
+X amount on if we think that AGI is near
+then there's a strong moral argument
+that says we ought to be spending a lot
+on safety because to your point if we
+have it built safety before the takeoff
+it'll be too late
+so I guess that brings me around to your
+thoughts on how close we are to AGI
+that's a difficult question I don't
+think anyone knows and I don't think
+that is going to be a warning before we
+get there or 10 years before we get
+there we're just gonna hit it a lot of
+data a lot of predictions point at 2045
+I saw more extreme predictions and
+boffins sometimes from industry insiders
+with a lot of excess but I think it's
+reasonable to concentrate on that date
+for now it gives us enough time to
+actually do something but it's not so
+far that it's meaningless yeah that's
+kind of the Kurzweil timeframe right
+exactly and he's doing a good job with
+his graphs and predictions in the past
+reasonably good yeah I've heard through
+the grapevine I won't say from whom that
+is part of the deal to raise a billion
+dollars from Microsoft that opene I told
+Microsoft that they believe they're
+within five years of AGI
+I heard seven years before as insider
+information I think it's less likely
+proportionately but I don't think it's
+crazy at all I'd give it at least ten
+percent chance okay so we're gonna say
+that Roman says 10 percent chance within
+seven years right 90 percent not in
+seven years but a 10 percent chance of a
+run away okay so let's compound the
+things we've said we think are true we
+think AGI will be fast takeoff more
+likely than not and there's a 10% chance
+it could be achieved in seven years I
+think I would agree with that also
+because and here's why because something
+else I think we both agreed with is that
+real language understanding is the
+portal through which if we could solve
+that AGI we'll take off very rapidly and
+the fact that it's just one problem it's
+a damn hard problem but it's just one
+problem tells me that all it takes is
+one person with the right insight or one
+team with the right set of approaches to
+crack that problem so
+could be on the short-term so if we have
+a 10% chance of fast runaway AGI in the
+next seven years doesn't that mean that
+we should be expending billions a year
+on AI safety I would support that thank
+you I'll take all the help I can get
+I also would like to remind you that I
+think a lot of it is just scaling
+resources so scaling compute and size of
+our data so seven years becomes very
+reasonable if you just project how fast
+those things grow I definitely try to
+work in this full-time I hope a lot of
+other people do as well yeah so it's
+quick little back of the envelope
+calculation I think tells us as a matter
+of social policy that it's very
+important that the powers-that-be
+piccoli people control large budgets
+start to realize that it would be
+imprudent not to spend significant funds
+on AGI safety right now but of course
+the question is is it the problem of
+money is the bottleneck money if I had
+billions of dollars can I solve this
+problem in seven years and I don't think
+the answer is years or even remotely
+years I think today as of right now as
+of this minute no one in the world has a
+working safety mechanism or even a
+prototype or even an idea how to make
+one which would scale to any level
+intelligence it may take seven hundred
+years to get there so just pouring money
+into it would be like war on cancer or
+something like that lots of money feels
+good but no results now there are some
+results in the war on cancer but not
+linear to the inputs I mean as we know
+the outputs of these hard problems are
+nonlinear it's fundamentally different
+you don't get partial success you don't
+have slightly controlled super
+intelligence you ever control it all the
+first mistakes
+it makes may be fatal yep yes but what's
+our alternative if we're going to have
+an AGI in seven years possibly 10%
+chance pretty high chance suppose I told
+you there was a 10% chance we'd have a
+nuclear war in seven years and all out
+20,000 warhead nuclear war in seven
+years we would be doing everything we
+possibly could to make that not happen
+so openly I has a lot of good people
+with really good expertise and safety if
+they really felt that there
+seven years away I think they would do
+things to make that a bigger number
+getting a billion dollars is good for
+whatever you're working on but I think
+they understand the uncontrolled AI is
+not beneficial to their interests not
+just humanity centers so we came it up
+perhaps hopefully think that they
+understand the argument that you get no
+benefit from AI if it's not controlled
+and therefore they'll spend an
+appropriate part of their billion
+dollars even if they believe they're
+only seven years away
+you get no benefit if you have debt now
+that is true except maybe Fame you know
+but what do you care if the emperor
+paper clips turn the universe and the
+paper clips all right I'm gonna flip to
+another topic regular listeners of my
+show know that we fairly often probably
+at least half the episodes address the
+Fermi paradox number of the things we've
+talked about have at least some bearing
+on the Fermi paradox and again to remind
+our listeners the Fermi paradox comes
+from a lunch conversation at Los Alamos
+during World War two where a bunch of
+smart physicists we're trying to
+estimate how many human level or above
+intelligent civilizations there were in
+the universe and Enrico Fermi walked by
+and said well where are their you know
+if there's lots of them gonna see no
+sign of it and interestingly to this day
+we've been doing increasing amounts of
+searching and so far absolutely no sign
+so what are your thoughts on the Fermi
+paradox that's a very interesting
+problem and there are many great answers
+alight I can tell you about some of the
+answers how people proposed so there is
+this idea that instead of going out into
+the universe advanced civilizations kind
+of minimize and go inside they become
+more condensed go into virtual worlds so
+you just wouldn't see that from computer
+science point of view and communication
+point of view we're looking for signals
+signals of communication but already our
+communication is encrypted hidden and to
+save power we communicate with silence
+so basically there is nothing to look at
+it's random noise you would observe so
+it's not surprising that we don't see
+them I also think that the
+where are they we'll look around and we
+don't see intelligent beings but yes we
+do we are them there is a number of
+theories from spermy a theory saying
+that we are the biological robots Vannoy
+man probes sent by some distant
+civilization and we are here basically
+trying to figure out what's our mission
+and looking around for instructions so
+that's a short survey of my thinking and
+some of those yeah one argument it's
+called the techno signature argument is
+that all right maybe we're just
+completely wrong about looking for
+signals because as you point out you
+know even us teeny little baby AG is
+called humans are already rapidly moving
+from radio to fiber and from open
+communications to encrypted
+communications in fact the recent paper
+by some of our Santa Fe Institute people
+demonstrated that almost any reasonably
+advanced civilization their signals
+ought to look like noise so we may just
+be have been mistakenly looking for
+signals the other new approach is called
+techno signatures which is that we can
+look for artifacts in the universe that
+are signs of having been created by an
+intelligence Robin Hanson one of my
+first guests on the show for instance
+makes the argument that on economic
+grounds he's an economist rather than a
+astronomer that any advanced
+civilizations that's existed for very
+long ought to leave techno signatures of
+the Dyson Sphere sort where advanced
+civilizations are harnessing more and
+more and more of the energy of their
+star to build more and more either
+biological civilization or let's assume
+they were eaten by their AG I
+computational infrastructure and the
+techno signature of that ought to be a
+shift towards the infrared in stars and
+you know his claim is there is no sign
+of that and therefore their main there
+may be no galactic intelligences right
+so I actually have another subfield of
+inquiry I found it called designer
+Mattie
+where we try to figure out
+what are the differences between natural
+objects and engineered objects and if an
+object is in fact engineered what can we
+say about the engineer behind it so if I
+give you an iPhone you can tell me that
+whoever made it is of certain
+intelligence they have good
+understanding of chemistry computer
+science and so on
+even not mentioning things like made in
+China you know so we're trying to
+generalize this we're trying to
+generalize it to biological samples so
+if you look at the artificially created
+cell can you tell that it's in fact
+engineered and not evolved just from
+that sample alone with no other records
+and it seems like if you don't restrict
+resources something we talked about in
+the beginning of a show you can tell
+whatever something is natural or
+engineered by some super powerful
+intelligence and then we look at the
+universe for glitches are we in a
+simulation those are the techno
+signatures we're looking for right and
+if it's done well you would not find
+them because it would be hidden and
+purpose the only way you would see them
+if they explicitly they're a warning
+pops up this is a simulated universe
+designed in that year and so on so all
+of the things we discuss if they
+strongly connected and we're trying to
+make progress in all those directions at
+the same time very interesting very
+interesting yeah for instance one of the
+theories of Fermi paradox so-called dark
+forest theory that there are predators
+or at least it's reasonable to assume
+that there are psychopathic
+civilizations out there and then if you
+show yourself you will be killed by
+these psychopathic civilizations
+so therefore the co-evolutionary result
+is that no civilization that shows any
+sign of being there exists long enough
+to build these large-scale techno
+signatures because they are killed by
+the psychopathic predator species and
+for the same reason the psycho and there
+may be multiple those and they and each
+of those shows no sign because it would
+call in the other predators against them
+of course the fun part is to combine all
+this ideas Boltzmann brain simulations
+super intelligent malevolent the ice
+with thermi paradox and see if you go
+crazy
+uh heck no I just love to entertain
+these ideas but on that note I think we
+have covered so much ground that it's
+time to wrap up this has been so much
+fun we have touched upon so many of my
+favorite topics it is an awesome
+interview thank you so much and I hope
+your listeners will look at some of the
+papers we discussed maybe pick up a
+bullet oh yeah absolutely
+[Music]
+production services and audio editing by
+jerod Jane's consulting music by Tom
+Muller at modern space music com

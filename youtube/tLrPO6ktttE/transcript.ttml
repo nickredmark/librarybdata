@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:04.059" style="s2">howdy this is Jim rut and this is the</p>
+<p begin="00:00:02.399" end="00:00:10.650" style="s2">Jim rut show</p>
+<p begin="00:00:04.059" end="00:00:13.690" style="s2">[Music]</p>
+<p begin="00:00:10.650" end="00:00:15.279" style="s2">today&#39;s guest is Pamela microrna an</p>
+<p begin="00:00:13.690" end="00:00:17.289" style="s2">author of books and articles on the</p>
+<p begin="00:00:15.279" end="00:00:19.750" style="s2">history and cultural implications of</p>
+<p begin="00:00:17.289" end="00:00:22.840" style="s2">artificial intelligence she&#39;s also a</p>
+<p begin="00:00:19.750" end="00:00:25.239" style="s2">published novelist hi Jim great to be</p>
+<p begin="00:00:22.840" end="00:00:27.250" style="s2">here great to hear your voice I hear</p>
+<p begin="00:00:25.239" end="00:00:31.150" style="s2">your voice again - it&#39;s been too long I</p>
+<p begin="00:00:27.250" end="00:00:34.089" style="s2">read my first book by Pamela BA ie</p>
+<p begin="00:00:31.150" end="00:00:35.769" style="s2">before Amazon so I don&#39;t have the exact</p>
+<p begin="00:00:34.089" end="00:00:38.170" style="s2">date you know regular listeners of this</p>
+<p begin="00:00:35.769" end="00:00:40.390" style="s2">show know that I will often have looked</p>
+<p begin="00:00:38.170" end="00:00:42.100" style="s2">up in my Amazon order history and get</p>
+<p begin="00:00:40.390" end="00:00:43.119" style="s2">the date of when I read specific books</p>
+<p begin="00:00:42.100" end="00:00:45.159" style="s2">or at least bought and they&#39;re usually</p>
+<p begin="00:00:43.119" end="00:00:46.960" style="s2">pretty close but I actually bought one</p>
+<p begin="00:00:45.159" end="00:00:50.080" style="s2">of Pamela&#39;s books way back yonder the</p>
+<p begin="00:00:46.960" end="00:00:52.000" style="s2">fifth wave generation Oh fifth</p>
+<p begin="00:00:50.080" end="00:00:53.739" style="s2">generation oh you&#39;re right if you</p>
+<p begin="00:00:52.000" end="00:00:56.379" style="s2">brought it when it was published that</p>
+<p begin="00:00:53.739" end="00:00:58.360" style="s2">would have been 1983 it was probably a</p>
+<p begin="00:00:56.379" end="00:01:00.159" style="s2">little but in that timeframe that was</p>
+<p begin="00:00:58.360" end="00:01:03.729" style="s2">when I was in Boston for sure so between</p>
+<p begin="00:01:00.159" end="00:01:06.580" style="s2">83 and 86 and it was you know basically</p>
+<p begin="00:01:03.729" end="00:01:08.830" style="s2">talking about mostly a major Japanese</p>
+<p begin="00:01:06.580" end="00:01:11.409" style="s2">attempt to achieve a great leap forward</p>
+<p begin="00:01:08.830" end="00:01:13.180" style="s2">and AI using logic programming</p>
+<p begin="00:01:11.409" end="00:01:15.460" style="s2">particularly the prologue language and</p>
+<p begin="00:01:13.180" end="00:01:18.100" style="s2">interestingly reading that bill caused</p>
+<p begin="00:01:15.460" end="00:01:20.080" style="s2">me to go out and learn prologue and I</p>
+<p begin="00:01:18.100" end="00:01:22.240" style="s2">play with a little bit on and off but</p>
+<p begin="00:01:20.080" end="00:01:24.340" style="s2">eventually came away with the view which</p>
+<p begin="00:01:22.240" end="00:01:26.650" style="s2">I&#39;ve held to this day that logic</p>
+<p begin="00:01:24.340" end="00:01:29.620" style="s2">programming approaches to you know</p>
+<p begin="00:01:26.650" end="00:01:31.540" style="s2">high-end AI inevitably run into big</p>
+<p begin="00:01:29.620" end="00:01:34.060" style="s2">problems what&#39;s called the combinatoric</p>
+<p begin="00:01:31.540" end="00:01:36.700" style="s2">explosion too many ways to parse the</p>
+<p begin="00:01:34.060" end="00:01:39.220" style="s2">logic and you need to add in heuristics</p>
+<p begin="00:01:36.700" end="00:01:41.530" style="s2">or something else to prune the tree so I</p>
+<p begin="00:01:39.220" end="00:01:43.690" style="s2">eventually you know quickly actually</p>
+<p begin="00:01:41.530" end="00:01:45.580" style="s2">lost interested prologue and made the</p>
+<p begin="00:01:43.690" end="00:01:47.800" style="s2">assumption probably the Japanese are</p>
+<p begin="00:01:45.580" end="00:01:49.240" style="s2">gonna fail at this and they did but it</p>
+<p begin="00:01:47.800" end="00:01:50.979" style="s2">was it was really an interesting book</p>
+<p begin="00:01:49.240" end="00:01:52.930" style="s2">and it was one of the first things I</p>
+<p begin="00:01:50.979" end="00:01:53.500" style="s2">read about AI so that was that&#39;s very</p>
+<p begin="00:01:52.930" end="00:01:55.510" style="s2">interesting</p>
+<p begin="00:01:53.500" end="00:01:58.420" style="s2">today we&#39;re mostly going to talk about</p>
+<p begin="00:01:55.510" end="00:02:00.760" style="s2">Pamela&#39;s new book titled this could be</p>
+<p begin="00:01:58.420" end="00:02:04.270" style="s2">important my life and times with the</p>
+<p begin="00:02:00.760" end="00:02:06.670" style="s2">artificial intelligence eeeh I describe</p>
+<p begin="00:02:04.270" end="00:02:09.369" style="s2">it as a blend of personal memoir a rough</p>
+<p begin="00:02:06.670" end="00:02:11.200" style="s2">history of the earlier days of AI some</p>
+<p begin="00:02:09.369" end="00:02:13.540" style="s2">amazing profiles of leading</p>
+<p begin="00:02:11.200" end="00:02:15.010" style="s2">personalities from the period with some</p>
+<p begin="00:02:13.540" end="00:02:17.319" style="s2">very interesting musings on the</p>
+<p begin="00:02:15.010" end="00:02:19.959" style="s2">relationship between science technology</p>
+<p begin="00:02:17.319" end="00:02:22.960" style="s2">and the humanities and it&#39;s a love story</p>
+<p begin="00:02:19.959" end="00:02:25.270" style="s2">you know regular listeners know that I</p>
+<p begin="00:02:22.960" end="00:02:27.280" style="s2">I talk to authors about the books early</p>
+<p begin="00:02:25.270" end="00:02:28.930" style="s2">regularly and I usually play it fairly</p>
+<p begin="00:02:27.280" end="00:02:30.820" style="s2">straight but this time I&#39;m gonna just</p>
+<p begin="00:02:28.930" end="00:02:33.640" style="s2">say it straight out people you should</p>
+<p begin="00:02:30.820" end="00:02:36.160" style="s2">buy this book this is an unusually</p>
+<p begin="00:02:33.640" end="00:02:38.410" style="s2">excellent book it doesn&#39;t fit into any</p>
+<p begin="00:02:36.160" end="00:02:40.090" style="s2">known genre so I&#39;m sure drunk will be</p>
+<p begin="00:02:38.410" end="00:02:42.700" style="s2">driving her publisher nuts on how to</p>
+<p begin="00:02:40.090" end="00:02:45.730" style="s2">market it but the writing is truly</p>
+<p begin="00:02:42.700" end="00:02:47.530" style="s2">beautiful Pamela has exceeded herself</p>
+<p begin="00:02:45.730" end="00:02:50.980" style="s2">this is the best of her books I&#39;ve ever</p>
+<p begin="00:02:47.530" end="00:02:53.950" style="s2">read in terms of words Minh ship the way</p>
+<p begin="00:02:50.980" end="00:02:57.310" style="s2">she blends the personal the historic the</p>
+<p begin="00:02:53.950" end="00:02:59.590" style="s2">personalities musings the love story</p>
+<p begin="00:02:57.310" end="00:03:01.210" style="s2">it&#39;s brilliant so not only should you</p>
+<p begin="00:02:59.590" end="00:03:02.560" style="s2">read this book but if you like it as</p>
+<p begin="00:03:01.210" end="00:03:04.510" style="s2">much as I do you should tell your</p>
+<p begin="00:03:02.560" end="00:03:07.120" style="s2">friends that I read it too it&#39;s</p>
+<p begin="00:03:04.510" end="00:03:11.530" style="s2">available on and no money passed hands</p>
+<p begin="00:03:07.120" end="00:03:13.930" style="s2">between my listeners no I don&#39;t usually</p>
+<p begin="00:03:11.530" end="00:03:15.520" style="s2">say stuff like this right I play it</p>
+<p begin="00:03:13.930" end="00:03:17.320" style="s2">pretty straight just talking to the</p>
+<p begin="00:03:15.520" end="00:03:19.930" style="s2">authors about their book but this one</p>
+<p begin="00:03:17.320" end="00:03:21.640" style="s2">really got me and I gotta say you&#39;ve</p>
+<p begin="00:03:19.930" end="00:03:24.070" style="s2">exceeded yourself on this one Pamela</p>
+<p begin="00:03:21.640" end="00:03:26.290" style="s2">well I can see a huge amount of both</p>
+<p begin="00:03:24.070" end="00:03:30.150" style="s2">love and work went into creating this</p>
+<p begin="00:03:26.290" end="00:03:33.460" style="s2">thing this is a unusually excellent book</p>
+<p begin="00:03:30.150" end="00:03:34.990" style="s2">thank you thank you as my listeners know</p>
+<p begin="00:03:33.460" end="00:03:36.730" style="s2">I don&#39;t normally carry on this way but I</p>
+<p begin="00:03:34.990" end="00:03:39.160" style="s2">figured I sort of had to to be honest</p>
+<p begin="00:03:36.730" end="00:03:41.080" style="s2">because the book was so good let&#39;s start</p>
+<p begin="00:03:39.160" end="00:03:43.330" style="s2">off with what I at least took away is</p>
+<p begin="00:03:41.080" end="00:03:46.060" style="s2">your theme a sort of a recurring theme</p>
+<p begin="00:03:43.330" end="00:03:47.230" style="s2">it&#39;s woven all through the book in fact</p>
+<p begin="00:03:46.060" end="00:03:49.450" style="s2">you start off with it right from the</p>
+<p begin="00:03:47.230" end="00:03:53.320" style="s2">beginning I would describe it as an</p>
+<p begin="00:03:49.450" end="00:03:56.230" style="s2">exploration by U of C peace knows two</p>
+<p begin="00:03:53.320" end="00:03:59.080" style="s2">cultures and how it relates to the</p>
+<p begin="00:03:56.230" end="00:04:00.550" style="s2">history of AI now many of our listeners</p>
+<p begin="00:03:59.080" end="00:04:03.090" style="s2">are probably young enough they have no</p>
+<p begin="00:04:00.550" end="00:04:05.650" style="s2">idea hoop CP snow was or what the</p>
+<p begin="00:04:03.090" end="00:04:07.510" style="s2">general outline of his two cultures</p>
+<p begin="00:04:05.650" end="00:04:10.930" style="s2">argument was so maybe you could start us</p>
+<p begin="00:04:07.510" end="00:04:15.810" style="s2">with that we happy to see peace no sir</p>
+<p begin="00:04:10.930" end="00:04:19.450" style="s2">Charles Percy snow was a scientist and</p>
+<p begin="00:04:15.810" end="00:04:23.080" style="s2">academic in England and in the mid</p>
+<p begin="00:04:19.450" end="00:04:25.360" style="s2">twentieth century it occurred to him and</p>
+<p begin="00:04:23.080" end="00:04:27.490" style="s2">he wrote about the fact that the</p>
+<p begin="00:04:25.360" end="00:04:30.310" style="s2">scientists and the humanists never</p>
+<p begin="00:04:27.490" end="00:04:32.650" style="s2">talked to each other and he was in a</p>
+<p begin="00:04:30.310" end="00:04:35.140" style="s2">unique position because not only was he</p>
+<p begin="00:04:32.650" end="00:04:36.590" style="s2">a scientist but he was also a novelist</p>
+<p begin="00:04:35.140" end="00:04:39.290" style="s2">he wrote a scene</p>
+<p begin="00:04:36.590" end="00:04:41.990" style="s2">of novels called strangers and brothers</p>
+<p begin="00:04:39.290" end="00:04:44.889" style="s2">which are a very interesting read even</p>
+<p begin="00:04:41.990" end="00:04:47.690" style="s2">today because they talk about how</p>
+<p begin="00:04:44.889" end="00:04:50.270" style="s2">mathematicians and scientists played an</p>
+<p begin="00:04:47.690" end="00:04:53.169" style="s2">enormous role in World War two</p>
+<p begin="00:04:50.270" end="00:04:56.240" style="s2">especially in winning it for the Allies</p>
+<p begin="00:04:53.169" end="00:04:57.830" style="s2">so he thought this is terrible these</p>
+<p begin="00:04:56.240" end="00:05:01.960" style="s2">people should be speaking to each other</p>
+<p begin="00:04:57.830" end="00:05:05.900" style="s2">and furthermore he went on to note that</p>
+<p begin="00:05:01.960" end="00:05:08.090" style="s2">humanists described culture as what they</p>
+<p begin="00:05:05.900" end="00:05:11.210" style="s2">were interested in and nothing else</p>
+<p begin="00:05:08.090" end="00:05:14.150" style="s2">counted which was you know kind of</p>
+<p begin="00:05:11.210" end="00:05:16.240" style="s2">arrogant of them and he said this can&#39;t</p>
+<p begin="00:05:14.150" end="00:05:21.110" style="s2">go on we&#39;ve got to come to some</p>
+<p begin="00:05:16.240" end="00:05:24.169" style="s2">synthesis well in this period it&#39;s</p>
+<p begin="00:05:21.110" end="00:05:27.620" style="s2">really hard to explain what an explosive</p>
+<p begin="00:05:24.169" end="00:05:29.870" style="s2">idea this was and i sat there as an</p>
+<p begin="00:05:27.620" end="00:05:32.120" style="s2">undergraduate listening to him give this</p>
+<p begin="00:05:29.870" end="00:05:35.600" style="s2">lecture and I was almost out of my seat</p>
+<p begin="00:05:32.120" end="00:05:38.419" style="s2">I was just so excited by this because I</p>
+<p begin="00:05:35.600" end="00:05:41.180" style="s2">had been interested in science but I was</p>
+<p begin="00:05:38.419" end="00:05:43.039" style="s2">an English major and I had switched</p>
+<p begin="00:05:41.180" end="00:05:44.930" style="s2">between the two you know should I be a</p>
+<p begin="00:05:43.039" end="00:05:47.240" style="s2">science major should I be an English</p>
+<p begin="00:05:44.930" end="00:05:51.740" style="s2">major and finally decided to stick with</p>
+<p begin="00:05:47.240" end="00:05:54.680" style="s2">English for because I loved it anyway</p>
+<p begin="00:05:51.740" end="00:05:57.220" style="s2">this made an explosion around the</p>
+<p begin="00:05:54.680" end="00:06:00.590" style="s2">cultural world of this especially the</p>
+<p begin="00:05:57.220" end="00:06:03.500" style="s2">anglo-american world but also the book</p>
+<p begin="00:06:00.590" end="00:06:06.200" style="s2">was it became a book finally it was</p>
+<p begin="00:06:03.500" end="00:06:09.500" style="s2">translated into many languages so this</p>
+<p begin="00:06:06.200" end="00:06:12.440" style="s2">was a chasm that needed to be crossed</p>
+<p begin="00:06:09.500" end="00:06:15.860" style="s2">and snow put his finger on it boy did he</p>
+<p begin="00:06:12.440" end="00:06:18.950" style="s2">make the humanities mad get mad</p>
+<p begin="00:06:15.860" end="00:06:20.570" style="s2">we are torture yeah you tell lots of</p>
+<p begin="00:06:18.950" end="00:06:22.100" style="s2">stories along the way which we&#39;ll get to</p>
+<p begin="00:06:20.570" end="00:06:25.340" style="s2">about how they tried to wreak their</p>
+<p begin="00:06:22.100" end="00:06:27.770" style="s2">revenge right switching back to the</p>
+<p begin="00:06:25.340" end="00:06:30.320" style="s2">memoir the bio your own personal</p>
+<p begin="00:06:27.770" end="00:06:32.660" style="s2">autobiography suicide you were born in</p>
+<p begin="00:06:30.320" end="00:06:34.729" style="s2">England and like you said you were born</p>
+<p begin="00:06:32.660" end="00:06:36.889" style="s2">your mother was giving birth in a tent</p>
+<p begin="00:06:34.729" end="00:06:40.820" style="s2">while bombs were falling from the Blitz</p>
+<p begin="00:06:36.889" end="00:06:43.310" style="s2">yes well she was in hospital but there</p>
+<p begin="00:06:40.820" end="00:06:46.159" style="s2">was a tarpaulin between her and the</p>
+<p begin="00:06:43.310" end="00:06:48.740" style="s2">night because that wall had been blown</p>
+<p begin="00:06:46.159" end="00:06:49.080" style="s2">away by a bomb close enough to being</p>
+<p begin="00:06:48.740" end="00:06:51.060" style="s2">ball</p>
+<p begin="00:06:49.080" end="00:06:53.909" style="s2">a tenth so then what happened how did</p>
+<p begin="00:06:51.060" end="00:06:57.930" style="s2">you get across the big ditch uh uh my</p>
+<p begin="00:06:53.909" end="00:07:00.659" style="s2">father in fact was in the RAF and he was</p>
+<p begin="00:06:57.930" end="00:07:02.969" style="s2">stationed in Canada so while my mother</p>
+<p begin="00:07:00.659" end="00:07:05.520" style="s2">and I were in England being bombed on in</p>
+<p begin="00:07:02.969" end="00:07:08.909" style="s2">the Blitz he was in Canada teaching</p>
+<p begin="00:07:05.520" end="00:07:11.159" style="s2">Airmen how to navigate he came down to</p>
+<p begin="00:07:08.909" end="00:07:13.680" style="s2">the United States to visit cousins in</p>
+<p begin="00:07:11.159" end="00:07:16.590" style="s2">the New York area and he wrote to my</p>
+<p begin="00:07:13.680" end="00:07:19.830" style="s2">mother and said after the war we&#39;re</p>
+<p begin="00:07:16.590" end="00:07:24.379" style="s2">going to America and that&#39;s essentially</p>
+<p begin="00:07:19.830" end="00:07:28.020" style="s2">what happened was right after the war in</p>
+<p begin="00:07:24.379" end="00:07:30.180" style="s2">1946 I was I had just turned six and my</p>
+<p begin="00:07:28.020" end="00:07:33.300" style="s2">twin brother and sister they&#39;re twins</p>
+<p begin="00:07:30.180" end="00:07:34.740" style="s2">not me we&#39;re just two that was quite</p>
+<p begin="00:07:33.300" end="00:07:36.180" style="s2">amazing you landed in New York</p>
+<p begin="00:07:34.740" end="00:07:38.909" style="s2">originally but then you ended up in</p>
+<p begin="00:07:36.180" end="00:07:41.400" style="s2">California for work took him to</p>
+<p begin="00:07:38.909" end="00:07:43.710" style="s2">California and I essentially grew up in</p>
+<p begin="00:07:41.400" end="00:07:45.330" style="s2">the San Francisco Bay Area it sounds</p>
+<p begin="00:07:43.710" end="00:07:48.840" style="s2">like that&#39;s always been a place that&#39;s</p>
+<p begin="00:07:45.330" end="00:07:51.300" style="s2">had a residence for you always yeah one</p>
+<p begin="00:07:48.840" end="00:07:54.960" style="s2">passage I saw in the book you mentioned</p>
+<p begin="00:07:51.300" end="00:07:57.389" style="s2">living in the sky&#39; Londa area well and</p>
+<p begin="00:07:54.960" end="00:07:59.159" style="s2">our reason that struck me is you know</p>
+<p begin="00:07:57.389" end="00:08:00.270" style="s2">I&#39;ve never lived in California but I&#39;ve</p>
+<p begin="00:07:59.159" end="00:08:02.219" style="s2">spent a tremendous amount of time</p>
+<p begin="00:08:00.270" end="00:08:03.870" style="s2">visiting there hitchhiking around in my</p>
+<p begin="00:08:02.219" end="00:08:07.020" style="s2">younger days hanging out being a</p>
+<p begin="00:08:03.870" end="00:08:08.879" style="s2">troublemaker and I love that area you</p>
+<p begin="00:08:07.020" end="00:08:10.589" style="s2">know up down on the Honda Road I love</p>
+<p begin="00:08:08.879" end="00:08:12.870" style="s2">skyline I&#39;ve always been curious why</p>
+<p begin="00:08:10.589" end="00:08:14.550" style="s2">that area was not more popular at least</p>
+<p begin="00:08:12.870" end="00:08:17.389" style="s2">last time I prowled around there maybe</p>
+<p begin="00:08:14.550" end="00:08:20.479" style="s2">10 years ago it was still fairly country</p>
+<p begin="00:08:17.389" end="00:08:22.440" style="s2">and people were more happy living down</p>
+<p begin="00:08:20.479" end="00:08:24.300" style="s2">cheek-by-jowl and mountain view or</p>
+<p begin="00:08:22.440" end="00:08:25.349" style="s2">what-have-you but what a wonderful place</p>
+<p begin="00:08:24.300" end="00:08:28.469" style="s2">that is right</p>
+<p begin="00:08:25.349" end="00:08:30.419" style="s2">oh it is it was wonderful but you know</p>
+<p begin="00:08:28.469" end="00:08:33.269" style="s2">there were problems there&#39;s no water</p>
+<p begin="00:08:30.419" end="00:08:35.370" style="s2">supply there was in those days no no gas</p>
+<p begin="00:08:33.269" end="00:08:38.849" style="s2">supplies so we had to have our gas</p>
+<p begin="00:08:35.370" end="00:08:41.940" style="s2">bottled well the tank we had a septic</p>
+<p begin="00:08:38.849" end="00:08:43.349" style="s2">tank we had a water break at least once</p>
+<p begin="00:08:41.940" end="00:08:46.079" style="s2">a month where I had to crawl</p>
+<p begin="00:08:43.349" end="00:08:50.130" style="s2">hand-over-hand over the hillside to find</p>
+<p begin="00:08:46.079" end="00:08:51.750" style="s2">the brake and fix it you know it takes a</p>
+<p begin="00:08:50.130" end="00:08:54.480" style="s2">lot of time to live in the country oh</p>
+<p begin="00:08:51.750" end="00:08:56.490" style="s2">yeah I live on a farm so I we have all</p>
+<p begin="00:08:54.480" end="00:08:59.130" style="s2">those things to do if we have a well we</p>
+<p begin="00:08:56.490" end="00:09:00.329" style="s2">have a septic tank we have gas and you</p>
+<p begin="00:08:59.130" end="00:09:01.980" style="s2">know we even have to have a generator</p>
+<p begin="00:09:00.329" end="00:09:02.520" style="s2">because it&#39;s not infrequently the power</p>
+<p begin="00:09:01.980" end="00:09:05.340" style="s2">goes down</p>
+<p begin="00:09:02.520" end="00:09:06.750" style="s2">for a day or two exactly right not</p>
+<p begin="00:09:05.340" end="00:09:08.430" style="s2">everyone&#39;s willing to put up with that</p>
+<p begin="00:09:06.750" end="00:09:11.280" style="s2">of course you can take the backroads</p>
+<p begin="00:09:08.430" end="00:09:15.120" style="s2">down to the ocean too right yes oh yes</p>
+<p begin="00:09:11.280" end="00:09:17.070" style="s2">often very very very wonderful so then</p>
+<p begin="00:09:15.120" end="00:09:20.250" style="s2">how did you happen to make the</p>
+<p begin="00:09:17.070" end="00:09:20.760" style="s2">connection into the AI world oh that was</p>
+<p begin="00:09:20.250" end="00:09:22.980" style="s2">easy</p>
+<p begin="00:09:20.760" end="00:09:25.560" style="s2">that same undergraduate who sat</p>
+<p begin="00:09:22.980" end="00:09:28.590" style="s2">absolutely breathless listening to CP</p>
+<p begin="00:09:25.560" end="00:09:31.830" style="s2">snow talk about the two cultures was</p>
+<p begin="00:09:28.590" end="00:09:34.950" style="s2">approached I let me put it this way I</p>
+<p begin="00:09:31.830" end="00:09:37.770" style="s2">was working my way through college and I</p>
+<p begin="00:09:34.950" end="00:09:40.020" style="s2">was a typist I typed for the School of</p>
+<p begin="00:09:37.770" end="00:09:41.820" style="s2">Business I guess they figured you know</p>
+<p begin="00:09:40.020" end="00:09:44.700" style="s2">she doesn&#39;t know anything about this</p>
+<p begin="00:09:41.820" end="00:09:46.920" style="s2">true she can type exam she can type</p>
+<p begin="00:09:44.700" end="00:09:49.080" style="s2">course outlines and so on and so forth</p>
+<p begin="00:09:46.920" end="00:09:51.300" style="s2">in which I did it was wonderful anyway</p>
+<p begin="00:09:49.080" end="00:09:53.220" style="s2">two young assistant professors came to</p>
+<p begin="00:09:51.300" end="00:09:56.610" style="s2">me and they said we know you&#39;re gonna</p>
+<p begin="00:09:53.220" end="00:09:58.920" style="s2">graduate in January which was true 1961</p>
+<p begin="00:09:56.610" end="00:10:01.590" style="s2">January 61 and you&#39;re gonna go to</p>
+<p begin="00:09:58.920" end="00:10:03.570" style="s2">graduate school the following fall how</p>
+<p begin="00:10:01.590" end="00:10:05.400" style="s2">about working on our book in the</p>
+<p begin="00:10:03.570" end="00:10:07.860" style="s2">meanwhile and I said very</p>
+<p begin="00:10:05.400" end="00:10:08.130" style="s2">enthusiastically yes I will what&#39;s it</p>
+<p begin="00:10:07.860" end="00:10:11.400" style="s2">about</p>
+<p begin="00:10:08.130" end="00:10:16.170" style="s2">and they said artificial intelligence</p>
+<p begin="00:10:11.400" end="00:10:18.720" style="s2">now Jim I had heard the term but I did</p>
+<p begin="00:10:16.170" end="00:10:21.960" style="s2">not know what really what it was and so</p>
+<p begin="00:10:18.720" end="00:10:23.220" style="s2">I said to one of the guys could you</p>
+<p begin="00:10:21.960" end="00:10:28.650" style="s2">explain that please</p>
+<p begin="00:10:23.220" end="00:10:32.430" style="s2">and he said artificial intelligence is a</p>
+<p begin="00:10:28.650" end="00:10:34.950" style="s2">machine doing things which if a human</p>
+<p begin="00:10:32.430" end="00:10:39.150" style="s2">did them we say that&#39;s intelligent</p>
+<p begin="00:10:34.950" end="00:10:44.210" style="s2">behavior okay so that&#39;s how I got into</p>
+<p begin="00:10:39.150" end="00:10:47.400" style="s2">AI and listeners that was 1961 right</p>
+<p begin="00:10:44.210" end="00:10:49.710" style="s2">conversation took place in 1960 so it&#39;s</p>
+<p begin="00:10:47.400" end="00:10:53.370" style="s2">like the dawn of AI I mean the original</p>
+<p begin="00:10:49.710" end="00:10:56.030" style="s2">dawn of what we call AI was what 1951</p>
+<p begin="00:10:53.370" end="00:10:59.340" style="s2">was what was the meeting at Dartmouth 55</p>
+<p begin="00:10:56.030" end="00:11:01.290" style="s2">1956 right so I don&#39;t think the term</p>
+<p begin="00:10:59.340" end="00:11:05.550" style="s2">artificial intelligence even existed</p>
+<p begin="00:11:01.290" end="00:11:07.140" style="s2">before 1956 so this was at the very very</p>
+<p begin="00:11:05.550" end="00:11:09.840" style="s2">beginning and who were the two authors</p>
+<p begin="00:11:07.140" end="00:11:12.090" style="s2">who worked with a man named Julian</p>
+<p begin="00:11:09.840" end="00:11:14.740" style="s2">Feldman who later went on to UC Irvine</p>
+<p begin="00:11:12.090" end="00:11:17.650" style="s2">but the other author was</p>
+<p begin="00:11:14.740" end="00:11:19.930" style="s2">édouard Feigenbaum and that led to what</p>
+<p begin="00:11:17.650" end="00:11:22.510" style="s2">has been a lifetime friendship I was</p>
+<p begin="00:11:19.930" end="00:11:25.120" style="s2">just in touch with him two days ago at a</p>
+<p begin="00:11:22.510" end="00:11:27.100" style="s2">party at his house a week ago we have</p>
+<p begin="00:11:25.120" end="00:11:28.840" style="s2">been good close friends ever since in</p>
+<p begin="00:11:27.100" end="00:11:31.210" style="s2">fact we even co-authored a couple of</p>
+<p begin="00:11:28.840" end="00:11:33.460" style="s2">books together later on yes including</p>
+<p begin="00:11:31.210" end="00:11:35.170" style="s2">that fifth generation book that I</p>
+<p begin="00:11:33.460" end="00:11:37.450" style="s2">mentioned when I first came on yeah</p>
+<p begin="00:11:35.170" end="00:11:40.960" style="s2">another quote I saw in the book that you</p>
+<p begin="00:11:37.450" end="00:11:43.450" style="s2">talked about word and text understanding</p>
+<p begin="00:11:40.960" end="00:11:45.310" style="s2">as a particular interest of mine meaning</p>
+<p begin="00:11:43.450" end="00:11:47.410" style="s2">yours could you tell us more about that</p>
+<p begin="00:11:45.310" end="00:11:50.860" style="s2">that made us seem kind of natural being</p>
+<p begin="00:11:47.410" end="00:11:53.200" style="s2">a word person and interested in AI well</p>
+<p begin="00:11:50.860" end="00:11:55.150" style="s2">that&#39;s really all it is I&#39;ve been</p>
+<p begin="00:11:53.200" end="00:12:00.240" style="s2">interested in words since I could speak</p>
+<p begin="00:11:55.150" end="00:12:02.680" style="s2">and later on read so when I came across</p>
+<p begin="00:12:00.240" end="00:12:06.130" style="s2">scientists who were interested in word</p>
+<p begin="00:12:02.680" end="00:12:08.680" style="s2">and text understanding they captured me</p>
+<p begin="00:12:06.130" end="00:12:11.740" style="s2">of course and of course that&#39;s still a</p>
+<p begin="00:12:08.680" end="00:12:13.600" style="s2">very controversial field you know the I</p>
+<p begin="00:12:11.740" end="00:12:16.360" style="s2">just finished reading the book by Gary</p>
+<p begin="00:12:13.600" end="00:12:18.970" style="s2">Marcus rebooting AI and he&#39;s gonna be on</p>
+<p begin="00:12:16.360" end="00:12:20.680" style="s2">the show in a few weeks and he</p>
+<p begin="00:12:18.970" end="00:12:22.960" style="s2">demonstrates at least to his own</p>
+<p begin="00:12:20.680" end="00:12:24.790" style="s2">satisfaction and it think it satisfied</p>
+<p begin="00:12:22.960" end="00:12:26.950" style="s2">me as well that the current deep</p>
+<p begin="00:12:24.790" end="00:12:28.900" style="s2">learning approaches you know use like</p>
+<p begin="00:12:26.950" end="00:12:31.630" style="s2">for Google for their Translate program</p>
+<p begin="00:12:28.900" end="00:12:34.750" style="s2">etc and some of these new text writing</p>
+<p begin="00:12:31.630" end="00:12:37.510" style="s2">programs from open AI are really a very</p>
+<p begin="00:12:34.750" end="00:12:40.660" style="s2">long way away from really understanding</p>
+<p begin="00:12:37.510" end="00:12:42.910" style="s2">texts in a way that humans do you know</p>
+<p begin="00:12:40.660" end="00:12:45.130" style="s2">so much of what we see are especially</p>
+<p begin="00:12:42.910" end="00:12:47.410" style="s2">from this new big deep learning trend is</p>
+<p begin="00:12:45.130" end="00:12:49.780" style="s2">essentially very very fancy statistical</p>
+<p begin="00:12:47.410" end="00:12:52.120" style="s2">pattern matching and it&#39;s interesting</p>
+<p begin="00:12:49.780" end="00:12:55.120" style="s2">that we have not yet really achieved</p>
+<p begin="00:12:52.120" end="00:12:56.860" style="s2">anything like text understanding to my</p>
+<p begin="00:12:55.120" end="00:12:59.590" style="s2">mind that&#39;s the next frontier it</p>
+<p begin="00:12:56.860" end="00:13:01.840" style="s2">certainly is and one of the projects I</p>
+<p begin="00:12:59.590" end="00:13:07.870" style="s2">spend a lot of time writing about in the</p>
+<p begin="00:13:01.840" end="00:13:11.190" style="s2">book is at MIT a project that it takes a</p>
+<p begin="00:13:07.870" end="00:13:15.970" style="s2">symbolic view not a statistical view of</p>
+<p begin="00:13:11.190" end="00:13:18.220" style="s2">what text is but those guys say hey we</p>
+<p begin="00:13:15.970" end="00:13:20.830" style="s2">are you know a Kitty Hawk here or we&#39;re</p>
+<p begin="00:13:18.220" end="00:13:22.690" style="s2">nowhere near we were but to be yeah it&#39;s</p>
+<p begin="00:13:20.830" end="00:13:25.660" style="s2">indeed and I&#39;m involved with some of</p>
+<p begin="00:13:22.690" end="00:13:27.370" style="s2">those MIT folks too I&#39;m on the board of</p>
+<p begin="00:13:25.660" end="00:13:28.510" style="s2">visitors for the brain in cognitive</p>
+<p begin="00:13:27.370" end="00:13:30.250" style="s2">science department</p>
+<p begin="00:13:28.510" end="00:13:33.120" style="s2">at MIT you know people that you</p>
+<p begin="00:13:30.250" end="00:13:35.890" style="s2">mentioned like Tommy Poggio Tenenbaum</p>
+<p begin="00:13:33.120" end="00:13:38.800" style="s2">some of the others who are working on</p>
+<p begin="00:13:35.890" end="00:13:40.210" style="s2">these symbolic type problems right you</p>
+<p begin="00:13:38.800" end="00:13:42.310" style="s2">know they don&#39;t get the press that the</p>
+<p begin="00:13:40.210" end="00:13:44.560" style="s2">West Coast people do but I personally</p>
+<p begin="00:13:42.310" end="00:13:47.380" style="s2">believe they&#39;re more likely to crack the</p>
+<p begin="00:13:44.560" end="00:13:49.330" style="s2">actual language problem than the deep</p>
+<p begin="00:13:47.380" end="00:13:51.310" style="s2">learning people are well I think one of</p>
+<p begin="00:13:49.330" end="00:13:56.200" style="s2">the interesting things a eye has shown</p>
+<p begin="00:13:51.310" end="00:14:00.190" style="s2">us is that understanding is is a</p>
+<p begin="00:13:56.200" end="00:14:03.310" style="s2">spectrum and shallow understanding can</p>
+<p begin="00:14:00.190" end="00:14:05.320" style="s2">work pretty well for most things yeah</p>
+<p begin="00:14:03.310" end="00:14:06.520" style="s2">that&#39;s true but what it doesn&#39;t work for</p>
+<p begin="00:14:05.320" end="00:14:07.840" style="s2">and this is where Marcus is very</p>
+<p begin="00:14:06.520" end="00:14:09.790" style="s2">interesting it&#39;s like really</p>
+<p begin="00:14:07.840" end="00:14:12.460" style="s2">understanding for instance the Gestalt</p>
+<p begin="00:14:09.790" end="00:14:14.740" style="s2">of a book right what is this book yes we</p>
+<p begin="00:14:12.460" end="00:14:16.950" style="s2">extract the theme of a book it&#39;s</p>
+<p begin="00:14:14.740" end="00:14:18.820" style="s2">something that it&#39;s hard to see</p>
+<p begin="00:14:16.950" end="00:14:21.760" style="s2">statistical approaches shallow</p>
+<p begin="00:14:18.820" end="00:14:23.650" style="s2">approaches doing and yet I just did it</p>
+<p begin="00:14:21.760" end="00:14:24.940" style="s2">when I introduced your book I may have</p>
+<p begin="00:14:23.650" end="00:14:28.960" style="s2">been wrong about the theme but at least</p>
+<p begin="00:14:24.940" end="00:14:31.450" style="s2">I did extract one you did and I agree I</p>
+<p begin="00:14:28.960" end="00:14:34.510" style="s2">agree with Gary Marcus that we&#39;re a long</p>
+<p begin="00:14:31.450" end="00:14:37.510" style="s2">way from human kinds of understanding of</p>
+<p begin="00:14:34.510" end="00:14:38.770" style="s2">text and language yeah the other person</p>
+<p begin="00:14:37.510" end="00:14:42.220" style="s2">who I think is very interesting in this</p>
+<p begin="00:14:38.770" end="00:14:44.250" style="s2">discussion is George Lakoff oh yeah he</p>
+<p begin="00:14:42.220" end="00:14:48.310" style="s2">of course makes the argument that</p>
+<p begin="00:14:44.250" end="00:14:51.280" style="s2">language is way more metaphorical than</p>
+<p begin="00:14:48.310" end="00:14:53.680" style="s2">we tend to recognize you say I&#39;m moving</p>
+<p begin="00:14:51.280" end="00:14:55.570" style="s2">ahead with this project well I had is</p>
+<p begin="00:14:53.680" end="00:14:59.080" style="s2">you know metaphorical from the physical</p>
+<p begin="00:14:55.570" end="00:15:01.570" style="s2">moving forward right or I&#39;m behind on</p>
+<p begin="00:14:59.080" end="00:15:03.640" style="s2">this project well you know behind is a</p>
+<p begin="00:15:01.570" end="00:15:06.250" style="s2">metaphor from something that&#39;s behind</p>
+<p begin="00:15:03.640" end="00:15:08.800" style="s2">you and if you carefully parse your</p>
+<p begin="00:15:06.250" end="00:15:10.660" style="s2">speech and look for metaphor you go oh</p>
+<p begin="00:15:08.800" end="00:15:13.300" style="s2">my goodness it&#39;s hard to say two</p>
+<p begin="00:15:10.660" end="00:15:16.690" style="s2">sentences without using metaphor and</p>
+<p begin="00:15:13.300" end="00:15:19.540" style="s2">again you know metaphor is something</p>
+<p begin="00:15:16.690" end="00:15:21.160" style="s2">seemingly more subtle than you know the</p>
+<p begin="00:15:19.540" end="00:15:23.080" style="s2">statistical approaches are likely to get</p>
+<p begin="00:15:21.160" end="00:15:25.120" style="s2">at and without understanding metaphor</p>
+<p begin="00:15:23.080" end="00:15:26.380" style="s2">and how it works it may be that we&#39;ll</p>
+<p begin="00:15:25.120" end="00:15:29.320" style="s2">have a hard time getting to real</p>
+<p begin="00:15:26.380" end="00:15:31.840" style="s2">language understanding I agree the</p>
+<p begin="00:15:29.320" end="00:15:34.570" style="s2">viewer if you read any lake off oh I</p>
+<p begin="00:15:31.840" end="00:15:36.340" style="s2">know George yes oh you do that&#39;s great I</p>
+<p begin="00:15:34.570" end="00:15:38.410" style="s2">never have never met him but I have read</p>
+<p begin="00:15:36.340" end="00:15:40.060" style="s2">a number of his works and you know I</p>
+<p begin="00:15:38.410" end="00:15:41.950" style="s2">just think he&#39;s one of the most</p>
+<p begin="00:15:40.060" end="00:15:42.220" style="s2">interesting you know people working to</p>
+<p begin="00:15:41.950" end="00:15:43.570" style="s2">say</p>
+<p begin="00:15:42.220" end="00:15:44.950" style="s2">that might take you up on that and have</p>
+<p begin="00:15:43.570" end="00:15:47.470" style="s2">you introduced me to him so I can get</p>
+<p begin="00:15:44.950" end="00:15:50.680" style="s2">him on my show Oh he&#39;d be a wonderful</p>
+<p begin="00:15:47.470" end="00:15:52.630" style="s2">interviewee yes I bet he would another</p>
+<p begin="00:15:50.680" end="00:15:54.700" style="s2">item in the book you talked about</p>
+<p begin="00:15:52.630" end="00:15:56.530" style="s2">intelligent agents and you quoted a</p>
+<p begin="00:15:54.700" end="00:15:59.110" style="s2">definition that basically said they have</p>
+<p begin="00:15:56.530" end="00:16:01.210" style="s2">goals form beliefs and action plans on</p>
+<p begin="00:15:59.110" end="00:16:03.760" style="s2">how to reach their goals and then</p>
+<p begin="00:16:01.210" end="00:16:07.060" style="s2">they&#39;re adaptive does that feel like to</p>
+<p begin="00:16:03.760" end="00:16:10.690" style="s2">you what intelligence really is in a</p>
+<p begin="00:16:07.060" end="00:16:12.730" style="s2">very abstract sense yes and it would</p>
+<p begin="00:16:10.690" end="00:16:14.830" style="s2">kind of draw a line or I mean you know</p>
+<p begin="00:16:12.730" end="00:16:16.210" style="s2">weird how far down does intelligence go</p>
+<p begin="00:16:14.830" end="00:16:18.850" style="s2">I mean some people argue it goes all the</p>
+<p begin="00:16:16.210" end="00:16:20.590" style="s2">way down to the bacteria yes they do and</p>
+<p begin="00:16:18.850" end="00:16:24.670" style="s2">they can make that argument pretty well</p>
+<p begin="00:16:20.590" end="00:16:26.800" style="s2">and until we have we can refine our</p>
+<p begin="00:16:24.670" end="00:16:29.860" style="s2">notions of intelligence which are not</p>
+<p begin="00:16:26.800" end="00:16:30.910" style="s2">very fine-tuned right now I have to say</p>
+<p begin="00:16:29.860" end="00:16:33.400" style="s2">yeah you&#39;re probably right</p>
+<p begin="00:16:30.910" end="00:16:36.130" style="s2">the bacteria have intelligence slime</p>
+<p begin="00:16:33.400" end="00:16:36.940" style="s2">molds have intelligence yep they have</p>
+<p begin="00:16:36.130" end="00:16:38.500" style="s2">problems</p>
+<p begin="00:16:36.940" end="00:16:40.210" style="s2">why don&#39;t they actually have goals or</p>
+<p begin="00:16:38.500" end="00:16:42.760" style="s2">not I don&#39;t know but one could say that</p>
+<p begin="00:16:40.210" end="00:16:44.920" style="s2">their goals are implicitly cooked in by</p>
+<p begin="00:16:42.760" end="00:16:46.960" style="s2">a evolution right and their goal is to</p>
+<p begin="00:16:44.920" end="00:16:50.050" style="s2">survive and reproduce essentially right</p>
+<p begin="00:16:46.960" end="00:16:51.970" style="s2">well that is interesting probably the</p>
+<p begin="00:16:50.050" end="00:16:55.360" style="s2">person that appears across the book the</p>
+<p begin="00:16:51.970" end="00:16:57.460" style="s2">most is herb Simon he pops up again and</p>
+<p begin="00:16:55.360" end="00:16:59.560" style="s2">again from early to later I love the</p>
+<p begin="00:16:57.460" end="00:17:01.450" style="s2">story when you&#39;re reading these business</p>
+<p begin="00:16:59.560" end="00:17:04.270" style="s2">books it seems like all the business</p>
+<p begin="00:17:01.450" end="00:17:06.910" style="s2">academic work had been invented by herb</p>
+<p begin="00:17:04.270" end="00:17:10.450" style="s2">Simon then you go on discover he&#39;s also</p>
+<p begin="00:17:06.910" end="00:17:12.310" style="s2">an economist all right et cetera what</p>
+<p begin="00:17:10.450" end="00:17:14.800" style="s2">was he like how could a person be a</p>
+<p begin="00:17:12.310" end="00:17:19.210" style="s2">giant so many fields what does a person</p>
+<p begin="00:17:14.800" end="00:17:21.280" style="s2">like that like astonishing guy yes at</p>
+<p begin="00:17:19.210" end="00:17:23.350" style="s2">the store you begin with is so true I</p>
+<p begin="00:17:21.280" end="00:17:26.200" style="s2">this little typist is a business school</p>
+<p begin="00:17:23.350" end="00:17:27.820" style="s2">I keep running into this guy herb Simon</p>
+<p begin="00:17:26.200" end="00:17:31.240" style="s2">at this where it hurts I&#39;m in a</p>
+<p begin="00:17:27.820" end="00:17:34.180" style="s2">municipal governance herb Simon and I</p>
+<p begin="00:17:31.240" end="00:17:37.840" style="s2">think this School of Business is so</p>
+<p begin="00:17:34.180" end="00:17:41.970" style="s2">shallow if this one guy appears in every</p>
+<p begin="00:17:37.840" end="00:17:45.640" style="s2">field so I blame business not herb and</p>
+<p begin="00:17:41.970" end="00:17:48.970" style="s2">later on I am better acculturated into</p>
+<p begin="00:17:45.640" end="00:17:51.730" style="s2">the culture of AI that&#39;s with two and a</p>
+<p begin="00:17:48.970" end="00:17:55.250" style="s2">half years at Stanford and I realized</p>
+<p begin="00:17:51.730" end="00:17:58.700" style="s2">what a giant he is okay next</p>
+<p begin="00:17:55.250" end="00:18:00.950" style="s2">I&#39;m married and go with my husband who</p>
+<p begin="00:17:58.700" end="00:18:04.010" style="s2">is named the chairman of the computer</p>
+<p begin="00:18:00.950" end="00:18:07.280" style="s2">science department at a Carnegie Mellon</p>
+<p begin="00:18:04.010" end="00:18:09.919" style="s2">where herb Simon is and they have a big</p>
+<p begin="00:18:07.280" end="00:18:12.320" style="s2">party you know welcomed by the faculty</p>
+<p begin="00:18:09.919" end="00:18:14.059" style="s2">to the new head kind of thing and I</p>
+<p begin="00:18:12.320" end="00:18:15.860" style="s2">stand there in front of herb Simon I&#39;m</p>
+<p begin="00:18:14.059" end="00:18:19.059" style="s2">so starstruck</p>
+<p begin="00:18:15.860" end="00:18:21.080" style="s2">I can&#39;t even say hello to him I sort of</p>
+<p begin="00:18:19.059" end="00:18:24.380" style="s2">it was it was funny</p>
+<p begin="00:18:21.080" end="00:18:25.730" style="s2">anyway we became great friends and one</p>
+<p begin="00:18:24.380" end="00:18:28.580" style="s2">of the reasons we became great friends</p>
+<p begin="00:18:25.730" end="00:18:32.150" style="s2">is because he used to walk home every</p>
+<p begin="00:18:28.580" end="00:18:34.070" style="s2">night after work past our house and I</p>
+<p begin="00:18:32.150" end="00:18:39.549" style="s2">would just be putting the cover on my</p>
+<p begin="00:18:34.070" end="00:18:42.830" style="s2">typewriter and I would see his hat a</p>
+<p begin="00:18:39.549" end="00:18:45.710" style="s2">beret in the summertime</p>
+<p begin="00:18:42.830" end="00:18:47.390" style="s2">Chuya and one of these Peruvian Chewie</p>
+<p begin="00:18:45.710" end="00:18:50.990" style="s2">is covering his head in the winter</p>
+<p begin="00:18:47.390" end="00:18:53.450" style="s2">bopping past my head and I lean out the</p>
+<p begin="00:18:50.990" end="00:18:56.600" style="s2">door and I&#39;d say hey herb would you like</p>
+<p begin="00:18:53.450" end="00:18:59.570" style="s2">a sherry and her but almost always like</p>
+<p begin="00:18:56.600" end="00:19:02.299" style="s2">a sherry so he&#39;d come in and we&#39;d sit</p>
+<p begin="00:18:59.570" end="00:19:05.059" style="s2">down and we talk over sherry and I</p>
+<p begin="00:19:02.299" end="00:19:07.760" style="s2">didn&#39;t really understand how often we</p>
+<p begin="00:19:05.059" end="00:19:10.850" style="s2">did this until I reviewed my journals</p>
+<p begin="00:19:07.760" end="00:19:13.520" style="s2">for writing this book this could be</p>
+<p begin="00:19:10.850" end="00:19:15.679" style="s2">important holy mackerel with her we were</p>
+<p begin="00:19:13.520" end="00:19:17.720" style="s2">meeting once a week I would have this</p>
+<p begin="00:19:15.679" end="00:19:19.480" style="s2">genius and he wasn&#39;t in yes and that&#39;s</p>
+<p begin="00:19:17.720" end="00:19:23.240" style="s2">not a word I used lightly</p>
+<p begin="00:19:19.480" end="00:19:24.830" style="s2">sitting at my coffee table and sharing</p>
+<p begin="00:19:23.240" end="00:19:27.710" style="s2">sherry with me and we wouldn&#39;t have a</p>
+<p begin="00:19:24.830" end="00:19:29.539" style="s2">high old time just laughing and going</p>
+<p begin="00:19:27.710" end="00:19:32.809" style="s2">through this and that and the other so</p>
+<p begin="00:19:29.539" end="00:19:35.809" style="s2">one summer I said to him you know it&#39;s</p>
+<p begin="00:19:32.809" end="00:19:37.220" style="s2">really too bad my students I was</p>
+<p begin="00:19:35.809" end="00:19:39.200" style="s2">teaching then at the University of</p>
+<p begin="00:19:37.220" end="00:19:41.210" style="s2">Pittsburgh my students have all the</p>
+<p begin="00:19:39.200" end="00:19:43.940" style="s2">really interesting discussions you know</p>
+<p begin="00:19:41.210" end="00:19:46.610" style="s2">what is life what is the meaning of life</p>
+<p begin="00:19:43.940" end="00:19:49.309" style="s2">how can I live the good life blah blah</p>
+<p begin="00:19:46.610" end="00:19:51.740" style="s2">and what do my colleagues and I discuss</p>
+<p begin="00:19:49.309" end="00:19:54.380" style="s2">well should romantic poetry be two</p>
+<p begin="00:19:51.740" end="00:19:57.500" style="s2">semesters are only one semester how much</p>
+<p begin="00:19:54.380" end="00:19:59.720" style="s2">can we spend on the Xerox machine it&#39;s</p>
+<p begin="00:19:57.500" end="00:20:02.840" style="s2">that kind of thing and herb laughed and</p>
+<p begin="00:19:59.720" end="00:20:04.880" style="s2">he said yes I know he said you know you</p>
+<p begin="00:20:02.840" end="00:20:08.000" style="s2">might think of starting a little salon</p>
+<p begin="00:20:04.880" end="00:20:08.690" style="s2">or a little discussion group and that</p>
+<p begin="00:20:08.000" end="00:20:11.930" style="s2">grew too</p>
+<p begin="00:20:08.690" end="00:20:14.630" style="s2">something that meant once a month and I</p>
+<p begin="00:20:11.930" end="00:20:17.390" style="s2">called it the squirrel hill sages</p>
+<p begin="00:20:14.630" end="00:20:20.450" style="s2">because we all lived in Squirrel Hill at</p>
+<p begin="00:20:17.390" end="00:20:23.540" style="s2">those days and a consistent of herb</p>
+<p begin="00:20:20.450" end="00:20:25.910" style="s2">Simon and his wife Dorothea Allen Newell</p>
+<p begin="00:20:23.540" end="00:20:28.370" style="s2">and his wife Noel</p>
+<p begin="00:20:25.910" end="00:20:30.130" style="s2">the novelist Mark Harris he was best</p>
+<p begin="00:20:28.370" end="00:20:33.740" style="s2">known then for a book about baseball</p>
+<p begin="00:20:30.130" end="00:20:37.370" style="s2">called bang the drum slowly his wife a</p>
+<p begin="00:20:33.740" end="00:20:40.250" style="s2">journalist and Joe and me and we met</p>
+<p begin="00:20:37.370" end="00:20:41.630" style="s2">monthly to discuss things and so herb</p>
+<p begin="00:20:40.250" end="00:20:44.870" style="s2">and I really got to know each other even</p>
+<p begin="00:20:41.630" end="00:20:47.510" style="s2">better than and that&#39;s how we became</p>
+<p begin="00:20:44.870" end="00:20:49.850" style="s2">such good friends what a wonderful</p>
+<p begin="00:20:47.510" end="00:20:51.500" style="s2">experience in life cuz from me being on</p>
+<p begin="00:20:49.850" end="00:20:53.180" style="s2">the outside having read a fair amount of</p>
+<p begin="00:20:51.500" end="00:20:55.970" style="s2">herbs work you know I put him up there</p>
+<p begin="00:20:53.180" end="00:20:58.490" style="s2">as amongst the greatest polymaths of the</p>
+<p begin="00:20:55.970" end="00:21:00.140" style="s2">20th century and he was a guy stop it in</p>
+<p begin="00:20:58.490" end="00:21:01.970" style="s2">your living room having a sherry and</p>
+<p begin="00:21:00.140" end="00:21:04.730" style="s2">hanging out with the sages of Squirrel</p>
+<p begin="00:21:01.970" end="00:21:06.530" style="s2">Hill how lucky were you how lucky was I</p>
+<p begin="00:21:04.730" end="00:21:08.390" style="s2">I actually had a graduate student</p>
+<p begin="00:21:06.530" end="00:21:10.460" style="s2">stopped me in the hall one said</p>
+<p begin="00:21:08.390" end="00:21:12.230" style="s2">somewhere in New York and it may have</p>
+<p begin="00:21:10.460" end="00:21:15.560" style="s2">been Brooklyn poly or someplace he said</p>
+<p begin="00:21:12.230" end="00:21:17.030" style="s2">is it true that you had sherry with herb</p>
+<p begin="00:21:15.560" end="00:21:20.960" style="s2">Simon once a week</p>
+<p begin="00:21:17.030" end="00:21:22.940" style="s2">yeah it&#39;s true that&#39;s amazing I&#39;m gonna</p>
+<p begin="00:21:20.960" end="00:21:25.490" style="s2">flip forward here a little bit in my</p>
+<p begin="00:21:22.940" end="00:21:27.800" style="s2">topics and let&#39;s talk about Pittsburgh a</p>
+<p begin="00:21:25.490" end="00:21:29.690" style="s2">little bit you know one of the reasons</p>
+<p begin="00:21:27.800" end="00:21:31.850" style="s2">it resonates with me as my daughter</p>
+<p begin="00:21:29.690" end="00:21:34.280" style="s2">happens to live in Pittsburgh and if</p>
+<p begin="00:21:31.850" end="00:21:35.930" style="s2">actually lives in Squirrel Hill and but</p>
+<p begin="00:21:34.280" end="00:21:38.780" style="s2">we&#39;ve spent more and more time up there</p>
+<p begin="00:21:35.930" end="00:21:41.720" style="s2">and I I think we overlapped the summer</p>
+<p begin="00:21:38.780" end="00:21:44.090" style="s2">of 1973 in Pittsburgh I actually worked</p>
+<p begin="00:21:41.720" end="00:21:46.850" style="s2">for the US government as a summer job</p>
+<p begin="00:21:44.090" end="00:21:49.160" style="s2">when I was an undergraduate and you know</p>
+<p begin="00:21:46.850" end="00:21:50.930" style="s2">I have had a pretty good reaction to</p>
+<p begin="00:21:49.160" end="00:21:54.710" style="s2">Pittsburgh but it didn&#39;t sound like you</p>
+<p begin="00:21:50.930" end="00:21:56.930" style="s2">did yeah I really have to make the</p>
+<p begin="00:21:54.710" end="00:22:01.130" style="s2">distinction between Pittsburgh as it is</p>
+<p begin="00:21:56.930" end="00:22:03.640" style="s2">now and Pittsburgh as it was then in the</p>
+<p begin="00:22:01.130" end="00:22:08.150" style="s2">early 1970s Joe and I arrived there in</p>
+<p begin="00:22:03.640" end="00:22:11.780" style="s2">1971 the steel industry was just dying</p>
+<p begin="00:22:08.150" end="00:22:14.960" style="s2">and nobody knew where to go next</p>
+<p begin="00:22:11.780" end="00:22:17.950" style="s2">and a group of visionaries mostly a</p>
+<p begin="00:22:14.960" end="00:22:20.800" style="s2">Carnegie Mellon said we can green</p>
+<p begin="00:22:17.950" end="00:22:22.520" style="s2">Pittsburgh we can make Pittsburgh</p>
+<p begin="00:22:20.800" end="00:22:25.190" style="s2">something different</p>
+<p begin="00:22:22.520" end="00:22:28.100" style="s2">and an industrial giant which they saw</p>
+<p begin="00:22:25.190" end="00:22:29.510" style="s2">was coming to an end I must say most</p>
+<p begin="00:22:28.100" end="00:22:32.810" style="s2">people in Pittsburgh did not see that</p>
+<p begin="00:22:29.510" end="00:22:34.670" style="s2">they thought this was just a bump steel</p>
+<p begin="00:22:32.810" end="00:22:39.530" style="s2">would come back coal would come back</p>
+<p begin="00:22:34.670" end="00:22:42.410" style="s2">well no it wasn&#39;t going to so I was a</p>
+<p begin="00:22:39.530" end="00:22:44.300" style="s2">Californian as you pointed out and I</p>
+<p begin="00:22:42.410" end="00:22:47.630" style="s2">rode around the Pittsburgh at the</p>
+<p begin="00:22:44.300" end="00:22:50.480" style="s2">western Pennsylvania area thinking how</p>
+<p begin="00:22:47.630" end="00:22:52.670" style="s2">can people let places be so ugly I mean</p>
+<p begin="00:22:50.480" end="00:22:54.860" style="s2">there were slag heaps that nobody</p>
+<p begin="00:22:52.670" end="00:22:57.710" style="s2">bothered to remove and downtown</p>
+<p begin="00:22:54.860" end="00:22:58.460" style="s2">Pittsburgh and and even close to</p>
+<p begin="00:22:57.710" end="00:23:02.180" style="s2">Squirrel Hill</p>
+<p begin="00:22:58.460" end="00:23:04.550" style="s2">there were warehouses that were rusted</p>
+<p begin="00:23:02.180" end="00:23:06.260" style="s2">out steel mills that were rusted out and</p>
+<p begin="00:23:04.550" end="00:23:09.590" style="s2">nobody thought they should be torn down</p>
+<p begin="00:23:06.260" end="00:23:11.720" style="s2">or needed to be torn down or could be</p>
+<p begin="00:23:09.590" end="00:23:15.050" style="s2">bothered with them this was astounding</p>
+<p begin="00:23:11.720" end="00:23:18.830" style="s2">to me so that was Pittsburgh then that</p>
+<p begin="00:23:15.050" end="00:23:20.390" style="s2">now is a very different situation yeah</p>
+<p begin="00:23:18.830" end="00:23:22.460" style="s2">it is quite amazing how they have</p>
+<p begin="00:23:20.390" end="00:23:25.610" style="s2">recovered reinvented themselves as a</p>
+<p begin="00:23:22.460" end="00:23:28.370" style="s2">technology and a medical area as we know</p>
+<p begin="00:23:25.610" end="00:23:30.500" style="s2">Ober has their AI Center there&#39;s a lot</p>
+<p begin="00:23:28.370" end="00:23:32.290" style="s2">of robotics going on of course CMU has</p>
+<p begin="00:23:30.500" end="00:23:35.870" style="s2">been a big part of that Renaissance</p>
+<p begin="00:23:32.290" end="00:23:39.020" style="s2">absolutely and Google and lots and lots</p>
+<p begin="00:23:35.870" end="00:23:40.730" style="s2">of spin-offs in fact one of the patterns</p>
+<p begin="00:23:39.020" end="00:23:42.050" style="s2">I have noticed you know since we&#39;ve been</p>
+<p begin="00:23:40.730" end="00:23:44.540" style="s2">going up there three or four times a</p>
+<p begin="00:23:42.050" end="00:23:46.970" style="s2">year is that many of the Silicon Valley</p>
+<p begin="00:23:44.540" end="00:23:49.340" style="s2">companies are opening non-trivial</p>
+<p begin="00:23:46.970" end="00:23:52.340" style="s2">satellite operations in Pittsburgh and</p>
+<p begin="00:23:49.340" end="00:23:54.080" style="s2">I&#39;ve ascertained that the reason why is</p>
+<p begin="00:23:52.340" end="00:23:56.750" style="s2">that you know if you&#39;re living in</p>
+<p begin="00:23:54.080" end="00:23:59.180" style="s2">Silicon Valley and you&#39;re a 32 year old</p>
+<p begin="00:23:56.750" end="00:24:01.670" style="s2">engineer who married and wants to start</p>
+<p begin="00:23:59.180" end="00:24:03.560" style="s2">a family it&#39;s even if you&#39;re making big</p>
+<p begin="00:24:01.670" end="00:24:06.050" style="s2">Google type bucks you&#39;re still not going</p>
+<p begin="00:24:03.560" end="00:24:08.660" style="s2">to live very well in the Silicon Valley</p>
+<p begin="00:24:06.050" end="00:24:10.310" style="s2">however if you take those big Google</p>
+<p begin="00:24:08.660" end="00:24:12.560" style="s2">bucks and move to place like Pittsburgh</p>
+<p begin="00:24:10.310" end="00:24:13.580" style="s2">you can live like a king and apparently</p>
+<p begin="00:24:12.560" end="00:24:15.440" style="s2">that&#39;s what they&#39;re doing is they&#39;re</p>
+<p begin="00:24:13.580" end="00:24:17.930" style="s2">providing opportunities for people who</p>
+<p begin="00:24:15.440" end="00:24:19.580" style="s2">want to you know have a family have kids</p>
+<p begin="00:24:17.930" end="00:24:20.810" style="s2">you know have a house in a yard and</p>
+<p begin="00:24:19.580" end="00:24:22.940" style="s2">those kinds of things and not have a</p>
+<p begin="00:24:20.810" end="00:24:25.610" style="s2">two-hour commute to be able to do it a</p>
+<p begin="00:24:22.940" end="00:24:26.990" style="s2">very commodious town of Pittsburgh and</p>
+<p begin="00:24:25.610" end="00:24:29.960" style="s2">there&#39;s literally now thousands of</p>
+<p begin="00:24:26.990" end="00:24:31.820" style="s2">people from Apple Google and Adobe and</p>
+<p begin="00:24:29.960" end="00:24:33.260" style="s2">others that have you know moved to</p>
+<p begin="00:24:31.820" end="00:24:35.500" style="s2">Pittsburgh and operate out of these</p>
+<p begin="00:24:33.260" end="00:24:38.020" style="s2">satellite offices and</p>
+<p begin="00:24:35.500" end="00:24:41.170" style="s2">berg itself is it a beautiful natural</p>
+<p begin="00:24:38.020" end="00:24:43.690" style="s2">setting it&#39;s hilly there are three</p>
+<p begin="00:24:41.170" end="00:24:46.090" style="s2">rivers that meet there as any sports fan</p>
+<p begin="00:24:43.690" end="00:24:48.910" style="s2">knows it really is gorgeous</p>
+<p begin="00:24:46.090" end="00:24:51.160" style="s2">it was just badly done too in the 19th</p>
+<p begin="00:24:48.910" end="00:24:54.160" style="s2">and early 20th century it was certainly</p>
+<p begin="00:24:51.160" end="00:24:56.800" style="s2">it was the engine of the Industrial Age</p>
+<p begin="00:24:54.160" end="00:24:58.900" style="s2">and it paid the price on the flip side</p>
+<p begin="00:24:56.800" end="00:25:02.290" style="s2">today pittsburgh has about half the</p>
+<p begin="00:24:58.900" end="00:25:04.630" style="s2">population that it had 1955 but those</p>
+<p begin="00:25:02.290" end="00:25:07.480" style="s2">powerful and rich industrialists</p>
+<p begin="00:25:04.630" end="00:25:09.490" style="s2">invested heavily in museums in art</p>
+<p begin="00:25:07.480" end="00:25:11.530" style="s2">galleries in one of the really great</p>
+<p begin="00:25:09.490" end="00:25:13.780" style="s2">Fontana Kohl gardens of the United</p>
+<p begin="00:25:11.530" end="00:25:16.090" style="s2">States and parts of beautiful parks and</p>
+<p begin="00:25:13.780" end="00:25:18.550" style="s2">so essentially it has the infrastructure</p>
+<p begin="00:25:16.090" end="00:25:21.460" style="s2">for a city twice its size so it&#39;s</p>
+<p begin="00:25:18.550" end="00:25:23.860" style="s2">extremely rich in you know cultural</p>
+<p begin="00:25:21.460" end="00:25:26.560" style="s2">artifacts and organizations which makes</p>
+<p begin="00:25:23.860" end="00:25:28.120" style="s2">it kind of really interesting anyway</p>
+<p begin="00:25:26.560" end="00:25:30.130" style="s2">enough about Pittsburgh no I&#39;m not on</p>
+<p begin="00:25:28.120" end="00:25:31.510" style="s2">the payroll of the Pittsburgh Chamber of</p>
+<p begin="00:25:30.130" end="00:25:34.240" style="s2">Commerce but I have got to like the</p>
+<p begin="00:25:31.510" end="00:25:35.560" style="s2">place hop it back a little bit you know</p>
+<p begin="00:25:34.240" end="00:25:38.590" style="s2">one of the really interesting things</p>
+<p begin="00:25:35.560" end="00:25:41.590" style="s2">about your book is some rich and</p>
+<p begin="00:25:38.590" end="00:25:44.680" style="s2">personal and evocative profiles of some</p>
+<p begin="00:25:41.590" end="00:25:47.680" style="s2">of the big names of early AI guys like</p>
+<p begin="00:25:44.680" end="00:25:50.890" style="s2">Allen Newell John McCarthy Marvin Minsky</p>
+<p begin="00:25:47.680" end="00:25:54.130" style="s2">ed Feigenbaum when I didn&#39;t know Raj</p>
+<p begin="00:25:50.890" end="00:25:55.780" style="s2">Reddy and of course herb I love those</p>
+<p begin="00:25:54.130" end="00:25:58.030" style="s2">but I would also say maybe that</p>
+<p begin="00:25:55.780" end="00:26:00.960" style="s2">indicates that you have a perspective of</p>
+<p begin="00:25:58.030" end="00:26:03.130" style="s2">a great man version of the story of AI</p>
+<p begin="00:26:00.960" end="00:26:06.010" style="s2">you think that&#39;s true are there really</p>
+<p begin="00:26:03.130" end="00:26:07.780" style="s2">great men who are qualitatively deeper</p>
+<p begin="00:26:06.010" end="00:26:08.980" style="s2">than most of the other people really</p>
+<p begin="00:26:07.780" end="00:26:11.890" style="s2">just at the right place at the right</p>
+<p begin="00:26:08.980" end="00:26:14.530" style="s2">time oh boy</p>
+<p begin="00:26:11.890" end="00:26:17.680" style="s2">that&#39;s a chicken-and-egg problem I was</p>
+<p begin="00:26:14.530" end="00:26:20.560" style="s2">lucky to know these very great</p>
+<p begin="00:26:17.680" end="00:26:22.600" style="s2">intellects but would it have happened</p>
+<p begin="00:26:20.560" end="00:26:24.610" style="s2">anyway yeah it probably would have</p>
+<p begin="00:26:22.600" end="00:26:28.000" style="s2">happened anyway because when you look</p>
+<p begin="00:26:24.610" end="00:26:31.240" style="s2">around at papers in the 1940s I&#39;m</p>
+<p begin="00:26:28.000" end="00:26:35.200" style="s2">talking about academic papers everybody</p>
+<p begin="00:26:31.240" end="00:26:37.570" style="s2">has this mozzie kind of idea hey I think</p>
+<p begin="00:26:35.200" end="00:26:40.510" style="s2">this thing is kind of thinking this</p>
+<p begin="00:26:37.570" end="00:26:43.450" style="s2">computer thing it&#39;s just that these guys</p>
+<p begin="00:26:40.510" end="00:26:46.480" style="s2">took it and made something of it</p>
+<p begin="00:26:43.450" end="00:26:48.909" style="s2">scientifically yep another one of the</p>
+<p begin="00:26:46.480" end="00:26:51.519" style="s2">people who in my mind is an absolute</p>
+<p begin="00:26:48.909" end="00:26:54.609" style="s2">i an&#39;t of computer science and AI Alan</p>
+<p begin="00:26:51.519" end="00:26:58.359" style="s2">Newell yes tell me a little bit about</p>
+<p begin="00:26:54.609" end="00:27:02.679" style="s2">him what it was he like Oh Alan I I</p>
+<p begin="00:26:58.359" end="00:27:05.529" style="s2">should have been as in awe of Alan at</p>
+<p begin="00:27:02.679" end="00:27:07.359" style="s2">that faculty party I mentioned as I was</p>
+<p begin="00:27:05.529" end="00:27:10.239" style="s2">of her but Alan didn&#39;t have quite the</p>
+<p begin="00:27:07.359" end="00:27:11.769" style="s2">reputation that herb did at least in my</p>
+<p begin="00:27:10.239" end="00:27:16.330" style="s2">mind I was wrong of course</p>
+<p begin="00:27:11.769" end="00:27:19.509" style="s2">Alan was an amazing guy he was the son</p>
+<p begin="00:27:16.330" end="00:27:22.210" style="s2">of a San Francisco physician academic</p>
+<p begin="00:27:19.509" end="00:27:23.349" style="s2">physician I might say and had been</p>
+<p begin="00:27:22.210" end="00:27:26.470" style="s2">brought up in very comfortable</p>
+<p begin="00:27:23.349" end="00:27:29.169" style="s2">circumstances and did not want to be a</p>
+<p begin="00:27:26.470" end="00:27:32.159" style="s2">doctor like his dad ended up after</p>
+<p begin="00:27:29.169" end="00:27:36.190" style="s2">college at the RAND Corporation doing</p>
+<p begin="00:27:32.159" end="00:27:39.159" style="s2">logistics and things like that and then</p>
+<p begin="00:27:36.190" end="00:27:41.649" style="s2">he met herb Simon and herb and he</p>
+<p begin="00:27:39.159" end="00:27:44.259" style="s2">discovered that neither of them wanted</p>
+<p begin="00:27:41.649" end="00:27:47.710" style="s2">to use the computer as a any kind of</p>
+<p begin="00:27:44.259" end="00:27:51.429" style="s2">numerical calculator they wanted to use</p>
+<p begin="00:27:47.710" end="00:27:55.389" style="s2">it as a symbolic machine and they were</p>
+<p begin="00:27:51.429" end="00:27:57.070" style="s2">very much alone in that way I don&#39;t mean</p>
+<p begin="00:27:55.389" end="00:27:58.690" style="s2">totally alone there were of course other</p>
+<p begin="00:27:57.070" end="00:28:02.019" style="s2">people around the country who felt that</p>
+<p begin="00:27:58.690" end="00:28:06.129" style="s2">way a handful and so these two together</p>
+<p begin="00:28:02.019" end="00:28:10.029" style="s2">made a tremendous team Alan himself was</p>
+<p begin="00:28:06.129" end="00:28:12.669" style="s2">very cordial very lovely full of fun oh</p>
+<p begin="00:28:10.029" end="00:28:16.210" style="s2">my gosh you know he had a wonderful</p>
+<p begin="00:28:12.669" end="00:28:19.869" style="s2">sense of humor he was very affectionate</p>
+<p begin="00:28:16.210" end="00:28:22.659" style="s2">and very very hard-working</p>
+<p begin="00:28:19.869" end="00:28:24.609" style="s2">oh my you would get email from well</p>
+<p begin="00:28:22.659" end="00:28:27.820" style="s2">email we didn&#39;t call it email in those</p>
+<p begin="00:28:24.609" end="00:28:29.799" style="s2">days we called it ARPA messages but you</p>
+<p begin="00:28:27.820" end="00:28:31.899" style="s2">would get messages from him at 3:00 in</p>
+<p begin="00:28:29.799" end="00:28:33.940" style="s2">the morning because that&#39;s when he was</p>
+<p begin="00:28:31.899" end="00:28:37.539" style="s2">working not that he&#39;d quit he&#39;d been</p>
+<p begin="00:28:33.940" end="00:28:39.549" style="s2">working since after supper really really</p>
+<p begin="00:28:37.539" end="00:28:42.099" style="s2">a lovely man and he loved literature so</p>
+<p begin="00:28:39.549" end="00:28:44.649" style="s2">he and I often had talks about books we</p>
+<p begin="00:28:42.099" end="00:28:47.109" style="s2">loved and he and his wife Noel would</p>
+<p begin="00:28:44.649" end="00:28:48.879" style="s2">read aloud to each other at night and a</p>
+<p begin="00:28:47.109" end="00:28:51.849" style="s2">couple of times I I interrupt with them</p>
+<p begin="00:28:48.879" end="00:28:54.009" style="s2">for one reason or another and they were</p>
+<p begin="00:28:51.849" end="00:28:55.919" style="s2">reading aloud okay Pamela what do you</p>
+<p begin="00:28:54.009" end="00:28:59.169" style="s2">want go away</p>
+<p begin="00:28:55.919" end="00:29:01.269" style="s2">wow what an amazing another one of the</p>
+<p begin="00:28:59.169" end="00:29:02.020" style="s2">great brains from that era that you got</p>
+<p begin="00:29:01.269" end="00:29:05.050" style="s2">to know pretty well</p>
+<p begin="00:29:02.020" end="00:29:07.690" style="s2">now you also got to know people in a</p>
+<p begin="00:29:05.050" end="00:29:10.090" style="s2">more professional capacity through a</p>
+<p begin="00:29:07.690" end="00:29:12.970" style="s2">quite important early book that you</p>
+<p begin="00:29:10.090" end="00:29:14.320" style="s2">wrote called machines who think and now</p>
+<p begin="00:29:12.970" end="00:29:19.030" style="s2">one of the interesting things when I see</p>
+<p begin="00:29:14.320" end="00:29:22.600" style="s2">that title is the word whoo yes tell me</p>
+<p begin="00:29:19.030" end="00:29:24.820" style="s2">about that a little bit I was writing</p>
+<p begin="00:29:22.600" end="00:29:27.880" style="s2">the first modern history of artificial</p>
+<p begin="00:29:24.820" end="00:29:29.590" style="s2">intelligence and you know casting around</p>
+<p begin="00:29:27.880" end="00:29:30.970" style="s2">for a title as you do with books yeah</p>
+<p begin="00:29:29.590" end="00:29:34.240" style="s2">what am I going to call this book so it</p>
+<p begin="00:29:30.970" end="00:29:37.540" style="s2">will leap off the shelf blah blah and it</p>
+<p begin="00:29:34.240" end="00:29:40.360" style="s2">was Joe trout my husband who said don&#39;t</p>
+<p begin="00:29:37.540" end="00:29:43.150" style="s2">call him machines that thing call it</p>
+<p begin="00:29:40.360" end="00:29:47.140" style="s2">machines who think because we were both</p>
+<p begin="00:29:43.150" end="00:29:49.360" style="s2">under the influence of the idea that the</p>
+<p begin="00:29:47.140" end="00:29:51.160" style="s2">thinking that machines were doing the</p>
+<p begin="00:29:49.360" end="00:29:54.370" style="s2">thinking that humans were doing were</p>
+<p begin="00:29:51.160" end="00:29:56.440" style="s2">very very similar and I must confess I</p>
+<p begin="00:29:54.370" end="00:29:59.800" style="s2">was also under the influence of Marvin</p>
+<p begin="00:29:56.440" end="00:30:02.920" style="s2">Minsky who called people meat machines</p>
+<p begin="00:29:59.800" end="00:30:05.800" style="s2">me-80 machines and I thought yeah</p>
+<p begin="00:30:02.920" end="00:30:08.290" style="s2">machines who think we&#39;re all thinking I</p>
+<p begin="00:30:05.800" end="00:30:09.850" style="s2">thought that was very very clever that</p>
+<p begin="00:30:08.290" end="00:30:11.770" style="s2">book had a little bit of a difficult</p>
+<p begin="00:30:09.850" end="00:30:16.270" style="s2">history getting signed if you tell us a</p>
+<p begin="00:30:11.770" end="00:30:19.180" style="s2">little bit about that oh gosh yes I had</p>
+<p begin="00:30:16.270" end="00:30:21.730" style="s2">an agent and my agent took the proposal</p>
+<p begin="00:30:19.180" end="00:30:24.010" style="s2">to various publishers and the replies</p>
+<p begin="00:30:21.730" end="00:30:26.590" style="s2">were in retrospect absolutely hilarious</p>
+<p begin="00:30:24.010" end="00:30:32.200" style="s2">it was we&#39;ve already done a book on</p>
+<p begin="00:30:26.590" end="00:30:37.540" style="s2">computers or uh gee interesting too bad</p>
+<p begin="00:30:32.200" end="00:30:39.580" style="s2">it&#39;s too late and this is an entry is</p>
+<p begin="00:30:37.540" end="00:30:42.490" style="s2">she kidding essentially that was is she</p>
+<p begin="00:30:39.580" end="00:30:44.950" style="s2">kidding and you know you could hardly</p>
+<p begin="00:30:42.490" end="00:30:48.790" style="s2">blame them artificial intelligence was</p>
+<p begin="00:30:44.950" end="00:30:51.610" style="s2">in a very nascent State at that point</p>
+<p begin="00:30:48.790" end="00:30:54.610" style="s2">but still if authors are gonna call</p>
+<p begin="00:30:51.610" end="00:30:56.440" style="s2">themselves Canaries in the coal mine</p>
+<p begin="00:30:54.610" end="00:30:59.530" style="s2">they need to pay attention to what&#39;s</p>
+<p begin="00:30:56.440" end="00:31:02.530" style="s2">happening right now and nobody wanted to</p>
+<p begin="00:30:59.530" end="00:31:04.540" style="s2">do that well yeah it went to 30 some</p>
+<p begin="00:31:02.530" end="00:31:07.240" style="s2">publishers before it finally got signed</p>
+<p begin="00:31:04.540" end="00:31:09.340" style="s2">by the publishing arm of Scientific</p>
+<p begin="00:31:07.240" end="00:31:11.740" style="s2">American and what year would that have</p>
+<p begin="00:31:09.340" end="00:31:15.399" style="s2">been for our audience it actually came</p>
+<p begin="00:31:11.740" end="00:31:18.129" style="s2">out in 1979 but it was signed what 70</p>
+<p begin="00:31:15.399" end="00:31:20.379" style="s2">seven maybe or me 778 something like</p>
+<p begin="00:31:18.129" end="00:31:22.960" style="s2">that yeah still hard to imagine that you</p>
+<p begin="00:31:20.379" end="00:31:24.909" style="s2">know 77 you know we had lots of</p>
+<p begin="00:31:22.960" end="00:31:27.249" style="s2">computers out there that nobody in</p>
+<p begin="00:31:24.909" end="00:31:30.159" style="s2">publishing was interested in a serious</p>
+<p begin="00:31:27.249" end="00:31:31.690" style="s2">history of AI or you know you had to go</p>
+<p begin="00:31:30.159" end="00:31:34.299" style="s2">to 36 of them before you found one to</p>
+<p begin="00:31:31.690" end="00:31:37.499" style="s2">say yes that&#39;s hard to believe even</p>
+<p begin="00:31:34.299" end="00:31:40.599" style="s2">worse in my view historians of science</p>
+<p begin="00:31:37.499" end="00:31:42.159" style="s2">weren&#39;t interested in the field can you</p>
+<p begin="00:31:40.599" end="00:31:43.869" style="s2">think can you believe that</p>
+<p begin="00:31:42.159" end="00:31:45.279" style="s2">that is amazing all right wonder what</p>
+<p begin="00:31:43.869" end="00:31:47.200" style="s2">things that are happening now</p>
+<p begin="00:31:45.279" end="00:31:48.940" style="s2">that are gonna be unusually important in</p>
+<p begin="00:31:47.200" end="00:31:51.309" style="s2">the future that we are mooring like</p>
+<p begin="00:31:48.940" end="00:31:53.379" style="s2">where them now but I did ask one</p>
+<p begin="00:31:51.309" end="00:31:57.099" style="s2">historian of science much later where</p>
+<p begin="00:31:53.379" end="00:31:58.239" style="s2">were you guys and she said you know we</p>
+<p begin="00:31:57.099" end="00:32:02.320" style="s2">really didn&#39;t know if it would be</p>
+<p begin="00:31:58.239" end="00:32:04.599" style="s2">important another reason I named the</p>
+<p begin="00:32:02.320" end="00:32:07.149" style="s2">book but it did interesting I like that</p>
+<p begin="00:32:04.599" end="00:32:09.839" style="s2">another interesting really landmark</p>
+<p begin="00:32:07.149" end="00:32:12.460" style="s2">historical event that you write about is</p>
+<p begin="00:32:09.839" end="00:32:14.679" style="s2">don&#39;t believe you were there but maybe</p>
+<p begin="00:32:12.460" end="00:32:16.929" style="s2">you were assignment and Newell&#39;s logic</p>
+<p begin="00:32:14.679" end="00:32:20.320" style="s2">theorists this was the first working</p>
+<p begin="00:32:16.929" end="00:32:21.549" style="s2">program to do something which of humans</p>
+<p begin="00:32:20.320" end="00:32:23.679" style="s2">did it we&#39;d say that&#39;s intelligent</p>
+<p begin="00:32:21.549" end="00:32:26.830" style="s2">behavior it was very much in the</p>
+<p begin="00:32:23.679" end="00:32:28.119" style="s2">symbolic arm of AI it wasn&#39;t you know it</p>
+<p begin="00:32:26.830" end="00:32:30.309" style="s2">didn&#39;t look at tons of data</p>
+<p begin="00:32:28.119" end="00:32:32.940" style="s2">it wasn&#39;t machine learning there was no</p>
+<p begin="00:32:30.309" end="00:32:36.159" style="s2">such thing then this was something</p>
+<p begin="00:32:32.940" end="00:32:38.649" style="s2">figuring out what to do next by reason</p>
+<p begin="00:32:36.159" end="00:32:41.200" style="s2">of reason by using reason and was able</p>
+<p begin="00:32:38.649" end="00:32:43.599" style="s2">actually to improve upon some of the</p>
+<p begin="00:32:41.200" end="00:32:45.700" style="s2">earlier mathematical proofs by even</p>
+<p begin="00:32:43.599" end="00:32:49.629" style="s2">quite famous mathematicians as I recall</p>
+<p begin="00:32:45.700" end="00:32:52.419" style="s2">yeah right and interestingly logicians</p>
+<p begin="00:32:49.629" end="00:32:55.149" style="s2">professional magicians looked at it and</p>
+<p begin="00:32:52.419" end="00:32:57.279" style="s2">they said oh well you know this wasn&#39;t</p>
+<p begin="00:32:55.149" end="00:32:58.830" style="s2">so hot we can we can create a machine</p>
+<p begin="00:32:57.279" end="00:33:02.109" style="s2">that can do logic better than that</p>
+<p begin="00:32:58.830" end="00:33:05.109" style="s2">completely missing the point that Nuland</p>
+<p begin="00:33:02.109" end="00:33:07.659" style="s2">címon weren&#39;t interested in creating a</p>
+<p begin="00:33:05.109" end="00:33:10.749" style="s2">killer logic machine they were</p>
+<p begin="00:33:07.659" end="00:33:13.210" style="s2">interested in modeling human behavior</p>
+<p begin="00:33:10.749" end="00:33:17.169" style="s2">they were both cognitive psychologists</p>
+<p begin="00:33:13.210" end="00:33:18.519" style="s2">that was their machine a minute so you</p>
+<p begin="00:33:17.169" end="00:33:21.159" style="s2">know definitely an important milestone</p>
+<p begin="00:33:18.519" end="00:33:22.809" style="s2">in the in the very earliest history it&#39;s</p>
+<p begin="00:33:21.159" end="00:33:26.169" style="s2">amazing how early it was was it was in</p>
+<p begin="00:33:22.809" end="00:33:27.489" style="s2">the late 50 some time 56 they came to</p>
+<p begin="00:33:26.169" end="00:33:28.840" style="s2">the Dartmouth conference with this</p>
+<p begin="00:33:27.489" end="00:33:32.409" style="s2">working program</p>
+<p begin="00:33:28.840" end="00:33:34.870" style="s2">amazing back to two cultures again well</p>
+<p begin="00:33:32.409" end="00:33:36.429" style="s2">one of the little stories that leaped</p>
+<p begin="00:33:34.870" end="00:33:38.830" style="s2">out to me that I suspect is strongly</p>
+<p begin="00:33:36.429" end="00:33:41.470" style="s2">interwoven with the CPS knows two</p>
+<p begin="00:33:38.830" end="00:33:43.809" style="s2">cultures is you were not approved for</p>
+<p begin="00:33:41.470" end="00:33:45.190" style="s2">tenure when you came up for tenure at</p>
+<p begin="00:33:43.809" end="00:33:47.679" style="s2">the University of Pittsburgh here you</p>
+<p begin="00:33:45.190" end="00:33:49.539" style="s2">were a successful author would you had</p>
+<p begin="00:33:47.679" end="00:33:52.090" style="s2">three books out at that point get a</p>
+<p begin="00:33:49.539" end="00:33:53.950" style="s2">contract for another perhaps and you</p>
+<p begin="00:33:52.090" end="00:33:55.450" style="s2">know I&#39;m sure that scene must have</p>
+<p begin="00:33:53.950" end="00:33:57.639" style="s2">struck you as particularly odd at the</p>
+<p begin="00:33:55.450" end="00:34:00.610" style="s2">time unless do you think the the two</p>
+<p begin="00:33:57.639" end="00:34:02.830" style="s2">cultures problem was part of that oh I</p>
+<p begin="00:34:00.610" end="00:34:06.369" style="s2">think it was very much a two cultures</p>
+<p begin="00:34:02.830" end="00:34:09.069" style="s2">problem because tenure decisions are</p>
+<p begin="00:34:06.369" end="00:34:11.980" style="s2">usually they&#39;re supposed to be secret</p>
+<p begin="00:34:09.069" end="00:34:15.040" style="s2">but of course they&#39;re quite leaky and I</p>
+<p begin="00:34:11.980" end="00:34:15.790" style="s2">heard leaks saying she&#39;s sold out to the</p>
+<p begin="00:34:15.040" end="00:34:18.159" style="s2">machines</p>
+<p begin="00:34:15.790" end="00:34:20.109" style="s2">she thinks machines are going to think</p>
+<p begin="00:34:18.159" end="00:34:23.740" style="s2">she doesn&#39;t belong in an English</p>
+<p begin="00:34:20.109" end="00:34:24.909" style="s2">department and maybe they were right it</p>
+<p begin="00:34:23.740" end="00:34:27.460" style="s2">might have been the best thing that ever</p>
+<p begin="00:34:24.909" end="00:34:29.079" style="s2">happened to you in fact it was because</p>
+<p begin="00:34:27.460" end="00:34:31.419" style="s2">it sent us to New York City when we</p>
+<p begin="00:34:29.079" end="00:34:34.629" style="s2">lived in New York just rapturously for</p>
+<p begin="00:34:31.419" end="00:34:37.389" style="s2">40 years yes and that were Jo travel I</p>
+<p begin="00:34:34.629" end="00:34:40.119" style="s2">know or knew he&#39;s departed now a</p>
+<p begin="00:34:37.389" end="00:34:41.079" style="s2">wonderful human being and again the</p>
+<p begin="00:34:40.119" end="00:34:42.520" style="s2">other part of the thing in the book</p>
+<p begin="00:34:41.079" end="00:34:44.649" style="s2">probably not to talk about too much is</p>
+<p begin="00:34:42.520" end="00:34:48.010" style="s2">that the book is also a love story about</p>
+<p begin="00:34:44.649" end="00:34:50.379" style="s2">Pamela and Joe Joe basically was brought</p>
+<p begin="00:34:48.010" end="00:34:52.000" style="s2">to Columbia to rebuild their computer</p>
+<p begin="00:34:50.379" end="00:34:55.030" style="s2">science department or to start it from</p>
+<p begin="00:34:52.000" end="00:34:57.010" style="s2">scratch I don&#39;t it started where</p>
+<p begin="00:34:55.030" end="00:34:59.440" style="s2">Columbia was Ivy League and I the I</p>
+<p begin="00:34:57.010" end="00:35:02.980" style="s2">beliefs were the last really to do</p>
+<p begin="00:34:59.440" end="00:35:05.859" style="s2">computer science formally and that got</p>
+<p begin="00:35:02.980" end="00:35:08.970" style="s2">you out of Pittsburgh and if not back to</p>
+<p begin="00:35:05.859" end="00:35:11.380" style="s2">California at least into the big time</p>
+<p begin="00:35:08.970" end="00:35:14.200" style="s2">that was sound like you lived quite the</p>
+<p begin="00:35:11.380" end="00:35:16.960" style="s2">life in New York also Oh a wonderful</p>
+<p begin="00:35:14.200" end="00:35:18.390" style="s2">life what were some of the cultural high</p>
+<p begin="00:35:16.960" end="00:35:21.460" style="s2">points in your mind</p>
+<p begin="00:35:18.390" end="00:35:23.829" style="s2">well we both adored the Performing Arts</p>
+<p begin="00:35:21.460" end="00:35:26.079" style="s2">that we were at the Opera and we were at</p>
+<p begin="00:35:23.829" end="00:35:28.990" style="s2">the theater and so on and so forth and</p>
+<p begin="00:35:26.079" end="00:35:31.930" style="s2">later Joe thought we we should stop</p>
+<p begin="00:35:28.990" end="00:35:35.980" style="s2">being such amateurs at this so he signed</p>
+<p begin="00:35:31.930" end="00:35:39.280" style="s2">us up for courses at Juilliard for music</p>
+<p begin="00:35:35.980" end="00:35:40.829" style="s2">and courses at the Museum of Modern Art</p>
+<p begin="00:35:39.280" end="00:35:42.749" style="s2">for art I</p>
+<p begin="00:35:40.829" end="00:35:45.450" style="s2">think I would have but I was really glad</p>
+<p begin="00:35:42.749" end="00:35:47.670" style="s2">he did it it was just wonderful just</p>
+<p begin="00:35:45.450" end="00:35:50.309" style="s2">wonderful and of course our friendships</p>
+<p begin="00:35:47.670" end="00:35:53.369" style="s2">went across all kinds of disciplines</p>
+<p begin="00:35:50.309" end="00:35:56.190" style="s2">because of that and I of course was in</p>
+<p begin="00:35:53.369" end="00:35:59.279" style="s2">various literary circles because I was a</p>
+<p begin="00:35:56.190" end="00:36:01.259" style="s2">officer of Penn the author&#39;s</p>
+<p begin="00:35:59.279" end="00:36:04.529" style="s2">organization that the freedom to write</p>
+<p begin="00:36:01.259" end="00:36:06.569" style="s2">freedom of expression and ran into most</p>
+<p begin="00:36:04.529" end="00:36:09.950" style="s2">of the Great and the near-great there</p>
+<p begin="00:36:06.569" end="00:36:13.170" style="s2">and as far as authors were concerned and</p>
+<p begin="00:36:09.950" end="00:36:14.640" style="s2">believe me I was considered really weird</p>
+<p begin="00:36:13.170" end="00:36:17.269" style="s2">writing about this thing called</p>
+<p begin="00:36:14.640" end="00:36:19.920" style="s2">artificial intelligence oh very very</p>
+<p begin="00:36:17.269" end="00:36:21.719" style="s2">interesting but weird interesting and</p>
+<p begin="00:36:19.920" end="00:36:23.759" style="s2">there were some other kinds of pushback</p>
+<p begin="00:36:21.719" end="00:36:27.029" style="s2">which I found interesting from your book</p>
+<p begin="00:36:23.759" end="00:36:30.869" style="s2">the one I found most startling was Arno</p>
+<p begin="00:36:27.029" end="00:36:33.539" style="s2">Penzias I got his name right the Nobel</p>
+<p begin="00:36:30.869" end="00:36:36.239" style="s2">Prize winner from Bell Labs who detected</p>
+<p begin="00:36:33.539" end="00:36:38.219" style="s2">the radio signal remnant from the Big</p>
+<p begin="00:36:36.239" end="00:36:41.099" style="s2">Bang the famous three degree Kelvin</p>
+<p begin="00:36:38.219" end="00:36:42.809" style="s2">microwave background well you know one</p>
+<p begin="00:36:41.099" end="00:36:44.969" style="s2">of the great experimental discoveries of</p>
+<p begin="00:36:42.809" end="00:36:47.609" style="s2">the 20th century and yet he seemed to be</p>
+<p begin="00:36:44.969" end="00:36:49.849" style="s2">foaming on the topic that computers</p>
+<p begin="00:36:47.609" end="00:36:53.339" style="s2">can&#39;t think tell us about that</p>
+<p begin="00:36:49.849" end="00:36:55.440" style="s2">it&#39;s just the word I guess I can tell</p>
+<p begin="00:36:53.339" end="00:36:57.839" style="s2">this on the air you can scratch it out</p>
+<p begin="00:36:55.440" end="00:37:03.719" style="s2">nice I say absolutely anything you know</p>
+<p begin="00:36:57.839" end="00:37:05.880" style="s2">me he said yeah he called me one morning</p>
+<p begin="00:37:03.719" end="00:37:08.039" style="s2">before I was even up Joe got me up and</p>
+<p begin="00:37:05.880" end="00:37:12.719" style="s2">said oh phone for you it&#39;s our no we</p>
+<p begin="00:37:08.039" end="00:37:15.449" style="s2">knew our know socially and there is Arno</p>
+<p begin="00:37:12.719" end="00:37:18.299" style="s2">Penzias on the phone camera I just read</p>
+<p begin="00:37:15.449" end="00:37:20.999" style="s2">this book of yours and he went on for</p>
+<p begin="00:37:18.299" end="00:37:24.359" style="s2">half an hour telling me why machines</p>
+<p begin="00:37:20.999" end="00:37:26.999" style="s2">could never ever ever think and how I</p>
+<p begin="00:37:24.359" end="00:37:29.579" style="s2">had wasted three or four years of my</p>
+<p begin="00:37:26.999" end="00:37:31.499" style="s2">life writing this book and blah blah and</p>
+<p begin="00:37:29.579" end="00:37:33.059" style="s2">on and on and finally after a half an</p>
+<p begin="00:37:31.499" end="00:37:35.160" style="s2">hour where I couldn&#39;t get a word in</p>
+<p begin="00:37:33.059" end="00:37:37.170" style="s2">edgewise I finally said to him I know I</p>
+<p begin="00:37:35.160" end="00:37:39.329" style="s2">know I know you&#39;re a married man</p>
+<p begin="00:37:37.170" end="00:37:40.650" style="s2">you got me out of bed I haven&#39;t even</p>
+<p begin="00:37:39.329" end="00:37:44.759" style="s2">been to the bathroom yet</p>
+<p begin="00:37:40.650" end="00:37:48.749" style="s2">oh my goodness I mean and here&#39;s a</p>
+<p begin="00:37:44.759" end="00:37:50.579" style="s2">here&#39;s a gym and here&#39;s a giant of</p>
+<p begin="00:37:48.749" end="00:37:52.450" style="s2">science right and you would think that</p>
+<p begin="00:37:50.579" end="00:37:53.890" style="s2">this would not</p>
+<p begin="00:37:52.450" end="00:37:56.140" style="s2">you know he would not react this way but</p>
+<p begin="00:37:53.890" end="00:37:57.849" style="s2">but if there does seem to be and you&#39;re</p>
+<p begin="00:37:56.140" end="00:37:59.650" style="s2">you bring these stories up again and</p>
+<p begin="00:37:57.849" end="00:38:02.950" style="s2">again where people almost feel</p>
+<p begin="00:37:59.650" end="00:38:05.829" style="s2">personally affronted by the idea you&#39;ve</p>
+<p begin="00:38:02.950" end="00:38:08.470" style="s2">got it it they really took it personally</p>
+<p begin="00:38:05.829" end="00:38:10.990" style="s2">for better or worse yeah that is</p>
+<p begin="00:38:08.470" end="00:38:13.780" style="s2">interesting and you know ours this is a</p>
+<p begin="00:38:10.990" end="00:38:14.920" style="s2">legacy of the old chain of being you</p>
+<p begin="00:38:13.780" end="00:38:18.040" style="s2">know that goes back to the Middle Ages</p>
+<p begin="00:38:14.920" end="00:38:20.320" style="s2">with humans near the top right below the</p>
+<p begin="00:38:18.040" end="00:38:21.400" style="s2">Angels right because that&#39;s one of the</p>
+<p begin="00:38:20.320" end="00:38:23.050" style="s2">things I&#39;ve always you know frankly</p>
+<p begin="00:38:21.400" end="00:38:25.210" style="s2">loved about AI I&#39;d love to have some</p>
+<p begin="00:38:23.050" end="00:38:29.140" style="s2">other intelligent entity to talk to</p>
+<p begin="00:38:25.210" end="00:38:31.270" style="s2">besides just people right it&#39;s not funny</p>
+<p begin="00:38:29.140" end="00:38:34.390" style="s2">you and I feel the same I would love</p>
+<p begin="00:38:31.270" end="00:38:37.839" style="s2">another mind around I&#39;m smarter than me</p>
+<p begin="00:38:34.390" end="00:38:39.339" style="s2">find hey I had friendships with Newell</p>
+<p begin="00:38:37.839" end="00:38:42.130" style="s2">and Simon I had friendships with</p>
+<p begin="00:38:39.339" end="00:38:45.250" style="s2">McCarthy and Feigenbaum and Minsky I</p>
+<p begin="00:38:42.130" end="00:38:47.530" style="s2">know that smarter human beings that may</p>
+<p begin="00:38:45.250" end="00:38:50.410" style="s2">exist and it was always wonderful to be</p>
+<p begin="00:38:47.530" end="00:38:52.750" style="s2">around them a smarter machines fine</p>
+<p begin="00:38:50.410" end="00:38:55.359" style="s2">let&#39;s talk the things that would be cool</p>
+<p begin="00:38:52.750" end="00:38:58.599" style="s2">would be the alienness of their minds</p>
+<p begin="00:38:55.359" end="00:38:59.980" style="s2">most likely right well we really were to</p>
+<p begin="00:38:58.599" end="00:39:03.490" style="s2">achieve artificial general intelligence</p>
+<p begin="00:38:59.980" end="00:39:05.619" style="s2">I suspect it relatively unlikely to be a</p>
+<p begin="00:39:03.490" end="00:39:08.470" style="s2">mind very much like a human mind and</p>
+<p begin="00:39:05.619" end="00:39:10.180" style="s2">that would be interesting yeah and and I</p>
+<p begin="00:39:08.470" end="00:39:12.250" style="s2">don&#39;t even know if that&#39;s true it may be</p>
+<p begin="00:39:10.180" end="00:39:14.290" style="s2">that we don&#39;t recognize anything that</p>
+<p begin="00:39:12.250" end="00:39:16.450" style="s2">isn&#39;t quite like in our minds I don&#39;t</p>
+<p begin="00:39:14.290" end="00:39:18.430" style="s2">know I don&#39;t know will be interesting to</p>
+<p begin="00:39:16.450" end="00:39:20.500" style="s2">find out here over the next somewhere</p>
+<p begin="00:39:18.430" end="00:39:22.660" style="s2">between 10 and 200 years it is</p>
+<p begin="00:39:20.500" end="00:39:24.480" style="s2">interesting how actually I have talked</p>
+<p begin="00:39:22.660" end="00:39:27.819" style="s2">to one of the world&#39;s leading experts on</p>
+<p begin="00:39:24.480" end="00:39:29.410" style="s2">artificial general intelligence just</p>
+<p begin="00:39:27.819" end="00:39:31.240" style="s2">this week he actually stopped by and we</p>
+<p begin="00:39:29.410" end="00:39:34.300" style="s2">chatted for a few hours guy named Ben</p>
+<p begin="00:39:31.240" end="00:39:37.119" style="s2">girsl in fact he&#39;s going the expression</p>
+<p begin="00:39:34.300" end="00:39:40.569" style="s2">artificial general intelligence and he</p>
+<p begin="00:39:37.119" end="00:39:42.160" style="s2">was saying that the open AI guys who</p>
+<p begin="00:39:40.569" end="00:39:44.339" style="s2">recently got a billion-dollar investment</p>
+<p begin="00:39:42.160" end="00:39:46.780" style="s2">from Microsoft are now claiming that</p>
+<p begin="00:39:44.339" end="00:39:49.270" style="s2">artificial general intelligence ie a</p>
+<p begin="00:39:46.780" end="00:39:52.900" style="s2">human style of intelligence is less than</p>
+<p begin="00:39:49.270" end="00:39:55.869" style="s2">five years away oh my he personally</p>
+<p begin="00:39:52.900" end="00:39:58.150" style="s2">didn&#39;t believe it and he is the leading</p>
+<p begin="00:39:55.869" end="00:40:00.250" style="s2">thinker in my opinion on artificial</p>
+<p begin="00:39:58.150" end="00:40:02.589" style="s2">general intelligence but these are</p>
+<p begin="00:40:00.250" end="00:40:04.810" style="s2">non-trivial people and they talked</p>
+<p begin="00:40:02.589" end="00:40:06.410" style="s2">Microsoft out of a billion dollars and</p>
+<p begin="00:40:04.810" end="00:40:09.200" style="s2">Microsoft is not</p>
+<p begin="00:40:06.410" end="00:40:10.760" style="s2">shabby bunch of thinkers or their</p>
+<p begin="00:40:09.200" end="00:40:13.010" style="s2">famously hard-ass when it comes to</p>
+<p begin="00:40:10.760" end="00:40:14.570" style="s2">business right so I don&#39;t know maybe</p>
+<p begin="00:40:13.010" end="00:40:16.430" style="s2">it&#39;s quicker it maybe he&#39;s even shorter</p>
+<p begin="00:40:14.570" end="00:40:18.860" style="s2">than ten years it certainly will be an</p>
+<p begin="00:40:16.430" end="00:40:21.710" style="s2">interesting very interesting time it&#39;s</p>
+<p begin="00:40:18.860" end="00:40:23.420" style="s2">an area I follow quite closely and you</p>
+<p begin="00:40:21.710" end="00:40:24.980" style="s2">know some think but frankly as we were</p>
+<p begin="00:40:23.420" end="00:40:29.360" style="s2">just saying part of it is just this</p>
+<p begin="00:40:24.980" end="00:40:31.060" style="s2">libido to talk to somebody else you know</p>
+<p begin="00:40:29.360" end="00:40:33.380" style="s2">it&#39;s one of the themes here on the show</p>
+<p begin="00:40:31.060" end="00:40:35.330" style="s2">probably half of our shows at least one</p>
+<p begin="00:40:33.380" end="00:40:38.060" style="s2">of the topics I talk with the guests on</p>
+<p begin="00:40:35.330" end="00:40:40.310" style="s2">is the Fermi paradox which is hey where</p>
+<p begin="00:40:38.060" end="00:40:41.750" style="s2">are the aliens right out in space and I</p>
+<p begin="00:40:40.310" end="00:40:44.150" style="s2">think it comes from the same motivation</p>
+<p begin="00:40:41.750" end="00:40:45.290" style="s2">many of us hope we can find aliens just</p>
+<p begin="00:40:44.150" end="00:40:47.690" style="s2">so we could talk to them see what they</p>
+<p begin="00:40:45.290" end="00:40:49.370" style="s2">know mm-hmm and we don&#39;t feel</p>
+<p begin="00:40:47.690" end="00:40:51.080" style="s2">particularly threatened by them you know</p>
+<p begin="00:40:49.370" end="00:40:53.030" style="s2">hey let&#39;s sit down and have a beer</p>
+<p begin="00:40:51.080" end="00:40:55.420" style="s2">together though maybe we should in fact</p>
+<p begin="00:40:53.030" end="00:40:58.040" style="s2">one of the arguments right now is the</p>
+<p begin="00:40:55.420" end="00:40:59.150" style="s2">discussion around Medi there SETI which</p>
+<p begin="00:40:58.040" end="00:41:01.760" style="s2">is a search for extraterrestrial</p>
+<p begin="00:40:59.150" end="00:41:04.070" style="s2">intelligence which has been going on for</p>
+<p begin="00:41:01.760" end="00:41:06.860" style="s2">60 years in fact one of our recent</p>
+<p begin="00:41:04.070" end="00:41:09.020" style="s2">guests on the show was Jill tarter the</p>
+<p begin="00:41:06.860" end="00:41:10.820" style="s2">world&#39;s historical we leading</p>
+<p begin="00:41:09.020" end="00:41:12.890" style="s2">researchers search for terrestrial</p>
+<p begin="00:41:10.820" end="00:41:14.750" style="s2">television she&#39;s now retired but we had</p>
+<p begin="00:41:12.890" end="00:41:17.900" style="s2">a wonderful wonderful talk about the</p>
+<p begin="00:41:14.750" end="00:41:20.330" style="s2">search and then there&#39;s many the</p>
+<p begin="00:41:17.900" end="00:41:22.430" style="s2">messaging to extraterrestrial</p>
+<p begin="00:41:20.330" end="00:41:27.200" style="s2">intelligence which is hugely</p>
+<p begin="00:41:22.430" end="00:41:29.180" style="s2">controversial you know people like okay</p>
+<p begin="00:41:27.200" end="00:41:30.680" style="s2">you know he says you know this is the</p>
+<p begin="00:41:29.180" end="00:41:32.990" style="s2">stupidest thing we could possibly do</p>
+<p begin="00:41:30.680" end="00:41:36.020" style="s2">which is to yell to the universe we&#39;re</p>
+<p begin="00:41:32.990" end="00:41:38.480" style="s2">here come eatest time will tell right</p>
+<p begin="00:41:36.020" end="00:41:41.060" style="s2">well he felt the same way about AEI so</p>
+<p begin="00:41:38.480" end="00:41:44.120" style="s2">what can you say yeah well we&#39;ll revisit</p>
+<p begin="00:41:41.060" end="00:41:46.430" style="s2">that one this this idea of summoning the</p>
+<p begin="00:41:44.120" end="00:41:49.730" style="s2">demon before we do that one more reach</p>
+<p begin="00:41:46.430" end="00:41:51.140" style="s2">out into this two cultures theme another</p>
+<p begin="00:41:49.730" end="00:41:53.240" style="s2">book you wrote which I did not know you</p>
+<p begin="00:41:51.140" end="00:41:56.660" style="s2">heard wrote but I&#39;m gonna go back to get</p>
+<p begin="00:41:53.240" end="00:41:58.610" style="s2">it read it is Aaron&#39;s code yeah which</p>
+<p begin="00:41:56.660" end="00:42:01.250" style="s2">you know in short isn&#39;t the story about</p>
+<p begin="00:41:58.610" end="00:42:03.230" style="s2">an artist who used computers to generate</p>
+<p begin="00:42:01.250" end="00:42:05.300" style="s2">our tell us about that well not</p>
+<p begin="00:42:03.230" end="00:42:07.460" style="s2">computers so much because there&#39;s a lot</p>
+<p begin="00:42:05.300" end="00:42:10.760" style="s2">of computer generated arts these days</p>
+<p begin="00:42:07.460" end="00:42:12.770" style="s2">and there was even as he well not so</p>
+<p begin="00:42:10.760" end="00:42:15.770" style="s2">much as he began but there certainly it</p>
+<p begin="00:42:12.770" end="00:42:19.460" style="s2">existed anything that could be scanned</p>
+<p begin="00:42:15.770" end="00:42:20.049" style="s2">and printed on a plotter was counted as</p>
+<p begin="00:42:19.460" end="00:42:23.349" style="s2">art</p>
+<p begin="00:42:20.049" end="00:42:26.439" style="s2">those days and Harold Cohen the artist</p>
+<p begin="00:42:23.349" end="00:42:29.619" style="s2">were talking about wanted to know what</p>
+<p begin="00:42:26.439" end="00:42:33.880" style="s2">the decision process of an artist was</p>
+<p begin="00:42:29.619" end="00:42:36.369" style="s2">and since he knew about these cognitive</p>
+<p begin="00:42:33.880" end="00:42:39.729" style="s2">scientists who were thinking about</p>
+<p begin="00:42:36.369" end="00:42:42.099" style="s2">modeling human thought could he model</p>
+<p begin="00:42:39.729" end="00:42:45.599" style="s2">the thought of an artist with thinking</p>
+<p begin="00:42:42.099" end="00:42:47.559" style="s2">processes and so that was really his</p>
+<p begin="00:42:45.599" end="00:42:49.239" style="s2">reason for doing it he didn&#39;t</p>
+<p begin="00:42:47.559" end="00:42:52.239" style="s2">particularly want to make art that way</p>
+<p begin="00:42:49.239" end="00:42:55.439" style="s2">he wanted to model the process that an</p>
+<p begin="00:42:52.239" end="00:42:58.420" style="s2">artist go through when he makes an image</p>
+<p begin="00:42:55.439" end="00:43:00.670" style="s2">well that&#39;s putting it you know in a</p>
+<p begin="00:42:58.420" end="00:43:04.749" style="s2">capsule form but that was what he did</p>
+<p begin="00:43:00.670" end="00:43:06.849" style="s2">and I look now at tons of</p>
+<p begin="00:43:04.749" end="00:43:08.920" style="s2">computer-generated are and I celebrate</p>
+<p begin="00:43:06.849" end="00:43:10.869" style="s2">it I think it&#39;s wonderful the computer</p>
+<p begin="00:43:08.920" end="00:43:15.189" style="s2">has really become a wonderful medium for</p>
+<p begin="00:43:10.869" end="00:43:18.309" style="s2">art but nobody as far as I can see has</p>
+<p begin="00:43:15.189" end="00:43:22.239" style="s2">done what Harold did which is to say let</p>
+<p begin="00:43:18.309" end="00:43:25.059" style="s2">me sit down and model my own artistic</p>
+<p begin="00:43:22.239" end="00:43:26.829" style="s2">making be art making behavior and that&#39;s</p>
+<p begin="00:43:25.059" end="00:43:29.979" style="s2">what he did it sound like it&#39;d be a</p>
+<p begin="00:43:26.829" end="00:43:32.229" style="s2">great project for a CMU graduate student</p>
+<p begin="00:43:29.979" end="00:43:34.599" style="s2">to go find a really good and thoughtful</p>
+<p begin="00:43:32.229" end="00:43:37.299" style="s2">artist and essentially be a domain</p>
+<p begin="00:43:34.599" end="00:43:39.459" style="s2">expert and create an expert system for</p>
+<p begin="00:43:37.299" end="00:43:40.599" style="s2">art and using today&#39;s modern tools I&#39;m</p>
+<p begin="00:43:39.459" end="00:43:43.509" style="s2">sure they could accomplish a heck of a</p>
+<p begin="00:43:40.599" end="00:43:46.089" style="s2">lot more they might be able to for all I</p>
+<p begin="00:43:43.509" end="00:43:48.150" style="s2">know someone&#39;s doing it so anyway back</p>
+<p begin="00:43:46.089" end="00:43:50.199" style="s2">to the second two cultures theme I</p>
+<p begin="00:43:48.150" end="00:43:52.449" style="s2">imagine there must have been some kick</p>
+<p begin="00:43:50.199" end="00:43:55.509" style="s2">back from the artistic community about</p>
+<p begin="00:43:52.449" end="00:43:58.569" style="s2">both Harold and you writing about it uh</p>
+<p begin="00:43:55.509" end="00:44:01.119" style="s2">strangely enough no interesting the</p>
+<p begin="00:43:58.569" end="00:44:04.299" style="s2">reason why is nobody paid any attention</p>
+<p begin="00:44:01.119" end="00:44:06.599" style="s2">to it okay they had more artists talking</p>
+<p begin="00:44:04.299" end="00:44:08.949" style="s2">about it just fell into the void</p>
+<p begin="00:44:06.599" end="00:44:11.079" style="s2">interesting so the humanities the</p>
+<p begin="00:44:08.949" end="00:44:12.789" style="s2">writing people they took offense and</p>
+<p begin="00:44:11.079" end="00:44:14.499" style="s2">affront but the artists were so far out</p>
+<p begin="00:44:12.789" end="00:44:17.799" style="s2">in their own world they just took no</p>
+<p begin="00:44:14.499" end="00:44:19.719" style="s2">notice of it yes exactly right and you</p>
+<p begin="00:44:17.799" end="00:44:21.609" style="s2">know partly it was my fault because I</p>
+<p begin="00:44:19.719" end="00:44:25.329" style="s2">didn&#39;t have the vocabulary for</p>
+<p begin="00:44:21.609" end="00:44:27.939" style="s2">explaining what Harold was doing until I</p>
+<p begin="00:44:25.329" end="00:44:30.160" style="s2">got to the Santa Fe Institute and there</p>
+<p begin="00:44:27.939" end="00:44:32.469" style="s2">was this wonderful vocabulary all laid</p>
+<p begin="00:44:30.160" end="00:44:33.520" style="s2">out for me well I just published the</p>
+<p begin="00:44:32.469" end="00:44:38.230" style="s2">book I couldn&#39;t</p>
+<p begin="00:44:33.520" end="00:44:39.220" style="s2">the book too bad if I don&#39;t yeah it</p>
+<p begin="00:44:38.230" end="00:44:41.230" style="s2">would have been a different book</p>
+<p begin="00:44:39.220" end="00:44:42.910" style="s2">actually I have to go back and read it</p>
+<p begin="00:44:41.230" end="00:44:45.220" style="s2">just sounds like an interesting topic</p>
+<p begin="00:44:42.910" end="00:44:48.010" style="s2">you know next topic which you alluded to</p>
+<p begin="00:44:45.220" end="00:44:50.830" style="s2">a little bit earlier which is concerns</p>
+<p begin="00:44:48.010" end="00:44:52.630" style="s2">about artificial intelligence you know</p>
+<p begin="00:44:50.830" end="00:44:55.420" style="s2">an interesting book I read I don&#39;t know</p>
+<p begin="00:44:52.630" end="00:44:58.600" style="s2">when it came out was take Marc&#39;s life</p>
+<p begin="00:44:55.420" end="00:45:00.580" style="s2">3.0 yeah we talked biological evolution</p>
+<p begin="00:44:58.600" end="00:45:02.530" style="s2">cultural evolution technological</p>
+<p begin="00:45:00.580" end="00:45:04.630" style="s2">evolution and talks about the</p>
+<p begin="00:45:02.530" end="00:45:06.160" style="s2">singularity and you know the risks that</p>
+<p begin="00:45:04.630" end="00:45:07.990" style="s2">go with it course there are people more</p>
+<p begin="00:45:06.160" end="00:45:09.730" style="s2">extreme than tegmark he&#39;s pretty</p>
+<p begin="00:45:07.990" end="00:45:12.760" style="s2">thoughtful and balanced but you have</p>
+<p begin="00:45:09.730" end="00:45:16.210" style="s2">people like boström and Elon Musk and</p>
+<p begin="00:45:12.760" end="00:45:17.860" style="s2">others who are absolutely convinced or</p>
+<p begin="00:45:16.210" end="00:45:20.200" style="s2">at least they say that they&#39;re</p>
+<p begin="00:45:17.860" end="00:45:22.600" style="s2">absolutely convinced that hey we got to</p>
+<p begin="00:45:20.200" end="00:45:24.670" style="s2">slow down we got to stop we&#39;re summoning</p>
+<p begin="00:45:22.600" end="00:45:26.170" style="s2">the demon you talked a little bit about</p>
+<p begin="00:45:24.670" end="00:45:33.490" style="s2">this in the book what do you think about</p>
+<p begin="00:45:26.170" end="00:45:37.750" style="s2">this ah let me say my own views first my</p>
+<p begin="00:45:33.490" end="00:45:40.780" style="s2">own view is that AI is probably one of</p>
+<p begin="00:45:37.750" end="00:45:43.390" style="s2">the most powerful Sciences slash</p>
+<p begin="00:45:40.780" end="00:45:48.070" style="s2">technologies to come along in human</p>
+<p begin="00:45:43.390" end="00:45:51.520" style="s2">history a powerful science / technology</p>
+<p begin="00:45:48.070" end="00:45:56.200" style="s2">has the potential to do great good and</p>
+<p begin="00:45:51.520" end="00:45:59.530" style="s2">it has the potential to do great harm so</p>
+<p begin="00:45:56.200" end="00:46:03.040" style="s2">you can swing on one side or the other</p>
+<p begin="00:45:59.530" end="00:46:07.510" style="s2">and say nah it&#39;ll be great or you can</p>
+<p begin="00:46:03.040" end="00:46:10.150" style="s2">take the Elon Musk etc view it&#39;s</p>
+<p begin="00:46:07.510" end="00:46:13.800" style="s2">terrible and we&#39;ve got to stop I don&#39;t</p>
+<p begin="00:46:10.150" end="00:46:16.110" style="s2">take well no I hold both views actually</p>
+<p begin="00:46:13.800" end="00:46:19.480" style="s2">contradictory though they may be and</p>
+<p begin="00:46:16.110" end="00:46:21.970" style="s2">this is what human intelligence is about</p>
+<p begin="00:46:19.480" end="00:46:25.150" style="s2">is being able to hold contradictory and</p>
+<p begin="00:46:21.970" end="00:46:28.930" style="s2">ideas in your head it could be horrible</p>
+<p begin="00:46:25.150" end="00:46:32.620" style="s2">it could be fabulous and unless we&#39;re</p>
+<p begin="00:46:28.930" end="00:46:34.510" style="s2">careful it could be very destructive it</p>
+<p begin="00:46:32.620" end="00:46:36.760" style="s2">certainly seems it will be disruptive</p>
+<p begin="00:46:34.510" end="00:46:39.280" style="s2">whether it&#39;ll be destructive I think I&#39;m</p>
+<p begin="00:46:36.760" end="00:46:40.720" style="s2">with you is an open question and perhaps</p>
+<p begin="00:46:39.280" end="00:46:43.150" style="s2">a lot of its gonna be based on the</p>
+<p begin="00:46:40.720" end="00:46:45.250" style="s2">choices that we make in the short term</p>
+<p begin="00:46:43.150" end="00:46:47.350" style="s2">there&#39;s two roads which are interesting</p>
+<p begin="00:46:45.250" end="00:46:50.920" style="s2">one good and one not so good</p>
+<p begin="00:46:47.350" end="00:46:54.430" style="s2">one is where if indeed many jobs are</p>
+<p begin="00:46:50.920" end="00:46:58.030" style="s2">filled by robots and a is if we&#39;re wise</p>
+<p begin="00:46:54.430" end="00:47:01.870" style="s2">this could be a new era of leisure right</p>
+<p begin="00:46:58.030" end="00:47:04.390" style="s2">we could not be working 1555 hour weeks</p>
+<p begin="00:47:01.870" end="00:47:06.120" style="s2">we could actually be working on things</p>
+<p begin="00:47:04.390" end="00:47:08.200" style="s2">that are really meaningful</p>
+<p begin="00:47:06.120" end="00:47:10.000" style="s2">self-actualization working on art</p>
+<p begin="00:47:08.200" end="00:47:12.790" style="s2">working on our hobbies working on our</p>
+<p begin="00:47:10.000" end="00:47:15.550" style="s2">relationships working in our communities</p>
+<p begin="00:47:12.790" end="00:47:18.370" style="s2">and that would be a wonderful outcome</p>
+<p begin="00:47:15.550" end="00:47:20.320" style="s2">from the replacement of a fair amount of</p>
+<p begin="00:47:18.370" end="00:47:21.970" style="s2">work but it would require some new</p>
+<p begin="00:47:20.320" end="00:47:24.730" style="s2">institutional arrangements like this</p>
+<p begin="00:47:21.970" end="00:47:26.680" style="s2">universal basic income ideas that are</p>
+<p begin="00:47:24.730" end="00:47:28.750" style="s2">being talked about right now I think</p>
+<p begin="00:47:26.680" end="00:47:30.610" style="s2">it&#39;s quite interesting that Andrew yang</p>
+<p begin="00:47:28.750" end="00:47:33.760" style="s2">is talking about it at the level of the</p>
+<p begin="00:47:30.610" end="00:47:36.010" style="s2">presidential primaries not getting left</p>
+<p begin="00:47:33.760" end="00:47:37.450" style="s2">off the stage and last night not at all</p>
+<p begin="00:47:36.010" end="00:47:39.490" style="s2">the other people were talking about it</p>
+<p begin="00:47:37.450" end="00:47:41.380" style="s2">for the first time and saying hmm this</p>
+<p begin="00:47:39.490" end="00:47:43.150" style="s2">might be a good idea and whether that&#39;s</p>
+<p begin="00:47:41.380" end="00:47:45.730" style="s2">exactly the right form at least that&#39;s</p>
+<p begin="00:47:43.150" end="00:47:48.190" style="s2">the idea now the other side the bad side</p>
+<p begin="00:47:45.730" end="00:47:51.730" style="s2">what I&#39;d call the Neo feudalist side is</p>
+<p begin="00:47:48.190" end="00:47:53.860" style="s2">if it turns out these AIS most of the</p>
+<p begin="00:47:51.730" end="00:47:57.070" style="s2">values captured by a small number of</p>
+<p begin="00:47:53.860" end="00:47:59.950" style="s2">plutocrats and are used to just make</p>
+<p begin="00:47:57.070" end="00:48:02.020" style="s2">ever wider the gap between the working</p>
+<p begin="00:47:59.950" end="00:48:03.490" style="s2">people the world and the capitalists</p>
+<p begin="00:48:02.020" end="00:48:05.620" style="s2">then this will be a very bad thing</p>
+<p begin="00:48:03.490" end="00:48:08.080" style="s2">people will be forced down to very</p>
+<p begin="00:48:05.620" end="00:48:09.760" style="s2">marginal jobs mostly personal service</p>
+<p begin="00:48:08.080" end="00:48:12.580" style="s2">cleaning toilets giving massages</p>
+<p begin="00:48:09.760" end="00:48:15.490" style="s2">whatever to make a living while a tiny</p>
+<p begin="00:48:12.580" end="00:48:17.260" style="s2">percentage you know the 0.01% are</p>
+<p begin="00:48:15.490" end="00:48:19.830" style="s2">basically reaping all the benefits of</p>
+<p begin="00:48:17.260" end="00:48:22.000" style="s2">this amazing increase in productivity</p>
+<p begin="00:48:19.830" end="00:48:24.100" style="s2">fortunately or unfortunately depending</p>
+<p begin="00:48:22.000" end="00:48:26.590" style="s2">how you think about it it&#39;s up to us the</p>
+<p begin="00:48:24.100" end="00:48:29.740" style="s2">people to insist that our democratic</p>
+<p begin="00:48:26.590" end="00:48:32.230" style="s2">processes make this short term</p>
+<p begin="00:48:29.740" end="00:48:34.090" style="s2">productivity gain and replacement at</p>
+<p begin="00:48:32.230" end="00:48:37.420" style="s2">work work for everybody</p>
+<p begin="00:48:34.090" end="00:48:39.150" style="s2">but if we don&#39;t it won&#39;t I think so</p>
+<p begin="00:48:37.420" end="00:48:41.050" style="s2">people need to be very take this very</p>
+<p begin="00:48:39.150" end="00:48:43.990" style="s2">seriously when they think about their</p>
+<p begin="00:48:41.050" end="00:48:45.880" style="s2">political decisions going forward let me</p>
+<p begin="00:48:43.990" end="00:48:48.520" style="s2">doesn&#39;t make a lot of sense it makes</p>
+<p begin="00:48:45.880" end="00:48:52.780" style="s2">perfect sense to me I like to divide up</p>
+<p begin="00:48:48.520" end="00:48:56.910" style="s2">into work and tasks the world has lots</p>
+<p begin="00:48:52.780" end="00:49:00.339" style="s2">and lots of tasks that go undone because</p>
+<p begin="00:48:56.910" end="00:49:02.259" style="s2">people are busy making a living</p>
+<p begin="00:49:00.339" end="00:49:04.599" style="s2">and a lot of that making of the living</p>
+<p begin="00:49:02.259" end="00:49:07.239" style="s2">is busy work it&#39;s chapped dancing as a</p>
+<p begin="00:49:04.599" end="00:49:10.630" style="s2">friend of mine calls it and it&#39;s really</p>
+<p begin="00:49:07.239" end="00:49:14.979" style="s2">not very gratifying as for human beings</p>
+<p begin="00:49:10.630" end="00:49:17.549" style="s2">if we let human beings loose on the</p>
+<p begin="00:49:14.979" end="00:49:21.130" style="s2">tasks that needed to be done and</p>
+<p begin="00:49:17.549" end="00:49:23.440" style="s2">compensate them for those very important</p>
+<p begin="00:49:21.130" end="00:49:26.349" style="s2">tasks like looking after children</p>
+<p begin="00:49:23.440" end="00:49:27.009" style="s2">looking after the elderly so on and so</p>
+<p begin="00:49:26.349" end="00:49:30.640" style="s2">forth</p>
+<p begin="00:49:27.009" end="00:49:32.650" style="s2">wow what a world this could be yep but</p>
+<p begin="00:49:30.640" end="00:49:34.539" style="s2">Andrew yang made that point he gave the</p>
+<p begin="00:49:32.650" end="00:49:35.799" style="s2">example of his wife who stays home to</p>
+<p begin="00:49:34.539" end="00:49:36.700" style="s2">take care of their two children one of</p>
+<p begin="00:49:35.799" end="00:49:39.009" style="s2">whom is autistic</p>
+<p begin="00:49:36.700" end="00:49:41.890" style="s2">right and that number that real work</p>
+<p begin="00:49:39.009" end="00:49:44.170" style="s2">does not appear in our GDP and yet it&#39;s</p>
+<p begin="00:49:41.890" end="00:49:46.059" style="s2">real work that adds tremendous value to</p>
+<p begin="00:49:44.170" end="00:49:48.609" style="s2">the lives of real people yes exactly</p>
+<p begin="00:49:46.059" end="00:49:51.190" style="s2">right and you can multiply what many</p>
+<p begin="00:49:48.609" end="00:49:54.640" style="s2">times yeah and we&#39;ll see if we are wise</p>
+<p begin="00:49:51.190" end="00:49:57.400" style="s2">enough to steer our economy and our</p>
+<p begin="00:49:54.640" end="00:49:59.200" style="s2">politics in that direction we shall see</p>
+<p begin="00:49:57.400" end="00:50:01.569" style="s2">as this next election will be quite</p>
+<p begin="00:49:59.200" end="00:50:03.460" style="s2">interesting to the next you know level</p>
+<p begin="00:50:01.569" end="00:50:05.049" style="s2">of risk that people talk about you know</p>
+<p begin="00:50:03.460" end="00:50:07.690" style="s2">one that&#39;s gotten a lot of attention I</p>
+<p begin="00:50:05.049" end="00:50:10.779" style="s2">started laughingly call the Emperor</p>
+<p begin="00:50:07.690" end="00:50:13.119" style="s2">paper clips for the example that</p>
+<p begin="00:50:10.779" end="00:50:15.430" style="s2">somebody accidentally tells the world&#39;s</p>
+<p begin="00:50:13.119" end="00:50:17.890" style="s2">first artificial general intelligence to</p>
+<p begin="00:50:15.430" end="00:50:20.769" style="s2">maximize the output of a paper clip</p>
+<p begin="00:50:17.890" end="00:50:22.839" style="s2">factory and this AI takes it literally</p>
+<p begin="00:50:20.769" end="00:50:25.089" style="s2">and decides to kill all the people and</p>
+<p begin="00:50:22.839" end="00:50:26.950" style="s2">convert their material into material to</p>
+<p begin="00:50:25.089" end="00:50:28.420" style="s2">make paper clips eventually turn the</p>
+<p begin="00:50:26.950" end="00:50:30.700" style="s2">earth into paper clips invent</p>
+<p begin="00:50:28.420" end="00:50:33.099" style="s2">interstellar Rockets so it can go and</p>
+<p begin="00:50:30.700" end="00:50:35.769" style="s2">turn all the stars into paperclips you</p>
+<p begin="00:50:33.099" end="00:50:38.469" style="s2">know this is the cartoon version of the</p>
+<p begin="00:50:35.769" end="00:50:41.349" style="s2">artificial general intelligence run amok</p>
+<p begin="00:50:38.469" end="00:50:43.599" style="s2">and you know there is some risk in that</p>
+<p begin="00:50:41.349" end="00:50:45.309" style="s2">area though I suspect it may be less</p>
+<p begin="00:50:43.599" end="00:50:48.009" style="s2">than people think because they</p>
+<p begin="00:50:45.309" end="00:50:50.200" style="s2">anthropomorphize ai&#39;s all the way back</p>
+<p begin="00:50:48.009" end="00:50:52.180" style="s2">to Eliza Wright they think that they&#39;re</p>
+<p begin="00:50:50.200" end="00:50:54.460" style="s2">more human than they are and no reason</p>
+<p begin="00:50:52.180" end="00:50:56.859" style="s2">unless it&#39;s built in that a computer</p>
+<p begin="00:50:54.460" end="00:50:59.200" style="s2">ought to have a will for power for</p>
+<p begin="00:50:56.859" end="00:51:02.200" style="s2">instance you know or the equivalent even</p>
+<p begin="00:50:59.200" end="00:51:05.349" style="s2">of an ego but one could accidentally</p>
+<p begin="00:51:02.200" end="00:51:07.479" style="s2">make it happen but before the Emperor</p>
+<p begin="00:51:05.349" end="00:51:10.779" style="s2">paperclips becomes a problem I&#39;m much</p>
+<p begin="00:51:07.479" end="00:51:13.990" style="s2">more concerned about bad people armed</p>
+<p begin="00:51:10.779" end="00:51:16.390" style="s2">with powerful but sub a GI artificial</p>
+<p begin="00:51:13.990" end="00:51:18.820" style="s2">general intelligence a eyes and ones</p>
+<p begin="00:51:16.390" end="00:51:21.850" style="s2">that come to mind very strikingly is</p>
+<p begin="00:51:18.820" end="00:51:23.020" style="s2">China you know it strikes me that if we</p>
+<p begin="00:51:21.850" end="00:51:25.000" style="s2">continue on the road we&#39;re on the</p>
+<p begin="00:51:23.020" end="00:51:29.170" style="s2">Chinese are gonna be inventing something</p>
+<p begin="00:51:25.000" end="00:51:31.450" style="s2">new very substantially based on AI which</p>
+<p begin="00:51:29.170" end="00:51:34.150" style="s2">is a dictatorship of the pervasiveness</p>
+<p begin="00:51:31.450" end="00:51:36.400" style="s2">and power that George Orwell even with</p>
+<p begin="00:51:34.150" end="00:51:39.190" style="s2">his amazing imagination could never have</p>
+<p begin="00:51:36.400" end="00:51:42.340" style="s2">conceived and this is gonna be a very</p>
+<p begin="00:51:39.190" end="00:51:45.490" style="s2">scary thing it is indeed and I think</p>
+<p begin="00:51:42.340" end="00:51:47.410" style="s2">you&#39;re quite right I would like to say</p>
+<p begin="00:51:45.490" end="00:51:49.440" style="s2">we&#39;ve had a literary warning it was</p>
+<p begin="00:51:47.410" end="00:51:52.180" style="s2">called The Sorcerer&#39;s Apprentice</p>
+<p begin="00:51:49.440" end="00:51:55.119" style="s2">remember that story where the source</p>
+<p begin="00:51:52.180" end="00:51:58.570" style="s2">leaves somebody to get I think water</p>
+<p begin="00:51:55.119" end="00:52:00.970" style="s2">from the well it wasn&#39;t anyway we know</p>
+<p begin="00:51:58.570" end="00:52:04.270" style="s2">this can happen we can&#39;t let it happen</p>
+<p begin="00:52:00.970" end="00:52:07.720" style="s2">we must have let it happen and the fact</p>
+<p begin="00:52:04.270" end="00:52:11.800" style="s2">that a very different culture with very</p>
+<p begin="00:52:07.720" end="00:52:15.060" style="s2">different ideals is coming up fast in</p>
+<p begin="00:52:11.800" end="00:52:18.369" style="s2">the a I feel it should give us pause</p>
+<p begin="00:52:15.060" end="00:52:21.520" style="s2">yeah I was very pleased to see that you</p>
+<p begin="00:52:18.369" end="00:52:23.140" style="s2">came down on the side of course people</p>
+<p begin="00:52:21.520" end="00:52:26.410" style="s2">in the United States need to be working</p>
+<p begin="00:52:23.140" end="00:52:28.660" style="s2">on AI for national defense if I read you</p>
+<p begin="00:52:26.410" end="00:52:31.750" style="s2">correctly you did because you know this</p>
+<p begin="00:52:28.660" end="00:52:33.550" style="s2">is a current big Bugaboo out in Silicon</p>
+<p begin="00:52:31.750" end="00:52:35.260" style="s2">Valley on people at Google&#39;s and we</p>
+<p begin="00:52:33.550" end="00:52:37.450" style="s2">don&#39;t want to work on defense right and</p>
+<p begin="00:52:35.260" end="00:52:39.070" style="s2">they&#39;ve actually chosen not to compete</p>
+<p begin="00:52:37.450" end="00:52:41.890" style="s2">for some contracts and not renew to</p>
+<p begin="00:52:39.070" end="00:52:44.200" style="s2">others while other players Microsoft and</p>
+<p begin="00:52:41.890" end="00:52:46.119" style="s2">Amazon in particular have been quite</p>
+<p begin="00:52:44.200" end="00:52:48.730" style="s2">straightforward at making their</p>
+<p begin="00:52:46.119" end="00:52:50.830" style="s2">expertise available to our military and</p>
+<p begin="00:52:48.730" end="00:52:52.780" style="s2">in you know particularly with China and</p>
+<p begin="00:52:50.830" end="00:52:55.330" style="s2">to a lesser degree Russia you know</p>
+<p begin="00:52:52.780" end="00:52:57.160" style="s2">potentially in a position to try to</p>
+<p begin="00:52:55.330" end="00:52:59.740" style="s2">achieve a dominant position through</p>
+<p begin="00:52:57.160" end="00:53:01.480" style="s2">their work at AI it strikes me is</p>
+<p begin="00:52:59.740" end="00:53:04.750" style="s2">exceedingly foolish for us to</p>
+<p begin="00:53:01.480" end="00:53:08.260" style="s2">unilaterally disarm the gym I am NOT a</p>
+<p begin="00:53:04.750" end="00:53:11.830" style="s2">pacifist I am here on this earth because</p>
+<p begin="00:53:08.260" end="00:53:14.859" style="s2">people I will never know their lives for</p>
+<p begin="00:53:11.830" end="00:53:16.540" style="s2">me that&#39;s the story of my mother with a</p>
+<p begin="00:53:14.859" end="00:53:18.700" style="s2">tarpaulin between her and the night</p>
+<p begin="00:53:16.540" end="00:53:21.300" style="s2">giving birth to me people were up in the</p>
+<p begin="00:53:18.700" end="00:53:24.490" style="s2">sky trying to protect her it would be</p>
+<p begin="00:53:21.300" end="00:53:27.000" style="s2">immensely hypocritical of me to say oh</p>
+<p begin="00:53:24.490" end="00:53:29.640" style="s2">that&#39;s okay let&#39;s be best of us</p>
+<p begin="00:53:27.000" end="00:53:32.400" style="s2">I can&#39;t and this is this is not a world</p>
+<p begin="00:53:29.640" end="00:53:38.400" style="s2">where we can be at the same time I</p>
+<p begin="00:53:32.400" end="00:53:41.910" style="s2">really understand how Grievous it feels</p>
+<p begin="00:53:38.400" end="00:53:44.390" style="s2">that something you do I might be used in</p>
+<p begin="00:53:41.910" end="00:53:47.760" style="s2">a way that you so disagree with I</p>
+<p begin="00:53:44.390" end="00:53:50.070" style="s2">understand that I sympathize with it but</p>
+<p begin="00:53:47.760" end="00:53:55.020" style="s2">for in my view I want the smartest</p>
+<p begin="00:53:50.070" end="00:53:58.020" style="s2">people and the smartest machines on my</p>
+<p begin="00:53:55.020" end="00:54:00.990" style="s2">side please I&#39;m a hundred percent with</p>
+<p begin="00:53:58.020" end="00:54:02.700" style="s2">you and I think our opinion is perhaps a</p>
+<p begin="00:54:00.990" end="00:54:06.570" style="s2">minority opinion amongst the Silicon</p>
+<p begin="00:54:02.700" end="00:54:07.200" style="s2">Valley i&#39;ts but hey most of my life is</p>
+<p begin="00:54:06.570" end="00:54:09.990" style="s2">OK</p>
+<p begin="00:54:07.200" end="00:54:12.720" style="s2">I hear that and I want to pivot it a</p>
+<p begin="00:54:09.990" end="00:54:14.940" style="s2">little bit something else another theme</p>
+<p begin="00:54:12.720" end="00:54:17.340" style="s2">that was woven through your book which</p>
+<p begin="00:54:14.940" end="00:54:19.020" style="s2">is feminism there&#39;s quite a lot about</p>
+<p begin="00:54:17.340" end="00:54:21.360" style="s2">feminism here and there throughout the</p>
+<p begin="00:54:19.020" end="00:54:23.820" style="s2">book and you know I&#39;ve said more than</p>
+<p begin="00:54:21.360" end="00:54:26.160" style="s2">once that it&#39;s my personal view that</p>
+<p begin="00:54:23.820" end="00:54:27.780" style="s2">when the historians look back from 2000</p>
+<p begin="00:54:26.160" end="00:54:30.060" style="s2">years in the future and look at the 20th</p>
+<p begin="00:54:27.780" end="00:54:32.190" style="s2">century they&#39;re not gonna say that World</p>
+<p begin="00:54:30.060" end="00:54:34.320" style="s2">War 2 was the most significant thing nor</p>
+<p begin="00:54:32.190" end="00:54:36.810" style="s2">the atomic weapon or landing a man on</p>
+<p begin="00:54:34.320" end="00:54:38.430" style="s2">the moon or the internet but rather the</p>
+<p begin="00:54:36.810" end="00:54:42.270" style="s2">beginnings of the overthrow of the</p>
+<p begin="00:54:38.430" end="00:54:45.600" style="s2">patriarchy and which I put approximately</p>
+<p begin="00:54:42.270" end="00:54:48.210" style="s2">at 1975 where it finally started to get</p>
+<p begin="00:54:45.600" end="00:54:49.800" style="s2">momentum but you&#39;ve lived that life I</p>
+<p begin="00:54:48.210" end="00:54:52.740" style="s2">mean you&#39;re a bit older than I am we&#39;re</p>
+<p begin="00:54:49.800" end="00:54:54.420" style="s2">both old goddammit but do you go back a</p>
+<p begin="00:54:52.740" end="00:54:56.940" style="s2">few more years to where there was just</p>
+<p begin="00:54:54.420" end="00:54:58.920" style="s2">the most blatant kinds of grotesque</p>
+<p begin="00:54:56.940" end="00:55:00.930" style="s2">sexism</p>
+<p begin="00:54:58.920" end="00:55:03.060" style="s2">you know remember reading the memoir of</p>
+<p begin="00:55:00.930" end="00:55:04.920" style="s2">one of my heroes Sandra Day O&#39;Connor</p>
+<p begin="00:55:03.060" end="00:55:06.870" style="s2">here she was a top graduate of the</p>
+<p begin="00:55:04.920" end="00:55:08.400" style="s2">Stanford Law School who had to take a</p>
+<p begin="00:55:06.870" end="00:55:10.800" style="s2">job as a secretary because no one would</p>
+<p begin="00:55:08.400" end="00:55:12.510" style="s2">hire her as a lawyer I mean what the</p>
+<p begin="00:55:10.800" end="00:55:14.760" style="s2">hell right that sort of thing was gone</p>
+<p begin="00:55:12.510" end="00:55:16.980" style="s2">by time I graduate from college than 75</p>
+<p begin="00:55:14.760" end="00:55:20.490" style="s2">not to say that there still wasn&#39;t a</p>
+<p begin="00:55:16.980" end="00:55:22.500" style="s2">vast amount of sexism and the patriarchy</p>
+<p begin="00:55:20.490" end="00:55:25.770" style="s2">but at least that kind of the most</p>
+<p begin="00:55:22.500" end="00:55:27.990" style="s2">grotesque in-your-face unapologetic sort</p>
+<p begin="00:55:25.770" end="00:55:31.590" style="s2">was over tell me a little bit about your</p>
+<p begin="00:55:27.990" end="00:55:34.350" style="s2">journeys with feminism where it&#39;s at it</p>
+<p begin="00:55:31.590" end="00:55:35.850" style="s2">where are we uh well good question</p>
+<p begin="00:55:34.350" end="00:55:37.350" style="s2">yeah you know when you&#39;re in the middle</p>
+<p begin="00:55:35.850" end="00:55:40.440" style="s2">of the revolution it&#39;s really hard to</p>
+<p begin="00:55:37.350" end="00:55:40.980" style="s2">tell where things are going yes I got</p>
+<p begin="00:55:40.440" end="00:55:43.380" style="s2">out of</p>
+<p begin="00:55:40.980" end="00:55:45.000" style="s2">with a degree from a decent university</p>
+<p begin="00:55:43.380" end="00:55:47.010" style="s2">the University of California at Berkeley</p>
+<p begin="00:55:45.000" end="00:55:49.650" style="s2">and nobody wanted to know that they</p>
+<p begin="00:55:47.010" end="00:55:53.490" style="s2">wanted to know how fast I could type so</p>
+<p begin="00:55:49.650" end="00:55:56.369" style="s2">any job I went for was always based on</p>
+<p begin="00:55:53.490" end="00:55:59.820" style="s2">how fast I could type and I tried and</p>
+<p begin="00:55:56.369" end="00:56:03.090" style="s2">tried to get out of that mindset and I</p>
+<p begin="00:55:59.820" end="00:56:06.119" style="s2">couldn&#39;t until finally I went to work at</p>
+<p begin="00:56:03.090" end="00:56:08.400" style="s2">Stanford for ED flaggin BAM and what do</p>
+<p begin="00:56:06.119" end="00:56:10.080" style="s2">you know yeah he wanted me to type I was</p>
+<p begin="00:56:08.400" end="00:56:13.470" style="s2">his assistant somebody had quite the</p>
+<p begin="00:56:10.080" end="00:56:15.810" style="s2">letters but he also was really eager for</p>
+<p begin="00:56:13.470" end="00:56:17.820" style="s2">me to know what was going on and sent me</p>
+<p begin="00:56:15.810" end="00:56:21.480" style="s2">around from place to place on the campus</p>
+<p begin="00:56:17.820" end="00:56:23.490" style="s2">so I would learn about computing in</p>
+<p begin="00:56:21.480" end="00:56:26.310" style="s2">general artificial intelligence in</p>
+<p begin="00:56:23.490" end="00:56:28.020" style="s2">particular and it was from that that I I</p>
+<p begin="00:56:26.310" end="00:56:31.410" style="s2">left that job and went to graduate</p>
+<p begin="00:56:28.020" end="00:56:34.020" style="s2">school once in graduate school and out</p>
+<p begin="00:56:31.410" end="00:56:35.609" style="s2">of graduate school I entered a slightly</p>
+<p begin="00:56:34.020" end="00:56:38.940" style="s2">different world that had changed</p>
+<p begin="00:56:35.609" end="00:56:42.119" style="s2">socially and it had changed for me</p>
+<p begin="00:56:38.940" end="00:56:45.000" style="s2">because I had now two degrees no those</p>
+<p begin="00:56:42.119" end="00:56:46.080" style="s2">were very bad days and they were days of</p>
+<p begin="00:56:45.000" end="00:56:49.440" style="s2">long standing</p>
+<p begin="00:56:46.080" end="00:56:51.600" style="s2">I can&#39;t imagine when it was different I</p>
+<p begin="00:56:49.440" end="00:56:54.390" style="s2">look back in history and you just see</p>
+<p begin="00:56:51.600" end="00:56:56.400" style="s2">the patriarchy is in full swing and</p>
+<p begin="00:56:54.390" end="00:57:02.369" style="s2">nobody even questions that are very few</p>
+<p begin="00:56:56.400" end="00:57:04.590" style="s2">people question it so I realized no I</p>
+<p begin="00:57:02.369" end="00:57:07.950" style="s2">mean that&#39;s just giving me too much</p>
+<p begin="00:57:04.590" end="00:57:10.140" style="s2">credit somewhere along the way very late</p>
+<p begin="00:57:07.950" end="00:57:13.109" style="s2">in my romance with artificial</p>
+<p begin="00:57:10.140" end="00:57:15.650" style="s2">intelligence I realized that one of the</p>
+<p begin="00:57:13.109" end="00:57:19.680" style="s2">things that made me so fascinated by it</p>
+<p begin="00:57:15.650" end="00:57:22.800" style="s2">was that it would be a kind of</p>
+<p begin="00:57:19.680" end="00:57:26.670" style="s2">intelligence that wasn&#39;t a white male</p>
+<p begin="00:57:22.800" end="00:57:29.940" style="s2">suffice that it would be different now</p>
+<p begin="00:57:26.670" end="00:57:32.850" style="s2">that was a very naive view of how AI is</p>
+<p begin="00:57:29.940" end="00:57:34.680" style="s2">created but that was what I hoped for is</p>
+<p begin="00:57:32.850" end="00:57:37.590" style="s2">that this intelligence would step away</p>
+<p begin="00:57:34.680" end="00:57:38.430" style="s2">from the patriarchy and say you&#39;re going</p>
+<p begin="00:57:37.590" end="00:57:41.520" style="s2">about it all wrong</p>
+<p begin="00:57:38.430" end="00:57:44.460" style="s2">this is a better way I didn&#39;t know that</p>
+<p begin="00:57:41.520" end="00:57:47.910" style="s2">consciously until ah twenty thirty years</p>
+<p begin="00:57:44.460" end="00:57:50.190" style="s2">into into my romance with AI but there</p>
+<p begin="00:57:47.910" end="00:57:53.040" style="s2">it is and what do you know</p>
+<p begin="00:57:50.190" end="00:57:54.119" style="s2">it may happen meanwhile it has taken</p>
+<p begin="00:57:53.040" end="00:57:56.099" style="s2">some</p>
+<p begin="00:57:54.119" end="00:57:58.710" style="s2">very brave women to stand up and say</p>
+<p begin="00:57:56.099" end="00:58:00.960" style="s2">this is wrong you can&#39;t treat me this</p>
+<p begin="00:57:58.710" end="00:58:02.660" style="s2">way you mustn&#39;t treat me this way and</p>
+<p begin="00:58:00.960" end="00:58:04.890" style="s2">I&#39;m not going to be quiet about it</p>
+<p begin="00:58:02.660" end="00:58:06.599" style="s2">cats weren&#39;t one of the greatest things</p>
+<p begin="00:58:04.890" end="00:58:09.749" style="s2">that happened particularly in the West</p>
+<p begin="00:58:06.599" end="00:58:11.999" style="s2">in the last quarter of the 20th century</p>
+<p begin="00:58:09.749" end="00:58:13.619" style="s2">was finally women stood up and said</p>
+<p begin="00:58:11.999" end="00:58:16.920" style="s2">we&#39;re not taking it anymore and at least</p>
+<p begin="00:58:13.619" end="00:58:20.460" style="s2">some men supported that and it took both</p>
+<p begin="00:58:16.920" end="00:58:24.089" style="s2">right I was married to a man who was</p>
+<p begin="00:58:20.460" end="00:58:25.529" style="s2">absolutely feminist and that&#39;s one of</p>
+<p begin="00:58:24.089" end="00:58:27.059" style="s2">the reasons the marriage lasted as long</p>
+<p begin="00:58:25.529" end="00:58:29.279" style="s2">as it did we were married for almost</p>
+<p begin="00:58:27.059" end="00:58:32.190" style="s2">half a century and he was so supportive</p>
+<p begin="00:58:29.279" end="00:58:34.230" style="s2">of everything I did if anything more</p>
+<p begin="00:58:32.190" end="00:58:36.180" style="s2">than supportive I used to laugh what</p>
+<p begin="00:58:34.230" end="00:58:39.660" style="s2">you&#39;re like my stage mother come on give</p>
+<p begin="00:58:36.180" end="00:58:41.670" style="s2">me a break no he was so eager for me to</p>
+<p begin="00:58:39.660" end="00:58:43.769" style="s2">have the kind of recognition he thought</p>
+<p begin="00:58:41.670" end="00:58:46.170" style="s2">I deserved it was wonderful and he had</p>
+<p begin="00:58:43.769" end="00:58:49.920" style="s2">his own very important career in science</p>
+<p begin="00:58:46.170" end="00:58:52.559" style="s2">and academic administration so it wasn&#39;t</p>
+<p begin="00:58:49.920" end="00:58:54.990" style="s2">that he was making a substitute of me he</p>
+<p begin="00:58:52.559" end="00:58:57.390" style="s2">just didn&#39;t think it was fair now it&#39;s</p>
+<p begin="00:58:54.990" end="00:58:59.369" style="s2">great yeah I was fortunate especially in</p>
+<p begin="00:58:57.390" end="00:59:02.420" style="s2">having grown up in the 50s and early 60s</p>
+<p begin="00:58:59.369" end="00:59:05.940" style="s2">that my parents despite being uneducated</p>
+<p begin="00:59:02.420" end="00:59:09.299" style="s2">working-class type folks had a</p>
+<p begin="00:59:05.940" end="00:59:11.339" style="s2">remarkably egalitarian marriage you know</p>
+<p begin="00:59:09.299" end="00:59:12.869" style="s2">if I suppose you woke my father up at 3</p>
+<p begin="00:59:11.339" end="00:59:15.329" style="s2">o&#39;clock in the morning and said hey</p>
+<p begin="00:59:12.869" end="00:59:17.309" style="s2">Herbie are you head of the household he</p>
+<p begin="00:59:15.329" end="00:59:19.499" style="s2">might have said yes but they never acted</p>
+<p begin="00:59:17.309" end="00:59:21.690" style="s2">that way every decision they made was</p>
+<p begin="00:59:19.499" end="00:59:24.150" style="s2">collective my mother was always in</p>
+<p begin="00:59:21.690" end="00:59:26.819" style="s2">charge of Finance doing the taxes</p>
+<p begin="00:59:24.150" end="00:59:29.160" style="s2">dealing with bankers etc because why</p>
+<p begin="00:59:26.819" end="00:59:31.349" style="s2">because she was a shitload smarter on</p>
+<p begin="00:59:29.160" end="00:59:33.930" style="s2">things quantitative than he was and he</p>
+<p begin="00:59:31.349" end="00:59:36.450" style="s2">was absolutely happy to have her do it</p>
+<p begin="00:59:33.930" end="00:59:37.829" style="s2">and as I said never saw them make any</p>
+<p begin="00:59:36.450" end="00:59:40.440" style="s2">decision of any sort</p>
+<p begin="00:59:37.829" end="00:59:43.259" style="s2">other than jointly and that was actually</p>
+<p begin="00:59:40.440" end="00:59:45.569" style="s2">a very good influence on my own life so</p>
+<p begin="00:59:43.259" end="00:59:48.230" style="s2">I think I came to appreciate the fact</p>
+<p begin="00:59:45.569" end="00:59:52.109" style="s2">that the patriarchy was an idiotic idea</p>
+<p begin="00:59:48.230" end="00:59:54.329" style="s2">earlier than some perhaps so I can&#39;t say</p>
+<p begin="00:59:52.109" end="00:59:56.069" style="s2">I was raised in such a family in fact my</p>
+<p begin="00:59:54.329" end="00:59:58.440" style="s2">father was an old-fashioned European</p>
+<p begin="00:59:56.069" end="01:00:01.349" style="s2">patriarch and as a consequence he raised</p>
+<p begin="00:59:58.440" end="01:00:04.079" style="s2">two warrior daughters I mean we&#39;re both</p>
+<p begin="01:00:01.349" end="01:00:06.569" style="s2">warriors yeah he was very proud of us</p>
+<p begin="01:00:04.079" end="01:00:08.880" style="s2">very happy with us so there you go</p>
+<p begin="01:00:06.569" end="01:00:10.319" style="s2">that&#39;s interesting and of course you</p>
+<p begin="01:00:08.880" end="01:00:11.849" style="s2">know the world has made a fair amount of</p>
+<p begin="01:00:10.319" end="01:00:13.680" style="s2">progress since you want to you know some</p>
+<p begin="01:00:11.849" end="01:00:16.499" style="s2">of the things that are very encouraging</p>
+<p begin="01:00:13.680" end="01:00:18.569" style="s2">is that almost 60% of college graduates</p>
+<p begin="01:00:16.499" end="01:00:21.150" style="s2">are now women even at the most elite</p>
+<p begin="01:00:18.569" end="01:00:23.160" style="s2">professional programs Harvard Law the</p>
+<p begin="01:00:21.150" end="01:00:26.069" style="s2">leading medical schools almost exactly</p>
+<p begin="01:00:23.160" end="01:00:27.180" style="s2">50/50 membership in these prestigious</p>
+<p begin="01:00:26.069" end="01:00:30.089" style="s2">graduate programs and professional</p>
+<p begin="01:00:27.180" end="01:00:32.880" style="s2">programs which tend to be gateways to</p>
+<p begin="01:00:30.089" end="01:00:35.220" style="s2">the professions and into elite positions</p>
+<p begin="01:00:32.880" end="01:00:37.559" style="s2">in our society but interestingly one</p>
+<p begin="01:00:35.220" end="01:00:40.109" style="s2">area where this is not true is in AI or</p>
+<p begin="01:00:37.559" end="01:00:42.799" style="s2">computer science in general computer</p>
+<p begin="01:00:40.109" end="01:00:45.450" style="s2">science in general I would say yes it&#39;s</p>
+<p begin="01:00:42.799" end="01:00:49.710" style="s2">NYU that a study and has the numbers</p>
+<p begin="01:00:45.450" end="01:00:53.489" style="s2">perhaps 15% of papers written and so on</p>
+<p begin="01:00:49.710" end="01:00:57.960" style="s2">and so forth talks given are written by</p>
+<p begin="01:00:53.489" end="01:01:00.450" style="s2">women in AI and it shouldn&#39;t be 15 it</p>
+<p begin="01:00:57.960" end="01:01:01.769" style="s2">should be 50 you think it really should</p>
+<p begin="01:01:00.450" end="01:01:04.109" style="s2">be 50 why not</p>
+<p begin="01:01:01.769" end="01:01:05.940" style="s2">I wonder it&#39;s interesting that Harvard</p>
+<p begin="01:01:04.109" end="01:01:08.130" style="s2">Law and Harvard Business School and</p>
+<p begin="01:01:05.940" end="01:01:11.579" style="s2">Johns Hopkins you know they&#39;re 5050</p>
+<p begin="01:01:08.130" end="01:01:13.680" style="s2">these days well but maybe there are</p>
+<p begin="01:01:11.579" end="01:01:15.720" style="s2">enough differences between men and women</p>
+<p begin="01:01:13.680" end="01:01:17.640" style="s2">that when given full freedom and no</p>
+<p begin="01:01:15.720" end="01:01:19.380" style="s2">longer constrained by the patriarchy for</p>
+<p begin="01:01:17.640" end="01:01:21.299" style="s2">whatever reason they make different</p>
+<p begin="01:01:19.380" end="01:01:22.920" style="s2">career choices and you know the example</p>
+<p begin="01:01:21.299" end="01:01:24.390" style="s2">that&#39;s thrown out to I&#39;m not sure it&#39;s</p>
+<p begin="01:01:22.920" end="01:01:27.539" style="s2">quite compelling but it&#39;s certainly</p>
+<p begin="01:01:24.390" end="01:01:29.630" style="s2">indicative is that in Sweden which is</p>
+<p begin="01:01:27.539" end="01:01:32.759" style="s2">probably the most gender egalitarian</p>
+<p begin="01:01:29.630" end="01:01:35.910" style="s2">society that&#39;s ever existed on earth the</p>
+<p begin="01:01:32.759" end="01:01:37.980" style="s2">percentage of men and engineering is</p>
+<p begin="01:01:35.910" end="01:01:40.680" style="s2">actually higher than it is in the United</p>
+<p begin="01:01:37.980" end="01:01:43.230" style="s2">States and the percentage of women in</p>
+<p begin="01:01:40.680" end="01:01:46.819" style="s2">nursing is actually higher than it is in</p>
+<p begin="01:01:43.230" end="01:01:50.119" style="s2">the United States so even once the the</p>
+<p begin="01:01:46.819" end="01:01:53.039" style="s2">bridal of the patriarchy is thrown off</p>
+<p begin="01:01:50.119" end="01:01:54.839" style="s2">it may well be possible that the genders</p>
+<p begin="01:01:53.039" end="01:01:56.549" style="s2">have different things that they&#39;re</p>
+<p begin="01:01:54.839" end="01:02:00.089" style="s2">interested in or maybe that they&#39;re good</p>
+<p begin="01:01:56.549" end="01:02:02.970" style="s2">at it&#39;s at least possible but we won&#39;t</p>
+<p begin="01:02:00.089" end="01:02:06.509" style="s2">know for 100 years not long to just get</p>
+<p begin="01:02:02.970" end="01:02:09.359" style="s2">rid of all the excess nonsense that has</p>
+<p begin="01:02:06.509" end="01:02:10.619" style="s2">pervaded for millennia it was there any</p>
+<p begin="01:02:09.359" end="01:02:11.670" style="s2">reason one would think there would be</p>
+<p begin="01:02:10.619" end="01:02:15.359" style="s2">more nonsense</p>
+<p begin="01:02:11.670" end="01:02:16.440" style="s2">in computer science then say in law or</p>
+<p begin="01:02:15.359" end="01:02:21.420" style="s2">medicine</p>
+<p begin="01:02:16.440" end="01:02:23.670" style="s2">I did a study on that actually on</p>
+<p begin="01:02:21.420" end="01:02:25.349" style="s2">Silicon Valley a preliminary study for</p>
+<p begin="01:02:23.670" end="01:02:27.270" style="s2">the National Science Foundation a few</p>
+<p begin="01:02:25.349" end="01:02:31.280" style="s2">years ago with MIT&#39;s a friend and a</p>
+<p begin="01:02:27.270" end="01:02:34.650" style="s2">partner and what we discovered was that</p>
+<p begin="01:02:31.280" end="01:02:37.530" style="s2">men really made it hard for women to be</p>
+<p begin="01:02:34.650" end="01:02:39.720" style="s2">in that field just ask them in every way</p>
+<p begin="01:02:37.530" end="01:02:41.700" style="s2">possible in every unpleasant way</p>
+<p begin="01:02:39.720" end="01:02:44.119" style="s2">possible I don&#39;t mean sexual harassment</p>
+<p begin="01:02:41.700" end="01:02:46.800" style="s2">I mean you know diminishing them</p>
+<p begin="01:02:44.119" end="01:02:50.730" style="s2">denigrating them in every way possible</p>
+<p begin="01:02:46.800" end="01:02:53.310" style="s2">and I know women of my generation who</p>
+<p begin="01:02:50.730" end="01:02:55.500" style="s2">said who needs this you know I&#39;ll go do</p>
+<p begin="01:02:53.310" end="01:02:57.960" style="s2">something else there&#39;s a woman in my</p>
+<p begin="01:02:55.500" end="01:03:01.200" style="s2">life I&#39;d been middle-aged woman now who</p>
+<p begin="01:02:57.960" end="01:03:04.770" style="s2">got a SES degree from one of the top</p>
+<p begin="01:03:01.200" end="01:03:07.650" style="s2">universities came out was doing great</p>
+<p begin="01:03:04.770" end="01:03:12.599" style="s2">until she ran up against this social</p>
+<p begin="01:03:07.650" end="01:03:15.750" style="s2">stuff in computing and she was gradually</p>
+<p begin="01:03:12.599" end="01:03:18.750" style="s2">funneled into human resources and things</p>
+<p begin="01:03:15.750" end="01:03:21.569" style="s2">like that and she looked at me one day</p>
+<p begin="01:03:18.750" end="01:03:24.780" style="s2">and she said didn&#39;t I fight hard enough</p>
+<p begin="01:03:21.569" end="01:03:27.900" style="s2">and I said it has nothing to do with you</p>
+<p begin="01:03:24.780" end="01:03:30.630" style="s2">personally it&#39;s systemic you need</p>
+<p begin="01:03:27.900" end="01:03:33.960" style="s2">millions to fight hard enough not just</p>
+<p begin="01:03:30.630" end="01:03:35.880" style="s2">you know we shall see certainly one</p>
+<p begin="01:03:33.960" end="01:03:38.810" style="s2">could hope to get rid of anything like</p>
+<p begin="01:03:35.880" end="01:03:42.119" style="s2">that where there is opposition to</p>
+<p begin="01:03:38.810" end="01:03:43.500" style="s2">talented women coming into a field you</p>
+<p begin="01:03:42.119" end="01:03:45.180" style="s2">know it won&#39;t happen overnight as you</p>
+<p begin="01:03:43.500" end="01:03:46.670" style="s2">said it I don&#39;t will be a hundred years</p>
+<p begin="01:03:45.180" end="01:03:48.869" style="s2">but I hope it&#39;s order than that but it</p>
+<p begin="01:03:46.670" end="01:03:51.119" style="s2">it&#39;s every year hopefully getting a</p>
+<p begin="01:03:48.869" end="01:03:52.890" style="s2">little better and then we&#39;ll see are</p>
+<p begin="01:03:51.119" end="01:03:54.839" style="s2">there you know just sort of built-in</p>
+<p begin="01:03:52.890" end="01:03:57.180" style="s2">differences between men and women and</p>
+<p begin="01:03:54.839" end="01:03:58.230" style="s2">what they&#39;re interested in or has it</p>
+<p begin="01:03:57.180" end="01:04:01.680" style="s2">been something else</p>
+<p begin="01:03:58.230" end="01:04:03.960" style="s2">well continuum there are people who are</p>
+<p begin="01:04:01.680" end="01:04:07.170" style="s2">really good at raising kids and they are</p>
+<p begin="01:04:03.960" end="01:04:09.420" style="s2">mostly maybe well I don&#39;t know mostly</p>
+<p begin="01:04:07.170" end="01:04:11.400" style="s2">women you know I liked it not to have</p>
+<p begin="01:04:09.420" end="01:04:14.730" style="s2">children I just decided I&#39;d rather be a</p>
+<p begin="01:04:11.400" end="01:04:18.210" style="s2">full-time writer and the number of women</p>
+<p begin="01:04:14.730" end="01:04:21.200" style="s2">who came to me and said you know I love</p>
+<p begin="01:04:18.210" end="01:04:23.460" style="s2">my kids but if I added to do over again</p>
+<p begin="01:04:21.200" end="01:04:25.440" style="s2">I&#39;d have done what you did</p>
+<p begin="01:04:23.460" end="01:04:27.240" style="s2">well that was surprising I really</p>
+<p begin="01:04:25.440" end="01:04:28.050" style="s2">thought I was a little island all by</p>
+<p begin="01:04:27.240" end="01:04:30.630" style="s2">myself</p>
+<p begin="01:04:28.050" end="01:04:32.850" style="s2">uh-uh but you know it&#39;s so ingrained in</p>
+<p begin="01:04:30.630" end="01:04:37.800" style="s2">us that the women will raise have and</p>
+<p begin="01:04:32.850" end="01:04:39.120" style="s2">raise the children that maybe we need to</p>
+<p begin="01:04:37.800" end="01:04:41.580" style="s2">think about that a little more</p>
+<p begin="01:04:39.120" end="01:04:43.260" style="s2">yeah well particularly on that one it&#39;s</p>
+<p begin="01:04:41.580" end="01:04:45.630" style="s2">going to take more time and I do think</p>
+<p begin="01:04:43.260" end="01:04:49.200" style="s2">the most important first step in which</p>
+<p begin="01:04:45.630" end="01:04:51.330" style="s2">we&#39;ve now mostly taken is that either</p>
+<p begin="01:04:49.200" end="01:04:54.470" style="s2">gender should be able to do whatever</p>
+<p begin="01:04:51.330" end="01:04:57.300" style="s2">they want even if it&#39;s extremely low</p>
+<p begin="01:04:54.470" end="01:05:00.660" style="s2">probability historically for instance</p>
+<p begin="01:04:57.300" end="01:05:03.060" style="s2">you know probably the last legal sexism</p>
+<p begin="01:05:00.660" end="01:05:05.640" style="s2">that was finally repealed in the United</p>
+<p begin="01:05:03.060" end="01:05:08.750" style="s2">States in the last couple of years which</p>
+<p begin="01:05:05.640" end="01:05:11.450" style="s2">is that women are now able to be</p>
+<p begin="01:05:08.750" end="01:05:15.480" style="s2">infantry officers in the Marine Corps</p>
+<p begin="01:05:11.450" end="01:05:17.820" style="s2">right that&#39;s a brutal job that requires</p>
+<p begin="01:05:15.480" end="01:05:20.280" style="s2">great physical strength a murderous</p>
+<p begin="01:05:17.820" end="01:05:21.630" style="s2">intent and a bunch of other things which</p>
+<p begin="01:05:20.280" end="01:05:24.690" style="s2">at least historically and culturally</p>
+<p begin="01:05:21.630" end="01:05:27.150" style="s2">haven&#39;t been highly associated with what</p>
+<p begin="01:05:24.690" end="01:05:29.070" style="s2">women like to do but nonetheless as soon</p>
+<p begin="01:05:27.150" end="01:05:31.170" style="s2">as they open the doors a bunch of women</p>
+<p begin="01:05:29.070" end="01:05:33.270" style="s2">raise their hand said yeah I&#39;d like to</p>
+<p begin="01:05:31.170" end="01:05:35.310" style="s2">bring a Marine Corps infantry officer</p>
+<p begin="01:05:33.270" end="01:05:37.140" style="s2">and they&#39;ve gone through you know the</p>
+<p begin="01:05:35.310" end="01:05:39.630" style="s2">schools and a fair percentage of them</p>
+<p begin="01:05:37.140" end="01:05:41.730" style="s2">have succeeded and qualified and they&#39;re</p>
+<p begin="01:05:39.630" end="01:05:44.160" style="s2">now you know officers in the Marine</p>
+<p begin="01:05:41.730" end="01:05:47.130" style="s2">Corps leading men and women in the mud</p>
+<p begin="01:05:44.160" end="01:05:48.750" style="s2">killing people when necessary etc and</p>
+<p begin="01:05:47.130" end="01:05:50.970" style="s2">even if it turns out that it&#39;s never</p>
+<p begin="01:05:48.750" end="01:05:54.060" style="s2">more than three or four percent strikes</p>
+<p begin="01:05:50.970" end="01:05:56.130" style="s2">me is morally absolutely essential that</p>
+<p begin="01:05:54.060" end="01:05:58.860" style="s2">anyone who wants to do something like</p>
+<p begin="01:05:56.130" end="01:05:59.340" style="s2">that be able to do so couldn&#39;t agree</p>
+<p begin="01:05:58.860" end="01:06:01.710" style="s2">more</p>
+<p begin="01:05:59.340" end="01:06:04.650" style="s2">but on the other hand it wouldn&#39;t bother</p>
+<p begin="01:06:01.710" end="01:06:06.720" style="s2">me or surprise me frankly if only a very</p>
+<p begin="01:06:04.650" end="01:06:08.940" style="s2">small percentage of women actually want</p>
+<p begin="01:06:06.720" end="01:06:10.440" style="s2">to do it so anyway you know you live</p>
+<p begin="01:06:08.940" end="01:06:13.050" style="s2">through the kind of the big piece of</p>
+<p begin="01:06:10.440" end="01:06:14.880" style="s2">this story which is by no means ended</p>
+<p begin="01:06:13.050" end="01:06:17.220" style="s2">yet it&#39;d be very interesting to see how</p>
+<p begin="01:06:14.880" end="01:06:20.130" style="s2">it plays out over the next couple of</p>
+<p begin="01:06:17.220" end="01:06:22.770" style="s2">generations I think with young girls I</p>
+<p begin="01:06:20.130" end="01:06:23.760" style="s2">see you know they have no idea what I&#39;m</p>
+<p begin="01:06:22.770" end="01:06:26.790" style="s2">talking about</p>
+<p begin="01:06:23.760" end="01:06:28.800" style="s2">and for that I say thank God you should</p>
+<p begin="01:06:26.790" end="01:06:31.530" style="s2">not know what this was like it was awful</p>
+<p begin="01:06:28.800" end="01:06:35.190" style="s2">you know classified ads jobs for women</p>
+<p begin="01:06:31.530" end="01:06:37.110" style="s2">jobs for men all that stuff and I would</p>
+<p begin="01:06:35.190" end="01:06:37.490" style="s2">like to say that the last legal barrier</p>
+<p begin="01:06:37.110" end="01:06:40.700" style="s2">has</p>
+<p begin="01:06:37.490" end="01:06:44.090" style="s2">not been breached and we have an Equal</p>
+<p begin="01:06:40.700" end="01:06:45.830" style="s2">Rights Amendment that is annoying that&#39;s</p>
+<p begin="01:06:44.090" end="01:06:48.110" style="s2">at least a negative and whole it needs</p>
+<p begin="01:06:45.830" end="01:06:50.420" style="s2">to be fixed it amazes me that that has</p>
+<p begin="01:06:48.110" end="01:06:51.890" style="s2">not been reintroduced you know that</p>
+<p begin="01:06:50.420" end="01:06:53.960" style="s2">would be relatively well I don&#39;t know</p>
+<p begin="01:06:51.890" end="01:06:55.910" style="s2">but I absolutely agree with you that the</p>
+<p begin="01:06:53.960" end="01:06:58.700" style="s2">Equal Rights Amendment needs to be</p>
+<p begin="01:06:55.910" end="01:07:01.460" style="s2">enacted as a catch-all for non</p>
+<p begin="01:06:58.700" end="01:07:04.130" style="s2">necessarily legislative discrimination</p>
+<p begin="01:07:01.460" end="01:07:06.980" style="s2">you know the Marine Corps ban on women</p>
+<p begin="01:07:04.130" end="01:07:09.020" style="s2">officers was a positive block on women</p>
+<p begin="01:07:06.980" end="01:07:11.030" style="s2">but the Equal Rights Amendment will</p>
+<p begin="01:07:09.020" end="01:07:13.940" style="s2">provide a mechanism to get rid of a</p>
+<p begin="01:07:11.030" end="01:07:16.340" style="s2">bunch of less codified but still real</p>
+<p begin="01:07:13.940" end="01:07:18.290" style="s2">impediments on women&#39;s ability to move</p>
+<p begin="01:07:16.340" end="01:07:21.170" style="s2">forward in the world you know perhaps</p>
+<p begin="01:07:18.290" end="01:07:24.710" style="s2">most famously on equal pay for equal</p>
+<p begin="01:07:21.170" end="01:07:28.070" style="s2">work for example yes there&#39;s still a lot</p>
+<p begin="01:07:24.710" end="01:07:31.990" style="s2">of work to be done and I you know I hope</p>
+<p begin="01:07:28.070" end="01:07:34.880" style="s2">we as a society continue to do that work</p>
+<p begin="01:07:31.990" end="01:07:36.500" style="s2">well Pamela this has been great it&#39;s</p>
+<p begin="01:07:34.880" end="01:07:38.720" style="s2">been everything I was hoping it would be</p>
+<p begin="01:07:36.500" end="01:07:40.670" style="s2">and I&#39;d like to repeat again to the</p>
+<p begin="01:07:38.720" end="01:07:42.619" style="s2">audience you should read this book</p>
+<p begin="01:07:40.670" end="01:07:44.890" style="s2">Pamela&#39;s new book this could be</p>
+<p begin="01:07:42.619" end="01:07:47.780" style="s2">important my life with the artificial</p>
+<p begin="01:07:44.890" end="01:07:49.760" style="s2">intelligence eeeh you&#39;ll enjoy it if you</p>
+<p begin="01:07:47.780" end="01:07:52.760" style="s2">like a good read you&#39;ll learn something</p>
+<p begin="01:07:49.760" end="01:07:58.369" style="s2">and it will by no means be a waste of</p>
+<p begin="01:07:52.760" end="01:08:00.290" style="s2">time thanks very much Jim production</p>
+<p begin="01:07:58.369" end="01:08:03.410" style="s2">services and audio editing by Jared</p>
+<p begin="01:08:00.290" end="01:08:06.960" style="s2">Jane&#39;s consulting music by Tom Muller at</p>
+<p begin="01:08:03.410" end="01:08:10.090" style="s2">modern space music com</p>
+<p begin="01:08:06.960" end="01:08:10.090" style="s2">[Music]</p>
+</div>
+</body>
+</tt>

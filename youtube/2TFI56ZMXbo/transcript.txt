@@ -1,0 +1,2400 @@
+howdy this is Jim rut and this is the
+Jim rut show
+[Music]
+today's guest is Peter Wang co-founder
+and CTO at anaconda a leader in Python
+technologies for scientific computing
+and data analytics and yeah that's
+Python the computer language not pipe on
+the snake well hi Jim it's great to be
+here
+Peter's not only a very accomplished
+technologist in the Python space but
+also is a deep thinker about our present
+world and how our technologically driven
+networked culture and humans interact
+today and how they can better interact
+in the future at least if we're gonna
+survive he's also a leader in thinking
+about next-generation distributed web
+technologies so we got a lot to talk
+about Peter so let's start with an
+update on what's going on in the Python
+world one observation I have I'm a
+Python user I've heard of learn Python
+at the hello world level in 2004 soon
+thereafter you replaced my use of Perl
+with Python for you know text mangling
+and what have you then started using it
+more seriously in 2013 and now it's
+probably my number two language after
+c-sharp and one things always been an
+issue in the Python world is version 2
+versus version 3 it now looks like we're
+decisively past that gap and it looks
+like version 3 from now on out that's
+right
+version 3 is I mean the Train is not
+only left the station but as of December
+31st of this year the version 2 platform
+will no longer be maintained all the
+developers are moving to only supporting
+and maintaining to version 3 that's been
+my rule for at least three years is
+unless there's an absolutely
+indispensable library that wasn't
+version 3 compatible I always went with
+version 3 and now I'm seeing a lot of
+the you know the big main libraries have
+actually started to drop v2 support so
+finally the decision is clear yeah it
+only took 10 years you know but and
+retrospect a screwy decision to made
+that fork over such minor issues but hey
+it is what it is and it's now finally
+you know rejoined and it's version 3
+Hereafter now one question that
+love bass got like you probably sees
+absolutely everything in the Python
+space what are some interesting new
+libraries and capabilities that have
+entered the Python space in the last
+couple of years one thing I'll say up
+front is that the Python space is so
+huge now it is I think by many counts
+the number three most popular
+programming language and so no one
+really can see all of it but the last
+few years have in the general Python
+space been consumed by the two versus
+three transition and what happens to two
+right and then also the async i/o and
+asynchronous programming a lot of those
+things have have just had some growing
+pains they've been going through in the
+data science and machine learning space
+however there's a ton of new stuff and
+that's where I do have a lot more depth
+and understanding and there I would say
+that in the last few years we've gone
+obviously tensorflow you know started
+happening I guess about a couple years
+ago for deep learning and then we had a
+few other frameworks that came out and
+what we're seeing now as the glow I
+think the initial burst and glow from
+that phase we're seeing more libraries
+come out that sort of deconstruct what a
+deep learning library is and create more
+general vector computing and
+optimization stuff so I think that's
+some really cool stuff related to that
+Rapids from the Nvidia folks using some
+of our technologies like numba desk and
+what else oh there's some automated
+machine learning tools that have come
+out for just getting people a faster
+start you know over all these different
+possible machine learning models so I
+think those are some of the key ones
+there's just so much going on it's
+really it's actually kind of an
+interesting problem that we suffer there
+where there's too almost too much
+happening for anyone to keep track of I
+think I always worry and you know we
+know about how evolution doesn't always
+converge to the right solution
+are some really good tools being ignored
+due to evolutionary drift essentially
+you know where for whatever reason you
+know three tools let's say higher level
+wrappers around tensorflow which has
+been a hot area of late and maybe the
+one wins I don't know and you know how
+do we keep enough diversity in the
+ecosystem to make sure that guys who
+should win do it well gosh you know
+there's so much to unpack in that
+question so I think there's a defense of
+the ecosystem that's separate from
+putting your finger on the scale and
+saying this library should win and in
+fact if you have a generative ecosystem
+then no single person can say what is
+the right thing and we almost we have to
+round trip it and run a loop through the
+user space right through the innovation
+community and people actually applying
+the stuff in practice so we might you
+know developers we always have internal
+intrinsic attributes of a library that
+we optimize for we'll say oh this is
+more elegant this one has newer
+techniques so and so forth but until you
+actually put it out and run a round trip
+through you know user space you don't
+know what's really critical right but to
+actually answer your question I think
+that one of the things I really very
+strongly feel we have an opportunity to
+do well in Python space especially on
+machine learning is to articulate a more
+modern defense of what used to be called
+open source but it's something different
+and it's a generative contribution gift
+economy around source code sharing
+that's not inhibited or anchored by
+legacy approaches to IP and software
+modernization so this kind of got really
+deeply fast what I mean is we can talk
+about like people know I'm an open
+source advocate you know people know a
+lot of Python stuff happens open source
+but I think the term open source is
+outmoded and we should almost stop using
+it because a lot of corporate citizens
+in the open source community will come
+out with open source but their
+governance models are very limited the
+governance models basically retain
+copyright you know only the corporate
+contributors and the employees that
+corporation can push commits and things
+like that and that's open source
+technically by every measure by OSI and
+FSS and everything but it's somehow
+manages to not retain the ethos of the
+open source code sharing sort of this
+generative innovation community so that
+is a struggle that I do worry about we
+talk about how do we assure that the
+space have also a good way for me trying
+to come up with that articulation of
+what are the values
+to send there that's one of those things
+the second thing is then ensuring that
+lots of things have a chance to compete
+so when you talk about rappers over
+Tessa flow that's all great but 25
+different rappers over tensorflow
+at the end of the day it's still the
+tensorflow core there's other approaches
+to deep learning frameworks like pi
+torch like chain or MX net many others
+and they have a different construction
+they're more modular construction and an
+observation that my senior director of
+community innovation here has put so
+eloquently was that the reason the PI
+data community or the Syfy community one
+what we're able to create all these
+wonderful innovation things is because
+the people who are doing the work the
+the actual heavy lifting of making code
+making new modular libraries they
+designed them with a certain economy of
+scope so they can play with each other
+they reproduced they reuse pieces
+already there nothing tried to boil the
+ocean it was a really interesting
+innovation community and I argue
+actually one of my talks I've given I
+argue that the PI data cyber community
+is one of the very few things that I've
+seen that has actually out innovated
+capitalism basically the return on your
+dollar there has been better than any
+kind of capitalist firm I certainly have
+found it an unbelievable ecosystem I'm
+not a hardcore commercial production
+programmer but I do like to try new
+things right you know I've tried out the
+various tensorflow rappers I tried PI
+torch I've tried this I tried that dude
+I do a lot of stuff and what I'm always
+amazed at if I'm looking for some little
+piece of glue where or something to move
+data from here to bear you know a half a
+line worth of Google search in the
+Python space will usually turn up
+something for me right you know the
+space is amazingly well populated its
+blessing in the curse you know we've got
+about a hundred thousand packages so
+good luck now I'm talking to the man
+himself so I should ask this question if
+say someone who is not a true deep
+Python guru are there ways to validate
+packages libraries systems you know how
+does one think about choosing between
+nine different machine learning
+frameworks for instance what would
+advice would you give to somebody who is
+entering this world that's a great
+question
+as far as I know right now there's
+really a standard way to validate it or
+to like there's there is not a central
+credentialing Authority right one
+measure that's popular is people look at
+popularity rank how many downloads off
+pie-pie how he downloads off of Conda or
+anaconda how many questions are there on
+Stack Overflow how active is the github
+for that particular project those are so
+all these kind of like proximal measures
+of the healthiness of a project but
+unfortunately the way this goes some
+software some projects that are very
+useful very solid they don't need much
+fixing they actually do a very small
+thing very well and they sit around they
+have no activity for a few years but
+they're still perfectly fine and so
+there's a biased source of newness and
+activity there which is unfortunate so
+we definitely lack for that and I think
+any you know further on this
+conversation we're talking about
+decentralization we are suffering
+exactly that problem here any time you
+have an abundance of options now you've
+got a curatorial need right and the
+curation becomes very important so we're
+thinking about ideas to improve that
+here at anaconda actually and we do play
+a very interesting role in the ecosystem
+so we do have visibility into a lot of
+things that could inform such a curation
+'el system but we want to make sure we
+do in a way that's not ham-fisted we
+want to do in a way that you know does
+surface again I talked about earlier
+which is that sometimes projects don't
+release very often or actually very
+stable and should be the ones you do use
+right yep it's not it's certainly not a
+simple linear problem right it's a
+multi-dimensional nonlinear problem and
+you mentioned a lot of things I use how
+many downloads does the community seem
+alive you know are there mailing lists
+or discussion groups you know help I do
+use how often is it updated but I don't
+use that as a binary as you point out
+some very nice mature packages really
+don't need the updating right so why
+should you care about that the other one
+I like to look at is look at the issues
+list on github and if there's a lot of
+issues out there that nobody's
+addressing that's usually not a good
+size it's interesting it can be but it
+can also be a different part of the
+quadrant which is this is an incredibly
+useful library that
+suddenly found massive popularity and
+you know one dev working on it and you
+know in his or her part-time and like
+ten thousand people are on github asking
+about it now it normally is not that
+much of a ratio but we do see this
+really interesting phenomenon now where
+because Python has gotten mainstream
+people their jobs depend on it right you
+tell you talk about yourself being a
+casual user but there are people who
+literally you know Python is a very high
+rank skill on indeed comm and these
+others are LinkedIn and job search
+places people they get a job and the job
+requires I'm going to use these
+libraries and these are open source
+libraries maintained by volunteers and
+so they'll show up on the tracker saying
+hey your software sucks because it's not
+doing this and then the other and the
+volunteer maintainer is like well we're
+not getting paid for it and there's just
+the incredible mismatch and disparity
+between the expectations of what I would
+say the standard labor economics around
+white collar work that uses this kind of
+software and then the generative
+abundance gift economy economics that is
+part of the sharing tribal culture that
+produces the software and at the
+intersection of these two things
+there's not many tangent points between
+these two circles in fact so that's one
+of my things I like to nerd out on which
+is actually also an intersection of
+meta-level its intersection between the
+circles of my you know my day job and
+all those Python stuff and open-source
+community and then also my thinking
+about you know future of human
+civilization and collective you know
+dynamics and things like that yep sounds
+like you're the right guy to be there to
+be thinking about this and you know the
+Python community is amazing but you
+could make it even more amazing if you
+could come up with some way to help
+people sort through that without putting
+the thumb on the scale prematurely right
+or at all right how do you get an
+emergent signal that's a good signal we
+will come back to that problem again and
+again I mean it's funny you know one of
+the things that we look at you know this
+distributed search problem you know
+people say well why can't we have a
+distributed Facebook right well turns
+out it's a pain in the ass to be able to
+make it searchable or hate if everybody
+has their own copy so these problems
+come up again
+again now I like to go to next is
+something I know you've thought about
+and talked about a little bit and that
+is the match and mismatch between human
+cognition and our worldwide
+technologically driven networks Mis
+master's in human cognition and a
+worldwide networks technologically
+driven network how you know you've
+talked about things like speciation ok
+well where would you like to start start
+saying what you think about this problem
+you know that the human cognition was
+not designed for fractal huge
+instantaneous worldwide network right so
+there's two pieces of this so one of
+them is tied to the limitations of human
+cognition you know I was actually I was
+listening to the Krakauer interview that
+you did and he talks about it really
+well there as well he talks about you
+know all of our analytical models we
+were really solving for how to have a
+shorter model description than the
+phenomenological of observations right
+and a thing I like to say about this is
+that humans really are narrowband
+sensors that have a preference for
+structure so we really we can't help but
+see the world in terms of structure and
+that structures how we compress sensory
+input structures how we compress our
+description of phenomenon and we really
+have very narrow bandwidth to process
+these things and to retain them and we
+remember them remember these compressed
+versions of them like almost like a
+little reduced hashes of them not the
+full description so human cognition is
+really I mean our brains are just these
+patterning engines and that works fine
+in 3 plus 1 D space that we grew up in
+had to hunt animals in and greed in but
+what we've done in all of our caloric
+access in modernity we've created now
+technological infrastructure that
+exposes all of this extra like cycles
+that we have in our brains to a
+completely different massively high
+bandwidth set of perceptual inputs that
+are all virtual it's all virtuality but
+through our eyes and our ears I mean
+even this podcast is an instance of such
+a thing
+we are exposed to a space that or to a
+set of sensory things that inhabit
+dimensions they carve out dimensions
+they are well beyond the 3+1 D that we
+that our brains really were evolved to
+succeed in and these worldwide
+or s the communications networks what
+they've really done is now they've
+created a place where signals and
+messages and ideas bounce around and
+essentially have a life of their own and
+what I like to think about is this is
+kind of if I could use a model that
+maybe we come back to over and over in
+this podcast but let's think of the
+human being is almost like a connected
+series of rods or masses suspended in
+water and different layers of water have
+different densities maybe different
+temperatures and we're loosely connected
+and we're each of us we're just every
+single one of us has multiple planes
+that we live in but at the highest plane
+the intellectual plane we tend to think
+of that as kind of this very sort of
+rarefied air but actually our
+intellectual brains and our cultural
+brains that tear of us it is essentially
+substrate for a massive amounts of wave
+patterns and signals that bounce off
+each other some cancel each other out
+some reinforce each other so we're
+really like little particles of water or
+atoms molecules of h2o in this giant
+ocean and that's really my model for
+what's happening now why it's so hard
+for people to talk about it because
+people still think of themselves
+essentially individual whole atomic
+things that maybe read a book or watch a
+TV show or listen to a sound byte but
+actually we have to almost deconstruct
+what it is to be human and realized that
+you know there's so much more signal
+pressure on this cultural intellectual
+part of us and that actually causes a
+disconnect in neuroticism as it
+disconnects with our internal narrative
+going between these different connected
+pieces that comprise us so anyway that's
+a lot to unpack there but I just want to
+put that model out there as how how I
+see the world and why I think right now
+we're in such a weird place like we have
+metaphysical problems we have a crisis
+of philosophy so I like to say because
+our model of self our model of agency or
+model of what even a human person is our
+human reality is or how important
+consensus reality is all those are
+breaking down do they haven't you think
+this is by necessity because of the new
+modality or is it part of learning you
+know lack of learning you know if we
+look back at the invention of the
+printing press
+apparently the
+various frauds and indulgences
+were a big thing that the printing press
+was used for the early days of
+newspapers were full of ads for quack
+nostrums
+I remember email quickly got inundated
+by spam that's right Marcus cookie
+recipe right exactly but fairly quickly
+humans adapted and learned to filter out
+the most egregious most of the
+time is that what's gonna happen with
+humans in this high dimensional
+high-speed network world or we entered a
+new regime where it's just beyond our
+capability to deal I'm going to say that
+it's the latter and the reason I say
+that is because well if we see this in
+data science to this argument that
+quantity at some level quantity takes on
+quality all of its own right and the
+difference between the kind of
+misinformation and fuzzy information
+fuzzy propagation of high quality signal
+and all these kinds of things that we've
+had the past is we used to be in a
+regime civilizational e or socially of
+bandwidth scarcity there just was not
+enough bandwidth to construct a high
+quality simulacrum of virtuality we are
+now past that point there really is a
+binary point I mean there's a hard limit
+to how many pixels and what frame rate
+you need coming into your eyeballs for
+you to see something that's very very
+real right there is some audio encoding
+bit rate below which it sounds like crap
+and above which it's basically like
+you're sitting next to me we don't need
+a you know anything beyond that is gravy
+so there's a hard transition point where
+we have enough bandwidth to create a
+distributed you know Scot thousand
+plateaus and seven and a half billion
+plateaus we can create this virtuality
+and now we're in a space of attentional
+scarcity so I think it is a very
+different thing yeah and in fact I got I
+got a really long discussion with a guy
+who was asking as I was talking about my
+ideas for decentralized web and things
+like that he was saying you know all
+this stuff out social media how is this
+different than all the piece of stuff
+people were saying about TV back in the
+day right people are say TV would rot
+your brain Neil postman hat is like
+amusing ourselves to death block people
+said the same stuff about TV why is it
+different out social media I think that
+prince is that there's a couple of
+things but number one we're just in a
+different bandwidth space number two
+it's not broadcast it's not broadcast
+and that's the problem
+TV and radio and newsprint at least
+their power came from broadcast they can
+influence a billion or a million minds
+but it was the same message going to the
+same million what we have now is
+aggregated narrowcast
+so every single person can get a deeply
+tailored virtual experience of the world
+that is then able to manipulate them
+however we want and maybe you're right
+maybe it's a learning issue where this
+generation of young kids that are
+growing up with all this stuff they will
+learn defenses the turmeric Weinstein
+likes to use is malware right
+they'll have been inoculated to the kind
+of malware but we have a long way to go
+before then and number two who knows of
+the world will look like by then that
+all of their interactions with each
+other the human human interface is
+already going to be intermediated by so
+much virtuality a digital modification
+we may really be putting ourselves into
+a new phase of human evolution and we're
+not
+we've not contemplated really what that
+looks like structurally what that means
+and that's very dangerous I'm gonna come
+back to that a little bit later let me
+push back just a little a year ago when
+they when it first started getting some
+publicity I became very concerned about
+the possibility of deep fake videos
+being used for very pernicious purposes
+and yet as far as I know there are zero
+examples or you know they're you know
+little corner cases but no major
+exploits have been made around deep
+fakes and that at least to me indicates
+perhaps that people are developing these
+anti-malware immune systems and say you
+know that really is in Hillary's face on
+that porn video right that's just
+implausible right and isn't that
+interesting that all this concern about
+deep fakes a year ago has so far at
+least not been met by actual problems
+from deep fakes it is interesting I was
+also concerned about it you know
+actually when D face first came out I
+went downloaded the you could download
+the image via BitTorrent it was about
+like you know two three gays was the
+kind of the software to do it and I was
+looking through
+actually embedded anaconda to install a
+tensor fluff and other stuffs I'm like
+yeah I'm very proud of this kind of but
+um here's the problem with that point of
+view right and I agree with you we have
+not seen profusion of deep faked you
+know political whatever takedown videos
+and stuff like that we are seeing some
+of it you know we're seeing social media
+sites and what not having to have
+policies around you know is it okay to
+take the likeness of a person and
+tensorflow it you know or PI torch it on
+top of a porn actress and like is that
+fair use is that art is it slander what
+is it right so we got that kind of stuff
+going on that is happening that's not
+deep fake video but it is happening but
+kind of zooming up a little bit to
+answer your question more broadly I
+think the danger here is that what deep
+fake represents is it tells us a we're
+almost good enough to be able to use a
+pile of GPUs to trick our iconic visual
+perception system which has been very
+good that's a very well honed system and
+our proprioceptive system our visual
+systems these have been honed for a very
+long time and so you know we look at a
+loved one they raise an eyebrow and we
+read a ton of meeting right so these are
+very well honed systems the fact that we
+can take a bunch of vector hardware and
+fool them is like not great it's kind of
+like good huh but think more deeply than
+this we are actually entering as own
+where we don't actually know what to
+believe right when we are going to
+exceed our own capability like we can
+create more virtuality that's more real
+than reality so to make this more
+concrete maybe I was a laugh track but
+make it more concrete you say you
+haven't seen any deep fake videos yet
+how do you know I should I have but I
+haven't been fooled by anything but
+howdy no no I don't know certainly but
+you would think still the forensic
+ability to detect deep fakes is pretty
+strong that if we had been fooled we
+would
+you know at least one example thereof as
+far as I know there's not been a single
+widespread exploit of deep fakes that
+has you know penetrated any significant
+distance into our world and as far as I
+know the forensics can still detect a
+deep fake at a high level if you're
+willing to put the effort into it
+right so to push back on that a little
+bit number one again how do you know
+because the way that we're going to test
+for deface besides you know Amazon
+Turkey a whole lot of this stuff is
+we're gonna use probably cans and other
+kinds of deep learning neural nets to
+try and detect deep face so you can see
+the kind of the problem there because
+we're gonna take those turn right back
+around to make better deep things so our
+actual ways of detecting deep thanks to
+forensics that we can do I think that's
+sandbagging that's not gonna be a
+perfect approach but even more than this
+I don't know if you read the articles
+that were coming out after the Trump
+victory people talk about fake news and
+stuff like that and there was a really
+interesting fascinating profile down on
+this guy who was just this Rando dude in
+like I don't know Louisiana somewhere
+and he just decided for lulz he was
+gonna create a fake website and make all
+these like bogus so far right-wing
+outrageous articles detect roll his
+conservative friends and they started
+getting a lot of traction he started
+selling ads start making money and then
+before he knew it he was like becoming
+one of these like main founts of
+misinformation right-wing like nonsense
+it was just a random dude with like
+wordpress okay so the bar that you set
+for yourself and like what you affect
+what were you and i might see and say oh
+yeah you know what that definitely is
+actually trump on a bed getting peed on
+by a bunch of Russian hookers like that
+bar may be very high for us it ain't
+that high for the vast majority the
+electorate I'll tell you that you know
+some Rando dude with WordPress can you
+know make a significant percentage point
+impact on election you bet deep face can
+be a problem for us I'll be interested
+to see what happens in 2020 to what
+degree has the immune system against
+malware improved you know for instance I
+think the the most successful fake news
+story which is still like to your point
+guys like you and me wouldn't have been
+fooled by this one
+apparently the number-one fake news of
+2016 was Pope Francis endorses Trump got
+20 million views right will people be so
+gullible in 2020 I would assert without
+being able to prove the answer is no
+they would not be so gullible that if
+you know someone were to refloat that or
+the analogous are equivalent story it
+would not get 20 million views 2016 was
+you know very early in the aggressive
+and moderately skillful application of
+fake news and since then just like spam
+right how many people fall for Nigerian
+letters these days not very many but it
+was quite a good business back in the
+day so we shall see I'm not saying that
+we don't have an issue here but I'm
+saying that the doomsayers I believe
+underestimate the ability of humans to
+learn adaptive immune systems against
+information malware now of course it's
+an arms race as you point out and
+there's no guarantee that the technology
+won't eventually overwhelm the ability
+of the human immune system and just like
+2016 showed it will lag so that even if
+in the long term our immune systems
+catch up a lot of harm can be done in
+the mean time hey you know I think this
+is actually a really important thing to
+drill it on just a little bit because
+you know kind of the way I said it
+earlier I'll just reiterate that we are
+getting better at making virtuality that
+exceeds our sort of perceptions of
+reality and furthermore more and more of
+our experiences of reality are
+intermediated by electronic means and
+once you have this interface a point
+that's some kind of electronic device
+you can go and plug in virtuality you
+can plug in reality it's like you know
+when they they go in the hospital and
+they put a little thing in your arm I
+think you just kind of swap out syringes
+and stalk about different kinds of drugs
+and stuff as they need right we've got
+that port in our eyeballs our ears now
+we've got it
+everyone's got one and so I think that
+when you talk about underestimate the
+human ability to adapt I would ask you
+adapt how like besides turning back into
+the quote of a Neanderthal where we just
+have tribal hey what did you hear what
+did you hear
+beyond that what does your adaptation
+everyone's gonna learn how to like debug
+tensorflow code everyone's gonna go and
+go through the training data sets for
+these things know right so I think this
+is where I think the arms race of
+machine learning and machine augment is
+human decision-making cybernetics all
+these things are creating really
+speciation because because I think
+you're right people will respond people
+not gonna they're not gonna sit around
+and be lied to all the time but they
+will respond and what I think is that
+the response for a lot of people who are
+below a certain tier of expertise they
+are going to turn into vassals they're
+gonna be digital vessels essentially I
+mean they're already doing that now
+they're not becoming that now so it's
+not only elections that deep face matter
+it's not only deep fake videos that
+matter but it's the anti-vaxxer it's
+people with all sorts of financial like
+weird financial fraud little Ponzi
+schemes that show up all the time on
+Facebook right you and I maybe we move
+into the kind of more rarefied circles
+but for a lot of Americans out there who
+are you know a lot of them are
+struggling and desperate financially
+there's a ton of random stuff they're
+exposed to you and that stuff is gonna
+become increasingly weaponized by
+machine learning by maybe deep fakes by
+whatever and those people after they get
+burned a couple of times what are they
+gonna do to not be a burden a third time
+they're going to maybe shut off their
+devices they're gonna maybe distrust any
+kind of information to get through a
+digital means and they then revert back
+into like I said a more Neanderthal
+state they're gonna revert back into not
+Homo sapiens digital they're gonna
+basically become part of a substrate for
+other people to manipulate in control
+and that's that's why I talk about
+speciation that's why I deeply believe
+some of John Lewis critiques of the
+technological society I think we're
+really really setting ourselves up for a
+weird caste system and that's my concern
+there yep speciation I think that's
+interesting
+maybe somewhat unusual that I still have
+lots of interactions with my childhood
+friends right I grew up in a
+working-class neighborhood half the
+adults had dropped out of high school so
+this was not a tickly sophisticated area
+but the people were generally
+hard-working had good values and were
+have been pretty successful but it's
+amazing that there's lots of people my
+age who hardly know what Netflix is let
+alone I've ever used it right and
+Facebook I would never be on that
+goddamn thing isn't that just obsessed
+full of right and so they literally
+in some sense are almost speciated out
+out of this this new thing that we've
+all been doing all these years you know
+I've been doing it since I was in my 20s
+and I've been doing it continuously so
+maybe a little anomalous for a mid
+boomer but there are a lot of people who
+just aren't engaged at all or as you
+point out some who have been burned or
+disgusted and become information
+nihilists with respect to the networks
+and frankly that may be better in some
+ways and being duped again and again and
+again but it's a loss of agency it
+represents a loss of agency and I know
+that all nations was a erics great quote
+that a nation is a good people who
+decided to forget something together
+right we maintain an illusion of
+democracy and government by the people
+and all this other stuff it's a useful
+illusion to maintain but at the end of
+the day there is value to having some
+reality behind that illusion and when
+these people opt out of all the stuff
+they're opting out of the governance
+system that's why I call them vassals
+well or they build a governance system
+in a different modality perhaps they
+decide you know what's on line
+we're only gonna believe what we see
+face to face I think that's an
+interesting alternative and you know
+you've probably heard me talk about in
+the past my distinction between weak
+links which are done online and strong
+links which are done face-to-face and it
+strikes me in the United States at least
+the strong link networks have been under
+invested in in the last 30 years as
+we've all been ever so infatuated with
+we
+Clank we look at other places the five
+star movement in Italy is a very
+interesting example it was basically
+built around meetup meetup.com
+face-to-face interactions at every scale
+all over Italy and you know we could see
+that from the rejectionists so yet
+speciation but doesn't necessarily mean
+our species will win okay so I don't
+disagree about it don't agree you're
+right that doesn't necessarily mean that
+our species will win whatever our means
+like I don't disagree with you about the
+strong versus weak links and and in fact
+I would say that the past thirty years
+of what you say the past thirty years of
+underinvestment in strong links I think
+that was your your phrasing I think
+actually that's your touching your
+brushing up against the root problem
+here and you know where Vicky talks
+about the crisis of meaning and the this
+last thirty years has been more than
+that I actually say it's something
+closer to about sixty years and I peg it
+to basically the post war in America and
+the beginning of really mass media
+driving mass consumption and what's
+happened is that every single step we've
+removed we've been weakening communalism
+and community strong links between
+people and then we've been replacing
+those sources of meaning and those
+interactions with interactions with
+celebrities brands things that are
+delivered to us in a broadcast fashion
+and even with you haven't of that from
+radio and local FM stations getting you
+know snapped up same cable TV that went
+from community local to being global
+broadcast Turner right and so you have
+this broadcast mass media phenomenon
+that has essentially destroyed a lot of
+that person-to-person in-person sort of
+thing and I think that the strong link
+system is the strongly breakdown that
+you're talking about it's well maybe not
+intentional but it's been an active
+thing it wasn't like oh shoot we forgot
+we were supposed to see other people no
+it was hey your kids should watch more
+TV hey did you see that TV show usually
+read through the newspaper the
+newspapers talking about the stars on
+this new TV show this pilot
+showed like all of us are tuned in to
+broadcast mass media and that by itself
+has been a deeply weakening thing so
+when you talk about the people doing
+face-to-face connections as a way of
+building movements I think that's
+fantastic that's true and correct
+however however I think that kind of
+stuff if it's actively being competed
+against by the digitally networked and
+digital mimetic systems it doesn't hold
+a candle yep this is why I what I really
+speak towards is a hybrid of strong link
+nodes linked by weak links right so they
+can coordinate and sense make using weak
+links and act using strong links and
+getting that architecture I mean those
+are just words getting that architecture
+right where you take the benefits of
+both strong links and weak links and
+create a movement that uses both
+appropriately strikes me as the winning
+strategy nobody's done it yet at least
+that I'm aware of but I put it out there
+as a challenge for you know movement
+builders party builders you know mimetic
+warfare people to take that combined
+idea and see what you can make out of it
+yeah I agree with you but I would I
+would just push back on that concept of
+it being a winning strategy because that
+explicitly sets up and maybe you're not
+really saying this but when you talk
+about this being a winning strategy it
+almost sounds like there's a goal
+there's a thing we're trying to achieve
+and this would be a way to win it but I
+want to be very clear that when we say
+that we're not this is a really very
+difficult thing to articulate I think
+you're right that in a state that you
+and I would be happy to see would be a
+system that could be described by that
+description but the goal wasn't to win
+the goal right now is to create a better
+architecture for humans to build shared
+values and shared meaning and so Joe
+Edelman talks I think on the emerg
+podcast he talked about having
+goal-directed versus value directed
+approaches and so even though I agree
+with you from a phenomenological
+description of what a winning state
+looks like I want to make sure that we
+don't convey the wrong idea that hey we
+want to take over the world
+here's you know Jim and Peter's grand
+plan for megalomania that's not what
+this is about
+it's more about having communities where
+hi meaning and hi conviviality which we
+don't have right now right we have a lot
+of individuals we're sort of I think a
+peak individualism the mass media stuff
+is played into that very well and we're
+just done with it Liberty is not enough
+I think that was very well said Peter
+and maybe I will rip off that a little
+bit yeah that's idea this weakling
+strong link community when I say winning
+let's say wins enough to build a safe
+ecosystem to develop an alternative to
+the status quo where people living
+within this new force field can
+basically reject the game a programming
+and have a space in which they can build
+game B and you know we don't know what
+game B is yet but we know that it avoids
+many of the pernicious aspects of game a
+and to my mind that's winning yeah so by
+that definition than avoiding game a
+failures we can pound define that as
+game be winning with that I would agree
+all right let's hop back a little bit
+here to you know fake news networks etc
+one thing that's very different big
+difference between 1975 and today is in
+1975 there were a very small number
+really a very homogeneous gatekeepers
+there were the three TV networks there
+were frankly a small number of
+newspapers New York Times Washington
+Post's LA Times Chicago Tribune that
+drove the news agenda there was Newsweek
+and Time magazine and so there was a
+very narrow choice of views of the world
+now this had some big negatives I mean
+frankly the idea that de libération
+would have happened under that kind of
+system is relatively unlikely in lots of
+other good things that have come from
+the breakdown of the control of the
+discourse by a small number of people
+but at the same time having those small
+number of professional quality discourse
+mediators also kept out a lot of general
+horseshit you know stuff like
+anti-vaxxers and flat earths and god
+knows what other crap circulates around
+our unmediated networks today so seems
+to me that what we really are in need of
+is a new synthesis or we can get some of
+the quality of mediation discourse
+filtering
+etc that we used to get from this
+handful of big bland mediators but
+instead is dynamic and small scale and
+fractal and emergent and all those good
+things you know sometimes that goes
+under the name of sense making you know
+we need to learn how to exist in a world
+where there isn't a small number of Big
+Brother mediators yet still have a whole
+lot of the useless crap filtered out
+that we otherwise would waste our
+attention on yes I mean I do say that
+but when I talk about what what I think
+we really need to do we need a new
+infrastructure for sense making and
+meaning making and really collective
+collective action but since making is
+the first part of the collective action
+could you define sense making this is a
+word that gets thrown around a lot and
+I'd love to hear what your take on what
+it means is well the way I think about
+it I've even last couple of years really
+I've come to Plummer I have like a lower
+and lower sense of esteem for our
+baseline human Hardware even as I
+maintain great faith in the nobility and
+the potential of Homo sapiens and people
+I just have a certain sense of I don't
+know what the right term is it's not
+nihilism but certainly a sense of like
+man most of what we deal with this
+construct right most of what we tend to
+even hold up as being I don't know like
+the the reason I say all this is because
+on the one hand we can talk about sense
+making in a way that lets say the
+default perspective on sense making is
+hey all the stuff was going on we live
+in a Luca world volatile uncertain
+complex and ambiguous and we need to
+figure out which side is up you look at
+the situation with the downing of the
+airplane by the Russian missile right
+well wasn't the Ukrainian rebels was it
+the Russians who was it and then you
+look at like when Trump like authorized
+the air strikes on that Syrian airfield
+and like even hardcore like actual fact
+things we can make sense of now because
+our world is now so big so complicated
+we see so many different things and so
+Fuko world we have to have something we
+have to get new tools you know you
+talked about the collapse of the
+gatekeepers of the Fourth Estate how do
+we figure out something that suffice is
+the same need that those people sufficed
+that's one view of sense-making right
+your average Joe Schmo at home needs to
+understand they live in a world that has
+a continuous past it has some sense of a
+possibly coherent feature my view on
+stands making is a little bit I view it
+in a way that maybe less privilege is
+the human individual human viewpoint
+which is to say that humans basically
+lied to themselves all the time and we
+go through the world relying on a series
+of lies and myths and constructions and
+fables all of these things we call
+models model stories memories myths
+whatever you want to call them and sense
+making is the process of compressing
+this gigantic amount of stuff coming in
+into something that patterns into or is
+resonant with there's not completely out
+of tune with the various different
+models that are playing in our head
+that's what most people solve for they
+solve for this doesn't offend me this
+doesn't surprise me it doesn't make me
+feel like I've been living a lie you
+know etc etc so most people solve for
+when they talk sense making now when we
+talk about sense making in an
+aspirational sense it's that we want to
+get high quality models that we can then
+feed into a control loop that we can
+then manipulate the environment taking
+courses of action that lead to outcomes
+that we desire right that agency that
+cybernetic loop is a critical part of
+useful sense making but the vast
+majority of people and I gave a
+conference talk about this a couple
+years ago it's actually where I've met
+Jordan for the first time and I gave a
+talk about the story of stories and how
+I call the making of sense
+most people demand that reality conforms
+to their models more than they demands
+their models have some semblance to
+reality so that's unfortunately you know
+we talk about sense making we have to
+understand there's many different
+species in the tribe of human that need
+to engage in a sense making activity and
+so when we talk about finding fake news
+or coming
+higher-quality news sources or having to
+decentralize or distributed ways of
+patterning it's all these things we also
+have to understand that a large part of
+humanity still runs on malware and
+firmware that requires stories that make
+sense more than you know information
+that leads to higher quality courses of
+action actually if we want to get
+historical a little philosophical here
+we're essentially talking about the
+difference between enlightenment
+thinking and pre enlightened and
+thinking right the Enlightenment was the
+first full break away from just
+believing random horseshit that somebody
+made up and instead attempting to make
+sense that was actually congruent with
+reality and yes I'll put my metaphysical
+cards on the table and admit to being a
+naive realist I actually believe there
+is a single reality and we can learn
+more and more about it though I doubt we
+can ever learn everything about it and
+that the Enlightenment toolkit was all
+about sense making to bring our models
+as congruent as possible to that reality
+and it is a little disconcerting that on
+both the left and the right or seeing
+people explicitly pull away from the
+Enlightenment
+as a core value and retreating to you
+know I'll just be happy to believe
+horseshit that it's been handed down
+through the generations because it's the
+horseshit that I feel comfortable with
+and that strikes me as exceedingly
+dangerous and very counterproductive for
+the future of the human race now in
+terms of how this might actually work I
+had an example today might you know I
+mentioned my hometown buddies we go
+hunting we go fishing we go out and do
+crazy a few times a year they know
+that I'm well-connected into the
+networks and have reasonably good sense
+making skills and also other nodes near
+me I got an email today from a friend
+asking me is this real or is this
+ right had to do with something
+to do with gun control and the federal
+government or something I did five
+minutes with a research and I said yeah
+this is real and it does seem somewhat
+unprecedented so yes this is something
+you should pay attention to so as I
+started thinking about that as uh you
+know just a very baby example one might
+think of sense-making being in small to
+medium sized groups that are
+interconnected across
+call him secretary nodes kind of like
+the secretaries of Correspondence in the
+Continental Congress and the
+pre-revolutionary America where every
+community had our big community had a
+group of pre revolutionaries and they
+had a corresponding secretary who wrote
+to the other nodes right and so my buddy
+asked me I asked somebody else right he
+to the research and he now has my power
+at least at second hand to make sense of
+some random thing that came in over the
+Internet and that may be the model so
+long as there are a sufficient critical
+mass of Enlightenment thinkers in this
+connected network that a person is part
+of that provides their sense-making
+apparatus yeah I agree with that
+wholeheartedly and I think that this is
+the thing you talk about there I also in
+my own conference lightning talk that I
+gave a couple years back I talked about
+the difference between a human network
+forces a computer network and a human
+network the intelligence actually is in
+the network in in that it's a trusted
+network there is there's trust in the
+connection so your friend if they got an
+email from me or from you know Joe Schmo
+saying yeah this thing is real they
+would discount it completely but if they
+get it from you they believe you right
+the fact that it's you that connection
+itself you know trusted connection is 90
+percent of the signal doesn't matter
+what it says on that wire actually right
+it so strongly modulates the signal
+going down that connection but the
+Internet is very interesting right and
+says you know as well or probably better
+than most the Internet is just this is
+ossified frozen you call it frozen
+accident i think is great term it's the
+frozen accident of a command-and-control
+computer network where the network's
+supposed to be dumb where trust was not
+an entity we cared about at all on the
+network right back in the day and so
+we've overlaid our expectations and our
+software provides affordances as if the
+network we use is a human network but
+it's not it's a computer network
+and the modalities of communication the
+broadcast the implication the kinds of
+gamification we do on it all those
+things exploit the characteristics of a
+computer network and completely under
+serve the needs of a human network and
+also they they don't they'll surface
+this kind of thing where you're a
+trusted expert on a couple of things and
+your friends trust you on that that's
+very very hard to surface in a scalable
+way you know the human networks are very
+different than the computer networks and
+so I think in the long run we'll have
+sense-making networks that look more
+like these organic human networks that's
+my hope and just as a sidebar I have
+talked about this a lot that our
+architectures are technical network
+architectures are all built on
+foundations of sand right CCP IPA CTP
+HTML and UNIX all three were designed
+for a non-adversarial world or hey these
+were all designed for you know
+essentially research communities of
+people who trusted each other and did
+not assume bad faith exploits and here
+we are trying to build high fidelity
+reasonably coherent signals on top of
+these bases of sand and it is a ongoing
+problem which I we will probably not get
+out of anytime soon but we have to do it
+and again this is where I come back to
+the weak link strong link when you say
+scalable it doesn't have to scale think
+about it as a fractal Network where it
+can scale in smaller nodes right so you
+know let's say it's a community of a
+Dunbar number of people 150 who have
+some reasonable level of interconnection
+amongst them but some of the members
+that network also reached out to other
+Dunbar clusters right so that when you
+aggregate up you eventually get to the
+whole world but most of the
+communications are within relatively
+small groups that might be the right way
+to go yeah and actually I sorta clarify
+when I say the word scale I think it
+actually can scale and it's one of the
+reasons I say that the biggest social
+network and the most resilient social
+network in the world is still email but
+actually the scale that I'm talking
+about there I should have err quoted it
+what I mean is scalable in the sense of
+modern like vc-backed to scale
+monetization model kinds of things I
+think that these kinds of
+it may very well be the case that really
+good is humane communication
+technologies almost by design cannot be
+monetized in the fashion they're being
+monetized now they the business models
+around them are not scalable even though
+the networks and the meaning making is I
+love that distinction and I think
+actually that may point us in some sense
+of where to be thinking right don't
+think in terms of yeah I gotta build
+another unicorn that's what I'm doing
+this week I built it let me build a
+third one you know them unicorns
+right instead let's solve the actual
+human problem of how can people do sense
+making of reasonable high fidelity even
+if they personally don't have huge sense
+making skills how do we allow people to
+find their advisers or how they create a
+virtual set of advisers from a
+relatively small number may be Dunbar
+number ish set of network connections
+how they discover how they knit that up
+yeah and I think the closest we got to
+something like this was in the there's
+kind of this like a period of a few
+years you know I think the late 90s
+maybe when the Internet we got rich
+enough to have like embedded audio and
+video kinds of things and some flash
+animation stuff and we then had web
+rings we had web rings out the wazoo
+right I remember those are actually
+pretty cool yeah there's a evolution
+Darwinism right bring Amazon and there's
+like a Babylon 5 web ring and all these
+things those are great that's organic
+socialization happening and the thing
+about this is I think that we've
+forgotten we forgotten just how
+powerfully leveraged an activity
+software development really is and that
+in the last 20 years the creation of
+software especially enterprise software
+the fact of people get employed
+stitching together writing more
+band-aids of Java on top of other like
+Java crap that some other consultant
+build like we have so much financial
+activity happening around building
+essentially pretty crummy software that
+we forgot that software actually is
+quite leveraged as an activity and I'll
+tell two little stories about one of
+them is when we talk about in the open
+source world the sustainability crisis
+right this massively open SSL for
+instance turns out the heartbleed bug
+resulted because there's only four
+part-time people working on OpenSSL and
+it's a core piece of infrastructure for
+the world right in Python we've got
+software like numpy and pandas and map
+Hollywood for instance the most popular
+plotting package for python that's
+maintained by like maybe a couple of
+part-time people and they're like
+part-time and so when we talk about the
+sustainability crisis and open source
+you know we can wring your hands about
+it it's a problem that we're not funding
+these people very well but if you think
+what the flip side of that how many
+billions of dollars of intellectual
+value hasn't provided by just a few
+people in their part-time like that's
+kind of amazing right do you imagine if
+you went back to the Middle Ages again
+one farmer cutting wheat for you know a
+couple hours a week could defeat all of
+Paris that would be insane so the kind
+of leverage we get off of software
+open-source shows how incredibly
+powerful and how impactful the power of
+software leverage can be when it's
+unencumbered by scarcity business models
+I loved it if you have more to say I was
+going to transition to a discussion of
+non-rivalry economics sure well I think
+this is all part of the same
+conversation and I'll just say one more
+thing the thing about all of this is
+that most of software activity that
+happens in the world today is pretty
+much and it's because
+we're building on sand well we have a
+lot of stonemasons and architects trying
+to build cathedrals and Notre Dom's on
+literally on quicksand and actually if
+we were to build good underlying pieces
+that solve problems they don't need to
+modify very much we can actually build
+incredibly powerful and fun things and
+you can look at knotch
+minecraft which is one of the biggest
+biggest gaming phenomena that's happened
+last ten years it was one guy working on
+the stuff and he put this thing together
+in like six or seven days we'll write
+who made SimCity right he put that
+together as a fun little thing while he
+was trying to make another game these
+things these games that unlock
+tremendous amounts of fun and enjoyment
+for people they did not take a lot of
+people to build it wasn't you know
+hundreds of people in a big Hollywood
+studio making some massive RPG and I
+think software the same thing we have so
+many people spinning their wheels on you
+know so much JavaScript and broken
+DevOps scripts and all those other crap
+is because we're
+building on sand or building on sand and
+real underlying software innovation
+hasn't really been happening in a real
+way and I think in this way I'm also
+resonant with Eric and Peter teals ideas
+about stagnation and all of the as if
+stuff we have a as this innovative
+software industry but actual software
+innovation it's really not happening
+we're still building in the long shadow
+of the 70s and it's starting to really
+crumble though there are some very
+clever things like I still recall about
+five years ago the first time I used
+uber I got holy
+somebody's taking a bunch of the pieces
+and connected with tinker toys and I
+would not want to see the back end on
+some of this stuff but this is really a
+remarkable concept and execution I will
+comment on the wonderfulness of the
+business model but in terms of a
+technological tour de force it was
+pretty damn amazing it worked it was
+intuitive it was easy oh wow someone's
+actually innovated in a major way here
+though as we say the foundations are
+crappy God knows how many levels and
+stacks of crap there are to make that
+thing happen which a lot of the
+engineers themselves don't even
+understand yeah and to be clear I'm not
+saying there's been no innovation I'm
+just sort of saying relative to how much
+money we see into it it's really
+terrible like you know when we look at
+the job ads in San Francisco for
+entry-level front-end programmers you
+look at what they spend most their days
+doing it's garbage they're reinventing
+Windows 2.0 api's right if the browser
+was actually a UI framework instead of
+some attempt to present information you
+know people could build apps with a
+hundredth of the effort hardware
+engineers in Intel and NVIDIA and other
+places they spend so much time making
+these perfect chips and they all know
+that you know people on average don't
+even get one percent of the maximum
+competition allow air out of their CPUs
+and so I know I'm sort of just whinging
+now but I would say that we have way
+overshot on hyper specialization and we
+have not made much progress in thinking
+about building up from a position of
+economy like if we only had five FTEs to
+throw out this what is the simplest way
+we could build this and in a robust and
+resilient way right that's the kind of
+thinking that we don't see very much I
+think in the in the software world and
+back to the earlier part of our
+conversation when I threw out the idea
+of you know the best
+lucien doesn't always win a technology I
+was actually quite interested in in the
+early 90s at the time that HTTP HTML was
+taking starting to take off and I was
+gagging on it him it's bad now is
+horrendous then son had a very cool
+alternative called news which
+essentially was a windowing environment
+in which the native markup was
+PostScript you could do amazing things
+by sending PostScript to these windows
+right that even to this day you can't do
+an HTTP HTML in a reasonable fashion oh
+you know you got to all these horrendous
+ajaxy Kluge's and you know it's still
+unbelievable show the HTTP HTML
+world and if somehow news had won that
+brief horse race in 1991 or 92 we would
+be in a very different world where
+people wouldn't be you know trying to do
+the equivalent of moving telephone poles
+with chopsticks which is what I think
+front-end development is these days yeah
+it's just why is it so goddamn hard to
+do things that should be easy right yeah
+I just I mean for all of the whinging
+that I do about Trump and everything
+nothing drives me to drink faster than
+reading people complaining about you
+know looking at people trying to build
+stuff on the front end and seeing how
+much reinvention there happens of stuff
+that I was doing God in like 1993 you
+know I mean it's it's like why is this
+hard and how many hundreds of megabytes
+are being thrown at making an enumerated
+list that collapses why is this hard why
+that's the hard thing it's just like I
+said nothing drives me to drink faster
+than that because that is really well I
+mean I think so if we go through it if
+we don't drink and we stiffen up and we
+say well what what is this really what
+is this really happening here this
+brings me back to the ol ol thing this
+brings me back to I should a little bit
+when you talk about enlightenment versus
+pre enlightenment and the left and right
+abandoning stuff I think we are at the
+coming to the culmination or at the
+culmination of a cycle of glut we're
+just at a point where the city you know
+when the Mongols sacked Beijing the city
+was was
+overflowing enriches right and
+civilizations and cultures and tribes
+when they get rich and when they get you
+know they get rich and they think
+they're in control things they get fat
+and sloppy and you just put all this
+energy into excess that has nothing to
+do with the hard economy of you know of
+like when your frontier person and and I
+think Jordan calls it the arc Heidi
+Smith model of the domestic the the
+feral and the wild type and I think we
+have just a whole lot of over
+domestication a whole lot of mandarins
+and these these front-end devs that
+spend you know three weeks putting
+together list control that's just a
+symptom of us having it's such a turned
+off gravity and allowed these things to
+grow these cigarettes to grow too high
+and of course thought the money signal
+says it's worth doing because even an
+incremental improvement efficiency and
+some crappy big ponderous corporation is
+actually more is worth more than it cost
+to do and if it's even just a little bit
+more valuable and it cost to do it ends
+up getting done even though it's some
+higher level it's kind of a ridiculous
+thing to do that comes from our
+signalling systems so that's actually a
+good pivot the idea of non rival risk
+economics and for our audience I'm gonna
+introduce non-rivalry economics a little
+bit and get your reaction to how you
+think it might be part of the solution
+going for maybe not you know this is a
+concept that again our friend Jordan
+green Hall now Jordan Hall was the first
+person I'm aware of who brought forth
+though I believe there were a couple of
+precursors but he's the one that in my
+space at least made it real and that's
+the idea that we have kind of missed the
+thought that there's a big difference
+between rivalries economics and
+non-rivalry second ah mcc's a perfect
+example of a rival risks economic item
+is a ham sandwich right either i ate it
+or you eat it we can't both eat it you
+know a classic example of a non rivalry
+second ah micarta fact is a mp3 file of
+a popular song it's essentially at the
+in this day and age free for us both
+and our economic model has not really
+taken advantage of the fact that we
+could have a lot more distribution of
+non rival RIS economic goods than we do
+now for instance many medicines fall
+into this category very inexpensive to
+actually make the pill but when you have
+to navigate through the intellectual
+property levels and corporate ownership
+and all this stuff this 2 cent pill
+suddenly costs $200 and that means a
+whole lot less people are able to take
+advantage of that pill than what
+otherwise on the other hand and you
+point this out on the what was the term
+you used for under supported libraries
+and stuff what the nine non-rival risks
+a radical non-rival list approach missus
+is there has to be a loop back to incent
+to creation and improvement and that
+part has not really been thought through
+yet where there is some economic signal
+that comes off of the distribution of
+non-rival risk goods that goes back to
+incent those people who created the
+non-rival risk good though it doesn't
+make them billionaires and also sustains
+a reasonable level of maintenance and
+improvement in those goods yeah that's a
+good that's a good at talking about it I
+think that definitely captures it I'm
+just making some notes here while you're
+well you're saying that I think maybe
+this is why other things one of other
+controversial things which I think we
+should just do away with copyright
+altogether I think I think copyright is
+this radioactive albatross that we're
+dragging into the information and
+digital age and I think it would be
+better if we got rid of altogether and
+people from demand site actually created
+the pole for curation and for
+dissemination and popularization but
+that's just neither here nor there but
+but this is one example right when you
+because you said the mp3 file I would
+say that for me my view on economics is
+if from the perspective of dilettante
+and amateur I mean you know I don't have
+a degree in the stuff earning like that
+but so as far as I can tell economics as
+an activity for you know trade of
+specialization around the route aspects
+of economics and those two fundamental
+activities are so different when we talk
+about the space of objects and ideas I
+give rise to non rivalries there
+dynamics that it's almost worth asking
+is the term non-rival risk economics is
+that term itself an oxymoron that is to
+say you know is economics really as we
+think about it fundamentally only useful
+we have these rival as scarce or
+scarcity mentality things and if we move
+into the metaphysical space where non
+rival as things can happen and it
+predominantly it's non rival really is
+happening is that we're talking about
+economics at all is it more about
+coherence and resonance is it more about
+you know phase resonance and phase you
+know constructive and destructive
+interference
+you know maybe those are better terms
+frankly I guess I don't really care what
+we call it right I would still say that
+it's the technology or to the toolkit
+for creation and distribution and yes we
+call it economics in game a but there
+has to be an analogous toolkit that is
+coherent for an alternative mechanism to
+emerge and whether you call it economics
+you call it something else I don't
+really care you know there are some
+people have done some you know
+interesting work on analogues to
+economics in you know the game be or an
+alternative world in for instance you
+know that Daniel shmatte and Berger and
+his for essays on his blog about a
+future economics is a good place for
+people to start right yeah I think that
+the reason I bring that up is just
+because the way I see it viscerally kind
+of where I have to deal with the stuff
+on a very practical level is in the
+intersection of the open-source software
+communities and the business world
+that's starting to adopt that as the
+fundamental sort of building blocks and
+the business world still thinks about
+software artifacts as being valuable it
+still thinks about its employees on the
+basis of a labor economics model and
+when we look at what's made the open
+source software movement successful the
+values are completely different the
+units that we talk about you know people
+talk about the values that our spouse
+there are completely different set of
+values so I think if we really want to
+pull this
+to the metaphysical basis there's not
+that much that people fundamentally have
+to tokenize to parcel out to to quantize
+and and give to other people that can
+can constitute the basis of an economic
+system or at least one that's worth
+talking about because if it's entirely
+bespoke in any given pairwise
+relationship then there's no model
+possible that we can build right but
+it's something we can abstract some
+interaction dynamics we can abstract
+outside of that then maybe we have the
+basis for the fern economics but but I
+don't know I just don't want to put too
+much technology and math into something
+that is a very deeply human interview
+man kind of activity currently I think
+talking about open source you know one
+signal and it's not a fungible signal
+it's a completely differentiated signal
+is the reputational signal from working
+on an important or even an unimportant
+open source project you know as part of
+a part of your resume and I certainly
+impresses me when I'm looking at
+somebody you know I was a contributor to
+Project X for the last seven years right
+not only does that show that they know
+how to you know deal with other people
+but I they've actually pointed me to a
+significant body of their work that I
+can go take a look at so there's an
+example of signaling but does not use a
+fungible token maybe that's the way
+forward is thing is realizing that the
+signaling may not be in terms of simple
+tokens yeah I mean because at the end of
+the day bunch of the fungible token
+aspect of economics is just there to
+scale transactions beyond the zone of
+trust right because if you're changing
+cows and chickens for fishes and fish
+nets your zone of trust is like your
+clan or a tribe level but if you want to
+trade you know silks with people across
+the mountains you got to have something
+else right so the tokenization is way of
+scaling transactions beyond trust
+barriers is fine but that's not as
+useful when it comes to these kinds of
+activities it's almost like every
+project has its own kind of token every
+person has their own kind of token right
+if you get a thumbs up and it actually
+our software systems they don't they
+don't create affordances
+for this actually it's really
+unfortunate like you look at a project
+like oh this get a project only has
+three stars another one has 10,000 stars
+right but the ones the what 10,000 stars
+some professors taught a bunch of
+students they all thumbs up his project
+but this one three stars it's like guido
+van rossum and linus torvalds and like
+you know somebody else you know some big
+computer science person well guess what
+that's the restart project it's worth a
+whole lot more right so these
+reputational systems are I think
+certainly a way forward but I wonder you
+know I do wonder if there's better ways
+that we can scale interactions you know
+beyond the simple naive web of trust
+model but I don't know it's early an
+area where there's a crying need for
+innovation think about an emergent
+bottom-up filter that could be there on
+Facebook one of the things that drives
+me crazy is that Facebook provides no
+real tools for nuance full response to
+content that flows by you know I'd love
+to put every piece of code on everyone's
+that either pissed me off or I really
+liked I'd like to place them in you know
+some two-dimensional space of quality
+and importance right and if Facebook
+just allowed that and then use a little
+bit of tools for smartly aggregate them
+and doing some commutative structure
+across those we could tune up a much
+better flow of what we saw than this
+current crazy world where the only
+signal is like like all right oh my god
+I mean I this could be a whole series of
+podcasts because the thing is that
+people don't understand just how much a
+little bit of a software tweak can have
+an absolutely massive impact on the
+usability of communications
+infrastructure building communications
+infrastructure is such an odds thing is
+such a nuance thing and then we just
+have like interns go and try this and
+try that it's absolutely it's I don't
+know what kind of malpractice it is but
+it's some kind of malpractice I mean
+it's it's ridiculous you talk about the
+things that we all like to see on
+Facebook there's so many things there's
+so many things we can do on Twitter or
+Facebook that would you know they took
+Twitter was still talking about hiding
+retweets and likes right as a thing you
+think about that right or if
+you added a downvote button or a dislike
+button right or if you had simply
+socialized k files so every single
+person on Twitter has the ability to add
+block lists and turn on essentially some
+weight of all of the people they follow
+their block lists that would instantly
+instantly change dynamics of the
+virality on Twitter but of course it
+would screw up their evaluation but it
+would create a much better
+conversational space and all these
+different tools all these tweaks free
+but we might use they what what they
+would do is they would give the end user
+the ability to participate in a
+conversation around the norms of that
+communication space so you know what one
+of the things that I talked about is
+that every interaction between two
+people is a space every conversation is
+a space and the space has norms and the
+problem with the social media platforms
+that we build we call social media there
+really attention marketing and virality
+platforms but they're there too they're
+completely unarmed they're unknown
+spaces which is why it's so screwed up
+and it's just deeply again I don't know
+what kind of malpractice is I don't know
+the term to use in the future we might
+have some you know someone write a PhD
+thesis about the nature of harm and
+communications and the way that these
+things are perfect examples of bad
+design but I I don't know how to I don't
+have the worst for right now but it's
+something I feel very deeply and
+viscerally I had this idea actually last
+year about putting in a concept of like
+equal time right so we used to have this
+cost of equal time on the airwaves and
+now you have places like Twitter and
+people on Twitter with larger followings
+then the broadcast networks used to have
+and there's no equal time concept but
+they have the same kind of reach how is
+that right how is that gonna be a good
+thing so you know all these UI's systems
+that we build they have so many millions
+of variables that we get tune and tweak
+to make for much better for meaningful
+human interaction but none of them are
+incentivized to do this none of them are
+monetized in a way that would be aligned
+with that it's a really terrible
+situation the unspoken attractor is the
+fact that the way they make their money
+is selling ads right and
+the world went down that route this kind
+of shallow but massive exploit is
+exactly what one would expect right all
+they're trying to do is optimize
+eyeballs times attention times
+excitability and then sell that to
+people
+purse which basically the alternative
+model i thought about this a lot but the
+world really just seems to reject it is
+suppose we had a discourse platform that
+we you had to pay for a little bit five
+dollars a month ten dollars a lot three
+offerings essentially a trivial amount
+and it was built on the principle that
+we are not here to maximize your
+eyeballs or maximize your twitchiness
+we're here to maximize the value you get
+from the system what a concept right and
+will and we would build in many of these
+clever networks smart tools so that we
+all have a better experience and because
+the company is paid by the monthly
+subscription it actually has the
+incentive to keep you off the system as
+much as possible so long as you got the
+maximum amount of value isn't that the
+correct incentive well I think again the
+in terms of leverage of software we
+think now very much on the internet one
+of the legacy sort of things we've
+heritage from the success of the frozen
+accident of the internet is this
+thinking that these must intrinsically
+the client-server and they don't have to
+be we can create very powerful
+peer-to-peer communication networks now
+we still need some level of transport
+levels decentralisation for each
+optimize for low latency and and
+resilience and things like that but at
+the end of the day people are talking to
+each other people don't have to talk to
+a server and so a lot of the ideas
+behind the decentralized web are really
+around creating these tools that don't
+they don't impose a client-server model
+and the reason that's so important is
+because the instant you have a
+client-server software architecture
+obviously as the app maker or the
+developer you're gonna run the server
+for everyone and now as you scale you
+naturally carry this drag with you right
+every every user you get is another
+liability and you've got to keep a
+session alive you gotta back up their
+data you got to delete if they ask you
+to if you're complying with gdpr
+all those nonsense so the pernicious
+thing about client-server are
+is that they force successful businesses
+in that environment must have scaling
+problems they must need to then monetize
+every users use because they're taxed by
+bandwidth costs so then you're looking
+at putting either monthly charge in or
+selling ads or something like that but
+what if you actually just create a
+system that didn't do it that way what
+if you create a system that just had
+users have their own data if they wanted
+backup their data somewhere else they
+can and to share they share their data
+at one time with someone else the data
+moves over there and and that's like
+that's a very natural system no server
+needs to be up I don't need to if I need
+if I'm sitting next to you at dinner
+I'll share a picture with you doesn't
+have to round-trip to Cupertino or
+Mountain View you know that kind of
+model dramatically increases the amount
+of bandwidth available it dramatically
+decreases the the cost to build new
+innovative types of software and so I
+think that is why I'm so gung-ho on
+pursuing the decentralized web
+technologies as the next generation of
+essentially a portal to a new land where
+we can create new kinds of information
+systems it's not just the one
+decentralized Facebook it's about
+creating better better Wikipedia's
+creating better shared jupiter'
+notebooks it's better everything when we
+don't force decentralized surveillance
+we're ad-supported kinds of companies
+and i don't believe because these
+companies are now hugely public worth
+fifty hundreds of billions of dollars
+they essentially are bound as
+fiduciaries their directors cannot have
+them pursue models that destroy their
+market capitalization so they are I have
+a basically deeply pessimistic outlook
+on any of them ever reforming their
+business models I just don't think it'll
+ever happen so criticized by creating
+that's why I'm putting my efforts and
+and some my own dollars even behind the
+decentralized web we'll turn that next
+but I want to make a little sidebar here
+maybe it is feasible to have
+subscription-based services at scale
+these days and when did the numbers and
+Facebook's revenue per month per user is
+a dollar ninety-nine and built into that
+dollar ninety nine is a bunch of profit
+they have a very high
+margin and a large cost to operate their
+advertising infrastructure so they can
+operate probably as a profitable
+business at a dollar 25 per month per
+user that seems to me a number that is
+so low that maybe just maybe
+particularly if the payment
+infrastructure were painless we could
+finally get people willing to actually
+pay for a service so that the service
+job is to make them happy not to exploit
+them a couple of things number one that
+number is incorrectly low in North
+America Canada basically Canada the US I
+think it's something like 15 to 25
+dollars per quarter so it's much more
+than that actually much more than the
+number you quoted and furthermore that's
+on average keep in mind Facebook is a
+targeted advertising platform so the
+user not all users are created equal the
+users who can pay twenty-five dollars a
+quarter or hundred dollars a year for
+Facebook they're probably worth $500 a
+year to Facebook because they're the
+ones with money the poor users who don't
+have that kind of money who are at the
+low end of that they are they're worth
+less so it's not it's not all equal I
+had this explained to because I did the
+same math I was like crap what do we
+just they had a big old campaign of
+Facebook just a charges and I was like
+no no it's not gonna work out and in the
+second the reason is because of that
+dynamic and second of all because you
+know you might be willing to pay five
+bucks a month for Facebook I bet you're
+not gonna pay 500 bucks a year for
+Facebook ain't that valuable right so
+that's the problem there this and then
+tied to that then is their market cap at
+the end of the day they are one of a
+certain amount of money on the market if
+the directors of the company go and
+sabotage the company's business model
+because they want to be nice people
+they're going to have shareholder
+lawsuits for the next 10,000 years
+right they cannot do that you know not
+left it in a serious antitrust action or
+something can they then say we're gonna
+pivot our model we're doing this we're
+going to banking right we have all this
+creepy information on people
+well users score their credit instead of
+you know selling ads to them so that's
+why they're doing this all this like
+Libre stuff is because they're trying to
+pivot to see if maybe that's another
+area to do this stuff but I you know at
+the end of the day I think it's
+fundamentally philosophically
+inappropriate to be the central entity
+all of this information on people and so
+any business model tied to monetizing
+that privileged information is going to
+be immoral and problematic in its own
+way and I agree with you that the
+incumbents can't do it
+but I would just hold out to you young
+entrepreneur wannabes that maybe the
+time is right because if you can get $2
+a month from people and you don't care
+if they're poor or rich right then you
+can support a service that has the level
+of complexity of Facebook at least its
+scale where the scale transform is I
+don't know but I bet it's a shitload
+lower than it used to be now that you
+can actually build your back-end on
+cloud services and don't have all the
+high fixed costs or running your own
+data center it might just work so the
+attack with a different business model
+might bring them down particularly
+because it would preferentially I would
+posit strip away their most valuable
+customers you know it's the people that
+are willing to pay two dollars or five
+dollars a month that as you point out
+might be worth $50 a month and as those
+people migrate to the cheap paid
+platform that has a pro consumer rather
+than an exploitive business model that
+could be very destabilizing just the
+thought for you young entrepreneurs out
+there go get them well it's also the
+other thing to keep in mind is there is
+a hysteresis to this or a past
+dependence
+it took Facebook a lot of effort to get
+everyone onto Facebook now that
+everyone's on Facebook you know when the
+next platform comes along all it has to
+do is hey click here to invite your
+Facebook friends button right or click
+this you know share this link on
+Facebook to have your friends join you
+on this new network that's doable like
+that kind of thing is doable and so you
+people can bootstrap the next Network
+off of Facebook the way that Facebook
+couldn't have boots dropped off of
+MySpace or you know like classmates.com
+god forbid so so I think there's
+definitely the opportunity there that's
+again I wouldn't be investing in this
+space if I didn't think it was possible
+to change it but it is going to be a
+process let's move on to the next item
+and that is as you hinted at you've been
+a significant player in thinking about
+an alternative distributed network
+architecture and now you and I have
+talked about some really radical stuff
+ideas of yours so go riff on the idea of
+a distributed internet a distributed web
+all the cool things that could be done
+on it okay so the basic idea actually
+came to me not because I'm a you know
+crypto anarchist from the 90s or
+anything but actually was a few years
+ago that I had this realization that
+almost all of the data that I get in the
+space of a year that I download read
+consume whatever all the content that I
+get could fit on a flash ship the size
+of my pinky nail that pretty much hold
+all you know maybe barring like
+streaming 4k movies and things like that
+but most everything else to news the
+fake news everything all of it can fit
+on a physical device the size of my
+pinky nail so I thought about wow now
+that's of course getting it all once
+it's different than you know getting it
+on demand but still you know it kind of
+got me thinking about you know we put a
+lot of infrastructure in place to do
+this client-server stuff when really the
+content sharing piece can be done in a
+way that's orthogonal to you know lots
+of these other things I sort of went
+down this rat hole of like looking at
+things like IP FS looking all this other
+stuff and I emerged out the other end
+realizing that there's a few pieces that
+we need to actually create we create a
+radically different kind of approach
+which is basically to say that the
+client-server approach of HTTP is busted
+it inherits all of the the problems of
+tcp/ip primarily IP itself and
+client-server architecture fundamentally
+creates a asymmetry the user does not
+have control and access over their own
+data so then I also realized that the
+lack of an identity system on the
+Internet has been a problem since day
+one right since we started getting in
+spam problems and so we use email we use
+phone numbers which all these are
+identities that we rent from various
+centralized services very few people can
+run their own email server anymore so it
+sort of got me thinking I came to this
+realization that we can create a
+radically different architecture that's
+actually very powerful that maintains
+all the modern sort of things that we'd
+like to see in our web apps of stuff but
+it separates out the interaction of an
+application with the data and then the
+transfer of that data to is sharing it
+with other people so we have a
+point-to-point system for people to
+share their data with each other
+we then use some modern techniques like
+CR DTS and some other sort of hash
+blockchain myrtle trees sort of based
+thing
+we can create decentralized
+infrastructure for running apps that are
+eventually consistent that's almost like
+you know imagine if this is maybe the
+best way to put it is is imagine if
+visiting a website to view you know
+going to someone else's server to be a
+webpage instead of what we did is we
+made a two-step so that we have a
+Dropbox and I share my Dropbox folder
+with you so they're synchronized
+whenever we they can be but I then point
+my web browser to just look at my local
+Dropbox if I want to edit a file and
+save it saves it to local storage it
+saves in the Dropbox eventually I get
+synchronized to your Dropbox and then
+you open up and look at it and just by
+separating out that application
+interaction with the state and then the
+transfer and merge of State down the
+road we can create a fundamentally
+different architecture that then doesn't
+put a Google or Facebook in the middle
+of things and furthermore if we separate
+transport of data from the application
+communication to data we can create mesh
+networks and local things for instance I
+had this incredibly frustrating
+experience when I was on a flight in the
+international flight with my family and
+I had a video file on my phone that my
+kids wanted to watch I was on the
+Android device there on an iPad and
+between these two devices I could not
+without you know there's no Wi-Fi there
+was no internet
+I could not transfer like actually it
+wasn't a video file it was like 30 Meg's
+of mp3s
+I couldn't transfer these songs from
+this one thing to another without being
+connected to some centralized data
+center and that was just absurd but if
+we were to use local mesh based
+technologies my phone and the iPad could
+communicate i gigabit speeds and I could
+just transfer that to the device there
+and they could just play it so it's a
+completely different way of thinking
+about applications about thinking about
+the relationships between output
+application authors and the data and and
+the users and their data and that's why
+i support i've been funding the the
+beaker and the dot projects and it's an
+alternative way of building a browser
+and application structures and user
+authentication and all these things it's
+an alternative way of building
+essentially an internet infrastructure
+let's tell the people where they can
+find out more
+beaker will say the other one was debts
+he asks us the dat project org I believe
+in beaker browser comm that dat dat can
+tell us a little bit about those project
+what do they do well so that is you
+think about it as essentially like a
+peer-to-peer BitTorrent like protocol
+for doing decentralized Dropbox so it's
+a blockchain based system and you can
+create a data archive of anything on
+your drive is basically a shared folder
+that automatically syncs with other
+people have a copy of your shared folder
+that's the DAT project so kind of works
+like ipfs but there's not an attempt to
+monetize there's no file coin
+monetization model built onto it and
+then the second thing that beaker
+browser it's a browser from the
+decentralized web so it looks at your
+local data archive it runs a full I
+means a full flash browser so it can
+speak to HTTP colon slash slash standard
+internet sites you can load up Facebook
+you can go to Twitter everything works
+great it's just a web browser but it can
+also load dat colon slash slash URLs
+which then are you know 32 byte hashes
+or 64 byte hashes that basically go and
+create or than they create on your local
+machine a mirror of a particular you
+know shared archive and then it opens it
+up on the local machine and you can make
+your own copy of it you can edit the
+code you know to the source code of the
+application that's being served up and
+they've built chat apps on top of this
+they built like a slack like thing
+they've built decentralized Twitter even
+a basic decentralized Facebook like
+thing and the whole idea here is that
+websites now become central the websites
+again becomes central to the experience
+the data itself becomes central to the
+experience and applications just
+lightweight things that sit on top and
+give you different kinds of you eyes
+they're no longer walled garden
+platforms that you for call your
+activity and data into you your data
+still your data and apps are just
+lightweight things that manipulated to
+show it to you in different kinds of
+ways it's a really wonderful system and
+have you have there been
+some winners yet you know again this way
+we know each one of these new platforms
+to take off usually there's a single
+winner you know the Apple took off with
+busy calc and the IBM PC took off with
+Lotus 1-2-3 the Mac took off with the
+various graphics tools that were created
+for it sir in your mind a application
+that has done so well on these new
+platforms that it's compelling no not
+yet it's still early stages on the stuff
+it's so early days take a look at I
+would encourage other people you know
+who are thinking about something new I
+mean I remember how exciting it was the
+web in 1992 I can't even make myself
+think about the web anymore it's so old
+and horrifying so it'd be fun to
+actually spend a few cycles looking at
+something entirely fresh I'm sure there
+are a lot of other people out there who
+feel the same way well it is nice to
+have had a privilege and it's been a
+privilege to have ringside seats
+watching a generative open collaborative
+communication space get punched beaten
+and cut down into a mere broadcast
+system for copyright copyrighted
+materials like it's really been
+something fascinating to watch but you
+know it's a long conversation to talk
+about the OS technical debt which of the
+operating systems that led us to the
+browser winning as essentially the
+winning middleware which then led to
+this kind of thing happening but that's
+maybe a different conversation for a
+different time yep I think in fact we've
+come near to the end of our time do you
+have any final thoughts I just wanna say
+it's a it's a privilege to have this
+conversation with you and thank you very
+much for having me on the show and I'd
+say I had high high expectations you
+exceeded them this has been an amazingly
+broad and deep conversation which is the
+goal of the gym rut show which as we say
+is real thinking about deep ideas so
+thanks very much Peter and I hope to
+talk to you again soon thank you Jim
+[Music]
+production services and audio editing by
+Stanton media lab music by Tom Muller at
+modern space music.com
+[Music]

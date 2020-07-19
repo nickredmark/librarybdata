@@ -1,0 +1,1834 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:04.059" style="s2">howdy this is Jim rut and this is the</p>
+<p begin="00:00:02.399" end="00:00:08.369" style="s2">Jim rut show</p>
+<p begin="00:00:04.059" end="00:00:08.369" style="s2">[Music]</p>
+<p begin="00:00:09.010" end="00:00:13.520" style="s2">listeners have asked us provide pointers</p>
+<p begin="00:00:11.450" end="00:00:16.040" style="s2">some of the resources we talked about on</p>
+<p begin="00:00:13.520" end="00:00:18.140" style="s2">the show we now have links to books and</p>
+<p begin="00:00:16.040" end="00:00:20.090" style="s2">articles referenced in recent podcasts</p>
+<p begin="00:00:18.140" end="00:00:23.029" style="s2">that are available on our website</p>
+<p begin="00:00:20.090" end="00:00:24.560" style="s2">we also offer full transcripts go to gym</p>
+<p begin="00:00:23.029" end="00:00:29.900" style="s2">rut show calm</p>
+<p begin="00:00:24.560" end="00:00:32.090" style="s2">that&#39;s gym rut show calm today&#39;s guest</p>
+<p begin="00:00:29.900" end="00:00:34.010" style="s2">is Roman Jung pulsky he is a professor</p>
+<p begin="00:00:32.090" end="00:00:36.440" style="s2">at the speed School of Engineering at</p>
+<p begin="00:00:34.010" end="00:00:38.899" style="s2">the University of Louisville hey Jim</p>
+<p begin="00:00:36.440" end="00:00:41.120" style="s2">thanks for inviting me ah great to have</p>
+<p begin="00:00:38.899" end="00:00:44.000" style="s2">you on Roman is the author of several</p>
+<p begin="00:00:41.120" end="00:00:46.130" style="s2">books and many papers across areas</p>
+<p begin="00:00:44.000" end="00:00:48.380" style="s2">including AI safety artificial</p>
+<p begin="00:00:46.130" end="00:00:51.860" style="s2">intelligence behavioral biometrics cyber</p>
+<p begin="00:00:48.380" end="00:00:53.870" style="s2">security digital forensics games genetic</p>
+<p begin="00:00:51.860" end="00:00:56.870" style="s2">algorithms and pattern recognition and</p>
+<p begin="00:00:53.870" end="00:00:59.090" style="s2">actually a bunch more I proposed a new</p>
+<p begin="00:00:56.870" end="00:01:02.030" style="s2">field of study that he calls intellect</p>
+<p begin="00:00:59.090" end="00:01:04.790" style="s2">ology the study of intelligence very</p>
+<p begin="00:01:02.030" end="00:01:06.920" style="s2">broadly defined for example he places</p>
+<p begin="00:01:04.790" end="00:01:10.460" style="s2">artificial intelligence as a domain</p>
+<p begin="00:01:06.920" end="00:01:12.590" style="s2">within intellect ology in fact let&#39;s</p>
+<p begin="00:01:10.460" end="00:01:14.210" style="s2">start generally in that area in fact the</p>
+<p begin="00:01:12.590" end="00:01:16.880" style="s2">first thing I saw of yours when I was</p>
+<p begin="00:01:14.210" end="00:01:19.460" style="s2">looking around for topics to discuss was</p>
+<p begin="00:01:16.880" end="00:01:21.499" style="s2">your paper the universe of minds which I</p>
+<p begin="00:01:19.460" end="00:01:23.030" style="s2">thought was very interesting could you</p>
+<p begin="00:01:21.499" end="00:01:25.579" style="s2">talk a little bit about you know maybe</p>
+<p begin="00:01:23.030" end="00:01:27.799" style="s2">both intellect ology and also how that</p>
+<p begin="00:01:25.579" end="00:01:31.579" style="s2">fits into the concept of the universe of</p>
+<p begin="00:01:27.799" end="00:01:33.770" style="s2">minds sure so as you mentioned to have</p>
+<p begin="00:01:31.579" end="00:01:35.869" style="s2">many interests I stick my notes in many</p>
+<p begin="00:01:33.770" end="00:01:38.240" style="s2">pots but actually they have a comment</p>
+<p begin="00:01:35.869" end="00:01:41.450" style="s2">that come looking at intelligence I&#39;m</p>
+<p begin="00:01:38.240" end="00:01:43.520" style="s2">looking how to design it how to detect</p>
+<p begin="00:01:41.450" end="00:01:45.590" style="s2">it how to measure it how to control it</p>
+<p begin="00:01:43.520" end="00:01:48.770" style="s2">anything and everything intelligence and</p>
+<p begin="00:01:45.590" end="00:01:50.389" style="s2">many different fields contribute to that</p>
+<p begin="00:01:48.770" end="00:01:52.429" style="s2">but they don&#39;t have a unifying framework</p>
+<p begin="00:01:50.389" end="00:01:55.959" style="s2">and that&#39;s where Intel ecology comes</p>
+<p begin="00:01:52.429" end="00:01:58.069" style="s2">there the space of minds is a particular</p>
+<p begin="00:01:55.959" end="00:02:00.889" style="s2">subtopic and that where we&#39;re trying to</p>
+<p begin="00:01:58.069" end="00:02:03.709" style="s2">understand well what types of minds are</p>
+<p begin="00:02:00.889" end="00:02:05.539" style="s2">really possible so we know human minds</p>
+<p begin="00:02:03.709" end="00:02:07.240" style="s2">and they&#39;re somewhat diverse we have 8</p>
+<p begin="00:02:05.539" end="00:02:10.729" style="s2">billion different humans running around</p>
+<p begin="00:02:07.240" end="00:02:13.400" style="s2">but can we go beyond that ok we can add</p>
+<p begin="00:02:10.729" end="00:02:15.920" style="s2">animals higher-level animals primates</p>
+<p begin="00:02:13.400" end="00:02:18.200" style="s2">fish they have somewhat different minds</p>
+<p begin="00:02:15.920" end="00:02:20.030" style="s2">we can start thinking about aliens well</p>
+<p begin="00:02:18.200" end="00:02:21.890" style="s2">if aliens exist would they have</p>
+<p begin="00:02:20.030" end="00:02:22.520" style="s2">different minds as well different types</p>
+<p begin="00:02:21.890" end="00:02:25.280" style="s2">of</p>
+<p begin="00:02:22.520" end="00:02:27.410" style="s2">once wishes desires properties and you</p>
+<p begin="00:02:25.280" end="00:02:29.720" style="s2">can go with that in the few formalize</p>
+<p begin="00:02:27.410" end="00:02:32.000" style="s2">idea of the mind as some sort of a</p>
+<p begin="00:02:29.720" end="00:02:34.810" style="s2">software simulating this physical system</p>
+<p begin="00:02:32.000" end="00:02:37.490" style="s2">you quickly arrive at possibility of</p>
+<p begin="00:02:34.810" end="00:02:40.160" style="s2">essentially equating all that software</p>
+<p begin="00:02:37.490" end="00:02:42.080" style="s2">to an infinite set of integers you just</p>
+<p begin="00:02:40.160" end="00:02:43.640" style="s2">map it onto integers each individual</p>
+<p begin="00:02:42.080" end="00:02:46.280" style="s2">represents some sort of a software</p>
+<p begin="00:02:43.640" end="00:02:48.530" style="s2">product and you can show that there is</p>
+<p begin="00:02:46.280" end="00:02:50.510" style="s2">no limits to how many different minds</p>
+<p begin="00:02:48.530" end="00:02:52.820" style="s2">you can have as long as your definition</p>
+<p begin="00:02:50.510" end="00:02:55.040" style="s2">of different minds includes some</p>
+<p begin="00:02:52.820" end="00:02:57.110" style="s2">specific level of difference let&#39;s say</p>
+<p begin="00:02:55.040" end="00:03:01.550" style="s2">one bit difference is sufficient to</p>
+<p begin="00:02:57.110" end="00:03:02.840" style="s2">distinguish two minds yep and I think</p>
+<p begin="00:03:01.550" end="00:03:04.670" style="s2">from the formal mathematical perspective</p>
+<p begin="00:03:02.840" end="00:03:07.070" style="s2">that&#39;s interesting but perhaps even more</p>
+<p begin="00:03:04.670" end="00:03:10.010" style="s2">useful is to get people to open up their</p>
+<p begin="00:03:07.070" end="00:03:11.870" style="s2">thinking about what constitutes a mind I</p>
+<p begin="00:03:10.010" end="00:03:15.320" style="s2">know what I&#39;m talking to people about AI</p>
+<p begin="00:03:11.870" end="00:03:17.990" style="s2">and particularly AGI I see an awful lot</p>
+<p begin="00:03:15.320" end="00:03:20.210" style="s2">of thinking channelized into thinking</p>
+<p begin="00:03:17.990" end="00:03:21.710" style="s2">about minds not very different than our</p>
+<p begin="00:03:20.210" end="00:03:23.870" style="s2">own may be a little bigger maybe a</p>
+<p begin="00:03:21.710" end="00:03:25.610" style="s2">little faster maybe a little smarter but</p>
+<p begin="00:03:23.870" end="00:03:27.440" style="s2">you know they&#39;re thinking that I&#39;ve done</p>
+<p begin="00:03:25.610" end="00:03:30.140" style="s2">on the topic at least leads me to</p>
+<p begin="00:03:27.440" end="00:03:32.210" style="s2">believe that there&#39;s a vast space of</p>
+<p begin="00:03:30.140" end="00:03:34.610" style="s2">minds available that may be very</p>
+<p begin="00:03:32.210" end="00:03:36.410" style="s2">different than ours and that will have</p>
+<p begin="00:03:34.610" end="00:03:39.260" style="s2">some serious implications around things</p>
+<p begin="00:03:36.410" end="00:03:41.330" style="s2">like AI safety of course and we can</p>
+<p begin="00:03:39.260" end="00:03:43.510" style="s2">start thinking about the differences in</p>
+<p begin="00:03:41.330" end="00:03:46.640" style="s2">terms of how we get there so we</p>
+<p begin="00:03:43.510" end="00:03:48.830" style="s2">simulating human neurons are we evolving</p>
+<p begin="00:03:46.640" end="00:03:50.660" style="s2">that software are we designing it from</p>
+<p begin="00:03:48.830" end="00:03:52.850" style="s2">scratch all of those lead to very</p>
+<p begin="00:03:50.660" end="00:03:55.040" style="s2">different architectures very different</p>
+<p begin="00:03:52.850" end="00:03:56.570" style="s2">systems and that&#39;s just again tiny drop</p>
+<p begin="00:03:55.040" end="00:03:58.670" style="s2">of this infinite universe of</p>
+<p begin="00:03:56.570" end="00:03:59.990" style="s2">possibilities yeah I think it&#39;s really</p>
+<p begin="00:03:58.670" end="00:04:02.120" style="s2">important for people working in this</p>
+<p begin="00:03:59.990" end="00:04:04.670" style="s2">field or even in trying to understand</p>
+<p begin="00:04:02.120" end="00:04:07.490" style="s2">this field from a policy perspective to</p>
+<p begin="00:04:04.670" end="00:04:10.430" style="s2">understand that when AG eyes finally do</p>
+<p begin="00:04:07.490" end="00:04:12.500" style="s2">arrive they could well be very very</p>
+<p begin="00:04:10.430" end="00:04:14.570" style="s2">alien as compared to human brains</p>
+<p begin="00:04:12.500" end="00:04:15.920" style="s2">there&#39;s no reason at all they have to be</p>
+<p begin="00:04:14.570" end="00:04:17.720" style="s2">very much like you even brains it may</p>
+<p begin="00:04:15.920" end="00:04:19.910" style="s2">turn out that&#39;s the easiest way to start</p>
+<p begin="00:04:17.720" end="00:04:22.790" style="s2">but it may not be the easiest way to do</p>
+<p begin="00:04:19.910" end="00:04:25.370" style="s2">it we will soon find out it seems like</p>
+<p begin="00:04:22.790" end="00:04:28.070" style="s2">if we just do it without care without</p>
+<p begin="00:04:25.370" end="00:04:31.010" style="s2">taking safety into account it&#39;s easier</p>
+<p begin="00:04:28.070" end="00:04:33.260" style="s2">to create any general intelligence than</p>
+<p begin="00:04:31.010" end="00:04:35.540" style="s2">to create a specific one with human</p>
+<p begin="00:04:33.260" end="00:04:35.900" style="s2">friendly properties so statistically</p>
+<p begin="00:04:35.540" end="00:04:37.759" style="s2">speak</p>
+<p begin="00:04:35.900" end="00:04:40.880" style="s2">we&#39;re more likely to get a random</p>
+<p begin="00:04:37.759" end="00:04:42.770" style="s2">possibly malevolent one if we just do it</p>
+<p begin="00:04:40.880" end="00:04:46.100" style="s2">without concern yeah we&#39;ll come back to</p>
+<p begin="00:04:42.770" end="00:04:48.470" style="s2">that in a bit when we talk about AI AG</p>
+<p begin="00:04:46.100" end="00:04:49.789" style="s2">AI and AI safety but I want to happen to</p>
+<p begin="00:04:48.470" end="00:04:53.180" style="s2">see that you wrote a paper about one of</p>
+<p begin="00:04:49.789" end="00:04:54.949" style="s2">my favorite topics Boltzmann brains I</p>
+<p begin="00:04:53.180" end="00:04:57.259" style="s2">want to put a warning in at this point</p>
+<p begin="00:04:54.949" end="00:04:58.789" style="s2">if you happen to be tripping on LSD at</p>
+<p begin="00:04:57.259" end="00:05:01.160" style="s2">the moment you might want to stop</p>
+<p begin="00:04:58.789" end="00:05:02.570" style="s2">listening I always warn people when I</p>
+<p begin="00:05:01.160" end="00:05:04.669" style="s2">tell them about Boltzmann brains and</p>
+<p begin="00:05:02.570" end="00:05:07.039" style="s2">never think about Boltzmann brains while</p>
+<p begin="00:05:04.669" end="00:05:10.160" style="s2">tripping a very bad idea it&#39;s one of the</p>
+<p begin="00:05:07.039" end="00:05:11.960" style="s2">most curious most mind twisting ideas</p>
+<p begin="00:05:10.160" end="00:05:13.580" style="s2">out there why don&#39;t you tell our</p>
+<p begin="00:05:11.960" end="00:05:15.440" style="s2">audience remember we have an audience of</p>
+<p begin="00:05:13.580" end="00:05:18.410" style="s2">smart people but not necessarily</p>
+<p begin="00:05:15.440" end="00:05:20.990" style="s2">knowledgeable about the domain what is a</p>
+<p begin="00:05:18.410" end="00:05:22.460" style="s2">Boltzmann brain so if you think the</p>
+<p begin="00:05:20.990" end="00:05:24.620" style="s2">universe is infinite in all directions</p>
+<p begin="00:05:22.460" end="00:05:27.830" style="s2">that&#39;s a lot of computational resources</p>
+<p begin="00:05:24.620" end="00:05:30.620" style="s2">and there is some physical theories</p>
+<p begin="00:05:27.830" end="00:05:33.260" style="s2">which tell us that matter comes into</p>
+<p begin="00:05:30.620" end="00:05:36.169" style="s2">existence after quantum fluctuations at</p>
+<p begin="00:05:33.260" end="00:05:38.690" style="s2">random and sometimes it&#39;s photons</p>
+<p begin="00:05:36.169" end="00:05:40.000" style="s2">sometimes it&#39;s a molecule but given the</p>
+<p begin="00:05:38.690" end="00:05:42.440" style="s2">infinite amount of resources</p>
+<p begin="00:05:40.000" end="00:05:47.449" style="s2">periodically something more complex will</p>
+<p begin="00:05:42.440" end="00:05:51.169" style="s2">pop out and maybe just maybe a brain</p>
+<p begin="00:05:47.449" end="00:05:54.349" style="s2">with memories with capabilities will be</p>
+<p begin="00:05:51.169" end="00:05:57.560" style="s2">such fluctuation and they are called</p>
+<p begin="00:05:54.349" end="00:05:59.630" style="s2">bossman brains and there are some</p>
+<p begin="00:05:57.560" end="00:06:02.539" style="s2">interesting philosophical consequences</p>
+<p begin="00:05:59.630" end="00:06:04.580" style="s2">of it for one maybe you one of those</p>
+<p begin="00:06:02.539" end="00:06:06.500" style="s2">fluctuations and you just have all these</p>
+<p begin="00:06:04.580" end="00:06:10.430" style="s2">memories and universe around as a</p>
+<p begin="00:06:06.500" end="00:06:11.930" style="s2">side-effect of being one such absolutely</p>
+<p begin="00:06:10.430" end="00:06:14.449" style="s2">random meaningless</p>
+<p begin="00:06:11.930" end="00:06:17.210" style="s2">Boltzmann brain yep and the other thing</p>
+<p begin="00:06:14.449" end="00:06:19.280" style="s2">about them if you assume as you did you</p>
+<p begin="00:06:17.210" end="00:06:21.130" style="s2">laid out nicely the required assumptions</p>
+<p begin="00:06:19.280" end="00:06:23.930" style="s2">which I&#39;ll get back to later it&#39;s</p>
+<p begin="00:06:21.130" end="00:06:25.820" style="s2">essentially guaranteed that for instance</p>
+<p begin="00:06:23.930" end="00:06:28.250" style="s2">a Boltzmann brain could come into</p>
+<p begin="00:06:25.820" end="00:06:30.260" style="s2">existence that was powerful enough to</p>
+<p begin="00:06:28.250" end="00:06:33.080" style="s2">simulate our whole visible universe</p>
+<p begin="00:06:30.260" end="00:06:35.599" style="s2">for example fact we know it will happen</p>
+<p begin="00:06:33.080" end="00:06:38.570" style="s2">if your assumptions are correct that we</p>
+<p begin="00:06:35.599" end="00:06:41.060" style="s2">have infinity of time and space and</p>
+<p begin="00:06:38.570" end="00:06:43.310" style="s2">matter and the matter behaves the way we</p>
+<p begin="00:06:41.060" end="00:06:44.960" style="s2">believe it does under quantum mechanics</p>
+<p begin="00:06:43.310" end="00:06:46.639" style="s2">that&#39;s what I think is one of the</p>
+<p begin="00:06:44.960" end="00:06:49.289" style="s2">weirdest and strangest thing about this</p>
+<p begin="00:06:46.639" end="00:06:51.330" style="s2">idea however that&#39;s where</p>
+<p begin="00:06:49.289" end="00:06:53.699" style="s2">I tend to look at this concept and as</p>
+<p begin="00:06:51.330" end="00:06:56.490" style="s2">fascinating as it is I say you know it</p>
+<p begin="00:06:53.699" end="00:06:58.889" style="s2">may not be real at all and the reason is</p>
+<p begin="00:06:56.490" end="00:07:00.839" style="s2">that those assumptions may not be real</p>
+<p begin="00:06:58.889" end="00:07:03.419" style="s2">there may be a limiting case that makes</p>
+<p begin="00:07:00.839" end="00:07:06.449" style="s2">them not able to produce high-powered</p>
+<p begin="00:07:03.419" end="00:07:08.189" style="s2">Boltzmann brains infinity is the key if</p>
+<p begin="00:07:06.449" end="00:07:10.199" style="s2">the universe is infinite</p>
+<p begin="00:07:08.189" end="00:07:12.809" style="s2">yeah it&#39;s finite I should say even if</p>
+<p begin="00:07:10.199" end="00:07:14.639" style="s2">it&#39;s very very very very very very large</p>
+<p begin="00:07:12.809" end="00:07:17.039" style="s2">the probability of a high-power</p>
+<p begin="00:07:14.639" end="00:07:19.740" style="s2">Boltzmann brain randomly fluctuating</p>
+<p begin="00:07:17.039" end="00:07:21.389" style="s2">into existence is still astronomically</p>
+<p begin="00:07:19.740" end="00:07:23.459" style="s2">small as we that would you agree with</p>
+<p begin="00:07:21.389" end="00:07:25.289" style="s2">that all right if resources are not</p>
+<p begin="00:07:23.459" end="00:07:26.879" style="s2">sufficient obviously it&#39;s not going to</p>
+<p begin="00:07:25.289" end="00:07:29.069" style="s2">happen but you can think about some</p>
+<p begin="00:07:26.879" end="00:07:31.439" style="s2">simplifying assumptions maybe it&#39;s just</p>
+<p begin="00:07:29.069" end="00:07:34.050" style="s2">an instance of time maybe another second</p>
+<p begin="00:07:31.439" end="00:07:37.589" style="s2">of experience which pops in not a whole</p>
+<p begin="00:07:34.050" end="00:07:39.839" style="s2">long life you just perceive it as such</p>
+<p begin="00:07:37.589" end="00:07:41.580" style="s2">that&#39;s certainly interesting that would</p>
+<p begin="00:07:39.839" end="00:07:44.189" style="s2">open up the space a bit say let&#39;s assume</p>
+<p begin="00:07:41.580" end="00:07:45.959" style="s2">it&#39;s very short but I think the other</p>
+<p begin="00:07:44.189" end="00:07:47.849" style="s2">thing I&#39;ve thought about I&#39;d love to get</p>
+<p begin="00:07:45.959" end="00:07:50.999" style="s2">your thought on this is even if the</p>
+<p begin="00:07:47.849" end="00:07:53.819" style="s2">universe were infinite if a sub-region</p>
+<p begin="00:07:50.999" end="00:07:56.099" style="s2">of the universe was limited by its</p>
+<p begin="00:07:53.819" end="00:07:59.069" style="s2">causality let&#39;s call it the light-cone</p>
+<p begin="00:07:56.099" end="00:08:01.199" style="s2">then probably we can rule out a</p>
+<p begin="00:07:59.069" end="00:08:03.809" style="s2">Boltzmann brain that has any impact on</p>
+<p begin="00:08:01.199" end="00:08:07.559" style="s2">us because if we don&#39;t have causality</p>
+<p begin="00:08:03.809" end="00:08:09.449" style="s2">across some unit of space-time then that</p>
+<p begin="00:08:07.559" end="00:08:11.159" style="s2">is the chunk of space-time that we have</p>
+<p begin="00:08:09.449" end="00:08:13.499" style="s2">to use for reckoning whether a Boltzmann</p>
+<p begin="00:08:11.159" end="00:08:15.240" style="s2">brain has any relevance to us does that</p>
+<p begin="00:08:13.499" end="00:08:17.370" style="s2">seem reasonable it seems reasonable but</p>
+<p begin="00:08:15.240" end="00:08:19.080" style="s2">you have to self place yourself in that</p>
+<p begin="00:08:17.370" end="00:08:20.789" style="s2">part of the universe if you already a</p>
+<p begin="00:08:19.080" end="00:08:22.949" style="s2">Boltzmann brain which is just</p>
+<p begin="00:08:20.789" end="00:08:24.689" style="s2">hallucinating things you just perceive</p>
+<p begin="00:08:22.949" end="00:08:26.999" style="s2">it as such hallucination it&#39;s not</p>
+<p begin="00:08:24.689" end="00:08:28.699" style="s2">necessarily true that you are part of</p>
+<p begin="00:08:26.999" end="00:08:30.959" style="s2">that restricted part of the universe</p>
+<p begin="00:08:28.699" end="00:08:32.339" style="s2">it&#39;s true it could be a simulation right</p>
+<p begin="00:08:30.959" end="00:08:34.709" style="s2">that&#39;s what I you know what I alluded to</p>
+<p begin="00:08:32.339" end="00:08:37.620" style="s2">earlier it is certainly possible that if</p>
+<p begin="00:08:34.709" end="00:08:40.229" style="s2">there were some higher level domain that</p>
+<p begin="00:08:37.620" end="00:08:42.899" style="s2">was infinite in time-space causal</p>
+<p begin="00:08:40.229" end="00:08:45.540" style="s2">linkage had matter it sort of acted like</p>
+<p begin="00:08:42.899" end="00:08:47.970" style="s2">our matter in with respect to quantum</p>
+<p begin="00:08:45.540" end="00:08:49.829" style="s2">behavior then we could say for sure</p>
+<p begin="00:08:47.970" end="00:08:51.540" style="s2">there would be a Boltzmann brain of</p>
+<p begin="00:08:49.829" end="00:08:53.009" style="s2">sufficient power to have simulated our</p>
+<p begin="00:08:51.540" end="00:08:55.410" style="s2">whole visible universe at arbitrary</p>
+<p begin="00:08:53.009" end="00:08:57.689" style="s2">levels of precision and we will never</p>
+<p begin="00:08:55.410" end="00:08:59.040" style="s2">know the answer to that probably you can</p>
+<p begin="00:08:57.689" end="00:09:00.600" style="s2">also take it to the next level it</p>
+<p begin="00:08:59.040" end="00:09:02.270" style="s2">doesn&#39;t have to be just a brain it could</p>
+<p begin="00:09:00.600" end="00:09:04.040" style="s2">be a whole ball slow universe</p>
+<p begin="00:09:02.270" end="00:09:05.720" style="s2">into existence just as well I mean if</p>
+<p begin="00:09:04.040" end="00:09:08.090" style="s2">resource to say infinite we can go crazy</p>
+<p begin="00:09:05.720" end="00:09:11.270" style="s2">with it yeah exactly and so it&#39;s</p>
+<p begin="00:09:08.090" end="00:09:13.910" style="s2">interesting I have chosen to preserve my</p>
+<p begin="00:09:11.270" end="00:09:14.510" style="s2">sanity to take the pruning role that</p>
+<p begin="00:09:13.910" end="00:09:16.250" style="s2">Alright</p>
+<p begin="00:09:14.510" end="00:09:18.740" style="s2">although implications of Boltzmann</p>
+<p begin="00:09:16.250" end="00:09:22.010" style="s2">brains are so crazy that I&#39;m just going</p>
+<p begin="00:09:18.740" end="00:09:25.100" style="s2">to for personal purposes assume the</p>
+<p begin="00:09:22.010" end="00:09:26.810" style="s2">universe therefore must be finite you</p>
+<p begin="00:09:25.100" end="00:09:28.670" style="s2">know can&#39;t prove it of course you know</p>
+<p begin="00:09:26.810" end="00:09:30.890" style="s2">nuh no such metaphysical speculations</p>
+<p begin="00:09:28.670" end="00:09:33.140" style="s2">can be proven that or they wouldn&#39;t be</p>
+<p begin="00:09:30.890" end="00:09:34.700" style="s2">metaphysics but I do find it very very</p>
+<p begin="00:09:33.140" end="00:09:36.440" style="s2">useful to say all right let&#39;s just</p>
+<p begin="00:09:34.700" end="00:09:38.480" style="s2">assume that the absurdities that come</p>
+<p begin="00:09:36.440" end="00:09:41.090" style="s2">from Boltzmann brains can easily be</p>
+<p begin="00:09:38.480" end="00:09:42.620" style="s2">turned around and lead us to say alright</p>
+<p begin="00:09:41.090" end="00:09:45.500" style="s2">we&#39;re going to reject infinite universes</p>
+<p begin="00:09:42.620" end="00:09:47.270" style="s2">and instead assume finite universes well</p>
+<p begin="00:09:45.500" end="00:09:49.160" style="s2">they can be finite but you can have a</p>
+<p begin="00:09:47.270" end="00:09:52.070" style="s2">multiverse of them as well so it could</p>
+<p begin="00:09:49.160" end="00:09:54.350" style="s2">be infinite in different directions yes</p>
+<p begin="00:09:52.070" end="00:09:55.850" style="s2">it&#39;s it&#39;s possible but again I would</p>
+<p begin="00:09:54.350" end="00:09:58.670" style="s2">come back to the point that if the</p>
+<p begin="00:09:55.850" end="00:10:00.200" style="s2">multiverses are finite the probability</p>
+<p begin="00:09:58.670" end="00:10:03.080" style="s2">of any of them having a Boltzmann brain</p>
+<p begin="00:10:00.200" end="00:10:06.290" style="s2">in them are very of any substance of any</p>
+<p begin="00:10:03.080" end="00:10:07.640" style="s2">size is very very small and we&#39;ll get to</p>
+<p begin="00:10:06.290" end="00:10:10.430" style="s2">this topic later when we talk about</p>
+<p begin="00:10:07.640" end="00:10:12.140" style="s2">evolutionary computation but the amount</p>
+<p begin="00:10:10.430" end="00:10:14.050" style="s2">of random things it has to happen to</p>
+<p begin="00:10:12.140" end="00:10:17.030" style="s2">produce a Boltzmann brain are</p>
+<p begin="00:10:14.050" end="00:10:18.530" style="s2">exceedingly low probability and so</p>
+<p begin="00:10:17.030" end="00:10:21.020" style="s2">you&#39;re for instance a universe the size</p>
+<p begin="00:10:18.530" end="00:10:22.790" style="s2">of our visible universe I think I&#39;d be</p>
+<p begin="00:10:21.020" end="00:10:24.500" style="s2">willing to say that a long duration</p>
+<p begin="00:10:22.790" end="00:10:26.780" style="s2">high-powered Boltzmann brain almost</p>
+<p begin="00:10:24.500" end="00:10:28.610" style="s2">certainly has not emerged within our</p>
+<p begin="00:10:26.780" end="00:10:31.310" style="s2">visible universe within the last</p>
+<p begin="00:10:28.610" end="00:10:32.810" style="s2">thirteen billion years it probably is</p>
+<p begin="00:10:31.310" end="00:10:34.970" style="s2">through but then again we&#39;re observing</p>
+<p begin="00:10:32.810" end="00:10:36.710" style="s2">from insight we are the possible</p>
+<p begin="00:10:34.970" end="00:10:39.500" style="s2">hallucination of such a brain so</p>
+<p begin="00:10:36.710" end="00:10:42.530" style="s2">whatever resources we observe just what</p>
+<p begin="00:10:39.500" end="00:10:44.720" style="s2">we see it&#39;s not necessarily to the</p>
+<p begin="00:10:42.530" end="00:10:47.390" style="s2">resources available outside of the</p>
+<p begin="00:10:44.720" end="00:10:49.220" style="s2">simulation of course and you know at the</p>
+<p begin="00:10:47.390" end="00:10:51.170" style="s2">next level up we can&#39;t say anything</p>
+<p begin="00:10:49.220" end="00:10:53.260" style="s2">actually right which then gets us to the</p>
+<p begin="00:10:51.170" end="00:10:55.580" style="s2">a little bit broader question of</p>
+<p begin="00:10:53.260" end="00:10:56.630" style="s2">simulation you know many people have</p>
+<p begin="00:10:55.580" end="00:10:58.340" style="s2">been talking about it you&#39;ve written</p>
+<p begin="00:10:56.630" end="00:11:00.500" style="s2">about it I believe but what are your</p>
+<p begin="00:10:58.340" end="00:11:02.270" style="s2">thoughts about whether our universe is</p>
+<p begin="00:11:00.500" end="00:11:03.760" style="s2">the simulation or not or what what can</p>
+<p begin="00:11:02.270" end="00:11:05.990" style="s2">we say about that</p>
+<p begin="00:11:03.760" end="00:11:07.760" style="s2">statistically it seems very likely I</p>
+<p begin="00:11:05.990" end="00:11:11.090" style="s2">would be very surprised if we were one</p>
+<p begin="00:11:07.760" end="00:11:13.610" style="s2">ideal world especially given how weird</p>
+<p begin="00:11:11.090" end="00:11:15.470" style="s2">it is with some examples of weirdness</p>
+<p begin="00:11:13.610" end="00:11:15.960" style="s2">that make you that leads you to that</p>
+<p begin="00:11:15.470" end="00:11:20.220" style="s2">conclusion</p>
+<p begin="00:11:15.960" end="00:11:22.560" style="s2">a recent political situation definitely</p>
+<p begin="00:11:20.220" end="00:11:24.810" style="s2">makes one pause and go this has gotta be</p>
+<p begin="00:11:22.560" end="00:11:27.029" style="s2">a reality TV show this cannot video I&#39;m</p>
+<p begin="00:11:24.810" end="00:11:30.440" style="s2">joking of course this is not at all</p>
+<p begin="00:11:27.029" end="00:11:32.970" style="s2">relevant but if you look at the</p>
+<p begin="00:11:30.440" end="00:11:35.520" style="s2">statistical aspects of it just the sheer</p>
+<p begin="00:11:32.970" end="00:11:38.029" style="s2">number of video games we&#39;re running</p>
+<p begin="00:11:35.520" end="00:11:41.310" style="s2">right now already without more advanced</p>
+<p begin="00:11:38.029" end="00:11:44.399" style="s2">ability to create graphics and virtual</p>
+<p begin="00:11:41.310" end="00:11:47.160" style="s2">experiences it seems very unlikely that</p>
+<p begin="00:11:44.399" end="00:11:50.430" style="s2">you are in the real world not in a video</p>
+<p begin="00:11:47.160" end="00:11:52.140" style="s2">game not in a simulation let me push</p>
+<p begin="00:11:50.430" end="00:11:54.300" style="s2">back on that a little bit you know as I</p>
+<p begin="00:11:52.140" end="00:11:55.950" style="s2">mentioned earlier I&#39;ve chosen to assume</p>
+<p begin="00:11:54.300" end="00:11:57.000" style="s2">an infinite universe I&#39;m a finite</p>
+<p begin="00:11:55.950" end="00:12:00.660" style="s2">universe sorry about that</p>
+<p begin="00:11:57.000" end="00:12:02.540" style="s2">and further one that is the real</p>
+<p begin="00:12:00.660" end="00:12:04.830" style="s2">universe I have chosen to take the</p>
+<p begin="00:12:02.540" end="00:12:07.260" style="s2">scientific realist perspective on the</p>
+<p begin="00:12:04.830" end="00:12:09.720" style="s2">universe we live in and one of the items</p>
+<p begin="00:12:07.260" end="00:12:11.730" style="s2">that I put forth as evidence to support</p>
+<p begin="00:12:09.720" end="00:12:13.680" style="s2">that assertion and it is an assertion</p>
+<p begin="00:12:11.730" end="00:12:17.220" style="s2">there can be no proof about such things</p>
+<p begin="00:12:13.680" end="00:12:19.560" style="s2">yet is the amazing fidelity of physical</p>
+<p begin="00:12:17.220" end="00:12:22.230" style="s2">laws and not to say that it&#39;s impossible</p>
+<p begin="00:12:19.560" end="00:12:24.480" style="s2">in a simulation couldn&#39;t have that level</p>
+<p begin="00:12:22.230" end="00:12:26.910" style="s2">of fidelity but it seems at least</p>
+<p begin="00:12:24.480" end="00:12:28.170" style="s2">indicative to me that maybe it&#39;s real</p>
+<p begin="00:12:26.910" end="00:12:30.209" style="s2">that you know the fact that every</p>
+<p begin="00:12:28.170" end="00:12:33.480" style="s2">electron appears to have exactly the</p>
+<p begin="00:12:30.209" end="00:12:35.610" style="s2">same mass that quantum mechanics appears</p>
+<p begin="00:12:33.480" end="00:12:37.860" style="s2">to be reproducible to fourteen decimal</p>
+<p begin="00:12:35.610" end="00:12:40.320" style="s2">points etc what would you say to that</p>
+<p begin="00:12:37.860" end="00:12:41.970" style="s2">how would it be different if you were in</p>
+<p begin="00:12:40.320" end="00:12:44.220" style="s2">a simulation you&#39;d have very good</p>
+<p begin="00:12:41.970" end="00:12:46.380" style="s2">graphics you&#39;d have excellent algorithms</p>
+<p begin="00:12:44.220" end="00:12:51.480" style="s2">consistently providing same results I</p>
+<p begin="00:12:46.380" end="00:12:53.190" style="s2">don&#39;t see how that how would it be able</p>
+<p begin="00:12:51.480" end="00:12:55.680" style="s2">to simulate it the same level of detail</p>
+<p begin="00:12:53.190" end="00:12:56.850" style="s2">everywhere that appears at least based</p>
+<p begin="00:12:55.680" end="00:12:59.550" style="s2">on what we can tell from things like</p>
+<p begin="00:12:56.850" end="00:13:01.620" style="s2">spectroscopy that the same quantum laws</p>
+<p begin="00:12:59.550" end="00:13:04.260" style="s2">are operating at exactly the same</p>
+<p begin="00:13:01.620" end="00:13:06.089" style="s2">precision far far back in time and</p>
+<p begin="00:13:04.260" end="00:13:07.620" style="s2">billions of years from now billions of</p>
+<p begin="00:13:06.089" end="00:13:09.959" style="s2">years in the past I should say from you</p>
+<p begin="00:13:07.620" end="00:13:12.420" style="s2">know from white so I think there are</p>
+<p begin="00:13:09.959" end="00:13:14.490" style="s2">some differences in physical laws they</p>
+<p begin="00:13:12.420" end="00:13:16.140" style="s2">do change a bit over billions of years</p>
+<p begin="00:13:14.490" end="00:13:17.850" style="s2">but I don&#39;t see how it would be a</p>
+<p begin="00:13:16.140" end="00:13:19.740" style="s2">problem for garite them to be consistent</p>
+<p begin="00:13:17.850" end="00:13:21.990" style="s2">throughout the whole simulation I can</p>
+<p begin="00:13:19.740" end="00:13:24.360" style="s2">have a video game where the gravity</p>
+<p begin="00:13:21.990" end="00:13:27.329" style="s2">constant is the same everywhere and but</p>
+<p begin="00:13:24.360" end="00:13:28.950" style="s2">the precision also again 14 decimal</p>
+<p begin="00:13:27.329" end="00:13:29.660" style="s2">points is way better than the physics</p>
+<p begin="00:13:28.950" end="00:13:32.540" style="s2">engines</p>
+<p begin="00:13:29.660" end="00:13:34.880" style="s2">in in our video games today well I agree</p>
+<p begin="00:13:32.540" end="00:13:36.620" style="s2">with that but that&#39;s not a limit on</p>
+<p begin="00:13:34.880" end="00:13:38.720" style="s2">technology there&#39;s just a limit and what</p>
+<p begin="00:13:36.620" end="00:13:40.760" style="s2">we achieved so far it&#39;s following the</p>
+<p begin="00:13:38.720" end="00:13:43.100" style="s2">same exponential improvement as anything</p>
+<p begin="00:13:40.760" end="00:13:45.080" style="s2">else digital and computational it looks</p>
+<p begin="00:13:43.100" end="00:13:46.940" style="s2">to you like it&#39;s pretty good graphics</p>
+<p begin="00:13:45.080" end="00:13:48.950" style="s2">but you have no idea of what the</p>
+<p begin="00:13:46.940" end="00:13:51.770" style="s2">graphics are outside the simulation if</p>
+<p begin="00:13:48.950" end="00:13:53.360" style="s2">you are Mario in an 8-bit version of a</p>
+<p begin="00:13:51.770" end="00:13:55.070" style="s2">game you don&#39;t know any better you think</p>
+<p begin="00:13:53.360" end="00:13:57.440" style="s2">8 bits is like awesome</p>
+<p begin="00:13:55.070" end="00:13:59.720" style="s2">yeah that&#39;s true that is true so and</p>
+<p begin="00:13:57.440" end="00:14:02.810" style="s2">again it&#39;s not logically impossible we</p>
+<p begin="00:13:59.720" end="00:14:05.900" style="s2">certainly could be a simulation and my</p>
+<p begin="00:14:02.810" end="00:14:07.970" style="s2">view on this is if there&#39;s a realm above</p>
+<p begin="00:14:05.900" end="00:14:09.770" style="s2">ours that is infinite then we are</p>
+<p begin="00:14:07.970" end="00:14:11.600" style="s2">simulation yeah the fact that there will</p>
+<p begin="00:14:09.770" end="00:14:14.330" style="s2">be an infinite number of Boltzmann</p>
+<p begin="00:14:11.600" end="00:14:16.970" style="s2">brains powerful enough to simulate our</p>
+<p begin="00:14:14.330" end="00:14:19.730" style="s2">whole visible universe essentially makes</p>
+<p begin="00:14:16.970" end="00:14:25.610" style="s2">it an almost metaphysical certainty that</p>
+<p begin="00:14:19.730" end="00:14:28.120" style="s2">we are a simulation just enough that</p>
+<p begin="00:14:25.610" end="00:14:30.860" style="s2">it&#39;s a significantly larger percentage</p>
+<p begin="00:14:28.120" end="00:14:33.650" style="s2">you know III don&#39;t know about that I</p>
+<p begin="00:14:30.860" end="00:14:36.410" style="s2">think it has to be infinite world</p>
+<p begin="00:14:33.650" end="00:14:39.380" style="s2">creates let&#39;s just say hundred hundred</p>
+<p begin="00:14:36.410" end="00:14:43.760" style="s2">simulated ones still just 1% chance you</p>
+<p begin="00:14:39.380" end="00:14:46.280" style="s2">are yeah it may be true my intuition I</p>
+<p begin="00:14:43.760" end="00:14:47.540" style="s2">can&#39;t prove it but my assertion is if</p>
+<p begin="00:14:46.280" end="00:14:49.610" style="s2">there&#39;s a realm that&#39;s infinite we&#39;re</p>
+<p begin="00:14:47.540" end="00:14:51.950" style="s2">definitely in a simulation if there is</p>
+<p begin="00:14:49.610" end="00:14:53.210" style="s2">no infinite realm and it may even be</p>
+<p begin="00:14:51.950" end="00:14:55.220" style="s2">there&#39;s a pruning rule if there is no</p>
+<p begin="00:14:53.210" end="00:14:57.320" style="s2">infinite realm that&#39;s causally connected</p>
+<p begin="00:14:55.220" end="00:14:59.810" style="s2">I&#39;m going to think about that one some</p>
+<p begin="00:14:57.320" end="00:15:02.180" style="s2">more then we&#39;re not and so that would be</p>
+<p begin="00:14:59.810" end="00:15:04.820" style="s2">a program of thinking should we ever be</p>
+<p begin="00:15:02.180" end="00:15:07.130" style="s2">able to look beyond our universe to the</p>
+<p begin="00:15:04.820" end="00:15:08.480" style="s2">higher realm to maybe get some hints on</p>
+<p begin="00:15:07.130" end="00:15:11.270" style="s2">whether we&#39;re in a simulation or not</p>
+<p begin="00:15:08.480" end="00:15:15.170" style="s2">another paper you wrote was so it was a</p>
+<p begin="00:15:11.270" end="00:15:16.790" style="s2">called glitches in the matrix I think at</p>
+<p begin="00:15:15.170" end="00:15:18.800" style="s2">the end of the day you rejected glitches</p>
+<p begin="00:15:16.790" end="00:15:21.380" style="s2">in the matrix but talk to us about that</p>
+<p begin="00:15:18.800" end="00:15:23.480" style="s2">a little bit so we are both interested</p>
+<p begin="00:15:21.380" end="00:15:25.300" style="s2">in discovering are we in a simulation or</p>
+<p begin="00:15:23.480" end="00:15:27.740" style="s2">not and what you would look for is</p>
+<p begin="00:15:25.300" end="00:15:29.060" style="s2">computational artifacts then we do</p>
+<p begin="00:15:27.740" end="00:15:31.850" style="s2">computer games</p>
+<p begin="00:15:29.060" end="00:15:33.710" style="s2">there are certain things we do to make a</p>
+<p begin="00:15:31.850" end="00:15:36.110" style="s2">more efficient for example we may not</p>
+<p begin="00:15:33.710" end="00:15:38.210" style="s2">render something if no character is</p>
+<p begin="00:15:36.110" end="00:15:40.520" style="s2">looking at that object so you have</p>
+<p begin="00:15:38.210" end="00:15:42.470" style="s2">observer effects you can detect you can</p>
+<p begin="00:15:40.520" end="00:15:43.940" style="s2">have some sort of you talked about</p>
+<p begin="00:15:42.470" end="00:15:47.480" style="s2">precision</p>
+<p begin="00:15:43.940" end="00:15:50.390" style="s2">if we see a universe as a digital</p>
+<p begin="00:15:47.480" end="00:15:53.900" style="s2">universe right digital philosophy there</p>
+<p begin="00:15:50.390" end="00:15:58.220" style="s2">are certain discrete components Planck&#39;s</p>
+<p begin="00:15:53.900" end="00:16:00.560" style="s2">level of time and space which kind of</p>
+<p begin="00:15:58.220" end="00:16:02.870" style="s2">indicative of digital underlying</p>
+<p begin="00:16:00.560" end="00:16:04.670" style="s2">architecture so those are not proofs but</p>
+<p begin="00:16:02.870" end="00:16:08.180" style="s2">those are interesting things to look for</p>
+<p begin="00:16:04.670" end="00:16:08.780" style="s2">if you make a prediction okay we&#39;re in a</p>
+<p begin="00:16:08.180" end="00:16:11.660" style="s2">simulation</p>
+<p begin="00:16:08.780" end="00:16:12.980" style="s2">what possible glitches would I find and</p>
+<p begin="00:16:11.660" end="00:16:16.460" style="s2">then you can look for them and see if</p>
+<p begin="00:16:12.980" end="00:16:19.790" style="s2">it&#39;s in fact the case yep a friend of</p>
+<p begin="00:16:16.460" end="00:16:21.830" style="s2">mine and Solomon who was at Miri at one</p>
+<p begin="00:16:19.790" end="00:16:23.480" style="s2">point you know I&#39;m sure she&#39;s not the</p>
+<p begin="00:16:21.830" end="00:16:25.100" style="s2">inventor of this but she would always</p>
+<p begin="00:16:23.480" end="00:16:27.530" style="s2">say well wonder what happen if we sent a</p>
+<p begin="00:16:25.100" end="00:16:28.970" style="s2">probe Alpha Centauri maybe we find it&#39;s</p>
+<p begin="00:16:27.530" end="00:16:31.430" style="s2">just a wireframe that would be</p>
+<p begin="00:16:28.970" end="00:16:33.020" style="s2">interesting he probably wouldn&#39;t be</p>
+<p begin="00:16:31.430" end="00:16:35.270" style="s2">because we would be getting there and</p>
+<p begin="00:16:33.020" end="00:16:36.800" style="s2">observing it and it would change how it</p>
+<p begin="00:16:35.270" end="00:16:39.080" style="s2">is represented it would improve</p>
+<p begin="00:16:36.800" end="00:16:41.510" style="s2">rendering for distant objects once we</p>
+<p begin="00:16:39.080" end="00:16:43.310" style="s2">got closer yep and if it was like a game</p>
+<p begin="00:16:41.510" end="00:16:45.050" style="s2">that would likely be the case the</p>
+<p begin="00:16:43.310" end="00:16:47.770" style="s2">example I gave earlier is perhaps more</p>
+<p begin="00:16:45.050" end="00:16:50.420" style="s2">interesting that the spectroscopy from</p>
+<p begin="00:16:47.770" end="00:16:53.480" style="s2">galaxies very far away in both space and</p>
+<p begin="00:16:50.420" end="00:16:56.590" style="s2">time we&#39;re not yet able to prove 14</p>
+<p begin="00:16:53.480" end="00:16:59.330" style="s2">decimal points of quantum behavior</p>
+<p begin="00:16:56.590" end="00:17:02.660" style="s2">fidelity but we can get increasingly</p>
+<p begin="00:16:59.330" end="00:17:05.150" style="s2">high levels of quantum fidelity that</p>
+<p begin="00:17:02.660" end="00:17:06.610" style="s2">again to your point doesn&#39;t prove</p>
+<p begin="00:17:05.150" end="00:17:09.740" style="s2">anything but at least is perhaps</p>
+<p begin="00:17:06.610" end="00:17:11.570" style="s2">suggestive that the computational loaded</p>
+<p begin="00:17:09.740" end="00:17:13.670" style="s2">least to simulate the universe at that</p>
+<p begin="00:17:11.570" end="00:17:17.240" style="s2">level of fidelity could be awful large</p>
+<p begin="00:17:13.670" end="00:17:19.220" style="s2">as a cybersecurity guy for me the</p>
+<p begin="00:17:17.240" end="00:17:21.470" style="s2">interesting part is if it&#39;s a software</p>
+<p begin="00:17:19.220" end="00:17:23.840" style="s2">simulation how do you hack it how do you</p>
+<p begin="00:17:21.470" end="00:17:25.730" style="s2">jailbreak it how do you get source code</p>
+<p begin="00:17:23.840" end="00:17:27.080" style="s2">access modify some things so maybe</p>
+<p begin="00:17:25.730" end="00:17:30.050" style="s2">escape to the real world</p>
+<p begin="00:17:27.080" end="00:17:33.410" style="s2">yeah can you be neo right something like</p>
+<p begin="00:17:30.050" end="00:17:35.690" style="s2">that yeah yeah so back to glitches again</p>
+<p begin="00:17:33.410" end="00:17:37.430" style="s2">scanning your paper rapidly it looked</p>
+<p begin="00:17:35.690" end="00:17:38.930" style="s2">like your conclusion was yeah as a bunch</p>
+<p begin="00:17:37.430" end="00:17:40.940" style="s2">of crazy people claiming various</p>
+<p begin="00:17:38.930" end="00:17:43.130" style="s2">glitches but there&#39;s nothing provable at</p>
+<p begin="00:17:40.940" end="00:17:44.990" style="s2">this time is that where you stand the</p>
+<p begin="00:17:43.130" end="00:17:46.790" style="s2">crazy ones are definitely meaningless</p>
+<p begin="00:17:44.990" end="00:17:49.730" style="s2">they don&#39;t mean much I&#39;m more interested</p>
+<p begin="00:17:46.790" end="00:17:52.280" style="s2">in how different properties of quantum</p>
+<p begin="00:17:49.730" end="00:17:55.100" style="s2">physics can be mapped under this idea of</p>
+<p begin="00:17:52.280" end="00:17:56.210" style="s2">us being simulated so observer effect is</p>
+<p begin="00:17:55.100" end="00:17:58.910" style="s2">definitely one of them</p>
+<p begin="00:17:56.210" end="00:18:01.580" style="s2">interesting ones when you actually try</p>
+<p begin="00:17:58.910" end="00:18:03.890" style="s2">to perceive something it changes how it</p>
+<p begin="00:18:01.580" end="00:18:06.710" style="s2">is rendered how it is presented to you</p>
+<p begin="00:18:03.890" end="00:18:08.810" style="s2">to me that&#39;s an interesting surprising</p>
+<p begin="00:18:06.710" end="00:18:11.380" style="s2">effect which is very consistent with</p>
+<p begin="00:18:08.810" end="00:18:14.240" style="s2">this idea of intelligent beings</p>
+<p begin="00:18:11.380" end="00:18:16.370" style="s2">impacting how the virtual reality around</p>
+<p begin="00:18:14.240" end="00:18:18.770" style="s2">them is presented of course that&#39;s a</p>
+<p begin="00:18:16.370" end="00:18:21.260" style="s2">very controversial view in the field of</p>
+<p begin="00:18:18.770" end="00:18:23.150" style="s2">quantum foundations earlier in the show</p>
+<p begin="00:18:21.260" end="00:18:25.190" style="s2">we had least small anon from the</p>
+<p begin="00:18:23.150" end="00:18:27.920" style="s2">perimeter Institute and he would argue</p>
+<p begin="00:18:25.190" end="00:18:29.720" style="s2">that there is no observer of fact but</p>
+<p begin="00:18:27.920" end="00:18:31.820" style="s2">there is a measurement effect and the</p>
+<p begin="00:18:29.720" end="00:18:33.890" style="s2">measurement effect turns out actually to</p>
+<p begin="00:18:31.820" end="00:18:36.890" style="s2">have to do with interactions at</p>
+<p begin="00:18:33.890" end="00:18:38.120" style="s2">different scales of quantum collapse has</p>
+<p begin="00:18:36.890" end="00:18:40.880" style="s2">nothing to do with whether there&#39;s an</p>
+<p begin="00:18:38.120" end="00:18:42.620" style="s2">observer or not so I think that&#39;s still</p>
+<p begin="00:18:40.880" end="00:18:44.600" style="s2">an open question whether there really is</p>
+<p begin="00:18:42.620" end="00:18:45.260" style="s2">an observer phenomena in quantum</p>
+<p begin="00:18:44.600" end="00:18:47.240" style="s2">mechanics</p>
+<p begin="00:18:45.260" end="00:18:49.520" style="s2">he&#39;s definitely a better physicist no</p>
+<p begin="00:18:47.240" end="00:18:51.980" style="s2">doubt but my understanding is that in</p>
+<p begin="00:18:49.520" end="00:18:53.930" style="s2">physics they still have not decided what</p>
+<p begin="00:18:51.980" end="00:18:56.660" style="s2">he&#39;s an observer is it a conscious</p>
+<p begin="00:18:53.930" end="00:18:58.190" style="s2">entity is it a measuring device is it</p>
+<p begin="00:18:56.660" end="00:19:01.100" style="s2">something else what is the minimal</p>
+<p begin="00:18:58.190" end="00:19:02.840" style="s2">observer sufficient to collapse quantum</p>
+<p begin="00:19:01.100" end="00:19:04.790" style="s2">equations and things of that nature am I</p>
+<p begin="00:19:02.840" end="00:19:06.140" style="s2">wrong in that yeah that&#39;s an area again</p>
+<p begin="00:19:04.790" end="00:19:08.060" style="s2">it&#39;s still as you point out it&#39;s still</p>
+<p begin="00:19:06.140" end="00:19:10.900" style="s2">an area where people argue but Lee</p>
+<p begin="00:19:08.060" end="00:19:14.060" style="s2">Smolin and also my friend recently</p>
+<p begin="00:19:10.900" end="00:19:16.220" style="s2">passed away murray gell-mann was also of</p>
+<p begin="00:19:14.060" end="00:19:17.810" style="s2">the view that whatever we were calling</p>
+<p begin="00:19:16.220" end="00:19:19.760" style="s2">the observer effect really had nothing</p>
+<p begin="00:19:17.810" end="00:19:21.940" style="s2">to do with a conscious observer but had</p>
+<p begin="00:19:19.760" end="00:19:24.880" style="s2">to do with the interaction between</p>
+<p begin="00:19:21.940" end="00:19:27.830" style="s2">uncollapse t&#39; quantum phenomena and</p>
+<p begin="00:19:24.880" end="00:19:29.420" style="s2">collapsed quantum phenomena and so there</p>
+<p begin="00:19:27.830" end="00:19:31.190" style="s2">really was no observer in the loop</p>
+<p begin="00:19:29.420" end="00:19:33.080" style="s2">because he would always say do you think</p>
+<p begin="00:19:31.190" end="00:19:35.420" style="s2">that moon didn&#39;t exist before someone</p>
+<p begin="00:19:33.080" end="00:19:37.370" style="s2">observed it and he&#39;d say of course it</p>
+<p begin="00:19:35.420" end="00:19:40.670" style="s2">existed and you know the fact that it</p>
+<p begin="00:19:37.370" end="00:19:43.910" style="s2">was a collapsed example of physical</p>
+<p begin="00:19:40.670" end="00:19:46.910" style="s2">material was sufficient to essentially</p>
+<p begin="00:19:43.910" end="00:19:48.020" style="s2">ground the uncollapse quantum events</p>
+<p begin="00:19:46.910" end="00:19:50.450" style="s2">that are happening throughout the moon</p>
+<p begin="00:19:48.020" end="00:19:51.740" style="s2">but again it&#39;s an open question but it</p>
+<p begin="00:19:50.450" end="00:19:54.460" style="s2">would be an interesting area to probe</p>
+<p begin="00:19:51.740" end="00:19:57.040" style="s2">other possibilities for detecting</p>
+<p begin="00:19:54.460" end="00:20:00.530" style="s2">fluctuations or glitches in the matrix</p>
+<p begin="00:19:57.040" end="00:20:02.180" style="s2">again I have a project coming up I</p>
+<p begin="00:20:00.530" end="00:20:06.890" style="s2">haven&#39;t actively worked on it but the</p>
+<p begin="00:20:02.180" end="00:20:09.200" style="s2">idea is to study exact bugs in games and</p>
+<p begin="00:20:06.890" end="00:20:10.180" style="s2">virtual software and to see if they&#39;re</p>
+<p begin="00:20:09.200" end="00:20:15.170" style="s2">equivalent</p>
+<p begin="00:20:10.180" end="00:20:18.380" style="s2">in latest physics I collect bugs of all</p>
+<p begin="00:20:15.170" end="00:20:21.020" style="s2">sorts one of my big hobbies is bugs in</p>
+<p begin="00:20:18.380" end="00:20:23.480" style="s2">AI I have multiple papers on that</p>
+<p begin="00:20:21.020" end="00:20:25.820" style="s2">subject just historical examples of</p>
+<p begin="00:20:23.480" end="00:20:29.570" style="s2">accidents and so continuing with this</p>
+<p begin="00:20:25.820" end="00:20:32.000" style="s2">line of reasoning looking for very</p>
+<p begin="00:20:29.570" end="00:20:34.240" style="s2">common artifacts of computation and</p>
+<p begin="00:20:32.000" end="00:20:37.670" style="s2">trying to see if we observe them in</p>
+<p begin="00:20:34.240" end="00:20:39.790" style="s2">visible universe at least interesting</p>
+<p begin="00:20:37.670" end="00:20:42.470" style="s2">now of course in software we can have</p>
+<p begin="00:20:39.790" end="00:20:44.930" style="s2">actual bugs in the software and then we</p>
+<p begin="00:20:42.470" end="00:20:47.540" style="s2">can also have Hardware transients you</p>
+<p begin="00:20:44.930" end="00:20:50.200" style="s2">know the classic example is a cosmic ray</p>
+<p begin="00:20:47.540" end="00:20:54.500" style="s2">that flips a bit or two in memory</p>
+<p begin="00:20:50.200" end="00:20:55.730" style="s2">absolutely and we can study all relevant</p>
+<p begin="00:20:54.500" end="00:20:58.010" style="s2">effects we don&#39;t know what type of</p>
+<p begin="00:20:55.730" end="00:20:59.510" style="s2">computer is running this simulation is</p>
+<p begin="00:20:58.010" end="00:21:01.580" style="s2">that quantum as its classical is it</p>
+<p begin="00:20:59.510" end="00:21:03.680" style="s2">something completely different we have</p>
+<p begin="00:21:01.580" end="00:21:06.260" style="s2">no idea about and cannot possibly figure</p>
+<p begin="00:21:03.680" end="00:21:08.660" style="s2">out but it&#39;d be interesting if a certain</p>
+<p begin="00:21:06.260" end="00:21:10.520" style="s2">consistent mapping and predictive power</p>
+<p begin="00:21:08.660" end="00:21:12.350" style="s2">and this idea there are some papers</p>
+<p begin="00:21:10.520" end="00:21:15.010" style="s2">starting to look at that but they&#39;re</p>
+<p begin="00:21:12.350" end="00:21:17.240" style="s2">very science fictiony at this point a</p>
+<p begin="00:21:15.010" end="00:21:20.080" style="s2">closely related topic that you&#39;ve</p>
+<p begin="00:21:17.240" end="00:21:22.640" style="s2">written on is unexplained ability and in</p>
+<p begin="00:21:20.080" end="00:21:25.130" style="s2">comprehensibility in AI tell us what</p>
+<p begin="00:21:22.640" end="00:21:27.860" style="s2">those things are so we&#39;re starting to</p>
+<p begin="00:21:25.130" end="00:21:30.560" style="s2">make really cool AI systems very capable</p>
+<p begin="00:21:27.860" end="00:21:33.080" style="s2">and a lot of them are based on deep</p>
+<p begin="00:21:30.560" end="00:21:35.630" style="s2">neural networks simulations of human</p>
+<p begin="00:21:33.080" end="00:21:39.440" style="s2">neural architecture to a certain degree</p>
+<p begin="00:21:35.630" end="00:21:41.360" style="s2">and they are sort of working like black</p>
+<p begin="00:21:39.440" end="00:21:43.660" style="s2">boxes they have a lot of components</p>
+<p begin="00:21:41.360" end="00:21:47.600" style="s2">millions of neurons billions of</p>
+<p begin="00:21:43.660" end="00:21:50.330" style="s2">connecting weights all different weights</p>
+<p begin="00:21:47.600" end="00:21:52.010" style="s2">for feature vectors of thousands of</p>
+<p begin="00:21:50.330" end="00:21:55.010" style="s2">different features for let&#39;s say</p>
+<p begin="00:21:52.010" end="00:21:56.450" style="s2">classification tasks and we would like</p>
+<p begin="00:21:55.010" end="00:21:58.340" style="s2">to understand how decisions are made</p>
+<p begin="00:21:56.450" end="00:22:00.560" style="s2">they make very good decisions may</p>
+<p begin="00:21:58.340" end="00:22:02.780" style="s2">outperform humans and many domains but</p>
+<p begin="00:22:00.560" end="00:22:04.280" style="s2">they cannot just give you an answer we</p>
+<p begin="00:22:02.780" end="00:22:06.800" style="s2">would like to know well how did you get</p>
+<p begin="00:22:04.280" end="00:22:09.800" style="s2">this decision if you denied me alone for</p>
+<p begin="00:22:06.800" end="00:22:12.650" style="s2">example why the best we can do it now</p>
+<p begin="00:22:09.800" end="00:22:14.510" style="s2">some sort of simplified top ten features</p>
+<p begin="00:22:12.650" end="00:22:16.310" style="s2">while you deny it for this reason that</p>
+<p begin="00:22:14.510" end="00:22:18.800" style="s2">reason but we don&#39;t get a full picture</p>
+<p begin="00:22:16.310" end="00:22:22.100" style="s2">it&#39;s a simplified explanation because we</p>
+<p begin="00:22:18.800" end="00:22:23.340" style="s2">just can&#39;t handle the full complexity of</p>
+<p begin="00:22:22.100" end="00:22:25.500" style="s2">the decision being made</p>
+<p begin="00:22:23.340" end="00:22:28.260" style="s2">so many features and a lot of people</p>
+<p begin="00:22:25.500" end="00:22:30.000" style="s2">feel that it&#39;s just a local limitation</p>
+<p begin="00:22:28.260" end="00:22:31.680" style="s2">we&#39;re gonna get better at this and we&#39;re</p>
+<p begin="00:22:30.000" end="00:22:34.590" style="s2">gonna get to the point where we can get</p>
+<p begin="00:22:31.680" end="00:22:36.570" style="s2">perfect explanations whereas in the</p>
+<p begin="00:22:34.590" end="00:22:38.430" style="s2">paper I argue that it&#39;s a fundamental</p>
+<p begin="00:22:36.570" end="00:22:40.740" style="s2">impossibility result so there are</p>
+<p begin="00:22:38.430" end="00:22:42.750" style="s2">certain things a more capable system a</p>
+<p begin="00:22:40.740" end="00:22:46.470" style="s2">more complex system can never fully</p>
+<p begin="00:22:42.750" end="00:22:49.170" style="s2">explain to a lower level system and even</p>
+<p begin="00:22:46.470" end="00:22:51.090" style="s2">if there was some way to compress this</p>
+<p begin="00:22:49.170" end="00:22:53.010" style="s2">information there are limits to our</p>
+<p begin="00:22:51.090" end="00:22:54.720" style="s2">comprehension we would not comprehend</p>
+<p begin="00:22:53.010" end="00:22:56.670" style="s2">some of the more complex results because</p>
+<p begin="00:22:54.720" end="00:22:59.070" style="s2">we&#39;re just not smart enough to get to</p>
+<p begin="00:22:56.670" end="00:23:00.420" style="s2">that point yeah so I I like that</p>
+<p begin="00:22:59.070" end="00:23:02.310" style="s2">actually this thing should you made in</p>
+<p begin="00:23:00.420" end="00:23:05.100" style="s2">that paper between unexplained ability</p>
+<p begin="00:23:02.310" end="00:23:07.650" style="s2">and incomprehensible &#39;ti so in one case</p>
+<p begin="00:23:05.100" end="00:23:11.340" style="s2">it may be that you know a black box AI</p>
+<p begin="00:23:07.650" end="00:23:13.950" style="s2">is just unable to produce sufficiently</p>
+<p begin="00:23:11.340" end="00:23:16.140" style="s2">granular explanation but the second</p>
+<p begin="00:23:13.950" end="00:23:19.440" style="s2">might be that our cognitive limitations</p>
+<p begin="00:23:16.140" end="00:23:21.000" style="s2">would make us unable to comprehend it is</p>
+<p begin="00:23:19.440" end="00:23:22.380" style="s2">that what you is that the distinction</p>
+<p begin="00:23:21.000" end="00:23:25.230" style="s2">you were making between those two terms</p>
+<p begin="00:23:22.380" end="00:23:27.210" style="s2">exactly so we see it a lot with let&#39;s</p>
+<p begin="00:23:25.230" end="00:23:29.220" style="s2">say universities right for certain</p>
+<p begin="00:23:27.210" end="00:23:31.890" style="s2">majors we require students to have</p>
+<p begin="00:23:29.220" end="00:23:34.500" style="s2">certain GRE scores as ETS course whatnot</p>
+<p begin="00:23:31.890" end="00:23:36.510" style="s2">because we found that students at lower</p>
+<p begin="00:23:34.500" end="00:23:39.060" style="s2">level don&#39;t seem to understand those</p>
+<p begin="00:23:36.510" end="00:23:40.860" style="s2">concepts well so we have even like with</p>
+<p begin="00:23:39.060" end="00:23:43.320" style="s2">all of us almost identical in our</p>
+<p begin="00:23:40.860" end="00:23:45.630" style="s2">intelligence we see already differences</p>
+<p begin="00:23:43.320" end="00:23:49.140" style="s2">in what can be understood that take</p>
+<p begin="00:23:45.630" end="00:23:52.230" style="s2">dreams take it to systems with million a</p>
+<p begin="00:23:49.140" end="00:23:54.240" style="s2">cue points equivalent it&#39;s very unlikely</p>
+<p begin="00:23:52.230" end="00:23:57.180" style="s2">that we&#39;d be able to follow along and go</p>
+<p begin="00:23:54.240" end="00:23:59.250" style="s2">yep that makes sense all right indeed</p>
+<p begin="00:23:57.180" end="00:24:01.260" style="s2">now let&#39;s talk about that a little bit</p>
+<p begin="00:23:59.250" end="00:24:02.910" style="s2">humans I&#39;d argue and I think you</p>
+<p begin="00:24:01.260" end="00:24:04.620" style="s2">actually mentioned this in passing and</p>
+<p begin="00:24:02.910" end="00:24:06.720" style="s2">those papers as well are also not</p>
+<p begin="00:24:04.620" end="00:24:08.970" style="s2">explainable for instance it&#39;s the</p>
+<p begin="00:24:06.720" end="00:24:12.270" style="s2">example I love to use we talked about</p>
+<p begin="00:24:08.970" end="00:24:14.610" style="s2">this is the last sentence you said you</p>
+<p begin="00:24:12.270" end="00:24:16.830" style="s2">have no idea how that sentence was</p>
+<p begin="00:24:14.610" end="00:24:19.020" style="s2">created right humans have black boxes</p>
+<p begin="00:24:16.830" end="00:24:22.110" style="s2">and there are some beautiful experiments</p>
+<p begin="00:24:19.020" end="00:24:24.480" style="s2">and split brain patients and what really</p>
+<p begin="00:24:22.110" end="00:24:26.400" style="s2">happens it seems is that we come up with</p>
+<p begin="00:24:24.480" end="00:24:28.500" style="s2">explanations for our decisions and</p>
+<p begin="00:24:26.400" end="00:24:30.720" style="s2">behavior later and most of the time we</p>
+<p begin="00:24:28.500" end="00:24:33.330" style="s2">just make it up it&#39;s complete BS yeah</p>
+<p begin="00:24:30.720" end="00:24:35.370" style="s2">the famous confabulation and you know</p>
+<p begin="00:24:33.330" end="00:24:37.170" style="s2">there&#39;s been more and more work on that</p>
+<p begin="00:24:35.370" end="00:24:39.450" style="s2">and I&#39;m now coming away it&#39;s</p>
+<p begin="00:24:37.170" end="00:24:43.290" style="s2">a whole lot of what we do is black box</p>
+<p begin="00:24:39.450" end="00:24:45.030" style="s2">so if humans are mostly black box why do</p>
+<p begin="00:24:43.290" end="00:24:47.550" style="s2">we believe we need to hold a eyes to a</p>
+<p begin="00:24:45.030" end="00:24:48.750" style="s2">higher standard well we hope we can get</p>
+<p begin="00:24:47.550" end="00:24:50.850" style="s2">there but for me that&#39;s actually</p>
+<p begin="00:24:48.750" end="00:24:52.770" style="s2">evidence an argument for why I&#39;m right</p>
+<p begin="00:24:50.850" end="00:24:55.800" style="s2">it&#39;s not possible and I cite it in the</p>
+<p begin="00:24:52.770" end="00:24:58.380" style="s2">paper and I say exactly that if this is</p>
+<p begin="00:24:55.800" end="00:25:00.480" style="s2">a simulation of natural neural networks</p>
+<p begin="00:24:58.380" end="00:25:02.520" style="s2">why would it be capable of doing</p>
+<p begin="00:25:00.480" end="00:25:05.610" style="s2">something the actual thing cannot do</p>
+<p begin="00:25:02.520" end="00:25:07.080" style="s2">yeah of course this red Gary Marcus&#39;s</p>
+<p begin="00:25:05.610" end="00:25:09.420" style="s2">book recently in fact he&#39;s gonna be a</p>
+<p begin="00:25:07.080" end="00:25:12.420" style="s2">guest on the show later this month and</p>
+<p begin="00:25:09.420" end="00:25:13.710" style="s2">he argues actually against deep learning</p>
+<p begin="00:25:12.420" end="00:25:16.440" style="s2">or at least relying on it too much</p>
+<p begin="00:25:13.710" end="00:25:18.720" style="s2">because of its lack of explained ability</p>
+<p begin="00:25:16.440" end="00:25:20.910" style="s2">and he proposed putting more efforts on</p>
+<p begin="00:25:18.720" end="00:25:23.580" style="s2">symbolic approaches which are more</p>
+<p begin="00:25:20.910" end="00:25:26.490" style="s2">inherently understandable what do you</p>
+<p begin="00:25:23.580" end="00:25:28.410" style="s2">think about that I think he likes hybrid</p>
+<p begin="00:25:26.490" end="00:25:31.170" style="s2">approaches taking advantage of both</p>
+<p begin="00:25:28.410" end="00:25:33.090" style="s2">methods of computation and intelligence</p>
+<p begin="00:25:31.170" end="00:25:35.610" style="s2">and it seems to be what humans are doing</p>
+<p begin="00:25:33.090" end="00:25:39.600" style="s2">we have a subconscious component where</p>
+<p begin="00:25:35.610" end="00:25:42.030" style="s2">some magical set of neurons fires and we</p>
+<p begin="00:25:39.600" end="00:25:44.670" style="s2">get kind of a few good choices to decide</p>
+<p begin="00:25:42.030" end="00:25:47.460" style="s2">for example for chess and then we use</p>
+<p begin="00:25:44.670" end="00:25:49.170" style="s2">our symbolic explicit reasoning to pick</p>
+<p begin="00:25:47.460" end="00:25:52.110" style="s2">the best one out of two or three and</p>
+<p begin="00:25:49.170" end="00:25:54.210" style="s2">it&#39;s likely that machines will follow in</p>
+<p begin="00:25:52.110" end="00:25:56.340" style="s2">the same way it will be a very deep</p>
+<p begin="00:25:54.210" end="00:25:58.380" style="s2">neural network doing pre-processing and</p>
+<p begin="00:25:56.340" end="00:26:00.060" style="s2">then some sort of expert like system</p>
+<p begin="00:25:58.380" end="00:26:02.460" style="s2">making final decision due to some</p>
+<p begin="00:26:00.060" end="00:26:04.380" style="s2">constraints as well yeah that&#39;s the</p>
+<p begin="00:26:02.460" end="00:26:06.270" style="s2">approach project I&#39;ve been associated</p>
+<p begin="00:26:04.380" end="00:26:08.880" style="s2">with lightly for a few years called</p>
+<p begin="00:26:06.270" end="00:26:11.280" style="s2">OpenCog is taking that approach where</p>
+<p begin="00:26:08.880" end="00:26:13.590" style="s2">there&#39;s an inner symbolic layer and then</p>
+<p begin="00:26:11.280" end="00:26:15.660" style="s2">there&#39;s the ability to plug in a many</p>
+<p begin="00:26:13.590" end="00:26:17.910" style="s2">different perhaps deep learning type</p>
+<p begin="00:26:15.660" end="00:26:20.880" style="s2">architectures to do the equivalence of</p>
+<p begin="00:26:17.910" end="00:26:23.580" style="s2">perception and classification object</p>
+<p begin="00:26:20.880" end="00:26:26.100" style="s2">identification etc so I&#39;m with you on</p>
+<p begin="00:26:23.580" end="00:26:28.080" style="s2">that one and Gary that probably it&#39;s</p>
+<p begin="00:26:26.100" end="00:26:31.380" style="s2">some hybrid that&#39;s gonna be the way we</p>
+<p begin="00:26:28.080" end="00:26:33.720" style="s2">actually reach AGI I think so and there</p>
+<p begin="00:26:31.380" end="00:26:35.160" style="s2">are so many different methods in AI over</p>
+<p begin="00:26:33.720" end="00:26:37.260" style="s2">the years and I think all of them are</p>
+<p begin="00:26:35.160" end="00:26:39.240" style="s2">valuable they just different patches of</p>
+<p begin="00:26:37.260" end="00:26:41.010" style="s2">this bigger puzzle and eventually we&#39;ll</p>
+<p begin="00:26:39.240" end="00:26:42.830" style="s2">learn to see how they fit together and</p>
+<p begin="00:26:41.010" end="00:26:46.110" style="s2">that&#39;s going to be the way to succeed</p>
+<p begin="00:26:42.830" end="00:26:49.080" style="s2">interesting let&#39;s see here where are you</p>
+<p begin="00:26:46.110" end="00:26:50.860" style="s2">on predicting the road to AGI and for</p>
+<p begin="00:26:49.080" end="00:26:53.410" style="s2">again for our audience AGI is</p>
+<p begin="00:26:50.860" end="00:26:55.270" style="s2">artificial general intelligence which</p>
+<p begin="00:26:53.410" end="00:26:58.210" style="s2">means more or less something like a</p>
+<p begin="00:26:55.270" end="00:27:00.670" style="s2">human level of ability to solve many</p>
+<p begin="00:26:58.210" end="00:27:04.210" style="s2">different problems at a human level of</p>
+<p begin="00:27:00.670" end="00:27:06.700" style="s2">competency looking at where we got good</p>
+<p begin="00:27:04.210" end="00:27:08.830" style="s2">results and succeeded it seems that just</p>
+<p begin="00:27:06.700" end="00:27:11.350" style="s2">adding a lot more compute and a lot more</p>
+<p begin="00:27:08.830" end="00:27:14.559" style="s2">data to existing neural architectures</p>
+<p begin="00:27:11.350" end="00:27:16.540" style="s2">takes us very far and it doesn&#39;t seem to</p>
+<p begin="00:27:14.559" end="00:27:18.370" style="s2">stop taking us in that direction so for</p>
+<p begin="00:27:16.540" end="00:27:20.799" style="s2">a while I think we&#39;ll make great</p>
+<p begin="00:27:18.370" end="00:27:23.980" style="s2">progress just kind of scaling everything</p>
+<p begin="00:27:20.799" end="00:27:26.200" style="s2">we have at some point we&#39;ll hit some</p>
+<p begin="00:27:23.980" end="00:27:29.290" style="s2">bottlenecks and that&#39;s where this other</p>
+<p begin="00:27:26.200" end="00:27:32.440" style="s2">method symbolic methods will allow us to</p>
+<p begin="00:27:29.290" end="00:27:34.690" style="s2">move to the next level I think certainly</p>
+<p begin="00:27:32.440" end="00:27:36.880" style="s2">deep learning is just amazing the</p>
+<p begin="00:27:34.690" end="00:27:39.220" style="s2">progress it continues to make every week</p>
+<p begin="00:27:36.880" end="00:27:41.110" style="s2">we see an interesting result on the</p>
+<p begin="00:27:39.220" end="00:27:43.390" style="s2">other hand I thought Gary Marcus made</p>
+<p begin="00:27:41.110" end="00:27:45.640" style="s2">some good points of showing that yes</p>
+<p begin="00:27:43.390" end="00:27:48.100" style="s2">it&#39;s amazing the results it makes but</p>
+<p begin="00:27:45.640" end="00:27:50.590" style="s2">the limitations are also pretty</p>
+<p begin="00:27:48.100" end="00:27:52.870" style="s2">staggering so far for instance in</p>
+<p begin="00:27:50.590" end="00:27:55.419" style="s2">language understanding so far there&#39;s</p>
+<p begin="00:27:52.870" end="00:27:58.900" style="s2">nothing like real understanding it&#39;s all</p>
+<p begin="00:27:55.419" end="00:28:01.480" style="s2">very very powerful statistical</p>
+<p begin="00:27:58.900" end="00:28:03.040" style="s2">associations and that he at least would</p>
+<p begin="00:28:01.480" end="00:28:06.100" style="s2">argue that&#39;s qualitatively different</p>
+<p begin="00:28:03.040" end="00:28:08.530" style="s2">than real understanding any thoughts on</p>
+<p begin="00:28:06.100" end="00:28:11.140" style="s2">that right but the real understanding of</p>
+<p begin="00:28:08.530" end="00:28:14.380" style="s2">language is AI complete if we had it we</p>
+<p begin="00:28:11.140" end="00:28:16.510" style="s2">would have AGI you can get partial AI</p>
+<p begin="00:28:14.380" end="00:28:18.400" style="s2">complete solution you either have it or</p>
+<p begin="00:28:16.510" end="00:28:20.440" style="s2">not and so for a while we&#39;re not gonna</p>
+<p begin="00:28:18.400" end="00:28:22.240" style="s2">have real understanding until we do and</p>
+<p begin="00:28:20.440" end="00:28:22.960" style="s2">that&#39;s too late at this point we got</p>
+<p begin="00:28:22.240" end="00:28:25.750" style="s2">full-blown</p>
+<p begin="00:28:22.960" end="00:28:27.400" style="s2">AGI interesting yeah let&#39;s hop ahead a</p>
+<p begin="00:28:25.750" end="00:28:31.000" style="s2">couple one of my questions I have is</p>
+<p begin="00:28:27.400" end="00:28:33.280" style="s2">you&#39;ve written on AI complete AI easy AI</p>
+<p begin="00:28:31.000" end="00:28:36.460" style="s2">hard and the Turing test could you</p>
+<p begin="00:28:33.280" end="00:28:38.049" style="s2">explain those terms and and and your</p>
+<p begin="00:28:36.460" end="00:28:40.030" style="s2">thoughts on the Turing test which as you</p>
+<p begin="00:28:38.049" end="00:28:41.860" style="s2">know is quite controversial whether it</p>
+<p begin="00:28:40.030" end="00:28:44.679" style="s2">is or is not a good test</p>
+<p begin="00:28:41.860" end="00:28:46.990" style="s2">all right so in computer science theory</p>
+<p begin="00:28:44.679" end="00:28:50.020" style="s2">there is a very useful concept of NP</p>
+<p begin="00:28:46.990" end="00:28:52.960" style="s2">completeness we found that almost every</p>
+<p begin="00:28:50.020" end="00:28:55.210" style="s2">interesting problem is both difficult</p>
+<p begin="00:28:52.960" end="00:28:57.160" style="s2">and can be converted to every other</p>
+<p begin="00:28:55.210" end="00:28:59.260" style="s2">interesting difficult problem so if you</p>
+<p begin="00:28:57.160" end="00:29:02.200" style="s2">solved one of them it&#39;s like you found</p>
+<p begin="00:28:59.260" end="00:29:04.600" style="s2">solution to all of them and I argued</p>
+<p begin="00:29:02.200" end="00:29:07.360" style="s2">that in AI there is a similar</p>
+<p begin="00:29:04.600" end="00:29:09.190" style="s2">survey I complete problems starting with</p>
+<p begin="00:29:07.360" end="00:29:12.370" style="s2">passing the Turing test as the original</p>
+<p begin="00:29:09.190" end="00:29:15.340" style="s2">one where if you find a perfect solution</p>
+<p begin="00:29:12.370" end="00:29:17.950" style="s2">to one of them you basically got a GI</p>
+<p begin="00:29:15.340" end="00:29:19.990" style="s2">you got solution to AI if you can pass</p>
+<p begin="00:29:17.950" end="00:29:21.880" style="s2">Turing test you can have intelligent</p>
+<p begin="00:29:19.990" end="00:29:25.240" style="s2">conversation and any topic you can be</p>
+<p begin="00:29:21.880" end="00:29:27.190" style="s2">creative you can be novel you can do</p>
+<p begin="00:29:25.240" end="00:29:29.410" style="s2">well in any domain because any domain</p>
+<p begin="00:29:27.190" end="00:29:32.350" style="s2">can be a subdomain of questioning in a</p>
+<p begin="00:29:29.410" end="00:29:34.510" style="s2">real unrestricted Turing test so those</p>
+<p begin="00:29:32.350" end="00:29:36.700" style="s2">are the problems I call they I complete</p>
+<p begin="00:29:34.510" end="00:29:40.420" style="s2">I did originate this term I just kind of</p>
+<p begin="00:29:36.700" end="00:29:43.660" style="s2">try to formalize it and use it and it</p>
+<p begin="00:29:40.420" end="00:29:46.090" style="s2">seems that language understanding true</p>
+<p begin="00:29:43.660" end="00:29:48.280" style="s2">language understanding is required to</p>
+<p begin="00:29:46.090" end="00:29:51.250" style="s2">pass the Turing test yeah if it&#39;s not</p>
+<p begin="00:29:48.280" end="00:29:53.920" style="s2">constricted to two minutes with amateurs</p>
+<p begin="00:29:51.250" end="00:29:57.270" style="s2">and then that makes it an AI complete</p>
+<p begin="00:29:53.920" end="00:30:00.040" style="s2">problem and so we&#39;re not gonna see any</p>
+<p begin="00:29:57.270" end="00:30:02.140" style="s2">sort of warning we&#39;re not gonna see</p>
+<p begin="00:30:00.040" end="00:30:04.510" style="s2">partial understanding before we get to</p>
+<p begin="00:30:02.140" end="00:30:07.240" style="s2">four one interesting I have to say I</p>
+<p begin="00:30:04.510" end="00:30:09.490" style="s2">agree with you I&#39;ve been advocating on</p>
+<p begin="00:30:07.240" end="00:30:11.590" style="s2">the OpenCog project for how many years</p>
+<p begin="00:30:09.490" end="00:30:13.450" style="s2">now five years that language</p>
+<p begin="00:30:11.590" end="00:30:16.000" style="s2">understanding is the bottleneck if we</p>
+<p begin="00:30:13.450" end="00:30:19.480" style="s2">get through that on the other side we&#39;re</p>
+<p begin="00:30:16.000" end="00:30:21.490" style="s2">mighty close to AGI right I just go next</p>
+<p begin="00:30:19.480" end="00:30:23.500" style="s2">level and I think that&#39;s AGI if you have</p>
+<p begin="00:30:21.490" end="00:30:25.900" style="s2">full understanding if there&#39;s no limits</p>
+<p begin="00:30:23.500" end="00:30:28.690" style="s2">to your linguistic abilities you you are</p>
+<p begin="00:30:25.900" end="00:30:30.970" style="s2">one of us now probably they met or it&#39;s</p>
+<p begin="00:30:28.690" end="00:30:33.130" style="s2">just shy of it we&#39;ll see maybe they also</p>
+<p begin="00:30:30.970" end="00:30:35.620" style="s2">have to have some linkage to affordances</p>
+<p begin="00:30:33.130" end="00:30:37.260" style="s2">in whatever domain you&#39;re operating in</p>
+<p begin="00:30:35.620" end="00:30:39.220" style="s2">because intelligence is not just</p>
+<p begin="00:30:37.260" end="00:30:42.280" style="s2">understanding it&#39;s also the ability to</p>
+<p begin="00:30:39.220" end="00:30:44.170" style="s2">act and solve problems right so notice</p>
+<p begin="00:30:42.280" end="00:30:45.910" style="s2">that humans we perceive humans as</p>
+<p begin="00:30:44.170" end="00:30:49.030" style="s2">general intelligences but in reality</p>
+<p begin="00:30:45.910" end="00:30:51.670" style="s2">they are very limited most of us are not</p>
+<p begin="00:30:49.030" end="00:30:55.390" style="s2">general in all the means most of us have</p>
+<p begin="00:30:51.670" end="00:30:57.790" style="s2">very hard time doing things we require a</p>
+<p begin="00:30:55.390" end="00:30:59.890" style="s2">eyes to do to become a GIS right I</p>
+<p begin="00:30:57.790" end="00:31:01.630" style="s2">cannot fix a car I don&#39;t speak Chinese</p>
+<p begin="00:30:59.890" end="00:31:04.210" style="s2">there is whole bunch of things they</p>
+<p begin="00:31:01.630" end="00:31:08.010" style="s2">cannot do even though I claim to be a</p>
+<p begin="00:31:04.210" end="00:31:11.380" style="s2">type of AGI on the other hand if we</p>
+<p begin="00:31:08.010" end="00:31:14.020" style="s2">assume well let me back up a little bit</p>
+<p begin="00:31:11.380" end="00:31:16.000" style="s2">I agree with you that we overestimate</p>
+<p begin="00:31:14.020" end="00:31:18.110" style="s2">human capability in fact I like to say</p>
+<p begin="00:31:16.000" end="00:31:20.299" style="s2">because mother nature is</p>
+<p begin="00:31:18.110" end="00:31:22.880" style="s2">seldom profligate in her gifts from</p>
+<p begin="00:31:20.299" end="00:31:25.309" style="s2">evolution which we&#39;ll get to later it&#39;s</p>
+<p begin="00:31:22.880" end="00:31:27.110" style="s2">almost certain that humans are just</p>
+<p begin="00:31:25.309" end="00:31:29.480" style="s2">above the line of general intelligence</p>
+<p begin="00:31:27.110" end="00:31:31.400" style="s2">we&#39;re almost certainly a weak general</p>
+<p begin="00:31:29.480" end="00:31:34.370" style="s2">intelligence and from the work I&#39;ve done</p>
+<p begin="00:31:31.400" end="00:31:36.049" style="s2">in in research I&#39;ve done in cognitive</p>
+<p begin="00:31:34.370" end="00:31:37.280" style="s2">science and cognitive neuroscience it&#39;s</p>
+<p begin="00:31:36.049" end="00:31:39.230" style="s2">really obvious where some of those</p>
+<p begin="00:31:37.280" end="00:31:41.900" style="s2">weaknesses are for instance our working</p>
+<p begin="00:31:39.230" end="00:31:44.630" style="s2">set size of working memory of you know</p>
+<p begin="00:31:41.900" end="00:31:47.390" style="s2">seven plus or minus two it would seem</p>
+<p begin="00:31:44.630" end="00:31:49.280" style="s2">pretty clear that a mind sort of like</p>
+<p begin="00:31:47.390" end="00:31:51.559" style="s2">ours with a working set size of a</p>
+<p begin="00:31:49.280" end="00:31:54.530" style="s2">hundred would be qualitatively different</p>
+<p begin="00:31:51.559" end="00:31:57.140" style="s2">than five who&#39;s the village idiot and</p>
+<p begin="00:31:54.530" end="00:31:59.299" style="s2">nine who&#39;s Einstein we got to 100 it</p>
+<p begin="00:31:57.140" end="00:32:01.790" style="s2">would be a very different brain some</p>
+<p begin="00:31:59.299" end="00:32:04.790" style="s2">other examples on why we&#39;re pretty damn</p>
+<p begin="00:32:01.790" end="00:32:08.330" style="s2">weak is our memory as we know it&#39;s low</p>
+<p begin="00:32:04.790" end="00:32:10.460" style="s2">fidelity it&#39;s unstable its rewritable</p>
+<p begin="00:32:08.330" end="00:32:12.350" style="s2">from when you retrieve it can be</p>
+<p begin="00:32:10.460" end="00:32:15.530" style="s2">accidentally rewritten with changes etc</p>
+<p begin="00:32:12.350" end="00:32:18.200" style="s2">so we are a pretty weak example of of</p>
+<p begin="00:32:15.530" end="00:32:20.450" style="s2">AGI I agree we have a paper on</p>
+<p begin="00:32:18.200" end="00:32:22.790" style="s2">artificial stupidity where we talk about</p>
+<p begin="00:32:20.450" end="00:32:24.650" style="s2">safety features which basically limit</p>
+<p begin="00:32:22.790" end="00:32:27.559" style="s2">artificial intelligence systems to those</p>
+<p begin="00:32:24.650" end="00:32:30.350" style="s2">human levels making them not better than</p>
+<p begin="00:32:27.559" end="00:32:32.780" style="s2">us and so making us capable of competing</p>
+<p begin="00:32:30.350" end="00:32:35.929" style="s2">and controlling with them I actually</p>
+<p begin="00:32:32.780" end="00:32:37.520" style="s2">sent that paper to David Krakauer my</p>
+<p begin="00:32:35.929" end="00:32:39.620" style="s2">friend who&#39;s president of the Santa Fe</p>
+<p begin="00:32:37.520" end="00:32:43.010" style="s2">Institute turns out one of the areas</p>
+<p begin="00:32:39.620" end="00:32:45.530" style="s2">he&#39;s interested in is stupidity and he</p>
+<p begin="00:32:43.010" end="00:32:46.940" style="s2">is collecting interesting research ideas</p>
+<p begin="00:32:45.530" end="00:32:48.470" style="s2">about stupidity so I actually said to</p>
+<p begin="00:32:46.940" end="00:32:50.929" style="s2">him yesterday when I was doing my</p>
+<p begin="00:32:48.470" end="00:32:52.970" style="s2">preparation so if he reaches out to you</p>
+<p begin="00:32:50.929" end="00:32:55.669" style="s2">you&#39;ll know why that happened well I&#39;m</p>
+<p begin="00:32:52.970" end="00:32:57.770" style="s2">always a stupid expert you know and he</p>
+<p begin="00:32:55.669" end="00:32:59.390" style="s2">was on my show earlier and he said I&#39;d</p>
+<p begin="00:32:57.770" end="00:33:01.730" style="s2">like to propose that somebody set up</p>
+<p begin="00:32:59.390" end="00:33:06.740" style="s2">endow a chair as a professor in</p>
+<p begin="00:33:01.730" end="00:33:08.660" style="s2">stupidity he says we need that position</p>
+<p begin="00:33:06.740" end="00:33:10.100" style="s2">I thought that was hilarious and of</p>
+<p begin="00:33:08.660" end="00:33:13.750" style="s2">course you need the smartest person</p>
+<p begin="00:33:10.100" end="00:33:16.429" style="s2">around to be a professor of stupidity</p>
+<p begin="00:33:13.750" end="00:33:19.070" style="s2">self-esteem exactly right you got to</p>
+<p begin="00:33:16.429" end="00:33:21.049" style="s2">have a you know fully confident of</p>
+<p begin="00:33:19.070" end="00:33:22.429" style="s2">yourself so we&#39;ve talked about a lot of</p>
+<p begin="00:33:21.049" end="00:33:25.160" style="s2">things where I was going to talk about</p>
+<p begin="00:33:22.429" end="00:33:26.900" style="s2">later but now we can hop back to some of</p>
+<p begin="00:33:25.160" end="00:33:29.270" style="s2">the framing which was how are these</p>
+<p begin="00:33:26.900" end="00:33:30.820" style="s2">things related to AI safety fact maybe</p>
+<p begin="00:33:29.270" end="00:33:33.639" style="s2">if you could just talk a little bit</p>
+<p begin="00:33:30.820" end="00:33:35.110" style="s2">about AI safety in general and then kind</p>
+<p begin="00:33:33.639" end="00:33:37.360" style="s2">of relate how some of these ideas we&#39;ve</p>
+<p begin="00:33:35.110" end="00:33:39.639" style="s2">talked about have some bearings on AI</p>
+<p begin="00:33:37.360" end="00:33:42.789" style="s2">safety great question so if you look at</p>
+<p begin="00:33:39.639" end="00:33:44.919" style="s2">examples of other minds we have wild</p>
+<p begin="00:33:42.789" end="00:33:46.929" style="s2">animals for example or pit bulls</p>
+<p begin="00:33:44.919" end="00:33:48.669" style="s2">they are somewhat different in what we</p>
+<p begin="00:33:46.929" end="00:33:52.330" style="s2">trying to do and so sometimes may hurt</p>
+<p begin="00:33:48.669" end="00:33:55.059" style="s2">us people who unfortunate to have mental</p>
+<p begin="00:33:52.330" end="00:33:57.940" style="s2">disabilities sometimes act in dangerous</p>
+<p begin="00:33:55.059" end="00:33:59.320" style="s2">ways so those are trivial examples with</p>
+<p begin="00:33:57.940" end="00:34:01.299" style="s2">a little bit of difference there are</p>
+<p begin="00:33:59.320" end="00:34:04.240" style="s2">already some dangerous and safe</p>
+<p begin="00:34:01.299" end="00:34:06.309" style="s2">behaviors if you take it to extreme the</p>
+<p begin="00:34:04.240" end="00:34:08.950" style="s2">difference has become extreme the danger</p>
+<p begin="00:34:06.309" end="00:34:10.990" style="s2">grows so a lot of times it&#39;s not</p>
+<p begin="00:34:08.950" end="00:34:13.359" style="s2">malevolent intention it&#39;s just a side</p>
+<p begin="00:34:10.990" end="00:34:16.300" style="s2">effect there are some silly examples</p>
+<p begin="00:34:13.359" end="00:34:18.280" style="s2">like if I have the super powerful system</p>
+<p begin="00:34:16.300" end="00:34:20.379" style="s2">but it&#39;s not very well aligned with</p>
+<p begin="00:34:18.280" end="00:34:22.149" style="s2">human preferences and I tell it well</p>
+<p begin="00:34:20.379" end="00:34:24.040" style="s2">make it so there are no people with</p>
+<p begin="00:34:22.149" end="00:34:26.619" style="s2">cancer around there are multiple ways to</p>
+<p begin="00:34:24.040" end="00:34:28.659" style="s2">get to that goal and some of those like</p>
+<p begin="00:34:26.619" end="00:34:29.260" style="s2">killing all humans are not what we have</p>
+<p begin="00:34:28.659" end="00:34:31.450" style="s2">in mind</p>
+<p begin="00:34:29.260" end="00:34:34.179" style="s2">whereas others were you&#39;re actually</p>
+<p begin="00:34:31.450" end="00:34:35.679" style="s2">curing cancer and people are happy is</p>
+<p begin="00:34:34.179" end="00:34:37.899" style="s2">exactly what we hope for</p>
+<p begin="00:34:35.679" end="00:34:40.540" style="s2">so specifying those differences and</p>
+<p begin="00:34:37.899" end="00:34:43.270" style="s2">making sure that the system is under our</p>
+<p begin="00:34:40.540" end="00:34:45.909" style="s2">control is what we&#39;re trying to do but</p>
+<p begin="00:34:43.270" end="00:34:47.829" style="s2">we don&#39;t fully understand well how is</p>
+<p begin="00:34:45.909" end="00:34:49.869" style="s2">the system different I have other papers</p>
+<p begin="00:34:47.829" end="00:34:52.389" style="s2">and impassibility results talking about</p>
+<p begin="00:34:49.869" end="00:34:53.919" style="s2">limits to predictability of such systems</p>
+<p begin="00:34:52.389" end="00:34:55.839" style="s2">we cannot predict what they gonna do if</p>
+<p begin="00:34:53.919" end="00:34:57.790" style="s2">they smarter than us there are other</p>
+<p begin="00:34:55.839" end="00:34:59.050" style="s2">limitations and one of the papers I&#39;m</p>
+<p begin="00:34:57.790" end="00:35:01.569" style="s2">working on right now is kind of</p>
+<p begin="00:34:59.050" end="00:35:04.060" style="s2">surveying those limitations from</p>
+<p begin="00:35:01.569" end="00:35:07.180" style="s2">different domains all of which are part</p>
+<p begin="00:35:04.060" end="00:35:10.089" style="s2">of a ICT research game theory control</p>
+<p begin="00:35:07.180" end="00:35:11.980" style="s2">fee a systems networks all of them have</p>
+<p begin="00:35:10.089" end="00:35:14.200" style="s2">well-known impossibilities also</p>
+<p begin="00:35:11.980" end="00:35:16.720" style="s2">mathematics of course economics public</p>
+<p begin="00:35:14.200" end="00:35:19.150" style="s2">choice theory and it doesn&#39;t seem like</p>
+<p begin="00:35:16.720" end="00:35:21.609" style="s2">we have any tools to overcome some of</p>
+<p begin="00:35:19.150" end="00:35:25.450" style="s2">those limitations so maybe the best we</p>
+<p begin="00:35:21.609" end="00:35:28.000" style="s2">can hope for is safer AI not safe a guy</p>
+<p begin="00:35:25.450" end="00:35:29.200" style="s2">in a perfect sense we&#39;re referring back</p>
+<p begin="00:35:28.000" end="00:35:31.030" style="s2">to some of the earlier things we talked</p>
+<p begin="00:35:29.200" end="00:35:34.569" style="s2">about certainly the fact that there is a</p>
+<p begin="00:35:31.030" end="00:35:37.810" style="s2">very large universe of Minds available</p>
+<p begin="00:35:34.569" end="00:35:40.540" style="s2">to AI may make this problem as you say</p>
+<p begin="00:35:37.810" end="00:35:42.819" style="s2">unsolvable I&#39;m leaning towards that</p>
+<p begin="00:35:40.540" end="00:35:43.420" style="s2">conclusion more and more I&#39;m starting to</p>
+<p begin="00:35:42.819" end="00:35:45.549" style="s2">see</p>
+<p begin="00:35:43.420" end="00:35:47.920" style="s2">some kind of paradox based</p>
+<p begin="00:35:45.549" end="00:35:50.230" style="s2">self-referential proofs for that of</p>
+<p begin="00:35:47.920" end="00:35:52.210" style="s2">course it really depends on what</p>
+<p begin="00:35:50.230" end="00:35:55.299" style="s2">specific system we have whatever high</p>
+<p begin="00:35:52.210" end="00:35:59.230" style="s2">tech chure what limits are in place for</p>
+<p begin="00:35:55.299" end="00:36:01.240" style="s2">it but it seems like unrestricted super</p>
+<p begin="00:35:59.230" end="00:36:04.059" style="s2">intelligent system would not be</p>
+<p begin="00:36:01.240" end="00:36:07.420" style="s2">controlled by us or at least it will be</p>
+<p begin="00:36:04.059" end="00:36:09.760" style="s2">very very difficult right I&#39;m leaning</p>
+<p begin="00:36:07.420" end="00:36:13.089" style="s2">towards impossible at that point control</p>
+<p begin="00:36:09.760" end="00:36:15.880" style="s2">will switch and there is hope that maybe</p>
+<p begin="00:36:13.089" end="00:36:19.299" style="s2">there is some alignment between us but</p>
+<p begin="00:36:15.880" end="00:36:21.819" style="s2">it&#39;s very unlikely to be by chance it&#39;s</p>
+<p begin="00:36:19.299" end="00:36:24.400" style="s2">only if we have some sort of control</p>
+<p begin="00:36:21.819" end="00:36:27.369" style="s2">over initial design and those initial</p>
+<p begin="00:36:24.400" end="00:36:31.089" style="s2">features are propagated to later updates</p>
+<p begin="00:36:27.369" end="00:36:35.319" style="s2">of that software okay that&#39;s interesting</p>
+<p begin="00:36:31.089" end="00:36:38.619" style="s2">so basically you say we&#39;re doomed well</p>
+<p begin="00:36:35.319" end="00:36:40.450" style="s2">not yet we still have a bit of time it&#39;s</p>
+<p begin="00:36:38.619" end="00:36:42.819" style="s2">possible we&#39;ll make some good decisions</p>
+<p begin="00:36:40.450" end="00:36:45.099" style="s2">about what to do and not to do we have</p>
+<p begin="00:36:42.819" end="00:36:48.069" style="s2">examples from other domains where we</p>
+<p begin="00:36:45.099" end="00:36:51.329" style="s2">kind of slow down a bit with research</p>
+<p begin="00:36:48.069" end="00:36:53.950" style="s2">human cloning genetic engineering</p>
+<p begin="00:36:51.329" end="00:36:56.020" style="s2">chemical weapons biological weapons lots</p>
+<p begin="00:36:53.950" end="00:36:58.270" style="s2">of examples of situations where we said</p>
+<p begin="00:36:56.020" end="00:37:00.130" style="s2">let&#39;s not do it just yet let&#39;s study it</p>
+<p begin="00:36:58.270" end="00:37:02.109" style="s2">a bit more and then we&#39;ll decide if we</p>
+<p begin="00:37:00.130" end="00:37:04.390" style="s2">need to clone humans maybe it&#39;s super</p>
+<p begin="00:37:02.109" end="00:37:06.700" style="s2">beneficial but let&#39;s make sure we do it</p>
+<p begin="00:37:04.390" end="00:37:08.950" style="s2">right the first time yeah interesting</p>
+<p begin="00:37:06.700" end="00:37:12.520" style="s2">now I&#39;ve heard some people propose a</p>
+<p begin="00:37:08.950" end="00:37:14.799" style="s2">very extreme measures to avoid the AI</p>
+<p begin="00:37:12.520" end="00:37:17.500" style="s2">apocalypse you know some of the folks</p>
+<p begin="00:37:14.799" end="00:37:20.440" style="s2">associated with miry have floated crazy</p>
+<p begin="00:37:17.500" end="00:37:23.049" style="s2">ideas like maybe we should sterilize the</p>
+<p begin="00:37:20.440" end="00:37:24.640" style="s2">earth with very large EMP pulses every</p>
+<p begin="00:37:23.049" end="00:37:27.339" style="s2">10 years that would destroy all</p>
+<p begin="00:37:24.640" end="00:37:30.430" style="s2">electronics to keep people from creating</p>
+<p begin="00:37:27.339" end="00:37:33.130" style="s2">a GIS so sometimes medicine is worse</p>
+<p begin="00:37:30.430" end="00:37:35.799" style="s2">than disease and don&#39;t propose anything</p>
+<p begin="00:37:33.130" end="00:37:37.960" style="s2">which will completely destroy our</p>
+<p begin="00:37:35.799" end="00:37:40.240" style="s2">standards of living or anything of that</p>
+<p begin="00:37:37.960" end="00:37:42.940" style="s2">nature of course if you truly believe</p>
+<p begin="00:37:40.240" end="00:37:45.430" style="s2">that problem is unsolvable and the</p>
+<p begin="00:37:42.940" end="00:37:48.400" style="s2">outcome is doom as you put it then</p>
+<p begin="00:37:45.430" end="00:37:50.799" style="s2">perhaps the solutions become less crazy</p>
+<p begin="00:37:48.400" end="00:37:53.609" style="s2">yeah I think a lot of that comes around</p>
+<p begin="00:37:50.799" end="00:37:55.930" style="s2">to what one things about the singularity</p>
+<p begin="00:37:53.609" end="00:37:56.930" style="s2">you know for our audience at home the</p>
+<p begin="00:37:55.930" end="00:37:59.870" style="s2">singularity</p>
+<p begin="00:37:56.930" end="00:38:03.380" style="s2">is a very interesting concept almost as</p>
+<p begin="00:37:59.870" end="00:38:06.020" style="s2">wild as Boltzmann brains not quite I</p>
+<p begin="00:38:03.380" end="00:38:07.910" style="s2">think it was first stated by Vernor</p>
+<p begin="00:38:06.020" end="00:38:10.310" style="s2">Vinge though there were some predecessor</p>
+<p begin="00:38:07.910" end="00:38:12.290" style="s2">people who said things very similar but</p>
+<p begin="00:38:10.310" end="00:38:14.150" style="s2">it&#39;s essentially as follows let&#39;s</p>
+<p begin="00:38:12.290" end="00:38:16.640" style="s2">imagine we have an artificial</p>
+<p begin="00:38:14.150" end="00:38:18.020" style="s2">intelligence that&#39;s about as powerful as</p>
+<p begin="00:38:16.640" end="00:38:19.520" style="s2">a human maybe a little bit better to</p>
+<p begin="00:38:18.020" end="00:38:23.270" style="s2">keep the argument simple let&#39;s call it</p>
+<p begin="00:38:19.520" end="00:38:25.250" style="s2">one point one human power what happens</p>
+<p begin="00:38:23.270" end="00:38:28.190" style="s2">if we give that artificial intelligence</p>
+<p begin="00:38:25.250" end="00:38:30.590" style="s2">the job of creating its successor and</p>
+<p begin="00:38:28.190" end="00:38:33.800" style="s2">it&#39;s not only smarter than humans but a</p>
+<p begin="00:38:30.590" end="00:38:36.200" style="s2">lot faster than humans and so fairly</p>
+<p begin="00:38:33.800" end="00:38:39.380" style="s2">quickly it produces a improved version</p>
+<p begin="00:38:36.200" end="00:38:41.690" style="s2">of itself that&#39;s 1.3 human power and</p>
+<p begin="00:38:39.380" end="00:38:43.790" style="s2">then you tell that artificial</p>
+<p begin="00:38:41.690" end="00:38:47.090" style="s2">intelligence to design its own successor</p>
+<p begin="00:38:43.790" end="00:38:49.820" style="s2">and it produces a successor that&#39;s 1.9</p>
+<p begin="00:38:47.090" end="00:38:52.370" style="s2">human horsepower and then the next one</p>
+<p begin="00:38:49.820" end="00:38:54.470" style="s2">is 3.6 and the next one&#39;s 10 and then</p>
+<p begin="00:38:52.370" end="00:38:57.230" style="s2">one after that&#39;s a thousand and soon</p>
+<p begin="00:38:54.470" end="00:38:57.740" style="s2">it&#39;s a million times as powerful as a</p>
+<p begin="00:38:57.230" end="00:38:59.570" style="s2">human</p>
+<p begin="00:38:57.740" end="00:39:01.580" style="s2">that&#39;s essentially argument about the</p>
+<p begin="00:38:59.570" end="00:39:03.830" style="s2">singularity some people believe the</p>
+<p begin="00:39:01.580" end="00:39:08.480" style="s2">singularity could occur within hours or</p>
+<p begin="00:39:03.830" end="00:39:11.720" style="s2">days after reaching ági levels of say</p>
+<p begin="00:39:08.480" end="00:39:13.490" style="s2">1.1 humans others say no and if it were</p>
+<p begin="00:39:11.720" end="00:39:16.070" style="s2">to have runaway super intelligence</p>
+<p begin="00:39:13.490" end="00:39:19.400" style="s2">within hours of creating the first AGI</p>
+<p begin="00:39:16.070" end="00:39:21.200" style="s2">then it strikes me AI risk is really</p>
+<p begin="00:39:19.400" end="00:39:23.990" style="s2">high if it turns out it will take</p>
+<p begin="00:39:21.200" end="00:39:26.030" style="s2">centuries to grow from say one point one</p>
+<p begin="00:39:23.990" end="00:39:29.270" style="s2">to a hundred human horsepower</p>
+<p begin="00:39:26.030" end="00:39:31.370" style="s2">equivalents then the idea of AI risk is</p>
+<p begin="00:39:29.270" end="00:39:32.930" style="s2">probably very manageable where do you</p>
+<p begin="00:39:31.370" end="00:39:35.480" style="s2">come out on this concept of the</p>
+<p begin="00:39:32.930" end="00:39:37.820" style="s2">singularity I think it would be a very</p>
+<p begin="00:39:35.480" end="00:39:40.250" style="s2">fast process we are simulating as you</p>
+<p begin="00:39:37.820" end="00:39:44.000" style="s2">said human intelligence just at scales</p>
+<p begin="00:39:40.250" end="00:39:46.100" style="s2">of many many magnitudes larger with</p>
+<p begin="00:39:44.000" end="00:39:48.860" style="s2">larger memories larger access to</p>
+<p begin="00:39:46.100" end="00:39:50.390" style="s2">information so speed up would be huge we</p>
+<p begin="00:39:48.860" end="00:39:52.640" style="s2">don&#39;t need to sleep they don&#39;t need to</p>
+<p begin="00:39:50.390" end="00:39:55.310" style="s2">eat they don&#39;t take breaks you can run</p>
+<p begin="00:39:52.640" end="00:39:57.530" style="s2">many many such systems in parallel so I</p>
+<p begin="00:39:55.310" end="00:39:59.600" style="s2">think the process would be very fast at</p>
+<p begin="00:39:57.530" end="00:40:01.490" style="s2">that point trying to develop safety</p>
+<p begin="00:39:59.600" end="00:40:03.620" style="s2">mechanisms and the goal would be a</p>
+<p begin="00:40:01.490" end="00:40:05.900" style="s2">little too late interesting and I have</p>
+<p begin="00:40:03.620" end="00:40:08.260" style="s2">to say after thinking about how limited</p>
+<p begin="00:40:05.900" end="00:40:10.750" style="s2">humans are I agree there&#39;s a lot of room</p>
+<p begin="00:40:08.260" end="00:40:12.400" style="s2">above us which I think it&#39;s at least</p>
+<p begin="00:40:10.750" end="00:40:15.280" style="s2">supportive of the argument that the</p>
+<p begin="00:40:12.400" end="00:40:18.070" style="s2">take-off could be fast as used to have</p>
+<p begin="00:40:15.280" end="00:40:20.440" style="s2">those limits and memory and short-term</p>
+<p begin="00:40:18.070" end="00:40:23.140" style="s2">memory if they were just moved we would</p>
+<p begin="00:40:20.440" end="00:40:25.390" style="s2">already be much more capable you see it</p>
+<p begin="00:40:23.140" end="00:40:27.330" style="s2">with certain savants and their</p>
+<p begin="00:40:25.390" end="00:40:29.320" style="s2">mathematical ability and other abilities</p>
+<p begin="00:40:27.330" end="00:40:31.420" style="s2">yeah and those people have working</p>
+<p begin="00:40:29.320" end="00:40:32.860" style="s2">memory sizes no bigger than nine or ten</p>
+<p begin="00:40:31.420" end="00:40:35.350" style="s2">so what happens when you get to a</p>
+<p begin="00:40:32.860" end="00:40:38.320" style="s2">hundred it&#39;s almost unfathomable is that</p>
+<p begin="00:40:35.350" end="00:40:41.170" style="s2">now so let&#39;s both agree that at some</p>
+<p begin="00:40:38.320" end="00:40:43.870" style="s2">point the singularity could be fast</p>
+<p begin="00:40:41.170" end="00:40:46.300" style="s2">takeoff another article that you wrote</p>
+<p begin="00:40:43.870" end="00:40:48.220" style="s2">is called leak proofing the singularity</p>
+<p begin="00:40:46.300" end="00:40:51.030" style="s2">talk to us about that how do we be</p>
+<p begin="00:40:48.220" end="00:40:53.920" style="s2">prepared to deal with a fast takeoff AI</p>
+<p begin="00:40:51.030" end="00:40:56.650" style="s2">situation so this paper specifically</p>
+<p begin="00:40:53.920" end="00:40:59.050" style="s2">talks about developing tools for us to</p>
+<p begin="00:40:56.650" end="00:41:01.060" style="s2">be able to safely design develop and</p>
+<p begin="00:40:59.050" end="00:41:03.400" style="s2">test artificial intelligence systems so</p>
+<p begin="00:41:01.060" end="00:41:05.410" style="s2">everyone&#39;s working and making one but do</p>
+<p begin="00:41:03.400" end="00:41:08.020" style="s2">they have appropriate infrastructure to</p>
+<p begin="00:41:05.410" end="00:41:09.460" style="s2">study it to control inputs to control</p>
+<p begin="00:41:08.020" end="00:41:10.270" style="s2">outputs if you are working with a</p>
+<p begin="00:41:09.460" end="00:41:12.340" style="s2">computer virus</p>
+<p begin="00:41:10.270" end="00:41:14.620" style="s2">you&#39;re gonna isolate it and a machine</p>
+<p begin="00:41:12.340" end="00:41:16.450" style="s2">not connected to internet you will try</p>
+<p begin="00:41:14.620" end="00:41:19.200" style="s2">to understand what servers it&#39;s</p>
+<p begin="00:41:16.450" end="00:41:21.430" style="s2">connecting to and so on there is not a</p>
+<p begin="00:41:19.200" end="00:41:23.200" style="s2">similar protocol for working with</p>
+<p begin="00:41:21.430" end="00:41:26.350" style="s2">intelligent systems so that was my</p>
+<p begin="00:41:23.200" end="00:41:28.300" style="s2">attempt to do that design different</p>
+<p begin="00:41:26.350" end="00:41:30.460" style="s2">levels of communication protocols how</p>
+<p begin="00:41:28.300" end="00:41:32.590" style="s2">much information goes in what type of</p>
+<p begin="00:41:30.460" end="00:41:36.010" style="s2">information goes out to prevent social</p>
+<p begin="00:41:32.590" end="00:41:37.630" style="s2">engineering attacks overall conclusions</p>
+<p begin="00:41:36.010" end="00:41:40.120" style="s2">of that paper is that it&#39;s a very useful</p>
+<p begin="00:41:37.630" end="00:41:41.830" style="s2">tool it buys us some time but at the end</p>
+<p begin="00:41:40.120" end="00:41:46.360" style="s2">of the day the system always escapes</p>
+<p begin="00:41:41.830" end="00:41:49.990" style="s2">from its containment ah that&#39;s</p>
+<p begin="00:41:46.360" end="00:41:54.610" style="s2">interesting so we&#39;re doomed you keep</p>
+<p begin="00:41:49.990" end="00:41:56.680" style="s2">saying that I think you know there are</p>
+<p begin="00:41:54.610" end="00:41:59.110" style="s2">other people working on you know this</p>
+<p begin="00:41:56.680" end="00:42:01.660" style="s2">question you know one group of future of</p>
+<p begin="00:41:59.110" end="00:42:03.580" style="s2">humanity Institute for instance what do</p>
+<p begin="00:42:01.660" end="00:42:06.430" style="s2">you think of other people&#39;s work in this</p>
+<p begin="00:42:03.580" end="00:42:08.580" style="s2">area it&#39;s a very good we take very</p>
+<p begin="00:42:06.430" end="00:42:10.630" style="s2">different approaches I looked at it from</p>
+<p begin="00:42:08.580" end="00:42:14.290" style="s2">cyber security point of view</p>
+<p begin="00:42:10.630" end="00:42:16.300" style="s2">specifically side-channel attacks they</p>
+<p begin="00:42:14.290" end="00:42:17.890" style="s2">look at it from I think more</p>
+<p begin="00:42:16.300" end="00:42:20.020" style="s2">philosophical point of view being</p>
+<p begin="00:42:17.890" end="00:42:21.970" style="s2">philosophers but I think we all agree</p>
+<p begin="00:42:20.020" end="00:42:24.700" style="s2">that it&#39;s not a long-term solution you</p>
+<p begin="00:42:21.970" end="00:42:27.010" style="s2">he staked a superintelligence to a box</p>
+<p begin="00:42:24.700" end="00:42:29.560" style="s2">permanently the miry guys are now</p>
+<p begin="00:42:27.010" end="00:42:32.319" style="s2">Eliezer is at least thinking that maybe</p>
+<p begin="00:42:29.560" end="00:42:33.940" style="s2">we can I don&#39;t think he does I think he</p>
+<p begin="00:42:32.319" end="00:42:36.099" style="s2">actually did experiments where he</p>
+<p begin="00:42:33.940" end="00:42:38.020" style="s2">pretended to be super intelligence and</p>
+<p begin="00:42:36.099" end="00:42:40.630" style="s2">was able to escape almost every time</p>
+<p begin="00:42:38.020" end="00:42:42.430" style="s2">just by talking to regular people so</p>
+<p begin="00:42:40.630" end="00:42:43.960" style="s2">that&#39;s not encouraging he and I had a</p>
+<p begin="00:42:42.430" end="00:42:45.819" style="s2">debate one time where I took the</p>
+<p begin="00:42:43.960" end="00:42:47.849" style="s2">perspective there there&#39;s no way you</p>
+<p begin="00:42:45.819" end="00:42:50.650" style="s2">will ever be able to constrain in a</p>
+<p begin="00:42:47.849" end="00:42:53.800" style="s2">super AI and he claimed at that point I</p>
+<p begin="00:42:50.650" end="00:42:55.420" style="s2">met this was 12 years ago that yes I</p>
+<p begin="00:42:53.800" end="00:42:57.339" style="s2">can&#39;t debit you know I don&#39;t know if</p>
+<p begin="00:42:55.420" end="00:43:01.000" style="s2">you&#39;ve ever met him but he&#39;s strongly</p>
+<p begin="00:42:57.339" end="00:43:02.890" style="s2">argue strongly argumentative guy and so</p>
+<p begin="00:43:01.000" end="00:43:04.210" style="s2">am I so we had a good time I don&#39;t think</p>
+<p begin="00:43:02.890" end="00:43:05.890" style="s2">either of us convinced the other but we</p>
+<p begin="00:43:04.210" end="00:43:07.900" style="s2">had a very fruitful conversation I&#39;m</p>
+<p begin="00:43:05.890" end="00:43:09.819" style="s2">glad to hear that he has come around to</p>
+<p begin="00:43:07.900" end="00:43:11.619" style="s2">my point of you goddammit then it&#39;s</p>
+<p begin="00:43:09.819" end="00:43:14.050" style="s2">gonna be exceedingly difficult if it&#39;s</p>
+<p begin="00:43:11.619" end="00:43:16.710" style="s2">at all possible to be able to constrain</p>
+<p begin="00:43:14.050" end="00:43:18.760" style="s2">a super AI what we need is more</p>
+<p begin="00:43:16.710" end="00:43:21.970" style="s2">mathematical proofs and the rigorous</p>
+<p begin="00:43:18.760" end="00:43:23.920" style="s2">arguments showing who&#39;s right and people</p>
+<p begin="00:43:21.970" end="00:43:26.859" style="s2">love discussing static but I think there</p>
+<p begin="00:43:23.920" end="00:43:29.050" style="s2">is very little formal argumentation for</p>
+<p begin="00:43:26.859" end="00:43:31.180" style="s2">either point of view I&#39;m happy to see</p>
+<p begin="00:43:29.050" end="00:43:34.720" style="s2">someone prove that it&#39;s possible and we</p>
+<p begin="00:43:31.180" end="00:43:36.609" style="s2">are actually not doomed my guess is we</p>
+<p begin="00:43:34.720" end="00:43:39.339" style="s2">won&#39;t be able to prove it one way or the</p>
+<p begin="00:43:36.609" end="00:43:42.550" style="s2">other that this is a complex systems</p>
+<p begin="00:43:39.339" end="00:43:44.800" style="s2">problem and having been involved with</p>
+<p begin="00:43:42.550" end="00:43:47.710" style="s2">the Santa Fe Institute for the last 19</p>
+<p begin="00:43:44.800" end="00:43:50.470" style="s2">years 18 years and making the study of</p>
+<p begin="00:43:47.710" end="00:43:52.569" style="s2">complexity one of my areas of strong</p>
+<p begin="00:43:50.470" end="00:43:54.490" style="s2">interest I&#39;ve come away to realize there</p>
+<p begin="00:43:52.569" end="00:43:56.829" style="s2">are a huge amounts of domains that</p>
+<p begin="00:43:54.490" end="00:44:00.130" style="s2">aren&#39;t really very amenable to closed</p>
+<p begin="00:43:56.829" end="00:44:02.319" style="s2">form mathematical analysis at least not</p>
+<p begin="00:44:00.130" end="00:44:04.420" style="s2">with existing tools there proves that</p>
+<p begin="00:44:02.319" end="00:44:05.500" style="s2">that cannot be done in principle yeah</p>
+<p begin="00:44:04.420" end="00:44:06.430" style="s2">there may the world like there&#39;s two</p>
+<p begin="00:44:05.500" end="00:44:07.960" style="s2">different oh well there&#39;s three</p>
+<p begin="00:44:06.430" end="00:44:10.900" style="s2">different cases there ones that can&#39;t be</p>
+<p begin="00:44:07.960" end="00:44:12.849" style="s2">done in principle you know boydle has</p>
+<p begin="00:44:10.900" end="00:44:14.290" style="s2">shown us that such things exist but I</p>
+<p begin="00:44:12.849" end="00:44:17.770" style="s2">would argue there&#39;s a vastly larger</p>
+<p begin="00:44:14.290" end="00:44:20.710" style="s2">group of things that can&#39;t be done in</p>
+<p begin="00:44:17.770" end="00:44:22.810" style="s2">practice and the one I point to as a</p>
+<p begin="00:44:20.710" end="00:44:25.510" style="s2">very general case example is</p>
+<p begin="00:44:22.810" end="00:44:27.940" style="s2">deterministic chaos we know that even</p>
+<p begin="00:44:25.510" end="00:44:30.010" style="s2">rising ly simple complex systems</p>
+<p begin="00:44:27.940" end="00:44:32.800" style="s2">you know the three-body problem for</p>
+<p begin="00:44:30.010" end="00:44:35.540" style="s2">instance even minor changes or Lorentz</p>
+<p begin="00:44:32.800" end="00:44:36.980" style="s2">equations even minor minor</p>
+<p begin="00:44:35.540" end="00:44:39.410" style="s2">in the initial conditions any</p>
+<p begin="00:44:36.980" end="00:44:42.560" style="s2">measurements produce you know vastly and</p>
+<p begin="00:44:39.410" end="00:44:47.120" style="s2">entirely in commensurable results and I</p>
+<p begin="00:44:42.560" end="00:44:49.040" style="s2">suspect strongly that AI AGI is going to</p>
+<p begin="00:44:47.120" end="00:44:50.990" style="s2">be in that case that even if in</p>
+<p begin="00:44:49.040" end="00:44:53.390" style="s2">principle it were mathematically</p>
+<p begin="00:44:50.990" end="00:44:56.180" style="s2">determinable the realities of dealing</p>
+<p begin="00:44:53.390" end="00:44:58.700" style="s2">with a real AI and all the huge numbers</p>
+<p begin="00:44:56.180" end="00:45:00.170" style="s2">of design space questions about it would</p>
+<p begin="00:44:58.700" end="00:45:02.990" style="s2">lead you to a situation like</p>
+<p begin="00:45:00.170" end="00:45:04.640" style="s2">deterministic chaos or are in a bill the</p>
+<p begin="00:45:02.990" end="00:45:07.010" style="s2">limits of our ability to be precise</p>
+<p begin="00:45:04.640" end="00:45:08.000" style="s2">would make solving it in closed form</p>
+<p begin="00:45:07.010" end="00:45:09.620" style="s2">mathematics</p>
+<p begin="00:45:08.000" end="00:45:12.170" style="s2">whether it was containable or not</p>
+<p begin="00:45:09.620" end="00:45:14.030" style="s2">impossible I don&#39;t disagree with you I</p>
+<p begin="00:45:12.170" end="00:45:16.730" style="s2">just would love to see someone publish</p>
+<p begin="00:45:14.030" end="00:45:18.560" style="s2">indirect oh yeah I&#39;m sure they&#39;re people</p>
+<p begin="00:45:16.730" end="00:45:20.930" style="s2">working on it but I my bet I&#39;ll put</p>
+<p begin="00:45:18.560" end="00:45:22.640" style="s2">money on the long bets thing anyone that</p>
+<p begin="00:45:20.930" end="00:45:25.430" style="s2">wants to argue the other side I&#39;m gonna</p>
+<p begin="00:45:22.640" end="00:45:27.650" style="s2">bet that no such proof will be done I</p>
+<p begin="00:45:25.430" end="00:45:29.120" style="s2">will not take the argument that we can</p>
+<p begin="00:45:27.650" end="00:45:31.670" style="s2">prove it can&#39;t be done but I&#39;m not gonna</p>
+<p begin="00:45:29.120" end="00:45:34.040" style="s2">say just that it isn&#39;t done because of</p>
+<p begin="00:45:31.670" end="00:45:36.320" style="s2">something like the deterministic chaos</p>
+<p begin="00:45:34.040" end="00:45:38.510" style="s2">problem you might be completely right</p>
+<p begin="00:45:36.320" end="00:45:40.820" style="s2">I&#39;ll share my next paper with you on</p>
+<p begin="00:45:38.510" end="00:45:42.290" style="s2">some of those impossibility results I&#39;d</p>
+<p begin="00:45:40.820" end="00:45:44.690" style="s2">love it that&#39;s an area I&#39;m hugely</p>
+<p begin="00:45:42.290" end="00:45:47.030" style="s2">interested in as you can see now let&#39;s</p>
+<p begin="00:45:44.690" end="00:45:49.730" style="s2">turn from the the real runaway we&#39;re</p>
+<p begin="00:45:47.030" end="00:45:52.430" style="s2">doomed without which I call the emperor</p>
+<p begin="00:45:49.730" end="00:45:54.290" style="s2">of paper clips scenario you know that</p>
+<p begin="00:45:52.430" end="00:45:56.030" style="s2">being an example I think was Bostrom</p>
+<p begin="00:45:54.290" end="00:45:58.040" style="s2">used like a laser actually used this way</p>
+<p begin="00:45:56.030" end="00:46:00.770" style="s2">back yonder also that you know we</p>
+<p begin="00:45:58.040" end="00:46:03.530" style="s2">stupidly give a super intelligence the</p>
+<p begin="00:46:00.770" end="00:46:05.870" style="s2">job of optimizing a paperclip Factory</p>
+<p begin="00:46:03.530" end="00:46:08.300" style="s2">and it escapes the factory and decides</p>
+<p begin="00:46:05.870" end="00:46:10.760" style="s2">to turn the whole earth into paperclips</p>
+<p begin="00:46:08.300" end="00:46:12.290" style="s2">builds interstellar spaceship so it can</p>
+<p begin="00:46:10.760" end="00:46:13.640" style="s2">go around the universe turn all the</p>
+<p begin="00:46:12.290" end="00:46:16.970" style="s2">planets and all the stars into paper</p>
+<p begin="00:46:13.640" end="00:46:19.550" style="s2">clips you know that&#39;s the AGI run amok</p>
+<p begin="00:46:16.970" end="00:46:21.800" style="s2">scenario I&#39;m saying yes that&#39;s possible</p>
+<p begin="00:46:19.550" end="00:46:23.450" style="s2">that that is a risk however there&#39;s an</p>
+<p begin="00:46:21.800" end="00:46:25.280" style="s2">earlier risk and I think this is one</p>
+<p begin="00:46:23.450" end="00:46:28.010" style="s2">that will resonate with you based on</p>
+<p begin="00:46:25.280" end="00:46:30.530" style="s2">some of your more practical AI security</p>
+<p begin="00:46:28.010" end="00:46:33.800" style="s2">issues work that you&#39;ve done which is I</p>
+<p begin="00:46:30.530" end="00:46:36.920" style="s2">called the bad humans with sub AGI a</p>
+<p begin="00:46:33.800" end="00:46:40.340" style="s2">eyes you know that&#39;s put a very tangible</p>
+<p begin="00:46:36.920" end="00:46:41.630" style="s2">example the Chinese I think we have a</p>
+<p begin="00:46:40.340" end="00:46:45.620" style="s2">lot of things we have to worry about</p>
+<p begin="00:46:41.630" end="00:46:47.090" style="s2">risks with the misuse of AGI or you know</p>
+<p begin="00:46:45.620" end="00:46:48.440" style="s2">everyone will decide what&#39;s used for</p>
+<p begin="00:46:47.090" end="00:46:51.560" style="s2">misuse of AI</p>
+<p begin="00:46:48.440" end="00:46:54.740" style="s2">in ways that are bad long before we get</p>
+<p begin="00:46:51.560" end="00:46:57.170" style="s2">to AGI I agree I have the original paper</p>
+<p begin="00:46:54.740" end="00:46:59.210" style="s2">and malevolent AI how to create it how</p>
+<p begin="00:46:57.170" end="00:47:01.190" style="s2">to abuse it and that&#39;s the unsolved</p>
+<p begin="00:46:59.210" end="00:47:03.920" style="s2">problem even if you manage somehow to</p>
+<p begin="00:47:01.190" end="00:47:06.710" style="s2">create a very nice friendly AI product</p>
+<p begin="00:47:03.920" end="00:47:09.200" style="s2">what stops the bad guys from flipping a</p>
+<p begin="00:47:06.710" end="00:47:12.080" style="s2">bit and now it&#39;s spreading cancer</p>
+<p begin="00:47:09.200" end="00:47:14.240" style="s2">instead of hearing it that&#39;s hard to</p>
+<p begin="00:47:12.080" end="00:47:17.000" style="s2">solve inside of that is very difficult</p>
+<p begin="00:47:14.240" end="00:47:19.160" style="s2">to address we don&#39;t have any solutions</p>
+<p begin="00:47:17.000" end="00:47:21.170" style="s2">in that domain we only have a few papers</p>
+<p begin="00:47:19.160" end="00:47:23.300" style="s2">and a few workshops even looking at that</p>
+<p begin="00:47:21.170" end="00:47:25.190" style="s2">and that&#39;s definitely a harder problem</p>
+<p begin="00:47:23.300" end="00:47:27.980" style="s2">because it includes all the other</p>
+<p begin="00:47:25.190" end="00:47:30.680" style="s2">concerns misaligned values bugs and code</p>
+<p begin="00:47:27.980" end="00:47:32.480" style="s2">poor software design you name it it&#39;s</p>
+<p begin="00:47:30.680" end="00:47:35.300" style="s2">still part of it but now you have</p>
+<p begin="00:47:32.480" end="00:47:37.010" style="s2">additional malevolent payload yeah and</p>
+<p begin="00:47:35.300" end="00:47:38.860" style="s2">even that&#39;s not necessarily even my</p>
+<p begin="00:47:37.010" end="00:47:42.170" style="s2">level and I kind of doubt that the</p>
+<p begin="00:47:38.860" end="00:47:45.200" style="s2">leadership of China is malevolent they</p>
+<p begin="00:47:42.170" end="00:47:47.300" style="s2">probably think that they are doing the</p>
+<p begin="00:47:45.200" end="00:47:49.190" style="s2">right thing but from our perspective at</p>
+<p begin="00:47:47.300" end="00:47:51.680" style="s2">least I think we would argue that what</p>
+<p begin="00:47:49.190" end="00:47:54.020" style="s2">they&#39;re building is the technologically</p>
+<p begin="00:47:51.680" end="00:47:55.910" style="s2">empowered fascist dictatorship that even</p>
+<p begin="00:47:54.020" end="00:47:58.340" style="s2">George Orwell couldn&#39;t have imagined</p>
+<p begin="00:47:55.910" end="00:48:00.380" style="s2">well we&#39;re not limited just to very</p>
+<p begin="00:47:58.340" end="00:48:03.410" style="s2">powerful governments as bad guys it</p>
+<p begin="00:48:00.380" end="00:48:04.910" style="s2">could be anyone with access to this code</p>
+<p begin="00:48:03.410" end="00:48:07.420" style="s2">and a lot of this code is becoming</p>
+<p begin="00:48:04.910" end="00:48:11.210" style="s2">open-source crazy people Domesday calls</p>
+<p begin="00:48:07.420" end="00:48:13.700" style="s2">just anyone suicidal people you name it</p>
+<p begin="00:48:11.210" end="00:48:17.960" style="s2">anyone can just add their own goals to</p>
+<p begin="00:48:13.700" end="00:48:19.520" style="s2">AI as a product yeah if if it&#39;s powerful</p>
+<p begin="00:48:17.960" end="00:48:23.810" style="s2">enough I mean this is where I make the</p>
+<p begin="00:48:19.520" end="00:48:27.160" style="s2">distinction between sub AGI and AGI if</p>
+<p begin="00:48:23.810" end="00:48:29.090" style="s2">we have AGI then yes one could imagine</p>
+<p begin="00:48:27.160" end="00:48:31.160" style="s2">let&#39;s say it&#39;s some crank in the</p>
+<p begin="00:48:29.090" end="00:48:33.110" style="s2">basement it seems the first AGI they</p>
+<p begin="00:48:31.160" end="00:48:36.920" style="s2">could do great damage how much damage</p>
+<p begin="00:48:33.110" end="00:48:39.080" style="s2">can they do with a sub Agia I the damage</p>
+<p begin="00:48:36.920" end="00:48:41.420" style="s2">is proportional to capability we already</p>
+<p begin="00:48:39.080" end="00:48:43.070" style="s2">see people whose ransomware scripts they</p>
+<p begin="00:48:41.420" end="00:48:44.780" style="s2">not experts they&#39;re not hackers they&#39;re</p>
+<p begin="00:48:43.070" end="00:48:47.000" style="s2">on a program and caused billions of</p>
+<p begin="00:48:44.780" end="00:48:48.860" style="s2">dollars in damage its scale so ci</p>
+<p begin="00:48:47.000" end="00:48:51.860" style="s2">becomes more capable damage goes</p>
+<p begin="00:48:48.860" end="00:48:53.990" style="s2">perforation grows but the problem is the</p>
+<p begin="00:48:51.860" end="00:48:56.030" style="s2">same you have actors who are not</p>
+<p begin="00:48:53.990" end="00:48:57.890" style="s2">necessarily experts are very powerful</p>
+<p begin="00:48:56.030" end="00:49:00.590" style="s2">with access to this very powerful</p>
+<p begin="00:48:57.890" end="00:49:02.470" style="s2">technology and once it gets to general</p>
+<p begin="00:49:00.590" end="00:49:05.680" style="s2">super intelligence</p>
+<p begin="00:49:02.470" end="00:49:08.230" style="s2">it only gets worse I mean most of a</p>
+<p begin="00:49:05.680" end="00:49:11.290" style="s2">casus I think about the person next to</p>
+<p begin="00:49:08.230" end="00:49:13.330" style="s2">it gets punished first but let&#39;s say it</p>
+<p begin="00:49:11.290" end="00:49:15.780" style="s2">is controlled in some way by good guys</p>
+<p begin="00:49:13.330" end="00:49:19.270" style="s2">that bad guys can still change that fact</p>
+<p begin="00:49:15.780" end="00:49:21.610" style="s2">interesting are you alluded to that one</p>
+<p begin="00:49:19.270" end="00:49:24.580" style="s2">of the issues here is that a lot of AI</p>
+<p begin="00:49:21.610" end="00:49:27.550" style="s2">code is open source I&#39;m sure you know</p>
+<p begin="00:49:24.580" end="00:49:29.020" style="s2">that the recent case where open AI who</p>
+<p begin="00:49:27.550" end="00:49:32.830" style="s2">was set up with a name</p>
+<p begin="00:49:29.020" end="00:49:35.590" style="s2">open AI to be open has decided not to</p>
+<p begin="00:49:32.830" end="00:49:39.640" style="s2">publish the full form of one of their</p>
+<p begin="00:49:35.590" end="00:49:41.470" style="s2">models the GPT two language processing</p>
+<p begin="00:49:39.640" end="00:49:44.410" style="s2">system could you tell us a little bit</p>
+<p begin="00:49:41.470" end="00:49:46.810" style="s2">about things like that and whether open</p>
+<p begin="00:49:44.410" end="00:49:49.360" style="s2">source is or isn&#39;t a good idea for AI as</p>
+<p begin="00:49:46.810" end="00:49:51.340" style="s2">a you know as a AI security practitioner</p>
+<p begin="00:49:49.360" end="00:49:54.220" style="s2">sure so I think that particular example</p>
+<p begin="00:49:51.340" end="00:49:57.310" style="s2">is more of an exercise in seeing how you</p>
+<p begin="00:49:54.220" end="00:49:59.560" style="s2">can not release a model what effect it</p>
+<p begin="00:49:57.310" end="00:50:01.780" style="s2">would have on community would it be an</p>
+<p begin="00:49:59.560" end="00:50:04.600" style="s2">acceptable practice would someone else</p>
+<p begin="00:50:01.780" end="00:50:06.550" style="s2">quickly just achieve the same results by</p>
+<p begin="00:50:04.600" end="00:50:09.580" style="s2">passing this limitation I don&#39;t think</p>
+<p begin="00:50:06.550" end="00:50:12.070" style="s2">that particular model is that dangerous</p>
+<p begin="00:50:09.580" end="00:50:13.780" style="s2">and there are some partial models and</p>
+<p begin="00:50:12.070" end="00:50:16.030" style="s2">competing models which achieved very</p>
+<p begin="00:50:13.780" end="00:50:19.260" style="s2">similar results but as a general concept</p>
+<p begin="00:50:16.030" end="00:50:22.270" style="s2">yes if you had somehow managed to get</p>
+<p begin="00:50:19.260" end="00:50:24.040" style="s2">working AG ID products releasing it on</p>
+<p begin="00:50:22.270" end="00:50:26.350" style="s2">the internet right now with no safety</p>
+<p begin="00:50:24.040" end="00:50:29.290" style="s2">mechanisms will be a very bad idea</p>
+<p begin="00:50:26.350" end="00:50:33.490" style="s2">and yes ironic that their name is open</p>
+<p begin="00:50:29.290" end="00:50:36.700" style="s2">AI in general open source software is</p>
+<p begin="00:50:33.490" end="00:50:39.840" style="s2">better reviewed more reliable has less</p>
+<p begin="00:50:36.700" end="00:50:43.270" style="s2">backdoors but this is like releasing</p>
+<p begin="00:50:39.840" end="00:50:45.720" style="s2">code for a very dangerous virus or</p>
+<p begin="00:50:43.270" end="00:50:49.359" style="s2">something similar to that it&#39;s just not</p>
+<p begin="00:50:45.720" end="00:50:50.380" style="s2">safe to do so yeah that&#39;s an interesting</p>
+<p begin="00:50:49.359" end="00:50:53.140" style="s2">question</p>
+<p begin="00:50:50.380" end="00:50:56.020" style="s2">again the OpenCog project now also the</p>
+<p begin="00:50:53.140" end="00:50:57.550" style="s2">singularity net project which I said</p>
+<p begin="00:50:56.020" end="00:50:59.440" style="s2">then loosely affiliated with for a</p>
+<p begin="00:50:57.550" end="00:51:02.230" style="s2">number of years they make the opposite</p>
+<p begin="00:50:59.440" end="00:51:05.260" style="s2">argument they argue that there&#39;s an even</p>
+<p begin="00:51:02.230" end="00:51:08.740" style="s2">bigger risk which is the problem of the</p>
+<p begin="00:51:05.260" end="00:51:13.270" style="s2">first AGI being achieved in a closed</p>
+<p begin="00:51:08.740" end="00:51:15.100" style="s2">fashion by some power whether it&#39;s US</p>
+<p begin="00:51:13.270" end="00:51:15.820" style="s2">government whether it&#39;s China whether</p>
+<p begin="00:51:15.100" end="00:51:19.600" style="s2">it&#39;s</p>
+<p begin="00:51:15.820" end="00:51:23.500" style="s2">whether it&#39;s Google and that the danger</p>
+<p begin="00:51:19.600" end="00:51:26.290" style="s2">of a single first mover with AGI is so</p>
+<p begin="00:51:23.500" end="00:51:29.230" style="s2">large that it&#39;s better to do AGI</p>
+<p begin="00:51:26.290" end="00:51:31.300" style="s2">research as open source so that there</p>
+<p begin="00:51:29.230" end="00:51:33.760" style="s2">are multiple AG eyes that come into</p>
+<p begin="00:51:31.300" end="00:51:35.950" style="s2">existence you know at the moment of the</p>
+<p begin="00:51:33.760" end="00:51:37.330" style="s2">assuming it&#39;s that they&#39;re their project</p>
+<p begin="00:51:35.950" end="00:51:39.430" style="s2">is the one that gets over the line first</p>
+<p begin="00:51:37.330" end="00:51:41.440" style="s2">so if there&#39;s many AG eyes that can be</p>
+<p begin="00:51:39.430" end="00:51:43.240" style="s2">used to police each other what do you</p>
+<p begin="00:51:41.440" end="00:51:45.310" style="s2">think of that argument so there are good</p>
+<p begin="00:51:43.240" end="00:51:48.520" style="s2">arguments and both sites open a closed</p>
+<p begin="00:51:45.310" end="00:51:51.550" style="s2">but this particular argument they think</p>
+<p begin="00:51:48.520" end="00:51:53.740" style="s2">is not optimal so in my opinion if it&#39;s</p>
+<p begin="00:51:51.550" end="00:51:55.450" style="s2">not a controlled AGI you just got there</p>
+<p begin="00:51:53.740" end="00:51:57.670" style="s2">first you probably be the first victim</p>
+<p begin="00:51:55.450" end="00:51:59.920" style="s2">to begin with so it doesn&#39;t give you any</p>
+<p begin="00:51:57.670" end="00:52:02.650" style="s2">advantage to be next to it physically</p>
+<p begin="00:51:59.920" end="00:52:04.300" style="s2">first you do have control of it if you</p>
+<p begin="00:52:02.650" end="00:52:06.100" style="s2">don&#39;t have control of it you don&#39;t have</p>
+<p begin="00:52:04.300" end="00:52:08.290" style="s2">an advantage is not beneficial to you</p>
+<p begin="00:52:06.100" end="00:52:10.900" style="s2">the best argument they have for slowing</p>
+<p begin="00:52:08.290" end="00:52:13.150" style="s2">down is exactly that if you get there</p>
+<p begin="00:52:10.900" end="00:52:15.100" style="s2">first but you can&#39;t monetize it you</p>
+<p begin="00:52:13.150" end="00:52:16.300" style="s2">can&#39;t even survive it why why are you</p>
+<p begin="00:52:15.100" end="00:52:18.760" style="s2">doing it in the first place</p>
+<p begin="00:52:16.300" end="00:52:20.380" style="s2">and again that&#39;s assuming fast takeoff</p>
+<p begin="00:52:18.760" end="00:52:23.230" style="s2">right and I think we both agreed fast</p>
+<p begin="00:52:20.380" end="00:52:25.450" style="s2">takeoff is not a bad hypothesis if it&#39;s</p>
+<p begin="00:52:23.230" end="00:52:27.100" style="s2">low takeoff it&#39;s a different story and I</p>
+<p begin="00:52:25.450" end="00:52:29.170" style="s2">think that&#39;s a very interesting fork in</p>
+<p begin="00:52:27.100" end="00:52:31.420" style="s2">the road when we&#39;re thinking about this</p>
+<p begin="00:52:29.170" end="00:52:34.900" style="s2">if an AGI takes off to the singularity</p>
+<p begin="00:52:31.420" end="00:52:36.790" style="s2">rapidly then it&#39;s probably unsafe to</p>
+<p begin="00:52:34.900" end="00:52:38.260" style="s2">have out in multiple hands in an</p>
+<p begin="00:52:36.790" end="00:52:40.660" style="s2">open-source fashion if it&#39;s slow take</p>
+<p begin="00:52:38.260" end="00:52:42.730" style="s2">off maybe not so much it also creates</p>
+<p begin="00:52:40.660" end="00:52:45.220" style="s2">competition and possibly warlike</p>
+<p begin="00:52:42.730" end="00:52:48.100" style="s2">scenarios so let&#39;s say one is more</p>
+<p begin="00:52:45.220" end="00:52:50.650" style="s2">likely to be changed into a safe version</p>
+<p begin="00:52:48.100" end="00:52:52.480" style="s2">always safer now you have multiple</p>
+<p begin="00:52:50.650" end="00:52:55.480" style="s2">problems to deal with you have multiple</p>
+<p begin="00:52:52.480" end="00:52:58.210" style="s2">rogue general intelligence is competing</p>
+<p begin="00:52:55.480" end="00:53:00.090" style="s2">fighting using I don&#39;t even know what</p>
+<p begin="00:52:58.210" end="00:53:03.400" style="s2">technology to defeat the others and</p>
+<p begin="00:53:00.090" end="00:53:06.730" style="s2">humanity is a side thought they don&#39;t</p>
+<p begin="00:53:03.400" end="00:53:09.630" style="s2">really care about us but yeah this this</p>
+<p begin="00:53:06.730" end="00:53:11.560" style="s2">is the game theoretical trap right</p>
+<p begin="00:53:09.630" end="00:53:13.600" style="s2">unfortunately which is let&#39;s assume</p>
+<p begin="00:53:11.560" end="00:53:15.580" style="s2">there&#39;s competition to produce the first</p>
+<p begin="00:53:13.600" end="00:53:16.840" style="s2">AGI and let&#39;s you know let&#39;s get rid of</p>
+<p begin="00:53:15.580" end="00:53:18.730" style="s2">the open source let&#39;s say they don&#39;t</p>
+<p begin="00:53:16.840" end="00:53:21.790" style="s2">have the resources but it&#39;s you know a</p>
+<p begin="00:53:18.730" end="00:53:25.210" style="s2">dozen proprietary entities around the</p>
+<p begin="00:53:21.790" end="00:53:27.430" style="s2">world corporations countries a small</p>
+<p begin="00:53:25.210" end="00:53:29.430" style="s2">number of really rich people like open</p>
+<p begin="00:53:27.430" end="00:53:31.559" style="s2">AI they all have an</p>
+<p begin="00:53:29.430" end="00:53:33.540" style="s2">centum to be their first particularly in</p>
+<p begin="00:53:31.559" end="00:53:35.880" style="s2">fast takeoff because whoever gets there</p>
+<p begin="00:53:33.540" end="00:53:38.210" style="s2">first can probably dominate everybody</p>
+<p begin="00:53:35.880" end="00:53:40.950" style="s2">else and prevent them from achieving AGI</p>
+<p begin="00:53:38.210" end="00:53:43.950" style="s2">we there that for have a race to be</p>
+<p begin="00:53:40.950" end="00:53:46.859" style="s2">first and if we assume that safety comes</p>
+<p begin="00:53:43.950" end="00:53:50.130" style="s2">with a costs in both resources and time</p>
+<p begin="00:53:46.859" end="00:53:52.859" style="s2">there&#39;s an unfortunate perhaps deadly</p>
+<p begin="00:53:50.130" end="00:53:54.900" style="s2">game theoretical trap which there will</p>
+<p begin="00:53:52.859" end="00:53:57.599" style="s2">be a strong incentive to not pay</p>
+<p begin="00:53:54.900" end="00:53:59.160" style="s2">attention to safety because if you pay</p>
+<p begin="00:53:57.599" end="00:54:01.410" style="s2">attention to safety the person that</p>
+<p begin="00:53:59.160" end="00:54:03.990" style="s2">doesn&#39;t pay attention to safety will get</p>
+<p begin="00:54:01.410" end="00:54:06.900" style="s2">it to AGI first and be able to suppress</p>
+<p begin="00:54:03.990" end="00:54:10.530" style="s2">you you are correct but what most people</p>
+<p begin="00:54:06.900" end="00:54:12.180" style="s2">don&#39;t realize is that money in a post</p>
+<p begin="00:54:10.530" end="00:54:15.150" style="s2">singular it&#39;s world has very different</p>
+<p begin="00:54:12.180" end="00:54:17.119" style="s2">value I&#39;m not sure if it has any so if</p>
+<p begin="00:54:15.150" end="00:54:19.740" style="s2">you&#39;re trying to maximize shareholder</p>
+<p begin="00:54:17.119" end="00:54:21.230" style="s2">profit and you get there first and you</p>
+<p begin="00:54:19.740" end="00:54:24.900" style="s2">have this uncontrolled superintelligence</p>
+<p begin="00:54:21.230" end="00:54:27.450" style="s2">this is your least concern how much</p>
+<p begin="00:54:24.900" end="00:54:29.730" style="s2">money you share some where you really</p>
+<p begin="00:54:27.450" end="00:54:32.160" style="s2">have much bigger problems to address if</p>
+<p begin="00:54:29.730" end="00:54:34.079" style="s2">you still around yeah I great money may</p>
+<p begin="00:54:32.160" end="00:54:36.210" style="s2">not be the factor in fact truthfully I</p>
+<p begin="00:54:34.079" end="00:54:38.609" style="s2">think the rich people interested in AGI</p>
+<p begin="00:54:36.210" end="00:54:41.010" style="s2">it&#39;s not about money it&#39;s about hubris</p>
+<p begin="00:54:38.609" end="00:54:42.420" style="s2">and ego right you know they&#39;re smart</p>
+<p begin="00:54:41.010" end="00:54:44.099" style="s2">enough to realize that the world will be</p>
+<p begin="00:54:42.420" end="00:54:45.630" style="s2">very very very different the other side</p>
+<p begin="00:54:44.099" end="00:54:47.819" style="s2">of AGI would take Lee if there&#39;s fast</p>
+<p begin="00:54:45.630" end="00:54:49.710" style="s2">take off and you know the current status</p>
+<p begin="00:54:47.819" end="00:54:51.119" style="s2">hierarchy will be completely overturned</p>
+<p begin="00:54:49.710" end="00:54:54.299" style="s2">you know but think of somebody like</p>
+<p begin="00:54:51.119" end="00:54:56.490" style="s2">Putin right he has said accurately at</p>
+<p begin="00:54:54.299" end="00:54:58.680" style="s2">some level he who controls AI controls</p>
+<p begin="00:54:56.490" end="00:55:00.660" style="s2">the world and I think we can say with a</p>
+<p begin="00:54:58.680" end="00:55:02.940" style="s2">high level of confidence that what Putin</p>
+<p begin="00:55:00.660" end="00:55:06.240" style="s2">would like to do is control the world so</p>
+<p begin="00:55:02.940" end="00:55:09.660" style="s2">let&#39;s imagine that a Russian government</p>
+<p begin="00:55:06.240" end="00:55:12.180" style="s2">lab produces the first AGI or at least</p>
+<p begin="00:55:09.660" end="00:55:14.640" style="s2">is aiming for it and they under Putin&#39;s</p>
+<p begin="00:55:12.180" end="00:55:16.589" style="s2">instructions he says forget about safety</p>
+<p begin="00:55:14.640" end="00:55:18.809" style="s2">you know we want to be first so we can</p>
+<p begin="00:55:16.589" end="00:55:20.910" style="s2">dominate the world aren&#39;t we caught in a</p>
+<p begin="00:55:18.809" end="00:55:24.480" style="s2">game theoretical trap around that you</p>
+<p begin="00:55:20.910" end="00:55:26.490" style="s2">correctly said whoever controls AI not</p>
+<p begin="00:55:24.480" end="00:55:28.049" style="s2">whoever has access to random super</p>
+<p begin="00:55:26.490" end="00:55:29.970" style="s2">intelligence okay we make that</p>
+<p begin="00:55:28.049" end="00:55:32.309" style="s2">distinction no that&#39;s that&#39;s good work</p>
+<p begin="00:55:29.970" end="00:55:34.319" style="s2">that one control are you actually</p>
+<p begin="00:55:32.309" end="00:55:36.180" style="s2">telling it what to do or you just have</p>
+<p begin="00:55:34.319" end="00:55:37.740" style="s2">this super powerful genie with no</p>
+<p begin="00:55:36.180" end="00:55:40.950" style="s2">controls and it does whatever it wants</p>
+<p begin="00:55:37.740" end="00:55:42.720" style="s2">and maybe you will be used for resources</p>
+<p begin="00:55:40.950" end="00:55:45.210" style="s2">first your country let&#39;s</p>
+<p begin="00:55:42.720" end="00:55:46.590" style="s2">Rasha will be the first set of molecules</p>
+<p begin="00:55:45.210" end="00:55:51.660" style="s2">converted into paperclips</p>
+<p begin="00:55:46.590" end="00:55:56.640" style="s2">ah okay I like this so so that if a</p>
+<p begin="00:55:51.660" end="00:55:58.170" style="s2">sponsor for AGI is rational is rational</p>
+<p begin="00:55:56.640" end="00:56:00.930" style="s2">enough whatever that means</p>
+<p begin="00:55:58.170" end="00:56:04.140" style="s2">then they will not fall into the game</p>
+<p begin="00:56:00.930" end="00:56:06.060" style="s2">theory trap of rushing for AGI without</p>
+<p begin="00:56:04.140" end="00:56:07.920" style="s2">safety because they will get no benefit</p>
+<p begin="00:56:06.060" end="00:56:10.320" style="s2">from it that to me is a strongest</p>
+<p begin="00:56:07.920" end="00:56:11.940" style="s2">argument for any type of moratorium of</p>
+<p begin="00:56:10.320" end="00:56:14.070" style="s2">self restriction and visa research</p>
+<p begin="00:56:11.940" end="00:56:17.070" style="s2">basically pointing out if you&#39;re smart</p>
+<p begin="00:56:14.070" end="00:56:18.630" style="s2">enough to understand this argument if</p>
+<p begin="00:56:17.070" end="00:56:20.310" style="s2">you&#39;re smart enough to build HDI you</p>
+<p begin="00:56:18.630" end="00:56:23.580" style="s2">should be smart enough to understand</p>
+<p begin="00:56:20.310" end="00:56:25.380" style="s2">this argument very interesting I like</p>
+<p begin="00:56:23.580" end="00:56:27.810" style="s2">that a lot because it&#39;s the kind of</p>
+<p begin="00:56:25.380" end="00:56:29.550" style="s2">argument that&#39;s accessible to any</p>
+<p begin="00:56:27.810" end="00:56:33.810" style="s2">reasonably intelligent person it</p>
+<p begin="00:56:29.550" end="00:56:35.849" style="s2">requires no special knowledge in AI or</p>
+<p begin="00:56:33.810" end="00:56:37.859" style="s2">engineering or anything else it&#39;s</p>
+<p begin="00:56:35.849" end="00:56:39.869" style="s2">probably an argument that a bright guy</p>
+<p begin="00:56:37.859" end="00:56:42.810" style="s2">like Putin could understand now the</p>
+<p begin="00:56:39.869" end="00:56:44.940" style="s2">question is has the people around Putin</p>
+<p begin="00:56:42.810" end="00:56:47.339" style="s2">made sure that he is educated with that</p>
+<p begin="00:56:44.940" end="00:56:49.920" style="s2">argument I&#39;m not in the know I don&#39;t</p>
+<p begin="00:56:47.339" end="00:56:52.349" style="s2">have any insider information from</p>
+<p begin="00:56:49.920" end="00:56:54.960" style="s2">Kremlin but my concern would be that as</p>
+<p begin="00:56:52.349" end="00:56:57.510" style="s2">he&#39;s getting older he has less to lose</p>
+<p begin="00:56:54.960" end="00:57:00.150" style="s2">and it&#39;s kind of gamble you can take if</p>
+<p begin="00:56:57.510" end="00:57:03.680" style="s2">you&#39;re gonna be gone anyways in the</p>
+<p begin="00:57:00.150" end="00:57:07.140" style="s2">hopes of getting solutions to mortality</p>
+<p begin="00:57:03.680" end="00:57:09.630" style="s2">solutions to other problems just</p>
+<p begin="00:57:07.140" end="00:57:12.000" style="s2">becoming that historical figure who got</p>
+<p begin="00:57:09.630" end="00:57:13.770" style="s2">there so if you have less to lose you</p>
+<p begin="00:57:12.000" end="00:57:17.609" style="s2">more likely to take the risk even if you</p>
+<p begin="00:57:13.770" end="00:57:20.430" style="s2">understand it ah yes humans they are not</p>
+<p begin="00:57:17.609" end="00:57:22.020" style="s2">so rational right as we know they have</p>
+<p begin="00:57:20.430" end="00:57:24.210" style="s2">all kinds of agendas that are not</p>
+<p begin="00:57:22.020" end="00:57:26.880" style="s2">strictly rational we talked about</p>
+<p begin="00:57:24.210" end="00:57:29.190" style="s2">stupidity as a big factor in all of this</p>
+<p begin="00:57:26.880" end="00:57:30.900" style="s2">so yes yeah I was saying you know kind</p>
+<p begin="00:57:29.190" end="00:57:33.000" style="s2">like Putin is clearly not stupid but he</p>
+<p begin="00:57:30.900" end="00:57:34.740" style="s2">but he may have agendas that aren&#39;t</p>
+<p begin="00:57:33.000" end="00:57:36.510" style="s2">strictly rational and for the good of</p>
+<p begin="00:57:34.740" end="00:57:38.490" style="s2">the human race or even for the good of</p>
+<p begin="00:57:36.510" end="00:57:41.190" style="s2">Russia they could be purely ego driven</p>
+<p begin="00:57:38.490" end="00:57:43.740" style="s2">absolutely and again as people get older</p>
+<p begin="00:57:41.190" end="00:57:46.290" style="s2">they change how they think how well they</p>
+<p begin="00:57:43.740" end="00:57:48.930" style="s2">think so that&#39;s why term limits a good</p>
+<p begin="00:57:46.290" end="00:57:50.940" style="s2">thing yeah yep you know we just noticed</p>
+<p begin="00:57:48.930" end="00:57:54.869" style="s2">the Chinese got rid of their term limits</p>
+<p begin="00:57:50.940" end="00:57:56.080" style="s2">which is a bad very bad sign for exactly</p>
+<p begin="00:57:54.869" end="00:57:58.570" style="s2">that reason</p>
+<p begin="00:57:56.080" end="00:58:01.780" style="s2">you know now one guy couldn&#39;t say you</p>
+<p begin="00:57:58.570" end="00:58:04.360" style="s2">know the state is me and as you say if</p>
+<p begin="00:58:01.780" end="00:58:06.790" style="s2">he&#39;s interested mostly in his historical</p>
+<p begin="00:58:04.360" end="00:58:08.530" style="s2">record or something like that you know</p>
+<p begin="00:58:06.790" end="00:58:11.200" style="s2">he might go all out and he has a lot</p>
+<p begin="00:58:08.530" end="00:58:13.060" style="s2">more resources that Putin does to try to</p>
+<p begin="00:58:11.200" end="00:58:15.730" style="s2">get there first and to ignore this</p>
+<p begin="00:58:13.060" end="00:58:17.020" style="s2">logical argument that ignoring safety is</p>
+<p begin="00:58:15.730" end="00:58:18.340" style="s2">actually not the smart thing to do</p>
+<p begin="00:58:17.020" end="00:58:20.770" style="s2">because you&#39;ll get no benefit for it</p>
+<p begin="00:58:18.340" end="00:58:22.360" style="s2">maybe an argument in such cases is to</p>
+<p begin="00:58:20.770" end="00:58:24.370" style="s2">say that the system would be more</p>
+<p begin="00:58:22.360" end="00:58:27.550" style="s2">powerful than the leader and so he&#39;d</p>
+<p begin="00:58:24.370" end="00:58:29.140" style="s2">lose power to that new leadership yep I</p>
+<p begin="00:58:27.550" end="00:58:30.820" style="s2">think it&#39;s important to get these ideas</p>
+<p begin="00:58:29.140" end="00:58:32.620" style="s2">out into the world because I don&#39;t think</p>
+<p begin="00:58:30.820" end="00:58:34.710" style="s2">they are out in the world all that well</p>
+<p begin="00:58:32.620" end="00:58:36.550" style="s2">very few people in this space</p>
+<p begin="00:58:34.710" end="00:58:38.650" style="s2">unfortunately if you look at everyone</p>
+<p begin="00:58:36.550" end="00:58:41.170" style="s2">working in AI safety in general</p>
+<p begin="00:58:38.650" end="00:58:43.180" style="s2">full-time it would not be a lot of</p>
+<p begin="00:58:41.170" end="00:58:46.120" style="s2">people in comparison to how many work on</p>
+<p begin="00:58:43.180" end="00:58:47.680" style="s2">developing more capable AI I think</p>
+<p begin="00:58:46.120" end="00:58:49.360" style="s2">that&#39;s absolutely right for the game</p>
+<p begin="00:58:47.680" end="00:58:51.670" style="s2">theory reason right what business is</p>
+<p begin="00:58:49.360" end="00:58:53.770" style="s2">going to invest in safety when there&#39;s</p>
+<p begin="00:58:51.670" end="00:58:55.870" style="s2">no return for it in the short term well</p>
+<p begin="00:58:53.770" end="00:58:58.210" style="s2">for big corporations very certain cost</p>
+<p begin="00:58:55.870" end="00:59:00.550" style="s2">of unsafe embarrassing products we saw</p>
+<p begin="00:58:58.210" end="00:59:02.830" style="s2">for example with Microsoft Chad but</p>
+<p begin="00:59:00.550" end="00:59:04.540" style="s2">there was a lot of negative publicity if</p>
+<p begin="00:59:02.830" end="00:59:06.910" style="s2">they just read my papers they wouldn&#39;t</p>
+<p begin="00:59:04.540" end="00:59:09.220" style="s2">make such silly mistakes as releasing a</p>
+<p begin="00:59:06.910" end="00:59:10.990" style="s2">Chad but to learn from teenagers on the</p>
+<p begin="00:59:09.220" end="00:59:13.420" style="s2">Internet yeah no I think that&#39;s about</p>
+<p begin="00:59:10.990" end="00:59:15.310" style="s2">political correctness not about AI</p>
+<p begin="00:59:13.420" end="00:59:17.110" style="s2">safety I think frankly nothing wrong</p>
+<p begin="00:59:15.310" end="00:59:19.450" style="s2">with what they did they were just too</p>
+<p begin="00:59:17.110" end="00:59:20.920" style="s2">much of wimps to take the result you</p>
+<p begin="00:59:19.450" end="00:59:22.960" style="s2">know the world was not threatened by</p>
+<p begin="00:59:20.920" end="00:59:25.120" style="s2">that chatbot but because of political</p>
+<p begin="00:59:22.960" end="00:59:27.580" style="s2">correctness were embarrassed by it</p>
+<p begin="00:59:25.120" end="00:59:29.140" style="s2">of course what I&#39;m saying is malevolence</p>
+<p begin="00:59:27.580" end="00:59:31.000" style="s2">is proportionate to capability</p>
+<p begin="00:59:29.140" end="00:59:32.620" style="s2">everything that Chad bot could do was</p>
+<p begin="00:59:31.000" end="00:59:35.290" style="s2">kind of insult people and it did exactly</p>
+<p begin="00:59:32.620" end="00:59:37.360" style="s2">that as it becomes more capable it will</p>
+<p begin="00:59:35.290" end="00:59:39.880" style="s2">do whatever have a bad thing is capable</p>
+<p begin="00:59:37.360" end="00:59:42.910" style="s2">of if you don&#39;t explicitly work around</p>
+<p begin="00:59:39.880" end="00:59:44.770" style="s2">it alright okay so now this gets to my</p>
+<p begin="00:59:42.910" end="00:59:47.200" style="s2">next question yeah to a degree that</p>
+<p begin="00:59:44.770" end="00:59:51.280" style="s2">that&#39;s a a company like Microsoft must</p>
+<p begin="00:59:47.200" end="00:59:53.950" style="s2">be investing in safety probably in part</p>
+<p begin="00:59:51.280" end="00:59:57.220" style="s2">ought to be driven by how close we think</p>
+<p begin="00:59:53.950" end="01:00:00.550" style="s2">we are to AGI if we&#39;re four centuries</p>
+<p begin="00:59:57.220" end="01:00:02.530" style="s2">away as some people argue then you know</p>
+<p begin="01:00:00.550" end="01:00:05.320" style="s2">the moral argument for must invest</p>
+<p begin="01:00:02.530" end="01:00:08.200" style="s2">heavily in safety is relatively modest</p>
+<p begin="01:00:05.320" end="01:00:09.610" style="s2">it&#39;s just pragmatic is the you know</p>
+<p begin="01:00:08.200" end="01:00:12.640" style="s2">embarrassment or</p>
+<p begin="01:00:09.610" end="01:00:16.030" style="s2">quality of your products worth spending</p>
+<p begin="01:00:12.640" end="01:00:18.580" style="s2">X amount on if we think that AGI is near</p>
+<p begin="01:00:16.030" end="01:00:20.320" style="s2">then there&#39;s a strong moral argument</p>
+<p begin="01:00:18.580" end="01:00:22.690" style="s2">that says we ought to be spending a lot</p>
+<p begin="01:00:20.320" end="01:00:25.060" style="s2">on safety because to your point if we</p>
+<p begin="01:00:22.690" end="01:00:26.200" style="s2">have it built safety before the takeoff</p>
+<p begin="01:00:25.060" end="01:00:28.570" style="s2">it&#39;ll be too late</p>
+<p begin="01:00:26.200" end="01:00:31.410" style="s2">so I guess that brings me around to your</p>
+<p begin="01:00:28.570" end="01:00:34.060" style="s2">thoughts on how close we are to AGI</p>
+<p begin="01:00:31.410" end="01:00:35.890" style="s2">that&#39;s a difficult question I don&#39;t</p>
+<p begin="01:00:34.060" end="01:00:38.170" style="s2">think anyone knows and I don&#39;t think</p>
+<p begin="01:00:35.890" end="01:00:40.510" style="s2">that is going to be a warning before we</p>
+<p begin="01:00:38.170" end="01:00:42.760" style="s2">get there or 10 years before we get</p>
+<p begin="01:00:40.510" end="01:00:45.760" style="s2">there we&#39;re just gonna hit it a lot of</p>
+<p begin="01:00:42.760" end="01:00:48.700" style="s2">data a lot of predictions point at 2045</p>
+<p begin="01:00:45.760" end="01:00:51.160" style="s2">I saw more extreme predictions and</p>
+<p begin="01:00:48.700" end="01:00:53.440" style="s2">boffins sometimes from industry insiders</p>
+<p begin="01:00:51.160" end="01:00:55.660" style="s2">with a lot of excess but I think it&#39;s</p>
+<p begin="01:00:53.440" end="01:00:58.090" style="s2">reasonable to concentrate on that date</p>
+<p begin="01:00:55.660" end="01:01:00.460" style="s2">for now it gives us enough time to</p>
+<p begin="01:00:58.090" end="01:01:02.710" style="s2">actually do something but it&#39;s not so</p>
+<p begin="01:01:00.460" end="01:01:04.950" style="s2">far that it&#39;s meaningless yeah that&#39;s</p>
+<p begin="01:01:02.710" end="01:01:07.660" style="s2">kind of the Kurzweil timeframe right</p>
+<p begin="01:01:04.950" end="01:01:09.730" style="s2">exactly and he&#39;s doing a good job with</p>
+<p begin="01:01:07.660" end="01:01:12.490" style="s2">his graphs and predictions in the past</p>
+<p begin="01:01:09.730" end="01:01:14.380" style="s2">reasonably good yeah I&#39;ve heard through</p>
+<p begin="01:01:12.490" end="01:01:17.470" style="s2">the grapevine I won&#39;t say from whom that</p>
+<p begin="01:01:14.380" end="01:01:20.950" style="s2">is part of the deal to raise a billion</p>
+<p begin="01:01:17.470" end="01:01:22.450" style="s2">dollars from Microsoft that opene I told</p>
+<p begin="01:01:20.950" end="01:01:24.070" style="s2">Microsoft that they believe they&#39;re</p>
+<p begin="01:01:22.450" end="01:01:27.340" style="s2">within five years of AGI</p>
+<p begin="01:01:24.070" end="01:01:30.130" style="s2">I heard seven years before as insider</p>
+<p begin="01:01:27.340" end="01:01:31.960" style="s2">information I think it&#39;s less likely</p>
+<p begin="01:01:30.130" end="01:01:34.000" style="s2">proportionately but I don&#39;t think it&#39;s</p>
+<p begin="01:01:31.960" end="01:01:36.730" style="s2">crazy at all I&#39;d give it at least ten</p>
+<p begin="01:01:34.000" end="01:01:39.220" style="s2">percent chance okay so we&#39;re gonna say</p>
+<p begin="01:01:36.730" end="01:01:44.650" style="s2">that Roman says 10 percent chance within</p>
+<p begin="01:01:39.220" end="01:01:46.360" style="s2">seven years right 90 percent not in</p>
+<p begin="01:01:44.650" end="01:01:48.610" style="s2">seven years but a 10 percent chance of a</p>
+<p begin="01:01:46.360" end="01:01:50.620" style="s2">run away okay so let&#39;s compound the</p>
+<p begin="01:01:48.610" end="01:01:54.250" style="s2">things we&#39;ve said we think are true we</p>
+<p begin="01:01:50.620" end="01:01:56.680" style="s2">think AGI will be fast takeoff more</p>
+<p begin="01:01:54.250" end="01:01:58.690" style="s2">likely than not and there&#39;s a 10% chance</p>
+<p begin="01:01:56.680" end="01:01:59.740" style="s2">it could be achieved in seven years I</p>
+<p begin="01:01:58.690" end="01:02:02.020" style="s2">think I would agree with that also</p>
+<p begin="01:01:59.740" end="01:02:03.580" style="s2">because and here&#39;s why because something</p>
+<p begin="01:02:02.020" end="01:02:05.470" style="s2">else I think we both agreed with is that</p>
+<p begin="01:02:03.580" end="01:02:07.930" style="s2">real language understanding is the</p>
+<p begin="01:02:05.470" end="01:02:10.750" style="s2">portal through which if we could solve</p>
+<p begin="01:02:07.930" end="01:02:12.850" style="s2">that AGI we&#39;ll take off very rapidly and</p>
+<p begin="01:02:10.750" end="01:02:14.380" style="s2">the fact that it&#39;s just one problem it&#39;s</p>
+<p begin="01:02:12.850" end="01:02:17.140" style="s2">a damn hard problem but it&#39;s just one</p>
+<p begin="01:02:14.380" end="01:02:19.150" style="s2">problem tells me that all it takes is</p>
+<p begin="01:02:17.140" end="01:02:21.820" style="s2">one person with the right insight or one</p>
+<p begin="01:02:19.150" end="01:02:23.010" style="s2">team with the right set of approaches to</p>
+<p begin="01:02:21.820" end="01:02:24.780" style="s2">crack that problem so</p>
+<p begin="01:02:23.010" end="01:02:28.770" style="s2">could be on the short-term so if we have</p>
+<p begin="01:02:24.780" end="01:02:30.300" style="s2">a 10% chance of fast runaway AGI in the</p>
+<p begin="01:02:28.770" end="01:02:33.360" style="s2">next seven years doesn&#39;t that mean that</p>
+<p begin="01:02:30.300" end="01:02:36.870" style="s2">we should be expending billions a year</p>
+<p begin="01:02:33.360" end="01:02:39.060" style="s2">on AI safety I would support that thank</p>
+<p begin="01:02:36.870" end="01:02:41.430" style="s2">you I&#39;ll take all the help I can get</p>
+<p begin="01:02:39.060" end="01:02:43.080" style="s2">I also would like to remind you that I</p>
+<p begin="01:02:41.430" end="01:02:46.290" style="s2">think a lot of it is just scaling</p>
+<p begin="01:02:43.080" end="01:02:48.720" style="s2">resources so scaling compute and size of</p>
+<p begin="01:02:46.290" end="01:02:51.360" style="s2">our data so seven years becomes very</p>
+<p begin="01:02:48.720" end="01:02:53.910" style="s2">reasonable if you just project how fast</p>
+<p begin="01:02:51.360" end="01:02:56.730" style="s2">those things grow I definitely try to</p>
+<p begin="01:02:53.910" end="01:02:59.070" style="s2">work in this full-time I hope a lot of</p>
+<p begin="01:02:56.730" end="01:03:00.800" style="s2">other people do as well yeah so it&#39;s</p>
+<p begin="01:02:59.070" end="01:03:03.900" style="s2">quick little back of the envelope</p>
+<p begin="01:03:00.800" end="01:03:06.600" style="s2">calculation I think tells us as a matter</p>
+<p begin="01:03:03.900" end="01:03:09.030" style="s2">of social policy that it&#39;s very</p>
+<p begin="01:03:06.600" end="01:03:11.490" style="s2">important that the powers-that-be</p>
+<p begin="01:03:09.030" end="01:03:13.680" style="s2">piccoli people control large budgets</p>
+<p begin="01:03:11.490" end="01:03:16.800" style="s2">start to realize that it would be</p>
+<p begin="01:03:13.680" end="01:03:21.480" style="s2">imprudent not to spend significant funds</p>
+<p begin="01:03:16.800" end="01:03:23.490" style="s2">on AGI safety right now but of course</p>
+<p begin="01:03:21.480" end="01:03:26.040" style="s2">the question is is it the problem of</p>
+<p begin="01:03:23.490" end="01:03:28.320" style="s2">money is the bottleneck money if I had</p>
+<p begin="01:03:26.040" end="01:03:30.150" style="s2">billions of dollars can I solve this</p>
+<p begin="01:03:28.320" end="01:03:31.860" style="s2">problem in seven years and I don&#39;t think</p>
+<p begin="01:03:30.150" end="01:03:34.230" style="s2">the answer is years or even remotely</p>
+<p begin="01:03:31.860" end="01:03:36.420" style="s2">years I think today as of right now as</p>
+<p begin="01:03:34.230" end="01:03:38.610" style="s2">of this minute no one in the world has a</p>
+<p begin="01:03:36.420" end="01:03:40.890" style="s2">working safety mechanism or even a</p>
+<p begin="01:03:38.610" end="01:03:42.600" style="s2">prototype or even an idea how to make</p>
+<p begin="01:03:40.890" end="01:03:44.700" style="s2">one which would scale to any level</p>
+<p begin="01:03:42.600" end="01:03:47.850" style="s2">intelligence it may take seven hundred</p>
+<p begin="01:03:44.700" end="01:03:50.310" style="s2">years to get there so just pouring money</p>
+<p begin="01:03:47.850" end="01:03:51.960" style="s2">into it would be like war on cancer or</p>
+<p begin="01:03:50.310" end="01:03:54.150" style="s2">something like that lots of money feels</p>
+<p begin="01:03:51.960" end="01:03:55.320" style="s2">good but no results now there are some</p>
+<p begin="01:03:54.150" end="01:03:57.150" style="s2">results in the war on cancer but not</p>
+<p begin="01:03:55.320" end="01:03:58.710" style="s2">linear to the inputs I mean as we know</p>
+<p begin="01:03:57.150" end="01:04:01.230" style="s2">the outputs of these hard problems are</p>
+<p begin="01:03:58.710" end="01:04:02.910" style="s2">nonlinear it&#39;s fundamentally different</p>
+<p begin="01:04:01.230" end="01:04:04.350" style="s2">you don&#39;t get partial success you don&#39;t</p>
+<p begin="01:04:02.910" end="01:04:06.150" style="s2">have slightly controlled super</p>
+<p begin="01:04:04.350" end="01:04:07.020" style="s2">intelligence you ever control it all the</p>
+<p begin="01:04:06.150" end="01:04:10.290" style="s2">first mistakes</p>
+<p begin="01:04:07.020" end="01:04:11.550" style="s2">it makes may be fatal yep yes but what&#39;s</p>
+<p begin="01:04:10.290" end="01:04:14.490" style="s2">our alternative if we&#39;re going to have</p>
+<p begin="01:04:11.550" end="01:04:16.260" style="s2">an AGI in seven years possibly 10%</p>
+<p begin="01:04:14.490" end="01:04:18.270" style="s2">chance pretty high chance suppose I told</p>
+<p begin="01:04:16.260" end="01:04:20.780" style="s2">you there was a 10% chance we&#39;d have a</p>
+<p begin="01:04:18.270" end="01:04:24.090" style="s2">nuclear war in seven years and all out</p>
+<p begin="01:04:20.780" end="01:04:26.730" style="s2">20,000 warhead nuclear war in seven</p>
+<p begin="01:04:24.090" end="01:04:28.380" style="s2">years we would be doing everything we</p>
+<p begin="01:04:26.730" end="01:04:30.930" style="s2">possibly could to make that not happen</p>
+<p begin="01:04:28.380" end="01:04:33.690" style="s2">so openly I has a lot of good people</p>
+<p begin="01:04:30.930" end="01:04:36.140" style="s2">with really good expertise and safety if</p>
+<p begin="01:04:33.690" end="01:04:38.270" style="s2">they really felt that there</p>
+<p begin="01:04:36.140" end="01:04:40.840" style="s2">seven years away I think they would do</p>
+<p begin="01:04:38.270" end="01:04:43.790" style="s2">things to make that a bigger number</p>
+<p begin="01:04:40.840" end="01:04:46.490" style="s2">getting a billion dollars is good for</p>
+<p begin="01:04:43.790" end="01:04:49.670" style="s2">whatever you&#39;re working on but I think</p>
+<p begin="01:04:46.490" end="01:04:52.310" style="s2">they understand the uncontrolled AI is</p>
+<p begin="01:04:49.670" end="01:04:54.800" style="s2">not beneficial to their interests not</p>
+<p begin="01:04:52.310" end="01:04:56.360" style="s2">just humanity centers so we came it up</p>
+<p begin="01:04:54.800" end="01:04:58.760" style="s2">perhaps hopefully think that they</p>
+<p begin="01:04:56.360" end="01:05:00.590" style="s2">understand the argument that you get no</p>
+<p begin="01:04:58.760" end="01:05:02.030" style="s2">benefit from AI if it&#39;s not controlled</p>
+<p begin="01:05:00.590" end="01:05:03.650" style="s2">and therefore they&#39;ll spend an</p>
+<p begin="01:05:02.030" end="01:05:05.420" style="s2">appropriate part of their billion</p>
+<p begin="01:05:03.650" end="01:05:06.650" style="s2">dollars even if they believe they&#39;re</p>
+<p begin="01:05:05.420" end="01:05:09.470" style="s2">only seven years away</p>
+<p begin="01:05:06.650" end="01:05:11.660" style="s2">you get no benefit if you have debt now</p>
+<p begin="01:05:09.470" end="01:05:14.000" style="s2">that is true except maybe Fame you know</p>
+<p begin="01:05:11.660" end="01:05:15.650" style="s2">but what do you care if the emperor</p>
+<p begin="01:05:14.000" end="01:05:21.950" style="s2">paper clips turn the universe and the</p>
+<p begin="01:05:15.650" end="01:05:24.080" style="s2">paper clips all right I&#39;m gonna flip to</p>
+<p begin="01:05:21.950" end="01:05:25.910" style="s2">another topic regular listeners of my</p>
+<p begin="01:05:24.080" end="01:05:28.400" style="s2">show know that we fairly often probably</p>
+<p begin="01:05:25.910" end="01:05:30.770" style="s2">at least half the episodes address the</p>
+<p begin="01:05:28.400" end="01:05:32.840" style="s2">Fermi paradox number of the things we&#39;ve</p>
+<p begin="01:05:30.770" end="01:05:35.240" style="s2">talked about have at least some bearing</p>
+<p begin="01:05:32.840" end="01:05:37.370" style="s2">on the Fermi paradox and again to remind</p>
+<p begin="01:05:35.240" end="01:05:40.100" style="s2">our listeners the Fermi paradox comes</p>
+<p begin="01:05:37.370" end="01:05:42.350" style="s2">from a lunch conversation at Los Alamos</p>
+<p begin="01:05:40.100" end="01:05:44.030" style="s2">during World War two where a bunch of</p>
+<p begin="01:05:42.350" end="01:05:46.790" style="s2">smart physicists we&#39;re trying to</p>
+<p begin="01:05:44.030" end="01:05:49.370" style="s2">estimate how many human level or above</p>
+<p begin="01:05:46.790" end="01:05:52.640" style="s2">intelligent civilizations there were in</p>
+<p begin="01:05:49.370" end="01:05:55.460" style="s2">the universe and Enrico Fermi walked by</p>
+<p begin="01:05:52.640" end="01:05:56.870" style="s2">and said well where are their you know</p>
+<p begin="01:05:55.460" end="01:05:58.940" style="s2">if there&#39;s lots of them gonna see no</p>
+<p begin="01:05:56.870" end="01:06:00.680" style="s2">sign of it and interestingly to this day</p>
+<p begin="01:05:58.940" end="01:06:03.560" style="s2">we&#39;ve been doing increasing amounts of</p>
+<p begin="01:06:00.680" end="01:06:06.080" style="s2">searching and so far absolutely no sign</p>
+<p begin="01:06:03.560" end="01:06:08.420" style="s2">so what are your thoughts on the Fermi</p>
+<p begin="01:06:06.080" end="01:06:11.060" style="s2">paradox that&#39;s a very interesting</p>
+<p begin="01:06:08.420" end="01:06:13.070" style="s2">problem and there are many great answers</p>
+<p begin="01:06:11.060" end="01:06:15.860" style="s2">alight I can tell you about some of the</p>
+<p begin="01:06:13.070" end="01:06:18.350" style="s2">answers how people proposed so there is</p>
+<p begin="01:06:15.860" end="01:06:21.230" style="s2">this idea that instead of going out into</p>
+<p begin="01:06:18.350" end="01:06:23.780" style="s2">the universe advanced civilizations kind</p>
+<p begin="01:06:21.230" end="01:06:26.240" style="s2">of minimize and go inside they become</p>
+<p begin="01:06:23.780" end="01:06:28.520" style="s2">more condensed go into virtual worlds so</p>
+<p begin="01:06:26.240" end="01:06:30.290" style="s2">you just wouldn&#39;t see that from computer</p>
+<p begin="01:06:28.520" end="01:06:32.030" style="s2">science point of view and communication</p>
+<p begin="01:06:30.290" end="01:06:35.030" style="s2">point of view we&#39;re looking for signals</p>
+<p begin="01:06:32.030" end="01:06:38.390" style="s2">signals of communication but already our</p>
+<p begin="01:06:35.030" end="01:06:40.310" style="s2">communication is encrypted hidden and to</p>
+<p begin="01:06:38.390" end="01:06:42.230" style="s2">save power we communicate with silence</p>
+<p begin="01:06:40.310" end="01:06:44.480" style="s2">so basically there is nothing to look at</p>
+<p begin="01:06:42.230" end="01:06:46.310" style="s2">it&#39;s random noise you would observe so</p>
+<p begin="01:06:44.480" end="01:06:49.550" style="s2">it&#39;s not surprising that we don&#39;t see</p>
+<p begin="01:06:46.310" end="01:06:51.710" style="s2">them I also think that the</p>
+<p begin="01:06:49.550" end="01:06:53.840" style="s2">where are they we&#39;ll look around and we</p>
+<p begin="01:06:51.710" end="01:06:56.420" style="s2">don&#39;t see intelligent beings but yes we</p>
+<p begin="01:06:53.840" end="01:06:58.760" style="s2">do we are them there is a number of</p>
+<p begin="01:06:56.420" end="01:07:01.520" style="s2">theories from spermy a theory saying</p>
+<p begin="01:06:58.760" end="01:07:03.530" style="s2">that we are the biological robots Vannoy</p>
+<p begin="01:07:01.520" end="01:07:06.440" style="s2">man probes sent by some distant</p>
+<p begin="01:07:03.530" end="01:07:08.000" style="s2">civilization and we are here basically</p>
+<p begin="01:07:06.440" end="01:07:11.120" style="s2">trying to figure out what&#39;s our mission</p>
+<p begin="01:07:08.000" end="01:07:14.450" style="s2">and looking around for instructions so</p>
+<p begin="01:07:11.120" end="01:07:17.720" style="s2">that&#39;s a short survey of my thinking and</p>
+<p begin="01:07:14.450" end="01:07:20.570" style="s2">some of those yeah one argument it&#39;s</p>
+<p begin="01:07:17.720" end="01:07:22.970" style="s2">called the techno signature argument is</p>
+<p begin="01:07:20.570" end="01:07:24.560" style="s2">that all right maybe we&#39;re just</p>
+<p begin="01:07:22.970" end="01:07:27.710" style="s2">completely wrong about looking for</p>
+<p begin="01:07:24.560" end="01:07:31.040" style="s2">signals because as you point out you</p>
+<p begin="01:07:27.710" end="01:07:33.770" style="s2">know even us teeny little baby AG is</p>
+<p begin="01:07:31.040" end="01:07:36.890" style="s2">called humans are already rapidly moving</p>
+<p begin="01:07:33.770" end="01:07:38.330" style="s2">from radio to fiber and from open</p>
+<p begin="01:07:36.890" end="01:07:40.640" style="s2">communications to encrypted</p>
+<p begin="01:07:38.330" end="01:07:42.940" style="s2">communications in fact the recent paper</p>
+<p begin="01:07:40.640" end="01:07:45.650" style="s2">by some of our Santa Fe Institute people</p>
+<p begin="01:07:42.940" end="01:07:47.810" style="s2">demonstrated that almost any reasonably</p>
+<p begin="01:07:45.650" end="01:07:50.030" style="s2">advanced civilization their signals</p>
+<p begin="01:07:47.810" end="01:07:52.010" style="s2">ought to look like noise so we may just</p>
+<p begin="01:07:50.030" end="01:07:53.810" style="s2">be have been mistakenly looking for</p>
+<p begin="01:07:52.010" end="01:07:56.780" style="s2">signals the other new approach is called</p>
+<p begin="01:07:53.810" end="01:07:59.210" style="s2">techno signatures which is that we can</p>
+<p begin="01:07:56.780" end="01:08:02.840" style="s2">look for artifacts in the universe that</p>
+<p begin="01:07:59.210" end="01:08:05.420" style="s2">are signs of having been created by an</p>
+<p begin="01:08:02.840" end="01:08:06.850" style="s2">intelligence Robin Hanson one of my</p>
+<p begin="01:08:05.420" end="01:08:10.220" style="s2">first guests on the show for instance</p>
+<p begin="01:08:06.850" end="01:08:12.460" style="s2">makes the argument that on economic</p>
+<p begin="01:08:10.220" end="01:08:15.590" style="s2">grounds he&#39;s an economist rather than a</p>
+<p begin="01:08:12.460" end="01:08:17.359" style="s2">astronomer that any advanced</p>
+<p begin="01:08:15.590" end="01:08:20.990" style="s2">civilizations that&#39;s existed for very</p>
+<p begin="01:08:17.359" end="01:08:24.620" style="s2">long ought to leave techno signatures of</p>
+<p begin="01:08:20.990" end="01:08:26.750" style="s2">the Dyson Sphere sort where advanced</p>
+<p begin="01:08:24.620" end="01:08:28.220" style="s2">civilizations are harnessing more and</p>
+<p begin="01:08:26.750" end="01:08:31.029" style="s2">more and more of the energy of their</p>
+<p begin="01:08:28.220" end="01:08:34.010" style="s2">star to build more and more either</p>
+<p begin="01:08:31.029" end="01:08:36.040" style="s2">biological civilization or let&#39;s assume</p>
+<p begin="01:08:34.010" end="01:08:38.270" style="s2">they were eaten by their AG I</p>
+<p begin="01:08:36.040" end="01:08:40.720" style="s2">computational infrastructure and the</p>
+<p begin="01:08:38.270" end="01:08:44.529" style="s2">techno signature of that ought to be a</p>
+<p begin="01:08:40.720" end="01:08:48.319" style="s2">shift towards the infrared in stars and</p>
+<p begin="01:08:44.529" end="01:08:50.900" style="s2">you know his claim is there is no sign</p>
+<p begin="01:08:48.319" end="01:08:54.500" style="s2">of that and therefore their main there</p>
+<p begin="01:08:50.900" end="01:08:56.750" style="s2">may be no galactic intelligences right</p>
+<p begin="01:08:54.500" end="01:08:59.690" style="s2">so I actually have another subfield of</p>
+<p begin="01:08:56.750" end="01:09:00.200" style="s2">inquiry I found it called designer</p>
+<p begin="01:08:59.690" end="01:09:03.350" style="s2">Mattie</p>
+<p begin="01:09:00.200" end="01:09:05.750" style="s2">where we try to figure out</p>
+<p begin="01:09:03.350" end="01:09:08.750" style="s2">what are the differences between natural</p>
+<p begin="01:09:05.750" end="01:09:10.940" style="s2">objects and engineered objects and if an</p>
+<p begin="01:09:08.750" end="01:09:13.220" style="s2">object is in fact engineered what can we</p>
+<p begin="01:09:10.940" end="01:09:15.200" style="s2">say about the engineer behind it so if I</p>
+<p begin="01:09:13.220" end="01:09:17.240" style="s2">give you an iPhone you can tell me that</p>
+<p begin="01:09:15.200" end="01:09:18.710" style="s2">whoever made it is of certain</p>
+<p begin="01:09:17.240" end="01:09:20.510" style="s2">intelligence they have good</p>
+<p begin="01:09:18.710" end="01:09:21.710" style="s2">understanding of chemistry computer</p>
+<p begin="01:09:20.510" end="01:09:23.840" style="s2">science and so on</p>
+<p begin="01:09:21.710" end="01:09:26.240" style="s2">even not mentioning things like made in</p>
+<p begin="01:09:23.840" end="01:09:27.710" style="s2">China you know so we&#39;re trying to</p>
+<p begin="01:09:26.240" end="01:09:30.350" style="s2">generalize this we&#39;re trying to</p>
+<p begin="01:09:27.710" end="01:09:33.320" style="s2">generalize it to biological samples so</p>
+<p begin="01:09:30.350" end="01:09:35.780" style="s2">if you look at the artificially created</p>
+<p begin="01:09:33.320" end="01:09:38.570" style="s2">cell can you tell that it&#39;s in fact</p>
+<p begin="01:09:35.780" end="01:09:40.730" style="s2">engineered and not evolved just from</p>
+<p begin="01:09:38.570" end="01:09:43.640" style="s2">that sample alone with no other records</p>
+<p begin="01:09:40.730" end="01:09:45.590" style="s2">and it seems like if you don&#39;t restrict</p>
+<p begin="01:09:43.640" end="01:09:47.240" style="s2">resources something we talked about in</p>
+<p begin="01:09:45.590" end="01:09:51.010" style="s2">the beginning of a show you can tell</p>
+<p begin="01:09:47.240" end="01:09:51.010" style="s2">whatever something is natural or</p>
+<p begin="01:09:51.070" end="01:09:56.480" style="s2">engineered by some super powerful</p>
+<p begin="01:09:54.380" end="01:09:59.420" style="s2">intelligence and then we look at the</p>
+<p begin="01:09:56.480" end="01:10:00.920" style="s2">universe for glitches are we in a</p>
+<p begin="01:09:59.420" end="01:10:02.450" style="s2">simulation those are the techno</p>
+<p begin="01:10:00.920" end="01:10:04.970" style="s2">signatures we&#39;re looking for right and</p>
+<p begin="01:10:02.450" end="01:10:06.680" style="s2">if it&#39;s done well you would not find</p>
+<p begin="01:10:04.970" end="01:10:08.870" style="s2">them because it would be hidden and</p>
+<p begin="01:10:06.680" end="01:10:11.030" style="s2">purpose the only way you would see them</p>
+<p begin="01:10:08.870" end="01:10:12.620" style="s2">if they explicitly they&#39;re a warning</p>
+<p begin="01:10:11.030" end="01:10:16.190" style="s2">pops up this is a simulated universe</p>
+<p begin="01:10:12.620" end="01:10:17.600" style="s2">designed in that year and so on so all</p>
+<p begin="01:10:16.190" end="01:10:20.360" style="s2">of the things we discuss if they</p>
+<p begin="01:10:17.600" end="01:10:22.070" style="s2">strongly connected and we&#39;re trying to</p>
+<p begin="01:10:20.360" end="01:10:25.040" style="s2">make progress in all those directions at</p>
+<p begin="01:10:22.070" end="01:10:26.420" style="s2">the same time very interesting very</p>
+<p begin="01:10:25.040" end="01:10:28.880" style="s2">interesting yeah for instance one of the</p>
+<p begin="01:10:26.420" end="01:10:31.700" style="s2">theories of Fermi paradox so-called dark</p>
+<p begin="01:10:28.880" end="01:10:33.170" style="s2">forest theory that there are predators</p>
+<p begin="01:10:31.700" end="01:10:35.300" style="s2">or at least it&#39;s reasonable to assume</p>
+<p begin="01:10:33.170" end="01:10:37.310" style="s2">that there are psychopathic</p>
+<p begin="01:10:35.300" end="01:10:39.260" style="s2">civilizations out there and then if you</p>
+<p begin="01:10:37.310" end="01:10:41.240" style="s2">show yourself you will be killed by</p>
+<p begin="01:10:39.260" end="01:10:44.930" style="s2">these psychopathic civilizations</p>
+<p begin="01:10:41.240" end="01:10:48.020" style="s2">so therefore the co-evolutionary result</p>
+<p begin="01:10:44.930" end="01:10:50.570" style="s2">is that no civilization that shows any</p>
+<p begin="01:10:48.020" end="01:10:53.060" style="s2">sign of being there exists long enough</p>
+<p begin="01:10:50.570" end="01:10:54.770" style="s2">to build these large-scale techno</p>
+<p begin="01:10:53.060" end="01:10:57.470" style="s2">signatures because they are killed by</p>
+<p begin="01:10:54.770" end="01:10:59.360" style="s2">the psychopathic predator species and</p>
+<p begin="01:10:57.470" end="01:11:01.430" style="s2">for the same reason the psycho and there</p>
+<p begin="01:10:59.360" end="01:11:03.830" style="s2">may be multiple those and they and each</p>
+<p begin="01:11:01.430" end="01:11:05.660" style="s2">of those shows no sign because it would</p>
+<p begin="01:11:03.830" end="01:11:08.480" style="s2">call in the other predators against them</p>
+<p begin="01:11:05.660" end="01:11:10.970" style="s2">of course the fun part is to combine all</p>
+<p begin="01:11:08.480" end="01:11:13.340" style="s2">this ideas Boltzmann brain simulations</p>
+<p begin="01:11:10.970" end="01:11:16.460" style="s2">super intelligent malevolent the ice</p>
+<p begin="01:11:13.340" end="01:11:17.130" style="s2">with thermi paradox and see if you go</p>
+<p begin="01:11:16.460" end="01:11:19.560" style="s2">crazy</p>
+<p begin="01:11:17.130" end="01:11:22.980" style="s2">uh heck no I just love to entertain</p>
+<p begin="01:11:19.560" end="01:11:26.070" style="s2">these ideas but on that note I think we</p>
+<p begin="01:11:22.980" end="01:11:29.219" style="s2">have covered so much ground that it&#39;s</p>
+<p begin="01:11:26.070" end="01:11:31.320" style="s2">time to wrap up this has been so much</p>
+<p begin="01:11:29.219" end="01:11:34.710" style="s2">fun we have touched upon so many of my</p>
+<p begin="01:11:31.320" end="01:11:36.690" style="s2">favorite topics it is an awesome</p>
+<p begin="01:11:34.710" end="01:11:40.320" style="s2">interview thank you so much and I hope</p>
+<p begin="01:11:36.690" end="01:11:42.780" style="s2">your listeners will look at some of the</p>
+<p begin="01:11:40.320" end="01:11:45.700" style="s2">papers we discussed maybe pick up a</p>
+<p begin="01:11:42.780" end="01:11:49.010" style="s2">bullet oh yeah absolutely</p>
+<p begin="01:11:45.700" end="01:11:51.510" style="s2">[Music]</p>
+<p begin="01:11:49.010" end="01:11:54.420" style="s2">production services and audio editing by</p>
+<p begin="01:11:51.510" end="01:11:59.060" style="s2">jerod Jane&#39;s consulting music by Tom</p>
+<p begin="01:11:54.420" end="01:11:59.060" style="s2">Muller at modern space music com</p>
+</div>
+</body>
+</tt>

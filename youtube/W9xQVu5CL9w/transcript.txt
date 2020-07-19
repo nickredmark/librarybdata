@@ -1,0 +1,1965 @@
+howdy this is Jim rut and this is the
+Jim rut show
+[Music]
+listeners have asked us to provide
+pointers some of the resources we talked
+about on the show we now have links to
+books and articles referenced in recent
+podcasts that are available on our
+website
+we also offer full transcripts go to gym
+rut show calm that gym rut show calm
+today's guest is Melanie Mitchell
+professor computer science at Portland
+State University and external faculty at
+the Santa Fe Institute hey Jim it's
+great to be here yeah it's great to have
+you here we go back aways absolutely
+many years and they'd indeed Melanie is
+the author of several books I often
+recommend her book complexity a guided
+tour as a really good introduction to
+complexity science and also I have some
+you know really nice history with
+Melanie's books one of them was quite
+historically important to me when I
+first started stumbling into not even
+knowing that it really existed
+complexity science the very first book I
+read was John Holland's book on genetic
+algorithms the second was to Kaufman's
+origins of order but the third was
+Melody's book on genetic algorithm so I
+don't remember the name of it we had an
+introduction to genetic algorithm yeah
+exactly yeah and I really liked that in
+fact it was the one that made this whole
+genetic algorithms thing clear to me so
+that when I retired from business in
+2001 I literally went down the hall and
+started writing hybrid genetic algorithm
+neural nets and frankly a lot of it
+stolen you know at least the genetic
+algorithm part stolen right out of your
+book so a very important part actually
+of my intellectual trajectory so thank
+you for that that's great to hear
+Melanie's also created and taught
+introductory level online courses on
+complexity science a little googling
+showed me that none of them seem to be
+active at the moment did I miss
+something do you have any of your
+courses up yeah there they're on
+complexity explorer org
+and they're always available but they're
+in session one of them is about to end
+its session okay yeah what they all said
+something like not in session or not of
+a
+or this or that but we'll get the link
+from Melanie and put it on the episode
+page so as usual people want to follow
+up on any link or reference on our
+episode page we'll have a link to one or
+more of the courses that's available and
+those things have gotten just amazingly
+good feedback anyway today we're gonna
+talk mostly though I'm sure we'll talk
+about other things along the way
+her new book artificial intelligence a
+guide for thinking humans the reader
+should find it very accessible I don't
+believe there was a single mathematical
+formula in the whole book
+thus Melanie obviously learned Hawking's
+law every equation halves the sale of
+the book and that's multiplicative well
+on the other hand that does not mean the
+book is lightweight she addresses many
+of the most important issues in AI today
+and to give some very nice examples
+explaining you know some of the basics
+of neural nets and even some of the more
+advanced topics like convolutional
+neural nets and recurrent Nets in a way
+that I think people will find deeper
+than you usually find in such intro
+books but yet not in a way that's kind
+of technologically off-putting so a good
+recommendation for people looking for an
+introduction to where the world is with
+respect to AI today thanks for that
+great introduction you could send me
+some Bitcoin at the following address
+right there really was a really good
+book okay let's jump in you know one of
+the points you make early on the book is
+that much of the media and truthfully
+I've even found this with some very good
+academics outside of computer science
+departments think that deep learning is
+artificial intelligence and that is all
+there is to AI did you start out by
+telling us how that isn't true and maybe
+a little bit of the history of symbolic
+and sub symbolic AI sure so at the very
+beginning of AI the research field maybe
+back in the 40s and 1950s people did not
+use learning as a method to create AI at
+least not for the most part they used
+symbolic AI in which people manually
+programmed and rules for intelligent
+behavior that turned out to not work
+very well because intelligent behavior
+is way too complex to be
+shirred in a simple set of rules that
+cooked up by a computer programmer so in
+the 90s starting the 80s and 90s people
+started using more statistical
+approaches where the idea was to learn
+from data computer programs learned from
+getting lots and lots of examples and
+there are many different ways to do that
+but only in the last decade or so has
+the method of deep neural networks taken
+over and it's been so successful that
+it's kind of taken over the entire field
+and everybody is using it in some form
+or another
+and a lot of the media and as you say
+people outside of the field equate deep
+neural networks with a I equate machine
+learning with a I equate deep neural
+networks with machine learning and yet
+all of those things are kind of
+subfields of a much broader set of
+techniques which you might call
+artificial intelligence yep and you know
+and you talk about hybrid systems and in
+reality and a lot of the real
+interesting things going on out there in
+the world are our hybrids you know there
+are partially maybe substantially deep
+learning but they have other attributes
+as well for instance self-driving cars
+do you have other things that you could
+point to that are examples of hybrid
+systems yeah most I would say that most
+of the systems that are used
+commercially are hybrid one well-known
+example is the programs by google
+deepmind that learned to play go and
+chess so alpha go is the famous go
+playing program alpha zero is a program
+that learns to play chess and other
+games and those involve both deep neural
+networks and more conventional technique
+called tree search which is a more
+symbolic kind of technique so those two
+systems combined together really are
+what give those systems of power okay
+good the other thing you address and for
+those of people who listen to the show
+we recently had Gary Marcus on the show
+and he talked about the same thing is
+the hype
+problem in AI that people over prom
+and under-deliver and it seems to be
+going on today but it wouldn't be the
+first time there's been a history of AI
+Springs and AI winners could you maybe
+give us a little bit of the history of
+the AI hype cycle
+sure AI hype has been around for as long
+as AI has been around and it comes not
+only from the media but from AI
+researchers themselves who either are
+hyping because they're trying to get
+more funding or because they actually
+believe that we're very close to big
+breakthroughs in mimicking human
+intelligence or possibly both but
+there's been this kind of recurrent
+cycle where there's been a lot of
+optimism and people making big
+predictions about what's coming very
+soon say self-driving cars which maybe
+we'll talk about a little bit later but
+then there's a big disappointment when
+the predictions don't come true where
+people overestimated where the field was
+and so you go from these so-called AI
+Springs in which there's huge optimism
+lots of funding thrown at researchers
+and lots of startup companies venture
+capital to AI winter where a lot of the
+funding dries up people are become more
+pessimistic realize that it was harder
+than we thought and that cycle then
+keeps going it's kind of a boom and bust
+cycle in AI and when I got my PhD in
+1990 we were in the middle of an AI
+winter and I was even advised not to use
+the term artificial intelligence on my
+job applications which now is kind of
+the opposite everybody's using the word
+artificial intelligence even if they're
+not really doing it yeah it cost you
+$100,000 a year to leave it off your
+resume right exactly
+yeah I remember those cycles in fact
+when I was a young entrepreneur in the
+early 80s a lot of my college friends
+from MIT had gotten involved in the Lisp
+machine era of AI which was you know
+hugely funded companies going public etc
+and a bunch of them tried to recruit me
+to come in to those companies and I went
+and talked to him and listened to him
+you know being it by that point kind of
+a relatively experienced corporate IT
+guy working on some advanced problems
+but nonetheless working with actual
+corporate IT people I made the
+assessment uh any industry based around
+the Lisp computer language is just to
+cognitively loaded to be realistic for
+corporate America and you know I
+concluded at that time and irrevocably
+that that whole list machine symbolics
+Corp and all that stuff was just not
+gonna work and I was right then it kind
+of spiraled down and to you know that AI
+winter that you were talking about there
+in the early 90s yeah well I have to say
+that I as a pre graduate student I
+learned to program in Lisp on Oh
+symbolic slist machine and that's by far
+the best machine the best user interface
+and the best programming language I've
+ever used but I understand that it
+wasn't going to scale up in corporate
+America but for research purposes it was
+great yeah probably one of my friends
+was involved in the the things that you
+like as I said him you need an IQ of 130
+basically to be good at programming Lisp
+and I can tell you that IQ 130s are
+fairly thin on the ground in corporate
+America unfortunately the other hand IQ
+130s kind of your baseline PhD science
+and engineering kind of person so it's a
+good fit that in that world
+huh well we can talk about IQs i q-- as
+a measure of intelligence when we talk
+about what is intelligence later on yes
+I know a controversial topic you know
+obviously it's that's a way to
+reductionist a way to think about it
+nonetheless I do push back a little bit
+about people say there's nothing useful
+in IQ you know it's not everything but
+it's also not nothing but we can talk
+about that later if you like
+okay and certainly it seems like today
+we are well into the hype cycle I've
+never seen a hype cycle quite like this
+when an AI and of course maybe it's
+different this time
+what do you think well that's a good
+question as you say it seems to be the
+peak of a new hype cycle where deep
+learning has been extraordinarily
+successful and there's a
+huge amount of money being put into
+start-up companies using deep learning
+and even by big companies like Google
+Facebook Apple IBM etc putting a huge
+amount of money into AI and deep deep
+learning in particular but I think
+people are just beginning to really see
+some of the limitations self-driving
+cars is a very good example you know
+people assumed that we would have
+self-driving cars widely deployed by now
+and even 2020 which is just a couple
+weeks away has been sort of the year
+that people have predicted that we're
+gonna see millions of self-driving cars
+on the road that you know human drivers
+are going to be a thing of the past and
+so on but it seeming more and more like
+that's way over estimating how soon
+we're gonna see that kind of technology
+so there's been a lot of predictions of
+a new AI winter and I wouldn't be at all
+surprised if that happens yeah I could
+say in my other role as occasional
+private equity investor in early-stage
+companies I'm starting to see the
+ridiculous you know two years ago it was
+blockchain and and such that was you
+know tacked on to every business plan
+whether it needed it or not you know now
+you can see a you know beer brewery all
+right we're gonna use AI okay right
+you'll be making beer successfully for a
+thousand years without it and I doubt
+you needed it lots for small scale micro
+breweries so that's generally it's a
+sign that we're getting late in the in
+the hype cycle where people are just
+relentlessly stapling ai to almost any
+other kind of business plan yeah AI
+blockchain and quantum computing those
+are kind of the three buzzwords we got
+the mother of all buzzwords right yeah
+we want to extract money out of naive
+investors let's string those to get
+their semi plausible sounding story oh
+my goodness
+interesting another area of a lot of
+confusion in the general public around
+AI is around strong or AGI versus narrow
+AI and you know a lot of this you know
+kind of big talk about AI you know going
+back even as far back as the 1956
+Dartmouth conference we're sorta
+about strong AI or artificial general
+intelligence or human-level AI what can
+you say about that versus the AI we
+actually have today all throughout the
+history of AI every AI program that's
+ever been created has been narrow in the
+sense that it's able to do essentially
+one thing like we have machines that can
+play chess at a Grandmaster level but
+they can't do anything else they can't
+play checkers we have machines that can
+do speech recognition now actually
+amazingly well but they actually don't
+understand any of the speech that
+they're recognizing and they can't say
+analyze that speech for its sentiment
+whether it's positive or negative you
+have other programs that can do analyze
+speech for sentiment but they can't do
+anything else so it we're in a world of
+narrow AI that's gotten better and
+better at narrow tasks but really the
+beginning at the beginning the goal was
+general ai ai that can do the sort of
+range of general tasks that humans can
+do course is debatable how general
+humans are but that's you know that's
+kind of the ultimate goal and people
+talk about AGI artificial general
+intelligence or human level intelligence
+or as you say strong AI all these terms
+refer to a goal rather than to anything
+close to what we have today yep that
+certainly seem to be correct to me and
+yet you and I both know an awful lot of
+people including me who got involved
+with AI at one time or other it was all
+about the hope for this human-level AI
+someday I think most people who got into
+the field at least up until recently
+that was their goal they got in because
+they were really excited about
+recreating human-like intelligence
+because they were interested in
+intelligence in the phenomena of
+intelligence and understanding it but it
+seems that our own intelligence is
+actually invisible to us you know we do
+so many things so easily like this
+conversation were carrying out you and
+just chatting and talking and we have no
+idea sort of how our brains are doing
+that and it turns out that it's much
+harder than we thought
+than people ever thought to recreate
+that in machines so that's been a
+recurring theme in AI that people are
+figuring out more and more how complex
+intelligence really is in a way that's
+almost invisible to our conscious
+processing yeah one of your chapter of
+titles I believe was easy things are
+hard right right that's something that's
+been you know pointed out many times you
+know I think you may have also mentioned
+this one specifically neither of us
+could multiply 250 digit numbers very
+quickly and yet a dollar-fifty
+calculator does it without any problem
+at all and yet the biggest computers in
+the world smartest a eyes can't pass the
+Steve Wozniak test which is to you know
+drop a robot into a random American
+kitchen and have it figure out how to
+make coffee
+exactly exactly that's a well-known
+paradox in AI indeed and yet there are
+some people who think that we're
+knocking at the door you quoted Schoen
+leg a very smart guy from deepmind who
+recently said he thought we'd be at the
+human level of AI in the mid 2020s
+yeah he since walked that back a bit as
+you can imagine but he's not the only
+one you know Mark Zuckerberg the founder
+of Facebook believed that within the
+next five years we'd have something like
+human AI and he was gonna have his
+company invent that I think the founders
+of Google also were very optimistic and
+they hired Ray Kurzweil maybe the most
+famous AI optimist to make you know
+general AI happen at Google so there's a
+pretty big difference of opinion even in
+the tech community about how close we
+are to having something like that yeah
+it may be it's like you know fusion
+based electricity it's 20 years in the
+future and always will be that's what
+people say and I think the reason for
+that is that we don't understand how
+complicated our own intelligence is
+because or so
+conscious of most of it most of the
+intelligence but they you know the sort
+of things that allow us to be generally
+intelligent to happen below the level of
+our consciousness absolutely in fact my
+day jobs that agree I have one is the
+scientific study of consciousness and
+the more I learn about it the more I
+realized how amazingly minor the actual
+conscious frame is itself I used to
+think it was doing one or two percent of
+the work but it's a lot less than that
+actually that's interesting yep the
+actual bitrate being processed in
+consciousness is on the order of 60 bits
+a second that's 60 bits a second and and
+yet we know that until probably still to
+this day it's true that the actual
+processing at the bit level in the human
+brain is larger than any computer on
+earth will pass that number soon but
+think about that sixty bits per second
+versus the most powerful computer on
+earth the thing that lives between your
+ears so that shows you how much is
+happening you know down in the lower
+parts of the brain where we really still
+don't have that much insight yeah that's
+why I thought it was a musing when and
+Rui who's a former Stanford professor
+and very big name in AI he came out with
+this prediction that anything that
+people can do in a second or less
+machines will be able to do as well like
+within the next few years and I was
+thinking well he really has no clue what
+people are doing in that second or less
+they're doing a lot yeah the one you
+alluded to earlier which is still a
+great mystery is how is it that humans
+produce speech right you know making
+your tongue wag is fairly well
+understood but how is it that we choose
+the words we do I mean it all happens
+completely unconsciously we have no
+insight into our sentence creation
+mechanisms this black box machinery from
+the conscious mind and there's what
+that's something we do in one second all
+the time yeah and that machines can't do
+very well at all let's jump ahead a
+little bit cuz you mentioned it and
+that's self-driving cars and you point
+out that one of the things that bedevils
+many of these kinds of high stakes high
+value problems is the long tail
+problem once you tell us about that and
+then more generally what you think is
+going on with self-driving cars because
+you were right even big companies like
+Ford was saying 2020 was the year you
+could go down to the Ford dealer and buy
+a you know level five self-driving car
+we obviously isn't gonna happen yeah so
+so the way that these cars are created
+the sort of self-driving cars as they
+use at least in their vision systems
+they use deep learning which involves
+learning from millions of labeled
+examples like you know some human has
+labeled a video that a car might see
+when it's something like that when it's
+driving they've labeled every object in
+it and the car learns like this is a
+trash can this is a stoplight this is a
+stop sign this is you know this is a
+pedestrian this is a dog and it learns
+all those objects but the longtail
+problem says that there's lots of things
+in the world that are very unusual but
+there's so many things that are unusual
+that something unusual is likely to come
+up so there's this idea of us think of a
+statistical distribution where there's
+lots of normal usual things that you
+would see but many many very unusual
+things that are in the tail of that
+distribution so I gave some examples
+like you know you're you're sitting at a
+stoplight for five minutes it's a red
+light it doesn't change okay that hardly
+ever happens but it happens occasionally
+or there's a snowman in the middle of
+the road where you're driving should you
+run into it you know there's all these
+crazy stuff in the world that can happen
+and machines don't learn about it so the
+question is what do they do when they're
+in a situation that they haven't been
+trained for well we humans have this
+thing that we call common sense we have
+it you know you can argue the degree to
+which different people have common sense
+but we all have this ability to take
+something we've learned and apply it
+appropriately for the most part in new
+situations and self-driving car
+really lack that common sense so they
+can do really well in most situations
+but there will be situations that occur
+for every self-driving car that it can't
+deal with so we don't have level 5
+autonomy which is where we can just sit
+in the back and drink wine and you know
+read read the newspaper while the car
+drives us because something weird might
+happen that it can't deal with yeah I
+gotta say that I find anything less than
+level 5 uninteresting and probably
+annoying and dangerous yeah that's the
+problem I mean this is the big trade-off
+in self-driving cars is that level 5
+means the car does everything in all
+circumstances level 3 or 4 whatever we
+have now with things like Tesla or the
+weibo and all these different
+self-driving sort of prototypes is more
+that the car can usually manage but
+occasionally the human needs to step in
+well humans are very bad at paying
+attention as we know and people don't
+pay attention and they don't step in
+when they're needed because you know
+stuff happens very fast and so we've
+seen a lot of accidents that involve
+that very thing where a self-driving car
+runs into a situation it can't deal with
+and the human isn't paying attention so
+it is very dangerous and interestingly
+Google with their way mode like even
+before it was way mo they came to that
+view and at the time it seemed radical
+they said we're gonna build a car with
+no steering wheel because we we our
+analysis our cognitive scientists have
+told us that the handoff between
+computer and human is never going to
+work and it's a degree they stick to
+their guns on that they may now be
+caught on ok they're right about that
+but then there's also the longtail
+problem on the other side yeah I think
+the way that it's gonna be dealt with is
+by redefining what it means to be
+self-driving so that we'll have
+self-driving cars but only in very
+restricted circumstances in parts of the
+city where everything is completely
+mapped out and you know there's may be
+restrictions on what where pedestrians
+can go
+and it won't be available in certain
+kinds of weather so it's going to be
+restricted so that the infrastructure
+that we humans build will kind of meet
+self-driving cars halfway so they won't
+have to deal with the longtail problem
+because we'll try and prevent any weird
+things from happening but they won't be
+able to run in all circumstances yeah
+the weather is one that's all I wondered
+about you know having lived most of my
+life in places with real four seasons of
+weather and having dealt with the fact
+that you can barely see out the window
+because of ice and fog and hardcore
+sleet coming down and all this sort of
+stuff you'd have to have a hell of a lot
+of extra processing redundancy and
+sensors to be able to safely drive a car
+in kind of adverse a real winter weather
+the kind you might find in the mountains
+back east yeah absolutely
+humans aren't that good at it either as
+we know humans get into lots of
+accidents and some of the self-driving
+car people have argued well self-driving
+cars aren't perfect they're going to get
+into accidents but maybe they'll reduce
+the overall number of accidents yeah
+that could be well be the case I make
+that point which is if the goal was that
+self-driving cars had to be perfect
+they'd never get there but all they have
+to do is be better than humans well I
+think that's maybe not true that that
+humans will not accept self-driving cars
+that are going to be fallible that are
+maybe just a bit better than humans that
+kill people you know because they get it
+they do the wrong thing and I don't know
+whether that's fair or not but I think
+people sort of hold the higher standard
+to the technologies than they do to
+other humans that's probably true and
+and even just at the human stick Gail
+the humans aren't that bad you know Gary
+Marcus and I actually looked this up
+while we were online on our call a month
+or two ago and it turns out that the
+current fatality rate in the United
+States is about one fatality per hundred
+million like the actual numbers like 80
+million miles driven and 80 million
+miles driven is only about what all the
+self-driving car tests in the world so
+far have added up to so there's no real
+statistical signal at all
+if there's a statistical signal at all
+its that is the opposite is there's
+still a lot more dangerous than humans
+humans aren't that bad actually they're
+not that good but they're not that bad
+okay but but I'll push back a little bit
+because looking at fatalities is one
+thing you know we have a lot of stuff
+technology and cars to prevent
+fatalities like airbags and seatbelts
+and all that but there's a lot of
+accidents that happen with with humans
+that aren't fatal and so humans do get
+into accidents much more often than that
+and maybe the number of accidents would
+decrease with self-driving cars that's a
+good point so we'll you know clearly
+somebody I'm sure that people like way
+Moe and uber etc have done this they you
+know a figure of Merit what is the
+economic utility of what level of
+wonderfulness in a self-driving car
+versus a human but then we still have to
+get to you know the question that you
+also raised which is maybe we demand a
+higher standard from automation before
+we're willing to try it yeah and one of
+the reasons is that we understand I
+think it's a matter of understanding and
+kind of you know I understand why people
+get into accidents you know they're not
+paying attention you kind of see
+situations where you know somebody acted
+unpredictably or something like that
+because I'm a human you know and I can
+kind of model other humans but it's
+harder to understand some of the
+accidents that self-driving cars get
+into like for instance when the car the
+uber car it didn't stop for that
+pedestrian that it killed in Arizona or
+the Tesla's you know the auto pilot that
+have been running into stopped fire
+engines and police cars seen a bunch of
+those examples and it's very the kind of
+mistakes they make are pretty different
+than the kind of mistakes humans make
+and that might be a reason that people
+will trust them less just because I
+would say they're less predictable than
+humans released less explainable yeah I
+think this is really important for our
+audience I think one of the things that
+makes particularly the neural style you
+know the sub symbolic deep learning
+style potentially problematic in that
+way is that the
+at least so far pretty opaque black
+boxes and it's really difficult to get
+any explanation of why they did what
+they did
+unlike symbolic systems could you talk
+about that distinction a little bit sure
+right so so deep neural networks are
+these very complicated programs they're
+software for the most part that involve
+millions of simulated neurons with even
+more millions of simulated connections
+between those neurons and it's just a
+bunch of equations and numbers very hard
+for a human even the person who
+programmed that network to figure out
+what the network actually learned and
+why it's making its decisions you know
+looking at a long long list of numbers
+is not an explanation of why this car
+they ran into this firetruck
+so this this idea that neural networks
+in particular machine learning more
+generally is hard to explain decisions
+that it made has become a big issue in
+the field and there's so kind of a sub
+industry of people trying to make them
+more explainable or transparent so how
+can you trust these systems when you
+can't explain why they're working so
+it's a little bit hard to say that we're
+going to trust them in all situations
+that's where the older symbolic systems
+had an advantage they may have been
+brittle in certain situations we'll come
+back to the brittleness of neural nets
+too but because they were you know
+written out in essentially logic
+statements one could more or less figure
+out why they did what they did
+yeah that's exactly right and you can
+think of humans as kind of a combination
+where we have obviously we are neural
+networks in some sense we have hundreds
+of millions of neurons and trillions of
+connections between the neurons and
+that's what's in our brain but we also
+have language on top of that which is a
+symbolic system which allows us to
+explain our decisions we're not always
+explaining them sort of truthfully or
+with veracity but it's an approximation
+and
+it makes us kind of trust other humans
+because we should kind of know how they
+think but these machines just are black
+boxes and it's really hard to get inside
+their heads if you will was in your book
+or whether were something else I read
+somewhere else but apparently there's
+some other countries not the u.s.
+because we're usually laggards and such
+things for some countries that are
+considering legislation to require plain
+English explanations of results from AI
+systems that have human implications say
+for instance being turned down for a
+loan or approved for a mortgage or
+something like that yeah that was in my
+book I talked about the European Union's
+GDP our legislation which part of it has
+the right to an explanation you know if
+your life has been impacted by an
+algorithm in some way by an outlaw than
+making the decision you have the right
+to an explanation but that kind of gets
+into a murky philosophical territory of
+what counts as an explanation you know I
+could say I could give you my soft the
+the source code to this network and all
+the data and say well that's the
+explanation well obviously that doesn't
+tell me much you know maybe all the
+information is somehow in there but it
+doesn't tell me much so how do you
+decide what counts as a reasonable
+explanation yeah and it's not clear that
+we're going to be able to build
+explainable systems that have the same
+kind of success in terms of accuracy as
+these deep neural networks that give you
+a real world example I sometimes do a
+little bit of Facebook advertising for
+my podcast episodes frankly more to
+learn demographic information who's
+interested in it than to drive a huge
+amount of traffic but it's interesting
+that I've had episodes completely
+innocent science only episodes turned
+down by the Facebook advertising machine
+by what after I raised unholy hell they
+finally admitted was a completely
+arbitrary black box signal which they
+couldn't explain and they had to reverse
+by human intervention
+that's strange yeah I know well shows
+how we still need humans in the loop
+it's frightening how much we're kind of
+in many cases giving autonomy to these
+algorithms to make decisions about
+humans like are you allowed to get on
+this plane no well why well because the
+algorithm says no and not only is it you
+know I said I was just utterly pissed
+off that you know that no one could
+explain because particularly the one
+particular episode that kept getting
+returned turned down again and again was
+the most pure science non-political
+non-controversial episode of them all
+nobody could explain it but the other
+thing that makes this even more
+potentially problematic than you talk
+about this a lot you give some beautiful
+examples is you know while old expert
+systems had their own kind of
+brittleness you know the neural nets are
+surprisingly brittle and can be easily
+fooled as well you show some great
+examples where using adversarial
+software that intentionally generates
+trick images neural nets that were
+trained to pick out classify images you
+know a panda versus a houseplant versus
+a steam kettle you can give it pictures
+that kind of look like static and they
+all said ostrich I thought tablet really
+interesting yeah maybe we're talking a
+little bit about how at least at the
+present point in time neural nets can be
+adversely defeated in perverse kinds of
+ways right
+so people have shown many ways in which
+you can fool neural networks the even
+the best deep neural networks that
+people are using today commercially that
+you can if if you're sort of clever
+enough and know something about the way
+these neural networks work you can
+create images either images that look
+exactly like the original image just to
+humans nothing's changed but you've
+secretly changed very slightly a few of
+the pixels and now the network thinks as
+you said it's an ostrich rather than a
+school bus or else you can generate
+these very noisy looking images
+don't look like anything to a human but
+the network thinks it's some object it's
+very very confident that it's some
+object
+so those are called adversarial examples
+and they've been shown not only in
+vision but also it's for speech
+recognition you know you can fool like
+your Alexa or your Siri system to think
+that some white noise is actually a
+command to it or you can fool language
+processing programs to miss read
+sentences to miss translate them in a
+way that you have targeted you know it's
+there's all kinds of ways in which you
+can manipulate these networks and it
+really shows that they are not
+perceiving their inputs in the same way
+that we humans perceive them that they
+haven't learned the concepts that we
+meant to teach them that they've learned
+something else that allows us to
+statistically correlate inputs with
+outputs and do very well at it except
+they can be fooled in these very not in
+human-like ways and that's the cause a
+lot of concern in the community there's
+a big area of sort of adversarial
+learning now that people study and try
+and build defenses against these these
+attacks but it's it's turns out to be
+quite hard yeah you allude to it in
+passing but I've come to think quite
+strongly that the reason that we see
+this brittleness in these neural nets is
+because they're almost exclusively
+feed-forward
+in meaning that signals start at one end
+and passed through to the other end with
+no or very minimal back channel yet we
+know in things like the human visual
+perception system there's a massive
+amount of feedback and I think you
+quoted and other people said similar
+things maybe 10x as much feedback as
+feed-forward and further in a lot of AI
+research will they introduce a little
+bit of recurrency tends to be very
+short-range you know a storage loop you
+know one one loop while in the human
+brain some of the feedback is from very
+high levels to very low levels and it
+strikes me that until we start including
+much more real long range recurrency
+into neural networks it's going to be
+essentially impossible solve that
+problem I think that's probably true the
+problem is that Neurosci
+just don't really understand the role of
+all those feedback connections in the
+brain and if you try and include that
+kind of thing in neural networks they
+become much harder to Train it's one of
+those things that's going to require
+some advances in neuroscience to really
+get a better handle on what all those
+feedback connections are doing and how
+we learn there their weights and to try
+and apply some of that to artificial
+neural nets yeah and you mentioned you
+know the we think at least that we don't
+have algorithms to solve those weights
+and I would argue that we're kind of
+like the person that lost their card
+keys and are but they're looking under
+the street lamp because that's where the
+light is even though that's not where
+they lost their keys and and that the
+equivalent of the street lamp is the
+obsession with gradient descent type
+algorithms for tuning weights they work
+really good when they work but there's a
+lot of things like highly long-range
+recurrent architectures or they don't
+work at all
+and yet we do have other methods and you
+alluded to them just again just in
+passing one of my favorites probably
+because it's what I personally worked
+with the most is evolutionary solutions
+to neural weights that will work on
+arbitrary architectures it doesn't
+really matter and can actually be used
+to discover not just waits but
+architectures too and there's been a
+growing still tiny but growing amount of
+work that shows for in many problem
+domains or in some problem domains of
+some say many yet evolution works as
+good or maybe better than gradient
+descent and yet it clearly works in
+domains where gradient descent can't get
+any traction at all you have any
+thoughts on whether evolutionary
+approaches might be able to open up
+these kind of macro architectural
+questions well as someone who wrote a
+book about genetic algorithms I'm really
+excited to see some renewed interest in
+this field you know it people have been
+looking at genetic algorithms in some
+form or another since you know almost
+the beginning of the AI age but they
+never really worked that well on you
+know on a wide set of problems and
+people kind of decided that oh
+evolutionary methods don't work
+so there was not that much support for
+them not that much interest but I've
+seen in the last like few years some
+renewed interest in that area and some
+renewed successes that kind of come like
+the success of deep learning because of
+the amount of computing that's available
+to us now so it may be that you know
+evolutionary methods were a good idea
+all along but just never had the amount
+of computing that was needed I was
+recently at the neural information
+processing systems conference which is
+like the biggest machine learning
+conference international machine
+learning conference and there were
+several keynote lectures that mentioned
+that ideas from evolution and ideas from
+artificial life should be looked at
+again in the context of AI and machine
+learning so I think there's there's it's
+it's gonna come back and I think that
+that's maybe one of the next frontiers
+yep I with you it seems to me that it
+will allow us to explore architectures
+that the gradient descent feed-forward
+people just can't get to and that'll be
+a good thing and I'd really think you're
+right that it a lot of its could be
+about the fact that people gonna wake up
+one day and go holy moly highly parallel
+stuff has gotten really really cheap you
+know clock speeds on ships aren't much
+faster than they were 10 years ago but
+the number of course per dollar
+continues to grow at Moore's Law and if
+there's anything in in computer science
+that's embarrassingly parallel its
+evolutionary algorithms right yeah
+exactly and you know companies like
+Google and uber are taking this very
+seriously and kind of looking at
+evolutionary methods now so that's
+that's kind of exciting yeah Hooper's
+had Jeff clean up but at their place for
+quite a while and you know he's funny he
+says oh I don't use the word evolution
+but you know that he still understands
+that's an important part of his toolkit
+oh yeah and another guy Ken Stanley is
+out there who does use the word
+evolution
+and has been working on evolutionary
+algorithms applied to neural nets for
+the last thirty years so I think that
+you know it there's some there's some
+interesting stuff in that area good I'm
+gonna go see look at the nips for
+seedings this year and pick out some of
+those evolutionary papers and see what's
+happening yeah this is something I've
+been waiting for for a long time and
+well I can get in my own little way I
+fool around with it at the margin and
+it's surprising how often you can
+actually solve a problem I used to you
+know back in 2001 2002 and I first
+started talking about him I would say
+that you know evolutionary neural nets
+are the weakest possible method but also
+the most general they could solve almost
+anything though not necessarily very
+well or very rapidly and you know with
+better techniques you know like the
+Stanley stuff from originally UT I guess
+he's down in Florida now this is
+academic home and the availability of
+massive truly massive amounts of
+parallel computation its time may come
+time in the same way that the you know
+deep learning there really wasn't that
+much magic in the algorithms that what
+really made the difference was people
+realize you could implement gradient
+descent on very cheap parallel
+architecture in this case GPUs and also
+somebody tried what seemed like an
+eternity ridiculous transfer function R
+Lu and it turned out to work great and
+it turned out to be particularly
+efficient on GPUs so sometimes those
+kinds of fortuitous fairly simple
+technological underpinnings can really
+change the fortunes of a whole technical
+approach yeah I don't know if you follow
+broad Brooks on Twitter but he you know
+he's a super well known AI robotics
+researcher and just like a week ago he
+had this long Twitter thread where he
+talked about how he's betting on
+evolutionary computation as the next big
+thing in AI so that was pretty pretty
+interesting that is its thing actually I
+don't know if I follow him or no I don't
+think so yep I'm gonna follow him you'll
+see his threat where he says you if you
+want to revolutionize AI and make a lot
+of money try evolutionary computation
+cool my bet what might be get me
+enough to go back to work yeah there you
+go of all things I love evolutionary AI
+is it but I'm too old and too rich and
+too lazy so leave it to the kids today
+oh yeah that very interesting passage in
+your book where you played the deliverer
+of other people's arguments about why
+AGI might never happen that somehow
+thinking was something that only humans
+could do you want you know bring forth
+some of those arguments and then your
+views about them so I quoted some of
+Alan Turing's arguments in his original
+paper on the Turing test where he is
+basically you know lists a bunch of
+arguments against machines thinking but
+then I talked about sort of more recent
+discussions about it where the idea that
+could a machine actually be thinking
+versus is it just simulating thought
+whether that's an actual good question
+or really an error in categories so I
+asked my mother I kind of quoted a
+conversation with my mom in the book
+where I talked to her and she's really
+adamant that machines can't think even
+in principle because brains are for
+faking and machines are for doing
+mechanical things so ergo machines
+cannot think so it's really it's it's a
+kind of a deep-seated philosophical
+almost religious view about thinking and
+I think that that in a way that comes
+from the notion there's something more
+to thinking than just something
+mechanical like our neurons getting
+input and firing and that there's
+something more to it in the brain you
+know it's it's really a complex systems
+issue where to my mind it's an issue of
+emergence that we have all these very
+relatively simple non thinking
+components namely neurons and
+connections and so on and out of that
+emerges this complex phenomena that we
+call thinking that is not easily
+reducible to the sum of its parts so
+that's you know maybe I don't know if
+that's exactly what you want want me to
+get at but that's was a lot of what I
+was trying to get across in that chapter
+yep I think that's really good any other
+thing I think you get alluded to it and
+passing but something I've kept my eye
+on pretty heavily is it I suspect that
+one level some of the critique might
+have been right in that all the focus
+just on what's happening in the head may
+have left out some of the important
+parts of cognition and the idea of
+embodied cognition and socially embedded
+cognition may actually be important for
+us to understand what human type
+cognition is really all about yeah
+that's a really important discussion so
+most of a I throughout its entire
+history has kind of seen intelligence as
+metaphorically the brain in the VAT that
+you have this thing this machine a
+computer whatever it is that doesn't
+have a body is not at you know
+interacting in a social group or in a
+culture or anything like that but it's
+thinking and it's rational and it's
+perfect and it's infallible and all that
+stuff that's kind of the idea of super
+intelligence that you're gonna have some
+machine that's gonna be you know it's
+never gonna need to sleep it's never
+going to stop paying attention because
+it's bored and all that stuff but
+another view is that intelligence is at
+least in humans and all the animals that
+we know of its embodied that we it
+relies very much on the body that you
+have and the way that body interacts
+with the environment and all these
+things like needing to sleep getting
+bored
+having emotions are actually big part of
+intelligence and the sole social aspect
+is very big too so I think that view is
+it's been around also for forever but
+it's getting some new traction as we see
+really the kind of limitations of the
+brain in the bat view of AI yeah one of
+the guys I really liked following for a
+long time is Antonio Damasio
+kind of his core book as the feeling of
+what happens and he's a
+both neuroscience but also where the
+body and the mind
+meet kind of scientist and he makes a
+lot of really strong arguments that it's
+particularly around consciousness
+without the body there really is no
+consciousness without the sense of the
+body and I think we're finding perhaps
+that that's more and more true the
+deeper we dig certainly encourage people
+to look in those directions yeah but I
+think some people in AI would argue it's
+with you and say well we don't need
+consciousness a machine doesn't need
+consciousness to be intelligent I would
+agree with that by the way okay yeah
+yeah I agree with that and here's my
+view on that one no because that this
+happens to be exactly the work I do is
+that almost certainly consciousness is
+not necessary for intelligence or even
+super intelligence which is probably a
+good thing right because many of the you
+know dire scenarios about you know the
+computers taken over you seem to have
+accidentally brought in the concept of
+machine consciousness in addition to
+machine intelligence however I suspect
+that mod nature discovered a very clever
+hack and that consciousness happens to
+solve one of the deepest problems that
+AI researchers run into again and again
+and again which is the combinatoric
+explosion yeah my model says the
+consciousness is essentially a fairly
+simple machine that forces decisions
+more or less arbitrarily but they're not
+arbitrary then they've been - and these
+this machinery of consciousness has been
+tuned over 200 million years at least to
+be able to produce quite decent results
+in the real world but it does it by
+basically brutally chopping with an axe
+all the possibilities that are computer
+programs get themselves tied up into in
+the shoelaces with and that's really
+what consciousness is for interesting
+you know I don't know if I agree with
+you that you could have intelligence
+without consciousness but I think
+consciousness also is one of those words
+that people mean different things by
+yeah that's one of the worst parts of
+that of the consciousness science it's
+you have to spend two days figuring out
+what each person you're talking to
+actually means by consciousness I mean
+you find some people to think only
+humans have consciousness and if they've
+ever had a dog they obviously don't mean
+same thing I do we're taught where I say
+not only does the dog have consciousness
+but so do all mammals all reptiles all
+dinosaurs all birds etc and maybe even
+amphibians but of course that's a big
+jump from humans only - oh maybe
+amphibians but we're clearly talking
+about something different so whenever
+you have a conversation about
+consciousness you have to be very
+precise we don't have time to do that
+today so we'll have to move on yeah
+let's go on to the next topic which
+again you did a very nice job of laying
+it out for the layman the idea of
+reinforcement learning or q-learning
+I want you to tell people briefly what
+that is so before I talked about
+supervised learning this idea that
+neural network or other machine learning
+system gets labeled examples where I you
+know human says this is a dog this is a
+cat this is a lion this is a tiger and
+so on well reinforcement learning is a
+way to learn without labeled examples by
+allowing a system to take actions in
+some environment and then either get
+rewards or punishments occasionally not
+for every action but occasionally so you
+know when you're playing chess you might
+learn to play chess by making moves at
+random and getting either a reward when
+you win the game if you ever win it or a
+punishment when you lose and then
+deciding how to adjust your
+probabilities for making these different
+moves according to that reward or
+punishment so there's been a number of
+algorithms that people have developed
+for this so-called reinforcement
+learning which is really a form of the
+kind of animal training people used to
+do to get rats to learn to follow mazes
+or do other kinds of tasks by getting
+rewards like food at the end now if you
+translated that into computer programs
+you can make these sort of numerical
+quote unquote rewards that the system
+gets and reinforcement learning again
+it's very old idea but only recently has
+it seen a lot of big successes the
+biggest one being the deep minds machine
+alpha zero that learned how to play go
+and beat the world's best go players yep
+and I think name and the big thing to my
+mind is that the rewards could be some
+considerable distance from the action
+unlike supervised learning where either
+you got the picture right or you got the
+picture wrong right in reinforcement
+learning it might be like the game of go
+where there's could be 300 moves before
+you found out if you won or lost and we
+get back to the old allocation a credit
+problem you know how do we in some
+principled way decide which moves
+contributed to the win or to the loss
+right and that allocation of credit
+problem is what these reinforcement
+learning algorithms like Q learning
+solve and they solve that by having the
+system not not learn to predict whether
+it's gonna win or lose at each move but
+to try and predict from one move to the
+next to get its predictions to align so
+we take a little bit more technical
+explanation to to convey that idea but
+it's a very simple idea and as long as
+you have enough compute power so that
+the Machine can say play games with
+itself while it's learning for millions
+and millions of games it actually is
+extremely successful in the game world
+it's not totally clear how well it's
+gonna translate to more real-world
+problems where you don't have this you
+know the very clear-cut rules of the
+game and the very discrete idea of Laika
+moves at winning or losing and I think
+that that's very very important point in
+fact you know that work I've mentioned
+that I did back in 2001 was essentially
+self play with genetic neural nets that
+learned how to play Othello they learned
+pretty well so it's certainly doable but
+the point about why it was able to work
+was there was only a limited number of
+choices at each turn and typically those
+numbers are surprisingly small and
+checkers it's something like five or six
+chess it might be 20
+I think they estimate and go it might be
+250 but the real world it's much much
+higher than that even some games are
+much higher than that I also do some
+work on a very advanced military type
+war game called advanced tactics gold
+and my rough calculation is that each
+turn there's ten to the sixtieth that's
+ten to the 60th power possible moves and
+there's no way anything like the kinds
+of cue learning and reinforcement
+learning we have today could even start
+to get any traction at all on problems
+at that scale and yet humans clearly
+can't write humans are very good at
+taking a situation that they're in and
+sort of dividing it up into discrete
+concepts you know we see a whole system
+of pixels in our vision and we're able
+to see objects right we say this is this
+object this is that object and we see
+relationships between objects and we
+kind of describe the situation in a very
+finite way so if we could get computers
+to do that in a kind of more human-like
+way maybe they'd be able to learn using
+reinforcement learning in the way that
+we do but it's really a combination
+between perception and learning and
+being able to chunk the world or to
+course screen the world in the right way
+and there's something else to it maybe
+even beyond that and what keeps coming
+back when I think about these problems
+and these alpha zero is a fine example
+the huge number of data sets that they
+have to have to get experience somehow
+humans are able to generalize what they
+know from one domain to another often
+called transfer learning you know the
+greatest chess master of all time may
+have played fifty thousand games of
+chess alpha zero would hardly have
+improved at all after 50 that I know
+that made it quite true but it certainly
+would have got nowhere near its level of
+expertise in anything less than many
+millions of games and so there's
+something going on in humans that's you
+know maybe qualitatively different that
+we don't even yet know the answer to how
+to get to beyond just you know coarse
+graining and objects and things of that
+sort
+yeah I think that's right people are
+able to abstract very well they're you
+know there's a movie about like it's
+called searching for bobby fisher' did
+you ever see that movie I know the movie
+I don't believe I ever saw yeah it's
+about a kid child chess prodigy who's
+learning to play chess and it's kind of
+about his life but there's one scene in
+the movie
+where he's being taught by this chess
+master is his teacher and they're in the
+middle of the game and then the teacher
+sweeps all the pieces on the board onto
+the floor and says okay put them back
+the way they were and the kid can do it
+and this is evidently something that
+chess chess experts can do that because
+they see the board not as just a
+collection of you know however many
+pieces but they see it in terms of
+high-level concepts and so they can
+reconstruct it because they didn't have
+to memorize every single pieces position
+they met just knew the concepts and they
+could recreate it in terms of the
+concepts so where the concepts are like
+small configurations with pieces so
+somehow being able to parse the world
+that way into this set of high-level
+concepts is one of the things that we
+can do that we haven't figured out I get
+machines to do and that's something that
+I'm particularly interested in because I
+think that's the heart of the ability to
+do abstraction and analogy yeah that's a
+perfect transition to my next topic
+which I just have the word understanding
+written down right you use that word a
+lot of times and you know people
+castigate me sometimes when I when I ask
+well how close are you to language
+understanding they'll say well under
+what our understanding what does that
+even mean right right but I think you
+and I both agree that it does mean
+something even if we can't define it as
+crisply as we'd like I want you to take
+a whack at what does what does it mean
+to understand you started to get it to
+it a little bit there earlier maybe they
+take it a little further yeah it's it is
+a difficult word but I think it's a
+really important one when we're thinking
+about intelligence so you can think of
+say reading a story a little paragraph
+or something about some event that
+happened so machines can do that and you
+can even ask some questions about the
+the story and sometimes they can answer
+them but the question is did they
+understand the story in the way that we
+do and often what psychologists talk
+about is our ability to construct
+internal mental models that
+simulate the situations that we
+encounter that we read about or that we
+imagine and that we can use to predict
+the future
+that it sort of brings in knowledge
+about the situation that that that we've
+had you know stored knowledge about the
+world so probably I should give an
+example here so say that you read a
+story about a young kid running a
+footrace barefoot and winning that's
+like a new sketch of a story well what
+do you understand about that story well
+you know a lot about what erases and you
+know like did the kid want to win the
+race yes of course the kid wanted to win
+the ways because people compete in races
+because they want to win did the kid
+come in first
+yes that's what winning means you know
+did the kids feet hurt after the race
+well probably if he was barefoot they
+hurt his because you know when your foot
+encounters rough rough surface that can
+hurt it you know was the kid wearing
+socks
+no of course that hit being barefoot
+means you're not wearing socks so just
+we just have all this infinite knowledge
+about the way the world works that
+allows us to sort of run these mental
+models that can allow us to answer
+questions about the things that that
+were faced with so understanding is a
+lot about modeling and being able to use
+those models to sort of access knowledge
+and predict the future so that's a kind
+of a one attempt at trying to get some
+handle on that term yeah in what area
+where this really comes out is in the
+area of language processing which of
+course is a huge area of investment
+right now and the scientific and
+academic research and yet you gave a
+bunch of great examples about the tools
+that we have today they don't really
+have anything like this kind of
+understanding maybe could you take
+people through some examples of the very
+impressive things that we have today in
+language processing and how they don't
+really show understanding one of the
+more impressive things we have our
+translation programs like Google
+Translate that can
+take in text and translate it into any
+number of languages you know hundreds of
+languages but the program when you
+actually give it a passage it's not
+understanding the passage in the way
+that we humans understand it and we can
+see that in some of the errors that
+makes so it makes errors like if I one
+of the examples I had in the book was a
+little story about someone in a
+restaurant and the man stormed out of
+the restaurant and the waitress said hey
+what about the bill and in one of the
+cases Google Translate translated bill
+as into French as legislative document
+right even though the context was a
+restaurant because it didn't understand
+the story it doesn't understand didn't
+have a mental model of what a restaurant
+was and what a bill is in the context of
+a restaurant well sometimes these
+programs can take into account some
+context but they're very far from the
+kind of understanding that we humans
+have that that you know lets us answer
+questions are about you know what's
+likely to happen when you're in a
+restaurant and somebody mentions the
+word bill and we also know things about
+like with the person storms out of a
+restaurant they probably didn't like
+their meal you know and things like that
+sort of basic facts about the world and
+about other people so Google translates
+really good at sort of the statistical
+mapping from one language to another but
+it makes mistakes that no human would
+ever make because of its lack of
+understanding this need for a deep
+understanding and common senses have
+been something people will talk about
+for years and you mention it in your
+book and so I've kept it out of the
+corner of my eye at least I don't know
+anything as much about as I'd like to
+is the psych project down in Austin
+could you tell people a little bit about
+what that is and what it may have
+achieved and what it may not have
+achieved so far
+so Doug Lynette is the founder of the
+psych project he's an AI researcher from
+way back and he's one of the first
+people that I know of in
+in the field who really took this idea
+of common sense seriously who said we're
+not gonna get anywhere in AI if we don't
+have machines with common sense that is
+the invisible knowledge that we all use
+in the world to understand language and
+other things but his idea was that we
+would have this sort of encyclopedia of
+common sense and that's why he called
+his project psych short for encyclopedia
+and the common sense would be in a logic
+based language that humans like his
+graduate students are later his
+employees would basically type in all of
+the knowledge that a machine would need
+such as example a person cannot be in
+two places at one time okay or every
+person has a mother or you know just
+statements like that all of knowledge so
+instead of being an encyclopedia like
+the Encyclopedia Britannica or Wikipedia
+or something this would be an
+encyclopedia of knowledge that is not
+written down anywhere so he's been
+working on this for I don't know 40
+years something like that and it's
+really hard to say how far they've
+gotten because I don't think that I
+think a lot of its proprietary but it
+certainly doesn't seem like the the
+project of trying to manually input all
+of common sense or having the Machine
+deduce new statements from the
+statements that it's already been given
+is going to solve the problem because
+the system again it doesn't have the
+kind of mental models that are needed to
+to kind of get the right knowledge out
+and predict the future usefully and I
+think the other problem is that a lot of
+the knowledge that we have about the
+world is we don't even know we have it
+and so we can't type it into the system
+and you know that a person can be can't
+be in more than one place at a time is
+sort of like that but like how many
+statements are there like that that we
+know that would be really hard to list
+so I don't think it's a very sustainable
+approach but I do think that Lenin was
+very prescient in his notion that common
+sense is really going to be the core of
+intelligence and I I agree with him yep
+I heard some people say that maybe let
+it is just took on a huge job that is
+doable but it's just bigger than he
+thought it was so maybe it's ten times
+or a hundred times bigger than the
+effort that's gone into it and that
+maybe it would be worth spending five
+billion dollars to build psych-out I'm
+not sure I'm not sure either and I think
+you know there's other research groups
+now that are getting into the
+common-sense business the Allen
+Institute for AI which was founded by
+Paul Allen the co-founder of Microsoft
+is now focusing on common sense and I
+think they have not exactly an idea of
+like psyche but they have this kind of
+crowdsourcing platform to try and get
+common sense assertions from the from
+the the the online world they're trying
+to mine common sense assertions from the
+web again I don't really think this is
+the approach that's going to lead to
+common sense but you know it's worth a
+try I guess nobody really knows the
+right approach another one then that's
+onra it was concept net where they tried
+to open-source this kind of stuff yeah
+MIT and people do use concept net and
+people do use psych for various projects
+but it and its youth they're useful
+right they're kind of knowledge bases
+and Google and Apple and other companies
+have what they call their knowledge
+graphs they're not exactly common sense
+knowledge but they're they're sort of
+general knowledge about the world they
+use in search and all these things are
+useful but none of them are kind of
+getting to the heart of what we mean
+when we talk about common sense so DARPA
+which has you know is one of the big
+funders of AI research has its own
+version of the common sense in AI
+project and they have this program
+called foundations of common sense that
+the Grand Challenges develop a program
+with a common sense of an 18 month old
+baby
+so they've enlisted cognitive and
+developmental psychologists to work with
+AI people on getting machines to kind of
+learn the basic like intuitive physics
+of the world in the way a baby would
+learn it but by watching videos and
+being in virtual reality and all that
+kind of stuff so that's another approach
+that yeah it was a pretty interesting
+I'll I'm not sure how it's gonna work
+that we'll see yeah my friend Josh
+Tenenbaum at MIT is working on
+approaches that sound a lot like that
+you know aiming at the 18 month old or
+two year old incorporating you know
+intuitive physics folk physics if you
+want to call it that to degree they can
+assess what a 18 month old actually does
+know and again it's interesting don't
+know if it'll get there or not but it is
+good that people are working on these
+things yeah I think it's great
+for our last topic I know this is one
+that's near and dear to your heart
+you've been working on it since you were
+a graduate student and that is the other
+way to ground AI might be through what
+are called analogs analogies and
+metaphors talk a little bit about your
+thoughts in that space maybe tell the
+story about your copycat program all
+right so I got into AI I was originally
+physics math astronomy that was what I
+was working on as an undergrad but after
+I graduated I read Kurt gödel Escher
+Bach Douglas Hofstadter's book about AI
+and about consciousness and so on that
+inspired so many people to go into AI
+and it also inspired me and I actually
+sought out Hofstetter
+and convinced him to take me on as a
+grad student and the project that he
+gave me was to build a program that
+could make analogies and he had
+developed this idealized domain of
+analogy making that involved analogies
+between strings of letters so here's an
+example if the string ABC changes to the
+string abd what does the string ijk
+change to most people would say I JL you
+know the rightmost
+the string change to its successor in
+the alphabet so change ijk to ijl and I
+say okay same original change ABC to abd
+what does i IJ j kk changed too and
+there people will say oh well i i j j ll
+that is they group the letters so they
+don't follow the original rule literally
+but they make a little change because
+now we don't have a string you know
+sequence of letters we have a sequence
+of groups of letters and then i can go
+on and on and give you hundreds and
+hundreds of these kinds of analogies
+that require different changes what we
+call conceptual slippage --is like four
+letter to group or you can do other ones
+where you go from successor to
+predecessor or any number of conceptual
+slippage --is you can make so the idea
+with this project wasn't necessarily to
+focus on strings of letters but to use
+the strings of letters as kind of an
+idealized domain to explore much bigger
+issues about how you take the knowledge
+you have and apply it to new situations
+and how you see abstract similarity and
+so on so i built this program called
+copycat because you know you're when you
+do the same thing to a new situation
+you're being a copycat and copycat was
+able to do lots and lots of these
+letters string analogy problems so but
+it you know it was very much it was kind
+of a mixture of symbolic and sub
+symbolic AI and it only got so far and
+then I started working on other things
+but I still feel like a lot of the ideas
+in that original project which was done
+in the 1980s and 1990s
+I think there's like genetic algorithms
+and like neural nets there's a role for
+those ideas that's kind of coming up
+again you know 30 years later so I'm
+excited about thinking about those ideas
+again and trying to apply them to more
+general domains you have some examples
+of things you're currently working on
+well one of the things I'm working on is
+visual analogies so if you want to say
+recognize a visual situation and one of
+the exam
+sweet we use often is a person walking a
+dog okay well you could try and
+recognize that there's a person there
+holding a leash the leashes attached to
+the dog and they're both walking and you
+could maybe recognize all those things
+and say an image or a video okay and so
+now you've learned let's say what
+walking a dog is but then I show you
+like a person walking ten dogs or a
+person running with a dog or a person
+riding a bike with a dog on a leash or
+any other kind of variation on this
+theme and humans are really good at
+taking something they've learned and
+applying it analogously in new
+situations but this is something that
+machines as you said earlier are not
+very good at you know we have this
+problem of transfer learning where
+systems learn in one domain and they
+can't transfer what they learned to a
+new domain but transfer learning is
+another word for analogy and I think
+that this big problem of being able to
+apply knowledge to new situations by
+making analogies is what's going to get
+us out of the problem of you know the
+long tail problem that we talked about
+earlier and the problem of transfer
+learning that so many people are
+struggling with now interesting now the
+other very closely related field is the
+area of metaphors particularly a lot of
+us know the work of George Lake off I
+remember when I first started reading
+Lake Hoff I said oh he's got to be
+exaggerating can't all be metaphors the
+meaning language but he takes you down
+some very interesting pathways and you
+realize that you know it's hard to say a
+sentence or and certainly to say two
+sentences without using at least one
+fairly significant metaphor you tell us
+a little bit about what that's about and
+what might be going on in that space
+lake often Johnson wrote this book
+called metaphors we live by and their
+idea was that our language just our
+everyday languages is filled with
+metaphors so so wasn't one example if I
+say she gave me a warm welcome you know
+that we're using the word warm
+metaphorically because it wasn't like
+literally hot you know in the room or
+anything but it's it's more of us
+social metaphor actually the theory is
+now we're actually interpreting it by
+using our model of physical temperature
+our mental model of physical temperature
+and so they go into this all these
+different examples of how we talk about
+abstract concepts like time and money
+and love and we understand them in terms
+of physical metaphors so those are
+really fascinating study of its kind of
+linguistic metaphors and I've seen a lot
+of follow ups that I found really
+convincing that that show that we really
+do structure our concepts in terms of
+very physical metaphors like you know we
+talked about if you might say that
+speech was very uplifting you know and
+we say okay up is good down is bad or if
+you say something like I fell in love
+you know we think about falling being
+out of control and all you know we apply
+these physical ideas to more much more
+abstract concepts so I found that really
+fascinating I think it's something that
+you know if we have a machine that can
+understand language it's gonna have to
+be able to understand this kind of
+metaphor by drawing on mental models of
+these more physical concepts you know
+one of my favorites kind of a double
+metaphors let's move forward with this
+project you know forward I would argue
+and I think lake Hoff does comes
+initially from moving forward and
+backward in our body which then was
+projected onto time forward and backward
+in time which is a metaphor from our
+body walking forward and backward and a
+project moving forward and as in making
+progress is then another projection
+probably from the projection of time and
+so we have the stack of metaphors that
+actually get us to the language as we
+actually use it yeah that's a good point
+and and you know it's invisible to us
+that we're making these metaphors we
+don't even notice it right when we talk
+but there's been a some work in
+like psychophysics and neural imaging
+and and other psychology kind of
+experiments that show that people really
+are the activating the neural areas that
+encode these visits the physical
+concepts that were not aware that we're
+even referring to but unconsciously
+they're actually quite active and and
+influenced the way we understand things
+so it's really interesting now can you
+see a commonality or or maybe something
+that brings together the idea of
+analogies and metaphors
+um I think you know they're related
+certainly they're analogies are about
+seeing similarities sort of abstract
+similarities between different
+situations and metaphors are about I
+don't know bringing in often physical
+concepts into abstract situations and
+perceiving them as being similar in some
+ways the origin of many metaphors is a
+little obscure I don't know how some of
+them came about but I bet that that kind
+of gives you some clue to how thinking
+in general and the origin of language
+and even maybe the origin of abstract
+thinking so I think it's a fascinating
+field but really very interdisciplinary
+you know linguistics psychology
+neuroscience and AI I think are all
+needed to try and make sense of it game
+through in biophysics right to degree
+that the groundings of the metaphors are
+in biophysics be really nice to know how
+those work yeah besides your work who
+else should we be looking at in the
+world that's let's just limit the work
+to analogies since that's really closer
+to what you're working on today who else
+who else you will be following well
+there's a lot of different approaches to
+analogy there's a group at Northwestern
+Ken forbus and dead reget nur and their
+colleagues who have looked at a more
+symbolic AI approach to analogy making
+and that work is very extensive very
+different from the work that I'm doing
+but definitely very prominent in the
+field there is
+actually some of the people at deep mind
+the group that did alpha go and alpha
+zero are looking at how to do analogies
+with using neural networks and they did
+some interesting work on visual
+analogies I'm trying to think there
+there's quite a few people who are doing
+some interesting work in this area if I
+can think of it any more I'll definitely
+send you some links to post yeah that'd
+be great one of the things people say
+they find most useful is use the podcast
+as the way to you know find other things
+to learn about yeah that'd be wonderful
+if you could send those to us
+sure well melody I think that's about
+we're up on our time limit now and I
+gotta say this has been a wonderful
+conversation and I can you know strongly
+recommend the people go out get your
+book and done a great conversation well
+I really enjoyed it thanks so much for
+having me on yeah I didn't necessarily
+go everywhere I thought it might but
+that's part of the fun of these things
+yeah well I think it we covered a lot we
+certainly did production services and
+audio editing by Jared Jane's consulting
+music by Tom Muller at modern space
+music calm

@@ -1,0 +1,2586 @@
+howdy this is Jim rut and this is the
+Jim rut show listeners have asked us to
+provide pointers some of the resources
+we talked about on the show we now have
+links to books and articles referenced
+in recent podcasts that are available on
+our website
+we also offer full transcripts go to Jim
+ruts show com
+that's Jim ruts show com today's guest
+is Jessica flack resident professor at
+the Santa Fe Institute hey Jim
+thanks for having me on the podcast hey
+great to have you on I'm sure we're
+gonna have a really interesting
+conversation Jessica received her PhD
+from Emory University in 2004 studying
+animal behavior cognitive science and
+evolutionary theory spending thousands
+of hours recording primate behavior at
+the world-famous Yerkes National Primate
+Research Center today she is the
+director of at SFI of C for collective
+computations group at SFI which
+describes its audacious mission as we
+work on how nature collectively computes
+solutions to problems and how these
+computations are refined and
+evolutionary and learning time we
+explore these ideas at all levels of
+biological organization from societies
+of cells to animal societies to markets
+the Machine human hybrid societies see
+for research projects it at the
+intersection of evolutionary theory
+cognitive science and collective
+behavior statistical mechanics
+information theory and theoretical
+computer science is some serious
+here I'm telling you we're gonna get
+into it here Jessica's also long been
+interested in some of my favorite things
+the foundations of complexity science
+and the nature of causality now let's
+start out with our first question one of
+your new research ideas which you worked
+on with some other folks at SFI and
+elsewhere is that the long-held view
+that complex the emerges from
+interactions among simple components is
+wrong that's a big challenge the
+convention indeed our mutual friend
+Murray goemon used to remind the SFI
+community regularly that the full name
+of what SFI did wasn't complexity
+science but rather complexity
+from simplicity tell us about your new
+view haha yes so I don't want to say
+Murray was wrong because of course
+Murray's never wrong but um but so
+there's a sort of nuance that we need to
+add to that understanding of how
+complexity arises and I think one of the
+things that's that we're coming to
+understand with better and better
+observation measurement tools is that
+lower levels of organization are not
+necessarily simpler than higher levels
+of organization as an example if you
+look at a eukaryotic cell you know it's
+not just and this is really for people
+are not cellular biologist obviously
+it's not just um you know 10 or so
+organelles floating around in some
+cytoplasm it's actually an incredibly
+complex thing with many many molecular
+houses of molecular motors densely
+packed organelles everything's optimally
+packed it looks when you when when you
+look at images of these things today
+they look actually like cities do
+especially if you look at a city from
+the point of view of um I sped up like
+in Godfrey Reggio films cornice quasi so
+amazing complexity at the cellular level
+and just recently was discovered for
+example that cells can compute the XOR
+function certain neurons can compute the
+XOR function so also individual cells
+individual neurons are capable of
+incredibly complicated behavior behavior
+that we thought required a larger system
+to perform and so that's the first
+observation that in fact lower levels of
+organization are a lot more complex than
+we've been giving them credit for now
+one could say that well the higher
+levels of organization contain the lower
+levels and so even if they're more
+complex the higher levels by definition
+are more complex in a sort of Russian
+doll model of complexity but that's not
+really a least as far as I'm concerned a
+very interesting notion of complexity
+that Russian doll model and I think
+what's really going on is that you've
+got this incredible complexity lots of
+parts doing complicated things at lower
+levels and then you've got the component
+trying to figure out how the world works
+trying to estimate regularities and
+through that process they're doing what
+we call coarse graining getting a handle
+on what those regularities are what the
+things are in all that complexity that
+they should pay attention to
+and you get this kind of compression of
+that microscopic complexity and the
+compression or the coarse graining then
+even though it's lossy and so you've by
+definition when you coarse grain you
+lose information the system also gains
+information because it gains information
+about what the right strategies are
+given those regularities and as a
+consequence of this you get what I call
+a macroscopic expansion that is the
+capacity for the system to perform new
+functions because it has a better
+understanding of what strategies work in
+a given environment so you have
+microscopic complexity you have a what
+I'm calling an information bottleneck by
+virtue of the coarse graining or the
+compression of the regularities at the
+microscopic scale and then because of
+that information bottleneck you get this
+macroscopic expansion of function such
+where the emergence comes in so as far
+as Murray's points about complexity from
+simplicity they're still sort of correct
+in the sense that the information
+bottleneck is simplifying so you're
+getting the complexity through this
+coarse graining in a way but though
+unfortunately I think what's happened is
+the way people interpret that is they
+think that it means the microscopic
+scale is simple perhaps it is simple to
+go lower right maybe atoms and quarks
+are sort of simple but maybe not maybe
+we dig into them further we'll find out
+that they're just as complex hard to say
+well that's an interesting point Jim and
+I think before we get to atoms and
+quarks we know that prokaryotes are a
+lot more complex and we thought - so
+it's been discovered that there they can
+perform within a prokaryote complicated
+metabolic functions and they have what
+would be something like seed organelles
+in a compartments so again we
+underestimate the complexity there now
+in terms of you know atoms and so forth
+I think one of the one of the things we
+always have to remember is that physical
+systems by virtue of having had many
+more many more hundreds of years to
+study them good science look to us now a
+lot simpler than perhaps they did when
+these things were first being worked out
+right so as you say it's not entirely
+clear to me that physical systems are
+you know as simple as we like to think I
+think anne-marie's sort of Eightfold way
+you know you know provide some backing
+for that right yeah he added some
+complexity downward basically right
+from what used to be very simple object
+okay here's our point proton or neutron
+and there we go no not quite that simple
+exactly as it turns out every time you
+look further what are we fine what's the
+most likely answer the further you look
+not quite so simple so let's get back to
+this idea of micro complexity and a
+bottleneck it probably helpful for the
+audience to have an actual example and
+maybe something at the level of a cell
+moving up I don't know what would be a
+good example well let me start with the
+example that I that I've that I've
+worked on and where some of these ideas
+originally started or I developed them
+and that's in actually in primate
+societies and you mentioned I did
+thousands of hours of work observing
+primary societies macaque and chimpanzee
+societies and in the course of that work
+I saw that the the monkeys were sort of
+trying to figure out they were you know
+this was well known and I don't leave
+our monkeys have a power structure
+what's typically called dominance
+hierarchy and they have fighting
+abilities that are kind of intrinsic
+develop over time very slowly but I was
+fighting in those fighting abilities are
+invisible to the other monkeys the
+monkeys have to sort of infer what the
+fighting ability is through fights
+that's how they learn about who's weaker
+and stronger they can't just see it it's
+not like a bird who has a badge on on
+its chest and the badge tells the other
+bird you know how capable that bird is
+of winning a fight the monkeys have to
+have to infer this through fights the
+fighting underlying fighting ability and
+then to use some attacks like a
+pigtailed macaque which is one of the
+species that I've worked with these
+pigtailed macaques they they have this
+history of fights with other individuals
+and and over that history one individual
+we learned that it's likely the loose to
+the other and if the asymmetry between
+them is large so that one individual
+knows with a high probability it's going
+to lose that individual omits what's
+called a subordination signal and it
+emits this signal outside of the
+agonistic or fight context and it tells
+the receiver of the signal that the
+sender recognizes that it's likely to
+lose and has agreed to yield if a
+conflict in the future arises it's
+agreeing that the sender is agreeing to
+a state subordinate state in the
+relationship
+and so this subordination signal
+summarizes there's a coarse-grained
+representation of that fight history and
+then the two individuals use it they
+reference it to make decisions about how
+to sort of behave in the future with
+each other now fights do continue but
+they continue at a much lower rate and
+the idea is that it's like a background
+processing computer science the fights
+are continuing just so something changes
+in the monkey's fighting ability or
+circumstances that dominance
+relationship that subordination contract
+can be reversed now everyone in the
+group is doing this they're all learning
+about each other's fights they're
+exchanging these signals and signal is
+highly unidirectional meaning that only
+one individual in the pair gives a
+signal so it's a very reliable indicator
+of this role and now there's a network
+of these things or a circuit if you like
+a circuit of these unidirectional
+signals and in that circuit is encoded
+information about the distribution of
+power it's essentially a mechanism that
+the monkeys have for voting on who they
+collectively perceive to be the most
+capable individual of winning fights
+mm-hmm I like that so you start out with
+a bunch of monkeys fighting which is a
+complicated many-to-many relationship
+complex I would say formally and that
+gets cooked down through presumably some
+genetically inclination to a at least
+fuzzy signal from which individuals say
+I am submissive to you a sort of a
+dyadic connection and then all the
+monkeys give out those signals lease all
+the submissive monkeys anyone below the
+Alpha presumably and then that set of
+signals unifies across the field of all
+monkeys in that particular troop to
+establish the kind of complicated
+network relationship of dominance
+hierarchy is that did I get it pretty
+close you did and I'm just gonna change
+a few things and the better understand
+and the first is that the fighting
+ability and are in the ability to win
+any particular fight is governed by both
+sort of this intrinsic ability that
+develops over an individual's lifetime
+so it's a slowly changing thing based on
+its experience and and someone genetics
+some genetic things like how big it is
+but that's of course also a little bit
+environmental and it's based on things
+like how a particular monkey feels on a
+given day or whether it's alliance
+partners are around and so forth so
+things that are temporally variable
+and so the reason why the monkeys need a
+bunch of fights to figure out the
+regularity is is because there are all
+these fluctuations so that's why this
+coarse graining the use of the signal is
+an important mechanism it gives the
+monkeys a reliable indicator of the sort
+of overall state of the relationship and
+and it's important distinction to that
+it's subordination signal not just
+submission because the monkeys do use
+similar signals in the fight context to
+indicate they're going to yield in this
+particular fight but by moving the
+signal outside the fight context to the
+peaceful context the monkeys are
+reducing the uncertainty in the receiver
+that the signal stands for subordination
+and not just submission in the immediate
+context so it's a really important
+innovation and it relates to the
+evolution of language and how we can
+come back to this later and how
+individuals learn the meaning of signals
+that are temporally and spatially
+divorced from their reference very
+complicated and interesting problem ok
+so now the monkeys have exchanged e
+signals and you've got this network of
+these signals and you can ask where the
+monkeys can by looking over the network
+who gives signals to whom figure out how
+much agreement there is based on the way
+the signals are being exchanged about
+who can use for successfully so this is
+fundamentally a collective problem and
+individuals can make errors in their
+assessment that's very important right
+so the power structure that's arising
+out of this process can be imperfect it
+may not a map directly on to the
+underlying distribution of fighting
+abilities it's the outcome of this sort
+of collective assessment process that's
+super interesting so the idea is not
+just that we're recovering like a ground
+truth that's hard to see the underlying
+distribution of fighting abilities but
+we're covering a kind of collectively
+constructed ground truth or view of
+who's powerful so when in this in the
+groups that I've studied one of the and
+this isn't true in every group or every
+macaque Society some are very different
+there's a the power distribution that's
+encoded in this circuit of signals is
+heavy tailed meaning that there are a
+few individuals who sit out in the tail
+are different from the rest of the group
+who are perceived by everyone more or
+less as disproportionately powerful so
+they're like our billionaires and those
+individuals are because they they're
+perceived this way they pay almost no
+cost
+they get no aggression response to
+interventions and fights and so they can
+perform functions like conflict
+management that could not be performed
+if the distribution were more normal or
+or uniform where there there are none of
+these billionaires so to speak right so
+these individuals out in the tail can do
+things that by virtue of being perceived
+so different from everybody else that
+they wouldn't be able to do if the
+distribution were different emergent
+function that's interesting it shows
+that diversity has its uses it basically
+produces classes that can have different
+roles than if everything were uniform
+that's another question for you one of
+my old favorites is there's some
+arguments in cognitive science that our
+reasoning is roughly Bayesian if that
+were also true from macaque s-- was at
+the cash whatever monkeys these were
+presumably if the fight ability
+differential was large the number of
+conflicts necessary to emit a signal
+ought to be relatively small and when
+the fighting ability is closer to being
+similar by Bayesian analysis it will
+take more conflicts before you get a
+reliable signal is that what the data
+shows yeah that basically is what the
+data show and and also the individuals
+who are very similar in fighting ability
+they often don't signal at all and they
+sometimes avoid each other so you you
+need to fight you would need to fight
+more to sort of figure out what the
+difference is as you point out but also
+since with fluctuations and contextual e
+variable stuff like how you're feeling
+today or the weather or the presence of
+your allies would make so many fights
+required sometimes the strategy they
+adopt is just not to interact that's
+interesting that would basically point
+toward my old favorite roughly Bayesian
+right of course they don't sit there and
+run base theorem but they say hmm this
+guy is too close to me
+it would take a long time to prove my
+dominance right so not worth getting
+beat up that many times even if I win
+well Jim you raised a very interesting
+point you say they wouldn't be sitting
+there competing Bayes theorem but yes
+consciously they're not probably
+considered computing Bayes theorem but
+their brain may be doing that that isn't
+you know possibility that we I think it
+confused about in social cases where we
+think that we're consciously performing
+the computations rather than just
+layering
+on top of competitions our brain is
+performing the explanation yeah that was
+my point is that you know I am a
+believer more or less that we are
+unconsciously running Bayes theorem in
+the background for roughly for a lot of
+things so that's why I ask the question
+this happens to be a kind of a
+horizontal interesting idea that I
+follow up on whenever I happened to get
+a sniff that it might be relevant yes
+absolutely I agree and there's a lot 1
+to discuss there absolutely but we got a
+lot of things talked about so maybe
+we'll come back to that so let's talk a
+little bit about causality I know that's
+something you're interested in it seems
+like every time anybody digs deeply into
+complexity if we're being honest we run
+into causality or we decide to sweep it
+under the rug what are your thoughts on
+causality that's such a big question
+yeah give us a big answer ok well I mean
+I've thought about causality in a few
+particular contexts which I can mention
+so one of them is in the context of
+what's called a downward causation which
+is this idea that higher levels of
+organization somehow mysteriously impact
+lower levels of organization and this
+has been a debate because often the
+higher levels are thought to be sort of
+statistical and it's not clear
+materially how this works how
+information can influence you know mass
+materials so to speak and so you know
+there's been a lot of nonsense around
+this down causation discussion and one
+of the things that we've sort of hit
+upon in our work is that what's
+happening is it comes back to the coarse
+graining I mentioned that as the
+components of an adaptive system or
+estimating regularities that's doing
+this coarse graining they're starting to
+use these coarse-grained representations
+rather than the environment these
+coarse-grained representations of the
+environment to make decisions and even
+if those estimates are wrong they're
+still using them to tune their behavior
+and as the computational capacity of the
+components of the system is when it's
+similar and when the sort of
+environments that the components are
+observing is somewhat similar then these
+estimates can start converging and you
+get what I call collective coarse
+graining and so through this kind of
+collective coarse graining these
+statistical regularities start to
+converge everyone's using the kind of
+same estimates to make decisions and in
+that sense you're
+starting to get this downward causation
+so then the components are still doing
+the work they're reading these global
+variables that they're constructing do
+their estimates of the world
+and they're tuning their behavior based
+on them and so there's no mystical they
+we've simplified the problem we're being
+very operational there's no mystical
+issue here the components that you know
+it's still materially instantiate the
+components are doing the work they're
+reading the variables but you're getting
+these this higher level starting to form
+as those as those estimates converge as
+those quartz crannies converts you get
+one picture even if it's wrong more or
+less one picture in the system of how
+the world works which we both know
+downward causality is something people
+love to talk about and are often very
+slippery about it let's dig into your
+view about this a little bit now the
+example I use for downward causality you
+know as a thought case experiment and
+correct me if I'm wrong on this is let's
+imagine I me whoever that might be
+decides to move my hand now the atoms in
+my hand would normally in the course of
+the life follow Newton's law and just
+sit where they are they jiggle around a
+little bit through the Brownian motion
+but they certainly wouldn't move 18
+inches from right - laughs all of a
+sudden the reason they did that is
+downward causation where's somebody
+maybe it was me decided maybe using
+something called free will which we'll
+get to later to move my hand and so that
+downward causation caused those atoms to
+move one is that a reasonable
+description of downward causation and if
+so how would you apply your thinking to
+that so I distinguish between simple
+feedback a parent downward causation and
+effective downward causation you know in
+your your atom case is closest to what I
+would call fee-simple feedback so there
+is you know some consequence because the
+world has changed to those atoms but the
+atoms are not reading anything about the
+world and making decisions based on that
+reading and the apparent downward
+causation you're getting tuning so the
+components are reading they're making
+read they're coarse graining and they're
+using those coarse grains to make
+decisions so they're reading essentially
+global variables but the tuning can be
+partial and imprecise and then this sort
+of like weaker form the components I
+need to be tuning their base
+to these estimates of these of these
+environmental or aggregate properties
+and there's some kind of downward
+causation as soon as that happens but it
+doesn't demand that the estimates of the
+aggregate properties are correct or even
+good predictors of the system's future
+states there so that sort of theories
+for other world where could be wrong
+okay and then what happens is downward
+causation in this apparent downward
+causation in my view becomes effective
+downward causation in a much stronger
+form when that when the coarse grained
+representation or these aggregate
+properties are predictive of the future
+state of the system and another name for
+these variables we call them slow
+variables they're the aggregate
+properties the slow variables are robust
+to small perturbations the estimates of
+the variables are used by all components
+to tune decision making or most of them
+and the components are the individuals
+are mostly in agreement about these
+variables right so your atoms are doing
+none of these things and the estimates
+are converging so that there's an
+increase in what we say we call a mutual
+information between the microscopic
+behavior and the macroscopic properties
+so in the atom case in the atoms case
+you just have simple feedback the
+environments change and that is you know
+has some consequences for the atoms but
+they really haven't had a role in that
+in order for it to be downward causation
+the components have to have a role in it
+they have to be perceiving or measuring
+some regularities and using those
+regularities to tune their behavior
+that's the critical aspect of it in my
+view okay let's take my example one step
+further maybe we can get into that realm
+would you describe the way the muscles
+behave relative to the concept in the
+head that says move your arm presumably
+influence by signaling over nerve
+systems etc is that coming closer to
+your idea so I don't know enough about
+the like neurophysiology of muscle
+movement to answer that question but
+neurons like back propagation I think
+when you have like feedback from a
+higher level to a lower level where the
+neurons have to actually make estimates
+of those regularities to do the back
+propagation mechanism would be an
+example so it all comes down to this if
+the components are estimating
+regularities and then using those
+estimates to tune their behavior and
+when there's a majority or a large
+number of them in the system doing this
+that's what I call it effective downward
+causation so that would certainly fit
+the case of the muscles because they're
+in a constant recurrent loop with the
+higher levels of the brain
+and they're constantly adjusting as they
+go yeah so this doesn't require any you
+know it and I have to be careful
+obviously sophisticated cognition
+because actually I think there's a lot
+of sophisticated cognition going on in
+lower levels but this isn't you know
+just at the individual level it
+certainly can describe as you you know
+muscle cells and principal and neurons
+it certainly seems to describe some you
+know of neural systems where there are
+these feedbacks with the neurons
+estimating regularities gotten the
+regularities in this case are what the
+the brain state what is the regularity
+that they're estimating well so for
+example it could be something like a
+brain state encoded in some timescales
+or you know some circuit property and a
+simple example would be in an experiment
+over the random dot basically you have
+dots on the screen moving left or right
+and there's a lot of dots and that you
+can control the number that are moving
+left to right and a subject a monkey is
+watching the screen it has to estimate
+which direction the dots are moving and
+so the neurons receive some input some
+signal that sort of based on the monkeys
+you know intake of this visual scene and
+then the man the neurons have to decide
+how to respond in to that signal how to
+fire okay and so then the state is the
+dots on the screen in that case the
+state would be yes something in the
+environment the dots on the screen and
+the downward causality would be the
+behavior of the monkey based on those
+dots well know so that in the case of
+the neurons here so the neurons then
+have to sort of estimate which way the
+Drott dots are moving and then they have
+an opinion about this and that in pinyin
+is code it encoded at the population
+level and an interesting question is you
+know if the neurons have different
+opinions how do they come to consensus
+about it and then presumably sis a
+little bit more complicated example that
+consensus view of what's going on is
+then passed on to another system another
+population of neurons in the brain that
+maybe control the motor output of the
+neuron and which direction of the monkey
+and which direction the monkey looks to
+indicate to the experiment or whether
+the dots are moving left to right so the
+downward causation always has to be from
+you know a higher organizational level
+to a lower organizational level and so
+I'm not sure in that case whether you
+know it's occurring in the population
+neurons that's encoding which direction
+the monkey should look or or further
+downstream okay it's getting there it's
+still a difficult topic right they're
+still not clear in my head maybe it is
+in yours but I think we have to all do a
+little bit more thinking about this the
+monkey temple affords the you know a
+really easy version of this in the sense
+that the monkeys in the downward
+position occurs in multiple contexts so
+the downward causation occurs in the
+signaling context when they reference a
+signal the subordination signal for
+decision-making right so they've made an
+irregularity from the fights they encode
+that regularity with the signal exchange
+they reference the signal to make
+decisions about how to interact in the
+future and then as the signals
+consolidate in the network the signal
+exchange consolidates in the network and
+they start computing the power
+distribution they reference the power
+distribution for decision-making what's
+the costs are going to pay in fights
+based on how they're perceived
+collectively in the group in terms of
+capacity to win a fight and so you get
+downward causation from the power
+distribution to their decisions during
+conflicts and and other aspects of
+social interaction so you have downward
+position there are two at two levels one
+at the signaling level and one in the
+power distribution okay I will call out
+to our audience that just written a
+quite accessible paper called coarse
+graining as a downward causation
+mechanism is that still a paper that
+you'd recommend people read to get a
+sense of your thinking oh yeah
+absolutely yeah I found that to be quite
+good actually final question on
+causality are you familiar with Judaea
+Pearl's work and his work of trying to
+unify probability and causality yes yes
+I'm not an expert on you day of pearls
+work but yes I know his book and his
+papers and it related to some work that
+we do on robustness what's the essence
+of his idea about unifying probability
+and causality well I'm not sure that I
+want to summarize that but I can say a
+little bit about causality in the
+context of robustness and some of the
+challenges that we face in measuring
+robustness
+so of course robustness is the ability
+of a system to maintain a function or
+state or structure in response to
+perturbations and one of the challenges
+in measuring robustness is that
+it's um often not visible until there is
+a perturbation and you have to be very
+careful about certain kinds of things
+like for example you could do an
+experiment where you perturb an element
+of a system or component of a system and
+you see no change to the system and you
+ask yourself well why might this be is
+it that the systems robust this
+perturbation possibly or an alternative
+explanation is that the component that
+you perturbed makes a very small causal
+contribution to the function of interest
+so let's say like again I can give you
+an example from our monkey society or
+gene regulatory network and the monkey
+case one of the things we did is we
+knocked out the policing mechanism
+that's at this this mechanism that these
+individuals in the tail of the Power
+Distribution perform this conflict
+management mechanism where they break up
+fights and partially among other
+individuals in the group so they don't
+take a side and they can do this by
+because they're perceived to be so
+successful are so powerful by the
+individuals in the group and so we
+knocked out this policing function by
+removing these individuals from the
+group and confining them so the removal
+was partial they had vocal and visual
+access to the group they couldn't
+actually perform any interventions and
+we had to sort of show in advance that
+they made a causal contribution to
+fights that they actually were impartial
+e breaking up these fights and so one of
+the issues in robustness as I said is is
+knowing whether the if you observe no
+change to a system as a result of the
+perturbation it's because the component
+you disabled or perturbed is making a
+causal contribution and then what you
+want to defend what you want to measure
+is an ideally if you can you want the
+magnitude of that causal contribution
+and then you want to measure what we
+call the exclusion dependence and this
+is work with David Krakauer and me had I
+the exclusion dependence is the change
+to the system function or the target
+function in the absence when you do the
+perturbation so now you have the causal
+contribution prior to prior to the
+perturbation and the exclusion
+dependence what happens to the system
+when there is a perturbation and it's
+the difference in these two quantities
+that tells you whether the system is
+robust so in other words you have to
+knock out a node that makes a causal
+contribution and you have to observe
+that when it's when it's removed
+the system changes and so in the cake
+you're talking about here you took out
+these highly dominant animals that were
+playing the policing function and when
+you took them out something changed and
+we knew in advance that they were making
+a causal contribution by virtue of their
+intervention behavior right and then yes
+we disabled the system of measure the
+exclusion dependence this is so you you
+take these two quantities into account
+so you're not measuring trivial
+robustness essentially gotcha I like it
+that's good so one thing that can happen
+when you do the perturbation is the
+system if you don't set the time scale
+of measurement correctly the system
+could rewire itself to recover the
+function all in an alternative way and
+that would also make it seem like the
+system had not changed but if you knew
+that the components that you were
+removing or making a causal contribution
+then you would question your results so
+again this distinction between the
+causal contribution prior to
+perturbation and then the exclusion
+dependence as a result of perturbation
+these are two different you know
+concepts and they're very important to
+keep in mind okay that's good since
+we've been talking about slippery topics
+let's go into one of the slipperiest
+what are your thoughts about this thing
+some people call freewill and maybe how
+does it relate to consciousness okay so
+I have a some somewhat and I think
+slightly different take on this and it
+is definitely related to two dominant my
+take is definitely related to dominant
+ideas and neuroscience which I'll come
+to in a second but I basically think
+about freewill as the feeling and it's
+very important the feeling that we can
+make choices and then choice is just the
+ability to select among alternatives due
+to these sort of inherent stochasticity
+in the world and errors and information
+processing which I think are common
+because of all that complexity that we
+discussed earlier so I just think it's
+between choice and free will with
+choices is the ability to select among
+alternatives
+given the stochasticity in the world do
+you know a variety of different things
+and freewill is the feeling that we can
+make choices so by saying feeling it
+doesn't mean that it's an illusion the
+important point is that it's a kind of
+emotion a feeling about how about
+whether we can make choices and it
+relates to consciousness in the sense
+that for me and again this is again
+slightly different take I think although
+it's been talked about for so
+probably since humans could talk I'm
+sure someone has articulated it this way
+but for me consciousness is essentially
+the degree of access to computations in
+our brains at this at the system level
+so whether it's the whole brain of the
+whole organism or some subsystem
+whatever your system however you define
+it is however you define your system
+it's it's a degree of access to
+computations the brain at the system
+level captured by an effective Sirius
+essentially a theory for how the
+competition works that whether right or
+wrong lets the Assessor understand how
+the computation is being made so it's
+not about an perception I'll introduce
+that to perception is a state of the
+world how we how we perceive the state
+of the world and elements in those
+states and you know you often hear about
+consciousness has this integrated thing
+and I would say that it's perception
+that can be integrated and consciousness
+really is about the degree of access to
+competitions in our brain so we have a
+less access to our motor control
+explaining them articulating them than
+we do to in principle our understanding
+of social interactions and one more
+point on ADD is that this sort of
+effective theory or access to these
+computations can be given in a variety
+of different ways that needn't be in
+natural language it could be in
+mathematics or it could be even
+expressed musically or in terms of
+visual imagery or texture so it's just
+about an alternative representation so
+again consciousness is a degree of
+access to competitions in the brain what
+does it mean access to be able to see
+them to understand them or to use them
+Tabitha sort of a theory for how the
+computation is performed whether it's
+right or wrong so when you do walk down
+a set of steps you often have no access
+to the computations your brain or making
+is making to ensure you put your step
+your foot down in the right place your
+brain is doing that computation but you
+can't describe it now if you were pushed
+by a friend who you know you tripped or
+something you asked what happened you
+might be able to sort of make up an
+explanation based on logic or you sort
+of understanding geometry or something
+for how your brain perform that
+computation so I say our conscious
+understanding of many of our motor
+control movements is very low but
+perhaps we have uh we have better things
+for social interaction so our conscious
+understanding of social interaction
+seems to even higher although that could
+be that could be full you know that
+could be
+a little bit of an illusion well this
+seems like a pretty high level sort of
+evolutionary definition of consciousness
+I mean I'm thinking here the way you're
+describing it only applies to humans no
+I don't think so because that's why I
+said that the representation needn't be
+in natural language okay it could be a
+mathematic it could mathematical it
+could be visual imagery could be
+geometric there are many alternative
+representations that other organisms
+could be using to sort of have a theory
+for how their brains performing these
+computations why do they need a theory I
+like to use Gerald Edelman's distinction
+between primary consciousness as he
+would describe it the kind that we are
+pretty confident that a dog has versus
+extended consciousness which is the kind
+that for sure humans have and maybe some
+of the great apes and maybe some whales
+and dolphins have and his definition of
+primary consciousness of the dog is
+essentially it's in its own movie of the
+world right it's in a scene and it acts
+and it feels that it's in this scene and
+it doesn't necessarily theorize about
+that while extended consciousness and
+needleman's terminology does start to
+bring in concepts like self-awareness
+and the ability to theorize is your
+definition either of those two or
+something something else yeah I mean the
+definition of consciousness I'm you know
+the ability to access those computations
+and have a kind of effective theory for
+how they're being performed is related
+to a omens second point but I would not
+restrict that to humans I think we don't
+know the answer to this question yet and
+like I said by allowing many different
+types of representations then we're not
+ruling this kind of consciousness out
+another analyst because we're focusing
+on the ability to do this in natural
+language or mathematics all right so
+that's that's an important point now and
+neuroscience there are two big theories
+as I understand it for for our own
+consciousness and one is comes from some
+French I think mostly French
+neuroscientists and it's basically
+called the global neuronal work space
+idea of consciousness and it's similar
+to what I'm articulating in the sense
+that it suggests that there are many
+different processes going on in your
+brain and when you're conscious of
+something you you sort of have access to
+those computations in many different
+parts of your brain
+so and the way it sort of comes from
+this idea I think it that was originally
+came out of early days of AI where you
+have a kind of blackboard and different
+processes basically post information to
+this blackboard and when it's posted to
+the blackboard it's globally a bit
+so-called globally available information
+the blackboard of course is small or
+finite so you can't post everything
+there all at once and the more you can
+post there the more conscious you are so
+to speak that's that's one take on a
+global neuronal workspace which comes
+from these French neuroscientists I
+think it's very interesting and it's
+related to what I'm saying although not
+identical and then and then the other
+idea comes from like to know and
+Christophe coke and people like that
+integrated information theory which is
+more or less they're different takes on
+this but more or less the idea that
+consciousness is about a sophisticated
+mechanisms that through integration and
+modularity allow you to represent a web
+of causal net of causal effects and the
+sort of higher you this measure called
+Phi is the more conscious you are so and
+the idea is that a higher Phi means that
+you can represent you have a network
+structure that can represent more of
+these puzzle interactions and so I would
+say that what I'm saying is more it's
+closer in some respects to the sort of
+global neuronal workspace except I'm
+also including this idea of this
+effective theory so that you have this
+theory for how your brains performing
+these computations which brings in a
+little bit of that to Nonie perspective
+mm-hmm right because so you've got on
+the one hand this sort of global
+neuronal workspace that says you get
+access to these computations when
+they're posted to this blackboard this
+kind of global posting and then the
+tannot knee which is sort of emphasizing
+this web of causal interactions that's
+meaning possible by this particular type
+of network structure where this Phi is
+maximized
+yep yeah I would add a little bit to
+that which is the global workspace
+theory was actually I think originally
+fully articulated by Bernard Bars who's
+an American though it is being pushed
+today by frenchman like the Haney etc
+exactly that's right Barzini and change
+you I think's the same yeah I don't know
+that one in my own work in consciousness
+I basically follow bars with some
+extensions and corrections and certainly
+we have two noni and coke with the
+integrated information there's a third
+real important one which is the more
+bodily emotional theories of people like
+Antonio Damasio one of the books that I
+wrongly recommend to people if they're
+interested in understanding his
+perspective is the feeling of what
+happens yeah he argues that the seat of
+consciousness is not the cortex there
+the thalamocortical connections or in
+perception or anywhere else but it's
+deep in the brain stem in the feeling of
+having a body and that that is where
+consciousness comes from so he would
+argue consciousness goes way way way
+back evolutionary I would say those are
+the three differing arguments from the
+neural science community and then of
+course we have other arguments from
+people like David Chalmers about the
+hard problem which we don't really need
+to get into today because that's above
+our pay grade I think what we've covered
+actually tackles almost hard-hard from
+exactly that I mean so I don't I would
+add to this is so I don't I don't really
+see that there's a hard and an easy
+problem as Chalmers articulated I think
+that that's false and that the the the
+free will thing that I the point I made
+earlier that free will is a feeling that
+we can make choices is related to the
+embodiment points you're making and this
+mind brain distinction comes back to the
+coarse graining and the global neuronal
+works based points which is that by
+coarse graining you come out coming out
+with these sort of summary statistics
+global variables essentially that you're
+posting to this blackboard and that's
+where you get the notion of mind is
+essentially that the summary statistics
+are coarse-grained representations of
+neural dynamics the weak problem of
+Chalmers that we have some access to
+secondarily and when we have that access
+that's what I call consciousness and so
+like I said it I'm not gonna restrict it
+to humans because I'm not going to limit
+it to those representations being stated
+in terms of natural language they can be
+any type of representation so you know
+dogs amoeba anything that can have a
+representation of the computations that
+is performing
+that's secondary would be a candidate
+for for having some level of
+consciousness I I just don't think that
+Chalmers saying you know I I don't
+believe in that again it's like the
+downward causation it's mystical that's
+my take as well even though I can't
+prove it
+my intuition having been working in this
+space now for eight years is that there
+is no hard problem you know guys like
+Daniel Dennett would agree with that as
+well
+but we haven't quite been able to figure
+out exactly how to articulate it though
+I like your approach which is we think
+about things like free will let me try
+to put your words into some different
+words and tell me if I get it or not is
+that if we think of free will as the
+ability to make choice within a certain
+level of abstraction or what you would
+call coarse graining then we can say
+that we do have free will
+even though I'm currently reading Brian
+Greene's new book you know explanation
+of everything about science from the Big
+Bang to Beethoven essentially and he
+argues there's no such thing as free
+well it's all fundamentally reductionist
+physics all the way down but your
+analysis would say that it at the right
+level of coarse graining than to degree
+we have choices within that coarse
+graining then we have freewill
+yes I think that's basically what I'm
+saying I would I would highlight two
+things that one our choice space could
+be larger than we imagined or understand
+and so are we might in that case our
+feeling of freewill is less than it
+could be if we fully understood our
+choice space that's one sort of nuance
+and the other is that yes how you
+coarse-grain will impact how large
+perceive that choice space to be now I'm
+going to branch off here something not
+in my notes so could something like
+meditation affect our ability to access
+our free will or change how we feel it
+or experience it yeah I think I think
+there are definitely ways that we could
+so let's say our you know we're highly
+stressed and so we don't perceive the
+full choice space we think there are
+certain options that are close to us but
+they're not actually and by taking
+making certain interventions meditation
+might be one exercise could be another
+where we calm our brains or change our
+attentional neck
+or you know quiet our responses we might
+be able to perceive a larger choice
+space and then increase that feeling of
+being able to make choices and then that
+way so to speak increase our freewill
+possibly I mean that's really special
+rating and it's fun it's a fun thing to
+think about people who listen to the
+show regularly know that I'm fairly
+skeptical about spirituality and I call
+it the S word and I've had some very
+interesting conversations with people
+who are practitioners of what they call
+spirituality I will say I have learned
+from them and I hope they have learned
+from me next time I run into one of
+these discussions I'm going to ask them
+all right I'll present your concept of
+free will and I'd say explain to me how
+contemplative practice or other forms of
+spirituality may or may not you know
+expand or refine or improve this concept
+of free will so interesting so I'm going
+to move along here a little bit you're a
+co-author with a bunch of other my
+favorite complexity science folks on a
+paper titled the challenges and scope of
+theoretical biology and it's a paper I'd
+also recommend to our listeners despite
+its incredibly deep ideas
+it is quite accessible and as I recall
+has no math at all I know it's a huge
+topic could you tell us what you can
+about it yeah so I mean this is
+obviously a huge point of interest at
+the Sante fans it's you law like
+behavior and adaptive systems and and
+there seem to be you know lots of
+regularities and low like phenomenon
+physical systems and we question one
+question is why there there aren't as
+many or why we haven't identified as
+many or as often laws in biology in
+adaptive systems and and so this papers
+sort of an attempt to I'm addressed that
+and this is a big theme in my work in
+fact so I guess I would step back and
+start with this observation that energy
+energy was sort of at the core of 20th
+century science and and maybe the
+proceedings say 300 years and the focus
+on energy in sort of in physics of
+course culminated with the splitting of
+the atom during Manhattan Project and in
+biology for the most part the focus has
+been on this is a really big picture to
+sort of get into this difference of you
+know why I seem to be fewer laws analogy
+in biology also for the most for the
+20th century and before the emphasis has
+been on energy how organisms get across
+and convert it into offspring
+information is always recognized as
+important right so you've got wheeler
+for example in arguing that it's in fact
+perceived matter and that lovely paper
+he wrote and then jeans you know
+connecting entropy the number of options
+available to a system to statistical
+mechanics information theory so and then
+you've got people like Seth Lloyd
+writing books about universe itself
+being a computer but I say despite this
+this the overwhelming focus has been on
+energy and I've argued and we sort of
+dealing with this in that paper to make
+products and biology information has to
+be more central and to sort of see why
+that's the case it's sort of useful to
+step back and think about some
+distinctions between physical and
+biology biological systems so physics
+for the most part you know dominated by
+concepts like pressure temperature and
+entropy that emerge to fairly simple
+collective interactions and kind of they
+give these collective interactions to
+give sort of deep insight into the
+behavior of the physical universe right
+and so physical particles have
+properties like position velocity mass
+and their collective property is the
+macroscopic world of temperature and
+pressure and so forth and you get
+thermodynamics it's kind of theory for a
+relationship among the microscopic or
+aggregate variables at equilibrium and
+you get these regularities then like the
+ideal gas law which is an equation of
+state that tells you the amount of gas
+is to turn by its pressure volume and
+temperature and so you get this these
+regularities or laws like the ideal gas
+law now biology also makes use of
+comparable collective concepts like as
+physics does but in biology these are
+concepts like metabolism conflict
+management and robust as some of the
+things we've already mentioned and in
+contrasts of physical systems these are
+very functional properties with
+consequences to downward causation and
+so forth to the system and its
+components so physics is essentially
+producing and we're gonna get to the to
+the to the close point in just a second
+physics is essentially producing orders
+of the minimization of energy and
+biologies doing this with the addition
+of information processing and now what
+are the states we look around biology we
+see not a lot of laws but water states
+are ubiquitous there's law like
+relations it seems all over the place
+but why adaptive systems have this extra
+step of information processing and
+whether it's the reason why we see fewer
+laws and biology are these big open
+questions that people ask it SFI so one
+of the things we want to understand is
+what do what does information processing
+do in biology and a nice sort of entry
+point into this is to think of the
+scaling work of Jeffery West and his
+colleagues Jim Brown and Brian quest and
+others right so Kleiber of course
+observed a long time ago 100 years or so
+this robust statistical relationship
+between mass and metabolic rate that
+such a mass scale since 3/4 power right
+so this is this is one of the laws we
+have in biology and then Geoffrey and
+his colleagues came along and derived
+this from first principles for axioms
+about how these axioms capture the
+energetic constraints it's sort of like
+how energy is distributed through the
+circulatory system of mammals so we get
+this law but it's a law for an example
+where there's a strong energetic
+constraint now we also like a set of
+information processing all over biology
+and so Geoffrey and and crew sort of
+shifted to cities and they started
+asking about scaling in cities and
+they're asking they're about questions
+like how does population size scale with
+crime or eating patent generation and so
+forth
+and one of the interesting things they
+find is that for a lot of these city
+variables the scaling is super linear
+that means you know it's an increasing
+return to scale in contrast to the
+sublinear 3/4 scale power 3/4 scaling
+that was found for the metabolic systems
+so so here's an interesting observation
+in these systems where information
+processing is important that team to be
+collective you get super linear scaling
+and in the strongly constrained
+energetically constrained systems you
+get this sort of sub linear scaling so
+there does seem to be this difference or
+this implication of having information
+and collective effects in your system
+and then sort of the last point I want
+to make is that this brings us to the
+collective computation so and back to
+our point about complexity at the
+beginning of this talk when you asked
+about the information bottleneck and
+macroscopic expansion so what does
+information do so information processing
+do the system well my suggestion is that
+a lot of information processing is
+erroneous the components are making
+mistakes or have restricted
+computational capacity so they cannot
+perfectly estimate or optimally estimate
+regularities in their environment so
+what do they do instead of doing it just
+on their own they collectively compute
+the regularities they collectively
+coarse-grain and in this way they sort
+of solve this problem that information
+processing introduces and the problem is
+subjectivity and so the reason why we
+haven't seen
+or identified a lot of laws and biology
+yet it's because we need in order to see
+those laws we need to understand how the
+system is processing information through
+collective computation and once we have
+that we'll have a better idea of what
+the relevant macroscopic variables are
+all right so the basic idea is that
+because the system is performing these
+computations without taking the system's
+point of view we will never see the laws
+and in physical systems that is
+absolutely not required could you expand
+that just a little bit the difference
+between physical systems and the
+biological I didn't quite get that last
+sentence okay right so the microscopic
+world is complex we've sort of
+established at the beginning this
+conversation so how do components get
+regularities so they doing information
+processing they're estimating
+regularities despite all of that
+complexity yet they're error-prone so
+they don't make these estimates
+perfectly so information processing in
+adaptive systems is introducing
+subjectivity it's introducing
+idiosyncratic views for how the world
+works because of the errors that
+components are making and so one of the
+arguments that we make in our work is
+that one way to overcome this
+subjectivity and produce ordered States
+is by collectively computing pooling our
+opinions of how the world works
+and getting the consensus view now there
+are two consequences of that one is that
+we might get a better picture for how
+the world works but another is that
+sometimes we're not recovering the
+ground truth if there is one out in the
+environment that is like something like
+the height of the Eiffel Tower that over
+which we have no control but we're
+computing a social regularity like power
+so my point when I was going through the
+monkey example earlier about the power
+being kind of a the outcome of a
+collective perception is that the view
+of power is in some sense being created
+as the system moves through its the
+dynamics so it's it's collective and so
+in that sense the power distribution is
+not a ground it's not you're not
+recovering a ground truth you were
+covering a collectively constructed
+variable that is a result of information
+processing so my point is that in
+physical systems where there is much
+less of this information processing and
+it's not as error prone or are prone at
+all the law like regularities are easy
+to observe from the observers point of
+view
+but that in adaptive systems law-like
+regularities are a little bit hidden
+because in order to see them you have to
+understand how the system perceives the
+world how its processing information
+what the errors are its making and and
+how those errors are impacting the world
+that the system through the components
+through its their interactions are
+creating like in the power case or in
+our decision to elect Trump or whatever
+right so these things are not based on
+on ground truths out there in the world
+they're based on the collective dynamics
+or an outcome or information processing
+the collective dynamics and one could
+say perhaps you have to even take a
+subjective point of view from the
+perspective of a component is that
+somehow make sense exactly you have to
+try and figure out how the components
+perceive the world what their theories
+are for the how the world works and how
+those theories combine to briefs their
+social structure and then and you know
+their their their collective enterprise
+you have to take their point of view and
+I think once we start doing this more
+seriously we will identify laws and
+adaptive systems another way of putting
+this is that there are not as many to
+the macroscopic variables observed in
+the khyber case climber's observations
+were not mechanistic there was an
+aggregate level observation microscopic
+observation that NASA metabolic rates
+scale in the city's case there's like
+many many variables that you could
+measure and how do you know which are
+the macroscopic variables described like
+qualities of cities how do you know what
+the right ones are well the right ones
+in some sense are the ones that have you
+know a downward causation consequent to
+the system the ones that the components
+are constructing through their
+interactions and can perceive or read so
+they can tune again in response so
+without taking the system's point of
+view we can't know or titrating in some
+sense between the microscopic
+interactions and the microscopic world
+they're creating we can't know what the
+right variables are a priori this is
+very good I really like that that made
+it ring for me let's move on now to
+another topic it's actually from the
+same paper ever quote how much of
+biological nature can be predicted from
+basic physical law this question is
+simple to answer effectively zero this
+connects directly with the thorny
+question of emergence so we're getting
+to our another slippery topic here what
+are your thoughts about the thorny
+question of emergent
+you know my you're gonna detect a theme
+here but I believe all of these things
+freewill consciousness and emergence are
+overly mystified the mind brain problem
+right I think comes down to just being a
+little bit more materialist about this
+so emergence for me is when you have a
+reduction in uncertainty and generally a
+slow variables is a coarse-grained
+variable is what's giving you that so
+again like if you take my macroscopic
+expansion thing in the power example
+which fairly easy to think through you
+get this distribution of power that's
+sort of encoded in this network
+typically with emergency we think
+there's some kind of non-linearity it
+makes it hard to predict but that's not
+the only thing so in the in the power
+case the algorithms that are used to
+quantify the power structure that sort
+of tell you how it's encoded in the net
+the network or circuit of signaling
+interactions there are some
+nonlinearities in those we think so the
+power distribution cell has a little
+property of emergence to it but the real
+emergence comes in functional
+consequences of having this heavy-tailed
+distribution with these few individuals
+sitting way out in the tail and being
+able to do this policing so you get the
+slow variable the this and the
+uncertainty reduction to the power
+distribution and then the surprise comes
+from the performance of this new
+function policing so again for me it's
+not that mysterious emergence it comes
+from slow variables and coarse graining
+and uncertainty reduction and the
+production of surprise to new function
+and I don't think there's more to it
+than that I think one one thing that's
+hard to understand is sometimes why it
+doesn't occur and there are perhaps
+other ways than what I just described
+for it to be generated for example there
+was a study that came out the other day
+in Nature Physics on schooling behavior
+and fish that showed that you can get
+the schooling through noise the
+alignment decisions of the fish when
+they're noisy can push the fish from
+poorly aligned state to one where
+they're highly aligned and in that sense
+that's a very different mechanism that
+what I have been suggesting in the power
+case where it with the coarse grain
+there's no coarse graining necessary
+there and that's interesting but you
+have emergence potentially in both cases
+very interesting yeah for those
+interested in really digging into
+emergence one book I'd recommend is the
+emergence of everything how the world
+became calm
+by harold Moretz he basically describes
+our whole universe is something like 27
+emergences from quarks up to social
+systems and it's actually quite
+interesting
+have you read that one I looked for it I
+know I you know I knew Harold of course
+great guy yeah he was actually my first
+mentor in the complexity area before I
+even came out to Santa Fe when he was at
+George Mason when I first retired from
+business he was the first guy I ran into
+didn't know that yeah he had a huge
+influence on me to say the least this
+one we can punt on if you don't have a
+good thought on but her ego gene and his
+far from equilibrium dissipative
+structures do you find that in any way
+useful in thinking about or
+understanding emergence furger genes
+idea is that and this of course not in
+the SantaFe tradition it's just they
+called the Russell's tradition I think
+that essentially complexity emerges in
+far from equilibrium systems and
+essentially it's the way the universe
+dissipates far from equilibrium energy
+flows is that the complex systems get
+spun up and they use up the energy and
+they degrade it by the second law and
+that's what they do and that's
+essentially where complexity comes from
+I'm from red producing in many many
+years but but I will say one thing I do
+agree that you know adaptive systems are
+obviously we don't really have the
+framework yet to deal with this
+non-equilibrium but that they recover
+some of those equilibrium properties by
+having kind of overlapping timescales so
+that they do create these slow variables
+that I keep talking about these
+coarse-grained variables that
+essentially give an effective
+equilibrium and an effective equilibrium
+so the slow variable creates a
+background that from the point of view
+of the component is more or less stable
+or constant and against which it can
+adapt and so on the one hand we need
+better formalisms and approaches for
+working in to working in non equilibrium
+ideas into adaptive systems for sure on
+the other hand I think adaptive systems
+have developed ways of sort of
+recovering essentially equilibrium
+states to these kind of effective
+sleeves so variables and and needs that
+these are haven't kind of an effective
+equilibrium as a consequence of these
+slow variables
+okay that's good yeah I always throw in
+a friggin question with s fi people
+because I always noticed that most of
+them either pushback or don't know too
+much about it I do think it's an area of
+complexity that I wish the SFI people
+would learn more about right I do think
+it has some merit that's my editorial
+comment for the day I think that's a
+fair point Jim I mean it's one of those
+things that we sort of cover or learned
+about it you know in early days in our
+early work at complex systems and at the
+summer school and so forth and and I
+haven't really thought about too much
+since and I should take a look at it
+again
+cool let's move on to the next topic
+from your edge bio you say a central
+philosophical issue behind this work
+meaning your work is how nature
+overcomes subjectivity there's that word
+again inherent and information
+processing systems to produce collective
+ordered states yeah pretty much a
+summary of all I think you talked about
+but you do pose it as a philosophical
+issue so what do you think are the
+philosophical implications of your work
+are there truly metaphysical issues that
+arise or can complex the including
+emergence be described strictly in the
+language of science inside a realist
+program with no recourse to metaphysics
+I think that it's you know in the end
+science is is sufficient I do believe
+that but most of the work that I do and
+some of us if I fall into this camp is
+very much in the business of taking
+concepts that from philosophy or that
+are sort of outside of science and
+turning them into questions that can be
+approached using scientific methods so
+all of my work sir sits on the on the
+edge or between philosophy on that
+border between philosophy and science
+but we're very much in the business of
+taking these questions that maybe from a
+science perspective seem ill or poorly
+defined from a science perspective and
+turning them into something that to a
+model that can be analyzed
+mathematically or approach with data so
+you know I'm at that border for sure and
+there are other XY people who are who
+are not anywhere near that border and
+much more interested in you know they
+develop profound methods for thinking
+about networks but their questions are
+very clearly defined from the get-go
+so that's my partial answer to your
+question give me an example of part of
+your work that's actually informed by an
+actual philosophical question certainly
+this this distinction between
+collectively constructed macroscopic
+world and a ground truth that's right so
+this is a and downward causation is
+another one right most biologists or
+most people work in adaptive systems are
+you know generally thinking about the
+system learning about states of the
+world where the states of the world are
+serving so genus - the system outside
+its control and I think we need to you
+know take seriously that by by virtue of
+this erroneous information processing a
+lot of the world is being collectively
+constructed and so those ideas come from
+you know originally to come out of
+certain areas of philosophy and
+definitely some of the structural and
+early 20th century anthropologists we're
+thinking about these kinds of things
+claude lévi-strauss and others Bruce
+Benedict and I studied that work early
+on there's been a lot of influence from
+those literature's in early days to my
+syrup original thinking about this stuff
+yeah that's good yeah it is interesting
+because some of the most interesting
+problems are right in there in that
+liminal space where we don't even quite
+know how to fully state the problem
+correctly that's right at least
+initially you know so we kind of iterate
+between what is the problem exactly and
+once you get the problem stated right
+sometimes it's not that hard to figure
+out yeah I know that's that is sort of
+what we do exactly that yeah it's
+actually one of my insights into
+artificial general intelligence is a lot
+of the work being invested in today by
+companies like Google is in so-called
+question-answering
+capabilities I keep pushing back and say
+I want to see question-asking capability
+that would be far more impressive
+actually right people look at me like
+I'm nuts but I think you get it
+ya know I highly value that that's true
+I found that frankly and my working with
+scientists that really best ones are the
+ones that are the best in asking
+questions and the variants and their
+ability to answer questions is less than
+their ability to ask questions that's
+good cuz I feel that's my skill and
+sometimes I have no ability to answer my
+own questions ah well I chose that
+you're brilliant so that's good by the
+Rutte rule of how to measure science
+we were really true love it
+another thing you wrote recent I don't
+know it was recently or not but chapter
+nine and a work called social and
+economic engineering mmm-hmm I read that
+and it reminded me of the possibly false
+Road many of us nerdy kids went down
+when we read the foundation trilogy way
+back yonder and Harry Selden in his
+psycho history and social engineering
+and of course it's worth noting that the
+foundation trilogy it's just been
+announced it's gonna be made into a TV
+series from Apple that should be
+interesting how the heck are they gonna
+make a science fiction series from a
+really deep intellectual story that has
+no sex and no violence
+hmmm that may take some work yeah but
+anyway to the topic of social economic
+engineering you seem to take the lime if
+I read it correctly that hey maybe we
+can now do some social engineering and
+economic engineering what say you to
+that yeah so I mean I think a lot of
+them so I've written a couple little
+essays on this and I and I think a lot
+of the engineering that we've done has
+been sort of reactive and qualitative
+and so with big data with some methods
+and concepts I'll talk about in a second
+and with machine learning and so forth I
+think we are at this point where there
+could be a big change in how we engineer
+things and you see a little bit of that
+the sort of foreshadowing of that with
+the sort of sort of Facebook stuff both
+from the science side and the
+intervention interference by you know
+Russia or whomever into on Facebook
+basically what's happening is that we
+now have vast quantities of microscopic
+data of data on individual behavior and
+and we're in a position where for the
+first time and it comes back to these
+micro to macro maps so no and in the
+just as an aside that's that sort of an
+important aside and in the Jeffrey work
+on scaling you know they had the
+macroscopic observable math scales of
+metabolic rate and they had some axioms
+from which they derive the microscopic
+so they have they build this micro to
+macro map and what I've been saying for
+the information processing systems is
+you can't build that micro to macro mat
+without having some idea of how the sort
+of components are processing information
+how they're getting building their
+effective theories for how the world
+works
+to do that you need good microscopic
+data you need data on what they're doing
+how they see the world what their
+strategies are and so with Simon today
+on David Krakauer we developed this
+approach called inductive game theory a
+while ago which is basically it was a
+kind of response to simple game theory
+models a negative response then where
+the strategies and the payoffs
+everything's being posited in toy models
+and what we said well no we want to go
+into the data and actually pull the
+strategies out so you get all this you
+have this rich time series on individual
+interactions and behavior going to that
+time series and try and extract the
+strategies that the individuals are
+using to make decisions in their social
+environment and once you have these
+strategies and you build up you know how
+they collectively interact and to do
+this we built circuits of how these
+strategies interact to produce a
+macroscopic property of interest like in
+an animal society to fight size or power
+distribution it could be a city variable
+anything really and so it's a very
+different way of building a micro to
+macro map then then in this sort of like
+mass metabolic rate case and what we one
+of the reasons we wanted to build these
+maps in addition to you know the
+foundational region which reason which
+is getting out laws in information
+processing systems and figuring out what
+those laws are taking the citizens point
+of view and having you know all those
+strategies and data from the system
+itself another reason is because we
+thought by having these micro to macro
+maps and then understanding how you
+simplify them or how the system
+simplifies them to make decisions would
+tell us in a more informed way and
+potentially highly quantitative way what
+interventions we could perform to induce
+changes at the macroscopic level like in
+social structure for example so if you
+had a theory for how power distribution
+was arising in a given system and you
+knew what the dominant causal coming
+back to our causality discussion
+dominant causal contributors are to a
+particular power distribution then you
+can intervene in a more informed way on
+those variables or individuals to change
+the type of power distribution that you
+see and so the basic idea is that by by
+developing methods for studying micro to
+macro maps and information processing
+systems we could make more informed
+interventions and potentially
+potentially engine
+your outcomes in social systems and I
+think we we are going to be able to do
+that now
+of course one complexity that arises is
+that as everyone can do this everyone
+when you know you adopt this approach
+can build better models using
+microscopic data of multiple different
+groups nations corporations whatever
+together intervening you're gonna create
+a lot more complexity and you might
+actually make it because they're you
+know all these now these couple systems
+competing you might make it very hard to
+control the consequences of your
+intervention coevolution will have a
+coevolution of complex interventions
+effectively exactly that means happen
+now I think it's already happening yeah
+exactly we just don't know it yet very
+good very good I like that
+that last insight is actually the
+coolest thing I think that we've said on
+this show is that as we get greater
+insight in how to control complex social
+systems inevitably there will be a
+co-evolutionary war of such
+interventions ah yeah it's just another
+version of gephardt's law yes indeed get
+back to the Harry Selden thing I'm just
+for fun both Jessica and I are really
+serious Lord of the Rings nerds I mean I
+think I've read it 39 times that's right
+Lord of the Rings nerd as I recall it's
+of our conversations we said okay what
+character are you I think you said you
+were Eragon is that correct yeah I'm
+Erin that's right now Tom Bombadil
+without a doubt right that's a good
+price I think that's a great choice I
+know jealous but anyway so back to
+foundation trilogy of the folks working
+on this work that we know about I've
+just decided that Simon is Harry Selden
+that's funny you say that because so
+Harry so I when I give the talk I
+haven't given the talk in a couple years
+but used to give the talk an inductive
+game theory in the circuits in micro to
+macro map rarely regularly and and I did
+that work with Simon and and every time
+particularly actually in audiences with
+some physicists I would be called
+accused of being Harry Selden yeah so
+maybe you're Harry Selden well I move
+east of what the inductive game theory
+that's Harry Selden though Simon looks
+like Harry Selden he looks like
+at Simon did a oh by the way who was my
+very first guest on the gym rut show so
+go look at episode number one and you
+can hear very very interesting
+far-ranging conversation with simon de
+deo aka Harry Selden let's go on to
+another topic agent-based models have
+long been part of the work at SFI
+exploring complexity do you have a view
+of the strengths and dangers from that
+approach yeah so I had this sort of
+canonical view of the strains and
+dangers I think that you know in the the
+the sort of standard thing you hear
+everyone complain about is to put
+anything in and that anything comes out
+garbage in garbage out and so I think
+there's a lot of bad agent-based
+modeling out there you know there are
+now there are like little agent-based
+modeling worlds and even without sort of
+thinking hard like same happened of
+course for statistics with SPSS and so
+forth and anyone can use these programs
+to build a nature base model and so a
+lot of bad science gets done of course
+there's good agent-based modeling and
+epstein and excellence some of these
+other guys who know they're doing very
+thoughtful work but though at this sort
+of crudest level when an agent meets
+model is it's just tracking individual
+individual level behavior tracking
+individuals I mean that's you can define
+it that could be like the simplest
+definition of an age of each model of
+tracks individuals and so in that sense
+there's a lot a lot of modeling of
+modelling frameworks fall under
+agent-based modeling they're just not
+what we sort of canonically think of
+each of a small again and so in that
+sense to the inductive game theory that
+I just mentioned falls in that in that
+space and and the difference though
+between I'd say the way that we do
+inductive game theory and the way that
+each of these modeling is often
+approached is that the strategies that
+we use in our models come directly from
+the data and so I am fine and in fact
+advocate this approach if you're if your
+strategies are empirical you know if and
+and if you're and if you are rigorous
+and thoughtful about how many of them
+you put in right so you know you don't
+want to build you don't want to take
+into account a huge number of strategies
+you want to have some understanding of
+what the most important ones are and and
+begin with those and so yeah I mean
+Asian B's modelling is powerful you know
+it can give
+a lot of insight it's just that it's
+easy to abuse yeah that's a very good
+way I recently attended a workshop
+organized by Josh Epstein and Rob Axtell
+and some others called inverse
+generative social science gentlemen
+great yep yep and one of the points was
+hey let's start with the data when we
+can what a concept right
+and then let's generate things like
+maybe genetic programming from the data
+and then let's the agents be those right
+as a way that does not make some stuff
+up because I remember when I first
+retired from business started playing
+pseudoscientist one of the first things
+I played with was agent-based modeling
+and my models would have forty seven
+variables which I just made up when I
+got out to SF I quickly got schooled on
+47 variables that's ridiculous
+three three variables and two or one is
+better right and they were right so you
+got to be really careful when you do
+this stuff but you can't get some
+amazing insights yeah I mean you know
+I'm a pluralist I think that we gain
+insight by using lots of different tools
+and approaches and so agent may smiling
+or you know tracking individuals coupled
+to extremely reduced you know we're
+phenomenological model where you can do
+you can analyze the model you know is
+you want as many you know multiple
+perspectives on a problem and they each
+do different things and it's sort of the
+you know it's a collective outcome that
+helps you understand what's going on
+very good you've written a lot about
+social policing and its effects on
+social systems I really like your paper
+policing stabilises construction of
+niches and primates back to our Apes and
+monkeys tell us about that what we did
+that study is we wanted to assess the
+contribution of policing to social
+system robustness so I already talked a
+little bit about that and we developed a
+set of experimental techniques to
+identify the consequences of the
+policing to robustness by taking to
+account both the causal contribution and
+exclusion dependence and I measured
+earlier and so basically in that study
+we had a like half a football sized
+colony of of macaques there was a heavy
+tail distribution of power and the
+individuals in the tail performance
+policing behavior and we we removed them
+temporarily over the course of say 20
+weeks
+on randomly chosen days once every week
+or so and and we studied how social
+networks and various social variables
+changed when they were removed and
+inferred from that the contribution of
+their policing behavior to things like
+how connected the networks are how
+negative a positive behavior spread over
+those networks to how cliquish the
+societies were in the presence and
+absence of the policing mechanism to how
+often individuals showed aggression
+versus socially positive behaviors as a
+consequence of the policing so yeah it
+was one of the first what I would call
+behavioral knockouts so most knockout
+work is done on genes or in molecular
+systems and there really hasn't been
+rigorous Network knockouts in social
+systems and that was sort of one of the
+first there had been much earlier
+studies in the 60s where the scientists
+sort of like just removed the
+individuals they thought were strong or
+powerful without really a theory for
+what would happen as a result of those
+removals but but we we had a lot more of
+the more of the ideas worked out when we
+did this knock out study so as zoos it
+was very you know was um it was fun and
+what we found was that in fact in the
+what the policing mechanism did is it
+made the system more integrated
+individuals had a larger number of
+partners and their social networks they
+had better relationships with those
+partners there was less volatility right
+so there was less aggression the police
+things seemed to allow individuals to
+build better local social environments
+so the hippies were wrong you can't off
+the pigs haha yeah so I don't know I
+mean I think there you know there there
+are lots of things to discuss here about
+you know how about inequality and you
+Galit aryan societies and our sort of
+knee-jerk reactions to the 1% and so
+forth I think we really need to approach
+that in a more thoughtful way it's not
+clear to me that having a system with
+billionaires is necessarily problematic
+and it may in fact be that with what you
+need are certain kinds of regulations to
+incentivize good behavior but when you
+have individuals who are really out
+there in the tale their ability to do
+things faster more efficiently than say
+government might be quite a bit higher
+and so these are trade-offs we need to
+really you know think hard about
+like how do we if we're gonna have we
+have a system where government can do
+certain things and you know individuals
+out there and the tale can do other
+things but we want but because there's
+it's sort of like potentially could go
+rogue we want to create incentives so
+they do the right things so that's that
+you know that's the question for me is
+is it's an empirical question what the
+best system is and not an ideological
+one and I wish there were no more
+empirical studies of how these different
+social structures what their
+consequences are there are some in
+economics but I think we're you know
+really really only getting to get
+beginning to get a sense of of the full
+picture yeah folks we know Sam Bowles
+and herb Ginn tests have done work along
+with some other folks that strongly
+imply that the kind of work that you saw
+in primates also applies to humans in
+some of the simple games that they have
+set up all around the world
+cross-culturally where the existence of
+the ability to punish bad actors reduces
+bad action mm-hmm do you have any
+thoughts on you know how this kind of
+work applies to humans well I mean one
+thing just you mentioned punishment I
+mean one of the things that was very
+important in the in the primates
+you know robustness and interventions
+conflict work is that the police are
+there to proceed to be
+disproportionately powerful so no one's
+gonna challenge them but it seems to be
+critically important that they actually
+don't use force when they intervene so
+when they intervene it's impartial and
+they they generally use if any very low
+levels of gresham like not much more
+than a threat now they do one hand they
+don't need to but you know if you look
+at old sociological theories of power
+and one of the big influences I mean
+this guy Bierstadt wrote some very nice
+work on power and what it is some of the
+cleanest perspective on that that I read
+quite widely in that literature when you
+use power you risk losing it that's one
+sort of thing and another is that you
+know it's a credibility thing so these
+individuals are out in the talent and
+they're the the they're out there
+because of the collective dynamics and
+what and and to some extent choice made
+by the other individuals in the system
+so if they were abusing their position
+they probably would receive fewer
+signals because it would be avoided and
+so the opportunity give the signals
+wouldn't be there and so they would
+actually accumulate they would have less
+power because they this
+girls are key to them the key to the
+stability of their power right so this
+is a really sort of important point like
+they they will they risk losing power
+when they use force in these contexts
+that's one and then another is to some
+extent the signaling dynamics is really
+like voting in the human case where
+you're making a choice for one leader
+over another and you could you know
+influence that outcome by avoiding and
+not giving the signals and you get you
+see that quite clearly in chimpanzee
+groups where unlike the macaques and
+remember in one group at Yerkes there
+was an alpha and a beta male so the beta
+male gave a subordination signals called
+a pant got in that case to the alpha
+male but the alpha male was very
+aggressive and so in the dyadic
+relationship between alpha and beta the
+beta had to give this signal but the
+rest of the group did not like and so
+alpha is defined by receiving a signal
+from everybody else but the most
+powerful individual in the group is the
+beta male so the beta male even though
+he gives a bank run to the alpha male
+receives more pant grounds from a larger
+or more diverse group of individuals
+than the alpha male receipt and was so
+we said that beta male was the one who
+was perceived to be the most powerful
+individual in the group even though
+technically the alpha male is the one
+that receives Pankratz for everyone and
+what you would actually see the chimps
+doing is they would pass by the alpha
+male and in within his sight his field
+of vision they would give in this sort
+of very irreverent way Pankratz to the
+beta male uh-huh we're moving pan
+currents to the alpha male and so it
+really I mean I didn't I never published
+a papers incident I'm up data and so
+this is this is a little bit speculative
+but it did really seem like a choice in
+the part of the chimps in terms of
+voting they were like saying look I'm
+not voting for you I'll give you a bank
+run if I have to but I'm not really
+voting for you I prefer this guy whose
+interventions are you know more
+diplomatic actually and who's who's a
+better manager of the sort of groups
+social interactions and you are who uses
+force too much so really interesting
+stuff and so I you know I mean this this
+notion of of power and how you maintain
+it and how you use it I think it needs
+you needs a lot of careful thought yeah
+it sounds like we take that model it's
+an argument for kind of self-organizing
+network based authority as opposed to
+top-down role based Authority yeah I
+mean it can become top-down if there
+if you develop institutions and norms
+and rules that allow it it comes back to
+the slow variable point it make it hard
+to change right it effectively trans
+transitions into something that is
+top-down even if it started bottom-up
+yep let's move on to our next we're
+getting close to our time line so it
+will be one of our last maybe not the
+last you've dug as deeply as anybody I
+know into what might be called the
+foundations of complexity assigned times
+warn folks that complexity science is
+still a baby science now I will say
+since I've dug deep deeply into it
+myself spent at least 10 years and I'm
+sure lots happened is it still true that
+the plexy science is a baby science and
+if so what do you think the next area is
+where foundations might become solid or
+will they ever well I mean I think it's
+definitely still compared to physics for
+example definitely still early days and
+and then there's a distinction too
+between you know people working in
+complexity science maybe some
+theoretical biology and so forth and the
+rest of biology and Social Sciences in
+particular and so things might be moving
+kind of fast within complexity science
+but they it's not the results and
+approaches and way of think ways of
+thinking still haven't spread as far as
+they need to so I can still go to a
+biology department and give a talk and
+find you know that they've never walked
+over to a physics department or you know
+the idea of using maximum entropy
+framework or even you know an Ising
+model to study you know a biological
+system seems silly and it sometimes it
+is silly because it's it's their use
+inappropriately or without any attention
+to mechanism but yeah so there are these
+there they're definitely still sort of
+like it's it's um the future is it
+what's the expression the future is here
+but it's not evenly distributed for
+complexity sign so that's one issue but
+then in terms of the topics and the
+questions you know I always tell people
+at the public lectures and in the summer
+school talks that we sort of have two
+types of talks at these at the summer
+school and in public lectures to some
+extent the one type of talk is the kind
+of on the complexity science stuff
+that's now been around for a while and
+on which there are textbooks so for
+example Network science and some
+theoretical computer science and maybe
+you know dynamical systems
+Seagal is Bradley and Chris more
+Rainey's book on computation coming from
+theoretical computer science
+computational biology now competition by
+biological systems which is what we do
+and you get you know Mark Newman doing
+this absolutely outstanding work on
+networks and that stuff is it's you know
+it's being hammered and it's it's gotten
+to the point where it's pedagogical so
+there's nice there's cool stuff on the
+horizon to do but you know there's like
+a core of agreed-upon concepts and
+methods developed by these guys and can
+be conveyed in a fairly accessible
+pedagogical way to - you know we're jr.
+or or lay people and then there's this
+other stuff and the other stuff tends to
+be more like at the borders as we were
+talking about earlier between philosophy
+and biology or you know just where the
+questions are where the where the all
+the currency is in working out the
+question and in taking that question and
+making it amenable to modeling and
+theory and and and and gathering data
+and that's where another group of
+researchers sit is in that space and
+certainly like my work and Dave's work
+sits there and then the collective
+commentation stuff that we do you know
+that as you numerated as I often do that
+long list of disciplines that informs
+collective computation maybe in one or
+two of those disciplines do I know you
+know as much as my peers maybe one of
+them in most of them I am you know I
+really don't know that much but I know a
+lot about collective computation and I
+know a lot and increasingly a lot about
+how it relates to ideas about
+computation in theoretical computer
+science and so this thing that I study
+you know it's it's at this in this
+liminal space use a word you use earlier
+that I quite like it sits in this
+liminal space is this sort of
+intersection between many different
+fields and you have to be very
+comfortable drawing from those fields
+and working with collaborators is super
+important you know more about those
+fields than you do and you know being
+comfortable not knowing everything and
+that's general general featured being in
+SFI in order to make progress on these
+new in these new areas and so I think
+there's a number of new areas like
+another one is the thermodynamics of
+computation that's that's adjacent to
+collect a conversation that people like
+David walpert work on and then they're
+and they're building on old ideas a
+testify but they're they feel new again
+they feel new and
+you know and I'm very young and and so
+I'm always trying to convey to people
+you know the difference in the talks and
+the summer school talks like here you're
+going to be exposed to this new set of
+ideas it's not well worked out the
+person giving the talk does not know all
+the answers
+maybe knows more of the questions and
+you're gonna be exposed to some or
+pedagogical stuff and you shouldn't
+confuse the two very good wonderful
+distinction you guys like friends is the
+network science work of like Mark Newman
+which has a really good book called
+networks I think or something like that
+that's a good example one that's well
+worked out and then a lot of the rest of
+this stuff is still working progress and
+that's probably a good way to think
+about it so here's our last question you
+spent thousands of hours with primates
+of various sorts and I've long been
+fascinated by the idea that we have such
+close relatives here on earth what do we
+think between us and chimps it's 1% one
+and a half percent difference in genes
+something like that and frankly I'm
+saddened in a pretty deep way about
+their fate in the wild you spent
+thousands of hours with them what are
+chimps like and other primates what are
+they like you know so I when I was in
+graduate school is in the group of
+friends Duvall and Franz had he's a
+famous that he's a famous Dutch
+pathologist and Franz would make this
+point and I think it's just so important
+and that is when he would hire like a
+graduate student or someone to you know
+attack to get to help collect data on
+the monkeys whether are the chimps tax
+rates one of the questions he'd asked
+after they spent a couple days up there
+on the tower is you know what do you
+think of the animals what did you think
+of you know monkeys in the group or the
+chimps and if they said oh I love them
+all they went out and they weren't hired
+right so one of the first you know of
+points Franz mean would I he's
+incredible I insight about social
+dynamics and individuals and individual
+behavior and so forth this is that just
+like in human groups they're you know
+there's this incredible heterogeneity
+and they have complex personalities and
+very interesting social structures and
+if you don't see that then you know you
+shouldn't be anthologies you should be
+collecting these data and so the chimps
+to be honest like there's a lot of
+variability in how likable chimps are
+there are some extremely likeable chimps
+and and very intelligent ones or others
+that are quite Machiavellian and just
+never seem happy and you know I mean
+just like
+I see the you know the full range there
+as well I mean a little lesser in the
+macaque but but there too and so chimps
+I mean there's this stereotype chimps
+you know are the aggressive hierarchical
+ones and vinolas are the sort of you
+know free love egalitarian ones and
+these distinctions are of course they
+are stereotypes and they're amplified a
+little bit by the politics within the
+animal behavior community of who study
+you know the randoms of the world from
+ring ups at Harvard and the Franz's of
+the world or the thomas ellis and their
+particular viewpoints on things but
+there is something to these distinctions
+and it's and it's not necessarily that
+these distinctions are have a genetic
+basis they might have some genetic basis
+but there are distinctions that get
+amplified by social structure and to
+give you an example of references story
+by Robert Sapolsky Sapolsky is a sort of
+a neuroscientist who works on cortisol
+and and stress and health and and he's
+done primate work and studied sort of
+the role of cortisol and serotonin and
+other things in behavior and dominance
+and related phenomena and he studied for
+a while yet a field site in Kenya and I
+I thought about going there and working
+with him I was in grad school but I
+remember he had this great story so
+these these groups of baboons at this
+fields the two groups of baboons I think
+and there's a garbage dump and in these
+groups of everyone's there are these
+very aggressive dominant males and they
+they weren't the type of males who
+according to the story who you know
+modulated their power they abused it
+regularly and so there probably was a
+fair bit of change but these aggressive
+males of course you know by rights got
+access to the food at this garbage dump
+and they got tuberculosis they died
+nobody else ate the garbage and so what
+this left it's left is this culture in
+this group it were left the only animals
+at left were these sort of docile as he
+you know supposed to really as a story
+he's docile less aggressive males and
+the social culture of the baboons
+changed and the interesting question was
+well was it just gonna last as long as
+these young males then became bigger and
+older
+lived or would it be culturally
+inherited were and maybe there's some
+gene expression issues and so forth and
+in according to Sapolsky was so the next
+generation after these younger males
+also maintained these social norms so to
+speak
+the style of interaction they had with
+other animals and so you know the chimps
+are more aggressive they do seem to be
+more aggressive maybe I'm a little bit
+more hierarchical then say the bonobos
+but I think this is a little bit
+overstated and also also it's not
+necessarily you know just a kind of like
+specie specific thing there's a lot of
+plasticity and social structure and
+coming back to that downward causation
+behaviors get reinforced by this sort of
+norms and institutions that are in place
+and when those change when the mechanism
+or context arises for those things to
+change
+you can get big changes in the system
+and that brings us full circle to the
+emergent our social engineering
+questions you asked earlier like how do
+we intervene who do we remove what
+behavioral changes we want to induce you
+know what's what's the right way to get
+a different social structure to move
+from a more despotic society to a
+hierarchical one and I think by having
+these more informed micro to macro maps
+or information processing systems we'll
+will be in a better position to do that
+and so there's a long answer to your
+what is butter chimps like they're you
+know they're like their social structure
+demands to some extent and to some
+extent what their genetics give them but
+you shouldn't discount a one shouldn't
+discount the importance of social
+structure and and social institutions in
+animal societies the behavior that we
+see and I would add humans as well oh of
+course yeah indeed well that was I think
+a good wrap-up question it managed to
+bring together a lot of the themes that
+we've talked about I'd like to thank you
+for a truly interesting wild ride into
+all the things that you work on and the
+stuff that's done at st. the Institute
+and elsewhere in these areas I think our
+listeners will really like this thank
+you a lot yeah thank you Jim I mean
+that's wonderful talking to you you have
+such an informed and wide-ranging mind
+that you know no topic is pretty much
+off-limits I like that a lot that's what
+we try to do here so
+production services and audio editing by
+jerod Jane's consulting music by Tom
+Muller at modern space music com

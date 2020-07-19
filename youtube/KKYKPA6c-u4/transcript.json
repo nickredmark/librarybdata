@@ -1,0 +1,3917 @@
+[
+  {
+    "text": "howdy this is Jim rut and this is the",
+    "begin": "00:00:00.030",
+    "end": "00:00:12.360"
+  },
+  {
+    "text": "Jim rut show listeners have asked us to",
+    "begin": "00:00:02.399",
+    "end": "00:00:14.309"
+  },
+  {
+    "text": "provide pointers some of the resources",
+    "begin": "00:00:12.360",
+    "end": "00:00:16.800"
+  },
+  {
+    "text": "we talked about on the show we now have",
+    "begin": "00:00:14.309",
+    "end": "00:00:18.720"
+  },
+  {
+    "text": "links to books and articles referenced",
+    "begin": "00:00:16.800",
+    "end": "00:00:20.910"
+  },
+  {
+    "text": "in recent podcasts that are available on",
+    "begin": "00:00:18.720",
+    "end": "00:00:21.840"
+  },
+  {
+    "text": "our website",
+    "begin": "00:00:20.910",
+    "end": "00:00:24.779"
+  },
+  {
+    "text": "we also offer full transcripts go to Jim",
+    "begin": "00:00:21.840",
+    "end": "00:00:30.500"
+  },
+  {
+    "text": "rut show.com that's Jim ruts show com",
+    "begin": "00:00:24.779",
+    "end": "00:00:30.500"
+  },
+  {
+    "text": "this is another in our extra koban 19",
+    "begin": "00:00:31.279",
+    "end": "00:00:36.870"
+  },
+  {
+    "text": "related mini podcasts",
+    "begin": "00:00:34.800",
+    "end": "00:00:39.270"
+  },
+  {
+    "text": "today's guest is michelle gurbin a",
+    "begin": "00:00:36.870",
+    "end": "00:00:40.980"
+  },
+  {
+    "text": "physics professor at the University of",
+    "begin": "00:00:39.270",
+    "end": "00:00:42.690"
+  },
+  {
+    "text": "Maryland College Park campus and",
+    "begin": "00:00:40.980",
+    "end": "00:00:44.219"
+  },
+  {
+    "text": "external faculty at the Santa Fe",
+    "begin": "00:00:42.690",
+    "end": "00:00:46.879"
+  },
+  {
+    "text": "Institute she's also one of the",
+    "begin": "00:00:44.219",
+    "end": "00:00:49.200"
+  },
+  {
+    "text": "strongest researchers in the area of",
+    "begin": "00:00:46.879",
+    "end": "00:00:50.910"
+  },
+  {
+    "text": "network science that I know of",
+    "begin": "00:00:49.200",
+    "end": "00:00:52.860"
+  },
+  {
+    "text": "and I've asked her to come on today to",
+    "begin": "00:00:50.910",
+    "end": "00:00:55.860"
+  },
+  {
+    "text": "talk a little bit about networks and",
+    "begin": "00:00:52.860",
+    "end": "00:00:58.699"
+  },
+  {
+    "text": "network propagations of Epidemiology and",
+    "begin": "00:00:55.860",
+    "end": "00:01:00.750"
+  },
+  {
+    "text": "what we have to think about on the",
+    "begin": "00:00:58.699",
+    "end": "00:01:02.760"
+  },
+  {
+    "text": "backside of the curb in terms of dynamic",
+    "begin": "00:01:00.750",
+    "end": "00:01:05.909"
+  },
+  {
+    "text": "responses to manage this disease on the",
+    "begin": "00:01:02.760",
+    "end": "00:01:08.549"
+  },
+  {
+    "text": "network Michelle take it away why don't",
+    "begin": "00:01:05.909",
+    "end": "00:01:10.290"
+  },
+  {
+    "text": "you talk to us a little bit about the",
+    "begin": "00:01:08.549",
+    "end": "00:01:12.930"
+  },
+  {
+    "text": "very basics of network science how",
+    "begin": "00:01:10.290",
+    "end": "00:01:15.270"
+  },
+  {
+    "text": "diseases propagate on a network and how",
+    "begin": "00:01:12.930",
+    "end": "00:01:16.920"
+  },
+  {
+    "text": "changes in the nature of the network",
+    "begin": "00:01:15.270",
+    "end": "00:01:19.710"
+  },
+  {
+    "text": "such as through social distancing can",
+    "begin": "00:01:16.920",
+    "end": "00:01:22.200"
+  },
+  {
+    "text": "change the dynamics of network",
+    "begin": "00:01:19.710",
+    "end": "00:01:25.619"
+  },
+  {
+    "text": "propagation of a disease thanks Jim for",
+    "begin": "00:01:22.200",
+    "end": "00:01:28.259"
+  },
+  {
+    "text": "having me here I am delighted to be here",
+    "begin": "00:01:25.619",
+    "end": "00:01:31.259"
+  },
+  {
+    "text": "to talk about applying network science",
+    "begin": "00:01:28.259",
+    "end": "00:01:35.119"
+  },
+  {
+    "text": "to this pandemic that we're experiencing",
+    "begin": "00:01:31.259",
+    "end": "00:01:38.430"
+  },
+  {
+    "text": "you know what's interesting for me from",
+    "begin": "00:01:35.119",
+    "end": "00:01:41.970"
+  },
+  {
+    "text": "a modeling perspective is how much the",
+    "begin": "00:01:38.430",
+    "end": "00:01:43.590"
+  },
+  {
+    "text": "general public is starting to learn",
+    "begin": "00:01:41.970",
+    "end": "00:01:45.720"
+  },
+  {
+    "text": "about mathematical modeling so that's",
+    "begin": "00:01:43.590",
+    "end": "00:01:48.329"
+  },
+  {
+    "text": "really exciting to me to see news",
+    "begin": "00:01:45.720",
+    "end": "00:01:50.280"
+  },
+  {
+    "text": "articles in The Washington Post's in the",
+    "begin": "00:01:48.329",
+    "end": "00:01:53.159"
+  },
+  {
+    "text": "New York Times talking about these si",
+    "begin": "00:01:50.280",
+    "end": "00:01:55.640"
+  },
+  {
+    "text": "are models susceptible infected",
+    "begin": "00:01:53.159",
+    "end": "00:01:59.000"
+  },
+  {
+    "text": "recovered and talking about modeling",
+    "begin": "00:01:55.640",
+    "end": "00:02:02.040"
+  },
+  {
+    "text": "parameters and quantities like are not",
+    "begin": "00:01:59.000",
+    "end": "00:02:04.350"
+  },
+  {
+    "text": "so that's probably what some of you have",
+    "begin": "00:02:02.040",
+    "end": "00:02:07.469"
+  },
+  {
+    "text": "seen a bunch of the news are not is the",
+    "begin": "00:02:04.350",
+    "end": "00:02:11.220"
+  },
+  {
+    "text": "average number of people infected when",
+    "begin": "00:02:07.469",
+    "end": "00:02:13.650"
+  },
+  {
+    "text": "one person gets effect infected and this",
+    "begin": "00:02:11.220",
+    "end": "00:02:13.800"
+  },
+  {
+    "text": "is",
+    "begin": "00:02:13.650",
+    "end": "00:02:16.320"
+  },
+  {
+    "text": "at the start of the disease before you",
+    "begin": "00:02:13.800",
+    "end": "00:02:19.560"
+  },
+  {
+    "text": "have any herd immunity and herd immunity",
+    "begin": "00:02:16.320",
+    "end": "00:02:21.930"
+  },
+  {
+    "text": "another term you've probably heard is",
+    "begin": "00:02:19.560",
+    "end": "00:02:24.180"
+  },
+  {
+    "text": "something where a lot of people who have",
+    "begin": "00:02:21.930",
+    "end": "00:02:27.870"
+  },
+  {
+    "text": "contracted the disease cancel that can",
+    "begin": "00:02:24.180",
+    "end": "00:02:30.120"
+  },
+  {
+    "text": "slow down the spread because there",
+    "begin": "00:02:27.870",
+    "end": "00:02:34.080"
+  },
+  {
+    "text": "aren't so many susceptibles so let's go",
+    "begin": "00:02:30.120",
+    "end": "00:02:36.840"
+  },
+  {
+    "text": "back so that's some of the basics of you",
+    "begin": "00:02:34.080",
+    "end": "00:02:41.220"
+  },
+  {
+    "text": "know epidemics 101 but epidemics 101",
+    "begin": "00:02:36.840",
+    "end": "00:02:44.910"
+  },
+  {
+    "text": "really thinks about a fully mixed",
+    "begin": "00:02:41.220",
+    "end": "00:02:49.860"
+  },
+  {
+    "text": "population so every person is sort of",
+    "begin": "00:02:44.910",
+    "end": "00:02:53.610"
+  },
+  {
+    "text": "equally likely to interact with every",
+    "begin": "00:02:49.860",
+    "end": "00:02:55.710"
+  },
+  {
+    "text": "other person they have a certain number",
+    "begin": "00:02:53.610",
+    "end": "00:03:00.510"
+  },
+  {
+    "text": "of connections on average and everyone",
+    "begin": "00:02:55.710",
+    "end": "00:03:03.170"
+  },
+  {
+    "text": "has about the same number of connections",
+    "begin": "00:03:00.510",
+    "end": "00:03:06.600"
+  },
+  {
+    "text": "so what's important from a network",
+    "begin": "00:03:03.170",
+    "end": "00:03:09.710"
+  },
+  {
+    "text": "science perspective is to think about",
+    "begin": "00:03:06.600",
+    "end": "00:03:13.680"
+  },
+  {
+    "text": "heterogeneity in the connection patterns",
+    "begin": "00:03:09.710",
+    "end": "00:03:16.380"
+  },
+  {
+    "text": "between people so one of the most",
+    "begin": "00:03:13.680",
+    "end": "00:03:19.890"
+  },
+  {
+    "text": "important heterogeneity is degree",
+    "begin": "00:03:16.380",
+    "end": "00:03:23.580"
+  },
+  {
+    "text": "distribution so some people have huge",
+    "begin": "00:03:19.890",
+    "end": "00:03:26.190"
+  },
+  {
+    "text": "numbers of connections while most people",
+    "begin": "00:03:23.580",
+    "end": "00:03:29.040"
+  },
+  {
+    "text": "have lower kind of more average numbers",
+    "begin": "00:03:26.190",
+    "end": "00:03:32.310"
+  },
+  {
+    "text": "of connect or more typical numbers of",
+    "begin": "00:03:29.040",
+    "end": "00:03:34.290"
+  },
+  {
+    "text": "connections just a few get strong",
+    "begin": "00:03:32.310",
+    "end": "00:03:37.560"
+  },
+  {
+    "text": "connections and that really changes the",
+    "begin": "00:03:34.290",
+    "end": "00:03:40.200"
+  },
+  {
+    "text": "spreading pattern so if you consider a",
+    "begin": "00:03:37.560",
+    "end": "00:03:42.540"
+  },
+  {
+    "text": "network where everybody has the same",
+    "begin": "00:03:40.200",
+    "end": "00:03:44.580"
+  },
+  {
+    "text": "number of connections compared to a",
+    "begin": "00:03:42.540",
+    "end": "00:03:46.739"
+  },
+  {
+    "text": "network where they're the same total",
+    "begin": "00:03:44.580",
+    "end": "00:03:49.440"
+  },
+  {
+    "text": "number of connections in the system but",
+    "begin": "00:03:46.739",
+    "end": "00:03:52.410"
+  },
+  {
+    "text": "some people have a much bigger share of",
+    "begin": "00:03:49.440",
+    "end": "00:03:54.989"
+  },
+  {
+    "text": "those connections so consider those two",
+    "begin": "00:03:52.410",
+    "end": "00:03:58.020"
+  },
+  {
+    "text": "networks the first homogeneous network",
+    "begin": "00:03:54.989",
+    "end": "00:04:01.440"
+  },
+  {
+    "text": "and the second heterogeneous network so",
+    "begin": "00:03:58.020",
+    "end": "00:04:04.070"
+  },
+  {
+    "text": "it turns out if you do the math",
+    "begin": "00:04:01.440",
+    "end": "00:04:07.709"
+  },
+  {
+    "text": "spreading on the heterogeneous network",
+    "begin": "00:04:04.070",
+    "end": "00:04:12.330"
+  },
+  {
+    "text": "is much more rapid and you end up with a",
+    "begin": "00:04:07.709",
+    "end": "00:04:15.150"
+  },
+  {
+    "text": "much greater fraction of the population",
+    "begin": "00:04:12.330",
+    "end": "00:04:21.229"
+  },
+  {
+    "text": "infected so the reason being is that",
+    "begin": "00:04:15.150",
+    "end": "00:04:24.120"
+  },
+  {
+    "text": "those people who have a high number of",
+    "begin": "00:04:21.229",
+    "end": "00:04:27.600"
+  },
+  {
+    "text": "connections they're likely to",
+    "begin": "00:04:24.120",
+    "end": "00:04:30.030"
+  },
+  {
+    "text": "the disease and then because they have a",
+    "begin": "00:04:27.600",
+    "end": "00:04:32.400"
+  },
+  {
+    "text": "high light high number connections",
+    "begin": "00:04:30.030",
+    "end": "00:04:35.280"
+  },
+  {
+    "text": "they're also likely to spread the",
+    "begin": "00:04:32.400",
+    "end": "00:04:37.770"
+  },
+  {
+    "text": "disease really quickly so this is one of",
+    "begin": "00:04:35.280",
+    "end": "00:04:40.200"
+  },
+  {
+    "text": "the parts that's not mentioned so much",
+    "begin": "00:04:37.770",
+    "end": "00:04:41.940"
+  },
+  {
+    "text": "in this great news coverage about",
+    "begin": "00:04:40.200",
+    "end": "00:04:44.790"
+  },
+  {
+    "text": "mathematical modeling but not only do we",
+    "begin": "00:04:41.940",
+    "end": "00:04:46.970"
+  },
+  {
+    "text": "have to think about our nacht and the",
+    "begin": "00:04:44.790",
+    "end": "00:04:50.070"
+  },
+  {
+    "text": "average properties of the network but we",
+    "begin": "00:04:46.970",
+    "end": "00:04:51.980"
+  },
+  {
+    "text": "have to think about the heterogenous",
+    "begin": "00:04:50.070",
+    "end": "00:04:54.510"
+  },
+  {
+    "text": "properties of the network and that's",
+    "begin": "00:04:51.980",
+    "end": "00:04:57.960"
+  },
+  {
+    "text": "where like closings schools comes in as",
+    "begin": "00:04:54.510",
+    "end": "00:05:00.060"
+  },
+  {
+    "text": "it is important because schools are a",
+    "begin": "00:04:57.960",
+    "end": "00:05:02.850"
+  },
+  {
+    "text": "big source of heterogeneity right",
+    "begin": "00:05:00.060",
+    "end": "00:05:05.880"
+  },
+  {
+    "text": "because school children interact really",
+    "begin": "00:05:02.850",
+    "end": "00:05:08.280"
+  },
+  {
+    "text": "strongly with it one another you have",
+    "begin": "00:05:05.880",
+    "end": "00:05:11.640"
+  },
+  {
+    "text": "it's kind of like a source of giving",
+    "begin": "00:05:08.280",
+    "end": "00:05:13.680"
+  },
+  {
+    "text": "people a lot of connections and so",
+    "begin": "00:05:11.640",
+    "end": "00:05:16.260"
+  },
+  {
+    "text": "closing these large things shutting down",
+    "begin": "00:05:13.680",
+    "end": "00:05:19.050"
+  },
+  {
+    "text": "big conferences part of that",
+    "begin": "00:05:16.260",
+    "end": "00:05:21.390"
+  },
+  {
+    "text": "intervention strategy is not to really",
+    "begin": "00:05:19.050",
+    "end": "00:05:24.630"
+  },
+  {
+    "text": "change the average properties but to cut",
+    "begin": "00:05:21.390",
+    "end": "00:05:27.420"
+  },
+  {
+    "text": "off that high end that tail end of the",
+    "begin": "00:05:24.630",
+    "end": "00:05:29.970"
+  },
+  {
+    "text": "distribution which is so responsible for",
+    "begin": "00:05:27.420",
+    "end": "00:05:32.040"
+  },
+  {
+    "text": "spreading so like for instance at a",
+    "begin": "00:05:29.970",
+    "end": "00:05:33.660"
+  },
+  {
+    "text": "conference with a thousand people who",
+    "begin": "00:05:32.040",
+    "end": "00:05:36.960"
+  },
+  {
+    "text": "are jammed into a room and are shoulder",
+    "begin": "00:05:33.660",
+    "end": "00:05:38.490"
+  },
+  {
+    "text": "to shoulder in the hospitality suite",
+    "begin": "00:05:36.960",
+    "end": "00:05:39.480"
+  },
+  {
+    "text": "afterwards",
+    "begin": "00:05:38.490",
+    "end": "00:05:41.460"
+  },
+  {
+    "text": "man that's a mixing bowl for viruses",
+    "begin": "00:05:39.480",
+    "end": "00:05:43.710"
+  },
+  {
+    "text": "big-time that's very different than sort",
+    "begin": "00:05:41.460",
+    "end": "00:05:45.900"
+  },
+  {
+    "text": "of the average interactions that we",
+    "begin": "00:05:43.710",
+    "end": "00:05:47.700"
+  },
+  {
+    "text": "might have on the street that that what",
+    "begin": "00:05:45.900",
+    "end": "00:05:48.530"
+  },
+  {
+    "text": "you're getting at",
+    "begin": "00:05:47.700",
+    "end": "00:05:51.990"
+  },
+  {
+    "text": "absolutely absolutely and so these there",
+    "begin": "00:05:48.530",
+    "end": "00:05:53.310"
+  },
+  {
+    "text": "can be two ways that this happens",
+    "begin": "00:05:51.990",
+    "end": "00:05:56.280"
+  },
+  {
+    "text": "because we have these highly clustered",
+    "begin": "00:05:53.310",
+    "end": "00:06:00.060"
+  },
+  {
+    "text": "interactions like conferences or because",
+    "begin": "00:05:56.280",
+    "end": "00:06:02.580"
+  },
+  {
+    "text": "we might have individuals that we would",
+    "begin": "00:06:00.060",
+    "end": "00:06:06.060"
+  },
+  {
+    "text": "call super spreaders who just go around",
+    "begin": "00:06:02.580",
+    "end": "00:06:09.150"
+  },
+  {
+    "text": "and are connected to so many people so",
+    "begin": "00:06:06.060",
+    "end": "00:06:12.060"
+  },
+  {
+    "text": "it's those that tail end that we really",
+    "begin": "00:06:09.150",
+    "end": "00:06:15.170"
+  },
+  {
+    "text": "want to control in our network type",
+    "begin": "00:06:12.060",
+    "end": "00:06:17.970"
+  },
+  {
+    "text": "interventions and are not one way to",
+    "begin": "00:06:15.170",
+    "end": "00:06:20.430"
+  },
+  {
+    "text": "think about the network science part of",
+    "begin": "00:06:17.970",
+    "end": "00:06:26.700"
+  },
+  {
+    "text": "this is to realize that on average your",
+    "begin": "00:06:20.430",
+    "end": "00:06:29.010"
+  },
+  {
+    "text": "friends have way more friends than you",
+    "begin": "00:06:26.700",
+    "end": "00:06:31.500"
+  },
+  {
+    "text": "do this is the friendship paradox and",
+    "begin": "00:06:29.010",
+    "end": "00:06:33.330"
+  },
+  {
+    "text": "network science and I think it's like",
+    "begin": "00:06:31.500",
+    "end": "00:06:35.729"
+  },
+  {
+    "text": "the first thing that you should learn if",
+    "begin": "00:06:33.330",
+    "end": "00:06:38.400"
+  },
+  {
+    "text": "you're trying to wrap your mind around",
+    "begin": "00:06:35.729",
+    "end": "00:06:39.039"
+  },
+  {
+    "text": "network",
+    "begin": "00:06:38.400",
+    "end": "00:06:41.169"
+  },
+  {
+    "text": "science says hey more about that I",
+    "begin": "00:06:39.039",
+    "end": "00:06:43.569"
+  },
+  {
+    "text": "remember reading about that early on",
+    "begin": "00:06:41.169",
+    "end": "00:06:45.009"
+  },
+  {
+    "text": "when I started digging into Network",
+    "begin": "00:06:43.569",
+    "end": "00:06:46.839"
+  },
+  {
+    "text": "science back in the early double lots",
+    "begin": "00:06:45.009",
+    "end": "00:06:48.520"
+  },
+  {
+    "text": "when I was going what how could that",
+    "begin": "00:06:46.839",
+    "end": "00:06:50.169"
+  },
+  {
+    "text": "possibly be true and then I work through",
+    "begin": "00:06:48.520",
+    "end": "00:06:51.819"
+  },
+  {
+    "text": "the math and I go yep for the average",
+    "begin": "00:06:50.169",
+    "end": "00:06:54.399"
+  },
+  {
+    "text": "person it's true could you run through a",
+    "begin": "00:06:51.819",
+    "end": "00:06:56.770"
+  },
+  {
+    "text": "simple example or illuminate that for us",
+    "begin": "00:06:54.399",
+    "end": "00:07:00.669"
+  },
+  {
+    "text": "a little bit sure I mean so so we all",
+    "begin": "00:06:56.770",
+    "end": "00:07:03.789"
+  },
+  {
+    "text": "think of ourselves as average and you",
+    "begin": "00:07:00.669",
+    "end": "00:07:05.800"
+  },
+  {
+    "text": "know we probably think of our friends as",
+    "begin": "00:07:03.789",
+    "end": "00:07:07.960"
+  },
+  {
+    "text": "average and so our friends are just like",
+    "begin": "00:07:05.800",
+    "end": "00:07:08.169"
+  },
+  {
+    "text": "us",
+    "begin": "00:07:07.960",
+    "end": "00:07:11.649"
+  },
+  {
+    "text": "right but consider Facebook for example",
+    "begin": "00:07:08.169",
+    "end": "00:07:14.770"
+  },
+  {
+    "text": "if you go and if you're on Facebook and",
+    "begin": "00:07:11.649",
+    "end": "00:07:16.389"
+  },
+  {
+    "text": "you look at what your number of friends",
+    "begin": "00:07:14.770",
+    "end": "00:07:17.949"
+  },
+  {
+    "text": "are and you look through all your",
+    "begin": "00:07:16.389",
+    "end": "00:07:20.830"
+  },
+  {
+    "text": "friends and find out their average",
+    "begin": "00:07:17.949",
+    "end": "00:07:23.949"
+  },
+  {
+    "text": "number of friends probably that average",
+    "begin": "00:07:20.830",
+    "end": "00:07:26.110"
+  },
+  {
+    "text": "is gonna be a lot higher than your own",
+    "begin": "00:07:23.949",
+    "end": "00:07:28.539"
+  },
+  {
+    "text": "number of friends and the reason is",
+    "begin": "00:07:26.110",
+    "end": "00:07:31.270"
+  },
+  {
+    "text": "because an average person in the network",
+    "begin": "00:07:28.539",
+    "end": "00:07:33.069"
+  },
+  {
+    "text": "you take the whole network you pick a",
+    "begin": "00:07:31.270",
+    "end": "00:07:34.809"
+  },
+  {
+    "text": "person at random you look at that",
+    "begin": "00:07:33.069",
+    "end": "00:07:37.389"
+  },
+  {
+    "text": "person's number of friends that's",
+    "begin": "00:07:34.809",
+    "end": "00:07:40.689"
+  },
+  {
+    "text": "different than following a random link",
+    "begin": "00:07:37.389",
+    "end": "00:07:44.860"
+  },
+  {
+    "text": "so picking a random one of your own",
+    "begin": "00:07:40.689",
+    "end": "00:07:47.289"
+  },
+  {
+    "text": "friends by following a link from you to",
+    "begin": "00:07:44.860",
+    "end": "00:07:47.860"
+  },
+  {
+    "text": "them",
+    "begin": "00:07:47.289",
+    "end": "00:07:51.999"
+  },
+  {
+    "text": "that link is followed preferentially by",
+    "begin": "00:07:47.860",
+    "end": "00:07:54.219"
+  },
+  {
+    "text": "their number of connections so because",
+    "begin": "00:07:51.999",
+    "end": "00:07:56.259"
+  },
+  {
+    "text": "there are some people who have so many",
+    "begin": "00:07:54.219",
+    "end": "00:07:59.559"
+  },
+  {
+    "text": "more connections you're way more likely",
+    "begin": "00:07:56.259",
+    "end": "00:08:01.959"
+  },
+  {
+    "text": "to be connected to somebody who has lots",
+    "begin": "00:07:59.559",
+    "end": "00:08:04.959"
+  },
+  {
+    "text": "of connections so then when you take a",
+    "begin": "00:08:01.959",
+    "end": "00:08:07.449"
+  },
+  {
+    "text": "step back and look at it the average",
+    "begin": "00:08:04.959",
+    "end": "00:08:09.339"
+  },
+  {
+    "text": "number of connections of your friends",
+    "begin": "00:08:07.449",
+    "end": "00:08:11.139"
+  },
+  {
+    "text": "you really expect that to be a lot",
+    "begin": "00:08:09.339",
+    "end": "00:08:12.879"
+  },
+  {
+    "text": "higher than the average number of",
+    "begin": "00:08:11.139",
+    "end": "00:08:15.129"
+  },
+  {
+    "text": "connections of an individual or the",
+    "begin": "00:08:12.879",
+    "end": "00:08:17.349"
+  },
+  {
+    "text": "number of connections that you have that",
+    "begin": "00:08:15.129",
+    "end": "00:08:19.059"
+  },
+  {
+    "text": "makes actually makes perfect sense when",
+    "begin": "00:08:17.349",
+    "end": "00:08:20.589"
+  },
+  {
+    "text": "you think about it from that way and",
+    "begin": "00:08:19.059",
+    "end": "00:08:22.180"
+  },
+  {
+    "text": "that's one of the things why network",
+    "begin": "00:08:20.589",
+    "end": "00:08:24.309"
+  },
+  {
+    "text": "science was such a huge contribution to",
+    "begin": "00:08:22.180",
+    "end": "00:08:25.930"
+  },
+  {
+    "text": "the intellectual working capital the",
+    "begin": "00:08:24.309",
+    "end": "00:08:28.089"
+  },
+  {
+    "text": "human race is that it produces very",
+    "begin": "00:08:25.930",
+    "end": "00:08:31.180"
+  },
+  {
+    "text": "actionable insights such as that that",
+    "begin": "00:08:28.089",
+    "end": "00:08:33.760"
+  },
+  {
+    "text": "are not intuitive yeah absolutely and I",
+    "begin": "00:08:31.180",
+    "end": "00:08:35.979"
+  },
+  {
+    "text": "think that that's a first way for people",
+    "begin": "00:08:33.760",
+    "end": "00:08:38.529"
+  },
+  {
+    "text": "to understand network science and to",
+    "begin": "00:08:35.979",
+    "end": "00:08:40.510"
+  },
+  {
+    "text": "realize oh when we're thinking about",
+    "begin": "00:08:38.529",
+    "end": "00:08:43.539"
+  },
+  {
+    "text": "these epidemiological models we just do",
+    "begin": "00:08:40.510",
+    "end": "00:08:45.910"
+  },
+  {
+    "text": "everything at the population average",
+    "begin": "00:08:43.539",
+    "end": "00:08:48.819"
+  },
+  {
+    "text": "level we're missing a lot of important",
+    "begin": "00:08:45.910",
+    "end": "00:08:51.610"
+  },
+  {
+    "text": "elements that really change",
+    "begin": "00:08:48.819",
+    "end": "00:08:55.060"
+  },
+  {
+    "text": "behaviors of the whole system and the",
+    "begin": "00:08:51.610",
+    "end": "00:08:57.040"
+  },
+  {
+    "text": "course of disease spread and I'm really",
+    "begin": "00:08:55.060",
+    "end": "00:08:59.110"
+  },
+  {
+    "text": "glad that we have a number of people",
+    "begin": "00:08:57.040",
+    "end": "00:09:00.279"
+  },
+  {
+    "text": "particularly in our Santa Fe Institute",
+    "begin": "00:08:59.110",
+    "end": "00:09:03.100"
+  },
+  {
+    "text": "community who are bringing advanced",
+    "begin": "00:09:00.279",
+    "end": "00:09:05.529"
+  },
+  {
+    "text": "epidemiological modeling with a network",
+    "begin": "00:09:03.100",
+    "end": "00:09:07.990"
+  },
+  {
+    "text": "understanding on top of it because you",
+    "begin": "00:09:05.529",
+    "end": "00:09:10.269"
+  },
+  {
+    "text": "know that provides as a very different",
+    "begin": "00:09:07.990",
+    "end": "00:09:12.130"
+  },
+  {
+    "text": "view rather than using these population",
+    "begin": "00:09:10.269",
+    "end": "00:09:14.709"
+  },
+  {
+    "text": "averages because you now to address a",
+    "begin": "00:09:12.130",
+    "end": "00:09:16.600"
+  },
+  {
+    "text": "little bit about how things like social",
+    "begin": "00:09:14.709",
+    "end": "00:09:18.670"
+  },
+  {
+    "text": "distancing either you know low end",
+    "begin": "00:09:16.600",
+    "end": "00:09:20.589"
+  },
+  {
+    "text": "social distancing like staying six feet",
+    "begin": "00:09:18.670",
+    "end": "00:09:23.110"
+  },
+  {
+    "text": "apart and more radical such as stay at",
+    "begin": "00:09:20.589",
+    "end": "00:09:25.750"
+  },
+  {
+    "text": "home orders how they change the literal",
+    "begin": "00:09:23.110",
+    "end": "00:09:27.700"
+  },
+  {
+    "text": "nature of the network and what impact",
+    "begin": "00:09:25.750",
+    "end": "00:09:29.740"
+  },
+  {
+    "text": "they are likely to have on the spread of",
+    "begin": "00:09:27.700",
+    "end": "00:09:31.959"
+  },
+  {
+    "text": "the disease that's a really good",
+    "begin": "00:09:29.740",
+    "end": "00:09:34.420"
+  },
+  {
+    "text": "question and there are a couple ways in",
+    "begin": "00:09:31.959",
+    "end": "00:09:36.670"
+  },
+  {
+    "text": "which they change the nature of the",
+    "begin": "00:09:34.420",
+    "end": "00:09:39.490"
+  },
+  {
+    "text": "spreading pattern so in these Network",
+    "begin": "00:09:36.670",
+    "end": "00:09:41.920"
+  },
+  {
+    "text": "models of disease spread you have a lot",
+    "begin": "00:09:39.490",
+    "end": "00:09:44.230"
+  },
+  {
+    "text": "of different parameters not only do you",
+    "begin": "00:09:41.920",
+    "end": "00:09:47.019"
+  },
+  {
+    "text": "have the network structure who's",
+    "begin": "00:09:44.230",
+    "end": "00:09:50.010"
+  },
+  {
+    "text": "connected to whom but you also have",
+    "begin": "00:09:47.019",
+    "end": "00:09:52.390"
+  },
+  {
+    "text": "parameters of the dynamics of the",
+    "begin": "00:09:50.010",
+    "end": "00:09:55.029"
+  },
+  {
+    "text": "disease the probability of transmission",
+    "begin": "00:09:52.390",
+    "end": "00:09:58.750"
+  },
+  {
+    "text": "along an edge so this staying six feet",
+    "begin": "00:09:55.029",
+    "end": "00:10:02.079"
+  },
+  {
+    "text": "apart from from one another if you still",
+    "begin": "00:09:58.750",
+    "end": "00:10:04.839"
+  },
+  {
+    "text": "are going about and interacting with the",
+    "begin": "00:10:02.079",
+    "end": "00:10:07.089"
+  },
+  {
+    "text": "same people like you're going to work",
+    "begin": "00:10:04.839",
+    "end": "00:10:09.010"
+  },
+  {
+    "text": "but you're staying far apart from one",
+    "begin": "00:10:07.089",
+    "end": "00:10:11.350"
+  },
+  {
+    "text": "another that's really changing the",
+    "begin": "00:10:09.010",
+    "end": "00:10:14.380"
+  },
+  {
+    "text": "probability of spreading between people",
+    "begin": "00:10:11.350",
+    "end": "00:10:18.430"
+  },
+  {
+    "text": "now it's also in part changing the",
+    "begin": "00:10:14.380",
+    "end": "00:10:21.550"
+  },
+  {
+    "text": "network because it's giving you fewer",
+    "begin": "00:10:18.430",
+    "end": "00:10:23.949"
+  },
+  {
+    "text": "opportunities to interact kind of",
+    "begin": "00:10:21.550",
+    "end": "00:10:26.800"
+  },
+  {
+    "text": "casually with people you might interact",
+    "begin": "00:10:23.949",
+    "end": "00:10:30.430"
+  },
+  {
+    "text": "with in a normal situation but what",
+    "begin": "00:10:26.800",
+    "end": "00:10:34.170"
+  },
+  {
+    "text": "really changes the network is these",
+    "begin": "00:10:30.430",
+    "end": "00:10:37.120"
+  },
+  {
+    "text": "lockdown situations where you're staying",
+    "begin": "00:10:34.170",
+    "end": "00:10:39.699"
+  },
+  {
+    "text": "at home you're completely reducing the",
+    "begin": "00:10:37.120",
+    "end": "00:10:42.430"
+  },
+  {
+    "text": "number of connections you have so not",
+    "begin": "00:10:39.699",
+    "end": "00:10:44.500"
+  },
+  {
+    "text": "only have you changed the probability of",
+    "begin": "00:10:42.430",
+    "end": "00:10:47.350"
+  },
+  {
+    "text": "transmission but you've changed the",
+    "begin": "00:10:44.500",
+    "end": "00:10:50.320"
+  },
+  {
+    "text": "network topology yep and so for instance",
+    "begin": "00:10:47.350",
+    "end": "00:10:52.589"
+  },
+  {
+    "text": "if we think about our relationships with",
+    "begin": "00:10:50.320",
+    "end": "00:10:55.570"
+  },
+  {
+    "text": "everybody we know it's a link between",
+    "begin": "00:10:52.589",
+    "end": "00:10:58.360"
+  },
+  {
+    "text": "let's say you and me and if the nature",
+    "begin": "00:10:55.570",
+    "end": "00:11:01.329"
+  },
+  {
+    "text": "of the link right now is you and I going",
+    "begin": "00:10:58.360",
+    "end": "00:11:02.540"
+  },
+  {
+    "text": "out to have dinner",
+    "begin": "00:11:01.329",
+    "end": "00:11:05.420"
+  },
+  {
+    "text": "at a restaurant we were sitting 18",
+    "begin": "00:11:02.540",
+    "end": "00:11:08.540"
+  },
+  {
+    "text": "inches apart the dynamics of how the",
+    "begin": "00:11:05.420",
+    "end": "00:11:11.060"
+  },
+  {
+    "text": "disease spreads probabilistically is one",
+    "begin": "00:11:08.540",
+    "end": "00:11:13.130"
+  },
+  {
+    "text": "thing if you and I are talking over zoom",
+    "begin": "00:11:11.060",
+    "end": "00:11:16.160"
+  },
+  {
+    "text": "it's entirely different so if instead of",
+    "begin": "00:11:13.130",
+    "end": "00:11:18.530"
+  },
+  {
+    "text": "doing this by zoom we did it face to",
+    "begin": "00:11:16.160",
+    "end": "00:11:20.720"
+  },
+  {
+    "text": "face we would be changing the nature of",
+    "begin": "00:11:18.530",
+    "end": "00:11:24.230"
+  },
+  {
+    "text": "propagation on the network exactly okay",
+    "begin": "00:11:20.720",
+    "end": "00:11:25.630"
+  },
+  {
+    "text": "and so that each one of these",
+    "begin": "00:11:24.230",
+    "end": "00:11:28.310"
+  },
+  {
+    "text": "essentially is changing the property of",
+    "begin": "00:11:25.630",
+    "end": "00:11:30.860"
+  },
+  {
+    "text": "the link we stop we don't stop knowing",
+    "begin": "00:11:28.310",
+    "end": "00:11:33.950"
+  },
+  {
+    "text": "people so our social graph in some sense",
+    "begin": "00:11:30.860",
+    "end": "00:11:37.400"
+  },
+  {
+    "text": "is still unchanged but the properties of",
+    "begin": "00:11:33.950",
+    "end": "00:11:40.220"
+  },
+  {
+    "text": "the graph the properties of each link",
+    "begin": "00:11:37.400",
+    "end": "00:11:43.910"
+  },
+  {
+    "text": "change as we social distance right and I",
+    "begin": "00:11:40.220",
+    "end": "00:11:46.730"
+  },
+  {
+    "text": "like to think about it as we have you",
+    "begin": "00:11:43.910",
+    "end": "00:11:49.460"
+  },
+  {
+    "text": "know our underlying social interaction",
+    "begin": "00:11:46.730",
+    "end": "00:11:52.910"
+  },
+  {
+    "text": "Network and then we have a subset of",
+    "begin": "00:11:49.460",
+    "end": "00:11:56.260"
+  },
+  {
+    "text": "that network the network along which the",
+    "begin": "00:11:52.910",
+    "end": "00:11:59.120"
+  },
+  {
+    "text": "transmission can spread so if you if",
+    "begin": "00:11:56.260",
+    "end": "00:12:01.700"
+  },
+  {
+    "text": "we're we have a social connection but",
+    "begin": "00:11:59.120",
+    "end": "00:12:03.680"
+  },
+  {
+    "text": "that connection is only being realized",
+    "begin": "00:12:01.700",
+    "end": "00:12:06.320"
+  },
+  {
+    "text": "virtually that's not a potential link",
+    "begin": "00:12:03.680",
+    "end": "00:12:09.350"
+  },
+  {
+    "text": "for spreading right and as people switch",
+    "begin": "00:12:06.320",
+    "end": "00:12:11.930"
+  },
+  {
+    "text": "from physical presence to virtual",
+    "begin": "00:12:09.350",
+    "end": "00:12:14.630"
+  },
+  {
+    "text": "presence I'm thinking in my head of",
+    "begin": "00:12:11.930",
+    "end": "00:12:16.100"
+  },
+  {
+    "text": "nodes and lengths you know the nature of",
+    "begin": "00:12:14.630",
+    "end": "00:12:17.810"
+  },
+  {
+    "text": "the links changes it now becomes",
+    "begin": "00:12:16.100",
+    "end": "00:12:20.690"
+  },
+  {
+    "text": "impossible for you know Jim to give",
+    "begin": "00:12:17.810",
+    "end": "00:12:27.260"
+  },
+  {
+    "text": "Michele Corcovado face meeting to a zoom",
+    "begin": "00:12:20.690",
+    "end": "00:12:28.460"
+  },
+  {
+    "text": "meeting and the more of those that",
+    "begin": "00:12:27.260",
+    "end": "00:12:32.060"
+  },
+  {
+    "text": "change literally the propensity to",
+    "begin": "00:12:28.460",
+    "end": "00:12:34.040"
+  },
+  {
+    "text": "propagate on the network changes very",
+    "begin": "00:12:32.060",
+    "end": "00:12:37.340"
+  },
+  {
+    "text": "considerably and another thing that we",
+    "begin": "00:12:34.040",
+    "end": "00:12:39.650"
+  },
+  {
+    "text": "really have to think about is that the",
+    "begin": "00:12:37.340",
+    "end": "00:12:42.800"
+  },
+  {
+    "text": "networks adapt in response to the",
+    "begin": "00:12:39.650",
+    "end": "00:12:45.470"
+  },
+  {
+    "text": "spreading patterns now one thing I think",
+    "begin": "00:12:42.800",
+    "end": "00:12:47.390"
+  },
+  {
+    "text": "that we as a community have been doing",
+    "begin": "00:12:45.470",
+    "end": "00:12:50.210"
+  },
+  {
+    "text": "pretty well is cutting down the number",
+    "begin": "00:12:47.390",
+    "end": "00:12:54.230"
+  },
+  {
+    "text": "of visits to doctors offices where you",
+    "begin": "00:12:50.210",
+    "end": "00:12:56.210"
+  },
+  {
+    "text": "have questionable symptoms and you might",
+    "begin": "00:12:54.230",
+    "end": "00:12:59.210"
+  },
+  {
+    "text": "then then healthy people who might get",
+    "begin": "00:12:56.210",
+    "end": "00:13:01.160"
+  },
+  {
+    "text": "the disease at a doctor's office so",
+    "begin": "00:12:59.210",
+    "end": "00:13:02.930"
+  },
+  {
+    "text": "there have been various policy",
+    "begin": "00:13:01.160",
+    "end": "00:13:05.780"
+  },
+  {
+    "text": "suggestions call your doctor from home a",
+    "begin": "00:13:02.930",
+    "end": "00:13:09.260"
+  },
+  {
+    "text": "move to move to telemedicine instead of",
+    "begin": "00:13:05.780",
+    "end": "00:13:11.690"
+  },
+  {
+    "text": "in-person visits because you know what",
+    "begin": "00:13:09.260",
+    "end": "00:13:14.840"
+  },
+  {
+    "text": "happens is when people are sick they go",
+    "begin": "00:13:11.690",
+    "end": "00:13:16.070"
+  },
+  {
+    "text": "to the doctor",
+    "begin": "00:13:14.840",
+    "end": "00:13:19.800"
+  },
+  {
+    "text": "and maybe they're sick with coronavirus",
+    "begin": "00:13:16.070",
+    "end": "00:13:22.290"
+  },
+  {
+    "text": "but maybe they're sick with a common",
+    "begin": "00:13:19.800",
+    "end": "00:13:24.990"
+  },
+  {
+    "text": "cold and then you know if you they're",
+    "begin": "00:13:22.290",
+    "end": "00:13:26.580"
+  },
+  {
+    "text": "all meeting especially this is a high",
+    "begin": "00:13:24.990",
+    "end": "00:13:29.640"
+  },
+  {
+    "text": "density of people who have kovat 19 in a",
+    "begin": "00:13:26.580",
+    "end": "00:13:33.020"
+  },
+  {
+    "text": "small space that really increases the",
+    "begin": "00:13:29.640",
+    "end": "00:13:35.280"
+  },
+  {
+    "text": "transmission so I think that's one thing",
+    "begin": "00:13:33.020",
+    "end": "00:13:37.200"
+  },
+  {
+    "text": "we've actually been doing right is",
+    "begin": "00:13:35.280",
+    "end": "00:13:39.780"
+  },
+  {
+    "text": "keeping people from going directly to",
+    "begin": "00:13:37.200",
+    "end": "00:13:43.590"
+  },
+  {
+    "text": "the doctor's office and trying to cut",
+    "begin": "00:13:39.780",
+    "end": "00:13:45.480"
+  },
+  {
+    "text": "off some of the spread that happens in",
+    "begin": "00:13:43.590",
+    "end": "00:13:48.450"
+  },
+  {
+    "text": "that way and this is of courses for",
+    "begin": "00:13:45.480",
+    "end": "00:13:50.490"
+  },
+  {
+    "text": "people who have just mild symptoms I'll",
+    "begin": "00:13:48.450",
+    "end": "00:13:51.720"
+  },
+  {
+    "text": "give you a perfect examples we talked",
+    "begin": "00:13:50.490",
+    "end": "00:13:54.360"
+  },
+  {
+    "text": "about pre-roll on the show my daughter's",
+    "begin": "00:13:51.720",
+    "end": "00:13:56.600"
+  },
+  {
+    "text": "like 25 weeks pregnant and",
+    "begin": "00:13:54.360",
+    "end": "00:13:58.890"
+  },
+  {
+    "text": "fingers-crossed been a very healthy",
+    "begin": "00:13:56.600",
+    "end": "00:14:02.190"
+  },
+  {
+    "text": "non-problematic pregnancy and her and",
+    "begin": "00:13:58.890",
+    "end": "00:14:06.540"
+  },
+  {
+    "text": "her doctor negotiated changing many of",
+    "begin": "00:14:02.190",
+    "end": "00:14:09.180"
+  },
+  {
+    "text": "her normal check-in visits from in",
+    "begin": "00:14:06.540",
+    "end": "00:14:12.030"
+  },
+  {
+    "text": "office to telemedicine for exactly that",
+    "begin": "00:14:09.180",
+    "end": "00:14:14.370"
+  },
+  {
+    "text": "reason the you know the benefit of a",
+    "begin": "00:14:12.030",
+    "end": "00:14:16.470"
+  },
+  {
+    "text": "routine office visit for a healthy",
+    "begin": "00:14:14.370",
+    "end": "00:14:19.320"
+  },
+  {
+    "text": "pregnancy is not zero but it's not huge",
+    "begin": "00:14:16.470",
+    "end": "00:14:22.500"
+  },
+  {
+    "text": "compared to a telemedicine and the risk",
+    "begin": "00:14:19.320",
+    "end": "00:14:25.380"
+  },
+  {
+    "text": "is significant so the math works out do",
+    "begin": "00:14:22.500",
+    "end": "00:14:27.120"
+  },
+  {
+    "text": "telemedicine right on the other hand if",
+    "begin": "00:14:25.380",
+    "end": "00:14:28.500"
+  },
+  {
+    "text": "she were to have a complication sheet of",
+    "begin": "00:14:27.120",
+    "end": "00:14:29.580"
+  },
+  {
+    "text": "course go to the doctor or the hospital",
+    "begin": "00:14:28.500",
+    "end": "00:14:32.070"
+  },
+  {
+    "text": "because at that point the the risk",
+    "begin": "00:14:29.580",
+    "end": "00:14:34.170"
+  },
+  {
+    "text": "reward works the other way and you know",
+    "begin": "00:14:32.070",
+    "end": "00:14:35.880"
+  },
+  {
+    "text": "so humans are smart we're you know a",
+    "begin": "00:14:34.170",
+    "end": "00:14:37.740"
+  },
+  {
+    "text": "smart adaptive agents and we are making",
+    "begin": "00:14:35.880",
+    "end": "00:14:40.410"
+  },
+  {
+    "text": "those changes again as we talked about",
+    "begin": "00:14:37.740",
+    "end": "00:14:42.840"
+  },
+  {
+    "text": "in the pre-roll both of us are now using",
+    "begin": "00:14:40.410",
+    "end": "00:14:45.450"
+  },
+  {
+    "text": "order in advance pick up at the grocery",
+    "begin": "00:14:42.840",
+    "end": "00:14:47.880"
+  },
+  {
+    "text": "store quarantined the food in a cooler",
+    "begin": "00:14:45.450",
+    "end": "00:14:50.610"
+  },
+  {
+    "text": "for a day etc and that's sort of",
+    "begin": "00:14:47.880",
+    "end": "00:14:52.950"
+  },
+  {
+    "text": "bottom-up self-organizing modifying the",
+    "begin": "00:14:50.610",
+    "end": "00:14:54.900"
+  },
+  {
+    "text": "network you know my relationship to my",
+    "begin": "00:14:52.950",
+    "end": "00:14:57.320"
+  },
+  {
+    "text": "grocery store is now a much less",
+    "begin": "00:14:54.900",
+    "end": "00:15:01.500"
+  },
+  {
+    "text": "powerful vector for viral spread right",
+    "begin": "00:14:57.320",
+    "end": "00:15:06.390"
+  },
+  {
+    "text": "absolutely i but I do wonder about some",
+    "begin": "00:15:01.500",
+    "end": "00:15:08.610"
+  },
+  {
+    "text": "of these changes have they gone far",
+    "begin": "00:15:06.390",
+    "end": "00:15:12.570"
+  },
+  {
+    "text": "enough I mean certainly there we need",
+    "begin": "00:15:08.610",
+    "end": "00:15:14.550"
+  },
+  {
+    "text": "our health care workers to keep going",
+    "begin": "00:15:12.570",
+    "end": "00:15:16.980"
+  },
+  {
+    "text": "you need our grocery workers to keep",
+    "begin": "00:15:14.550",
+    "end": "00:15:19.830"
+  },
+  {
+    "text": "going but are we putting enough measures",
+    "begin": "00:15:16.980",
+    "end": "00:15:22.589"
+  },
+  {
+    "text": "in to protect those people because they",
+    "begin": "00:15:19.830",
+    "end": "00:15:24.660"
+  },
+  {
+    "text": "are interacting with so many people",
+    "begin": "00:15:22.589",
+    "end": "00:15:28.320"
+  },
+  {
+    "text": "every day and what else can we do to",
+    "begin": "00:15:24.660",
+    "end": "00:15:29.100"
+  },
+  {
+    "text": "change the",
+    "begin": "00:15:28.320",
+    "end": "00:15:32.250"
+  },
+  {
+    "text": "transmission parameters to help protect",
+    "begin": "00:15:29.100",
+    "end": "00:15:35.820"
+  },
+  {
+    "text": "them also you know I kind of luckily",
+    "begin": "00:15:32.250",
+    "end": "00:15:39.240"
+  },
+  {
+    "text": "removed from manufacturing processes and",
+    "begin": "00:15:35.820",
+    "end": "00:15:41.820"
+  },
+  {
+    "text": "things like that but are the plants that",
+    "begin": "00:15:39.240",
+    "end": "00:15:44.010"
+  },
+  {
+    "text": "are manufacturing these goods what are",
+    "begin": "00:15:41.820",
+    "end": "00:15:46.470"
+  },
+  {
+    "text": "what are the network properties of the",
+    "begin": "00:15:44.010",
+    "end": "00:15:49.020"
+  },
+  {
+    "text": "individuals who are doing this important",
+    "begin": "00:15:46.470",
+    "end": "00:15:51.030"
+  },
+  {
+    "text": "work during this time and how can we",
+    "begin": "00:15:49.020",
+    "end": "00:15:53.340"
+  },
+  {
+    "text": "protect them better yeah and of course a",
+    "begin": "00:15:51.030",
+    "end": "00:15:55.860"
+  },
+  {
+    "text": "lot of that a different topic but",
+    "begin": "00:15:53.340",
+    "end": "00:15:57.750"
+  },
+  {
+    "text": "something you know near and dear to a",
+    "begin": "00:15:55.860",
+    "end": "00:16:00.710"
+  },
+  {
+    "text": "complexity science perspective is",
+    "begin": "00:15:57.750",
+    "end": "00:16:03.180"
+  },
+  {
+    "text": "unfortunately our hyper capitalist",
+    "begin": "00:16:00.710",
+    "end": "00:16:05.400"
+  },
+  {
+    "text": "short-term money on money return Society",
+    "begin": "00:16:03.180",
+    "end": "00:16:08.610"
+  },
+  {
+    "text": "has engineered everything for efficiency",
+    "begin": "00:16:05.400",
+    "end": "00:16:11.160"
+  },
+  {
+    "text": "and not for robustness you know for",
+    "begin": "00:16:08.610",
+    "end": "00:16:13.650"
+  },
+  {
+    "text": "instance we know these plagues are",
+    "begin": "00:16:11.160",
+    "end": "00:16:15.630"
+  },
+  {
+    "text": "coming look at the the data on",
+    "begin": "00:16:13.650",
+    "end": "00:16:19.020"
+  },
+  {
+    "text": "respiratory illnesses in the number of",
+    "begin": "00:16:15.630",
+    "end": "00:16:21.510"
+  },
+  {
+    "text": "cases and if you assume a fat tail",
+    "begin": "00:16:19.020",
+    "end": "00:16:23.040"
+  },
+  {
+    "text": "distribution which certainly seems",
+    "begin": "00:16:21.510",
+    "end": "00:16:24.960"
+  },
+  {
+    "text": "reasonable something like this is very",
+    "begin": "00:16:23.040",
+    "end": "00:16:26.970"
+  },
+  {
+    "text": "predictable to have happened someone who",
+    "begin": "00:16:24.960",
+    "end": "00:16:28.920"
+  },
+  {
+    "text": "was thinking in terms of robustness and",
+    "begin": "00:16:26.970",
+    "end": "00:16:30.680"
+  },
+  {
+    "text": "complexity would have stockpiled",
+    "begin": "00:16:28.920",
+    "end": "00:16:34.320"
+  },
+  {
+    "text": "billions of face masks right you know",
+    "begin": "00:16:30.680",
+    "end": "00:16:36.450"
+  },
+  {
+    "text": "tens of thousands of ventilators body",
+    "begin": "00:16:34.320",
+    "end": "00:16:38.940"
+  },
+  {
+    "text": "suits and so these issues of our health",
+    "begin": "00:16:36.450",
+    "end": "00:16:40.710"
+  },
+  {
+    "text": "care workers having to expose themselves",
+    "begin": "00:16:38.940",
+    "end": "00:16:42.440"
+  },
+  {
+    "text": "and a lot of them are heroes I mean my",
+    "begin": "00:16:40.710",
+    "end": "00:16:44.820"
+  },
+  {
+    "text": "sister-in-law is a nurse practitioner",
+    "begin": "00:16:42.440",
+    "end": "00:16:47.370"
+  },
+  {
+    "text": "and a heroic medical person who is",
+    "begin": "00:16:44.820",
+    "end": "00:16:49.320"
+  },
+  {
+    "text": "putting her life on the line literally",
+    "begin": "00:16:47.370",
+    "end": "00:16:51.720"
+  },
+  {
+    "text": "every day to help her patients I would",
+    "begin": "00:16:49.320",
+    "end": "00:16:53.100"
+  },
+  {
+    "text": "have felt a hell of a lot better and we",
+    "begin": "00:16:51.720",
+    "end": "00:16:54.510"
+  },
+  {
+    "text": "actually you know sent her masks and",
+    "begin": "00:16:53.100",
+    "end": "00:16:55.830"
+  },
+  {
+    "text": "things like that my brother sent her",
+    "begin": "00:16:54.510",
+    "end": "00:16:59.520"
+  },
+  {
+    "text": "some masks and you know if we've been a",
+    "begin": "00:16:55.830",
+    "end": "00:17:01.320"
+  },
+  {
+    "text": "smart robust and resilience thinking",
+    "begin": "00:16:59.520",
+    "end": "00:17:03.380"
+  },
+  {
+    "text": "society we would have prepared for this",
+    "begin": "00:17:01.320",
+    "end": "00:17:07.020"
+  },
+  {
+    "text": "right absolutely and right now that",
+    "begin": "00:17:03.380",
+    "end": "00:17:09.750"
+  },
+  {
+    "text": "could be a big weakness that we have in",
+    "begin": "00:17:07.020",
+    "end": "00:17:13.170"
+  },
+  {
+    "text": "our system because that's a point rate",
+    "begin": "00:17:09.750",
+    "end": "00:17:15.060"
+  },
+  {
+    "text": "so while everything else is closed down",
+    "begin": "00:17:13.170",
+    "end": "00:17:18.840"
+  },
+  {
+    "text": "it's these mega centers like hospitals",
+    "begin": "00:17:15.060",
+    "end": "00:17:21.540"
+  },
+  {
+    "text": "where there is a big possibility for",
+    "begin": "00:17:18.840",
+    "end": "00:17:23.970"
+  },
+  {
+    "text": "continued spread of the disease and if",
+    "begin": "00:17:21.540",
+    "end": "00:17:25.830"
+  },
+  {
+    "text": "we're not we don't have enough equipment",
+    "begin": "00:17:23.970",
+    "end": "00:17:28.400"
+  },
+  {
+    "text": "to make those precautions we're not",
+    "begin": "00:17:25.830",
+    "end": "00:17:31.170"
+  },
+  {
+    "text": "cutting off that tail like we need to",
+    "begin": "00:17:28.400",
+    "end": "00:17:33.270"
+  },
+  {
+    "text": "yea Lantern as you would say from the",
+    "begin": "00:17:31.170",
+    "end": "00:17:35.310"
+  },
+  {
+    "text": "network perspective those are you know",
+    "begin": "00:17:33.270",
+    "end": "00:17:37.200"
+  },
+  {
+    "text": "hi mixing nodes with a high propensity",
+    "begin": "00:17:35.310",
+    "end": "00:17:39.450"
+  },
+  {
+    "text": "of sick people right so just what you",
+    "begin": "00:17:37.200",
+    "end": "00:17:41.870"
+  },
+  {
+    "text": "don't want absolutely",
+    "begin": "00:17:39.450",
+    "end": "00:17:45.260"
+  },
+  {
+    "text": "another thing that I seen recently and",
+    "begin": "00:17:41.870",
+    "end": "00:17:47.960"
+  },
+  {
+    "text": "this is not related to my expertise in",
+    "begin": "00:17:45.260",
+    "end": "00:17:50.270"
+  },
+  {
+    "text": "network science so but I think it's an",
+    "begin": "00:17:47.960",
+    "end": "00:17:52.520"
+  },
+  {
+    "text": "interesting feature that's not been",
+    "begin": "00:17:50.270",
+    "end": "00:17:55.429"
+  },
+  {
+    "text": "included and a lot of the modeling is",
+    "begin": "00:17:52.520",
+    "end": "00:17:59.450"
+  },
+  {
+    "text": "the level of exposure that people have",
+    "begin": "00:17:55.429",
+    "end": "00:18:04.490"
+  },
+  {
+    "text": "so you know healthcare workers they can",
+    "begin": "00:17:59.450",
+    "end": "00:18:06.260"
+  },
+  {
+    "text": "get much hotter they can be exposed to",
+    "begin": "00:18:04.490",
+    "end": "00:18:09.140"
+  },
+  {
+    "text": "much higher doses of the virus as",
+    "begin": "00:18:06.260",
+    "end": "00:18:11.299"
+  },
+  {
+    "text": "compared to somebody who gets it from a",
+    "begin": "00:18:09.140",
+    "end": "00:18:14.570"
+  },
+  {
+    "text": "surface and as I've read again on expert",
+    "begin": "00:18:11.299",
+    "end": "00:18:19.490"
+  },
+  {
+    "text": "in this that how sick you get for many",
+    "begin": "00:18:14.570",
+    "end": "00:18:23.120"
+  },
+  {
+    "text": "types of viruses is strongly correlated",
+    "begin": "00:18:19.490",
+    "end": "00:18:26.419"
+  },
+  {
+    "text": "with that level of exposure so it's also",
+    "begin": "00:18:23.120",
+    "end": "00:18:28.159"
+  },
+  {
+    "text": "something we can be we should be taking",
+    "begin": "00:18:26.419",
+    "end": "00:18:31.909"
+  },
+  {
+    "text": "into account yes in fact a mini podcast",
+    "begin": "00:18:28.159",
+    "end": "00:18:34.190"
+  },
+  {
+    "text": "like we are publishing today from Robin",
+    "begin": "00:18:31.909",
+    "end": "00:18:34.669"
+  },
+  {
+    "text": "Hanson",
+    "begin": "00:18:34.190",
+    "end": "00:18:37.909"
+  },
+  {
+    "text": "we discuss in considerable detail dose",
+    "begin": "00:18:34.669",
+    "end": "00:18:42.789"
+  },
+  {
+    "text": "response and what might seem paradoxical",
+    "begin": "00:18:37.909",
+    "end": "00:18:44.809"
+  },
+  {
+    "text": "guidance that comes from that you know",
+    "begin": "00:18:42.789",
+    "end": "00:18:46.549"
+  },
+  {
+    "text": "for instance he's famous I kind of",
+    "begin": "00:18:44.809",
+    "end": "00:18:49.370"
+  },
+  {
+    "text": "classed and he talks about you know",
+    "begin": "00:18:46.549",
+    "end": "00:18:51.200"
+  },
+  {
+    "text": "maybe young people should voluntarily",
+    "begin": "00:18:49.370",
+    "end": "00:18:53.480"
+  },
+  {
+    "text": "get the illness be paid a small premium",
+    "begin": "00:18:51.200",
+    "end": "00:18:55.039"
+  },
+  {
+    "text": "for doing so and be given a card that",
+    "begin": "00:18:53.480",
+    "end": "00:18:58.309"
+  },
+  {
+    "text": "shows that are immune and maybe people",
+    "begin": "00:18:55.039",
+    "end": "00:18:59.809"
+  },
+  {
+    "text": "shouldn't shelter-in-place at home",
+    "begin": "00:18:58.309",
+    "end": "00:19:01.850"
+  },
+  {
+    "text": "because if one person in the house gets",
+    "begin": "00:18:59.809",
+    "end": "00:19:03.890"
+  },
+  {
+    "text": "it the dosage level in the house is",
+    "begin": "00:19:01.850",
+    "end": "00:19:06.140"
+  },
+  {
+    "text": "going to be very high so you know that's",
+    "begin": "00:19:03.890",
+    "end": "00:19:07.909"
+  },
+  {
+    "text": "an area that I'd like to see some of our",
+    "begin": "00:19:06.140",
+    "end": "00:19:10.820"
+  },
+  {
+    "text": "modelers you know hop on thinking about",
+    "begin": "00:19:07.909",
+    "end": "00:19:12.980"
+  },
+  {
+    "text": "this dose response possibility and maybe",
+    "begin": "00:19:10.820",
+    "end": "00:19:16.250"
+  },
+  {
+    "text": "it produces some you know non-intuitive",
+    "begin": "00:19:12.980",
+    "end": "00:19:20.390"
+  },
+  {
+    "text": "ways of responding yes and and you also",
+    "begin": "00:19:16.250",
+    "end": "00:19:21.950"
+  },
+  {
+    "text": "mentioned something that's really",
+    "begin": "00:19:20.390",
+    "end": "00:19:24.080"
+  },
+  {
+    "text": "important and part of the next step out",
+    "begin": "00:19:21.950",
+    "end": "00:19:28.330"
+  },
+  {
+    "text": "of this quarantine situation which is",
+    "begin": "00:19:24.080",
+    "end": "00:19:31.190"
+  },
+  {
+    "text": "knowing who's who had the infection",
+    "begin": "00:19:28.330",
+    "end": "00:19:33.620"
+  },
+  {
+    "text": "right so a lot of these different",
+    "begin": "00:19:31.190",
+    "end": "00:19:36.890"
+  },
+  {
+    "text": "strategies like you know getting the",
+    "begin": "00:19:33.620",
+    "end": "00:19:38.600"
+  },
+  {
+    "text": "virus which I'm not sure is good",
+    "begin": "00:19:36.890",
+    "end": "00:19:40.460"
+  },
+  {
+    "text": "strategy I'm not condoning that at the",
+    "begin": "00:19:38.600",
+    "end": "00:19:43.159"
+  },
+  {
+    "text": "moment but a lot of these different",
+    "begin": "00:19:40.460",
+    "end": "00:19:45.529"
+  },
+  {
+    "text": "strategies are predicated on knowing who",
+    "begin": "00:19:43.159",
+    "end": "00:19:48.169"
+  },
+  {
+    "text": "was infected and who wasn't so I think",
+    "begin": "00:19:45.529",
+    "end": "00:19:49.730"
+  },
+  {
+    "text": "that that's going to be a really",
+    "begin": "00:19:48.169",
+    "end": "00:19:54.130"
+  },
+  {
+    "text": "important part in designing our way out",
+    "begin": "00:19:49.730",
+    "end": "00:19:56.410"
+  },
+  {
+    "text": "of this after it you know if we are",
+    "begin": "00:19:54.130",
+    "end": "00:19:59.919"
+  },
+  {
+    "text": "successful in flattening the peak which",
+    "begin": "00:19:56.410",
+    "end": "00:20:02.950"
+  },
+  {
+    "text": "it seems like there is a good effort in",
+    "begin": "00:19:59.919",
+    "end": "00:20:05.280"
+  },
+  {
+    "text": "this area that these the you know",
+    "begin": "00:20:02.950",
+    "end": "00:20:08.049"
+  },
+  {
+    "text": "quarantine efforts are making a",
+    "begin": "00:20:05.280",
+    "end": "00:20:11.110"
+  },
+  {
+    "text": "difference but then what's next and how",
+    "begin": "00:20:08.049",
+    "end": "00:20:14.440"
+  },
+  {
+    "text": "can we plan for what's next without the",
+    "begin": "00:20:11.110",
+    "end": "00:20:17.440"
+  },
+  {
+    "text": "ability to test who's had the who's had",
+    "begin": "00:20:14.440",
+    "end": "00:20:18.700"
+  },
+  {
+    "text": "the disease or not",
+    "begin": "00:20:17.440",
+    "end": "00:20:21.130"
+  },
+  {
+    "text": "ah that's exactly right that's a good",
+    "begin": "00:20:18.700",
+    "end": "00:20:23.440"
+  },
+  {
+    "text": "time to transition to the second topic",
+    "begin": "00:20:21.130",
+    "end": "00:20:26.110"
+  },
+  {
+    "text": "which is managing the back side of the",
+    "begin": "00:20:23.440",
+    "end": "00:20:29.289"
+  },
+  {
+    "text": "curve that's now where all my attention",
+    "begin": "00:20:26.110",
+    "end": "00:20:31.809"
+  },
+  {
+    "text": "is in terms of actual work trying to",
+    "begin": "00:20:29.289",
+    "end": "00:20:33.520"
+  },
+  {
+    "text": "figure out what guidance to give to",
+    "begin": "00:20:31.809",
+    "end": "00:20:36.669"
+  },
+  {
+    "text": "government not-for-profits etc and I",
+    "begin": "00:20:33.520",
+    "end": "00:20:38.860"
+  },
+  {
+    "text": "feel like we're way behind the curve on",
+    "begin": "00:20:36.669",
+    "end": "00:20:40.600"
+  },
+  {
+    "text": "managing the backside of the curve and",
+    "begin": "00:20:38.860",
+    "end": "00:20:42.940"
+  },
+  {
+    "text": "it's going to be more difficult require",
+    "begin": "00:20:40.600",
+    "end": "00:20:45.280"
+  },
+  {
+    "text": "more you know a more aggressive",
+    "begin": "00:20:42.940",
+    "end": "00:20:47.710"
+  },
+  {
+    "text": "intellectually deep mindset than",
+    "begin": "00:20:45.280",
+    "end": "00:20:49.419"
+  },
+  {
+    "text": "managing the front side which has been",
+    "begin": "00:20:47.710",
+    "end": "00:20:51.070"
+  },
+  {
+    "text": "you know essentially fairly",
+    "begin": "00:20:49.419",
+    "end": "00:20:52.990"
+  },
+  {
+    "text": "straightforward break the network smash",
+    "begin": "00:20:51.070",
+    "end": "00:20:56.169"
+  },
+  {
+    "text": "the the curve doing the dance on the",
+    "begin": "00:20:52.990",
+    "end": "00:20:57.760"
+  },
+  {
+    "text": "back side is going to be very very",
+    "begin": "00:20:56.169",
+    "end": "00:21:00.159"
+  },
+  {
+    "text": "tricky if we're going to avoid the",
+    "begin": "00:20:57.760",
+    "end": "00:21:02.260"
+  },
+  {
+    "text": "historical second peak you know in the",
+    "begin": "00:21:00.159",
+    "end": "00:21:05.409"
+  },
+  {
+    "text": "famous influenza of 1918 which is",
+    "begin": "00:21:02.260",
+    "end": "00:21:07.900"
+  },
+  {
+    "text": "probably closest to in magnitude the",
+    "begin": "00:21:05.409",
+    "end": "00:21:10.210"
+  },
+  {
+    "text": "second peak you know four or five six",
+    "begin": "00:21:07.900",
+    "end": "00:21:11.830"
+  },
+  {
+    "text": "months later killed more people in the",
+    "begin": "00:21:10.210",
+    "end": "00:21:14.830"
+  },
+  {
+    "text": "first peak and there are ideas about how",
+    "begin": "00:21:11.830",
+    "end": "00:21:18.250"
+  },
+  {
+    "text": "we you know be much more dynamic on our",
+    "begin": "00:21:14.830",
+    "end": "00:21:19.840"
+  },
+  {
+    "text": "social distancing so we can take it off",
+    "begin": "00:21:18.250",
+    "end": "00:21:21.940"
+  },
+  {
+    "text": "in some places and bring it on in others",
+    "begin": "00:21:19.840",
+    "end": "00:21:24.130"
+  },
+  {
+    "text": "but that's gonna require data and",
+    "begin": "00:21:21.940",
+    "end": "00:21:26.200"
+  },
+  {
+    "text": "dynamic decision-making could you talk a",
+    "begin": "00:21:24.130",
+    "end": "00:21:27.520"
+  },
+  {
+    "text": "little bit about the you know the",
+    "begin": "00:21:26.200",
+    "end": "00:21:29.140"
+  },
+  {
+    "text": "network science and any thoughts you",
+    "begin": "00:21:27.520",
+    "end": "00:21:31.360"
+  },
+  {
+    "text": "have on managing the back side of the",
+    "begin": "00:21:29.140",
+    "end": "00:21:34.360"
+  },
+  {
+    "text": "curve until we have a vaccine that is",
+    "begin": "00:21:31.360",
+    "end": "00:21:36.970"
+  },
+  {
+    "text": "such an important question and as you",
+    "begin": "00:21:34.360",
+    "end": "00:21:39.880"
+  },
+  {
+    "text": "mentioned so much harder to answer so",
+    "begin": "00:21:36.970",
+    "end": "00:21:42.820"
+  },
+  {
+    "text": "from a mathematical modeling perspective",
+    "begin": "00:21:39.880",
+    "end": "00:21:45.760"
+  },
+  {
+    "text": "whether we're doing this like mixed",
+    "begin": "00:21:42.820",
+    "end": "00:21:48.400"
+  },
+  {
+    "text": "fully mixed population assumption or",
+    "begin": "00:21:45.760",
+    "end": "00:21:50.919"
+  },
+  {
+    "text": "whether we're adding in some of the",
+    "begin": "00:21:48.400",
+    "end": "00:21:53.110"
+  },
+  {
+    "text": "details of the network structure and the",
+    "begin": "00:21:50.919",
+    "end": "00:21:55.150"
+  },
+  {
+    "text": "heterogeneity is where some people have",
+    "begin": "00:21:53.110",
+    "end": "00:21:58.000"
+  },
+  {
+    "text": "lots of connections but most people have",
+    "begin": "00:21:55.150",
+    "end": "00:22:01.780"
+  },
+  {
+    "text": "a lower number so regardless of what",
+    "begin": "00:21:58.000",
+    "end": "00:22:04.090"
+  },
+  {
+    "text": "approach you take in the beginning it's",
+    "begin": "00:22:01.780",
+    "end": "00:22:06.760"
+  },
+  {
+    "text": "much easier to capture this because you",
+    "begin": "00:22:04.090",
+    "end": "00:22:07.340"
+  },
+  {
+    "text": "can make",
+    "begin": "00:22:06.760",
+    "end": "00:22:09.679"
+  },
+  {
+    "text": "something that almost everybody is",
+    "begin": "00:22:07.340",
+    "end": "00:22:14.169"
+  },
+  {
+    "text": "susceptible right and then as many as a",
+    "begin": "00:22:09.679",
+    "end": "00:22:17.019"
+  },
+  {
+    "text": "significant fraction of your population",
+    "begin": "00:22:14.169",
+    "end": "00:22:19.749"
+  },
+  {
+    "text": "gets infected with this and then",
+    "begin": "00:22:17.019",
+    "end": "00:22:24.740"
+  },
+  {
+    "text": "recovers modeling that side of things is",
+    "begin": "00:22:19.749",
+    "end": "00:22:28.519"
+  },
+  {
+    "text": "much harder and it's much harder in this",
+    "begin": "00:22:24.740",
+    "end": "00:22:30.769"
+  },
+  {
+    "text": "scenario when you have the hidden",
+    "begin": "00:22:28.519",
+    "end": "00:22:32.990"
+  },
+  {
+    "text": "variables that you don't know the states",
+    "begin": "00:22:30.769",
+    "end": "00:22:35.539"
+  },
+  {
+    "text": "of individuals whether they're they've",
+    "begin": "00:22:32.990",
+    "end": "00:22:37.879"
+  },
+  {
+    "text": "recovered or not or whether they were",
+    "begin": "00:22:35.539",
+    "end": "00:22:41.629"
+  },
+  {
+    "text": "never infected and so the mathematical",
+    "begin": "00:22:37.879",
+    "end": "00:22:46.129"
+  },
+  {
+    "text": "modeling is more complicated because for",
+    "begin": "00:22:41.629",
+    "end": "00:22:47.749"
+  },
+  {
+    "text": "two reasons you can't just consider",
+    "begin": "00:22:46.129",
+    "end": "00:22:51.320"
+  },
+  {
+    "text": "everybody to be susceptible and put the",
+    "begin": "00:22:47.749",
+    "end": "00:22:54.649"
+  },
+  {
+    "text": "name really harder part of connecting",
+    "begin": "00:22:51.320",
+    "end": "00:22:56.840"
+  },
+  {
+    "text": "mathematical modeling with intervention",
+    "begin": "00:22:54.649",
+    "end": "00:22:59.749"
+  },
+  {
+    "text": "strategies is you need to know what",
+    "begin": "00:22:56.840",
+    "end": "00:23:02.179"
+  },
+  {
+    "text": "class each of your people the",
+    "begin": "00:22:59.749",
+    "end": "00:23:04.639"
+  },
+  {
+    "text": "individuals are in are they still",
+    "begin": "00:23:02.179",
+    "end": "00:23:07.039"
+  },
+  {
+    "text": "susceptible or are they recovered and",
+    "begin": "00:23:04.639",
+    "end": "00:23:10.159"
+  },
+  {
+    "text": "now hopefully as we've heard enough of",
+    "begin": "00:23:07.039",
+    "end": "00:23:12.110"
+  },
+  {
+    "text": "that you know there is evidence that",
+    "begin": "00:23:10.159",
+    "end": "00:23:13.730"
+  },
+  {
+    "text": "they should be immune at least for a",
+    "begin": "00:23:12.110",
+    "end": "00:23:13.970"
+  },
+  {
+    "text": "while",
+    "begin": "00:23:13.730",
+    "end": "00:23:17.899"
+  },
+  {
+    "text": "yep and again this is multi-dimensional",
+    "begin": "00:23:13.970",
+    "end": "00:23:19.490"
+  },
+  {
+    "text": "analysis with unfortunately our society",
+    "begin": "00:23:17.899",
+    "end": "00:23:22.610"
+  },
+  {
+    "text": "ain't great at and you know we need to",
+    "begin": "00:23:19.490",
+    "end": "00:23:25.190"
+  },
+  {
+    "text": "have disease testing to catch people",
+    "begin": "00:23:22.610",
+    "end": "00:23:27.259"
+  },
+  {
+    "text": "with symptoms to crack down on them",
+    "begin": "00:23:25.190",
+    "end": "00:23:29.330"
+  },
+  {
+    "text": "quickly after the fact and as you point",
+    "begin": "00:23:27.259",
+    "end": "00:23:31.759"
+  },
+  {
+    "text": "out the immunity testing would be huge",
+    "begin": "00:23:29.330",
+    "end": "00:23:33.740"
+  },
+  {
+    "text": "to you know certify people to work in",
+    "begin": "00:23:31.759",
+    "end": "00:23:36.799"
+  },
+  {
+    "text": "dangerous virally dangerous frontline",
+    "begin": "00:23:33.740",
+    "end": "00:23:39.019"
+  },
+  {
+    "text": "physicians you know wouldn't it be great",
+    "begin": "00:23:36.799",
+    "end": "00:23:42.499"
+  },
+  {
+    "text": "if there were a ID certificate that said",
+    "begin": "00:23:39.019",
+    "end": "00:23:45.080"
+  },
+  {
+    "text": "I am immune and let those people go back",
+    "begin": "00:23:42.499",
+    "end": "00:23:47.809"
+  },
+  {
+    "text": "to work as uber drivers and working as",
+    "begin": "00:23:45.080",
+    "end": "00:23:51.950"
+  },
+  {
+    "text": "the store clerks etc and the other thing",
+    "begin": "00:23:47.809",
+    "end": "00:23:54.200"
+  },
+  {
+    "text": "is this monitoring so that we can bring",
+    "begin": "00:23:51.950",
+    "end": "00:23:55.669"
+  },
+  {
+    "text": "our resources to bear and I will say",
+    "begin": "00:23:54.200",
+    "end": "00:23:57.169"
+  },
+  {
+    "text": "there's one hopeful part of this is I've",
+    "begin": "00:23:55.669",
+    "end": "00:23:58.789"
+  },
+  {
+    "text": "been thinking about the network dynamics",
+    "begin": "00:23:57.169",
+    "end": "00:24:00.980"
+  },
+  {
+    "text": "let's say the smashing the curve works",
+    "begin": "00:23:58.789",
+    "end": "00:24:03.649"
+  },
+  {
+    "text": "we see a crash in the number of new",
+    "begin": "00:24:00.980",
+    "end": "00:24:05.840"
+  },
+  {
+    "text": "cases to gets down to a very low number",
+    "begin": "00:24:03.649",
+    "end": "00:24:11.029"
+  },
+  {
+    "text": "in late June and early July but we ramp",
+    "begin": "00:24:05.840",
+    "end": "00:24:13.190"
+  },
+  {
+    "text": "up testing then when the inevitable",
+    "begin": "00:24:11.029",
+    "end": "00:24:17.570"
+  },
+  {
+    "text": "hotspots reflet first and we'll hit one",
+    "begin": "00:24:13.190",
+    "end": "00:24:19.970"
+  },
+  {
+    "text": "and yet we built up this big reserve of",
+    "begin": "00:24:17.570",
+    "end": "00:24:21.290"
+  },
+  {
+    "text": "ventilators and",
+    "begin": "00:24:19.970",
+    "end": "00:24:23.600"
+  },
+  {
+    "text": "you know 15-minute test equipment we",
+    "begin": "00:24:21.290",
+    "end": "00:24:25.310"
+  },
+  {
+    "text": "should be able to mobilize them very",
+    "begin": "00:24:23.600",
+    "end": "00:24:26.600"
+  },
+  {
+    "text": "rapidly if necessary have the Marine",
+    "begin": "00:24:25.310",
+    "end": "00:24:29.360"
+  },
+  {
+    "text": "Corps fly men on helicopters and swarm",
+    "begin": "00:24:26.600",
+    "end": "00:24:33.310"
+  },
+  {
+    "text": "these new hot spots with 15-minute tests",
+    "begin": "00:24:29.360",
+    "end": "00:24:37.490"
+  },
+  {
+    "text": "you know with anybody testing etc and if",
+    "begin": "00:24:33.310",
+    "end": "00:24:39.020"
+  },
+  {
+    "text": "we need to shut them back down again",
+    "begin": "00:24:37.490",
+    "end": "00:24:40.730"
+  },
+  {
+    "text": "maybe it's just a County in a little",
+    "begin": "00:24:39.020",
+    "end": "00:24:42.770"
+  },
+  {
+    "text": "County in West Virginia that somehow",
+    "begin": "00:24:40.730",
+    "end": "00:24:44.780"
+  },
+  {
+    "text": "never had any disease at all so has no",
+    "begin": "00:24:42.770",
+    "end": "00:24:47.270"
+  },
+  {
+    "text": "immunity somehow somebody visits from",
+    "begin": "00:24:44.780",
+    "end": "00:24:49.670"
+  },
+  {
+    "text": "someplace get started flares up but if",
+    "begin": "00:24:47.270",
+    "end": "00:24:52.310"
+  },
+  {
+    "text": "we do a high enough level of testing you",
+    "begin": "00:24:49.670",
+    "end": "00:24:53.330"
+  },
+  {
+    "text": "know we'll be able to detect it early",
+    "begin": "00:24:52.310",
+    "end": "00:24:55.190"
+  },
+  {
+    "text": "and because we've already mobilized all",
+    "begin": "00:24:53.330",
+    "end": "00:24:57.260"
+  },
+  {
+    "text": "the equipment and stuff we can fly it in",
+    "begin": "00:24:55.190",
+    "end": "00:25:00.350"
+  },
+  {
+    "text": "and squash it but to do that requires a",
+    "begin": "00:24:57.260",
+    "end": "00:25:02.570"
+  },
+  {
+    "text": "warfighting data-driven model driven",
+    "begin": "00:25:00.350",
+    "end": "00:25:06.440"
+  },
+  {
+    "text": "mentality which so far is only slowly",
+    "begin": "00:25:02.570",
+    "end": "00:25:09.800"
+  },
+  {
+    "text": "spinning up absolutely I mean it really",
+    "begin": "00:25:06.440",
+    "end": "00:25:13.130"
+  },
+  {
+    "text": "has to be an organized effort so two",
+    "begin": "00:25:09.800",
+    "end": "00:25:15.590"
+  },
+  {
+    "text": "things that you touched on which really",
+    "begin": "00:25:13.130",
+    "end": "00:25:19.250"
+  },
+  {
+    "text": "I think are worth emphasizing and",
+    "begin": "00:25:15.590",
+    "end": "00:25:21.800"
+  },
+  {
+    "text": "thinking about more no I love this idea",
+    "begin": "00:25:19.250",
+    "end": "00:25:26.030"
+  },
+  {
+    "text": "of doing antibody testing you know there",
+    "begin": "00:25:21.800",
+    "end": "00:25:29.030"
+  },
+  {
+    "text": "is a little bit of a concern that people",
+    "begin": "00:25:26.030",
+    "end": "00:25:31.280"
+  },
+  {
+    "text": "who want to go back to work will",
+    "begin": "00:25:29.030",
+    "end": "00:25:34.940"
+  },
+  {
+    "text": "intentionally get the virus so that they",
+    "begin": "00:25:31.280",
+    "end": "00:25:37.520"
+  },
+  {
+    "text": "can now be card-carrying certified",
+    "begin": "00:25:34.940",
+    "end": "00:25:40.880"
+  },
+  {
+    "text": "recovered so that's something to worry",
+    "begin": "00:25:37.520",
+    "end": "00:25:44.810"
+  },
+  {
+    "text": "about and then another thing is to think",
+    "begin": "00:25:40.880",
+    "end": "00:25:46.820"
+  },
+  {
+    "text": "about the timing to use some of these",
+    "begin": "00:25:44.810",
+    "end": "00:25:49.790"
+  },
+  {
+    "text": "mathematical network based models to",
+    "begin": "00:25:46.820",
+    "end": "00:25:53.870"
+  },
+  {
+    "text": "really time the intervention strategies",
+    "begin": "00:25:49.790",
+    "end": "00:25:58.130"
+  },
+  {
+    "text": "and the social distancing requirements",
+    "begin": "00:25:53.870",
+    "end": "00:26:00.770"
+  },
+  {
+    "text": "at various times because what I suspect",
+    "begin": "00:25:58.130",
+    "end": "00:26:03.500"
+  },
+  {
+    "text": "on the backside of the curve also as it",
+    "begin": "00:26:00.770",
+    "end": "00:26:05.420"
+  },
+  {
+    "text": "was in the front side of the curve you",
+    "begin": "00:26:03.500",
+    "end": "00:26:07.490"
+  },
+  {
+    "text": "need to start changing people's behavior",
+    "begin": "00:26:05.420",
+    "end": "00:26:12.380"
+  },
+  {
+    "text": "before it looks bad absolutely or you",
+    "begin": "00:26:07.490",
+    "end": "00:26:14.720"
+  },
+  {
+    "text": "know the hospital system is overwhelmed",
+    "begin": "00:26:12.380",
+    "end": "00:26:17.210"
+  },
+  {
+    "text": "it's kind of hard to convince people to",
+    "begin": "00:26:14.720",
+    "end": "00:26:19.370"
+  },
+  {
+    "text": "change their behavior when things aren't",
+    "begin": "00:26:17.210",
+    "end": "00:26:22.910"
+  },
+  {
+    "text": "looking too bad so the timing of those",
+    "begin": "00:26:19.370",
+    "end": "00:26:26.300"
+  },
+  {
+    "text": "strategies is something that we really",
+    "begin": "00:26:22.910",
+    "end": "00:26:28.850"
+  },
+  {
+    "text": "need this combination of data analysis",
+    "begin": "00:26:26.300",
+    "end": "00:26:31.430"
+  },
+  {
+    "text": "and mathematical modeling to get right",
+    "begin": "00:26:28.850",
+    "end": "00:26:35.110"
+  },
+  {
+    "text": "yeah in fact just Aflac told me",
+    "begin": "00:26:31.430",
+    "end": "00:26:38.020"
+  },
+  {
+    "text": "I did the other day I can't find it on",
+    "begin": "00:26:35.110",
+    "end": "00:26:39.309"
+  },
+  {
+    "text": "the internet but she said that Paul",
+    "begin": "00:26:38.020",
+    "end": "00:26:42.010"
+  },
+  {
+    "text": "Romer was suggesting that it was worth",
+    "begin": "00:26:39.309",
+    "end": "00:26:45.670"
+  },
+  {
+    "text": "economically worthwhile to do was at 20",
+    "begin": "00:26:42.010",
+    "end": "00:26:48.670"
+  },
+  {
+    "text": "million tests a day so that we had",
+    "begin": "00:26:45.670",
+    "end": "00:26:50.710"
+  },
+  {
+    "text": "essentially instant information on any",
+    "begin": "00:26:48.670",
+    "end": "00:26:53.350"
+  },
+  {
+    "text": "flare-up so we're not waiting for you",
+    "begin": "00:26:50.710",
+    "end": "00:26:55.330"
+  },
+  {
+    "text": "know hospitals to be overrun but we find",
+    "begin": "00:26:53.350",
+    "end": "00:26:57.280"
+  },
+  {
+    "text": "in this county in West Virginia three",
+    "begin": "00:26:55.330",
+    "end": "00:27:00.280"
+  },
+  {
+    "text": "cases where there had been none for you",
+    "begin": "00:26:57.280",
+    "end": "00:27:02.309"
+  },
+  {
+    "text": "know six months and then we immediately",
+    "begin": "00:27:00.280",
+    "end": "00:27:05.290"
+  },
+  {
+    "text": "marshal the resources to squash it so",
+    "begin": "00:27:02.309",
+    "end": "00:27:08.200"
+  },
+  {
+    "text": "it's a you know you have modeling you",
+    "begin": "00:27:05.290",
+    "end": "00:27:09.910"
+  },
+  {
+    "text": "and you have data and you have the",
+    "begin": "00:27:08.200",
+    "end": "00:27:11.740"
+  },
+  {
+    "text": "ability to instantly respond and you",
+    "begin": "00:27:09.910",
+    "end": "00:27:13.840"
+  },
+  {
+    "text": "don't wait for weeks to go by for these",
+    "begin": "00:27:11.740",
+    "end": "00:27:16.480"
+  },
+  {
+    "text": "massive for these high-volume signals to",
+    "begin": "00:27:13.840",
+    "end": "00:27:18.309"
+  },
+  {
+    "text": "occur it's kind of an interesting idea",
+    "begin": "00:27:16.480",
+    "end": "00:27:19.960"
+  },
+  {
+    "text": "and I think you say it would cost three",
+    "begin": "00:27:18.309",
+    "end": "00:27:21.220"
+  },
+  {
+    "text": "hundred fifty billion dollars or",
+    "begin": "00:27:19.960",
+    "end": "00:27:22.740"
+  },
+  {
+    "text": "something but it'd be money well spent",
+    "begin": "00:27:21.220",
+    "end": "00:27:25.150"
+  },
+  {
+    "text": "so I think this kind of thinking is what",
+    "begin": "00:27:22.740",
+    "end": "00:27:26.919"
+  },
+  {
+    "text": "managing the back side of the curve is",
+    "begin": "00:27:25.150",
+    "end": "00:27:29.860"
+  },
+  {
+    "text": "going to be all about right absolutely I",
+    "begin": "00:27:26.919",
+    "end": "00:27:32.559"
+  },
+  {
+    "text": "hadn't thought about how that investment",
+    "begin": "00:27:29.860",
+    "end": "00:27:35.679"
+  },
+  {
+    "text": "might be really sensible from from an",
+    "begin": "00:27:32.559",
+    "end": "00:27:39.880"
+  },
+  {
+    "text": "economic payoff certainly from from an",
+    "begin": "00:27:35.679",
+    "end": "00:27:42.790"
+  },
+  {
+    "text": "ability to change the backside of the",
+    "begin": "00:27:39.880",
+    "end": "00:27:44.650"
+  },
+  {
+    "text": "curve absolutely it's gonna change",
+    "begin": "00:27:42.790",
+    "end": "00:27:47.410"
+  },
+  {
+    "text": "things and so I think it is a good",
+    "begin": "00:27:44.650",
+    "end": "00:27:50.530"
+  },
+  {
+    "text": "investment because by waiting and having",
+    "begin": "00:27:47.410",
+    "end": "00:27:53.549"
+  },
+  {
+    "text": "to quarantine and shut so many things so",
+    "begin": "00:27:50.530",
+    "end": "00:27:58.120"
+  },
+  {
+    "text": "many industries down it's a huge",
+    "begin": "00:27:53.549",
+    "end": "00:28:00.520"
+  },
+  {
+    "text": "economic impact but if we could have",
+    "begin": "00:27:58.120",
+    "end": "00:28:03.970"
+  },
+  {
+    "text": "really large-scale testing I mean it",
+    "begin": "00:28:00.520",
+    "end": "00:28:07.419"
+  },
+  {
+    "text": "would be very costly but it's great you",
+    "begin": "00:28:03.970",
+    "end": "00:28:11.799"
+  },
+  {
+    "text": "know to really see that analysis done to",
+    "begin": "00:28:07.419",
+    "end": "00:28:15.690"
+  },
+  {
+    "text": "see the economic benefits of that and I",
+    "begin": "00:28:11.799",
+    "end": "00:28:18.250"
+  },
+  {
+    "text": "look at the stock market alone how much",
+    "begin": "00:28:15.690",
+    "end": "00:28:20.140"
+  },
+  {
+    "text": "does it lost six trillion dollars",
+    "begin": "00:28:18.250",
+    "end": "00:28:23.260"
+  },
+  {
+    "text": "something like that and that's a you",
+    "begin": "00:28:20.140",
+    "end": "00:28:25.960"
+  },
+  {
+    "text": "know two hundred million two hundred",
+    "begin": "00:28:23.260",
+    "end": "00:28:28.260"
+  },
+  {
+    "text": "billion dollar year investment in",
+    "begin": "00:28:25.960",
+    "end": "00:28:32.410"
+  },
+  {
+    "text": "absolutely ubiquitous testing be",
+    "begin": "00:28:28.260",
+    "end": "00:28:35.080"
+  },
+  {
+    "text": "damn cheap to get our economy back to",
+    "begin": "00:28:32.410",
+    "end": "00:28:37.000"
+  },
+  {
+    "text": "work and as this kind of thinking",
+    "begin": "00:28:35.080",
+    "end": "00:28:39.250"
+  },
+  {
+    "text": "informed by modeling and exactly the",
+    "begin": "00:28:37.000",
+    "end": "00:28:41.460"
+  },
+  {
+    "text": "kind of network analysis combined with",
+    "begin": "00:28:39.250",
+    "end": "00:28:43.059"
+  },
+  {
+    "text": "epidemiology that we've been talking",
+    "begin": "00:28:41.460",
+    "end": "00:28:45.630"
+  },
+  {
+    "text": "about is what we need to be driving",
+    "begin": "00:28:43.059",
+    "end": "00:28:47.980"
+  },
+  {
+    "text": "whoever's in charge of thinking through",
+    "begin": "00:28:45.630",
+    "end": "00:28:48.940"
+  },
+  {
+    "text": "the strategy on the",
+    "begin": "00:28:47.980",
+    "end": "00:28:51.610"
+  },
+  {
+    "text": "backside of the curve and I wonder if we",
+    "begin": "00:28:48.940",
+    "end": "00:28:53.890"
+  },
+  {
+    "text": "could get companies involved like big",
+    "begin": "00:28:51.610",
+    "end": "00:28:55.630"
+  },
+  {
+    "text": "companies involved in this somehow to",
+    "begin": "00:28:53.890",
+    "end": "00:28:58.150"
+  },
+  {
+    "text": "say well you guys could send your full",
+    "begin": "00:28:55.630",
+    "end": "00:29:01.210"
+  },
+  {
+    "text": "workforce back to work if you agree to",
+    "begin": "00:28:58.150",
+    "end": "00:29:05.020"
+  },
+  {
+    "text": "pay for the testing yep frankly I've",
+    "begin": "00:29:01.210",
+    "end": "00:29:07.090"
+  },
+  {
+    "text": "been you know writing down business",
+    "begin": "00:29:05.020",
+    "end": "00:29:10.000"
+  },
+  {
+    "text": "ideas that this epidemic produces and",
+    "begin": "00:29:07.090",
+    "end": "00:29:11.620"
+  },
+  {
+    "text": "one of the ones near the top of the list",
+    "begin": "00:29:10.000",
+    "end": "00:29:13.480"
+  },
+  {
+    "text": "is a business that does nothing but",
+    "begin": "00:29:11.620",
+    "end": "00:29:16.480"
+  },
+  {
+    "text": "certify people to be for their immunity",
+    "begin": "00:29:13.480",
+    "end": "00:29:19.720"
+  },
+  {
+    "text": "and so a company could hire this company",
+    "begin": "00:29:16.480",
+    "end": "00:29:23.470"
+  },
+  {
+    "text": "you know rut go four hundred dollars per",
+    "begin": "00:29:19.720",
+    "end": "00:29:26.980"
+  },
+  {
+    "text": "employee to certify them as immune and",
+    "begin": "00:29:23.470",
+    "end": "00:29:28.330"
+  },
+  {
+    "text": "of course we have to have some caveats",
+    "begin": "00:29:26.980",
+    "end": "00:29:31.390"
+  },
+  {
+    "text": "tests aren't always accurate but if you",
+    "begin": "00:29:28.330",
+    "end": "00:29:32.860"
+  },
+  {
+    "text": "wanted to be more accurate you have them",
+    "begin": "00:29:31.390",
+    "end": "00:29:35.080"
+  },
+  {
+    "text": "tested twice right and we'll cart charge",
+    "begin": "00:29:32.860",
+    "end": "00:29:38.170"
+  },
+  {
+    "text": "you $200 and that will take the you know",
+    "begin": "00:29:35.080",
+    "end": "00:29:41.620"
+  },
+  {
+    "text": "basically the product of the error rates",
+    "begin": "00:29:38.170",
+    "end": "00:29:44.110"
+  },
+  {
+    "text": "so the error rate goes way down and they",
+    "begin": "00:29:41.620",
+    "end": "00:29:46.930"
+  },
+  {
+    "text": "also want to certify you also want the",
+    "begin": "00:29:44.110",
+    "end": "00:29:49.330"
+  },
+  {
+    "text": "company to monitor people who are",
+    "begin": "00:29:46.930",
+    "end": "00:29:52.150"
+  },
+  {
+    "text": "susceptible and continually monitor them",
+    "begin": "00:29:49.330",
+    "end": "00:29:54.010"
+  },
+  {
+    "text": "so it would be nice for them to be able",
+    "begin": "00:29:52.150",
+    "end": "00:29:56.320"
+  },
+  {
+    "text": "to go back to work too but we're trying",
+    "begin": "00:29:54.010",
+    "end": "00:29:59.200"
+  },
+  {
+    "text": "to guarantee a pretty safe environment",
+    "begin": "00:29:56.320",
+    "end": "00:30:01.720"
+  },
+  {
+    "text": "and to do this we keep testing the",
+    "begin": "00:29:59.200",
+    "end": "00:30:03.850"
+  },
+  {
+    "text": "susceptibles all the time yeah that's",
+    "begin": "00:30:01.720",
+    "end": "00:30:06.220"
+  },
+  {
+    "text": "the Paul Romer army 20 million tests a",
+    "begin": "00:30:03.850",
+    "end": "00:30:08.590"
+  },
+  {
+    "text": "week a day I think it was it some crazy",
+    "begin": "00:30:06.220",
+    "end": "00:30:10.690"
+  },
+  {
+    "text": "number but you're basically constant",
+    "begin": "00:30:08.590",
+    "end": "00:30:12.520"
+  },
+  {
+    "text": "surveillance everywhere so it's",
+    "begin": "00:30:10.690",
+    "end": "00:30:14.020"
+  },
+  {
+    "text": "relatively safe to go back to your",
+    "begin": "00:30:12.520",
+    "end": "00:30:16.510"
+  },
+  {
+    "text": "office as long as you know that if Sally",
+    "begin": "00:30:14.020",
+    "end": "00:30:20.170"
+  },
+  {
+    "text": "at the other end of your floor is got",
+    "begin": "00:30:16.510",
+    "end": "00:30:21.400"
+  },
+  {
+    "text": "the disease even though she's",
+    "begin": "00:30:20.170",
+    "end": "00:30:23.980"
+  },
+  {
+    "text": "pre-symptomatic and it's then told she",
+    "begin": "00:30:21.400",
+    "end": "00:30:26.680"
+  },
+  {
+    "text": "has to go quarantine for 15 days your",
+    "begin": "00:30:23.980",
+    "end": "00:30:28.990"
+  },
+  {
+    "text": "risks go way way down and if you know if",
+    "begin": "00:30:26.680",
+    "end": "00:30:30.670"
+  },
+  {
+    "text": "you're young and healthy it probably",
+    "begin": "00:30:28.990",
+    "end": "00:30:32.350"
+  },
+  {
+    "text": "makes sense to go back to work so again",
+    "begin": "00:30:30.670",
+    "end": "00:30:34.690"
+  },
+  {
+    "text": "you know thinking holistically about",
+    "begin": "00:30:32.350",
+    "end": "00:30:37.300"
+  },
+  {
+    "text": "networks propagations interventions",
+    "begin": "00:30:34.690",
+    "end": "00:30:40.870"
+  },
+  {
+    "text": "testing mobilization I believe that if",
+    "begin": "00:30:37.300",
+    "end": "00:30:42.790"
+  },
+  {
+    "text": "we did this right we could manage the",
+    "begin": "00:30:40.870",
+    "end": "00:30:44.740"
+  },
+  {
+    "text": "back side of the curve so that we did",
+    "begin": "00:30:42.790",
+    "end": "00:30:47.170"
+  },
+  {
+    "text": "not get a second peak until the vaccine",
+    "begin": "00:30:44.740",
+    "end": "00:30:50.140"
+  },
+  {
+    "text": "gets here but it will require a very",
+    "begin": "00:30:47.170",
+    "end": "00:30:53.800"
+  },
+  {
+    "text": "fancy dance to do it and I sure the hell",
+    "begin": "00:30:50.140",
+    "end": "00:30:55.990"
+  },
+  {
+    "text": "hope the powers that be are able to",
+    "begin": "00:30:53.800",
+    "end": "00:31:00.760"
+  },
+  {
+    "text": "organize a set of talent skills analysis",
+    "begin": "00:30:55.990",
+    "end": "00:31:02.890"
+  },
+  {
+    "text": "and action taking sufficient to do",
+    "begin": "00:31:00.760",
+    "end": "00:31:05.290"
+  },
+  {
+    "text": "it's doable and it will allow our",
+    "begin": "00:31:02.890",
+    "end": "00:31:07.810"
+  },
+  {
+    "text": "economy to restart it'll save probably",
+    "begin": "00:31:05.290",
+    "end": "00:31:10.030"
+  },
+  {
+    "text": "at least as many deaths and disabilities",
+    "begin": "00:31:07.810",
+    "end": "00:31:12.280"
+  },
+  {
+    "text": "as have happened from the first wave but",
+    "begin": "00:31:10.030",
+    "end": "00:31:14.980"
+  },
+  {
+    "text": "it's going to require smarter footwork",
+    "begin": "00:31:12.280",
+    "end": "00:31:16.860"
+  },
+  {
+    "text": "than we've seen on the front side I",
+    "begin": "00:31:14.980",
+    "end": "00:31:20.050"
+  },
+  {
+    "text": "totally agree the backside is the",
+    "begin": "00:31:16.860",
+    "end": "00:31:21.730"
+  },
+  {
+    "text": "challenge that we all need to put our",
+    "begin": "00:31:20.050",
+    "end": "00:31:24.970"
+  },
+  {
+    "text": "minds to now okay well thank you",
+    "begin": "00:31:21.730",
+    "end": "00:31:27.400"
+  },
+  {
+    "text": "Michelle this has been a wonderful",
+    "begin": "00:31:24.970",
+    "end": "00:31:29.620"
+  },
+  {
+    "text": "episode exactly what I was hoping but",
+    "begin": "00:31:27.400",
+    "end": "00:31:32.530"
+  },
+  {
+    "text": "before we sign off I'd like you to tell",
+    "begin": "00:31:29.620",
+    "end": "00:31:36.330"
+  },
+  {
+    "text": "our audience about a zoom based course",
+    "begin": "00:31:32.530",
+    "end": "00:31:39.790"
+  },
+  {
+    "text": "that you guys are offering on network",
+    "begin": "00:31:36.330",
+    "end": "00:31:44.740"
+  },
+  {
+    "text": "epidemiology so I direct the combined",
+    "begin": "00:31:39.790",
+    "end": "00:31:46.480"
+  },
+  {
+    "text": "program at the University of Maryland",
+    "begin": "00:31:44.740",
+    "end": "00:31:49.240"
+  },
+  {
+    "text": "combined stands for computation and",
+    "begin": "00:31:46.480",
+    "end": "00:31:52.360"
+  },
+  {
+    "text": "mathematics in biological networks so",
+    "begin": "00:31:49.240",
+    "end": "00:31:55.000"
+  },
+  {
+    "text": "network epidemiology is an important",
+    "begin": "00:31:52.360",
+    "end": "00:31:57.130"
+  },
+  {
+    "text": "focus within the field of biological",
+    "begin": "00:31:55.000",
+    "end": "00:32:01.540"
+  },
+  {
+    "text": "networks and when we shifted to an",
+    "begin": "00:31:57.130",
+    "end": "00:32:03.820"
+  },
+  {
+    "text": "online environment I thought okay well",
+    "begin": "00:32:01.540",
+    "end": "00:32:07.090"
+  },
+  {
+    "text": "I'm not my combining fellows to stay in",
+    "begin": "00:32:03.820",
+    "end": "00:32:10.000"
+  },
+  {
+    "text": "touch so let's do a little series on",
+    "begin": "00:32:07.090",
+    "end": "00:32:13.060"
+  },
+  {
+    "text": "network epidemiology but then I thought",
+    "begin": "00:32:10.000",
+    "end": "00:32:15.100"
+  },
+  {
+    "text": "well if we're gonna do an online series",
+    "begin": "00:32:13.060",
+    "end": "00:32:16.720"
+  },
+  {
+    "text": "there are a lot of people who might want",
+    "begin": "00:32:15.100",
+    "end": "00:32:19.060"
+  },
+  {
+    "text": "to learn about this so why not have a",
+    "begin": "00:32:16.720",
+    "end": "00:32:22.150"
+  },
+  {
+    "text": "bigger reach so then we partnered with",
+    "begin": "00:32:19.060",
+    "end": "00:32:26.680"
+  },
+  {
+    "text": "the Vermont complex system Center Santa",
+    "begin": "00:32:22.150",
+    "end": "00:32:28.990"
+  },
+  {
+    "text": "Fe Institute sent out a bunch of",
+    "begin": "00:32:26.680",
+    "end": "00:32:32.170"
+  },
+  {
+    "text": "announcements for us and we got a whole",
+    "begin": "00:32:28.990",
+    "end": "00:32:35.530"
+  },
+  {
+    "text": "bunch of people involved in this online",
+    "begin": "00:32:32.170",
+    "end": "00:32:38.970"
+  },
+  {
+    "text": "series on understanding and exploring",
+    "begin": "00:32:35.530",
+    "end": "00:32:41.650"
+  },
+  {
+    "text": "network epidemiology and the time of",
+    "begin": "00:32:38.970",
+    "end": "00:32:45.670"
+  },
+  {
+    "text": "coronavirus so this is a four week",
+    "begin": "00:32:41.650",
+    "end": "00:32:48.460"
+  },
+  {
+    "text": "series meeting once a week we have",
+    "begin": "00:32:45.670",
+    "end": "00:32:50.860"
+  },
+  {
+    "text": "tutorials and seminars but then we have",
+    "begin": "00:32:48.460",
+    "end": "00:32:54.730"
+  },
+  {
+    "text": "discussion sections and we have people",
+    "begin": "00:32:50.860",
+    "end": "00:32:58.540"
+  },
+  {
+    "text": "sign up to participate in group projects",
+    "begin": "00:32:54.730",
+    "end": "00:33:01.810"
+  },
+  {
+    "text": "and so they're all self-organizing on a",
+    "begin": "00:32:58.540",
+    "end": "00:33:07.690"
+  },
+  {
+    "text": "slack site so the live online sessions",
+    "begin": "00:33:01.810",
+    "end": "00:33:10.390"
+  },
+  {
+    "text": "are already oversubscribed",
+    "begin": "00:33:07.690",
+    "end": "00:33:13.660"
+  },
+  {
+    "text": "had many more excellent dedicated",
+    "begin": "00:33:10.390",
+    "end": "00:33:16.480"
+  },
+  {
+    "text": "applicants than we could accommodate but",
+    "begin": "00:33:13.660",
+    "end": "00:33:19.390"
+  },
+  {
+    "text": "we want true we want these resources to",
+    "begin": "00:33:16.480",
+    "end": "00:33:22.270"
+  },
+  {
+    "text": "reach anyone who is interested so we're",
+    "begin": "00:33:19.390",
+    "end": "00:33:24.340"
+  },
+  {
+    "text": "putting everything on our YouTube",
+    "begin": "00:33:22.270",
+    "end": "00:33:26.770"
+  },
+  {
+    "text": "channel so you can get to our YouTube",
+    "begin": "00:33:24.340",
+    "end": "00:33:29.880"
+  },
+  {
+    "text": "channel from the main combined website",
+    "begin": "00:33:26.770",
+    "end": "00:33:36.400"
+  },
+  {
+    "text": "combined is combined UMD edu you can",
+    "begin": "00:33:29.880",
+    "end": "00:33:40.510"
+  },
+  {
+    "text": "also google combined UMD and find those",
+    "begin": "00:33:36.400",
+    "end": "00:33:42.670"
+  },
+  {
+    "text": "videos we had an excellent tutorial",
+    "begin": "00:33:40.510",
+    "end": "00:33:45.420"
+  },
+  {
+    "text": "yesterday introducing us to network",
+    "begin": "00:33:42.670",
+    "end": "00:33:48.970"
+  },
+  {
+    "text": "epidemiology by Laurent Abair Dufresne",
+    "begin": "00:33:45.420",
+    "end": "00:33:52.510"
+  },
+  {
+    "text": "from the University of Vermont who's",
+    "begin": "00:33:48.970",
+    "end": "00:33:54.670"
+  },
+  {
+    "text": "done some really excellent work on",
+    "begin": "00:33:52.510",
+    "end": "00:33:57.310"
+  },
+  {
+    "text": "network epidemiology in general and also",
+    "begin": "00:33:54.670",
+    "end": "00:34:02.080"
+  },
+  {
+    "text": "on coronavirus or commit nineteen so and",
+    "begin": "00:33:57.310",
+    "end": "00:34:04.480"
+  },
+  {
+    "text": "as always we will have these links on",
+    "begin": "00:34:02.080",
+    "end": "00:34:08.399"
+  },
+  {
+    "text": "the episode page for Michelle's podcast",
+    "begin": "00:34:04.480",
+    "end": "00:34:10.870"
+  },
+  {
+    "text": "Thank You Michelle this has been",
+    "begin": "00:34:08.399",
+    "end": "00:34:14.850"
+  },
+  {
+    "text": "absolutely wonderful thank you",
+    "begin": "00:34:10.870",
+    "end": "00:34:17.780"
+  },
+  {
+    "text": "[Music]",
+    "begin": "00:34:14.850",
+    "end": "00:34:20.280"
+  },
+  {
+    "text": "production services and audio editing by",
+    "begin": "00:34:17.780",
+    "end": "00:34:23.190"
+  },
+  {
+    "text": "jerod Jane's consulting music by Tom",
+    "begin": "00:34:20.280",
+    "end": "00:34:27.770"
+  },
+  {
+    "text": "Muller at modern space music com",
+    "begin": "00:34:23.190",
+    "end": "00:34:32.829"
+  },
+  {
+    "text": "[Music]",
+    "begin": "00:34:27.770",
+    "end": "00:34:32.829"
+  }
+]

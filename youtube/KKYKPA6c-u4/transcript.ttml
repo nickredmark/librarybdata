@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:12.360" style="s2">howdy this is Jim rut and this is the</p>
+<p begin="00:00:02.399" end="00:00:14.309" style="s2">Jim rut show listeners have asked us to</p>
+<p begin="00:00:12.360" end="00:00:16.800" style="s2">provide pointers some of the resources</p>
+<p begin="00:00:14.309" end="00:00:18.720" style="s2">we talked about on the show we now have</p>
+<p begin="00:00:16.800" end="00:00:20.910" style="s2">links to books and articles referenced</p>
+<p begin="00:00:18.720" end="00:00:21.840" style="s2">in recent podcasts that are available on</p>
+<p begin="00:00:20.910" end="00:00:24.779" style="s2">our website</p>
+<p begin="00:00:21.840" end="00:00:30.500" style="s2">we also offer full transcripts go to Jim</p>
+<p begin="00:00:24.779" end="00:00:30.500" style="s2">rut show.com that&#39;s Jim ruts show com</p>
+<p begin="00:00:31.279" end="00:00:36.870" style="s2">this is another in our extra koban 19</p>
+<p begin="00:00:34.800" end="00:00:39.270" style="s2">related mini podcasts</p>
+<p begin="00:00:36.870" end="00:00:40.980" style="s2">today&#39;s guest is michelle gurbin a</p>
+<p begin="00:00:39.270" end="00:00:42.690" style="s2">physics professor at the University of</p>
+<p begin="00:00:40.980" end="00:00:44.219" style="s2">Maryland College Park campus and</p>
+<p begin="00:00:42.690" end="00:00:46.879" style="s2">external faculty at the Santa Fe</p>
+<p begin="00:00:44.219" end="00:00:49.200" style="s2">Institute she&#39;s also one of the</p>
+<p begin="00:00:46.879" end="00:00:50.910" style="s2">strongest researchers in the area of</p>
+<p begin="00:00:49.200" end="00:00:52.860" style="s2">network science that I know of</p>
+<p begin="00:00:50.910" end="00:00:55.860" style="s2">and I&#39;ve asked her to come on today to</p>
+<p begin="00:00:52.860" end="00:00:58.699" style="s2">talk a little bit about networks and</p>
+<p begin="00:00:55.860" end="00:01:00.750" style="s2">network propagations of Epidemiology and</p>
+<p begin="00:00:58.699" end="00:01:02.760" style="s2">what we have to think about on the</p>
+<p begin="00:01:00.750" end="00:01:05.909" style="s2">backside of the curb in terms of dynamic</p>
+<p begin="00:01:02.760" end="00:01:08.549" style="s2">responses to manage this disease on the</p>
+<p begin="00:01:05.909" end="00:01:10.290" style="s2">network Michelle take it away why don&#39;t</p>
+<p begin="00:01:08.549" end="00:01:12.930" style="s2">you talk to us a little bit about the</p>
+<p begin="00:01:10.290" end="00:01:15.270" style="s2">very basics of network science how</p>
+<p begin="00:01:12.930" end="00:01:16.920" style="s2">diseases propagate on a network and how</p>
+<p begin="00:01:15.270" end="00:01:19.710" style="s2">changes in the nature of the network</p>
+<p begin="00:01:16.920" end="00:01:22.200" style="s2">such as through social distancing can</p>
+<p begin="00:01:19.710" end="00:01:25.619" style="s2">change the dynamics of network</p>
+<p begin="00:01:22.200" end="00:01:28.259" style="s2">propagation of a disease thanks Jim for</p>
+<p begin="00:01:25.619" end="00:01:31.259" style="s2">having me here I am delighted to be here</p>
+<p begin="00:01:28.259" end="00:01:35.119" style="s2">to talk about applying network science</p>
+<p begin="00:01:31.259" end="00:01:38.430" style="s2">to this pandemic that we&#39;re experiencing</p>
+<p begin="00:01:35.119" end="00:01:41.970" style="s2">you know what&#39;s interesting for me from</p>
+<p begin="00:01:38.430" end="00:01:43.590" style="s2">a modeling perspective is how much the</p>
+<p begin="00:01:41.970" end="00:01:45.720" style="s2">general public is starting to learn</p>
+<p begin="00:01:43.590" end="00:01:48.329" style="s2">about mathematical modeling so that&#39;s</p>
+<p begin="00:01:45.720" end="00:01:50.280" style="s2">really exciting to me to see news</p>
+<p begin="00:01:48.329" end="00:01:53.159" style="s2">articles in The Washington Post&#39;s in the</p>
+<p begin="00:01:50.280" end="00:01:55.640" style="s2">New York Times talking about these si</p>
+<p begin="00:01:53.159" end="00:01:59.000" style="s2">are models susceptible infected</p>
+<p begin="00:01:55.640" end="00:02:02.040" style="s2">recovered and talking about modeling</p>
+<p begin="00:01:59.000" end="00:02:04.350" style="s2">parameters and quantities like are not</p>
+<p begin="00:02:02.040" end="00:02:07.469" style="s2">so that&#39;s probably what some of you have</p>
+<p begin="00:02:04.350" end="00:02:11.220" style="s2">seen a bunch of the news are not is the</p>
+<p begin="00:02:07.469" end="00:02:13.650" style="s2">average number of people infected when</p>
+<p begin="00:02:11.220" end="00:02:13.800" style="s2">one person gets effect infected and this</p>
+<p begin="00:02:13.650" end="00:02:16.320" style="s2">is</p>
+<p begin="00:02:13.800" end="00:02:19.560" style="s2">at the start of the disease before you</p>
+<p begin="00:02:16.320" end="00:02:21.930" style="s2">have any herd immunity and herd immunity</p>
+<p begin="00:02:19.560" end="00:02:24.180" style="s2">another term you&#39;ve probably heard is</p>
+<p begin="00:02:21.930" end="00:02:27.870" style="s2">something where a lot of people who have</p>
+<p begin="00:02:24.180" end="00:02:30.120" style="s2">contracted the disease cancel that can</p>
+<p begin="00:02:27.870" end="00:02:34.080" style="s2">slow down the spread because there</p>
+<p begin="00:02:30.120" end="00:02:36.840" style="s2">aren&#39;t so many susceptibles so let&#39;s go</p>
+<p begin="00:02:34.080" end="00:02:41.220" style="s2">back so that&#39;s some of the basics of you</p>
+<p begin="00:02:36.840" end="00:02:44.910" style="s2">know epidemics 101 but epidemics 101</p>
+<p begin="00:02:41.220" end="00:02:49.860" style="s2">really thinks about a fully mixed</p>
+<p begin="00:02:44.910" end="00:02:53.610" style="s2">population so every person is sort of</p>
+<p begin="00:02:49.860" end="00:02:55.710" style="s2">equally likely to interact with every</p>
+<p begin="00:02:53.610" end="00:03:00.510" style="s2">other person they have a certain number</p>
+<p begin="00:02:55.710" end="00:03:03.170" style="s2">of connections on average and everyone</p>
+<p begin="00:03:00.510" end="00:03:06.600" style="s2">has about the same number of connections</p>
+<p begin="00:03:03.170" end="00:03:09.710" style="s2">so what&#39;s important from a network</p>
+<p begin="00:03:06.600" end="00:03:13.680" style="s2">science perspective is to think about</p>
+<p begin="00:03:09.710" end="00:03:16.380" style="s2">heterogeneity in the connection patterns</p>
+<p begin="00:03:13.680" end="00:03:19.890" style="s2">between people so one of the most</p>
+<p begin="00:03:16.380" end="00:03:23.580" style="s2">important heterogeneity is degree</p>
+<p begin="00:03:19.890" end="00:03:26.190" style="s2">distribution so some people have huge</p>
+<p begin="00:03:23.580" end="00:03:29.040" style="s2">numbers of connections while most people</p>
+<p begin="00:03:26.190" end="00:03:32.310" style="s2">have lower kind of more average numbers</p>
+<p begin="00:03:29.040" end="00:03:34.290" style="s2">of connect or more typical numbers of</p>
+<p begin="00:03:32.310" end="00:03:37.560" style="s2">connections just a few get strong</p>
+<p begin="00:03:34.290" end="00:03:40.200" style="s2">connections and that really changes the</p>
+<p begin="00:03:37.560" end="00:03:42.540" style="s2">spreading pattern so if you consider a</p>
+<p begin="00:03:40.200" end="00:03:44.580" style="s2">network where everybody has the same</p>
+<p begin="00:03:42.540" end="00:03:46.739" style="s2">number of connections compared to a</p>
+<p begin="00:03:44.580" end="00:03:49.440" style="s2">network where they&#39;re the same total</p>
+<p begin="00:03:46.739" end="00:03:52.410" style="s2">number of connections in the system but</p>
+<p begin="00:03:49.440" end="00:03:54.989" style="s2">some people have a much bigger share of</p>
+<p begin="00:03:52.410" end="00:03:58.020" style="s2">those connections so consider those two</p>
+<p begin="00:03:54.989" end="00:04:01.440" style="s2">networks the first homogeneous network</p>
+<p begin="00:03:58.020" end="00:04:04.070" style="s2">and the second heterogeneous network so</p>
+<p begin="00:04:01.440" end="00:04:07.709" style="s2">it turns out if you do the math</p>
+<p begin="00:04:04.070" end="00:04:12.330" style="s2">spreading on the heterogeneous network</p>
+<p begin="00:04:07.709" end="00:04:15.150" style="s2">is much more rapid and you end up with a</p>
+<p begin="00:04:12.330" end="00:04:21.229" style="s2">much greater fraction of the population</p>
+<p begin="00:04:15.150" end="00:04:24.120" style="s2">infected so the reason being is that</p>
+<p begin="00:04:21.229" end="00:04:27.600" style="s2">those people who have a high number of</p>
+<p begin="00:04:24.120" end="00:04:30.030" style="s2">connections they&#39;re likely to</p>
+<p begin="00:04:27.600" end="00:04:32.400" style="s2">the disease and then because they have a</p>
+<p begin="00:04:30.030" end="00:04:35.280" style="s2">high light high number connections</p>
+<p begin="00:04:32.400" end="00:04:37.770" style="s2">they&#39;re also likely to spread the</p>
+<p begin="00:04:35.280" end="00:04:40.200" style="s2">disease really quickly so this is one of</p>
+<p begin="00:04:37.770" end="00:04:41.940" style="s2">the parts that&#39;s not mentioned so much</p>
+<p begin="00:04:40.200" end="00:04:44.790" style="s2">in this great news coverage about</p>
+<p begin="00:04:41.940" end="00:04:46.970" style="s2">mathematical modeling but not only do we</p>
+<p begin="00:04:44.790" end="00:04:50.070" style="s2">have to think about our nacht and the</p>
+<p begin="00:04:46.970" end="00:04:51.980" style="s2">average properties of the network but we</p>
+<p begin="00:04:50.070" end="00:04:54.510" style="s2">have to think about the heterogenous</p>
+<p begin="00:04:51.980" end="00:04:57.960" style="s2">properties of the network and that&#39;s</p>
+<p begin="00:04:54.510" end="00:05:00.060" style="s2">where like closings schools comes in as</p>
+<p begin="00:04:57.960" end="00:05:02.850" style="s2">it is important because schools are a</p>
+<p begin="00:05:00.060" end="00:05:05.880" style="s2">big source of heterogeneity right</p>
+<p begin="00:05:02.850" end="00:05:08.280" style="s2">because school children interact really</p>
+<p begin="00:05:05.880" end="00:05:11.640" style="s2">strongly with it one another you have</p>
+<p begin="00:05:08.280" end="00:05:13.680" style="s2">it&#39;s kind of like a source of giving</p>
+<p begin="00:05:11.640" end="00:05:16.260" style="s2">people a lot of connections and so</p>
+<p begin="00:05:13.680" end="00:05:19.050" style="s2">closing these large things shutting down</p>
+<p begin="00:05:16.260" end="00:05:21.390" style="s2">big conferences part of that</p>
+<p begin="00:05:19.050" end="00:05:24.630" style="s2">intervention strategy is not to really</p>
+<p begin="00:05:21.390" end="00:05:27.420" style="s2">change the average properties but to cut</p>
+<p begin="00:05:24.630" end="00:05:29.970" style="s2">off that high end that tail end of the</p>
+<p begin="00:05:27.420" end="00:05:32.040" style="s2">distribution which is so responsible for</p>
+<p begin="00:05:29.970" end="00:05:33.660" style="s2">spreading so like for instance at a</p>
+<p begin="00:05:32.040" end="00:05:36.960" style="s2">conference with a thousand people who</p>
+<p begin="00:05:33.660" end="00:05:38.490" style="s2">are jammed into a room and are shoulder</p>
+<p begin="00:05:36.960" end="00:05:39.480" style="s2">to shoulder in the hospitality suite</p>
+<p begin="00:05:38.490" end="00:05:41.460" style="s2">afterwards</p>
+<p begin="00:05:39.480" end="00:05:43.710" style="s2">man that&#39;s a mixing bowl for viruses</p>
+<p begin="00:05:41.460" end="00:05:45.900" style="s2">big-time that&#39;s very different than sort</p>
+<p begin="00:05:43.710" end="00:05:47.700" style="s2">of the average interactions that we</p>
+<p begin="00:05:45.900" end="00:05:48.530" style="s2">might have on the street that that what</p>
+<p begin="00:05:47.700" end="00:05:51.990" style="s2">you&#39;re getting at</p>
+<p begin="00:05:48.530" end="00:05:53.310" style="s2">absolutely absolutely and so these there</p>
+<p begin="00:05:51.990" end="00:05:56.280" style="s2">can be two ways that this happens</p>
+<p begin="00:05:53.310" end="00:06:00.060" style="s2">because we have these highly clustered</p>
+<p begin="00:05:56.280" end="00:06:02.580" style="s2">interactions like conferences or because</p>
+<p begin="00:06:00.060" end="00:06:06.060" style="s2">we might have individuals that we would</p>
+<p begin="00:06:02.580" end="00:06:09.150" style="s2">call super spreaders who just go around</p>
+<p begin="00:06:06.060" end="00:06:12.060" style="s2">and are connected to so many people so</p>
+<p begin="00:06:09.150" end="00:06:15.170" style="s2">it&#39;s those that tail end that we really</p>
+<p begin="00:06:12.060" end="00:06:17.970" style="s2">want to control in our network type</p>
+<p begin="00:06:15.170" end="00:06:20.430" style="s2">interventions and are not one way to</p>
+<p begin="00:06:17.970" end="00:06:26.700" style="s2">think about the network science part of</p>
+<p begin="00:06:20.430" end="00:06:29.010" style="s2">this is to realize that on average your</p>
+<p begin="00:06:26.700" end="00:06:31.500" style="s2">friends have way more friends than you</p>
+<p begin="00:06:29.010" end="00:06:33.330" style="s2">do this is the friendship paradox and</p>
+<p begin="00:06:31.500" end="00:06:35.729" style="s2">network science and I think it&#39;s like</p>
+<p begin="00:06:33.330" end="00:06:38.400" style="s2">the first thing that you should learn if</p>
+<p begin="00:06:35.729" end="00:06:39.039" style="s2">you&#39;re trying to wrap your mind around</p>
+<p begin="00:06:38.400" end="00:06:41.169" style="s2">network</p>
+<p begin="00:06:39.039" end="00:06:43.569" style="s2">science says hey more about that I</p>
+<p begin="00:06:41.169" end="00:06:45.009" style="s2">remember reading about that early on</p>
+<p begin="00:06:43.569" end="00:06:46.839" style="s2">when I started digging into Network</p>
+<p begin="00:06:45.009" end="00:06:48.520" style="s2">science back in the early double lots</p>
+<p begin="00:06:46.839" end="00:06:50.169" style="s2">when I was going what how could that</p>
+<p begin="00:06:48.520" end="00:06:51.819" style="s2">possibly be true and then I work through</p>
+<p begin="00:06:50.169" end="00:06:54.399" style="s2">the math and I go yep for the average</p>
+<p begin="00:06:51.819" end="00:06:56.770" style="s2">person it&#39;s true could you run through a</p>
+<p begin="00:06:54.399" end="00:07:00.669" style="s2">simple example or illuminate that for us</p>
+<p begin="00:06:56.770" end="00:07:03.789" style="s2">a little bit sure I mean so so we all</p>
+<p begin="00:07:00.669" end="00:07:05.800" style="s2">think of ourselves as average and you</p>
+<p begin="00:07:03.789" end="00:07:07.960" style="s2">know we probably think of our friends as</p>
+<p begin="00:07:05.800" end="00:07:08.169" style="s2">average and so our friends are just like</p>
+<p begin="00:07:07.960" end="00:07:11.649" style="s2">us</p>
+<p begin="00:07:08.169" end="00:07:14.770" style="s2">right but consider Facebook for example</p>
+<p begin="00:07:11.649" end="00:07:16.389" style="s2">if you go and if you&#39;re on Facebook and</p>
+<p begin="00:07:14.770" end="00:07:17.949" style="s2">you look at what your number of friends</p>
+<p begin="00:07:16.389" end="00:07:20.830" style="s2">are and you look through all your</p>
+<p begin="00:07:17.949" end="00:07:23.949" style="s2">friends and find out their average</p>
+<p begin="00:07:20.830" end="00:07:26.110" style="s2">number of friends probably that average</p>
+<p begin="00:07:23.949" end="00:07:28.539" style="s2">is gonna be a lot higher than your own</p>
+<p begin="00:07:26.110" end="00:07:31.270" style="s2">number of friends and the reason is</p>
+<p begin="00:07:28.539" end="00:07:33.069" style="s2">because an average person in the network</p>
+<p begin="00:07:31.270" end="00:07:34.809" style="s2">you take the whole network you pick a</p>
+<p begin="00:07:33.069" end="00:07:37.389" style="s2">person at random you look at that</p>
+<p begin="00:07:34.809" end="00:07:40.689" style="s2">person&#39;s number of friends that&#39;s</p>
+<p begin="00:07:37.389" end="00:07:44.860" style="s2">different than following a random link</p>
+<p begin="00:07:40.689" end="00:07:47.289" style="s2">so picking a random one of your own</p>
+<p begin="00:07:44.860" end="00:07:47.860" style="s2">friends by following a link from you to</p>
+<p begin="00:07:47.289" end="00:07:51.999" style="s2">them</p>
+<p begin="00:07:47.860" end="00:07:54.219" style="s2">that link is followed preferentially by</p>
+<p begin="00:07:51.999" end="00:07:56.259" style="s2">their number of connections so because</p>
+<p begin="00:07:54.219" end="00:07:59.559" style="s2">there are some people who have so many</p>
+<p begin="00:07:56.259" end="00:08:01.959" style="s2">more connections you&#39;re way more likely</p>
+<p begin="00:07:59.559" end="00:08:04.959" style="s2">to be connected to somebody who has lots</p>
+<p begin="00:08:01.959" end="00:08:07.449" style="s2">of connections so then when you take a</p>
+<p begin="00:08:04.959" end="00:08:09.339" style="s2">step back and look at it the average</p>
+<p begin="00:08:07.449" end="00:08:11.139" style="s2">number of connections of your friends</p>
+<p begin="00:08:09.339" end="00:08:12.879" style="s2">you really expect that to be a lot</p>
+<p begin="00:08:11.139" end="00:08:15.129" style="s2">higher than the average number of</p>
+<p begin="00:08:12.879" end="00:08:17.349" style="s2">connections of an individual or the</p>
+<p begin="00:08:15.129" end="00:08:19.059" style="s2">number of connections that you have that</p>
+<p begin="00:08:17.349" end="00:08:20.589" style="s2">makes actually makes perfect sense when</p>
+<p begin="00:08:19.059" end="00:08:22.180" style="s2">you think about it from that way and</p>
+<p begin="00:08:20.589" end="00:08:24.309" style="s2">that&#39;s one of the things why network</p>
+<p begin="00:08:22.180" end="00:08:25.930" style="s2">science was such a huge contribution to</p>
+<p begin="00:08:24.309" end="00:08:28.089" style="s2">the intellectual working capital the</p>
+<p begin="00:08:25.930" end="00:08:31.180" style="s2">human race is that it produces very</p>
+<p begin="00:08:28.089" end="00:08:33.760" style="s2">actionable insights such as that that</p>
+<p begin="00:08:31.180" end="00:08:35.979" style="s2">are not intuitive yeah absolutely and I</p>
+<p begin="00:08:33.760" end="00:08:38.529" style="s2">think that that&#39;s a first way for people</p>
+<p begin="00:08:35.979" end="00:08:40.510" style="s2">to understand network science and to</p>
+<p begin="00:08:38.529" end="00:08:43.539" style="s2">realize oh when we&#39;re thinking about</p>
+<p begin="00:08:40.510" end="00:08:45.910" style="s2">these epidemiological models we just do</p>
+<p begin="00:08:43.539" end="00:08:48.819" style="s2">everything at the population average</p>
+<p begin="00:08:45.910" end="00:08:51.610" style="s2">level we&#39;re missing a lot of important</p>
+<p begin="00:08:48.819" end="00:08:55.060" style="s2">elements that really change</p>
+<p begin="00:08:51.610" end="00:08:57.040" style="s2">behaviors of the whole system and the</p>
+<p begin="00:08:55.060" end="00:08:59.110" style="s2">course of disease spread and I&#39;m really</p>
+<p begin="00:08:57.040" end="00:09:00.279" style="s2">glad that we have a number of people</p>
+<p begin="00:08:59.110" end="00:09:03.100" style="s2">particularly in our Santa Fe Institute</p>
+<p begin="00:09:00.279" end="00:09:05.529" style="s2">community who are bringing advanced</p>
+<p begin="00:09:03.100" end="00:09:07.990" style="s2">epidemiological modeling with a network</p>
+<p begin="00:09:05.529" end="00:09:10.269" style="s2">understanding on top of it because you</p>
+<p begin="00:09:07.990" end="00:09:12.130" style="s2">know that provides as a very different</p>
+<p begin="00:09:10.269" end="00:09:14.709" style="s2">view rather than using these population</p>
+<p begin="00:09:12.130" end="00:09:16.600" style="s2">averages because you now to address a</p>
+<p begin="00:09:14.709" end="00:09:18.670" style="s2">little bit about how things like social</p>
+<p begin="00:09:16.600" end="00:09:20.589" style="s2">distancing either you know low end</p>
+<p begin="00:09:18.670" end="00:09:23.110" style="s2">social distancing like staying six feet</p>
+<p begin="00:09:20.589" end="00:09:25.750" style="s2">apart and more radical such as stay at</p>
+<p begin="00:09:23.110" end="00:09:27.700" style="s2">home orders how they change the literal</p>
+<p begin="00:09:25.750" end="00:09:29.740" style="s2">nature of the network and what impact</p>
+<p begin="00:09:27.700" end="00:09:31.959" style="s2">they are likely to have on the spread of</p>
+<p begin="00:09:29.740" end="00:09:34.420" style="s2">the disease that&#39;s a really good</p>
+<p begin="00:09:31.959" end="00:09:36.670" style="s2">question and there are a couple ways in</p>
+<p begin="00:09:34.420" end="00:09:39.490" style="s2">which they change the nature of the</p>
+<p begin="00:09:36.670" end="00:09:41.920" style="s2">spreading pattern so in these Network</p>
+<p begin="00:09:39.490" end="00:09:44.230" style="s2">models of disease spread you have a lot</p>
+<p begin="00:09:41.920" end="00:09:47.019" style="s2">of different parameters not only do you</p>
+<p begin="00:09:44.230" end="00:09:50.010" style="s2">have the network structure who&#39;s</p>
+<p begin="00:09:47.019" end="00:09:52.390" style="s2">connected to whom but you also have</p>
+<p begin="00:09:50.010" end="00:09:55.029" style="s2">parameters of the dynamics of the</p>
+<p begin="00:09:52.390" end="00:09:58.750" style="s2">disease the probability of transmission</p>
+<p begin="00:09:55.029" end="00:10:02.079" style="s2">along an edge so this staying six feet</p>
+<p begin="00:09:58.750" end="00:10:04.839" style="s2">apart from from one another if you still</p>
+<p begin="00:10:02.079" end="00:10:07.089" style="s2">are going about and interacting with the</p>
+<p begin="00:10:04.839" end="00:10:09.010" style="s2">same people like you&#39;re going to work</p>
+<p begin="00:10:07.089" end="00:10:11.350" style="s2">but you&#39;re staying far apart from one</p>
+<p begin="00:10:09.010" end="00:10:14.380" style="s2">another that&#39;s really changing the</p>
+<p begin="00:10:11.350" end="00:10:18.430" style="s2">probability of spreading between people</p>
+<p begin="00:10:14.380" end="00:10:21.550" style="s2">now it&#39;s also in part changing the</p>
+<p begin="00:10:18.430" end="00:10:23.949" style="s2">network because it&#39;s giving you fewer</p>
+<p begin="00:10:21.550" end="00:10:26.800" style="s2">opportunities to interact kind of</p>
+<p begin="00:10:23.949" end="00:10:30.430" style="s2">casually with people you might interact</p>
+<p begin="00:10:26.800" end="00:10:34.170" style="s2">with in a normal situation but what</p>
+<p begin="00:10:30.430" end="00:10:37.120" style="s2">really changes the network is these</p>
+<p begin="00:10:34.170" end="00:10:39.699" style="s2">lockdown situations where you&#39;re staying</p>
+<p begin="00:10:37.120" end="00:10:42.430" style="s2">at home you&#39;re completely reducing the</p>
+<p begin="00:10:39.699" end="00:10:44.500" style="s2">number of connections you have so not</p>
+<p begin="00:10:42.430" end="00:10:47.350" style="s2">only have you changed the probability of</p>
+<p begin="00:10:44.500" end="00:10:50.320" style="s2">transmission but you&#39;ve changed the</p>
+<p begin="00:10:47.350" end="00:10:52.589" style="s2">network topology yep and so for instance</p>
+<p begin="00:10:50.320" end="00:10:55.570" style="s2">if we think about our relationships with</p>
+<p begin="00:10:52.589" end="00:10:58.360" style="s2">everybody we know it&#39;s a link between</p>
+<p begin="00:10:55.570" end="00:11:01.329" style="s2">let&#39;s say you and me and if the nature</p>
+<p begin="00:10:58.360" end="00:11:02.540" style="s2">of the link right now is you and I going</p>
+<p begin="00:11:01.329" end="00:11:05.420" style="s2">out to have dinner</p>
+<p begin="00:11:02.540" end="00:11:08.540" style="s2">at a restaurant we were sitting 18</p>
+<p begin="00:11:05.420" end="00:11:11.060" style="s2">inches apart the dynamics of how the</p>
+<p begin="00:11:08.540" end="00:11:13.130" style="s2">disease spreads probabilistically is one</p>
+<p begin="00:11:11.060" end="00:11:16.160" style="s2">thing if you and I are talking over zoom</p>
+<p begin="00:11:13.130" end="00:11:18.530" style="s2">it&#39;s entirely different so if instead of</p>
+<p begin="00:11:16.160" end="00:11:20.720" style="s2">doing this by zoom we did it face to</p>
+<p begin="00:11:18.530" end="00:11:24.230" style="s2">face we would be changing the nature of</p>
+<p begin="00:11:20.720" end="00:11:25.630" style="s2">propagation on the network exactly okay</p>
+<p begin="00:11:24.230" end="00:11:28.310" style="s2">and so that each one of these</p>
+<p begin="00:11:25.630" end="00:11:30.860" style="s2">essentially is changing the property of</p>
+<p begin="00:11:28.310" end="00:11:33.950" style="s2">the link we stop we don&#39;t stop knowing</p>
+<p begin="00:11:30.860" end="00:11:37.400" style="s2">people so our social graph in some sense</p>
+<p begin="00:11:33.950" end="00:11:40.220" style="s2">is still unchanged but the properties of</p>
+<p begin="00:11:37.400" end="00:11:43.910" style="s2">the graph the properties of each link</p>
+<p begin="00:11:40.220" end="00:11:46.730" style="s2">change as we social distance right and I</p>
+<p begin="00:11:43.910" end="00:11:49.460" style="s2">like to think about it as we have you</p>
+<p begin="00:11:46.730" end="00:11:52.910" style="s2">know our underlying social interaction</p>
+<p begin="00:11:49.460" end="00:11:56.260" style="s2">Network and then we have a subset of</p>
+<p begin="00:11:52.910" end="00:11:59.120" style="s2">that network the network along which the</p>
+<p begin="00:11:56.260" end="00:12:01.700" style="s2">transmission can spread so if you if</p>
+<p begin="00:11:59.120" end="00:12:03.680" style="s2">we&#39;re we have a social connection but</p>
+<p begin="00:12:01.700" end="00:12:06.320" style="s2">that connection is only being realized</p>
+<p begin="00:12:03.680" end="00:12:09.350" style="s2">virtually that&#39;s not a potential link</p>
+<p begin="00:12:06.320" end="00:12:11.930" style="s2">for spreading right and as people switch</p>
+<p begin="00:12:09.350" end="00:12:14.630" style="s2">from physical presence to virtual</p>
+<p begin="00:12:11.930" end="00:12:16.100" style="s2">presence I&#39;m thinking in my head of</p>
+<p begin="00:12:14.630" end="00:12:17.810" style="s2">nodes and lengths you know the nature of</p>
+<p begin="00:12:16.100" end="00:12:20.690" style="s2">the links changes it now becomes</p>
+<p begin="00:12:17.810" end="00:12:27.260" style="s2">impossible for you know Jim to give</p>
+<p begin="00:12:20.690" end="00:12:28.460" style="s2">Michele Corcovado face meeting to a zoom</p>
+<p begin="00:12:27.260" end="00:12:32.060" style="s2">meeting and the more of those that</p>
+<p begin="00:12:28.460" end="00:12:34.040" style="s2">change literally the propensity to</p>
+<p begin="00:12:32.060" end="00:12:37.340" style="s2">propagate on the network changes very</p>
+<p begin="00:12:34.040" end="00:12:39.650" style="s2">considerably and another thing that we</p>
+<p begin="00:12:37.340" end="00:12:42.800" style="s2">really have to think about is that the</p>
+<p begin="00:12:39.650" end="00:12:45.470" style="s2">networks adapt in response to the</p>
+<p begin="00:12:42.800" end="00:12:47.390" style="s2">spreading patterns now one thing I think</p>
+<p begin="00:12:45.470" end="00:12:50.210" style="s2">that we as a community have been doing</p>
+<p begin="00:12:47.390" end="00:12:54.230" style="s2">pretty well is cutting down the number</p>
+<p begin="00:12:50.210" end="00:12:56.210" style="s2">of visits to doctors offices where you</p>
+<p begin="00:12:54.230" end="00:12:59.210" style="s2">have questionable symptoms and you might</p>
+<p begin="00:12:56.210" end="00:13:01.160" style="s2">then then healthy people who might get</p>
+<p begin="00:12:59.210" end="00:13:02.930" style="s2">the disease at a doctor&#39;s office so</p>
+<p begin="00:13:01.160" end="00:13:05.780" style="s2">there have been various policy</p>
+<p begin="00:13:02.930" end="00:13:09.260" style="s2">suggestions call your doctor from home a</p>
+<p begin="00:13:05.780" end="00:13:11.690" style="s2">move to move to telemedicine instead of</p>
+<p begin="00:13:09.260" end="00:13:14.840" style="s2">in-person visits because you know what</p>
+<p begin="00:13:11.690" end="00:13:16.070" style="s2">happens is when people are sick they go</p>
+<p begin="00:13:14.840" end="00:13:19.800" style="s2">to the doctor</p>
+<p begin="00:13:16.070" end="00:13:22.290" style="s2">and maybe they&#39;re sick with coronavirus</p>
+<p begin="00:13:19.800" end="00:13:24.990" style="s2">but maybe they&#39;re sick with a common</p>
+<p begin="00:13:22.290" end="00:13:26.580" style="s2">cold and then you know if you they&#39;re</p>
+<p begin="00:13:24.990" end="00:13:29.640" style="s2">all meeting especially this is a high</p>
+<p begin="00:13:26.580" end="00:13:33.020" style="s2">density of people who have kovat 19 in a</p>
+<p begin="00:13:29.640" end="00:13:35.280" style="s2">small space that really increases the</p>
+<p begin="00:13:33.020" end="00:13:37.200" style="s2">transmission so I think that&#39;s one thing</p>
+<p begin="00:13:35.280" end="00:13:39.780" style="s2">we&#39;ve actually been doing right is</p>
+<p begin="00:13:37.200" end="00:13:43.590" style="s2">keeping people from going directly to</p>
+<p begin="00:13:39.780" end="00:13:45.480" style="s2">the doctor&#39;s office and trying to cut</p>
+<p begin="00:13:43.590" end="00:13:48.450" style="s2">off some of the spread that happens in</p>
+<p begin="00:13:45.480" end="00:13:50.490" style="s2">that way and this is of courses for</p>
+<p begin="00:13:48.450" end="00:13:51.720" style="s2">people who have just mild symptoms I&#39;ll</p>
+<p begin="00:13:50.490" end="00:13:54.360" style="s2">give you a perfect examples we talked</p>
+<p begin="00:13:51.720" end="00:13:56.600" style="s2">about pre-roll on the show my daughter&#39;s</p>
+<p begin="00:13:54.360" end="00:13:58.890" style="s2">like 25 weeks pregnant and</p>
+<p begin="00:13:56.600" end="00:14:02.190" style="s2">fingers-crossed been a very healthy</p>
+<p begin="00:13:58.890" end="00:14:06.540" style="s2">non-problematic pregnancy and her and</p>
+<p begin="00:14:02.190" end="00:14:09.180" style="s2">her doctor negotiated changing many of</p>
+<p begin="00:14:06.540" end="00:14:12.030" style="s2">her normal check-in visits from in</p>
+<p begin="00:14:09.180" end="00:14:14.370" style="s2">office to telemedicine for exactly that</p>
+<p begin="00:14:12.030" end="00:14:16.470" style="s2">reason the you know the benefit of a</p>
+<p begin="00:14:14.370" end="00:14:19.320" style="s2">routine office visit for a healthy</p>
+<p begin="00:14:16.470" end="00:14:22.500" style="s2">pregnancy is not zero but it&#39;s not huge</p>
+<p begin="00:14:19.320" end="00:14:25.380" style="s2">compared to a telemedicine and the risk</p>
+<p begin="00:14:22.500" end="00:14:27.120" style="s2">is significant so the math works out do</p>
+<p begin="00:14:25.380" end="00:14:28.500" style="s2">telemedicine right on the other hand if</p>
+<p begin="00:14:27.120" end="00:14:29.580" style="s2">she were to have a complication sheet of</p>
+<p begin="00:14:28.500" end="00:14:32.070" style="s2">course go to the doctor or the hospital</p>
+<p begin="00:14:29.580" end="00:14:34.170" style="s2">because at that point the the risk</p>
+<p begin="00:14:32.070" end="00:14:35.880" style="s2">reward works the other way and you know</p>
+<p begin="00:14:34.170" end="00:14:37.740" style="s2">so humans are smart we&#39;re you know a</p>
+<p begin="00:14:35.880" end="00:14:40.410" style="s2">smart adaptive agents and we are making</p>
+<p begin="00:14:37.740" end="00:14:42.840" style="s2">those changes again as we talked about</p>
+<p begin="00:14:40.410" end="00:14:45.450" style="s2">in the pre-roll both of us are now using</p>
+<p begin="00:14:42.840" end="00:14:47.880" style="s2">order in advance pick up at the grocery</p>
+<p begin="00:14:45.450" end="00:14:50.610" style="s2">store quarantined the food in a cooler</p>
+<p begin="00:14:47.880" end="00:14:52.950" style="s2">for a day etc and that&#39;s sort of</p>
+<p begin="00:14:50.610" end="00:14:54.900" style="s2">bottom-up self-organizing modifying the</p>
+<p begin="00:14:52.950" end="00:14:57.320" style="s2">network you know my relationship to my</p>
+<p begin="00:14:54.900" end="00:15:01.500" style="s2">grocery store is now a much less</p>
+<p begin="00:14:57.320" end="00:15:06.390" style="s2">powerful vector for viral spread right</p>
+<p begin="00:15:01.500" end="00:15:08.610" style="s2">absolutely i but I do wonder about some</p>
+<p begin="00:15:06.390" end="00:15:12.570" style="s2">of these changes have they gone far</p>
+<p begin="00:15:08.610" end="00:15:14.550" style="s2">enough I mean certainly there we need</p>
+<p begin="00:15:12.570" end="00:15:16.980" style="s2">our health care workers to keep going</p>
+<p begin="00:15:14.550" end="00:15:19.830" style="s2">you need our grocery workers to keep</p>
+<p begin="00:15:16.980" end="00:15:22.589" style="s2">going but are we putting enough measures</p>
+<p begin="00:15:19.830" end="00:15:24.660" style="s2">in to protect those people because they</p>
+<p begin="00:15:22.589" end="00:15:28.320" style="s2">are interacting with so many people</p>
+<p begin="00:15:24.660" end="00:15:29.100" style="s2">every day and what else can we do to</p>
+<p begin="00:15:28.320" end="00:15:32.250" style="s2">change the</p>
+<p begin="00:15:29.100" end="00:15:35.820" style="s2">transmission parameters to help protect</p>
+<p begin="00:15:32.250" end="00:15:39.240" style="s2">them also you know I kind of luckily</p>
+<p begin="00:15:35.820" end="00:15:41.820" style="s2">removed from manufacturing processes and</p>
+<p begin="00:15:39.240" end="00:15:44.010" style="s2">things like that but are the plants that</p>
+<p begin="00:15:41.820" end="00:15:46.470" style="s2">are manufacturing these goods what are</p>
+<p begin="00:15:44.010" end="00:15:49.020" style="s2">what are the network properties of the</p>
+<p begin="00:15:46.470" end="00:15:51.030" style="s2">individuals who are doing this important</p>
+<p begin="00:15:49.020" end="00:15:53.340" style="s2">work during this time and how can we</p>
+<p begin="00:15:51.030" end="00:15:55.860" style="s2">protect them better yeah and of course a</p>
+<p begin="00:15:53.340" end="00:15:57.750" style="s2">lot of that a different topic but</p>
+<p begin="00:15:55.860" end="00:16:00.710" style="s2">something you know near and dear to a</p>
+<p begin="00:15:57.750" end="00:16:03.180" style="s2">complexity science perspective is</p>
+<p begin="00:16:00.710" end="00:16:05.400" style="s2">unfortunately our hyper capitalist</p>
+<p begin="00:16:03.180" end="00:16:08.610" style="s2">short-term money on money return Society</p>
+<p begin="00:16:05.400" end="00:16:11.160" style="s2">has engineered everything for efficiency</p>
+<p begin="00:16:08.610" end="00:16:13.650" style="s2">and not for robustness you know for</p>
+<p begin="00:16:11.160" end="00:16:15.630" style="s2">instance we know these plagues are</p>
+<p begin="00:16:13.650" end="00:16:19.020" style="s2">coming look at the the data on</p>
+<p begin="00:16:15.630" end="00:16:21.510" style="s2">respiratory illnesses in the number of</p>
+<p begin="00:16:19.020" end="00:16:23.040" style="s2">cases and if you assume a fat tail</p>
+<p begin="00:16:21.510" end="00:16:24.960" style="s2">distribution which certainly seems</p>
+<p begin="00:16:23.040" end="00:16:26.970" style="s2">reasonable something like this is very</p>
+<p begin="00:16:24.960" end="00:16:28.920" style="s2">predictable to have happened someone who</p>
+<p begin="00:16:26.970" end="00:16:30.680" style="s2">was thinking in terms of robustness and</p>
+<p begin="00:16:28.920" end="00:16:34.320" style="s2">complexity would have stockpiled</p>
+<p begin="00:16:30.680" end="00:16:36.450" style="s2">billions of face masks right you know</p>
+<p begin="00:16:34.320" end="00:16:38.940" style="s2">tens of thousands of ventilators body</p>
+<p begin="00:16:36.450" end="00:16:40.710" style="s2">suits and so these issues of our health</p>
+<p begin="00:16:38.940" end="00:16:42.440" style="s2">care workers having to expose themselves</p>
+<p begin="00:16:40.710" end="00:16:44.820" style="s2">and a lot of them are heroes I mean my</p>
+<p begin="00:16:42.440" end="00:16:47.370" style="s2">sister-in-law is a nurse practitioner</p>
+<p begin="00:16:44.820" end="00:16:49.320" style="s2">and a heroic medical person who is</p>
+<p begin="00:16:47.370" end="00:16:51.720" style="s2">putting her life on the line literally</p>
+<p begin="00:16:49.320" end="00:16:53.100" style="s2">every day to help her patients I would</p>
+<p begin="00:16:51.720" end="00:16:54.510" style="s2">have felt a hell of a lot better and we</p>
+<p begin="00:16:53.100" end="00:16:55.830" style="s2">actually you know sent her masks and</p>
+<p begin="00:16:54.510" end="00:16:59.520" style="s2">things like that my brother sent her</p>
+<p begin="00:16:55.830" end="00:17:01.320" style="s2">some masks and you know if we&#39;ve been a</p>
+<p begin="00:16:59.520" end="00:17:03.380" style="s2">smart robust and resilience thinking</p>
+<p begin="00:17:01.320" end="00:17:07.020" style="s2">society we would have prepared for this</p>
+<p begin="00:17:03.380" end="00:17:09.750" style="s2">right absolutely and right now that</p>
+<p begin="00:17:07.020" end="00:17:13.170" style="s2">could be a big weakness that we have in</p>
+<p begin="00:17:09.750" end="00:17:15.060" style="s2">our system because that&#39;s a point rate</p>
+<p begin="00:17:13.170" end="00:17:18.840" style="s2">so while everything else is closed down</p>
+<p begin="00:17:15.060" end="00:17:21.540" style="s2">it&#39;s these mega centers like hospitals</p>
+<p begin="00:17:18.840" end="00:17:23.970" style="s2">where there is a big possibility for</p>
+<p begin="00:17:21.540" end="00:17:25.830" style="s2">continued spread of the disease and if</p>
+<p begin="00:17:23.970" end="00:17:28.400" style="s2">we&#39;re not we don&#39;t have enough equipment</p>
+<p begin="00:17:25.830" end="00:17:31.170" style="s2">to make those precautions we&#39;re not</p>
+<p begin="00:17:28.400" end="00:17:33.270" style="s2">cutting off that tail like we need to</p>
+<p begin="00:17:31.170" end="00:17:35.310" style="s2">yea Lantern as you would say from the</p>
+<p begin="00:17:33.270" end="00:17:37.200" style="s2">network perspective those are you know</p>
+<p begin="00:17:35.310" end="00:17:39.450" style="s2">hi mixing nodes with a high propensity</p>
+<p begin="00:17:37.200" end="00:17:41.870" style="s2">of sick people right so just what you</p>
+<p begin="00:17:39.450" end="00:17:45.260" style="s2">don&#39;t want absolutely</p>
+<p begin="00:17:41.870" end="00:17:47.960" style="s2">another thing that I seen recently and</p>
+<p begin="00:17:45.260" end="00:17:50.270" style="s2">this is not related to my expertise in</p>
+<p begin="00:17:47.960" end="00:17:52.520" style="s2">network science so but I think it&#39;s an</p>
+<p begin="00:17:50.270" end="00:17:55.429" style="s2">interesting feature that&#39;s not been</p>
+<p begin="00:17:52.520" end="00:17:59.450" style="s2">included and a lot of the modeling is</p>
+<p begin="00:17:55.429" end="00:18:04.490" style="s2">the level of exposure that people have</p>
+<p begin="00:17:59.450" end="00:18:06.260" style="s2">so you know healthcare workers they can</p>
+<p begin="00:18:04.490" end="00:18:09.140" style="s2">get much hotter they can be exposed to</p>
+<p begin="00:18:06.260" end="00:18:11.299" style="s2">much higher doses of the virus as</p>
+<p begin="00:18:09.140" end="00:18:14.570" style="s2">compared to somebody who gets it from a</p>
+<p begin="00:18:11.299" end="00:18:19.490" style="s2">surface and as I&#39;ve read again on expert</p>
+<p begin="00:18:14.570" end="00:18:23.120" style="s2">in this that how sick you get for many</p>
+<p begin="00:18:19.490" end="00:18:26.419" style="s2">types of viruses is strongly correlated</p>
+<p begin="00:18:23.120" end="00:18:28.159" style="s2">with that level of exposure so it&#39;s also</p>
+<p begin="00:18:26.419" end="00:18:31.909" style="s2">something we can be we should be taking</p>
+<p begin="00:18:28.159" end="00:18:34.190" style="s2">into account yes in fact a mini podcast</p>
+<p begin="00:18:31.909" end="00:18:34.669" style="s2">like we are publishing today from Robin</p>
+<p begin="00:18:34.190" end="00:18:37.909" style="s2">Hanson</p>
+<p begin="00:18:34.669" end="00:18:42.789" style="s2">we discuss in considerable detail dose</p>
+<p begin="00:18:37.909" end="00:18:44.809" style="s2">response and what might seem paradoxical</p>
+<p begin="00:18:42.789" end="00:18:46.549" style="s2">guidance that comes from that you know</p>
+<p begin="00:18:44.809" end="00:18:49.370" style="s2">for instance he&#39;s famous I kind of</p>
+<p begin="00:18:46.549" end="00:18:51.200" style="s2">classed and he talks about you know</p>
+<p begin="00:18:49.370" end="00:18:53.480" style="s2">maybe young people should voluntarily</p>
+<p begin="00:18:51.200" end="00:18:55.039" style="s2">get the illness be paid a small premium</p>
+<p begin="00:18:53.480" end="00:18:58.309" style="s2">for doing so and be given a card that</p>
+<p begin="00:18:55.039" end="00:18:59.809" style="s2">shows that are immune and maybe people</p>
+<p begin="00:18:58.309" end="00:19:01.850" style="s2">shouldn&#39;t shelter-in-place at home</p>
+<p begin="00:18:59.809" end="00:19:03.890" style="s2">because if one person in the house gets</p>
+<p begin="00:19:01.850" end="00:19:06.140" style="s2">it the dosage level in the house is</p>
+<p begin="00:19:03.890" end="00:19:07.909" style="s2">going to be very high so you know that&#39;s</p>
+<p begin="00:19:06.140" end="00:19:10.820" style="s2">an area that I&#39;d like to see some of our</p>
+<p begin="00:19:07.909" end="00:19:12.980" style="s2">modelers you know hop on thinking about</p>
+<p begin="00:19:10.820" end="00:19:16.250" style="s2">this dose response possibility and maybe</p>
+<p begin="00:19:12.980" end="00:19:20.390" style="s2">it produces some you know non-intuitive</p>
+<p begin="00:19:16.250" end="00:19:21.950" style="s2">ways of responding yes and and you also</p>
+<p begin="00:19:20.390" end="00:19:24.080" style="s2">mentioned something that&#39;s really</p>
+<p begin="00:19:21.950" end="00:19:28.330" style="s2">important and part of the next step out</p>
+<p begin="00:19:24.080" end="00:19:31.190" style="s2">of this quarantine situation which is</p>
+<p begin="00:19:28.330" end="00:19:33.620" style="s2">knowing who&#39;s who had the infection</p>
+<p begin="00:19:31.190" end="00:19:36.890" style="s2">right so a lot of these different</p>
+<p begin="00:19:33.620" end="00:19:38.600" style="s2">strategies like you know getting the</p>
+<p begin="00:19:36.890" end="00:19:40.460" style="s2">virus which I&#39;m not sure is good</p>
+<p begin="00:19:38.600" end="00:19:43.159" style="s2">strategy I&#39;m not condoning that at the</p>
+<p begin="00:19:40.460" end="00:19:45.529" style="s2">moment but a lot of these different</p>
+<p begin="00:19:43.159" end="00:19:48.169" style="s2">strategies are predicated on knowing who</p>
+<p begin="00:19:45.529" end="00:19:49.730" style="s2">was infected and who wasn&#39;t so I think</p>
+<p begin="00:19:48.169" end="00:19:54.130" style="s2">that that&#39;s going to be a really</p>
+<p begin="00:19:49.730" end="00:19:56.410" style="s2">important part in designing our way out</p>
+<p begin="00:19:54.130" end="00:19:59.919" style="s2">of this after it you know if we are</p>
+<p begin="00:19:56.410" end="00:20:02.950" style="s2">successful in flattening the peak which</p>
+<p begin="00:19:59.919" end="00:20:05.280" style="s2">it seems like there is a good effort in</p>
+<p begin="00:20:02.950" end="00:20:08.049" style="s2">this area that these the you know</p>
+<p begin="00:20:05.280" end="00:20:11.110" style="s2">quarantine efforts are making a</p>
+<p begin="00:20:08.049" end="00:20:14.440" style="s2">difference but then what&#39;s next and how</p>
+<p begin="00:20:11.110" end="00:20:17.440" style="s2">can we plan for what&#39;s next without the</p>
+<p begin="00:20:14.440" end="00:20:18.700" style="s2">ability to test who&#39;s had the who&#39;s had</p>
+<p begin="00:20:17.440" end="00:20:21.130" style="s2">the disease or not</p>
+<p begin="00:20:18.700" end="00:20:23.440" style="s2">ah that&#39;s exactly right that&#39;s a good</p>
+<p begin="00:20:21.130" end="00:20:26.110" style="s2">time to transition to the second topic</p>
+<p begin="00:20:23.440" end="00:20:29.289" style="s2">which is managing the back side of the</p>
+<p begin="00:20:26.110" end="00:20:31.809" style="s2">curve that&#39;s now where all my attention</p>
+<p begin="00:20:29.289" end="00:20:33.520" style="s2">is in terms of actual work trying to</p>
+<p begin="00:20:31.809" end="00:20:36.669" style="s2">figure out what guidance to give to</p>
+<p begin="00:20:33.520" end="00:20:38.860" style="s2">government not-for-profits etc and I</p>
+<p begin="00:20:36.669" end="00:20:40.600" style="s2">feel like we&#39;re way behind the curve on</p>
+<p begin="00:20:38.860" end="00:20:42.940" style="s2">managing the backside of the curve and</p>
+<p begin="00:20:40.600" end="00:20:45.280" style="s2">it&#39;s going to be more difficult require</p>
+<p begin="00:20:42.940" end="00:20:47.710" style="s2">more you know a more aggressive</p>
+<p begin="00:20:45.280" end="00:20:49.419" style="s2">intellectually deep mindset than</p>
+<p begin="00:20:47.710" end="00:20:51.070" style="s2">managing the front side which has been</p>
+<p begin="00:20:49.419" end="00:20:52.990" style="s2">you know essentially fairly</p>
+<p begin="00:20:51.070" end="00:20:56.169" style="s2">straightforward break the network smash</p>
+<p begin="00:20:52.990" end="00:20:57.760" style="s2">the the curve doing the dance on the</p>
+<p begin="00:20:56.169" end="00:21:00.159" style="s2">back side is going to be very very</p>
+<p begin="00:20:57.760" end="00:21:02.260" style="s2">tricky if we&#39;re going to avoid the</p>
+<p begin="00:21:00.159" end="00:21:05.409" style="s2">historical second peak you know in the</p>
+<p begin="00:21:02.260" end="00:21:07.900" style="s2">famous influenza of 1918 which is</p>
+<p begin="00:21:05.409" end="00:21:10.210" style="s2">probably closest to in magnitude the</p>
+<p begin="00:21:07.900" end="00:21:11.830" style="s2">second peak you know four or five six</p>
+<p begin="00:21:10.210" end="00:21:14.830" style="s2">months later killed more people in the</p>
+<p begin="00:21:11.830" end="00:21:18.250" style="s2">first peak and there are ideas about how</p>
+<p begin="00:21:14.830" end="00:21:19.840" style="s2">we you know be much more dynamic on our</p>
+<p begin="00:21:18.250" end="00:21:21.940" style="s2">social distancing so we can take it off</p>
+<p begin="00:21:19.840" end="00:21:24.130" style="s2">in some places and bring it on in others</p>
+<p begin="00:21:21.940" end="00:21:26.200" style="s2">but that&#39;s gonna require data and</p>
+<p begin="00:21:24.130" end="00:21:27.520" style="s2">dynamic decision-making could you talk a</p>
+<p begin="00:21:26.200" end="00:21:29.140" style="s2">little bit about the you know the</p>
+<p begin="00:21:27.520" end="00:21:31.360" style="s2">network science and any thoughts you</p>
+<p begin="00:21:29.140" end="00:21:34.360" style="s2">have on managing the back side of the</p>
+<p begin="00:21:31.360" end="00:21:36.970" style="s2">curve until we have a vaccine that is</p>
+<p begin="00:21:34.360" end="00:21:39.880" style="s2">such an important question and as you</p>
+<p begin="00:21:36.970" end="00:21:42.820" style="s2">mentioned so much harder to answer so</p>
+<p begin="00:21:39.880" end="00:21:45.760" style="s2">from a mathematical modeling perspective</p>
+<p begin="00:21:42.820" end="00:21:48.400" style="s2">whether we&#39;re doing this like mixed</p>
+<p begin="00:21:45.760" end="00:21:50.919" style="s2">fully mixed population assumption or</p>
+<p begin="00:21:48.400" end="00:21:53.110" style="s2">whether we&#39;re adding in some of the</p>
+<p begin="00:21:50.919" end="00:21:55.150" style="s2">details of the network structure and the</p>
+<p begin="00:21:53.110" end="00:21:58.000" style="s2">heterogeneity is where some people have</p>
+<p begin="00:21:55.150" end="00:22:01.780" style="s2">lots of connections but most people have</p>
+<p begin="00:21:58.000" end="00:22:04.090" style="s2">a lower number so regardless of what</p>
+<p begin="00:22:01.780" end="00:22:06.760" style="s2">approach you take in the beginning it&#39;s</p>
+<p begin="00:22:04.090" end="00:22:07.340" style="s2">much easier to capture this because you</p>
+<p begin="00:22:06.760" end="00:22:09.679" style="s2">can make</p>
+<p begin="00:22:07.340" end="00:22:14.169" style="s2">something that almost everybody is</p>
+<p begin="00:22:09.679" end="00:22:17.019" style="s2">susceptible right and then as many as a</p>
+<p begin="00:22:14.169" end="00:22:19.749" style="s2">significant fraction of your population</p>
+<p begin="00:22:17.019" end="00:22:24.740" style="s2">gets infected with this and then</p>
+<p begin="00:22:19.749" end="00:22:28.519" style="s2">recovers modeling that side of things is</p>
+<p begin="00:22:24.740" end="00:22:30.769" style="s2">much harder and it&#39;s much harder in this</p>
+<p begin="00:22:28.519" end="00:22:32.990" style="s2">scenario when you have the hidden</p>
+<p begin="00:22:30.769" end="00:22:35.539" style="s2">variables that you don&#39;t know the states</p>
+<p begin="00:22:32.990" end="00:22:37.879" style="s2">of individuals whether they&#39;re they&#39;ve</p>
+<p begin="00:22:35.539" end="00:22:41.629" style="s2">recovered or not or whether they were</p>
+<p begin="00:22:37.879" end="00:22:46.129" style="s2">never infected and so the mathematical</p>
+<p begin="00:22:41.629" end="00:22:47.749" style="s2">modeling is more complicated because for</p>
+<p begin="00:22:46.129" end="00:22:51.320" style="s2">two reasons you can&#39;t just consider</p>
+<p begin="00:22:47.749" end="00:22:54.649" style="s2">everybody to be susceptible and put the</p>
+<p begin="00:22:51.320" end="00:22:56.840" style="s2">name really harder part of connecting</p>
+<p begin="00:22:54.649" end="00:22:59.749" style="s2">mathematical modeling with intervention</p>
+<p begin="00:22:56.840" end="00:23:02.179" style="s2">strategies is you need to know what</p>
+<p begin="00:22:59.749" end="00:23:04.639" style="s2">class each of your people the</p>
+<p begin="00:23:02.179" end="00:23:07.039" style="s2">individuals are in are they still</p>
+<p begin="00:23:04.639" end="00:23:10.159" style="s2">susceptible or are they recovered and</p>
+<p begin="00:23:07.039" end="00:23:12.110" style="s2">now hopefully as we&#39;ve heard enough of</p>
+<p begin="00:23:10.159" end="00:23:13.730" style="s2">that you know there is evidence that</p>
+<p begin="00:23:12.110" end="00:23:13.970" style="s2">they should be immune at least for a</p>
+<p begin="00:23:13.730" end="00:23:17.899" style="s2">while</p>
+<p begin="00:23:13.970" end="00:23:19.490" style="s2">yep and again this is multi-dimensional</p>
+<p begin="00:23:17.899" end="00:23:22.610" style="s2">analysis with unfortunately our society</p>
+<p begin="00:23:19.490" end="00:23:25.190" style="s2">ain&#39;t great at and you know we need to</p>
+<p begin="00:23:22.610" end="00:23:27.259" style="s2">have disease testing to catch people</p>
+<p begin="00:23:25.190" end="00:23:29.330" style="s2">with symptoms to crack down on them</p>
+<p begin="00:23:27.259" end="00:23:31.759" style="s2">quickly after the fact and as you point</p>
+<p begin="00:23:29.330" end="00:23:33.740" style="s2">out the immunity testing would be huge</p>
+<p begin="00:23:31.759" end="00:23:36.799" style="s2">to you know certify people to work in</p>
+<p begin="00:23:33.740" end="00:23:39.019" style="s2">dangerous virally dangerous frontline</p>
+<p begin="00:23:36.799" end="00:23:42.499" style="s2">physicians you know wouldn&#39;t it be great</p>
+<p begin="00:23:39.019" end="00:23:45.080" style="s2">if there were a ID certificate that said</p>
+<p begin="00:23:42.499" end="00:23:47.809" style="s2">I am immune and let those people go back</p>
+<p begin="00:23:45.080" end="00:23:51.950" style="s2">to work as uber drivers and working as</p>
+<p begin="00:23:47.809" end="00:23:54.200" style="s2">the store clerks etc and the other thing</p>
+<p begin="00:23:51.950" end="00:23:55.669" style="s2">is this monitoring so that we can bring</p>
+<p begin="00:23:54.200" end="00:23:57.169" style="s2">our resources to bear and I will say</p>
+<p begin="00:23:55.669" end="00:23:58.789" style="s2">there&#39;s one hopeful part of this is I&#39;ve</p>
+<p begin="00:23:57.169" end="00:24:00.980" style="s2">been thinking about the network dynamics</p>
+<p begin="00:23:58.789" end="00:24:03.649" style="s2">let&#39;s say the smashing the curve works</p>
+<p begin="00:24:00.980" end="00:24:05.840" style="s2">we see a crash in the number of new</p>
+<p begin="00:24:03.649" end="00:24:11.029" style="s2">cases to gets down to a very low number</p>
+<p begin="00:24:05.840" end="00:24:13.190" style="s2">in late June and early July but we ramp</p>
+<p begin="00:24:11.029" end="00:24:17.570" style="s2">up testing then when the inevitable</p>
+<p begin="00:24:13.190" end="00:24:19.970" style="s2">hotspots reflet first and we&#39;ll hit one</p>
+<p begin="00:24:17.570" end="00:24:21.290" style="s2">and yet we built up this big reserve of</p>
+<p begin="00:24:19.970" end="00:24:23.600" style="s2">ventilators and</p>
+<p begin="00:24:21.290" end="00:24:25.310" style="s2">you know 15-minute test equipment we</p>
+<p begin="00:24:23.600" end="00:24:26.600" style="s2">should be able to mobilize them very</p>
+<p begin="00:24:25.310" end="00:24:29.360" style="s2">rapidly if necessary have the Marine</p>
+<p begin="00:24:26.600" end="00:24:33.310" style="s2">Corps fly men on helicopters and swarm</p>
+<p begin="00:24:29.360" end="00:24:37.490" style="s2">these new hot spots with 15-minute tests</p>
+<p begin="00:24:33.310" end="00:24:39.020" style="s2">you know with anybody testing etc and if</p>
+<p begin="00:24:37.490" end="00:24:40.730" style="s2">we need to shut them back down again</p>
+<p begin="00:24:39.020" end="00:24:42.770" style="s2">maybe it&#39;s just a County in a little</p>
+<p begin="00:24:40.730" end="00:24:44.780" style="s2">County in West Virginia that somehow</p>
+<p begin="00:24:42.770" end="00:24:47.270" style="s2">never had any disease at all so has no</p>
+<p begin="00:24:44.780" end="00:24:49.670" style="s2">immunity somehow somebody visits from</p>
+<p begin="00:24:47.270" end="00:24:52.310" style="s2">someplace get started flares up but if</p>
+<p begin="00:24:49.670" end="00:24:53.330" style="s2">we do a high enough level of testing you</p>
+<p begin="00:24:52.310" end="00:24:55.190" style="s2">know we&#39;ll be able to detect it early</p>
+<p begin="00:24:53.330" end="00:24:57.260" style="s2">and because we&#39;ve already mobilized all</p>
+<p begin="00:24:55.190" end="00:25:00.350" style="s2">the equipment and stuff we can fly it in</p>
+<p begin="00:24:57.260" end="00:25:02.570" style="s2">and squash it but to do that requires a</p>
+<p begin="00:25:00.350" end="00:25:06.440" style="s2">warfighting data-driven model driven</p>
+<p begin="00:25:02.570" end="00:25:09.800" style="s2">mentality which so far is only slowly</p>
+<p begin="00:25:06.440" end="00:25:13.130" style="s2">spinning up absolutely I mean it really</p>
+<p begin="00:25:09.800" end="00:25:15.590" style="s2">has to be an organized effort so two</p>
+<p begin="00:25:13.130" end="00:25:19.250" style="s2">things that you touched on which really</p>
+<p begin="00:25:15.590" end="00:25:21.800" style="s2">I think are worth emphasizing and</p>
+<p begin="00:25:19.250" end="00:25:26.030" style="s2">thinking about more no I love this idea</p>
+<p begin="00:25:21.800" end="00:25:29.030" style="s2">of doing antibody testing you know there</p>
+<p begin="00:25:26.030" end="00:25:31.280" style="s2">is a little bit of a concern that people</p>
+<p begin="00:25:29.030" end="00:25:34.940" style="s2">who want to go back to work will</p>
+<p begin="00:25:31.280" end="00:25:37.520" style="s2">intentionally get the virus so that they</p>
+<p begin="00:25:34.940" end="00:25:40.880" style="s2">can now be card-carrying certified</p>
+<p begin="00:25:37.520" end="00:25:44.810" style="s2">recovered so that&#39;s something to worry</p>
+<p begin="00:25:40.880" end="00:25:46.820" style="s2">about and then another thing is to think</p>
+<p begin="00:25:44.810" end="00:25:49.790" style="s2">about the timing to use some of these</p>
+<p begin="00:25:46.820" end="00:25:53.870" style="s2">mathematical network based models to</p>
+<p begin="00:25:49.790" end="00:25:58.130" style="s2">really time the intervention strategies</p>
+<p begin="00:25:53.870" end="00:26:00.770" style="s2">and the social distancing requirements</p>
+<p begin="00:25:58.130" end="00:26:03.500" style="s2">at various times because what I suspect</p>
+<p begin="00:26:00.770" end="00:26:05.420" style="s2">on the backside of the curve also as it</p>
+<p begin="00:26:03.500" end="00:26:07.490" style="s2">was in the front side of the curve you</p>
+<p begin="00:26:05.420" end="00:26:12.380" style="s2">need to start changing people&#39;s behavior</p>
+<p begin="00:26:07.490" end="00:26:14.720" style="s2">before it looks bad absolutely or you</p>
+<p begin="00:26:12.380" end="00:26:17.210" style="s2">know the hospital system is overwhelmed</p>
+<p begin="00:26:14.720" end="00:26:19.370" style="s2">it&#39;s kind of hard to convince people to</p>
+<p begin="00:26:17.210" end="00:26:22.910" style="s2">change their behavior when things aren&#39;t</p>
+<p begin="00:26:19.370" end="00:26:26.300" style="s2">looking too bad so the timing of those</p>
+<p begin="00:26:22.910" end="00:26:28.850" style="s2">strategies is something that we really</p>
+<p begin="00:26:26.300" end="00:26:31.430" style="s2">need this combination of data analysis</p>
+<p begin="00:26:28.850" end="00:26:35.110" style="s2">and mathematical modeling to get right</p>
+<p begin="00:26:31.430" end="00:26:38.020" style="s2">yeah in fact just Aflac told me</p>
+<p begin="00:26:35.110" end="00:26:39.309" style="s2">I did the other day I can&#39;t find it on</p>
+<p begin="00:26:38.020" end="00:26:42.010" style="s2">the internet but she said that Paul</p>
+<p begin="00:26:39.309" end="00:26:45.670" style="s2">Romer was suggesting that it was worth</p>
+<p begin="00:26:42.010" end="00:26:48.670" style="s2">economically worthwhile to do was at 20</p>
+<p begin="00:26:45.670" end="00:26:50.710" style="s2">million tests a day so that we had</p>
+<p begin="00:26:48.670" end="00:26:53.350" style="s2">essentially instant information on any</p>
+<p begin="00:26:50.710" end="00:26:55.330" style="s2">flare-up so we&#39;re not waiting for you</p>
+<p begin="00:26:53.350" end="00:26:57.280" style="s2">know hospitals to be overrun but we find</p>
+<p begin="00:26:55.330" end="00:27:00.280" style="s2">in this county in West Virginia three</p>
+<p begin="00:26:57.280" end="00:27:02.309" style="s2">cases where there had been none for you</p>
+<p begin="00:27:00.280" end="00:27:05.290" style="s2">know six months and then we immediately</p>
+<p begin="00:27:02.309" end="00:27:08.200" style="s2">marshal the resources to squash it so</p>
+<p begin="00:27:05.290" end="00:27:09.910" style="s2">it&#39;s a you know you have modeling you</p>
+<p begin="00:27:08.200" end="00:27:11.740" style="s2">and you have data and you have the</p>
+<p begin="00:27:09.910" end="00:27:13.840" style="s2">ability to instantly respond and you</p>
+<p begin="00:27:11.740" end="00:27:16.480" style="s2">don&#39;t wait for weeks to go by for these</p>
+<p begin="00:27:13.840" end="00:27:18.309" style="s2">massive for these high-volume signals to</p>
+<p begin="00:27:16.480" end="00:27:19.960" style="s2">occur it&#39;s kind of an interesting idea</p>
+<p begin="00:27:18.309" end="00:27:21.220" style="s2">and I think you say it would cost three</p>
+<p begin="00:27:19.960" end="00:27:22.740" style="s2">hundred fifty billion dollars or</p>
+<p begin="00:27:21.220" end="00:27:25.150" style="s2">something but it&#39;d be money well spent</p>
+<p begin="00:27:22.740" end="00:27:26.919" style="s2">so I think this kind of thinking is what</p>
+<p begin="00:27:25.150" end="00:27:29.860" style="s2">managing the back side of the curve is</p>
+<p begin="00:27:26.919" end="00:27:32.559" style="s2">going to be all about right absolutely I</p>
+<p begin="00:27:29.860" end="00:27:35.679" style="s2">hadn&#39;t thought about how that investment</p>
+<p begin="00:27:32.559" end="00:27:39.880" style="s2">might be really sensible from from an</p>
+<p begin="00:27:35.679" end="00:27:42.790" style="s2">economic payoff certainly from from an</p>
+<p begin="00:27:39.880" end="00:27:44.650" style="s2">ability to change the backside of the</p>
+<p begin="00:27:42.790" end="00:27:47.410" style="s2">curve absolutely it&#39;s gonna change</p>
+<p begin="00:27:44.650" end="00:27:50.530" style="s2">things and so I think it is a good</p>
+<p begin="00:27:47.410" end="00:27:53.549" style="s2">investment because by waiting and having</p>
+<p begin="00:27:50.530" end="00:27:58.120" style="s2">to quarantine and shut so many things so</p>
+<p begin="00:27:53.549" end="00:28:00.520" style="s2">many industries down it&#39;s a huge</p>
+<p begin="00:27:58.120" end="00:28:03.970" style="s2">economic impact but if we could have</p>
+<p begin="00:28:00.520" end="00:28:07.419" style="s2">really large-scale testing I mean it</p>
+<p begin="00:28:03.970" end="00:28:11.799" style="s2">would be very costly but it&#39;s great you</p>
+<p begin="00:28:07.419" end="00:28:15.690" style="s2">know to really see that analysis done to</p>
+<p begin="00:28:11.799" end="00:28:18.250" style="s2">see the economic benefits of that and I</p>
+<p begin="00:28:15.690" end="00:28:20.140" style="s2">look at the stock market alone how much</p>
+<p begin="00:28:18.250" end="00:28:23.260" style="s2">does it lost six trillion dollars</p>
+<p begin="00:28:20.140" end="00:28:25.960" style="s2">something like that and that&#39;s a you</p>
+<p begin="00:28:23.260" end="00:28:28.260" style="s2">know two hundred million two hundred</p>
+<p begin="00:28:25.960" end="00:28:32.410" style="s2">billion dollar year investment in</p>
+<p begin="00:28:28.260" end="00:28:35.080" style="s2">absolutely ubiquitous testing be</p>
+<p begin="00:28:32.410" end="00:28:37.000" style="s2">damn cheap to get our economy back to</p>
+<p begin="00:28:35.080" end="00:28:39.250" style="s2">work and as this kind of thinking</p>
+<p begin="00:28:37.000" end="00:28:41.460" style="s2">informed by modeling and exactly the</p>
+<p begin="00:28:39.250" end="00:28:43.059" style="s2">kind of network analysis combined with</p>
+<p begin="00:28:41.460" end="00:28:45.630" style="s2">epidemiology that we&#39;ve been talking</p>
+<p begin="00:28:43.059" end="00:28:47.980" style="s2">about is what we need to be driving</p>
+<p begin="00:28:45.630" end="00:28:48.940" style="s2">whoever&#39;s in charge of thinking through</p>
+<p begin="00:28:47.980" end="00:28:51.610" style="s2">the strategy on the</p>
+<p begin="00:28:48.940" end="00:28:53.890" style="s2">backside of the curve and I wonder if we</p>
+<p begin="00:28:51.610" end="00:28:55.630" style="s2">could get companies involved like big</p>
+<p begin="00:28:53.890" end="00:28:58.150" style="s2">companies involved in this somehow to</p>
+<p begin="00:28:55.630" end="00:29:01.210" style="s2">say well you guys could send your full</p>
+<p begin="00:28:58.150" end="00:29:05.020" style="s2">workforce back to work if you agree to</p>
+<p begin="00:29:01.210" end="00:29:07.090" style="s2">pay for the testing yep frankly I&#39;ve</p>
+<p begin="00:29:05.020" end="00:29:10.000" style="s2">been you know writing down business</p>
+<p begin="00:29:07.090" end="00:29:11.620" style="s2">ideas that this epidemic produces and</p>
+<p begin="00:29:10.000" end="00:29:13.480" style="s2">one of the ones near the top of the list</p>
+<p begin="00:29:11.620" end="00:29:16.480" style="s2">is a business that does nothing but</p>
+<p begin="00:29:13.480" end="00:29:19.720" style="s2">certify people to be for their immunity</p>
+<p begin="00:29:16.480" end="00:29:23.470" style="s2">and so a company could hire this company</p>
+<p begin="00:29:19.720" end="00:29:26.980" style="s2">you know rut go four hundred dollars per</p>
+<p begin="00:29:23.470" end="00:29:28.330" style="s2">employee to certify them as immune and</p>
+<p begin="00:29:26.980" end="00:29:31.390" style="s2">of course we have to have some caveats</p>
+<p begin="00:29:28.330" end="00:29:32.860" style="s2">tests aren&#39;t always accurate but if you</p>
+<p begin="00:29:31.390" end="00:29:35.080" style="s2">wanted to be more accurate you have them</p>
+<p begin="00:29:32.860" end="00:29:38.170" style="s2">tested twice right and we&#39;ll cart charge</p>
+<p begin="00:29:35.080" end="00:29:41.620" style="s2">you $200 and that will take the you know</p>
+<p begin="00:29:38.170" end="00:29:44.110" style="s2">basically the product of the error rates</p>
+<p begin="00:29:41.620" end="00:29:46.930" style="s2">so the error rate goes way down and they</p>
+<p begin="00:29:44.110" end="00:29:49.330" style="s2">also want to certify you also want the</p>
+<p begin="00:29:46.930" end="00:29:52.150" style="s2">company to monitor people who are</p>
+<p begin="00:29:49.330" end="00:29:54.010" style="s2">susceptible and continually monitor them</p>
+<p begin="00:29:52.150" end="00:29:56.320" style="s2">so it would be nice for them to be able</p>
+<p begin="00:29:54.010" end="00:29:59.200" style="s2">to go back to work too but we&#39;re trying</p>
+<p begin="00:29:56.320" end="00:30:01.720" style="s2">to guarantee a pretty safe environment</p>
+<p begin="00:29:59.200" end="00:30:03.850" style="s2">and to do this we keep testing the</p>
+<p begin="00:30:01.720" end="00:30:06.220" style="s2">susceptibles all the time yeah that&#39;s</p>
+<p begin="00:30:03.850" end="00:30:08.590" style="s2">the Paul Romer army 20 million tests a</p>
+<p begin="00:30:06.220" end="00:30:10.690" style="s2">week a day I think it was it some crazy</p>
+<p begin="00:30:08.590" end="00:30:12.520" style="s2">number but you&#39;re basically constant</p>
+<p begin="00:30:10.690" end="00:30:14.020" style="s2">surveillance everywhere so it&#39;s</p>
+<p begin="00:30:12.520" end="00:30:16.510" style="s2">relatively safe to go back to your</p>
+<p begin="00:30:14.020" end="00:30:20.170" style="s2">office as long as you know that if Sally</p>
+<p begin="00:30:16.510" end="00:30:21.400" style="s2">at the other end of your floor is got</p>
+<p begin="00:30:20.170" end="00:30:23.980" style="s2">the disease even though she&#39;s</p>
+<p begin="00:30:21.400" end="00:30:26.680" style="s2">pre-symptomatic and it&#39;s then told she</p>
+<p begin="00:30:23.980" end="00:30:28.990" style="s2">has to go quarantine for 15 days your</p>
+<p begin="00:30:26.680" end="00:30:30.670" style="s2">risks go way way down and if you know if</p>
+<p begin="00:30:28.990" end="00:30:32.350" style="s2">you&#39;re young and healthy it probably</p>
+<p begin="00:30:30.670" end="00:30:34.690" style="s2">makes sense to go back to work so again</p>
+<p begin="00:30:32.350" end="00:30:37.300" style="s2">you know thinking holistically about</p>
+<p begin="00:30:34.690" end="00:30:40.870" style="s2">networks propagations interventions</p>
+<p begin="00:30:37.300" end="00:30:42.790" style="s2">testing mobilization I believe that if</p>
+<p begin="00:30:40.870" end="00:30:44.740" style="s2">we did this right we could manage the</p>
+<p begin="00:30:42.790" end="00:30:47.170" style="s2">back side of the curve so that we did</p>
+<p begin="00:30:44.740" end="00:30:50.140" style="s2">not get a second peak until the vaccine</p>
+<p begin="00:30:47.170" end="00:30:53.800" style="s2">gets here but it will require a very</p>
+<p begin="00:30:50.140" end="00:30:55.990" style="s2">fancy dance to do it and I sure the hell</p>
+<p begin="00:30:53.800" end="00:31:00.760" style="s2">hope the powers that be are able to</p>
+<p begin="00:30:55.990" end="00:31:02.890" style="s2">organize a set of talent skills analysis</p>
+<p begin="00:31:00.760" end="00:31:05.290" style="s2">and action taking sufficient to do</p>
+<p begin="00:31:02.890" end="00:31:07.810" style="s2">it&#39;s doable and it will allow our</p>
+<p begin="00:31:05.290" end="00:31:10.030" style="s2">economy to restart it&#39;ll save probably</p>
+<p begin="00:31:07.810" end="00:31:12.280" style="s2">at least as many deaths and disabilities</p>
+<p begin="00:31:10.030" end="00:31:14.980" style="s2">as have happened from the first wave but</p>
+<p begin="00:31:12.280" end="00:31:16.860" style="s2">it&#39;s going to require smarter footwork</p>
+<p begin="00:31:14.980" end="00:31:20.050" style="s2">than we&#39;ve seen on the front side I</p>
+<p begin="00:31:16.860" end="00:31:21.730" style="s2">totally agree the backside is the</p>
+<p begin="00:31:20.050" end="00:31:24.970" style="s2">challenge that we all need to put our</p>
+<p begin="00:31:21.730" end="00:31:27.400" style="s2">minds to now okay well thank you</p>
+<p begin="00:31:24.970" end="00:31:29.620" style="s2">Michelle this has been a wonderful</p>
+<p begin="00:31:27.400" end="00:31:32.530" style="s2">episode exactly what I was hoping but</p>
+<p begin="00:31:29.620" end="00:31:36.330" style="s2">before we sign off I&#39;d like you to tell</p>
+<p begin="00:31:32.530" end="00:31:39.790" style="s2">our audience about a zoom based course</p>
+<p begin="00:31:36.330" end="00:31:44.740" style="s2">that you guys are offering on network</p>
+<p begin="00:31:39.790" end="00:31:46.480" style="s2">epidemiology so I direct the combined</p>
+<p begin="00:31:44.740" end="00:31:49.240" style="s2">program at the University of Maryland</p>
+<p begin="00:31:46.480" end="00:31:52.360" style="s2">combined stands for computation and</p>
+<p begin="00:31:49.240" end="00:31:55.000" style="s2">mathematics in biological networks so</p>
+<p begin="00:31:52.360" end="00:31:57.130" style="s2">network epidemiology is an important</p>
+<p begin="00:31:55.000" end="00:32:01.540" style="s2">focus within the field of biological</p>
+<p begin="00:31:57.130" end="00:32:03.820" style="s2">networks and when we shifted to an</p>
+<p begin="00:32:01.540" end="00:32:07.090" style="s2">online environment I thought okay well</p>
+<p begin="00:32:03.820" end="00:32:10.000" style="s2">I&#39;m not my combining fellows to stay in</p>
+<p begin="00:32:07.090" end="00:32:13.060" style="s2">touch so let&#39;s do a little series on</p>
+<p begin="00:32:10.000" end="00:32:15.100" style="s2">network epidemiology but then I thought</p>
+<p begin="00:32:13.060" end="00:32:16.720" style="s2">well if we&#39;re gonna do an online series</p>
+<p begin="00:32:15.100" end="00:32:19.060" style="s2">there are a lot of people who might want</p>
+<p begin="00:32:16.720" end="00:32:22.150" style="s2">to learn about this so why not have a</p>
+<p begin="00:32:19.060" end="00:32:26.680" style="s2">bigger reach so then we partnered with</p>
+<p begin="00:32:22.150" end="00:32:28.990" style="s2">the Vermont complex system Center Santa</p>
+<p begin="00:32:26.680" end="00:32:32.170" style="s2">Fe Institute sent out a bunch of</p>
+<p begin="00:32:28.990" end="00:32:35.530" style="s2">announcements for us and we got a whole</p>
+<p begin="00:32:32.170" end="00:32:38.970" style="s2">bunch of people involved in this online</p>
+<p begin="00:32:35.530" end="00:32:41.650" style="s2">series on understanding and exploring</p>
+<p begin="00:32:38.970" end="00:32:45.670" style="s2">network epidemiology and the time of</p>
+<p begin="00:32:41.650" end="00:32:48.460" style="s2">coronavirus so this is a four week</p>
+<p begin="00:32:45.670" end="00:32:50.860" style="s2">series meeting once a week we have</p>
+<p begin="00:32:48.460" end="00:32:54.730" style="s2">tutorials and seminars but then we have</p>
+<p begin="00:32:50.860" end="00:32:58.540" style="s2">discussion sections and we have people</p>
+<p begin="00:32:54.730" end="00:33:01.810" style="s2">sign up to participate in group projects</p>
+<p begin="00:32:58.540" end="00:33:07.690" style="s2">and so they&#39;re all self-organizing on a</p>
+<p begin="00:33:01.810" end="00:33:10.390" style="s2">slack site so the live online sessions</p>
+<p begin="00:33:07.690" end="00:33:13.660" style="s2">are already oversubscribed</p>
+<p begin="00:33:10.390" end="00:33:16.480" style="s2">had many more excellent dedicated</p>
+<p begin="00:33:13.660" end="00:33:19.390" style="s2">applicants than we could accommodate but</p>
+<p begin="00:33:16.480" end="00:33:22.270" style="s2">we want true we want these resources to</p>
+<p begin="00:33:19.390" end="00:33:24.340" style="s2">reach anyone who is interested so we&#39;re</p>
+<p begin="00:33:22.270" end="00:33:26.770" style="s2">putting everything on our YouTube</p>
+<p begin="00:33:24.340" end="00:33:29.880" style="s2">channel so you can get to our YouTube</p>
+<p begin="00:33:26.770" end="00:33:36.400" style="s2">channel from the main combined website</p>
+<p begin="00:33:29.880" end="00:33:40.510" style="s2">combined is combined UMD edu you can</p>
+<p begin="00:33:36.400" end="00:33:42.670" style="s2">also google combined UMD and find those</p>
+<p begin="00:33:40.510" end="00:33:45.420" style="s2">videos we had an excellent tutorial</p>
+<p begin="00:33:42.670" end="00:33:48.970" style="s2">yesterday introducing us to network</p>
+<p begin="00:33:45.420" end="00:33:52.510" style="s2">epidemiology by Laurent Abair Dufresne</p>
+<p begin="00:33:48.970" end="00:33:54.670" style="s2">from the University of Vermont who&#39;s</p>
+<p begin="00:33:52.510" end="00:33:57.310" style="s2">done some really excellent work on</p>
+<p begin="00:33:54.670" end="00:34:02.080" style="s2">network epidemiology in general and also</p>
+<p begin="00:33:57.310" end="00:34:04.480" style="s2">on coronavirus or commit nineteen so and</p>
+<p begin="00:34:02.080" end="00:34:08.399" style="s2">as always we will have these links on</p>
+<p begin="00:34:04.480" end="00:34:10.870" style="s2">the episode page for Michelle&#39;s podcast</p>
+<p begin="00:34:08.399" end="00:34:14.850" style="s2">Thank You Michelle this has been</p>
+<p begin="00:34:10.870" end="00:34:17.780" style="s2">absolutely wonderful thank you</p>
+<p begin="00:34:14.850" end="00:34:20.280" style="s2">[Music]</p>
+<p begin="00:34:17.780" end="00:34:23.190" style="s2">production services and audio editing by</p>
+<p begin="00:34:20.280" end="00:34:27.770" style="s2">jerod Jane&#39;s consulting music by Tom</p>
+<p begin="00:34:23.190" end="00:34:32.829" style="s2">Muller at modern space music com</p>
+<p begin="00:34:27.770" end="00:34:32.829" style="s2">[Music]</p>
+</div>
+</body>
+</tt>

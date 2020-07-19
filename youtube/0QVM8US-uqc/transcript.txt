@@ -1,0 +1,1740 @@
+howdy this is Jim rut and this is the
+Jim rut show listeners have asked us to
+provide pointers some of the resources
+we talked about on the show we now have
+links to books and articles referenced
+in recent podcasts that are available on
+our website
+we also offer full transcripts go to jim
+rut show com that's Jim rut show com
+today's guest is John Koza founder of
+national popular vote Inc good morning
+Jim it's great to be here great to have
+you on John you know I don't know how
+long we've known each other but it's
+been quite a while and great to have you
+on the Jim Rutz show for those who don't
+know John he has one of the most
+incredible resumes of anybody I've known
+in fact maybe the most incredible back
+in 1973 he founded Scientific Games Inc
+the inventor of the scratch off lottery
+ticket which was introduced in the 1970s
+in fact I remember the great hoop lob
+round it when it was introduced in
+Maryland in 1976 I was working at a car
+dealership and I can recall all the
+other car salesmen other than me never
+found the dumbass gambling attractive
+we're like utterly sucked into this
+stuff they were constantly dashing
+across the street to the local liquor
+store to buy more scratch off lottery
+tickets and that was a huge success
+needless to say we go to any convenience
+store in most states we see racks and
+racks and racks of these scratch off
+lottery tickets that was John's
+invention next in the 1980s John
+invented genetic programming basically
+the application of genetic computation
+to the evolution of computer code this
+was again another huge and seminal
+invention which is in widespread use
+today to chip design software companies
+I helped launch use genetic program near
+the core of their products and both of
+those companies were successful third
+and I don't want to say finally because
+who knows what John will come up with
+next in 2006 John launched national
+popular vote an audacious move to
+replace the electoral college in
+presidential elections without requiring
+amending of the Constitution
+let's now jump in with the first John
+won't you tell us a little bit about the
+scratch off lottery ticket how did you
+come up with that idea well while I was
+a graduate student at the University of
+Michigan in the 1960s I had a part-time
+job doing computer programming for a
+company that made commercial promotional
+games the kind of games that were run at
+the time of in gas stations and
+supermarkets to increase sales and one
+of the categories of games they had were
+called probability games and these were
+game tickets where the customer would
+only rub off a subset of the number of
+rub off spots on the ticket maybe three
+out of 12 and if the right symbols were
+under the three spots that the customer
+chose they would win a prize these were
+called probability games because every
+single ticket was a potential winner of
+perhaps $100 so the tickets obviously
+had to have a secure covering and that
+was a technology it existed at the time
+but more importantly if you were
+offering $100 in each ticket savvy
+customers and in particular savvy clerks
+in the gas stations and supermarkets
+might be able to find the winning spots
+on tickets by looking at little printing
+irregularities that existed on the
+tickets so there was a problem of how do
+I make these tickets secure though that
+you could offer a prize perhaps $100
+cash on every ticket and do so safely
+without causing the supermarket or gas
+station to go bankrupt
+okay had that been lead to the lottery
+ticket well we did successfully produce
+these probability games for commercial
+clients in the late 60s and early 70s
+and we did so securely and we did it by
+printing roughly a half a million
+different ticket combinations so that if
+you rub the first spot even if there was
+a printing irregularity on the exterior
+or the under the spot that a person
+might notice
+would be d correlated with what was on
+other spots on the ticket and the way we
+did that is if there were 12 spots on
+the ticket
+we might print four of the spots on one
+pass and this is at a time when you were
+printing tickets on big sheets
+lithographically you might have ten
+different kinds of sheets each would say
+a hundred tickets so you'd have a
+thousand different patterns that would
+not be sufficient to provide security
+because if you had a given symbol under
+a given spot a thousand is simply not
+enough to D correlate with what's on the
+other spot so then we would take these
+big stacks of sheets and ten stacks we'd
+collate the sheets one by one and then
+print ten more print four spots each on
+each of the thousand tickets so that now
+there were eight of the twelve spots and
+then we would again gather up the sheets
+one by one and do it a third time so
+that we would get roughly 1/2 million
+different combinations of tickets and in
+particularly there'd be no correlation
+between a East spot that you might
+uncover with one rub and where that
+desirable second and third symbol would
+be on the ticket so we're able to
+produce a secure game that offered a
+very substantial prize that I'm a
+hundred dollars on each and every ticket
+and do so securely now what does that
+have to do with state lotteries well the
+state lotteries were just getting
+started in the 60s there were just a
+handful of them and they were all
+running rather uninteresting raffle type
+games where they would print tickets
+with say a six digit number and once a
+week they hold a drawing and if you
+match the number or part of the number
+you went a prize so there was no
+immediate gratification there was no
+particular excitement or artistic ness
+or attractiveness to the tickets and
+sales were languishing in all the state
+lotteries so we had the idea when I was
+work
+for this commercial game company of
+saying well if the state lotteries could
+have an instant gratification use this
+rub off technology and all those states
+would not want to run a probability game
+that would would have been much too
+risky for a state government to
+undertake we could take this super
+secure technology that was good enough
+to offer a substantial price on every
+ticket and run a controlled game where
+the winners were predetermined and
+pre-printed and again successfully
+prevent any clerk in a store from
+finding the winning tickets plucking
+them out so that the consuming public
+wouldn't beginning the winners so we
+saddled was called the agent pick on a
+problem for control games which is could
+the clerk's who were selling the tickets
+in these hundreds of convenience stores
+around the state so that they couldn't
+pick out the winning tickets though I do
+remember in Maryland again my home state
+there was a big scandal because it
+turned out there was a way to do it
+which was that the winning tickets were
+slightly smaller than the non winning
+tickets I don't know if they were
+printed separately before they were
+mixed in or what and there was a gang of
+criminals that went around to all the
+convenience stores and all the liquor
+stores and paid the clerk some amount of
+money to go through the tickets and
+measure them and were able to pull out
+the winners so there was at least one
+way somebody did hack that particular
+problem of course they fixed that but an
+example of how smart adversarial agents
+were that was of course a commercial
+gain out of the state lottery there was
+never an incidence of successful pick
+out in a state lottery no that was the
+scratch-off Maryland State Lottery they
+were able to hack it based on the sides
+of card I do recall that quite vividly I
+believe it was probably in the late 70s
+maybe early eighties well they fixed it
+it was you know probably a problem where
+they're having imprinted into different
+printers and the size of stock was just
+slightly smaller on the winners but
+anyway so you developed this technology
+so that no one could get through the
+print or at least out of the the cover
+thing though I imagine you could
+probably do it with electro
+microscope or something but not
+worthwhile to do it a clerk ripoff level
+how did that then turn into a company
+and how did you convince the states to
+do this well because we did have a
+secure method of printing the tickets
+and I don't know what you remember but I
+can assure you none of the tickets
+produced by scientific games had ever
+been compromised in that fashion
+perhaps they ran a game with somebody
+else that I was aware of but we had a
+method to securely print the tickets so
+that there would be no agent picked out
+and we first convinced the Massachusetts
+lottery to run an instant lottery which
+was a very big step at the time because
+they were introducing a new type of game
+with this potential agent pick out
+problem and they did that in the spring
+of 1974 it was immediately very
+successful tripled the sales of the
+Massachusetts lottery and every
+subsequent lottery that adopted it and
+that was the beginning of our company
+scientific games our business was
+selling instant lottery tickets to state
+lotteries cool and did you guys
+basically own that business or was it
+what do you have competitors well when
+we started we were actually the fifth
+company to get the contract from the
+Massachusetts Lottery to run their
+instant game but each of the previous
+four companies that got the contract
+which included some very well-known now
+banknote printing companies each of them
+when they printed the sample tickets for
+the lottery the lottery was able to
+compromise the tickets from the
+contracts were cancelled so we were the
+fifth company to get a contract and we
+successfully printed a secured ticket
+and got it on the street and produced
+the commercial success and from that we
+went to all the other states at the time
+and offered the instant lottery and of
+course the state lotteries were quite
+anxious to start running the instant
+lottery yeah and as you say they're big
+big business for the states today what
+do you think of the morality of things
+like that
+I've read fair amount that says that you
+know the use of these kinds particularly
+the scratch-off lottery is inversely
+proportional to people's incomes well I
+haven't been about in the lottery
+business for thirty years but it was
+definitely not the case when I was there
+in fact we did the extensive marketing
+studies Danskin lottery had a actually
+higher income profile than lotteries in
+general that is the raffle type lottery
+or the lotto games that came along
+mainly because the ticket was a more
+expensive ticket it was a dollar ticket
+at the time whereas other lottery ticket
+were fifty cents so at least at the time
+when I was involved in the business
+which was until the late eighties the
+demographics of the incident ticket was
+distinctly not lower income it was
+distinctly middle income okay well
+that's good well that's enough on the
+lottery again an amazing insight and
+innovation and invention and then take
+the market with high quality let's move
+next to genetic programming as I
+understand it you were a student of John
+Holland's who's one of my heroes fact
+his book adaptation and natural and
+artificial systems was the first book
+that I read in the area of evolutionary
+computation and it drew me into working
+in that area and then eventually into
+the area of complex science maybe you
+start a little bit with your work with
+John Holland and then how that led to
+genetic programming well again while I
+was a student of John Holland's in the
+late 60s and early 70s in the computer
+science department at the University of
+Michigan and he was my thesis advisor he
+had invented the genetic algorithms in
+the mid 60s
+which is an evolutionary computation
+technique that is useful for solving a
+lot of engineering and optimization
+problems in an automated way and it's a
+matter of fact as I was a graduate
+student working on their PhD thesis that
+was at the same time I was doing the
+part-time consulting for the game
+company that was producing the
+probability games in any case I I had
+gotten interested in the notion of
+automatically
+ramming computers to solve problems in
+1963 I was in John Holland's one of his
+courses I was an undergraduate at the
+time and he had of course I'm adaptive
+systems and one of the papers we read
+was freiburg's paper on trying to have a
+computer automatically learn how to
+program itself to solve a problem and
+that was through a mutational method and
+I was very taken by that idea at the
+time and my eventual PhD thesis was
+somewhat related to that it was not
+actually a thesis on genetic programming
+it was attempted algorithm to infer
+grammar from data but inferring a
+grammar from data it can be seen as a
+way of writing a computer program in any
+case my thesis was sort of inspired from
+the field of genetic algorithms even
+though it wasn't in the field of genetic
+algorithms and it was inspired by this
+idea of trying to get computers to
+program themselves even though it wasn't
+exactly that so from somewhere around
+1976 right when John Holland's book came
+out and I was in the lottery business at
+the time and quite busy running around
+selling tickets to state lotteries I did
+buy a copy of his book right when it
+came out and as you were influenced by
+it so was I very good it's interesting
+for our audience if you could go into
+the basics a little bit just Vicki but
+very basic that we have a well-educated
+audience but not experts in either
+computer science or genetic or
+evolutionary algorithms how do genetic
+algorithms work and then how was that
+idea extended to genetic programming
+well the idea that genetic algorithm is
+a vaguely patterned after the notion of
+DNA that is you have a linear string of
+symbols with DNA it's four symbols in
+the classic simplest form of the genetic
+algorithm the string is just a binary
+string of ones and zeros and those ones
+and zeros mean something in relation to
+some problem for
+the first few symbols might together
+specify the size of an insect swing and
+maybe the next few symbols might specify
+the body color and maybe the next ones
+would be the type of clawed insect has
+etc so that the idea of the genetic
+algorithm was that there would be a
+string of ones and zeros that would
+represent something in the real world
+something perhaps you were trying to
+optimize and you would do the
+optimization in the following way first
+of all you would create a random
+population of these strings of ones and
+zeros maybe a thousand strings of length
+of say 50 and totally at random and then
+you would look at each of these random
+thousand individuals and say how good
+are these insects of doing whatever
+they're supposed to be doing maybe
+foraging and getting fat on the food to
+eat so you would assign a fitness to
+each of these thousand randomly chosen
+strings fitness being how good are the
+things that these strings represent it's
+solving the problem at hand which is say
+getting fat I'm happy that creates a
+population with Fitness which is
+somewhat similar to the Darwinian notion
+of natural selection and then the notion
+of the genetic algorithm is you start
+with the random population of
+individuals and you modify that
+population and create a new generation
+with a small part of that thousand maybe
+10% you just do a random mutation where
+you flip one of the bits from 0 to 1 or
+1 to 0 and that would correspond to a
+random mutation say of a DNA string the
+same sort of random mutation where if it
+happens at the wrong place can make the
+difference between having sickle-cell
+anemia because of having defective
+hemoglobin are not having sickle-cell
+anemia or cystic for a process or not
+having cystic fibrosis so mutation is a
+way to
+lately improve a given individual by
+making a very small very localized
+change and that notion of breeding a
+population of binary strings have been
+floating around since the late 40s
+actually one of the first computer runs
+on the computer that they had at the
+Center for Advanced Studies at Princeton
+was a simple genetic algorithm run made
+him I believe the late forties but what
+Holland added was the notion that the
+real engine of creation in nature and
+evolution is sexual reproduction where a
+major part of the genome this string of
+length 50 comes from one parent the
+other part of the string comes from
+another parent and this is roughly
+analogous to the way sexual reproduction
+occurs in simple genomes okay and that
+would be the bulk of the transformation
+that creates the new generation so maybe
+10% might be a mere copying based on
+reproduction and or some mutation but
+maybe 90% or 80% would be crossover that
+is the sexual recombination where you
+take a major part of the genome of one
+individual and you made it with a major
+part of the genome of a second
+individual creating an offspring that
+has a major number of characteristics
+from the father and a major number of
+characteristics from the mother so that
+takes us from the initial read of
+generation to the first generation and
+then the essence of the genetic
+algorithm is to go through many many
+generations maybe hundreds of
+generations or thousands and constantly
+refine the population based on a bit of
+just straight reproduction copying
+individual proportion we based on their
+fitness a tiny bit of mutation again
+selecting the individuals proportionate
+to their fitness but then a major
+portion of population being shuffled
+around in this
+very disruptive way called crossover to
+produce new individuals and it turns out
+you can solve a whole bunch of very
+interesting engineering optimization
+problems by using the genetic algorithm
+as well as a whole variety of other
+problems yeah that's quite remarkable I
+remember when I first started writing
+evolutionary computation you know you'd
+go holy moley I do nothing at all other
+than set up this environment and
+evolution itself drives the solution and
+for lots as you say many many problems
+it works sometimes it works very slowly
+I would often describe genetic
+algorithms or my own particular variant
+which was neural nets encoded as genetic
+algorithms back in 2001 I'd say it's a
+very general method but a very weak one
+and that it takes a very long time and a
+lot of computation to converge on a
+solution at least for a difficult
+problem I'd also like to highlight for
+our audience the key factor you
+mentioned it a couple of times I
+mentioned it again which is that these
+parents for the sexual reproduction of
+these genomes are selected in some
+fashion that's proportionate to their
+fitness now there's lots of different
+algorithms by which one may choose to
+select all right you might do rank order
+you might do weighted strength you know
+actually how strong the thing was
+relative to the alternative you might do
+tournament selection this is actually
+one I tended to use a lot which is I
+grabbed for parents have each of them
+play against each other and then the
+winner of each of those would reproduce
+and there are many many different ways
+to tune that proportional selection for
+reproduction and it turns out how you
+tune it tends to impact how quickly the
+genetic algorithm will converge towards
+a good answer now there is no right
+answer to all that from an important
+theorem which we discussed before on
+this show that no free lunch theorem
+there's no best way for all problems
+which is you know one of the challenges
+of these techniques is that the tunings
+the meta settings for evolutionary
+algorithms you can make some good
+guesses but at some level they're
+they're trial and error to get those
+things set correctly
+so that's the genetic algorithm could
+you explain to us how you extended the
+idea of genetic algorithm to the genetic
+program well as I said I got Holland's
+book in 1976 but I was the founder and
+CEO of a company that I was running at
+the time to someone lottery tickets to
+state governments so I was quite busy
+and I was sort of followed Pelham's
+achievements with the genetic algorithm
+and all the other people who at the idea
+and refined it and introduced all the
+technique Jim that you were just talking
+about different variations and ways of
+doing it but I was involved in the
+lottery business till 87 between 1973
+and 87 and this sort of an academic
+interest of mine to be watching what was
+going on in this new field of genetic
+algorithms so I left the lottery
+business in 87 and at that point I was
+as involved a little in venture capital
+but I got involved with some people in
+Stanford University in the computer
+science department and got to talking to
+them about genetic algorithms and said
+well wouldn't it be nice that there was
+a course at Stanford University on
+genetic algorithms so they appointed me
+as a consulting a faculty member
+ultimately a consulting professor and I
+started teaching a course at Stanford
+starting in 88 which was just about the
+time when the genetic algorithm field
+was really starting to take off and
+started to have conferences and public
+proceedings and lots of papers as
+opposed to one or two papers a year
+there would be you know a hundred papers
+a year in this growing field of genetic
+algorithms and of course what motivated
+me was still this memory of Freiburg's
+paper that I ran into in 1963 which was
+the notion that you could have a
+computer program itself mm now
+Freiburg's
+work was with binary strings and you
+could quickly see that by next
+not a particularly expressive way to
+deal with a problem like this so I said
+why couldn't we apply the genetic
+algorithm to pull computer programs and
+in particular hold computer programs in
+lits which was simply a functional
+programming or tree like representation
+of program so if you're doing an
+addiction you have a function addition
+and two arguments and you add them
+together and if one of those arguments
+do adding together was the product that
+stay multiplying two other numbers you
+would have this tree of operations so
+you can represent computer programs in
+functional programming languages as
+program trees and the interesting thing
+about program trees is that
+automatically suggest to you the idea of
+regarding a portion of a large program
+tree as part of a genome and if the
+program tree is just a little good at
+solving a problem and you've got another
+program tree over here that's just a
+little good at solving that same problem
+and you took a big chunk of one program
+tree from the father and another chunk
+of the program tree from the mother and
+you swapped those sub trees in effect
+you would be doing something like the
+genetic algorithm does when it takes a
+portion of a binary string but you'd be
+taking a coherent chunk of computer
+program and that's the notion behind
+genetic programming namely you start now
+with a population of a thousand randomly
+created binary strings of length 50 but
+you start out with a thousand computer
+programs each of which is a program tree
+containing multiplication and addition
+and conditional operations and maybe
+some cosines and Exponential's and some
+other things and you ask how good is
+this program at solving the problem you
+have
+how good is at doing a sorting algorithm
+how good is it at creating a polynomial
+that matches a given sample of data
+maybe the stock market data how good is
+this program at controlling the
+operation of a robot if the operations
+in the program are say moving forward
+and turning and moving backwards and
+reaching out and so forth so what you
+get by moving into the world of computer
+programs instead of binary strings is a
+much greater richness of expressiveness
+because you can have operations that are
+much more meaningful
+addition/subtraction
+move the robot forward shuffle the
+things if you're trying to develop a
+sorting algorithm and so forth the
+individual no population would be much
+more expressive and somehow it
+intuitively makes sense that if this
+program is somewhat good at solving the
+problem when this other program is
+somewhat good maybe if you cross over to
+the sexual recombination of part of one
+good program and part of another program
+and do it enough times that you'll get a
+offspring that's better than either of
+the parents at solving the problem and
+that's the essence of genetic
+programming you start with the random
+population of computer programs you run
+the program see how good they are at
+solving the problems based on their
+fitness it solving the problems you do a
+small amount of mutation at very small
+one or two percent a bit of reproduction
+maybe 10 percent and then you with 90
+percent of the population you do these
+crossovers where you take a big chunk of
+one program and cross it over with a big
+chunk of another program and see if you
+get something better and it turns out
+you can solve just an enormous variety
+of problems with this genetic
+programming technique whether they're
+data matching programs with we call
+symbolic regression or control problems
+of controlling a robot to do something
+or controller and the
+sense of a you know a PID controller or
+whether it's an electrical serpent is
+this a good filter circuit is this a
+good amplifier is this a good
+temperature sensing circuit etc turns
+out you can evolve computer programs
+that salvo just a wide variety of
+problems in optical lens design
+controller design antenna design data
+matching robot control 13 algorithms a
+number of people worked on quantum
+computing algorithms that they evolved
+with genetic programming and just a vast
+variety of problems yeah I'm always
+amazed when I see the ever-growing list
+of things that genetic programming can
+be applied to I mean what I remember
+from the relatively early days I think I
+actually saw you present on this at
+Gecko was that you had had your genetic
+programming environments had discovered
+some analog circuits that had actually
+been patented could you talk about that
+a little bit well yes so one of my
+things that interested me of course was
+doing what I would call the aim of
+course was to create some human
+competitive results with genetic
+programming and one of the categories
+we've worked on a lot was analog circuit
+design now there are all sorts of
+algorithms for digital circuit designs
+but analog circuit design is an art as
+is antenna design and controller design
+and frankly most engineering design
+problems are matter of art as well as
+mathematics and science so we said could
+we use this to automatically create
+analog electrical circuits that was one
+of the big projects we worked on and
+obviously you could use it on digital
+circuits that was quite straightforward
+but and the idea there was we we went
+back through the patent literature from
+the early 1910s and 20s when telephones
+was the leading technology and things
+like filters and amplifiers and feedback
+were big issues and we started saying
+well suppose we had a bunch of resistors
+and capacitors and inductors which is
+what the
+at that time period and telephones could
+you get an automated process that would
+just combine these common ingredients to
+produce circuits well what's the
+filtered well a loaf of pass filter is
+like the woofer on your hi-fi you know
+passes the low frequency signals through
+it freely and it suppresses the high
+frequency signal well it turns out if
+you create a random population of
+circuits and ask how good are these
+circuits at filtering a signal you can
+easily compute the fitness and see how
+well does it pass say frequencies from
+zero to a thousand and how well does it
+suppress frequencies from a thousand and
+above so you can compute fitness and
+then you can start slightly mutating a
+few and reproducing a few but more
+importantly crossing over circuits that
+just do a little well at filtering with
+each other and lo and behold we started
+evolving the Campbell filter which is
+the classic bladder filter of inductors
+and capacitors that was patented I think
+in 1917 if I recall and then of course
+there are all sorts of improved filters
+the Butterworth filters and the
+elliptical filters and the power filters
+and the M derived filters and so forth
+there's a whole johnson filters there
+are a whole variety of filters that had
+particular additional characteristics
+they were very good at creating a steep
+fall off or this or that or more in ten
+uation or what-have-you and we were able
+to reproduce about a half dozen of the
+filtered patents of the 1920s and 30s up
+including the elliptic filter which is
+an essentially one of the most
+complicated ones using genetic
+programming and then we got involved
+with all kinds of other circuits who
+said well transistors were invented at
+the late forties and early fifties why
+don't we throw in transistors as well as
+resistors and capacitors and lo and
+behold we started being able to evolve
+things that were patented in the 50s 60s
+and 70s with transistors that is
+significant inventions not just novelty
+toy circuits and then what you may have
+heard that gecko was after the new
+millennium rock we found six patented
+circuits that have been patented by
+different universities or big companies
+and we were able to recreate a circuit
+that performed as well or better than
+the patented circuit in six specific
+cases and in one of the specific cases
+the genetically valve circuit was
+essentially the patented circuit in five
+of the six the circuit was equivalent in
+performance the patented circuit but
+quite different in the way it solves the
+problem which is to say we were
+genetically evolving circuits that would
+avoid infringing the patented circuit so
+not only were reinventing things that
+were considered significant inventions
+by universities or companies at the time
+and worthy of patents but we were
+duplicating patents and creating a
+method to essentially avoid infringing
+existing patents by creating equivalent
+circuits but then we played the same
+game with optics now I had taken one
+Electrical Engineering course when I was
+graduating so I was I'm not an
+electrical engineer but I knew just a
+little about Electrical Engineering knew
+absolutely nothing about optics and with
+help of several programmers who also
+knew nothing about optics we were able
+to duplicate six 21st century optical
+pens that is we're able to genetically
+evolve a lens system that equaled or
+exceeded the performance of six lens
+systems that have been tended by big
+companies in the optical field so we
+demonstrated that this process now
+he worked in a important area electrical
+engineering but also in a another area
+where we could go into it with no
+particular expertise of our own about
+land systems that simply apply this
+domain independent well-established
+well-defined mechanical method and
+duplicate patents and we duplicated some
+antennas antenna patents and the
+controller patents and other people of
+course who've worked on this have
+created all sorts of interesting other
+inventions of quantum computer circuit
+programs and many other things yeah and
+again just an underline for our audience
+all these things were done untouched by
+human hands it was not like a bunch of
+high priced computer guys sit down and
+wrote this stuff these things were
+evolved which is amazing and I think I
+mentioned on the intro actually been
+involved in two companies that use
+genetic programming I was chairman of
+analog design automation which used
+genetic programming to improve human
+designed analog circuits and you know
+our lead investor was Intel we had all
+the big chip companies as our customers
+we ended up selling the company for a
+nice price my bus they say so to
+synopsis and then we had another company
+called cielito design automation which
+used genetic programming and and other
+techniques to optimize manufacturer
+ability of computer chips and again that
+company was very successful and was sold
+to Siemens not too long ago so there's
+are some real world really hard problems
+that GP has been applied to John do you
+keep up on the state of the art and GP
+and do you know of what's going on on
+the cutting edge these days well I've
+been staying closely involved with the
+annual human competitive competition
+which is now in its I think 20th year
+and every every year they run a
+competition where they give prizes or
+human competitive things that have been
+designed with any evolutionary
+computation technique genetic algorithms
+genetic programming or other techniques
+the majority of the prizes have gone in
+the genetic programming category but
+there have been a whole string of
+impressive results every year and if
+people go to wwhen - competitive that
+org they can look at the progression of
+increasingly impressive things that have
+won prizes over the last twenty or so
+years cool could you call out a couple
+that you were impressed by recently I
+personally was very impressed with Lee
+specters worked on quantum computer
+circuits and moshi sippers repeated
+winning a prizes both of them repeatedly
+of won prizes in that competition in the
+area of game playing but there's been
+just a whole number of other ones I
+don't mean to slide anybody else by
+having mentioned those - ah very good
+what an amazing idea you've had John and
+how far it's gone and so now let's move
+on to the third area of innovation and
+this is the national popular vote
+initiative could you start by telling us
+about it that's kind of a high level
+what the motivation was but then I'll
+ask you some more questions we'll go
+into some more detail well again that
+goes back to my very busy career as a
+graduate student at University of
+Michigan in the 60s so very busy on
+frankly everything but my thesis for
+most of the years I was in Ann Arbor so
+I was had this significant part-time job
+of programming for the game company
+while I was working on my thesis but of
+course graduate students Lana now were
+very occupied with playing games as any
+previous graduate student well knows and
+in the sixties a very complicated board
+games were very much the rage the Avalon
+Hill war games and an Avalon Hill had a
+number of other complicated games
+involving railroad switch yards and
+there was diplomacy and risk and a whole
+bunch of games
+Stratego but we got interested in
+creating our own game so it created a
+game based on the electoral college
+which was a topic of quite prominent
+debate in the 60s so we had this game
+that John Holland played with the
+graduate students we had a computer
+program that would run simultaneous with
+playing the game creating different
+statistical matrices so we could
+evaluate the state of the play at each
+stage and we would pretend to be
+presidential campus campaigning for
+president using the quarks and oddities
+of the electoral college so this game
+was called consensus which we actually
+published commercially lost the money on
+and sold 3,000 copies but this game was
+sort of always in the back of my mind
+how utterly ridiculous the electoral
+college is as a method for choosing the
+president and how subject it is to
+manipulation and producing odd results
+so in the 90s and 2000's particularly
+2004 election it had become increasingly
+clear that presidential campaigns had
+concentrated only on a handful of states
+when Kennedy ran in 60 he campaigned in
+35 states and Nixon campaigned in all 50
+when Kerry and Bush were campaigning in
+2004 almost the entire campaign law
+virtually the entire campaign was in a
+dozen states but essentially the whole
+campaign was in three stick and that's
+because under the current system the
+candidate who gets the most votes inside
+each state gets all of the state's
+electoral votes so if a state is 5% or
+6% in one direction it's really out of
+reach during a presidential three-month
+campaign so if you're running for
+president and you want to win you do all
+your campaigning in the states that are
+within one or two or three percent the
+so-called swing states or battleground
+state and this battleground that had
+been fairly large in the 40s 50s and 60s
+had shrunk by 2004 to just a handful of
+states which is of course still the case
+today and the result is not only
+most of the people in United States are
+politically irrelevant in the
+presidential election in the general
+election but you could also get
+candidates elected president who didn't
+get the most votes in all 50 states
+which of course occurred in 2000 and
+then more recently in 2016 and just in
+general obviously every vote was not
+equal and most voters were just
+politically irrelevant so it turned out
+I have lost a 25-cent bet when I was an
+undergraduate to a pre-law student in
+the dorm at Michigan I had claimed that
+the winner-take-all rule was in the US
+Constitution and the law student said no
+no no it's not in the Constitution and I
+did lose the bet and I still remember
+that because he was right it turns out
+the way we elect the president isn't
+really in the Constitution it's in state
+laws state by state that have adopted
+these laws they reward all their
+electoral votes to the candidate get the
+most votes inside the state and I got to
+talking with a lawyer friend of mine he
+was a lawyer friend because when I was
+in the lottery business in the 80s he
+and I wrote lottery laws that we got
+different legislators to pass which we
+passed in several cases in California
+Oregon Arizona through the initiative
+process so he and I weren't quite aware
+of the process of lobbying state
+legislatures and passing laws by
+initiative and we got to talking one day
+at lunch and said why couldn't you elect
+the president in a national popular vote
+not by amending the Constitution but
+just by changing these state
+winner-take-all laws and we started
+researching this and quickly discovered
+that well not only was the pre-law
+student right back in the early sixties
+when he swindled me out of 25 cents but
+it turns out that the way to do it is
+with the states getting together with
+what are called interstate compacts
+these are legally binding contracts
+among states
+new things and usually a state enters an
+interstate compact only because it gets
+something and gives up something to
+other states in fact an interstate
+compact is a way of resolving a
+prisoner's dilemma that is no state
+would want to change its method of
+electing the president from
+winner-take-all to some other method
+unless it got something in return and
+particularly didn't reduce its own
+influence so it turns out interstate
+compact is a way to unravel a prisoner's
+dilemma that might exist so we combined
+the idea of the interstate compact with
+the idea that the legislators had the
+exclusive power to decide how the
+president selected and created some
+legislation which we introduced in a
+book in 2006 and we started going around
+to different states trying to get them
+to pass this law and Maryland was the
+first state to enact in 2007 so thank
+you Jim for being a Maryland person and
+being part of getting national popular
+vote started and we went into this
+organization national popular vote
+started lobbying state legislators and
+one by one we got legislators to start
+passing this usually about one a year
+until 2019 when we got four states in
+one year and now we're in a place where
+we have 15 states in the District of
+Columbia with 196 electoral votes that
+have passed this interstate compact and
+it will go into effect when states
+having half the electoral votes which is
+270 out of 538 passed the same block and
+we're working to get the remaining
+states which would be we need states
+with 74 more electoral votes to get to
+to 7 ah yeah wow what an amazingly
+audacious thing all starting from a game
+and it's interesting I was another one
+of those people that loved Avalon Hill
+games back they started playing
+yeah tactics too when I was 9 at a
+friend's house and I actually bought
+used the copy of stalingrad when I was
+10 and became a hell of a good
+stalingrad player and played many of the
+rest
+then even more humorously I later made a
+small investment in the avalon hill
+company which was publicly traded and i
+added to it and added to it stock never
+did well the company was horribly
+unprofitable run very badly by a couple
+of clowns who had bought it but I got
+the meet Curt Schilling because it
+turned out that he and I were the two
+largest non insider shareholders and we
+conspired together to try to buy the
+company one time but didn't work out but
+we ended up making some money when the
+company was acquired by Hasbro I think
+it was or one of the big game companies
+but anyway a little interesting history
+on games but now let's get back on the
+popular vote could you explain a little
+bit about what a state compact is you
+kind of touched on it and then maybe
+more specifically what's in this
+proposed state compact well yes so let
+me first connect the interstate compacts
+with the lotteries because the reason we
+thought of this is that in the mid-80s
+lotto games were getting started with
+state lotteries and lotto games offered
+a very large prize as you know and some
+of the smaller states have Maine New
+Hampshire and Vermont because they had
+so few people they couldn't run a lotto
+game the way New York or New Jersey
+could with a big multi-million dollar
+prize so they got together and passed an
+interstate compact creating the Tri
+State lotto Commission and that's how I
+became aware of interstate compact and
+as it turned out my company scientific
+games won the first contract to run a
+lotto gate for the tri-state a lot of
+commission that was our first contract
+for a lotto game our specialty being
+instant games but we were branching out
+into a lot of games so I became aware of
+the idea of an interstate compact and
+also became aware of the fact that
+Congress usually doesn't have to consent
+to States entering into interstate
+compacts now many times Congress does
+have to consent but we had looked into
+it as a legal matter because when we
+were in the press of
+bidding on the contract we were
+scratching our head wondering whether
+this tri-state lotto
+Commission was a legal entity and
+actually had any legal authority to run
+this game or give us a contract and it
+turns out that if the topic does not
+threaten federal supremacy the states
+can enter into a compact without
+congressional consent and gambling was
+considered something that did not
+threaten federal supremacy because
+Congress basically took the position
+that as far as they were concerned
+gambling is illegal and similarly
+because the Constitution specifically
+gives the state legislatures the power
+to decide how to award their electoral
+votes this is another area where an
+interstate compact would not require
+congressional consent not that we were
+against having congressional consent but
+obviously it's another step and we were
+pleased to discover that at least based
+on existing judicial precedents a
+compact that involves some exclusive
+state power doesn't require
+congressional percent so to answer your
+question Jim how does the compact work
+it says basically Delaware which one of
+the states that passed our bill in 2019
+will give its three electoral votes to
+the presidential candidate who gets the
+most popular votes in all 50 states in
+the District of Columbia that is
+Delaware is throwing its three electors
+into a pot of electors that's going to
+go to the candidate who wins the
+National popular vote
+now of course Delaware would want to do
+that alone that's the prisoner's dilemma
+aspect it would only want to do that if
+it knew it was going to change the
+system to create a national popular vote
+so the second operative Clause of our
+compact is the compact doesn't take
+effect until States having a majority of
+the electoral votes enact the very same
+law so when we get to states with 270
+electoral votes there will be a group of
+states that have passed the same law
+saying they're going to give
+all of their electors to the Candide who
+gets the most votes in all 50 states
+then that law goes into effect and you
+have a national popular vote for
+president because whoever gets the most
+votes in all 50 states
+is going to get at least 270 electoral
+votes which is enough to become
+president so you have a method by
+changing state law of changing the way
+the president is elected in all 50
+states
+very very very clever and you know we
+did learn a little bit about the
+prerogatives of the state to do what
+they want with their electoral votes
+during that Florida snafu in 2000 where
+the Florida State Legislature was
+threatening to just flat-out appoint
+electors for George Bush you have either
+the US Supreme Court of the Florida
+Supreme Court ruled the result the other
+way and constitutional lawyers that they
+had a pretty good argument to make there
+a few questions for you you list list
+your website does 16 jurisdictions 15
+states in the District of Columbia that
+have enacted your multi-state compact
+and as I'm looking down the list all of
+them are either mostly Democratic or
+Democratic leaning states or
+jurisdictions any reason why that seems
+to be the case well when we started in
+those six George W Bush was still
+president and Republicans generally
+didn't support this heavily we would get
+a few Republican votes then in 2008 as
+he was leaving office we started getting
+about a third of the Republicans in
+state legislatures in roll calls to vote
+for our bill because the bush 2000
+election it was receiving from memory
+and it correctly occurred to people that
+this had nothing to do with the 2000
+election but everything to do with
+future elections and as a matter of
+public policy it is not good that people
+get into the White House who don't have
+a strong popular base of support and
+it's certainly not good that three out
+of four states that are ignored
+politically in the presidential election
+so we went to a period then won Obama
+was president when the Democratic
+got less and less interested in passing
+this bill first though we have already
+gotten several democratic states
+secondly there was a sort of arrogant
+triumphalist mentality that had set in
+on the Democratic side that Democrats
+had a permanent block on the White House
+and why changed the system since it
+elected Obama now curiously 1989 the
+phrase electoral college lock was
+invented by a Republican bigsby who said
+that the Republicans had a lock on the
+electoral college because Reagan and
+Bush had just been successful and Nixon
+had won twice before that and this many
+states had voted Republican the five out
+of six times well the same completely
+nonsensical arrogant belief settled in
+on the Democratic side it was called the
+blue wall theory that because states
+with 242 electoral votes had voted six
+times in a row the Democrats would
+always win the White House well that
+little wall of theory went out the
+window just as quickly as the Republican
+electoral college lock went out the
+window as soon as the next election
+arrived so we went through a period when
+we started getting a lot of Republican
+support passed the Oklahoma stun Atwoods
+probably controlled the Arizona House
+two-thirds of the Republicans sponsored
+the bill and two-thirds of both parties
+voted for it and 47 out of 56 Georgia
+Senate members sponsored the bill in 16
+and the only reason we became law in New
+York was that the republican-controlled
+Senate passed it so we went through a
+period where Republican support was
+increasing and then of course we had the
+2016 election and then suddenly instead
+of like a square-dance everybody changed
+party lines and all of a sudden the
+Republicans no longer thought that it
+was important that every state matter
+and be politically relevant and that
+every vote would be equal and the candy
+with the most votes to win and all of a
+sudden the Democrats said oh my goodness
+the electoral college is
+apparently biased against us so we've
+gone through this cycle of partisanship
+and we're plotting along and you have to
+just explain the issue one by one to the
+7400 people who actually have a vote in
+this matter
+show the 7400 state legislators
+interesting and of course was I was
+fighting interesting you know how
+short-term people's reactions are the
+one you didn't mention it was the close
+call in 2004 where Bush had like a three
+million popular vote margin but if two
+hundred thousand votes had switched in
+Ohio John Kerry would have won the
+electoral college with a significant
+shortfall on the popular vote again on
+the Democratic side so people forget all
+about 2004 I guess because it didn't
+happen but it was a close-run thing and
+I'm with you that people who try to lock
+in short-term advantage are not thinking
+properly but they just had an idea I'm
+gonna throw out to you I think I know
+how you can get this thing passed by
+both Democrats and Republicans are you
+interested
+well of course okay suppose you amend it
+you got to get back everybody to amend
+it and say that this will go into effect
+twenty years after the 270 well it's a
+practical matter that wouldn't get you
+any votes it's an interesting idea and
+but it doesn't change the way people
+look at it at the moment you know the
+2004 election wasn't the only near miss
+Carter almost lost the election even
+though he's ahead by 3 million votes
+people forget Nixon in 68 just squeaked
+by with a very tiny number of votes
+switching and in a couple of states
+would have made Humphrey the president
+even though Nixon did win the national
+popular vote and in 68 as similarly with
+truman wilson's reelection in 1916 was a
+matter of a switch of three thousand
+votes in california
+even though wilson was extremely far
+ahead in the national popular vote so
+the system we have is very quirky that's
+why the game we had in the 60s was so
+interesting
+as it had so many quirky and frankly
+ridiculous results that you can get out
+of this winner-take-all system but
+before wasn't was hardly unique that's a
+very good point I don't know if you
+remember this John but you sent me a
+draft of your book when it was in
+process and it was 2003 or 2004 and I
+read it and we had a phone call I maybe
+mailed you a few comments and I was
+going back through my memory and I still
+have those same three concerns that I
+had then so let me run them by you and
+get your reaction I'm sure these are not
+the first time you've heard these
+because you know you've been out there
+being shot at by people for many many
+years so I'm sure you've got good
+answers but at the time these were my
+gosh ins at least which is as you point
+out there's been many many close
+elections at the presidential level in
+fact I recall after we had our
+conversation I wrote a little simulator
+to see how often very close elections
+and the aggregate popular vote would
+occur even assuming fairly large
+variance at the state level and the
+answer was a lot so what happens if we
+do have a really really really close one
+so close that if it were to have
+happened at a state level we could
+demand a recount
+you know for instance in 1960 it was 0.1
+percent of the popular vote in nineteen
+sixty-eight point seven two thousand
+point five you know most states have at
+least some form of recanvassing at the
+1% threshold and often at 0.5 percent
+there's the ability to demand a recount
+how in the world could we do a national
+recount of a popular vote that was under
+half a percent let's say particularly
+when not all the states are involved in
+the interstate compact well the reality
+is you can't do a recount now in
+presidential elections you recall there
+was no recount in 2000 even though the
+difference of the state level was 537
+votes and 537 votes determined who was
+President of the United States
+there was no recount in Pennsylvania or
+Michigan in 2016
+simply because the claim is in 2000 the
+candidate who was initially had went
+into court and found a technicality and
+ran the clock out and the key point is
+there's a clock on this recount because
+of the 20th amendment which move the
+inauguration from March 4th to January
+20th there's only 7 weeks between the
+election and the inauguration and
+there's actually only a few weeks in a
+practical sense because it takes a
+couple of weeks to create the first
+count so the other practical
+consideration is most state laws don't
+actually work to let you have a retail
+take Ohio which is intestinal
+battleground state and turns out there's
+a 15-day waiting period in their recount
+law
+well between November 4th and December
+12th you just don't have 15 days to wait
+to start the court proceedings after
+you've spent two or three weeks with a
+count so the first problem is
+effectively there are no recounts
+practically possible right now in
+presidential elections secondly they
+would be much less frequent and national
+popular vote the threshold is not a
+tenth of one percent the number of votes
+changed in a recount is about 300 at the
+state level and that's based on actual
+statistics of the 28 recounts over the
+last 20 years and the chance of a
+recount is 1 in 200 so if we ran 200
+presidential elections yes once in 800
+years you would be close enough to
+warrant a recount
+these recounts that occur in some states
+when there's a 1% gap our public
+relations recounts they're designed to
+is fill public confidence but 1% of
+votes do not change in any recount at
+least any recount that I'm aware of
+certainly none in the last 20 years
+where the average recap change in a
+recount is 300 votes and we're 6 out of
+7 Rica
+simply reaffirm the previous results but
+to answer your alternate question how
+would you run a recount you you need a
+national recount law and we wrote one
+and put one on our book which is more
+needed under the current system that
+would be needed under national popular
+vote because the current system creates
+50 opportunities for recount every four
+years whereas we would create only one
+opportunity for recount or for years but
+we do need a right to recount that's
+unconditional and can't be brushed aside
+with delaying tactics and self-serving
+running out the clock which is what what
+occurs now so recount is a messy area
+all I would say is things would be
+better under national popular vote
+because there would be less probability
+of having a recount in the first place
+that seemed reasonable but if we did
+have one early without the national
+recount law we'd have a serious problem
+well of course you would but the reality
+is you have a serious problem now
+because if there was a close vote
+nationally remember there are 12 of the
+50 states are closely divided
+battleground states there would also be
+probably 12 states that are closed and
+you have recounts there that's a good
+handling look you have to have our
+national recount you'd have won almost
+all the votes are counted in the first
+12 hours that's how we get election
+result by election night or election or
+Wednesday morning so if they parallel
+process that's not like 137 million
+ballots are dumped on the desk of one
+guy in Washington and he's told he has
+to recount them votes would be recounted
+the same way they are counted which is
+at the local level in parallel by teams
+in every locality in every state so I
+wouldn't get too wrapped up over that
+they're more lotto tickets sold on a
+given week than there are balance and
+the lotto tickets are issues with the
+same sort of accuracy as credit card
+transactions by the hundreds of millions
+there's no big deal conducting a recount
+because it would be conducted in
+parallel okay that's a tolerable answer
+so if it doesn't happen the next one I
+think this one was when I was most
+concerned at a time was what happens if
+it's very close and that one of the
+compact states you know that its own
+popular vote went strongly the other way
+and it decides to renege you know it's
+at least strongly arguable that the US
+Constitution gives state legislators
+absolute discretion on how to allocate
+electoral votes suppose the state
+legislature meets between the Tuesday
+election date in the meeting the
+electoral college and by a legislative
+vote says nope we're gonna renege and
+here's our vote all nice and illegal
+under our state constitution we renege
+and we're appointing the electors for
+the other guy and that that then breaks
+the compact oh that's a total non
+problem first of all the state
+legislatures power to decide out
+allocate their electoral votes is
+substantial but it's limited by other
+provisions of the Constitution notably
+the fact that interstate compacts are
+contracts and the Constitution prohibits
+a state from impairing an obligation of
+contract so it's really airtight
+constitutional law that no state can get
+out of an interstate compact except in
+the manner that the compact itself
+allows and our compact says if you try
+to leave between July 20th and January
+20th of a presidential year your
+departure occurs after the inauguration
+of the new president and there's been no
+case where the Supreme Court's or any
+Court has ever allowed any state to
+wiggle out of any under state compact
+ever and so I wouldn't worry about that
+also there's a federal law on top of it
+which requires that presidential
+electors be selected based on laws in
+place prior to election day so there's
+also a statutory reason why that can't
+happen and in a practical sense it can't
+happen
+because most state legislators are not
+in session in that short period and even
+if they were most state constitutions
+only let a new law take effect 60 or 90
+or a hundred days after it gets passed
+so wouldn't even matter if there were no
+impairments cause there were no federal
+statute even if all the legislators were
+in session most states could not pass a
+law that would go into effect quickly
+enough to renege even if it was possible
+though of course
+Florida actually was going down that
+road to do so in the 2000 election well
+actually they weren't what Florida was
+doing was they were passing a resolution
+saying that if the courts vacated the
+results of the vote by the people on
+November 3rd or whenever it was then the
+legislature was reaffirming the choice
+of the Republicans slate of presidential
+electors but only if a court had done
+that so if you actually look under the
+hood of what was going on in Florida in
+2000 they weren't coming in and saying
+we have the power after election day to
+override our own voters they does not
+have that power because of the federal
+statute I mentioned great that's good I
+just learned something new there that
+sounds pretty damn solid now we're
+getting out of the kind of hard
+machinery aspects and more - is it good
+you know could a national popular vote
+result in more polarization suppose you
+know today the electoral college system
+requires people to compete in some of
+the more closely balanced States to win
+you can't go too far afield and win in
+Ohio or Wisconsin or Florida or
+Pennsylvania we went to a national
+popular vote system like John is
+suggesting might not the result be for
+the campaign's to try to really run up
+the margins in the most polarized states
+you know the California's the New York's
+you know the Texas is etc rather than
+having a campaign that's a
+more towards you know the centrists
+states well of course the way candidates
+actually campaign inside the
+battleground states is simply the same
+way they would campaign nationally so
+when you're running for president inside
+Ohio which is a closely divided
+battleground state of course you try to
+run up the vote in the parts of Ohio
+where your party is strong as that goes
+without saying so that process already
+exists you milk the areas where your
+party is strong but remember both
+parties are doing that simultaneously
+and you go after the votes in the middle
+in Ohio which are available to your
+party and our related question is you
+know would candidates campaign only in
+the big cities for example which is one
+we hear very often so we've looked at
+how candidates actually campaign and the
+way they actually campaign now inside a
+battleground state remember inside a
+battleground state every vote is equal
+can date with the most votes wins that's
+exactly the formula of national popular
+vote every vote is equal candidate with
+the most votes wins and inside Ohio 22%
+of the state is outside the standard
+metropolitan statistical areas the
+so-called rural areas and they get 25
+percent of the visits so for all
+practical purses they get visits in
+proportion to their population the big
+cities the Cleveland Cincinnati Columbus
+individually and as a group they get
+exactly the percentage that their
+population is and the metro areas get
+the same percentage and the mid-sized
+cities of which they're seven in Ohio
+though Youngstown's and Dayton's etc
+that also tracks population why is that
+true because if you're running a
+presidential campaign in a battleground
+state you've got the most knowledgeable
+professional advisors in the world
+telling you that if every vote is equal
+every vote is equal and it would be
+insanity to campaign
+otherwise and we've gone through and
+mapped the appearances of candidates in
+Florida and Ohio and of the dozen or so
+battleground states and the candidates
+do not hover around Miami or
+Philadelphia or Cleveland or Denver or
+Des Moines or Las Vegas they campaign
+all over the state because that is the
+way you have to campaign if you're gonna
+win so a lot of this rhetoric about big
+cities controlling elections or
+polarization is really just that when
+you actually look how candidates
+campaign they are very rational and if
+they're rational they have to follow the
+the voters ah great answer that sounds
+like you guys have done the work and you
+have the data that shows that people do
+act rationally and apply their level of
+effort to where the voters are no doubt
+seasoned by their estimate of how many
+voters they have in an area they're not
+gonna spend a lot of resources in an
+area it's 90 percent for the other guy
+but that sounds good sounds like you've
+thought these up what are some other
+objections that are out there that you
+have answers for let me just give me two
+two more objections that you regularly
+hear that you feel like you've got good
+answers for well we think we have good
+answers 231 myth that we cover in our
+book we actually cataloged all of the
+things that different people have said
+and we think we've got a good answer for
+all of them but one of the ones that
+comes up quite often is it's an argument
+to call it federalism it's somehow an
+uneasy feeling that some others are
+going to upset the federal system and
+you really have to look at it though we
+do have a good system we divide power
+between states and the national
+government and that's not only allows
+for innovation at the state level and
+experimentation but it also prevents one
+party from ever getting a foothold for
+example suppose the Constitution said
+that the states legislatures didn't
+control how the president was elected
+but Congress did that
+be a fairly natural way of writing a
+constitution and in fact that is the way
+it's done in many countries because
+there is no federal system with states
+with meaningful amounts of power then
+you'd have an election system where the
+party and power would write the election
+rules and anybody in power can think of
+ways of changing the election rules to
+keep themselves in power so you have a
+dispersal of power well there's nothing
+about how you elect presidential
+electors whether you elect them by a
+congressional district or state level or
+national that in any way increases or
+decreases the amount of power that state
+government has or the national
+government has so an argument we often
+hear but it reflects sort of a natural
+concern a legitimate concern but for
+which is a good an argument is this is
+not something that's changing the
+structural amount of power that
+different levels of government have say
+way of changing the way you're counting
+votes and we get a lot of that and I
+think that's not really very convincing
+okay you said you had one other one well
+we have a hundred thirty-one other ones
+all right yeah let me tell your people
+actually I just clicked on that national
+popular vote.com forward slash answering
+- myths oh my god that I am law answered
+and as you heard John he can slay these
+objections right wow he blew me out of
+the water so if you think you have an
+objection to you know the national
+popular vote interstate compact go to
+there and we'll put that link up on our
+website for the episode and see what he
+says I suspect you might be well spanked
+these guys have obviously done their
+work whenever anybody proposes change
+it's perfectly legitimate natural to try
+to think of every possible objection or
+thing that can go wrong and it's
+perfectly normal that there be a hundred
+and thirty one objections and if you're
+proposing a change you need to have a
+good answer for all or virtually all we
+think we have good answers for all of
+the objection and you have to make the
+case the burden of proof
+is on the people who want to change
+things I love it that's what I'd call a
+good faith way to argue you basically
+let people bring forth the objections
+and you knock them down one after the
+other I wish more of our political
+process worked that way well John I want
+to thank you for a most interesting
+interview I mean you've had just the
+most amazing set of professional
+experiences you know inventing a
+significant cultural phenomenon the
+scratch off lottery ticket invented one
+of the more important intellectual
+contributions in computer science and
+genetic programming and now doing strong
+work in changing how we elect our
+president in a very clever way yet one
+that seems sound without amending the
+Constitution I gotta say you're an
+inspiration well thank you Jim for
+inviting me to be here today it's been
+wonderful I've learned a thing or two
+with that we'll wrap her up production
+services and audio editing by Jared
+Jane's consulting music by Tom Muller at
+modern space music com

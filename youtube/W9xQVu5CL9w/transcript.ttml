@@ -1,0 +1,1981 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:04.059" style="s2">howdy this is Jim rut and this is the</p>
+<p begin="00:00:02.399" end="00:00:10.760" style="s2">Jim rut show</p>
+<p begin="00:00:04.059" end="00:00:12.570" style="s2">[Music]</p>
+<p begin="00:00:10.760" end="00:00:14.820" style="s2">listeners have asked us to provide</p>
+<p begin="00:00:12.570" end="00:00:17.279" style="s2">pointers some of the resources we talked</p>
+<p begin="00:00:14.820" end="00:00:19.170" style="s2">about on the show we now have links to</p>
+<p begin="00:00:17.279" end="00:00:20.939" style="s2">books and articles referenced in recent</p>
+<p begin="00:00:19.170" end="00:00:21.840" style="s2">podcasts that are available on our</p>
+<p begin="00:00:20.939" end="00:00:24.779" style="s2">website</p>
+<p begin="00:00:21.840" end="00:00:30.500" style="s2">we also offer full transcripts go to gym</p>
+<p begin="00:00:24.779" end="00:00:30.500" style="s2">rut show calm that gym rut show calm</p>
+<p begin="00:00:31.520" end="00:00:36.210" style="s2">today&#39;s guest is Melanie Mitchell</p>
+<p begin="00:00:33.829" end="00:00:38.550" style="s2">professor computer science at Portland</p>
+<p begin="00:00:36.210" end="00:00:41.160" style="s2">State University and external faculty at</p>
+<p begin="00:00:38.550" end="00:00:43.530" style="s2">the Santa Fe Institute hey Jim it&#39;s</p>
+<p begin="00:00:41.160" end="00:00:46.800" style="s2">great to be here yeah it&#39;s great to have</p>
+<p begin="00:00:43.530" end="00:00:50.310" style="s2">you here we go back aways absolutely</p>
+<p begin="00:00:46.800" end="00:00:52.350" style="s2">many years and they&#39;d indeed Melanie is</p>
+<p begin="00:00:50.310" end="00:00:55.560" style="s2">the author of several books I often</p>
+<p begin="00:00:52.350" end="00:00:58.680" style="s2">recommend her book complexity a guided</p>
+<p begin="00:00:55.560" end="00:01:01.290" style="s2">tour as a really good introduction to</p>
+<p begin="00:00:58.680" end="00:01:03.240" style="s2">complexity science and also I have some</p>
+<p begin="00:01:01.290" end="00:01:04.949" style="s2">you know really nice history with</p>
+<p begin="00:01:03.240" end="00:01:06.900" style="s2">Melanie&#39;s books one of them was quite</p>
+<p begin="00:01:04.949" end="00:01:09.659" style="s2">historically important to me when I</p>
+<p begin="00:01:06.900" end="00:01:10.890" style="s2">first started stumbling into not even</p>
+<p begin="00:01:09.659" end="00:01:13.500" style="s2">knowing that it really existed</p>
+<p begin="00:01:10.890" end="00:01:15.659" style="s2">complexity science the very first book I</p>
+<p begin="00:01:13.500" end="00:01:18.360" style="s2">read was John Holland&#39;s book on genetic</p>
+<p begin="00:01:15.659" end="00:01:21.330" style="s2">algorithms the second was to Kaufman&#39;s</p>
+<p begin="00:01:18.360" end="00:01:24.300" style="s2">origins of order but the third was</p>
+<p begin="00:01:21.330" end="00:01:26.159" style="s2">Melody&#39;s book on genetic algorithm so I</p>
+<p begin="00:01:24.300" end="00:01:27.750" style="s2">don&#39;t remember the name of it we had an</p>
+<p begin="00:01:26.159" end="00:01:29.610" style="s2">introduction to genetic algorithm yeah</p>
+<p begin="00:01:27.750" end="00:01:31.500" style="s2">exactly yeah and I really liked that in</p>
+<p begin="00:01:29.610" end="00:01:34.350" style="s2">fact it was the one that made this whole</p>
+<p begin="00:01:31.500" end="00:01:36.060" style="s2">genetic algorithms thing clear to me so</p>
+<p begin="00:01:34.350" end="00:01:39.030" style="s2">that when I retired from business in</p>
+<p begin="00:01:36.060" end="00:01:41.400" style="s2">2001 I literally went down the hall and</p>
+<p begin="00:01:39.030" end="00:01:43.290" style="s2">started writing hybrid genetic algorithm</p>
+<p begin="00:01:41.400" end="00:01:44.760" style="s2">neural nets and frankly a lot of it</p>
+<p begin="00:01:43.290" end="00:01:46.200" style="s2">stolen you know at least the genetic</p>
+<p begin="00:01:44.760" end="00:01:49.380" style="s2">algorithm part stolen right out of your</p>
+<p begin="00:01:46.200" end="00:01:52.500" style="s2">book so a very important part actually</p>
+<p begin="00:01:49.380" end="00:01:55.700" style="s2">of my intellectual trajectory so thank</p>
+<p begin="00:01:52.500" end="00:01:55.700" style="s2">you for that that&#39;s great to hear</p>
+<p begin="00:01:55.820" end="00:02:00.180" style="s2">Melanie&#39;s also created and taught</p>
+<p begin="00:01:57.840" end="00:02:02.790" style="s2">introductory level online courses on</p>
+<p begin="00:02:00.180" end="00:02:04.110" style="s2">complexity science a little googling</p>
+<p begin="00:02:02.790" end="00:02:05.520" style="s2">showed me that none of them seem to be</p>
+<p begin="00:02:04.110" end="00:02:06.960" style="s2">active at the moment did I miss</p>
+<p begin="00:02:05.520" end="00:02:09.140" style="s2">something do you have any of your</p>
+<p begin="00:02:06.960" end="00:02:11.909" style="s2">courses up yeah there they&#39;re on</p>
+<p begin="00:02:09.140" end="00:02:14.700" style="s2">complexity explorer org</p>
+<p begin="00:02:11.909" end="00:02:17.069" style="s2">and they&#39;re always available but they&#39;re</p>
+<p begin="00:02:14.700" end="00:02:19.950" style="s2">in session one of them is about to end</p>
+<p begin="00:02:17.069" end="00:02:21.810" style="s2">its session okay yeah what they all said</p>
+<p begin="00:02:19.950" end="00:02:21.960" style="s2">something like not in session or not of</p>
+<p begin="00:02:21.810" end="00:02:24.120" style="s2">a</p>
+<p begin="00:02:21.960" end="00:02:26.040" style="s2">or this or that but we&#39;ll get the link</p>
+<p begin="00:02:24.120" end="00:02:28.530" style="s2">from Melanie and put it on the episode</p>
+<p begin="00:02:26.040" end="00:02:31.260" style="s2">page so as usual people want to follow</p>
+<p begin="00:02:28.530" end="00:02:33.660" style="s2">up on any link or reference on our</p>
+<p begin="00:02:31.260" end="00:02:35.360" style="s2">episode page we&#39;ll have a link to one or</p>
+<p begin="00:02:33.660" end="00:02:37.650" style="s2">more of the courses that&#39;s available and</p>
+<p begin="00:02:35.360" end="00:02:40.680" style="s2">those things have gotten just amazingly</p>
+<p begin="00:02:37.650" end="00:02:42.210" style="s2">good feedback anyway today we&#39;re gonna</p>
+<p begin="00:02:40.680" end="00:02:43.440" style="s2">talk mostly though I&#39;m sure we&#39;ll talk</p>
+<p begin="00:02:42.210" end="00:02:46.050" style="s2">about other things along the way</p>
+<p begin="00:02:43.440" end="00:02:48.690" style="s2">her new book artificial intelligence a</p>
+<p begin="00:02:46.050" end="00:02:51.180" style="s2">guide for thinking humans the reader</p>
+<p begin="00:02:48.690" end="00:02:53.190" style="s2">should find it very accessible I don&#39;t</p>
+<p begin="00:02:51.180" end="00:02:54.630" style="s2">believe there was a single mathematical</p>
+<p begin="00:02:53.190" end="00:02:56.850" style="s2">formula in the whole book</p>
+<p begin="00:02:54.630" end="00:02:59.760" style="s2">thus Melanie obviously learned Hawking&#39;s</p>
+<p begin="00:02:56.850" end="00:03:03.660" style="s2">law every equation halves the sale of</p>
+<p begin="00:02:59.760" end="00:03:04.980" style="s2">the book and that&#39;s multiplicative well</p>
+<p begin="00:03:03.660" end="00:03:06.870" style="s2">on the other hand that does not mean the</p>
+<p begin="00:03:04.980" end="00:03:09.330" style="s2">book is lightweight she addresses many</p>
+<p begin="00:03:06.870" end="00:03:11.610" style="s2">of the most important issues in AI today</p>
+<p begin="00:03:09.330" end="00:03:13.650" style="s2">and to give some very nice examples</p>
+<p begin="00:03:11.610" end="00:03:15.840" style="s2">explaining you know some of the basics</p>
+<p begin="00:03:13.650" end="00:03:17.610" style="s2">of neural nets and even some of the more</p>
+<p begin="00:03:15.840" end="00:03:20.130" style="s2">advanced topics like convolutional</p>
+<p begin="00:03:17.610" end="00:03:22.410" style="s2">neural nets and recurrent Nets in a way</p>
+<p begin="00:03:20.130" end="00:03:24.750" style="s2">that I think people will find deeper</p>
+<p begin="00:03:22.410" end="00:03:27.330" style="s2">than you usually find in such intro</p>
+<p begin="00:03:24.750" end="00:03:29.730" style="s2">books but yet not in a way that&#39;s kind</p>
+<p begin="00:03:27.330" end="00:03:31.500" style="s2">of technologically off-putting so a good</p>
+<p begin="00:03:29.730" end="00:03:33.780" style="s2">recommendation for people looking for an</p>
+<p begin="00:03:31.500" end="00:03:35.880" style="s2">introduction to where the world is with</p>
+<p begin="00:03:33.780" end="00:03:38.070" style="s2">respect to AI today thanks for that</p>
+<p begin="00:03:35.880" end="00:03:39.390" style="s2">great introduction you could send me</p>
+<p begin="00:03:38.070" end="00:03:42.540" style="s2">some Bitcoin at the following address</p>
+<p begin="00:03:39.390" end="00:03:45.090" style="s2">right there really was a really good</p>
+<p begin="00:03:42.540" end="00:03:46.530" style="s2">book okay let&#39;s jump in you know one of</p>
+<p begin="00:03:45.090" end="00:03:48.210" style="s2">the points you make early on the book is</p>
+<p begin="00:03:46.530" end="00:03:49.740" style="s2">that much of the media and truthfully</p>
+<p begin="00:03:48.210" end="00:03:51.690" style="s2">I&#39;ve even found this with some very good</p>
+<p begin="00:03:49.740" end="00:03:54.210" style="s2">academics outside of computer science</p>
+<p begin="00:03:51.690" end="00:03:56.700" style="s2">departments think that deep learning is</p>
+<p begin="00:03:54.210" end="00:03:59.250" style="s2">artificial intelligence and that is all</p>
+<p begin="00:03:56.700" end="00:04:01.140" style="s2">there is to AI did you start out by</p>
+<p begin="00:03:59.250" end="00:04:03.510" style="s2">telling us how that isn&#39;t true and maybe</p>
+<p begin="00:04:01.140" end="00:04:07.380" style="s2">a little bit of the history of symbolic</p>
+<p begin="00:04:03.510" end="00:04:10.230" style="s2">and sub symbolic AI sure so at the very</p>
+<p begin="00:04:07.380" end="00:04:14.970" style="s2">beginning of AI the research field maybe</p>
+<p begin="00:04:10.230" end="00:04:19.109" style="s2">back in the 40s and 1950s people did not</p>
+<p begin="00:04:14.970" end="00:04:22.040" style="s2">use learning as a method to create AI at</p>
+<p begin="00:04:19.109" end="00:04:25.950" style="s2">least not for the most part they used</p>
+<p begin="00:04:22.040" end="00:04:28.290" style="s2">symbolic AI in which people manually</p>
+<p begin="00:04:25.950" end="00:04:31.020" style="s2">programmed and rules for intelligent</p>
+<p begin="00:04:28.290" end="00:04:32.790" style="s2">behavior that turned out to not work</p>
+<p begin="00:04:31.020" end="00:04:35.000" style="s2">very well because intelligent behavior</p>
+<p begin="00:04:32.790" end="00:04:37.670" style="s2">is way too complex to be</p>
+<p begin="00:04:35.000" end="00:04:42.110" style="s2">shirred in a simple set of rules that</p>
+<p begin="00:04:37.670" end="00:04:44.720" style="s2">cooked up by a computer programmer so in</p>
+<p begin="00:04:42.110" end="00:04:46.910" style="s2">the 90s starting the 80s and 90s people</p>
+<p begin="00:04:44.720" end="00:04:49.160" style="s2">started using more statistical</p>
+<p begin="00:04:46.910" end="00:04:52.280" style="s2">approaches where the idea was to learn</p>
+<p begin="00:04:49.160" end="00:04:54.800" style="s2">from data computer programs learned from</p>
+<p begin="00:04:52.280" end="00:04:56.720" style="s2">getting lots and lots of examples and</p>
+<p begin="00:04:54.800" end="00:05:00.170" style="s2">there are many different ways to do that</p>
+<p begin="00:04:56.720" end="00:05:03.830" style="s2">but only in the last decade or so has</p>
+<p begin="00:05:00.170" end="00:05:06.800" style="s2">the method of deep neural networks taken</p>
+<p begin="00:05:03.830" end="00:05:09.290" style="s2">over and it&#39;s been so successful that</p>
+<p begin="00:05:06.800" end="00:05:12.800" style="s2">it&#39;s kind of taken over the entire field</p>
+<p begin="00:05:09.290" end="00:05:13.520" style="s2">and everybody is using it in some form</p>
+<p begin="00:05:12.800" end="00:05:16.130" style="s2">or another</p>
+<p begin="00:05:13.520" end="00:05:19.430" style="s2">and a lot of the media and as you say</p>
+<p begin="00:05:16.130" end="00:05:21.800" style="s2">people outside of the field equate deep</p>
+<p begin="00:05:19.430" end="00:05:24.590" style="s2">neural networks with a I equate machine</p>
+<p begin="00:05:21.800" end="00:05:26.480" style="s2">learning with a I equate deep neural</p>
+<p begin="00:05:24.590" end="00:05:28.790" style="s2">networks with machine learning and yet</p>
+<p begin="00:05:26.480" end="00:05:31.790" style="s2">all of those things are kind of</p>
+<p begin="00:05:28.790" end="00:05:33.470" style="s2">subfields of a much broader set of</p>
+<p begin="00:05:31.790" end="00:05:37.100" style="s2">techniques which you might call</p>
+<p begin="00:05:33.470" end="00:05:39.380" style="s2">artificial intelligence yep and you know</p>
+<p begin="00:05:37.100" end="00:05:40.460" style="s2">and you talk about hybrid systems and in</p>
+<p begin="00:05:39.380" end="00:05:42.560" style="s2">reality and a lot of the real</p>
+<p begin="00:05:40.460" end="00:05:44.990" style="s2">interesting things going on out there in</p>
+<p begin="00:05:42.560" end="00:05:47.090" style="s2">the world are our hybrids you know there</p>
+<p begin="00:05:44.990" end="00:05:48.440" style="s2">are partially maybe substantially deep</p>
+<p begin="00:05:47.090" end="00:05:50.780" style="s2">learning but they have other attributes</p>
+<p begin="00:05:48.440" end="00:05:52.820" style="s2">as well for instance self-driving cars</p>
+<p begin="00:05:50.780" end="00:05:55.040" style="s2">do you have other things that you could</p>
+<p begin="00:05:52.820" end="00:05:57.860" style="s2">point to that are examples of hybrid</p>
+<p begin="00:05:55.040" end="00:06:00.020" style="s2">systems yeah most I would say that most</p>
+<p begin="00:05:57.860" end="00:06:03.800" style="s2">of the systems that are used</p>
+<p begin="00:06:00.020" end="00:06:07.970" style="s2">commercially are hybrid one well-known</p>
+<p begin="00:06:03.800" end="00:06:10.729" style="s2">example is the programs by google</p>
+<p begin="00:06:07.970" end="00:06:15.080" style="s2">deepmind that learned to play go and</p>
+<p begin="00:06:10.729" end="00:06:18.200" style="s2">chess so alpha go is the famous go</p>
+<p begin="00:06:15.080" end="00:06:19.729" style="s2">playing program alpha zero is a program</p>
+<p begin="00:06:18.200" end="00:06:23.060" style="s2">that learns to play chess and other</p>
+<p begin="00:06:19.729" end="00:06:26.270" style="s2">games and those involve both deep neural</p>
+<p begin="00:06:23.060" end="00:06:28.520" style="s2">networks and more conventional technique</p>
+<p begin="00:06:26.270" end="00:06:31.729" style="s2">called tree search which is a more</p>
+<p begin="00:06:28.520" end="00:06:34.160" style="s2">symbolic kind of technique so those two</p>
+<p begin="00:06:31.729" end="00:06:36.530" style="s2">systems combined together really are</p>
+<p begin="00:06:34.160" end="00:06:39.080" style="s2">what give those systems of power okay</p>
+<p begin="00:06:36.530" end="00:06:40.610" style="s2">good the other thing you address and for</p>
+<p begin="00:06:39.080" end="00:06:42.890" style="s2">those of people who listen to the show</p>
+<p begin="00:06:40.610" end="00:06:44.870" style="s2">we recently had Gary Marcus on the show</p>
+<p begin="00:06:42.890" end="00:06:45.680" style="s2">and he talked about the same thing is</p>
+<p begin="00:06:44.870" end="00:06:48.930" style="s2">the hype</p>
+<p begin="00:06:45.680" end="00:06:51.210" style="s2">problem in AI that people over prom</p>
+<p begin="00:06:48.930" end="00:06:52.740" style="s2">and under-deliver and it seems to be</p>
+<p begin="00:06:51.210" end="00:06:54.990" style="s2">going on today but it wouldn&#39;t be the</p>
+<p begin="00:06:52.740" end="00:06:57.389" style="s2">first time there&#39;s been a history of AI</p>
+<p begin="00:06:54.990" end="00:06:58.710" style="s2">Springs and AI winners could you maybe</p>
+<p begin="00:06:57.389" end="00:07:00.570" style="s2">give us a little bit of the history of</p>
+<p begin="00:06:58.710" end="00:07:03.810" style="s2">the AI hype cycle</p>
+<p begin="00:07:00.570" end="00:07:08.400" style="s2">sure AI hype has been around for as long</p>
+<p begin="00:07:03.810" end="00:07:10.590" style="s2">as AI has been around and it comes not</p>
+<p begin="00:07:08.400" end="00:07:13.830" style="s2">only from the media but from AI</p>
+<p begin="00:07:10.590" end="00:07:15.930" style="s2">researchers themselves who either are</p>
+<p begin="00:07:13.830" end="00:07:18.000" style="s2">hyping because they&#39;re trying to get</p>
+<p begin="00:07:15.930" end="00:07:20.789" style="s2">more funding or because they actually</p>
+<p begin="00:07:18.000" end="00:07:23.099" style="s2">believe that we&#39;re very close to big</p>
+<p begin="00:07:20.789" end="00:07:26.520" style="s2">breakthroughs in mimicking human</p>
+<p begin="00:07:23.099" end="00:07:28.289" style="s2">intelligence or possibly both but</p>
+<p begin="00:07:26.520" end="00:07:30.150" style="s2">there&#39;s been this kind of recurrent</p>
+<p begin="00:07:28.289" end="00:07:33.449" style="s2">cycle where there&#39;s been a lot of</p>
+<p begin="00:07:30.150" end="00:07:35.550" style="s2">optimism and people making big</p>
+<p begin="00:07:33.449" end="00:07:38.310" style="s2">predictions about what&#39;s coming very</p>
+<p begin="00:07:35.550" end="00:07:41.699" style="s2">soon say self-driving cars which maybe</p>
+<p begin="00:07:38.310" end="00:07:43.470" style="s2">we&#39;ll talk about a little bit later but</p>
+<p begin="00:07:41.699" end="00:07:45.990" style="s2">then there&#39;s a big disappointment when</p>
+<p begin="00:07:43.470" end="00:07:48.570" style="s2">the predictions don&#39;t come true where</p>
+<p begin="00:07:45.990" end="00:07:51.720" style="s2">people overestimated where the field was</p>
+<p begin="00:07:48.570" end="00:07:54.270" style="s2">and so you go from these so-called AI</p>
+<p begin="00:07:51.720" end="00:07:56.280" style="s2">Springs in which there&#39;s huge optimism</p>
+<p begin="00:07:54.270" end="00:07:58.470" style="s2">lots of funding thrown at researchers</p>
+<p begin="00:07:56.280" end="00:08:02.220" style="s2">and lots of startup companies venture</p>
+<p begin="00:07:58.470" end="00:08:04.440" style="s2">capital to AI winter where a lot of the</p>
+<p begin="00:08:02.220" end="00:08:06.419" style="s2">funding dries up people are become more</p>
+<p begin="00:08:04.440" end="00:08:09.240" style="s2">pessimistic realize that it was harder</p>
+<p begin="00:08:06.419" end="00:08:11.430" style="s2">than we thought and that cycle then</p>
+<p begin="00:08:09.240" end="00:08:15.150" style="s2">keeps going it&#39;s kind of a boom and bust</p>
+<p begin="00:08:11.430" end="00:08:17.940" style="s2">cycle in AI and when I got my PhD in</p>
+<p begin="00:08:15.150" end="00:08:21.240" style="s2">1990 we were in the middle of an AI</p>
+<p begin="00:08:17.940" end="00:08:23.430" style="s2">winter and I was even advised not to use</p>
+<p begin="00:08:21.240" end="00:08:26.820" style="s2">the term artificial intelligence on my</p>
+<p begin="00:08:23.430" end="00:08:28.470" style="s2">job applications which now is kind of</p>
+<p begin="00:08:26.820" end="00:08:30.210" style="s2">the opposite everybody&#39;s using the word</p>
+<p begin="00:08:28.470" end="00:08:32.159" style="s2">artificial intelligence even if they&#39;re</p>
+<p begin="00:08:30.210" end="00:08:34.020" style="s2">not really doing it yeah it cost you</p>
+<p begin="00:08:32.159" end="00:08:36.500" style="s2">$100,000 a year to leave it off your</p>
+<p begin="00:08:34.020" end="00:08:39.419" style="s2">resume right exactly</p>
+<p begin="00:08:36.500" end="00:08:41.849" style="s2">yeah I remember those cycles in fact</p>
+<p begin="00:08:39.419" end="00:08:44.640" style="s2">when I was a young entrepreneur in the</p>
+<p begin="00:08:41.849" end="00:08:47.700" style="s2">early 80s a lot of my college friends</p>
+<p begin="00:08:44.640" end="00:08:50.550" style="s2">from MIT had gotten involved in the Lisp</p>
+<p begin="00:08:47.700" end="00:08:53.579" style="s2">machine era of AI which was you know</p>
+<p begin="00:08:50.550" end="00:08:55.470" style="s2">hugely funded companies going public etc</p>
+<p begin="00:08:53.579" end="00:08:57.390" style="s2">and a bunch of them tried to recruit me</p>
+<p begin="00:08:55.470" end="00:08:59.580" style="s2">to come in to those companies and I went</p>
+<p begin="00:08:57.390" end="00:09:01.410" style="s2">and talked to him and listened to him</p>
+<p begin="00:08:59.580" end="00:09:03.570" style="s2">you know being it by that point kind of</p>
+<p begin="00:09:01.410" end="00:09:06.000" style="s2">a relatively experienced corporate IT</p>
+<p begin="00:09:03.570" end="00:09:07.950" style="s2">guy working on some advanced problems</p>
+<p begin="00:09:06.000" end="00:09:10.170" style="s2">but nonetheless working with actual</p>
+<p begin="00:09:07.950" end="00:09:13.200" style="s2">corporate IT people I made the</p>
+<p begin="00:09:10.170" end="00:09:15.990" style="s2">assessment uh any industry based around</p>
+<p begin="00:09:13.200" end="00:09:18.210" style="s2">the Lisp computer language is just to</p>
+<p begin="00:09:15.990" end="00:09:20.490" style="s2">cognitively loaded to be realistic for</p>
+<p begin="00:09:18.210" end="00:09:22.740" style="s2">corporate America and you know I</p>
+<p begin="00:09:20.490" end="00:09:26.370" style="s2">concluded at that time and irrevocably</p>
+<p begin="00:09:22.740" end="00:09:28.950" style="s2">that that whole list machine symbolics</p>
+<p begin="00:09:26.370" end="00:09:31.800" style="s2">Corp and all that stuff was just not</p>
+<p begin="00:09:28.950" end="00:09:34.440" style="s2">gonna work and I was right then it kind</p>
+<p begin="00:09:31.800" end="00:09:36.210" style="s2">of spiraled down and to you know that AI</p>
+<p begin="00:09:34.440" end="00:09:39.000" style="s2">winter that you were talking about there</p>
+<p begin="00:09:36.210" end="00:09:42.930" style="s2">in the early 90s yeah well I have to say</p>
+<p begin="00:09:39.000" end="00:09:44.660" style="s2">that I as a pre graduate student I</p>
+<p begin="00:09:42.930" end="00:09:48.210" style="s2">learned to program in Lisp on Oh</p>
+<p begin="00:09:44.660" end="00:09:51.390" style="s2">symbolic slist machine and that&#39;s by far</p>
+<p begin="00:09:48.210" end="00:09:54.450" style="s2">the best machine the best user interface</p>
+<p begin="00:09:51.390" end="00:09:56.580" style="s2">and the best programming language I&#39;ve</p>
+<p begin="00:09:54.450" end="00:09:58.950" style="s2">ever used but I understand that it</p>
+<p begin="00:09:56.580" end="00:10:00.930" style="s2">wasn&#39;t going to scale up in corporate</p>
+<p begin="00:09:58.950" end="00:10:03.240" style="s2">America but for research purposes it was</p>
+<p begin="00:10:00.930" end="00:10:04.920" style="s2">great yeah probably one of my friends</p>
+<p begin="00:10:03.240" end="00:10:07.410" style="s2">was involved in the the things that you</p>
+<p begin="00:10:04.920" end="00:10:09.360" style="s2">like as I said him you need an IQ of 130</p>
+<p begin="00:10:07.410" end="00:10:11.880" style="s2">basically to be good at programming Lisp</p>
+<p begin="00:10:09.360" end="00:10:13.560" style="s2">and I can tell you that IQ 130s are</p>
+<p begin="00:10:11.880" end="00:10:18.300" style="s2">fairly thin on the ground in corporate</p>
+<p begin="00:10:13.560" end="00:10:22.140" style="s2">America unfortunately the other hand IQ</p>
+<p begin="00:10:18.300" end="00:10:23.610" style="s2">130s kind of your baseline PhD science</p>
+<p begin="00:10:22.140" end="00:10:24.990" style="s2">and engineering kind of person so it&#39;s a</p>
+<p begin="00:10:23.610" end="00:10:29.250" style="s2">good fit that in that world</p>
+<p begin="00:10:24.990" end="00:10:30.960" style="s2">huh well we can talk about IQs i q-- as</p>
+<p begin="00:10:29.250" end="00:10:33.930" style="s2">a measure of intelligence when we talk</p>
+<p begin="00:10:30.960" end="00:10:36.180" style="s2">about what is intelligence later on yes</p>
+<p begin="00:10:33.930" end="00:10:37.710" style="s2">I know a controversial topic you know</p>
+<p begin="00:10:36.180" end="00:10:39.900" style="s2">obviously it&#39;s that&#39;s a way to</p>
+<p begin="00:10:37.710" end="00:10:41.850" style="s2">reductionist a way to think about it</p>
+<p begin="00:10:39.900" end="00:10:43.260" style="s2">nonetheless I do push back a little bit</p>
+<p begin="00:10:41.850" end="00:10:46.050" style="s2">about people say there&#39;s nothing useful</p>
+<p begin="00:10:43.260" end="00:10:47.910" style="s2">in IQ you know it&#39;s not everything but</p>
+<p begin="00:10:46.050" end="00:10:49.710" style="s2">it&#39;s also not nothing but we can talk</p>
+<p begin="00:10:47.910" end="00:10:52.710" style="s2">about that later if you like</p>
+<p begin="00:10:49.710" end="00:10:55.410" style="s2">okay and certainly it seems like today</p>
+<p begin="00:10:52.710" end="00:10:57.030" style="s2">we are well into the hype cycle I&#39;ve</p>
+<p begin="00:10:55.410" end="00:10:59.310" style="s2">never seen a hype cycle quite like this</p>
+<p begin="00:10:57.030" end="00:11:00.180" style="s2">when an AI and of course maybe it&#39;s</p>
+<p begin="00:10:59.310" end="00:11:02.400" style="s2">different this time</p>
+<p begin="00:11:00.180" end="00:11:05.220" style="s2">what do you think well that&#39;s a good</p>
+<p begin="00:11:02.400" end="00:11:07.800" style="s2">question as you say it seems to be the</p>
+<p begin="00:11:05.220" end="00:11:09.690" style="s2">peak of a new hype cycle where deep</p>
+<p begin="00:11:07.800" end="00:11:11.790" style="s2">learning has been extraordinarily</p>
+<p begin="00:11:09.690" end="00:11:14.960" style="s2">successful and there&#39;s a</p>
+<p begin="00:11:11.790" end="00:11:17.570" style="s2">huge amount of money being put into</p>
+<p begin="00:11:14.960" end="00:11:20.730" style="s2">start-up companies using deep learning</p>
+<p begin="00:11:17.570" end="00:11:24.000" style="s2">and even by big companies like Google</p>
+<p begin="00:11:20.730" end="00:11:26.250" style="s2">Facebook Apple IBM etc putting a huge</p>
+<p begin="00:11:24.000" end="00:11:29.880" style="s2">amount of money into AI and deep deep</p>
+<p begin="00:11:26.250" end="00:11:32.100" style="s2">learning in particular but I think</p>
+<p begin="00:11:29.880" end="00:11:34.920" style="s2">people are just beginning to really see</p>
+<p begin="00:11:32.100" end="00:11:36.810" style="s2">some of the limitations self-driving</p>
+<p begin="00:11:34.920" end="00:11:39.540" style="s2">cars is a very good example you know</p>
+<p begin="00:11:36.810" end="00:11:42.060" style="s2">people assumed that we would have</p>
+<p begin="00:11:39.540" end="00:11:44.940" style="s2">self-driving cars widely deployed by now</p>
+<p begin="00:11:42.060" end="00:11:47.190" style="s2">and even 2020 which is just a couple</p>
+<p begin="00:11:44.940" end="00:11:49.020" style="s2">weeks away has been sort of the year</p>
+<p begin="00:11:47.190" end="00:11:50.880" style="s2">that people have predicted that we&#39;re</p>
+<p begin="00:11:49.020" end="00:11:53.460" style="s2">gonna see millions of self-driving cars</p>
+<p begin="00:11:50.880" end="00:11:55.410" style="s2">on the road that you know human drivers</p>
+<p begin="00:11:53.460" end="00:11:58.020" style="s2">are going to be a thing of the past and</p>
+<p begin="00:11:55.410" end="00:12:01.530" style="s2">so on but it seeming more and more like</p>
+<p begin="00:11:58.020" end="00:12:02.990" style="s2">that&#39;s way over estimating how soon</p>
+<p begin="00:12:01.530" end="00:12:05.250" style="s2">we&#39;re gonna see that kind of technology</p>
+<p begin="00:12:02.990" end="00:12:07.290" style="s2">so there&#39;s been a lot of predictions of</p>
+<p begin="00:12:05.250" end="00:12:09.810" style="s2">a new AI winter and I wouldn&#39;t be at all</p>
+<p begin="00:12:07.290" end="00:12:12.840" style="s2">surprised if that happens yeah I could</p>
+<p begin="00:12:09.810" end="00:12:14.670" style="s2">say in my other role as occasional</p>
+<p begin="00:12:12.840" end="00:12:16.740" style="s2">private equity investor in early-stage</p>
+<p begin="00:12:14.670" end="00:12:19.290" style="s2">companies I&#39;m starting to see the</p>
+<p begin="00:12:16.740" end="00:12:21.900" style="s2">ridiculous you know two years ago it was</p>
+<p begin="00:12:19.290" end="00:12:23.490" style="s2">blockchain and and such that was you</p>
+<p begin="00:12:21.900" end="00:12:25.230" style="s2">know tacked on to every business plan</p>
+<p begin="00:12:23.490" end="00:12:28.290" style="s2">whether it needed it or not you know now</p>
+<p begin="00:12:25.230" end="00:12:30.510" style="s2">you can see a you know beer brewery all</p>
+<p begin="00:12:28.290" end="00:12:32.340" style="s2">right we&#39;re gonna use AI okay right</p>
+<p begin="00:12:30.510" end="00:12:34.350" style="s2">you&#39;ll be making beer successfully for a</p>
+<p begin="00:12:32.340" end="00:12:36.810" style="s2">thousand years without it and I doubt</p>
+<p begin="00:12:34.350" end="00:12:38.820" style="s2">you needed it lots for small scale micro</p>
+<p begin="00:12:36.810" end="00:12:41.040" style="s2">breweries so that&#39;s generally it&#39;s a</p>
+<p begin="00:12:38.820" end="00:12:42.600" style="s2">sign that we&#39;re getting late in the in</p>
+<p begin="00:12:41.040" end="00:12:45.360" style="s2">the hype cycle where people are just</p>
+<p begin="00:12:42.600" end="00:12:47.460" style="s2">relentlessly stapling ai to almost any</p>
+<p begin="00:12:45.360" end="00:12:49.920" style="s2">other kind of business plan yeah AI</p>
+<p begin="00:12:47.460" end="00:12:53.940" style="s2">blockchain and quantum computing those</p>
+<p begin="00:12:49.920" end="00:12:55.710" style="s2">are kind of the three buzzwords we got</p>
+<p begin="00:12:53.940" end="00:12:57.450" style="s2">the mother of all buzzwords right yeah</p>
+<p begin="00:12:55.710" end="00:12:59.430" style="s2">we want to extract money out of naive</p>
+<p begin="00:12:57.450" end="00:13:02.460" style="s2">investors let&#39;s string those to get</p>
+<p begin="00:12:59.430" end="00:13:03.960" style="s2">their semi plausible sounding story oh</p>
+<p begin="00:13:02.460" end="00:13:06.600" style="s2">my goodness</p>
+<p begin="00:13:03.960" end="00:13:09.240" style="s2">interesting another area of a lot of</p>
+<p begin="00:13:06.600" end="00:13:13.950" style="s2">confusion in the general public around</p>
+<p begin="00:13:09.240" end="00:13:16.470" style="s2">AI is around strong or AGI versus narrow</p>
+<p begin="00:13:13.950" end="00:13:18.960" style="s2">AI and you know a lot of this you know</p>
+<p begin="00:13:16.470" end="00:13:21.120" style="s2">kind of big talk about AI you know going</p>
+<p begin="00:13:18.960" end="00:13:23.560" style="s2">back even as far back as the 1956</p>
+<p begin="00:13:21.120" end="00:13:26.200" style="s2">Dartmouth conference we&#39;re sorta</p>
+<p begin="00:13:23.560" end="00:13:29.529" style="s2">about strong AI or artificial general</p>
+<p begin="00:13:26.200" end="00:13:32.800" style="s2">intelligence or human-level AI what can</p>
+<p begin="00:13:29.529" end="00:13:35.740" style="s2">you say about that versus the AI we</p>
+<p begin="00:13:32.800" end="00:13:38.890" style="s2">actually have today all throughout the</p>
+<p begin="00:13:35.740" end="00:13:41.230" style="s2">history of AI every AI program that&#39;s</p>
+<p begin="00:13:38.890" end="00:13:44.290" style="s2">ever been created has been narrow in the</p>
+<p begin="00:13:41.230" end="00:13:47.440" style="s2">sense that it&#39;s able to do essentially</p>
+<p begin="00:13:44.290" end="00:13:49.420" style="s2">one thing like we have machines that can</p>
+<p begin="00:13:47.440" end="00:13:51.160" style="s2">play chess at a Grandmaster level but</p>
+<p begin="00:13:49.420" end="00:13:54.430" style="s2">they can&#39;t do anything else they can&#39;t</p>
+<p begin="00:13:51.160" end="00:13:57.630" style="s2">play checkers we have machines that can</p>
+<p begin="00:13:54.430" end="00:14:00.279" style="s2">do speech recognition now actually</p>
+<p begin="00:13:57.630" end="00:14:02.200" style="s2">amazingly well but they actually don&#39;t</p>
+<p begin="00:14:00.279" end="00:14:04.920" style="s2">understand any of the speech that</p>
+<p begin="00:14:02.200" end="00:14:08.560" style="s2">they&#39;re recognizing and they can&#39;t say</p>
+<p begin="00:14:04.920" end="00:14:10.930" style="s2">analyze that speech for its sentiment</p>
+<p begin="00:14:08.560" end="00:14:13.480" style="s2">whether it&#39;s positive or negative you</p>
+<p begin="00:14:10.930" end="00:14:15.580" style="s2">have other programs that can do analyze</p>
+<p begin="00:14:13.480" end="00:14:18.070" style="s2">speech for sentiment but they can&#39;t do</p>
+<p begin="00:14:15.580" end="00:14:20.290" style="s2">anything else so it we&#39;re in a world of</p>
+<p begin="00:14:18.070" end="00:14:22.540" style="s2">narrow AI that&#39;s gotten better and</p>
+<p begin="00:14:20.290" end="00:14:24.339" style="s2">better at narrow tasks but really the</p>
+<p begin="00:14:22.540" end="00:14:26.950" style="s2">beginning at the beginning the goal was</p>
+<p begin="00:14:24.339" end="00:14:29.830" style="s2">general ai ai that can do the sort of</p>
+<p begin="00:14:26.950" end="00:14:32.080" style="s2">range of general tasks that humans can</p>
+<p begin="00:14:29.830" end="00:14:35.710" style="s2">do course is debatable how general</p>
+<p begin="00:14:32.080" end="00:14:38.020" style="s2">humans are but that&#39;s you know that&#39;s</p>
+<p begin="00:14:35.710" end="00:14:40.480" style="s2">kind of the ultimate goal and people</p>
+<p begin="00:14:38.020" end="00:14:43.060" style="s2">talk about AGI artificial general</p>
+<p begin="00:14:40.480" end="00:14:46.810" style="s2">intelligence or human level intelligence</p>
+<p begin="00:14:43.060" end="00:14:50.170" style="s2">or as you say strong AI all these terms</p>
+<p begin="00:14:46.810" end="00:14:53.200" style="s2">refer to a goal rather than to anything</p>
+<p begin="00:14:50.170" end="00:14:56.080" style="s2">close to what we have today yep that</p>
+<p begin="00:14:53.200" end="00:14:58.120" style="s2">certainly seem to be correct to me and</p>
+<p begin="00:14:56.080" end="00:15:00.280" style="s2">yet you and I both know an awful lot of</p>
+<p begin="00:14:58.120" end="00:15:02.320" style="s2">people including me who got involved</p>
+<p begin="00:15:00.280" end="00:15:04.810" style="s2">with AI at one time or other it was all</p>
+<p begin="00:15:02.320" end="00:15:08.290" style="s2">about the hope for this human-level AI</p>
+<p begin="00:15:04.810" end="00:15:11.290" style="s2">someday I think most people who got into</p>
+<p begin="00:15:08.290" end="00:15:13.660" style="s2">the field at least up until recently</p>
+<p begin="00:15:11.290" end="00:15:15.630" style="s2">that was their goal they got in because</p>
+<p begin="00:15:13.660" end="00:15:18.600" style="s2">they were really excited about</p>
+<p begin="00:15:15.630" end="00:15:20.470" style="s2">recreating human-like intelligence</p>
+<p begin="00:15:18.600" end="00:15:22.060" style="s2">because they were interested in</p>
+<p begin="00:15:20.470" end="00:15:25.060" style="s2">intelligence in the phenomena of</p>
+<p begin="00:15:22.060" end="00:15:28.560" style="s2">intelligence and understanding it but it</p>
+<p begin="00:15:25.060" end="00:15:32.230" style="s2">seems that our own intelligence is</p>
+<p begin="00:15:28.560" end="00:15:34.120" style="s2">actually invisible to us you know we do</p>
+<p begin="00:15:32.230" end="00:15:36.390" style="s2">so many things so easily like this</p>
+<p begin="00:15:34.120" end="00:15:38.910" style="s2">conversation were carrying out you and</p>
+<p begin="00:15:36.390" end="00:15:40.650" style="s2">just chatting and talking and we have no</p>
+<p begin="00:15:38.910" end="00:15:42.990" style="s2">idea sort of how our brains are doing</p>
+<p begin="00:15:40.650" end="00:15:44.760" style="s2">that and it turns out that it&#39;s much</p>
+<p begin="00:15:42.990" end="00:15:47.910" style="s2">harder than we thought</p>
+<p begin="00:15:44.760" end="00:15:50.700" style="s2">than people ever thought to recreate</p>
+<p begin="00:15:47.910" end="00:15:53.130" style="s2">that in machines so that&#39;s been a</p>
+<p begin="00:15:50.700" end="00:15:55.680" style="s2">recurring theme in AI that people are</p>
+<p begin="00:15:53.130" end="00:15:57.840" style="s2">figuring out more and more how complex</p>
+<p begin="00:15:55.680" end="00:15:59.850" style="s2">intelligence really is in a way that&#39;s</p>
+<p begin="00:15:57.840" end="00:16:02.490" style="s2">almost invisible to our conscious</p>
+<p begin="00:15:59.850" end="00:16:04.500" style="s2">processing yeah one of your chapter of</p>
+<p begin="00:16:02.490" end="00:16:07.170" style="s2">titles I believe was easy things are</p>
+<p begin="00:16:04.500" end="00:16:09.060" style="s2">hard right right that&#39;s something that&#39;s</p>
+<p begin="00:16:07.170" end="00:16:10.710" style="s2">been you know pointed out many times you</p>
+<p begin="00:16:09.060" end="00:16:12.630" style="s2">know I think you may have also mentioned</p>
+<p begin="00:16:10.710" end="00:16:15.000" style="s2">this one specifically neither of us</p>
+<p begin="00:16:12.630" end="00:16:16.350" style="s2">could multiply 250 digit numbers very</p>
+<p begin="00:16:15.000" end="00:16:18.630" style="s2">quickly and yet a dollar-fifty</p>
+<p begin="00:16:16.350" end="00:16:20.910" style="s2">calculator does it without any problem</p>
+<p begin="00:16:18.630" end="00:16:24.240" style="s2">at all and yet the biggest computers in</p>
+<p begin="00:16:20.910" end="00:16:26.610" style="s2">the world smartest a eyes can&#39;t pass the</p>
+<p begin="00:16:24.240" end="00:16:28.980" style="s2">Steve Wozniak test which is to you know</p>
+<p begin="00:16:26.610" end="00:16:30.600" style="s2">drop a robot into a random American</p>
+<p begin="00:16:28.980" end="00:16:31.670" style="s2">kitchen and have it figure out how to</p>
+<p begin="00:16:30.600" end="00:16:34.770" style="s2">make coffee</p>
+<p begin="00:16:31.670" end="00:16:37.830" style="s2">exactly exactly that&#39;s a well-known</p>
+<p begin="00:16:34.770" end="00:16:39.390" style="s2">paradox in AI indeed and yet there are</p>
+<p begin="00:16:37.830" end="00:16:41.760" style="s2">some people who think that we&#39;re</p>
+<p begin="00:16:39.390" end="00:16:44.610" style="s2">knocking at the door you quoted Schoen</p>
+<p begin="00:16:41.760" end="00:16:46.920" style="s2">leg a very smart guy from deepmind who</p>
+<p begin="00:16:44.610" end="00:16:49.860" style="s2">recently said he thought we&#39;d be at the</p>
+<p begin="00:16:46.920" end="00:16:53.010" style="s2">human level of AI in the mid 2020s</p>
+<p begin="00:16:49.860" end="00:16:55.230" style="s2">yeah he since walked that back a bit as</p>
+<p begin="00:16:53.010" end="00:16:58.410" style="s2">you can imagine but he&#39;s not the only</p>
+<p begin="00:16:55.230" end="00:17:00.930" style="s2">one you know Mark Zuckerberg the founder</p>
+<p begin="00:16:58.410" end="00:17:02.670" style="s2">of Facebook believed that within the</p>
+<p begin="00:17:00.930" end="00:17:05.790" style="s2">next five years we&#39;d have something like</p>
+<p begin="00:17:02.670" end="00:17:08.490" style="s2">human AI and he was gonna have his</p>
+<p begin="00:17:05.790" end="00:17:11.640" style="s2">company invent that I think the founders</p>
+<p begin="00:17:08.490" end="00:17:14.640" style="s2">of Google also were very optimistic and</p>
+<p begin="00:17:11.640" end="00:17:18.329" style="s2">they hired Ray Kurzweil maybe the most</p>
+<p begin="00:17:14.640" end="00:17:21.839" style="s2">famous AI optimist to make you know</p>
+<p begin="00:17:18.329" end="00:17:25.620" style="s2">general AI happen at Google so there&#39;s a</p>
+<p begin="00:17:21.839" end="00:17:29.100" style="s2">pretty big difference of opinion even in</p>
+<p begin="00:17:25.620" end="00:17:31.890" style="s2">the tech community about how close we</p>
+<p begin="00:17:29.100" end="00:17:33.630" style="s2">are to having something like that yeah</p>
+<p begin="00:17:31.890" end="00:17:35.820" style="s2">it may be it&#39;s like you know fusion</p>
+<p begin="00:17:33.630" end="00:17:37.980" style="s2">based electricity it&#39;s 20 years in the</p>
+<p begin="00:17:35.820" end="00:17:41.220" style="s2">future and always will be that&#39;s what</p>
+<p begin="00:17:37.980" end="00:17:45.540" style="s2">people say and I think the reason for</p>
+<p begin="00:17:41.220" end="00:17:47.730" style="s2">that is that we don&#39;t understand how</p>
+<p begin="00:17:45.540" end="00:17:50.130" style="s2">complicated our own intelligence is</p>
+<p begin="00:17:47.730" end="00:17:52.770" style="s2">because or so</p>
+<p begin="00:17:50.130" end="00:17:55.170" style="s2">conscious of most of it most of the</p>
+<p begin="00:17:52.770" end="00:17:57.270" style="s2">intelligence but they you know the sort</p>
+<p begin="00:17:55.170" end="00:17:59.580" style="s2">of things that allow us to be generally</p>
+<p begin="00:17:57.270" end="00:18:02.430" style="s2">intelligent to happen below the level of</p>
+<p begin="00:17:59.580" end="00:18:04.230" style="s2">our consciousness absolutely in fact my</p>
+<p begin="00:18:02.430" end="00:18:06.210" style="s2">day jobs that agree I have one is the</p>
+<p begin="00:18:04.230" end="00:18:08.280" style="s2">scientific study of consciousness and</p>
+<p begin="00:18:06.210" end="00:18:11.790" style="s2">the more I learn about it the more I</p>
+<p begin="00:18:08.280" end="00:18:14.400" style="s2">realized how amazingly minor the actual</p>
+<p begin="00:18:11.790" end="00:18:16.020" style="s2">conscious frame is itself I used to</p>
+<p begin="00:18:14.400" end="00:18:17.610" style="s2">think it was doing one or two percent of</p>
+<p begin="00:18:16.020" end="00:18:20.970" style="s2">the work but it&#39;s a lot less than that</p>
+<p begin="00:18:17.610" end="00:18:22.800" style="s2">actually that&#39;s interesting yep the</p>
+<p begin="00:18:20.970" end="00:18:25.050" style="s2">actual bitrate being processed in</p>
+<p begin="00:18:22.800" end="00:18:30.600" style="s2">consciousness is on the order of 60 bits</p>
+<p begin="00:18:25.050" end="00:18:32.850" style="s2">a second that&#39;s 60 bits a second and and</p>
+<p begin="00:18:30.600" end="00:18:34.830" style="s2">yet we know that until probably still to</p>
+<p begin="00:18:32.850" end="00:18:37.350" style="s2">this day it&#39;s true that the actual</p>
+<p begin="00:18:34.830" end="00:18:39.630" style="s2">processing at the bit level in the human</p>
+<p begin="00:18:37.350" end="00:18:42.300" style="s2">brain is larger than any computer on</p>
+<p begin="00:18:39.630" end="00:18:44.580" style="s2">earth will pass that number soon but</p>
+<p begin="00:18:42.300" end="00:18:46.650" style="s2">think about that sixty bits per second</p>
+<p begin="00:18:44.580" end="00:18:48.240" style="s2">versus the most powerful computer on</p>
+<p begin="00:18:46.650" end="00:18:49.890" style="s2">earth the thing that lives between your</p>
+<p begin="00:18:48.240" end="00:18:51.690" style="s2">ears so that shows you how much is</p>
+<p begin="00:18:49.890" end="00:18:54.390" style="s2">happening you know down in the lower</p>
+<p begin="00:18:51.690" end="00:18:56.460" style="s2">parts of the brain where we really still</p>
+<p begin="00:18:54.390" end="00:18:59.130" style="s2">don&#39;t have that much insight yeah that&#39;s</p>
+<p begin="00:18:56.460" end="00:19:01.650" style="s2">why I thought it was a musing when and</p>
+<p begin="00:18:59.130" end="00:19:04.530" style="s2">Rui who&#39;s a former Stanford professor</p>
+<p begin="00:19:01.650" end="00:19:06.060" style="s2">and very big name in AI he came out with</p>
+<p begin="00:19:04.530" end="00:19:09.170" style="s2">this prediction that anything that</p>
+<p begin="00:19:06.060" end="00:19:13.260" style="s2">people can do in a second or less</p>
+<p begin="00:19:09.170" end="00:19:15.930" style="s2">machines will be able to do as well like</p>
+<p begin="00:19:13.260" end="00:19:18.030" style="s2">within the next few years and I was</p>
+<p begin="00:19:15.930" end="00:19:20.780" style="s2">thinking well he really has no clue what</p>
+<p begin="00:19:18.030" end="00:19:23.640" style="s2">people are doing in that second or less</p>
+<p begin="00:19:20.780" end="00:19:25.110" style="s2">they&#39;re doing a lot yeah the one you</p>
+<p begin="00:19:23.640" end="00:19:27.270" style="s2">alluded to earlier which is still a</p>
+<p begin="00:19:25.110" end="00:19:29.850" style="s2">great mystery is how is it that humans</p>
+<p begin="00:19:27.270" end="00:19:31.620" style="s2">produce speech right you know making</p>
+<p begin="00:19:29.850" end="00:19:33.930" style="s2">your tongue wag is fairly well</p>
+<p begin="00:19:31.620" end="00:19:35.790" style="s2">understood but how is it that we choose</p>
+<p begin="00:19:33.930" end="00:19:37.920" style="s2">the words we do I mean it all happens</p>
+<p begin="00:19:35.790" end="00:19:41.330" style="s2">completely unconsciously we have no</p>
+<p begin="00:19:37.920" end="00:19:43.860" style="s2">insight into our sentence creation</p>
+<p begin="00:19:41.330" end="00:19:45.270" style="s2">mechanisms this black box machinery from</p>
+<p begin="00:19:43.860" end="00:19:46.770" style="s2">the conscious mind and there&#39;s what</p>
+<p begin="00:19:45.270" end="00:19:49.290" style="s2">that&#39;s something we do in one second all</p>
+<p begin="00:19:46.770" end="00:19:52.290" style="s2">the time yeah and that machines can&#39;t do</p>
+<p begin="00:19:49.290" end="00:19:53.490" style="s2">very well at all let&#39;s jump ahead a</p>
+<p begin="00:19:52.290" end="00:19:56.640" style="s2">little bit cuz you mentioned it and</p>
+<p begin="00:19:53.490" end="00:19:58.320" style="s2">that&#39;s self-driving cars and you point</p>
+<p begin="00:19:56.640" end="00:20:01.020" style="s2">out that one of the things that bedevils</p>
+<p begin="00:19:58.320" end="00:20:03.800" style="s2">many of these kinds of high stakes high</p>
+<p begin="00:20:01.020" end="00:20:05.960" style="s2">value problems is the long tail</p>
+<p begin="00:20:03.800" end="00:20:07.670" style="s2">problem once you tell us about that and</p>
+<p begin="00:20:05.960" end="00:20:09.530" style="s2">then more generally what you think is</p>
+<p begin="00:20:07.670" end="00:20:11.300" style="s2">going on with self-driving cars because</p>
+<p begin="00:20:09.530" end="00:20:14.090" style="s2">you were right even big companies like</p>
+<p begin="00:20:11.300" end="00:20:15.740" style="s2">Ford was saying 2020 was the year you</p>
+<p begin="00:20:14.090" end="00:20:18.380" style="s2">could go down to the Ford dealer and buy</p>
+<p begin="00:20:15.740" end="00:20:21.500" style="s2">a you know level five self-driving car</p>
+<p begin="00:20:18.380" end="00:20:25.370" style="s2">we obviously isn&#39;t gonna happen yeah so</p>
+<p begin="00:20:21.500" end="00:20:27.380" style="s2">so the way that these cars are created</p>
+<p begin="00:20:25.370" end="00:20:30.160" style="s2">the sort of self-driving cars as they</p>
+<p begin="00:20:27.380" end="00:20:34.220" style="s2">use at least in their vision systems</p>
+<p begin="00:20:30.160" end="00:20:37.640" style="s2">they use deep learning which involves</p>
+<p begin="00:20:34.220" end="00:20:40.940" style="s2">learning from millions of labeled</p>
+<p begin="00:20:37.640" end="00:20:44.480" style="s2">examples like you know some human has</p>
+<p begin="00:20:40.940" end="00:20:46.130" style="s2">labeled a video that a car might see</p>
+<p begin="00:20:44.480" end="00:20:47.930" style="s2">when it&#39;s something like that when it&#39;s</p>
+<p begin="00:20:46.130" end="00:20:50.930" style="s2">driving they&#39;ve labeled every object in</p>
+<p begin="00:20:47.930" end="00:20:53.600" style="s2">it and the car learns like this is a</p>
+<p begin="00:20:50.930" end="00:20:55.790" style="s2">trash can this is a stoplight this is a</p>
+<p begin="00:20:53.600" end="00:20:58.820" style="s2">stop sign this is you know this is a</p>
+<p begin="00:20:55.790" end="00:21:01.460" style="s2">pedestrian this is a dog and it learns</p>
+<p begin="00:20:58.820" end="00:21:04.610" style="s2">all those objects but the longtail</p>
+<p begin="00:21:01.460" end="00:21:10.190" style="s2">problem says that there&#39;s lots of things</p>
+<p begin="00:21:04.610" end="00:21:12.020" style="s2">in the world that are very unusual but</p>
+<p begin="00:21:10.190" end="00:21:15.530" style="s2">there&#39;s so many things that are unusual</p>
+<p begin="00:21:12.020" end="00:21:17.840" style="s2">that something unusual is likely to come</p>
+<p begin="00:21:15.530" end="00:21:20.390" style="s2">up so there&#39;s this idea of us think of a</p>
+<p begin="00:21:17.840" end="00:21:22.820" style="s2">statistical distribution where there&#39;s</p>
+<p begin="00:21:20.390" end="00:21:26.990" style="s2">lots of normal usual things that you</p>
+<p begin="00:21:22.820" end="00:21:28.940" style="s2">would see but many many very unusual</p>
+<p begin="00:21:26.990" end="00:21:31.940" style="s2">things that are in the tail of that</p>
+<p begin="00:21:28.940" end="00:21:34.160" style="s2">distribution so I gave some examples</p>
+<p begin="00:21:31.940" end="00:21:37.730" style="s2">like you know you&#39;re you&#39;re sitting at a</p>
+<p begin="00:21:34.160" end="00:21:40.490" style="s2">stoplight for five minutes it&#39;s a red</p>
+<p begin="00:21:37.730" end="00:21:42.020" style="s2">light it doesn&#39;t change okay that hardly</p>
+<p begin="00:21:40.490" end="00:21:45.470" style="s2">ever happens but it happens occasionally</p>
+<p begin="00:21:42.020" end="00:21:47.180" style="s2">or there&#39;s a snowman in the middle of</p>
+<p begin="00:21:45.470" end="00:21:48.800" style="s2">the road where you&#39;re driving should you</p>
+<p begin="00:21:47.180" end="00:21:50.420" style="s2">run into it you know there&#39;s all these</p>
+<p begin="00:21:48.800" end="00:21:54.230" style="s2">crazy stuff in the world that can happen</p>
+<p begin="00:21:50.420" end="00:21:55.640" style="s2">and machines don&#39;t learn about it so the</p>
+<p begin="00:21:54.230" end="00:21:57.080" style="s2">question is what do they do when they&#39;re</p>
+<p begin="00:21:55.640" end="00:22:00.590" style="s2">in a situation that they haven&#39;t been</p>
+<p begin="00:21:57.080" end="00:22:04.520" style="s2">trained for well we humans have this</p>
+<p begin="00:22:00.590" end="00:22:06.710" style="s2">thing that we call common sense we have</p>
+<p begin="00:22:04.520" end="00:22:08.360" style="s2">it you know you can argue the degree to</p>
+<p begin="00:22:06.710" end="00:22:10.220" style="s2">which different people have common sense</p>
+<p begin="00:22:08.360" end="00:22:11.920" style="s2">but we all have this ability to take</p>
+<p begin="00:22:10.220" end="00:22:14.060" style="s2">something we&#39;ve learned and apply it</p>
+<p begin="00:22:11.920" end="00:22:17.460" style="s2">appropriately for the most part in new</p>
+<p begin="00:22:14.060" end="00:22:20.130" style="s2">situations and self-driving car</p>
+<p begin="00:22:17.460" end="00:22:21.690" style="s2">really lack that common sense so they</p>
+<p begin="00:22:20.130" end="00:22:24.690" style="s2">can do really well in most situations</p>
+<p begin="00:22:21.690" end="00:22:26.850" style="s2">but there will be situations that occur</p>
+<p begin="00:22:24.690" end="00:22:29.100" style="s2">for every self-driving car that it can&#39;t</p>
+<p begin="00:22:26.850" end="00:22:30.750" style="s2">deal with so we don&#39;t have level 5</p>
+<p begin="00:22:29.100" end="00:22:33.440" style="s2">autonomy which is where we can just sit</p>
+<p begin="00:22:30.750" end="00:22:36.690" style="s2">in the back and drink wine and you know</p>
+<p begin="00:22:33.440" end="00:22:38.730" style="s2">read read the newspaper while the car</p>
+<p begin="00:22:36.690" end="00:22:41.399" style="s2">drives us because something weird might</p>
+<p begin="00:22:38.730" end="00:22:43.169" style="s2">happen that it can&#39;t deal with yeah I</p>
+<p begin="00:22:41.399" end="00:22:45.419" style="s2">gotta say that I find anything less than</p>
+<p begin="00:22:43.169" end="00:22:48.539" style="s2">level 5 uninteresting and probably</p>
+<p begin="00:22:45.419" end="00:22:50.700" style="s2">annoying and dangerous yeah that&#39;s the</p>
+<p begin="00:22:48.539" end="00:22:53.309" style="s2">problem I mean this is the big trade-off</p>
+<p begin="00:22:50.700" end="00:22:56.460" style="s2">in self-driving cars is that level 5</p>
+<p begin="00:22:53.309" end="00:23:00.659" style="s2">means the car does everything in all</p>
+<p begin="00:22:56.460" end="00:23:03.510" style="s2">circumstances level 3 or 4 whatever we</p>
+<p begin="00:23:00.659" end="00:23:04.940" style="s2">have now with things like Tesla or the</p>
+<p begin="00:23:03.510" end="00:23:09.330" style="s2">weibo and all these different</p>
+<p begin="00:23:04.940" end="00:23:12.720" style="s2">self-driving sort of prototypes is more</p>
+<p begin="00:23:09.330" end="00:23:15.000" style="s2">that the car can usually manage but</p>
+<p begin="00:23:12.720" end="00:23:18.450" style="s2">occasionally the human needs to step in</p>
+<p begin="00:23:15.000" end="00:23:22.950" style="s2">well humans are very bad at paying</p>
+<p begin="00:23:18.450" end="00:23:25.440" style="s2">attention as we know and people don&#39;t</p>
+<p begin="00:23:22.950" end="00:23:27.840" style="s2">pay attention and they don&#39;t step in</p>
+<p begin="00:23:25.440" end="00:23:29.909" style="s2">when they&#39;re needed because you know</p>
+<p begin="00:23:27.840" end="00:23:31.980" style="s2">stuff happens very fast and so we&#39;ve</p>
+<p begin="00:23:29.909" end="00:23:34.669" style="s2">seen a lot of accidents that involve</p>
+<p begin="00:23:31.980" end="00:23:37.169" style="s2">that very thing where a self-driving car</p>
+<p begin="00:23:34.669" end="00:23:39.330" style="s2">runs into a situation it can&#39;t deal with</p>
+<p begin="00:23:37.169" end="00:23:41.640" style="s2">and the human isn&#39;t paying attention so</p>
+<p begin="00:23:39.330" end="00:23:43.860" style="s2">it is very dangerous and interestingly</p>
+<p begin="00:23:41.640" end="00:23:46.200" style="s2">Google with their way mode like even</p>
+<p begin="00:23:43.860" end="00:23:49.919" style="s2">before it was way mo they came to that</p>
+<p begin="00:23:46.200" end="00:23:51.120" style="s2">view and at the time it seemed radical</p>
+<p begin="00:23:49.919" end="00:23:53.100" style="s2">they said we&#39;re gonna build a car with</p>
+<p begin="00:23:51.120" end="00:23:55.140" style="s2">no steering wheel because we we our</p>
+<p begin="00:23:53.100" end="00:23:57.210" style="s2">analysis our cognitive scientists have</p>
+<p begin="00:23:55.140" end="00:23:59.490" style="s2">told us that the handoff between</p>
+<p begin="00:23:57.210" end="00:24:02.520" style="s2">computer and human is never going to</p>
+<p begin="00:23:59.490" end="00:24:04.110" style="s2">work and it&#39;s a degree they stick to</p>
+<p begin="00:24:02.520" end="00:24:05.880" style="s2">their guns on that they may now be</p>
+<p begin="00:24:04.110" end="00:24:07.919" style="s2">caught on ok they&#39;re right about that</p>
+<p begin="00:24:05.880" end="00:24:10.020" style="s2">but then there&#39;s also the longtail</p>
+<p begin="00:24:07.919" end="00:24:12.270" style="s2">problem on the other side yeah I think</p>
+<p begin="00:24:10.020" end="00:24:14.309" style="s2">the way that it&#39;s gonna be dealt with is</p>
+<p begin="00:24:12.270" end="00:24:17.490" style="s2">by redefining what it means to be</p>
+<p begin="00:24:14.309" end="00:24:19.500" style="s2">self-driving so that we&#39;ll have</p>
+<p begin="00:24:17.490" end="00:24:22.440" style="s2">self-driving cars but only in very</p>
+<p begin="00:24:19.500" end="00:24:24.240" style="s2">restricted circumstances in parts of the</p>
+<p begin="00:24:22.440" end="00:24:27.090" style="s2">city where everything is completely</p>
+<p begin="00:24:24.240" end="00:24:29.429" style="s2">mapped out and you know there&#39;s may be</p>
+<p begin="00:24:27.090" end="00:24:30.780" style="s2">restrictions on what where pedestrians</p>
+<p begin="00:24:29.429" end="00:24:32.820" style="s2">can go</p>
+<p begin="00:24:30.780" end="00:24:34.950" style="s2">and it won&#39;t be available in certain</p>
+<p begin="00:24:32.820" end="00:24:37.080" style="s2">kinds of weather so it&#39;s going to be</p>
+<p begin="00:24:34.950" end="00:24:39.630" style="s2">restricted so that the infrastructure</p>
+<p begin="00:24:37.080" end="00:24:42.840" style="s2">that we humans build will kind of meet</p>
+<p begin="00:24:39.630" end="00:24:45.090" style="s2">self-driving cars halfway so they won&#39;t</p>
+<p begin="00:24:42.840" end="00:24:47.970" style="s2">have to deal with the longtail problem</p>
+<p begin="00:24:45.090" end="00:24:51.060" style="s2">because we&#39;ll try and prevent any weird</p>
+<p begin="00:24:47.970" end="00:24:54.360" style="s2">things from happening but they won&#39;t be</p>
+<p begin="00:24:51.060" end="00:24:56.130" style="s2">able to run in all circumstances yeah</p>
+<p begin="00:24:54.360" end="00:24:58.050" style="s2">the weather is one that&#39;s all I wondered</p>
+<p begin="00:24:56.130" end="00:25:00.240" style="s2">about you know having lived most of my</p>
+<p begin="00:24:58.050" end="00:25:02.520" style="s2">life in places with real four seasons of</p>
+<p begin="00:25:00.240" end="00:25:04.320" style="s2">weather and having dealt with the fact</p>
+<p begin="00:25:02.520" end="00:25:06.660" style="s2">that you can barely see out the window</p>
+<p begin="00:25:04.320" end="00:25:08.850" style="s2">because of ice and fog and hardcore</p>
+<p begin="00:25:06.660" end="00:25:10.620" style="s2">sleet coming down and all this sort of</p>
+<p begin="00:25:08.850" end="00:25:12.690" style="s2">stuff you&#39;d have to have a hell of a lot</p>
+<p begin="00:25:10.620" end="00:25:15.120" style="s2">of extra processing redundancy and</p>
+<p begin="00:25:12.690" end="00:25:18.450" style="s2">sensors to be able to safely drive a car</p>
+<p begin="00:25:15.120" end="00:25:20.070" style="s2">in kind of adverse a real winter weather</p>
+<p begin="00:25:18.450" end="00:25:22.620" style="s2">the kind you might find in the mountains</p>
+<p begin="00:25:20.070" end="00:25:24.450" style="s2">back east yeah absolutely</p>
+<p begin="00:25:22.620" end="00:25:26.760" style="s2">humans aren&#39;t that good at it either as</p>
+<p begin="00:25:24.450" end="00:25:28.860" style="s2">we know humans get into lots of</p>
+<p begin="00:25:26.760" end="00:25:31.560" style="s2">accidents and some of the self-driving</p>
+<p begin="00:25:28.860" end="00:25:33.030" style="s2">car people have argued well self-driving</p>
+<p begin="00:25:31.560" end="00:25:35.490" style="s2">cars aren&#39;t perfect they&#39;re going to get</p>
+<p begin="00:25:33.030" end="00:25:38.850" style="s2">into accidents but maybe they&#39;ll reduce</p>
+<p begin="00:25:35.490" end="00:25:40.260" style="s2">the overall number of accidents yeah</p>
+<p begin="00:25:38.850" end="00:25:42.120" style="s2">that could be well be the case I make</p>
+<p begin="00:25:40.260" end="00:25:43.800" style="s2">that point which is if the goal was that</p>
+<p begin="00:25:42.120" end="00:25:45.270" style="s2">self-driving cars had to be perfect</p>
+<p begin="00:25:43.800" end="00:25:47.430" style="s2">they&#39;d never get there but all they have</p>
+<p begin="00:25:45.270" end="00:25:50.040" style="s2">to do is be better than humans well I</p>
+<p begin="00:25:47.430" end="00:25:53.520" style="s2">think that&#39;s maybe not true that that</p>
+<p begin="00:25:50.040" end="00:25:56.370" style="s2">humans will not accept self-driving cars</p>
+<p begin="00:25:53.520" end="00:25:58.440" style="s2">that are going to be fallible that are</p>
+<p begin="00:25:56.370" end="00:26:00.330" style="s2">maybe just a bit better than humans that</p>
+<p begin="00:25:58.440" end="00:26:02.640" style="s2">kill people you know because they get it</p>
+<p begin="00:26:00.330" end="00:26:04.290" style="s2">they do the wrong thing and I don&#39;t know</p>
+<p begin="00:26:02.640" end="00:26:06.480" style="s2">whether that&#39;s fair or not but I think</p>
+<p begin="00:26:04.290" end="00:26:08.190" style="s2">people sort of hold the higher standard</p>
+<p begin="00:26:06.480" end="00:26:10.740" style="s2">to the technologies than they do to</p>
+<p begin="00:26:08.190" end="00:26:13.410" style="s2">other humans that&#39;s probably true and</p>
+<p begin="00:26:10.740" end="00:26:15.810" style="s2">and even just at the human stick Gail</p>
+<p begin="00:26:13.410" end="00:26:17.370" style="s2">the humans aren&#39;t that bad you know Gary</p>
+<p begin="00:26:15.810" end="00:26:20.370" style="s2">Marcus and I actually looked this up</p>
+<p begin="00:26:17.370" end="00:26:22.680" style="s2">while we were online on our call a month</p>
+<p begin="00:26:20.370" end="00:26:24.240" style="s2">or two ago and it turns out that the</p>
+<p begin="00:26:22.680" end="00:26:27.840" style="s2">current fatality rate in the United</p>
+<p begin="00:26:24.240" end="00:26:29.250" style="s2">States is about one fatality per hundred</p>
+<p begin="00:26:27.840" end="00:26:32.880" style="s2">million like the actual numbers like 80</p>
+<p begin="00:26:29.250" end="00:26:37.260" style="s2">million miles driven and 80 million</p>
+<p begin="00:26:32.880" end="00:26:39.990" style="s2">miles driven is only about what all the</p>
+<p begin="00:26:37.260" end="00:26:42.810" style="s2">self-driving car tests in the world so</p>
+<p begin="00:26:39.990" end="00:26:44.550" style="s2">far have added up to so there&#39;s no real</p>
+<p begin="00:26:42.810" end="00:26:46.170" style="s2">statistical signal at all</p>
+<p begin="00:26:44.550" end="00:26:48.600" style="s2">if there&#39;s a statistical signal at all</p>
+<p begin="00:26:46.170" end="00:26:50.430" style="s2">its that is the opposite is there&#39;s</p>
+<p begin="00:26:48.600" end="00:26:52.620" style="s2">still a lot more dangerous than humans</p>
+<p begin="00:26:50.430" end="00:26:54.000" style="s2">humans aren&#39;t that bad actually they&#39;re</p>
+<p begin="00:26:52.620" end="00:26:56.190" style="s2">not that good but they&#39;re not that bad</p>
+<p begin="00:26:54.000" end="00:26:58.800" style="s2">okay but but I&#39;ll push back a little bit</p>
+<p begin="00:26:56.190" end="00:27:01.170" style="s2">because looking at fatalities is one</p>
+<p begin="00:26:58.800" end="00:27:03.180" style="s2">thing you know we have a lot of stuff</p>
+<p begin="00:27:01.170" end="00:27:05.520" style="s2">technology and cars to prevent</p>
+<p begin="00:27:03.180" end="00:27:08.610" style="s2">fatalities like airbags and seatbelts</p>
+<p begin="00:27:05.520" end="00:27:10.800" style="s2">and all that but there&#39;s a lot of</p>
+<p begin="00:27:08.610" end="00:27:14.820" style="s2">accidents that happen with with humans</p>
+<p begin="00:27:10.800" end="00:27:17.040" style="s2">that aren&#39;t fatal and so humans do get</p>
+<p begin="00:27:14.820" end="00:27:19.560" style="s2">into accidents much more often than that</p>
+<p begin="00:27:17.040" end="00:27:22.620" style="s2">and maybe the number of accidents would</p>
+<p begin="00:27:19.560" end="00:27:24.300" style="s2">decrease with self-driving cars that&#39;s a</p>
+<p begin="00:27:22.620" end="00:27:26.100" style="s2">good point so we&#39;ll you know clearly</p>
+<p begin="00:27:24.300" end="00:27:28.080" style="s2">somebody I&#39;m sure that people like way</p>
+<p begin="00:27:26.100" end="00:27:30.210" style="s2">Moe and uber etc have done this they you</p>
+<p begin="00:27:28.080" end="00:27:33.090" style="s2">know a figure of Merit what is the</p>
+<p begin="00:27:30.210" end="00:27:35.690" style="s2">economic utility of what level of</p>
+<p begin="00:27:33.090" end="00:27:38.190" style="s2">wonderfulness in a self-driving car</p>
+<p begin="00:27:35.690" end="00:27:39.750" style="s2">versus a human but then we still have to</p>
+<p begin="00:27:38.190" end="00:27:42.570" style="s2">get to you know the question that you</p>
+<p begin="00:27:39.750" end="00:27:44.940" style="s2">also raised which is maybe we demand a</p>
+<p begin="00:27:42.570" end="00:27:46.800" style="s2">higher standard from automation before</p>
+<p begin="00:27:44.940" end="00:27:49.650" style="s2">we&#39;re willing to try it yeah and one of</p>
+<p begin="00:27:46.800" end="00:27:51.330" style="s2">the reasons is that we understand I</p>
+<p begin="00:27:49.650" end="00:27:53.190" style="s2">think it&#39;s a matter of understanding and</p>
+<p begin="00:27:51.330" end="00:27:55.380" style="s2">kind of you know I understand why people</p>
+<p begin="00:27:53.190" end="00:27:57.050" style="s2">get into accidents you know they&#39;re not</p>
+<p begin="00:27:55.380" end="00:28:00.240" style="s2">paying attention you kind of see</p>
+<p begin="00:27:57.050" end="00:28:01.680" style="s2">situations where you know somebody acted</p>
+<p begin="00:28:00.240" end="00:28:03.870" style="s2">unpredictably or something like that</p>
+<p begin="00:28:01.680" end="00:28:05.550" style="s2">because I&#39;m a human you know and I can</p>
+<p begin="00:28:03.870" end="00:28:06.930" style="s2">kind of model other humans but it&#39;s</p>
+<p begin="00:28:05.550" end="00:28:08.970" style="s2">harder to understand some of the</p>
+<p begin="00:28:06.930" end="00:28:12.180" style="s2">accidents that self-driving cars get</p>
+<p begin="00:28:08.970" end="00:28:14.430" style="s2">into like for instance when the car the</p>
+<p begin="00:28:12.180" end="00:28:17.970" style="s2">uber car it didn&#39;t stop for that</p>
+<p begin="00:28:14.430" end="00:28:21.540" style="s2">pedestrian that it killed in Arizona or</p>
+<p begin="00:28:17.970" end="00:28:23.190" style="s2">the Tesla&#39;s you know the auto pilot that</p>
+<p begin="00:28:21.540" end="00:28:25.860" style="s2">have been running into stopped fire</p>
+<p begin="00:28:23.190" end="00:28:29.520" style="s2">engines and police cars seen a bunch of</p>
+<p begin="00:28:25.860" end="00:28:31.140" style="s2">those examples and it&#39;s very the kind of</p>
+<p begin="00:28:29.520" end="00:28:32.880" style="s2">mistakes they make are pretty different</p>
+<p begin="00:28:31.140" end="00:28:35.730" style="s2">than the kind of mistakes humans make</p>
+<p begin="00:28:32.880" end="00:28:37.830" style="s2">and that might be a reason that people</p>
+<p begin="00:28:35.730" end="00:28:39.450" style="s2">will trust them less just because I</p>
+<p begin="00:28:37.830" end="00:28:42.930" style="s2">would say they&#39;re less predictable than</p>
+<p begin="00:28:39.450" end="00:28:44.190" style="s2">humans released less explainable yeah I</p>
+<p begin="00:28:42.930" end="00:28:46.380" style="s2">think this is really important for our</p>
+<p begin="00:28:44.190" end="00:28:48.810" style="s2">audience I think one of the things that</p>
+<p begin="00:28:46.380" end="00:28:50.310" style="s2">makes particularly the neural style you</p>
+<p begin="00:28:48.810" end="00:28:53.220" style="s2">know the sub symbolic deep learning</p>
+<p begin="00:28:50.310" end="00:28:55.130" style="s2">style potentially problematic in that</p>
+<p begin="00:28:53.220" end="00:28:57.680" style="s2">way is that the</p>
+<p begin="00:28:55.130" end="00:29:00.530" style="s2">at least so far pretty opaque black</p>
+<p begin="00:28:57.680" end="00:29:02.270" style="s2">boxes and it&#39;s really difficult to get</p>
+<p begin="00:29:00.530" end="00:29:02.690" style="s2">any explanation of why they did what</p>
+<p begin="00:29:02.270" end="00:29:05.330" style="s2">they did</p>
+<p begin="00:29:02.690" end="00:29:07.130" style="s2">unlike symbolic systems could you talk</p>
+<p begin="00:29:05.330" end="00:29:09.920" style="s2">about that distinction a little bit sure</p>
+<p begin="00:29:07.130" end="00:29:13.570" style="s2">right so so deep neural networks are</p>
+<p begin="00:29:09.920" end="00:29:17.890" style="s2">these very complicated programs they&#39;re</p>
+<p begin="00:29:13.570" end="00:29:21.950" style="s2">software for the most part that involve</p>
+<p begin="00:29:17.890" end="00:29:23.840" style="s2">millions of simulated neurons with even</p>
+<p begin="00:29:21.950" end="00:29:26.210" style="s2">more millions of simulated connections</p>
+<p begin="00:29:23.840" end="00:29:29.960" style="s2">between those neurons and it&#39;s just a</p>
+<p begin="00:29:26.210" end="00:29:32.750" style="s2">bunch of equations and numbers very hard</p>
+<p begin="00:29:29.960" end="00:29:35.420" style="s2">for a human even the person who</p>
+<p begin="00:29:32.750" end="00:29:37.160" style="s2">programmed that network to figure out</p>
+<p begin="00:29:35.420" end="00:29:40.190" style="s2">what the network actually learned and</p>
+<p begin="00:29:37.160" end="00:29:42.800" style="s2">why it&#39;s making its decisions you know</p>
+<p begin="00:29:40.190" end="00:29:45.680" style="s2">looking at a long long list of numbers</p>
+<p begin="00:29:42.800" end="00:29:48.970" style="s2">is not an explanation of why this car</p>
+<p begin="00:29:45.680" end="00:29:52.700" style="s2">they ran into this firetruck</p>
+<p begin="00:29:48.970" end="00:29:54.890" style="s2">so this this idea that neural networks</p>
+<p begin="00:29:52.700" end="00:29:58.850" style="s2">in particular machine learning more</p>
+<p begin="00:29:54.890" end="00:30:01.640" style="s2">generally is hard to explain decisions</p>
+<p begin="00:29:58.850" end="00:30:03.290" style="s2">that it made has become a big issue in</p>
+<p begin="00:30:01.640" end="00:30:05.510" style="s2">the field and there&#39;s so kind of a sub</p>
+<p begin="00:30:03.290" end="00:30:09.590" style="s2">industry of people trying to make them</p>
+<p begin="00:30:05.510" end="00:30:11.840" style="s2">more explainable or transparent so how</p>
+<p begin="00:30:09.590" end="00:30:13.850" style="s2">can you trust these systems when you</p>
+<p begin="00:30:11.840" end="00:30:15.860" style="s2">can&#39;t explain why they&#39;re working so</p>
+<p begin="00:30:13.850" end="00:30:17.890" style="s2">it&#39;s a little bit hard to say that we&#39;re</p>
+<p begin="00:30:15.860" end="00:30:20.450" style="s2">going to trust them in all situations</p>
+<p begin="00:30:17.890" end="00:30:22.400" style="s2">that&#39;s where the older symbolic systems</p>
+<p begin="00:30:20.450" end="00:30:24.800" style="s2">had an advantage they may have been</p>
+<p begin="00:30:22.400" end="00:30:26.360" style="s2">brittle in certain situations we&#39;ll come</p>
+<p begin="00:30:24.800" end="00:30:28.820" style="s2">back to the brittleness of neural nets</p>
+<p begin="00:30:26.360" end="00:30:31.040" style="s2">too but because they were you know</p>
+<p begin="00:30:28.820" end="00:30:33.440" style="s2">written out in essentially logic</p>
+<p begin="00:30:31.040" end="00:30:34.790" style="s2">statements one could more or less figure</p>
+<p begin="00:30:33.440" end="00:30:37.040" style="s2">out why they did what they did</p>
+<p begin="00:30:34.790" end="00:30:39.800" style="s2">yeah that&#39;s exactly right and you can</p>
+<p begin="00:30:37.040" end="00:30:43.670" style="s2">think of humans as kind of a combination</p>
+<p begin="00:30:39.800" end="00:30:46.190" style="s2">where we have obviously we are neural</p>
+<p begin="00:30:43.670" end="00:30:47.750" style="s2">networks in some sense we have hundreds</p>
+<p begin="00:30:46.190" end="00:30:49.250" style="s2">of millions of neurons and trillions of</p>
+<p begin="00:30:47.750" end="00:30:50.690" style="s2">connections between the neurons and</p>
+<p begin="00:30:49.250" end="00:30:53.060" style="s2">that&#39;s what&#39;s in our brain but we also</p>
+<p begin="00:30:50.690" end="00:30:55.700" style="s2">have language on top of that which is a</p>
+<p begin="00:30:53.060" end="00:30:58.550" style="s2">symbolic system which allows us to</p>
+<p begin="00:30:55.700" end="00:31:02.230" style="s2">explain our decisions we&#39;re not always</p>
+<p begin="00:30:58.550" end="00:31:05.860" style="s2">explaining them sort of truthfully or</p>
+<p begin="00:31:02.230" end="00:31:08.320" style="s2">with veracity but it&#39;s an approximation</p>
+<p begin="00:31:05.860" end="00:31:11.169" style="s2">and</p>
+<p begin="00:31:08.320" end="00:31:13.000" style="s2">it makes us kind of trust other humans</p>
+<p begin="00:31:11.169" end="00:31:16.509" style="s2">because we should kind of know how they</p>
+<p begin="00:31:13.000" end="00:31:18.370" style="s2">think but these machines just are black</p>
+<p begin="00:31:16.509" end="00:31:21.820" style="s2">boxes and it&#39;s really hard to get inside</p>
+<p begin="00:31:18.370" end="00:31:23.200" style="s2">their heads if you will was in your book</p>
+<p begin="00:31:21.820" end="00:31:24.549" style="s2">or whether were something else I read</p>
+<p begin="00:31:23.200" end="00:31:26.889" style="s2">somewhere else but apparently there&#39;s</p>
+<p begin="00:31:24.549" end="00:31:28.570" style="s2">some other countries not the u.s.</p>
+<p begin="00:31:26.889" end="00:31:29.860" style="s2">because we&#39;re usually laggards and such</p>
+<p begin="00:31:28.570" end="00:31:33.639" style="s2">things for some countries that are</p>
+<p begin="00:31:29.860" end="00:31:36.700" style="s2">considering legislation to require plain</p>
+<p begin="00:31:33.639" end="00:31:39.460" style="s2">English explanations of results from AI</p>
+<p begin="00:31:36.700" end="00:31:41.110" style="s2">systems that have human implications say</p>
+<p begin="00:31:39.460" end="00:31:43.480" style="s2">for instance being turned down for a</p>
+<p begin="00:31:41.110" end="00:31:45.399" style="s2">loan or approved for a mortgage or</p>
+<p begin="00:31:43.480" end="00:31:47.620" style="s2">something like that yeah that was in my</p>
+<p begin="00:31:45.399" end="00:31:51.490" style="s2">book I talked about the European Union&#39;s</p>
+<p begin="00:31:47.620" end="00:31:54.309" style="s2">GDP our legislation which part of it has</p>
+<p begin="00:31:51.490" end="00:31:56.649" style="s2">the right to an explanation you know if</p>
+<p begin="00:31:54.309" end="00:31:58.600" style="s2">your life has been impacted by an</p>
+<p begin="00:31:56.649" end="00:32:00.639" style="s2">algorithm in some way by an outlaw than</p>
+<p begin="00:31:58.600" end="00:32:02.919" style="s2">making the decision you have the right</p>
+<p begin="00:32:00.639" end="00:32:06.009" style="s2">to an explanation but that kind of gets</p>
+<p begin="00:32:02.919" end="00:32:08.889" style="s2">into a murky philosophical territory of</p>
+<p begin="00:32:06.009" end="00:32:11.080" style="s2">what counts as an explanation you know I</p>
+<p begin="00:32:08.889" end="00:32:14.019" style="s2">could say I could give you my soft the</p>
+<p begin="00:32:11.080" end="00:32:16.419" style="s2">the source code to this network and all</p>
+<p begin="00:32:14.019" end="00:32:19.299" style="s2">the data and say well that&#39;s the</p>
+<p begin="00:32:16.419" end="00:32:21.789" style="s2">explanation well obviously that doesn&#39;t</p>
+<p begin="00:32:19.299" end="00:32:24.519" style="s2">tell me much you know maybe all the</p>
+<p begin="00:32:21.789" end="00:32:26.320" style="s2">information is somehow in there but it</p>
+<p begin="00:32:24.519" end="00:32:28.450" style="s2">doesn&#39;t tell me much so how do you</p>
+<p begin="00:32:26.320" end="00:32:30.850" style="s2">decide what counts as a reasonable</p>
+<p begin="00:32:28.450" end="00:32:32.940" style="s2">explanation yeah and it&#39;s not clear that</p>
+<p begin="00:32:30.850" end="00:32:35.379" style="s2">we&#39;re going to be able to build</p>
+<p begin="00:32:32.940" end="00:32:39.879" style="s2">explainable systems that have the same</p>
+<p begin="00:32:35.379" end="00:32:43.120" style="s2">kind of success in terms of accuracy as</p>
+<p begin="00:32:39.879" end="00:32:45.250" style="s2">these deep neural networks that give you</p>
+<p begin="00:32:43.120" end="00:32:48.279" style="s2">a real world example I sometimes do a</p>
+<p begin="00:32:45.250" end="00:32:50.769" style="s2">little bit of Facebook advertising for</p>
+<p begin="00:32:48.279" end="00:32:52.960" style="s2">my podcast episodes frankly more to</p>
+<p begin="00:32:50.769" end="00:32:55.120" style="s2">learn demographic information who&#39;s</p>
+<p begin="00:32:52.960" end="00:32:57.190" style="s2">interested in it than to drive a huge</p>
+<p begin="00:32:55.120" end="00:32:59.919" style="s2">amount of traffic but it&#39;s interesting</p>
+<p begin="00:32:57.190" end="00:33:02.740" style="s2">that I&#39;ve had episodes completely</p>
+<p begin="00:32:59.919" end="00:33:05.320" style="s2">innocent science only episodes turned</p>
+<p begin="00:33:02.740" end="00:33:08.710" style="s2">down by the Facebook advertising machine</p>
+<p begin="00:33:05.320" end="00:33:10.240" style="s2">by what after I raised unholy hell they</p>
+<p begin="00:33:08.710" end="00:33:12.190" style="s2">finally admitted was a completely</p>
+<p begin="00:33:10.240" end="00:33:14.289" style="s2">arbitrary black box signal which they</p>
+<p begin="00:33:12.190" end="00:33:15.879" style="s2">couldn&#39;t explain and they had to reverse</p>
+<p begin="00:33:14.289" end="00:33:19.629" style="s2">by human intervention</p>
+<p begin="00:33:15.879" end="00:33:22.110" style="s2">that&#39;s strange yeah I know well shows</p>
+<p begin="00:33:19.629" end="00:33:24.390" style="s2">how we still need humans in the loop</p>
+<p begin="00:33:22.110" end="00:33:27.780" style="s2">it&#39;s frightening how much we&#39;re kind of</p>
+<p begin="00:33:24.390" end="00:33:30.780" style="s2">in many cases giving autonomy to these</p>
+<p begin="00:33:27.780" end="00:33:33.360" style="s2">algorithms to make decisions about</p>
+<p begin="00:33:30.780" end="00:33:36.929" style="s2">humans like are you allowed to get on</p>
+<p begin="00:33:33.360" end="00:33:43.890" style="s2">this plane no well why well because the</p>
+<p begin="00:33:36.929" end="00:33:45.510" style="s2">algorithm says no and not only is it you</p>
+<p begin="00:33:43.890" end="00:33:47.100" style="s2">know I said I was just utterly pissed</p>
+<p begin="00:33:45.510" end="00:33:48.990" style="s2">off that you know that no one could</p>
+<p begin="00:33:47.100" end="00:33:50.400" style="s2">explain because particularly the one</p>
+<p begin="00:33:48.990" end="00:33:52.770" style="s2">particular episode that kept getting</p>
+<p begin="00:33:50.400" end="00:33:55.919" style="s2">returned turned down again and again was</p>
+<p begin="00:33:52.770" end="00:33:59.960" style="s2">the most pure science non-political</p>
+<p begin="00:33:55.919" end="00:33:59.960" style="s2">non-controversial episode of them all</p>
+<p begin="00:34:00.169" end="00:34:03.960" style="s2">nobody could explain it but the other</p>
+<p begin="00:34:02.669" end="00:34:05.940" style="s2">thing that makes this even more</p>
+<p begin="00:34:03.960" end="00:34:08.090" style="s2">potentially problematic than you talk</p>
+<p begin="00:34:05.940" end="00:34:11.490" style="s2">about this a lot you give some beautiful</p>
+<p begin="00:34:08.090" end="00:34:12.750" style="s2">examples is you know while old expert</p>
+<p begin="00:34:11.490" end="00:34:15.210" style="s2">systems had their own kind of</p>
+<p begin="00:34:12.750" end="00:34:17.369" style="s2">brittleness you know the neural nets are</p>
+<p begin="00:34:15.210" end="00:34:19.470" style="s2">surprisingly brittle and can be easily</p>
+<p begin="00:34:17.369" end="00:34:21.720" style="s2">fooled as well you show some great</p>
+<p begin="00:34:19.470" end="00:34:23.429" style="s2">examples where using adversarial</p>
+<p begin="00:34:21.720" end="00:34:26.730" style="s2">software that intentionally generates</p>
+<p begin="00:34:23.429" end="00:34:29.909" style="s2">trick images neural nets that were</p>
+<p begin="00:34:26.730" end="00:34:33.450" style="s2">trained to pick out classify images you</p>
+<p begin="00:34:29.909" end="00:34:35.490" style="s2">know a panda versus a houseplant versus</p>
+<p begin="00:34:33.450" end="00:34:37.350" style="s2">a steam kettle you can give it pictures</p>
+<p begin="00:34:35.490" end="00:34:39.629" style="s2">that kind of look like static and they</p>
+<p begin="00:34:37.350" end="00:34:43.260" style="s2">all said ostrich I thought tablet really</p>
+<p begin="00:34:39.629" end="00:34:44.700" style="s2">interesting yeah maybe we&#39;re talking a</p>
+<p begin="00:34:43.260" end="00:34:48.419" style="s2">little bit about how at least at the</p>
+<p begin="00:34:44.700" end="00:34:51.869" style="s2">present point in time neural nets can be</p>
+<p begin="00:34:48.419" end="00:34:53.280" style="s2">adversely defeated in perverse kinds of</p>
+<p begin="00:34:51.869" end="00:34:56.129" style="s2">ways right</p>
+<p begin="00:34:53.280" end="00:34:58.710" style="s2">so people have shown many ways in which</p>
+<p begin="00:34:56.129" end="00:35:00.810" style="s2">you can fool neural networks the even</p>
+<p begin="00:34:58.710" end="00:35:03.390" style="s2">the best deep neural networks that</p>
+<p begin="00:35:00.810" end="00:35:06.330" style="s2">people are using today commercially that</p>
+<p begin="00:35:03.390" end="00:35:08.550" style="s2">you can if if you&#39;re sort of clever</p>
+<p begin="00:35:06.330" end="00:35:10.650" style="s2">enough and know something about the way</p>
+<p begin="00:35:08.550" end="00:35:13.350" style="s2">these neural networks work you can</p>
+<p begin="00:35:10.650" end="00:35:16.890" style="s2">create images either images that look</p>
+<p begin="00:35:13.350" end="00:35:19.410" style="s2">exactly like the original image just to</p>
+<p begin="00:35:16.890" end="00:35:22.080" style="s2">humans nothing&#39;s changed but you&#39;ve</p>
+<p begin="00:35:19.410" end="00:35:25.260" style="s2">secretly changed very slightly a few of</p>
+<p begin="00:35:22.080" end="00:35:27.780" style="s2">the pixels and now the network thinks as</p>
+<p begin="00:35:25.260" end="00:35:30.390" style="s2">you said it&#39;s an ostrich rather than a</p>
+<p begin="00:35:27.780" end="00:35:32.730" style="s2">school bus or else you can generate</p>
+<p begin="00:35:30.390" end="00:35:34.290" style="s2">these very noisy looking images</p>
+<p begin="00:35:32.730" end="00:35:37.200" style="s2">don&#39;t look like anything to a human but</p>
+<p begin="00:35:34.290" end="00:35:39.000" style="s2">the network thinks it&#39;s some object it&#39;s</p>
+<p begin="00:35:37.200" end="00:35:39.570" style="s2">very very confident that it&#39;s some</p>
+<p begin="00:35:39.000" end="00:35:41.940" style="s2">object</p>
+<p begin="00:35:39.570" end="00:35:43.800" style="s2">so those are called adversarial examples</p>
+<p begin="00:35:41.940" end="00:35:45.330" style="s2">and they&#39;ve been shown not only in</p>
+<p begin="00:35:43.800" end="00:35:47.820" style="s2">vision but also it&#39;s for speech</p>
+<p begin="00:35:45.330" end="00:35:51.030" style="s2">recognition you know you can fool like</p>
+<p begin="00:35:47.820" end="00:35:53.400" style="s2">your Alexa or your Siri system to think</p>
+<p begin="00:35:51.030" end="00:35:57.990" style="s2">that some white noise is actually a</p>
+<p begin="00:35:53.400" end="00:36:01.340" style="s2">command to it or you can fool language</p>
+<p begin="00:35:57.990" end="00:36:03.869" style="s2">processing programs to miss read</p>
+<p begin="00:36:01.340" end="00:36:06.240" style="s2">sentences to miss translate them in a</p>
+<p begin="00:36:03.869" end="00:36:08.100" style="s2">way that you have targeted you know it&#39;s</p>
+<p begin="00:36:06.240" end="00:36:09.570" style="s2">there&#39;s all kinds of ways in which you</p>
+<p begin="00:36:08.100" end="00:36:11.390" style="s2">can manipulate these networks and it</p>
+<p begin="00:36:09.570" end="00:36:14.970" style="s2">really shows that they are not</p>
+<p begin="00:36:11.390" end="00:36:16.770" style="s2">perceiving their inputs in the same way</p>
+<p begin="00:36:14.970" end="00:36:19.619" style="s2">that we humans perceive them that they</p>
+<p begin="00:36:16.770" end="00:36:21.720" style="s2">haven&#39;t learned the concepts that we</p>
+<p begin="00:36:19.619" end="00:36:23.460" style="s2">meant to teach them that they&#39;ve learned</p>
+<p begin="00:36:21.720" end="00:36:26.160" style="s2">something else that allows us to</p>
+<p begin="00:36:23.460" end="00:36:28.590" style="s2">statistically correlate inputs with</p>
+<p begin="00:36:26.160" end="00:36:31.290" style="s2">outputs and do very well at it except</p>
+<p begin="00:36:28.590" end="00:36:33.570" style="s2">they can be fooled in these very not in</p>
+<p begin="00:36:31.290" end="00:36:35.190" style="s2">human-like ways and that&#39;s the cause a</p>
+<p begin="00:36:33.570" end="00:36:38.609" style="s2">lot of concern in the community there&#39;s</p>
+<p begin="00:36:35.190" end="00:36:41.280" style="s2">a big area of sort of adversarial</p>
+<p begin="00:36:38.609" end="00:36:43.109" style="s2">learning now that people study and try</p>
+<p begin="00:36:41.280" end="00:36:45.180" style="s2">and build defenses against these these</p>
+<p begin="00:36:43.109" end="00:36:47.369" style="s2">attacks but it&#39;s it&#39;s turns out to be</p>
+<p begin="00:36:45.180" end="00:36:50.310" style="s2">quite hard yeah you allude to it in</p>
+<p begin="00:36:47.369" end="00:36:52.590" style="s2">passing but I&#39;ve come to think quite</p>
+<p begin="00:36:50.310" end="00:36:54.570" style="s2">strongly that the reason that we see</p>
+<p begin="00:36:52.590" end="00:36:56.670" style="s2">this brittleness in these neural nets is</p>
+<p begin="00:36:54.570" end="00:36:57.810" style="s2">because they&#39;re almost exclusively</p>
+<p begin="00:36:56.670" end="00:37:00.660" style="s2">feed-forward</p>
+<p begin="00:36:57.810" end="00:37:02.430" style="s2">in meaning that signals start at one end</p>
+<p begin="00:37:00.660" end="00:37:05.580" style="s2">and passed through to the other end with</p>
+<p begin="00:37:02.430" end="00:37:07.350" style="s2">no or very minimal back channel yet we</p>
+<p begin="00:37:05.580" end="00:37:09.300" style="s2">know in things like the human visual</p>
+<p begin="00:37:07.350" end="00:37:12.090" style="s2">perception system there&#39;s a massive</p>
+<p begin="00:37:09.300" end="00:37:13.680" style="s2">amount of feedback and I think you</p>
+<p begin="00:37:12.090" end="00:37:16.350" style="s2">quoted and other people said similar</p>
+<p begin="00:37:13.680" end="00:37:19.650" style="s2">things maybe 10x as much feedback as</p>
+<p begin="00:37:16.350" end="00:37:21.119" style="s2">feed-forward and further in a lot of AI</p>
+<p begin="00:37:19.650" end="00:37:22.530" style="s2">research will they introduce a little</p>
+<p begin="00:37:21.119" end="00:37:24.690" style="s2">bit of recurrency tends to be very</p>
+<p begin="00:37:22.530" end="00:37:26.820" style="s2">short-range you know a storage loop you</p>
+<p begin="00:37:24.690" end="00:37:28.770" style="s2">know one one loop while in the human</p>
+<p begin="00:37:26.820" end="00:37:31.770" style="s2">brain some of the feedback is from very</p>
+<p begin="00:37:28.770" end="00:37:34.710" style="s2">high levels to very low levels and it</p>
+<p begin="00:37:31.770" end="00:37:37.770" style="s2">strikes me that until we start including</p>
+<p begin="00:37:34.710" end="00:37:40.320" style="s2">much more real long range recurrency</p>
+<p begin="00:37:37.770" end="00:37:41.880" style="s2">into neural networks it&#39;s going to be</p>
+<p begin="00:37:40.320" end="00:37:44.430" style="s2">essentially impossible solve that</p>
+<p begin="00:37:41.880" end="00:37:45.900" style="s2">problem I think that&#39;s probably true the</p>
+<p begin="00:37:44.430" end="00:37:47.520" style="s2">problem is that Neurosci</p>
+<p begin="00:37:45.900" end="00:37:50.010" style="s2">just don&#39;t really understand the role of</p>
+<p begin="00:37:47.520" end="00:37:53.100" style="s2">all those feedback connections in the</p>
+<p begin="00:37:50.010" end="00:37:54.540" style="s2">brain and if you try and include that</p>
+<p begin="00:37:53.100" end="00:37:57.030" style="s2">kind of thing in neural networks they</p>
+<p begin="00:37:54.540" end="00:37:58.170" style="s2">become much harder to Train it&#39;s one of</p>
+<p begin="00:37:57.030" end="00:38:01.260" style="s2">those things that&#39;s going to require</p>
+<p begin="00:37:58.170" end="00:38:04.140" style="s2">some advances in neuroscience to really</p>
+<p begin="00:38:01.260" end="00:38:06.060" style="s2">get a better handle on what all those</p>
+<p begin="00:38:04.140" end="00:38:09.420" style="s2">feedback connections are doing and how</p>
+<p begin="00:38:06.060" end="00:38:12.840" style="s2">we learn there their weights and to try</p>
+<p begin="00:38:09.420" end="00:38:15.660" style="s2">and apply some of that to artificial</p>
+<p begin="00:38:12.840" end="00:38:17.520" style="s2">neural nets yeah and you mentioned you</p>
+<p begin="00:38:15.660" end="00:38:20.040" style="s2">know the we think at least that we don&#39;t</p>
+<p begin="00:38:17.520" end="00:38:22.290" style="s2">have algorithms to solve those weights</p>
+<p begin="00:38:20.040" end="00:38:23.850" style="s2">and I would argue that we&#39;re kind of</p>
+<p begin="00:38:22.290" end="00:38:25.560" style="s2">like the person that lost their card</p>
+<p begin="00:38:23.850" end="00:38:27.390" style="s2">keys and are but they&#39;re looking under</p>
+<p begin="00:38:25.560" end="00:38:28.680" style="s2">the street lamp because that&#39;s where the</p>
+<p begin="00:38:27.390" end="00:38:30.780" style="s2">light is even though that&#39;s not where</p>
+<p begin="00:38:28.680" end="00:38:32.610" style="s2">they lost their keys and and that the</p>
+<p begin="00:38:30.780" end="00:38:34.980" style="s2">equivalent of the street lamp is the</p>
+<p begin="00:38:32.610" end="00:38:37.470" style="s2">obsession with gradient descent type</p>
+<p begin="00:38:34.980" end="00:38:40.350" style="s2">algorithms for tuning weights they work</p>
+<p begin="00:38:37.470" end="00:38:42.420" style="s2">really good when they work but there&#39;s a</p>
+<p begin="00:38:40.350" end="00:38:44.250" style="s2">lot of things like highly long-range</p>
+<p begin="00:38:42.420" end="00:38:45.180" style="s2">recurrent architectures or they don&#39;t</p>
+<p begin="00:38:44.250" end="00:38:48.060" style="s2">work at all</p>
+<p begin="00:38:45.180" end="00:38:49.740" style="s2">and yet we do have other methods and you</p>
+<p begin="00:38:48.060" end="00:38:51.690" style="s2">alluded to them just again just in</p>
+<p begin="00:38:49.740" end="00:38:53.280" style="s2">passing one of my favorites probably</p>
+<p begin="00:38:51.690" end="00:38:56.190" style="s2">because it&#39;s what I personally worked</p>
+<p begin="00:38:53.280" end="00:38:58.560" style="s2">with the most is evolutionary solutions</p>
+<p begin="00:38:56.190" end="00:39:00.330" style="s2">to neural weights that will work on</p>
+<p begin="00:38:58.560" end="00:39:01.830" style="s2">arbitrary architectures it doesn&#39;t</p>
+<p begin="00:39:00.330" end="00:39:03.900" style="s2">really matter and can actually be used</p>
+<p begin="00:39:01.830" end="00:39:06.240" style="s2">to discover not just waits but</p>
+<p begin="00:39:03.900" end="00:39:08.820" style="s2">architectures too and there&#39;s been a</p>
+<p begin="00:39:06.240" end="00:39:10.890" style="s2">growing still tiny but growing amount of</p>
+<p begin="00:39:08.820" end="00:39:12.840" style="s2">work that shows for in many problem</p>
+<p begin="00:39:10.890" end="00:39:15.150" style="s2">domains or in some problem domains of</p>
+<p begin="00:39:12.840" end="00:39:16.650" style="s2">some say many yet evolution works as</p>
+<p begin="00:39:15.150" end="00:39:19.350" style="s2">good or maybe better than gradient</p>
+<p begin="00:39:16.650" end="00:39:21.150" style="s2">descent and yet it clearly works in</p>
+<p begin="00:39:19.350" end="00:39:23.100" style="s2">domains where gradient descent can&#39;t get</p>
+<p begin="00:39:21.150" end="00:39:24.930" style="s2">any traction at all you have any</p>
+<p begin="00:39:23.100" end="00:39:26.760" style="s2">thoughts on whether evolutionary</p>
+<p begin="00:39:24.930" end="00:39:29.310" style="s2">approaches might be able to open up</p>
+<p begin="00:39:26.760" end="00:39:32.280" style="s2">these kind of macro architectural</p>
+<p begin="00:39:29.310" end="00:39:34.680" style="s2">questions well as someone who wrote a</p>
+<p begin="00:39:32.280" end="00:39:38.070" style="s2">book about genetic algorithms I&#39;m really</p>
+<p begin="00:39:34.680" end="00:39:40.590" style="s2">excited to see some renewed interest in</p>
+<p begin="00:39:38.070" end="00:39:43.350" style="s2">this field you know it people have been</p>
+<p begin="00:39:40.590" end="00:39:45.750" style="s2">looking at genetic algorithms in some</p>
+<p begin="00:39:43.350" end="00:39:49.140" style="s2">form or another since you know almost</p>
+<p begin="00:39:45.750" end="00:39:50.910" style="s2">the beginning of the AI age but they</p>
+<p begin="00:39:49.140" end="00:39:53.720" style="s2">never really worked that well on you</p>
+<p begin="00:39:50.910" end="00:39:57.380" style="s2">know on a wide set of problems and</p>
+<p begin="00:39:53.720" end="00:39:59.579" style="s2">people kind of decided that oh</p>
+<p begin="00:39:57.380" end="00:40:01.440" style="s2">evolutionary methods don&#39;t work</p>
+<p begin="00:39:59.579" end="00:40:03.420" style="s2">so there was not that much support for</p>
+<p begin="00:40:01.440" end="00:40:05.999" style="s2">them not that much interest but I&#39;ve</p>
+<p begin="00:40:03.420" end="00:40:09.029" style="s2">seen in the last like few years some</p>
+<p begin="00:40:05.999" end="00:40:12.509" style="s2">renewed interest in that area and some</p>
+<p begin="00:40:09.029" end="00:40:14.609" style="s2">renewed successes that kind of come like</p>
+<p begin="00:40:12.509" end="00:40:17.219" style="s2">the success of deep learning because of</p>
+<p begin="00:40:14.609" end="00:40:19.469" style="s2">the amount of computing that&#39;s available</p>
+<p begin="00:40:17.219" end="00:40:21.900" style="s2">to us now so it may be that you know</p>
+<p begin="00:40:19.469" end="00:40:24.569" style="s2">evolutionary methods were a good idea</p>
+<p begin="00:40:21.900" end="00:40:27.390" style="s2">all along but just never had the amount</p>
+<p begin="00:40:24.569" end="00:40:30.059" style="s2">of computing that was needed I was</p>
+<p begin="00:40:27.390" end="00:40:32.519" style="s2">recently at the neural information</p>
+<p begin="00:40:30.059" end="00:40:34.229" style="s2">processing systems conference which is</p>
+<p begin="00:40:32.519" end="00:40:35.759" style="s2">like the biggest machine learning</p>
+<p begin="00:40:34.229" end="00:40:38.009" style="s2">conference international machine</p>
+<p begin="00:40:35.759" end="00:40:40.589" style="s2">learning conference and there were</p>
+<p begin="00:40:38.009" end="00:40:44.160" style="s2">several keynote lectures that mentioned</p>
+<p begin="00:40:40.589" end="00:40:46.979" style="s2">that ideas from evolution and ideas from</p>
+<p begin="00:40:44.160" end="00:40:49.769" style="s2">artificial life should be looked at</p>
+<p begin="00:40:46.979" end="00:40:52.469" style="s2">again in the context of AI and machine</p>
+<p begin="00:40:49.769" end="00:40:55.229" style="s2">learning so I think there&#39;s there&#39;s it&#39;s</p>
+<p begin="00:40:52.469" end="00:40:57.200" style="s2">it&#39;s gonna come back and I think that</p>
+<p begin="00:40:55.229" end="00:41:00.989" style="s2">that&#39;s maybe one of the next frontiers</p>
+<p begin="00:40:57.200" end="00:41:03.479" style="s2">yep I with you it seems to me that it</p>
+<p begin="00:41:00.989" end="00:41:05.579" style="s2">will allow us to explore architectures</p>
+<p begin="00:41:03.479" end="00:41:08.009" style="s2">that the gradient descent feed-forward</p>
+<p begin="00:41:05.579" end="00:41:09.599" style="s2">people just can&#39;t get to and that&#39;ll be</p>
+<p begin="00:41:08.009" end="00:41:11.069" style="s2">a good thing and I&#39;d really think you&#39;re</p>
+<p begin="00:41:09.599" end="00:41:13.019" style="s2">right that it a lot of its could be</p>
+<p begin="00:41:11.069" end="00:41:16.229" style="s2">about the fact that people gonna wake up</p>
+<p begin="00:41:13.019" end="00:41:18.749" style="s2">one day and go holy moly highly parallel</p>
+<p begin="00:41:16.229" end="00:41:20.969" style="s2">stuff has gotten really really cheap you</p>
+<p begin="00:41:18.749" end="00:41:23.130" style="s2">know clock speeds on ships aren&#39;t much</p>
+<p begin="00:41:20.969" end="00:41:24.329" style="s2">faster than they were 10 years ago but</p>
+<p begin="00:41:23.130" end="00:41:26.819" style="s2">the number of course per dollar</p>
+<p begin="00:41:24.329" end="00:41:29.069" style="s2">continues to grow at Moore&#39;s Law and if</p>
+<p begin="00:41:26.819" end="00:41:31.229" style="s2">there&#39;s anything in in computer science</p>
+<p begin="00:41:29.069" end="00:41:33.509" style="s2">that&#39;s embarrassingly parallel its</p>
+<p begin="00:41:31.229" end="00:41:35.880" style="s2">evolutionary algorithms right yeah</p>
+<p begin="00:41:33.509" end="00:41:38.579" style="s2">exactly and you know companies like</p>
+<p begin="00:41:35.880" end="00:41:40.229" style="s2">Google and uber are taking this very</p>
+<p begin="00:41:38.579" end="00:41:41.940" style="s2">seriously and kind of looking at</p>
+<p begin="00:41:40.229" end="00:41:44.400" style="s2">evolutionary methods now so that&#39;s</p>
+<p begin="00:41:41.940" end="00:41:46.890" style="s2">that&#39;s kind of exciting yeah Hooper&#39;s</p>
+<p begin="00:41:44.400" end="00:41:48.509" style="s2">had Jeff clean up but at their place for</p>
+<p begin="00:41:46.890" end="00:41:50.009" style="s2">quite a while and you know he&#39;s funny he</p>
+<p begin="00:41:48.509" end="00:41:52.559" style="s2">says oh I don&#39;t use the word evolution</p>
+<p begin="00:41:50.009" end="00:41:54.239" style="s2">but you know that he still understands</p>
+<p begin="00:41:52.559" end="00:41:56.880" style="s2">that&#39;s an important part of his toolkit</p>
+<p begin="00:41:54.239" end="00:41:58.769" style="s2">oh yeah and another guy Ken Stanley is</p>
+<p begin="00:41:56.880" end="00:42:00.979" style="s2">out there who does use the word</p>
+<p begin="00:41:58.769" end="00:42:00.979" style="s2">evolution</p>
+<p begin="00:42:01.150" end="00:42:06.160" style="s2">and has been working on evolutionary</p>
+<p begin="00:42:04.150" end="00:42:08.319" style="s2">algorithms applied to neural nets for</p>
+<p begin="00:42:06.160" end="00:42:10.420" style="s2">the last thirty years so I think that</p>
+<p begin="00:42:08.319" end="00:42:13.089" style="s2">you know it there&#39;s some there&#39;s some</p>
+<p begin="00:42:10.420" end="00:42:14.589" style="s2">interesting stuff in that area good I&#39;m</p>
+<p begin="00:42:13.089" end="00:42:16.180" style="s2">gonna go see look at the nips for</p>
+<p begin="00:42:14.589" end="00:42:18.760" style="s2">seedings this year and pick out some of</p>
+<p begin="00:42:16.180" end="00:42:21.279" style="s2">those evolutionary papers and see what&#39;s</p>
+<p begin="00:42:18.760" end="00:42:22.779" style="s2">happening yeah this is something I&#39;ve</p>
+<p begin="00:42:21.279" end="00:42:24.190" style="s2">been waiting for for a long time and</p>
+<p begin="00:42:22.779" end="00:42:26.020" style="s2">well I can get in my own little way I</p>
+<p begin="00:42:24.190" end="00:42:27.490" style="s2">fool around with it at the margin and</p>
+<p begin="00:42:26.020" end="00:42:29.349" style="s2">it&#39;s surprising how often you can</p>
+<p begin="00:42:27.490" end="00:42:31.660" style="s2">actually solve a problem I used to you</p>
+<p begin="00:42:29.349" end="00:42:33.700" style="s2">know back in 2001 2002 and I first</p>
+<p begin="00:42:31.660" end="00:42:35.410" style="s2">started talking about him I would say</p>
+<p begin="00:42:33.700" end="00:42:38.500" style="s2">that you know evolutionary neural nets</p>
+<p begin="00:42:35.410" end="00:42:40.630" style="s2">are the weakest possible method but also</p>
+<p begin="00:42:38.500" end="00:42:42.279" style="s2">the most general they could solve almost</p>
+<p begin="00:42:40.630" end="00:42:44.589" style="s2">anything though not necessarily very</p>
+<p begin="00:42:42.279" end="00:42:45.880" style="s2">well or very rapidly and you know with</p>
+<p begin="00:42:44.589" end="00:42:48.220" style="s2">better techniques you know like the</p>
+<p begin="00:42:45.880" end="00:42:49.990" style="s2">Stanley stuff from originally UT I guess</p>
+<p begin="00:42:48.220" end="00:42:52.900" style="s2">he&#39;s down in Florida now this is</p>
+<p begin="00:42:49.990" end="00:42:54.970" style="s2">academic home and the availability of</p>
+<p begin="00:42:52.900" end="00:42:57.940" style="s2">massive truly massive amounts of</p>
+<p begin="00:42:54.970" end="00:43:00.250" style="s2">parallel computation its time may come</p>
+<p begin="00:42:57.940" end="00:43:02.140" style="s2">time in the same way that the you know</p>
+<p begin="00:43:00.250" end="00:43:05.170" style="s2">deep learning there really wasn&#39;t that</p>
+<p begin="00:43:02.140" end="00:43:06.640" style="s2">much magic in the algorithms that what</p>
+<p begin="00:43:05.170" end="00:43:08.619" style="s2">really made the difference was people</p>
+<p begin="00:43:06.640" end="00:43:11.710" style="s2">realize you could implement gradient</p>
+<p begin="00:43:08.619" end="00:43:15.039" style="s2">descent on very cheap parallel</p>
+<p begin="00:43:11.710" end="00:43:17.319" style="s2">architecture in this case GPUs and also</p>
+<p begin="00:43:15.039" end="00:43:20.109" style="s2">somebody tried what seemed like an</p>
+<p begin="00:43:17.319" end="00:43:22.000" style="s2">eternity ridiculous transfer function R</p>
+<p begin="00:43:20.109" end="00:43:23.819" style="s2">Lu and it turned out to work great and</p>
+<p begin="00:43:22.000" end="00:43:27.250" style="s2">it turned out to be particularly</p>
+<p begin="00:43:23.819" end="00:43:29.349" style="s2">efficient on GPUs so sometimes those</p>
+<p begin="00:43:27.250" end="00:43:31.270" style="s2">kinds of fortuitous fairly simple</p>
+<p begin="00:43:29.349" end="00:43:33.069" style="s2">technological underpinnings can really</p>
+<p begin="00:43:31.270" end="00:43:35.109" style="s2">change the fortunes of a whole technical</p>
+<p begin="00:43:33.069" end="00:43:38.049" style="s2">approach yeah I don&#39;t know if you follow</p>
+<p begin="00:43:35.109" end="00:43:41.440" style="s2">broad Brooks on Twitter but he you know</p>
+<p begin="00:43:38.049" end="00:43:45.339" style="s2">he&#39;s a super well known AI robotics</p>
+<p begin="00:43:41.440" end="00:43:48.520" style="s2">researcher and just like a week ago he</p>
+<p begin="00:43:45.339" end="00:43:51.299" style="s2">had this long Twitter thread where he</p>
+<p begin="00:43:48.520" end="00:43:53.770" style="s2">talked about how he&#39;s betting on</p>
+<p begin="00:43:51.299" end="00:43:56.770" style="s2">evolutionary computation as the next big</p>
+<p begin="00:43:53.770" end="00:43:59.200" style="s2">thing in AI so that was pretty pretty</p>
+<p begin="00:43:56.770" end="00:44:01.000" style="s2">interesting that is its thing actually I</p>
+<p begin="00:43:59.200" end="00:44:05.440" style="s2">don&#39;t know if I follow him or no I don&#39;t</p>
+<p begin="00:44:01.000" end="00:44:07.270" style="s2">think so yep I&#39;m gonna follow him you&#39;ll</p>
+<p begin="00:44:05.440" end="00:44:09.039" style="s2">see his threat where he says you if you</p>
+<p begin="00:44:07.270" end="00:44:11.730" style="s2">want to revolutionize AI and make a lot</p>
+<p begin="00:44:09.039" end="00:44:14.560" style="s2">of money try evolutionary computation</p>
+<p begin="00:44:11.730" end="00:44:16.420" style="s2">cool my bet what might be get me</p>
+<p begin="00:44:14.560" end="00:44:19.780" style="s2">enough to go back to work yeah there you</p>
+<p begin="00:44:16.420" end="00:44:23.470" style="s2">go of all things I love evolutionary AI</p>
+<p begin="00:44:19.780" end="00:44:27.600" style="s2">is it but I&#39;m too old and too rich and</p>
+<p begin="00:44:23.470" end="00:44:31.330" style="s2">too lazy so leave it to the kids today</p>
+<p begin="00:44:27.600" end="00:44:33.940" style="s2">oh yeah that very interesting passage in</p>
+<p begin="00:44:31.330" end="00:44:36.340" style="s2">your book where you played the deliverer</p>
+<p begin="00:44:33.940" end="00:44:38.890" style="s2">of other people&#39;s arguments about why</p>
+<p begin="00:44:36.340" end="00:44:41.950" style="s2">AGI might never happen that somehow</p>
+<p begin="00:44:38.890" end="00:44:44.830" style="s2">thinking was something that only humans</p>
+<p begin="00:44:41.950" end="00:44:46.180" style="s2">could do you want you know bring forth</p>
+<p begin="00:44:44.830" end="00:44:49.780" style="s2">some of those arguments and then your</p>
+<p begin="00:44:46.180" end="00:44:51.790" style="s2">views about them so I quoted some of</p>
+<p begin="00:44:49.780" end="00:44:56.020" style="s2">Alan Turing&#39;s arguments in his original</p>
+<p begin="00:44:51.790" end="00:44:59.080" style="s2">paper on the Turing test where he is</p>
+<p begin="00:44:56.020" end="00:45:02.230" style="s2">basically you know lists a bunch of</p>
+<p begin="00:44:59.080" end="00:45:04.630" style="s2">arguments against machines thinking but</p>
+<p begin="00:45:02.230" end="00:45:08.530" style="s2">then I talked about sort of more recent</p>
+<p begin="00:45:04.630" end="00:45:11.520" style="s2">discussions about it where the idea that</p>
+<p begin="00:45:08.530" end="00:45:15.240" style="s2">could a machine actually be thinking</p>
+<p begin="00:45:11.520" end="00:45:19.450" style="s2">versus is it just simulating thought</p>
+<p begin="00:45:15.240" end="00:45:23.620" style="s2">whether that&#39;s an actual good question</p>
+<p begin="00:45:19.450" end="00:45:25.360" style="s2">or really an error in categories so I</p>
+<p begin="00:45:23.620" end="00:45:27.700" style="s2">asked my mother I kind of quoted a</p>
+<p begin="00:45:25.360" end="00:45:29.380" style="s2">conversation with my mom in the book</p>
+<p begin="00:45:27.700" end="00:45:32.920" style="s2">where I talked to her and she&#39;s really</p>
+<p begin="00:45:29.380" end="00:45:35.920" style="s2">adamant that machines can&#39;t think even</p>
+<p begin="00:45:32.920" end="00:45:38.470" style="s2">in principle because brains are for</p>
+<p begin="00:45:35.920" end="00:45:42.310" style="s2">faking and machines are for doing</p>
+<p begin="00:45:38.470" end="00:45:44.500" style="s2">mechanical things so ergo machines</p>
+<p begin="00:45:42.310" end="00:45:47.230" style="s2">cannot think so it&#39;s really it&#39;s it&#39;s a</p>
+<p begin="00:45:44.500" end="00:45:50.740" style="s2">kind of a deep-seated philosophical</p>
+<p begin="00:45:47.230" end="00:45:53.530" style="s2">almost religious view about thinking and</p>
+<p begin="00:45:50.740" end="00:45:55.810" style="s2">I think that that in a way that comes</p>
+<p begin="00:45:53.530" end="00:45:57.580" style="s2">from the notion there&#39;s something more</p>
+<p begin="00:45:55.810" end="00:46:00.940" style="s2">to thinking than just something</p>
+<p begin="00:45:57.580" end="00:46:04.180" style="s2">mechanical like our neurons getting</p>
+<p begin="00:46:00.940" end="00:46:06.480" style="s2">input and firing and that there&#39;s</p>
+<p begin="00:46:04.180" end="00:46:09.280" style="s2">something more to it in the brain you</p>
+<p begin="00:46:06.480" end="00:46:11.800" style="s2">know it&#39;s it&#39;s really a complex systems</p>
+<p begin="00:46:09.280" end="00:46:14.400" style="s2">issue where to my mind it&#39;s an issue of</p>
+<p begin="00:46:11.800" end="00:46:17.490" style="s2">emergence that we have all these very</p>
+<p begin="00:46:14.400" end="00:46:19.990" style="s2">relatively simple non thinking</p>
+<p begin="00:46:17.490" end="00:46:22.990" style="s2">components namely neurons and</p>
+<p begin="00:46:19.990" end="00:46:26.350" style="s2">connections and so on and out of that</p>
+<p begin="00:46:22.990" end="00:46:28.839" style="s2">emerges this complex phenomena that we</p>
+<p begin="00:46:26.350" end="00:46:32.369" style="s2">call thinking that is not easily</p>
+<p begin="00:46:28.839" end="00:46:34.869" style="s2">reducible to the sum of its parts so</p>
+<p begin="00:46:32.369" end="00:46:36.640" style="s2">that&#39;s you know maybe I don&#39;t know if</p>
+<p begin="00:46:34.869" end="00:46:39.309" style="s2">that&#39;s exactly what you want want me to</p>
+<p begin="00:46:36.640" end="00:46:42.089" style="s2">get at but that&#39;s was a lot of what I</p>
+<p begin="00:46:39.309" end="00:46:45.130" style="s2">was trying to get across in that chapter</p>
+<p begin="00:46:42.089" end="00:46:46.450" style="s2">yep I think that&#39;s really good any other</p>
+<p begin="00:46:45.130" end="00:46:47.979" style="s2">thing I think you get alluded to it and</p>
+<p begin="00:46:46.450" end="00:46:50.440" style="s2">passing but something I&#39;ve kept my eye</p>
+<p begin="00:46:47.979" end="00:46:52.119" style="s2">on pretty heavily is it I suspect that</p>
+<p begin="00:46:50.440" end="00:46:54.130" style="s2">one level some of the critique might</p>
+<p begin="00:46:52.119" end="00:46:57.039" style="s2">have been right in that all the focus</p>
+<p begin="00:46:54.130" end="00:46:58.599" style="s2">just on what&#39;s happening in the head may</p>
+<p begin="00:46:57.039" end="00:47:01.119" style="s2">have left out some of the important</p>
+<p begin="00:46:58.599" end="00:47:03.759" style="s2">parts of cognition and the idea of</p>
+<p begin="00:47:01.119" end="00:47:06.700" style="s2">embodied cognition and socially embedded</p>
+<p begin="00:47:03.759" end="00:47:08.499" style="s2">cognition may actually be important for</p>
+<p begin="00:47:06.700" end="00:47:10.749" style="s2">us to understand what human type</p>
+<p begin="00:47:08.499" end="00:47:13.269" style="s2">cognition is really all about yeah</p>
+<p begin="00:47:10.749" end="00:47:14.950" style="s2">that&#39;s a really important discussion so</p>
+<p begin="00:47:13.269" end="00:47:19.200" style="s2">most of a I throughout its entire</p>
+<p begin="00:47:14.950" end="00:47:22.109" style="s2">history has kind of seen intelligence as</p>
+<p begin="00:47:19.200" end="00:47:24.640" style="s2">metaphorically the brain in the VAT that</p>
+<p begin="00:47:22.109" end="00:47:29.079" style="s2">you have this thing this machine a</p>
+<p begin="00:47:24.640" end="00:47:31.390" style="s2">computer whatever it is that doesn&#39;t</p>
+<p begin="00:47:29.079" end="00:47:33.430" style="s2">have a body is not at you know</p>
+<p begin="00:47:31.390" end="00:47:35.799" style="s2">interacting in a social group or in a</p>
+<p begin="00:47:33.430" end="00:47:37.859" style="s2">culture or anything like that but it&#39;s</p>
+<p begin="00:47:35.799" end="00:47:40.239" style="s2">thinking and it&#39;s rational and it&#39;s</p>
+<p begin="00:47:37.859" end="00:47:42.910" style="s2">perfect and it&#39;s infallible and all that</p>
+<p begin="00:47:40.239" end="00:47:46.180" style="s2">stuff that&#39;s kind of the idea of super</p>
+<p begin="00:47:42.910" end="00:47:49.269" style="s2">intelligence that you&#39;re gonna have some</p>
+<p begin="00:47:46.180" end="00:47:50.950" style="s2">machine that&#39;s gonna be you know it&#39;s</p>
+<p begin="00:47:49.269" end="00:47:53.739" style="s2">never gonna need to sleep it&#39;s never</p>
+<p begin="00:47:50.950" end="00:47:55.450" style="s2">going to stop paying attention because</p>
+<p begin="00:47:53.739" end="00:47:59.170" style="s2">it&#39;s bored and all that stuff but</p>
+<p begin="00:47:55.450" end="00:48:02.589" style="s2">another view is that intelligence is at</p>
+<p begin="00:47:59.170" end="00:48:04.329" style="s2">least in humans and all the animals that</p>
+<p begin="00:48:02.589" end="00:48:06.249" style="s2">we know of its embodied that we it</p>
+<p begin="00:48:04.329" end="00:48:07.779" style="s2">relies very much on the body that you</p>
+<p begin="00:48:06.249" end="00:48:10.329" style="s2">have and the way that body interacts</p>
+<p begin="00:48:07.779" end="00:48:13.930" style="s2">with the environment and all these</p>
+<p begin="00:48:10.329" end="00:48:14.499" style="s2">things like needing to sleep getting</p>
+<p begin="00:48:13.930" end="00:48:17.619" style="s2">bored</p>
+<p begin="00:48:14.499" end="00:48:19.809" style="s2">having emotions are actually big part of</p>
+<p begin="00:48:17.619" end="00:48:22.089" style="s2">intelligence and the sole social aspect</p>
+<p begin="00:48:19.809" end="00:48:24.910" style="s2">is very big too so I think that view is</p>
+<p begin="00:48:22.089" end="00:48:27.759" style="s2">it&#39;s been around also for forever but</p>
+<p begin="00:48:24.910" end="00:48:30.339" style="s2">it&#39;s getting some new traction as we see</p>
+<p begin="00:48:27.759" end="00:48:33.309" style="s2">really the kind of limitations of the</p>
+<p begin="00:48:30.339" end="00:48:35.469" style="s2">brain in the bat view of AI yeah one of</p>
+<p begin="00:48:33.309" end="00:48:37.359" style="s2">the guys I really liked following for a</p>
+<p begin="00:48:35.469" end="00:48:40.119" style="s2">long time is Antonio Damasio</p>
+<p begin="00:48:37.359" end="00:48:42.560" style="s2">kind of his core book as the feeling of</p>
+<p begin="00:48:40.119" end="00:48:46.070" style="s2">what happens and he&#39;s a</p>
+<p begin="00:48:42.560" end="00:48:47.090" style="s2">both neuroscience but also where the</p>
+<p begin="00:48:46.070" end="00:48:49.700" style="s2">body and the mind</p>
+<p begin="00:48:47.090" end="00:48:52.460" style="s2">meet kind of scientist and he makes a</p>
+<p begin="00:48:49.700" end="00:48:54.320" style="s2">lot of really strong arguments that it&#39;s</p>
+<p begin="00:48:52.460" end="00:48:56.450" style="s2">particularly around consciousness</p>
+<p begin="00:48:54.320" end="00:48:58.190" style="s2">without the body there really is no</p>
+<p begin="00:48:56.450" end="00:49:00.710" style="s2">consciousness without the sense of the</p>
+<p begin="00:48:58.190" end="00:49:02.180" style="s2">body and I think we&#39;re finding perhaps</p>
+<p begin="00:49:00.710" end="00:49:03.920" style="s2">that that&#39;s more and more true the</p>
+<p begin="00:49:02.180" end="00:49:06.740" style="s2">deeper we dig certainly encourage people</p>
+<p begin="00:49:03.920" end="00:49:09.800" style="s2">to look in those directions yeah but I</p>
+<p begin="00:49:06.740" end="00:49:12.110" style="s2">think some people in AI would argue it&#39;s</p>
+<p begin="00:49:09.800" end="00:49:14.420" style="s2">with you and say well we don&#39;t need</p>
+<p begin="00:49:12.110" end="00:49:16.700" style="s2">consciousness a machine doesn&#39;t need</p>
+<p begin="00:49:14.420" end="00:49:18.740" style="s2">consciousness to be intelligent I would</p>
+<p begin="00:49:16.700" end="00:49:20.990" style="s2">agree with that by the way okay yeah</p>
+<p begin="00:49:18.740" end="00:49:22.550" style="s2">yeah I agree with that and here&#39;s my</p>
+<p begin="00:49:20.990" end="00:49:24.530" style="s2">view on that one no because that this</p>
+<p begin="00:49:22.550" end="00:49:26.960" style="s2">happens to be exactly the work I do is</p>
+<p begin="00:49:24.530" end="00:49:29.390" style="s2">that almost certainly consciousness is</p>
+<p begin="00:49:26.960" end="00:49:30.980" style="s2">not necessary for intelligence or even</p>
+<p begin="00:49:29.390" end="00:49:33.740" style="s2">super intelligence which is probably a</p>
+<p begin="00:49:30.980" end="00:49:36.440" style="s2">good thing right because many of the you</p>
+<p begin="00:49:33.740" end="00:49:38.060" style="s2">know dire scenarios about you know the</p>
+<p begin="00:49:36.440" end="00:49:40.280" style="s2">computers taken over you seem to have</p>
+<p begin="00:49:38.060" end="00:49:42.980" style="s2">accidentally brought in the concept of</p>
+<p begin="00:49:40.280" end="00:49:45.590" style="s2">machine consciousness in addition to</p>
+<p begin="00:49:42.980" end="00:49:49.010" style="s2">machine intelligence however I suspect</p>
+<p begin="00:49:45.590" end="00:49:51.950" style="s2">that mod nature discovered a very clever</p>
+<p begin="00:49:49.010" end="00:49:54.740" style="s2">hack and that consciousness happens to</p>
+<p begin="00:49:51.950" end="00:49:56.720" style="s2">solve one of the deepest problems that</p>
+<p begin="00:49:54.740" end="00:49:58.190" style="s2">AI researchers run into again and again</p>
+<p begin="00:49:56.720" end="00:50:01.160" style="s2">and again which is the combinatoric</p>
+<p begin="00:49:58.190" end="00:50:02.960" style="s2">explosion yeah my model says the</p>
+<p begin="00:50:01.160" end="00:50:06.050" style="s2">consciousness is essentially a fairly</p>
+<p begin="00:50:02.960" end="00:50:08.750" style="s2">simple machine that forces decisions</p>
+<p begin="00:50:06.050" end="00:50:10.430" style="s2">more or less arbitrarily but they&#39;re not</p>
+<p begin="00:50:08.750" end="00:50:12.860" style="s2">arbitrary then they&#39;ve been - and these</p>
+<p begin="00:50:10.430" end="00:50:15.590" style="s2">this machinery of consciousness has been</p>
+<p begin="00:50:12.860" end="00:50:18.170" style="s2">tuned over 200 million years at least to</p>
+<p begin="00:50:15.590" end="00:50:20.150" style="s2">be able to produce quite decent results</p>
+<p begin="00:50:18.170" end="00:50:22.760" style="s2">in the real world but it does it by</p>
+<p begin="00:50:20.150" end="00:50:25.100" style="s2">basically brutally chopping with an axe</p>
+<p begin="00:50:22.760" end="00:50:27.260" style="s2">all the possibilities that are computer</p>
+<p begin="00:50:25.100" end="00:50:29.090" style="s2">programs get themselves tied up into in</p>
+<p begin="00:50:27.260" end="00:50:31.760" style="s2">the shoelaces with and that&#39;s really</p>
+<p begin="00:50:29.090" end="00:50:33.560" style="s2">what consciousness is for interesting</p>
+<p begin="00:50:31.760" end="00:50:35.030" style="s2">you know I don&#39;t know if I agree with</p>
+<p begin="00:50:33.560" end="00:50:37.400" style="s2">you that you could have intelligence</p>
+<p begin="00:50:35.030" end="00:50:38.930" style="s2">without consciousness but I think</p>
+<p begin="00:50:37.400" end="00:50:40.670" style="s2">consciousness also is one of those words</p>
+<p begin="00:50:38.930" end="00:50:43.010" style="s2">that people mean different things by</p>
+<p begin="00:50:40.670" end="00:50:44.660" style="s2">yeah that&#39;s one of the worst parts of</p>
+<p begin="00:50:43.010" end="00:50:46.370" style="s2">that of the consciousness science it&#39;s</p>
+<p begin="00:50:44.660" end="00:50:48.200" style="s2">you have to spend two days figuring out</p>
+<p begin="00:50:46.370" end="00:50:50.240" style="s2">what each person you&#39;re talking to</p>
+<p begin="00:50:48.200" end="00:50:51.740" style="s2">actually means by consciousness I mean</p>
+<p begin="00:50:50.240" end="00:50:53.840" style="s2">you find some people to think only</p>
+<p begin="00:50:51.740" end="00:50:56.330" style="s2">humans have consciousness and if they&#39;ve</p>
+<p begin="00:50:53.840" end="00:50:58.040" style="s2">ever had a dog they obviously don&#39;t mean</p>
+<p begin="00:50:56.330" end="00:50:59.540" style="s2">same thing I do we&#39;re taught where I say</p>
+<p begin="00:50:58.040" end="00:51:02.630" style="s2">not only does the dog have consciousness</p>
+<p begin="00:50:59.540" end="00:51:05.690" style="s2">but so do all mammals all reptiles all</p>
+<p begin="00:51:02.630" end="00:51:07.250" style="s2">dinosaurs all birds etc and maybe even</p>
+<p begin="00:51:05.690" end="00:51:09.200" style="s2">amphibians but of course that&#39;s a big</p>
+<p begin="00:51:07.250" end="00:51:11.510" style="s2">jump from humans only - oh maybe</p>
+<p begin="00:51:09.200" end="00:51:13.100" style="s2">amphibians but we&#39;re clearly talking</p>
+<p begin="00:51:11.510" end="00:51:13.970" style="s2">about something different so whenever</p>
+<p begin="00:51:13.100" end="00:51:14.900" style="s2">you have a conversation about</p>
+<p begin="00:51:13.970" end="00:51:16.310" style="s2">consciousness you have to be very</p>
+<p begin="00:51:14.900" end="00:51:19.600" style="s2">precise we don&#39;t have time to do that</p>
+<p begin="00:51:16.310" end="00:51:21.530" style="s2">today so we&#39;ll have to move on yeah</p>
+<p begin="00:51:19.600" end="00:51:23.030" style="s2">let&#39;s go on to the next topic which</p>
+<p begin="00:51:21.530" end="00:51:25.160" style="s2">again you did a very nice job of laying</p>
+<p begin="00:51:23.030" end="00:51:27.380" style="s2">it out for the layman the idea of</p>
+<p begin="00:51:25.160" end="00:51:28.970" style="s2">reinforcement learning or q-learning</p>
+<p begin="00:51:27.380" end="00:51:31.390" style="s2">I want you to tell people briefly what</p>
+<p begin="00:51:28.970" end="00:51:34.130" style="s2">that is so before I talked about</p>
+<p begin="00:51:31.390" end="00:51:35.900" style="s2">supervised learning this idea that</p>
+<p begin="00:51:34.130" end="00:51:39.110" style="s2">neural network or other machine learning</p>
+<p begin="00:51:35.900" end="00:51:41.300" style="s2">system gets labeled examples where I you</p>
+<p begin="00:51:39.110" end="00:51:43.400" style="s2">know human says this is a dog this is a</p>
+<p begin="00:51:41.300" end="00:51:45.980" style="s2">cat this is a lion this is a tiger and</p>
+<p begin="00:51:43.400" end="00:51:49.910" style="s2">so on well reinforcement learning is a</p>
+<p begin="00:51:45.980" end="00:51:53.840" style="s2">way to learn without labeled examples by</p>
+<p begin="00:51:49.910" end="00:51:56.450" style="s2">allowing a system to take actions in</p>
+<p begin="00:51:53.840" end="00:51:59.960" style="s2">some environment and then either get</p>
+<p begin="00:51:56.450" end="00:52:03.530" style="s2">rewards or punishments occasionally not</p>
+<p begin="00:51:59.960" end="00:52:05.000" style="s2">for every action but occasionally so you</p>
+<p begin="00:52:03.530" end="00:52:09.500" style="s2">know when you&#39;re playing chess you might</p>
+<p begin="00:52:05.000" end="00:52:13.130" style="s2">learn to play chess by making moves at</p>
+<p begin="00:52:09.500" end="00:52:15.950" style="s2">random and getting either a reward when</p>
+<p begin="00:52:13.130" end="00:52:17.440" style="s2">you win the game if you ever win it or a</p>
+<p begin="00:52:15.950" end="00:52:20.450" style="s2">punishment when you lose and then</p>
+<p begin="00:52:17.440" end="00:52:22.400" style="s2">deciding how to adjust your</p>
+<p begin="00:52:20.450" end="00:52:24.770" style="s2">probabilities for making these different</p>
+<p begin="00:52:22.400" end="00:52:27.080" style="s2">moves according to that reward or</p>
+<p begin="00:52:24.770" end="00:52:29.120" style="s2">punishment so there&#39;s been a number of</p>
+<p begin="00:52:27.080" end="00:52:31.100" style="s2">algorithms that people have developed</p>
+<p begin="00:52:29.120" end="00:52:33.980" style="s2">for this so-called reinforcement</p>
+<p begin="00:52:31.100" end="00:52:36.260" style="s2">learning which is really a form of the</p>
+<p begin="00:52:33.980" end="00:52:40.460" style="s2">kind of animal training people used to</p>
+<p begin="00:52:36.260" end="00:52:42.860" style="s2">do to get rats to learn to follow mazes</p>
+<p begin="00:52:40.460" end="00:52:45.140" style="s2">or do other kinds of tasks by getting</p>
+<p begin="00:52:42.860" end="00:52:47.090" style="s2">rewards like food at the end now if you</p>
+<p begin="00:52:45.140" end="00:52:50.450" style="s2">translated that into computer programs</p>
+<p begin="00:52:47.090" end="00:52:52.610" style="s2">you can make these sort of numerical</p>
+<p begin="00:52:50.450" end="00:52:55.160" style="s2">quote unquote rewards that the system</p>
+<p begin="00:52:52.610" end="00:52:59.360" style="s2">gets and reinforcement learning again</p>
+<p begin="00:52:55.160" end="00:53:02.000" style="s2">it&#39;s very old idea but only recently has</p>
+<p begin="00:52:59.360" end="00:53:05.240" style="s2">it seen a lot of big successes the</p>
+<p begin="00:53:02.000" end="00:53:09.080" style="s2">biggest one being the deep minds machine</p>
+<p begin="00:53:05.240" end="00:53:13.370" style="s2">alpha zero that learned how to play go</p>
+<p begin="00:53:09.080" end="00:53:15.770" style="s2">and beat the world&#39;s best go players yep</p>
+<p begin="00:53:13.370" end="00:53:17.930" style="s2">and I think name and the big thing to my</p>
+<p begin="00:53:15.770" end="00:53:20.180" style="s2">mind is that the rewards could be some</p>
+<p begin="00:53:17.930" end="00:53:21.980" style="s2">considerable distance from the action</p>
+<p begin="00:53:20.180" end="00:53:23.510" style="s2">unlike supervised learning where either</p>
+<p begin="00:53:21.980" end="00:53:25.490" style="s2">you got the picture right or you got the</p>
+<p begin="00:53:23.510" end="00:53:27.470" style="s2">picture wrong right in reinforcement</p>
+<p begin="00:53:25.490" end="00:53:30.080" style="s2">learning it might be like the game of go</p>
+<p begin="00:53:27.470" end="00:53:32.390" style="s2">where there&#39;s could be 300 moves before</p>
+<p begin="00:53:30.080" end="00:53:34.070" style="s2">you found out if you won or lost and we</p>
+<p begin="00:53:32.390" end="00:53:36.170" style="s2">get back to the old allocation a credit</p>
+<p begin="00:53:34.070" end="00:53:38.660" style="s2">problem you know how do we in some</p>
+<p begin="00:53:36.170" end="00:53:40.460" style="s2">principled way decide which moves</p>
+<p begin="00:53:38.660" end="00:53:43.100" style="s2">contributed to the win or to the loss</p>
+<p begin="00:53:40.460" end="00:53:45.920" style="s2">right and that allocation of credit</p>
+<p begin="00:53:43.100" end="00:53:47.860" style="s2">problem is what these reinforcement</p>
+<p begin="00:53:45.920" end="00:53:51.830" style="s2">learning algorithms like Q learning</p>
+<p begin="00:53:47.860" end="00:53:54.020" style="s2">solve and they solve that by having the</p>
+<p begin="00:53:51.830" end="00:53:56.690" style="s2">system not not learn to predict whether</p>
+<p begin="00:53:54.020" end="00:54:00.530" style="s2">it&#39;s gonna win or lose at each move but</p>
+<p begin="00:53:56.690" end="00:54:04.580" style="s2">to try and predict from one move to the</p>
+<p begin="00:54:00.530" end="00:54:06.020" style="s2">next to get its predictions to align so</p>
+<p begin="00:54:04.580" end="00:54:09.710" style="s2">we take a little bit more technical</p>
+<p begin="00:54:06.020" end="00:54:12.560" style="s2">explanation to to convey that idea but</p>
+<p begin="00:54:09.710" end="00:54:14.900" style="s2">it&#39;s a very simple idea and as long as</p>
+<p begin="00:54:12.560" end="00:54:17.240" style="s2">you have enough compute power so that</p>
+<p begin="00:54:14.900" end="00:54:20.420" style="s2">the Machine can say play games with</p>
+<p begin="00:54:17.240" end="00:54:22.670" style="s2">itself while it&#39;s learning for millions</p>
+<p begin="00:54:20.420" end="00:54:24.770" style="s2">and millions of games it actually is</p>
+<p begin="00:54:22.670" end="00:54:26.990" style="s2">extremely successful in the game world</p>
+<p begin="00:54:24.770" end="00:54:29.320" style="s2">it&#39;s not totally clear how well it&#39;s</p>
+<p begin="00:54:26.990" end="00:54:31.820" style="s2">gonna translate to more real-world</p>
+<p begin="00:54:29.320" end="00:54:34.250" style="s2">problems where you don&#39;t have this you</p>
+<p begin="00:54:31.820" end="00:54:37.220" style="s2">know the very clear-cut rules of the</p>
+<p begin="00:54:34.250" end="00:54:40.850" style="s2">game and the very discrete idea of Laika</p>
+<p begin="00:54:37.220" end="00:54:42.950" style="s2">moves at winning or losing and I think</p>
+<p begin="00:54:40.850" end="00:54:44.990" style="s2">that that&#39;s very very important point in</p>
+<p begin="00:54:42.950" end="00:54:47.620" style="s2">fact you know that work I&#39;ve mentioned</p>
+<p begin="00:54:44.990" end="00:54:51.170" style="s2">that I did back in 2001 was essentially</p>
+<p begin="00:54:47.620" end="00:54:52.700" style="s2">self play with genetic neural nets that</p>
+<p begin="00:54:51.170" end="00:54:54.830" style="s2">learned how to play Othello they learned</p>
+<p begin="00:54:52.700" end="00:54:57.050" style="s2">pretty well so it&#39;s certainly doable but</p>
+<p begin="00:54:54.830" end="00:54:58.970" style="s2">the point about why it was able to work</p>
+<p begin="00:54:57.050" end="00:55:02.300" style="s2">was there was only a limited number of</p>
+<p begin="00:54:58.970" end="00:55:04.280" style="s2">choices at each turn and typically those</p>
+<p begin="00:55:02.300" end="00:55:05.750" style="s2">numbers are surprisingly small and</p>
+<p begin="00:55:04.280" end="00:55:07.550" style="s2">checkers it&#39;s something like five or six</p>
+<p begin="00:55:05.750" end="00:55:09.820" style="s2">chess it might be 20</p>
+<p begin="00:55:07.550" end="00:55:12.830" style="s2">I think they estimate and go it might be</p>
+<p begin="00:55:09.820" end="00:55:14.660" style="s2">250 but the real world it&#39;s much much</p>
+<p begin="00:55:12.830" end="00:55:16.850" style="s2">higher than that even some games are</p>
+<p begin="00:55:14.660" end="00:55:19.760" style="s2">much higher than that I also do some</p>
+<p begin="00:55:16.850" end="00:55:23.079" style="s2">work on a very advanced military type</p>
+<p begin="00:55:19.760" end="00:55:25.509" style="s2">war game called advanced tactics gold</p>
+<p begin="00:55:23.079" end="00:55:27.819" style="s2">and my rough calculation is that each</p>
+<p begin="00:55:25.509" end="00:55:31.209" style="s2">turn there&#39;s ten to the sixtieth that&#39;s</p>
+<p begin="00:55:27.819" end="00:55:33.729" style="s2">ten to the 60th power possible moves and</p>
+<p begin="00:55:31.209" end="00:55:34.749" style="s2">there&#39;s no way anything like the kinds</p>
+<p begin="00:55:33.729" end="00:55:36.430" style="s2">of cue learning and reinforcement</p>
+<p begin="00:55:34.749" end="00:55:38.349" style="s2">learning we have today could even start</p>
+<p begin="00:55:36.430" end="00:55:40.719" style="s2">to get any traction at all on problems</p>
+<p begin="00:55:38.349" end="00:55:43.589" style="s2">at that scale and yet humans clearly</p>
+<p begin="00:55:40.719" end="00:55:48.359" style="s2">can&#39;t write humans are very good at</p>
+<p begin="00:55:43.589" end="00:55:52.660" style="s2">taking a situation that they&#39;re in and</p>
+<p begin="00:55:48.359" end="00:55:56.739" style="s2">sort of dividing it up into discrete</p>
+<p begin="00:55:52.660" end="00:56:00.039" style="s2">concepts you know we see a whole system</p>
+<p begin="00:55:56.739" end="00:56:02.109" style="s2">of pixels in our vision and we&#39;re able</p>
+<p begin="00:56:00.039" end="00:56:03.670" style="s2">to see objects right we say this is this</p>
+<p begin="00:56:02.109" end="00:56:05.739" style="s2">object this is that object and we see</p>
+<p begin="00:56:03.670" end="00:56:08.349" style="s2">relationships between objects and we</p>
+<p begin="00:56:05.739" end="00:56:11.650" style="s2">kind of describe the situation in a very</p>
+<p begin="00:56:08.349" end="00:56:13.839" style="s2">finite way so if we could get computers</p>
+<p begin="00:56:11.650" end="00:56:16.959" style="s2">to do that in a kind of more human-like</p>
+<p begin="00:56:13.839" end="00:56:18.819" style="s2">way maybe they&#39;d be able to learn using</p>
+<p begin="00:56:16.959" end="00:56:21.309" style="s2">reinforcement learning in the way that</p>
+<p begin="00:56:18.819" end="00:56:24.609" style="s2">we do but it&#39;s really a combination</p>
+<p begin="00:56:21.309" end="00:56:26.410" style="s2">between perception and learning and</p>
+<p begin="00:56:24.609" end="00:56:28.440" style="s2">being able to chunk the world or to</p>
+<p begin="00:56:26.410" end="00:56:31.299" style="s2">course screen the world in the right way</p>
+<p begin="00:56:28.440" end="00:56:33.969" style="s2">and there&#39;s something else to it maybe</p>
+<p begin="00:56:31.299" end="00:56:35.410" style="s2">even beyond that and what keeps coming</p>
+<p begin="00:56:33.969" end="00:56:37.749" style="s2">back when I think about these problems</p>
+<p begin="00:56:35.410" end="00:56:41.769" style="s2">and these alpha zero is a fine example</p>
+<p begin="00:56:37.749" end="00:56:44.019" style="s2">the huge number of data sets that they</p>
+<p begin="00:56:41.769" end="00:56:46.900" style="s2">have to have to get experience somehow</p>
+<p begin="00:56:44.019" end="00:56:48.910" style="s2">humans are able to generalize what they</p>
+<p begin="00:56:46.900" end="00:56:51.309" style="s2">know from one domain to another often</p>
+<p begin="00:56:48.910" end="00:56:53.410" style="s2">called transfer learning you know the</p>
+<p begin="00:56:51.309" end="00:56:55.150" style="s2">greatest chess master of all time may</p>
+<p begin="00:56:53.410" end="00:56:57.459" style="s2">have played fifty thousand games of</p>
+<p begin="00:56:55.150" end="00:56:59.079" style="s2">chess alpha zero would hardly have</p>
+<p begin="00:56:57.459" end="00:57:00.789" style="s2">improved at all after 50 that I know</p>
+<p begin="00:56:59.079" end="00:57:03.099" style="s2">that made it quite true but it certainly</p>
+<p begin="00:57:00.789" end="00:57:04.660" style="s2">would have got nowhere near its level of</p>
+<p begin="00:57:03.099" end="00:57:06.489" style="s2">expertise in anything less than many</p>
+<p begin="00:57:04.660" end="00:57:08.559" style="s2">millions of games and so there&#39;s</p>
+<p begin="00:57:06.489" end="00:57:10.180" style="s2">something going on in humans that&#39;s you</p>
+<p begin="00:57:08.559" end="00:57:12.130" style="s2">know maybe qualitatively different that</p>
+<p begin="00:57:10.180" end="00:57:14.410" style="s2">we don&#39;t even yet know the answer to how</p>
+<p begin="00:57:12.130" end="00:57:16.329" style="s2">to get to beyond just you know coarse</p>
+<p begin="00:57:14.410" end="00:57:16.839" style="s2">graining and objects and things of that</p>
+<p begin="00:57:16.329" end="00:57:18.759" style="s2">sort</p>
+<p begin="00:57:16.839" end="00:57:21.190" style="s2">yeah I think that&#39;s right people are</p>
+<p begin="00:57:18.759" end="00:57:23.229" style="s2">able to abstract very well they&#39;re you</p>
+<p begin="00:57:21.190" end="00:57:25.269" style="s2">know there&#39;s a movie about like it&#39;s</p>
+<p begin="00:57:23.229" end="00:57:27.309" style="s2">called searching for bobby fisher&#39; did</p>
+<p begin="00:57:25.269" end="00:57:28.749" style="s2">you ever see that movie I know the movie</p>
+<p begin="00:57:27.309" end="00:57:31.630" style="s2">I don&#39;t believe I ever saw yeah it&#39;s</p>
+<p begin="00:57:28.749" end="00:57:33.969" style="s2">about a kid child chess prodigy who&#39;s</p>
+<p begin="00:57:31.630" end="00:57:35.319" style="s2">learning to play chess and it&#39;s kind of</p>
+<p begin="00:57:33.969" end="00:57:35.880" style="s2">about his life but there&#39;s one scene in</p>
+<p begin="00:57:35.319" end="00:57:37.890" style="s2">the movie</p>
+<p begin="00:57:35.880" end="00:57:41.369" style="s2">where he&#39;s being taught by this chess</p>
+<p begin="00:57:37.890" end="00:57:43.430" style="s2">master is his teacher and they&#39;re in the</p>
+<p begin="00:57:41.369" end="00:57:46.319" style="s2">middle of the game and then the teacher</p>
+<p begin="00:57:43.430" end="00:57:49.109" style="s2">sweeps all the pieces on the board onto</p>
+<p begin="00:57:46.319" end="00:57:51.569" style="s2">the floor and says okay put them back</p>
+<p begin="00:57:49.109" end="00:57:53.430" style="s2">the way they were and the kid can do it</p>
+<p begin="00:57:51.569" end="00:57:55.859" style="s2">and this is evidently something that</p>
+<p begin="00:57:53.430" end="00:57:58.140" style="s2">chess chess experts can do that because</p>
+<p begin="00:57:55.859" end="00:58:00.180" style="s2">they see the board not as just a</p>
+<p begin="00:57:58.140" end="00:58:02.640" style="s2">collection of you know however many</p>
+<p begin="00:58:00.180" end="00:58:05.990" style="s2">pieces but they see it in terms of</p>
+<p begin="00:58:02.640" end="00:58:09.599" style="s2">high-level concepts and so they can</p>
+<p begin="00:58:05.990" end="00:58:11.640" style="s2">reconstruct it because they didn&#39;t have</p>
+<p begin="00:58:09.599" end="00:58:14.369" style="s2">to memorize every single pieces position</p>
+<p begin="00:58:11.640" end="00:58:15.869" style="s2">they met just knew the concepts and they</p>
+<p begin="00:58:14.369" end="00:58:18.779" style="s2">could recreate it in terms of the</p>
+<p begin="00:58:15.869" end="00:58:22.380" style="s2">concepts so where the concepts are like</p>
+<p begin="00:58:18.779" end="00:58:24.329" style="s2">small configurations with pieces so</p>
+<p begin="00:58:22.380" end="00:58:26.940" style="s2">somehow being able to parse the world</p>
+<p begin="00:58:24.329" end="00:58:29.160" style="s2">that way into this set of high-level</p>
+<p begin="00:58:26.940" end="00:58:30.960" style="s2">concepts is one of the things that we</p>
+<p begin="00:58:29.160" end="00:58:33.029" style="s2">can do that we haven&#39;t figured out I get</p>
+<p begin="00:58:30.960" end="00:58:35.339" style="s2">machines to do and that&#39;s something that</p>
+<p begin="00:58:33.029" end="00:58:38.579" style="s2">I&#39;m particularly interested in because I</p>
+<p begin="00:58:35.339" end="00:58:41.910" style="s2">think that&#39;s the heart of the ability to</p>
+<p begin="00:58:38.579" end="00:58:44.009" style="s2">do abstraction and analogy yeah that&#39;s a</p>
+<p begin="00:58:41.910" end="00:58:46.619" style="s2">perfect transition to my next topic</p>
+<p begin="00:58:44.009" end="00:58:49.680" style="s2">which I just have the word understanding</p>
+<p begin="00:58:46.619" end="00:58:52.049" style="s2">written down right you use that word a</p>
+<p begin="00:58:49.680" end="00:58:54.180" style="s2">lot of times and you know people</p>
+<p begin="00:58:52.049" end="00:58:56.279" style="s2">castigate me sometimes when I when I ask</p>
+<p begin="00:58:54.180" end="00:58:57.809" style="s2">well how close are you to language</p>
+<p begin="00:58:56.279" end="00:58:58.890" style="s2">understanding they&#39;ll say well under</p>
+<p begin="00:58:57.809" end="00:59:00.869" style="s2">what our understanding what does that</p>
+<p begin="00:58:58.890" end="00:59:02.309" style="s2">even mean right right but I think you</p>
+<p begin="00:59:00.869" end="00:59:04.259" style="s2">and I both agree that it does mean</p>
+<p begin="00:59:02.309" end="00:59:06.539" style="s2">something even if we can&#39;t define it as</p>
+<p begin="00:59:04.259" end="00:59:08.579" style="s2">crisply as we&#39;d like I want you to take</p>
+<p begin="00:59:06.539" end="00:59:10.319" style="s2">a whack at what does what does it mean</p>
+<p begin="00:59:08.579" end="00:59:12.299" style="s2">to understand you started to get it to</p>
+<p begin="00:59:10.319" end="00:59:14.430" style="s2">it a little bit there earlier maybe they</p>
+<p begin="00:59:12.299" end="00:59:17.130" style="s2">take it a little further yeah it&#39;s it is</p>
+<p begin="00:59:14.430" end="00:59:19.470" style="s2">a difficult word but I think it&#39;s a</p>
+<p begin="00:59:17.130" end="00:59:22.400" style="s2">really important one when we&#39;re thinking</p>
+<p begin="00:59:19.470" end="00:59:26.460" style="s2">about intelligence so you can think of</p>
+<p begin="00:59:22.400" end="00:59:28.410" style="s2">say reading a story a little paragraph</p>
+<p begin="00:59:26.460" end="00:59:31.740" style="s2">or something about some event that</p>
+<p begin="00:59:28.410" end="00:59:33.359" style="s2">happened so machines can do that and you</p>
+<p begin="00:59:31.740" end="00:59:35.849" style="s2">can even ask some questions about the</p>
+<p begin="00:59:33.359" end="00:59:38.250" style="s2">the story and sometimes they can answer</p>
+<p begin="00:59:35.849" end="00:59:40.380" style="s2">them but the question is did they</p>
+<p begin="00:59:38.250" end="00:59:44.369" style="s2">understand the story in the way that we</p>
+<p begin="00:59:40.380" end="00:59:46.250" style="s2">do and often what psychologists talk</p>
+<p begin="00:59:44.369" end="00:59:48.990" style="s2">about is our ability to construct</p>
+<p begin="00:59:46.250" end="00:59:51.540" style="s2">internal mental models that</p>
+<p begin="00:59:48.990" end="00:59:53.820" style="s2">simulate the situations that we</p>
+<p begin="00:59:51.540" end="00:59:56.550" style="s2">encounter that we read about or that we</p>
+<p begin="00:59:53.820" end="00:59:57.540" style="s2">imagine and that we can use to predict</p>
+<p begin="00:59:56.550" end="01:00:00.869" style="s2">the future</p>
+<p begin="00:59:57.540" end="01:00:04.410" style="s2">that it sort of brings in knowledge</p>
+<p begin="01:00:00.869" end="01:00:06.300" style="s2">about the situation that that that we&#39;ve</p>
+<p begin="01:00:04.410" end="01:00:07.740" style="s2">had you know stored knowledge about the</p>
+<p begin="01:00:06.300" end="01:00:10.890" style="s2">world so probably I should give an</p>
+<p begin="01:00:07.740" end="01:00:14.369" style="s2">example here so say that you read a</p>
+<p begin="01:00:10.890" end="01:00:17.940" style="s2">story about a young kid running a</p>
+<p begin="01:00:14.369" end="01:00:21.060" style="s2">footrace barefoot and winning that&#39;s</p>
+<p begin="01:00:17.940" end="01:00:23.640" style="s2">like a new sketch of a story well what</p>
+<p begin="01:00:21.060" end="01:00:26.160" style="s2">do you understand about that story well</p>
+<p begin="01:00:23.640" end="01:00:28.260" style="s2">you know a lot about what erases and you</p>
+<p begin="01:00:26.160" end="01:00:30.360" style="s2">know like did the kid want to win the</p>
+<p begin="01:00:28.260" end="01:00:31.830" style="s2">race yes of course the kid wanted to win</p>
+<p begin="01:00:30.360" end="01:00:33.900" style="s2">the ways because people compete in races</p>
+<p begin="01:00:31.830" end="01:00:34.800" style="s2">because they want to win did the kid</p>
+<p begin="01:00:33.900" end="01:00:37.200" style="s2">come in first</p>
+<p begin="01:00:34.800" end="01:00:39.810" style="s2">yes that&#39;s what winning means you know</p>
+<p begin="01:00:37.200" end="01:00:42.330" style="s2">did the kids feet hurt after the race</p>
+<p begin="01:00:39.810" end="01:00:45.830" style="s2">well probably if he was barefoot they</p>
+<p begin="01:00:42.330" end="01:00:49.740" style="s2">hurt his because you know when your foot</p>
+<p begin="01:00:45.830" end="01:00:52.080" style="s2">encounters rough rough surface that can</p>
+<p begin="01:00:49.740" end="01:00:52.740" style="s2">hurt it you know was the kid wearing</p>
+<p begin="01:00:52.080" end="01:00:54.390" style="s2">socks</p>
+<p begin="01:00:52.740" end="01:00:55.950" style="s2">no of course that hit being barefoot</p>
+<p begin="01:00:54.390" end="01:00:58.050" style="s2">means you&#39;re not wearing socks so just</p>
+<p begin="01:00:55.950" end="01:00:59.940" style="s2">we just have all this infinite knowledge</p>
+<p begin="01:00:58.050" end="01:01:02.670" style="s2">about the way the world works that</p>
+<p begin="01:00:59.940" end="01:01:04.080" style="s2">allows us to sort of run these mental</p>
+<p begin="01:01:02.670" end="01:01:06.930" style="s2">models that can allow us to answer</p>
+<p begin="01:01:04.080" end="01:01:09.990" style="s2">questions about the things that that</p>
+<p begin="01:01:06.930" end="01:01:13.410" style="s2">were faced with so understanding is a</p>
+<p begin="01:01:09.990" end="01:01:17.040" style="s2">lot about modeling and being able to use</p>
+<p begin="01:01:13.410" end="01:01:20.520" style="s2">those models to sort of access knowledge</p>
+<p begin="01:01:17.040" end="01:01:24.180" style="s2">and predict the future so that&#39;s a kind</p>
+<p begin="01:01:20.520" end="01:01:27.450" style="s2">of a one attempt at trying to get some</p>
+<p begin="01:01:24.180" end="01:01:29.970" style="s2">handle on that term yeah in what area</p>
+<p begin="01:01:27.450" end="01:01:32.400" style="s2">where this really comes out is in the</p>
+<p begin="01:01:29.970" end="01:01:34.230" style="s2">area of language processing which of</p>
+<p begin="01:01:32.400" end="01:01:36.150" style="s2">course is a huge area of investment</p>
+<p begin="01:01:34.230" end="01:01:38.760" style="s2">right now and the scientific and</p>
+<p begin="01:01:36.150" end="01:01:40.770" style="s2">academic research and yet you gave a</p>
+<p begin="01:01:38.760" end="01:01:42.150" style="s2">bunch of great examples about the tools</p>
+<p begin="01:01:40.770" end="01:01:43.950" style="s2">that we have today they don&#39;t really</p>
+<p begin="01:01:42.150" end="01:01:45.960" style="s2">have anything like this kind of</p>
+<p begin="01:01:43.950" end="01:01:48.180" style="s2">understanding maybe could you take</p>
+<p begin="01:01:45.960" end="01:01:50.250" style="s2">people through some examples of the very</p>
+<p begin="01:01:48.180" end="01:01:52.460" style="s2">impressive things that we have today in</p>
+<p begin="01:01:50.250" end="01:01:55.290" style="s2">language processing and how they don&#39;t</p>
+<p begin="01:01:52.460" end="01:01:57.570" style="s2">really show understanding one of the</p>
+<p begin="01:01:55.290" end="01:02:00.000" style="s2">more impressive things we have our</p>
+<p begin="01:01:57.570" end="01:02:02.190" style="s2">translation programs like Google</p>
+<p begin="01:02:00.000" end="01:02:04.380" style="s2">Translate that can</p>
+<p begin="01:02:02.190" end="01:02:06.510" style="s2">take in text and translate it into any</p>
+<p begin="01:02:04.380" end="01:02:09.600" style="s2">number of languages you know hundreds of</p>
+<p begin="01:02:06.510" end="01:02:12.890" style="s2">languages but the program when you</p>
+<p begin="01:02:09.600" end="01:02:14.880" style="s2">actually give it a passage it&#39;s not</p>
+<p begin="01:02:12.890" end="01:02:17.880" style="s2">understanding the passage in the way</p>
+<p begin="01:02:14.880" end="01:02:19.470" style="s2">that we humans understand it and we can</p>
+<p begin="01:02:17.880" end="01:02:23.820" style="s2">see that in some of the errors that</p>
+<p begin="01:02:19.470" end="01:02:25.440" style="s2">makes so it makes errors like if I one</p>
+<p begin="01:02:23.820" end="01:02:27.240" style="s2">of the examples I had in the book was a</p>
+<p begin="01:02:25.440" end="01:02:30.930" style="s2">little story about someone in a</p>
+<p begin="01:02:27.240" end="01:02:32.580" style="s2">restaurant and the man stormed out of</p>
+<p begin="01:02:30.930" end="01:02:35.190" style="s2">the restaurant and the waitress said hey</p>
+<p begin="01:02:32.580" end="01:02:37.500" style="s2">what about the bill and in one of the</p>
+<p begin="01:02:35.190" end="01:02:43.100" style="s2">cases Google Translate translated bill</p>
+<p begin="01:02:37.500" end="01:02:46.020" style="s2">as into French as legislative document</p>
+<p begin="01:02:43.100" end="01:02:48.480" style="s2">right even though the context was a</p>
+<p begin="01:02:46.020" end="01:02:50.910" style="s2">restaurant because it didn&#39;t understand</p>
+<p begin="01:02:48.480" end="01:02:52.770" style="s2">the story it doesn&#39;t understand didn&#39;t</p>
+<p begin="01:02:50.910" end="01:02:54.780" style="s2">have a mental model of what a restaurant</p>
+<p begin="01:02:52.770" end="01:02:57.090" style="s2">was and what a bill is in the context of</p>
+<p begin="01:02:54.780" end="01:02:59.460" style="s2">a restaurant well sometimes these</p>
+<p begin="01:02:57.090" end="01:03:02.580" style="s2">programs can take into account some</p>
+<p begin="01:02:59.460" end="01:03:05.070" style="s2">context but they&#39;re very far from the</p>
+<p begin="01:03:02.580" end="01:03:08.160" style="s2">kind of understanding that we humans</p>
+<p begin="01:03:05.070" end="01:03:10.680" style="s2">have that that you know lets us answer</p>
+<p begin="01:03:08.160" end="01:03:11.970" style="s2">questions are about you know what&#39;s</p>
+<p begin="01:03:10.680" end="01:03:14.010" style="s2">likely to happen when you&#39;re in a</p>
+<p begin="01:03:11.970" end="01:03:17.840" style="s2">restaurant and somebody mentions the</p>
+<p begin="01:03:14.010" end="01:03:21.090" style="s2">word bill and we also know things about</p>
+<p begin="01:03:17.840" end="01:03:22.710" style="s2">like with the person storms out of a</p>
+<p begin="01:03:21.090" end="01:03:24.960" style="s2">restaurant they probably didn&#39;t like</p>
+<p begin="01:03:22.710" end="01:03:27.780" style="s2">their meal you know and things like that</p>
+<p begin="01:03:24.960" end="01:03:30.210" style="s2">sort of basic facts about the world and</p>
+<p begin="01:03:27.780" end="01:03:32.220" style="s2">about other people so Google translates</p>
+<p begin="01:03:30.210" end="01:03:36.420" style="s2">really good at sort of the statistical</p>
+<p begin="01:03:32.220" end="01:03:38.520" style="s2">mapping from one language to another but</p>
+<p begin="01:03:36.420" end="01:03:40.230" style="s2">it makes mistakes that no human would</p>
+<p begin="01:03:38.520" end="01:03:42.360" style="s2">ever make because of its lack of</p>
+<p begin="01:03:40.230" end="01:03:44.880" style="s2">understanding this need for a deep</p>
+<p begin="01:03:42.360" end="01:03:45.870" style="s2">understanding and common senses have</p>
+<p begin="01:03:44.880" end="01:03:48.780" style="s2">been something people will talk about</p>
+<p begin="01:03:45.870" end="01:03:50.700" style="s2">for years and you mention it in your</p>
+<p begin="01:03:48.780" end="01:03:52.200" style="s2">book and so I&#39;ve kept it out of the</p>
+<p begin="01:03:50.700" end="01:03:53.850" style="s2">corner of my eye at least I don&#39;t know</p>
+<p begin="01:03:52.200" end="01:03:57.180" style="s2">anything as much about as I&#39;d like to</p>
+<p begin="01:03:53.850" end="01:03:58.770" style="s2">is the psych project down in Austin</p>
+<p begin="01:03:57.180" end="01:04:01.050" style="s2">could you tell people a little bit about</p>
+<p begin="01:03:58.770" end="01:04:02.610" style="s2">what that is and what it may have</p>
+<p begin="01:04:01.050" end="01:04:03.420" style="s2">achieved and what it may not have</p>
+<p begin="01:04:02.610" end="01:04:07.470" style="s2">achieved so far</p>
+<p begin="01:04:03.420" end="01:04:10.260" style="s2">so Doug Lynette is the founder of the</p>
+<p begin="01:04:07.470" end="01:04:13.560" style="s2">psych project he&#39;s an AI researcher from</p>
+<p begin="01:04:10.260" end="01:04:16.270" style="s2">way back and he&#39;s one of the first</p>
+<p begin="01:04:13.560" end="01:04:17.860" style="s2">people that I know of in</p>
+<p begin="01:04:16.270" end="01:04:20.710" style="s2">in the field who really took this idea</p>
+<p begin="01:04:17.860" end="01:04:22.870" style="s2">of common sense seriously who said we&#39;re</p>
+<p begin="01:04:20.710" end="01:04:25.420" style="s2">not gonna get anywhere in AI if we don&#39;t</p>
+<p begin="01:04:22.870" end="01:04:28.750" style="s2">have machines with common sense that is</p>
+<p begin="01:04:25.420" end="01:04:31.600" style="s2">the invisible knowledge that we all use</p>
+<p begin="01:04:28.750" end="01:04:34.660" style="s2">in the world to understand language and</p>
+<p begin="01:04:31.600" end="01:04:37.510" style="s2">other things but his idea was that we</p>
+<p begin="01:04:34.660" end="01:04:39.430" style="s2">would have this sort of encyclopedia of</p>
+<p begin="01:04:37.510" end="01:04:41.920" style="s2">common sense and that&#39;s why he called</p>
+<p begin="01:04:39.430" end="01:04:45.700" style="s2">his project psych short for encyclopedia</p>
+<p begin="01:04:41.920" end="01:04:50.110" style="s2">and the common sense would be in a logic</p>
+<p begin="01:04:45.700" end="01:04:51.580" style="s2">based language that humans like his</p>
+<p begin="01:04:50.110" end="01:04:55.510" style="s2">graduate students are later his</p>
+<p begin="01:04:51.580" end="01:04:57.760" style="s2">employees would basically type in all of</p>
+<p begin="01:04:55.510" end="01:05:01.450" style="s2">the knowledge that a machine would need</p>
+<p begin="01:04:57.760" end="01:05:05.080" style="s2">such as example a person cannot be in</p>
+<p begin="01:05:01.450" end="01:05:08.200" style="s2">two places at one time okay or every</p>
+<p begin="01:05:05.080" end="01:05:12.400" style="s2">person has a mother or you know just</p>
+<p begin="01:05:08.200" end="01:05:14.020" style="s2">statements like that all of knowledge so</p>
+<p begin="01:05:12.400" end="01:05:15.790" style="s2">instead of being an encyclopedia like</p>
+<p begin="01:05:14.020" end="01:05:17.620" style="s2">the Encyclopedia Britannica or Wikipedia</p>
+<p begin="01:05:15.790" end="01:05:20.860" style="s2">or something this would be an</p>
+<p begin="01:05:17.620" end="01:05:23.170" style="s2">encyclopedia of knowledge that is not</p>
+<p begin="01:05:20.860" end="01:05:25.750" style="s2">written down anywhere so he&#39;s been</p>
+<p begin="01:05:23.170" end="01:05:28.210" style="s2">working on this for I don&#39;t know 40</p>
+<p begin="01:05:25.750" end="01:05:31.210" style="s2">years something like that and it&#39;s</p>
+<p begin="01:05:28.210" end="01:05:33.790" style="s2">really hard to say how far they&#39;ve</p>
+<p begin="01:05:31.210" end="01:05:36.640" style="s2">gotten because I don&#39;t think that I</p>
+<p begin="01:05:33.790" end="01:05:39.040" style="s2">think a lot of its proprietary but it</p>
+<p begin="01:05:36.640" end="01:05:42.130" style="s2">certainly doesn&#39;t seem like the the</p>
+<p begin="01:05:39.040" end="01:05:43.840" style="s2">project of trying to manually input all</p>
+<p begin="01:05:42.130" end="01:05:46.720" style="s2">of common sense or having the Machine</p>
+<p begin="01:05:43.840" end="01:05:47.980" style="s2">deduce new statements from the</p>
+<p begin="01:05:46.720" end="01:05:52.330" style="s2">statements that it&#39;s already been given</p>
+<p begin="01:05:47.980" end="01:05:55.540" style="s2">is going to solve the problem because</p>
+<p begin="01:05:52.330" end="01:05:59.680" style="s2">the system again it doesn&#39;t have the</p>
+<p begin="01:05:55.540" end="01:06:02.140" style="s2">kind of mental models that are needed to</p>
+<p begin="01:05:59.680" end="01:06:04.990" style="s2">to kind of get the right knowledge out</p>
+<p begin="01:06:02.140" end="01:06:07.750" style="s2">and predict the future usefully and I</p>
+<p begin="01:06:04.990" end="01:06:09.760" style="s2">think the other problem is that a lot of</p>
+<p begin="01:06:07.750" end="01:06:11.920" style="s2">the knowledge that we have about the</p>
+<p begin="01:06:09.760" end="01:06:13.990" style="s2">world is we don&#39;t even know we have it</p>
+<p begin="01:06:11.920" end="01:06:18.220" style="s2">and so we can&#39;t type it into the system</p>
+<p begin="01:06:13.990" end="01:06:21.810" style="s2">and you know that a person can be can&#39;t</p>
+<p begin="01:06:18.220" end="01:06:24.520" style="s2">be in more than one place at a time is</p>
+<p begin="01:06:21.810" end="01:06:26.560" style="s2">sort of like that but like how many</p>
+<p begin="01:06:24.520" end="01:06:30.440" style="s2">statements are there like that that we</p>
+<p begin="01:06:26.560" end="01:06:32.849" style="s2">know that would be really hard to list</p>
+<p begin="01:06:30.440" end="01:06:35.310" style="s2">so I don&#39;t think it&#39;s a very sustainable</p>
+<p begin="01:06:32.849" end="01:06:39.150" style="s2">approach but I do think that Lenin was</p>
+<p begin="01:06:35.310" end="01:06:40.530" style="s2">very prescient in his notion that common</p>
+<p begin="01:06:39.150" end="01:06:44.730" style="s2">sense is really going to be the core of</p>
+<p begin="01:06:40.530" end="01:06:47.040" style="s2">intelligence and I I agree with him yep</p>
+<p begin="01:06:44.730" end="01:06:50.040" style="s2">I heard some people say that maybe let</p>
+<p begin="01:06:47.040" end="01:06:51.780" style="s2">it is just took on a huge job that is</p>
+<p begin="01:06:50.040" end="01:06:53.760" style="s2">doable but it&#39;s just bigger than he</p>
+<p begin="01:06:51.780" end="01:06:56.280" style="s2">thought it was so maybe it&#39;s ten times</p>
+<p begin="01:06:53.760" end="01:06:57.810" style="s2">or a hundred times bigger than the</p>
+<p begin="01:06:56.280" end="01:07:00.000" style="s2">effort that&#39;s gone into it and that</p>
+<p begin="01:06:57.810" end="01:07:03.270" style="s2">maybe it would be worth spending five</p>
+<p begin="01:07:00.000" end="01:07:05.220" style="s2">billion dollars to build psych-out I&#39;m</p>
+<p begin="01:07:03.270" end="01:07:07.440" style="s2">not sure I&#39;m not sure either and I think</p>
+<p begin="01:07:05.220" end="01:07:08.760" style="s2">you know there&#39;s other research groups</p>
+<p begin="01:07:07.440" end="01:07:11.280" style="s2">now that are getting into the</p>
+<p begin="01:07:08.760" end="01:07:13.619" style="s2">common-sense business the Allen</p>
+<p begin="01:07:11.280" end="01:07:16.080" style="s2">Institute for AI which was founded by</p>
+<p begin="01:07:13.619" end="01:07:20.609" style="s2">Paul Allen the co-founder of Microsoft</p>
+<p begin="01:07:16.080" end="01:07:23.339" style="s2">is now focusing on common sense and I</p>
+<p begin="01:07:20.609" end="01:07:25.230" style="s2">think they have not exactly an idea of</p>
+<p begin="01:07:23.339" end="01:07:28.619" style="s2">like psyche but they have this kind of</p>
+<p begin="01:07:25.230" end="01:07:30.900" style="s2">crowdsourcing platform to try and get</p>
+<p begin="01:07:28.619" end="01:07:35.070" style="s2">common sense assertions from the from</p>
+<p begin="01:07:30.900" end="01:07:39.750" style="s2">the the the online world they&#39;re trying</p>
+<p begin="01:07:35.070" end="01:07:42.780" style="s2">to mine common sense assertions from the</p>
+<p begin="01:07:39.750" end="01:07:45.240" style="s2">web again I don&#39;t really think this is</p>
+<p begin="01:07:42.780" end="01:07:47.490" style="s2">the approach that&#39;s going to lead to</p>
+<p begin="01:07:45.240" end="01:07:50.460" style="s2">common sense but you know it&#39;s worth a</p>
+<p begin="01:07:47.490" end="01:07:52.619" style="s2">try I guess nobody really knows the</p>
+<p begin="01:07:50.460" end="01:07:55.410" style="s2">right approach another one then that&#39;s</p>
+<p begin="01:07:52.619" end="01:07:57.750" style="s2">onra it was concept net where they tried</p>
+<p begin="01:07:55.410" end="01:08:01.650" style="s2">to open-source this kind of stuff yeah</p>
+<p begin="01:07:57.750" end="01:08:04.500" style="s2">MIT and people do use concept net and</p>
+<p begin="01:08:01.650" end="01:08:06.869" style="s2">people do use psych for various projects</p>
+<p begin="01:08:04.500" end="01:08:09.330" style="s2">but it and its youth they&#39;re useful</p>
+<p begin="01:08:06.869" end="01:08:12.720" style="s2">right they&#39;re kind of knowledge bases</p>
+<p begin="01:08:09.330" end="01:08:14.040" style="s2">and Google and Apple and other companies</p>
+<p begin="01:08:12.720" end="01:08:16.319" style="s2">have what they call their knowledge</p>
+<p begin="01:08:14.040" end="01:08:17.759" style="s2">graphs they&#39;re not exactly common sense</p>
+<p begin="01:08:16.319" end="01:08:19.380" style="s2">knowledge but they&#39;re they&#39;re sort of</p>
+<p begin="01:08:17.759" end="01:08:21.900" style="s2">general knowledge about the world they</p>
+<p begin="01:08:19.380" end="01:08:23.759" style="s2">use in search and all these things are</p>
+<p begin="01:08:21.900" end="01:08:26.310" style="s2">useful but none of them are kind of</p>
+<p begin="01:08:23.759" end="01:08:29.940" style="s2">getting to the heart of what we mean</p>
+<p begin="01:08:26.310" end="01:08:32.130" style="s2">when we talk about common sense so DARPA</p>
+<p begin="01:08:29.940" end="01:08:34.859" style="s2">which has you know is one of the big</p>
+<p begin="01:08:32.130" end="01:08:37.790" style="s2">funders of AI research has its own</p>
+<p begin="01:08:34.859" end="01:08:40.589" style="s2">version of the common sense in AI</p>
+<p begin="01:08:37.790" end="01:08:43.589" style="s2">project and they have this program</p>
+<p begin="01:08:40.589" end="01:08:46.350" style="s2">called foundations of common sense that</p>
+<p begin="01:08:43.589" end="01:08:48.630" style="s2">the Grand Challenges develop a program</p>
+<p begin="01:08:46.350" end="01:08:49.339" style="s2">with a common sense of an 18 month old</p>
+<p begin="01:08:48.630" end="01:08:52.620" style="s2">baby</p>
+<p begin="01:08:49.339" end="01:08:54.630" style="s2">so they&#39;ve enlisted cognitive and</p>
+<p begin="01:08:52.620" end="01:08:57.270" style="s2">developmental psychologists to work with</p>
+<p begin="01:08:54.630" end="01:09:00.900" style="s2">AI people on getting machines to kind of</p>
+<p begin="01:08:57.270" end="01:09:03.630" style="s2">learn the basic like intuitive physics</p>
+<p begin="01:09:00.900" end="01:09:05.250" style="s2">of the world in the way a baby would</p>
+<p begin="01:09:03.630" end="01:09:08.580" style="s2">learn it but by watching videos and</p>
+<p begin="01:09:05.250" end="01:09:10.799" style="s2">being in virtual reality and all that</p>
+<p begin="01:09:08.580" end="01:09:12.330" style="s2">kind of stuff so that&#39;s another approach</p>
+<p begin="01:09:10.799" end="01:09:14.969" style="s2">that yeah it was a pretty interesting</p>
+<p begin="01:09:12.330" end="01:09:17.549" style="s2">I&#39;ll I&#39;m not sure how it&#39;s gonna work</p>
+<p begin="01:09:14.969" end="01:09:20.069" style="s2">that we&#39;ll see yeah my friend Josh</p>
+<p begin="01:09:17.549" end="01:09:21.600" style="s2">Tenenbaum at MIT is working on</p>
+<p begin="01:09:20.069" end="01:09:24.270" style="s2">approaches that sound a lot like that</p>
+<p begin="01:09:21.600" end="01:09:27.029" style="s2">you know aiming at the 18 month old or</p>
+<p begin="01:09:24.270" end="01:09:29.400" style="s2">two year old incorporating you know</p>
+<p begin="01:09:27.029" end="01:09:31.020" style="s2">intuitive physics folk physics if you</p>
+<p begin="01:09:29.400" end="01:09:33.989" style="s2">want to call it that to degree they can</p>
+<p begin="01:09:31.020" end="01:09:35.759" style="s2">assess what a 18 month old actually does</p>
+<p begin="01:09:33.989" end="01:09:37.319" style="s2">know and again it&#39;s interesting don&#39;t</p>
+<p begin="01:09:35.759" end="01:09:38.700" style="s2">know if it&#39;ll get there or not but it is</p>
+<p begin="01:09:37.319" end="01:09:40.589" style="s2">good that people are working on these</p>
+<p begin="01:09:38.700" end="01:09:42.540" style="s2">things yeah I think it&#39;s great</p>
+<p begin="01:09:40.589" end="01:09:43.620" style="s2">for our last topic I know this is one</p>
+<p begin="01:09:42.540" end="01:09:45.150" style="s2">that&#39;s near and dear to your heart</p>
+<p begin="01:09:43.620" end="01:09:47.609" style="s2">you&#39;ve been working on it since you were</p>
+<p begin="01:09:45.150" end="01:09:51.690" style="s2">a graduate student and that is the other</p>
+<p begin="01:09:47.609" end="01:09:53.790" style="s2">way to ground AI might be through what</p>
+<p begin="01:09:51.690" end="01:09:55.770" style="s2">are called analogs analogies and</p>
+<p begin="01:09:53.790" end="01:09:57.719" style="s2">metaphors talk a little bit about your</p>
+<p begin="01:09:55.770" end="01:10:00.330" style="s2">thoughts in that space maybe tell the</p>
+<p begin="01:09:57.719" end="01:10:04.700" style="s2">story about your copycat program all</p>
+<p begin="01:10:00.330" end="01:10:07.380" style="s2">right so I got into AI I was originally</p>
+<p begin="01:10:04.700" end="01:10:10.920" style="s2">physics math astronomy that was what I</p>
+<p begin="01:10:07.380" end="01:10:13.020" style="s2">was working on as an undergrad but after</p>
+<p begin="01:10:10.920" end="01:10:15.300" style="s2">I graduated I read Kurt gödel Escher</p>
+<p begin="01:10:13.020" end="01:10:17.730" style="s2">Bach Douglas Hofstadter&#39;s book about AI</p>
+<p begin="01:10:15.300" end="01:10:19.620" style="s2">and about consciousness and so on that</p>
+<p begin="01:10:17.730" end="01:10:22.170" style="s2">inspired so many people to go into AI</p>
+<p begin="01:10:19.620" end="01:10:23.670" style="s2">and it also inspired me and I actually</p>
+<p begin="01:10:22.170" end="01:10:26.370" style="s2">sought out Hofstetter</p>
+<p begin="01:10:23.670" end="01:10:28.680" style="s2">and convinced him to take me on as a</p>
+<p begin="01:10:26.370" end="01:10:30.870" style="s2">grad student and the project that he</p>
+<p begin="01:10:28.680" end="01:10:34.170" style="s2">gave me was to build a program that</p>
+<p begin="01:10:30.870" end="01:10:37.410" style="s2">could make analogies and he had</p>
+<p begin="01:10:34.170" end="01:10:40.080" style="s2">developed this idealized domain of</p>
+<p begin="01:10:37.410" end="01:10:42.660" style="s2">analogy making that involved analogies</p>
+<p begin="01:10:40.080" end="01:10:46.320" style="s2">between strings of letters so here&#39;s an</p>
+<p begin="01:10:42.660" end="01:10:49.710" style="s2">example if the string ABC changes to the</p>
+<p begin="01:10:46.320" end="01:10:54.420" style="s2">string abd what does the string ijk</p>
+<p begin="01:10:49.710" end="01:10:55.900" style="s2">change to most people would say I JL you</p>
+<p begin="01:10:54.420" end="01:10:57.699" style="s2">know the rightmost</p>
+<p begin="01:10:55.900" end="01:11:02.080" style="s2">the string change to its successor in</p>
+<p begin="01:10:57.699" end="01:11:05.650" style="s2">the alphabet so change ijk to ijl and I</p>
+<p begin="01:11:02.080" end="01:11:09.840" style="s2">say okay same original change ABC to abd</p>
+<p begin="01:11:05.650" end="01:11:13.690" style="s2">what does i IJ j kk changed too and</p>
+<p begin="01:11:09.840" end="01:11:16.179" style="s2">there people will say oh well i i j j ll</p>
+<p begin="01:11:13.690" end="01:11:18.790" style="s2">that is they group the letters so they</p>
+<p begin="01:11:16.179" end="01:11:20.560" style="s2">don&#39;t follow the original rule literally</p>
+<p begin="01:11:18.790" end="01:11:22.150" style="s2">but they make a little change because</p>
+<p begin="01:11:20.560" end="01:11:24.040" style="s2">now we don&#39;t have a string you know</p>
+<p begin="01:11:22.150" end="01:11:26.739" style="s2">sequence of letters we have a sequence</p>
+<p begin="01:11:24.040" end="01:11:29.230" style="s2">of groups of letters and then i can go</p>
+<p begin="01:11:26.739" end="01:11:30.850" style="s2">on and on and give you hundreds and</p>
+<p begin="01:11:29.230" end="01:11:34.270" style="s2">hundreds of these kinds of analogies</p>
+<p begin="01:11:30.850" end="01:11:36.400" style="s2">that require different changes what we</p>
+<p begin="01:11:34.270" end="01:11:39.250" style="s2">call conceptual slippage --is like four</p>
+<p begin="01:11:36.400" end="01:11:40.659" style="s2">letter to group or you can do other ones</p>
+<p begin="01:11:39.250" end="01:11:44.140" style="s2">where you go from successor to</p>
+<p begin="01:11:40.659" end="01:11:47.290" style="s2">predecessor or any number of conceptual</p>
+<p begin="01:11:44.140" end="01:11:49.500" style="s2">slippage --is you can make so the idea</p>
+<p begin="01:11:47.290" end="01:11:53.290" style="s2">with this project wasn&#39;t necessarily to</p>
+<p begin="01:11:49.500" end="01:11:54.640" style="s2">focus on strings of letters but to use</p>
+<p begin="01:11:53.290" end="01:11:58.330" style="s2">the strings of letters as kind of an</p>
+<p begin="01:11:54.640" end="01:12:01.150" style="s2">idealized domain to explore much bigger</p>
+<p begin="01:11:58.330" end="01:12:03.610" style="s2">issues about how you take the knowledge</p>
+<p begin="01:12:01.150" end="01:12:05.949" style="s2">you have and apply it to new situations</p>
+<p begin="01:12:03.610" end="01:12:08.830" style="s2">and how you see abstract similarity and</p>
+<p begin="01:12:05.949" end="01:12:11.739" style="s2">so on so i built this program called</p>
+<p begin="01:12:08.830" end="01:12:14.290" style="s2">copycat because you know you&#39;re when you</p>
+<p begin="01:12:11.739" end="01:12:17.830" style="s2">do the same thing to a new situation</p>
+<p begin="01:12:14.290" end="01:12:19.270" style="s2">you&#39;re being a copycat and copycat was</p>
+<p begin="01:12:17.830" end="01:12:22.300" style="s2">able to do lots and lots of these</p>
+<p begin="01:12:19.270" end="01:12:24.909" style="s2">letters string analogy problems so but</p>
+<p begin="01:12:22.300" end="01:12:27.070" style="s2">it you know it was very much it was kind</p>
+<p begin="01:12:24.909" end="01:12:30.640" style="s2">of a mixture of symbolic and sub</p>
+<p begin="01:12:27.070" end="01:12:32.230" style="s2">symbolic AI and it only got so far and</p>
+<p begin="01:12:30.640" end="01:12:34.540" style="s2">then I started working on other things</p>
+<p begin="01:12:32.230" end="01:12:36.940" style="s2">but I still feel like a lot of the ideas</p>
+<p begin="01:12:34.540" end="01:12:39.280" style="s2">in that original project which was done</p>
+<p begin="01:12:36.940" end="01:12:42.310" style="s2">in the 1980s and 1990s</p>
+<p begin="01:12:39.280" end="01:12:45.280" style="s2">I think there&#39;s like genetic algorithms</p>
+<p begin="01:12:42.310" end="01:12:47.980" style="s2">and like neural nets there&#39;s a role for</p>
+<p begin="01:12:45.280" end="01:12:51.880" style="s2">those ideas that&#39;s kind of coming up</p>
+<p begin="01:12:47.980" end="01:12:53.530" style="s2">again you know 30 years later so I&#39;m</p>
+<p begin="01:12:51.880" end="01:12:56.409" style="s2">excited about thinking about those ideas</p>
+<p begin="01:12:53.530" end="01:12:58.690" style="s2">again and trying to apply them to more</p>
+<p begin="01:12:56.409" end="01:13:00.130" style="s2">general domains you have some examples</p>
+<p begin="01:12:58.690" end="01:13:02.110" style="s2">of things you&#39;re currently working on</p>
+<p begin="01:13:00.130" end="01:13:05.889" style="s2">well one of the things I&#39;m working on is</p>
+<p begin="01:13:02.110" end="01:13:09.190" style="s2">visual analogies so if you want to say</p>
+<p begin="01:13:05.889" end="01:13:09.650" style="s2">recognize a visual situation and one of</p>
+<p begin="01:13:09.190" end="01:13:12.560" style="s2">the exam</p>
+<p begin="01:13:09.650" end="01:13:15.500" style="s2">sweet we use often is a person walking a</p>
+<p begin="01:13:12.560" end="01:13:17.510" style="s2">dog okay well you could try and</p>
+<p begin="01:13:15.500" end="01:13:20.480" style="s2">recognize that there&#39;s a person there</p>
+<p begin="01:13:17.510" end="01:13:22.160" style="s2">holding a leash the leashes attached to</p>
+<p begin="01:13:20.480" end="01:13:23.660" style="s2">the dog and they&#39;re both walking and you</p>
+<p begin="01:13:22.160" end="01:13:26.210" style="s2">could maybe recognize all those things</p>
+<p begin="01:13:23.660" end="01:13:28.070" style="s2">and say an image or a video okay and so</p>
+<p begin="01:13:26.210" end="01:13:30.800" style="s2">now you&#39;ve learned let&#39;s say what</p>
+<p begin="01:13:28.070" end="01:13:34.910" style="s2">walking a dog is but then I show you</p>
+<p begin="01:13:30.800" end="01:13:38.180" style="s2">like a person walking ten dogs or a</p>
+<p begin="01:13:34.910" end="01:13:40.250" style="s2">person running with a dog or a person</p>
+<p begin="01:13:38.180" end="01:13:43.460" style="s2">riding a bike with a dog on a leash or</p>
+<p begin="01:13:40.250" end="01:13:46.790" style="s2">any other kind of variation on this</p>
+<p begin="01:13:43.460" end="01:13:48.500" style="s2">theme and humans are really good at</p>
+<p begin="01:13:46.790" end="01:13:51.050" style="s2">taking something they&#39;ve learned and</p>
+<p begin="01:13:48.500" end="01:13:53.590" style="s2">applying it analogously in new</p>
+<p begin="01:13:51.050" end="01:13:56.750" style="s2">situations but this is something that</p>
+<p begin="01:13:53.590" end="01:13:58.460" style="s2">machines as you said earlier are not</p>
+<p begin="01:13:56.750" end="01:14:00.350" style="s2">very good at you know we have this</p>
+<p begin="01:13:58.460" end="01:14:02.570" style="s2">problem of transfer learning where</p>
+<p begin="01:14:00.350" end="01:14:04.550" style="s2">systems learn in one domain and they</p>
+<p begin="01:14:02.570" end="01:14:06.860" style="s2">can&#39;t transfer what they learned to a</p>
+<p begin="01:14:04.550" end="01:14:09.890" style="s2">new domain but transfer learning is</p>
+<p begin="01:14:06.860" end="01:14:12.850" style="s2">another word for analogy and I think</p>
+<p begin="01:14:09.890" end="01:14:15.650" style="s2">that this big problem of being able to</p>
+<p begin="01:14:12.850" end="01:14:17.450" style="s2">apply knowledge to new situations by</p>
+<p begin="01:14:15.650" end="01:14:20.150" style="s2">making analogies is what&#39;s going to get</p>
+<p begin="01:14:17.450" end="01:14:22.550" style="s2">us out of the problem of you know the</p>
+<p begin="01:14:20.150" end="01:14:25.010" style="s2">long tail problem that we talked about</p>
+<p begin="01:14:22.550" end="01:14:26.510" style="s2">earlier and the problem of transfer</p>
+<p begin="01:14:25.010" end="01:14:28.820" style="s2">learning that so many people are</p>
+<p begin="01:14:26.510" end="01:14:31.310" style="s2">struggling with now interesting now the</p>
+<p begin="01:14:28.820" end="01:14:34.160" style="s2">other very closely related field is the</p>
+<p begin="01:14:31.310" end="01:14:36.200" style="s2">area of metaphors particularly a lot of</p>
+<p begin="01:14:34.160" end="01:14:37.370" style="s2">us know the work of George Lake off I</p>
+<p begin="01:14:36.200" end="01:14:38.930" style="s2">remember when I first started reading</p>
+<p begin="01:14:37.370" end="01:14:42.170" style="s2">Lake Hoff I said oh he&#39;s got to be</p>
+<p begin="01:14:38.930" end="01:14:44.870" style="s2">exaggerating can&#39;t all be metaphors the</p>
+<p begin="01:14:42.170" end="01:14:46.700" style="s2">meaning language but he takes you down</p>
+<p begin="01:14:44.870" end="01:14:48.860" style="s2">some very interesting pathways and you</p>
+<p begin="01:14:46.700" end="01:14:50.510" style="s2">realize that you know it&#39;s hard to say a</p>
+<p begin="01:14:48.860" end="01:14:52.220" style="s2">sentence or and certainly to say two</p>
+<p begin="01:14:50.510" end="01:14:54.740" style="s2">sentences without using at least one</p>
+<p begin="01:14:52.220" end="01:14:56.240" style="s2">fairly significant metaphor you tell us</p>
+<p begin="01:14:54.740" end="01:14:57.620" style="s2">a little bit about what that&#39;s about and</p>
+<p begin="01:14:56.240" end="01:15:00.080" style="s2">what might be going on in that space</p>
+<p begin="01:14:57.620" end="01:15:02.840" style="s2">lake often Johnson wrote this book</p>
+<p begin="01:15:00.080" end="01:15:05.660" style="s2">called metaphors we live by and their</p>
+<p begin="01:15:02.840" end="01:15:08.360" style="s2">idea was that our language just our</p>
+<p begin="01:15:05.660" end="01:15:11.150" style="s2">everyday languages is filled with</p>
+<p begin="01:15:08.360" end="01:15:14.480" style="s2">metaphors so so wasn&#39;t one example if I</p>
+<p begin="01:15:11.150" end="01:15:16.330" style="s2">say she gave me a warm welcome you know</p>
+<p begin="01:15:14.480" end="01:15:18.320" style="s2">that we&#39;re using the word warm</p>
+<p begin="01:15:16.330" end="01:15:20.420" style="s2">metaphorically because it wasn&#39;t like</p>
+<p begin="01:15:18.320" end="01:15:23.330" style="s2">literally hot you know in the room or</p>
+<p begin="01:15:20.420" end="01:15:26.990" style="s2">anything but it&#39;s it&#39;s more of us</p>
+<p begin="01:15:23.330" end="01:15:29.420" style="s2">social metaphor actually the theory is</p>
+<p begin="01:15:26.990" end="01:15:32.750" style="s2">now we&#39;re actually interpreting it by</p>
+<p begin="01:15:29.420" end="01:15:35.000" style="s2">using our model of physical temperature</p>
+<p begin="01:15:32.750" end="01:15:37.850" style="s2">our mental model of physical temperature</p>
+<p begin="01:15:35.000" end="01:15:40.070" style="s2">and so they go into this all these</p>
+<p begin="01:15:37.850" end="01:15:43.250" style="s2">different examples of how we talk about</p>
+<p begin="01:15:40.070" end="01:15:47.120" style="s2">abstract concepts like time and money</p>
+<p begin="01:15:43.250" end="01:15:50.030" style="s2">and love and we understand them in terms</p>
+<p begin="01:15:47.120" end="01:15:53.270" style="s2">of physical metaphors so those are</p>
+<p begin="01:15:50.030" end="01:15:55.670" style="s2">really fascinating study of its kind of</p>
+<p begin="01:15:53.270" end="01:15:58.580" style="s2">linguistic metaphors and I&#39;ve seen a lot</p>
+<p begin="01:15:55.670" end="01:16:01.220" style="s2">of follow ups that I found really</p>
+<p begin="01:15:58.580" end="01:16:05.270" style="s2">convincing that that show that we really</p>
+<p begin="01:16:01.220" end="01:16:08.930" style="s2">do structure our concepts in terms of</p>
+<p begin="01:16:05.270" end="01:16:10.790" style="s2">very physical metaphors like you know we</p>
+<p begin="01:16:08.930" end="01:16:13.730" style="s2">talked about if you might say that</p>
+<p begin="01:16:10.790" end="01:16:17.510" style="s2">speech was very uplifting you know and</p>
+<p begin="01:16:13.730" end="01:16:20.590" style="s2">we say okay up is good down is bad or if</p>
+<p begin="01:16:17.510" end="01:16:23.540" style="s2">you say something like I fell in love</p>
+<p begin="01:16:20.590" end="01:16:26.120" style="s2">you know we think about falling being</p>
+<p begin="01:16:23.540" end="01:16:30.740" style="s2">out of control and all you know we apply</p>
+<p begin="01:16:26.120" end="01:16:33.770" style="s2">these physical ideas to more much more</p>
+<p begin="01:16:30.740" end="01:16:35.540" style="s2">abstract concepts so I found that really</p>
+<p begin="01:16:33.770" end="01:16:37.970" style="s2">fascinating I think it&#39;s something that</p>
+<p begin="01:16:35.540" end="01:16:40.760" style="s2">you know if we have a machine that can</p>
+<p begin="01:16:37.970" end="01:16:42.740" style="s2">understand language it&#39;s gonna have to</p>
+<p begin="01:16:40.760" end="01:16:45.350" style="s2">be able to understand this kind of</p>
+<p begin="01:16:42.740" end="01:16:48.410" style="s2">metaphor by drawing on mental models of</p>
+<p begin="01:16:45.350" end="01:16:49.850" style="s2">these more physical concepts you know</p>
+<p begin="01:16:48.410" end="01:16:52.340" style="s2">one of my favorites kind of a double</p>
+<p begin="01:16:49.850" end="01:16:54.710" style="s2">metaphors let&#39;s move forward with this</p>
+<p begin="01:16:52.340" end="01:16:56.930" style="s2">project you know forward I would argue</p>
+<p begin="01:16:54.710" end="01:16:59.750" style="s2">and I think lake Hoff does comes</p>
+<p begin="01:16:56.930" end="01:17:02.660" style="s2">initially from moving forward and</p>
+<p begin="01:16:59.750" end="01:17:05.840" style="s2">backward in our body which then was</p>
+<p begin="01:17:02.660" end="01:17:08.900" style="s2">projected onto time forward and backward</p>
+<p begin="01:17:05.840" end="01:17:11.300" style="s2">in time which is a metaphor from our</p>
+<p begin="01:17:08.900" end="01:17:14.000" style="s2">body walking forward and backward and a</p>
+<p begin="01:17:11.300" end="01:17:16.540" style="s2">project moving forward and as in making</p>
+<p begin="01:17:14.000" end="01:17:19.490" style="s2">progress is then another projection</p>
+<p begin="01:17:16.540" end="01:17:22.010" style="s2">probably from the projection of time and</p>
+<p begin="01:17:19.490" end="01:17:23.600" style="s2">so we have the stack of metaphors that</p>
+<p begin="01:17:22.010" end="01:17:25.670" style="s2">actually get us to the language as we</p>
+<p begin="01:17:23.600" end="01:17:28.730" style="s2">actually use it yeah that&#39;s a good point</p>
+<p begin="01:17:25.670" end="01:17:30.110" style="s2">and and you know it&#39;s invisible to us</p>
+<p begin="01:17:28.730" end="01:17:32.390" style="s2">that we&#39;re making these metaphors we</p>
+<p begin="01:17:30.110" end="01:17:35.309" style="s2">don&#39;t even notice it right when we talk</p>
+<p begin="01:17:32.390" end="01:17:37.979" style="s2">but there&#39;s been a some work in</p>
+<p begin="01:17:35.309" end="01:17:40.739" style="s2">like psychophysics and neural imaging</p>
+<p begin="01:17:37.979" end="01:17:42.569" style="s2">and and other psychology kind of</p>
+<p begin="01:17:40.739" end="01:17:47.059" style="s2">experiments that show that people really</p>
+<p begin="01:17:42.569" end="01:17:49.409" style="s2">are the activating the neural areas that</p>
+<p begin="01:17:47.059" end="01:17:51.479" style="s2">encode these visits the physical</p>
+<p begin="01:17:49.409" end="01:17:54.030" style="s2">concepts that were not aware that we&#39;re</p>
+<p begin="01:17:51.479" end="01:17:56.550" style="s2">even referring to but unconsciously</p>
+<p begin="01:17:54.030" end="01:17:58.109" style="s2">they&#39;re actually quite active and and</p>
+<p begin="01:17:56.550" end="01:18:01.260" style="s2">influenced the way we understand things</p>
+<p begin="01:17:58.109" end="01:18:04.800" style="s2">so it&#39;s really interesting now can you</p>
+<p begin="01:18:01.260" end="01:18:06.869" style="s2">see a commonality or or maybe something</p>
+<p begin="01:18:04.800" end="01:18:08.609" style="s2">that brings together the idea of</p>
+<p begin="01:18:06.869" end="01:18:11.699" style="s2">analogies and metaphors</p>
+<p begin="01:18:08.609" end="01:18:13.979" style="s2">um I think you know they&#39;re related</p>
+<p begin="01:18:11.699" end="01:18:18.149" style="s2">certainly they&#39;re analogies are about</p>
+<p begin="01:18:13.979" end="01:18:20.339" style="s2">seeing similarities sort of abstract</p>
+<p begin="01:18:18.149" end="01:18:23.969" style="s2">similarities between different</p>
+<p begin="01:18:20.339" end="01:18:29.159" style="s2">situations and metaphors are about I</p>
+<p begin="01:18:23.969" end="01:18:32.869" style="s2">don&#39;t know bringing in often physical</p>
+<p begin="01:18:29.159" end="01:18:36.419" style="s2">concepts into abstract situations and</p>
+<p begin="01:18:32.869" end="01:18:39.780" style="s2">perceiving them as being similar in some</p>
+<p begin="01:18:36.419" end="01:18:42.030" style="s2">ways the origin of many metaphors is a</p>
+<p begin="01:18:39.780" end="01:18:44.699" style="s2">little obscure I don&#39;t know how some of</p>
+<p begin="01:18:42.030" end="01:18:48.899" style="s2">them came about but I bet that that kind</p>
+<p begin="01:18:44.699" end="01:18:51.179" style="s2">of gives you some clue to how thinking</p>
+<p begin="01:18:48.899" end="01:18:54.119" style="s2">in general and the origin of language</p>
+<p begin="01:18:51.179" end="01:18:57.689" style="s2">and even maybe the origin of abstract</p>
+<p begin="01:18:54.119" end="01:19:00.869" style="s2">thinking so I think it&#39;s a fascinating</p>
+<p begin="01:18:57.689" end="01:19:02.669" style="s2">field but really very interdisciplinary</p>
+<p begin="01:19:00.869" end="01:19:05.399" style="s2">you know linguistics psychology</p>
+<p begin="01:19:02.669" end="01:19:07.769" style="s2">neuroscience and AI I think are all</p>
+<p begin="01:19:05.399" end="01:19:09.569" style="s2">needed to try and make sense of it game</p>
+<p begin="01:19:07.769" end="01:19:11.189" style="s2">through in biophysics right to degree</p>
+<p begin="01:19:09.569" end="01:19:13.109" style="s2">that the groundings of the metaphors are</p>
+<p begin="01:19:11.189" end="01:19:15.510" style="s2">in biophysics be really nice to know how</p>
+<p begin="01:19:13.109" end="01:19:17.399" style="s2">those work yeah besides your work who</p>
+<p begin="01:19:15.510" end="01:19:19.559" style="s2">else should we be looking at in the</p>
+<p begin="01:19:17.399" end="01:19:21.359" style="s2">world that&#39;s let&#39;s just limit the work</p>
+<p begin="01:19:19.559" end="01:19:23.280" style="s2">to analogies since that&#39;s really closer</p>
+<p begin="01:19:21.359" end="01:19:25.319" style="s2">to what you&#39;re working on today who else</p>
+<p begin="01:19:23.280" end="01:19:27.079" style="s2">who else you will be following well</p>
+<p begin="01:19:25.319" end="01:19:30.030" style="s2">there&#39;s a lot of different approaches to</p>
+<p begin="01:19:27.079" end="01:19:32.550" style="s2">analogy there&#39;s a group at Northwestern</p>
+<p begin="01:19:30.030" end="01:19:35.579" style="s2">Ken forbus and dead reget nur and their</p>
+<p begin="01:19:32.550" end="01:19:38.819" style="s2">colleagues who have looked at a more</p>
+<p begin="01:19:35.579" end="01:19:42.059" style="s2">symbolic AI approach to analogy making</p>
+<p begin="01:19:38.819" end="01:19:43.409" style="s2">and that work is very extensive very</p>
+<p begin="01:19:42.059" end="01:19:46.139" style="s2">different from the work that I&#39;m doing</p>
+<p begin="01:19:43.409" end="01:19:48.960" style="s2">but definitely very prominent in the</p>
+<p begin="01:19:46.139" end="01:19:51.950" style="s2">field there is</p>
+<p begin="01:19:48.960" end="01:19:54.990" style="s2">actually some of the people at deep mind</p>
+<p begin="01:19:51.950" end="01:19:58.140" style="s2">the group that did alpha go and alpha</p>
+<p begin="01:19:54.990" end="01:20:01.410" style="s2">zero are looking at how to do analogies</p>
+<p begin="01:19:58.140" end="01:20:02.490" style="s2">with using neural networks and they did</p>
+<p begin="01:20:01.410" end="01:20:04.770" style="s2">some interesting work on visual</p>
+<p begin="01:20:02.490" end="01:20:07.200" style="s2">analogies I&#39;m trying to think there</p>
+<p begin="01:20:04.770" end="01:20:10.380" style="s2">there&#39;s quite a few people who are doing</p>
+<p begin="01:20:07.200" end="01:20:12.330" style="s2">some interesting work in this area if I</p>
+<p begin="01:20:10.380" end="01:20:14.820" style="s2">can think of it any more I&#39;ll definitely</p>
+<p begin="01:20:12.330" end="01:20:16.620" style="s2">send you some links to post yeah that&#39;d</p>
+<p begin="01:20:14.820" end="01:20:19.350" style="s2">be great one of the things people say</p>
+<p begin="01:20:16.620" end="01:20:20.730" style="s2">they find most useful is use the podcast</p>
+<p begin="01:20:19.350" end="01:20:22.740" style="s2">as the way to you know find other things</p>
+<p begin="01:20:20.730" end="01:20:24.360" style="s2">to learn about yeah that&#39;d be wonderful</p>
+<p begin="01:20:22.740" end="01:20:26.610" style="s2">if you could send those to us</p>
+<p begin="01:20:24.360" end="01:20:29.400" style="s2">sure well melody I think that&#39;s about</p>
+<p begin="01:20:26.610" end="01:20:30.480" style="s2">we&#39;re up on our time limit now and I</p>
+<p begin="01:20:29.400" end="01:20:33.750" style="s2">gotta say this has been a wonderful</p>
+<p begin="01:20:30.480" end="01:20:35.850" style="s2">conversation and I can you know strongly</p>
+<p begin="01:20:33.750" end="01:20:38.520" style="s2">recommend the people go out get your</p>
+<p begin="01:20:35.850" end="01:20:40.320" style="s2">book and done a great conversation well</p>
+<p begin="01:20:38.520" end="01:20:41.910" style="s2">I really enjoyed it thanks so much for</p>
+<p begin="01:20:40.320" end="01:20:43.650" style="s2">having me on yeah I didn&#39;t necessarily</p>
+<p begin="01:20:41.910" end="01:20:44.790" style="s2">go everywhere I thought it might but</p>
+<p begin="01:20:43.650" end="01:20:48.960" style="s2">that&#39;s part of the fun of these things</p>
+<p begin="01:20:44.790" end="01:20:53.760" style="s2">yeah well I think it we covered a lot we</p>
+<p begin="01:20:48.960" end="01:20:56.100" style="s2">certainly did production services and</p>
+<p begin="01:20:53.760" end="01:20:59.010" style="s2">audio editing by Jared Jane&#39;s consulting</p>
+<p begin="01:20:56.100" end="01:21:02.120" style="s2">music by Tom Muller at modern space</p>
+<p begin="01:20:59.010" end="01:21:02.120" style="s2">music calm</p>
+</div>
+</body>
+</tt>

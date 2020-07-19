@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:04.059" style="s2">howdy this is Jim rut and this is the</p>
+<p begin="00:00:02.399" end="00:00:10.940" style="s2">Jim rut show</p>
+<p begin="00:00:04.059" end="00:00:12.590" style="s2">[Music]</p>
+<p begin="00:00:10.940" end="00:00:14.809" style="s2">listeners have asked us to provide</p>
+<p begin="00:00:12.590" end="00:00:17.270" style="s2">pointers some of the resources we talked</p>
+<p begin="00:00:14.809" end="00:00:19.189" style="s2">about on the show we now have links to</p>
+<p begin="00:00:17.270" end="00:00:21.050" style="s2">books and articles referenced in recent</p>
+<p begin="00:00:19.189" end="00:00:21.830" style="s2">podcasts that are available on our</p>
+<p begin="00:00:21.050" end="00:00:24.800" style="s2">website</p>
+<p begin="00:00:21.830" end="00:00:30.490" style="s2">we also offer full transcripts go to gym</p>
+<p begin="00:00:24.800" end="00:00:30.490" style="s2">rut show calm that&#39;s gym rut show calm</p>
+<p begin="00:00:31.330" end="00:00:38.629" style="s2">this is the third in a series of extra</p>
+<p begin="00:00:35.199" end="00:00:42.379" style="s2">podcasts focusing on the Koba 19 crisis</p>
+<p begin="00:00:38.629" end="00:00:44.770" style="s2">today&#39;s guest we have Bob Reed who is</p>
+<p begin="00:00:42.379" end="00:00:48.170" style="s2">the co-founder of a very interesting</p>
+<p begin="00:00:44.770" end="00:00:50.930" style="s2">company called Everest Everest is a</p>
+<p begin="00:00:48.170" end="00:00:52.850" style="s2">decentralized platform for the for a new</p>
+<p begin="00:00:50.930" end="00:00:55.219" style="s2">economy incorporating a massively</p>
+<p begin="00:00:52.850" end="00:00:58.579" style="s2">scalable payment solution a multi</p>
+<p begin="00:00:55.219" end="00:01:01.280" style="s2">currency wallet and a native biometric</p>
+<p begin="00:00:58.579" end="00:01:03.770" style="s2">identity system Everest as far as I know</p>
+<p begin="00:01:01.280" end="00:01:05.720" style="s2">has about the most complete solution out</p>
+<p begin="00:01:03.770" end="00:01:07.940" style="s2">there and we&#39;ll probably talk about that</p>
+<p begin="00:01:05.720" end="00:01:10.610" style="s2">a little bit but more to the point I&#39;ve</p>
+<p begin="00:01:07.940" end="00:01:14.479" style="s2">invited Bob on to talk a little bit</p>
+<p begin="00:01:10.610" end="00:01:17.420" style="s2">about how best to think about phasing</p>
+<p begin="00:01:14.479" end="00:01:21.319" style="s2">the deployment of the universal basic</p>
+<p begin="00:01:17.420" end="00:01:25.729" style="s2">income the ubi that has been at least in</p>
+<p begin="00:01:21.319" end="00:01:27.800" style="s2">part specified in the relief bill that&#39;s</p>
+<p begin="00:01:25.729" end="00:01:30.319" style="s2">working its way through the US Congress</p>
+<p begin="00:01:27.800" end="00:01:31.729" style="s2">as we speak and now it&#39;s probably not</p>
+<p begin="00:01:30.319" end="00:01:35.440" style="s2">enough and we&#39;ll have to come back to</p>
+<p begin="00:01:31.729" end="00:01:39.080" style="s2">the well a few times but let&#39;s let&#39;s get</p>
+<p begin="00:01:35.440" end="00:01:41.450" style="s2">rolling there Bob and talk about how</p>
+<p begin="00:01:39.080" end="00:01:44.800" style="s2">should we think about delivering the ubi</p>
+<p begin="00:01:41.450" end="00:01:48.050" style="s2">to 110 million American households</p>
+<p begin="00:01:44.800" end="00:01:51.560" style="s2">probably the best place to start is what</p>
+<p begin="00:01:48.050" end="00:01:55.640" style="s2">do you feel almost all infrastructure of</p>
+<p begin="00:01:51.560" end="00:01:57.170" style="s2">government or a bank platforms need to</p>
+<p begin="00:01:55.640" end="00:02:01.160" style="s2">have like what are the essential</p>
+<p begin="00:01:57.170" end="00:02:04.280" style="s2">elements and the way we thought about it</p>
+<p begin="00:02:01.160" end="00:02:09.020" style="s2">was we literally modeled off of Estonia</p>
+<p begin="00:02:04.280" end="00:02:10.940" style="s2">the nation and even Otto har with India</p>
+<p begin="00:02:09.020" end="00:02:13.700" style="s2">stack in India right like how do you</p>
+<p begin="00:02:10.940" end="00:02:16.459" style="s2">take you know if you all full government</p>
+<p begin="00:02:13.700" end="00:02:20.150" style="s2">systems or banking systems and if you</p>
+<p begin="00:02:16.459" end="00:02:22.730" style="s2">will make them digital now we&#39;re coming</p>
+<p begin="00:02:20.150" end="00:02:24.620" style="s2">along about 15 20 years later after</p>
+<p begin="00:02:22.730" end="00:02:26.989" style="s2">those guys and were able to</p>
+<p begin="00:02:24.620" end="00:02:30.640" style="s2">Yuson blockchain technologies along with</p>
+<p begin="00:02:26.989" end="00:02:33.080" style="s2">some I would say decentralized storage</p>
+<p begin="00:02:30.640" end="00:02:37.250" style="s2">techniques to actually sort of be a</p>
+<p begin="00:02:33.080" end="00:02:39.500" style="s2">next-generation of that now in terms of</p>
+<p begin="00:02:37.250" end="00:02:42.620" style="s2">elements that we consider that are</p>
+<p begin="00:02:39.500" end="00:02:45.230" style="s2">inherent in all of those are you always</p>
+<p begin="00:02:42.620" end="00:02:48.560" style="s2">have to have identity at its base level</p>
+<p begin="00:02:45.230" end="00:02:50.840" style="s2">right says I call identity is the</p>
+<p begin="00:02:48.560" end="00:02:52.629" style="s2">operating system of any of these systems</p>
+<p begin="00:02:50.840" end="00:02:55.370" style="s2">you you know are you who you say you are</p>
+<p begin="00:02:52.629" end="00:02:57.019" style="s2">right and almost everyone around the</p>
+<p begin="00:02:55.370" end="00:03:01.190" style="s2">world now is arriving at biometrics you</p>
+<p begin="00:02:57.019" end="00:03:03.470" style="s2">have to have deduplication of you know</p>
+<p begin="00:03:01.190" end="00:03:07.370" style="s2">the human being right I&#39;m a singular</p>
+<p begin="00:03:03.470" end="00:03:09.560" style="s2">piece of carbon and that means you can&#39;t</p>
+<p begin="00:03:07.370" end="00:03:12.470" style="s2">just rely on here&#39;s my proof of address</p>
+<p begin="00:03:09.560" end="00:03:15.109" style="s2">from my bank or here&#39;s my passport you</p>
+<p begin="00:03:12.470" end="00:03:19.190" style="s2">got to get to the biometrics the other</p>
+<p begin="00:03:15.109" end="00:03:21.560" style="s2">piece of the equation is going to be an</p>
+<p begin="00:03:19.190" end="00:03:25.579" style="s2">account right so you need to be able to</p>
+<p begin="00:03:21.560" end="00:03:29.090" style="s2">do a wallet in today&#39;s vernacular but a</p>
+<p begin="00:03:25.579" end="00:03:33.190" style="s2">way to actually store value and transfer</p>
+<p begin="00:03:29.090" end="00:03:35.690" style="s2">in and out associated with that identity</p>
+<p begin="00:03:33.190" end="00:03:37.489" style="s2">we did something unique at Everest where</p>
+<p begin="00:03:35.690" end="00:03:40.099" style="s2">we actually made the account in</p>
+<p begin="00:03:37.489" end="00:03:41.359" style="s2">distributed storage during the cloud so</p>
+<p begin="00:03:40.099" end="00:03:45.950" style="s2">you actually don&#39;t even need a device to</p>
+<p begin="00:03:41.359" end="00:03:48.079" style="s2">to reach it the other two elements you</p>
+<p begin="00:03:45.950" end="00:03:49.910" style="s2">need are you need a ledger so something</p>
+<p begin="00:03:48.079" end="00:03:52.250" style="s2">goes like had a track what&#39;s coming in</p>
+<p begin="00:03:49.910" end="00:03:55.000" style="s2">and out of this account and then you</p>
+<p begin="00:03:52.250" end="00:03:57.769" style="s2">need to have some sort of you know</p>
+<p begin="00:03:55.000" end="00:04:00.949" style="s2">currency unit account all right so you</p>
+<p begin="00:03:57.769" end="00:04:03.260" style="s2">in the case of ubi you know go with</p>
+<p begin="00:04:00.949" end="00:04:06.190" style="s2">digital fiat like here&#39;s a US dollar and</p>
+<p begin="00:04:03.260" end="00:04:09.349" style="s2">it means a US dollar</p>
+<p begin="00:04:06.190" end="00:04:12.650" style="s2">those essential elements get you the</p>
+<p begin="00:04:09.349" end="00:04:15.829" style="s2">basics on how to do a system are you who</p>
+<p begin="00:04:12.650" end="00:04:18.079" style="s2">you say you are here&#39;s an account here&#39;s</p>
+<p begin="00:04:15.829" end="00:04:20.180" style="s2">a way to if you go in and out of that</p>
+<p begin="00:04:18.079" end="00:04:24.050" style="s2">account and then you&#39;re some digital</p>
+<p begin="00:04:20.180" end="00:04:26.360" style="s2">money now some of the benefits you get</p>
+<p begin="00:04:24.050" end="00:04:28.550" style="s2">out of doing digital monies you can</p>
+<p begin="00:04:26.360" end="00:04:31.099" style="s2">program program it right like you can</p>
+<p begin="00:04:28.550" end="00:04:33.950" style="s2">say here&#39;s a dollar but it has to be</p>
+<p begin="00:04:31.099" end="00:04:35.000" style="s2">spent in the next 30 days right so you</p>
+<p begin="00:04:33.950" end="00:04:38.449" style="s2">can make a time-bound</p>
+<p begin="00:04:35.000" end="00:04:40.340" style="s2">right though so like that solves for</p>
+<p begin="00:04:38.449" end="00:04:43.279" style="s2">what you know the US government tried to</p>
+<p begin="00:04:40.340" end="00:04:46.039" style="s2">do in 2008 when they said here&#39;s a you</p>
+<p begin="00:04:43.279" end="00:04:48.169" style="s2">know check everyone gets it and turns</p>
+<p begin="00:04:46.039" end="00:04:50.509" style="s2">out like 60 70 percent of the people</p>
+<p begin="00:04:48.169" end="00:04:52.219" style="s2">just put it into savings so it didn&#39;t</p>
+<p begin="00:04:50.509" end="00:04:55.009" style="s2">stimulate the economy but if you made it</p>
+<p begin="00:04:52.219" end="00:04:58.039" style="s2">time-bound well they have to spend the</p>
+<p begin="00:04:55.009" end="00:04:59.839" style="s2">money you know some other things you can</p>
+<p begin="00:04:58.039" end="00:05:01.520" style="s2">do is you say oh hey this is programmed</p>
+<p begin="00:04:59.839" end="00:05:04.069" style="s2">and it can only be redeemed at the</p>
+<p begin="00:05:01.520" end="00:05:06.199" style="s2">grocery store or the pharmacy for food</p>
+<p begin="00:05:04.069" end="00:05:10.400" style="s2">and medicine once you can do some things</p>
+<p begin="00:05:06.199" end="00:05:13.479" style="s2">like that and then ultimately like look</p>
+<p begin="00:05:10.400" end="00:05:15.560" style="s2">you can actually reach everybody</p>
+<p begin="00:05:13.479" end="00:05:18.349" style="s2">regardless of if they have a device or</p>
+<p begin="00:05:15.560" end="00:05:21.080" style="s2">not and you can do it instantaneously so</p>
+<p begin="00:05:18.349" end="00:05:24.169" style="s2">you you know you can inject liquidity</p>
+<p begin="00:05:21.080" end="00:05:26.330" style="s2">into the system in minutes instead of</p>
+<p begin="00:05:24.169" end="00:05:28.909" style="s2">sending out checks or debit cards and</p>
+<p begin="00:05:26.330" end="00:05:33.110" style="s2">hoping and praying that somebody gets</p>
+<p begin="00:05:28.909" end="00:05:36.770" style="s2">its turns on their pin okay and you know</p>
+<p begin="00:05:33.110" end="00:05:41.210" style="s2">doesn&#39;t sell it for for drugs behind</p>
+<p begin="00:05:36.770" end="00:05:44.689" style="s2">7-eleven yeah it sounds great and you</p>
+<p begin="00:05:41.210" end="00:05:47.029" style="s2">know if we had a Manhattan Project level</p>
+<p begin="00:05:44.689" end="00:05:49.249" style="s2">of investment we could probably get that</p>
+<p begin="00:05:47.029" end="00:05:52.419" style="s2">up and running in some period of time</p>
+<p begin="00:05:49.249" end="00:05:55.419" style="s2">but it seems to me that it would be</p>
+<p begin="00:05:52.419" end="00:05:57.770" style="s2">dangerous to you know bet the first</p>
+<p begin="00:05:55.419" end="00:05:59.389" style="s2">implementation of this UVI which we</p>
+<p begin="00:05:57.770" end="00:06:02.839" style="s2">presumably want to get out in a couple</p>
+<p begin="00:05:59.389" end="00:06:04.459" style="s2">of weeks and on you know some new</p>
+<p begin="00:06:02.839" end="00:06:06.469" style="s2">developments and probably a whole bunch</p>
+<p begin="00:06:04.459" end="00:06:07.969" style="s2">of regulatory issues security audits and</p>
+<p begin="00:06:06.469" end="00:06:10.219" style="s2">things like that you know I&#39;ll tell you</p>
+<p begin="00:06:07.969" end="00:06:12.020" style="s2">my own suggestion I realize it&#39;s fraught</p>
+<p begin="00:06:10.219" end="00:06:13.279" style="s2">with all the errors and problems that</p>
+<p begin="00:06:12.020" end="00:06:17.479" style="s2">you brought up but it has the advantage</p>
+<p begin="00:06:13.279" end="00:06:20.419" style="s2">of being brute force and failsafe - the</p>
+<p begin="00:06:17.479" end="00:06:22.669" style="s2">inevitable fairly significant losses</p>
+<p begin="00:06:20.419" end="00:06:25.879" style="s2">around the edges which would be to go</p>
+<p begin="00:06:22.669" end="00:06:27.560" style="s2">with debit cards and you know basically</p>
+<p begin="00:06:25.879" end="00:06:29.419" style="s2">scale up something like the Green Dot</p>
+<p begin="00:06:27.560" end="00:06:31.089" style="s2">system and of course all the big credit</p>
+<p begin="00:06:29.419" end="00:06:33.469" style="s2">card companies have their own prepaid</p>
+<p begin="00:06:31.089" end="00:06:36.199" style="s2">systems and of course they&#39;re very</p>
+<p begin="00:06:33.469" end="00:06:39.289" style="s2">expensive that&#39;s mostly because they go</p>
+<p begin="00:06:36.199" end="00:06:40.789" style="s2">down the retail channel where you know</p>
+<p begin="00:06:39.289" end="00:06:43.370" style="s2">everything is expensive if you push it</p>
+<p begin="00:06:40.789" end="00:06:45.649" style="s2">through retail but if the government</p>
+<p begin="00:06:43.370" end="00:06:48.110" style="s2">gave 72 hours for the biggest credit</p>
+<p begin="00:06:45.649" end="00:06:51.139" style="s2">card companies to bid on sending a debit</p>
+<p begin="00:06:48.110" end="00:06:52.139" style="s2">card once a month to every American we</p>
+<p begin="00:06:51.139" end="00:06:54.509" style="s2">could get that up and running</p>
+<p begin="00:06:52.139" end="00:06:56.189" style="s2">in probably two weeks and we could</p>
+<p begin="00:06:54.509" end="00:06:58.979" style="s2">actually address what you discussed as</p>
+<p begin="00:06:56.189" end="00:07:01.349" style="s2">what I call the time to live problem on</p>
+<p begin="00:06:58.979" end="00:07:02.819" style="s2">the money because it&#39;s absolutely key</p>
+<p begin="00:07:01.349" end="00:07:06.270" style="s2">that if we want this money to be</p>
+<p begin="00:07:02.819" end="00:07:07.770" style="s2">stimulus it has to get into circulation</p>
+<p begin="00:07:06.270" end="00:07:10.050" style="s2">and not just put into people&#39;s bank</p>
+<p begin="00:07:07.770" end="00:07:11.879" style="s2">accounts and you and we know that tough</p>
+<p begin="00:07:10.050" end="00:07:14.189" style="s2">times people want to build up their bank</p>
+<p begin="00:07:11.879" end="00:07:16.349" style="s2">accounts but even with a debit card you</p>
+<p begin="00:07:14.189" end="00:07:18.120" style="s2">could say the debit card only lives for</p>
+<p begin="00:07:16.349" end="00:07:20.849" style="s2">forty-five days I would provide some</p>
+<p begin="00:07:18.120" end="00:07:24.029" style="s2">overlap each month but make it 45 days</p>
+<p begin="00:07:20.849" end="00:07:27.900" style="s2">or 60 days and so you get a new debit</p>
+<p begin="00:07:24.029" end="00:07:30.659" style="s2">card each each month and you have 45 or</p>
+<p begin="00:07:27.900" end="00:07:33.419" style="s2">60 days to spend that and now of course</p>
+<p begin="00:07:30.659" end="00:07:35.129" style="s2">you go you still have the know your</p>
+<p begin="00:07:33.419" end="00:07:36.539" style="s2">customer your identity problem and it is</p>
+<p begin="00:07:35.129" end="00:07:39.590" style="s2">kind of interesting that in the United</p>
+<p begin="00:07:36.539" end="00:07:42.779" style="s2">States we do not have a national ID</p>
+<p begin="00:07:39.590" end="00:07:45.449" style="s2">unlike in some countries like Germany</p>
+<p begin="00:07:42.779" end="00:07:47.849" style="s2">and France etcetera they&#39;re more or less</p>
+<p begin="00:07:45.449" end="00:07:50.159" style="s2">as a registry of all citizens but we do</p>
+<p begin="00:07:47.849" end="00:07:51.629" style="s2">have the beginnings of one which is the</p>
+<p begin="00:07:50.159" end="00:07:55.379" style="s2">vast preponderance of people I don&#39;t</p>
+<p begin="00:07:51.629" end="00:07:57.839" style="s2">know if it&#39;s 90 95 % file an IRS return</p>
+<p begin="00:07:55.379" end="00:08:01.800" style="s2">each year and so you could use that as</p>
+<p begin="00:07:57.839" end="00:08:05.909" style="s2">the starting point we could then have</p>
+<p begin="00:08:01.800" end="00:08:07.889" style="s2">banks be authorized to do kyc on people</p>
+<p begin="00:08:05.909" end="00:08:09.689" style="s2">who aren&#39;t in that database and go</p>
+<p begin="00:08:07.889" end="00:08:11.490" style="s2">through a kyc fraud know your customer</p>
+<p begin="00:08:09.689" end="00:08:15.060" style="s2">process and basically provisionally</p>
+<p begin="00:08:11.490" end="00:08:18.180" style="s2">enter them into the same or a parallel</p>
+<p begin="00:08:15.060" end="00:08:19.589" style="s2">database to the IRS database and then of</p>
+<p begin="00:08:18.180" end="00:08:21.599" style="s2">course you have to your final group of</p>
+<p begin="00:08:19.589" end="00:08:24.360" style="s2">people who you know people who are</p>
+<p begin="00:08:21.599" end="00:08:28.289" style="s2">homeless etc may have no ID band leader</p>
+<p begin="00:08:24.360" end="00:08:30.599" style="s2">range etc in which case I would suggest</p>
+<p begin="00:08:28.289" end="00:08:31.979" style="s2">use the existing social welfare agencies</p>
+<p begin="00:08:30.599" end="00:08:33.630" style="s2">just provide them a stack of cards</p>
+<p begin="00:08:31.979" end="00:08:36.089" style="s2">knowing there&#39;s gonna be some waste and</p>
+<p begin="00:08:33.630" end="00:08:37.829" style="s2">some fraud and have them pass the cards</p>
+<p begin="00:08:36.089" end="00:08:40.620" style="s2">out on the street to homeless people</p>
+<p begin="00:08:37.829" end="00:08:42.860" style="s2">taking a photograph and entering it into</p>
+<p begin="00:08:40.620" end="00:08:45.779" style="s2">a quick and dirty biometric database</p>
+<p begin="00:08:42.860" end="00:08:47.190" style="s2">that third part you could not get up and</p>
+<p begin="00:08:45.779" end="00:08:50.279" style="s2">running in two weeks but the other two</p>
+<p begin="00:08:47.190" end="00:08:54.600" style="s2">parts you probably could and it would</p>
+<p begin="00:08:50.279" end="00:08:56.339" style="s2">provide the immediate boost here&#39;s the</p>
+<p begin="00:08:54.600" end="00:08:57.990" style="s2">other key thing about the debit cards I</p>
+<p begin="00:08:56.339" end="00:09:01.410" style="s2">want to get back to you we talked about</p>
+<p begin="00:08:57.990" end="00:09:03.329" style="s2">the the electronic methods the beauty of</p>
+<p begin="00:09:01.410" end="00:09:05.660" style="s2">the debit card is that all the points of</p>
+<p begin="00:09:03.329" end="00:09:07.399" style="s2">sale already accepted</p>
+<p begin="00:09:05.660" end="00:09:11.389" style="s2">the hard part is not having to make any</p>
+<p begin="00:09:07.399" end="00:09:13.269" style="s2">changes at you know a couple of million</p>
+<p begin="00:09:11.389" end="00:09:15.470" style="s2">points of sale across the economy</p>
+<p begin="00:09:13.269" end="00:09:17.930" style="s2">everybody takes credit cards and debit</p>
+<p begin="00:09:15.470" end="00:09:20.000" style="s2">cards anyone who has one of these things</p>
+<p begin="00:09:17.930" end="00:09:23.089" style="s2">in their hands can literally walk into a</p>
+<p begin="00:09:20.000" end="00:09:24.860" style="s2">bodega and you know buy you know</p>
+<p begin="00:09:23.089" end="00:09:27.769" style="s2">whatever the heck they need right on the</p>
+<p begin="00:09:24.860" end="00:09:31.730" style="s2">spot no questions asked no ID necessary</p>
+<p begin="00:09:27.769" end="00:09:34.250" style="s2">it&#39;s essentially a bearer instrument but</p>
+<p begin="00:09:31.730" end="00:09:36.230" style="s2">of course that has the downside of fraud</p>
+<p begin="00:09:34.250" end="00:09:39.550" style="s2">and as you said people you know swapping</p>
+<p begin="00:09:36.230" end="00:09:42.019" style="s2">them for for beer behind the 7-eleven or</p>
+<p begin="00:09:39.550" end="00:09:43.790" style="s2">stealing them out of mailboxes and yes</p>
+<p begin="00:09:42.019" end="00:09:47.690" style="s2">that&#39;s true which is why we do need a</p>
+<p begin="00:09:43.790" end="00:09:49.630" style="s2">better system soon but this has the big</p>
+<p begin="00:09:47.690" end="00:09:53.870" style="s2">advantage of being failsafe and</p>
+<p begin="00:09:49.630" end="00:09:56.389" style="s2">deliverable at volume very quickly yeah</p>
+<p begin="00:09:53.870" end="00:09:59.690" style="s2">I mean oh look I mentioned previously</p>
+<p begin="00:09:56.389" end="00:10:02.389" style="s2">like if the plane is crashing in all we</p>
+<p begin="00:09:59.690" end="00:10:04.850" style="s2">have or a world war two parachutes yeah</p>
+<p begin="00:10:02.389" end="00:10:08.660" style="s2">grab those and get out of the plane</p>
+<p begin="00:10:04.850" end="00:10:10.579" style="s2">it is brute force and it&#39;s costly I</p>
+<p begin="00:10:08.660" end="00:10:12.709" style="s2">think it&#39;s you know what we&#39;ve seen out</p>
+<p begin="00:10:10.579" end="00:10:15.980" style="s2">of human behavior and case study after</p>
+<p begin="00:10:12.709" end="00:10:18.769" style="s2">case study is they will take the money</p>
+<p begin="00:10:15.980" end="00:10:21.620" style="s2">out of the ATM and then go horde it and</p>
+<p begin="00:10:18.769" end="00:10:24.380" style="s2">it really won&#39;t do much for stimulus and</p>
+<p begin="00:10:21.620" end="00:10:29.569" style="s2">the other piece you don&#39;t get with that</p>
+<p begin="00:10:24.380" end="00:10:32.240" style="s2">is if you will the the ability of adding</p>
+<p begin="00:10:29.569" end="00:10:34.759" style="s2">other things so for example how can I</p>
+<p begin="00:10:32.240" end="00:10:38.930" style="s2">then say here&#39;s money just for testing</p>
+<p begin="00:10:34.759" end="00:10:41.149" style="s2">like here&#39;s Co good nineteen testing and</p>
+<p begin="00:10:38.930" end="00:10:44.089" style="s2">once that testing is done I now want to</p>
+<p begin="00:10:41.149" end="00:10:46.610" style="s2">be able to store my kovat 19 test</p>
+<p begin="00:10:44.089" end="00:10:52.009" style="s2">results that I&#39;m positive or negative in</p>
+<p begin="00:10:46.610" end="00:10:53.990" style="s2">my wallet and so if you will if you if</p>
+<p begin="00:10:52.009" end="00:10:57.529" style="s2">you have an electronic system that&#39;s</p>
+<p begin="00:10:53.990" end="00:10:59.649" style="s2">based on a biometric system or biometric</p>
+<p begin="00:10:57.529" end="00:11:03.290" style="s2">ID as I mentioned you end up with</p>
+<p begin="00:10:59.649" end="00:11:05.360" style="s2">multiple use cases right where you can</p>
+<p begin="00:11:03.290" end="00:11:09.110" style="s2">actually do medical docs you can do the</p>
+<p begin="00:11:05.360" end="00:11:11.449" style="s2">state of California wallet inside of</p>
+<p begin="00:11:09.110" end="00:11:13.819" style="s2">there you can do the US Treasury wallet</p>
+<p begin="00:11:11.449" end="00:11:16.519" style="s2">inside of there and you can connect to</p>
+<p begin="00:11:13.819" end="00:11:20.199" style="s2">Wells Fargo and Bank of America - right</p>
+<p begin="00:11:16.519" end="00:11:24.110" style="s2">it becomes the uber wallet</p>
+<p begin="00:11:20.199" end="00:11:27.790" style="s2">so that type of infrastructure I mean</p>
+<p begin="00:11:24.110" end="00:11:30.019" style="s2">look it&#39;s it&#39;s going to be required</p>
+<p begin="00:11:27.790" end="00:11:31.220" style="s2">going forward and the only question is</p>
+<p begin="00:11:30.019" end="00:11:35.240" style="s2">how do we get there</p>
+<p begin="00:11:31.220" end="00:11:37.670" style="s2">right as I mentioned we modeled after</p>
+<p begin="00:11:35.240" end="00:11:39.560" style="s2">Estonia so I was actually just chatting</p>
+<p begin="00:11:37.670" end="00:11:42.079" style="s2">with the ex-president of Estonia who</p>
+<p begin="00:11:39.560" end="00:11:43.310" style="s2">implemented their system and he was</p>
+<p begin="00:11:42.079" end="00:11:47.269" style="s2">mentioning like look they&#39;re all in</p>
+<p begin="00:11:43.310" end="00:11:50.149" style="s2">lockdown but every interaction with the</p>
+<p begin="00:11:47.269" end="00:11:52.070" style="s2">government is electronic and is up and</p>
+<p begin="00:11:50.149" end="00:11:53.300" style="s2">running and working just fine right now</p>
+<p begin="00:11:52.070" end="00:11:55.610" style="s2">today right</p>
+<p begin="00:11:53.300" end="00:11:58.790" style="s2">so they&#39;re dealing with kovat 19 in a</p>
+<p begin="00:11:55.610" end="00:12:02.959" style="s2">system where they you know it&#39;s</p>
+<p begin="00:11:58.790" end="00:12:06.260" style="s2">functioning for them and so sort of</p>
+<p begin="00:12:02.959" end="00:12:10.010" style="s2">circling back yeah the idea of UVI and</p>
+<p begin="00:12:06.260" end="00:12:12.709" style="s2">adding liquidity to to the nation</p>
+<p begin="00:12:10.010" end="00:12:14.360" style="s2">quickly the policymakers are just</p>
+<p begin="00:12:12.709" end="00:12:16.760" style="s2">dealing with antiquated tools an</p>
+<p begin="00:12:14.360" end="00:12:18.860" style="s2">infrastructure right like they don&#39;t</p>
+<p begin="00:12:16.760" end="00:12:20.959" style="s2">have four-lane freeways right now</p>
+<p begin="00:12:18.860" end="00:12:22.790" style="s2">they&#39;ve got dirt roads and so we&#39;re</p>
+<p begin="00:12:20.959" end="00:12:25.220" style="s2">gonna have to invest and build something</p>
+<p begin="00:12:22.790" end="00:12:27.110" style="s2">like this yep I absolutely agree I think</p>
+<p begin="00:12:25.220" end="00:12:29.959" style="s2">the you know context that we could place</p>
+<p begin="00:12:27.110" end="00:12:32.209" style="s2">us in had another one of these extra</p>
+<p begin="00:12:29.959" end="00:12:34.399" style="s2">podcasts with Jordan Hall yesterday we</p>
+<p begin="00:12:32.209" end="00:12:36.860" style="s2">talked quite a bit about the fact that</p>
+<p begin="00:12:34.399" end="00:12:39.050" style="s2">you know one of the big takeaway lessons</p>
+<p begin="00:12:36.860" end="00:12:42.350" style="s2">of this event is our society has to be</p>
+<p begin="00:12:39.050" end="00:12:45.500" style="s2">willing to invest a lot ahead in terms</p>
+<p begin="00:12:42.350" end="00:12:48.019" style="s2">of resilience and robustness so even if</p>
+<p begin="00:12:45.500" end="00:12:50.480" style="s2">no single business could have could ever</p>
+<p begin="00:12:48.019" end="00:12:53.779" style="s2">justify building this thing out it ought</p>
+<p begin="00:12:50.480" end="00:12:56.329" style="s2">to become a you know social socially</p>
+<p begin="00:12:53.779" end="00:12:58.490" style="s2">funded program where we have this thing</p>
+<p begin="00:12:56.329" end="00:13:01.519" style="s2">that you describe and may well be your</p>
+<p begin="00:12:58.490" end="00:13:03.500" style="s2">system up and running you know for the</p>
+<p begin="00:13:01.519" end="00:13:05.089" style="s2">next crisis and this is not going to be</p>
+<p begin="00:13:03.500" end="00:13:07.690" style="s2">the last crisis I can tell you that</p>
+<p begin="00:13:05.089" end="00:13:10.579" style="s2">between now the end of the the century</p>
+<p begin="00:13:07.690" end="00:13:11.839" style="s2">so so let&#39;s just wargame it a little bit</p>
+<p begin="00:13:10.579" end="00:13:12.589" style="s2">you know we have our World War Two</p>
+<p begin="00:13:11.839" end="00:13:14.660" style="s2">parachute</p>
+<p begin="00:13:12.589" end="00:13:16.399" style="s2">you know scaled up Green Dot plastic</p>
+<p begin="00:13:14.660" end="00:13:17.959" style="s2">debit cards I know by the way I do</p>
+<p begin="00:13:16.399" end="00:13:21.110" style="s2">believe we can take care of that ATM</p>
+<p begin="00:13:17.959" end="00:13:23.209" style="s2">problem but I do think making ATM</p>
+<p begin="00:13:21.110" end="00:13:27.459" style="s2">withdrawals is an option on these cards</p>
+<p begin="00:13:23.209" end="00:13:29.959" style="s2">you can make them not available for ATM</p>
+<p begin="00:13:27.459" end="00:13:32.029" style="s2">withdrawal but nonetheless that will</p>
+<p begin="00:13:29.959" end="00:13:32.960" style="s2">still be gray market people will buy</p>
+<p begin="00:13:32.029" end="00:13:35.540" style="s2">beer and trade</p>
+<p begin="00:13:32.960" end="00:13:37.640" style="s2">for cash and things of that sort if you</p>
+<p begin="00:13:35.540" end="00:13:40.010" style="s2">turn off the ATM it&#39;ll reduce it</p>
+<p begin="00:13:37.640" end="00:13:42.080" style="s2">significantly so let&#39;s say from we use</p>
+<p begin="00:13:40.010" end="00:13:46.490" style="s2">the World War Two parachute as long as</p>
+<p begin="00:13:42.080" end="00:13:50.720" style="s2">we need to if there was a truly national</p>
+<p begin="00:13:46.490" end="00:13:53.570" style="s2">at war level investment in let&#39;s say</p>
+<p begin="00:13:50.720" end="00:13:56.300" style="s2">taking your system scaling it up and</p>
+<p begin="00:13:53.570" end="00:13:58.820" style="s2">deploying it what&#39;s a reasonable period</p>
+<p begin="00:13:56.300" end="00:14:00.860" style="s2">of time with some fallback failsafe and</p>
+<p begin="00:13:58.820" end="00:14:04.420" style="s2">testing to be able to actually roll it</p>
+<p begin="00:14:00.860" end="00:14:07.220" style="s2">out first say for one medium sized state</p>
+<p begin="00:14:04.420" end="00:14:10.250" style="s2">then a couple of states and then the</p>
+<p begin="00:14:07.220" end="00:14:12.830" style="s2">whole nation so look we&#39;ve actually</p>
+<p begin="00:14:10.250" end="00:14:15.740" style="s2">rolled our system out or tested it in</p>
+<p begin="00:14:12.830" end="00:14:18.560" style="s2">for example Indonesia like we were given</p>
+<p begin="00:14:15.740" end="00:14:21.470" style="s2">they had a scenario where they were</p>
+<p begin="00:14:18.560" end="00:14:23.660" style="s2">handing out the energy subsidy right and</p>
+<p begin="00:14:21.470" end="00:14:25.820" style="s2">they handed out physical cards and you</p>
+<p begin="00:14:23.660" end="00:14:29.050" style="s2">were supposed to turn those cards in to</p>
+<p begin="00:14:25.820" end="00:14:31.460" style="s2">basically get a gas tank to go cook with</p>
+<p begin="00:14:29.050" end="00:14:33.590" style="s2">it&#39;s by the way that&#39;s seven billion</p>
+<p begin="00:14:31.460" end="00:14:39.340" style="s2">dollars distributed to 50 million people</p>
+<p begin="00:14:33.590" end="00:14:39.340" style="s2">a year okay and what happened there is</p>
+<p begin="00:14:39.550" end="00:14:43.580" style="s2">well it&#39;s one of the biggest black</p>
+<p begin="00:14:41.960" end="00:14:46.300" style="s2">markets in the world</p>
+<p begin="00:14:43.580" end="00:14:49.910" style="s2">the vast majority like over 50% of those</p>
+<p begin="00:14:46.300" end="00:14:52.580" style="s2">vouchers end up with the maids in</p>
+<p begin="00:14:49.910" end="00:14:55.670" style="s2">Jakarta and it ends up an upper-class so</p>
+<p begin="00:14:52.580" end="00:14:58.370" style="s2">it just was utterly ineffective and so</p>
+<p begin="00:14:55.670" end="00:15:00.920" style="s2">we rolled out a way to show you could</p>
+<p begin="00:14:58.370" end="00:15:04.340" style="s2">send this programmable money only used</p>
+<p begin="00:15:00.920" end="00:15:06.550" style="s2">by the person attached literally to</p>
+<p begin="00:15:04.340" end="00:15:10.010" style="s2">their face their biometrics</p>
+<p begin="00:15:06.550" end="00:15:12.590" style="s2">and they could only redeem it for this</p>
+<p begin="00:15:10.010" end="00:15:14.300" style="s2">gas tank all right so like we know our</p>
+<p begin="00:15:12.590" end="00:15:17.330" style="s2">system if you will works right now today</p>
+<p begin="00:15:14.300" end="00:15:19.970" style="s2">it&#39;s proven like we were doing villages</p>
+<p begin="00:15:17.330" end="00:15:23.920" style="s2">we were out and you know bukittinggi</p>
+<p begin="00:15:19.970" end="00:15:27.740" style="s2">like you know in in the Netherlands yeah</p>
+<p begin="00:15:23.920" end="00:15:31.910" style="s2">so what would it take to roll out here</p>
+<p begin="00:15:27.740" end="00:15:34.430" style="s2">in the US are is eminently scaleable the</p>
+<p begin="00:15:31.910" end="00:15:37.070" style="s2">issue would be registration right how do</p>
+<p begin="00:15:34.430" end="00:15:39.170" style="s2">you actually get a user to scan in their</p>
+<p begin="00:15:37.070" end="00:15:41.300" style="s2">face and scan in their driver&#39;s license</p>
+<p begin="00:15:39.170" end="00:15:45.620" style="s2">for example driver&#39;s license by the way</p>
+<p begin="00:15:41.300" end="00:15:46.680" style="s2">like a it&#39;s about 90% of adults you know</p>
+<p begin="00:15:45.620" end="00:15:48.810" style="s2">age 22</p>
+<p begin="00:15:46.680" end="00:15:50.460" style="s2">90 you actually have a driver&#39;s license</p>
+<p begin="00:15:48.810" end="00:15:52.770" style="s2">so driver&#39;s license actually has your</p>
+<p begin="00:15:50.460" end="00:15:56.580" style="s2">address and your photo so you can match</p>
+<p begin="00:15:52.770" end="00:15:59.820" style="s2">your face with that photo and from there</p>
+<p begin="00:15:56.580" end="00:16:03.240" style="s2">create a wallet so that would be the the</p>
+<p begin="00:15:59.820" end="00:16:05.010" style="s2">way to that would be the only impediment</p>
+<p begin="00:16:03.240" end="00:16:07.170" style="s2">to scaling would be how long does it</p>
+<p begin="00:16:05.010" end="00:16:09.000" style="s2">take to register it&#39;s gonna go full</p>
+<p begin="00:16:07.170" end="00:16:11.070" style="s2">Manhattan Project you do it at the post</p>
+<p begin="00:16:09.000" end="00:16:12.870" style="s2">offices and the grocery stores and you</p>
+<p begin="00:16:11.070" end="00:16:15.690" style="s2">register everybody as they walk in and</p>
+<p begin="00:16:12.870" end="00:16:17.480" style="s2">out right you written you come into the</p>
+<p begin="00:16:15.690" end="00:16:19.920" style="s2">post office or go to your grocery store</p>
+<p begin="00:16:17.480" end="00:16:22.950" style="s2">scan your face and your driver&#39;s license</p>
+<p begin="00:16:19.920" end="00:16:25.230" style="s2">on the tablet and boom you&#39;re entered</p>
+<p begin="00:16:22.950" end="00:16:28.170" style="s2">and you now have a wallet that&#39;s</p>
+<p begin="00:16:25.230" end="00:16:30.420" style="s2">connected to the theft net for example</p>
+<p begin="00:16:28.170" end="00:16:32.190" style="s2">or the government how about the other</p>
+<p begin="00:16:30.420" end="00:16:33.899" style="s2">half of which I you know alluded to on</p>
+<p begin="00:16:32.190" end="00:16:35.940" style="s2">you know where the debit cards are so</p>
+<p begin="00:16:33.899" end="00:16:38.100" style="s2">useful point-of-sale how do you get</p>
+<p begin="00:16:35.940" end="00:16:40.160" style="s2">these systems you know someone walks</p>
+<p begin="00:16:38.100" end="00:16:42.510" style="s2">into the bodega and they need to buy</p>
+<p begin="00:16:40.160" end="00:16:44.970" style="s2">half gallon of milk and two loaves of</p>
+<p begin="00:16:42.510" end="00:16:47.399" style="s2">bread how does the bodega get set up to</p>
+<p begin="00:16:44.970" end="00:16:49.050" style="s2">be able to accept this so there&#39;s a</p>
+<p begin="00:16:47.399" end="00:16:52.110" style="s2">couple of different ways so if they&#39;re</p>
+<p begin="00:16:49.050" end="00:16:54.510" style="s2">already doing for example NFC point of</p>
+<p begin="00:16:52.110" end="00:16:56.100" style="s2">sales which the vast majority are and</p>
+<p begin="00:16:54.510" end="00:16:58.589" style="s2">you have a smartphone you can literally</p>
+<p begin="00:16:56.100" end="00:17:00.870" style="s2">take your digital US dollar for</p>
+<p begin="00:16:58.589" end="00:17:02.790" style="s2">groceries and scan it just like you&#39;re</p>
+<p begin="00:17:00.870" end="00:17:04.679" style="s2">doing Apple pay or you know Google</p>
+<p begin="00:17:02.790" end="00:17:07.050" style="s2">Wallet right do that today</p>
+<p begin="00:17:04.679" end="00:17:08.910" style="s2">what&#39;s the penetration on the truthfully</p>
+<p begin="00:17:07.050" end="00:17:11.010" style="s2">I&#39;m laggard I tend to use folding cash</p>
+<p begin="00:17:08.910" end="00:17:13.189" style="s2">or worst case at credit cards</p>
+<p begin="00:17:11.010" end="00:17:16.319" style="s2">what&#39;s the penetration on things like</p>
+<p begin="00:17:13.189" end="00:17:18.990" style="s2">Apple pay or Google pay I&#39;m the ability</p>
+<p begin="00:17:16.319" end="00:17:22.410" style="s2">at the point-of-sale point-of-sale is</p>
+<p begin="00:17:18.990" end="00:17:25.140" style="s2">actually pretty ubiquitous I believe is</p>
+<p begin="00:17:22.410" end="00:17:27.150" style="s2">there isn&#39;t as much on the smartphone</p>
+<p begin="00:17:25.140" end="00:17:28.740" style="s2">penetration that is we all hang around</p>
+<p begin="00:17:27.150" end="00:17:30.960" style="s2">with each other and I&#39;ll have super</p>
+<p begin="00:17:28.740" end="00:17:33.210" style="s2">smartphones truth is on the planet</p>
+<p begin="00:17:30.960" end="00:17:34.890" style="s2">there&#39;s like four to five billion people</p>
+<p begin="00:17:33.210" end="00:17:37.910" style="s2">that don&#39;t have smart phones out of the</p>
+<p begin="00:17:34.890" end="00:17:39.660" style="s2">seven and a half that exists today so</p>
+<p begin="00:17:37.910" end="00:17:41.309" style="s2">Americans that I have a higher</p>
+<p begin="00:17:39.660" end="00:17:43.050" style="s2">penetration of smartphone but there&#39;s</p>
+<p begin="00:17:41.309" end="00:17:46.110" style="s2">still a good you know good percentage</p>
+<p begin="00:17:43.050" end="00:17:48.600" style="s2">that don&#39;t and so as I mentioned before</p>
+<p begin="00:17:46.110" end="00:17:51.240" style="s2">like we can actually give you a wallet</p>
+<p begin="00:17:48.600" end="00:17:53.790" style="s2">up in the cloud so you don&#39;t need a</p>
+<p begin="00:17:51.240" end="00:17:57.030" style="s2">device at all now in that case for point</p>
+<p begin="00:17:53.790" end="00:17:58.440" style="s2">of sale for example in the grocery store</p>
+<p begin="00:17:57.030" end="00:18:00.480" style="s2">right where you registered</p>
+<p begin="00:17:58.440" end="00:18:02.730" style="s2">you could scan your face put in your</p>
+<p begin="00:18:00.480" end="00:18:04.230" style="s2">pin and have it spit out a QR code</p>
+<p begin="00:18:02.730" end="00:18:07.260" style="s2">that&#39;s good for the money</p>
+<p begin="00:18:04.230" end="00:18:10.470" style="s2">right and that QR code can be scanned at</p>
+<p begin="00:18:07.260" end="00:18:12.780" style="s2">you know at the register mmm okay I like</p>
+<p begin="00:18:10.470" end="00:18:14.370" style="s2">that I like yeah you say like the other</p>
+<p begin="00:18:12.780" end="00:18:17.150" style="s2">ways like look if you just simply walk</p>
+<p begin="00:18:14.370" end="00:18:20.330" style="s2">in and the point-of-sale has a camera or</p>
+<p begin="00:18:17.150" end="00:18:23.700" style="s2">the clerk has a camera like a smartphone</p>
+<p begin="00:18:20.330" end="00:18:26.549" style="s2">that&#39;s the point of sale - or why</p>
+<p begin="00:18:23.700" end="00:18:29.520" style="s2">suppose people like the square payment</p>
+<p begin="00:18:26.549" end="00:18:31.980" style="s2">system could augment their system with a</p>
+<p begin="00:18:29.520" end="00:18:33.900" style="s2">camera and then hook back to your do the</p>
+<p begin="00:18:31.980" end="00:18:36.960" style="s2">biometric processing you know call your</p>
+<p begin="00:18:33.900" end="00:18:39.660" style="s2">database and then connect to the ledger</p>
+<p begin="00:18:36.960" end="00:18:41.490" style="s2">and the wallet and again if you</p>
+<p begin="00:18:39.660" end="00:18:45.000" style="s2">partnered with people who have that is</p>
+<p begin="00:18:41.490" end="00:18:49.830" style="s2">inexpensive and you know massively</p>
+<p begin="00:18:45.000" end="00:18:51.120" style="s2">scalable point of sale devices then that</p>
+<p begin="00:18:49.830" end="00:18:52.470" style="s2">would take care particularly the little</p>
+<p begin="00:18:51.120" end="00:18:54.210" style="s2">guy I mean the big guys they&#39;ll figure</p>
+<p begin="00:18:52.470" end="00:18:57.059" style="s2">it out but I&#39;m worrying about the moms</p>
+<p begin="00:18:54.210" end="00:18:59.580" style="s2">and pops right the auto mechanics and</p>
+<p begin="00:18:57.059" end="00:19:02.070" style="s2">the bodegas etc just need a smartphone</p>
+<p begin="00:18:59.580" end="00:19:04.620" style="s2">maybe they can if you&#39;ll I could walk in</p>
+<p begin="00:19:02.070" end="00:19:06.120" style="s2">with my wallet on my phone and say</p>
+<p begin="00:19:04.620" end="00:19:08.669" style="s2">here&#39;s a payment and just literally go</p>
+<p begin="00:19:06.120" end="00:19:11.669" style="s2">peer-to-peer and it runs across our</p>
+<p begin="00:19:08.669" end="00:19:14.220" style="s2">rails to actually ledger the transaction</p>
+<p begin="00:19:11.669" end="00:19:17.040" style="s2">out of my walton into theirs and now</p>
+<p begin="00:19:14.220" end="00:19:18.450" style="s2">what&#39;s the error rate both the you know</p>
+<p begin="00:19:17.040" end="00:19:20.340" style="s2">the false negatives and the false</p>
+<p begin="00:19:18.450" end="00:19:22.110" style="s2">positives because it would be mighty</p>
+<p begin="00:19:20.340" end="00:19:23.610" style="s2">annoying if let&#39;s say you&#39;re a poor</p>
+<p begin="00:19:22.110" end="00:19:25.590" style="s2">person without a smartphone you go down</p>
+<p begin="00:19:23.610" end="00:19:28.020" style="s2">to the grocery to buy some stuff for</p>
+<p begin="00:19:25.590" end="00:19:30.000" style="s2">your kids you know you have money in</p>
+<p begin="00:19:28.020" end="00:19:31.350" style="s2">your wallet they scan you but the</p>
+<p begin="00:19:30.000" end="00:19:35.120" style="s2">biometrics doesn&#39;t match</p>
+<p begin="00:19:31.350" end="00:19:38.040" style="s2">that&#39;s actually pretty solvable at scale</p>
+<p begin="00:19:35.120" end="00:19:41.040" style="s2">we&#39;ve seen across the planet it&#39;s not</p>
+<p begin="00:19:38.040" end="00:19:44.100" style="s2">that as hard as it used to be I&#39;m gonna</p>
+<p begin="00:19:41.040" end="00:19:47.370" style="s2">give you a very real sense with our own</p>
+<p begin="00:19:44.100" end="00:19:49.200" style="s2">government so Global Entry right when</p>
+<p begin="00:19:47.370" end="00:19:52.200" style="s2">you come in to the airports from</p>
+<p begin="00:19:49.200" end="00:19:56.250" style="s2">overseas used to do for fingerprints and</p>
+<p begin="00:19:52.200" end="00:19:58.049" style="s2">then take a picture of yourself and in</p>
+<p begin="00:19:56.250" end="00:19:59.850" style="s2">the last six months they&#39;ve phased out</p>
+<p begin="00:19:58.049" end="00:20:02.940" style="s2">the fingerprints and literally just gone</p>
+<p begin="00:19:59.850" end="00:20:07.260" style="s2">with face so they do face and then they</p>
+<p begin="00:20:02.940" end="00:20:08.990" style="s2">look at the name of the person that came</p>
+<p begin="00:20:07.260" end="00:20:13.980" style="s2">in on the on your airline ticket and</p>
+<p begin="00:20:08.990" end="00:20:18.299" style="s2">that is deduplication at a 99</p>
+<p begin="00:20:13.980" end="00:20:19.860" style="s2">point something percent it&#39;s it&#39;s</p>
+<p begin="00:20:18.299" end="00:20:22.530" style="s2">working well enough literally for our</p>
+<p begin="00:20:19.860" end="00:20:25.350" style="s2">own borders and then DHS is deadly</p>
+<p begin="00:20:22.530" end="00:20:28.740" style="s2">serious about this stuff yeah even 99%</p>
+<p begin="00:20:25.350" end="00:20:30.450" style="s2">it would be considerably better than the</p>
+<p begin="00:20:28.740" end="00:20:32.610" style="s2">leakage you&#39;d expect from a plastic</p>
+<p begin="00:20:30.450" end="00:20:34.530" style="s2">debit card system yeah and by the way</p>
+<p begin="00:20:32.610" end="00:20:37.740" style="s2">that&#39;s just biometrics as soon as I say</p>
+<p begin="00:20:34.530" end="00:20:39.750" style="s2">it&#39;s you know my name attached to that</p>
+<p begin="00:20:37.740" end="00:20:42.660" style="s2">biometrics then you&#39;re at 99 point</p>
+<p begin="00:20:39.750" end="00:20:45.080" style="s2">something okay so it sounds like the</p>
+<p begin="00:20:42.660" end="00:20:47.490" style="s2">technology is there very interesting</p>
+<p begin="00:20:45.080" end="00:20:50.280" style="s2">pretty commoditized now everyone&#39;s</p>
+<p begin="00:20:47.490" end="00:20:52.049" style="s2">shooting at the 98 99 percent so let&#39;s</p>
+<p begin="00:20:50.280" end="00:20:54.380" style="s2">go back to my original question let&#39;s</p>
+<p begin="00:20:52.049" end="00:20:57.150" style="s2">say that resources were unlimited</p>
+<p begin="00:20:54.380" end="00:20:59.010" style="s2">somehow we actually got a political and</p>
+<p begin="00:20:57.150" end="00:21:00.540" style="s2">regulatory decision to go do</p>
+<p begin="00:20:59.010" end="00:21:03.270" style="s2">this right we know that&#39;s not gonna be</p>
+<p begin="00:21:00.540" end="00:21:05.690" style="s2">easy let&#39;s say we did and someone said</p>
+<p begin="00:21:03.270" end="00:21:08.250" style="s2">here is essentially a blank check and</p>
+<p begin="00:21:05.690" end="00:21:10.440" style="s2">how long is gonna take including</p>
+<p begin="00:21:08.250" end="00:21:13.260" style="s2">spinning up the registration process</p>
+<p begin="00:21:10.440" end="00:21:16.350" style="s2">well what&#39;s a safe number is it a year</p>
+<p begin="00:21:13.260" end="00:21:18.750" style="s2">nine months two years what would you say</p>
+<p begin="00:21:16.350" end="00:21:20.429" style="s2">if someone literally tapped you on the</p>
+<p begin="00:21:18.750" end="00:21:22.830" style="s2">shoulder and said okay Bob we&#39;ve vetted</p>
+<p begin="00:21:20.429" end="00:21:24.780" style="s2">your we believe it&#39;ll scale but</p>
+<p begin="00:21:22.830" end="00:21:27.510" style="s2">whatever it takes do it we&#39;re in the</p>
+<p begin="00:21:24.780" end="00:21:29.220" style="s2">neighborhood of months and the you know</p>
+<p begin="00:21:27.510" end="00:21:32.850" style="s2">hesitation we&#39;ll hear in my voice is if</p>
+<p begin="00:21:29.220" end="00:21:36.000" style="s2">you will testing right so it&#39;s okay like</p>
+<p begin="00:21:32.850" end="00:21:37.980" style="s2">sure we can all go here&#39;s hundreds or</p>
+<p begin="00:21:36.000" end="00:21:42.390" style="s2">thousands of tablets let&#39;s go ahead and</p>
+<p begin="00:21:37.980" end="00:21:44.340" style="s2">run the city of San Diego or let&#39;s go</p>
+<p begin="00:21:42.390" end="00:21:47.940" style="s2">ahead and do the US military for example</p>
+<p begin="00:21:44.340" end="00:21:49.980" style="s2">as the you know the beta test let&#39;s call</p>
+<p begin="00:21:47.940" end="00:21:52.860" style="s2">it you know weeks then in terms of</p>
+<p begin="00:21:49.980" end="00:21:54.840" style="s2">registering everybody and then you would</p>
+<p begin="00:21:52.860" end="00:21:58.080" style="s2">literally then have to do transactions</p>
+<p begin="00:21:54.840" end="00:22:01.350" style="s2">after transactions to if you will make</p>
+<p begin="00:21:58.080" end="00:22:03.809" style="s2">sure everything&#39;s robust so blank check</p>
+<p begin="00:22:01.350" end="00:22:06.059" style="s2">we&#39;re in the neighborhood of months in</p>
+<p begin="00:22:03.809" end="00:22:09.929" style="s2">terms of getting it to a position where</p>
+<p begin="00:22:06.059" end="00:22:12.840" style="s2">you know we can show provable everything</p>
+<p begin="00:22:09.929" end="00:22:16.290" style="s2">at scale and that does not necessarily</p>
+<p begin="00:22:12.840" end="00:22:17.610" style="s2">include the spin-up of registration no</p>
+<p begin="00:22:16.290" end="00:22:19.500" style="s2">that would be registration like you&#39;d</p>
+<p begin="00:22:17.610" end="00:22:23.909" style="s2">pick a select population like I said</p>
+<p begin="00:22:19.500" end="00:22:26.220" style="s2">here&#39;s the you just a city or the US</p>
+<p begin="00:22:23.909" end="00:22:27.310" style="s2">military and we&#39;re dealing with hundreds</p>
+<p begin="00:22:26.220" end="00:22:31.680" style="s2">of thousands</p>
+<p begin="00:22:27.310" end="00:22:34.630" style="s2">of people or san diego&#39;s two million and</p>
+<p begin="00:22:31.680" end="00:22:37.600" style="s2">you could literally have all of those</p>
+<p begin="00:22:34.630" end="00:22:39.760" style="s2">people filing in a few weeks register</p>
+<p begin="00:22:37.600" end="00:22:41.650" style="s2">get their accounts and then start</p>
+<p begin="00:22:39.760" end="00:22:44.110" style="s2">sending money to them or having them</p>
+<p begin="00:22:41.650" end="00:22:45.460" style="s2">transact absolutely any is just thinking</p>
+<p begin="00:22:44.110" end="00:22:47.080" style="s2">out loud here I know this adds or</p>
+<p begin="00:22:45.460" end="00:22:48.460" style="s2">subtracts but you know let&#39;s say we want</p>
+<p begin="00:22:47.080" end="00:22:50.950" style="s2">to do it in parallel while you&#39;re doing</p>
+<p begin="00:22:48.460" end="00:22:57.340" style="s2">the regional test at a national level we</p>
+<p begin="00:22:50.950" end="00:23:00.130" style="s2">could recruit a whole core of notaries</p>
+<p begin="00:22:57.340" end="00:23:02.560" style="s2">essentially people who are vetted and</p>
+<p begin="00:23:00.130" end="00:23:04.330" style="s2">are given you know upscale devices and</p>
+<p begin="00:23:02.560" end="00:23:06.520" style="s2">anyone that comes to that notary could</p>
+<p begin="00:23:04.330" end="00:23:10.060" style="s2">be registered by the notary right today</p>
+<p begin="00:23:06.520" end="00:23:12.010" style="s2">so in Indonesia when we rolled out we</p>
+<p begin="00:23:10.060" end="00:23:13.930" style="s2">didn&#39;t have foundational identity that</p>
+<p begin="00:23:12.010" end="00:23:15.580" style="s2">is a government ID mm-hmm</p>
+<p begin="00:23:13.930" end="00:23:18.250" style="s2">we were dealing in the poor</p>
+<p begin="00:23:15.580" end="00:23:20.380" style="s2">neighborhoods and they had a family card</p>
+<p begin="00:23:18.250" end="00:23:24.940" style="s2">and in that case we literally had to</p>
+<p begin="00:23:20.380" end="00:23:27.160" style="s2">have Bri Bank agents and sometimes</p>
+<p begin="00:23:24.940" end="00:23:30.400" style="s2">government overseers to actually act as</p>
+<p begin="00:23:27.160" end="00:23:32.410" style="s2">notaries to register people now in the</p>
+<p begin="00:23:30.400" end="00:23:35.110" style="s2">case of the US where we&#39;re dealing with</p>
+<p begin="00:23:32.410" end="00:23:38.380" style="s2">90 some percent that have foundational</p>
+<p begin="00:23:35.110" end="00:23:40.420" style="s2">identity you can literally do self</p>
+<p begin="00:23:38.380" end="00:23:43.810" style="s2">registration at home you scan your</p>
+<p begin="00:23:40.420" end="00:23:46.480" style="s2">driver&#39;s license scan your face and boom</p>
+<p begin="00:23:43.810" end="00:23:48.130" style="s2">you&#39;re off to the races yeah that work</p>
+<p begin="00:23:46.480" end="00:23:50.530" style="s2">for up seventy-five percent of people</p>
+<p begin="00:23:48.130" end="00:23:52.450" style="s2">keep in mind that yeah amazing number of</p>
+<p begin="00:23:50.530" end="00:23:55.480" style="s2">Americans are totally computer</p>
+<p begin="00:23:52.450" end="00:23:56.530" style="s2">illiterate but seventy five percent so</p>
+<p begin="00:23:55.480" end="00:23:59.740" style="s2">could play start and then have the</p>
+<p begin="00:23:56.530" end="00:24:01.570" style="s2">notaries have banks you have a layers of</p>
+<p begin="00:23:59.740" end="00:24:03.460" style="s2">backup at the end of the day you know</p>
+<p begin="00:24:01.570" end="00:24:06.070" style="s2">social welfare agencies that go out and</p>
+<p begin="00:24:03.460" end="00:24:07.900" style="s2">register people on the streets right now</p>
+<p begin="00:24:06.070" end="00:24:10.000" style="s2">what&#39;s interesting is I mean going back</p>
+<p begin="00:24:07.900" end="00:24:12.370" style="s2">to what you were saying before is all of</p>
+<p begin="00:24:10.000" end="00:24:16.420" style="s2">this does rely on it has to have a</p>
+<p begin="00:24:12.370" end="00:24:20.020" style="s2">common identity batplane that is I can&#39;t</p>
+<p begin="00:24:16.420" end="00:24:22.510" style="s2">register myself with my driver&#39;s license</p>
+<p begin="00:24:20.020" end="00:24:25.540" style="s2">in one area and then go to social</p>
+<p begin="00:24:22.510" end="00:24:27.370" style="s2">welfare and get my biometrics there and</p>
+<p begin="00:24:25.540" end="00:24:28.870" style="s2">then go to a third spot and say here&#39;s</p>
+<p begin="00:24:27.370" end="00:24:31.000" style="s2">my proof of address because I&#39;ve got a</p>
+<p begin="00:24:28.870" end="00:24:33.730" style="s2">letter from a bank those end up with</p>
+<p begin="00:24:31.000" end="00:24:35.530" style="s2">three different identities and so this</p>
+<p begin="00:24:33.730" end="00:24:37.450" style="s2">is why we always drive towards you have</p>
+<p begin="00:24:35.530" end="00:24:39.310" style="s2">to have deduplication which is</p>
+<p begin="00:24:37.450" end="00:24:41.059" style="s2">biometrics and if you have a common</p>
+<p begin="00:24:39.310" end="00:24:43.249" style="s2">identity system underneath all of them</p>
+<p begin="00:24:41.059" end="00:24:46.490" style="s2">then you&#39;ve got a system that will</p>
+<p begin="00:24:43.249" end="00:24:48.350" style="s2">actually not be rife with fraud right</p>
+<p begin="00:24:46.490" end="00:24:50.509" style="s2">and you&#39;ll actually be yeah you know</p>
+<p begin="00:24:48.350" end="00:24:52.399" style="s2">like I said fundamentally are you who</p>
+<p begin="00:24:50.509" end="00:24:55.669" style="s2">you say you are and is this account</p>
+<p begin="00:24:52.399" end="00:24:58.399" style="s2">attached to you as a singular human</p>
+<p begin="00:24:55.669" end="00:25:00.830" style="s2">being yep and yeah that would if</p>
+<p begin="00:24:58.399" end="00:25:03.289" style="s2">assuming that you that the the base</p>
+<p begin="00:25:00.830" end="00:25:04.370" style="s2">layer biometrics is indeed 99 plus</p>
+<p begin="00:25:03.289" end="00:25:07.399" style="s2">percent</p>
+<p begin="00:25:04.370" end="00:25:08.809" style="s2">it makes fraud not worth doing right you</p>
+<p begin="00:25:07.399" end="00:25:10.309" style="s2">know that&#39;s the interesting about crime</p>
+<p begin="00:25:08.809" end="00:25:12.769" style="s2">you don&#39;t have to have a bulletproof</p>
+<p begin="00:25:10.309" end="00:25:15.799" style="s2">system to stop crime just have to make</p>
+<p begin="00:25:12.769" end="00:25:17.600" style="s2">it such that it&#39;s it mostly doesn&#39;t work</p>
+<p begin="00:25:15.799" end="00:25:20.450" style="s2">and the the risk for getting caught are</p>
+<p begin="00:25:17.600" end="00:25:22.279" style="s2">pretty damn high right right and again</p>
+<p begin="00:25:20.450" end="00:25:24.649" style="s2">as part of this I would make a really</p>
+<p begin="00:25:22.279" end="00:25:27.619" style="s2">draconian laws I would say this is</p>
+<p begin="00:25:24.649" end="00:25:29.269" style="s2">wartime anyone who attempts to defraud</p>
+<p begin="00:25:27.619" end="00:25:31.580" style="s2">this system as an individual is gonna</p>
+<p begin="00:25:29.269" end="00:25:34.279" style="s2">get ten years in the slammer anyone who</p>
+<p begin="00:25:31.580" end="00:25:37.070" style="s2">gets it&#39;s doing it an organized crime</p>
+<p begin="00:25:34.279" end="00:25:38.809" style="s2">fashion life without parole asshole</p>
+<p begin="00:25:37.070" end="00:25:40.490" style="s2">I mean this is life and during wartime</p>
+<p begin="00:25:38.809" end="00:25:43.159" style="s2">we should not tolerate anybody</p>
+<p begin="00:25:40.490" end="00:25:46.519" style="s2">attempting to defraud the system right I</p>
+<p begin="00:25:43.159" end="00:25:48.049" style="s2">agree yeah you know the other thing</p>
+<p begin="00:25:46.519" end="00:25:50.269" style="s2">that&#39;s sort of interesting along these</p>
+<p begin="00:25:48.049" end="00:25:54.049" style="s2">lines as we delve into like okay how can</p>
+<p begin="00:25:50.269" end="00:25:56.269" style="s2">you actually implement this is actually</p>
+<p begin="00:25:54.049" end="00:26:00.169" style="s2">understanding who owns and controls</p>
+<p begin="00:25:56.269" end="00:26:02.360" style="s2">everything and if you I think that</p>
+<p begin="00:26:00.169" end="00:26:03.830" style="s2">Europeans have been you know probably</p>
+<p begin="00:26:02.360" end="00:26:08.899" style="s2">the most forward thinking on this in</p>
+<p begin="00:26:03.830" end="00:26:11.779" style="s2">terms of GDP are in terms of if you will</p>
+<p begin="00:26:08.899" end="00:26:16.789" style="s2">right to be forgotten and the identity</p>
+<p begin="00:26:11.779" end="00:26:20.240" style="s2">is actually the users so fuel in that</p>
+<p begin="00:26:16.789" end="00:26:21.769" style="s2">natural social construct of the</p>
+<p begin="00:26:20.240" end="00:26:24.679" style="s2">government saying I will give you</p>
+<p begin="00:26:21.769" end="00:26:28.700" style="s2">something but tell me something about</p>
+<p begin="00:26:24.679" end="00:26:30.889" style="s2">you right and the citizen has the right</p>
+<p begin="00:26:28.700" end="00:26:33.769" style="s2">to say no and they don&#39;t get the benefit</p>
+<p begin="00:26:30.889" end="00:26:35.210" style="s2">or they have the right to say yes and</p>
+<p begin="00:26:33.769" end="00:26:37.460" style="s2">they should have the right to go here&#39;s</p>
+<p begin="00:26:35.210" end="00:26:39.740" style="s2">my I can verify I mean so here&#39;s a</p>
+<p begin="00:26:37.460" end="00:26:41.029" style="s2">biometric like verification but you</p>
+<p begin="00:26:39.740" end="00:26:42.350" style="s2">don&#39;t have to give the biometrics to the</p>
+<p begin="00:26:41.029" end="00:26:44.929" style="s2">government you just have to verify that</p>
+<p begin="00:26:42.350" end="00:26:47.629" style="s2">you really are the guy attached to this</p>
+<p begin="00:26:44.929" end="00:26:50.690" style="s2">thing and here&#39;s my name and address and</p>
+<p begin="00:26:47.629" end="00:26:52.369" style="s2">I&#39;m an American for example but for</p>
+<p begin="00:26:50.690" end="00:26:54.840" style="s2">example my bank balance in my health</p>
+<p begin="00:26:52.369" end="00:26:57.780" style="s2">records probably aren&#39;t part of</p>
+<p begin="00:26:54.840" end="00:27:01.320" style="s2">the social exchange of ubi right</p>
+<p begin="00:26:57.780" end="00:27:03.180" style="s2">actually take it back like bank balance</p>
+<p begin="00:27:01.320" end="00:27:05.880" style="s2">probably is like if I make too much</p>
+<p begin="00:27:03.180" end="00:27:07.200" style="s2">money I&#39;m probably not eligible but</p>
+<p begin="00:27:05.880" end="00:27:08.850" style="s2">health records in my Instagram account</p>
+<p begin="00:27:07.200" end="00:27:11.760" style="s2">certainly are not part of that exchange</p>
+<p begin="00:27:08.850" end="00:27:14.040" style="s2">and so you need to architect an identity</p>
+<p begin="00:27:11.760" end="00:27:16.770" style="s2">system that allows privacy for the user</p>
+<p begin="00:27:14.040" end="00:27:20.340" style="s2">and granular sharing of whatever the</p>
+<p begin="00:27:16.770" end="00:27:20.820" style="s2">social contract dictates nice I like</p>
+<p begin="00:27:20.340" end="00:27:23.610" style="s2">that a lot</p>
+<p begin="00:27:20.820" end="00:27:25.380" style="s2">that&#39;s a beautiful architecture because</p>
+<p begin="00:27:23.610" end="00:27:27.570" style="s2">certainly most people will be willing to</p>
+<p begin="00:27:25.380" end="00:27:28.050" style="s2">share a fair amount and return for the</p>
+<p begin="00:27:27.570" end="00:27:30.540" style="s2">ubi</p>
+<p begin="00:27:28.050" end="00:27:33.810" style="s2">but not everything while other things</p>
+<p begin="00:27:30.540" end="00:27:35.310" style="s2">like you know to validate my Roku box or</p>
+<p begin="00:27:33.810" end="00:27:37.260" style="s2">something you know I&#39;m not gonna give</p>
+<p begin="00:27:35.310" end="00:27:39.720" style="s2">them a damn thing except my pseudo</p>
+<p begin="00:27:37.260" end="00:27:43.070" style="s2">anonymous ID that&#39;s attached to a</p>
+<p begin="00:27:39.720" end="00:27:46.230" style="s2">payment mechanism yeah you say like look</p>
+<p begin="00:27:43.070" end="00:27:48.360" style="s2">pseudonymity doesn&#39;t work for financial</p>
+<p begin="00:27:46.230" end="00:27:51.540" style="s2">transactions as you know Facebook&#39;s</p>
+<p begin="00:27:48.360" end="00:27:54.450" style="s2">Libre Association found out you know</p>
+<p begin="00:27:51.540" end="00:27:55.920" style="s2">very quickly with every financial</p>
+<p begin="00:27:54.450" end="00:27:57.390" style="s2">regulator and every central bank in the</p>
+<p begin="00:27:55.920" end="00:28:00.750" style="s2">world saying no that&#39;s a money</p>
+<p begin="00:27:57.390" end="00:28:03.210" style="s2">laundering all right bye wait dig a</p>
+<p begin="00:28:00.750" end="00:28:07.350" style="s2">layer deeper on the identity piece it&#39;s</p>
+<p begin="00:28:03.210" end="00:28:09.150" style="s2">it&#39;s important that sort of in the 21st</p>
+<p begin="00:28:07.350" end="00:28:12.420" style="s2">century we need to think in those 21st</p>
+<p begin="00:28:09.150" end="00:28:14.910" style="s2">century terms everyone&#39;s used to a</p>
+<p begin="00:28:12.420" end="00:28:19.230" style="s2">database right and that&#39;s just because</p>
+<p begin="00:28:14.910" end="00:28:21.570" style="s2">historically that&#39;s all we had it&#39;s</p>
+<p begin="00:28:19.230" end="00:28:23.280" style="s2">important that you architect a system</p>
+<p begin="00:28:21.570" end="00:28:25.440" style="s2">that actually is not a centralized</p>
+<p begin="00:28:23.280" end="00:28:28.590" style="s2">database that&#39;s owned by somebody or</p>
+<p begin="00:28:25.440" end="00:28:30.540" style="s2">some organization right you need to</p>
+<p begin="00:28:28.590" end="00:28:33.450" style="s2">architect it so that literally the user</p>
+<p begin="00:28:30.540" end="00:28:35.820" style="s2">actually has the keys and literally not</p>
+<p begin="00:28:33.450" end="00:28:36.840" style="s2">even I or Everest or the government</p>
+<p begin="00:28:35.820" end="00:28:40.080" style="s2">actually has the keys</p>
+<p begin="00:28:36.840" end="00:28:41.970" style="s2">that&#39;s dangerous I mean you know we&#39;ve</p>
+<p begin="00:28:40.080" end="00:28:44.100" style="s2">looked at this a lot and one of the</p>
+<p begin="00:28:41.970" end="00:28:46.260" style="s2">advantages of things like you know</p>
+<p begin="00:28:44.100" end="00:28:47.970" style="s2">standard American credit cards is that</p>
+<p begin="00:28:46.260" end="00:28:51.690" style="s2">transactions can be reversed</p>
+<p begin="00:28:47.970" end="00:28:53.580" style="s2">you know there&#39;s when people lose their</p>
+<p begin="00:28:51.690" end="00:28:54.330" style="s2">credentials there&#39;s a soft way to get</p>
+<p begin="00:28:53.580" end="00:28:57.480" style="s2">them back</p>
+<p begin="00:28:54.330" end="00:29:01.370" style="s2">you know the private key signature world</p>
+<p begin="00:28:57.480" end="00:29:04.650" style="s2">of blockchain has some real downsides</p>
+<p begin="00:29:01.370" end="00:29:08.610" style="s2">yeah if your transactions are different</p>
+<p begin="00:29:04.650" end="00:29:10.140" style="s2">than if you will identity key holding</p>
+<p begin="00:29:08.610" end="00:29:13.830" style="s2">so I&#39;ll give you a sense the way we</p>
+<p begin="00:29:10.140" end="00:29:16.470" style="s2">architected the identity if you we&#39;ve</p>
+<p begin="00:29:13.830" end="00:29:17.820" style="s2">got a couple blockchain so our identity</p>
+<p begin="00:29:16.470" end="00:29:19.970" style="s2">blockchain is really just about key</p>
+<p begin="00:29:17.820" end="00:29:23.730" style="s2">holding which is who can get in and see</p>
+<p begin="00:29:19.970" end="00:29:26.400" style="s2">Jim&#39;s account balance or his biometrics</p>
+<p begin="00:29:23.730" end="00:29:28.559" style="s2">or whomever and that just comes down to</p>
+<p begin="00:29:26.400" end="00:29:31.350" style="s2">does you know does ever hold the keys of</p>
+<p begin="00:29:28.559" end="00:29:33.059" style="s2">the US Fed hold the keys whose and we</p>
+<p begin="00:29:31.350" end="00:29:36.480" style="s2">made it so that literally we distributed</p>
+<p begin="00:29:33.059" end="00:29:41.669" style="s2">the keys so that no single entity can</p>
+<p begin="00:29:36.480" end="00:29:43.970" style="s2">open your identity data store so that&#39;s</p>
+<p begin="00:29:41.669" end="00:29:45.740" style="s2">one element on just identity on the</p>
+<p begin="00:29:43.970" end="00:29:48.450" style="s2">transactions yeah of course you have to</p>
+<p begin="00:29:45.740" end="00:29:49.710" style="s2">architect in travel rule for example</p>
+<p begin="00:29:48.450" end="00:29:53.250" style="s2">like you have to be able to stop a</p>
+<p begin="00:29:49.710" end="00:29:55.380" style="s2">transaction and freeze an account and so</p>
+<p begin="00:29:53.250" end="00:29:58.710" style="s2">that&#39;s literally why we did a second</p>
+<p begin="00:29:55.380" end="00:30:02.070" style="s2">transaction ledger where you can</p>
+<p begin="00:29:58.710" end="00:30:04.140" style="s2">actually track what account is doing</p>
+<p begin="00:30:02.070" end="00:30:06.210" style="s2">what activity and freeze it if you have</p>
+<p begin="00:30:04.140" end="00:30:08.429" style="s2">to does that make sense yeah basically</p>
+<p begin="00:30:06.210" end="00:30:10.470" style="s2">you layer services on top of the base</p>
+<p begin="00:30:08.429" end="00:30:12.350" style="s2">identity so you could essentially layer</p>
+<p begin="00:30:10.470" end="00:30:15.630" style="s2">in a series of services that say exactly</p>
+<p begin="00:30:12.350" end="00:30:17.220" style="s2">emulated American Express yeah for</p>
+<p begin="00:30:15.630" end="00:30:18.600" style="s2">instance I I use American Express</p>
+<p begin="00:30:17.220" end="00:30:20.100" style="s2">exclusively for all my online</p>
+<p begin="00:30:18.600" end="00:30:21.720" style="s2">transactions because they&#39;re great you</p>
+<p begin="00:30:20.100" end="00:30:23.850" style="s2">call him up and say don&#39;t pay that</p>
+<p begin="00:30:21.720" end="00:30:25.020" style="s2">asshole right he me right he</p>
+<p begin="00:30:23.850" end="00:30:26.640" style="s2">wouldn&#39;t take it back and he said we</p>
+<p begin="00:30:25.020" end="00:30:28.830" style="s2">wouldn&#39;t take back a broken item when he</p>
+<p begin="00:30:26.640" end="00:30:31.860" style="s2">said he would don&#39;t pay him and American</p>
+<p begin="00:30:28.830" end="00:30:33.750" style="s2">Express just doesn&#39;t pay him right but</p>
+<p begin="00:30:31.860" end="00:30:36.330" style="s2">the other piece you get by separating</p>
+<p begin="00:30:33.750" end="00:30:39.150" style="s2">the identity from the transaction is you</p>
+<p begin="00:30:36.330" end="00:30:41.429" style="s2">get if you will you can&#39;t collect a</p>
+<p begin="00:30:39.150" end="00:30:45.000" style="s2">bunch of metadata on transactions and</p>
+<p begin="00:30:41.429" end="00:30:48.900" style="s2">find out stuff about the person that</p>
+<p begin="00:30:45.000" end="00:30:51.299" style="s2">probably isn&#39;t legal or appropriate</p>
+<p begin="00:30:48.900" end="00:30:54.179" style="s2">right because you&#39;ve separated like</p>
+<p begin="00:30:51.299" end="00:30:57.360" style="s2">here&#39;s my UV I exchange like here&#39;s my I</p>
+<p begin="00:30:54.179" end="00:30:59.220" style="s2">can verify me here&#39;s my I prove American</p>
+<p begin="00:30:57.360" end="00:31:01.620" style="s2">and I&#39;m at this income level that&#39;s</p>
+<p begin="00:30:59.220" end="00:31:03.990" style="s2">great that&#39;s one transaction if I go to</p>
+<p begin="00:31:01.620" end="00:31:07.440" style="s2">my health provider I can do the same</p>
+<p begin="00:31:03.990" end="00:31:10.350" style="s2">thing I can say here&#39;s my identity and I</p>
+<p begin="00:31:07.440" end="00:31:12.809" style="s2">will share my health record for two</p>
+<p begin="00:31:10.350" end="00:31:15.030" style="s2">hours with this doctor it&#39;s a separate</p>
+<p begin="00:31:12.809" end="00:31:16.740" style="s2">transaction in which case you can&#39;t look</p>
+<p begin="00:31:15.030" end="00:31:18.750" style="s2">at the two separate transactions and</p>
+<p begin="00:31:16.740" end="00:31:20.520" style="s2">come back and say oh this is Bob he&#39;s</p>
+<p begin="00:31:18.750" end="00:31:23.100" style="s2">clearly taking his money to go to the</p>
+<p begin="00:31:20.520" end="00:31:26.520" style="s2">doctor right the separation between the</p>
+<p begin="00:31:23.100" end="00:31:28.679" style="s2">two actually creates a level of privacy</p>
+<p begin="00:31:26.520" end="00:31:30.780" style="s2">I think that&#39;s it&#39;s important in</p>
+<p begin="00:31:28.679" end="00:31:32.970" style="s2">practice I like this I think you guys</p>
+<p begin="00:31:30.780" end="00:31:35.429" style="s2">have done some very innovative thinking</p>
+<p begin="00:31:32.970" end="00:31:37.679" style="s2">here in separating this or the values</p>
+<p begin="00:31:35.429" end="00:31:40.710" style="s2">and layers of service yet provide the</p>
+<p begin="00:31:37.679" end="00:31:43.620" style="s2">ability to build privacy where necessary</p>
+<p begin="00:31:40.710" end="00:31:44.910" style="s2">yeah we&#39;re necessarily I mean look if</p>
+<p begin="00:31:43.620" end="00:31:46.590" style="s2">you&#39;re gonna do an interaction with the</p>
+<p begin="00:31:44.910" end="00:31:48.120" style="s2">government they&#39;re gonna know you know</p>
+<p begin="00:31:46.590" end="00:31:49.650" style="s2">here&#39;s the service here&#39;s the</p>
+<p begin="00:31:48.120" end="00:31:51.210" style="s2">information we need to do this service</p>
+<p begin="00:31:49.650" end="00:31:52.950" style="s2">and we know who you are and that&#39;s the</p>
+<p begin="00:31:51.210" end="00:31:54.330" style="s2">way it goes we won&#39;t take money yeah</p>
+<p begin="00:31:52.950" end="00:31:56.220" style="s2">that&#39;s what goes right if you don&#39;t want</p>
+<p begin="00:31:54.330" end="00:31:58.950" style="s2">it don&#39;t give it don&#39;t don&#39;t ask for it</p>
+<p begin="00:31:56.220" end="00:32:01.290" style="s2">right yeah you send over a thousand</p>
+<p begin="00:31:58.950" end="00:32:03.419" style="s2">dollars from here to the Philippines</p>
+<p begin="00:32:01.290" end="00:32:06.330" style="s2">you got a produce source of wealth</p>
+<p begin="00:32:03.419" end="00:32:08.940" style="s2">source of funds where is it going</p>
+<p begin="00:32:06.330" end="00:32:10.260" style="s2">etc etc and that&#39;s the you know as I</p>
+<p begin="00:32:08.940" end="00:32:13.350" style="s2">call it the social contract that&#39;s also</p>
+<p begin="00:32:10.260" end="00:32:16.440" style="s2">the social contracts are laws so we just</p>
+<p begin="00:32:13.350" end="00:32:18.270" style="s2">map in what the law is into you know</p>
+<p begin="00:32:16.440" end="00:32:20.970" style="s2">digital to make it easier and more</p>
+<p begin="00:32:18.270" end="00:32:22.309" style="s2">transparent well right Bob this is great</p>
+<p begin="00:32:20.970" end="00:32:25.470" style="s2">very well-thought-out</p>
+<p begin="00:32:22.309" end="00:32:27.690" style="s2">and before we wrap up here and we are</p>
+<p begin="00:32:25.470" end="00:32:30.150" style="s2">trying to keep these extra episodes much</p>
+<p begin="00:32:27.690" end="00:32:32.490" style="s2">shorter than our usual ones what&#39;s it</p>
+<p begin="00:32:30.150" end="00:32:33.480" style="s2">take to get this done I mean it sounds</p>
+<p begin="00:32:32.490" end="00:32:35.309" style="s2">like you guys we&#39;ve done a lot of</p>
+<p begin="00:32:33.480" end="00:32:37.710" style="s2">thinking you got the system ready to go</p>
+<p begin="00:32:35.309" end="00:32:39.929" style="s2">with significant funding you could</p>
+<p begin="00:32:37.710" end="00:32:42.510" style="s2">deploy it in months let&#39;s you know being</p>
+<p begin="00:32:39.929" end="00:32:43.890" style="s2">a former manager of technology I take</p>
+<p begin="00:32:42.510" end="00:32:45.240" style="s2">whatever the damn techies tell me to</p>
+<p begin="00:32:43.890" end="00:32:47.850" style="s2">double it so let&#39;s say the end of the</p>
+<p begin="00:32:45.240" end="00:32:50.280" style="s2">year right who has to make the decision</p>
+<p begin="00:32:47.850" end="00:32:52.470" style="s2">and how do we get them to make the</p>
+<p begin="00:32:50.280" end="00:32:54.840" style="s2">decision oh boy that&#39;s the billion</p>
+<p begin="00:32:52.470" end="00:32:57.260" style="s2">dollar question isn&#39;t it literally right</p>
+<p begin="00:32:54.840" end="00:33:00.840" style="s2">yeah it might be the trillion dollar</p>
+<p begin="00:32:57.260" end="00:33:02.640" style="s2">question so our system is ready to go</p>
+<p begin="00:33:00.840" end="00:33:05.130" style="s2">with scales like its cloud-based so</p>
+<p begin="00:33:02.640" end="00:33:08.100" style="s2">anything digital and cloud like we could</p>
+<p begin="00:33:05.130" end="00:33:11.790" style="s2">literally run millions of transactions</p>
+<p begin="00:33:08.100" end="00:33:14.790" style="s2">no problem it really will be how do we</p>
+<p begin="00:33:11.790" end="00:33:16.440" style="s2">get to the decision-makers and actually</p>
+<p begin="00:33:14.790" end="00:33:18.870" style="s2">get the relevant stakeholders in the</p>
+<p begin="00:33:16.440" end="00:33:20.669" style="s2">same room right you&#39;re gonna have the</p>
+<p begin="00:33:18.870" end="00:33:23.220" style="s2">privacy advocates you&#39;re gonna have the</p>
+<p begin="00:33:20.669" end="00:33:25.919" style="s2">Fed you&#39;re gonna have US Treasury you&#39;re</p>
+<p begin="00:33:23.220" end="00:33:28.140" style="s2">gonna have all sorts of folks that</p>
+<p begin="00:33:25.919" end="00:33:31.140" style="s2">actually want to apply on how to</p>
+<p begin="00:33:28.140" end="00:33:33.570" style="s2">actually get this out and getting to</p>
+<p begin="00:33:31.140" end="00:33:35.010" style="s2">those people well that&#39;s about half my</p>
+<p begin="00:33:33.570" end="00:33:38.130" style="s2">day the last</p>
+<p begin="00:33:35.010" end="00:33:38.760" style="s2">two weeks you talk to minuchin yet not</p>
+<p begin="00:33:38.130" end="00:33:41.400" style="s2">yet</p>
+<p begin="00:33:38.760" end="00:33:46.080" style="s2">let&#39;s see the guy I think it&#39;s gonna be</p>
+<p begin="00:33:41.400" end="00:33:48.720" style="s2">somewhere between him or Jerome at the</p>
+<p begin="00:33:46.080" end="00:33:51.290" style="s2">Fed the way we approach this is we work</p>
+<p begin="00:33:48.720" end="00:33:54.150" style="s2">with organizations that actually can</p>
+<p begin="00:33:51.290" end="00:33:56.630" style="s2">move a million to a hundred million</p>
+<p begin="00:33:54.150" end="00:34:00.120" style="s2">people with a key if you will</p>
+<p begin="00:33:56.630" end="00:34:03.600" style="s2">application so ubi would be a great</p>
+<p begin="00:34:00.120" end="00:34:05.040" style="s2">application now once it&#39;s done CDC or</p>
+<p begin="00:34:03.600" end="00:34:07.800" style="s2">Department of Health or Department of</p>
+<p begin="00:34:05.040" end="00:34:09.480" style="s2">Labor or state of California or Virginia</p>
+<p begin="00:34:07.800" end="00:34:11.520" style="s2">could write on top of what they&#39;ve</p>
+<p begin="00:34:09.480" end="00:34:13.169" style="s2">already done because you&#39;ve got verified</p>
+<p begin="00:34:11.520" end="00:34:14.010" style="s2">identities with wallets with a way to</p>
+<p begin="00:34:13.169" end="00:34:16.290" style="s2">transact</p>
+<p begin="00:34:14.010" end="00:34:18.570" style="s2">so whoever drun you know the question</p>
+<p begin="00:34:16.290" end="00:34:20.429" style="s2">what what does the killer app and who is</p>
+<p begin="00:34:18.570" end="00:34:22.860" style="s2">the decision-making body to drive the</p>
+<p begin="00:34:20.429" end="00:34:25.919" style="s2">first implementation and so it very well</p>
+<p begin="00:34:22.860" end="00:34:30.300" style="s2">might end up being Gavin up in</p>
+<p begin="00:34:25.919" end="00:34:32.760" style="s2">Sacramento right he very well has the</p>
+<p begin="00:34:30.300" end="00:34:34.940" style="s2">appetite and the budget to actually go</p>
+<p begin="00:34:32.760" end="00:34:37.020" style="s2">out and do California properly and get</p>
+<p begin="00:34:34.940" end="00:34:40.139" style="s2">robust systems in place so that</p>
+<p begin="00:34:37.020" end="00:34:42.090" style="s2">California is ready for you know the</p>
+<p begin="00:34:40.139" end="00:34:43.830" style="s2">next wave but the real answer if we</p>
+<p begin="00:34:42.090" end="00:34:45.840" style="s2">wanted to have it done for this</p>
+<p begin="00:34:43.830" end="00:34:47.850" style="s2">particular crisis and oh by the way it&#39;s</p>
+<p begin="00:34:45.840" end="00:34:49.649" style="s2">possible we won&#39;t need it but again as</p>
+<p begin="00:34:47.850" end="00:34:52.740" style="s2">we Jordan tonight Jordan Hall and I</p>
+<p begin="00:34:49.649" end="00:34:55.260" style="s2">discussed yesterday part of building a</p>
+<p begin="00:34:52.740" end="00:34:57.360" style="s2">robust and resilient society is making</p>
+<p begin="00:34:55.260" end="00:34:58.920" style="s2">medium-sized bets that you might have to</p>
+<p begin="00:34:57.360" end="00:35:01.590" style="s2">throw away let&#39;s say it turns out</p>
+<p begin="00:34:58.920" end="00:35:04.110" style="s2">magically we solve this epidemic in</p>
+<p begin="00:35:01.590" end="00:35:06.090" style="s2">September long before we need to</p>
+<p begin="00:35:04.110" end="00:35:08.100" style="s2">continue having ubi next year we have to</p>
+<p begin="00:35:06.090" end="00:35:08.670" style="s2">throw away a few billion dollars oh well</p>
+<p begin="00:35:08.100" end="00:35:10.940" style="s2">all right</p>
+<p begin="00:35:08.670" end="00:35:13.050" style="s2">that would be my view on it in terms of</p>
+<p begin="00:35:10.940" end="00:35:15.570" style="s2">how a society ought to think about</p>
+<p begin="00:35:13.050" end="00:35:17.640" style="s2">hedging its bets its interests</p>
+<p begin="00:35:15.570" end="00:35:19.470" style="s2">I&#39;m actually not seeing it exactly the</p>
+<p begin="00:35:17.640" end="00:35:22.740" style="s2">same way and I&#39;ll give you some concrete</p>
+<p begin="00:35:19.470" end="00:35:25.050" style="s2">examples of why not which is the</p>
+<p begin="00:35:22.740" end="00:35:26.850" style="s2">Estonian experience was literally driven</p>
+<p begin="00:35:25.050" end="00:35:30.780" style="s2">by the banks the banks got tired of</p>
+<p begin="00:35:26.850" end="00:35:32.490" style="s2">paying for know your customer systems</p>
+<p begin="00:35:30.780" end="00:35:34.770" style="s2">and so they went to the government said</p>
+<p begin="00:35:32.490" end="00:35:37.830" style="s2">give me a national ID system where I can</p>
+<p begin="00:35:34.770" end="00:35:39.390" style="s2">actually just kyc everybody well as soon</p>
+<p begin="00:35:37.830" end="00:35:41.220" style="s2">as they did that then the government</p>
+<p begin="00:35:39.390" end="00:35:43.830" style="s2">looked up and went well gosh now I can</p>
+<p begin="00:35:41.220" end="00:35:46.770" style="s2">deliver like seven government services</p>
+<p begin="00:35:43.830" end="00:35:48.030" style="s2">over the same infrastructure India did</p>
+<p begin="00:35:46.770" end="00:35:49.080" style="s2">the same thing it&#39;s like let&#39;s put a</p>
+<p begin="00:35:48.030" end="00:35:51.330" style="s2">billion one</p>
+<p begin="00:35:49.080" end="00:35:54.240" style="s2">with biometric identity into the system</p>
+<p begin="00:35:51.330" end="00:35:56.550" style="s2">and then build some rails so now they&#39;re</p>
+<p begin="00:35:54.240" end="00:35:57.930" style="s2">doing pensions there now this is the way</p>
+<p begin="00:35:56.550" end="00:35:59.700" style="s2">you said it for a bank account this is</p>
+<p begin="00:35:57.930" end="00:36:03.690" style="s2">the way you do you know do ten other</p>
+<p begin="00:35:59.700" end="00:36:05.640" style="s2">things in society and so you know we&#39;re</p>
+<p begin="00:36:03.690" end="00:36:09.510" style="s2">seeing other societies leapfrog ahead</p>
+<p begin="00:36:05.640" end="00:36:10.230" style="s2">you know and I think the Americans just</p>
+<p begin="00:36:09.510" end="00:36:12.480" style="s2">need to catch up</p>
+<p begin="00:36:10.230" end="00:36:13.830" style="s2">so the will have to invest in in this</p>
+<p begin="00:36:12.480" end="00:36:17.340" style="s2">infrastructure and the only question is</p>
+<p begin="00:36:13.830" end="00:36:18.570" style="s2">what are the 10 or 3 or 30 applications</p>
+<p begin="00:36:17.340" end="00:36:20.340" style="s2">that ride on top of the new</p>
+<p begin="00:36:18.570" end="00:36:21.660" style="s2">infrastructure yeah you&#39;re right</p>
+<p begin="00:36:20.340" end="00:36:24.240" style="s2">you&#39;re right I was wrong if we build</p>
+<p begin="00:36:21.660" end="00:36:26.670" style="s2">this thing for kovat and we don&#39;t need</p>
+<p begin="00:36:24.240" end="00:36:28.650" style="s2">it we still have a hugely valuable asset</p>
+<p begin="00:36:26.670" end="00:36:30.330" style="s2">for our whole society to make use of</p>
+<p begin="00:36:28.650" end="00:36:32.820" style="s2">yeah absolutely</p>
+<p begin="00:36:30.330" end="00:36:34.410" style="s2">all right Bob this has been amazingly</p>
+<p begin="00:36:32.820" end="00:36:35.120" style="s2">interesting anybody who knows how to get</p>
+<p begin="00:36:34.410" end="00:36:37.740" style="s2">to minutiae</p>
+<p begin="00:36:35.120" end="00:36:38.940" style="s2">contact Bob at is you know young I think</p>
+<p begin="00:36:37.740" end="00:36:41.840" style="s2">you can probably find out to get hold of</p>
+<p begin="00:36:38.940" end="00:36:45.150" style="s2">them at Everest dot org we need to get</p>
+<p begin="00:36:41.840" end="00:36:46.650" style="s2">Bob sitting down with minuchin or the</p>
+<p begin="00:36:45.150" end="00:36:47.550" style="s2">guys at the Fed we need to get this done</p>
+<p begin="00:36:46.650" end="00:36:50.130" style="s2">goddamn it</p>
+<p begin="00:36:47.550" end="00:36:52.500" style="s2">that&#39;s right hi Jim all right thanks Bob</p>
+<p begin="00:36:50.130" end="00:36:54.210" style="s2">this has been remarkably interesting and</p>
+<p begin="00:36:52.500" end="00:36:56.460" style="s2">I think our listeners will find it you</p>
+<p begin="00:36:54.210" end="00:36:57.800" style="s2">know important and we&#39;re thinking about</p>
+<p begin="00:36:56.460" end="00:37:00.450" style="s2">[Music]</p>
+<p begin="00:36:57.800" end="00:37:03.360" style="s2">production services and audio editing by</p>
+<p begin="00:37:00.450" end="00:37:07.550" style="s2">Jared Jane&#39;s consulting music by Tom</p>
+<p begin="00:37:03.360" end="00:37:12.989" style="s2">Muller at modern space music com</p>
+<p begin="00:37:07.550" end="00:37:12.989" style="s2">[Music]</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:12.450" style="s2">howdy this is Jim rut and this is the</p>
+<p begin="00:00:02.399" end="00:00:14.309" style="s2">Jim rut show listeners have asked us to</p>
+<p begin="00:00:12.450" end="00:00:16.800" style="s2">provide pointers some of the resources</p>
+<p begin="00:00:14.309" end="00:00:18.720" style="s2">we talked about on the show we now have</p>
+<p begin="00:00:16.800" end="00:00:20.910" style="s2">links to books and articles referenced</p>
+<p begin="00:00:18.720" end="00:00:21.840" style="s2">in recent podcasts that are available on</p>
+<p begin="00:00:20.910" end="00:00:24.779" style="s2">our website</p>
+<p begin="00:00:21.840" end="00:00:30.500" style="s2">we also offer full transcripts go to Jim</p>
+<p begin="00:00:24.779" end="00:00:30.500" style="s2">rut show.com that&#39;s Jim ruts show com</p>
+<p begin="00:00:31.399" end="00:00:37.620" style="s2">today&#39;s guest is Howard Rheingold one of</p>
+<p begin="00:00:35.100" end="00:00:40.680" style="s2">the founding fathers of writing and</p>
+<p begin="00:00:37.620" end="00:00:43.500" style="s2">thinking and analyzing deeply the</p>
+<p begin="00:00:40.680" end="00:00:46.260" style="s2">network world phenomena and he goes way</p>
+<p begin="00:00:43.500" end="00:00:48.270" style="s2">back to about the beginning of it he&#39;s</p>
+<p begin="00:00:46.260" end="00:00:51.120" style="s2">written numerous books several of which</p>
+<p begin="00:00:48.270" end="00:00:53.489" style="s2">we&#39;ll discuss today and as usual any</p>
+<p begin="00:00:51.120" end="00:00:55.770" style="s2">books articles or organizations we</p>
+<p begin="00:00:53.489" end="00:00:57.989" style="s2">talked about on the podcast will be</p>
+<p begin="00:00:55.770" end="00:01:00.570" style="s2">available on the episode home page at</p>
+<p begin="00:00:57.989" end="00:01:04.260" style="s2">Jim Rutte show calm that&#39;s Jim rut</p>
+<p begin="00:01:00.570" end="00:01:06.180" style="s2">show.com Howard has a very long and</p>
+<p begin="00:01:04.260" end="00:01:08.490" style="s2">interesting career which will hit many</p>
+<p begin="00:01:06.180" end="00:01:10.080" style="s2">of the points along the way but one</p>
+<p begin="00:01:08.490" end="00:01:11.939" style="s2">that&#39;s quite distinguishes he is a</p>
+<p begin="00:01:10.080" end="00:01:14.280" style="s2">distinguished fellow at the Institute</p>
+<p begin="00:01:11.939" end="00:01:15.840" style="s2">for the future he&#39;s also taught at</p>
+<p begin="00:01:14.280" end="00:01:17.640" style="s2">Stanford at Berkeley and as we&#39;ll talk</p>
+<p begin="00:01:15.840" end="00:01:20.009" style="s2">about has done many other interesting</p>
+<p begin="00:01:17.640" end="00:01:22.530" style="s2">things I&#39;d also like to call out that</p>
+<p begin="00:01:20.009" end="00:01:25.740" style="s2">Howard listed as Howard Rheingold</p>
+<p begin="00:01:22.530" end="00:01:27.750" style="s2">is on patreon I support him I suggest</p>
+<p begin="00:01:25.740" end="00:01:31.799" style="s2">you do too he&#39;s one of the treasures of</p>
+<p begin="00:01:27.750" end="00:01:32.640" style="s2">our age so Howard long strange journey</p>
+<p begin="00:01:31.799" end="00:01:35.520" style="s2">huh</p>
+<p begin="00:01:32.640" end="00:01:37.890" style="s2">as I read on your bio and you got your</p>
+<p begin="00:01:35.520" end="00:01:39.299" style="s2">first computer in 1981 I think I got</p>
+<p begin="00:01:37.890" end="00:01:41.700" style="s2">mine at night a fact I know I did I got</p>
+<p begin="00:01:39.299" end="00:01:43.649" style="s2">mine in 1980 and it said you plugged it</p>
+<p begin="00:01:41.700" end="00:01:46.380" style="s2">into the Internet in 1980 or nine to the</p>
+<p begin="00:01:43.649" end="00:01:49.350" style="s2">Internet but into the telephone in 1983</p>
+<p begin="00:01:46.380" end="00:01:50.579" style="s2">and got sucked into the net why don&#39;t</p>
+<p begin="00:01:49.350" end="00:01:53.280" style="s2">you tell us a little bit about that</p>
+<p begin="00:01:50.579" end="00:01:55.320" style="s2">early use of both the computer and then</p>
+<p begin="00:01:53.280" end="00:01:58.920" style="s2">the net and how the two things kind of</p>
+<p begin="00:01:55.320" end="00:02:01.710" style="s2">work together for you well you know the</p>
+<p begin="00:01:58.920" end="00:02:05.310" style="s2">whole thing started because I was tired</p>
+<p begin="00:02:01.710" end="00:02:08.250" style="s2">of using a typewriter I at the point</p>
+<p begin="00:02:05.310" end="00:02:11.220" style="s2">that I got a computer I had been using a</p>
+<p begin="00:02:08.250" end="00:02:12.990" style="s2">typewriter for 10 years I had graduated</p>
+<p begin="00:02:11.220" end="00:02:15.240" style="s2">into a career</p>
+<p begin="00:02:12.990" end="00:02:18.270" style="s2">ding electric typewriter which meant</p>
+<p begin="00:02:15.240" end="00:02:20.790" style="s2">that you could type white over the last</p>
+<p begin="00:02:18.270" end="00:02:22.470" style="s2">line that you typed but you know if</p>
+<p begin="00:02:20.790" end="00:02:24.960" style="s2">you&#39;re writing articles you&#39;re writing</p>
+<p begin="00:02:22.470" end="00:02:26.940" style="s2">books you mark up your page a lot and</p>
+<p begin="00:02:24.960" end="00:02:29.250" style="s2">then you got to retype the whole thing</p>
+<p begin="00:02:26.940" end="00:02:32.400" style="s2">and I heard a rumor that there that</p>
+<p begin="00:02:29.250" end="00:02:33.900" style="s2">people were using computers to write</p>
+<p begin="00:02:32.400" end="00:02:37.230" style="s2">with and that you could move words</p>
+<p begin="00:02:33.900" end="00:02:39.210" style="s2">around on the screen it wasn&#39;t easy to</p>
+<p begin="00:02:37.230" end="00:02:42.870" style="s2">find it I actually I went out to Apple</p>
+<p begin="00:02:39.210" end="00:02:46.200" style="s2">which was like two buildings in I guess</p>
+<p begin="00:02:42.870" end="00:02:48.570" style="s2">the late 1970s early 1980s and there was</p>
+<p begin="00:02:46.200" end="00:02:50.730" style="s2">a fellow there by the name of Jeff</p>
+<p begin="00:02:48.570" end="00:02:53.850" style="s2">Raskin who actually was a person who</p>
+<p begin="00:02:50.730" end="00:02:56.370" style="s2">initiated the Macintosh project a little</p>
+<p begin="00:02:53.850" end="00:02:57.840" style="s2">bit later and he said well you&#39;re</p>
+<p begin="00:02:56.370" end="00:03:00.660" style="s2">probably not going to be able to use an</p>
+<p begin="00:02:57.840" end="00:03:02.460" style="s2">apple because the founders believe that</p>
+<p begin="00:03:00.660" end="00:03:05.310" style="s2">that that people are only going to use</p>
+<p begin="00:03:02.460" end="00:03:07.110" style="s2">it for programming and basic and playing</p>
+<p begin="00:03:05.310" end="00:03:09.540" style="s2">games and and you don&#39;t need the</p>
+<p begin="00:03:07.110" end="00:03:12.870" style="s2">hardware for lowercase letters but then</p>
+<p begin="00:03:09.540" end="00:03:15.360" style="s2">I read an article it was in the 1977</p>
+<p begin="00:03:12.870" end="00:03:17.490" style="s2">Scientific American called micro</p>
+<p begin="00:03:15.360" end="00:03:19.530" style="s2">electronics and the personal computer by</p>
+<p begin="00:03:17.490" end="00:03:20.810" style="s2">Alan&#39;s hey and I recommend that to</p>
+<p begin="00:03:19.530" end="00:03:24.240" style="s2">everybody to see what the original</p>
+<p begin="00:03:20.810" end="00:03:27.060" style="s2">vision of personal computers was and</p>
+<p begin="00:03:24.240" end="00:03:29.400" style="s2">Alan Kay had been working at a place</p>
+<p begin="00:03:27.060" end="00:03:31.500" style="s2">called Park Xerox Palo Alto Research</p>
+<p begin="00:03:29.400" end="00:03:35.280" style="s2">Center and I was living in San Francisco</p>
+<p begin="00:03:31.500" end="00:03:38.280" style="s2">about a half-hour drive away so I bugged</p>
+<p begin="00:03:35.280" end="00:03:40.640" style="s2">them until I got some work writing</p>
+<p begin="00:03:38.280" end="00:03:45.150" style="s2">articles about them and that&#39;s sort of</p>
+<p begin="00:03:40.640" end="00:03:47.370" style="s2">another story and at Parc I ended up</p>
+<p begin="00:03:45.150" end="00:03:50.270" style="s2">walking around finding interesting</p>
+<p begin="00:03:47.370" end="00:03:52.620" style="s2">people to talk to an interview and then</p>
+<p begin="00:03:50.270" end="00:03:55.230" style="s2">Xerox would find ways to place those</p>
+<p begin="00:03:52.620" end="00:03:57.180" style="s2">articles and I ran into a person by the</p>
+<p begin="00:03:55.230" end="00:03:59.610" style="s2">name of Bob Taylor it&#39;s not a name</p>
+<p begin="00:03:57.180" end="00:04:02.550" style="s2">that&#39;s extremely well known but he was</p>
+<p begin="00:03:59.610" end="00:04:05.070" style="s2">extremely important in the creation of</p>
+<p begin="00:04:02.550" end="00:04:07.950" style="s2">the ARPANET and personal computing and</p>
+<p begin="00:04:05.070" end="00:04:11.570" style="s2">he was the person who had funded Doug</p>
+<p begin="00:04:07.950" end="00:04:14.640" style="s2">Engelbart and so I interviewed him and</p>
+<p begin="00:04:11.570" end="00:04:16.920" style="s2">for if people want to really hear an</p>
+<p begin="00:04:14.640" end="00:04:20.010" style="s2">interesting story by an interesting guy</p>
+<p begin="00:04:16.920" end="00:04:22.350" style="s2">go look up the interview he did at the</p>
+<p begin="00:04:20.010" end="00:04:25.350" style="s2">University of Texas and and Austin with</p>
+<p begin="00:04:22.350" end="00:04:26.180" style="s2">John Markoff it&#39;s on YouTube anyway</p>
+<p begin="00:04:25.350" end="00:04:28.370" style="s2">meaning</p>
+<p begin="00:04:26.180" end="00:04:30.370" style="s2">Bart really completely turned my life</p>
+<p begin="00:04:28.370" end="00:04:33.650" style="s2">around I realized that these machines</p>
+<p begin="00:04:30.370" end="00:04:36.650" style="s2">were not just better typewriters they</p>
+<p begin="00:04:33.650" end="00:04:39.770" style="s2">were mind amplifiers and his article is</p>
+<p begin="00:04:36.650" end="00:04:42.520" style="s2">1962 article on augmenting human</p>
+<p begin="00:04:39.770" end="00:04:46.220" style="s2">intellect really connected with me I was</p>
+<p begin="00:04:42.520" end="00:04:48.770" style="s2">not that interested in electronics but I</p>
+<p begin="00:04:46.220" end="00:04:52.789" style="s2">was interested in kind of an overarching</p>
+<p begin="00:04:48.770" end="00:04:55.220" style="s2">look at technology I was very interested</p>
+<p begin="00:04:52.789" end="00:04:57.740" style="s2">in the mind and in mind expansion on</p>
+<p begin="00:04:55.220" end="00:05:00.860" style="s2">this connection between this new</p>
+<p begin="00:04:57.740" end="00:05:03.349" style="s2">personal computer technology and the</p>
+<p begin="00:05:00.860" end="00:05:06.470" style="s2">ability to enhance the way you think and</p>
+<p begin="00:05:03.349" end="00:05:10.880" style="s2">communicate was very exciting to me so</p>
+<p begin="00:05:06.470" end="00:05:13.280" style="s2">at that time of early 1980s a lot of the</p>
+<p begin="00:05:10.880" end="00:05:16.310" style="s2">talk was about the young Bill Gates and</p>
+<p begin="00:05:13.280" end="00:05:18.380" style="s2">the young Steve Jobs and people really</p>
+<p begin="00:05:16.310" end="00:05:21.410" style="s2">didn&#39;t know about Bob Taylor and Xerox</p>
+<p begin="00:05:18.380" end="00:05:24.380" style="s2">PARC Alan Kay Doug Engelbart and and</p>
+<p begin="00:05:21.410" end="00:05:27.020" style="s2">even you know Alan Turing John von</p>
+<p begin="00:05:24.380" end="00:05:30.470" style="s2">Neumann the result a whole story to be</p>
+<p begin="00:05:27.020" end="00:05:32.180" style="s2">told that the the old saw about standing</p>
+<p begin="00:05:30.470" end="00:05:33.710" style="s2">on the shoulders of giants these are</p>
+<p begin="00:05:32.180" end="00:05:35.599" style="s2">giants standing on the shoulders of</p>
+<p begin="00:05:33.710" end="00:05:38.690" style="s2">giants standing on the shoulders of</p>
+<p begin="00:05:35.599" end="00:05:40.849" style="s2">giants so I wrote a book called tools</p>
+<p begin="00:05:38.690" end="00:05:43.099" style="s2">for thought and in the process of</p>
+<p begin="00:05:40.849" end="00:05:46.190" style="s2">writing that book I got a modem and I</p>
+<p begin="00:05:43.099" end="00:05:49.280" style="s2">started exploring the online world which</p>
+<p begin="00:05:46.190" end="00:05:52.220" style="s2">at that time consisted of BBS&#39;s which</p>
+<p begin="00:05:49.280" end="00:05:54.650" style="s2">were mostly in teenage boys bedrooms</p>
+<p begin="00:05:52.220" end="00:05:56.990" style="s2">they took their one telephone line and</p>
+<p begin="00:05:54.650" end="00:06:00.169" style="s2">plugged him into it and one person at a</p>
+<p begin="00:05:56.990" end="00:06:02.570" style="s2">time could log in and and type and see</p>
+<p begin="00:06:00.169" end="00:06:05.900" style="s2">what other people had written there&#39;s</p>
+<p begin="00:06:02.570" end="00:06:07.909" style="s2">always just one thread and it was pretty</p>
+<p begin="00:06:05.900" end="00:06:10.820" style="s2">exciting and at that point I read that</p>
+<p begin="00:06:07.909" end="00:06:13.460" style="s2">there were tens of thousands of BBS&#39;s in</p>
+<p begin="00:06:10.820" end="00:06:16.639" style="s2">the United States and I think that that</p>
+<p begin="00:06:13.460" end="00:06:19.009" style="s2">really influenced the online culture</p>
+<p begin="00:06:16.639" end="00:06:21.139" style="s2">there were a lot of people who were</p>
+<p begin="00:06:19.009" end="00:06:22.909" style="s2">already turned on to communicating this</p>
+<p begin="00:06:21.139" end="00:06:26.509" style="s2">way even though it was really really</p>
+<p begin="00:06:22.909" end="00:06:28.940" style="s2">slow and all you saw were words on the</p>
+<p begin="00:06:26.509" end="00:06:32.000" style="s2">screen very slowly I experimented with</p>
+<p begin="00:06:28.940" end="00:06:34.550" style="s2">the source but it was something like $20</p>
+<p begin="00:06:32.000" end="00:06:36.200" style="s2">an hour it wasn&#39;t quite that powered I</p>
+<p begin="00:06:34.550" end="00:06:38.779" style="s2">actually worked at the source in the</p>
+<p begin="00:06:36.200" end="00:06:39.860" style="s2">beginning oh yeah I tell the story about</p>
+<p begin="00:06:38.779" end="00:06:41.449" style="s2">the source quite all</p>
+<p begin="00:06:39.860" end="00:06:43.699" style="s2">but on this show I&#39;ll talk a little bit</p>
+<p begin="00:06:41.449" end="00:06:45.770" style="s2">about it right now we can hop back in as</p>
+<p begin="00:06:43.699" end="00:06:47.780" style="s2">you said it was text mode only but had</p>
+<p begin="00:06:45.770" end="00:06:49.699" style="s2">most of what we have on the web today we</p>
+<p begin="00:06:47.780" end="00:06:52.969" style="s2">had email we had bulletin boards we had</p>
+<p begin="00:06:49.699" end="00:06:55.250" style="s2">chat we had by 1981 we had a precursor</p>
+<p begin="00:06:52.969" end="00:06:57.620" style="s2">to social media called participate we</p>
+<p begin="00:06:55.250" end="00:06:59.719" style="s2">had shopping we had stock prices but</p>
+<p begin="00:06:57.620" end="00:07:01.789" style="s2">yeah it was expensive and it was slow I</p>
+<p begin="00:06:59.719" end="00:07:05.000" style="s2">would say it was more like $10 an hour</p>
+<p begin="00:07:01.789" end="00:07:06.530" style="s2">but that was ten dollars an hour in 1981</p>
+<p begin="00:07:05.000" end="00:07:09.379" style="s2">dollars which would be about the</p>
+<p begin="00:07:06.530" end="00:07:12.110" style="s2">equivalent of 25 or $30 an hour today</p>
+<p begin="00:07:09.379" end="00:07:14.060" style="s2">and you know people sometimes ask me why</p>
+<p begin="00:07:12.110" end="00:07:16.699" style="s2">would anybody do that for 30 bucks an</p>
+<p begin="00:07:14.060" end="00:07:18.469" style="s2">hour for you know the Quillen $30 an</p>
+<p begin="00:07:16.699" end="00:07:20.779" style="s2">hour but $10 an hour and the current</p>
+<p begin="00:07:18.469" end="00:07:23.240" style="s2">currency then for character mode only</p>
+<p begin="00:07:20.779" end="00:07:25.069" style="s2">maybe 300 baud or 1200 baud if you could</p>
+<p begin="00:07:23.240" end="00:07:26.599" style="s2">afford it and the answer was because</p>
+<p begin="00:07:25.069" end="00:07:29.210" style="s2">there was nothing else like it it was</p>
+<p begin="00:07:26.599" end="00:07:31.550" style="s2">the only you know Network email in the</p>
+<p begin="00:07:29.210" end="00:07:34.069" style="s2">world then CompuServe came along there</p>
+<p begin="00:07:31.550" end="00:07:35.840" style="s2">was that very interesting pre-internet</p>
+<p begin="00:07:34.069" end="00:07:37.729" style="s2">era of which of course bulletin boards</p>
+<p begin="00:07:35.840" end="00:07:39.560" style="s2">were also a very interesting part but it</p>
+<p begin="00:07:37.729" end="00:07:42.219" style="s2">started hopping on man let me get you</p>
+<p begin="00:07:39.560" end="00:07:46.180" style="s2">once you get back to your story well I</p>
+<p begin="00:07:42.219" end="00:07:49.219" style="s2">actually hung out on participate and</p>
+<p begin="00:07:46.180" end="00:07:51.889" style="s2">there was a guy there binding of source</p>
+<p begin="00:07:49.219" end="00:07:55.879" style="s2">void Dave oh yeah</p>
+<p begin="00:07:51.889" end="00:07:57.650" style="s2">Dave Hughes he was daily iron day of</p>
+<p begin="00:07:55.879" end="00:08:01.940" style="s2">course we later encountered him on the</p>
+<p begin="00:07:57.650" end="00:08:05.900" style="s2">well and Dave Hughes was an older guy he</p>
+<p begin="00:08:01.940" end="00:08:07.310" style="s2">must be in his 90s now I&#39;m sure he&#39;s</p>
+<p begin="00:08:05.900" end="00:08:10.639" style="s2">still alive because I haven&#39;t heard that</p>
+<p begin="00:08:07.310" end="00:08:15.620" style="s2">he&#39;s not and Dave was a pretty pretty</p>
+<p begin="00:08:10.639" end="00:08:19.930" style="s2">vocal voice online so then this thing</p>
+<p begin="00:08:15.620" end="00:08:23.539" style="s2">called the well got started in 1985 and</p>
+<p begin="00:08:19.930" end="00:08:24.379" style="s2">it was started by the same people who</p>
+<p begin="00:08:23.539" end="00:08:27.020" style="s2">had done the whole earth catalogue</p>
+<p begin="00:08:24.379" end="00:08:29.960" style="s2">Stewart Brand and Larry brilliant had</p>
+<p begin="00:08:27.020" end="00:08:33.320" style="s2">started it and I joined oh I guess about</p>
+<p begin="00:08:29.960" end="00:08:35.390" style="s2">four months after it started and it was</p>
+<p begin="00:08:33.320" end="00:08:37.399" style="s2">tremendously exciting to me again just</p>
+<p begin="00:08:35.390" end="00:08:40.610" style="s2">words on a screen it was really slow</p>
+<p begin="00:08:37.399" end="00:08:44.089" style="s2">these are the days of 24 baud modems and</p>
+<p begin="00:08:40.610" end="00:08:46.640" style="s2">the server was so slow that you could</p>
+<p begin="00:08:44.089" end="00:08:48.740" style="s2">log in go make a cup of coffee and come</p>
+<p begin="00:08:46.640" end="00:08:50.779" style="s2">back and you would be ready and the</p>
+<p begin="00:08:48.740" end="00:08:53.790" style="s2">words went across the screen very very</p>
+<p begin="00:08:50.779" end="00:08:56.640" style="s2">slowly but it was very exciting</p>
+<p begin="00:08:53.790" end="00:08:59.040" style="s2">as a writer it was exciting for several</p>
+<p begin="00:08:56.640" end="00:09:01.470" style="s2">reasons for one thing I was alone in a</p>
+<p begin="00:08:59.040" end="00:09:04.460" style="s2">room you know places like New York</p>
+<p begin="00:09:01.470" end="00:09:07.140" style="s2">I guess writers hung out in bars but</p>
+<p begin="00:09:04.460" end="00:09:09.600" style="s2">suburban Marin County California that</p>
+<p begin="00:09:07.140" end="00:09:11.820" style="s2">really wasn&#39;t an option for me but here</p>
+<p begin="00:09:09.600" end="00:09:13.410" style="s2">I could write for a while and then I</p>
+<p begin="00:09:11.820" end="00:09:16.190" style="s2">could go hang out with these people</p>
+<p begin="00:09:13.410" end="00:09:19.110" style="s2">online and it was like writing as a a</p>
+<p begin="00:09:16.190" end="00:09:22.080" style="s2">performing art and it was like writing</p>
+<p begin="00:09:19.110" end="00:09:24.270" style="s2">as a group performing art and I was just</p>
+<p begin="00:09:22.080" end="00:09:27.620" style="s2">tremendously interested and also</p>
+<p begin="00:09:24.270" end="00:09:30.390" style="s2">interested in the the network of people</p>
+<p begin="00:09:27.620" end="00:09:32.970" style="s2">one of the things that I think was</p>
+<p begin="00:09:30.390" end="00:09:35.070" style="s2">useful about the well was that it</p>
+<p begin="00:09:32.970" end="00:09:38.730" style="s2">started with the whole earth network</p>
+<p begin="00:09:35.070" end="00:09:41.370" style="s2">which was kind of diverse particularly</p>
+<p begin="00:09:38.730" end="00:09:44.850" style="s2">for the time most of the people online</p>
+<p begin="00:09:41.370" end="00:09:48.690" style="s2">back then were were men but on the whole</p>
+<p begin="00:09:44.850" end="00:09:51.750" style="s2">earth electronic link a good percentage</p>
+<p begin="00:09:48.690" end="00:09:55.880" style="s2">of them were women and it was mostly</p>
+<p begin="00:09:51.750" end="00:10:00.030" style="s2">white but not entirely white and it was</p>
+<p begin="00:09:55.880" end="00:10:02.370" style="s2">schoolteachers and engineers and writers</p>
+<p begin="00:10:00.030" end="00:10:05.340" style="s2">a lot of people who later turned out to</p>
+<p begin="00:10:02.370" end="00:10:07.950" style="s2">be technology correspondents like John</p>
+<p begin="00:10:05.340" end="00:10:10.230" style="s2">Markoff of the New York Times Steve Levy</p>
+<p begin="00:10:07.950" end="00:10:13.080" style="s2">from you know Rolling Stone and wired</p>
+<p begin="00:10:10.230" end="00:10:15.840" style="s2">all hung out in the media conference</p>
+<p begin="00:10:13.080" end="00:10:17.580" style="s2">there was like a watering hole fort for</p>
+<p begin="00:10:15.840" end="00:10:20.220" style="s2">people who were interested in what was</p>
+<p begin="00:10:17.580" end="00:10:22.380" style="s2">going on with with technology and so</p>
+<p begin="00:10:20.220" end="00:10:26.010" style="s2">that&#39;s what got me really interested in</p>
+<p begin="00:10:22.380" end="00:10:28.800" style="s2">in following what was happening again I</p>
+<p begin="00:10:26.010" end="00:10:30.800" style="s2">wasn&#39;t really a technology guy but uh it</p>
+<p begin="00:10:28.800" end="00:10:33.930" style="s2">seemed to me that this was a new</p>
+<p begin="00:10:30.800" end="00:10:35.850" style="s2">communication medium that had some</p>
+<p begin="00:10:33.930" end="00:10:38.910" style="s2">characteristics that no communication</p>
+<p begin="00:10:35.850" end="00:10:41.340" style="s2">medium had ever had before so I was</p>
+<p begin="00:10:38.910" end="00:10:44.610" style="s2">excited about that I wrote a story for</p>
+<p begin="00:10:41.340" end="00:10:48.840" style="s2">whole earth review in 1987 on virtual</p>
+<p begin="00:10:44.610" end="00:10:51.180" style="s2">communities and I talked about how I</p>
+<p begin="00:10:48.840" end="00:10:52.830" style="s2">could get to know people and know what</p>
+<p begin="00:10:51.180" end="00:10:54.480" style="s2">they were interested in and if I came</p>
+<p begin="00:10:52.830" end="00:10:57.180" style="s2">across things that I knew would interest</p>
+<p begin="00:10:54.480" end="00:11:00.060" style="s2">them I could I could send that their way</p>
+<p begin="00:10:57.180" end="00:11:01.680" style="s2">and that if they knew what I was</p>
+<p begin="00:11:00.060" end="00:11:03.750" style="s2">interested in they could send things my</p>
+<p begin="00:11:01.680" end="00:11:06.570" style="s2">way and this I think one of the more</p>
+<p begin="00:11:03.750" end="00:11:07.770" style="s2">interesting characteristics of online is</p>
+<p begin="00:11:06.570" end="00:11:10.480" style="s2">that if you</p>
+<p begin="00:11:07.770" end="00:11:12.400" style="s2">cultivate a network of people who you</p>
+<p begin="00:11:10.480" end="00:11:14.260" style="s2">think are interesting and who think what</p>
+<p begin="00:11:12.400" end="00:11:16.180" style="s2">what you have to say is interesting and</p>
+<p begin="00:11:14.260" end="00:11:18.310" style="s2">you and you feed that network by giving</p>
+<p begin="00:11:16.180" end="00:11:20.620" style="s2">people information that you come across</p>
+<p begin="00:11:18.310" end="00:11:23.590" style="s2">that might be useful to them they will</p>
+<p begin="00:11:20.620" end="00:11:26.020" style="s2">feed you back and for every I have found</p>
+<p begin="00:11:23.590" end="00:11:29.200" style="s2">that for everything I give away online I</p>
+<p begin="00:11:26.020" end="00:11:31.210" style="s2">get ten times back so that was exciting</p>
+<p begin="00:11:29.200" end="00:11:33.330" style="s2">to me it was writing as a performing art</p>
+<p begin="00:11:31.210" end="00:11:36.370" style="s2">but it was also this kind of online</p>
+<p begin="00:11:33.330" end="00:11:39.070" style="s2">think-tank in which we were all kind of</p>
+<p begin="00:11:36.370" end="00:11:41.230" style="s2">consulting to each other you know I</p>
+<p begin="00:11:39.070" end="00:11:44.620" style="s2">tried to get a book proposal I mean I&#39;ve</p>
+<p begin="00:11:41.230" end="00:11:47.560" style="s2">got a book proposal but it took me four</p>
+<p begin="00:11:44.620" end="00:11:50.620" style="s2">or five years to get a book contract and</p>
+<p begin="00:11:47.560" end="00:11:52.560" style="s2">I was told that publishers believe that</p>
+<p begin="00:11:50.620" end="00:11:54.910" style="s2">only electrical engineers would use</p>
+<p begin="00:11:52.560" end="00:11:58.510" style="s2">computer networks to communicate with</p>
+<p begin="00:11:54.910" end="00:12:02.650" style="s2">but I wrote the virtual community in I</p>
+<p begin="00:11:58.510" end="00:12:05.050" style="s2">guess 1992 is published in 1993 I had</p>
+<p begin="00:12:02.650" end="00:12:06.790" style="s2">not really traveled very much before</p>
+<p begin="00:12:05.050" end="00:12:08.980" style="s2">then but I went around the world and I</p>
+<p begin="00:12:06.790" end="00:12:11.860" style="s2">hung out with virtual communities in</p>
+<p begin="00:12:08.980" end="00:12:13.570" style="s2">rural Japan and England and and France</p>
+<p begin="00:12:11.860" end="00:12:16.210" style="s2">it was really something that was</p>
+<p begin="00:12:13.570" end="00:12:19.300" style="s2">happening around the world and and</p>
+<p begin="00:12:16.210" end="00:12:22.450" style="s2">published that that book you know quite</p>
+<p begin="00:12:19.300" end="00:12:24.460" style="s2">a long time before this term social</p>
+<p begin="00:12:22.450" end="00:12:27.760" style="s2">media came into being in fact the year</p>
+<p begin="00:12:24.460" end="00:12:30.940" style="s2">it was published was the year of the New</p>
+<p begin="00:12:27.760" end="00:12:32.680" style="s2">Yorker cartoon that said on the on the</p>
+<p begin="00:12:30.940" end="00:12:36.130" style="s2">internet nobody knows you&#39;re a dog and</p>
+<p begin="00:12:32.680" end="00:12:38.440" style="s2">so that was really the start for me yeah</p>
+<p begin="00:12:36.130" end="00:12:39.460" style="s2">that was a very interesting book if</p>
+<p begin="00:12:38.440" end="00:12:43.090" style="s2">people are interested in the early</p>
+<p begin="00:12:39.460" end="00:12:44.470" style="s2">history of online that&#39;s a great one to</p>
+<p begin="00:12:43.090" end="00:12:47.530" style="s2">read and that was that was published in</p>
+<p begin="00:12:44.470" end="00:12:49.390" style="s2">about 1993 something like that yeah yep</p>
+<p begin="00:12:47.530" end="00:12:50.740" style="s2">very very entering goes into the</p>
+<p begin="00:12:49.390" end="00:12:51.730" style="s2">experience of the well and a bunch of</p>
+<p begin="00:12:50.740" end="00:12:53.530" style="s2">other things one of the things that you</p>
+<p begin="00:12:51.730" end="00:12:54.880" style="s2">talk about in there which I think was</p>
+<p begin="00:12:53.530" end="00:12:56.800" style="s2">prescient there&#39;s so much that&#39;s</p>
+<p begin="00:12:54.880" end="00:12:58.630" style="s2">prescient in your work as I&#39;ve gone</p>
+<p begin="00:12:56.800" end="00:13:00.640" style="s2">through it here the last week or so</p>
+<p begin="00:12:58.630" end="00:13:02.550" style="s2">getting ready for this podcast is you</p>
+<p begin="00:13:00.640" end="00:13:06.070" style="s2">had a section that you called real-time</p>
+<p begin="00:13:02.550" end="00:13:09.190" style="s2">tribes now the technology that they use</p>
+<p begin="00:13:06.070" end="00:13:11.230" style="s2">IRC which was a long range multi-room</p>
+<p begin="00:13:09.190" end="00:13:13.480" style="s2">chat kind of protocol lots and lots and</p>
+<p begin="00:13:11.230" end="00:13:15.700" style="s2">lots of channels and it&#39;s become sort of</p>
+<p begin="00:13:13.480" end="00:13:18.310" style="s2">obsolete though now we have whatsapp</p>
+<p begin="00:13:15.700" end="00:13:19.660" style="s2">very very similar conceptually but what</p>
+<p begin="00:13:18.310" end="00:13:22.060" style="s2">I thought that really jumped out at me</p>
+<p begin="00:13:19.660" end="00:13:24.910" style="s2">as prescient was the idea of</p>
+<p begin="00:13:22.060" end="00:13:28.000" style="s2">the online world from that time forward</p>
+<p begin="00:13:24.910" end="00:13:31.000" style="s2">and actually going back to the 80s was</p>
+<p begin="00:13:28.000" end="00:13:33.880" style="s2">organized in many ways in many many many</p>
+<p begin="00:13:31.000" end="00:13:36.070" style="s2">many groups of specialized interest that</p>
+<p begin="00:13:33.880" end="00:13:37.420" style="s2">one could think of almost as tribal and</p>
+<p begin="00:13:36.070" end="00:13:38.950" style="s2">they formed their own culture they</p>
+<p begin="00:13:37.420" end="00:13:41.260" style="s2">formed their own language you know we</p>
+<p begin="00:13:38.950" end="00:13:43.420" style="s2">hear about you know some of the sort of</p>
+<p begin="00:13:41.260" end="00:13:44.770" style="s2">tribal aspects today like over on the</p>
+<p begin="00:13:43.420" end="00:13:46.990" style="s2">Chan&#39;s where the people have their own</p>
+<p begin="00:13:44.770" end="00:13:50.170" style="s2">language quite interesting what can you</p>
+<p begin="00:13:46.990" end="00:13:52.810" style="s2">say about the idea of tribes online and</p>
+<p begin="00:13:50.170" end="00:13:55.180" style="s2">how relevant is it today well you know</p>
+<p begin="00:13:52.810" end="00:13:56.440" style="s2">so uh I I mentioned that I thought that</p>
+<p begin="00:13:55.180" end="00:13:59.440" style="s2">this medium had some unique</p>
+<p begin="00:13:56.440" end="00:14:02.890" style="s2">characteristics one of which is many to</p>
+<p begin="00:13:59.440" end="00:14:04.540" style="s2">many it used to be that you had few too</p>
+<p begin="00:14:02.890" end="00:14:06.400" style="s2">many you know that a few were a</p>
+<p begin="00:14:04.540" end="00:14:08.020" style="s2">newspaper editor or you had a television</p>
+<p begin="00:14:06.400" end="00:14:09.340" style="s2">station you could broadcast and then</p>
+<p begin="00:14:08.020" end="00:14:11.950" style="s2">millions of people wouldn&#39;t listen to</p>
+<p begin="00:14:09.340" end="00:14:14.440" style="s2">you the thing about the internet as a</p>
+<p begin="00:14:11.950" end="00:14:16.870" style="s2">communication medium is that anybody can</p>
+<p begin="00:14:14.440" end="00:14:18.700" style="s2">communicate with with everybody whether</p>
+<p begin="00:14:16.870" end="00:14:21.430" style="s2">they will listen to you as you know</p>
+<p begin="00:14:18.700" end="00:14:23.500" style="s2">another story the other characteristic I</p>
+<p begin="00:14:21.430" end="00:14:25.690" style="s2">thought was interesting was that you</p>
+<p begin="00:14:23.500" end="00:14:28.270" style="s2">could connect with people who shared</p>
+<p begin="00:14:25.690" end="00:14:30.460" style="s2">your particular interests whether or not</p>
+<p begin="00:14:28.270" end="00:14:31.660" style="s2">you had known them before and even if</p>
+<p begin="00:14:30.460" end="00:14:34.330" style="s2">they were on the other side of the world</p>
+<p begin="00:14:31.660" end="00:14:38.950" style="s2">and and that could be anything it could</p>
+<p begin="00:14:34.330" end="00:14:41.080" style="s2">be you know raising dogs or horses or it</p>
+<p begin="00:14:38.950" end="00:14:43.600" style="s2">could be your political beliefs your</p>
+<p begin="00:14:41.080" end="00:14:45.460" style="s2">religious beliefs if you had a rare</p>
+<p begin="00:14:43.600" end="00:14:48.880" style="s2">disease you could connect with other</p>
+<p begin="00:14:45.460" end="00:14:50.800" style="s2">people who had that disease or you were</p>
+<p begin="00:14:48.880" end="00:14:53.770" style="s2">a caregiver you could connect with other</p>
+<p begin="00:14:50.800" end="00:14:57.610" style="s2">people and of course these days we can</p>
+<p begin="00:14:53.770" end="00:15:00.400" style="s2">see that if you&#39;re a Nazi or a a racist</p>
+<p begin="00:14:57.610" end="00:15:03.220" style="s2">or a terrorist or a criminal you can</p>
+<p begin="00:15:00.400" end="00:15:05.050" style="s2">also connect with others and I think</p>
+<p begin="00:15:03.220" end="00:15:08.290" style="s2">that that&#39;s a kind of an illustration of</p>
+<p begin="00:15:05.050" end="00:15:09.970" style="s2">a general characteristic we&#39;ve we&#39;ve</p>
+<p begin="00:15:08.290" end="00:15:12.160" style="s2">noted after all these years which is</p>
+<p begin="00:15:09.970" end="00:15:14.050" style="s2">it&#39;s the the Internet is kind of a</p>
+<p begin="00:15:12.160" end="00:15:15.850" style="s2">rising tide that lifts all boats and</p>
+<p begin="00:15:14.050" end="00:15:17.710" style="s2">some of those those boats are hospital</p>
+<p begin="00:15:15.850" end="00:15:21.790" style="s2">ships and some of them are our pirate</p>
+<p begin="00:15:17.710" end="00:15:25.060" style="s2">ships and and the people connecting with</p>
+<p begin="00:15:21.790" end="00:15:26.740" style="s2">each other around affinities have found</p>
+<p begin="00:15:25.060" end="00:15:29.050" style="s2">that not only can they connect with each</p>
+<p begin="00:15:26.740" end="00:15:31.000" style="s2">other and talk about things but they can</p>
+<p begin="00:15:29.050" end="00:15:33.400" style="s2">organise action they can organize</p>
+<p begin="00:15:31.000" end="00:15:34.899" style="s2">collective action in the the physical</p>
+<p begin="00:15:33.400" end="00:15:36.910" style="s2">world of</p>
+<p begin="00:15:34.899" end="00:15:39.339" style="s2">you know we&#39;ll have to loop back to that</p>
+<p begin="00:15:36.910" end="00:15:42.610" style="s2">idea when we talk about smart mobs but</p>
+<p begin="00:15:39.339" end="00:15:45.759" style="s2">you know back then the idea that you</p>
+<p begin="00:15:42.610" end="00:15:47.350" style="s2">could find ten or twenty or hundred</p>
+<p begin="00:15:45.759" end="00:15:49.300" style="s2">people who shared your particular</p>
+<p begin="00:15:47.350" end="00:15:51.249" style="s2">concern and spend all day talking with</p>
+<p begin="00:15:49.300" end="00:15:53.019" style="s2">them you know I remember one of the</p>
+<p begin="00:15:51.249" end="00:15:55.869" style="s2">things that that got me interested in</p>
+<p begin="00:15:53.019" end="00:15:58.300" style="s2">this idea of tribes was the Usenet you</p>
+<p begin="00:15:55.869" end="00:16:00.429" style="s2">know uh there&#39;s a certain percentage of</p>
+<p begin="00:15:58.300" end="00:16:02.759" style="s2">people who don&#39;t understand that there</p>
+<p begin="00:16:00.429" end="00:16:05.319" style="s2">were social media decades before</p>
+<p begin="00:16:02.759" end="00:16:08.230" style="s2">Facebook but using that you know</p>
+<p begin="00:16:05.319" end="00:16:09.309" style="s2">originated on college campuses but at</p>
+<p begin="00:16:08.230" end="00:16:11.589" style="s2">one point they were like a hundred</p>
+<p begin="00:16:09.309" end="00:16:14.800" style="s2">countries and you know thousands and</p>
+<p begin="00:16:11.589" end="00:16:16.689" style="s2">thousands of messages every day on on</p>
+<p begin="00:16:14.800" end="00:16:18.910" style="s2">different subjects and when I was</p>
+<p begin="00:16:16.689" end="00:16:21.040" style="s2">researching that the virtual community I</p>
+<p begin="00:16:18.910" end="00:16:24.540" style="s2">I found that people in the</p>
+<p begin="00:16:21.040" end="00:16:27.009" style="s2">harley-davidson motorcycle Usenet group</p>
+<p begin="00:16:24.540" end="00:16:29.079" style="s2">gathered in the u.s. to ride together</p>
+<p begin="00:16:27.009" end="00:16:31.929" style="s2">and they came from Australia they came</p>
+<p begin="00:16:29.079" end="00:16:35.079" style="s2">from from Europe so this medium that</p>
+<p begin="00:16:31.929" end="00:16:37.179" style="s2">connected people even though we couldn&#39;t</p>
+<p begin="00:16:35.079" end="00:16:39.069" style="s2">really see each other back then from all</p>
+<p begin="00:16:37.179" end="00:16:41.019" style="s2">around the world often led to people</p>
+<p begin="00:16:39.069" end="00:16:43.509" style="s2">meeting in real life and so I think the</p>
+<p begin="00:16:41.019" end="00:16:47.230" style="s2">lot of that tribalism comes from that</p>
+<p begin="00:16:43.509" end="00:16:49.540" style="s2">connection of connecting with people who</p>
+<p begin="00:16:47.230" end="00:16:51.999" style="s2">share your interests and values whatever</p>
+<p begin="00:16:49.540" end="00:16:54.670" style="s2">those might be and then doing something</p>
+<p begin="00:16:51.999" end="00:16:56.649" style="s2">with them we&#39;re meeting them yep</p>
+<p begin="00:16:54.670" end="00:16:58.329" style="s2">remember back on the well in the early</p>
+<p begin="00:16:56.649" end="00:17:01.240" style="s2">days you know I would think I joined the</p>
+<p begin="00:16:58.329" end="00:17:03.879" style="s2">well in 1989 I was actually at a</p>
+<p begin="00:17:01.240" end="00:17:06.100" style="s2">business meeting in Boston chatting with</p>
+<p begin="00:17:03.879" end="00:17:08.049" style="s2">Mitch Kapoor about a project that we</p>
+<p begin="00:17:06.100" end="00:17:10.240" style="s2">were both interested in and he had</p>
+<p begin="00:17:08.049" end="00:17:12.819" style="s2">joined the well like the week before and</p>
+<p begin="00:17:10.240" end="00:17:17.559" style="s2">I said you gotta join the well right and</p>
+<p begin="00:17:12.819" end="00:17:19.569" style="s2">so I did in December of 1989 and you</p>
+<p begin="00:17:17.559" end="00:17:20.980" style="s2">know I was taken to it quite quickly</p>
+<p begin="00:17:19.569" end="00:17:22.510" style="s2">one of things that was quite interesting</p>
+<p begin="00:17:20.980" end="00:17:24.909" style="s2">about the well particular in those early</p>
+<p begin="00:17:22.510" end="00:17:28.630" style="s2">days is probably a third of the people</p>
+<p begin="00:17:24.909" end="00:17:30.610" style="s2">on the well had been recruited via their</p>
+<p begin="00:17:28.630" end="00:17:33.970" style="s2">tribal affiliation with the Grateful</p>
+<p begin="00:17:30.610" end="00:17:35.890" style="s2">Dead the so-called dead heads and they</p>
+<p begin="00:17:33.970" end="00:17:38.799" style="s2">had numerous I frankly have not a dead</p>
+<p begin="00:17:35.890" end="00:17:40.570" style="s2">head I&#39;ve been to dead concerts but they</p>
+<p begin="00:17:38.799" end="00:17:43.120" style="s2">had various conferences about various</p>
+<p begin="00:17:40.570" end="00:17:45.250" style="s2">things and they swapped you know bootleg</p>
+<p begin="00:17:43.120" end="00:17:47.350" style="s2">recordings of sessions and things of</p>
+<p begin="00:17:45.250" end="00:17:48.150" style="s2">that sort and it was a mega tribe that</p>
+<p begin="00:17:47.350" end="00:17:50.160" style="s2">had multiple</p>
+<p begin="00:17:48.150" end="00:17:52.140" style="s2">subcomponents and everything else yet it</p>
+<p begin="00:17:50.160" end="00:17:55.850" style="s2">was quite significant on the well back</p>
+<p begin="00:17:52.140" end="00:17:59.160" style="s2">in those days well in fact I think the</p>
+<p begin="00:17:55.850" end="00:18:01.980" style="s2">Grateful Dead people on the well really</p>
+<p begin="00:17:59.160" end="00:18:03.750" style="s2">kept the the well alive financially you</p>
+<p begin="00:18:01.980" end="00:18:07.860" style="s2">know it was I think two dollars an hour</p>
+<p begin="00:18:03.750" end="00:18:10.590" style="s2">at that point and Grateful Dead fans met</p>
+<p begin="00:18:07.860" end="00:18:12.420" style="s2">at concerts and would hang out in the</p>
+<p begin="00:18:10.590" end="00:18:15.660" style="s2">parking lot before and after the show</p>
+<p begin="00:18:12.420" end="00:18:17.940" style="s2">and during the show but but then they</p>
+<p begin="00:18:15.660" end="00:18:20.640" style="s2">dispersed so they were really a</p>
+<p begin="00:18:17.940" end="00:18:23.850" style="s2">community looking for a place where they</p>
+<p begin="00:18:20.640" end="00:18:26.430" style="s2">could hang out all the time and they&#39;ve</p>
+<p begin="00:18:23.850" end="00:18:29.520" style="s2">got lots of things to talk about set</p>
+<p begin="00:18:26.430" end="00:18:32.250" style="s2">lists and endless arguments you know I</p>
+<p begin="00:18:29.520" end="00:18:36.180" style="s2">guess any any fan group that does the</p>
+<p begin="00:18:32.250" end="00:18:38.040" style="s2">same thing and in fact I had gone to a</p>
+<p begin="00:18:36.180" end="00:18:40.680" style="s2">Grateful Dead show when I was in college</p>
+<p begin="00:18:38.040" end="00:18:43.860" style="s2">in 1968 but had pretty much forgotten</p>
+<p begin="00:18:40.680" end="00:18:46.530" style="s2">about them but the people I met on the</p>
+<p begin="00:18:43.860" end="00:18:49.470" style="s2">well brought me to to Grateful Dead</p>
+<p begin="00:18:46.530" end="00:18:54.090" style="s2">shows so I got back into it in the in</p>
+<p begin="00:18:49.470" end="00:18:58.190" style="s2">the 1990s but definitely the well</p>
+<p begin="00:18:54.090" end="00:19:01.800" style="s2">probably survived as a viable business</p>
+<p begin="00:18:58.190" end="00:19:03.210" style="s2">because of the deadheads and and one of</p>
+<p begin="00:19:01.800" end="00:19:05.280" style="s2">the things when I was researching the</p>
+<p begin="00:19:03.210" end="00:19:07.050" style="s2">book talking to Kevin Kelly about the</p>
+<p begin="00:19:05.280" end="00:19:10.770" style="s2">design of the well was that they</p>
+<p begin="00:19:07.050" end="00:19:12.420" style="s2">designed it to be a a business that</p>
+<p begin="00:19:10.770" end="00:19:14.820" style="s2">would stay in business that they would</p>
+<p begin="00:19:12.420" end="00:19:19.470" style="s2">bring in enough revenue to pay the bills</p>
+<p begin="00:19:14.820" end="00:19:20.880" style="s2">but they weren&#39;t after a profit one of</p>
+<p begin="00:19:19.470" end="00:19:23.550" style="s2">the interesting events I don&#39;t know</p>
+<p begin="00:19:20.880" end="00:19:26.040" style="s2">maybe before or after you had joined was</p>
+<p begin="00:19:23.550" end="00:19:29.730" style="s2">that so many people had joined the</p>
+<p begin="00:19:26.040" end="00:19:31.020" style="s2">server was really slow and the users of</p>
+<p begin="00:19:29.730" end="00:19:34.920" style="s2">the well-organised</p>
+<p begin="00:19:31.020" end="00:19:37.350" style="s2">to buy a new server we literally pulled</p>
+<p begin="00:19:34.920" end="00:19:40.470" style="s2">our money gave it to the well and said</p>
+<p begin="00:19:37.350" end="00:19:43.410" style="s2">look well we will buy our $2 an hour in</p>
+<p begin="00:19:40.470" end="00:19:45.690" style="s2">advance so that you could go buy a new</p>
+<p begin="00:19:43.410" end="00:19:48.540" style="s2">server it&#39;s hard to think of any other</p>
+<p begin="00:19:45.690" end="00:19:52.250" style="s2">business in which the customers buy the</p>
+<p begin="00:19:48.540" end="00:19:55.680" style="s2">equipment for the business and because</p>
+<p begin="00:19:52.250" end="00:19:57.420" style="s2">most of the people on the well in the</p>
+<p begin="00:19:55.680" end="00:19:59.790" style="s2">beginning were in the San Francisco Bay</p>
+<p begin="00:19:57.420" end="00:20:01.290" style="s2">Area we began to get together for</p>
+<p begin="00:19:59.790" end="00:20:03.930" style="s2">parties so</p>
+<p begin="00:20:01.290" end="00:20:06.900" style="s2">you know marriages were formed and</p>
+<p begin="00:20:03.930" end="00:20:10.680" style="s2">marriages broke up and people died and</p>
+<p begin="00:20:06.900" end="00:20:12.960" style="s2">people sat by the the the bedside of</p>
+<p begin="00:20:10.680" end="00:20:14.820" style="s2">people who are dying we passed a hat</p>
+<p begin="00:20:12.960" end="00:20:16.860" style="s2">when when someone had medical bills</p>
+<p begin="00:20:14.820" end="00:20:19.520" style="s2">that&#39;s what got me thinking that this</p>
+<p begin="00:20:16.860" end="00:20:21.870" style="s2">was very much like other communities</p>
+<p begin="00:20:19.520" end="00:20:24.630" style="s2">it&#39;s interesting they mentioned the</p>
+<p begin="00:20:21.870" end="00:20:27.990" style="s2">server barn-raising I was a bit before</p>
+<p begin="00:20:24.630" end="00:20:31.280" style="s2">my time but you may know that in the</p>
+<p begin="00:20:27.990" end="00:20:34.200" style="s2">later days the well was owned by salon a</p>
+<p begin="00:20:31.280" end="00:20:36.270" style="s2">online magazine essentially and they</p>
+<p begin="00:20:34.200" end="00:20:39.450" style="s2">totally ignored it after an initial</p>
+<p begin="00:20:36.270" end="00:20:40.920" style="s2">flurry of interest and let it run into</p>
+<p begin="00:20:39.450" end="00:20:43.320" style="s2">the ground and they were about to close</p>
+<p begin="00:20:40.920" end="00:20:45.300" style="s2">it when it was bought by somebody else</p>
+<p begin="00:20:43.320" end="00:20:47.940" style="s2">or had they had some financial crisis or</p>
+<p begin="00:20:45.300" end="00:20:50.370" style="s2">something and the well members got</p>
+<p begin="00:20:47.940" end="00:20:52.110" style="s2">together and bought it so there was the</p>
+<p begin="00:20:50.370" end="00:20:54.660" style="s2">leaven of us I was one of them actually</p>
+<p begin="00:20:52.110" end="00:20:57.540" style="s2">that each chipped in and bought the well</p>
+<p begin="00:20:54.660" end="00:20:59.880" style="s2">from salon and we&#39;ve run it as an</p>
+<p begin="00:20:57.540" end="00:21:01.680" style="s2">independent company ever since and</p>
+<p begin="00:20:59.880" end="00:21:04.080" style="s2">frankly just as you talked about with</p>
+<p begin="00:21:01.680" end="00:21:07.020" style="s2">Kevin Kelly you know it&#39;s cash flow</p>
+<p begin="00:21:04.080" end="00:21:09.990" style="s2">positive but not very nobody bought into</p>
+<p begin="00:21:07.020" end="00:21:11.520" style="s2">the well for its financial cash flows</p>
+<p begin="00:21:09.990" end="00:21:13.020" style="s2">that come out of it we all bought in it</p>
+<p begin="00:21:11.520" end="00:21:15.060" style="s2">because we care about the community and</p>
+<p begin="00:21:13.020" end="00:21:17.940" style="s2">as you said so many things I mean I</p>
+<p begin="00:21:15.060" end="00:21:20.160" style="s2">still recall this was so eerie and</p>
+<p begin="00:21:17.940" end="00:21:23.100" style="s2">essentially an online wake with Tom</p>
+<p begin="00:21:20.160" end="00:21:25.080" style="s2">mandal remember Tom yes you&#39;re new yeah</p>
+<p begin="00:21:23.100" end="00:21:26.340" style="s2">he was a real active member of the and a</p>
+<p begin="00:21:25.080" end="00:21:28.080" style="s2">good friend of mine and you know we got</p>
+<p begin="00:21:26.340" end="00:21:32.100" style="s2">to know each other in real life too and</p>
+<p begin="00:21:28.080" end="00:21:34.020" style="s2">he was dying of brain cancer and the day</p>
+<p begin="00:21:32.100" end="00:21:37.620" style="s2">he knew he was gonna die</p>
+<p begin="00:21:34.020" end="00:21:40.470" style="s2">he started up a online wake while he was</p>
+<p begin="00:21:37.620" end="00:21:41.850" style="s2">still alive using the send function on</p>
+<p begin="00:21:40.470" end="00:21:44.820" style="s2">the well which is kind of a very</p>
+<p begin="00:21:41.850" end="00:21:46.920" style="s2">rudimentary chat and we were all</p>
+<p begin="00:21:44.820" end="00:21:49.830" style="s2">chatting with him and with each other as</p>
+<p begin="00:21:46.920" end="00:21:52.620" style="s2">he actually was going in to the end game</p>
+<p begin="00:21:49.830" end="00:21:55.230" style="s2">of brain cancer and it was</p>
+<p begin="00:21:52.620" end="00:21:57.750" style="s2">extraordinarily moving and deep and I</p>
+<p begin="00:21:55.230" end="00:21:59.670" style="s2">had cried for hours afterwards it was</p>
+<p begin="00:21:57.750" end="00:22:01.920" style="s2">you know one of the more you know deep</p>
+<p begin="00:21:59.670" end="00:22:04.620" style="s2">and profound experiences of my life</p>
+<p begin="00:22:01.920" end="00:22:08.220" style="s2">intermediated on text on a command line</p>
+<p begin="00:22:04.620" end="00:22:10.590" style="s2">but about a person leaving the scene of</p>
+<p begin="00:22:08.220" end="00:22:11.790" style="s2">this fear first or wherever else they</p>
+<p begin="00:22:10.590" end="00:22:14.880" style="s2">may go</p>
+<p begin="00:22:11.790" end="00:22:19.260" style="s2">yeah I remember the name of that thread</p>
+<p begin="00:22:14.880" end="00:22:22.440" style="s2">was my turn which still gives me kind of</p>
+<p begin="00:22:19.260" end="00:22:24.630" style="s2">chills up my spine as you know tom was a</p>
+<p begin="00:22:22.440" end="00:22:27.840" style="s2">futurist at the Stanford Research</p>
+<p begin="00:22:24.630" end="00:22:30.690" style="s2">Institute so a lot of what he had to say</p>
+<p begin="00:22:27.840" end="00:22:33.090" style="s2">was really interesting and you weren&#39;t</p>
+<p begin="00:22:30.690" end="00:22:36.090" style="s2">hearing it anywhere else and I think</p>
+<p begin="00:22:33.090" end="00:22:37.920" style="s2">that was one of the the great values of</p>
+<p begin="00:22:36.090" end="00:22:40.590" style="s2">the world because you know you had to be</p>
+<p begin="00:22:37.920" end="00:22:43.700" style="s2">one of the the sponsors of SR i&#39;s</p>
+<p begin="00:22:40.590" end="00:22:46.200" style="s2">research to get some of that that info</p>
+<p begin="00:22:43.700" end="00:22:48.030" style="s2">absolutely and actually tom was the</p>
+<p begin="00:22:46.200" end="00:22:49.740" style="s2">number one poster on the well I know if</p>
+<p begin="00:22:48.030" end="00:22:52.320" style="s2">you remember I used to write had a</p>
+<p begin="00:22:49.740" end="00:22:55.500" style="s2">program I wrote that analyzed well usage</p>
+<p begin="00:22:52.320" end="00:22:56.940" style="s2">in various ways and one of the ones was</p>
+<p begin="00:22:55.500" end="00:22:58.830" style="s2">calculating who were the heaviest</p>
+<p begin="00:22:56.940" end="00:23:01.410" style="s2">posters on the well so I post every</p>
+<p begin="00:22:58.830" end="00:23:05.370" style="s2">month or two and Tom was always number</p>
+<p begin="00:23:01.410" end="00:23:07.770" style="s2">one and he asked me to not put his name</p>
+<p begin="00:23:05.370" end="00:23:09.030" style="s2">on his user name because his bosses</p>
+<p begin="00:23:07.770" end="00:23:11.400" style="s2">would fire him if they knew how much</p>
+<p begin="00:23:09.030" end="00:23:14.130" style="s2">time he was spending on the well and so</p>
+<p begin="00:23:11.400" end="00:23:16.290" style="s2">I said okay well anonymize it just</p>
+<p begin="00:23:14.130" end="00:23:18.480" style="s2">slightly but yeah he was quite a</p>
+<p begin="00:23:16.290" end="00:23:20.070" style="s2">character to say the very least we got</p>
+<p begin="00:23:18.480" end="00:23:22.410" style="s2">to move on here Howard&#39;s on a little bit</p>
+<p begin="00:23:20.070" end="00:23:25.080" style="s2">of a time check today one more thing I&#39;d</p>
+<p begin="00:23:22.410" end="00:23:27.480" style="s2">like to talk about from that book which</p>
+<p begin="00:23:25.080" end="00:23:30.570" style="s2">is again very prescient was you</p>
+<p begin="00:23:27.480" end="00:23:33.630" style="s2">discussed three risks to the future of</p>
+<p begin="00:23:30.570" end="00:23:36.810" style="s2">online and two of the three at least</p>
+<p begin="00:23:33.630" end="00:23:38.850" style="s2">have become to my mind very very</p>
+<p begin="00:23:36.810" end="00:23:41.130" style="s2">important in the current trajectory of</p>
+<p begin="00:23:38.850" end="00:23:44.490" style="s2">our online world the first one you</p>
+<p begin="00:23:41.130" end="00:23:46.200" style="s2">talked about as commodification that you</p>
+<p begin="00:23:44.490" end="00:23:48.240" style="s2">know this isn&#39;t just a bunch of happy</p>
+<p begin="00:23:46.200" end="00:23:50.070" style="s2">hippies running out of axe in the Bay</p>
+<p begin="00:23:48.240" end="00:23:52.380" style="s2">Area but you know somehow this is gonna</p>
+<p begin="00:23:50.070" end="00:23:55.560" style="s2">become commodified big-time you talk a</p>
+<p begin="00:23:52.380" end="00:23:58.710" style="s2">fair amount about prodigy and you know</p>
+<p begin="00:23:55.560" end="00:24:00.630" style="s2">it&#39;s attempts to get hegemony in that</p>
+<p begin="00:23:58.710" end="00:24:02.640" style="s2">world of course that never happened but</p>
+<p begin="00:24:00.630" end="00:24:04.290" style="s2">they tried you know and then you also</p>
+<p begin="00:24:02.640" end="00:24:06.920" style="s2">talked about risk number two</p>
+<p begin="00:24:04.290" end="00:24:10.470" style="s2">surveillance control and disinformation</p>
+<p begin="00:24:06.920" end="00:24:12.540" style="s2">well guess what sports fans what&#39;s life</p>
+<p begin="00:24:10.470" end="00:24:15.420" style="s2">on Facebook and Twitter but surveillance</p>
+<p begin="00:24:12.540" end="00:24:17.220" style="s2">control and disinformation and then the</p>
+<p begin="00:24:15.420" end="00:24:18.930" style="s2">third one I think a little bit less</p>
+<p begin="00:24:17.220" end="00:24:20.190" style="s2">important in the online world but</p>
+<p begin="00:24:18.930" end="00:24:22.920" style="s2">perhaps important in the gaming world</p>
+<p begin="00:24:20.190" end="00:24:25.539" style="s2">which is the hyperrealist critique which</p>
+<p begin="00:24:22.920" end="00:24:28.059" style="s2">is that the presentation of reality and</p>
+<p begin="00:24:25.539" end="00:24:30.759" style="s2">pewter could be so refined that it might</p>
+<p begin="00:24:28.059" end="00:24:33.070" style="s2">actually replace people&#39;s desires to</p>
+<p begin="00:24:30.759" end="00:24:34.509" style="s2">engage in the real world so again I</p>
+<p begin="00:24:33.070" end="00:24:36.450" style="s2">think those especially the first two</p>
+<p begin="00:24:34.509" end="00:24:38.259" style="s2">huge I&#39;d love to get your thoughts on</p>
+<p begin="00:24:36.450" end="00:24:39.489" style="s2">you know what we were thinking at the</p>
+<p begin="00:24:38.259" end="00:24:42.070" style="s2">time and what you think now about</p>
+<p begin="00:24:39.489" end="00:24:44.460" style="s2">commodification first and then</p>
+<p begin="00:24:42.070" end="00:24:47.789" style="s2">surveillance control and disinformation</p>
+<p begin="00:24:44.460" end="00:24:49.029" style="s2">well um you know when I wrote the book</p>
+<p begin="00:24:47.789" end="00:24:51.039" style="s2">again</p>
+<p begin="00:24:49.029" end="00:24:53.739" style="s2">I was excited by this new territory and</p>
+<p begin="00:24:51.039" end="00:24:55.960" style="s2">I wasn&#39;t particularly an expert on it</p>
+<p begin="00:24:53.739" end="00:24:59.649" style="s2">and I thought about what what are the</p>
+<p begin="00:24:55.960" end="00:25:01.899" style="s2">major ways that this could go bad and</p>
+<p begin="00:24:59.649" end="00:25:05.799" style="s2">those were three ways that could go bad</p>
+<p begin="00:25:01.899" end="00:25:08.259" style="s2">I also mentioned enclosure back then I I</p>
+<p begin="00:25:05.799" end="00:25:10.599" style="s2">it was Bill Gates maybe Bill Gates will</p>
+<p begin="00:25:08.259" end="00:25:13.659" style="s2">take this over and sell it back to us</p>
+<p begin="00:25:10.599" end="00:25:16.330" style="s2">and interesting it was probably Mark</p>
+<p begin="00:25:13.659" end="00:25:18.700" style="s2">Zuckerberg wasn&#39;t born yet back then and</p>
+<p begin="00:25:16.330" end="00:25:22.629" style="s2">then the other one I thought well what&#39;s</p>
+<p begin="00:25:18.700" end="00:25:27.519" style="s2">the most important thing and and I felt</p>
+<p begin="00:25:22.629" end="00:25:30.729" style="s2">that our freedom the the health of</p>
+<p begin="00:25:27.519" end="00:25:34.210" style="s2">democracy will when more people when</p>
+<p begin="00:25:30.729" end="00:25:36.970" style="s2">most people are online will democracy be</p>
+<p begin="00:25:34.210" end="00:25:40.779" style="s2">healthier will we have more freedom and</p>
+<p begin="00:25:36.970" end="00:25:42.519" style="s2">that led me to discover this literature</p>
+<p begin="00:25:40.779" end="00:25:44.919" style="s2">I&#39;d never heard about about the public</p>
+<p begin="00:25:42.519" end="00:25:46.269" style="s2">sphere so I want to circle back to this</p>
+<p begin="00:25:44.919" end="00:25:48.129" style="s2">idea of the public sphere because I</p>
+<p begin="00:25:46.269" end="00:25:49.659" style="s2">think that that is a contemporary danger</p>
+<p begin="00:25:48.129" end="00:25:54.039" style="s2">but this this whole issue of</p>
+<p begin="00:25:49.659" end="00:25:56.109" style="s2">commodification well now they call it</p>
+<p begin="00:25:54.039" end="00:25:58.320" style="s2">surveillance capitalism it&#39;s really the</p>
+<p begin="00:25:56.109" end="00:26:02.229" style="s2">marriage of surveillance and</p>
+<p begin="00:25:58.320" end="00:26:04.479" style="s2">commodification in that the business</p>
+<p begin="00:26:02.229" end="00:26:07.269" style="s2">model and you know I was really there</p>
+<p begin="00:26:04.479" end="00:26:10.139" style="s2">when the attention business model</p>
+<p begin="00:26:07.269" end="00:26:12.869" style="s2">started I was the founding executive</p>
+<p begin="00:26:10.139" end="00:26:15.429" style="s2">editor of hot-wired which was the online</p>
+<p begin="00:26:12.869" end="00:26:18.450" style="s2">zine of Wired magazine</p>
+<p begin="00:26:15.429" end="00:26:22.659" style="s2">I quit pretty quickly because of the</p>
+<p begin="00:26:18.450" end="00:26:24.909" style="s2">direction that that they were going but</p>
+<p begin="00:26:22.659" end="00:26:28.419" style="s2">we were excited by the idea that we</p>
+<p begin="00:26:24.909" end="00:26:30.820" style="s2">could put up a banner ad and sponsors</p>
+<p begin="00:26:28.419" end="00:26:34.720" style="s2">would pay us for that and then we could</p>
+<p begin="00:26:30.820" end="00:26:38.350" style="s2">go pay people to write and to create art</p>
+<p begin="00:26:34.720" end="00:26:39.970" style="s2">all you made money online was a mystery</p>
+<p begin="00:26:38.350" end="00:26:41.470" style="s2">and people laughed at you if you said</p>
+<p begin="00:26:39.970" end="00:26:42.250" style="s2">you were gonna make money on the the</p>
+<p begin="00:26:41.470" end="00:26:45.460" style="s2">Internet</p>
+<p begin="00:26:42.250" end="00:26:48.159" style="s2">prior to Netscape going public and then</p>
+<p begin="00:26:45.460" end="00:26:50.230" style="s2">things got really interesting so we had</p>
+<p begin="00:26:48.159" end="00:26:53.440" style="s2">we had the first banner ad and we had</p>
+<p begin="00:26:50.230" end="00:26:57.390" style="s2">real I did not realize what that would</p>
+<p begin="00:26:53.440" end="00:27:01.179" style="s2">lead to it&#39;s not just the ad of course</p>
+<p begin="00:26:57.390" end="00:27:04.450" style="s2">it&#39;s tracking what people are doing</p>
+<p begin="00:27:01.179" end="00:27:08.860" style="s2">online and using the knowledge of their</p>
+<p begin="00:27:04.450" end="00:27:12.190" style="s2">preferences to customize ads and then</p>
+<p begin="00:27:08.860" end="00:27:15.780" style="s2">sell that filter that that attention of</p>
+<p begin="00:27:12.190" end="00:27:18.370" style="s2">particular audiences to advertisers</p>
+<p begin="00:27:15.780" end="00:27:21.850" style="s2">which you know sounds pretty good</p>
+<p begin="00:27:18.370" end="00:27:24.100" style="s2">actually however it just it expanded so</p>
+<p begin="00:27:21.850" end="00:27:28.090" style="s2">much if you&#39;re talking about Facebook</p>
+<p begin="00:27:24.100" end="00:27:30.400" style="s2">not only do they record every move of</p>
+<p begin="00:27:28.090" end="00:27:32.590" style="s2">your mouse when you&#39;re on Facebook and</p>
+<p begin="00:27:30.400" end="00:27:35.020" style="s2">every like that everybody makes on</p>
+<p begin="00:27:32.590" end="00:27:38.200" style="s2">anything that you&#39;ve ever done but they</p>
+<p begin="00:27:35.020" end="00:27:41.500" style="s2">follow you around the web elsewhere if</p>
+<p begin="00:27:38.200" end="00:27:45.520" style="s2">you log on to sites using Facebook they</p>
+<p begin="00:27:41.500" end="00:27:47.830" style="s2">know what you&#39;re doing and they also buy</p>
+<p begin="00:27:45.520" end="00:27:49.960" style="s2">information about people that&#39;s</p>
+<p begin="00:27:47.830" end="00:27:52.360" style="s2">collected by others so now they&#39;ve got</p>
+<p begin="00:27:49.960" end="00:27:56.169" style="s2">what is it 2 billion users and they have</p>
+<p begin="00:27:52.360" end="00:27:59.350" style="s2">these extremely detailed dossiers that</p>
+<p begin="00:27:56.169" end="00:28:01.000" style="s2">enable them to micro-target advertising</p>
+<p begin="00:27:59.350" end="00:28:03.520" style="s2">which you know in in the advertising</p>
+<p begin="00:28:01.000" end="00:28:05.860" style="s2">business is really a great thing it used</p>
+<p begin="00:28:03.520" end="00:28:08.049" style="s2">to be you would put up a billboard so</p>
+<p begin="00:28:05.860" end="00:28:09.669" style="s2">that you know hundreds of thousands of</p>
+<p begin="00:28:08.049" end="00:28:12.190" style="s2">people would see it and maybe the people</p>
+<p begin="00:28:09.669" end="00:28:13.419" style="s2">who wanted to buy your commodity would</p>
+<p begin="00:28:12.190" end="00:28:15.610" style="s2">would see it as well</p>
+<p begin="00:28:13.419" end="00:28:17.230" style="s2">same thing with television you would you</p>
+<p begin="00:28:15.610" end="00:28:19.299" style="s2">know hope that millions of people would</p>
+<p begin="00:28:17.230" end="00:28:22.299" style="s2">see it and that maybe a few thousand of</p>
+<p begin="00:28:19.299" end="00:28:25.000" style="s2">them might want to buy something here um</p>
+<p begin="00:28:22.299" end="00:28:26.590" style="s2">if somebody was interested in blue jeans</p>
+<p begin="00:28:25.000" end="00:28:28.330" style="s2">and you knew that by what they were</p>
+<p begin="00:28:26.590" end="00:28:31.860" style="s2">doing online then you could send them</p>
+<p begin="00:28:28.330" end="00:28:35.620" style="s2">blue jeans ads well what we discovered</p>
+<p begin="00:28:31.860" end="00:28:37.059" style="s2">during the election of 2016 is that all</p>
+<p begin="00:28:35.620" end="00:28:39.159" style="s2">kinds of people can use that micro</p>
+<p begin="00:28:37.059" end="00:28:42.299" style="s2">targeting system so now we&#39;ve got</p>
+<p begin="00:28:39.159" end="00:28:45.929" style="s2">computational propaganda where you can</p>
+<p begin="00:28:42.299" end="00:28:48.190" style="s2">customize your propaganda to specific</p>
+<p begin="00:28:45.929" end="00:28:51.070" style="s2">audiences let&#39;s say you want to</p>
+<p begin="00:28:48.190" end="00:28:53.080" style="s2">yup racial unrest for example you can</p>
+<p begin="00:28:51.070" end="00:28:56.889" style="s2">find the black people and the white</p>
+<p begin="00:28:53.080" end="00:28:59.500" style="s2">people and customized messages to them</p>
+<p begin="00:28:56.889" end="00:29:03.159" style="s2">and use of Facebook&#39;s micro targeting</p>
+<p begin="00:28:59.500" end="00:29:05.710" style="s2">system to propagate that propaganda and</p>
+<p begin="00:29:03.159" end="00:29:09.909" style="s2">then of course there&#39;s developed a whole</p>
+<p begin="00:29:05.710" end="00:29:13.629" style="s2">ecosystem of trolls who will repeat that</p>
+<p begin="00:29:09.909" end="00:29:15.820" style="s2">propaganda and and box that will do it</p>
+<p begin="00:29:13.629" end="00:29:18.820" style="s2">automatically the same same thing on on</p>
+<p begin="00:29:15.820" end="00:29:21.399" style="s2">Twitter I think the surveillance is not</p>
+<p begin="00:29:18.820" end="00:29:24.580" style="s2">as detailed but certainly the the bot</p>
+<p begin="00:29:21.399" end="00:29:29.169" style="s2">networks are we never really expected</p>
+<p begin="00:29:24.580" end="00:29:32.409" style="s2">that in terms of surveillance outside of</p>
+<p begin="00:29:29.169" end="00:29:37.620" style="s2">the online world I did write about that</p>
+<p begin="00:29:32.409" end="00:29:42.759" style="s2">I had a syndicated column in the 1990s</p>
+<p begin="00:29:37.620" end="00:29:44.889" style="s2">1994 1995 and and there were people who</p>
+<p begin="00:29:42.759" end="00:29:46.990" style="s2">cared about what was happening I wrote</p>
+<p begin="00:29:44.889" end="00:29:50.200" style="s2">about closed-circuit television cameras</p>
+<p begin="00:29:46.990" end="00:29:53.169" style="s2">going up and I wrote that they can&#39;t</p>
+<p begin="00:29:50.200" end="00:29:57.129" style="s2">recognize your face yet and they&#39;re not</p>
+<p begin="00:29:53.169" end="00:30:00.009" style="s2">networked yet but someday they will I</p>
+<p begin="00:29:57.129" end="00:30:01.809" style="s2">wrote about the the sensors we all use</p>
+<p begin="00:30:00.009" end="00:30:04.269" style="s2">when we&#39;re on the road and we go we want</p>
+<p begin="00:30:01.809" end="00:30:06.159" style="s2">to go across a bridge that automatically</p>
+<p begin="00:30:04.269" end="00:30:10.360" style="s2">collects art oh well that automatically</p>
+<p begin="00:30:06.159" end="00:30:12.490" style="s2">lissa digital breadcrumbs as every time</p>
+<p begin="00:30:10.360" end="00:30:16.110" style="s2">you swipe your credit card you&#39;re</p>
+<p begin="00:30:12.490" end="00:30:19.059" style="s2">leaving a trail and if somebody could</p>
+<p begin="00:30:16.110" end="00:30:22.450" style="s2">get all of those breadcrumbs together</p>
+<p begin="00:30:19.059" end="00:30:26.820" style="s2">they can have quite a great dossier on</p>
+<p begin="00:30:22.450" end="00:30:29.440" style="s2">your movements and your preferences but</p>
+<p begin="00:30:26.820" end="00:30:32.049" style="s2">nobody really cared it was you know a</p>
+<p begin="00:30:29.440" end="00:30:34.029" style="s2">couple of privacy scholars at</p>
+<p begin="00:30:32.049" end="00:30:37.179" style="s2">universities but for the most part the</p>
+<p begin="00:30:34.029" end="00:30:40.779" style="s2">public didn&#39;t care we and I include</p>
+<p begin="00:30:37.179" end="00:30:43.570" style="s2">myself in this we traded privacy for</p>
+<p begin="00:30:40.779" end="00:30:46.539" style="s2">convenience that Amazon knows what books</p>
+<p begin="00:30:43.570" end="00:30:48.340" style="s2">I&#39;ve looked at and what books I bought</p>
+<p begin="00:30:46.539" end="00:30:50.590" style="s2">well that that&#39;s good because it</p>
+<p begin="00:30:48.340" end="00:30:53.289" style="s2">recommends things to me that I might be</p>
+<p begin="00:30:50.590" end="00:30:54.789" style="s2">interested in you know I think you can</p>
+<p begin="00:30:53.289" end="00:30:57.009" style="s2">see kind of a theme here it&#39;s that</p>
+<p begin="00:30:54.789" end="00:30:59.500" style="s2">rising tide lifts all boats thing is</p>
+<p begin="00:30:57.009" end="00:31:02.130" style="s2">that a lot of these things that are very</p>
+<p begin="00:30:59.500" end="00:31:06.730" style="s2">useful to people can</p>
+<p begin="00:31:02.130" end="00:31:10.570" style="s2">subverted and well the rising tide lifts</p>
+<p begin="00:31:06.730" end="00:31:13.779" style="s2">the boats of the wealthiest enterprises</p>
+<p begin="00:31:10.570" end="00:31:16.779" style="s2">more than it does of individuals so now</p>
+<p begin="00:31:13.779" end="00:31:18.970" style="s2">we&#39;ve got you know so back in the days</p>
+<p begin="00:31:16.779" end="00:31:22.090" style="s2">of the well there was Usenet there was</p>
+<p begin="00:31:18.970" end="00:31:26.830" style="s2">iris IRC there was a well there were</p>
+<p begin="00:31:22.090" end="00:31:30.070" style="s2">BBS&#39;s all of these were smaller or</p>
+<p begin="00:31:26.830" end="00:31:32.440" style="s2">larger enterprises but they were nothing</p>
+<p begin="00:31:30.070" end="00:31:36.570" style="s2">like the semi monopolies we see today</p>
+<p begin="00:31:32.440" end="00:31:40.000" style="s2">you know you&#39;ve got Amazon Apple Google</p>
+<p begin="00:31:36.570" end="00:31:42.909" style="s2">Twitter and Facebook so many people</p>
+<p begin="00:31:40.000" end="00:31:45.159" style="s2">these days don&#39;t understand that those</p>
+<p begin="00:31:42.909" end="00:31:47.950" style="s2">were all invented because we had an</p>
+<p begin="00:31:45.159" end="00:31:50.710" style="s2">Internet that was designed to enable</p>
+<p begin="00:31:47.950" end="00:31:53.679" style="s2">people to innovate on it no matter who</p>
+<p begin="00:31:50.710" end="00:31:56.860" style="s2">you were Tim berners-lee didn&#39;t have to</p>
+<p begin="00:31:53.679" end="00:31:59.110" style="s2">rewire the internet he just needed to to</p>
+<p begin="00:31:56.860" end="00:32:02.110" style="s2">pass some code around to people and and</p>
+<p begin="00:31:59.110" end="00:32:04.630" style="s2">the the Google twins didn&#39;t have to ask</p>
+<p begin="00:32:02.110" end="00:32:09.520" style="s2">permission to create a new kind of</p>
+<p begin="00:32:04.630" end="00:32:11.890" style="s2">search engine that kind of open</p>
+<p begin="00:32:09.520" end="00:32:14.169" style="s2">innovation I think is tremendously</p>
+<p begin="00:32:11.890" end="00:32:17.190" style="s2">threatened by this enclosure by these</p>
+<p begin="00:32:14.169" end="00:32:20.470" style="s2">these giants that if you really want to</p>
+<p begin="00:32:17.190" end="00:32:23.380" style="s2">innovate these days you either have to</p>
+<p begin="00:32:20.470" end="00:32:25.840" style="s2">work for one of those guys or you&#39;ve got</p>
+<p begin="00:32:23.380" end="00:32:27.190" style="s2">to do something that&#39;s far away from far</p>
+<p begin="00:32:25.840" end="00:32:30.399" style="s2">enough away from their business that</p>
+<p begin="00:32:27.190" end="00:32:31.330" style="s2">they&#39;re not going to steal it and if</p>
+<p begin="00:32:30.399" end="00:32:33.880" style="s2">they&#39;re successful</p>
+<p begin="00:32:31.330" end="00:32:35.549" style="s2">you&#39;re gonna want them to acquire you so</p>
+<p begin="00:32:33.880" end="00:32:39.250" style="s2">we&#39;re living in a whole different</p>
+<p begin="00:32:35.549" end="00:32:42.100" style="s2">innovation ecosystem and now right now</p>
+<p begin="00:32:39.250" end="00:32:46.200" style="s2">at this moment so many people are forced</p>
+<p begin="00:32:42.100" end="00:32:48.700" style="s2">to be online because of the the Cova 19</p>
+<p begin="00:32:46.200" end="00:32:51.399" style="s2">quarantine were forced to have our</p>
+<p begin="00:32:48.700" end="00:32:53.860" style="s2">meetings online Oh people are</p>
+<p begin="00:32:51.399" end="00:32:56.289" style="s2">discovering things that that that you</p>
+<p begin="00:32:53.860" end="00:32:58.179" style="s2">and I knew a long time ago which is you</p>
+<p begin="00:32:56.289" end="00:33:00.490" style="s2">don&#39;t have to go to the office all the</p>
+<p begin="00:32:58.179" end="00:33:01.870" style="s2">time you can communicate online I do</p>
+<p begin="00:33:00.490" end="00:33:03.220" style="s2">think that there&#39;s a place for the</p>
+<p begin="00:33:01.870" end="00:33:05.320" style="s2">office and I think that the place where</p>
+<p begin="00:33:03.220" end="00:33:07.539" style="s2">the office is primarily social you can</p>
+<p begin="00:33:05.320" end="00:33:11.500" style="s2">get a lot of work done at home you know</p>
+<p begin="00:33:07.539" end="00:33:14.740" style="s2">if one in four people after this covet</p>
+<p begin="00:33:11.500" end="00:33:15.530" style="s2">is over stayed home one day out of four</p>
+<p begin="00:33:14.740" end="00:33:16.760" style="s2">think of all the</p>
+<p begin="00:33:15.530" end="00:33:18.380" style="s2">we wouldn&#39;t be putting into the</p>
+<p begin="00:33:16.760" end="00:33:20.600" style="s2">atmosphere think of all the hours you</p>
+<p begin="00:33:18.380" end="00:33:23.510" style="s2">wouldn&#39;t even be on the freeway</p>
+<p begin="00:33:20.600" end="00:33:25.940" style="s2">so um I don&#39;t know where I was going</p>
+<p begin="00:33:23.510" end="00:33:27.440" style="s2">with that let&#39;s move on we&#39;re talking</p>
+<p begin="00:33:25.940" end="00:33:29.150" style="s2">about the fact that the big guys would</p>
+<p begin="00:33:27.440" end="00:33:31.010" style="s2">control things in a way they never did</p>
+<p begin="00:33:29.150" end="00:33:34.550" style="s2">before though it is useful remember that</p>
+<p begin="00:33:31.010" end="00:33:37.100" style="s2">the late 80s and early 90s AOL was a</p>
+<p begin="00:33:34.550" end="00:33:39.230" style="s2">pretty damn dominant power and it had</p>
+<p begin="00:33:37.100" end="00:33:41.660" style="s2">its walled garden alternative to the</p>
+<p begin="00:33:39.230" end="00:33:43.430" style="s2">open Internet but in those days it was</p>
+<p begin="00:33:41.660" end="00:33:45.950" style="s2">still relatively small on the scale of</p>
+<p begin="00:33:43.430" end="00:33:47.360" style="s2">things that millions of users maybe even</p>
+<p begin="00:33:45.950" end="00:33:49.220" style="s2">tens of millions but it certainly didn&#39;t</p>
+<p begin="00:33:47.360" end="00:33:52.760" style="s2">have billions like the platform&#39;s have</p>
+<p begin="00:33:49.220" end="00:33:55.190" style="s2">today and it does seem from a social and</p>
+<p begin="00:33:52.760" end="00:33:57.530" style="s2">political perspective that we don&#39;t know</p>
+<p begin="00:33:55.190" end="00:33:59.900" style="s2">how to think about these platforms right</p>
+<p begin="00:33:57.530" end="00:34:02.360" style="s2">you know we have the current controversy</p>
+<p begin="00:33:59.900" end="00:34:05.180" style="s2">with the idiot and chief in his tweets</p>
+<p begin="00:34:02.360" end="00:34:05.930" style="s2">right and is Twitter a free speech</p>
+<p begin="00:34:05.180" end="00:34:08.120" style="s2">platform</p>
+<p begin="00:34:05.930" end="00:34:09.530" style="s2">no well constitutionally it&#39;s not it&#39;s a</p>
+<p begin="00:34:08.120" end="00:34:11.090" style="s2">private business they could be as</p>
+<p begin="00:34:09.530" end="00:34:12.950" style="s2">arbitrary as they want they could say no</p>
+<p begin="00:34:11.090" end="00:34:15.380" style="s2">goddamn Republicans if they wanted and</p>
+<p begin="00:34:12.950" end="00:34:17.990" style="s2">that&#39;s within their legal rights but</p>
+<p begin="00:34:15.380" end="00:34:20.210" style="s2">does a platform that&#39;s that ubiquitous</p>
+<p begin="00:34:17.990" end="00:34:23.780" style="s2">and in many ways become the public</p>
+<p begin="00:34:20.210" end="00:34:25.820" style="s2">square have some larger duty to allow</p>
+<p begin="00:34:23.780" end="00:34:27.950" style="s2">free speech I don&#39;t know it&#39;s a really</p>
+<p begin="00:34:25.820" end="00:34:31.130" style="s2">interesting and difficult question that</p>
+<p begin="00:34:27.950" end="00:34:32.690" style="s2">the scale I think brings forth that we</p>
+<p begin="00:34:31.130" end="00:34:35.240" style="s2">really have not dealt with it as a</p>
+<p begin="00:34:32.690" end="00:34:36.800" style="s2">society in the United States least of</p>
+<p begin="00:34:35.240" end="00:34:39.290" style="s2">all you know Europe has made some</p>
+<p begin="00:34:36.800" end="00:34:41.300" style="s2">attempts at least to bring these</p>
+<p begin="00:34:39.290" end="00:34:42.500" style="s2">platforms under governmental control</p>
+<p begin="00:34:41.300" end="00:34:44.360" style="s2">much or they&#39;ve moved in the right</p>
+<p begin="00:34:42.500" end="00:34:46.429" style="s2">direction in fact my view they&#39;ve moved</p>
+<p begin="00:34:44.360" end="00:34:48.169" style="s2">in partially the wrong direction parsley</p>
+<p begin="00:34:46.429" end="00:34:50.690" style="s2">right about privacy partially wrong</p>
+<p begin="00:34:48.169" end="00:34:52.610" style="s2">about censorship but in the United</p>
+<p begin="00:34:50.690" end="00:34:54.710" style="s2">States the platform&#39;s make the rules</p>
+<p begin="00:34:52.610" end="00:34:57.110" style="s2">period and for things that are that</p>
+<p begin="00:34:54.710" end="00:34:59.780" style="s2">ubiquitous that does not strike me as</p>
+<p begin="00:34:57.110" end="00:35:01.910" style="s2">the right model do you have any thoughts</p>
+<p begin="00:34:59.780" end="00:35:05.750" style="s2">about that about how we as citizens</p>
+<p begin="00:35:01.910" end="00:35:07.850" style="s2">should think about these platforms well</p>
+<p begin="00:35:05.750" end="00:35:10.730" style="s2">you know I mentioned the public sphere a</p>
+<p begin="00:35:07.850" end="00:35:14.150" style="s2">while back when I was 1992 I was writing</p>
+<p begin="00:35:10.730" end="00:35:15.860" style="s2">the virtual community I thought well</p>
+<p begin="00:35:14.150" end="00:35:19.250" style="s2">what does this have to do with democracy</p>
+<p begin="00:35:15.860" end="00:35:22.250" style="s2">and I discovered this this political</p>
+<p begin="00:35:19.250" end="00:35:24.980" style="s2">philosophy German political philosopher</p>
+<p begin="00:35:22.250" end="00:35:27.260" style="s2">by name of of habermas wrote these books</p>
+<p begin="00:35:24.980" end="00:35:29.400" style="s2">they&#39;re they&#39;re practically unreadable</p>
+<p begin="00:35:27.260" end="00:35:32.910" style="s2">and in my opinion but</p>
+<p begin="00:35:29.400" end="00:35:35.550" style="s2">he had this very potent idea which he</p>
+<p begin="00:35:32.910" end="00:35:38.820" style="s2">traced out historically which is that</p>
+<p begin="00:35:35.550" end="00:35:43.920" style="s2">democracy you know rule rule of the</p>
+<p begin="00:35:38.820" end="00:35:45.900" style="s2">people rather than by a sovereign was</p>
+<p begin="00:35:43.920" end="00:35:48.690" style="s2">not just about voting for your leaders</p>
+<p begin="00:35:45.900" end="00:35:52.230" style="s2">it was about having a population that</p>
+<p begin="00:35:48.690" end="00:35:55.140" style="s2">was a free enough to talk with each</p>
+<p begin="00:35:52.230" end="00:35:57.330" style="s2">other and be informed enough to have</p>
+<p begin="00:35:55.140" end="00:35:59.790" style="s2">some idea what they&#39;re talking about to</p>
+<p begin="00:35:57.330" end="00:36:02.160" style="s2">discussing issues of the day and to</p>
+<p begin="00:35:59.790" end="00:36:04.830" style="s2">argue about the issues of the day and</p>
+<p begin="00:36:02.160" end="00:36:08.870" style="s2">you know when the when the American</p>
+<p begin="00:36:04.830" end="00:36:12.000" style="s2">Revolution happened there were anonymous</p>
+<p begin="00:36:08.870" end="00:36:13.680" style="s2">op-eds in the newspapers that we now</p>
+<p begin="00:36:12.000" end="00:36:15.540" style="s2">call the Federalist Papers that were</p>
+<p begin="00:36:13.680" end="00:36:18.930" style="s2">arguing about things there were the</p>
+<p begin="00:36:15.540" end="00:36:22.980" style="s2">Committees of Correspondence so the the</p>
+<p begin="00:36:18.930" end="00:36:26.810" style="s2">idea that the entire population supports</p>
+<p begin="00:36:22.980" end="00:36:30.720" style="s2">the democracy that you know</p>
+<p begin="00:36:26.810" end="00:36:32.700" style="s2">representation and voting are the most</p>
+<p begin="00:36:30.720" end="00:36:34.530" style="s2">visible parts of it and it&#39;s very</p>
+<p begin="00:36:32.700" end="00:36:36.900" style="s2">important and Alber Maas had two fears</p>
+<p begin="00:36:34.530" end="00:36:40.110" style="s2">one of them was that the the nascent</p>
+<p begin="00:36:36.900" end="00:36:42.660" style="s2">science of public relations would enable</p>
+<p begin="00:36:40.110" end="00:36:45.120" style="s2">the wealthy and the powerful to to skew</p>
+<p begin="00:36:42.660" end="00:36:47.550" style="s2">the the public sphere to convince people</p>
+<p begin="00:36:45.120" end="00:36:49.140" style="s2">to see things their way whether they</p>
+<p begin="00:36:47.550" end="00:36:52.080" style="s2">they knew that they were being</p>
+<p begin="00:36:49.140" end="00:36:55.430" style="s2">manipulated or not and his other fear</p>
+<p begin="00:36:52.080" end="00:36:59.550" style="s2">was that that that journalism would be</p>
+<p begin="00:36:55.430" end="00:37:03.510" style="s2">overtaken by the profit motive and that</p>
+<p begin="00:36:59.550" end="00:37:05.960" style="s2">the role of journalists as informing the</p>
+<p begin="00:37:03.510" end="00:37:09.360" style="s2">people of a free society would again be</p>
+<p begin="00:37:05.960" end="00:37:12.470" style="s2">subverted by those who had wealth and</p>
+<p begin="00:37:09.360" end="00:37:15.630" style="s2">power well what he didn&#39;t foresee was</p>
+<p begin="00:37:12.470" end="00:37:17.940" style="s2">computational propaganda on the scale</p>
+<p begin="00:37:15.630" end="00:37:21.630" style="s2">that we&#39;re seeing and also the the scale</p>
+<p begin="00:37:17.940" end="00:37:26.370" style="s2">of things so let&#39;s say that that Twitter</p>
+<p begin="00:37:21.630" end="00:37:29.130" style="s2">and Facebook wanted to eliminate the</p>
+<p begin="00:37:26.370" end="00:37:32.730" style="s2">misinformation that was being broadcast</p>
+<p begin="00:37:29.130" end="00:37:35.220" style="s2">and you know there&#39;s there&#39;s a big gray</p>
+<p begin="00:37:32.730" end="00:37:37.050" style="s2">Arian political discourse you know ma</p>
+<p begin="00:37:35.220" end="00:37:40.230" style="s2">you may say something that I think is</p>
+<p begin="00:37:37.050" end="00:37:42.990" style="s2">totally bogus and we can argue about it</p>
+<p begin="00:37:40.230" end="00:37:45.810" style="s2">but you know something like if</p>
+<p begin="00:37:42.990" end="00:37:49.640" style="s2">Swallow disinfectant that make Ovid</p>
+<p begin="00:37:45.810" end="00:37:52.619" style="s2">that&#39;s literally life-threatening</p>
+<p begin="00:37:49.640" end="00:37:55.560" style="s2">misinformation if these platforms with</p>
+<p begin="00:37:52.619" end="00:37:58.890" style="s2">billions of users wanted to police that</p>
+<p begin="00:37:55.560" end="00:38:01.850" style="s2">they would be unable to so we&#39;re we&#39;re</p>
+<p begin="00:37:58.890" end="00:38:04.860" style="s2">kind of in a bad position here in that</p>
+<p begin="00:38:01.850" end="00:38:07.050" style="s2">you know we&#39;re certainly seeing with</p>
+<p begin="00:38:04.860" end="00:38:11.130" style="s2">with the in the case of Facebook that</p>
+<p begin="00:38:07.050" end="00:38:12.840" style="s2">they are reluctant to act as a an</p>
+<p begin="00:38:11.130" end="00:38:16.470" style="s2">arbiter of truth but you know even if</p>
+<p begin="00:38:12.840" end="00:38:19.130" style="s2">they decided to do so in the arms race</p>
+<p begin="00:38:16.470" end="00:38:22.230" style="s2">between manipulation of information</p>
+<p begin="00:38:19.130" end="00:38:25.770" style="s2">disinformation misinformation what I</p>
+<p begin="00:38:22.230" end="00:38:27.360" style="s2">call disinfo tainment and the ability of</p>
+<p begin="00:38:25.770" end="00:38:30.570" style="s2">individuals to find their way through</p>
+<p begin="00:38:27.360" end="00:38:32.670" style="s2">that I think that the democracy is</p>
+<p begin="00:38:30.570" end="00:38:37.680" style="s2">really losing that arms race you know I</p>
+<p begin="00:38:32.670" end="00:38:39.900" style="s2">wrote a book in 2012 about the the major</p>
+<p begin="00:38:37.680" end="00:38:42.690" style="s2">social media literacies that people</p>
+<p begin="00:38:39.900" end="00:38:45.570" style="s2">needed to have and I chose crap</p>
+<p begin="00:38:42.690" end="00:38:47.400" style="s2">detection as the first one well no I</p>
+<p begin="00:38:45.570" end="00:38:50.160" style="s2">chose attention is the first one in crap</p>
+<p begin="00:38:47.400" end="00:38:52.350" style="s2">detection is the second one the the idea</p>
+<p begin="00:38:50.160" end="00:38:55.109" style="s2">was that it well if more people could</p>
+<p begin="00:38:52.350" end="00:38:58.320" style="s2">learn to distinguish the good info from</p>
+<p begin="00:38:55.109" end="00:38:59.609" style="s2">the bad info then that would not only be</p>
+<p begin="00:38:58.320" end="00:39:02.010" style="s2">good for them it would be good for the</p>
+<p begin="00:38:59.609" end="00:39:04.230" style="s2">public sphere you know this happened a</p>
+<p begin="00:39:02.010" end="00:39:08.340" style="s2">long time ago before Google but my</p>
+<p begin="00:39:04.230" end="00:39:11.130" style="s2">daughter who&#39;s now grown when she was in</p>
+<p begin="00:39:08.340" end="00:39:13.290" style="s2">middle school she started using Infoseek</p>
+<p begin="00:39:11.130" end="00:39:15.600" style="s2">and other search engines to do her</p>
+<p begin="00:39:13.290" end="00:39:16.770" style="s2">homework and I sat down with her and I</p>
+<p begin="00:39:15.600" end="00:39:17.520" style="s2">said look you get a book from the</p>
+<p begin="00:39:16.770" end="00:39:21.710" style="s2">library</p>
+<p begin="00:39:17.520" end="00:39:24.240" style="s2">there was a publisher and editor a</p>
+<p begin="00:39:21.710" end="00:39:25.320" style="s2">librarian the teacher who assigned the</p>
+<p begin="00:39:24.240" end="00:39:27.359" style="s2">book all of them were kind of</p>
+<p begin="00:39:25.320" end="00:39:29.670" style="s2">gatekeepers that that will guarantee to</p>
+<p begin="00:39:27.359" end="00:39:32.490" style="s2">you that the information in that that</p>
+<p begin="00:39:29.670" end="00:39:35.010" style="s2">book is more or less accurate you can</p>
+<p begin="00:39:32.490" end="00:39:37.530" style="s2">put a query into a search engine and get</p>
+<p begin="00:39:35.010" end="00:39:39.750" style="s2">a million answers in a couple of seconds</p>
+<p begin="00:39:37.530" end="00:39:42.359" style="s2">and it&#39;s now up to you to determine</p>
+<p begin="00:39:39.750" end="00:39:45.720" style="s2">what&#39;s real info and what&#39;s bad info I</p>
+<p begin="00:39:42.359" end="00:39:50.220" style="s2">use the example of site called Martin</p>
+<p begin="00:39:45.720" end="00:39:53.130" style="s2">Luther King jr. org that is actually run</p>
+<p begin="00:39:50.220" end="00:39:55.950" style="s2">by by Nazis it looks like it&#39;s a</p>
+<p begin="00:39:53.130" end="00:39:56.730" style="s2">biographical site about the civil rights</p>
+<p begin="00:39:55.950" end="00:39:58.110" style="s2">leader but</p>
+<p begin="00:39:56.730" end="00:40:02.700" style="s2">you look at it a little bit deeper</p>
+<p begin="00:39:58.110" end="00:40:04.200" style="s2">that&#39;s kind of a dark story about him so</p>
+<p begin="00:40:02.700" end="00:40:07.230" style="s2">I showed her that you could use who is</p>
+<p begin="00:40:04.200" end="00:40:10.050" style="s2">and find out who&#39;s behind this was it a</p>
+<p begin="00:40:07.230" end="00:40:12.420" style="s2">guy by name of was it Don black</p>
+<p begin="00:40:10.050" end="00:40:15.360" style="s2">something like that and if you look him</p>
+<p begin="00:40:12.420" end="00:40:18.390" style="s2">up you&#39;ll find out that he was a Nazi so</p>
+<p begin="00:40:15.360" end="00:40:20.900" style="s2">you know what that was fairly easy to</p>
+<p begin="00:40:18.390" end="00:40:23.580" style="s2">find out but nowadays you&#39;ve got</p>
+<p begin="00:40:20.900" end="00:40:26.220" style="s2">astroturf sites that look exactly like</p>
+<p begin="00:40:23.580" end="00:40:28.200" style="s2">they&#39;re an environmentalist site but</p>
+<p begin="00:40:26.220" end="00:40:31.290" style="s2">they&#39;re actually run by a chemical</p>
+<p begin="00:40:28.200" end="00:40:33.650" style="s2">company there is so much sophisticated</p>
+<p begin="00:40:31.290" end="00:40:37.140" style="s2">this information out there that the</p>
+<p begin="00:40:33.650" end="00:40:40.350" style="s2">education to enable people to sift</p>
+<p begin="00:40:37.140" end="00:40:42.660" style="s2">through it in it&#39;s much more important</p>
+<p begin="00:40:40.350" end="00:40:45.680" style="s2">and as far as I can tell</p>
+<p begin="00:40:42.660" end="00:40:48.270" style="s2">completely lacking in in educational</p>
+<p begin="00:40:45.680" end="00:40:49.980" style="s2">institutions yeah we&#39;ll get to that</p>
+<p begin="00:40:48.270" end="00:40:52.770" style="s2">we&#39;ll get we&#39;ll get to that soon when we</p>
+<p begin="00:40:49.980" end="00:40:54.450" style="s2">talk about net smart okay okay but those</p>
+<p begin="00:40:52.770" end="00:40:55.800" style="s2">are very very important things in the</p>
+<p begin="00:40:54.450" end="00:40:57.810" style="s2">interest of time we talk about some of</p>
+<p begin="00:40:55.800" end="00:40:59.820" style="s2">the negatives I also I always like to do</p>
+<p begin="00:40:57.810" end="00:41:01.710" style="s2">this because so much of our discourse</p>
+<p begin="00:40:59.820" end="00:41:04.530" style="s2">about the Nets today are about the</p>
+<p begin="00:41:01.710" end="00:41:06.090" style="s2">negatives on the net but there&#39;s a hell</p>
+<p begin="00:41:04.530" end="00:41:08.490" style="s2">of a lot of positives right otherwise</p>
+<p begin="00:41:06.090" end="00:41:10.380" style="s2">why would people be doing it and you</p>
+<p begin="00:41:08.490" end="00:41:12.540" style="s2">wrote quite a bit you know the end of</p>
+<p begin="00:41:10.380" end="00:41:14.880" style="s2">virtual communities you talk about the</p>
+<p begin="00:41:12.540" end="00:41:16.950" style="s2">formation of the e FF I helped out on</p>
+<p begin="00:41:14.880" end="00:41:19.230" style="s2">that my own little way around the edges</p>
+<p begin="00:41:16.950" end="00:41:22.320" style="s2">and then you talk to considerably more</p>
+<p begin="00:41:19.230" end="00:41:24.870" style="s2">length in your book smart mobs about how</p>
+<p begin="00:41:22.320" end="00:41:27.540" style="s2">people can use these online tools and</p>
+<p begin="00:41:24.870" end="00:41:29.130" style="s2">these platforms to do good things maybe</p>
+<p begin="00:41:27.540" end="00:41:31.170" style="s2">you could talk a little bit about your</p>
+<p begin="00:41:29.130" end="00:41:33.900" style="s2">perspective on those two things for the</p>
+<p begin="00:41:31.170" end="00:41:37.320" style="s2">e FF story and in virtual communities</p>
+<p begin="00:41:33.900" end="00:41:40.950" style="s2">and then transition into smart mobs well</p>
+<p begin="00:41:37.320" end="00:41:42.780" style="s2">you know one of the things that got me</p>
+<p begin="00:41:40.950" end="00:41:45.930" style="s2">thinking about community was that there</p>
+<p begin="00:41:42.780" end="00:41:49.290" style="s2">was a parenting conference on the well</p>
+<p begin="00:41:45.930" end="00:41:51.150" style="s2">and and although you know the arguments</p>
+<p begin="00:41:49.290" end="00:41:52.740" style="s2">got pretty hot in a lot of places in the</p>
+<p begin="00:41:51.150" end="00:41:56.250" style="s2">parenting conference we were talking</p>
+<p begin="00:41:52.740" end="00:41:58.200" style="s2">about our children and and although we</p>
+<p begin="00:41:56.250" end="00:42:01.110" style="s2">might have argued about things elsewhere</p>
+<p begin="00:41:58.200" end="00:42:03.900" style="s2">it was really a very convivial place</p>
+<p begin="00:42:01.110" end="00:42:06.960" style="s2">there was a guy by name of a Phil cat</p>
+<p begin="00:42:03.900" end="00:42:09.120" style="s2">was his online name who organized a</p>
+<p begin="00:42:06.960" end="00:42:10.340" style="s2">baseball game after a while so that all</p>
+<p begin="00:42:09.120" end="00:42:12.770" style="s2">of us parents</p>
+<p begin="00:42:10.340" end="00:42:15.740" style="s2">get our kids out and and meet each other</p>
+<p begin="00:42:12.770" end="00:42:17.420" style="s2">face-to-face and oh like you know not</p>
+<p begin="00:42:15.740" end="00:42:19.190" style="s2">too long after he started organizing</p>
+<p begin="00:42:17.420" end="00:42:21.770" style="s2">those baseball games a fill came online</p>
+<p begin="00:42:19.190" end="00:42:24.040" style="s2">and and disclosed that his 15 year old</p>
+<p begin="00:42:21.770" end="00:42:26.690" style="s2">son had been diagnosed with leukemia and</p>
+<p begin="00:42:24.040" end="00:42:30.320" style="s2">overnight night literally overnight a</p>
+<p begin="00:42:26.690" end="00:42:33.260" style="s2">support group materialized and you know</p>
+<p begin="00:42:30.320" end="00:42:36.200" style="s2">there were we did pass a hat and and</p>
+<p begin="00:42:33.260" end="00:42:39.620" style="s2">raised about $15,000 for medical</p>
+<p begin="00:42:36.200" end="00:42:42.290" style="s2">expenses but there was a nurse on there</p>
+<p begin="00:42:39.620" end="00:42:44.810" style="s2">who could could give him answers at at</p>
+<p begin="00:42:42.290" end="00:42:48.470" style="s2">11:00 at night when he wasn&#39;t going to</p>
+<p begin="00:42:44.810" end="00:42:51.380" style="s2">call his his doctor and you know his son</p>
+<p begin="00:42:48.470" end="00:42:54.350" style="s2">sadly did die and like the last two rows</p>
+<p begin="00:42:51.380" end="00:42:57.620" style="s2">of last two pews in the in the church</p>
+<p begin="00:42:54.350" end="00:43:01.030" style="s2">for his services were were people who</p>
+<p begin="00:42:57.620" end="00:43:03.920" style="s2">had known his parents exclusively online</p>
+<p begin="00:43:01.030" end="00:43:06.830" style="s2">the reason one reason I tell the story</p>
+<p begin="00:43:03.920" end="00:43:10.780" style="s2">is that ten years ago I was diagnosed</p>
+<p begin="00:43:06.830" end="00:43:13.370" style="s2">with cancer and I went to to daily</p>
+<p begin="00:43:10.780" end="00:43:15.590" style="s2">radiation treatments and I needed to get</p>
+<p begin="00:43:13.370" end="00:43:19.550" style="s2">people to drive me back and forth to</p>
+<p begin="00:43:15.590" end="00:43:21.740" style="s2">these radiation treatments and a lot of</p>
+<p begin="00:43:19.550" end="00:43:24.400" style="s2">people that I had known on the well</p>
+<p begin="00:43:21.740" end="00:43:27.050" style="s2">decades before just signed up</p>
+<p begin="00:43:24.400" end="00:43:29.360" style="s2">spontaneously to help me and by golly</p>
+<p begin="00:43:27.050" end="00:43:31.880" style="s2">one of the people who drove me was was</p>
+<p begin="00:43:29.360" end="00:43:33.860" style="s2">Phil Katz and you know I think I</p>
+<p begin="00:43:31.880" end="00:43:35.330" style="s2">mentioned before that if you have a rare</p>
+<p begin="00:43:33.860" end="00:43:38.210" style="s2">disease you know if you have a disease</p>
+<p begin="00:43:35.330" end="00:43:41.210" style="s2">that only one in a million people have</p>
+<p begin="00:43:38.210" end="00:43:43.250" style="s2">well there are 2,000 others on the</p>
+<p begin="00:43:41.210" end="00:43:44.720" style="s2">Internet you can connect with them if</p>
+<p begin="00:43:43.250" end="00:43:47.060" style="s2">you have a disease or you&#39;re a caregiver</p>
+<p begin="00:43:44.720" end="00:43:49.010" style="s2">for disease you know very well what I&#39;m</p>
+<p begin="00:43:47.060" end="00:43:51.800" style="s2">talking about that there is support you</p>
+<p begin="00:43:49.010" end="00:43:52.910" style="s2">can find online there&#39;s support you can</p>
+<p begin="00:43:51.800" end="00:43:54.800" style="s2">find in the middle of the night when</p>
+<p begin="00:43:52.910" end="00:43:55.880" style="s2">nobody else is going to going to talk to</p>
+<p begin="00:43:54.800" end="00:43:56.420" style="s2">you and these people are going to help</p>
+<p begin="00:43:55.880" end="00:43:58.360" style="s2">you out</p>
+<p begin="00:43:56.420" end="00:44:01.520" style="s2">in the real world and many many</p>
+<p begin="00:43:58.360" end="00:44:04.160" style="s2">instances then of course you know I</p>
+<p begin="00:44:01.520" end="00:44:05.810" style="s2">started writing I started researching</p>
+<p begin="00:44:04.160" end="00:44:08.360" style="s2">smart mouths because I was I was</p>
+<p begin="00:44:05.810" end="00:44:10.310" style="s2">traveling a fair amount by that time and</p>
+<p begin="00:44:08.360" end="00:44:12.850" style="s2">I noticed that people in Tokyo were</p>
+<p begin="00:44:10.310" end="00:44:15.140" style="s2">we&#39;re looking at their their telephones</p>
+<p begin="00:44:12.850" end="00:44:17.060" style="s2">why would you look at your telephone and</p>
+<p begin="00:44:15.140" end="00:44:18.380" style="s2">then a couple weeks later is in Helsinki</p>
+<p begin="00:44:17.060" end="00:44:23.120" style="s2">and people were looking at their</p>
+<p begin="00:44:18.380" end="00:44:24.200" style="s2">telephones in 2000 there was people in</p>
+<p begin="00:44:23.120" end="00:44:27.260" style="s2">the US were not text</p>
+<p begin="00:44:24.200" end="00:44:31.609" style="s2">ting that really took off with the</p>
+<p begin="00:44:27.260" end="00:44:33.200" style="s2">iPhone in 2007 so you know that was you</p>
+<p begin="00:44:31.609" end="00:44:35.450" style="s2">know what futurists call a signal</p>
+<p begin="00:44:33.200" end="00:44:38.089" style="s2">something&#39;s going on here I wasn&#39;t sure</p>
+<p begin="00:44:35.450" end="00:44:40.099" style="s2">at all what it was but then I found out</p>
+<p begin="00:44:38.089" end="00:44:41.960" style="s2">about there was there are a couple of</p>
+<p begin="00:44:40.099" end="00:44:44.119" style="s2">things that happened one was called the</p>
+<p begin="00:44:41.960" end="00:44:46.130" style="s2">Battle of Seattle where there was a</p>
+<p begin="00:44:44.119" end="00:44:48.650" style="s2">World Trade Organization had a meeting</p>
+<p begin="00:44:46.130" end="00:44:50.630" style="s2">there and people were opposed to the</p>
+<p begin="00:44:48.650" end="00:44:54.140" style="s2">World Trade Organization really for the</p>
+<p begin="00:44:50.630" end="00:44:56.440" style="s2">first time used laptops and the internet</p>
+<p begin="00:44:54.140" end="00:44:59.390" style="s2">and mobile phones to coordinate their</p>
+<p begin="00:44:56.440" end="00:45:01.250" style="s2">actions that may not seem like a big</p>
+<p begin="00:44:59.390" end="00:45:03.680" style="s2">deal today but that was a big signal</p>
+<p begin="00:45:01.250" end="00:45:06.560" style="s2">back then I remember that that was huge</p>
+<p begin="00:45:03.680" end="00:45:08.420" style="s2">that was huge yeah yeah and it was it</p>
+<p begin="00:45:06.560" end="00:45:12.020" style="s2">seemed like that was a watershed of some</p>
+<p begin="00:45:08.420" end="00:45:15.260" style="s2">kind in terms of political power that</p>
+<p begin="00:45:12.020" end="00:45:17.869" style="s2">the state and established central powers</p>
+<p begin="00:45:15.260" end="00:45:20.599" style="s2">they had the radio telephones in their</p>
+<p begin="00:45:17.869" end="00:45:23.570" style="s2">cars they had the ability to coordinate</p>
+<p begin="00:45:20.599" end="00:45:25.490" style="s2">with each other suddenly citizens could</p>
+<p begin="00:45:23.570" end="00:45:27.230" style="s2">do that and then in the Philippines</p>
+<p begin="00:45:25.490" end="00:45:29.420" style="s2">there was a Joseph Estrada was the</p>
+<p begin="00:45:27.230" end="00:45:32.240" style="s2">president of the Philippines he was</p>
+<p begin="00:45:29.420" end="00:45:37.010" style="s2">accused of corruption there was a big</p>
+<p begin="00:45:32.240" end="00:45:40.250" style="s2">trial in Congress there and and and when</p>
+<p begin="00:45:37.010" end="00:45:43.730" style="s2">a lot of his political allies tried to</p>
+<p begin="00:45:40.250" end="00:45:46.520" style="s2">shut that down people in the Philippines</p>
+<p begin="00:45:43.730" end="00:45:48.670" style="s2">sent out text messages saying uh show up</p>
+<p begin="00:45:46.520" end="00:45:50.960" style="s2">in the main square where black and</p>
+<p begin="00:45:48.670" end="00:45:53.329" style="s2">within 15 minutes</p>
+<p begin="00:45:50.960" end="00:45:55.220" style="s2">millions of people started showing up in</p>
+<p begin="00:45:53.329" end="00:45:57.319" style="s2">the main square there and of course the</p>
+<p begin="00:45:55.220" end="00:46:00.740" style="s2">church in the military had a lot to do</p>
+<p begin="00:45:57.319" end="00:46:02.780" style="s2">with it but the Estrada regime fell and</p>
+<p begin="00:46:00.740" end="00:46:06.530" style="s2">that was really the first time that</p>
+<p begin="00:46:02.780" end="00:46:08.900" style="s2">people took collective action within</p>
+<p begin="00:46:06.530" end="00:46:11.540" style="s2">minutes people who didn&#39;t know each</p>
+<p begin="00:46:08.900" end="00:46:13.940" style="s2">other who really weren&#39;t in the same</p>
+<p begin="00:46:11.540" end="00:46:16.280" style="s2">political party were able to use their</p>
+<p begin="00:46:13.940" end="00:46:18.440" style="s2">telephones to coordinate collective</p>
+<p begin="00:46:16.280" end="00:46:21.260" style="s2">action in the in a physical world and</p>
+<p begin="00:46:18.440" end="00:46:23.270" style="s2">that to me was the final signal that</p>
+<p begin="00:46:21.260" end="00:46:23.660" style="s2">this was something really worth looking</p>
+<p begin="00:46:23.270" end="00:46:27.079" style="s2">into</p>
+<p begin="00:46:23.660" end="00:46:29.180" style="s2">and you know as a as a writer I always</p>
+<p begin="00:46:27.079" end="00:46:31.430" style="s2">try to do what any good journalist does</p>
+<p begin="00:46:29.180" end="00:46:33.470" style="s2">which is go find some experts and see if</p>
+<p begin="00:46:31.430" end="00:46:35.690" style="s2">they know what&#39;s going on you know when</p>
+<p begin="00:46:33.470" end="00:46:38.450" style="s2">I wrote the virtual community I found it</p>
+<p begin="00:46:35.690" end="00:46:41.420" style="s2">I didn&#39;t I couldn&#39;t find any</p>
+<p begin="00:46:38.450" end="00:46:43.730" style="s2">professors who would talk about this but</p>
+<p begin="00:46:41.420" end="00:46:46.010" style="s2">I found a graduate student at UCLA in</p>
+<p begin="00:46:43.730" end="00:46:48.500" style="s2">sociology by the name of Mark Smith and</p>
+<p begin="00:46:46.010" end="00:46:51.740" style="s2">I asked him why would people give away</p>
+<p begin="00:46:48.500" end="00:46:54.200" style="s2">information to strangers online and he</p>
+<p begin="00:46:51.740" end="00:46:57.380" style="s2">said knowledge capital social capital</p>
+<p begin="00:46:54.200" end="00:47:00.349" style="s2">and communion which I think is still</p>
+<p begin="00:46:57.380" end="00:47:04.940" style="s2">true and important so I turned to Mark</p>
+<p begin="00:47:00.349" end="00:47:07.670" style="s2">Smith again around 2000 2001 and he said</p>
+<p begin="00:47:04.940" end="00:47:09.380" style="s2">it sounds like the fact that people are</p>
+<p begin="00:47:07.670" end="00:47:11.960" style="s2">carrying phones and that they can</p>
+<p begin="00:47:09.380" end="00:47:14.780" style="s2">connect to the internet has lowered the</p>
+<p begin="00:47:11.960" end="00:47:17.240" style="s2">barriers for collective action and and</p>
+<p begin="00:47:14.780" end="00:47:21.470" style="s2">you know we saw remember that that book</p>
+<p begin="00:47:17.240" end="00:47:24.530" style="s2">smart mobs was was published in 2002</p>
+<p begin="00:47:21.470" end="00:47:26.569" style="s2">Arab Spring happened in 2011 so much</p>
+<p begin="00:47:24.530" end="00:47:28.640" style="s2">later that most journalists had</p>
+<p begin="00:47:26.569" end="00:47:31.220" style="s2">forgotten about that but you know the</p>
+<p begin="00:47:28.640" end="00:47:34.369" style="s2">Arab Spring was all about Twitter and</p>
+<p begin="00:47:31.220" end="00:47:37.040" style="s2">and Facebook the Egyptian revolution</p>
+<p begin="00:47:34.369" end="00:47:39.470" style="s2">started with a Facebook page and of</p>
+<p begin="00:47:37.040" end="00:47:42.190" style="s2">course that the Egyptian revolution was</p>
+<p begin="00:47:39.470" end="00:47:46.400" style="s2">hijacked by the military and you know</p>
+<p begin="00:47:42.190" end="00:47:48.680" style="s2">revolutions quite often are hijacked but</p>
+<p begin="00:47:46.400" end="00:47:50.690" style="s2">the fact that they were started</p>
+<p begin="00:47:48.680" end="00:47:54.050" style="s2">spontaneously but people using social</p>
+<p begin="00:47:50.690" end="00:47:57.589" style="s2">media was a a watershed and in fact um</p>
+<p begin="00:47:54.050" end="00:48:00.410" style="s2">for an edited volume for MIT press I</p>
+<p begin="00:47:57.589" end="00:48:03.319" style="s2">spent some time just collecting</p>
+<p begin="00:48:00.410" end="00:48:05.720" style="s2">instances of people using mobile phones</p>
+<p begin="00:48:03.319" end="00:48:08.680" style="s2">there weren&#39;t quite really smartphones</p>
+<p begin="00:48:05.720" end="00:48:10.730" style="s2">yeah and the Internet to coordinate</p>
+<p begin="00:48:08.680" end="00:48:13.369" style="s2">collective action all over the world</p>
+<p begin="00:48:10.730" end="00:48:15.980" style="s2">including the People&#39;s Republic of China</p>
+<p begin="00:48:13.369" end="00:48:19.609" style="s2">and there were hundreds and hundreds of</p>
+<p begin="00:48:15.980" end="00:48:23.000" style="s2">incidents and then uh again a disaster</p>
+<p begin="00:48:19.609" end="00:48:25.640" style="s2">relief after the tsunami in Asia really</p>
+<p begin="00:48:23.000" end="00:48:28.970" style="s2">again literally within minutes the Asian</p>
+<p begin="00:48:25.640" end="00:48:31.940" style="s2">to South Asian tsunami blog was set up</p>
+<p begin="00:48:28.970" end="00:48:33.470" style="s2">that helped coordinate people&#39;s actions</p>
+<p begin="00:48:31.940" end="00:48:37.369" style="s2">and remember one instance in which</p>
+<p begin="00:48:33.470" end="00:48:38.839" style="s2">someone said I&#39;ve got 50,000 nails that</p>
+<p begin="00:48:37.369" end="00:48:42.260" style="s2">I can contribute to people who are</p>
+<p begin="00:48:38.839" end="00:48:44.569" style="s2">building temporary housing in Indonesia</p>
+<p begin="00:48:42.260" end="00:48:46.970" style="s2">I can get them to the dock if somebody</p>
+<p begin="00:48:44.569" end="00:48:49.849" style="s2">can get them over there it&#39;s called you</p>
+<p begin="00:48:46.970" end="00:48:51.530" style="s2">know emergent response happens in all</p>
+<p begin="00:48:49.849" end="00:48:54.410" style="s2">disasters before the</p>
+<p begin="00:48:51.530" end="00:48:55.700" style="s2">official first responders get there you</p>
+<p begin="00:48:54.410" end="00:48:57.920" style="s2">know it&#39;s the people in the neighborhood</p>
+<p begin="00:48:55.700" end="00:48:59.750" style="s2">who dig you out now we&#39;re seeing this</p>
+<p begin="00:48:57.920" end="00:49:02.270" style="s2">emergent collective response happening</p>
+<p begin="00:48:59.750" end="00:49:04.640" style="s2">worldwide and it&#39;s happening there was</p>
+<p begin="00:49:02.270" end="00:49:06.860" style="s2">the people finder wiki after Hurricane</p>
+<p begin="00:49:04.640" end="00:49:08.990" style="s2">Katrina so many people were scattered</p>
+<p begin="00:49:06.860" end="00:49:10.850" style="s2">how were they gonna find their families</p>
+<p begin="00:49:08.990" end="00:49:13.820" style="s2">they were using Craigslist they were</p>
+<p begin="00:49:10.850" end="00:49:15.530" style="s2">using Usenet so the Katrina people</p>
+<p begin="00:49:13.820" end="00:49:18.080" style="s2">finder I remember they put this together</p>
+<p begin="00:49:15.530" end="00:49:19.610" style="s2">very quickly and they scraped all of</p>
+<p begin="00:49:18.080" end="00:49:21.200" style="s2">these other sources so that people would</p>
+<p begin="00:49:19.610" end="00:49:24.080" style="s2">have a single place to find the</p>
+<p begin="00:49:21.200" end="00:49:25.880" style="s2">relatives and I remember talking with</p>
+<p begin="00:49:24.080" end="00:49:27.530" style="s2">people who set it up who said that</p>
+<p begin="00:49:25.880" end="00:49:30.440" style="s2">somebody had found a way to get their</p>
+<p begin="00:49:27.530" end="00:49:33.110" style="s2">data flowing much more quickly and they</p>
+<p begin="00:49:30.440" end="00:49:34.700" style="s2">located this person and they called him</p>
+<p begin="00:49:33.110" end="00:49:35.930" style="s2">and they said I&#39;d be happy to talk to</p>
+<p begin="00:49:34.700" end="00:49:39.380" style="s2">you but I have to go to school now he</p>
+<p begin="00:49:35.930" end="00:49:41.750" style="s2">was 15 years old so we&#39;ve seen so many</p>
+<p begin="00:49:39.380" end="00:49:43.640" style="s2">instances and we will continue to see so</p>
+<p begin="00:49:41.750" end="00:49:45.530" style="s2">many instances of what&#39;s called mutual</p>
+<p begin="00:49:43.640" end="00:49:48.670" style="s2">aid we&#39;re seeing it right now in the</p>
+<p begin="00:49:45.530" end="00:49:52.730" style="s2">United States with the the failure of a</p>
+<p begin="00:49:48.670" end="00:49:56.120" style="s2">government to coordinate leadership</p>
+<p begin="00:49:52.730" end="00:49:58.850" style="s2">around the response we are seeing mutual</p>
+<p begin="00:49:56.120" end="00:50:02.360" style="s2">aid organizations popping up everywhere</p>
+<p begin="00:49:58.850" end="00:50:04.940" style="s2">I wrote a post on it on on my patreon</p>
+<p begin="00:50:02.360" end="00:50:07.850" style="s2">and you know in order to give some</p>
+<p begin="00:50:04.940" end="00:50:10.640" style="s2">credibility to my theorizing I started</p>
+<p begin="00:50:07.850" end="00:50:13.430" style="s2">looking up a few and you know I said I</p>
+<p begin="00:50:10.640" end="00:50:17.440" style="s2">stopped in around 20 of different</p>
+<p begin="00:50:13.430" end="00:50:22.850" style="s2">efforts around to coordinate response so</p>
+<p begin="00:50:17.440" end="00:50:24.710" style="s2">mutual aid is as potent as all of the</p>
+<p begin="00:50:22.850" end="00:50:27.200" style="s2">negative effects we&#39;re seeing you know</p>
+<p begin="00:50:24.710" end="00:50:29.930" style="s2">again I think we need a more nuanced</p>
+<p begin="00:50:27.200" end="00:50:34.370" style="s2">discourse about technology that</p>
+<p begin="00:50:29.930" end="00:50:36.440" style="s2">recognizes there&#39;s a very big gray area</p>
+<p begin="00:50:34.370" end="00:50:41.240" style="s2">and we really have to talk about how we</p>
+<p begin="00:50:36.440" end="00:50:43.970" style="s2">want to act as users and designers of</p>
+<p begin="00:50:41.240" end="00:50:46.220" style="s2">Technology it&#39;s not just black and white</p>
+<p begin="00:50:43.970" end="00:50:49.010" style="s2">it&#39;s not you know I think until fairly</p>
+<p begin="00:50:46.220" end="00:50:51.920" style="s2">recently people considered the latest</p>
+<p begin="00:50:49.010" end="00:50:54.350" style="s2">technology to be a good thing it was</p>
+<p begin="00:50:51.920" end="00:50:56.780" style="s2">progress now people are asking questions</p>
+<p begin="00:50:54.350" end="00:50:58.779" style="s2">about it and and I think that&#39;s</p>
+<p begin="00:50:56.780" end="00:51:00.789" style="s2">important</p>
+<p begin="00:50:58.779" end="00:51:03.400" style="s2">yep yeah that&#39;s you know where we&#39;re at</p>
+<p begin="00:51:00.789" end="00:51:05.259" style="s2">today but I think it is important and</p>
+<p begin="00:51:03.400" end="00:51:07.419" style="s2">I&#39;m glad we did this huge and you did</p>
+<p begin="00:51:05.259" end="00:51:10.390" style="s2">give some excellent examples that while</p>
+<p begin="00:51:07.419" end="00:51:12.339" style="s2">there are issues with the network</p>
+<p begin="00:51:10.390" end="00:51:14.140" style="s2">platforms there are great benefits I&#39;ll</p>
+<p begin="00:51:12.339" end="00:51:16.329" style="s2">tell you one here locally I live very</p>
+<p begin="00:51:14.140" end="00:51:20.949" style="s2">remote farm in the Appalachian Mountains</p>
+<p begin="00:51:16.329" end="00:51:23.799" style="s2">and we have a growing call it a neo back</p>
+<p begin="00:51:20.949" end="00:51:26.949" style="s2">to the land movement of young folks who</p>
+<p begin="00:51:23.799" end="00:51:28.630" style="s2">are buying or renting old mountain farms</p>
+<p begin="00:51:26.949" end="00:51:32.559" style="s2">and putting them into high quality</p>
+<p begin="00:51:28.630" end="00:51:35.650" style="s2">organic production and there was five of</p>
+<p begin="00:51:32.559" end="00:51:37.989" style="s2">these farms locally that had built a</p>
+<p begin="00:51:35.650" end="00:51:39.549" style="s2">great clientele with restaurants and</p>
+<p begin="00:51:37.989" end="00:51:42.789" style="s2">they were selling their chickens their</p>
+<p begin="00:51:39.549" end="00:51:44.919" style="s2">eggs their wine and cider their greens</p>
+<p begin="00:51:42.789" end="00:51:46.299" style="s2">and their vegetables and other things to</p>
+<p begin="00:51:44.919" end="00:51:49.029" style="s2">these high-end restaurants well guess</p>
+<p begin="00:51:46.299" end="00:51:51.819" style="s2">what the high-end restaurants are all</p>
+<p begin="00:51:49.029" end="00:51:54.309" style="s2">closed and fortunately one of them was</p>
+<p begin="00:51:51.819" end="00:51:57.759" style="s2">quite computer literate and put together</p>
+<p begin="00:51:54.309" end="00:51:59.589" style="s2">an online store that allowed all five of</p>
+<p begin="00:51:57.759" end="00:52:02.169" style="s2">the farms to offer essentially a</p>
+<p begin="00:51:59.589" end="00:52:03.999" style="s2">Community Supported Agriculture but</p>
+<p begin="00:52:02.169" end="00:52:05.469" style="s2">customized so you could sign up and but</p>
+<p begin="00:52:03.999" end="00:52:07.329" style="s2">you could get what you wanted each week</p>
+<p begin="00:52:05.469" end="00:52:09.699" style="s2">you go down to the more central of the</p>
+<p begin="00:52:07.329" end="00:52:13.179" style="s2">five farms and pick up your stuff and</p>
+<p begin="00:52:09.699" end="00:52:16.869" style="s2">has it been marketed mostly on next-door</p>
+<p begin="00:52:13.179" end="00:52:18.819" style="s2">and on Facebook and within a couple of</p>
+<p begin="00:52:16.869" end="00:52:20.890" style="s2">weeks these five farms were able to</p>
+<p begin="00:52:18.819" end="00:52:23.949" style="s2">replace at least a significant part of</p>
+<p begin="00:52:20.890" end="00:52:26.049" style="s2">their incomes which had literally gone</p>
+<p begin="00:52:23.949" end="00:52:28.359" style="s2">to zero and all these fine dining</p>
+<p begin="00:52:26.049" end="00:52:29.769" style="s2">restaurants closed by selling directly</p>
+<p begin="00:52:28.359" end="00:52:32.079" style="s2">to consumers and you know that would</p>
+<p begin="00:52:29.769" end="00:52:34.299" style="s2">have been impossible in the pre-internet</p>
+<p begin="00:52:32.079" end="00:52:36.309" style="s2">age so it&#39;s you know again I love to</p>
+<p begin="00:52:34.299" end="00:52:38.140" style="s2">point out and hear stories about the</p>
+<p begin="00:52:36.309" end="00:52:40.269" style="s2">good that comes from our platforms yes</p>
+<p begin="00:52:38.140" end="00:52:42.249" style="s2">we have to be wary of them but we also</p>
+<p begin="00:52:40.269" end="00:52:44.319" style="s2">have to acknowledge that there&#39;s a</p>
+<p begin="00:52:42.249" end="00:52:47.349" style="s2">reason they&#39;re so popular they do some</p>
+<p begin="00:52:44.319" end="00:52:49.329" style="s2">good things too yeah and I think we</p>
+<p begin="00:52:47.349" end="00:52:51.130" style="s2">ought to look at well what are the</p>
+<p begin="00:52:49.329" end="00:52:52.119" style="s2">characteristics of the bad things and</p>
+<p begin="00:52:51.130" end="00:52:54.159" style="s2">what can we do about it</p>
+<p begin="00:52:52.119" end="00:52:56.049" style="s2">and what are the characteristics of the</p>
+<p begin="00:52:54.159" end="00:52:58.029" style="s2">good things and how can we do more of</p>
+<p begin="00:52:56.049" end="00:53:01.089" style="s2">that you know one of the things that I</p>
+<p begin="00:52:58.029" end="00:53:04.900" style="s2">think we have opportunities now that</p>
+<p begin="00:53:01.089" end="00:53:08.739" style="s2">that have been forced we are forced by</p>
+<p begin="00:53:04.900" end="00:53:11.380" style="s2">the The Cove in 1900 in place to do a</p>
+<p begin="00:53:08.739" end="00:53:12.480" style="s2">lot of our social and business</p>
+<p begin="00:53:11.380" end="00:53:15.940" style="s2">communication</p>
+<p begin="00:53:12.480" end="00:53:20.410" style="s2">online teachers have been forced to</p>
+<p begin="00:53:15.940" end="00:53:23.800" style="s2">teach online teaching online is not a</p>
+<p begin="00:53:20.410" end="00:53:26.380" style="s2">replacement for face-to-face but it&#39;s</p>
+<p begin="00:53:23.800" end="00:53:29.080" style="s2">not worse than face-to-face if you know</p>
+<p begin="00:53:26.380" end="00:53:31.720" style="s2">how to do it and I think there&#39;s a huge</p>
+<p begin="00:53:29.080" end="00:53:35.530" style="s2">opportunity particularly in places where</p>
+<p begin="00:53:31.720" end="00:53:39.099" style="s2">you really can&#39;t afford a high quality</p>
+<p begin="00:53:35.530" end="00:53:41.140" style="s2">of bricks and mortar institution and I</p>
+<p begin="00:53:39.099" end="00:53:44.859" style="s2">think that it&#39;s going to put some good</p>
+<p begin="00:53:41.140" end="00:53:47.590" style="s2">pressure on universities to change and</p>
+<p begin="00:53:44.859" end="00:53:50.130" style="s2">it&#39;s going to highlight that the the</p>
+<p begin="00:53:47.590" end="00:53:53.470" style="s2">big-name universities are the big</p>
+<p begin="00:53:50.130" end="00:53:56.080" style="s2">businesses and the big endowments are</p>
+<p begin="00:53:53.470" end="00:53:58.420" style="s2">maybe not as important to education as</p>
+<p begin="00:53:56.080" end="00:54:05.400" style="s2">the community colleges and the small</p>
+<p begin="00:53:58.420" end="00:54:09.070" style="s2">liberal arts schools are another forced</p>
+<p begin="00:54:05.400" end="00:54:10.599" style="s2">opportunity is that transporting</p>
+<p begin="00:54:09.070" end="00:54:13.660" style="s2">thousands of people thousands of miles</p>
+<p begin="00:54:10.599" end="00:54:17.349" style="s2">to have a face-to-face conference just</p>
+<p begin="00:54:13.660" end="00:54:19.780" style="s2">isn&#39;t happening you can have a face -</p>
+<p begin="00:54:17.349" end="00:54:22.690" style="s2">you can have a conference with thousands</p>
+<p begin="00:54:19.780" end="00:54:23.950" style="s2">of people online if you know how to do</p>
+<p begin="00:54:22.690" end="00:54:25.920" style="s2">it and we&#39;re beginning to see that</p>
+<p begin="00:54:23.950" end="00:54:29.890" style="s2">happening so I think a lot of these</p>
+<p begin="00:54:25.920" end="00:54:32.800" style="s2">things were being forced to do could be</p>
+<p begin="00:54:29.890" end="00:54:34.570" style="s2">come permanent features the same thing</p>
+<p begin="00:54:32.800" end="00:54:37.320" style="s2">with Community Supported Agriculture is</p>
+<p begin="00:54:34.570" end="00:54:39.700" style="s2">happening in in my neighborhood these</p>
+<p begin="00:54:37.320" end="00:54:44.650" style="s2">distribution networks that are just</p>
+<p begin="00:54:39.700" end="00:54:47.320" style="s2">ad-hoc set up using online media to</p>
+<p begin="00:54:44.650" end="00:54:49.630" style="s2">enable the farmers to get their fresh</p>
+<p begin="00:54:47.320" end="00:54:51.130" style="s2">food to people I think that those are</p>
+<p begin="00:54:49.630" end="00:54:54.730" style="s2">going to continue when the restaurants</p>
+<p begin="00:54:51.130" end="00:54:56.980" style="s2">open again we have an opportunity to</p>
+<p begin="00:54:54.730" end="00:55:00.670" style="s2">understand what&#39;s happening and to try</p>
+<p begin="00:54:56.980" end="00:55:03.580" style="s2">to shape the outcome and I also think I</p>
+<p begin="00:55:00.670" end="00:55:07.890" style="s2">call it green space online you know you</p>
+<p begin="00:55:03.580" end="00:55:12.280" style="s2">can still start a BBS you can use</p>
+<p begin="00:55:07.890" end="00:55:15.520" style="s2">discourse or reddit very easily really</p>
+<p begin="00:55:12.280" end="00:55:18.880" style="s2">cheaply or or free to do that you you</p>
+<p begin="00:55:15.520" end="00:55:20.980" style="s2">can you can start a chat group there are</p>
+<p begin="00:55:18.880" end="00:55:23.170" style="s2">a lot of ways that people can start</p>
+<p begin="00:55:20.980" end="00:55:25.100" style="s2">their smaller communities of interest</p>
+<p begin="00:55:23.170" end="00:55:26.930" style="s2">online and</p>
+<p begin="00:55:25.100" end="00:55:29.870" style="s2">I don&#39;t think we&#39;re I don&#39;t think we&#39;re</p>
+<p begin="00:55:26.930" end="00:55:31.610" style="s2">going to overcome Facebook&#39;s monopoly</p>
+<p begin="00:55:29.870" end="00:55:34.820" style="s2">but I think we ought to preserve that</p>
+<p begin="00:55:31.610" end="00:55:37.340" style="s2">space outside of Facebook&#39;s enclosure to</p>
+<p begin="00:55:34.820" end="00:55:40.400" style="s2">create our own online media online</p>
+<p begin="00:55:37.340" end="00:55:41.720" style="s2">communities there are so many tools to</p>
+<p begin="00:55:40.400" end="00:55:44.540" style="s2">do it now and there&#39;s a lot of know-how</p>
+<p begin="00:55:41.720" end="00:55:45.550" style="s2">about how to do it and now we&#39;re sort of</p>
+<p begin="00:55:44.540" end="00:55:48.170" style="s2">being forced to do it</p>
+<p begin="00:55:45.550" end="00:55:50.480" style="s2">yep it&#39;s been a remarkable amount of</p>
+<p begin="00:55:48.170" end="00:55:52.700" style="s2">innovation and even Facebook you know as</p>
+<p begin="00:55:50.480" end="00:55:54.530" style="s2">much as it it&#39;s a shit show you know it</p>
+<p begin="00:55:52.700" end="00:55:57.620" style="s2">is almost unintentionally I think</p>
+<p begin="00:55:54.530" end="00:55:59.510" style="s2">created the group&#39;s space which I know a</p>
+<p begin="00:55:57.620" end="00:56:01.520" style="s2">lot of people including people I work</p>
+<p begin="00:55:59.510" end="00:56:04.430" style="s2">with and some my own projects are done</p>
+<p begin="00:56:01.520" end="00:56:05.930" style="s2">on Facebook groups and as far as we can</p>
+<p begin="00:56:04.430" end="00:56:08.180" style="s2">tell there&#39;s very little or no</p>
+<p begin="00:56:05.930" end="00:56:10.970" style="s2">advertising they don&#39;t have control the</p>
+<p begin="00:56:08.180" end="00:56:12.650" style="s2">order in which content appears and so a</p>
+<p begin="00:56:10.970" end="00:56:14.960" style="s2">lot of these are the real negatives</p>
+<p begin="00:56:12.650" end="00:56:16.850" style="s2">about Facebook go away</p>
+<p begin="00:56:14.960" end="00:56:18.620" style="s2">and yet you were only a single click</p>
+<p begin="00:56:16.850" end="00:56:20.840" style="s2">away from you know several billion</p>
+<p begin="00:56:18.620" end="00:56:23.150" style="s2">people so even within Facebook the</p>
+<p begin="00:56:20.840" end="00:56:26.090" style="s2">group&#39;s phenomena turned out to be of</p>
+<p begin="00:56:23.150" end="00:56:28.850" style="s2">value as I spent 95% plus of my Facebook</p>
+<p begin="00:56:26.090" end="00:56:30.500" style="s2">time such that it is in groups and only</p>
+<p begin="00:56:28.850" end="00:56:33.320" style="s2">in groups you know the the public</p>
+<p begin="00:56:30.500" end="00:56:34.970" style="s2">Facebook has become much much much less</p>
+<p begin="00:56:33.320" end="00:56:37.280" style="s2">interesting to me so yeah I think the</p>
+<p begin="00:56:34.970" end="00:56:40.400" style="s2">point that we can build our own worlds</p>
+<p begin="00:56:37.280" end="00:56:43.790" style="s2">can continue to do so is even true in</p>
+<p begin="00:56:40.400" end="00:56:45.560" style="s2">Facebook there&#39;s a lot of this mutual</p>
+<p begin="00:56:43.790" end="00:56:47.870" style="s2">aid is organized on Facebook and some</p>
+<p begin="00:56:45.560" end="00:56:51.380" style="s2">good stuff happens in Facebook groups a</p>
+<p begin="00:56:47.870" end="00:56:54.190" style="s2">lot of bad stuff you know Nazi law</p>
+<p begin="00:56:51.380" end="00:56:57.620" style="s2">enforcement have their own Facebook</p>
+<p begin="00:56:54.190" end="00:57:01.190" style="s2">groups my problem with Facebook groups</p>
+<p begin="00:56:57.620" end="00:57:04.130" style="s2">is that the way that a fairly large</p>
+<p begin="00:57:01.190" end="00:57:08.000" style="s2">group can have sustained conversations</p>
+<p begin="00:57:04.130" end="00:57:10.240" style="s2">that was solved way back in with with</p>
+<p begin="00:57:08.000" end="00:57:13.550" style="s2">the software we used on the well and and</p>
+<p begin="00:57:10.240" end="00:57:14.540" style="s2">software for enabling that kind of</p>
+<p begin="00:57:13.550" end="00:57:17.360" style="s2">conversation</p>
+<p begin="00:57:14.540" end="00:57:20.870" style="s2">asynchronous conversation as evolved</p>
+<p begin="00:57:17.360" end="00:57:23.090" style="s2">since then if you&#39;ve got a group a</p>
+<p begin="00:57:20.870" end="00:57:25.820" style="s2">Facebook group and you you post</p>
+<p begin="00:57:23.090" end="00:57:29.120" style="s2">something that will be visible to people</p>
+<p begin="00:57:25.820" end="00:57:32.420" style="s2">until somebody else post something and</p>
+<p begin="00:57:29.120" end="00:57:35.030" style="s2">then yours is deprecated if you&#39;ve got a</p>
+<p begin="00:57:32.420" end="00:57:36.710" style="s2">group of 500 people it&#39;s really hard to</p>
+<p begin="00:57:35.030" end="00:57:38.750" style="s2">have a conversation that&#39;s going to</p>
+<p begin="00:57:36.710" end="00:57:41.450" style="s2">sustain for more than you know</p>
+<p begin="00:57:38.750" end="00:57:44.450" style="s2">a day that way of course with with a</p>
+<p begin="00:57:41.450" end="00:57:46.910" style="s2">good conferencing software well the</p>
+<p begin="00:57:44.450" end="00:57:48.680" style="s2">software knows what you want to see and</p>
+<p begin="00:57:46.910" end="00:57:50.420" style="s2">which threads you&#39;ve been following and</p>
+<p begin="00:57:48.680" end="00:57:52.490" style="s2">when you log in and it shows you the new</p>
+<p begin="00:57:50.420" end="00:57:54.860" style="s2">responses and the threads you&#39;ve been</p>
+<p begin="00:57:52.490" end="00:57:56.240" style="s2">following again a problem that was</p>
+<p begin="00:57:54.860" end="00:57:59.240" style="s2">solved you know I was invited to speak</p>
+<p begin="00:57:56.240" end="00:58:00.860" style="s2">to the social scientists at Facebook a</p>
+<p begin="00:57:59.240" end="00:58:03.200" style="s2">few years ago and it&#39;s interesting</p>
+<p begin="00:58:00.860" end="00:58:06.440" style="s2">because Google where my daughter worked</p>
+<p begin="00:58:03.200" end="00:58:09.230" style="s2">for eight years I know of one social</p>
+<p begin="00:58:06.440" end="00:58:12.710" style="s2">scientist that they hired and he was</p>
+<p begin="00:58:09.230" end="00:58:14.690" style="s2">miserable there but Facebook had Jesus</p>
+<p begin="00:58:12.710" end="00:58:16.490" style="s2">group was must been a hundred people</p>
+<p begin="00:58:14.690" end="00:58:19.490" style="s2">until I ranted at them the same rant</p>
+<p begin="00:58:16.490" end="00:58:22.790" style="s2">about why can&#39;t you make Facebook groups</p>
+<p begin="00:58:19.490" end="00:58:25.310" style="s2">a little bit more like a good BBS or</p>
+<p begin="00:58:22.790" end="00:58:27.200" style="s2">computer conferencing system I don&#39;t</p>
+<p begin="00:58:25.310" end="00:58:29.900" style="s2">know why they haven&#39;t like you said it</p>
+<p begin="00:58:27.200" end="00:58:31.610" style="s2">doesn&#39;t show advertising so I don&#39;t know</p>
+<p begin="00:58:29.900" end="00:58:33.920" style="s2">what their business reason is for but it</p>
+<p begin="00:58:31.610" end="00:58:36.560" style="s2">must be a business reason anyway let&#39;s</p>
+<p begin="00:58:33.920" end="00:58:39.590" style="s2">move on yeah let&#39;s move on let&#39;s move</p>
+<p begin="00:58:36.560" end="00:58:42.050" style="s2">now to your most recent book net smart</p>
+<p begin="00:58:39.590" end="00:58:44.030" style="s2">which I believe was published in 2012</p>
+<p begin="00:58:42.050" end="00:58:47.060" style="s2">which must mean it was written in 2010</p>
+<p begin="00:58:44.030" end="00:58:49.700" style="s2">or 2011 and again pretty prescient about</p>
+<p begin="00:58:47.060" end="00:58:51.620" style="s2">the trends of the world you know let&#39;s</p>
+<p begin="00:58:49.700" end="00:58:53.210" style="s2">start with the first chapter where you</p>
+<p begin="00:58:51.620" end="00:58:55.010" style="s2">happen to hit one of my favorite topics</p>
+<p begin="00:58:53.210" end="00:58:57.770" style="s2">regular listeners of this show no I</p>
+<p begin="00:58:55.010" end="00:59:00.860" style="s2">basically say you are your attention and</p>
+<p begin="00:58:57.770" end="00:59:03.170" style="s2">your first chapter is called attention</p>
+<p begin="00:59:00.860" end="00:59:06.320" style="s2">and I think it&#39;s why and how to control</p>
+<p begin="00:59:03.170" end="00:59:08.480" style="s2">your minds most powerful instrument talk</p>
+<p begin="00:59:06.320" end="00:59:09.560" style="s2">a little bit about attention and you</p>
+<p begin="00:59:08.480" end="00:59:11.150" style="s2">know I don&#39;t know how much you know</p>
+<p begin="00:59:09.560" end="00:59:12.710" style="s2">about attention from a I do remember</p>
+<p begin="00:59:11.150" end="00:59:14.390" style="s2">actually in the book there&#39;s fair amount</p>
+<p begin="00:59:12.710" end="00:59:17.270" style="s2">about the cognitive science of attention</p>
+<p begin="00:59:14.390" end="00:59:21.590" style="s2">and how the attention economy has become</p>
+<p begin="00:59:17.270" end="00:59:24.860" style="s2">the world that we live in well I chose</p>
+<p begin="00:59:21.590" end="00:59:27.530" style="s2">that as the I had five literacies and I</p>
+<p begin="00:59:24.860" end="00:59:29.870" style="s2">chose that as a first one because</p>
+<p begin="00:59:27.530" end="00:59:33.770" style="s2">attention is the foundation of thought</p>
+<p begin="00:59:29.870" end="00:59:38.120" style="s2">and and communication but also it was</p>
+<p begin="00:59:33.770" end="00:59:41.840" style="s2">very clear even in 2010 that these</p>
+<p begin="00:59:38.120" end="00:59:45.200" style="s2">online media and increasingly mobile</p>
+<p begin="00:59:41.840" end="00:59:47.480" style="s2">media were making money by harvesting</p>
+<p begin="00:59:45.200" end="00:59:49.850" style="s2">our attention the more attention you</p>
+<p begin="00:59:47.480" end="00:59:52.609" style="s2">could pay to a site the more advertising</p>
+<p begin="00:59:49.850" end="00:59:55.890" style="s2">they could display</p>
+<p begin="00:59:52.609" end="00:59:58.140" style="s2">to you and of course we&#39;re now learning</p>
+<p begin="00:59:55.890" end="01:00:00.060" style="s2">that the the people who create a lot of</p>
+<p begin="00:59:58.140" end="01:00:02.880" style="s2">these apps understand the same</p>
+<p begin="01:00:00.060" end="01:00:04.290" style="s2">psychology that the inventors of slot</p>
+<p begin="01:00:02.880" end="01:00:05.880" style="s2">machines understood how do you how do</p>
+<p begin="01:00:04.290" end="01:00:08.640" style="s2">you capture people&#39;s attention and get</p>
+<p begin="01:00:05.880" end="01:00:10.800" style="s2">them to continue paying attention it&#39;s</p>
+<p begin="01:00:08.640" end="01:00:16.770" style="s2">it&#39;s like we&#39;ve been captured in that</p>
+<p begin="01:00:10.800" end="01:00:19.440" style="s2">sense the good news is that your</p>
+<p begin="01:00:16.770" end="01:00:21.390" style="s2">attention is not fixed you can learn to</p>
+<p begin="01:00:19.440" end="01:00:23.579" style="s2">control your attention it&#39;s just that</p>
+<p begin="01:00:21.390" end="01:00:25.260" style="s2">you never did it&#39;s not something that</p>
+<p begin="01:00:23.579" end="01:00:26.430" style="s2">your parents teach you it&#39;s not</p>
+<p begin="01:00:25.260" end="01:00:28.980" style="s2">something that they teach you in school</p>
+<p begin="01:00:26.430" end="01:00:30.780" style="s2">oh yeah you got to pay attention to the</p>
+<p begin="01:00:28.980" end="01:00:32.790" style="s2">teacher when they&#39;re talking that</p>
+<p begin="01:00:30.780" end="01:00:36.569" style="s2">doesn&#39;t really mean that you gained</p>
+<p begin="01:00:32.790" end="01:00:38.550" style="s2">control over your attention that again I</p>
+<p begin="01:00:36.569" end="01:00:41.720" style="s2">did my research and and the good news is</p>
+<p begin="01:00:38.550" end="01:00:43.980" style="s2">if you look at multi thousand-year-old</p>
+<p begin="01:00:41.720" end="01:00:45.869" style="s2">contemplative traditions and and you</p>
+<p begin="01:00:43.980" end="01:00:48.599" style="s2">look at a lot of the cognitive science</p>
+<p begin="01:00:45.869" end="01:00:51.300" style="s2">and neural science about attention it&#39;s</p>
+<p begin="01:00:48.599" end="01:00:55.560" style="s2">certainly possible to train your</p>
+<p begin="01:00:51.300" end="01:00:58.980" style="s2">attention and my interpretation of that</p>
+<p begin="01:00:55.560" end="01:01:02.640" style="s2">is that any attention to how you&#39;re</p>
+<p begin="01:00:58.980" end="01:01:04.800" style="s2">using your attention is a lot better</p>
+<p begin="01:01:02.640" end="01:01:07.380" style="s2">than not paying attention to it at all</p>
+<p begin="01:01:04.800" end="01:01:08.670" style="s2">then of course there are a lot of things</p>
+<p begin="01:01:07.380" end="01:01:11.849" style="s2">that you can do you know one thing that</p>
+<p begin="01:01:08.670" end="01:01:13.740" style="s2">I asked my students to do was something</p>
+<p begin="01:01:11.849" end="01:01:16.140" style="s2">that I did for quite a while which is at</p>
+<p begin="01:01:13.740" end="01:01:18.030" style="s2">the beginning of the day when I sat at</p>
+<p begin="01:01:16.140" end="01:01:19.859" style="s2">my computer and you know nowadays you</p>
+<p begin="01:01:18.030" end="01:01:22.670" style="s2">might it might be a laptop or a desktop</p>
+<p begin="01:01:19.859" end="01:01:26.550" style="s2">or it might be your phone but I said</p>
+<p begin="01:01:22.670" end="01:01:28.920" style="s2">take a post-it note and and write two or</p>
+<p begin="01:01:26.550" end="01:01:30.780" style="s2">three things you intend to accomplish</p>
+<p begin="01:01:28.920" end="01:01:32.849" style="s2">with your computer by the end of the day</p>
+<p begin="01:01:30.780" end="01:01:34.859" style="s2">and just put that in the lower corner of</p>
+<p begin="01:01:32.849" end="01:01:37.859" style="s2">your screen and every once in a while</p>
+<p begin="01:01:34.859" end="01:01:39.210" style="s2">your your gaze will fall upon it and</p>
+<p begin="01:01:37.859" end="01:01:41.880" style="s2">that&#39;s time for you to look at the time</p>
+<p begin="01:01:39.210" end="01:01:43.380" style="s2">and figure out how much have you</p>
+<p begin="01:01:41.880" end="01:01:45.030" style="s2">accomplished and what are you doing</p>
+<p begin="01:01:43.380" end="01:01:46.740" style="s2">right now and it&#39;s really not a matter</p>
+<p begin="01:01:45.030" end="01:01:50.720" style="s2">of policing yourself it&#39;s a matter of</p>
+<p begin="01:01:46.740" end="01:01:53.579" style="s2">making yourself more aware and and I</p>
+<p begin="01:01:50.720" end="01:01:57.599" style="s2">something I called info tension I think</p>
+<p begin="01:01:53.579" end="01:02:00.540" style="s2">there&#39;s a whole lot of more room for</p>
+<p begin="01:01:57.599" end="01:02:02.839" style="s2">research and education about info</p>
+<p begin="01:02:00.540" end="01:02:05.670" style="s2">tension but you know I started writing</p>
+<p begin="01:02:02.839" end="01:02:08.130" style="s2">the book because</p>
+<p begin="01:02:05.670" end="01:02:09.930" style="s2">going back to the 1980s I was writing</p>
+<p begin="01:02:08.130" end="01:02:12.480" style="s2">about personal computers and then in the</p>
+<p begin="01:02:09.930" end="01:02:13.769" style="s2">1990s about what became known as social</p>
+<p begin="01:02:12.480" end="01:02:17.339" style="s2">media and then I started writing about</p>
+<p begin="01:02:13.769" end="01:02:20.250" style="s2">mobile media at every turn scholars and</p>
+<p begin="01:02:17.339" end="01:02:22.319" style="s2">critics would ask are these things</p>
+<p begin="01:02:20.250" end="01:02:26.430" style="s2">really any good for us as individuals</p>
+<p begin="01:02:22.319" end="01:02:29.220" style="s2">and and communities and societies and I</p>
+<p begin="01:02:26.430" end="01:02:31.980" style="s2">concluded by around 2010 that a lot</p>
+<p begin="01:02:29.220" end="01:02:34.559" style="s2">depends on what we know and how many</p>
+<p begin="01:02:31.980" end="01:02:38.069" style="s2">people know it it&#39;s a matter of literacy</p>
+<p begin="01:02:34.559" end="01:02:40.319" style="s2">you and I and a fair number of other</p>
+<p begin="01:02:38.069" end="01:02:42.000" style="s2">people we we know how to make our way</p>
+<p begin="01:02:40.319" end="01:02:44.970" style="s2">online</p>
+<p begin="01:02:42.000" end="01:02:48.450" style="s2">you mentioned AOL a while back well you</p>
+<p begin="01:02:44.970" end="01:02:51.660" style="s2">know unuse net every September a bunch</p>
+<p begin="01:02:48.450" end="01:02:54.750" style="s2">of new freshmen would get their internet</p>
+<p begin="01:02:51.660" end="01:02:57.180" style="s2">accounts and they would start acting up</p>
+<p begin="01:02:54.750" end="01:03:00.000" style="s2">on Usenet well the the regulars on</p>
+<p begin="01:02:57.180" end="01:03:03.059" style="s2">Usenet would enforce the norms that they</p>
+<p begin="01:03:00.000" end="01:03:06.569" style="s2">had developed by being kind of forceful</p>
+<p begin="01:03:03.059" end="01:03:08.220" style="s2">with the newcomers one day AOL cut loose</p>
+<p begin="01:03:06.569" end="01:03:09.900" style="s2">three million people on the internet</p>
+<p begin="01:03:08.220" end="01:03:12.779" style="s2">with with no instruction at all and that</p>
+<p begin="01:03:09.900" end="01:03:14.849" style="s2">became known as the September that never</p>
+<p begin="01:03:12.779" end="01:03:17.099" style="s2">ended because those norms weren&#39;t passed</p>
+<p begin="01:03:14.849" end="01:03:19.859" style="s2">along I think that&#39;s one of the things</p>
+<p begin="01:03:17.099" end="01:03:23.250" style="s2">that&#39;s missing from the the worldwide</p>
+<p begin="01:03:19.859" end="01:03:25.920" style="s2">social media are norms and what are the</p>
+<p begin="01:03:23.250" end="01:03:27.269" style="s2">most important norms that we need one of</p>
+<p begin="01:03:25.920" end="01:03:29.549" style="s2">the most important things that we need</p>
+<p begin="01:03:27.269" end="01:03:32.519" style="s2">to know how to do that if an individual</p>
+<p begin="01:03:29.549" end="01:03:35.789" style="s2">knows this that individual will do</p>
+<p begin="01:03:32.519" end="01:03:38.339" style="s2">better but also the more individuals who</p>
+<p begin="01:03:35.789" end="01:03:41.009" style="s2">know that the healthier and the more</p>
+<p begin="01:03:38.339" end="01:03:44.240" style="s2">useful the Commons will be so I came up</p>
+<p begin="01:03:41.009" end="01:03:47.099" style="s2">with attention crap detection</p>
+<p begin="01:03:44.240" end="01:03:50.519" style="s2">participation collaboration and</p>
+<p begin="01:03:47.099" end="01:03:52.440" style="s2">networking us and you know attention is</p>
+<p begin="01:03:50.519" end="01:03:54.359" style="s2">the first one if you don&#39;t have control</p>
+<p begin="01:03:52.440" end="01:03:58.769" style="s2">of your attention you can be manipulated</p>
+<p begin="01:03:54.359" end="01:04:02.730" style="s2">in all kinds of ways but again very</p>
+<p begin="01:03:58.769" end="01:04:06.960" style="s2">close behind that is crap detection can</p>
+<p begin="01:04:02.730" end="01:04:08.880" style="s2">can you on your own find the information</p>
+<p begin="01:04:06.960" end="01:04:10.619" style="s2">you need and guarantee that it&#39;s not</p>
+<p begin="01:04:08.880" end="01:04:13.589" style="s2">going to kill you or it&#39;s not going to</p>
+<p begin="01:04:10.619" end="01:04:16.859" style="s2">be detrimental to your social life or to</p>
+<p begin="01:04:13.589" end="01:04:19.079" style="s2">democracy you know that was an issue in</p>
+<p begin="01:04:16.859" end="01:04:23.039" style="s2">my mind in 2010 but now I think</p>
+<p begin="01:04:19.079" end="01:04:25.680" style="s2">an overwhelming issue I wonder if we are</p>
+<p begin="01:04:23.039" end="01:04:28.170" style="s2">capable as individuals to really be</p>
+<p begin="01:04:25.680" end="01:04:30.630" style="s2">excellent crap detectors considering the</p>
+<p begin="01:04:28.170" end="01:04:32.249" style="s2">level of sophistication that the crap</p>
+<p begin="01:04:30.630" end="01:04:33.719" style="s2">producers are using I&#39;m currently</p>
+<p begin="01:04:32.249" end="01:04:37.319" style="s2">reading a very interesting book called</p>
+<p begin="01:04:33.719" end="01:04:39.959" style="s2">lie machine by Philip Howard from Oxford</p>
+<p begin="01:04:37.319" end="01:04:41.969" style="s2">and he goes into great detail about the</p>
+<p begin="01:04:39.959" end="01:04:45.029" style="s2">techniques and the money spent and the</p>
+<p begin="01:04:41.969" end="01:04:47.249" style="s2">skills that go into crafting junk news</p>
+<p begin="01:04:45.029" end="01:04:49.499" style="s2">as he calls that he is now abandoned</p>
+<p begin="01:04:47.249" end="01:04:52.440" style="s2">fake news it&#39;s been co-opted by other</p>
+<p begin="01:04:49.499" end="01:04:53.789" style="s2">people and one wonders is the average</p>
+<p begin="01:04:52.440" end="01:04:56.339" style="s2">person to keep in mind the average</p>
+<p begin="01:04:53.789" end="01:04:58.859" style="s2">person has an IQ of a hundred and in the</p>
+<p begin="01:04:56.339" end="01:05:00.959" style="s2">United States has maybe a year of</p>
+<p begin="01:04:58.859" end="01:05:03.509" style="s2">college is such a person actually</p>
+<p begin="01:05:00.959" end="01:05:05.910" style="s2">capable on their own of doing crap</p>
+<p begin="01:05:03.509" end="01:05:08.400" style="s2">detection or does it make sense for them</p>
+<p begin="01:05:05.910" end="01:05:10.349" style="s2">to club with other people and you know</p>
+<p begin="01:05:08.400" end="01:05:12.959" style="s2">what we call collective sense making and</p>
+<p begin="01:05:10.349" end="01:05:15.479" style="s2">together try to figure out what makes</p>
+<p begin="01:05:12.959" end="01:05:18.390" style="s2">sense and what doesn&#39;t what you think</p>
+<p begin="01:05:15.479" end="01:05:20.459" style="s2">about that idea well you know we have an</p>
+<p begin="01:05:18.390" end="01:05:22.499" style="s2">existence proof of that that works when</p>
+<p begin="01:05:20.459" end="01:05:26.369" style="s2">I started looking at people who were</p>
+<p begin="01:05:22.499" end="01:05:30.059" style="s2">doing research on incredulity and and</p>
+<p begin="01:05:26.369" end="01:05:34.469" style="s2">incredulity online they noted that a lot</p>
+<p begin="01:05:30.059" end="01:05:35.999" style="s2">of gamers educate each other about you</p>
+<p begin="01:05:34.469" end="01:05:39.539" style="s2">know what&#39;s real and what&#39;s what&#39;s not</p>
+<p begin="01:05:35.999" end="01:05:41.190" style="s2">online so you know I it certainly is</p>
+<p begin="01:05:39.539" end="01:05:43.559" style="s2">possible to me it comes back to</p>
+<p begin="01:05:41.190" end="01:05:47.880" style="s2">education you know when when I was</p>
+<p begin="01:05:43.559" end="01:05:50.940" style="s2">teaching digital journalism I came</p>
+<p begin="01:05:47.880" end="01:05:53.369" style="s2">across the elimin Dooley debates almost</p>
+<p begin="01:05:50.940" end="01:05:55.739" style="s2">exactly 100 years ago kind of the media</p>
+<p begin="01:05:53.369" end="01:05:58.440" style="s2">superstar that day was a young New York</p>
+<p begin="01:05:55.739" end="01:05:59.940" style="s2">Times reported by name of walter</p>
+<p begin="01:05:58.440" end="01:06:04.049" style="s2">Lippmann he wrote a book called public</p>
+<p begin="01:05:59.940" end="01:06:07.170" style="s2">opinion and his opinion was that the US</p>
+<p begin="01:06:04.049" end="01:06:10.739" style="s2">has become this industrialized complex</p>
+<p begin="01:06:07.170" end="01:06:14.279" style="s2">society and that Americans are too</p>
+<p begin="01:06:10.739" end="01:06:17.009" style="s2">uninformed and too gullible to to manage</p>
+<p begin="01:06:14.279" end="01:06:20.309" style="s2">such a society and he proposed that the</p>
+<p begin="01:06:17.009" end="01:06:23.249" style="s2">technocrats run it and john dewey who</p>
+<p begin="01:06:20.309" end="01:06:26.849" style="s2">was an older professor at columbia at</p>
+<p begin="01:06:23.249" end="01:06:28.640" style="s2">the time said well if americans are are</p>
+<p begin="01:06:26.849" end="01:06:32.790" style="s2">not well-informed we need better</p>
+<p begin="01:06:28.640" end="01:06:35.790" style="s2">journalism and if Americans are too</p>
+<p begin="01:06:32.790" end="01:06:37.830" style="s2">credulous we need better education and</p>
+<p begin="01:06:35.790" end="01:06:40.880" style="s2">so here we are a hundred years later and</p>
+<p begin="01:06:37.830" end="01:06:45.750" style="s2">I asked my students would you bet a</p>
+<p begin="01:06:40.880" end="01:06:48.090" style="s2">thumb on Lippmann or on Dewey and you</p>
+<p begin="01:06:45.750" end="01:06:51.380" style="s2">know I think that that argument is still</p>
+<p begin="01:06:48.090" end="01:06:54.420" style="s2">going on for better and for worse</p>
+<p begin="01:06:51.380" end="01:06:56.640" style="s2">education systems are very conservative</p>
+<p begin="01:06:54.420" end="01:07:00.330" style="s2">in the sense that it may take a long</p>
+<p begin="01:06:56.640" end="01:07:03.270" style="s2">time to change so we have a society in</p>
+<p begin="01:07:00.330" end="01:07:07.170" style="s2">which the technology is causing social</p>
+<p begin="01:07:03.270" end="01:07:09.660" style="s2">changes at a rapid rate but educational</p>
+<p begin="01:07:07.170" end="01:07:12.510" style="s2">systems are not really dealing with it</p>
+<p begin="01:07:09.660" end="01:07:14.840" style="s2">and and I think this is kind of</p>
+<p begin="01:07:12.510" end="01:07:17.520" style="s2">educating each other and you know tribal</p>
+<p begin="01:07:14.840" end="01:07:21.030" style="s2">education for better and worse is what&#39;s</p>
+<p begin="01:07:17.520" end="01:07:22.710" style="s2">happening today online yeah that&#39;s both</p>
+<p begin="01:07:21.030" end="01:07:25.710" style="s2">better and worse I mean if you have good</p>
+<p begin="01:07:22.710" end="01:07:27.930" style="s2">peers I mean I&#39;m a member of a group on</p>
+<p begin="01:07:25.710" end="01:07:30.420" style="s2">Facebook called rally point alpha I</p>
+<p begin="01:07:27.930" end="01:07:33.050" style="s2">think it&#39;s like 1,500 people who are</p>
+<p begin="01:07:30.420" end="01:07:36.600" style="s2">really quite rigorous sense makers and</p>
+<p begin="01:07:33.050" end="01:07:38.310" style="s2">we collectively process what gets posted</p>
+<p begin="01:07:36.600" end="01:07:40.410" style="s2">by the members when they think there&#39;s</p>
+<p begin="01:07:38.310" end="01:07:43.380" style="s2">something that might be significant but</p>
+<p begin="01:07:40.410" end="01:07:45.780" style="s2">might have a subtext or the you know</p>
+<p begin="01:07:43.380" end="01:07:47.280" style="s2">seriously biased in a non obvious way</p>
+<p begin="01:07:45.780" end="01:07:49.320" style="s2">and you know there&#39;ll be some quite</p>
+<p begin="01:07:47.280" end="01:07:51.240" style="s2">serious dissection of these pieces and</p>
+<p begin="01:07:49.320" end="01:07:53.220" style="s2">commentary about them but on the other</p>
+<p begin="01:07:51.240" end="01:07:55.350" style="s2">hand if you&#39;re a member of you know</p>
+<p begin="01:07:53.220" end="01:07:57.780" style="s2">white supremacists of Missouri or</p>
+<p begin="01:07:55.350" end="01:07:59.760" style="s2">something the collective sense making of</p>
+<p begin="01:07:57.780" end="01:08:01.110" style="s2">that group while may be accurate from</p>
+<p begin="01:07:59.760" end="01:08:04.530" style="s2">their point of view it&#39;s hard to imagine</p>
+<p begin="01:08:01.110" end="01:08:06.720" style="s2">how that has social utility yeah so you</p>
+<p begin="01:08:04.530" end="01:08:08.910" style="s2">know I you talking about tribalism I</p>
+<p begin="01:08:06.720" end="01:08:11.880" style="s2">think you know it sense sense making</p>
+<p begin="01:08:08.910" end="01:08:16.680" style="s2">tribes are what we have now again in</p>
+<p begin="01:08:11.880" end="01:08:20.100" style="s2">regard to education I learned using</p>
+<p begin="01:08:16.680" end="01:08:22.500" style="s2">social media with my my students it&#39;s</p>
+<p begin="01:08:20.100" end="01:08:25.859" style="s2">not just about the social media but but</p>
+<p begin="01:08:22.500" end="01:08:28.109" style="s2">about the pedagogy that students are</p>
+<p begin="01:08:25.859" end="01:08:31.620" style="s2">used to not being trusted they&#39;re used</p>
+<p begin="01:08:28.109" end="01:08:32.819" style="s2">to the teacher delivers information and</p>
+<p begin="01:08:31.620" end="01:08:35.069" style="s2">you figure out what&#39;s going to be on the</p>
+<p begin="01:08:32.819" end="01:08:36.569" style="s2">test and then you do well on the test</p>
+<p begin="01:08:35.069" end="01:08:39.240" style="s2">that show that you got that information</p>
+<p begin="01:08:36.569" end="01:08:40.920" style="s2">it&#39;s called the banking model the</p>
+<p begin="01:08:39.240" end="01:08:43.560" style="s2">teacher has some information and the</p>
+<p begin="01:08:40.920" end="01:08:46.469" style="s2">it&#39;s the duty of the students to to bank</p>
+<p begin="01:08:43.560" end="01:08:48.619" style="s2">it trying to educate myself I</p>
+<p begin="01:08:46.469" end="01:08:51.630" style="s2">came across Neil postman&#39;s book on</p>
+<p begin="01:08:48.619" end="01:08:55.920" style="s2">education and in which he said societies</p>
+<p begin="01:08:51.630" end="01:08:58.920" style="s2">that change slowly it&#39;s the duty of the</p>
+<p begin="01:08:55.920" end="01:09:01.769" style="s2">older generation to pass along what</p>
+<p begin="01:08:58.920" end="01:09:03.960" style="s2">works in societies that change very</p>
+<p begin="01:09:01.769" end="01:09:05.639" style="s2">rapidly it&#39;s a duty of the older</p>
+<p begin="01:09:03.960" end="01:09:07.710" style="s2">generation to teach the younger</p>
+<p begin="01:09:05.639" end="01:09:08.489" style="s2">generation how to learn from for</p>
+<p begin="01:09:07.710" end="01:09:10.529" style="s2">themselves</p>
+<p begin="01:09:08.489" end="01:09:12.719" style="s2">and our education system has not been</p>
+<p begin="01:09:10.529" end="01:09:14.789" style="s2">set up to encourage people and learn for</p>
+<p begin="01:09:12.719" end="01:09:17.460" style="s2">themselves even though that&#39;s really a</p>
+<p begin="01:09:14.789" end="01:09:20.190" style="s2">human instinct and we are human in large</p>
+<p begin="01:09:17.460" end="01:09:22.859" style="s2">part because of our ability to do social</p>
+<p begin="01:09:20.190" end="01:09:25.019" style="s2">learning schools have had this monopoly</p>
+<p begin="01:09:22.859" end="01:09:29.369" style="s2">on learning since forever</p>
+<p begin="01:09:25.019" end="01:09:30.719" style="s2">but now if you&#39;ve got a teenager ask</p>
+<p begin="01:09:29.369" end="01:09:33.089" style="s2">them how they would learn how to play</p>
+<p begin="01:09:30.719" end="01:09:35.249" style="s2">the ukulele or configure web server and</p>
+<p begin="01:09:33.089" end="01:09:36.900" style="s2">I bet they&#39;re gonna say well I&#39;ll do a</p>
+<p begin="01:09:35.249" end="01:09:38.849" style="s2">search on YouTube and they&#39;ll probably</p>
+<p begin="01:09:36.900" end="01:09:40.799" style="s2">find another teenager who will teach</p>
+<p begin="01:09:38.849" end="01:09:42.599" style="s2">them how to do it you know we&#39;ve got</p>
+<p begin="01:09:40.799" end="01:09:45.569" style="s2">we&#39;ve got YouTube we&#39;ve got Wikipedia</p>
+<p begin="01:09:42.599" end="01:09:48.989" style="s2">we&#39;ve got Google we&#39;ve got you know the</p>
+<p begin="01:09:45.569" end="01:09:51.569" style="s2">Internet Archive we&#39;ve got so many of</p>
+<p begin="01:09:48.989" end="01:09:54.960" style="s2">the books in the world online it&#39;s now</p>
+<p begin="01:09:51.569" end="01:09:57.300" style="s2">possible for people to educate</p>
+<p begin="01:09:54.960" end="01:09:59.610" style="s2">themselves and educate each other</p>
+<p begin="01:09:57.300" end="01:10:02.550" style="s2">without going to school of course what&#39;s</p>
+<p begin="01:09:59.610" end="01:10:06.360" style="s2">missing is well how do we do this so you</p>
+<p begin="01:10:02.550" end="01:10:08.880" style="s2">know I started a a project I called pure</p>
+<p begin="01:10:06.360" end="01:10:10.920" style="s2">gaji instead of pedagogy you know that&#39;s</p>
+<p begin="01:10:08.880" end="01:10:13.949" style="s2">like teaching the young paragon Jesus</p>
+<p begin="01:10:10.920" end="01:10:17.999" style="s2">like appears teaching each other and a</p>
+<p begin="01:10:13.949" end="01:10:20.699" style="s2">group this is 2011 a group materialized</p>
+<p begin="01:10:17.999" end="01:10:24.210" style="s2">online of educators from all over Mexico</p>
+<p begin="01:10:20.699" end="01:10:26.729" style="s2">and Japan and Germany and there&#39;s it&#39;s</p>
+<p begin="01:10:24.210" end="01:10:28.650" style="s2">still going I really dropped out of it a</p>
+<p begin="01:10:26.729" end="01:10:30.840" style="s2">couple of years later and and the</p>
+<p begin="01:10:28.650" end="01:10:33.449" style="s2">community took it on by itself but if</p>
+<p begin="01:10:30.840" end="01:10:35.789" style="s2">you go to peer Gogi org you&#39;ll find that</p>
+<p begin="01:10:33.449" end="01:10:38.760" style="s2">they they&#39;re in the fourth iteration of</p>
+<p begin="01:10:35.789" end="01:10:41.729" style="s2">a free handbook on how groups of people</p>
+<p begin="01:10:38.760" end="01:10:43.559" style="s2">can learn online let&#39;s say you and your</p>
+<p begin="01:10:41.729" end="01:10:46.050" style="s2">tribe want to learn a particular subject</p>
+<p begin="01:10:43.559" end="01:10:47.760" style="s2">and none of you are an expert how do you</p>
+<p begin="01:10:46.050" end="01:10:49.559" style="s2">go about finding resources and</p>
+<p begin="01:10:47.760" end="01:10:51.599" style="s2">qualifying and organizing those</p>
+<p begin="01:10:49.559" end="01:10:54.269" style="s2">resources and creating learning</p>
+<p begin="01:10:51.599" end="01:10:57.780" style="s2">experiences which media do you use how</p>
+<p begin="01:10:54.269" end="01:10:59.020" style="s2">do you how do you assess it so I think</p>
+<p begin="01:10:57.780" end="01:11:01.960" style="s2">that we we</p>
+<p begin="01:10:59.020" end="01:11:04.300" style="s2">of folks an educational challenge and</p>
+<p begin="01:11:01.960" end="01:11:06.940" style="s2">that our educational institutions really</p>
+<p begin="01:11:04.300" end="01:11:09.970" style="s2">can&#39;t keep up with learning crap</p>
+<p begin="01:11:06.940" end="01:11:12.580" style="s2">detection and attention management but</p>
+<p begin="01:11:09.970" end="01:11:16.630" style="s2">we also have the ability to learn with</p>
+<p begin="01:11:12.580" end="01:11:18.970" style="s2">and from each other online yep and if I</p>
+<p begin="01:11:16.630" end="01:11:20.440" style="s2">give you an executive out YouTube my</p>
+<p begin="01:11:18.970" end="01:11:22.480" style="s2">wife is starting to complain about her</p>
+<p begin="01:11:20.440" end="01:11:23.890" style="s2">hair getting too long and scraggly and</p>
+<p begin="01:11:22.480" end="01:11:26.650" style="s2">she said I bet you can figure out how to</p>
+<p begin="01:11:23.890" end="01:11:29.530" style="s2">cut my hair on YouTube and so I&#39;ve been</p>
+<p begin="01:11:26.650" end="01:11:31.300" style="s2">watching YouTube&#39;s hair cutting videos</p>
+<p begin="01:11:29.530" end="01:11:33.220" style="s2">that I&#39;m really interested in but I</p>
+<p begin="01:11:31.300" end="01:11:35.320" style="s2">think I have learned how to cut hair</p>
+<p begin="01:11:33.220" end="01:11:36.430" style="s2">with scissors and a comb and I&#39;m gonna</p>
+<p begin="01:11:35.320" end="01:11:38.590" style="s2">give it a try tomorrow</p>
+<p begin="01:11:36.430" end="01:11:40.450" style="s2">and as I said well you know no matter</p>
+<p begin="01:11:38.590" end="01:11:42.760" style="s2">how bad it is it&#39;ll grow back in six</p>
+<p begin="01:11:40.450" end="01:11:45.310" style="s2">weeks so we shall see</p>
+<p begin="01:11:42.760" end="01:11:47.500" style="s2">we&#39;re getting close on time here there&#39;s</p>
+<p begin="01:11:45.310" end="01:11:49.570" style="s2">other interesting things in Nets March I</p>
+<p begin="01:11:47.500" end="01:11:51.100" style="s2">encourage people to read but I would</p>
+<p begin="01:11:49.570" end="01:11:53.020" style="s2">like to jump ahead a little bit to a</p>
+<p begin="01:11:51.100" end="01:11:54.760" style="s2">last topic which is something I didn&#39;t</p>
+<p begin="01:11:53.020" end="01:11:57.610" style="s2">even know you had done until I was doing</p>
+<p begin="01:11:54.760" end="01:11:59.770" style="s2">research for this podcast and I found it</p>
+<p begin="01:11:57.610" end="01:12:02.430" style="s2">extremely interesting and that is the</p>
+<p begin="01:11:59.770" end="01:12:05.050" style="s2">class that you teach on the literacy of</p>
+<p begin="01:12:02.430" end="01:12:08.650" style="s2">cooperation oh yeah</p>
+<p begin="01:12:05.050" end="01:12:10.810" style="s2">well um again you know I usually learn</p>
+<p begin="01:12:08.650" end="01:12:13.570" style="s2">things by stumbling across them and then</p>
+<p begin="01:12:10.810" end="01:12:14.590" style="s2">looking into them and when I was writing</p>
+<p begin="01:12:13.570" end="01:12:17.260" style="s2">smart mobs</p>
+<p begin="01:12:14.590" end="01:12:19.450" style="s2">this issue of collective action became</p>
+<p begin="01:12:17.260" end="01:12:22.270" style="s2">interesting to me and I discovered the</p>
+<p begin="01:12:19.450" end="01:12:24.940" style="s2">work of Elinor Ostrom in particular</p>
+<p begin="01:12:22.270" end="01:12:27.670" style="s2">Austin was a awarded the Nobel Prize in</p>
+<p begin="01:12:24.940" end="01:12:28.990" style="s2">Economics which which bugged a lot of</p>
+<p begin="01:12:27.670" end="01:12:33.250" style="s2">economists because she was a political</p>
+<p begin="01:12:28.990" end="01:12:35.740" style="s2">scientist and I think most people know</p>
+<p begin="01:12:33.250" end="01:12:39.340" style="s2">the phrase the tragedy of the Commons it</p>
+<p begin="01:12:35.740" end="01:12:43.030" style="s2">was written by a biologist at Stanford</p>
+<p begin="01:12:39.340" end="01:12:45.130" style="s2">warning about you know population growth</p>
+<p begin="01:12:43.030" end="01:12:47.590" style="s2">threatening the human population and</p>
+<p begin="01:12:45.130" end="01:12:50.080" style="s2">then the Commons he was referring to</p>
+<p begin="01:12:47.590" end="01:12:52.510" style="s2">were the common land in most villages</p>
+<p begin="01:12:50.080" end="01:12:54.570" style="s2">where that was no not owned by anyone</p>
+<p begin="01:12:52.510" end="01:12:57.250" style="s2">and anybody could graze it and</p>
+<p begin="01:12:54.570" end="01:12:58.840" style="s2">inevitably people would would graze as</p>
+<p begin="01:12:57.250" end="01:13:01.420" style="s2">many cattle or sheep as they could and</p>
+<p begin="01:12:58.840" end="01:13:03.430" style="s2">they would destroy the the Commons you</p>
+<p begin="01:13:01.420" end="01:13:05.980" style="s2">know the desert off&#39; ocation of north</p>
+<p begin="01:13:03.430" end="01:13:08.770" style="s2">africa happens with people just going</p>
+<p begin="01:13:05.980" end="01:13:10.690" style="s2">for for firewood further and further and</p>
+<p begin="01:13:08.770" end="01:13:12.340" style="s2">this conclusion that&#39;s what the tragedy</p>
+<p begin="01:13:10.690" end="01:13:16.060" style="s2">is is that this is inevitable</p>
+<p begin="01:13:12.340" end="01:13:18.429" style="s2">um well Ostrom Jia took some years</p>
+<p begin="01:13:16.060" end="01:13:21.389" style="s2">Ostrom a swell isn&#39;t really inevitable</p>
+<p begin="01:13:18.429" end="01:13:26.730" style="s2">and so she studied people who were were</p>
+<p begin="01:13:21.389" end="01:13:31.420" style="s2">managing common pool resources fisheries</p>
+<p begin="01:13:26.730" end="01:13:34.150" style="s2">timber water systems policing and she</p>
+<p begin="01:13:31.420" end="01:13:37.030" style="s2">concluded that there was a core of</p>
+<p begin="01:13:34.150" end="01:13:39.599" style="s2">people of groups everywhere who did</p>
+<p begin="01:13:37.030" end="01:13:43.449" style="s2">manage to use common resources without</p>
+<p begin="01:13:39.599" end="01:13:45.580" style="s2">despoiling it or over using it and she</p>
+<p begin="01:13:43.449" end="01:13:47.800" style="s2">found seven design characteristics</p>
+<p begin="01:13:45.580" end="01:13:50.050" style="s2">around those communities that seemed to</p>
+<p begin="01:13:47.800" end="01:13:52.989" style="s2">be common one of them was clear</p>
+<p begin="01:13:50.050" end="01:13:56.980" style="s2">boundaries and other one was ability to</p>
+<p begin="01:13:52.989" end="01:14:00.460" style="s2">make new rules another one was fairly</p>
+<p begin="01:13:56.980" end="01:14:04.030" style="s2">inexpensive relatively fair means of</p>
+<p begin="01:14:00.460" end="01:14:07.750" style="s2">adjudicating disputes and I thought well</p>
+<p begin="01:14:04.030" end="01:14:09.179" style="s2">why humans cooperate and and and why we</p>
+<p begin="01:14:07.750" end="01:14:11.290" style="s2">don&#39;t cooperate in too many instances</p>
+<p begin="01:14:09.179" end="01:14:13.599" style="s2">that&#39;s so important to so many things</p>
+<p begin="01:14:11.290" end="01:14:16.750" style="s2">you know we&#39;ve got this global</p>
+<p begin="01:14:13.599" end="01:14:17.230" style="s2">environmental crisis and and global</p>
+<p begin="01:14:16.750" end="01:14:20.530" style="s2">warming</p>
+<p begin="01:14:17.230" end="01:14:22.030" style="s2">we&#39;ve got nuclear weapons we&#39;ve got you</p>
+<p begin="01:14:20.530" end="01:14:25.119" style="s2">know disease management all of these</p>
+<p begin="01:14:22.030" end="01:14:27.849" style="s2">things are Commons issues wouldn&#39;t the</p>
+<p begin="01:14:25.119" end="01:14:29.590" style="s2">people who are dealing with this deal</p>
+<p begin="01:14:27.849" end="01:14:31.599" style="s2">with it better not that there&#39;s a</p>
+<p begin="01:14:29.590" end="01:14:35.830" style="s2">formula but if they understood more</p>
+<p begin="01:14:31.599" end="01:14:39.730" style="s2">about human cooperation so um I I had a</p>
+<p begin="01:14:35.830" end="01:14:41.139" style="s2">little course at at Stanford that I used</p>
+<p begin="01:14:39.730" end="01:14:43.840" style="s2">to start learning about this we had</p>
+<p begin="01:14:41.139" end="01:14:46.150" style="s2">Jimmy Wales came out and and and spoke</p>
+<p begin="01:14:43.840" end="01:14:48.810" style="s2">and certainly Wikipedia is a great</p>
+<p begin="01:14:46.150" end="01:14:52.119" style="s2">example of cooperation there was a</p>
+<p begin="01:14:48.810" end="01:14:55.150" style="s2">sociologist by the name of mine cor</p>
+<p begin="01:14:52.119" end="01:15:00.070" style="s2">Olsen who wrote about collective action</p>
+<p begin="01:14:55.150" end="01:15:03.250" style="s2">and pretty much established the norm</p>
+<p begin="01:15:00.070" end="01:15:06.849" style="s2">among social scientists that a group of</p>
+<p begin="01:15:03.250" end="01:15:10.210" style="s2">people who are not related and who are</p>
+<p begin="01:15:06.849" end="01:15:11.920" style="s2">not incented financially are not going</p>
+<p begin="01:15:10.210" end="01:15:14.560" style="s2">to create public goods of course</p>
+<p begin="01:15:11.920" end="01:15:17.469" style="s2">Wikipedia is a counter example to that</p>
+<p begin="01:15:14.560" end="01:15:20.409" style="s2">we find out that that people actually do</p>
+<p begin="01:15:17.469" end="01:15:23.889" style="s2">that so you know one of the things that</p>
+<p begin="01:15:20.409" end="01:15:26.170" style="s2">I discovered was that biologists work on</p>
+<p begin="01:15:23.889" end="01:15:29.140" style="s2">cop cooperation sociologists work on</p>
+<p begin="01:15:26.170" end="01:15:32.020" style="s2">operation economists computer scientists</p>
+<p begin="01:15:29.140" end="01:15:34.000" style="s2">political scientists but they don&#39;t</p>
+<p begin="01:15:32.020" end="01:15:36.070" style="s2">really talk to each other and so I</p>
+<p begin="01:15:34.000" end="01:15:38.590" style="s2">thought gee an interdisciplinary study</p>
+<p begin="01:15:36.070" end="01:15:41.560" style="s2">of cooperation how important that would</p>
+<p begin="01:15:38.590" end="01:15:45.910" style="s2">be I actually was invited to give a TED</p>
+<p begin="01:15:41.560" end="01:15:49.090" style="s2">talking in 2005 and that&#39;s what I gave</p>
+<p begin="01:15:45.910" end="01:15:50.770" style="s2">the the talk on calling for a new</p>
+<p begin="01:15:49.090" end="01:15:52.810" style="s2">science of cooperation I&#39;m happy to say</p>
+<p begin="01:15:50.770" end="01:15:55.150" style="s2">that that&#39;s happening now there&#39;s there</p>
+<p begin="01:15:52.810" end="01:15:57.010" style="s2">are centers of Arizona State University</p>
+<p begin="01:15:55.150" end="01:16:00.239" style="s2">and an answer damn where they&#39;re doing</p>
+<p begin="01:15:57.010" end="01:16:04.150" style="s2">this interdisciplinary study I was naive</p>
+<p begin="01:16:00.239" end="01:16:08.800" style="s2">about the role of interdisciplinary work</p>
+<p begin="01:16:04.150" end="01:16:10.900" style="s2">in in the the university you are</p>
+<p begin="01:16:08.800" end="01:16:15.360" style="s2">rewarded for your specialization in the</p>
+<p begin="01:16:10.900" end="01:16:18.100" style="s2">university and every minute you spend in</p>
+<p begin="01:16:15.360" end="01:16:20.190" style="s2">interdisciplinary cooperation you&#39;re</p>
+<p begin="01:16:18.100" end="01:16:22.989" style="s2">really losing out it&#39;s an it&#39;s an</p>
+<p begin="01:16:20.190" end="01:16:25.960" style="s2">opportunity cause so those institutions</p>
+<p begin="01:16:22.989" end="01:16:27.489" style="s2">are not really designed well for</p>
+<p begin="01:16:25.960" end="01:16:30.400" style="s2">collaboration although you know they</p>
+<p begin="01:16:27.489" end="01:16:32.199" style="s2">certainly are are trying so I started</p>
+<p begin="01:16:30.400" end="01:16:35.110" style="s2">this online course and in which I would</p>
+<p begin="01:16:32.199" end="01:16:37.000" style="s2">introduce people to the literature and</p>
+<p begin="01:16:35.110" end="01:16:40.179" style="s2">again this is one of the things that I</p>
+<p begin="01:16:37.000" end="01:16:42.190" style="s2">learned teaching blended learning at</p>
+<p begin="01:16:40.179" end="01:16:45.730" style="s2">Berkeley and Stanford but also running</p>
+<p begin="01:16:42.190" end="01:16:47.710" style="s2">my own courses online was that yes we</p>
+<p begin="01:16:45.730" end="01:16:49.060" style="s2">had a weekly live session like like the</p>
+<p begin="01:16:47.710" end="01:16:51.070" style="s2">zoom sessions today I use different</p>
+<p begin="01:16:49.060" end="01:16:53.620" style="s2">technology in which you I</p>
+<p begin="01:16:51.070" end="01:16:56.650" style="s2">I gave short lectures but during these</p>
+<p begin="01:16:53.620" end="01:16:59.230" style="s2">lectures the the people who participated</p>
+<p begin="01:16:56.650" end="01:17:01.570" style="s2">they searched and put the things that</p>
+<p begin="01:16:59.230" end="01:17:05.739" style="s2">they found in them and the the chat</p>
+<p begin="01:17:01.570" end="01:17:07.000" style="s2">other people can can contextualize those</p>
+<p begin="01:17:05.739" end="01:17:10.719" style="s2">with a couple of sentences describing</p>
+<p begin="01:17:07.000" end="01:17:15.100" style="s2">them other people created a wiki page</p>
+<p begin="01:17:10.719" end="01:17:17.830" style="s2">for that session so again the the</p>
+<p begin="01:17:15.100" end="01:17:20.880" style="s2">pedagogy that I learned was to give up</p>
+<p begin="01:17:17.830" end="01:17:24.449" style="s2">some of my control as the teacher and to</p>
+<p begin="01:17:20.880" end="01:17:26.530" style="s2">to ask the students to become more</p>
+<p begin="01:17:24.449" end="01:17:29.500" style="s2">responsible for their own learning and</p>
+<p begin="01:17:26.530" end="01:17:32.710" style="s2">in my experience they react really</p>
+<p begin="01:17:29.500" end="01:17:34.540" style="s2">really well to that they haven&#39;t been</p>
+<p begin="01:17:32.710" end="01:17:36.940" style="s2">trained to do that but that&#39;s that&#39;s</p>
+<p begin="01:17:34.540" end="01:17:39.100" style="s2">something that humans naturally want to</p>
+<p begin="01:17:36.940" end="01:17:39.820" style="s2">do so I&#39;ve taught a bunch of people a</p>
+<p begin="01:17:39.100" end="01:17:43.320" style="s2">lot of</p>
+<p begin="01:17:39.820" end="01:17:46.780" style="s2">them are like Peace Studies or in</p>
+<p begin="01:17:43.320" end="01:17:48.750" style="s2">studying housing and homelessness and</p>
+<p begin="01:17:46.780" end="01:17:52.210" style="s2">I&#39;m hoping that having a kind of a</p>
+<p begin="01:17:48.750" end="01:17:55.599" style="s2">50,000 foot view understanding of what</p>
+<p begin="01:17:52.210" end="01:17:57.389" style="s2">we know about cooperation which is a</p>
+<p begin="01:17:55.599" end="01:17:59.889" style="s2">great deal and what we don&#39;t know about</p>
+<p begin="01:17:57.389" end="01:18:01.690" style="s2">cooperation the obstacles to it which is</p>
+<p begin="01:17:59.889" end="01:18:04.599" style="s2">a great deal that then people would be</p>
+<p begin="01:18:01.690" end="01:18:06.429" style="s2">able to do a better job again I think</p>
+<p begin="01:18:04.599" end="01:18:08.579" style="s2">this this ought to be a major in</p>
+<p begin="01:18:06.429" end="01:18:11.199" style="s2">universes people ought to do</p>
+<p begin="01:18:08.579" end="01:18:13.750" style="s2">interdisciplinary studies of cooperation</p>
+<p begin="01:18:11.199" end="01:18:15.460" style="s2">and collective action okay very very</p>
+<p begin="01:18:13.750" end="01:18:18.550" style="s2">good are you are you still offering the</p>
+<p begin="01:18:15.460" end="01:18:21.070" style="s2">course I haven&#39;t done the course in a</p>
+<p begin="01:18:18.550" end="01:18:24.040" style="s2">couple of years but I&#39;ll guess a year or</p>
+<p begin="01:18:21.070" end="01:18:27.219" style="s2">so ago I took the curriculum and I</p>
+<p begin="01:18:24.040" end="01:18:29.829" style="s2">turned it into an eight part annotated</p>
+<p begin="01:18:27.219" end="01:18:33.400" style="s2">reading list for that so I may give the</p>
+<p begin="01:18:29.829" end="01:18:36.790" style="s2">course again but if you want to do your</p>
+<p begin="01:18:33.400" end="01:18:38.889" style="s2">own readings on this I&#39;ve got this eight</p>
+<p begin="01:18:36.790" end="01:18:42.070" style="s2">part it&#39;s open to the public on patreon</p>
+<p begin="01:18:38.889" end="01:18:44.860" style="s2">you know Patriot Facebook because I hate</p>
+<p begin="01:18:42.070" end="01:18:47.380" style="s2">what Facebook is doing to the world and</p>
+<p begin="01:18:44.860" end="01:18:49.150" style="s2">started sharing on patreon and what&#39;s</p>
+<p begin="01:18:47.380" end="01:18:51.550" style="s2">interesting about patreon is that they</p>
+<p begin="01:18:49.150" end="01:18:55.270" style="s2">don&#39;t have the surveillance capitalism</p>
+<p begin="01:18:51.550" end="01:18:57.099" style="s2">model they&#39;re not serving ads to you</p>
+<p begin="01:18:55.270" end="01:18:58.420" style="s2">based on your preferences they&#39;re</p>
+<p begin="01:18:57.099" end="01:19:00.429" style="s2">enabling people who believe in what</p>
+<p begin="01:18:58.420" end="01:19:02.650" style="s2">you&#39;re doing to contribute a dollar a</p>
+<p begin="01:19:00.429" end="01:19:06.610" style="s2">month or two dollars every time you do a</p>
+<p begin="01:19:02.650" end="01:19:09.579" style="s2">video or a podcast and and I&#39;ve always</p>
+<p begin="01:19:06.610" end="01:19:12.610" style="s2">liked the idea of of writing for or</p>
+<p begin="01:19:09.579" end="01:19:15.429" style="s2">showing my art for or teaching for a</p>
+<p begin="01:19:12.610" end="01:19:18.579" style="s2">public rather than an audience an</p>
+<p begin="01:19:15.429" end="01:19:21.099" style="s2">audience is really from the broadcast</p>
+<p begin="01:19:18.579" end="01:19:22.599" style="s2">age they&#39;re people who read your stuff</p>
+<p begin="01:19:21.099" end="01:19:24.699" style="s2">or view your stuff or listen to your</p>
+<p begin="01:19:22.599" end="01:19:28.119" style="s2">stuff and maybe they&#39;ll send you a fan</p>
+<p begin="01:19:24.699" end="01:19:30.369" style="s2">letter or my something but a public and</p>
+<p begin="01:19:28.119" end="01:19:32.860" style="s2">again it&#39;s it&#39;s only the internet that&#39;s</p>
+<p begin="01:19:30.369" end="01:19:35.909" style="s2">made this possible a public can link to</p>
+<p begin="01:19:32.860" end="01:19:39.070" style="s2">you a public can disagree with you and</p>
+<p begin="01:19:35.909" end="01:19:42.280" style="s2">debate with you Republican can join you</p>
+<p begin="01:19:39.070" end="01:19:45.969" style="s2">for collective action so I like writing</p>
+<p begin="01:19:42.280" end="01:19:48.190" style="s2">for my patrons so about about half the</p>
+<p begin="01:19:45.969" end="01:19:49.780" style="s2">material I put up is only for the people</p>
+<p begin="01:19:48.190" end="01:19:51.520" style="s2">who pay a dollar month or two dollars a</p>
+<p begin="01:19:49.780" end="01:19:53.650" style="s2">month or whatever but the rest of it</p>
+<p begin="01:19:51.520" end="01:19:55.960" style="s2">it&#39;s free to the public and I</p>
+<p begin="01:19:53.650" end="01:19:58.230" style="s2">that platform a lot better I don&#39;t think</p>
+<p begin="01:19:55.960" end="01:20:00.540" style="s2">that the people paying each other</p>
+<p begin="01:19:58.230" end="01:20:04.480" style="s2">business model is going to take over</p>
+<p begin="01:20:00.540" end="01:20:06.400" style="s2">from the surveillance capitalism model</p>
+<p begin="01:20:04.480" end="01:20:08.680" style="s2">it&#39;s too bad we didn&#39;t have micro</p>
+<p begin="01:20:06.400" end="01:20:11.500" style="s2">payment technology so that we could have</p>
+<p begin="01:20:08.680" end="01:20:13.990" style="s2">started out with people paying each</p>
+<p begin="01:20:11.500" end="01:20:16.690" style="s2">other you know I would pay a fraction of</p>
+<p begin="01:20:13.990" end="01:20:18.910" style="s2">a penny to to read something and I might</p>
+<p begin="01:20:16.690" end="01:20:21.100" style="s2">read a bunch of things every day and it</p>
+<p begin="01:20:18.910" end="01:20:23.020" style="s2">wouldn&#39;t make a huge difference to me I</p>
+<p begin="01:20:21.100" end="01:20:25.090" style="s2">might even come out ahead if people read</p>
+<p begin="01:20:23.020" end="01:20:29.320" style="s2">my stuff of course that was would Ted</p>
+<p begin="01:20:25.090" end="01:20:32.140" style="s2">Nelson wrote computer lib and 1974 in</p>
+<p begin="01:20:29.320" end="01:20:33.910" style="s2">which that&#39;s what he hoped would happen</p>
+<p begin="01:20:32.140" end="01:20:37.270" style="s2">and patreon is kind of a step in that</p>
+<p begin="01:20:33.910" end="01:20:39.520" style="s2">direction yeah that&#39;s a good good</p>
+<p begin="01:20:37.270" end="01:20:41.380" style="s2">thought and again I think it when I</p>
+<p begin="01:20:39.520" end="01:20:43.960" style="s2">think back this long arc that we both</p>
+<p begin="01:20:41.380" end="01:20:46.810" style="s2">been on since the early 80s you know to</p>
+<p begin="01:20:43.960" end="01:20:49.510" style="s2">my mind where things started going in a</p>
+<p begin="01:20:46.810" end="01:20:50.920" style="s2">direction that I liked less though as we</p>
+<p begin="01:20:49.510" end="01:20:52.510" style="s2">said there&#39;s good and bad is when</p>
+<p begin="01:20:50.920" end="01:20:56.140" style="s2">advertising became the predominant</p>
+<p begin="01:20:52.510" end="01:20:58.120" style="s2">paradigm and I think we both know Chris</p>
+<p begin="01:20:56.140" end="01:21:00.850" style="s2">Anderson I think what are the founders</p>
+<p begin="01:20:58.120" end="01:21:03.730" style="s2">of Wired and he wrote the very</p>
+<p begin="01:21:00.850" end="01:21:06.670" style="s2">influential book free that essentially</p>
+<p begin="01:21:03.730" end="01:21:08.620" style="s2">supercharged the phenomena of all online</p>
+<p begin="01:21:06.670" end="01:21:11.740" style="s2">business models that could be free</p>
+<p begin="01:21:08.620" end="01:21:13.660" style="s2">should be free and well if it&#39;s free as</p>
+<p begin="01:21:11.740" end="01:21:16.120" style="s2">they say if you&#39;re not paying then I</p>
+<p begin="01:21:13.660" end="01:21:18.220" style="s2">guess you&#39;re the product and that is</p>
+<p begin="01:21:16.120" end="01:21:20.710" style="s2">indeed where we&#39;re at I&#39;m glad to hear</p>
+<p begin="01:21:18.220" end="01:21:21.880" style="s2">that patreon is working for you as I</p>
+<p begin="01:21:20.710" end="01:21:23.890" style="s2">mentioned at the beginning of the show</p>
+<p begin="01:21:21.880" end="01:21:26.080" style="s2">I&#39;ve been a supporter of you on patreon</p>
+<p begin="01:21:23.890" end="01:21:28.120" style="s2">for some time and I would encourage</p>
+<p begin="01:21:26.080" end="01:21:31.390" style="s2">other folks to check out Howard</p>
+<p begin="01:21:28.120" end="01:21:32.770" style="s2">Rheingold on patreon with that I think</p>
+<p begin="01:21:31.390" end="01:21:34.870" style="s2">we&#39;re at the end of our time I just</p>
+<p begin="01:21:32.770" end="01:21:37.690" style="s2">would like to thank you again for this</p>
+<p begin="01:21:34.870" end="01:21:39.460" style="s2">very interesting survey of your work in</p>
+<p begin="01:21:37.690" end="01:21:43.000" style="s2">the and the history of the online world</p>
+<p begin="01:21:39.460" end="01:21:46.170" style="s2">it&#39;s entirely my pleasure June very</p>
+<p begin="01:21:43.000" end="01:21:46.170" style="s2">great very good thank you</p>
+<p begin="01:21:46.560" end="01:21:50.560" style="s2">[Music]</p>
+<p begin="01:21:48.060" end="01:21:53.469" style="s2">production services and audio editing by</p>
+<p begin="01:21:50.560" end="01:21:58.079" style="s2">jerod Jane&#39;s consulting music by Tom</p>
+<p begin="01:21:53.469" end="01:21:58.079" style="s2">Muller at modern space music com</p>
+</div>
+</body>
+</tt>

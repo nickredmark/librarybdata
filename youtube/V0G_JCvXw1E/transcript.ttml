@@ -1,0 +1,1998 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.030" end="00:00:03.720" style="s2">howdy this is Jim rut and this is the</p>
+<p begin="00:00:02.399" end="00:00:10.760" style="s2">Jim rut show</p>
+<p begin="00:00:03.720" end="00:00:12.570" style="s2">[Music]</p>
+<p begin="00:00:10.760" end="00:00:14.790" style="s2">listeners have asked us to provide</p>
+<p begin="00:00:12.570" end="00:00:17.279" style="s2">pointers some of the resources we talked</p>
+<p begin="00:00:14.790" end="00:00:19.170" style="s2">about on the show we now have links to</p>
+<p begin="00:00:17.279" end="00:00:20.940" style="s2">books and articles referenced in recent</p>
+<p begin="00:00:19.170" end="00:00:21.840" style="s2">podcasts that are available on our</p>
+<p begin="00:00:20.940" end="00:00:24.810" style="s2">website</p>
+<p begin="00:00:21.840" end="00:00:26.310" style="s2">we also offer full transcripts go to Jim</p>
+<p begin="00:00:24.810" end="00:00:32.730" style="s2">ruts show com</p>
+<p begin="00:00:26.310" end="00:00:34.680" style="s2">that&#39;s Jim ruts show com today&#39;s guest</p>
+<p begin="00:00:32.730" end="00:00:37.590" style="s2">is Mark Burgess an independent</p>
+<p begin="00:00:34.680" end="00:00:39.420" style="s2">researcher and writer hey Jim thanks for</p>
+<p begin="00:00:37.590" end="00:00:41.449" style="s2">having me back yeah it&#39;s great to have</p>
+<p begin="00:00:39.420" end="00:00:43.920" style="s2">you back on our first episode was so</p>
+<p begin="00:00:41.449" end="00:00:45.120" style="s2">interesting I figured Dan must find out</p>
+<p begin="00:00:43.920" end="00:00:47.309" style="s2">what he knows about money the other</p>
+<p begin="00:00:45.120" end="00:00:49.829" style="s2">thing he&#39;s written about mark is a</p>
+<p begin="00:00:47.309" end="00:00:52.379" style="s2">theoretical physicist by training he&#39;s</p>
+<p begin="00:00:49.829" end="00:00:54.780" style="s2">also a technologist scientist in various</p>
+<p begin="00:00:52.379" end="00:00:57.809" style="s2">domains an advisor to public and private</p>
+<p begin="00:00:54.780" end="00:01:00.149" style="s2">organizations globally he&#39;s also what I</p>
+<p begin="00:00:57.809" end="00:01:02.460" style="s2">might call a practical philosopher with</p>
+<p begin="00:01:00.149" end="00:01:04.559" style="s2">his development of promise theory and</p>
+<p begin="00:01:02.460" end="00:01:06.120" style="s2">yeah he writes fiction and composes</p>
+<p begin="00:01:04.559" end="00:01:09.210" style="s2">music today we&#39;re going to examine</p>
+<p begin="00:01:06.120" end="00:01:10.680" style="s2">another of his interests money mark has</p>
+<p begin="00:01:09.210" end="00:01:13.290" style="s2">written a very interesting book on the</p>
+<p begin="00:01:10.680" end="00:01:16.140" style="s2">topic money ownership an agency is an</p>
+<p begin="00:01:13.290" end="00:01:17.850" style="s2">application of promise theory as always</p>
+<p begin="00:01:16.140" end="00:01:21.750" style="s2">we&#39;ll have a link to it unmarked episode</p>
+<p begin="00:01:17.850" end="00:01:23.790" style="s2">page at jib rut comm check it out the</p>
+<p begin="00:01:21.750" end="00:01:26.700" style="s2">foundation of your work on money is your</p>
+<p begin="00:01:23.790" end="00:01:29.729" style="s2">earlier work on promise theory could you</p>
+<p begin="00:01:26.700" end="00:01:30.590" style="s2">very briefly outline promise theory for</p>
+<p begin="00:01:29.729" end="00:01:35.610" style="s2">our audience</p>
+<p begin="00:01:30.590" end="00:01:39.390" style="s2">sure promise theory is really a way of</p>
+<p begin="00:01:35.610" end="00:01:42.329" style="s2">modeling stuff that happens and in a way</p>
+<p begin="00:01:39.390" end="00:01:44.520" style="s2">that tries to build systems from the</p>
+<p begin="00:01:42.329" end="00:01:46.860" style="s2">bottom up so you you look at the</p>
+<p begin="00:01:44.520" end="00:01:49.170" style="s2">smallest pieces of a system and then try</p>
+<p begin="00:01:46.860" end="00:01:51.780" style="s2">to see how they compose to to create the</p>
+<p begin="00:01:49.170" end="00:01:54.659" style="s2">whole and you do it by basically</p>
+<p begin="00:01:51.780" end="00:01:57.240" style="s2">breaking everything down into a bunch of</p>
+<p begin="00:01:54.659" end="00:01:59.310" style="s2">agents agents can be people things</p>
+<p begin="00:01:57.240" end="00:02:02.490" style="s2">machines mineral animal vegetable</p>
+<p begin="00:01:59.310" end="00:02:04.609" style="s2">whatever and and the promises they make</p>
+<p begin="00:02:02.490" end="00:02:07.680" style="s2">to one another the promises are</p>
+<p begin="00:02:04.609" end="00:02:12.390" style="s2">statements of intent or or alignment of</p>
+<p begin="00:02:07.680" end="00:02:15.210" style="s2">intent and by creating that network</p>
+<p begin="00:02:12.390" end="00:02:16.890" style="s2">between agents of the intent and the</p>
+<p begin="00:02:15.210" end="00:02:20.250" style="s2">direction in which they&#39;re moving you</p>
+<p begin="00:02:16.890" end="00:02:22.390" style="s2">hope to model systems and their outcomes</p>
+<p begin="00:02:20.250" end="00:02:24.160" style="s2">so I guess that&#39;s a short</p>
+<p begin="00:02:22.390" end="00:02:25.990" style="s2">and that&#39;s great they&#39;re really very</p>
+<p begin="00:02:24.160" end="00:02:29.170" style="s2">rich theory and we talk about it</p>
+<p begin="00:02:25.990" end="00:02:31.270" style="s2">considerably more detailed in ep 28</p>
+<p begin="00:02:29.170" end="00:02:33.940" style="s2">where mark was the guest on the Jim</p>
+<p begin="00:02:31.270" end="00:02:36.670" style="s2">Rutte show so just type in mark Burgess</p>
+<p begin="00:02:33.940" end="00:02:38.920" style="s2">EP 28 Jim rut show into Google and you</p>
+<p begin="00:02:36.670" end="00:02:42.550" style="s2">will find it let&#39;s now jump into money</p>
+<p begin="00:02:38.920" end="00:02:46.510" style="s2">very big picture in your mind mark what</p>
+<p begin="00:02:42.550" end="00:02:48.760" style="s2">is money for I like that picture jumping</p>
+<p begin="00:02:46.510" end="00:02:49.330" style="s2">into money I could I could do that could</p>
+<p begin="00:02:48.760" end="00:02:51.790" style="s2">do that all day</p>
+<p begin="00:02:49.330" end="00:02:55.810" style="s2">what is money for I think money is for</p>
+<p begin="00:02:51.790" end="00:02:57.940" style="s2">communicating intent in a sense but it&#39;s</p>
+<p begin="00:02:55.810" end="00:03:00.340" style="s2">steeper than that because money is not</p>
+<p begin="00:02:57.940" end="00:03:01.810" style="s2">an expression of intent and in the</p>
+<p begin="00:03:00.340" end="00:03:04.030" style="s2">normal way that we think of money at</p>
+<p begin="00:03:01.810" end="00:03:07.300" style="s2">least in the in the modern version of</p>
+<p begin="00:03:04.030" end="00:03:10.300" style="s2">money that were used to using it&#39;s it&#39;s</p>
+<p begin="00:03:07.300" end="00:03:12.840" style="s2">at a layer below that which is a more of</p>
+<p begin="00:03:10.300" end="00:03:17.320" style="s2">a transport mechanism on top of which</p>
+<p begin="00:03:12.840" end="00:03:18.970" style="s2">intentions ride but it&#39;s some a medium</p>
+<p begin="00:03:17.320" end="00:03:21.190" style="s2">of exchange you know and whenever you</p>
+<p begin="00:03:18.970" end="00:03:23.350" style="s2">have exchanges you have people</p>
+<p begin="00:03:21.190" end="00:03:25.480" style="s2">interacting over a length of time and</p>
+<p begin="00:03:23.350" end="00:03:28.600" style="s2">building up a relationship with one</p>
+<p begin="00:03:25.480" end="00:03:31.510" style="s2">another and so money has this important</p>
+<p begin="00:03:28.600" end="00:03:34.510" style="s2">role in our society of maintaining</p>
+<p begin="00:03:31.510" end="00:03:36.850" style="s2">relationships even when perhaps we don&#39;t</p>
+<p begin="00:03:34.510" end="00:03:39.459" style="s2">communicate by talking on the phone or</p>
+<p begin="00:03:36.850" end="00:03:41.620" style="s2">visit one another for dinner so much</p>
+<p begin="00:03:39.459" end="00:03:43.299" style="s2">anymore as long as we&#39;re sending little</p>
+<p begin="00:03:41.620" end="00:03:45.640" style="s2">packets of money back and forth we still</p>
+<p begin="00:03:43.299" end="00:03:47.440" style="s2">have a relationship going so it becomes</p>
+<p begin="00:03:45.640" end="00:03:50.769" style="s2">a proxy for maintaining relationships</p>
+<p begin="00:03:47.440" end="00:03:52.959" style="s2">and therefore trusts very good the first</p>
+<p begin="00:03:50.769" end="00:03:54.730" style="s2">thing I learned reading your book that</p>
+<p begin="00:03:52.959" end="00:03:56.230" style="s2">caused me to raise my eyebrows I hear</p>
+<p begin="00:03:54.730" end="00:03:58.600" style="s2">something I hadn&#39;t thought up quite like</p>
+<p begin="00:03:56.230" end="00:04:01.989" style="s2">this before as you described money as a</p>
+<p begin="00:03:58.600" end="00:04:04.170" style="s2">network transfer system very clever</p>
+<p begin="00:04:01.989" end="00:04:08.130" style="s2">insight did you tell us more about that</p>
+<p begin="00:04:04.170" end="00:04:11.739" style="s2">yeah so having money as a go-between and</p>
+<p begin="00:04:08.130" end="00:04:14.170" style="s2">exchanges has a lot of advantages right</p>
+<p begin="00:04:11.739" end="00:04:18.430" style="s2">so you know some writers claim that</p>
+<p begin="00:04:14.170" end="00:04:20.470" style="s2">barter preceded money in in some version</p>
+<p begin="00:04:18.430" end="00:04:22.180" style="s2">of history and others I think</p>
+<p begin="00:04:20.470" end="00:04:23.560" style="s2">convincingly argue that that was enough</p>
+<p begin="00:04:22.180" end="00:04:28.600" style="s2">there was never really a time on which</p>
+<p begin="00:04:23.560" end="00:04:30.550" style="s2">money wasn&#39;t used in some sense and and</p>
+<p begin="00:04:28.600" end="00:04:32.590" style="s2">if we get when we get into promise there</p>
+<p begin="00:04:30.550" end="00:04:33.950" style="s2">you can explain that bartered goods are</p>
+<p begin="00:04:32.590" end="00:04:36.260" style="s2">really</p>
+<p begin="00:04:33.950" end="00:04:38.450" style="s2">kind of private currency by looking at</p>
+<p begin="00:04:36.260" end="00:04:41.860" style="s2">the patterns that are that it represents</p>
+<p begin="00:04:38.450" end="00:04:45.080" style="s2">like almost like a one-time pad but um</p>
+<p begin="00:04:41.860" end="00:04:48.620" style="s2">you know barter was the way that we</p>
+<p begin="00:04:45.080" end="00:04:50.960" style="s2">started to exchange things in the past</p>
+<p begin="00:04:48.620" end="00:04:52.610" style="s2">when you had a certain kind of good that</p>
+<p begin="00:04:50.960" end="00:04:56.000" style="s2">you wanted to sell me a bunch of wheat</p>
+<p begin="00:04:52.610" end="00:05:00.470" style="s2">and I&#39;d give you back a bunch of wood or</p>
+<p begin="00:04:56.000" end="00:05:03.080" style="s2">or honey or whatever it was and we would</p>
+<p begin="00:05:00.470" end="00:05:06.820" style="s2">make these exchanges with much more</p>
+<p begin="00:05:03.080" end="00:05:09.680" style="s2">personal contact than than in the past</p>
+<p begin="00:05:06.820" end="00:05:11.420" style="s2">but then as time went by trade you know</p>
+<p begin="00:05:09.680" end="00:05:15.080" style="s2">expanded became more global there was</p>
+<p begin="00:05:11.420" end="00:05:16.970" style="s2">the Silk Road and the the Islamic empire</p>
+<p begin="00:05:15.080" end="00:05:19.540" style="s2">spread its wings or its donkeys or</p>
+<p begin="00:05:16.970" end="00:05:22.670" style="s2">camels across the the world and and</p>
+<p begin="00:05:19.540" end="00:05:24.500" style="s2">trade really took on a global dimension</p>
+<p begin="00:05:22.670" end="00:05:27.800" style="s2">where you didn&#39;t really want to be</p>
+<p begin="00:05:24.500" end="00:05:29.450" style="s2">carrying tons of wheats or camels or or</p>
+<p begin="00:05:27.800" end="00:05:31.270" style="s2">honey around the world to exchange</p>
+<p begin="00:05:29.450" end="00:05:34.160" style="s2">things if you could get away with it if</p>
+<p begin="00:05:31.270" end="00:05:36.290" style="s2">you if you took something in one</p>
+<p begin="00:05:34.160" end="00:05:39.050" style="s2">direction it would be nice just to have</p>
+<p begin="00:05:36.290" end="00:05:41.180" style="s2">a monetary note to give in return to say</p>
+<p begin="00:05:39.050" end="00:05:42.770" style="s2">okay you owe me something in return you</p>
+<p begin="00:05:41.180" end="00:05:45.980" style="s2">don&#39;t have to give it to me right now</p>
+<p begin="00:05:42.770" end="00:05:49.870" style="s2">but we will make a note of that and we</p>
+<p begin="00:05:45.980" end="00:05:53.180" style="s2">will settle up later on and so that roll</p>
+<p begin="00:05:49.870" end="00:05:55.130" style="s2">information in a virtual sense of</p>
+<p begin="00:05:53.180" end="00:05:57.940" style="s2">informations rather than a physical</p>
+<p begin="00:05:55.130" end="00:06:00.980" style="s2">representation of information started to</p>
+<p begin="00:05:57.940" end="00:06:03.020" style="s2">enter into the dialogue of that was that</p>
+<p begin="00:06:00.980" end="00:06:08.090" style="s2">with trade and that&#39;s really where the</p>
+<p begin="00:06:03.020" end="00:06:09.290" style="s2">networking concept began having money as</p>
+<p begin="00:06:08.090" end="00:06:12.230" style="s2">you know go-between has a lot of</p>
+<p begin="00:06:09.290" end="00:06:15.770" style="s2">advantages because it has no opinion no</p>
+<p begin="00:06:12.230" end="00:06:17.720" style="s2">affinity to a particular thing you know</p>
+<p begin="00:06:15.770" end="00:06:20.710" style="s2">wheat or honey or anything like that and</p>
+<p begin="00:06:17.720" end="00:06:25.580" style="s2">then it also allows us to maintain a</p>
+<p begin="00:06:20.710" end="00:06:27.680" style="s2">clean separation between entities if you</p>
+<p begin="00:06:25.580" end="00:06:30.500" style="s2">like a kind of locality of</p>
+<p begin="00:06:27.680" end="00:06:32.090" style="s2">decision-making which sometimes is</p>
+<p begin="00:06:30.500" end="00:06:34.010" style="s2">desirable sometimes it isn&#39;t but you</p>
+<p begin="00:06:32.090" end="00:06:38.150" style="s2">know it&#39;s desirable if you want to think</p>
+<p begin="00:06:34.010" end="00:06:41.660" style="s2">of private property and incentives</p>
+<p begin="00:06:38.150" end="00:06:43.880" style="s2">within society for fun or profit so you</p>
+<p begin="00:06:41.660" end="00:06:46.820" style="s2">know money begins as this kind of</p>
+<p begin="00:06:43.880" end="00:06:47.650" style="s2">virtual communicating device to settle</p>
+<p begin="00:06:46.820" end="00:06:49.630" style="s2">the tray</p>
+<p begin="00:06:47.650" end="00:06:51.460" style="s2">but then it takes on this new</p>
+<p begin="00:06:49.630" end="00:06:55.090" style="s2">information dimension and Trust building</p>
+<p begin="00:06:51.460" end="00:06:56.740" style="s2">context and can even become a motivation</p>
+<p begin="00:06:55.090" end="00:06:58.650" style="s2">in its own right to hold a lot of this</p>
+<p begin="00:06:56.740" end="00:07:01.000" style="s2">stuff gives you a lot of mobility</p>
+<p begin="00:06:58.650" end="00:07:02.950" style="s2">because you can exchange one good for</p>
+<p begin="00:07:01.000" end="00:07:05.020" style="s2">another it&#39;s fungible it doesn&#39;t even</p>
+<p begin="00:07:02.950" end="00:07:06.790" style="s2">require me to get something back from</p>
+<p begin="00:07:05.020" end="00:07:07.990" style="s2">you you know if we if you give me</p>
+<p begin="00:07:06.790" end="00:07:09.370" style="s2">something I don&#39;t have to give you</p>
+<p begin="00:07:07.990" end="00:07:10.660" style="s2">something back I could give somebody</p>
+<p begin="00:07:09.370" end="00:07:13.690" style="s2">else something and they could give you</p>
+<p begin="00:07:10.660" end="00:07:17.230" style="s2">something so there&#39;s this it extends and</p>
+<p begin="00:07:13.690" end="00:07:20.410" style="s2">expands the the network dimensions if</p>
+<p begin="00:07:17.230" end="00:07:23.590" style="s2">you will of exchanges and trades in a</p>
+<p begin="00:07:20.410" end="00:07:27.220" style="s2">way that we now understand networks to</p>
+<p begin="00:07:23.590" end="00:07:29.590" style="s2">do yep and it also allowed much longer</p>
+<p begin="00:07:27.220" end="00:07:32.380" style="s2">range trade right particularly when</p>
+<p begin="00:07:29.590" end="00:07:34.960" style="s2">money started become denser like gold or</p>
+<p begin="00:07:32.380" end="00:07:37.810" style="s2">even better in book entries like the</p>
+<p begin="00:07:34.960" end="00:07:40.420" style="s2">northern Italian bankers in the 13th</p>
+<p begin="00:07:37.810" end="00:07:42.130" style="s2">century trade networks could now be</p>
+<p begin="00:07:40.420" end="00:07:44.440" style="s2">linked by these money signals from</p>
+<p begin="00:07:42.130" end="00:07:47.410" style="s2">northern Italy to the Netherlands and</p>
+<p begin="00:07:44.440" end="00:07:49.510" style="s2">back at the rate of horseback or sailing</p>
+<p begin="00:07:47.410" end="00:07:52.840" style="s2">ship but certainly much quicker than</p>
+<p begin="00:07:49.510" end="00:07:57.400" style="s2">having to haul a vast wad of wheat from</p>
+<p begin="00:07:52.840" end="00:08:00.370" style="s2">Genoa to Rotterdam yeah exactly and the</p>
+<p begin="00:07:57.400" end="00:08:04.330" style="s2">one that I like is we still use the name</p>
+<p begin="00:08:00.370" end="00:08:07.300" style="s2">check from from the French root of the</p>
+<p begin="00:08:04.330" end="00:08:10.240" style="s2">Persian word sharafa King which was</p>
+<p begin="00:08:07.300" end="00:08:11.470" style="s2">basically by the order of the king we</p>
+<p begin="00:08:10.240" end="00:08:13.810" style="s2">would have these money orders or</p>
+<p begin="00:08:11.470" end="00:08:16.060" style="s2">promissory notes that could be sent back</p>
+<p begin="00:08:13.810" end="00:08:19.840" style="s2">and forth or rather than a train of</p>
+<p begin="00:08:16.060" end="00:08:22.180" style="s2">camels to to carry gold or whatever but</p>
+<p begin="00:08:19.840" end="00:08:25.390" style="s2">this use of this gold is interesting as</p>
+<p begin="00:08:22.180" end="00:08:27.850" style="s2">well because you begin with bulk amounts</p>
+<p begin="00:08:25.390" end="00:08:29.830" style="s2">of things like wheat and and similar</p>
+<p begin="00:08:27.850" end="00:08:32.349" style="s2">substances which which are enormous</p>
+<p begin="00:08:29.830" end="00:08:35.260" style="s2">volumes heavy weights and difficult to</p>
+<p begin="00:08:32.349" end="00:08:38.669" style="s2">transport but then you you have things</p>
+<p begin="00:08:35.260" end="00:08:41.080" style="s2">like gold and silver which are precious</p>
+<p begin="00:08:38.669" end="00:08:43.450" style="s2">substances with the very small weight</p>
+<p begin="00:08:41.080" end="00:08:46.120" style="s2">you consider them to be worth very much</p>
+<p begin="00:08:43.450" end="00:08:47.860" style="s2">more and so you can keep a little a few</p>
+<p begin="00:08:46.120" end="00:08:50.470" style="s2">coins of gold in your pocket and buy a</p>
+<p begin="00:08:47.860" end="00:08:53.350" style="s2">huge bunch of wheat much easier to carry</p>
+<p begin="00:08:50.470" end="00:08:55.930" style="s2">around but still problematic because the</p>
+<p begin="00:08:53.350" end="00:08:57.250" style="s2">the gold still has intrinsic value so</p>
+<p begin="00:08:55.930" end="00:09:00.100" style="s2">it&#39;s still a bit risky to carry it</p>
+<p begin="00:08:57.250" end="00:09:00.380" style="s2">around and then we go all the way to</p>
+<p begin="00:09:00.100" end="00:09:02.600" style="s2">some</p>
+<p begin="00:09:00.380" end="00:09:06.350" style="s2">paper checks and promissory notes and</p>
+<p begin="00:09:02.600" end="00:09:09.440" style="s2">the paper money and the valueless coins</p>
+<p begin="00:09:06.350" end="00:09:12.010" style="s2">that were later invented to avoid things</p>
+<p begin="00:09:09.440" end="00:09:14.440" style="s2">like coin clipping which allow you to</p>
+<p begin="00:09:12.010" end="00:09:17.720" style="s2">totally separate the function of</p>
+<p begin="00:09:14.440" end="00:09:19.700" style="s2">remembering debts if you will</p>
+<p begin="00:09:17.720" end="00:09:22.610" style="s2">remembering how to settle up to an</p>
+<p begin="00:09:19.700" end="00:09:24.890" style="s2">accounting brick as you would having a</p>
+<p begin="00:09:22.610" end="00:09:27.020" style="s2">game board from the actual valuable</p>
+<p begin="00:09:24.890" end="00:09:29.410" style="s2">thing itself which which is much more</p>
+<p begin="00:09:27.020" end="00:09:32.540" style="s2">risky and difficult to carry around</p>
+<p begin="00:09:29.410" end="00:09:34.460" style="s2">yep that&#39;s absolutely true you talked</p>
+<p begin="00:09:32.540" end="00:09:36.170" style="s2">about medium of exchange as one of the</p>
+<p begin="00:09:34.460" end="00:09:37.940" style="s2">features that money has and historically</p>
+<p begin="00:09:36.170" end="00:09:40.280" style="s2">it&#39;s described as having three features</p>
+<p begin="00:09:37.940" end="00:09:43.370" style="s2">medium of exchange to where value and</p>
+<p begin="00:09:40.280" end="00:09:45.590" style="s2">numeraire a measure of value let&#39;s talk</p>
+<p begin="00:09:43.370" end="00:09:47.330" style="s2">a little bit about store of value one of</p>
+<p begin="00:09:45.590" end="00:09:49.100" style="s2">the other interesting things that the</p>
+<p begin="00:09:47.330" end="00:09:51.470" style="s2">emergence of money provides I&#39;d love to</p>
+<p begin="00:09:49.100" end="00:09:53.450" style="s2">get your perspective on this is to store</p>
+<p begin="00:09:51.470" end="00:09:56.630" style="s2">value and in fact if we then lay that on</p>
+<p begin="00:09:53.450" end="00:09:58.790" style="s2">to your concept of network we might be</p>
+<p begin="00:09:56.630" end="00:10:01.790" style="s2">able to think of money something like a</p>
+<p begin="00:09:58.790" end="00:10:04.280" style="s2">capacitor in the network it allows us to</p>
+<p begin="00:10:01.790" end="00:10:06.220" style="s2">store some amount of our energy</p>
+<p begin="00:10:04.280" end="00:10:08.360" style="s2">quote-unquote for some period of time</p>
+<p begin="00:10:06.220" end="00:10:10.670" style="s2">because it may be that I&#39;m willing to</p>
+<p begin="00:10:08.360" end="00:10:13.400" style="s2">you know sell my wheat today but I don&#39;t</p>
+<p begin="00:10:10.670" end="00:10:16.430" style="s2">really want to buy some bread until</p>
+<p begin="00:10:13.400" end="00:10:19.430" style="s2">Tuesday and having money in between lets</p>
+<p begin="00:10:16.430" end="00:10:21.320" style="s2">me easily and at lower risk essentially</p>
+<p begin="00:10:19.430" end="00:10:22.790" style="s2">store that energy for some period of</p>
+<p begin="00:10:21.320" end="00:10:24.920" style="s2">time and of course while it probably</p>
+<p begin="00:10:22.790" end="00:10:26.870" style="s2">started out as short-term storage over</p>
+<p begin="00:10:24.920" end="00:10:28.370" style="s2">time the amount of storage has tended to</p>
+<p begin="00:10:26.870" end="00:10:30.830" style="s2">increase so now we have not just</p>
+<p begin="00:10:28.370" end="00:10:34.390" style="s2">capacitors but probably batteries as</p>
+<p begin="00:10:30.830" end="00:10:36.920" style="s2">well yeah I like the picture of a</p>
+<p begin="00:10:34.390" end="00:10:40.880" style="s2">capacitor is a store you know there&#39;s an</p>
+<p begin="00:10:36.920" end="00:10:43.820" style="s2">a sociology of money as well as as a</p>
+<p begin="00:10:40.880" end="00:10:45.620" style="s2">network any network has a kind of social</p>
+<p begin="00:10:43.820" end="00:10:47.870" style="s2">function of course when the agents are</p>
+<p begin="00:10:45.620" end="00:10:49.970" style="s2">independent things each makes up its own</p>
+<p begin="00:10:47.870" end="00:10:51.260" style="s2">decision unlike an electric circuit in a</p>
+<p begin="00:10:49.970" end="00:10:53.630" style="s2">capacitor where you have something</p>
+<p begin="00:10:51.260" end="00:10:56.810" style="s2">driving the next part and it&#39;s all kind</p>
+<p begin="00:10:53.630" end="00:10:58.990" style="s2">of quasi deterministic but when you have</p>
+<p begin="00:10:56.810" end="00:11:02.480" style="s2">agents that are acting independently</p>
+<p begin="00:10:58.990" end="00:11:03.830" style="s2">more like a bunch of cells then the</p>
+<p begin="00:11:02.480" end="00:11:04.540" style="s2">dynamics of that Network are a little</p>
+<p begin="00:11:03.830" end="00:11:07.850" style="s2">bit different</p>
+<p begin="00:11:04.540" end="00:11:10.310" style="s2">so by holding money you&#39;re you&#39;re trying</p>
+<p begin="00:11:07.850" end="00:11:12.500" style="s2">to separate the notion of a fair</p>
+<p begin="00:11:10.310" end="00:11:14.379" style="s2">exchange and measuring that fair</p>
+<p begin="00:11:12.500" end="00:11:17.509" style="s2">exchange on some scale</p>
+<p begin="00:11:14.379" end="00:11:19.999" style="s2">what we now idolize is the concept of</p>
+<p begin="00:11:17.509" end="00:11:22.720" style="s2">value which is a kind of proxy for</p>
+<p begin="00:11:19.999" end="00:11:25.879" style="s2">fairness you know where we fare in our</p>
+<p begin="00:11:22.720" end="00:11:27.679" style="s2">transactions you know from the actual</p>
+<p begin="00:11:25.879" end="00:11:31.730" style="s2">functional things that money does the</p>
+<p begin="00:11:27.679" end="00:11:32.809" style="s2">exchange details of it and money you</p>
+<p begin="00:11:31.730" end="00:11:35.119" style="s2">know it&#39;s not supposed to have an</p>
+<p begin="00:11:32.809" end="00:11:37.639" style="s2">intrinsic purpose it&#39;s just a memory or</p>
+<p begin="00:11:35.119" end="00:11:39.529" style="s2">accounting like this game brick that I</p>
+<p begin="00:11:37.639" end="00:11:41.619" style="s2">was talking about but what&#39;s interesting</p>
+<p begin="00:11:39.529" end="00:11:44.569" style="s2">is when you have this way of counting</p>
+<p begin="00:11:41.619" end="00:11:47.360" style="s2">you can then accumulate these counters</p>
+<p begin="00:11:44.569" end="00:11:52.579" style="s2">as you say and it becomes a kind of a</p>
+<p begin="00:11:47.360" end="00:11:54.980" style="s2">store a trusted store and that allows us</p>
+<p begin="00:11:52.579" end="00:11:57.800" style="s2">to play a game with time in the way that</p>
+<p begin="00:11:54.980" end="00:12:00.860" style="s2">capacitors and other stores of energy</p>
+<p begin="00:11:57.800" end="00:12:03.050" style="s2">allow us to do in the physical world if</p>
+<p begin="00:12:00.860" end="00:12:05.480" style="s2">we build up a store of something we can</p>
+<p begin="00:12:03.050" end="00:12:07.670" style="s2">then use it all in one go so by saving</p>
+<p begin="00:12:05.480" end="00:12:08.990" style="s2">up a pile of money we can afford</p>
+<p begin="00:12:07.670" end="00:12:11.089" style="s2">something that we wouldn&#39;t be able to</p>
+<p begin="00:12:08.990" end="00:12:14.509" style="s2">afford given the rate of our normal</p>
+<p begin="00:12:11.089" end="00:12:17.360" style="s2">earnings or if we come into some sudden</p>
+<p begin="00:12:14.509" end="00:12:19.459" style="s2">wealth where we can we can spin that out</p>
+<p begin="00:12:17.360" end="00:12:21.049" style="s2">out over a longer period of time and</p>
+<p begin="00:12:19.459" end="00:12:23.720" style="s2">survive for you know a longer period of</p>
+<p begin="00:12:21.049" end="00:12:26.629" style="s2">time so it has a buffering capacity as</p>
+<p begin="00:12:23.720" end="00:12:28.730" style="s2">you as you described which is pretty</p>
+<p begin="00:12:26.629" end="00:12:31.429" style="s2">important because there are many things</p>
+<p begin="00:12:28.730" end="00:12:34.040" style="s2">in the world that we simply can&#39;t afford</p>
+<p begin="00:12:31.429" end="00:12:37.160" style="s2">to do we don&#39;t have enough resources to</p>
+<p begin="00:12:34.040" end="00:12:39.319" style="s2">to climb over a wall you know here and</p>
+<p begin="00:12:37.160" end="00:12:40.249" style="s2">you&#39;re stuck in prison if you have a</p>
+<p begin="00:12:39.319" end="00:12:41.959" style="s2">bunch of money you might be able to</p>
+<p begin="00:12:40.249" end="00:12:43.279" style="s2">bribe your way out or if you have a</p>
+<p begin="00:12:41.959" end="00:12:45.980" style="s2">bunch of energy you might be able to</p>
+<p begin="00:12:43.279" end="00:12:48.999" style="s2">leap across the wall and overcome that</p>
+<p begin="00:12:45.980" end="00:12:52.999" style="s2">potential energy with your rocket suit</p>
+<p begin="00:12:48.999" end="00:12:55.670" style="s2">and then escape captivity so this</p>
+<p begin="00:12:52.999" end="00:12:58.730" style="s2">ability to play with resources have to</p>
+<p begin="00:12:55.670" end="00:13:02.600" style="s2">build up reserve and then to use it in a</p>
+<p begin="00:12:58.730" end="00:13:04.939" style="s2">sudden amounts or sudden burst allows us</p>
+<p begin="00:13:02.600" end="00:13:07.790" style="s2">to play with space and time as a</p>
+<p begin="00:13:04.939" end="00:13:09.559" style="s2">physicist that that appeals to me and of</p>
+<p begin="00:13:07.790" end="00:13:11.959" style="s2">course it comes back in subjects like</p>
+<p begin="00:13:09.559" end="00:13:13.970" style="s2">quantum mechanics as well but this</p>
+<p begin="00:13:11.959" end="00:13:15.649" style="s2">ability to play with time allows us to</p>
+<p begin="00:13:13.970" end="00:13:17.990" style="s2">achieve some things that which would</p>
+<p begin="00:13:15.649" end="00:13:21.860" style="s2">simply be impossible in the normal world</p>
+<p begin="00:13:17.990" end="00:13:23.510" style="s2">of agents in their normal time rates and</p>
+<p begin="00:13:21.860" end="00:13:25.790" style="s2">spatial rates</p>
+<p begin="00:13:23.510" end="00:13:28.130" style="s2">so I think it money has this important</p>
+<p begin="00:13:25.790" end="00:13:29.930" style="s2">function which has enabled a new level</p>
+<p begin="00:13:28.130" end="00:13:32.720" style="s2">of society to take place where we can</p>
+<p begin="00:13:29.930" end="00:13:36.020" style="s2">build these amazing buildings and create</p>
+<p begin="00:13:32.720" end="00:13:38.510" style="s2">cities and buy houses and do things that</p>
+<p begin="00:13:36.020" end="00:13:41.690" style="s2">would simply be impossible by normal</p>
+<p begin="00:13:38.510" end="00:13:43.730" style="s2">work sounds good next you know if we</p>
+<p begin="00:13:41.690" end="00:13:45.860" style="s2">think of money itself being a buffer</p>
+<p begin="00:13:43.730" end="00:13:48.440" style="s2">there&#39;s another very interesting kind of</p>
+<p begin="00:13:45.860" end="00:13:50.840" style="s2">elastic aspect to money that became</p>
+<p begin="00:13:48.440" end="00:13:52.550" style="s2">accreted on some people would say from</p>
+<p begin="00:13:50.840" end="00:13:55.730" style="s2">the beginning if you believe David</p>
+<p begin="00:13:52.550" end="00:13:57.710" style="s2">Graeber and that&#39;s money and debt you</p>
+<p begin="00:13:55.730" end="00:14:00.020" style="s2">talk a little bit about both the nature</p>
+<p begin="00:13:57.710" end="00:14:04.130" style="s2">of the relationship between money and</p>
+<p begin="00:14:00.020" end="00:14:05.060" style="s2">debt and their asymmetry yeah this is</p>
+<p begin="00:14:04.130" end="00:14:08.410" style="s2">something which I thought was really</p>
+<p begin="00:14:05.060" end="00:14:11.450" style="s2">nice in promise Theory you know when I</p>
+<p begin="00:14:08.410" end="00:14:12.950" style="s2">started this I I didn&#39;t know too much</p>
+<p begin="00:14:11.450" end="00:14:14.900" style="s2">about money I read pretty much</p>
+<p begin="00:14:12.950" end="00:14:18.500" style="s2">everything I could find one side finally</p>
+<p begin="00:14:14.900" end="00:14:20.600" style="s2">the bug had finally bitten me and I read</p>
+<p begin="00:14:18.500" end="00:14:24.320" style="s2">David Grady&#39;s book excellent book that</p>
+<p begin="00:14:20.600" end="00:14:26.480" style="s2">the first 5000 years for our avid</p>
+<p begin="00:14:24.320" end="00:14:30.290" style="s2">readers what promise theory kind of</p>
+<p begin="00:14:26.480" end="00:14:32.960" style="s2">shows is that money and debt are not</p>
+<p begin="00:14:30.290" end="00:14:35.630" style="s2">exact inverses of one another there&#39;s</p>
+<p begin="00:14:32.960" end="00:14:38.870" style="s2">another great book by moravsky which is</p>
+<p begin="00:14:35.630" end="00:14:42.140" style="s2">called more heat than light and he</p>
+<p begin="00:14:38.870" end="00:14:44.270" style="s2">describes the history of economics I</p>
+<p begin="00:14:42.140" end="00:14:48.020" style="s2">suppose money can money in economics in</p>
+<p begin="00:14:44.270" end="00:14:50.080" style="s2">the 20th century actually from the 18th</p>
+<p begin="00:14:48.020" end="00:14:52.460" style="s2">century through the 20th century and</p>
+<p begin="00:14:50.080" end="00:14:54.200" style="s2">describes how economists were had this</p>
+<p begin="00:14:52.460" end="00:14:56.720" style="s2">kind of they were very enamored by</p>
+<p begin="00:14:54.200" end="00:14:59.360" style="s2">physics they had physics Envy as many</p>
+<p begin="00:14:56.720" end="00:15:01.760" style="s2">subjects do because physicists had been</p>
+<p begin="00:14:59.360" end="00:15:05.540" style="s2">so successful in describing the world by</p>
+<p begin="00:15:01.760" end="00:15:07.610" style="s2">in terms of laws and rules and could</p>
+<p begin="00:15:05.540" end="00:15:10.370" style="s2">perform these marvelous calculations to</p>
+<p begin="00:15:07.610" end="00:15:13.580" style="s2">predict the future and everyone wanted</p>
+<p begin="00:15:10.370" end="00:15:18.010" style="s2">that for for money and there was an</p>
+<p begin="00:15:13.580" end="00:15:20.600" style="s2">obvious analogy between money and energy</p>
+<p begin="00:15:18.010" end="00:15:24.410" style="s2">energy is basically an accounting</p>
+<p begin="00:15:20.600" end="00:15:27.230" style="s2">parameter in calculations about momentum</p>
+<p begin="00:15:24.410" end="00:15:30.650" style="s2">and motion in the Newtonian formulation</p>
+<p begin="00:15:27.230" end="00:15:33.110" style="s2">of physics and so people saw this</p>
+<p begin="00:15:30.650" end="00:15:34.670" style="s2">connection between money or this analogy</p>
+<p begin="00:15:33.110" end="00:15:36.200" style="s2">fuel between money and energy and they</p>
+<p begin="00:15:34.670" end="00:15:37.870" style="s2">wanted that for</p>
+<p begin="00:15:36.200" end="00:15:41.600" style="s2">anomic so they started to create these</p>
+<p begin="00:15:37.870" end="00:15:44.060" style="s2">theories based around that and one of</p>
+<p begin="00:15:41.600" end="00:15:45.500" style="s2">the ideas that you have in energy is</p>
+<p begin="00:15:44.060" end="00:15:47.090" style="s2">that energy is conserved</p>
+<p begin="00:15:45.500" end="00:15:50.300" style="s2">you know once created it&#39;s never</p>
+<p begin="00:15:47.090" end="00:15:52.130" style="s2">destroyed but if you create energies as</p>
+<p begin="00:15:50.300" end="00:15:54.500" style="s2">you sometimes can in quantum processes</p>
+<p begin="00:15:52.130" end="00:15:55.820" style="s2">you create an anti an anti version that</p>
+<p begin="00:15:54.500" end="00:15:59.810" style="s2">is well you create matter and antimatter</p>
+<p begin="00:15:55.820" end="00:16:01.430" style="s2">and then if they are ever destroyed they</p>
+<p begin="00:15:59.810" end="00:16:04.760" style="s2">would turn back into energy so that the</p>
+<p begin="00:16:01.430" end="00:16:06.470" style="s2">accounting is never broken or the you</p>
+<p begin="00:16:04.760" end="00:16:08.470" style="s2">know you never lose track of anything as</p>
+<p begin="00:16:06.470" end="00:16:11.600" style="s2">you&#39;re not supposed to in money either</p>
+<p begin="00:16:08.470" end="00:16:13.520" style="s2">we should say but so this is interesting</p>
+<p begin="00:16:11.600" end="00:16:15.980" style="s2">because of course there&#39;s no reason why</p>
+<p begin="00:16:13.520" end="00:16:18.290" style="s2">money should be conserved if you got a</p>
+<p begin="00:16:15.980" end="00:16:20.300" style="s2">bunch of coins you can lose some you can</p>
+<p begin="00:16:18.290" end="00:16:22.520" style="s2">melt them you can eat them you can you</p>
+<p begin="00:16:20.300" end="00:16:25.250" style="s2">can just you can counterfeit your new</p>
+<p begin="00:16:22.520" end="00:16:28.520" style="s2">money print new bills and so on this is</p>
+<p begin="00:16:25.250" end="00:16:31.190" style="s2">all allowed but it&#39;s very handy to have</p>
+<p begin="00:16:28.520" end="00:16:33.260" style="s2">a system in which we pretend that money</p>
+<p begin="00:16:31.190" end="00:16:35.680" style="s2">is also conserved and we we shouldn&#39;t</p>
+<p begin="00:16:33.260" end="00:16:38.690" style="s2">throw it away we shouldn&#39;t print our own</p>
+<p begin="00:16:35.680" end="00:16:42.530" style="s2">and we should pay back our debts to try</p>
+<p begin="00:16:38.690" end="00:16:45.200" style="s2">to eliminate them and all this becomes</p>
+<p begin="00:16:42.530" end="00:16:49.090" style="s2">part of the narrative of money over time</p>
+<p begin="00:16:45.200" end="00:16:53.390" style="s2">and we almost take it for granted today</p>
+<p begin="00:16:49.090" end="00:16:55.640" style="s2">until we come to the point where we</p>
+<p begin="00:16:53.390" end="00:16:58.190" style="s2">eliminated things like the gold standard</p>
+<p begin="00:16:55.640" end="00:17:01.700" style="s2">of money where we had physical physical</p>
+<p begin="00:16:58.190" end="00:17:02.930" style="s2">measurements of money and you had you</p>
+<p begin="00:17:01.700" end="00:17:06.740" style="s2">then ask the question where does money</p>
+<p begin="00:17:02.930" end="00:17:10.160" style="s2">come from and in the marxist sense</p>
+<p begin="00:17:06.740" end="00:17:11.959" style="s2">there&#39;s a narrative we you know we still</p>
+<p begin="00:17:10.160" end="00:17:14.420" style="s2">use this phrase we need to make money</p>
+<p begin="00:17:11.959" end="00:17:17.089" style="s2">and we imagine people working in our</p>
+<p begin="00:17:14.420" end="00:17:19.520" style="s2">mind and digging up something and this</p>
+<p begin="00:17:17.089" end="00:17:21.440" style="s2">turns magically into money and of course</p>
+<p begin="00:17:19.520" end="00:17:24.470" style="s2">it doesn&#39;t in a world in which money is</p>
+<p begin="00:17:21.440" end="00:17:26.630" style="s2">simply a bunch of notes and exchanged</p>
+<p begin="00:17:24.470" end="00:17:29.960" style="s2">media that you have to get your hands on</p>
+<p begin="00:17:26.630" end="00:17:32.180" style="s2">in order to pay for things if you&#39;re</p>
+<p begin="00:17:29.960" end="00:17:34.280" style="s2">just exchanging goods yes okay you can</p>
+<p begin="00:17:32.180" end="00:17:36.500" style="s2">exchange and barter with those goods</p>
+<p begin="00:17:34.280" end="00:17:39.200" style="s2">that you&#39;ve worked for but in the world</p>
+<p begin="00:17:36.500" end="00:17:42.350" style="s2">of virtualized money in which it becomes</p>
+<p begin="00:17:39.200" end="00:17:44.110" style="s2">this kind of network layer you actually</p>
+<p begin="00:17:42.350" end="00:17:47.130" style="s2">need to get hold of that networking</p>
+<p begin="00:17:44.110" end="00:17:49.020" style="s2">material that medium of money</p>
+<p begin="00:17:47.130" end="00:17:52.200" style="s2">and the only way we could do that now is</p>
+<p begin="00:17:49.020" end="00:17:56.660" style="s2">through banks banks are the initiator of</p>
+<p begin="00:17:52.200" end="00:18:00.750" style="s2">money and money is created through debt</p>
+<p begin="00:17:56.660" end="00:18:04.140" style="s2">so you don&#39;t get given money for digging</p>
+<p begin="00:18:00.750" end="00:18:05.790" style="s2">a coal or growing wheats you have to go</p>
+<p begin="00:18:04.140" end="00:18:08.910" style="s2">to the bank and say I&#39;d like to borrow</p>
+<p begin="00:18:05.790" end="00:18:11.010" style="s2">some money and they will give you money</p>
+<p begin="00:18:08.910" end="00:18:13.140" style="s2">that you can spend in return for paying</p>
+<p begin="00:18:11.010" end="00:18:14.910" style="s2">it back later and all of the other stuff</p>
+<p begin="00:18:13.140" end="00:18:16.590" style="s2">that bartering and the trading and the</p>
+<p begin="00:18:14.910" end="00:18:19.350" style="s2">exchanging you could&#39;ve do in your own</p>
+<p begin="00:18:16.590" end="00:18:21.870" style="s2">time the money takes on a story of its</p>
+<p begin="00:18:19.350" end="00:18:25.110" style="s2">own but this is kind of interesting</p>
+<p begin="00:18:21.870" end="00:18:26.960" style="s2">because so first of all to to get money</p>
+<p begin="00:18:25.110" end="00:18:30.030" style="s2">that means you need a bank account and</p>
+<p begin="00:18:26.960" end="00:18:31.830" style="s2">even today there&#39;s a whole there are all</p>
+<p begin="00:18:30.030" end="00:18:33.840" style="s2">swathe as a population around the world</p>
+<p begin="00:18:31.830" end="00:18:36.240" style="s2">which where people are unable to get</p>
+<p begin="00:18:33.840" end="00:18:37.950" style="s2">into the banking system because they&#39;re</p>
+<p begin="00:18:36.240" end="00:18:40.170" style="s2">not credit worthy they come from the</p>
+<p begin="00:18:37.950" end="00:18:41.910" style="s2">wrong caste they that are wrong color</p>
+<p begin="00:18:40.170" end="00:18:45.120" style="s2">they live in the wrong part of town and</p>
+<p begin="00:18:41.910" end="00:18:48.270" style="s2">so on you&#39;re not part of the club with</p>
+<p begin="00:18:45.120" end="00:18:51.240" style="s2">the secret handshake you need a way into</p>
+<p begin="00:18:48.270" end="00:18:53.280" style="s2">that system so that&#39;s the first part it</p>
+<p begin="00:18:51.240" end="00:18:55.500" style="s2">becomes a social network and potentially</p>
+<p begin="00:18:53.280" end="00:18:58.740" style="s2">a closed one and then once you&#39;ve</p>
+<p begin="00:18:55.500" end="00:19:02.490" style="s2">managed to get money from the bank or</p>
+<p begin="00:18:58.740" end="00:19:04.410" style="s2">whatever you create this debt that debt</p>
+<p begin="00:19:02.490" end="00:19:06.360" style="s2">actually carries with it more</p>
+<p begin="00:19:04.410" end="00:19:08.910" style="s2">information than the money that they</p>
+<p begin="00:19:06.360" end="00:19:11.160" style="s2">give you in return so in order to get</p>
+<p begin="00:19:08.910" end="00:19:13.320" style="s2">that money you may have to give up</p>
+<p begin="00:19:11.160" end="00:19:15.930" style="s2">details personal details your credit</p>
+<p begin="00:19:13.320" end="00:19:18.720" style="s2">history how trustworthy were you in the</p>
+<p begin="00:19:15.930" end="00:19:19.980" style="s2">past and they keep this information and</p>
+<p begin="00:19:18.720" end="00:19:22.440" style="s2">that of course spreads through their</p>
+<p begin="00:19:19.980" end="00:19:24.240" style="s2">private network so even after you&#39;ve</p>
+<p begin="00:19:22.440" end="00:19:26.430" style="s2">paid back the money which you think</p>
+<p begin="00:19:24.240" end="00:19:28.430" style="s2">might have annihilate the debt in the</p>
+<p begin="00:19:26.430" end="00:19:30.900" style="s2">sense that particles and antiparticles</p>
+<p begin="00:19:28.430" end="00:19:33.600" style="s2">maeín I like one another in physics you</p>
+<p begin="00:19:30.900" end="00:19:36.300" style="s2">may not completely annihilate your debt</p>
+<p begin="00:19:33.600" end="00:19:39.000" style="s2">because the memory of all of all the</p>
+<p begin="00:19:36.300" end="00:19:42.570" style="s2">semantics the memory of that history</p>
+<p begin="00:19:39.000" end="00:19:46.380" style="s2">follows you around and so this this</p>
+<p begin="00:19:42.570" end="00:19:49.020" style="s2">ledger of transactions that follows you</p>
+<p begin="00:19:46.380" end="00:19:52.740" style="s2">around in the world as you go becomes a</p>
+<p begin="00:19:49.020" end="00:19:55.470" style="s2">kind of almost like you know in physics</p>
+<p begin="00:19:52.740" end="00:19:58.710" style="s2">we talk about this virtual cloud that</p>
+<p begin="00:19:55.470" end="00:20:00.809" style="s2">hangs around bare particles in in</p>
+<p begin="00:19:58.710" end="00:20:03.600" style="s2">monetary terms we have this</p>
+<p begin="00:20:00.809" end="00:20:05.190" style="s2">cloud of foreboding which is our credit</p>
+<p begin="00:20:03.600" end="00:20:07.169" style="s2">history if you will that fellas around</p>
+<p begin="00:20:05.190" end="00:20:09.659" style="s2">us around as well and that of course may</p>
+<p begin="00:20:07.169" end="00:20:13.289" style="s2">influence transactions in the future so</p>
+<p begin="00:20:09.659" end="00:20:15.350" style="s2">data and money superficially seem to be</p>
+<p begin="00:20:13.289" end="00:20:18.929" style="s2">the opposite of one another but in fact</p>
+<p begin="00:20:15.350" end="00:20:23.700" style="s2">deaths carries with it memories that are</p>
+<p begin="00:20:18.929" end="00:20:27.059" style="s2">far more complex and networks than the</p>
+<p begin="00:20:23.700" end="00:20:29.899" style="s2">money itself very very good point one of</p>
+<p begin="00:20:27.059" end="00:20:32.789" style="s2">the key attributes of debt is interest</p>
+<p begin="00:20:29.899" end="00:20:36.470" style="s2">what is it and what&#39;s the rationale for</p>
+<p begin="00:20:32.789" end="00:20:40.559" style="s2">it yeah interest is one of those complex</p>
+<p begin="00:20:36.470" end="00:20:43.230" style="s2">things that I I always find it extremely</p>
+<p begin="00:20:40.559" end="00:20:45.090" style="s2">hard to understand and going back in</p>
+<p begin="00:20:43.230" end="00:20:49.139" style="s2">history it&#39;s even we&#39;ve been through you</p>
+<p begin="00:20:45.090" end="00:20:51.869" style="s2">know epochs in which interest was banned</p>
+<p begin="00:20:49.139" end="00:20:53.570" style="s2">forbidden in the Islamic banking system</p>
+<p begin="00:20:51.869" end="00:20:56.669" style="s2">it&#39;s still forbidden in principle</p>
+<p begin="00:20:53.570" end="00:20:59.340" style="s2">interest is this idea that when you</p>
+<p begin="00:20:56.669" end="00:21:01.259" style="s2">borrow money that&#39;s a service and you</p>
+<p begin="00:20:59.340" end="00:21:04.139" style="s2">should perhaps pay for that service so</p>
+<p begin="00:21:01.259" end="00:21:09.029" style="s2">you have a service fee you have to pay a</p>
+<p begin="00:21:04.139" end="00:21:10.889" style="s2">certain amount for the to compensate the</p>
+<p begin="00:21:09.029" end="00:21:12.330" style="s2">lender which is kind of absurd in a</p>
+<p begin="00:21:10.889" end="00:21:13.830" style="s2">sense because you know it didn&#39;t cost</p>
+<p begin="00:21:12.330" end="00:21:15.360" style="s2">thanks anything to create the money</p>
+<p begin="00:21:13.830" end="00:21:16.980" style="s2">especially in the modern system right</p>
+<p begin="00:21:15.360" end="00:21:19.230" style="s2">there no you&#39;re not doing them out of</p>
+<p begin="00:21:16.980" end="00:21:22.110" style="s2">anything by by borrowing the money in</p>
+<p begin="00:21:19.230" end="00:21:24.450" style="s2">fact quite the contrary but we&#39;ve we&#39;ve</p>
+<p begin="00:21:22.110" end="00:21:28.529" style="s2">taken on this narrative of interest as a</p>
+<p begin="00:21:24.450" end="00:21:31.110" style="s2">form of compensation for the money being</p>
+<p begin="00:21:28.529" end="00:21:32.789" style="s2">unavailable to somebody else so we</p>
+<p begin="00:21:31.110" end="00:21:35.159" style="s2">should pay them for that service for</p>
+<p begin="00:21:32.789" end="00:21:37.740" style="s2">that so the privilege of how of handling</p>
+<p begin="00:21:35.159" end="00:21:42.720" style="s2">the money so that&#39;s one one version of</p>
+<p begin="00:21:37.740" end="00:21:44.850" style="s2">of what interest is another one is that</p>
+<p begin="00:21:42.720" end="00:21:48.090" style="s2">you know the interest rate that we hear</p>
+<p begin="00:21:44.850" end="00:21:51.059" style="s2">about on the news is quite a confusing</p>
+<p begin="00:21:48.090" end="00:21:52.860" style="s2">beast it&#39;s only vaguely related to the</p>
+<p begin="00:21:51.059" end="00:21:55.110" style="s2">the rate of interest we pay on our</p>
+<p begin="00:21:52.860" end="00:21:57.950" style="s2">mortgages which may or may not be a</p>
+<p begin="00:21:55.110" end="00:22:00.210" style="s2">service fee or whatever but that makes</p>
+<p begin="00:21:57.950" end="00:22:01.889" style="s2">economics pretty difficult for ordinary</p>
+<p begin="00:22:00.210" end="00:22:05.279" style="s2">folks to understand and a highly</p>
+<p begin="00:22:01.889" end="00:22:07.559" style="s2">illusory game even for bankers to</p>
+<p begin="00:22:05.279" end="00:22:11.460" style="s2">understand what they&#39;re trying to do is</p>
+<p begin="00:22:07.559" end="00:22:13.880" style="s2">to try to incorporate projections for</p>
+<p begin="00:22:11.460" end="00:22:17.030" style="s2">what money might be worth</p>
+<p begin="00:22:13.880" end="00:22:19.880" style="s2">in the future if I hold on to a bunch of</p>
+<p begin="00:22:17.030" end="00:22:22.730" style="s2">money instead of passing it on to</p>
+<p begin="00:22:19.880" end="00:22:24.560" style="s2">somebody else what happens if the buying</p>
+<p begin="00:22:22.730" end="00:22:27.410" style="s2">power that money the purchasing power of</p>
+<p begin="00:22:24.560" end="00:22:30.260" style="s2">that money is less because I&#39;m holding</p>
+<p begin="00:22:27.410" end="00:22:33.230" style="s2">on to it because prices are rising then</p>
+<p begin="00:22:30.260" end="00:22:34.940" style="s2">by holding on to that money I may be</p>
+<p begin="00:22:33.230" end="00:22:37.790" style="s2">losing or winning depending on whether</p>
+<p begin="00:22:34.940" end="00:22:39.440" style="s2">the prices are going up or down so I may</p>
+<p begin="00:22:37.790" end="00:22:42.970" style="s2">I may need to be compensated for that</p>
+<p begin="00:22:39.440" end="00:22:45.650" style="s2">loss so the fact that in any kind of</p>
+<p begin="00:22:42.970" end="00:22:48.200" style="s2">world of processes processes are always</p>
+<p begin="00:22:45.650" end="00:22:51.860" style="s2">racing one another in time you know is</p>
+<p begin="00:22:48.200" end="00:22:53.210" style="s2">one process becoming more expensive than</p>
+<p begin="00:22:51.860" end="00:22:55.820" style="s2">another will we have to pay more for</p>
+<p begin="00:22:53.210" end="00:22:57.920" style="s2">anything going at a faster rate than the</p>
+<p begin="00:22:55.820" end="00:22:59.900" style="s2">growth of the thing that we&#39;re hanging</p>
+<p begin="00:22:57.920" end="00:23:02.900" style="s2">on to will I be able to catch the train</p>
+<p begin="00:22:59.900" end="00:23:04.550" style="s2">you know if I run fast enough do I have</p>
+<p begin="00:23:02.900" end="00:23:07.970" style="s2">to borrow money in order to catch my</p>
+<p begin="00:23:04.550" end="00:23:11.150" style="s2">train this idea of racing processes is</p>
+<p begin="00:23:07.970" end="00:23:13.610" style="s2">also present in money so if we loan</p>
+<p begin="00:23:11.150" end="00:23:16.520" style="s2">money to to pay for a house but the</p>
+<p begin="00:23:13.610" end="00:23:19.030" style="s2">house prices increased before we pay for</p>
+<p begin="00:23:16.520" end="00:23:21.710" style="s2">it we&#39;ve already you know lost somehow</p>
+<p begin="00:23:19.030" end="00:23:23.930" style="s2">so there&#39;s this rule this concept in</p>
+<p begin="00:23:21.710" end="00:23:27.350" style="s2">which interest is also part of playing</p>
+<p begin="00:23:23.930" end="00:23:28.280" style="s2">with time and space and for transactions</p>
+<p begin="00:23:27.350" end="00:23:30.980" style="s2">there as well</p>
+<p begin="00:23:28.280" end="00:23:33.170" style="s2">and we&#39;re trying to compensate perhaps</p>
+<p begin="00:23:30.980" end="00:23:35.720" style="s2">people holding lots of money or people</p>
+<p begin="00:23:33.170" end="00:23:37.970" style="s2">who&#39;ve lent money for what it could have</p>
+<p begin="00:23:35.720" end="00:23:40.580" style="s2">been what they could have done with it</p>
+<p begin="00:23:37.970" end="00:23:42.200" style="s2">had they had the money themselves and</p>
+<p begin="00:23:40.580" end="00:23:45.230" style="s2">again this goes back to this notion that</p>
+<p begin="00:23:42.200" end="00:23:48.260" style="s2">money is imagined to be a conserved</p>
+<p begin="00:23:45.230" end="00:23:50.240" style="s2">quantity in which you know if I have it</p>
+<p begin="00:23:48.260" end="00:23:52.820" style="s2">you can&#39;t have it and so on it&#39;s not</p>
+<p begin="00:23:50.240" end="00:23:56.360" style="s2">really true but it&#39;s the game that we</p>
+<p begin="00:23:52.820" end="00:23:58.550" style="s2">play in a strange kind of quite we buy</p>
+<p begin="00:23:56.360" end="00:24:00.140" style="s2">strange rules if we we play it by rules</p>
+<p begin="00:23:58.550" end="00:24:03.410" style="s2">that people make up as they go along but</p>
+<p begin="00:24:00.140" end="00:24:06.080" style="s2">but that&#39;s sort of part of the rationale</p>
+<p begin="00:24:03.410" end="00:24:08.330" style="s2">about how you try to motivate people to</p>
+<p begin="00:24:06.080" end="00:24:11.390" style="s2">pay you back the money that you lent</p>
+<p begin="00:24:08.330" end="00:24:13.970" style="s2">them okay very good I will add you</p>
+<p begin="00:24:11.390" end="00:24:17.690" style="s2">basically laid out two rationales for</p>
+<p begin="00:24:13.970" end="00:24:19.880" style="s2">interest one is time value of money as a</p>
+<p begin="00:24:17.690" end="00:24:21.980" style="s2">commodity and the second is currency</p>
+<p begin="00:24:19.880" end="00:24:23.780" style="s2">risk as I extracted what you were saying</p>
+<p begin="00:24:21.980" end="00:24:26.030" style="s2">but there is of course a third one about</p>
+<p begin="00:24:23.780" end="00:24:26.960" style="s2">real interest rates which is default</p>
+<p begin="00:24:26.030" end="00:24:29.000" style="s2">risk</p>
+<p begin="00:24:26.960" end="00:24:31.789" style="s2">so while that does not apply to</p>
+<p begin="00:24:29.000" end="00:24:33.860" style="s2">so-called risk-free monies for instance</p>
+<p begin="00:24:31.789" end="00:24:36.260" style="s2">perhaps maybe not anymore</p>
+<p begin="00:24:33.860" end="00:24:37.909" style="s2">government bonds in the real world we</p>
+<p begin="00:24:36.260" end="00:24:39.620" style="s2">like when we purchase a car as you</p>
+<p begin="00:24:37.909" end="00:24:41.480" style="s2">talked about before our credit history</p>
+<p begin="00:24:39.620" end="00:24:43.730" style="s2">will modify quite significantly the</p>
+<p begin="00:24:41.480" end="00:24:45.080" style="s2">interest rate we actually pay I just</p>
+<p begin="00:24:43.730" end="00:24:47.289" style="s2">want to make that point for the listener</p>
+<p begin="00:24:45.080" end="00:24:50.299" style="s2">now let me ask you one of these crazy</p>
+<p begin="00:24:47.289" end="00:24:51.919" style="s2">questions that money nerds always ask</p>
+<p begin="00:24:50.299" end="00:24:53.870" style="s2">each other and scratch their head a bit</p>
+<p begin="00:24:51.919" end="00:24:56.899" style="s2">love to hear your answer one of the</p>
+<p begin="00:24:53.870" end="00:24:58.760" style="s2">conundrums of bank interest money is</p>
+<p begin="00:24:56.899" end="00:25:01.399" style="s2">that the money is created at the bank</p>
+<p begin="00:24:58.760" end="00:25:03.529" style="s2">for the principal but not for the</p>
+<p begin="00:25:01.399" end="00:25:05.419" style="s2">interest what does that mean what</p>
+<p begin="00:25:03.529" end="00:25:07.460" style="s2">implications does that have for the</p>
+<p begin="00:25:05.419" end="00:25:09.620" style="s2">financial system I&#39;m not sure I</p>
+<p begin="00:25:07.460" end="00:25:12.260" style="s2">understand the question you okay so</p>
+<p begin="00:25:09.620" end="00:25:14.179" style="s2">let&#39;s say I&#39;m a you know I I buy a house</p>
+<p begin="00:25:12.260" end="00:25:16.159" style="s2">I borrow from a hundred thousand from</p>
+<p begin="00:25:14.179" end="00:25:18.260" style="s2">the bank buy the house that hundred</p>
+<p begin="00:25:16.159" end="00:25:20.929" style="s2">thousand flows to the Builder and off to</p>
+<p begin="00:25:18.260" end="00:25:23.419" style="s2">his workers etc but I&#39;m now on the hook</p>
+<p begin="00:25:20.929" end="00:25:25.850" style="s2">to pay five percent annual interest no</p>
+<p begin="00:25:23.419" end="00:25:28.610" style="s2">money was created in the system to pay</p>
+<p begin="00:25:25.850" end="00:25:31.039" style="s2">that interest could it some people say</p>
+<p begin="00:25:28.610" end="00:25:32.840" style="s2">that this is a crazed treadmill which</p>
+<p begin="00:25:31.039" end="00:25:33.289" style="s2">means that if the banking system isn&#39;t</p>
+<p begin="00:25:32.840" end="00:25:35.929" style="s2">growing</p>
+<p begin="00:25:33.289" end="00:25:38.450" style="s2">it&#39;ll catastrophic Li collapse love to</p>
+<p begin="00:25:35.929" end="00:25:42.559" style="s2">know your take on that seeming anomaly</p>
+<p begin="00:25:38.450" end="00:25:44.659" style="s2">yes so this is the the paradox of money</p>
+<p begin="00:25:42.559" end="00:25:49.279" style="s2">and the assumption the money is</p>
+<p begin="00:25:44.659" end="00:25:51.890" style="s2">conserved if you if you borrow 10 10</p>
+<p begin="00:25:49.279" end="00:25:54.260" style="s2">bucks and you have to pay back more than</p>
+<p begin="00:25:51.890" end="00:25:56.360" style="s2">that then where does that money come</p>
+<p begin="00:25:54.260" end="00:25:58.220" style="s2">from to pay back more than you actually</p>
+<p begin="00:25:56.360" end="00:26:00.409" style="s2">borrowed if the money had to be created</p>
+<p begin="00:25:58.220" end="00:26:02.240" style="s2">by debt in the first place so how do you</p>
+<p begin="00:26:00.409" end="00:26:06.409" style="s2">get more money back for what you were</p>
+<p begin="00:26:02.240" end="00:26:08.450" style="s2">then then what you initially were to be</p>
+<p begin="00:26:06.409" end="00:26:10.700" style="s2">able to pay back the interest let me hop</p>
+<p begin="00:26:08.450" end="00:26:12.740" style="s2">in and say here say I&#39;m a little</p>
+<p begin="00:26:10.700" end="00:26:14.630" style="s2">interested in what it means to me as the</p>
+<p begin="00:26:12.740" end="00:26:16.580" style="s2">borrower but I&#39;m more interested in the</p>
+<p begin="00:26:14.630" end="00:26:18.320" style="s2">systematics you know the fact that the</p>
+<p begin="00:26:16.580" end="00:26:20.690" style="s2">total sum of payments is now greater</p>
+<p begin="00:26:18.320" end="00:26:21.950" style="s2">than the sum of money in the system yeah</p>
+<p begin="00:26:20.690" end="00:26:25.580" style="s2">I understand and that&#39;s what I&#39;m getting</p>
+<p begin="00:26:21.950" end="00:26:27.260" style="s2">to that so ok so right so you know if if</p>
+<p begin="00:26:25.580" end="00:26:28.850" style="s2">everyone&#39;s borrowing money and they all</p>
+<p begin="00:26:27.260" end="00:26:30.649" style="s2">have to pay it back how can there be</p>
+<p begin="00:26:28.850" end="00:26:32.840" style="s2">more money in the system to pay it back</p>
+<p begin="00:26:30.649" end="00:26:38.659" style="s2">then there was created by the banks in</p>
+<p begin="00:26:32.840" end="00:26:39.810" style="s2">the first place well one one answer to</p>
+<p begin="00:26:38.659" end="00:26:42.630" style="s2">that also</p>
+<p begin="00:26:39.810" end="00:26:46.040" style="s2">could be related to a phenomenon physics</p>
+<p begin="00:26:42.630" end="00:26:49.800" style="s2">called renormalization where over time</p>
+<p begin="00:26:46.040" end="00:26:51.540" style="s2">the value of money and I hate that we&#39;ll</p>
+<p begin="00:26:49.800" end="00:26:53.970" style="s2">come back to talk about that in a bit</p>
+<p begin="00:26:51.540" end="00:26:56.310" style="s2">perhaps the value of money what its</p>
+<p begin="00:26:53.970" end="00:27:00.090" style="s2">purchasing power is changes because</p>
+<p begin="00:26:56.310" end="00:27:01.950" style="s2">prices are rising so because prices rise</p>
+<p begin="00:27:00.090" end="00:27:04.340" style="s2">we have to pump more money into the</p>
+<p begin="00:27:01.950" end="00:27:06.840" style="s2">system to be able to pay for things and</p>
+<p begin="00:27:04.340" end="00:27:10.080" style="s2">and of course there&#39;s more people on the</p>
+<p begin="00:27:06.840" end="00:27:11.640" style="s2">planet are born more money has to be</p>
+<p begin="00:27:10.080" end="00:27:13.620" style="s2">created for them to buy things as well</p>
+<p begin="00:27:11.640" end="00:27:16.140" style="s2">so there is a need for more and more</p>
+<p begin="00:27:13.620" end="00:27:17.910" style="s2">money all the time and that means people</p>
+<p begin="00:27:16.140" end="00:27:19.890" style="s2">have to be borrowing more and more money</p>
+<p begin="00:27:17.910" end="00:27:21.630" style="s2">over time so it seems to make no sense</p>
+<p begin="00:27:19.890" end="00:27:24.630" style="s2">it seems like we would be in permanent</p>
+<p begin="00:27:21.630" end="00:27:27.900" style="s2">debt and of course we are in permanent</p>
+<p begin="00:27:24.630" end="00:27:32.760" style="s2">debt all of the time but the fact that</p>
+<p begin="00:27:27.900" end="00:27:34.650" style="s2">prices are rising and you can be paid</p>
+<p begin="00:27:32.760" end="00:27:38.100" style="s2">back more leads to the concept of</p>
+<p begin="00:27:34.650" end="00:27:40.620" style="s2">inflation which allows you to get back</p>
+<p begin="00:27:38.100" end="00:27:42.830" style="s2">more money than you perhaps paid for</p>
+<p begin="00:27:40.620" end="00:27:46.470" style="s2">something and make profit and that</p>
+<p begin="00:27:42.830" end="00:27:49.260" style="s2">margin assuming that it&#39;s always racing</p>
+<p begin="00:27:46.470" end="00:27:51.060" style="s2">the creation of money and doing</p>
+<p begin="00:27:49.260" end="00:27:53.640" style="s2">reasonably well and you don&#39;t care too</p>
+<p begin="00:27:51.060" end="00:27:56.220" style="s2">much about the debt you can try to make</p>
+<p begin="00:27:53.640" end="00:27:58.980" style="s2">that game work in such a way that you&#39;re</p>
+<p begin="00:27:56.220" end="00:28:01.110" style="s2">paying back your debts as somebody else</p>
+<p begin="00:27:58.980" end="00:28:03.180" style="s2">is borrowing kind of on your behalf</p>
+<p begin="00:28:01.110" end="00:28:05.220" style="s2">somewhere else in the world and the</p>
+<p begin="00:28:03.180" end="00:28:08.610" style="s2">network effect of that is routing money</p>
+<p begin="00:28:05.220" end="00:28:10.290" style="s2">to you at just the right way that you&#39;re</p>
+<p begin="00:28:08.610" end="00:28:12.870" style="s2">pushing death away from you all of the</p>
+<p begin="00:28:10.290" end="00:28:14.690" style="s2">time but of course new debt is being</p>
+<p begin="00:28:12.870" end="00:28:17.250" style="s2">created all of the time at the edge</p>
+<p begin="00:28:14.690" end="00:28:18.860" style="s2">which is never been paid back and so</p>
+<p begin="00:28:17.250" end="00:28:22.890" style="s2">there&#39;s this kind of pyramid game</p>
+<p begin="00:28:18.860" end="00:28:25.740" style="s2">ongoing and our our economic story</p>
+<p begin="00:28:22.890" end="00:28:28.440" style="s2">around profit and interests and so on is</p>
+<p begin="00:28:25.740" end="00:28:32.120" style="s2">essentially a gigantic pyramid scheme in</p>
+<p begin="00:28:28.440" end="00:28:35.340" style="s2">which debt is continuously being created</p>
+<p begin="00:28:32.120" end="00:28:37.380" style="s2">devalued and the semantics of it being</p>
+<p begin="00:28:35.340" end="00:28:41.360" style="s2">scattered around like entropy so that we</p>
+<p begin="00:28:37.380" end="00:28:45.000" style="s2">don&#39;t care about it anymore in order to</p>
+<p begin="00:28:41.360" end="00:28:46.470" style="s2">continue to play and it&#39;s I mean it</p>
+<p begin="00:28:45.000" end="00:28:48.600" style="s2">scares the heck out of me I don&#39;t know</p>
+<p begin="00:28:46.470" end="00:28:50.760" style="s2">about anyone else but when I look at the</p>
+<p begin="00:28:48.600" end="00:28:53.610" style="s2">way the financial system works</p>
+<p begin="00:28:50.760" end="00:28:56.190" style="s2">it&#39;s amazing to me every single day</p>
+<p begin="00:28:53.610" end="00:28:57.960" style="s2">that it can possibly work and yet it</p>
+<p begin="00:28:56.190" end="00:29:00.450" style="s2">seems to have periods of stability and</p>
+<p begin="00:28:57.960" end="00:29:02.299" style="s2">instability of course but but it seems</p>
+<p begin="00:29:00.450" end="00:29:04.309" style="s2">to sometimes</p>
+<p begin="00:29:02.299" end="00:29:06.080" style="s2">yeah and it&#39;s sort of where I call it</p>
+<p begin="00:29:04.309" end="00:29:07.609" style="s2">metastable right kind of like when</p>
+<p begin="00:29:06.080" end="00:29:09.919" style="s2">you&#39;re running a human running is</p>
+<p begin="00:29:07.609" end="00:29:12.229" style="s2">actually falling right it&#39;s a controlled</p>
+<p begin="00:29:09.919" end="00:29:13.879" style="s2">fall yes and sometimes when you&#39;re</p>
+<p begin="00:29:12.229" end="00:29:16.279" style="s2">running your foot hits a curb or you</p>
+<p begin="00:29:13.879" end="00:29:18.619" style="s2">step on a toy some kid left on the</p>
+<p begin="00:29:16.279" end="00:29:21.409" style="s2">sidewalk dad you go on your face right I</p>
+<p begin="00:29:18.619" end="00:29:22.639" style="s2">think of our financial system as that as</p>
+<p begin="00:29:21.409" end="00:29:24.919" style="s2">our Monday a monetary and financial</p>
+<p begin="00:29:22.639" end="00:29:26.719" style="s2">system is that a controlled running fall</p>
+<p begin="00:29:24.919" end="00:29:28.249" style="s2">which mostly works but sometimes you</p>
+<p begin="00:29:26.719" end="00:29:30.589" style="s2">fall down and sometimes you fall down</p>
+<p begin="00:29:28.249" end="00:29:34.190" style="s2">hard enough to break your noggin now you</p>
+<p begin="00:29:30.589" end="00:29:37.190" style="s2">talked about inflation and interest we</p>
+<p begin="00:29:34.190" end="00:29:39.889" style="s2">are now have been really since 2008 in a</p>
+<p begin="00:29:37.190" end="00:29:42.409" style="s2">very strange world where from time to</p>
+<p begin="00:29:39.889" end="00:29:44.989" style="s2">time deflation has raised its head in</p>
+<p begin="00:29:42.409" end="00:29:47.719" style="s2">Japan basically it&#39;s been in deflation</p>
+<p begin="00:29:44.989" end="00:29:50.269" style="s2">or close to it for the last 20 years and</p>
+<p begin="00:29:47.719" end="00:29:53.299" style="s2">deflation is flickered on and off in</p>
+<p begin="00:29:50.269" end="00:29:57.109" style="s2">Europe and terrified the hell out of the</p>
+<p begin="00:29:53.299" end="00:29:58.429" style="s2">central bankers also more peculiarly in</p>
+<p begin="00:29:57.109" end="00:30:00.589" style="s2">your book you talk about negative</p>
+<p begin="00:29:58.429" end="00:30:04.570" style="s2">interest rate but you noted as more of a</p>
+<p begin="00:30:00.589" end="00:30:07.639" style="s2">historical curiosity today it&#39;s reality</p>
+<p begin="00:30:04.570" end="00:30:10.309" style="s2">for the last several years there&#39;s been</p>
+<p begin="00:30:07.639" end="00:30:12.769" style="s2">negative interest rates on short and</p>
+<p begin="00:30:10.309" end="00:30:14.509" style="s2">even medium term bonds from Switzerland</p>
+<p begin="00:30:12.769" end="00:30:16.849" style="s2">Germany Japan several other countries</p>
+<p begin="00:30:14.509" end="00:30:18.950" style="s2">I&#39;ve checked yesterday and the Swiss</p>
+<p begin="00:30:16.849" end="00:30:22.339" style="s2">rate I think on three-year bills is now</p>
+<p begin="00:30:18.950" end="00:30:25.099" style="s2">minus 0.8 percent and Germany it&#39;s about</p>
+<p begin="00:30:22.339" end="00:30:26.659" style="s2">0.5% I understand I haven&#39;t done the</p>
+<p begin="00:30:25.099" end="00:30:28.549" style="s2">research to confirm if I understand in</p>
+<p begin="00:30:26.659" end="00:30:30.829" style="s2">Europe some of the triple-a rated</p>
+<p begin="00:30:28.549" end="00:30:33.320" style="s2">corporate bonds are now mildly negative</p>
+<p begin="00:30:30.829" end="00:30:36.169" style="s2">on their interest rates what does a</p>
+<p begin="00:30:33.320" end="00:30:39.019" style="s2">world of deflation and negative interest</p>
+<p begin="00:30:36.169" end="00:30:40.669" style="s2">rates indicate to us about money and how</p>
+<p begin="00:30:39.019" end="00:30:43.039" style="s2">did your theory of money even account</p>
+<p begin="00:30:40.669" end="00:30:45.349" style="s2">for that yeah this is a huge topic and</p>
+<p begin="00:30:43.039" end="00:30:47.799" style="s2">you&#39;re absolutely right negative</p>
+<p begin="00:30:45.349" end="00:30:50.690" style="s2">interest rates are now pervasive in</p>
+<p begin="00:30:47.799" end="00:30:52.999" style="s2">Japan and Europe and the eurozone in</p>
+<p begin="00:30:50.690" end="00:30:54.379" style="s2">particular I have to say I&#39;m not an</p>
+<p begin="00:30:52.999" end="00:30:57.139" style="s2">expert on you firstly I&#39;m not an</p>
+<p begin="00:30:54.379" end="00:30:58.700" style="s2">economist by any means one of the</p>
+<p begin="00:30:57.139" end="00:31:00.769" style="s2">interesting books that got me interested</p>
+<p begin="00:30:58.700" end="00:31:04.009" style="s2">in the question of money in the</p>
+<p begin="00:31:00.769" end="00:31:07.849" style="s2">beginning was first of all Yanis</p>
+<p begin="00:31:04.009" end="00:31:11.059" style="s2">varoufakis books the first one was and</p>
+<p begin="00:31:07.849" end="00:31:13.639" style="s2">the weeks are for what they must which</p>
+<p begin="00:31:11.059" end="00:31:14.740" style="s2">was about the Greek debt crisis in</p>
+<p begin="00:31:13.639" end="00:31:16.300" style="s2">Europe</p>
+<p begin="00:31:14.740" end="00:31:17.920" style="s2">and then his later is at you in his</p>
+<p begin="00:31:16.300" end="00:31:19.390" style="s2">earlier book but I read that afterwards</p>
+<p begin="00:31:17.920" end="00:31:21.730" style="s2">called the global miner tour which is</p>
+<p begin="00:31:19.390" end="00:31:24.570" style="s2">about the financial crisis and the</p>
+<p begin="00:31:21.730" end="00:31:27.580" style="s2">monetary system and then after that I</p>
+<p begin="00:31:24.570" end="00:31:30.370" style="s2">stumbled across a an interview with</p>
+<p begin="00:31:27.580" end="00:31:31.840" style="s2">Steve Kean Australian economist who</p>
+<p begin="00:31:30.370" end="00:31:35.470" style="s2">wrote this fabulous book called</p>
+<p begin="00:31:31.840" end="00:31:37.960" style="s2">debunking economics he&#39;s a he belongs to</p>
+<p begin="00:31:35.470" end="00:31:41.080" style="s2">the Church of Minsky I&#39;m in Minsky and</p>
+<p begin="00:31:37.960" end="00:31:43.000" style="s2">his death models Minsky wrote a book</p>
+<p begin="00:31:41.080" end="00:31:46.090" style="s2">called stabilizing an unstable economy</p>
+<p begin="00:31:43.000" end="00:31:49.360" style="s2">and can it happen again</p>
+<p begin="00:31:46.090" end="00:31:51.850" style="s2">around these these various deflationary</p>
+<p begin="00:31:49.360" end="00:31:55.780" style="s2">episodes and these financial crises that</p>
+<p begin="00:31:51.850" end="00:31:57.309" style="s2">seem to recur every 10 years or so the</p>
+<p begin="00:31:55.780" end="00:31:59.860" style="s2">mother of all being the one in two</p>
+<p begin="00:31:57.309" end="00:32:01.960" style="s2">thousand seven and eight and they they</p>
+<p begin="00:31:59.860" end="00:32:04.750" style="s2">have models for for describing these</p>
+<p begin="00:32:01.960" end="00:32:06.360" style="s2">these scenarios which go far beyond the</p>
+<p begin="00:32:04.750" end="00:32:09.400" style="s2">kind of monetary modeling that I&#39;ve</p>
+<p begin="00:32:06.360" end="00:32:12.580" style="s2">undertaken using promise theory they use</p>
+<p begin="00:32:09.400" end="00:32:14.950" style="s2">these differential rate based models you</p>
+<p begin="00:32:12.580" end="00:32:17.580" style="s2">know based on average statistical</p>
+<p begin="00:32:14.950" end="00:32:20.080" style="s2">measures and the econometrics that</p>
+<p begin="00:32:17.580" end="00:32:23.620" style="s2">economists use like interest rates and</p>
+<p begin="00:32:20.080" end="00:32:26.230" style="s2">GDP and so on which allow you to model</p>
+<p begin="00:32:23.620" end="00:32:30.130" style="s2">money on the timescale of decades and</p>
+<p begin="00:32:26.230" end="00:32:32.130" style="s2">years and over long periods of time of</p>
+<p begin="00:32:30.130" end="00:32:35.110" style="s2">course they then try to apply them to</p>
+<p begin="00:32:32.130" end="00:32:37.540" style="s2">money markets on the scale of days and</p>
+<p begin="00:32:35.110" end="00:32:39.429" style="s2">weeks and months which is kind of absurd</p>
+<p begin="00:32:37.540" end="00:32:41.710" style="s2">and leads to this meta stability that</p>
+<p begin="00:32:39.429" end="00:32:44.320" style="s2">you were just talking about and this</p>
+<p begin="00:32:41.710" end="00:32:47.050" style="s2">this is I find this sort of</p>
+<p begin="00:32:44.320" end="00:32:48.790" style="s2">extraordinary because this got me</p>
+<p begin="00:32:47.050" end="00:32:51.130" style="s2">interested in the concept of money and</p>
+<p begin="00:32:48.790" end="00:32:52.870" style="s2">whether or not that network of effects</p>
+<p begin="00:32:51.130" end="00:32:55.929" style="s2">could work on the timescale of those</p>
+<p begin="00:32:52.870" end="00:32:57.730" style="s2">microscopic interactions so my promise</p>
+<p begin="00:32:55.929" end="00:32:59.320" style="s2">theory money is really a microscopic</p>
+<p begin="00:32:57.730" end="00:33:02.020" style="s2">view of money if you will it&#39;s a</p>
+<p begin="00:32:59.320" end="00:33:04.750" style="s2">transactional view at the level of our</p>
+<p begin="00:33:02.020" end="00:33:06.880" style="s2">everyday payments for things the trust</p>
+<p begin="00:33:04.750" end="00:33:09.760" style="s2">incurred in the relationships between us</p>
+<p begin="00:33:06.880" end="00:33:11.429" style="s2">you know what allows that one person to</p>
+<p begin="00:33:09.760" end="00:33:15.040" style="s2">pay for something and what will make</p>
+<p begin="00:33:11.429" end="00:33:17.230" style="s2">your client be willing to pay you for</p>
+<p begin="00:33:15.040" end="00:33:19.210" style="s2">your services how do those relationships</p>
+<p begin="00:33:17.230" end="00:33:23.380" style="s2">get started in order to bootstrap that</p>
+<p begin="00:33:19.210" end="00:33:26.530" style="s2">whole motor owned machine engine of the</p>
+<p begin="00:33:23.380" end="00:33:28.770" style="s2">world I think that&#39;s what Iran called it</p>
+<p begin="00:33:26.530" end="00:33:33.130" style="s2">the engine of the world</p>
+<p begin="00:33:28.770" end="00:33:36.820" style="s2">and that engine of the worldview is what</p>
+<p begin="00:33:33.130" end="00:33:39.550" style="s2">the macro economists like to study and</p>
+<p begin="00:33:36.820" end="00:33:41.710" style="s2">to model and talk about that macroscopic</p>
+<p begin="00:33:39.550" end="00:33:44.380" style="s2">version of money is a totally different</p>
+<p begin="00:33:41.710" end="00:33:46.320" style="s2">beast than the microscopic version that</p>
+<p begin="00:33:44.380" end="00:33:50.500" style="s2">we were talking about in terms of</p>
+<p begin="00:33:46.320" end="00:33:52.240" style="s2">transactions and this was this began to</p>
+<p begin="00:33:50.500" end="00:33:55.680" style="s2">I think people began to realize this</p>
+<p begin="00:33:52.240" end="00:33:59.260" style="s2">after the you know the original</p>
+<p begin="00:33:55.680" end="00:34:01.960" style="s2">depression during the 30s where Keynes</p>
+<p begin="00:33:59.260" end="00:34:04.750" style="s2">became you know John Maynard Keynes the</p>
+<p begin="00:34:01.960" end="00:34:06.990" style="s2">British economist became a force of</p>
+<p begin="00:34:04.750" end="00:34:10.450" style="s2">nature or force of economics if you will</p>
+<p begin="00:34:06.990" end="00:34:12.790" style="s2">talking about the role of debt and the</p>
+<p begin="00:34:10.450" end="00:34:14.530" style="s2">fact that this the way in which banks</p>
+<p begin="00:34:12.790" end="00:34:17.220" style="s2">create money was an important thing that</p>
+<p begin="00:34:14.530" end="00:34:21.310" style="s2">had to be taken into account because it</p>
+<p begin="00:34:17.220" end="00:34:25.060" style="s2">may seem bizarre for for our readers to</p>
+<p begin="00:34:21.310" end="00:34:27.850" style="s2">to hear that economist economists</p>
+<p begin="00:34:25.060" end="00:34:30.070" style="s2">economics didn&#39;t model money and and to</p>
+<p begin="00:34:27.850" end="00:34:33.820" style="s2">this day many economists talk about</p>
+<p begin="00:34:30.070" end="00:34:36.670" style="s2">economics GDP and debt and interest</p>
+<p begin="00:34:33.820" end="00:34:39.370" style="s2">rates and unemployment without ever</p>
+<p begin="00:34:36.670" end="00:34:41.770" style="s2">referring to to money as a as a medium</p>
+<p begin="00:34:39.370" end="00:34:44.320" style="s2">and what it does this is quite</p>
+<p begin="00:34:41.770" end="00:34:46.630" style="s2">extraordinary and Steve Kean makes a big</p>
+<p begin="00:34:44.320" end="00:34:49.570" style="s2">point of this in his book which I found</p>
+<p begin="00:34:46.630" end="00:34:51.280" style="s2">very illuminating inspired me to try to</p>
+<p begin="00:34:49.570" end="00:34:54.550" style="s2">get to the bottom of what money was all</p>
+<p begin="00:34:51.280" end="00:34:57.880" style="s2">about what these guys do is they they</p>
+<p begin="00:34:54.550" end="00:35:00.400" style="s2">look at these global indicators like GDP</p>
+<p begin="00:34:57.880" end="00:35:01.990" style="s2">unemployment and they use kind of</p>
+<p begin="00:35:00.400" end="00:35:04.390" style="s2">straight line or polynomial</p>
+<p begin="00:35:01.990" end="00:35:07.570" style="s2">relationships between them simple</p>
+<p begin="00:35:04.390" end="00:35:09.130" style="s2">deterministic laws bit like the laws of</p>
+<p begin="00:35:07.570" end="00:35:12.060" style="s2">physics that you know he was alluding to</p>
+<p begin="00:35:09.130" end="00:35:15.910" style="s2">before going back to this time when</p>
+<p begin="00:35:12.060" end="00:35:17.530" style="s2">economists wanted economics to be like</p>
+<p begin="00:35:15.910" end="00:35:19.960" style="s2">the laws of physics and I have this</p>
+<p begin="00:35:17.530" end="00:35:22.090" style="s2">physics Envy you just solve it in your</p>
+<p begin="00:35:19.960" end="00:35:23.890" style="s2">differential equation subject to some</p>
+<p begin="00:35:22.090" end="00:35:26.470" style="s2">boundary conditions and then you predict</p>
+<p begin="00:35:23.890" end="00:35:31.060" style="s2">next year&#39;s economy and people still do</p>
+<p begin="00:35:26.470" end="00:35:35.290" style="s2">this with these Goodwin Minsky models</p>
+<p begin="00:35:31.060" end="00:35:37.750" style="s2">that are used in various degrees of</p>
+<p begin="00:35:35.290" end="00:35:40.390" style="s2">approximation to try to look at the</p>
+<p begin="00:35:37.750" end="00:35:42.819" style="s2">trends that are ongoing</p>
+<p begin="00:35:40.390" end="00:35:44.589" style="s2">but this to me from a promise Theory</p>
+<p begin="00:35:42.819" end="00:35:47.140" style="s2">perspective this goes back to something</p>
+<p begin="00:35:44.589" end="00:35:50.529" style="s2">which I call the principle of separation</p>
+<p begin="00:35:47.140" end="00:35:52.809" style="s2">of scales which with your background in</p>
+<p begin="00:35:50.529" end="00:35:55.210" style="s2">complexity science you you recognize as</p>
+<p begin="00:35:52.809" end="00:35:58.440" style="s2">well has been one of the most important</p>
+<p begin="00:35:55.210" end="00:36:01.119" style="s2">things of complex systems house how</p>
+<p begin="00:35:58.440" end="00:36:03.309" style="s2">systems exist on different scales and</p>
+<p begin="00:36:01.119" end="00:36:05.289" style="s2">they make different promises at each</p>
+<p begin="00:36:03.309" end="00:36:08.739" style="s2">different scale so there is an</p>
+<p begin="00:36:05.289" end="00:36:11.559" style="s2">interaction story at each identifiable</p>
+<p begin="00:36:08.739" end="00:36:13.630" style="s2">or separable scale of a system which</p>
+<p begin="00:36:11.559" end="00:36:16.329" style="s2">tells a story of its own and those</p>
+<p begin="00:36:13.630" end="00:36:19.049" style="s2">stories are not necessarily clearly</p>
+<p begin="00:36:16.329" end="00:36:21.249" style="s2">related or in a simple way related and</p>
+<p begin="00:36:19.049" end="00:36:24.069" style="s2">of course this means that he called</p>
+<p begin="00:36:21.249" end="00:36:26.890" style="s2">economics and the story of money and the</p>
+<p begin="00:36:24.069" end="00:36:28.960" style="s2">story of society that it tells is not</p>
+<p begin="00:36:26.890" end="00:36:30.210" style="s2">like one simple story it&#39;s a story on</p>
+<p begin="00:36:28.960" end="00:36:32.470" style="s2">many levels</p>
+<p begin="00:36:30.210" end="00:36:34.900" style="s2">economists separate themselves into</p>
+<p begin="00:36:32.470" end="00:36:37.119" style="s2">micro economists macro economists see</p>
+<p begin="00:36:34.900" end="00:36:37.989" style="s2">there should probably be meso economists</p>
+<p begin="00:36:37.119" end="00:36:40.900" style="s2">in there as well</p>
+<p begin="00:36:37.989" end="00:36:43.660" style="s2">but I never heard of them before but I</p>
+<p begin="00:36:40.900" end="00:36:46.839" style="s2">think him economics is attempting to go</p>
+<p begin="00:36:43.660" end="00:36:48.720" style="s2">through a revolution to reinvent itself</p>
+<p begin="00:36:46.839" end="00:36:52.049" style="s2">along these lines and some of those</p>
+<p begin="00:36:48.720" end="00:36:55.269" style="s2">advocates like Minsky was an early one</p>
+<p begin="00:36:52.049" end="00:36:57.640" style="s2">largely forgotten today Keynes cost</p>
+<p begin="00:36:55.269" end="00:37:02.369" style="s2">widely misrepresented in his his version</p>
+<p begin="00:36:57.640" end="00:37:05.319" style="s2">of events is his theory was kind of</p>
+<p begin="00:37:02.369" end="00:37:10.089" style="s2">hijacked by the neoclassical economists</p>
+<p begin="00:37:05.319" end="00:37:12.190" style="s2">and misrepresented for many years and</p>
+<p begin="00:37:10.089" end="00:37:17.259" style="s2">then sort of the modern advocates like</p>
+<p begin="00:37:12.190" end="00:37:20.049" style="s2">Yanis varoufakis and Steve Kean and even</p>
+<p begin="00:37:17.259" end="00:37:22.539" style="s2">old guys like Shiller the Nobel Prize</p>
+<p begin="00:37:20.049" end="00:37:26.019" style="s2">winner his latest books on narrative</p>
+<p begin="00:37:22.539" end="00:37:28.509" style="s2">economics and so on indicating how we we</p>
+<p begin="00:37:26.019" end="00:37:31.539" style="s2">try to separate the the storylines of</p>
+<p begin="00:37:28.509" end="00:37:35.710" style="s2">the different scales in the economy to</p>
+<p begin="00:37:31.539" end="00:37:38.349" style="s2">to predict how stuff happens so you know</p>
+<p begin="00:37:35.710" end="00:37:40.599" style="s2">long and rambling answer to you to your</p>
+<p begin="00:37:38.349" end="00:37:42.910" style="s2">question really economics being a</p>
+<p begin="00:37:40.599" end="00:37:44.980" style="s2">complex system is is a complex thing to</p>
+<p begin="00:37:42.910" end="00:37:46.720" style="s2">describe many different scales and we</p>
+<p begin="00:37:44.980" end="00:37:49.239" style="s2">have to have different stories about it</p>
+<p begin="00:37:46.720" end="00:37:50.799" style="s2">at each of these scales the nature and</p>
+<p begin="00:37:49.239" end="00:37:52.299" style="s2">characteristics of those stories at</p>
+<p begin="00:37:50.799" end="00:37:53.490" style="s2">different scales are course very</p>
+<p begin="00:37:52.299" end="00:37:56.340" style="s2">different</p>
+<p begin="00:37:53.490" end="00:37:58.020" style="s2">absolutely very good perspective I will</p>
+<p begin="00:37:56.340" end="00:38:01.080" style="s2">second the call-out the Steve Keynes</p>
+<p begin="00:37:58.020" end="00:38:02.640" style="s2">economics debunked which is a must read</p>
+<p begin="00:38:01.080" end="00:38:05.010" style="s2">if you want to understand why our</p>
+<p begin="00:38:02.640" end="00:38:07.230" style="s2">Economist&#39;s have led us so far astray</p>
+<p begin="00:38:05.010" end="00:38:10.050" style="s2">I&#39;ve got Schiller&#39;s narrative economics</p>
+<p begin="00:38:07.230" end="00:38:12.150" style="s2">on my soon to be read stack and another</p>
+<p begin="00:38:10.050" end="00:38:14.040" style="s2">one I&#39;d call out and this is actually my</p>
+<p begin="00:38:12.150" end="00:38:16.890" style="s2">touchstone in my own work in monetary</p>
+<p begin="00:38:14.040" end="00:38:19.680" style="s2">theory the money illusion by Irving</p>
+<p begin="00:38:16.890" end="00:38:22.140" style="s2">Fisher very I kind of classic economist</p>
+<p begin="00:38:19.680" end="00:38:24.120" style="s2">back in the 20s and 30s who I still</p>
+<p begin="00:38:22.140" end="00:38:26.640" style="s2">believe saw money more accurately than</p>
+<p begin="00:38:24.120" end="00:38:28.530" style="s2">anybody else and finally if you want to</p>
+<p begin="00:38:26.640" end="00:38:30.840" style="s2">see the ruddy in view about money I do</p>
+<p begin="00:38:28.530" end="00:38:34.020" style="s2">have a talk on the internet type in</p>
+<p begin="00:38:30.840" end="00:38:37.440" style="s2">dividend money gym rut on YouTube and</p>
+<p begin="00:38:34.020" end="00:38:38.970" style="s2">you will see my 90-minute talk about an</p>
+<p begin="00:38:37.440" end="00:38:42.600" style="s2">alternative money system that doesn&#39;t</p>
+<p begin="00:38:38.970" end="00:38:43.800" style="s2">require debt let&#39;s move on another thing</p>
+<p begin="00:38:42.600" end="00:38:45.690" style="s2">that you&#39;ve talked about in your book</p>
+<p begin="00:38:43.800" end="00:38:48.080" style="s2">and some considerable detail something</p>
+<p begin="00:38:45.690" end="00:38:49.830" style="s2">that frankly right at the edge of my</p>
+<p begin="00:38:48.080" end="00:38:51.300" style="s2">understanding of money and one of the</p>
+<p begin="00:38:49.830" end="00:38:54.600" style="s2">things that makes us so damn complicated</p>
+<p begin="00:38:51.300" end="00:38:57.120" style="s2">is how foreign exchange changes our</p>
+<p begin="00:38:54.600" end="00:38:58.980" style="s2">analysis on money could you talk to us a</p>
+<p begin="00:38:57.120" end="00:39:01.230" style="s2">little bit about foreign exchange and</p>
+<p begin="00:38:58.980" end="00:39:03.930" style="s2">how that couples to any given country&#39;s</p>
+<p begin="00:39:01.230" end="00:39:06.480" style="s2">monetary system so we start with this</p>
+<p begin="00:39:03.930" end="00:39:08.610" style="s2">idea the banks create money and each</p>
+<p begin="00:39:06.480" end="00:39:11.940" style="s2">sovereign realm with its own banking</p>
+<p begin="00:39:08.610" end="00:39:14.160" style="s2">system can create money of its own in</p>
+<p begin="00:39:11.940" end="00:39:15.840" style="s2">fact you are I could tomorrow just</p>
+<p begin="00:39:14.160" end="00:39:19.230" style="s2">create our own currency right off the</p>
+<p begin="00:39:15.840" end="00:39:20.880" style="s2">bat if we wanted to anyone is free to do</p>
+<p begin="00:39:19.230" end="00:39:22.950" style="s2">that at any time companies do it from</p>
+<p begin="00:39:20.880" end="00:39:25.620" style="s2">time to time we have coffee cards and</p>
+<p begin="00:39:22.950" end="00:39:28.980" style="s2">flight miles and and so on these loyalty</p>
+<p begin="00:39:25.620" end="00:39:30.270" style="s2">systems that people create and of course</p>
+<p begin="00:39:28.980" end="00:39:34.220" style="s2">there are many reasons for doing this</p>
+<p begin="00:39:30.270" end="00:39:36.810" style="s2">but let&#39;s not get into that right now</p>
+<p begin="00:39:34.220" end="00:39:38.820" style="s2">the trick of creating your own money is</p>
+<p begin="00:39:36.810" end="00:39:42.750" style="s2">to get people to accept it alright so if</p>
+<p begin="00:39:38.820" end="00:39:45.030" style="s2">someone will agree to use your currency</p>
+<p begin="00:39:42.750" end="00:39:47.040" style="s2">and give it back to such a degree that</p>
+<p begin="00:39:45.030" end="00:39:49.350" style="s2">it forms a network then it starts to</p>
+<p begin="00:39:47.040" end="00:39:50.490" style="s2">become a useful thing so it&#39;s like if</p>
+<p begin="00:39:49.350" end="00:39:53.430" style="s2">you&#39;re on the internet if you have a</p>
+<p begin="00:39:50.490" end="00:39:55.980" style="s2">bunch of internet packets TCP packets</p>
+<p begin="00:39:53.430" end="00:39:58.230" style="s2">but no one else supports TCP you&#39;re</p>
+<p begin="00:39:55.980" end="00:39:58.680" style="s2">stuck you know you you&#39;re not going</p>
+<p begin="00:39:58.230" end="00:40:01.200" style="s2">anywhere</p>
+<p begin="00:39:58.680" end="00:40:04.260" style="s2">but if the whole world adopts tcp/ip</p>
+<p begin="00:40:01.200" end="00:40:06.880" style="s2">then suddenly you&#39;ve got an Internet and</p>
+<p begin="00:40:04.260" end="00:40:10.539" style="s2">in a similar way you would like to have</p>
+<p begin="00:40:06.880" end="00:40:12.039" style="s2">a global currency in which everybody</p>
+<p begin="00:40:10.539" end="00:40:14.140" style="s2">could pay everyone else and you could</p>
+<p begin="00:40:12.039" end="00:40:17.710" style="s2">make you could just sell things and buy</p>
+<p begin="00:40:14.140" end="00:40:20.019" style="s2">things freely but because of the</p>
+<p begin="00:40:17.710" end="00:40:23.289" style="s2">relationship to politics not everyone</p>
+<p begin="00:40:20.019" end="00:40:24.970" style="s2">really wants to do that because who gets</p>
+<p begin="00:40:23.289" end="00:40:29.019" style="s2">to decide how much money is in</p>
+<p begin="00:40:24.970" end="00:40:31.180" style="s2">circulation will affect how well-off</p>
+<p begin="00:40:29.019" end="00:40:33.819" style="s2">people will be which is a political</p>
+<p begin="00:40:31.180" end="00:40:36.190" style="s2">issue you know who gets to borrow money</p>
+<p begin="00:40:33.819" end="00:40:36.700" style="s2">and if some people start getting too</p>
+<p begin="00:40:36.190" end="00:40:39.430" style="s2">rich</p>
+<p begin="00:40:36.700" end="00:40:41.170" style="s2">how will we control that so there&#39;s</p>
+<p begin="00:40:39.430" end="00:40:43.420" style="s2">there&#39;s a lever of control which is</p>
+<p begin="00:40:41.170" end="00:40:45.279" style="s2">implicit in money which is highly</p>
+<p begin="00:40:43.420" end="00:40:48.220" style="s2">political in and of course governments</p>
+<p begin="00:40:45.279" end="00:40:51.039" style="s2">and and banks even and private</p>
+<p begin="00:40:48.220" end="00:40:55.200" style="s2">corporations want to be able to control</p>
+<p begin="00:40:51.039" end="00:40:57.970" style="s2">that to some extent so sovereignty over</p>
+<p begin="00:40:55.200" end="00:41:01.029" style="s2">money and its control is an important</p>
+<p begin="00:40:57.970" end="00:41:02.710" style="s2">thing and so after the Second World War</p>
+<p begin="00:41:01.029" end="00:41:06.099" style="s2">the Marshall Plan and all of the</p>
+<p begin="00:41:02.710" end="00:41:09.400" style="s2">enormous war costs that reparations had</p>
+<p begin="00:41:06.099" end="00:41:11.079" style="s2">to be made Keynes apparently proposed</p>
+<p begin="00:41:09.400" end="00:41:13.299" style="s2">the idea of a global currency but this</p>
+<p begin="00:41:11.079" end="00:41:15.549" style="s2">was actually brought down by Washington</p>
+<p begin="00:41:13.299" end="00:41:17.859" style="s2">because Washington wanted to have an</p>
+<p begin="00:41:15.549" end="00:41:20.170" style="s2">advantage over the rest of the world to</p>
+<p begin="00:41:17.859" end="00:41:23.950" style="s2">control certain resources like the oil</p>
+<p begin="00:41:20.170" end="00:41:27.369" style="s2">and so on for political gains and still</p>
+<p begin="00:41:23.950" end="00:41:30.549" style="s2">maintains that control lever which</p>
+<p begin="00:41:27.369" end="00:41:33.970" style="s2">allows you to perform sanctions on</p>
+<p begin="00:41:30.549" end="00:41:36.759" style="s2">countries and so on so this political</p>
+<p begin="00:41:33.970" end="00:41:39.519" style="s2">dimension means that that the national</p>
+<p begin="00:41:36.759" end="00:41:42.279" style="s2">boundaries of countries now play a role</p>
+<p begin="00:41:39.519" end="00:41:43.630" style="s2">in currencies and exchanging money if</p>
+<p begin="00:41:42.279" end="00:41:45.549" style="s2">you want to pay for something in another</p>
+<p begin="00:41:43.630" end="00:41:49.869" style="s2">country you have to go through this</p>
+<p begin="00:41:45.549" end="00:41:54.069" style="s2">rather complex dance buy of buying</p>
+<p begin="00:41:49.869" end="00:41:55.930" style="s2">currency using your own currency now how</p>
+<p begin="00:41:54.069" end="00:41:59.400" style="s2">does that work if you if money is</p>
+<p begin="00:41:55.930" end="00:42:02.289" style="s2">created only in the foreign country and</p>
+<p begin="00:41:59.400" end="00:42:04.390" style="s2">you you could only get money from by</p>
+<p begin="00:42:02.289" end="00:42:06.640" style="s2">paying in your own currency and it</p>
+<p begin="00:42:04.390" end="00:42:09.339" style="s2">doesn&#39;t work in the other country how&#39;s</p>
+<p begin="00:42:06.640" end="00:42:11.380" style="s2">that gonna work well of course what</p>
+<p begin="00:42:09.339" end="00:42:13.660" style="s2">happens is that each country basically</p>
+<p begin="00:42:11.380" end="00:42:15.970" style="s2">has bank accounts in each other&#39;s banks</p>
+<p begin="00:42:13.660" end="00:42:18.369" style="s2">like the foreign banks have bank</p>
+<p begin="00:42:15.970" end="00:42:20.230" style="s2">accounts in one another&#39;s banks and they</p>
+<p begin="00:42:18.369" end="00:42:22.720" style="s2">will issue debt</p>
+<p begin="00:42:20.230" end="00:42:25.359" style="s2">in order to issue currency in in the in</p>
+<p begin="00:42:22.720" end="00:42:27.640" style="s2">the foreign currency so again it&#39;s a</p>
+<p begin="00:42:25.359" end="00:42:30.400" style="s2">game of virtual debt floating around</p>
+<p begin="00:42:27.640" end="00:42:31.780" style="s2">with bonds and other instruments we</p>
+<p begin="00:42:30.400" end="00:42:34.000" style="s2">don&#39;t have to get into the details are</p>
+<p begin="00:42:31.780" end="00:42:37.030" style="s2">if if I even understood you know a</p>
+<p begin="00:42:34.000" end="00:42:39.720" style="s2">fraction of it but it&#39;s basically the</p>
+<p begin="00:42:37.030" end="00:42:42.760" style="s2">the technology of deaths and ledges</p>
+<p begin="00:42:39.720" end="00:42:46.150" style="s2">creating debt and instantiating money in</p>
+<p begin="00:42:42.760" end="00:42:48.099" style="s2">the currency required but then of course</p>
+<p begin="00:42:46.150" end="00:42:50.800" style="s2">there&#39;s another story around what is</p>
+<p begin="00:42:48.099" end="00:42:54.369" style="s2">that money worth in terms of what you</p>
+<p begin="00:42:50.800" end="00:42:55.900" style="s2">can buy for it and the the basic rule I</p>
+<p begin="00:42:54.369" end="00:42:58.150" style="s2">think which is easy to understand for</p>
+<p begin="00:42:55.900" end="00:43:00.130" style="s2">everyone is that money is worth exactly</p>
+<p begin="00:42:58.150" end="00:43:02.800" style="s2">as much as you can get for it now you</p>
+<p begin="00:43:00.130" end="00:43:05.800" style="s2">offer somebody a dollar you make it</p>
+<p begin="00:43:02.800" end="00:43:07.720" style="s2">bubble gum you make it a car it just</p>
+<p begin="00:43:05.800" end="00:43:11.109" style="s2">depends how what people are feeling on</p>
+<p begin="00:43:07.720" end="00:43:14.440" style="s2">the day so there&#39;s a trust aspect to</p>
+<p begin="00:43:11.109" end="00:43:15.820" style="s2">that there&#39;s also a market-based aspect</p>
+<p begin="00:43:14.440" end="00:43:18.130" style="s2">of that if I can get something from</p>
+<p begin="00:43:15.820" end="00:43:20.140" style="s2">somebody else cheaper than your prices</p>
+<p begin="00:43:18.130" end="00:43:23.460" style="s2">fluctuate does a whole language of</p>
+<p begin="00:43:20.140" end="00:43:26.440" style="s2">prices which is a story unto itself but</p>
+<p begin="00:43:23.460" end="00:43:28.060" style="s2">that means that the effective purchasing</p>
+<p begin="00:43:26.440" end="00:43:32.310" style="s2">power of money what we like to call the</p>
+<p begin="00:43:28.060" end="00:43:38.170" style="s2">value of money is a highly relativistic</p>
+<p begin="00:43:32.310" end="00:43:41.109" style="s2">highly fickle and mercurial aspect of</p>
+<p begin="00:43:38.170" end="00:43:44.770" style="s2">global communication which is constantly</p>
+<p begin="00:43:41.109" end="00:43:46.750" style="s2">fluctuating and it means that money we</p>
+<p begin="00:43:44.770" end="00:43:50.170" style="s2">thought we had can just vanish overnight</p>
+<p begin="00:43:46.750" end="00:43:51.819" style="s2">because markets are suddenly taking</p>
+<p begin="00:43:50.170" end="00:43:55.660" style="s2">different rates of money for something</p>
+<p begin="00:43:51.819" end="00:43:58.210" style="s2">this happened to friends of mine who</p>
+<p begin="00:43:55.660" end="00:44:00.970" style="s2">borrowed money from one bank in one</p>
+<p begin="00:43:58.210" end="00:44:03.819" style="s2">currency or ordered something online in</p>
+<p begin="00:44:00.970" end="00:44:06.640" style="s2">one currency and then the order was</p>
+<p begin="00:44:03.819" end="00:44:08.349" style="s2">cancelled and they were paid back or</p>
+<p begin="00:44:06.640" end="00:44:11.440" style="s2">refunded the amount but the amount was</p>
+<p begin="00:44:08.349" end="00:44:13.060" style="s2">either less or more in the interim than</p>
+<p begin="00:44:11.440" end="00:44:14.200" style="s2">what they paid for it originally so he</p>
+<p begin="00:44:13.060" end="00:44:17.560" style="s2">could either make a profit or a loss</p>
+<p begin="00:44:14.200" end="00:44:20.319" style="s2">just by canceling an order which is one</p>
+<p begin="00:44:17.560" end="00:44:22.839" style="s2">of those extraordinary uncertainties in</p>
+<p begin="00:44:20.319" end="00:44:25.420" style="s2">in the modern world but this this is</p>
+<p begin="00:44:22.839" end="00:44:27.130" style="s2">again all part of this promise theoretic</p>
+<p begin="00:44:25.420" end="00:44:29.349" style="s2">story in which you have independent</p>
+<p begin="00:44:27.130" end="00:44:31.770" style="s2">agents in this case the national</p>
+<p begin="00:44:29.349" end="00:44:34.080" style="s2">sovereignties or the central bank&#39;s</p>
+<p begin="00:44:31.770" end="00:44:36.610" style="s2">actually the private banks</p>
+<p begin="00:44:34.080" end="00:44:38.530" style="s2">each maintaining their own version of</p>
+<p begin="00:44:36.610" end="00:44:41.110" style="s2">money their own rates of interest and</p>
+<p begin="00:44:38.530" end="00:44:44.110" style="s2">their own rules essentially about how to</p>
+<p begin="00:44:41.110" end="00:44:45.970" style="s2">repay that and that the semantics of all</p>
+<p begin="00:44:44.110" end="00:44:47.740" style="s2">of that impinge upon the effective</p>
+<p begin="00:44:45.970" end="00:44:49.960" style="s2">amount of money that people have in</p>
+<p begin="00:44:47.740" end="00:44:52.240" style="s2">their accounts over time and of course</p>
+<p begin="00:44:49.960" end="00:44:55.030" style="s2">it manifests itself in some interesting</p>
+<p begin="00:44:52.240" end="00:44:56.950" style="s2">ways for the individual small-scale for</p>
+<p begin="00:44:55.030" end="00:44:59.320" style="s2">an exchange can be horrendously</p>
+<p begin="00:44:56.950" end="00:45:00.970" style="s2">expensive you go to those goddamn money</p>
+<p begin="00:44:59.320" end="00:45:03.040" style="s2">things at the airport where they hit you</p>
+<p begin="00:45:00.970" end="00:45:05.500" style="s2">eight or ten percent and if you were a</p>
+<p begin="00:45:03.040" end="00:45:07.360" style="s2">let&#39;s say an economic migrant a</p>
+<p begin="00:45:05.500" end="00:45:09.250" style="s2">third-world person working in the first</p>
+<p begin="00:45:07.360" end="00:45:11.620" style="s2">world to get your remittance back to</p>
+<p begin="00:45:09.250" end="00:45:13.930" style="s2">your family could be more than that yep</p>
+<p begin="00:45:11.620" end="00:45:16.570" style="s2">part of the system that has not somehow</p>
+<p begin="00:45:13.930" end="00:45:17.770" style="s2">evolved to be very efficient one of the</p>
+<p begin="00:45:16.570" end="00:45:20.170" style="s2">things that we&#39;ve talked about a little</p>
+<p begin="00:45:17.770" end="00:45:21.550" style="s2">bit is the supply of money one of the</p>
+<p begin="00:45:20.170" end="00:45:23.590" style="s2">things that I don&#39;t think was in your</p>
+<p begin="00:45:21.550" end="00:45:24.850" style="s2">book too much and unfortunately you</p>
+<p begin="00:45:23.590" end="00:45:27.430" style="s2">don&#39;t have a kindle edition so I</p>
+<p begin="00:45:24.850" end="00:45:29.530" style="s2">couldn&#39;t search and see is the velocity</p>
+<p begin="00:45:27.430" end="00:45:32.620" style="s2">of money have you thought a little bit</p>
+<p begin="00:45:29.530" end="00:45:36.310" style="s2">about how the quantity and supply of</p>
+<p begin="00:45:32.620" end="00:45:39.580" style="s2">money interact so this concept of the</p>
+<p begin="00:45:36.310" end="00:45:42.280" style="s2">velocity of money is how quickly in some</p>
+<p begin="00:45:39.580" end="00:45:44.410" style="s2">sense money is changing hands and it&#39;s</p>
+<p begin="00:45:42.280" end="00:45:46.810" style="s2">you know under like velocity in in the</p>
+<p begin="00:45:44.410" end="00:45:50.640" style="s2">Newtonian sense of physics it&#39;s not a</p>
+<p begin="00:45:46.810" end="00:45:53.830" style="s2">simple simple concept it can be</p>
+<p begin="00:45:50.640" end="00:45:56.950" style="s2">discussed as a statistical concept on</p>
+<p begin="00:45:53.830" end="00:46:00.190" style="s2">the scale of these macroeconomic models</p>
+<p begin="00:45:56.950" end="00:46:03.460" style="s2">but the meaning of that thing I think is</p>
+<p begin="00:46:00.190" end="00:46:06.850" style="s2">a bit iffy I don&#39;t I wouldn&#39;t place too</p>
+<p begin="00:46:03.460" end="00:46:09.220" style="s2">much sway in that concept bill I don&#39;t</p>
+<p begin="00:46:06.850" end="00:46:10.870" style="s2">know what macro economist would say</p>
+<p begin="00:46:09.220" end="00:46:12.550" style="s2">about it personally to me it doesn&#39;t to</p>
+<p begin="00:46:10.870" end="00:46:15.610" style="s2">make too much sense for the simple</p>
+<p begin="00:46:12.550" end="00:46:18.520" style="s2">reason that you or I operate with money</p>
+<p begin="00:46:15.610" end="00:46:21.190" style="s2">only on the scale of agents and</p>
+<p begin="00:46:18.520" end="00:46:23.950" style="s2">transactions not in these statistical</p>
+<p begin="00:46:21.190" end="00:46:25.480" style="s2">averages over time but what&#39;s important</p>
+<p begin="00:46:23.950" end="00:46:29.140" style="s2">about this concept of how fast money</p>
+<p begin="00:46:25.480" end="00:46:31.800" style="s2">moves is that if money pools in places</p>
+<p begin="00:46:29.140" end="00:46:35.770" style="s2">you know if you somebody hoards money</p>
+<p begin="00:46:31.800" end="00:46:38.530" style="s2">for two for too long the supply of money</p>
+<p begin="00:46:35.770" end="00:46:40.930" style="s2">is effectively stunted for other people</p>
+<p begin="00:46:38.530" end="00:46:43.090" style="s2">you need a certain amount of money</p>
+<p begin="00:46:40.930" end="00:46:46.030" style="s2">flowing in order to be able to buy stuff</p>
+<p begin="00:46:43.090" end="00:46:47.600" style="s2">and if somebody&#39;s stashed you know 90%</p>
+<p begin="00:46:46.030" end="00:46:50.270" style="s2">of the money in</p>
+<p begin="00:46:47.600" end="00:46:52.100" style="s2">their bank account then it means that</p>
+<p begin="00:46:50.270" end="00:46:53.870" style="s2">only 10% of the money are available for</p>
+<p begin="00:46:52.100" end="00:46:56.410" style="s2">the rest of the world to buy stuff which</p>
+<p begin="00:46:53.870" end="00:47:00.890" style="s2">may not be enough what they need to do</p>
+<p begin="00:46:56.410" end="00:47:04.070" style="s2">so you then need to borrow more so it&#39;s</p>
+<p begin="00:47:00.890" end="00:47:06.680" style="s2">important that money maintains this sort</p>
+<p begin="00:47:04.070" end="00:47:09.560" style="s2">of fluidity or liquidity as they say in</p>
+<p begin="00:47:06.680" end="00:47:12.560" style="s2">economics it keeps moving it doesn&#39;t</p>
+<p begin="00:47:09.560" end="00:47:14.540" style="s2">stay still for too long now this is kind</p>
+<p begin="00:47:12.560" end="00:47:17.000" style="s2">of our odds with the idea that you want</p>
+<p begin="00:47:14.540" end="00:47:19.850" style="s2">to accumulate buffers of money in order</p>
+<p begin="00:47:17.000" end="00:47:22.940" style="s2">to perform these extraordinary acts of</p>
+<p begin="00:47:19.850" end="00:47:25.180" style="s2">building or borrowing to to overcome</p>
+<p begin="00:47:22.940" end="00:47:29.900" style="s2">obstacles and barriers along the way</p>
+<p begin="00:47:25.180" end="00:47:32.900" style="s2">this is a kind of the the discussion if</p>
+<p begin="00:47:29.900" end="00:47:36.070" style="s2">you like the the difference between the</p>
+<p begin="00:47:32.900" end="00:47:39.920" style="s2">Western debt based economics that is</p>
+<p begin="00:47:36.070" end="00:47:42.980" style="s2">popular in America and Britain and the</p>
+<p begin="00:47:39.920" end="00:47:45.020" style="s2">German version of monetary economics in</p>
+<p begin="00:47:42.980" end="00:47:47.350" style="s2">which you&#39;re supposed to save up in</p>
+<p begin="00:47:45.020" end="00:47:49.460" style="s2">advance you know you&#39;re good savers</p>
+<p begin="00:47:47.350" end="00:47:52.040" style="s2">putting away for a rainy day and you</p>
+<p begin="00:47:49.460" end="00:47:55.340" style="s2">never take on too much debt you pay back</p>
+<p begin="00:47:52.040" end="00:47:57.170" style="s2">your debts this has been studied at</p>
+<p begin="00:47:55.340" end="00:48:00.140" style="s2">great length in David Gruber&#39;s book</p>
+<p begin="00:47:57.170" end="00:48:03.320" style="s2">again and not only his book but Thomas</p>
+<p begin="00:48:00.140" end="00:48:05.420" style="s2">Picard his book on capital which I liked</p>
+<p begin="00:48:03.320" end="00:48:08.000" style="s2">very much you know he studies the</p>
+<p begin="00:48:05.420" end="00:48:09.790" style="s2">history of debt and lending and</p>
+<p begin="00:48:08.000" end="00:48:13.850" style="s2">borrowing and whether or not you know</p>
+<p begin="00:48:09.790" end="00:48:16.910" style="s2">having huge debts instead of stockpiling</p>
+<p begin="00:48:13.850" end="00:48:20.720" style="s2">money over time is in any way good or</p>
+<p begin="00:48:16.910" end="00:48:22.340" style="s2">bad for you and I think by studying the</p>
+<p begin="00:48:20.720" end="00:48:26.000" style="s2">records in especially in Britain and</p>
+<p begin="00:48:22.340" end="00:48:28.760" style="s2">France who have kept records longer than</p>
+<p begin="00:48:26.000" end="00:48:31.340" style="s2">many other countries he he kind of</p>
+<p begin="00:48:28.760" end="00:48:33.940" style="s2">concludes that debt is not all that bad</p>
+<p begin="00:48:31.340" end="00:48:37.070" style="s2">as it&#39;s not as bad as we think it is and</p>
+<p begin="00:48:33.940" end="00:48:39.080" style="s2">this kind of German model of you&#39;d</p>
+<p begin="00:48:37.070" end="00:48:40.670" style="s2">better save up your pennies in your</p>
+<p begin="00:48:39.080" end="00:48:42.220" style="s2">piggy bank if you want to afford</p>
+<p begin="00:48:40.670" end="00:48:46.580" style="s2">something rather than borrowing is</p>
+<p begin="00:48:42.220" end="00:48:48.350" style="s2">actually false that is more or less</p>
+<p begin="00:48:46.580" end="00:48:53.450" style="s2">harmless over time because of inflation</p>
+<p begin="00:48:48.350" end="00:48:55.570" style="s2">and if you don&#39;t lose your cool it can</p>
+<p begin="00:48:53.450" end="00:48:58.580" style="s2">be the better way perhaps of overcoming</p>
+<p begin="00:48:55.570" end="00:49:02.810" style="s2">financial obstacles rather than</p>
+<p begin="00:48:58.580" end="00:49:05.930" style="s2">trying to stop money from flowing so in</p>
+<p begin="00:49:02.810" end="00:49:11.060" style="s2">a whereas you know we Europeans look at</p>
+<p begin="00:49:05.930" end="00:49:13.460" style="s2">you Americans as big spenders going into</p>
+<p begin="00:49:11.060" end="00:49:15.560" style="s2">debt maxing out credit cards is being</p>
+<p begin="00:49:13.460" end="00:49:19.370" style="s2">sort of wow this is sort of shocking to</p>
+<p begin="00:49:15.560" end="00:49:21.050" style="s2">you to a European mentality in the long</p>
+<p begin="00:49:19.370" end="00:49:23.090" style="s2">run it perhaps it doesn&#39;t really matter</p>
+<p begin="00:49:21.050" end="00:49:25.310" style="s2">and that might actually be the way to</p>
+<p begin="00:49:23.090" end="00:49:29.630" style="s2">get ahead in in the financial system</p>
+<p begin="00:49:25.310" end="00:49:33.560" style="s2">such as it is so this is a pretty</p>
+<p begin="00:49:29.630" end="00:49:36.020" style="s2">interesting issue which I have a small</p>
+<p begin="00:49:33.560" end="00:49:38.210" style="s2">understanding of but I think it it&#39;s</p>
+<p begin="00:49:36.020" end="00:49:39.970" style="s2">based around you know the level I</p>
+<p begin="00:49:38.210" end="00:49:42.380" style="s2">understand it it&#39;s based around the</p>
+<p begin="00:49:39.970" end="00:49:44.870" style="s2">individual agents and their willingness</p>
+<p begin="00:49:42.380" end="00:49:47.830" style="s2">to accumulate money and pass it on</p>
+<p begin="00:49:44.870" end="00:49:50.180" style="s2">depending on their own private policies</p>
+<p begin="00:49:47.830" end="00:49:53.210" style="s2">and it&#39;s interesting spent a secular</p>
+<p begin="00:49:50.180" end="00:49:54.770" style="s2">downward trend in velocity in the US for</p>
+<p begin="00:49:53.210" end="00:49:58.450" style="s2">instance I just pulled up the Federal</p>
+<p begin="00:49:54.770" end="00:50:02.000" style="s2">Reserve velocity of m2 money stock in</p>
+<p begin="00:49:58.450" end="00:50:04.430" style="s2">1996 kind of been the hot economy the</p>
+<p begin="00:50:02.000" end="00:50:06.650" style="s2">velocity of money was about 2.2 meaning</p>
+<p begin="00:50:04.430" end="00:50:10.340" style="s2">that the typical dollar was spent twice</p>
+<p begin="00:50:06.650" end="00:50:14.030" style="s2">in a year it&#39;s currently down around 1.4</p>
+<p begin="00:50:10.340" end="00:50:16.220" style="s2">and of course what that is is that money</p>
+<p begin="00:50:14.030" end="00:50:18.740" style="s2">times velocity equals GDP it&#39;s</p>
+<p begin="00:50:16.220" end="00:50:20.960" style="s2">essentially a derived function so GDP</p>
+<p begin="00:50:18.740" end="00:50:24.410" style="s2">continues to grow money supply has grown</p>
+<p begin="00:50:20.960" end="00:50:26.810" style="s2">tremendously with the various qyz etc</p>
+<p begin="00:50:24.410" end="00:50:28.580" style="s2">during the financial crisis we now have</p>
+<p begin="00:50:26.810" end="00:50:29.900" style="s2">a much bigger money supply than we used</p>
+<p begin="00:50:28.580" end="00:50:32.450" style="s2">to and the GDP has been growing</p>
+<p begin="00:50:29.900" end="00:50:35.240" style="s2">relatively slowly and so algebraically</p>
+<p begin="00:50:32.450" end="00:50:37.160" style="s2">the velocity has to have come down which</p>
+<p begin="00:50:35.240" end="00:50:40.760" style="s2">basically means people are sitting on</p>
+<p begin="00:50:37.160" end="00:50:42.440" style="s2">money more or money is stuck in places</p>
+<p begin="00:50:40.760" end="00:50:43.940" style="s2">where it can&#39;t do anything this is</p>
+<p begin="00:50:42.440" end="00:50:45.830" style="s2">something you hear from bankers that</p>
+<p begin="00:50:43.940" end="00:50:47.510" style="s2">well we got money in our lending</p>
+<p begin="00:50:45.830" end="00:50:49.310" style="s2">capacity but there really isn&#39;t as much</p>
+<p begin="00:50:47.510" end="00:50:51.350" style="s2">demand for lending as there used to be</p>
+<p begin="00:50:49.310" end="00:50:54.020" style="s2">at least creditworthy lending that&#39;s an</p>
+<p begin="00:50:51.350" end="00:50:55.340" style="s2">interesting phenomena that we&#39;re in yeah</p>
+<p begin="00:50:54.020" end="00:50:56.840" style="s2">and Jim this comes back to your point</p>
+<p begin="00:50:55.340" end="00:50:59.600" style="s2">about the negative interest rates again</p>
+<p begin="00:50:56.840" end="00:51:01.910" style="s2">and the negative interest rate is an</p>
+<p begin="00:50:59.600" end="00:51:03.410" style="s2">incentive for people to not hold on to</p>
+<p begin="00:51:01.910" end="00:51:05.240" style="s2">money if you&#39;ve got money in the bank</p>
+<p begin="00:51:03.410" end="00:51:07.220" style="s2">you&#39;re actually being charged now for</p>
+<p begin="00:51:05.240" end="00:51:09.020" style="s2">having it there rather than being</p>
+<p begin="00:51:07.220" end="00:51:09.560" style="s2">offered a premium for for keeping it</p>
+<p begin="00:51:09.020" end="00:51:12.110" style="s2">there</p>
+<p begin="00:51:09.560" end="00:51:14.600" style="s2">and so the negative interest rates are a</p>
+<p begin="00:51:12.110" end="00:51:16.640" style="s2">way of trying to kick people at the ass</p>
+<p begin="00:51:14.600" end="00:51:19.970" style="s2">and get them to spend the money a little</p>
+<p begin="00:51:16.640" end="00:51:21.620" style="s2">bit and lend them money in order to get</p>
+<p begin="00:51:19.970" end="00:51:23.660" style="s2">the money moving around the system again</p>
+<p begin="00:51:21.620" end="00:51:25.100" style="s2">I think in terms of designing</p>
+<p begin="00:51:23.660" end="00:51:27.560" style="s2">alternative money systems there&#39;s a</p>
+<p begin="00:51:25.100" end="00:51:30.170" style="s2">concept called de Mirage which is a</p>
+<p begin="00:51:27.560" end="00:51:31.970" style="s2">charge for storing money and of course</p>
+<p begin="00:51:30.170" end="00:51:34.130" style="s2">it goes way back to the days when gold</p>
+<p begin="00:51:31.970" end="00:51:35.870" style="s2">was money and people would have gold</p>
+<p begin="00:51:34.130" end="00:51:37.820" style="s2">notes that they&#39;d get from their bankers</p>
+<p begin="00:51:35.870" end="00:51:39.710" style="s2">but at the same time the bank would</p>
+<p begin="00:51:37.820" end="00:51:42.020" style="s2">charge you a fee to hold your money and</p>
+<p begin="00:51:39.710" end="00:51:44.420" style="s2">one can imagine that in a you know a new</p>
+<p begin="00:51:42.020" end="00:51:45.980" style="s2">cryptocurrency or other kind of cyber</p>
+<p begin="00:51:44.420" end="00:51:47.960" style="s2">currency where you could actually have a</p>
+<p begin="00:51:45.980" end="00:51:50.060" style="s2">negative interest rate built into the</p>
+<p begin="00:51:47.960" end="00:51:51.830" style="s2">system even though money may not come</p>
+<p begin="00:51:50.060" end="00:51:53.420" style="s2">from actual debt you can actually have a</p>
+<p begin="00:51:51.830" end="00:51:55.790" style="s2">charge to encourage people to move it</p>
+<p begin="00:51:53.420" end="00:51:58.730" style="s2">you could indeed adjust that Demma raj</p>
+<p begin="00:51:55.790" end="00:52:01.190" style="s2">to either speed up or slow down the</p>
+<p begin="00:51:58.730" end="00:52:03.530" style="s2">money I think however you organize your</p>
+<p begin="00:52:01.190" end="00:52:06.490" style="s2">economy whether it&#39;s you know a</p>
+<p begin="00:52:03.530" end="00:52:09.710" style="s2">cryptocurrency with a maximum amount of</p>
+<p begin="00:52:06.490" end="00:52:11.630" style="s2">Bitcoin or whatever you&#39;re not an upper</p>
+<p begin="00:52:09.710" end="00:52:14.540" style="s2">limit on that whether you allow money to</p>
+<p begin="00:52:11.630" end="00:52:16.550" style="s2">grow without without limit as in</p>
+<p begin="00:52:14.540" end="00:52:19.070" style="s2">Zimbabwe oh you know with the</p>
+<p begin="00:52:16.550" end="00:52:21.320" style="s2">extraordinary inflation rates there&#39;s</p>
+<p begin="00:52:19.070" end="00:52:23.090" style="s2">this multi scale aspect of money which</p>
+<p begin="00:52:21.320" end="00:52:26.540" style="s2">you&#39;re never going to escape one way or</p>
+<p begin="00:52:23.090" end="00:52:30.260" style="s2">another which is that the the long-term</p>
+<p begin="00:52:26.540" end="00:52:32.870" style="s2">trends of spending GDP interest rates</p>
+<p begin="00:52:30.260" end="00:52:37.280" style="s2">and all the mechanisms the levers which</p>
+<p begin="00:52:32.870" end="00:52:42.100" style="s2">people use to encourage to manipulate to</p>
+<p begin="00:52:37.280" end="00:52:45.530" style="s2">motivate us to interact with one another</p>
+<p begin="00:52:42.100" end="00:52:50.060" style="s2">those long scale things act as a kind of</p>
+<p begin="00:52:45.530" end="00:52:52.880" style="s2">a boundary condition in forming thus the</p>
+<p begin="00:52:50.060" end="00:52:55.870" style="s2">much faster transactions that apply to</p>
+<p begin="00:52:52.880" end="00:52:58.370" style="s2">us in our daily lives and so they they</p>
+<p begin="00:52:55.870" end="00:53:00.860" style="s2">affect the rate in which we are allowed</p>
+<p begin="00:52:58.370" end="00:53:02.540" style="s2">to borrow money in other words the rate</p>
+<p begin="00:53:00.860" end="00:53:05.120" style="s2">at which we can now acquire money to</p>
+<p begin="00:53:02.540" end="00:53:07.490" style="s2">solve problems and so there&#39;s this</p>
+<p begin="00:53:05.120" end="00:53:09.380" style="s2">feedback system between the bankers and</p>
+<p begin="00:53:07.490" end="00:53:11.600" style="s2">the world of finance here&#39;s which who</p>
+<p begin="00:53:09.380" end="00:53:13.610" style="s2">are dealing with things like GDP which</p>
+<p begin="00:53:11.600" end="00:53:16.100" style="s2">is an utterly meaningless concept to to</p>
+<p begin="00:53:13.610" end="00:53:17.780" style="s2">most of us the interest rates that we</p>
+<p begin="00:53:16.100" end="00:53:20.760" style="s2">hear on the news again utterly</p>
+<p begin="00:53:17.780" end="00:53:24.190" style="s2">meaningless concepts to most of us</p>
+<p begin="00:53:20.760" end="00:53:26.530" style="s2">and then the way they get turned into</p>
+<p begin="00:53:24.190" end="00:53:28.810" style="s2">decisions made at your local bank for</p>
+<p begin="00:53:26.530" end="00:53:30.579" style="s2">how much it&#39;s gonna cost you to pay your</p>
+<p begin="00:53:28.810" end="00:53:33.910" style="s2">mortgage this week and whether or not</p>
+<p begin="00:53:30.579" end="00:53:36.490" style="s2">you can afford to buy you know food at</p>
+<p begin="00:53:33.910" end="00:53:39.010" style="s2">the supermarket or whatever so this this</p>
+<p begin="00:53:36.490" end="00:53:40.990" style="s2">feedback system is a multiscale feedback</p>
+<p begin="00:53:39.010" end="00:53:44.319" style="s2">system which makes it a complex system</p>
+<p begin="00:53:40.990" end="00:53:47.290" style="s2">and it&#39;s poorly understood and as you</p>
+<p begin="00:53:44.319" end="00:53:49.150" style="s2">say metastable for that reason let&#39;s</p>
+<p begin="00:53:47.290" end="00:53:50.740" style="s2">think of a couple little more technical</p>
+<p begin="00:53:49.150" end="00:53:53.619" style="s2">areas that you had some very interesting</p>
+<p begin="00:53:50.740" end="00:53:55.450" style="s2">things to say about the entropy of</p>
+<p begin="00:53:53.619" end="00:53:58.569" style="s2">network money and how we think about</p>
+<p begin="00:53:55.450" end="00:54:00.490" style="s2">that what does it mean entropy is one of</p>
+<p begin="00:53:58.569" end="00:54:03.569" style="s2">those concepts I wanna say to when</p>
+<p begin="00:54:00.490" end="00:54:05.800" style="s2">people bring it up because it&#39;s it&#39;s</p>
+<p begin="00:54:03.569" end="00:54:08.290" style="s2">something people love to pull the wool</p>
+<p begin="00:54:05.800" end="00:54:10.119" style="s2">over other&#39;s eyes with john von Lohmann</p>
+<p begin="00:54:08.290" end="00:54:12.460" style="s2">even made that point I think to Claude</p>
+<p begin="00:54:10.119" end="00:54:14.980" style="s2">Shannon back in the day of he was</p>
+<p begin="00:54:12.460" end="00:54:16.750" style="s2">working on communications theory if you</p>
+<p begin="00:54:14.980" end="00:54:19.720" style="s2">call it entropy no one will understand</p>
+<p begin="00:54:16.750" end="00:54:22.359" style="s2">what you&#39;re talking about but entropy is</p>
+<p begin="00:54:19.720" end="00:54:26.609" style="s2">it&#39;s essentially a measure of how</p>
+<p begin="00:54:22.359" end="00:54:29.050" style="s2">distributed something is in a system if</p>
+<p begin="00:54:26.609" end="00:54:30.730" style="s2">everyone has exactly the same amount of</p>
+<p begin="00:54:29.050" end="00:54:34.960" style="s2">something you say the entropy of that</p>
+<p begin="00:54:30.730" end="00:54:37.750" style="s2">thing ism is maximal so if we all have</p>
+<p begin="00:54:34.960" end="00:54:39.849" style="s2">the same amount of money the entropy of</p>
+<p begin="00:54:37.750" end="00:54:42.160" style="s2">money would be maximal if if we all have</p>
+<p begin="00:54:39.849" end="00:54:44.829" style="s2">the same amount of wheat the entropy of</p>
+<p begin="00:54:42.160" end="00:54:46.030" style="s2">wheat would be maximum the minimum</p>
+<p begin="00:54:44.829" end="00:54:47.680" style="s2">amount of entropy is sort of the</p>
+<p begin="00:54:46.030" end="00:54:49.839" style="s2">opposite of that where one person has</p>
+<p begin="00:54:47.680" end="00:54:54.760" style="s2">all of it and no one has nobody else has</p>
+<p begin="00:54:49.839" end="00:54:57.910" style="s2">any and this is obviously important for</p>
+<p begin="00:54:54.760" end="00:54:59.290" style="s2">trade and transactions because if we all</p>
+<p begin="00:54:57.910" end="00:55:01.530" style="s2">have the same amount of something then</p>
+<p begin="00:54:59.290" end="00:55:03.819" style="s2">we&#39;ve got no incentive to trade anything</p>
+<p begin="00:55:01.530" end="00:55:07.810" style="s2">so we definitely don&#39;t want to end up in</p>
+<p begin="00:55:03.819" end="00:55:11.520" style="s2">a situation of maximum entropy in money</p>
+<p begin="00:55:07.810" end="00:55:14.200" style="s2">economics commodities or whatever</p>
+<p begin="00:55:11.520" end="00:55:15.670" style="s2">similarly we don&#39;t want one person to</p>
+<p begin="00:55:14.200" end="00:55:18.130" style="s2">have everything because then it would</p>
+<p begin="00:55:15.670" end="00:55:20.589" style="s2">just be a charity show and you&#39;d be</p>
+<p begin="00:55:18.130" end="00:55:23.579" style="s2">getting handouts from somebody who is</p>
+<p begin="00:55:20.589" end="00:55:26.260" style="s2">basically the ruler so this is concept</p>
+<p begin="00:55:23.579" end="00:55:30.550" style="s2">much in physics about how entropy</p>
+<p begin="00:55:26.260" end="00:55:32.950" style="s2">represents the motor of the system if if</p>
+<p begin="00:55:30.550" end="00:55:34.360" style="s2">a system has reached maximum entropy the</p>
+<p begin="00:55:32.950" end="00:55:37.870" style="s2">system ain&#39;t going round</p>
+<p begin="00:55:34.360" end="00:55:40.360" style="s2">nothing&#39;s gonna happen so we&#39;re trying</p>
+<p begin="00:55:37.870" end="00:55:42.370" style="s2">to avoid that from happening and one of</p>
+<p begin="00:55:40.360" end="00:55:44.440" style="s2">the antidotes to that happening is is</p>
+<p begin="00:55:42.370" end="00:55:48.100" style="s2">exactly the banking system where banks</p>
+<p begin="00:55:44.440" end="00:55:52.210" style="s2">can create new money in order to create</p>
+<p begin="00:55:48.100" end="00:55:54.070" style="s2">a surplus of purchasing power and then</p>
+<p begin="00:55:52.210" end="00:55:56.290" style="s2">of course we need entrepreneurs and</p>
+<p begin="00:55:54.070" end="00:55:58.780" style="s2">companies to create surpluses of goods</p>
+<p begin="00:55:56.290" end="00:56:01.780" style="s2">here and there to prevent the heat death</p>
+<p begin="00:55:58.780" end="00:56:05.260" style="s2">or the wheats death of the universe and</p>
+<p begin="00:56:01.780" end="00:56:06.670" style="s2">that&#39;s that kind of score so it&#39;s a</p>
+<p begin="00:56:05.260" end="00:56:08.800" style="s2">little bit related to this concept of</p>
+<p begin="00:56:06.670" end="00:56:11.860" style="s2">velocity of money it&#39;s a very broad</p>
+<p begin="00:56:08.800" end="00:56:15.070" style="s2">concept a theoretical concept if you</p>
+<p begin="00:56:11.860" end="00:56:17.410" style="s2">like not too useful and we certainly</p>
+<p begin="00:56:15.070" end="00:56:19.320" style="s2">hope that we never get to the point</p>
+<p begin="00:56:17.410" end="00:56:21.460" style="s2">where entropy becomes a useful measure</p>
+<p begin="00:56:19.320" end="00:56:23.260" style="s2">it would be a sort of let&#39;s just say the</p>
+<p begin="00:56:21.460" end="00:56:24.460" style="s2">heat death of the economic system and it</p>
+<p begin="00:56:23.260" end="00:56:26.770" style="s2">is interesting even though I do</p>
+<p begin="00:56:24.460" end="00:56:29.020" style="s2">criticize the fractional reserve banking</p>
+<p begin="00:56:26.770" end="00:56:31.390" style="s2">style of money one of the things it does</p>
+<p begin="00:56:29.020" end="00:56:32.590" style="s2">do is it forces the circulation right</p>
+<p begin="00:56:31.390" end="00:56:34.570" style="s2">because typically loans are for</p>
+<p begin="00:56:32.590" end="00:56:36.250" style="s2">relatively short periods of time I think</p>
+<p begin="00:56:34.570" end="00:56:38.560" style="s2">the average about four or five years and</p>
+<p begin="00:56:36.250" end="00:56:40.570" style="s2">so money comes into the banks is</p>
+<p begin="00:56:38.560" end="00:56:42.910" style="s2">destroyed literally when you repay</p>
+<p begin="00:56:40.570" end="00:56:44.860" style="s2">principal on a loan the money is</p>
+<p begin="00:56:42.910" end="00:56:47.530" style="s2">destroyed and then the bank typically</p>
+<p begin="00:56:44.860" end="00:56:49.570" style="s2">lends it back out creating new money and</p>
+<p begin="00:56:47.530" end="00:56:51.360" style="s2">that money then diffuses back out into</p>
+<p begin="00:56:49.570" end="00:56:54.520" style="s2">the system so we essentially have a</p>
+<p begin="00:56:51.360" end="00:56:55.990" style="s2">circular flow of money out to loans back</p>
+<p begin="00:56:54.520" end="00:56:58.660" style="s2">to the bank and then back out again</p>
+<p begin="00:56:55.990" end="00:57:01.540" style="s2">which does provide a fairly strong force</p>
+<p begin="00:56:58.660" end="00:57:03.280" style="s2">away from entropy right and the pump we</p>
+<p begin="00:57:01.540" end="00:57:04.900" style="s2">didn&#39;t talk about earlier is the bank&#39;s</p>
+<p begin="00:57:03.280" end="00:57:07.810" style="s2">conscious create any amount of money</p>
+<p begin="00:57:04.900" end="00:57:09.610" style="s2">anymore there there are limits on</p>
+<p begin="00:57:07.810" end="00:57:12.400" style="s2">deposits that they have to hold in order</p>
+<p begin="00:57:09.610" end="00:57:15.220" style="s2">to create new money by regulation this</p>
+<p begin="00:57:12.400" end="00:57:17.950" style="s2">is simply a convention it&#39;s not a law of</p>
+<p begin="00:57:15.220" end="00:57:20.020" style="s2">nature but it&#39;s a legal convention I</p>
+<p begin="00:57:17.950" end="00:57:22.420" style="s2">guess in different countries and they</p>
+<p begin="00:57:20.020" end="00:57:24.490" style="s2">can adjust it for political or economic</p>
+<p begin="00:57:22.420" end="00:57:26.200" style="s2">purposes yeah let&#39;s go into some stuff</p>
+<p begin="00:57:24.490" end="00:57:28.360" style="s2">that maybe gets a little closer to</p>
+<p begin="00:57:26.200" end="00:57:30.970" style="s2">easily understood promise theory and</p>
+<p begin="00:57:28.360" end="00:57:32.680" style="s2">that&#39;s the idea of payments there&#39;s lots</p>
+<p begin="00:57:30.970" end="00:57:35.310" style="s2">of different ways that things can be</p>
+<p begin="00:57:32.680" end="00:57:37.210" style="s2">paid and interestingly payments have</p>
+<p begin="00:57:35.310" end="00:57:39.360" style="s2">attributes that aren&#39;t necessarily</p>
+<p begin="00:57:37.210" end="00:57:42.490" style="s2">obvious on the surface for instance</p>
+<p begin="00:57:39.360" end="00:57:44.740" style="s2">despite all these fancy bitcoins and</p>
+<p begin="00:57:42.490" end="00:57:47.170" style="s2">this and that credit cards still have a</p>
+<p begin="00:57:44.740" end="00:57:48.040" style="s2">big role to play in the economy frankly</p>
+<p begin="00:57:47.170" end="00:57:49.870" style="s2">I always pay</p>
+<p begin="00:57:48.040" end="00:57:51.610" style="s2">for anything I can with a high-end</p>
+<p begin="00:57:49.870" end="00:57:54.160" style="s2">credit card like an American Express</p>
+<p begin="00:57:51.610" end="00:57:56.140" style="s2">because it has a special attribute of</p>
+<p begin="00:57:54.160" end="00:57:58.150" style="s2">renunciation right American Express</p>
+<p begin="00:57:56.140" end="00:58:01.270" style="s2">since I&#39;ve been a customer for 50 years</p>
+<p begin="00:57:58.150" end="00:58:03.160" style="s2">or something 40 years trust me when I</p>
+<p begin="00:58:01.270" end="00:58:06.070" style="s2">say take the money back from that</p>
+<p begin="00:58:03.160" end="00:58:07.030" style="s2">asshole right the goods they gave was no</p>
+<p begin="00:58:06.070" end="00:58:09.130" style="s2">damn good</p>
+<p begin="00:58:07.030" end="00:58:10.690" style="s2">and they&#39;ll just do it American Express</p>
+<p begin="00:58:09.130" end="00:58:13.690" style="s2">will just take the money back from the</p>
+<p begin="00:58:10.690" end="00:58:15.880" style="s2">vendor talk about payments and how that</p>
+<p begin="00:58:13.690" end="00:58:17.770" style="s2">whole thing works and how it&#39;s much more</p>
+<p begin="00:58:15.880" end="00:58:19.990" style="s2">nuanced than it appears on the surface</p>
+<p begin="00:58:17.770" end="00:58:22.390" style="s2">yes this is incredibly interesting</p>
+<p begin="00:58:19.990" end="00:58:25.800" style="s2">points especially in this world of</p>
+<p begin="00:58:22.390" end="00:58:29.050" style="s2">bitcoins and cryptocurrencies that have</p>
+<p begin="00:58:25.800" end="00:58:32.620" style="s2">taken off on the idea of mistrusting the</p>
+<p begin="00:58:29.050" end="00:58:37.050" style="s2">banking system the concept of money as a</p>
+<p begin="00:58:32.620" end="00:58:41.950" style="s2">fungible Network packet layer of</p>
+<p begin="00:58:37.050" end="00:58:43.240" style="s2">communication is pretty important and in</p>
+<p begin="00:58:41.950" end="00:58:44.920" style="s2">order to carry out that function you</p>
+<p begin="00:58:43.240" end="00:58:48.670" style="s2">should have as few labels as few</p>
+<p begin="00:58:44.920" end="00:58:51.370" style="s2">semantics as possible just as in the</p>
+<p begin="00:58:48.670" end="00:58:54.940" style="s2">internet you want the IP layer or the</p>
+<p begin="00:58:51.370" end="00:58:57.730" style="s2">tcp/ip layer to be that very relatively</p>
+<p begin="00:58:54.940" end="00:59:00.130" style="s2">few markers and labels and and things</p>
+<p begin="00:58:57.730" end="00:59:02.650" style="s2">that identify it you don&#39;t want money to</p>
+<p begin="00:59:00.130" end="00:59:04.800" style="s2">be tied to a particular person because</p>
+<p begin="00:59:02.650" end="00:59:08.290" style="s2">you want it to flow between people you</p>
+<p begin="00:59:04.800" end="00:59:10.210" style="s2">don&#39;t want it to be specific to a</p>
+<p begin="00:59:08.290" end="00:59:13.300" style="s2">particular kind of good you know you can</p>
+<p begin="00:59:10.210" end="00:59:14.800" style="s2">only use this money for wheat even</p>
+<p begin="00:59:13.300" end="00:59:17.170" style="s2">though we create many of these loyalty</p>
+<p begin="00:59:14.800" end="00:59:21.100" style="s2">systems now like air miles and and</p>
+<p begin="00:59:17.170" end="00:59:23.980" style="s2">coffee cards can only be redeemed with</p>
+<p begin="00:59:21.100" end="00:59:25.660" style="s2">certain suppliers and so on these are</p>
+<p begin="00:59:23.980" end="00:59:30.370" style="s2">these are ways of playing games with</p>
+<p begin="00:59:25.660" end="00:59:32.380" style="s2">with trust by adding labels to money to</p>
+<p begin="00:59:30.370" end="00:59:35.680" style="s2">bring people back and to sort of</p>
+<p begin="00:59:32.380" end="00:59:38.350" style="s2">maintain relationships by encouraging</p>
+<p begin="00:59:35.680" end="00:59:40.270" style="s2">with incentives people to come back to</p>
+<p begin="00:59:38.350" end="00:59:42.370" style="s2">and maintain the same relationships</p>
+<p begin="00:59:40.270" end="00:59:45.700" style="s2">rather than allowing money to flow</p>
+<p begin="00:59:42.370" end="00:59:50.350" style="s2">freely and diffuse without opinion if</p>
+<p begin="00:59:45.700" end="00:59:52.750" style="s2">you will and part of this of course</p>
+<p begin="00:59:50.350" end="00:59:54.850" style="s2">happens with banks as well although when</p>
+<p begin="00:59:52.750" end="00:59:56.590" style="s2">you have a national currency like like</p>
+<p begin="00:59:54.850" end="00:59:58.930" style="s2">the dollar or the pound or the euro</p>
+<p begin="00:59:56.590" end="01:00:01.619" style="s2">which works within a certain sovereign</p>
+<p begin="00:59:58.930" end="01:00:03.660" style="s2">realm the money kind of is tied to the</p>
+<p begin="01:00:01.619" end="01:00:07.170" style="s2">central bank and then you have foreign</p>
+<p begin="01:00:03.660" end="01:00:10.380" style="s2">exchanges as we discussed before but if</p>
+<p begin="01:00:07.170" end="01:00:13.680" style="s2">you ever begin to mistrust the role of</p>
+<p begin="01:00:10.380" end="01:00:15.630" style="s2">that intermediary the money itself or</p>
+<p begin="01:00:13.680" end="01:00:18.720" style="s2">the third party that you go through like</p>
+<p begin="01:00:15.630" end="01:00:20.640" style="s2">a bank that maintains a ledger for you</p>
+<p begin="01:00:18.720" end="01:00:23.160" style="s2">to pay on it could be your credit card</p>
+<p begin="01:00:20.640" end="01:00:26.730" style="s2">or your simply your your checking</p>
+<p begin="01:00:23.160" end="01:00:29.569" style="s2">account or whatever then you may want to</p>
+<p begin="01:00:26.730" end="01:00:32.970" style="s2">try to go back to this concept of Botto</p>
+<p begin="01:00:29.569" end="01:00:35.519" style="s2">individual handing over the goods</p>
+<p begin="01:00:32.970" end="01:00:38.609" style="s2">directly again but by doing so you would</p>
+<p begin="01:00:35.519" end="01:00:40.980" style="s2">lose a lot of value all of those things</p>
+<p begin="01:00:38.609" end="01:00:43.170" style="s2">we discussed previously about the time</p>
+<p begin="01:00:40.980" end="01:00:47.069" style="s2">the ability to play with time the</p>
+<p begin="01:00:43.170" end="01:00:49.769" style="s2">ability to rescind your your payment as</p>
+<p begin="01:00:47.069" end="01:00:52.230" style="s2">you mentioned you know I regret that</p>
+<p begin="01:00:49.769" end="01:00:54.990" style="s2">decision please take it back all those</p>
+<p begin="01:00:52.230" end="01:00:56.430" style="s2">things become impossible in a world in</p>
+<p begin="01:00:54.990" end="01:00:59.160" style="s2">which you don&#39;t have some kind of</p>
+<p begin="01:00:56.430" end="01:01:02.099" style="s2">service layer in the middle so these</p>
+<p begin="01:00:59.160" end="01:01:04.619" style="s2">trusted third parties like the banks and</p>
+<p begin="01:01:02.099" end="01:01:07.769" style="s2">the credit card companies while at one</p>
+<p begin="01:01:04.619" end="01:01:11.099" style="s2">point being able to have considerable</p>
+<p begin="01:01:07.769" end="01:01:13.680" style="s2">power as network hubs as exchange hubs</p>
+<p begin="01:01:11.099" end="01:01:16.559" style="s2">within whatever currency they belong to</p>
+<p begin="01:01:13.680" end="01:01:20.640" style="s2">they also are able to provide smart</p>
+<p begin="01:01:16.559" end="01:01:24.239" style="s2">services like lending like rescinding</p>
+<p begin="01:01:20.640" end="01:01:26.640" style="s2">money like tracing certain transactions</p>
+<p begin="01:01:24.239" end="01:01:29.849" style="s2">and you know they even can perform</p>
+<p begin="01:01:26.640" end="01:01:32.220" style="s2">services for the police to be able to</p>
+<p begin="01:01:29.849" end="01:01:34.559" style="s2">track money laundering and things like</p>
+<p begin="01:01:32.220" end="01:01:38.489" style="s2">this although they don&#39;t do a terribly</p>
+<p begin="01:01:34.559" end="01:01:41.369" style="s2">good job on that the argument that came</p>
+<p begin="01:01:38.489" end="01:01:43.489" style="s2">up after the 2008 crash that led to</p>
+<p begin="01:01:41.369" end="01:01:46.230" style="s2">Bitcoin and the cryptocurrencies was</p>
+<p begin="01:01:43.489" end="01:01:50.190" style="s2">well these these banks because of their</p>
+<p begin="01:01:46.230" end="01:01:53.430" style="s2">games with lending and refinancing of</p>
+<p begin="01:01:50.190" end="01:01:55.109" style="s2">loans and monetary instrumentation has</p>
+<p begin="01:01:53.430" end="01:01:57.569" style="s2">gone wild they&#39;ve lost control of</p>
+<p begin="01:01:55.109" end="01:02:00.029" style="s2">themselves they now wield too much power</p>
+<p begin="01:01:57.569" end="01:02:03.690" style="s2">over ordinary people let&#39;s claim back</p>
+<p begin="01:02:00.029" end="01:02:05.790" style="s2">trust by taking away that need to trust</p>
+<p begin="01:02:03.690" end="01:02:08.570" style="s2">the middleman</p>
+<p begin="01:02:05.790" end="01:02:10.980" style="s2">of course that&#39;s entirely misplaced</p>
+<p begin="01:02:08.570" end="01:02:12.420" style="s2">because you&#39;re still trusting a</p>
+<p begin="01:02:10.980" end="01:02:15.440" style="s2">middleman there is still a middleman in</p>
+<p begin="01:02:12.420" end="01:02:17.760" style="s2">in the cryptocurrencies it&#39;s now a</p>
+<p begin="01:02:15.440" end="01:02:20.550" style="s2">software system instead of a banking</p>
+<p begin="01:02:17.760" end="01:02:23.580" style="s2">entity so it may be slightly more</p>
+<p begin="01:02:20.550" end="01:02:24.870" style="s2">predictable in some senses but not in</p>
+<p begin="01:02:23.580" end="01:02:27.480" style="s2">others because it&#39;s still a market</p>
+<p begin="01:02:24.870" end="01:02:29.490" style="s2">making it work and it&#39;s still</p>
+<p begin="01:02:27.480" end="01:02:31.710" style="s2">fluctuating based on the weather of who</p>
+<p begin="01:02:29.490" end="01:02:34.890" style="s2">happens to be running Bitcoin mining</p>
+<p begin="01:02:31.710" end="01:02:39.420" style="s2">operations at the time so it&#39;s very very</p>
+<p begin="01:02:34.890" end="01:02:41.790" style="s2">complicated picture but this ability to</p>
+<p begin="01:02:39.420" end="01:02:43.500" style="s2">put services in between is extremely</p>
+<p begin="01:02:41.790" end="01:02:46.260" style="s2">analogous to this OSI model of</p>
+<p begin="01:02:43.500" end="01:02:49.200" style="s2">networking layers from the bottom most</p>
+<p begin="01:02:46.260" end="01:02:52.380" style="s2">layers of transport to the top most</p>
+<p begin="01:02:49.200" end="01:02:55.560" style="s2">layers of smart services that we expect</p>
+<p begin="01:02:52.380" end="01:02:57.510" style="s2">from the web but you gotta be careful</p>
+<p begin="01:02:55.560" end="01:03:00.300" style="s2">about where you put different functions</p>
+<p begin="01:02:57.510" end="01:03:02.970" style="s2">on the different layers of the network</p>
+<p begin="01:03:00.300" end="01:03:05.520" style="s2">stack so should we put you know should</p>
+<p begin="01:03:02.970" end="01:03:08.550" style="s2">we have smart dollar bills would that be</p>
+<p begin="01:03:05.520" end="01:03:10.320" style="s2">good could we add labels to the money</p>
+<p begin="01:03:08.550" end="01:03:12.780" style="s2">well no you&#39;re not allowed to write on</p>
+<p begin="01:03:10.320" end="01:03:14.520" style="s2">the bills so we&#39;re not allowed to add</p>
+<p begin="01:03:12.780" end="01:03:18.300" style="s2">money there that&#39;s good okay that means</p>
+<p begin="01:03:14.520" end="01:03:21.510" style="s2">money is still fungible but then that</p>
+<p begin="01:03:18.300" end="01:03:24.330" style="s2">prevents you from creating loyalty</p>
+<p begin="01:03:21.510" end="01:03:27.450" style="s2">points and and creating customer value</p>
+<p begin="01:03:24.330" end="01:03:29.970" style="s2">through additional services that you</p>
+<p begin="01:03:27.450" end="01:03:31.620" style="s2">could provide so we want to be able to</p>
+<p begin="01:03:29.970" end="01:03:34.680" style="s2">add those things at a higher level of</p>
+<p begin="01:03:31.620" end="01:03:38.670" style="s2">abstraction and this is a role of the</p>
+<p begin="01:03:34.680" end="01:03:42.600" style="s2">banks and the money handle is that I</p>
+<p begin="01:03:38.670" end="01:03:44.490" style="s2">think has been greatly underestimated in</p>
+<p begin="01:03:42.600" end="01:03:46.440" style="s2">the West in China people are very good</p>
+<p begin="01:03:44.490" end="01:03:48.780" style="s2">at doing this they&#39;ve come far further</p>
+<p begin="01:03:46.440" end="01:03:51.860" style="s2">than us in in the Western world by</p>
+<p begin="01:03:48.780" end="01:03:54.240" style="s2">adding these smart services to money</p>
+<p begin="01:03:51.860" end="01:03:56.820" style="s2">taking a promise Theory perspective as</p>
+<p begin="01:03:54.240" end="01:03:58.320" style="s2">you mentioned the beginning okay so in</p>
+<p begin="01:03:56.820" end="01:04:00.360" style="s2">promise theory you have agents and you</p>
+<p begin="01:03:58.320" end="01:04:03.360" style="s2">have the promises promises and money--i</p>
+<p begin="01:04:00.360" end="01:04:05.520" style="s2">promises and the proxies that carry</p>
+<p begin="01:04:03.360" end="01:04:07.410" style="s2">those promises the the network packets</p>
+<p begin="01:04:05.520" end="01:04:09.960" style="s2">if you like of the bills and the the</p>
+<p begin="01:04:07.410" end="01:04:12.510" style="s2">trusted third parties the network hubs</p>
+<p begin="01:04:09.960" end="01:04:14.550" style="s2">like the banks but then what about the</p>
+<p begin="01:04:12.510" end="01:04:16.770" style="s2">end agents the agents at the end if you</p>
+<p begin="01:04:14.550" end="01:04:19.020" style="s2">put your intelligence into those</p>
+<p begin="01:04:16.770" end="01:04:21.270" style="s2">guys like it used to be in the world of</p>
+<p begin="01:04:19.020" end="01:04:23.280" style="s2">bartering you could say well I&#39;m gonna</p>
+<p begin="01:04:21.270" end="01:04:26.550" style="s2">put all of my smart services into the</p>
+<p begin="01:04:23.280" end="01:04:29.310" style="s2">end points instead the pricing how is</p>
+<p begin="01:04:26.550" end="01:04:31.290" style="s2">the service offered what what is</p>
+<p begin="01:04:29.310" end="01:04:33.300" style="s2">included in the price is it just a</p>
+<p begin="01:04:31.290" end="01:04:36.240" style="s2">number how much you&#39;re willing to pay or</p>
+<p begin="01:04:33.300" end="01:04:37.770" style="s2">in other is it a form to fill out you</p>
+<p begin="01:04:36.240" end="01:04:41.010" style="s2">know do I have to give you additional</p>
+<p begin="01:04:37.770" end="01:04:44.040" style="s2">information do I have to will I add some</p>
+<p begin="01:04:41.010" end="01:04:47.520" style="s2">extra stuff coming back to you as a</p>
+<p begin="01:04:44.040" end="01:04:51.230" style="s2">service alongside this this is kind of</p>
+<p begin="01:04:47.520" end="01:04:53.760" style="s2">interesting we&#39;re starting to see banks</p>
+<p begin="01:04:51.230" end="01:04:56.490" style="s2">realizing they&#39;ve been caught with their</p>
+<p begin="01:04:53.760" end="01:05:00.230" style="s2">pants down here because they are network</p>
+<p begin="01:04:56.490" end="01:05:03.750" style="s2">hubs at the center of this vast network</p>
+<p begin="01:05:00.230" end="01:05:08.220" style="s2">technology that is money and they could</p>
+<p begin="01:05:03.750" end="01:05:10.140" style="s2">be exploiting that hub advantage to</p>
+<p begin="01:05:08.220" end="01:05:13.740" style="s2">provide additional services like</p>
+<p begin="01:05:10.140" end="01:05:15.750" style="s2">authentication of users you know your</p>
+<p begin="01:05:13.740" end="01:05:20.480" style="s2">identity is essentially your bank</p>
+<p begin="01:05:15.750" end="01:05:23.220" style="s2">account ID right in my home country</p>
+<p begin="01:05:20.480" end="01:05:26.090" style="s2">Scandinavia in Norway the banks have</p>
+<p begin="01:05:23.220" end="01:05:29.250" style="s2">taken on this role of validating or</p>
+<p begin="01:05:26.090" end="01:05:32.970" style="s2">authenticating users for the government</p>
+<p begin="01:05:29.250" end="01:05:36.360" style="s2">now so we see banks as third-party</p>
+<p begin="01:05:32.970" end="01:05:37.980" style="s2">network providers starting to realize</p>
+<p begin="01:05:36.360" end="01:05:40.290" style="s2">they have other services they can offer</p>
+<p begin="01:05:37.980" end="01:05:42.570" style="s2">them simply routing money they can route</p>
+<p begin="01:05:40.290" end="01:05:43.650" style="s2">other kinds of information to they&#39;re in</p>
+<p begin="01:05:42.570" end="01:05:46.740" style="s2">a great position to do that</p>
+<p begin="01:05:43.650" end="01:05:48.900" style="s2">but no one is quite sure how to go about</p>
+<p begin="01:05:46.740" end="01:05:52.500" style="s2">this at the moment and receive all kinds</p>
+<p begin="01:05:48.900" end="01:05:54.750" style="s2">of inconsistent schemes except in China</p>
+<p begin="01:05:52.500" end="01:05:57.630" style="s2">where there&#39;s been far greater</p>
+<p begin="01:05:54.750" end="01:06:00.230" style="s2">homogeneous Asian and willingness to</p>
+<p begin="01:05:57.630" end="01:06:03.000" style="s2">interact and innovate around this space</p>
+<p begin="01:06:00.230" end="01:06:05.390" style="s2">so you know those guys in China have</p>
+<p begin="01:06:03.000" end="01:06:12.360" style="s2">their social media platform WeChat and</p>
+<p begin="01:06:05.390" end="01:06:14.970" style="s2">the Ali Baba&#39;s payment system and they</p>
+<p begin="01:06:12.360" end="01:06:17.270" style="s2">use those they they interact and you can</p>
+<p begin="01:06:14.970" end="01:06:19.710" style="s2">lend money you can borrow money just</p>
+<p begin="01:06:17.270" end="01:06:22.020" style="s2">through your phone app at the push of a</p>
+<p begin="01:06:19.710" end="01:06:23.970" style="s2">button in a very simple way and all of</p>
+<p begin="01:06:22.020" end="01:06:25.440" style="s2">these financial services easily</p>
+<p begin="01:06:23.970" end="01:06:27.900" style="s2">available they&#39;re tied in to other</p>
+<p begin="01:06:25.440" end="01:06:30.340" style="s2">network services like facial recognition</p>
+<p begin="01:06:27.900" end="01:06:32.890" style="s2">so you go to the supermarket</p>
+<p begin="01:06:30.340" end="01:06:34.180" style="s2">walk out and it&#39;ll see your face and you</p>
+<p begin="01:06:32.890" end="01:06:36.820" style="s2">pay pay with your face</p>
+<p begin="01:06:34.180" end="01:06:38.830" style="s2">so all of these possibilities can be</p>
+<p begin="01:06:36.820" end="01:06:40.660" style="s2">embedded within the network architecture</p>
+<p begin="01:06:38.830" end="01:06:43.270" style="s2">that is money the question is where do</p>
+<p begin="01:06:40.660" end="01:06:46.300" style="s2">we want to put it in the money packets</p>
+<p begin="01:06:43.270" end="01:06:48.640" style="s2">in the pricing at the edge points in the</p>
+<p begin="01:06:46.300" end="01:06:51.100" style="s2">agents or in the network transactions</p>
+<p begin="01:06:48.640" end="01:06:52.630" style="s2">mmm that&#39;s good we&#39;re getting a little</p>
+<p begin="01:06:51.100" end="01:06:54.280" style="s2">late on time so I&#39;m going to skip over</p>
+<p begin="01:06:52.630" end="01:06:56.260" style="s2">some more details about our current</p>
+<p begin="01:06:54.280" end="01:06:58.420" style="s2">money system that there from your book</p>
+<p begin="01:06:56.260" end="01:07:00.130" style="s2">I&#39;d encourage the listeners to read the</p>
+<p begin="01:06:58.420" end="01:07:02.800" style="s2">book they&#39;re interested on those details</p>
+<p begin="01:07:00.130" end="01:07:04.840" style="s2">let&#39;s talk about the wild new world of</p>
+<p begin="01:07:02.800" end="01:07:06.100" style="s2">new money&#39;s though actually before we do</p>
+<p begin="01:07:04.840" end="01:07:07.720" style="s2">that sounds like you know fair amount</p>
+<p begin="01:07:06.100" end="01:07:10.540" style="s2">about these Chinese payment systems</p>
+<p begin="01:07:07.720" end="01:07:13.990" style="s2">which I do not are those payment systems</p>
+<p begin="01:07:10.540" end="01:07:17.050" style="s2">using banks as intermediaries but just</p>
+<p begin="01:07:13.990" end="01:07:18.910" style="s2">doing so efficiently and quickly or is</p>
+<p begin="01:07:17.050" end="01:07:20.800" style="s2">there near money or something else</p>
+<p begin="01:07:18.910" end="01:07:23.290" style="s2">that&#39;s just outside the banking system</p>
+<p begin="01:07:20.800" end="01:07:25.740" style="s2">there yeah this is a very interesting it</p>
+<p begin="01:07:23.290" end="01:07:28.840" style="s2">was a great question in the beginning</p>
+<p begin="01:07:25.740" end="01:07:31.780" style="s2">Alibaba and WeChat had monetary systems</p>
+<p begin="01:07:28.840" end="01:07:34.240" style="s2">completely outside the banking world so</p>
+<p begin="01:07:31.780" end="01:07:37.390" style="s2">compare them to the airlines and the</p>
+<p begin="01:07:34.240" end="01:07:40.720" style="s2">systems of air miles that you can use to</p>
+<p begin="01:07:37.390" end="01:07:42.850" style="s2">buy with in the airline networks you</p>
+<p begin="01:07:40.720" end="01:07:45.520" style="s2">know an Allen has so many resources it</p>
+<p begin="01:07:42.850" end="01:07:47.200" style="s2">has such huge buffers of money and it&#39;s</p>
+<p begin="01:07:45.520" end="01:07:49.870" style="s2">into every kind of commodity you can</p>
+<p begin="01:07:47.200" end="01:07:53.140" style="s2">imagine it needs transportation oil fuel</p>
+<p begin="01:07:49.870" end="01:07:56.170" style="s2">it could be its own it is basically its</p>
+<p begin="01:07:53.140" end="01:08:00.000" style="s2">own virtual sovereignty and it&#39;s able to</p>
+<p begin="01:07:56.170" end="01:08:02.350" style="s2">manage huge pools of money and debt</p>
+<p begin="01:08:00.000" end="01:08:05.170" style="s2">simply within that framework without</p>
+<p begin="01:08:02.350" end="01:08:07.030" style="s2">involving banks at all and in a similar</p>
+<p begin="01:08:05.170" end="01:08:09.360" style="s2">way these massive companies the</p>
+<p begin="01:08:07.030" end="01:08:14.290" style="s2">extraordinary success of Alibaba and</p>
+<p begin="01:08:09.360" end="01:08:15.790" style="s2">WeChat and to enable them to create</p>
+<p begin="01:08:14.290" end="01:08:18.040" style="s2">their own essentially their own virtual</p>
+<p begin="01:08:15.790" end="01:08:20.050" style="s2">money and they could do this completely</p>
+<p begin="01:08:18.040" end="01:08:22.120" style="s2">outside the normal banking system but</p>
+<p begin="01:08:20.050" end="01:08:25.990" style="s2">then the bank&#39;s caught wind of this and</p>
+<p begin="01:08:22.120" end="01:08:28.150" style="s2">didn&#39;t like it and and even fought back</p>
+<p begin="01:08:25.990" end="01:08:31.510" style="s2">and eventually the government had to</p>
+<p begin="01:08:28.150" end="01:08:33.870" style="s2">prevent them from sort of tie it all</p>
+<p begin="01:08:31.510" end="01:08:36.730" style="s2">together in one consistent system so</p>
+<p begin="01:08:33.870" end="01:08:38.589" style="s2">keeping the banks in the loop in order</p>
+<p begin="01:08:36.730" end="01:08:41.950" style="s2">to stabilize the economy without letting</p>
+<p begin="01:08:38.589" end="01:08:43.570" style="s2">the bank&#39;s collapse essentially and also</p>
+<p begin="01:08:41.950" end="01:08:44.270" style="s2">they need to be able do it for macro</p>
+<p begin="01:08:43.570" end="01:08:45.830" style="s2">purposes</p>
+<p begin="01:08:44.270" end="01:08:48.109" style="s2">you know control money supply and</p>
+<p begin="01:08:45.830" end="01:08:50.180" style="s2">velocity I suspect so now these days is</p>
+<p begin="01:08:48.109" end="01:08:51.710" style="s2">Alibaba we shad have their own banks</p>
+<p begin="01:08:50.180" end="01:08:53.839" style="s2">essentially so they can get the kind of</p>
+<p begin="01:08:51.710" end="01:08:56.839" style="s2">speed and low cost they need they are</p>
+<p begin="01:08:53.839" end="01:08:58.670" style="s2">banks themselves you and I think yeah</p>
+<p begin="01:08:56.839" end="01:09:00.500" style="s2">let&#39;s step over to the next topic I&#39;m</p>
+<p begin="01:08:58.670" end="01:09:03.410" style="s2">sure our listeners have been waiting for</p>
+<p begin="01:09:00.500" end="01:09:05.540" style="s2">it is your thoughts on crypto currencies</p>
+<p begin="01:09:03.410" end="01:09:07.490" style="s2">let&#39;s start with Bitcoin and the claim</p>
+<p begin="01:09:05.540" end="01:09:10.640" style="s2">that is a trustless system</p>
+<p begin="01:09:07.490" end="01:09:12.440" style="s2">yeah premise theory basically puts a</p>
+<p begin="01:09:10.640" end="01:09:14.839" style="s2">hammer on the head to that idea there&#39;s</p>
+<p begin="01:09:12.440" end="01:09:17.060" style="s2">no such thing as a trustless system you</p>
+<p begin="01:09:14.839" end="01:09:19.670" style="s2">can only move trust around because money</p>
+<p begin="01:09:17.060" end="01:09:22.100" style="s2">is a promise it&#39;s a promise to redeem a</p>
+<p begin="01:09:19.670" end="01:09:25.490" style="s2">value in the future it&#39;s a time promise</p>
+<p begin="01:09:22.100" end="01:09:26.890" style="s2">you know using this token I will give</p>
+<p begin="01:09:25.490" end="01:09:29.779" style="s2">you something in return at a later time</p>
+<p begin="01:09:26.890" end="01:09:32.299" style="s2">if that promise fails to be kept you</p>
+<p begin="01:09:29.779" end="01:09:34.100" style="s2">would lose trust in the money so</p>
+<p begin="01:09:32.299" end="01:09:37.130" style="s2">regardless of whether you&#39;re using</p>
+<p begin="01:09:34.100" end="01:09:39.950" style="s2">Bitcoin dollars yours whatever you need</p>
+<p begin="01:09:37.130" end="01:09:42.049" style="s2">to trust the money now what do you mean</p>
+<p begin="01:09:39.950" end="01:09:45.109" style="s2">my money is it a trusted third party</p>
+<p begin="01:09:42.049" end="01:09:48.920" style="s2">like a bank ledger checking account a</p>
+<p begin="01:09:45.109" end="01:09:50.960" style="s2">Visa account PayPal Alibaba whatever it</p>
+<p begin="01:09:48.920" end="01:09:53.380" style="s2">is there is some intermediary whether</p>
+<p begin="01:09:50.960" end="01:09:57.340" style="s2">it&#39;s a peer-to-peer network of</p>
+<p begin="01:09:53.380" end="01:10:01.940" style="s2">libertarians that want to reclaim</p>
+<p begin="01:09:57.340" end="01:10:05.980" style="s2">sovereignty of the monetary system by</p>
+<p begin="01:10:01.940" end="01:10:08.720" style="s2">melting polar ice caps or do we simply</p>
+<p begin="01:10:05.980" end="01:10:10.390" style="s2">pay a company to do it for us on our</p>
+<p begin="01:10:08.720" end="01:10:14.750" style="s2">behalf and trust them</p>
+<p begin="01:10:10.390" end="01:10:18.080" style="s2">the key fact that I think they got wrong</p>
+<p begin="01:10:14.750" end="01:10:22.100" style="s2">in this essentially libertarian view of</p>
+<p begin="01:10:18.080" end="01:10:24.320" style="s2">the economy is that you can&#39;t get away</p>
+<p begin="01:10:22.100" end="01:10:26.990" style="s2">with not having trust Trust is the very</p>
+<p begin="01:10:24.320" end="01:10:29.390" style="s2">glue of society if you lose trust in</p>
+<p begin="01:10:26.990" end="01:10:32.270" style="s2">your third parties your institutions</p>
+<p begin="01:10:29.390" end="01:10:34.370" style="s2">that makes the glue society together if</p>
+<p begin="01:10:32.270" end="01:10:37.910" style="s2">you lose trust in your network</p>
+<p begin="01:10:34.370" end="01:10:41.960" style="s2">you&#39;ve lost society itself you you start</p>
+<p begin="01:10:37.910" end="01:10:43.520" style="s2">to fragment off into you different</p>
+<p begin="01:10:41.960" end="01:10:46.790" style="s2">trenches and you start firing at each</p>
+<p begin="01:10:43.520" end="01:10:48.140" style="s2">other instead of cooperating so Trust is</p>
+<p begin="01:10:46.790" end="01:10:48.650" style="s2">the glue of cooperation you can&#39;t do</p>
+<p begin="01:10:48.140" end="01:10:51.050" style="s2">without it</p>
+<p begin="01:10:48.650" end="01:10:53.810" style="s2">now all these cryptocurrencies do is</p>
+<p begin="01:10:51.050" end="01:10:56.240" style="s2">they replace trust in the banks and I am</p>
+<p begin="01:10:53.810" end="01:10:57.900" style="s2">a centralized service with trust in a</p>
+<p begin="01:10:56.240" end="01:11:00.150" style="s2">decentralized service and</p>
+<p begin="01:10:57.900" end="01:11:03.690" style="s2">of software which is presumably</p>
+<p begin="01:11:00.150" end="01:11:05.880" style="s2">certified which nobody verifies or</p>
+<p begin="01:11:03.690" end="01:11:07.409" style="s2">validates even if they have the ability</p>
+<p begin="01:11:05.880" end="01:11:09.719" style="s2">in principle to do it because of</p>
+<p begin="01:11:07.409" end="01:11:11.969" style="s2">open-source and that they they serve no</p>
+<p begin="01:11:09.719" end="01:11:16.710" style="s2">function that cannot equally be served</p>
+<p begin="01:11:11.969" end="01:11:19.320" style="s2">by regulation we don&#39;t have a way of</p>
+<p begin="01:11:16.710" end="01:11:22.320" style="s2">running society without government in</p>
+<p begin="01:11:19.320" end="01:11:24.480" style="s2">the modern world throughout history have</p>
+<p begin="01:11:22.320" end="01:11:29.190" style="s2">only been two examples that I know of of</p>
+<p begin="01:11:24.480" end="01:11:30.719" style="s2">government lists societies one one was</p>
+<p begin="01:11:29.190" end="01:11:33.179" style="s2">you know centuries ago in the Niger</p>
+<p begin="01:11:30.719" end="01:11:36.570" style="s2">Delta northern Africa and one was in</p>
+<p begin="01:11:33.179" end="01:11:37.800" style="s2">Middle China in antiquity but in the</p>
+<p begin="01:11:36.570" end="01:11:41.520" style="s2">modern world we&#39;ve always built</p>
+<p begin="01:11:37.800" end="01:11:45.110" style="s2">societies around central seeds that that</p>
+<p begin="01:11:41.520" end="01:11:49.920" style="s2">allow us to root our trust through</p>
+<p begin="01:11:45.110" end="01:11:52.199" style="s2">intermediaries and it goes back to the</p>
+<p begin="01:11:49.920" end="01:11:55.199" style="s2">ability to scale society you know</p>
+<p begin="01:11:52.199" end="01:11:57.449" style="s2">society began with kinship family</p>
+<p begin="01:11:55.199" end="01:12:01.320" style="s2">relations you know anyone not in your</p>
+<p begin="01:11:57.449" end="01:12:03.510" style="s2">tribe you fight against you you it&#39;s</p>
+<p begin="01:12:01.320" end="01:12:05.550" style="s2">either us or them one of your previous</p>
+<p begin="01:12:03.510" end="01:12:07.890" style="s2">speakers talked about hobbits and</p>
+<p begin="01:12:05.550" end="01:12:11.070" style="s2">hooligans and Vulcans you know if you&#39;re</p>
+<p begin="01:12:07.890" end="01:12:13.260" style="s2">not uh if you&#39;re not in my tribe you&#39;re</p>
+<p begin="01:12:11.070" end="01:12:14.820" style="s2">in another tribe I&#39;m gonna hate you</p>
+<p begin="01:12:13.260" end="01:12:18.179" style="s2">because you&#39;re in the other tribe and</p>
+<p begin="01:12:14.820" end="01:12:20.880" style="s2">that&#39;s an unstable situation on which to</p>
+<p begin="01:12:18.179" end="01:12:22.800" style="s2">build trade and Trust and society and</p>
+<p begin="01:12:20.880" end="01:12:24.840" style="s2">larger scale cooperation so if you&#39;re on</p>
+<p begin="01:12:22.800" end="01:12:27.810" style="s2">a scale cooperation you want to move</p>
+<p begin="01:12:24.840" end="01:12:32.520" style="s2">away from kinship from tribal relations</p>
+<p begin="01:12:27.810" end="01:12:34.500" style="s2">to these impartial organs which are the</p>
+<p begin="01:12:32.520" end="01:12:37.530" style="s2">foundations of modern society the banks</p>
+<p begin="01:12:34.500" end="01:12:40.739" style="s2">the institutions of government and so on</p>
+<p begin="01:12:37.530" end="01:12:43.320" style="s2">and this depersonalization of society is</p>
+<p begin="01:12:40.739" end="01:12:44.460" style="s2">the thing that allowed us to scale it so</p>
+<p begin="01:12:43.320" end="01:12:47.130" style="s2">if we&#39;re going to retreat from that</p>
+<p begin="01:12:44.460" end="01:12:49.440" style="s2">position by saying I no longer want to</p>
+<p begin="01:12:47.130" end="01:12:51.480" style="s2">trust those institutions then we will</p>
+<p begin="01:12:49.440" end="01:12:54.780" style="s2">retreat from the model of society we</p>
+<p begin="01:12:51.480" end="01:12:56.489" style="s2">have today this was he mentioned the</p>
+<p begin="01:12:54.780" end="01:12:58.620" style="s2">beginning one of the fiction books that</p>
+<p begin="01:12:56.489" end="01:13:01.409" style="s2">I wrote many years ago a book called</p>
+<p begin="01:12:58.620" end="01:13:05.610" style="s2">slogans I I said I&#39;ve anticipated this</p>
+<p begin="01:13:01.409" end="01:13:08.489" style="s2">back in 2002 or three or something that</p>
+<p begin="01:13:05.610" end="01:13:10.540" style="s2">our electronic devices are handheld what</p>
+<p begin="01:13:08.489" end="01:13:11.950" style="s2">today our smartphones</p>
+<p begin="01:13:10.540" end="01:13:14.290" style="s2">didn&#39;t exist at the time I read the book</p>
+<p begin="01:13:11.950" end="01:13:15.820" style="s2">but the smartphone&#39;s essentially allow</p>
+<p begin="01:13:14.290" end="01:13:17.200" style="s2">us to have what we wanted the push of a</p>
+<p begin="01:13:15.820" end="01:13:22.420" style="s2">button without having to interact</p>
+<p begin="01:13:17.200" end="01:13:25.900" style="s2">closely with with bartering opponents so</p>
+<p begin="01:13:22.420" end="01:13:28.810" style="s2">we have no knowledge of them no know</p>
+<p begin="01:13:25.900" end="01:13:31.060" style="s2">dunbar relationship between them on</p>
+<p begin="01:13:28.810" end="01:13:35.250" style="s2">which we know them at the level of our</p>
+<p begin="01:13:31.060" end="01:13:38.950" style="s2">friends to be trustworthy and that means</p>
+<p begin="01:13:35.250" end="01:13:41.640" style="s2">these impersonal channels of</p>
+<p begin="01:13:38.950" end="01:13:44.350" style="s2">communication the ability to mail order</p>
+<p begin="01:13:41.640" end="01:13:47.380" style="s2">erode the fabric of trust on which</p>
+<p begin="01:13:44.350" end="01:13:48.430" style="s2">society is built you can see it as you</p>
+<p begin="01:13:47.380" end="01:13:50.200" style="s2">walk down the street and there are</p>
+<p begin="01:13:48.430" end="01:13:53.290" style="s2">people or not people don&#39;t tip their</p>
+<p begin="01:13:50.200" end="01:13:55.740" style="s2">hats to each other anymore maybe quite</p>
+<p begin="01:13:53.290" end="01:13:59.500" style="s2">the opposite you know so this is</p>
+<p begin="01:13:55.740" end="01:14:01.030" style="s2">potential risk I believe in society in</p>
+<p begin="01:13:59.500" end="01:14:03.430" style="s2">the way that it works today that we may</p>
+<p begin="01:14:01.030" end="01:14:06.510" style="s2">lose our sense of society if we&#39;re not</p>
+<p begin="01:14:03.430" end="01:14:10.420" style="s2">careful by introducing too many of these</p>
+<p begin="01:14:06.510" end="01:14:13.570" style="s2">go-betweens that appear to eliminate the</p>
+<p begin="01:14:10.420" end="01:14:16.630" style="s2">need to know your opponents and trust</p>
+<p begin="01:14:13.570" end="01:14:18.580" style="s2">them very interesting perspective you</p>
+<p begin="01:14:16.630" end="01:14:21.130" style="s2">also did mention melting the polar ice</p>
+<p begin="01:14:18.580" end="01:14:23.530" style="s2">caps I have a good friend who describes</p>
+<p begin="01:14:21.130" end="01:14:25.540" style="s2">Bitcoin as accelerating the heat death</p>
+<p begin="01:14:23.530" end="01:14:28.510" style="s2">of the universe you know the same idea</p>
+<p begin="01:14:25.540" end="01:14:30.310" style="s2">him and probably to know good point as</p>
+<p begin="01:14:28.510" end="01:14:33.370" style="s2">you described on the other hand the</p>
+<p begin="01:14:30.310" end="01:14:35.650" style="s2">other big thrust of innovation in crypto</p>
+<p begin="01:14:33.370" end="01:14:38.080" style="s2">currencies I find much more interesting</p>
+<p begin="01:14:35.650" end="01:14:40.840" style="s2">and that&#39;s the smart contracts that sit</p>
+<p begin="01:14:38.080" end="01:14:43.300" style="s2">on top of aetherium in fact when I was</p>
+<p begin="01:14:40.840" end="01:14:48.210" style="s2">reading your first book on promise</p>
+<p begin="01:14:43.300" end="01:14:50.440" style="s2">theory from C&#39;s and applications I think</p>
+<p begin="01:14:48.210" end="01:14:50.860" style="s2">we&#39;ll figure it out we&#39;ll put it on the</p>
+<p begin="01:14:50.440" end="01:14:52.480" style="s2">website</p>
+<p begin="01:14:50.860" end="01:14:55.060" style="s2">anyway when I was reading that book I</p>
+<p begin="01:14:52.480" end="01:14:58.390" style="s2">said damn smart contracts would be a</p>
+<p begin="01:14:55.060" end="01:15:00.550" style="s2">very interesting way to formally create</p>
+<p begin="01:14:58.390" end="01:15:02.380" style="s2">some of these promises you were talking</p>
+<p begin="01:15:00.550" end="01:15:04.720" style="s2">about do you have any thoughts on how</p>
+<p begin="01:15:02.380" end="01:15:06.940" style="s2">things like smart contract systems map</p>
+<p begin="01:15:04.720" end="01:15:08.950" style="s2">onto your promise theory yeah I also got</p>
+<p begin="01:15:06.940" end="01:15:12.550" style="s2">interested in this this question in</p>
+<p begin="01:15:08.950" end="01:15:15.190" style="s2">until again I realized that the the cost</p>
+<p begin="01:15:12.550" end="01:15:17.350" style="s2">of it all I mean first of all smart</p>
+<p begin="01:15:15.190" end="01:15:19.260" style="s2">contracts a great idea so then you&#39;re</p>
+<p begin="01:15:17.350" end="01:15:22.780" style="s2">putting some of the intelligence in the</p>
+<p begin="01:15:19.260" end="01:15:25.240" style="s2">trusted third party and in this case the</p>
+<p begin="01:15:22.780" end="01:15:27.610" style="s2">trusted third party is a mobile</p>
+<p begin="01:15:25.240" end="01:15:28.960" style="s2">entity which were decentralized entity</p>
+<p begin="01:15:27.610" end="01:15:31.060" style="s2">rather than a centralized one like a</p>
+<p begin="01:15:28.960" end="01:15:32.890" style="s2">bank there&#39;s no reason why you couldn&#39;t</p>
+<p begin="01:15:31.060" end="01:15:34.870" style="s2">have smart contracts in a bank a regular</p>
+<p begin="01:15:32.890" end="01:15:37.320" style="s2">bank right so there&#39;s nothing specific</p>
+<p begin="01:15:34.870" end="01:15:40.260" style="s2">about cryptocurrencies that makes them</p>
+<p begin="01:15:37.320" end="01:15:42.880" style="s2">able to do or blockchain I should say</p>
+<p begin="01:15:40.260" end="01:15:45.250" style="s2">that enables it to perform these smart</p>
+<p begin="01:15:42.880" end="01:15:48.490" style="s2">services that couldn&#39;t be done with</p>
+<p begin="01:15:45.250" end="01:15:52.870" style="s2">centralized services equally well and</p>
+<p begin="01:15:48.490" end="01:15:55.180" style="s2">much cheaper and much faster to mention</p>
+<p begin="01:15:52.870" end="01:15:57.390" style="s2">something else but this yes you&#39;re</p>
+<p begin="01:15:55.180" end="01:16:00.630" style="s2">absolutely right so smart contracts</p>
+<p begin="01:15:57.390" end="01:16:03.370" style="s2">absolutely powerful concept how much</p>
+<p begin="01:16:00.630" end="01:16:05.620" style="s2">intelligence do you want to put into the</p>
+<p begin="01:16:03.370" end="01:16:07.990" style="s2">machinery of the network itself there&#39;s</p>
+<p begin="01:16:05.620" end="01:16:10.990" style="s2">a story around this which goes if we go</p>
+<p begin="01:16:07.990" end="01:16:13.780" style="s2">to Internet technologies now the the</p>
+<p begin="01:16:10.990" end="01:16:17.530" style="s2">corresponding thing in the world of</p>
+<p begin="01:16:13.780" end="01:16:21.430" style="s2">Cisco and Huawei and the network</p>
+<p begin="01:16:17.530" end="01:16:23.140" style="s2">providers these guys had an idea when</p>
+<p begin="01:16:21.430" end="01:16:26.920" style="s2">the cloud came along of something called</p>
+<p begin="01:16:23.140" end="01:16:29.530" style="s2">network function virtualization in which</p>
+<p begin="01:16:26.920" end="01:16:31.750" style="s2">all of those boxes essentially the</p>
+<p begin="01:16:29.530" end="01:16:33.700" style="s2">routers and the switches that we used to</p>
+<p begin="01:16:31.750" end="01:16:36.100" style="s2">route packets used to be just giant</p>
+<p begin="01:16:33.700" end="01:16:37.900" style="s2">boxes of metal which performed this</p>
+<p begin="01:16:36.100" end="01:16:40.510" style="s2">function in hardware they wanted to</p>
+<p begin="01:16:37.900" end="01:16:43.960" style="s2">replace all that using virtual machines</p>
+<p begin="01:16:40.510" end="01:16:45.610" style="s2">and to virtualize those functions in a</p>
+<p begin="01:16:43.960" end="01:16:48.730" style="s2">simple way and they called that network</p>
+<p begin="01:16:45.610" end="01:16:51.490" style="s2">function virtualization and they had a</p>
+<p begin="01:16:48.730" end="01:16:52.780" style="s2">very kind of poorly thought through idea</p>
+<p begin="01:16:51.490" end="01:16:55.330" style="s2">of what that would be just to replace</p>
+<p begin="01:16:52.780" end="01:16:57.460" style="s2">the rooters with virtual machines but</p>
+<p begin="01:16:55.330" end="01:17:00.460" style="s2">they missed an opportunity to see an</p>
+<p begin="01:16:57.460" end="01:17:03.990" style="s2">enormous an enormous opportunity there</p>
+<p begin="01:17:00.460" end="01:17:06.790" style="s2">in the ability to add smart functions</p>
+<p begin="01:17:03.990" end="01:17:09.570" style="s2">which we would now associate with things</p>
+<p begin="01:17:06.790" end="01:17:12.040" style="s2">like data pipelining smart</p>
+<p begin="01:17:09.570" end="01:17:14.470" style="s2">transformations of data coming in one</p>
+<p begin="01:17:12.040" end="01:17:17.980" style="s2">side going out the other in the similar</p>
+<p begin="01:17:14.470" end="01:17:20.140" style="s2">way smart transactions coming in with</p>
+<p begin="01:17:17.980" end="01:17:21.900" style="s2">certain amount of information and then</p>
+<p begin="01:17:20.140" end="01:17:25.450" style="s2">being turned into something else</p>
+<p begin="01:17:21.900" end="01:17:27.460" style="s2">enabling go-betweens like putting</p>
+<p begin="01:17:25.450" end="01:17:30.400" style="s2">certain payments in escrow so that you</p>
+<p begin="01:17:27.460" end="01:17:33.760" style="s2">can regret and reverse them as you could</p>
+<p begin="01:17:30.400" end="01:17:35.800" style="s2">do with your American Express cards we</p>
+<p begin="01:17:33.760" end="01:17:37.659" style="s2">talked about earlier so all of those</p>
+<p begin="01:17:35.800" end="01:17:40.719" style="s2">kind of smart functions edition</p>
+<p begin="01:17:37.659" end="01:17:43.449" style="s2">all services were dying to put those</p>
+<p begin="01:17:40.719" end="01:17:44.559" style="s2">into smart devices somewhere the</p>
+<p begin="01:17:43.449" end="01:17:46.900" style="s2">question is do you put them into the</p>
+<p begin="01:17:44.559" end="01:17:48.280" style="s2">money into the third parties or do you</p>
+<p begin="01:17:46.900" end="01:17:50.559" style="s2">have them in the edge in your smart</p>
+<p begin="01:17:48.280" end="01:17:52.329" style="s2">devices and in a way it depends a little</p>
+<p begin="01:17:50.559" end="01:17:55.659" style="s2">bit on where the information is and</p>
+<p begin="01:17:52.329" end="01:17:59.679" style="s2">where the data need to be in order to</p>
+<p begin="01:17:55.659" end="01:18:01.689" style="s2">maintain privacy restrictions and other</p>
+<p begin="01:17:59.679" end="01:18:04.809" style="s2">concerns of those of that kind of a</p>
+<p begin="01:18:01.689" end="01:18:06.999" style="s2">nature and also to be robust right yeah</p>
+<p begin="01:18:04.809" end="01:18:08.439" style="s2">you don&#39;t want all the brains to be in</p>
+<p begin="01:18:06.999" end="01:18:10.119" style="s2">your smartphone and all your data</p>
+<p begin="01:18:08.439" end="01:18:12.099" style="s2">suppose you drop it in the toilet you&#39;re</p>
+<p begin="01:18:10.119" end="01:18:14.769" style="s2">screwed right yeah absolutely I think</p>
+<p begin="01:18:12.099" end="01:18:16.599" style="s2">constantly use this I forget the name of</p>
+<p begin="01:18:14.769" end="01:18:18.429" style="s2">the episode but that old episode of Star</p>
+<p begin="01:18:16.599" end="01:18:20.289" style="s2">Trek where the whole of society ends up</p>
+<p begin="01:18:18.429" end="01:18:22.780" style="s2">worshiping this giant computer because</p>
+<p begin="01:18:20.289" end="01:18:24.939" style="s2">they&#39;ve basically given their all of</p>
+<p begin="01:18:22.780" end="01:18:26.590" style="s2">their trusts of the machinery and they</p>
+<p begin="01:18:24.939" end="01:18:28.809" style="s2">no longer had no know how to do anything</p>
+<p begin="01:18:26.590" end="01:18:30.669" style="s2">by themselves this is what our</p>
+<p begin="01:18:28.809" end="01:18:34.329" style="s2">smartphones will eventually do to us</p>
+<p begin="01:18:30.669" end="01:18:37.840" style="s2">unless we you know take take steps to to</p>
+<p begin="01:18:34.329" end="01:18:39.999" style="s2">avoid that that kind of demise yeah</p>
+<p begin="01:18:37.840" end="01:18:42.099" style="s2">that&#39;s true now for our listeners who</p>
+<p begin="01:18:39.999" end="01:18:44.199" style="s2">have the entrepreneurial mindset mark</p>
+<p begin="01:18:42.099" end="01:18:47.050" style="s2">just handed you a multi-billion dollar</p>
+<p begin="01:18:44.199" end="01:18:49.209" style="s2">opportunity it&#39;s one I have mentioned to</p>
+<p begin="01:18:47.050" end="01:18:51.699" style="s2">people before I kill do a very small</p>
+<p begin="01:18:49.209" end="01:18:53.610" style="s2">amount of early-stage startup investing</p>
+<p begin="01:18:51.699" end="01:18:56.800" style="s2">for a while was getting way too many</p>
+<p begin="01:18:53.610" end="01:18:58.449" style="s2">blockchain Bitcoin cryptocurrency ideas</p>
+<p begin="01:18:56.800" end="01:18:59.949" style="s2">and I kept pushing back saying why does</p>
+<p begin="01:18:58.449" end="01:19:03.459" style="s2">this have to be on a blockchain and</p>
+<p begin="01:18:59.949" end="01:19:04.989" style="s2">seldom could anybody answer it so what</p>
+<p begin="01:19:03.459" end="01:19:07.599" style="s2">do you want to preneur should build a</p>
+<p begin="01:19:04.989" end="01:19:10.360" style="s2">smart contract infrastructure on top of</p>
+<p begin="01:19:07.599" end="01:19:12.789" style="s2">a single ledger or mildly distributed</p>
+<p begin="01:19:10.360" end="01:19:14.219" style="s2">high-speed ledger and push that out into</p>
+<p begin="01:19:12.789" end="01:19:17.019" style="s2">the world that would actually be useful</p>
+<p begin="01:19:14.219" end="01:19:19.689" style="s2">and when you get funding come and talk</p>
+<p begin="01:19:17.019" end="01:19:23.800" style="s2">to Jim and me and we&#39;ll join you as</p>
+<p begin="01:19:19.689" end="01:19:25.929" style="s2">advisors absolutely oh if I wasn&#39;t so</p>
+<p begin="01:19:23.800" end="01:19:27.519" style="s2">old and so rich I might do it myself but</p>
+<p begin="01:19:25.929" end="01:19:29.349" style="s2">let&#39;s leave that to the next generation</p>
+<p begin="01:19:27.519" end="01:19:31.119" style="s2">all right mark we&#39;re getting near to the</p>
+<p begin="01:19:29.349" end="01:19:33.849" style="s2">end point now what are some thoughts</p>
+<p begin="01:19:31.119" end="01:19:35.949" style="s2">that you might have for the future of</p>
+<p begin="01:19:33.849" end="01:19:39.070" style="s2">money if you know we are where we are</p>
+<p begin="01:19:35.949" end="01:19:41.380" style="s2">what could we expect to see next yeah</p>
+<p begin="01:19:39.070" end="01:19:43.030" style="s2">this is a simulation I wrote a little</p>
+<p begin="01:19:41.380" end="01:19:46.209" style="s2">bit about in the final chapter of the</p>
+<p begin="01:19:43.030" end="01:19:48.369" style="s2">book just speculating a little bit one</p>
+<p begin="01:19:46.209" end="01:19:51.239" style="s2">of the things that got me reading and</p>
+<p begin="01:19:48.369" end="01:19:55.110" style="s2">engaged in this was the story of devil</p>
+<p begin="01:19:51.239" end="01:19:58.650" style="s2">and this this realization in the world</p>
+<p begin="01:19:55.110" end="01:20:01.639" style="s2">of IT the developers and operations</p>
+<p begin="01:19:58.650" end="01:20:04.829" style="s2">people within a software team</p>
+<p begin="01:20:01.639" end="01:20:06.510" style="s2">communicate extremely poorly and tend to</p>
+<p begin="01:20:04.829" end="01:20:08.429" style="s2">throw stuff over the wall Tajik to each</p>
+<p begin="01:20:06.510" end="01:20:11.070" style="s2">other developers or write some software</p>
+<p begin="01:20:08.429" end="01:20:13.380" style="s2">thus the thread over the wall to the DT</p>
+<p begin="01:20:11.070" end="01:20:13.679" style="s2">operations people and say run this for</p>
+<p begin="01:20:13.380" end="01:20:16.020" style="s2">me</p>
+<p begin="01:20:13.679" end="01:20:17.880" style="s2">and then may get all the flack for it</p>
+<p begin="01:20:16.020" end="01:20:19.770" style="s2">you know when it goes wrong the users</p>
+<p begin="01:20:17.880" end="01:20:21.480" style="s2">come back and hit the operators and say</p>
+<p begin="01:20:19.770" end="01:20:22.829" style="s2">you know not you&#39;re not running this</p>
+<p begin="01:20:21.480" end="01:20:23.309" style="s2">properly you know when they get all the</p>
+<p begin="01:20:22.829" end="01:20:25.139" style="s2">blame</p>
+<p begin="01:20:23.309" end="01:20:30.420" style="s2">while the developers sit in their ivory</p>
+<p begin="01:20:25.139" end="01:20:31.860" style="s2">tower and take the money and this this</p>
+<p begin="01:20:30.420" end="01:20:33.889" style="s2">hasn&#39;t been going down well and it</p>
+<p begin="01:20:31.860" end="01:20:37.679" style="s2">hasn&#39;t been leading to much cooperation</p>
+<p begin="01:20:33.889" end="01:20:39.150" style="s2">so they realized that these two the dev</p>
+<p begin="01:20:37.679" end="01:20:42.539" style="s2">and the ops people needed to communicate</p>
+<p begin="01:20:39.150" end="01:20:45.679" style="s2">better form a dunbar relationship to one</p>
+<p begin="01:20:42.539" end="01:20:49.079" style="s2">another and get some proper cooperative</p>
+<p begin="01:20:45.679" end="01:20:51.030" style="s2">entanglement going between them and this</p>
+<p begin="01:20:49.079" end="01:20:53.460" style="s2">is a form of money it&#39;s a form of trust</p>
+<p begin="01:20:51.030" end="01:20:55.400" style="s2">building and this occurred to me that</p>
+<p begin="01:20:53.460" end="01:20:59.369" style="s2">this is a kind of currency that is</p>
+<p begin="01:20:55.400" end="01:21:02.190" style="s2">required in the world of work so in the</p>
+<p begin="01:20:59.369" end="01:21:05.550" style="s2">future of work in which we are more</p>
+<p begin="01:21:02.190" end="01:21:08.639" style="s2">distributed more and nuanced in our</p>
+<p begin="01:21:05.550" end="01:21:10.500" style="s2">functions in our roles I think it&#39;s safe</p>
+<p begin="01:21:08.639" end="01:21:13.349" style="s2">to say that we need to reinvent the</p>
+<p begin="01:21:10.500" end="01:21:17.159" style="s2">concept of money entirely to be smarter</p>
+<p begin="01:21:13.349" end="01:21:20.039" style="s2">and to deal with those ways of building</p>
+<p begin="01:21:17.159" end="01:21:21.960" style="s2">and maintaining trust now we&#39;ve seen</p>
+<p begin="01:21:20.039" end="01:21:25.889" style="s2">this with the micro currencies things</p>
+<p begin="01:21:21.960" end="01:21:28.860" style="s2">like loyalty schemes airmiles for your</p>
+<p begin="01:21:25.889" end="01:21:33.570" style="s2">favorite airline or oneworld alliance or</p>
+<p begin="01:21:28.860" end="01:21:35.639" style="s2">whatever it is and we&#39;ve seen it for you</p>
+<p begin="01:21:33.570" end="01:21:40.170" style="s2">know Starbucks and different coffee</p>
+<p begin="01:21:35.639" end="01:21:42.500" style="s2">houses and the and Amazon and so on this</p>
+<p begin="01:21:40.170" end="01:21:46.530" style="s2">the question of loyalty and Trust is</p>
+<p begin="01:21:42.500" end="01:21:48.989" style="s2">surfacing its ugly head because we have</p>
+<p begin="01:21:46.530" end="01:21:51.179" style="s2">neglected the role of trust in society</p>
+<p begin="01:21:48.989" end="01:21:54.539" style="s2">and I think people are starting to</p>
+<p begin="01:21:51.179" end="01:21:57.900" style="s2">realize just how important Trust is ask</p>
+<p begin="01:21:54.539" end="01:22:00.179" style="s2">any sales guy why they made their sales</p>
+<p begin="01:21:57.900" end="01:22:03.360" style="s2">quota and they&#39;ll say it was because we</p>
+<p begin="01:22:00.179" end="01:22:04.530" style="s2">have a relationship with the client it&#39;s</p>
+<p begin="01:22:03.360" end="01:22:06.990" style="s2">not because my pride</p>
+<p begin="01:22:04.530" end="01:22:09.300" style="s2">is best or because I have superior</p>
+<p begin="01:22:06.990" end="01:22:11.850" style="s2">technology it&#39;s because they trust you</p>
+<p begin="01:22:09.300" end="01:22:14.100" style="s2">enough to give you money and that&#39;s the</p>
+<p begin="01:22:11.850" end="01:22:16.830" style="s2">it&#39;s the foundation of business it&#39;s a</p>
+<p begin="01:22:14.100" end="01:22:20.610" style="s2">foundation of society without that glue</p>
+<p begin="01:22:16.830" end="01:22:23.220" style="s2">of trust our world will begin to unravel</p>
+<p begin="01:22:20.610" end="01:22:25.590" style="s2">and so for me that is the future of</p>
+<p begin="01:22:23.220" end="01:22:28.110" style="s2">money figuring out how to rekindle</p>
+<p begin="01:22:25.590" end="01:22:30.090" style="s2">trusts yeah I love it</p>
+<p begin="01:22:28.110" end="01:22:31.710" style="s2">my love you mentioned DevOps it&#39;s what</p>
+<p begin="01:22:30.090" end="01:22:33.990" style="s2">happens to be one of my pet things also</p>
+<p begin="01:22:31.710" end="01:22:35.580" style="s2">I was fortunate enough to be invited to</p>
+<p begin="01:22:33.990" end="01:22:38.760" style="s2">become chairman of the board of a</p>
+<p begin="01:22:35.580" end="01:22:41.160" style="s2">early-stage tech company in 2002 who</p>
+<p begin="01:22:38.760" end="01:22:42.960" style="s2">actually built the whole agile devops</p>
+<p begin="01:22:41.160" end="01:22:45.510" style="s2">philosophy into their business from the</p>
+<p begin="01:22:42.960" end="01:22:47.040" style="s2">get-go and man was that a different</p>
+<p begin="01:22:45.510" end="01:22:49.110" style="s2">world than at the world that you</p>
+<p begin="01:22:47.040" end="01:22:51.000" style="s2">described that I was used to in the 90s</p>
+<p begin="01:22:49.110" end="01:22:52.950" style="s2">where the developers would throw some</p>
+<p begin="01:22:51.000" end="01:22:54.810" style="s2">pile of over the wall people would</p>
+<p begin="01:22:52.950" end="01:22:57.000" style="s2">test that it would break and then the</p>
+<p begin="01:22:54.810" end="01:22:58.830" style="s2">developers would grudgingly fix it and</p>
+<p begin="01:22:57.000" end="01:23:00.150" style="s2">you know throw it over the wall two</p>
+<p begin="01:22:58.830" end="01:23:02.910" style="s2">weeks later and then the ops people</p>
+<p begin="01:23:00.150" end="01:23:04.860" style="s2">installing it doesn&#39;t work in DevOps</p>
+<p begin="01:23:02.910" end="01:23:07.020" style="s2">everything is built every day and it</p>
+<p begin="01:23:04.860" end="01:23:09.990" style="s2">really amazingly has changed the way</p>
+<p begin="01:23:07.020" end="01:23:11.700" style="s2">software development is done and in some</p>
+<p begin="01:23:09.990" end="01:23:14.070" style="s2">sense it&#39;s a way that Trust is used</p>
+<p begin="01:23:11.700" end="01:23:16.080" style="s2">scribe Dunbar level Trust has been able</p>
+<p begin="01:23:14.070" end="01:23:18.210" style="s2">to be built between the development the</p>
+<p begin="01:23:16.080" end="01:23:19.830" style="s2">operational community and for those of</p>
+<p begin="01:23:18.210" end="01:23:21.660" style="s2">you looking for a career young folks</p>
+<p begin="01:23:19.830" end="01:23:24.890" style="s2">DevOps is probably one of the hottest</p>
+<p begin="01:23:21.660" end="01:23:28.260" style="s2">tickets out there in our economy today</p>
+<p begin="01:23:24.890" end="01:23:30.090" style="s2">to your bigger vision of somehow using</p>
+<p begin="01:23:28.260" end="01:23:32.400" style="s2">money or money like systems to build</p>
+<p begin="01:23:30.090" end="01:23:34.830" style="s2">more trust in more ways I applaud that</p>
+<p begin="01:23:32.400" end="01:23:38.010" style="s2">tremendously trust is what holds our</p>
+<p begin="01:23:34.830" end="01:23:41.790" style="s2">society together after all if you have</p>
+<p begin="01:23:38.010" end="01:23:42.390" style="s2">anything to say to wrap up yeah how&#39;d</p>
+<p begin="01:23:41.790" end="01:23:45.060" style="s2">you top that</p>
+<p begin="01:23:42.390" end="01:23:47.760" style="s2">that was a great ending soon thanks mark</p>
+<p begin="01:23:45.060" end="01:23:49.980" style="s2">for an amazingly interesting deep dive</p>
+<p begin="01:23:47.760" end="01:23:52.050" style="s2">into money I was wonderful to have you</p>
+<p begin="01:23:49.980" end="01:23:53.190" style="s2">on the show again and maybe at the</p>
+<p begin="01:23:52.050" end="01:23:54.150" style="s2">future we&#39;ll have you back and talk</p>
+<p begin="01:23:53.190" end="01:23:56.040" style="s2">about something else</p>
+<p begin="01:23:54.150" end="01:23:57.570" style="s2">well it&#39;s always great to come and chat</p>
+<p begin="01:23:56.040" end="01:23:59.790" style="s2">to you so I would love to do that any</p>
+<p begin="01:23:57.570" end="01:24:00.630" style="s2">time thanks Jim all right this has been</p>
+<p begin="01:23:59.790" end="01:24:03.960" style="s2">great thanks</p>
+<p begin="01:24:00.630" end="01:24:06.460" style="s2">[Music]</p>
+<p begin="01:24:03.960" end="01:24:09.370" style="s2">production services and audio editing by</p>
+<p begin="01:24:06.460" end="01:24:13.980" style="s2">jerod Jane&#39;s consulting music by Tom</p>
+<p begin="01:24:09.370" end="01:24:13.980" style="s2">Muller at modern space music com</p>
+</div>
+</body>
+</tt>
