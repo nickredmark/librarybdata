@@ -159,38 +159,124 @@
     },
     "Civilization Design": {
       "Multi-polar traps": {
-        "synonyms": ["multi-polar", "multipolar", "multi polar"]
+        "synonyms": [
+          "multi-polar",
+          "multipolar",
+          "multi polar",
+          "race to the bottom",
+          "tragedy of the commons",
+          "prisoner's dilemma"
+        ],
+        "quotes": [
+          {
+            "item": "_b4qKv1Ctv8",
+            "quote": "we have to solve for the class of multipolar traps or at large because it's not just we don't want an arms race on AI weapons we also don't want an arms race on bioweapons or a nanotech"
+          },
+          {
+            "item": "_b4qKv1Ctv8",
+            "quote": "is there a game B that I believe in? It would have to solve for a number of things: it would have to actually remove rival risk dynamics [...] which would solve for multipolar traps, because multipolar traps are a situation where the well-being of each agent can be optimized independently of, and even at the expense of the other agents in the commons. As long as that's the case, we have an incentive to do up stuff with increasing power. That is one way of thinking about an underlying generator of all the catastrophic risks"
+          }
+        ]
       },
       "Omni-win": {
-        "synonyms": ["omniwin", "omni win"]
+        "synonyms": ["omniwin", "omni win", "win-win", "win win", "winwin"],
+        "quotes": [
+          {
+            "item": "445d45d777c9",
+            "quote": "**Win-win taxonomy:** Creating the impulse towards win-win dynamics systemically requires creating win-win dynamics in each category:\n# Alignment of the well-being of agents with each other\n# Alignment of the well-being of agents with the commons\n# Alignment of the well-being of agents with themselves (resolving parts conflicts)\n\n**Win-win generator function:** win-win dynamics arise from the perception of symbiotic/interconnected interest. Ie, from perceiving various values/agents/metrics within the system as dialectics to be simultaneously (synergistically) supported via a higher order synthesis process."
+          }
+        ]
       },
       "Game A": {
-        "synonyms": ["gamea", "Game~A", "#gamea"]
+        "synonyms": ["gamea", "Game~A", "#gamea"],
+        "quotes": [
+          {
+            "item": "ZpXAmrP2wB8",
+            "quote": "[Civilization] has to be able to be responsive to nature (it has to be able to feed itself and survive the winter), has to be able to be responsive to other things like it that may tend to take its stuff away, and it needs to be able to maintain its internal integrity - not fall apart from the inside. And of course the the broad story of game a has been different efforts to figure how to solve that problem, and how they fell, and then how they [...] pick up the pieces and put them back together again"
+          },
+          {
+            "item": "ZpXAmrP2wB8",
+            "quote": "the blue church is a historically specific solution to the problem of which game a is the general category. [the problem] of establishing coherence, and very particularly using complicated systems, if you want to be precise, so, using some combination of simplification and causal mechanism to be able to establish coherence in perception and meaning making in an actuation."
+          }
+        ]
       },
       "Game~B": {
-        "synonyms": ["gameb", "#gameb", "Game b"]
+        "synonyms": ["gameb", "#gameb", "Game b", "Fifth attractor"],
+        "quotes": [
+          {
+            "item": "6d1a54fcda2e",
+            "quote": "I’ve been working with some other people on what we call “Game B,” a good attractor. Imagine our society transitioning from its current state to a better state — not to one of those other, worse states. In fact, I’d argue the number one priority for people today should be creating a winning, good attractor for our civilization. We need to steer the inevitable big change to a better place, not a worse place."
+          },
+          {
+            "item": "4fb13772bcf3",
+            "quote": "So what is GameB? First, it is not “GameA” — the Western Civilization status quo. That’s a good start for those of us who find the status quo a grim place that seems headed for self-destruction. GameB is conceived of “What Comes Next”, the social operating system that replaces GameA.\n\nGameB is not yet well defined but it has four fundamentals: 1)self-organizational 2) network-oriented, 3) decentralized, and 4) metastable for an extended period of time"
+          }
+        ]
       },
       "Dunbar Number": {
-        "synonyms": ["Dunbar"]
+        "synonyms": ["Dunbar"],
+        "quotes": [
+          {
+            "item": "trZPxcbZsHc",
+            "quote": "Robin Dunbar did lots of research and found that for current humans we typically have no more than 150 real friends and [...] that in modern hunter-gatherer bands or recent almost modern ones that almost survived to the present it was extremely uncommon to have a band [...] bigger than 150. As they approached 150 they tended to fractionate."
+          }
+        ]
       },
-      "Fifth Attractor": {},
       "Generator Functions of Existential Risk": {
-        "synonyms": ["Generator function", "Generator functions"]
+        "synonyms": ["Generator function", "Generator functions"],
+        "quotes": [
+          {
+            "item": "civilizationemerging.com/solving-generator-function",
+            "quote": "All (human induced) existential and catastrophic risks are symptoms of two underlying generator functions:\n\n# Rivalrous (win-lose) games multiplied by exponential technology self terminate [...]\n# Complicated systems subsuming their complex substrate, becoming increasingly fragile till collapse becomes immanent."
+          }
+        ]
       }
     },
     "Learning": {
-      "Sovereignty": {},
+      "Sovereignty": {
+        "quotes": [
+          {
+            "item": "51402a370d79",
+            "quote": "Sovereignty is the capacity to take responsibility. It is the ability to be present to the world and to respond to the world — rather than to be overwhelmed or merely reactive. Sovereignty is to be a conscious agent."
+          },
+          {
+            "item": "64HGcESw5-8",
+            "quote": "sovereignty has to do with the ability to maintain my ability to respond to my environment in the context that I'm in on an ongoing basis"
+          }
+        ]
+      },
       "OODA Loop": {
-        "synonyms": ["OODA-loop", "Boyd"]
+        "synonyms": ["OODA-loop", "Boyd"],
+        "quotes": [
+          {
+            "item": "9i60-87ufEI",
+            "quote": "I think this is a very very deep concept, and, frankly, I think even the practitioners in the military, who tell you that, don’t understand it well enough.\n\nThe common knowledge has is that the the fastest OODA loop wins, and this is actually not true. The better understanding is that the the OODA loop of the highest bandwidth wins, meaning that the one that can handle the most through it the fastest will win."
+          }
+        ]
       },
       "Sensemaking": {
-        "synonyms": ["Sense-making", "Sense making"]
+        "synonyms": ["Sense-making", "Sense making"],
+        "quotes": [
+          {
+            "item": "51402a370d79",
+            "quote": "Your ability to make sense of the world. This includes your ability to skillfully select frames and concepts that are appropriate to what is really going on. And to create new ones when the old ones won’t do. It is a measure of both speed and precision. Move too slowly and the world has passed you by. Move too haphazardly and you will confuse sense with error."
+          }
+        ]
       },
       "Meaning-making": {
-        "synonyms": ["Meaning making", "meaningmaking"]
-      },
-      "Choice-making": {
-        "synonyms": ["choicemaking", "Choice making"]
+        "synonyms": [
+          "Meaning making",
+          "meaningmaking",
+          "Choice-making",
+          "choicemaking",
+          "Choice making"
+        ],
+        "quotes": [
+          {
+            "item": "rkJEthfBa5Y",
+            "quote": "in the second category we're talking about an ability to take perception to convert it into meaning"
+          }
+        ]
       },
       "Agency": {
         "quotes": [
@@ -200,16 +286,23 @@
           }
         ]
       },
-      "Liminal": {},
+      "Liminal": {
+        "synonyms": ["Liminal mode", "Liminal space"]
+      },
       "Psychotechnology": {
         "synonyms": ["Psycho technology"]
       },
       "Embodiment": {
         "synonyms": ["embodied"]
       },
-      "Flow": {},
-      "Going meta": {},
-      "Parallax": {},
+      "Parallax": {
+        "quotes": [
+          {
+            "item": "8Es_WTEgZHE",
+            "quote": "we want as much diversity as we can create synergy across. We get maximum synergy from maximum diversity with maximum parallax. [...] Neither eye has depth perception or peripheral vision, [...] and when I have both eyes together they they have a lot of shared things that they see, but because they're in different locations they also have slightly different things that they see. So there's overlap and difference, [...] and this is important.\n\nSo, when I put the two together they're not competing for which one is right, that would be ridiculous [...] the optical cortex is putting the information together in a way where if there's actually an error in this one it's corrected by what this one's doing. So they error correct each other, and then, because I can compute the hypotenuse of the triangle, I actually get depth perception and periphery. So, the two eyes together give things that neither of them did separately."
+          }
+        ]
+      },
       "Attunement": {
         "quotes": [
           {
@@ -218,9 +311,14 @@
           }
         ]
       },
-      "Resonance": {},
-      "Insight": {},
-      "Simulated thinking": {}
+      "Simulated thinking": {
+        "quotes": [
+          {
+            "item": "5e434e92cf86",
+            "quote": "Simulated thinking shows up as thinking, takes itself as thinking and, armed with a vast and often nuanced script of pre-defined signals and ‘appropriate’ responses, even resembles thinking. But it is not. It is habit, not learning. And, as a consequence, it is completely incapable of creatively responding to (changes in) actual reality."
+          }
+        ]
+      }
     },
     "Knowing": {
       "Participatory knowing": {
@@ -237,7 +335,6 @@
       }
     },
     "Current situation": {
-      "Situational assessment": {},
       "Blue Church": {
         "quotes": [
           {
@@ -266,6 +363,22 @@
           {
             "item": "eh7qvXfGQho",
             "quote": "emergence is synergy. Synergy and emergence are two sides of the same phenomenon. Synergy means whole that's greater than the sum of its parts, emergence is what is that greater."
+          }
+        ]
+      },
+      "Complicated": {
+        "quotes": [
+          {
+            "item": "su91uPR_jmM",
+            "quote": "a complicated system is defined by the fact that the phase space which is a concept that refers to the tonal possible states that the system might occupy total possibilities that might occur within the system the total phase space of a complicated system is finite and bounded which means that whether it's small like say the relatively simple space of a tic-tac-toe game which only has a handful of number of different kinds of ways that came to be played or very large like say the phase space of a Boeing 777"
+          }
+        ]
+      },
+      "Complex": {
+        "quotes": [
+          {
+            "item": "su91uPR_jmM",
+            "quote": "Whereas a complicated system is defined by the fact that its phase space is finite and bounded, and that the relationship between cause and effect is clear and predictable, a complex space is kind of the opposite, which is to say that its phase space [...] the kinds of states that it can occupy are changing so its phase space is unbounded, and as a consequence infinite, and for these reasons the relationship between cause and effect in a complex system is unclear.\n\nIt is difficult, and sometimes in fact close to impossible to predict the way that the system will respond to a given input. This does not mean however that complex system can't be dealt with effectively, it just requires a different approach, and so the appropriate approach to a complex system is to learn how to be responsive to its disposition.\n\nwhile you cannot predict, and while cause and effect are unclear in complex systems, you do have correlations, it has probabilities that can be identified with some level of confidence: it has a disposition. And, while this disposition is going to drift, if you become skillful at having sensitivity to the subtle signals of the system, and become skillful in exploring the state and the space and the drift of the complex system, then you can respond to it effectively, or more precisely, adaptively, and this is the right way to respond to a complex system."
           }
         ]
       }
