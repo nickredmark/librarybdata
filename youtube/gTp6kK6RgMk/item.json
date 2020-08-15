@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "gTp6kK6RgMk"
+  },
+  "snippet": {
+    "publishedAt": "2014-07-08T20:32:56Z",
+    "channelId": "UCwKPwQpBtMxGAGS1QkMhvew",
+    "title": "Book Review of Media Virus by Douglas Rushkoff",
+    "description": "Culture designers will need to understand how media viruses spread across the information landscapes of society. In this book, Douglas Rushkoff explains how ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/gTp6kK6RgMk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/gTp6kK6RgMk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/gTp6kK6RgMk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Joe Brewer",
+    "liveBroadcastContent": "none",
+    "publishTime": "2014-07-08T20:32:56Z"
+  },
+  "_id": "gTp6kK6RgMk",
+  "publishedAt": "2014-07-08T20:32:56Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCwKPwQpBtMxGAGS1QkMhvew"
+  ]
+}

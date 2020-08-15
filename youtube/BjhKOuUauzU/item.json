@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "BjhKOuUauzU"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-14T19:55:29Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "DarkHorse Podcast with Greg Ellis and Bret Weinstein",
+    "description": "Greg Ellis is an actor, director, author, and host of podcast The Respondent. He discusses with Bret what makes the current political situation in the US so ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/BjhKOuUauzU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/BjhKOuUauzU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/BjhKOuUauzU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-08-14T19:55:29Z"
+  },
+  "_id": "BjhKOuUauzU",
+  "publishedAt": "2020-08-14T19:55:29Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg"
+  ]
+}

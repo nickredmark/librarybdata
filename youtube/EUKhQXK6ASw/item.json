@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "EUKhQXK6ASw"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-12T15:11:12Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "How can we fail at creating community?",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/EUKhQXK6ASw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/EUKhQXK6ASw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/EUKhQXK6ASw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Creates Something Amazing",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-08-12T15:11:12Z"
+  },
+  "_id": "EUKhQXK6ASw",
+  "publishedAt": "2020-08-12T15:11:12Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
+  ]
+}

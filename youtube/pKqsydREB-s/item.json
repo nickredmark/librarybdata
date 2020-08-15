@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "pKqsydREB-s"
+  },
+  "snippet": {
+    "publishedAt": "2020-07-29T21:59:26Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "A thought...",
+    "description": "A thunk about something I am writing.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/pKqsydREB-s/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/pKqsydREB-s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/pKqsydREB-s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-07-29T21:59:26Z"
+  },
+  "_id": "pKqsydREB-s",
+  "publishedAt": "2020-07-29T21:59:26Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCuhoymQ9glku30sG4qgW-iQ"
+  ]
+}

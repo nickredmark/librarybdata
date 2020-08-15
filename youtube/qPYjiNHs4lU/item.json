@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "qPYjiNHs4lU"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-03T17:13:00Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "The View from Above w/ Donald Robertson",
+    "description": "August 2nd, 2020 Donald Robertson visits The Stoa to engage in a View from Above exercise followed by a group discussion. Support The Stoa ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/qPYjiNHs4lU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/qPYjiNHs4lU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/qPYjiNHs4lU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-08-03T17:13:00Z"
+  },
+  "_id": "qPYjiNHs4lU",
+  "publishedAt": "2020-08-03T17:13:00Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
+}

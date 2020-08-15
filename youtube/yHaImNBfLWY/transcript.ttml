@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.340" end="00:00:05.120" style="s2">hi my name is Joe Brewer and I&#39;m a</p>
+<p begin="00:00:02.960" end="00:00:07.009" style="s2">change strategist today I want to share</p>
+<p begin="00:00:05.120" end="00:00:09.349" style="s2">with you a little bit about a book that</p>
+<p begin="00:00:07.009" end="00:00:11.120" style="s2">I found really helpful for understanding</p>
+<p begin="00:00:09.349" end="00:00:13.639" style="s2">the future of scientific research and</p>
+<p begin="00:00:11.120" end="00:00:15.950" style="s2">open collaboration and that&#39;s this book</p>
+<p begin="00:00:13.639" end="00:00:19.670" style="s2">reinventing discovery the new era of</p>
+<p begin="00:00:15.950" end="00:00:22.460" style="s2">network science by Michael Nielsen now</p>
+<p begin="00:00:19.670" end="00:00:25.430" style="s2">this book goes into the rapidly changing</p>
+<p begin="00:00:22.460" end="00:00:27.770" style="s2">landscape of scientific research with</p>
+<p begin="00:00:25.430" end="00:00:30.080" style="s2">the advent of new digital communication</p>
+<p begin="00:00:27.770" end="00:00:32.780" style="s2">tools and the information architectures</p>
+<p begin="00:00:30.080" end="00:00:36.050" style="s2">that enable massive scale collaboration</p>
+<p begin="00:00:32.780" end="00:00:38.030" style="s2">that was not frankly possible even just</p>
+<p begin="00:00:36.050" end="00:00:40.970" style="s2">a few years ago so you&#39;re probably</p>
+<p begin="00:00:38.030" end="00:00:42.590" style="s2">familiar with examples like Wikipedia or</p>
+<p begin="00:00:40.970" end="00:00:44.930" style="s2">massive numbers of people solve the</p>
+<p begin="00:00:42.590" end="00:00:47.660" style="s2">problem of accumulating and vetting</p>
+<p begin="00:00:44.930" end="00:00:49.610" style="s2">knowledge for an encyclopedia but you</p>
+<p begin="00:00:47.660" end="00:00:51.620" style="s2">may not be familiar with the very</p>
+<p begin="00:00:49.610" end="00:00:54.170" style="s2">rapidly growing movement of citizen</p>
+<p begin="00:00:51.620" end="00:00:57.380" style="s2">science or the areas of what are called</p>
+<p begin="00:00:54.170" end="00:00:59.360" style="s2">big science which are places where math</p>
+<p begin="00:00:57.380" end="00:01:01.130" style="s2">where thousands of researchers come</p>
+<p begin="00:00:59.360" end="00:01:03.680" style="s2">together and share huge datasets and</p>
+<p begin="00:01:01.130" end="00:01:06.079" style="s2">collaborate on big projects so this book</p>
+<p begin="00:01:03.680" end="00:01:08.840" style="s2">reinventing discovery explores the</p>
+<p begin="00:01:06.079" end="00:01:10.880" style="s2">question how will open collaboration be</p>
+<p begin="00:01:08.840" end="00:01:13.880" style="s2">used to solve the most difficult</p>
+<p begin="00:01:10.880" end="00:01:15.619" style="s2">problems confronting humanity so two</p>
+<p begin="00:01:13.880" end="00:01:18.170" style="s2">examples that I&#39;ll share that I think</p>
+<p begin="00:01:15.619" end="00:01:20.509" style="s2">give a sense of what this book helps us</p>
+<p begin="00:01:18.170" end="00:01:23.840" style="s2">all understand better so one example is</p>
+<p begin="00:01:20.509" end="00:01:26.090" style="s2">the example of Galaxy Zoo Galaxy Zoo is</p>
+<p begin="00:01:23.840" end="00:01:28.639" style="s2">a website set up by an astrophysicist at</p>
+<p begin="00:01:26.090" end="00:01:31.310" style="s2">Oxford who realized that their massive</p>
+<p begin="00:01:28.639" end="00:01:33.170" style="s2">database filled with galaxies some 30</p>
+<p begin="00:01:31.310" end="00:01:35.170" style="s2">billion galaxies that they had in the</p>
+<p begin="00:01:33.170" end="00:01:37.880" style="s2">database could not possibly be</p>
+<p begin="00:01:35.170" end="00:01:39.649" style="s2">categorized by a small number of</p>
+<p begin="00:01:37.880" end="00:01:42.020" style="s2">researchers so they created a website</p>
+<p begin="00:01:39.649" end="00:01:44.119" style="s2">where people could join and they could</p>
+<p begin="00:01:42.020" end="00:01:46.340" style="s2">come and categorize themselves and</p>
+<p begin="00:01:44.119" end="00:01:47.990" style="s2">unbeknownst to them this was extremely</p>
+<p begin="00:01:46.340" end="00:01:49.670" style="s2">popular and so the day that they</p>
+<p begin="00:01:47.990" end="00:01:52.009" style="s2">launched the website it would actually</p>
+<p begin="00:01:49.670" end="00:01:54.170" style="s2">crashed the servers at the University of</p>
+<p begin="00:01:52.009" end="00:01:55.909" style="s2">Michigan if I remember correctly because</p>
+<p begin="00:01:54.170" end="00:01:59.149" style="s2">there were 80 thousand two hundred</p>
+<p begin="00:01:55.909" end="00:02:01.999" style="s2">thousand new people each hour wanting to</p>
+<p begin="00:01:59.149" end="00:02:03.020" style="s2">contribute to categorizing galaxies so</p>
+<p begin="00:02:01.999" end="00:02:05.539" style="s2">what they found was that there was a</p>
+<p begin="00:02:03.020" end="00:02:07.639" style="s2">huge hunger for people to participate in</p>
+<p begin="00:02:05.539" end="00:02:09.349" style="s2">research projects and that they were</p>
+<p begin="00:02:07.639" end="00:02:11.150" style="s2">able to get huge amounts of</p>
+<p begin="00:02:09.349" end="00:02:13.340" style="s2">collaboration by making it possible for</p>
+<p begin="00:02:11.150" end="00:02:13.740" style="s2">people to do so so that&#39;s the first</p>
+<p begin="00:02:13.340" end="00:02:16.110" style="s2">thing</p>
+<p begin="00:02:13.740" end="00:02:19.050" style="s2">the second example is the Human Genome</p>
+<p begin="00:02:16.110" end="00:02:21.060" style="s2">Project which is of course the attempt</p>
+<p begin="00:02:19.050" end="00:02:23.460" style="s2">to sequence the entire sequence of DNA</p>
+<p begin="00:02:21.060" end="00:02:26.150" style="s2">for the human species and that was a</p>
+<p begin="00:02:23.460" end="00:02:28.800" style="s2">project that involved a combination of</p>
+<p begin="00:02:26.150" end="00:02:30.510" style="s2">research among several universities and</p>
+<p begin="00:02:28.800" end="00:02:33.840" style="s2">corporations you know pharmaceutical</p>
+<p begin="00:02:30.510" end="00:02:36.240" style="s2">biotech companies and that had to invent</p>
+<p begin="00:02:33.840" end="00:02:38.730" style="s2">new technologies share knowledge create</p>
+<p begin="00:02:36.240" end="00:02:40.800" style="s2">massive datasets and then move that data</p>
+<p begin="00:02:38.730" end="00:02:42.960" style="s2">around or as they would say in the world</p>
+<p begin="00:02:40.800" end="00:02:44.910" style="s2">of big data they had to federate the</p>
+<p begin="00:02:42.960" end="00:02:47.100" style="s2">data meaning putting it into one place</p>
+<p begin="00:02:44.910" end="00:02:48.420" style="s2">and making an open access so that more</p>
+<p begin="00:02:47.100" end="00:02:50.370" style="s2">people could use the data for their</p>
+<p begin="00:02:48.420" end="00:02:52.560" style="s2">purposes and their own research projects</p>
+<p begin="00:02:50.370" end="00:02:54.660" style="s2">so this kind of massive scale</p>
+<p begin="00:02:52.560" end="00:02:57.240" style="s2">collaboration whether it&#39;s in society at</p>
+<p begin="00:02:54.660" end="00:02:59.700" style="s2">large for open-source citizen science</p>
+<p begin="00:02:57.240" end="00:03:02.070" style="s2">projects or for academic and corporate</p>
+<p begin="00:02:59.700" end="00:03:03.840" style="s2">research as with biotechnology and</p>
+<p begin="00:03:02.070" end="00:03:06.480" style="s2">pharmaceuticals development with the</p>
+<p begin="00:03:03.840" end="00:03:08.850" style="s2">Human Genome Project these kinds of</p>
+<p begin="00:03:06.480" end="00:03:10.590" style="s2">collaboration processes can teach us a</p>
+<p begin="00:03:08.850" end="00:03:12.600" style="s2">great deal about how to bring large</p>
+<p begin="00:03:10.590" end="00:03:14.790" style="s2">numbers of people together and solve</p>
+<p begin="00:03:12.600" end="00:03:17.520" style="s2">problems that without that collaboration</p>
+<p begin="00:03:14.790" end="00:03:19.590" style="s2">would have been impossible to solve so</p>
+<p begin="00:03:17.520" end="00:03:21.870" style="s2">this book by Michael Nielsen reinventing</p>
+<p begin="00:03:19.590" end="00:03:23.490" style="s2">discovery is an excellent resource to</p>
+<p begin="00:03:21.870" end="00:03:25.470" style="s2">give you an understanding of how to</p>
+<p begin="00:03:23.490" end="00:03:28.050" style="s2">start to apply open collaboration and</p>
+<p begin="00:03:25.470" end="00:03:29.880" style="s2">open innovation principles to problem</p>
+<p begin="00:03:28.050" end="00:03:31.980" style="s2">solving and you can use this for</p>
+<p begin="00:03:29.880" end="00:03:34.260" style="s2">societal problems like ridding the world</p>
+<p begin="00:03:31.980" end="00:03:36.240" style="s2">of poverty or changing the global</p>
+<p begin="00:03:34.260" end="00:03:38.040" style="s2">financial system or you can use it for</p>
+<p begin="00:03:36.240" end="00:03:39.750" style="s2">solving technical problems like how to</p>
+<p begin="00:03:38.040" end="00:03:43.110" style="s2">clean up an oil spill in the Gulf of</p>
+<p begin="00:03:39.750" end="00:03:44.610" style="s2">Mexico or how to stop a virus from</p>
+<p begin="00:03:43.110" end="00:03:46.920" style="s2">spreading across the population of</p>
+<p begin="00:03:44.610" end="00:03:49.470" style="s2">people with all of the connections we</p>
+<p begin="00:03:46.920" end="00:03:51.660" style="s2">have with our travel patterns and our</p>
+<p begin="00:03:49.470" end="00:03:53.250" style="s2">human connectivity so these massive</p>
+<p begin="00:03:51.660" end="00:03:55.470" style="s2">problems that require new ways of</p>
+<p begin="00:03:53.250" end="00:03:58.110" style="s2">approaching them and large amounts of</p>
+<p begin="00:03:55.470" end="00:03:59.940" style="s2">collaboration oh that&#39;s not possible to</p>
+<p begin="00:03:58.110" end="00:04:02.850" style="s2">do and if you want to understand how</p>
+<p begin="00:03:59.940" end="00:04:07.370" style="s2">it&#39;s done and how to do it yourself get</p>
+<p begin="00:04:02.850" end="00:04:07.370" style="s2">this book thank you and enjoy</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "fqWmDg8vpVc"
+  },
+  "snippet": {
+    "publishedAt": "2014-06-19T19:10:27Z",
+    "channelId": "UCwKPwQpBtMxGAGS1QkMhvew",
+    "title": "Book Review of The Success of Open Source by Steven Weber",
+    "description": "Wondering how to tackle the climate crisis and hack the global financial system at the same time? This book explains how to do \"legal jujutsu\" on the meaning of ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fqWmDg8vpVc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fqWmDg8vpVc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fqWmDg8vpVc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Joe Brewer",
+    "liveBroadcastContent": "none",
+    "publishTime": "2014-06-19T19:10:27Z"
+  },
+  "_id": "fqWmDg8vpVc",
+  "publishedAt": "2014-06-19T19:10:27Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCwKPwQpBtMxGAGS1QkMhvew"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "o2VYD3DPqq0"
+  },
+  "snippet": {
+    "publishedAt": "2014-06-09T21:38:26Z",
+    "channelId": "UCwKPwQpBtMxGAGS1QkMhvew",
+    "title": "Book Review of Going Viral by Karine Nahon and Jeff Hemsley",
+    "description": "This book provides a summary of the academic literature on viral media events and the research tools for studying them. It is a valuable resource for anyone ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/o2VYD3DPqq0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/o2VYD3DPqq0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/o2VYD3DPqq0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Joe Brewer",
+    "liveBroadcastContent": "none",
+    "publishTime": "2014-06-09T21:38:26Z"
+  },
+  "_id": "o2VYD3DPqq0",
+  "publishedAt": "2014-06-09T21:38:26Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCwKPwQpBtMxGAGS1QkMhvew"
+  ]
+}

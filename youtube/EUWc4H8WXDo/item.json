@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "EUWc4H8WXDo"
+  },
+  "snippet": {
+    "publishedAt": "2014-06-12T17:38:18Z",
+    "channelId": "UCwKPwQpBtMxGAGS1QkMhvew",
+    "title": "Book Review of War and Peace and War by Peter Turchin",
+    "description": "This book explains how empires rise and fall by analyzing the mathematical patterns among complex human groups -- cooperation and conflict that arise within ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/EUWc4H8WXDo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/EUWc4H8WXDo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/EUWc4H8WXDo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Joe Brewer",
+    "liveBroadcastContent": "none",
+    "publishTime": "2014-06-12T17:38:18Z"
+  },
+  "_id": "EUWc4H8WXDo",
+  "publishedAt": "2014-06-12T17:38:18Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCwKPwQpBtMxGAGS1QkMhvew"
+  ]
+}

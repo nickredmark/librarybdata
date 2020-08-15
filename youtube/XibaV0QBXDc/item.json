@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "XibaV0QBXDc"
+  },
+  "snippet": {
+    "publishedAt": "2014-11-07T15:28:32Z",
+    "channelId": "UCwKPwQpBtMxGAGS1QkMhvew",
+    "title": "Shuttleworth Fellows Video Submission -- Joe Brewer",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/XibaV0QBXDc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/XibaV0QBXDc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/XibaV0QBXDc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Joe Brewer",
+    "liveBroadcastContent": "none",
+    "publishTime": "2014-11-07T15:28:32Z"
+  },
+  "_id": "XibaV0QBXDc",
+  "publishedAt": "2014-11-07T15:28:32Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCwKPwQpBtMxGAGS1QkMhvew"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "6b7NZQ6EglA"
+  },
+  "snippet": {
+    "publishedAt": "2011-09-21T21:21:13Z",
+    "channelId": "UCwKPwQpBtMxGAGS1QkMhvew",
+    "title": "Human Interface Design for Global Change",
+    "description": "What if something vital was missing that could save all of humanity? This is my call for a new field of science that applies cognitive science to design and deploy ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/6b7NZQ6EglA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/6b7NZQ6EglA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/6b7NZQ6EglA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Joe Brewer",
+    "liveBroadcastContent": "none",
+    "publishTime": "2011-09-21T21:21:13Z"
+  },
+  "_id": "6b7NZQ6EglA",
+  "publishedAt": "2011-09-21T21:21:13Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCwKPwQpBtMxGAGS1QkMhvew"
+  ]
+}

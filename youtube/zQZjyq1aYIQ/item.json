@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "zQZjyq1aYIQ"
+  },
+  "snippet": {
+    "publishedAt": "2014-06-06T23:06:34Z",
+    "channelId": "UCwKPwQpBtMxGAGS1QkMhvew",
+    "title": "Book Review of Social Physics by Alex Pentland",
+    "description": "In this video I provide a brief overview of what you'll learn by reading this book. It explores the new data science of social modeling for improving organizational ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/zQZjyq1aYIQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/zQZjyq1aYIQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/zQZjyq1aYIQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Joe Brewer",
+    "liveBroadcastContent": "none",
+    "publishTime": "2014-06-06T23:06:34Z"
+  },
+  "_id": "zQZjyq1aYIQ",
+  "publishedAt": "2014-06-06T23:06:34Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCwKPwQpBtMxGAGS1QkMhvew"
+  ]
+}

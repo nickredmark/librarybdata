@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "hrdRQX2lHRk"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-08T02:53:00Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Meandering 90 Minutes with Johnny V",
+    "description": "A good bit of ground covered. Not clear that any of this is worth really sharing, but seems like better safe than sorry. Also really not clear that it is a Deep Code ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/hrdRQX2lHRk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/hrdRQX2lHRk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/hrdRQX2lHRk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-08-08T02:53:00Z"
+  },
+  "_id": "hrdRQX2lHRk",
+  "publishedAt": "2020-08-08T02:53:00Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
+}

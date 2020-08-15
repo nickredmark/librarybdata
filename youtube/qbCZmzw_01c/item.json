@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "qbCZmzw_01c"
+  },
+  "snippet": {
+    "publishedAt": "2019-09-18T12:34:10Z",
+    "channelId": "UCwKPwQpBtMxGAGS1QkMhvew",
+    "title": "A Design Science for Planetary Crisis",
+    "description": "This is a talk I prepared for the research gathering at the University of Hohenheim on September 13th and 14th on The Normative Dimension of Transformations ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/qbCZmzw_01c/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/qbCZmzw_01c/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/qbCZmzw_01c/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Joe Brewer",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-09-18T12:34:10Z"
+  },
+  "_id": "qbCZmzw_01c",
+  "publishedAt": "2019-09-18T12:34:10Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCwKPwQpBtMxGAGS1QkMhvew"
+  ]
+}

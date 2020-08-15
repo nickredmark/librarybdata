@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "PgTFk6XBYag"
+  },
+  "snippet": {
+    "publishedAt": "2014-08-05T20:24:03Z",
+    "channelId": "UCwKPwQpBtMxGAGS1QkMhvew",
+    "title": "Book Review of Resonate by Nancy Duarte",
+    "description": "Want to tell stories that change the world? Then you'll want to grab a copy of Resonate and learn the techniques for telling powerful visual stories using the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/PgTFk6XBYag/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/PgTFk6XBYag/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/PgTFk6XBYag/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Joe Brewer",
+    "liveBroadcastContent": "none",
+    "publishTime": "2014-08-05T20:24:03Z"
+  },
+  "_id": "PgTFk6XBYag",
+  "publishedAt": "2014-08-05T20:24:03Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCwKPwQpBtMxGAGS1QkMhvew"
+  ]
+}

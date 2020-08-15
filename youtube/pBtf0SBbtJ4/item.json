@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "pBtf0SBbtJ4"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-03T17:32:30Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Meta Community: Individual and the group",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/pBtf0SBbtJ4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/pBtf0SBbtJ4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/pBtf0SBbtJ4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Creates Something Amazing",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-08-03T17:32:30Z"
+  },
+  "_id": "pBtf0SBbtJ4",
+  "publishedAt": "2020-08-03T17:32:30Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
+  ]
+}

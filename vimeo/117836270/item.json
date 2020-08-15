@@ -198,7 +198,8 @@
           "ripoff",
           "incorrect rating",
           "spam",
-          "causes harm"
+          "causes harm",
+          "csam"
         ]
       }
     }
@@ -300,7 +301,7 @@
           "options": [
             "GET"
           ],
-          "total": 164
+          "total": 165
         },
         "following": {
           "uri": "/users/34001779/following",

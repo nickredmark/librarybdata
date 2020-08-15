@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "alnKkLWZB_I"
+  },
+  "snippet": {
+    "publishedAt": "2012-02-28T00:14:01Z",
+    "channelId": "UCwKPwQpBtMxGAGS1QkMhvew",
+    "title": "How Design Can Be Used to Solve Global Problems",
+    "description": "It is often thought that design only applies to the creation of gimmicky products and cute images, yet the most pressing challenges in the world can only be ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/alnKkLWZB_I/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/alnKkLWZB_I/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/alnKkLWZB_I/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Joe Brewer",
+    "liveBroadcastContent": "none",
+    "publishTime": "2012-02-28T00:14:01Z"
+  },
+  "_id": "alnKkLWZB_I",
+  "publishedAt": "2012-02-28T00:14:01Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCwKPwQpBtMxGAGS1QkMhvew"
+  ]
+}
