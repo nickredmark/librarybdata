@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.060" end="00:00:05.520" style="s2">so thanks so much for that participation</p>
+<p begin="00:00:02.700" end="00:00:07.319" style="s2">I hope you met a couple of more people</p>
+<p begin="00:00:05.520" end="00:00:09.690" style="s2">that you hadn&#39;t seen before</p>
+<p begin="00:00:07.319" end="00:00:11.340" style="s2">and slightly awkward in this face</p>
+<p begin="00:00:09.690" end="00:00:13.920" style="s2">because I really can&#39;t see you I&#39;m kind</p>
+<p begin="00:00:11.340" end="00:00:17.670" style="s2">of looking into the light but which</p>
+<p begin="00:00:13.920" end="00:00:21.270" style="s2">might be a good thing so my presentation</p>
+<p begin="00:00:17.670" end="00:00:23.820" style="s2">is a pretty heavy title holes dynamic</p>
+<p begin="00:00:21.270" end="00:00:26.580" style="s2">hole systems design how can we weave</p>
+<p begin="00:00:23.820" end="00:00:28.680" style="s2">ecosystems of collaboration and as you</p>
+<p begin="00:00:26.580" end="00:00:30.150" style="s2">can imagine I could easily talk about</p>
+<p begin="00:00:28.680" end="00:00:33.780" style="s2">this for a couple of hours or a couple</p>
+<p begin="00:00:30.150" end="00:00:38.550" style="s2">of days so I&#39;m just gonna give you some</p>
+<p begin="00:00:33.780" end="00:00:43.739" style="s2">snippets some a feeling for what I mean</p>
+<p begin="00:00:38.550" end="00:00:47.129" style="s2">by this we all know that we live in an</p>
+<p begin="00:00:43.739" end="00:00:50.879" style="s2">extremely complex ending world that</p>
+<p begin="00:00:47.129" end="00:00:53.899" style="s2">we&#39;re facing a complexity that we might</p>
+<p begin="00:00:50.879" end="00:00:55.860" style="s2">not be fully prepared for yet and</p>
+<p begin="00:00:53.899" end="00:00:58.320" style="s2">mathematically speaking in the world of</p>
+<p begin="00:00:55.860" end="00:01:00.930" style="s2">complexity when you look into what that</p>
+<p begin="00:00:58.320" end="00:01:03.809" style="s2">actually is it&#39;s any system with more</p>
+<p begin="00:01:00.930" end="00:01:06.780" style="s2">than three interacting variables is a</p>
+<p begin="00:01:03.809" end="00:01:09.630" style="s2">complex dynamic system and these systems</p>
+<p begin="00:01:06.780" end="00:01:12.450" style="s2">are fundamentally unpredictable and</p>
+<p begin="00:01:09.630" end="00:01:15.689" style="s2">uncontrollable so we have to learn to</p>
+<p begin="00:01:12.450" end="00:01:18.659" style="s2">dance with this complexity and stop</p>
+<p begin="00:01:15.689" end="00:01:20.369" style="s2">trying to control things this slide is</p>
+<p begin="00:01:18.659" end="00:01:22.500" style="s2">from a colleague of mine from the</p>
+<p begin="00:01:20.369" end="00:01:25.560" style="s2">international futures forum and it&#39;s</p>
+<p begin="00:01:22.500" end="00:01:27.060" style="s2">from 2002 and if you can read it&#39;s a bit</p>
+<p begin="00:01:25.560" end="00:01:30.780" style="s2">of a small screen but if you can read</p>
+<p begin="00:01:27.060" end="00:01:33.210" style="s2">what&#39;s on these little arrows these</p>
+<p begin="00:01:30.780" end="00:01:37.020" style="s2">issues existed in 2002 and they even</p>
+<p begin="00:01:33.210" end="00:01:40.380" style="s2">more pressing now I&#39;m going to try to</p>
+<p begin="00:01:37.020" end="00:01:42.479" style="s2">keep the bad news as short as possible</p>
+<p begin="00:01:40.380" end="00:01:45.229" style="s2">but I think it&#39;s summarized in those</p>
+<p begin="00:01:42.479" end="00:01:48.420" style="s2">four slides or those four images and</p>
+<p begin="00:01:45.229" end="00:01:51.119" style="s2">business as usual is not no longer an</p>
+<p begin="00:01:48.420" end="00:01:53.250" style="s2">option the one in the top left corner</p>
+<p begin="00:01:51.119" end="00:01:54.720" style="s2">comes from a paper from the Stockholm</p>
+<p begin="00:01:53.250" end="00:01:58.950" style="s2">resilience center that was published in</p>
+<p begin="00:01:54.720" end="00:02:02.009" style="s2">August and it&#39;s called something climate</p>
+<p begin="00:01:58.950" end="00:02:04.439" style="s2">change in the Anthropocene and basically</p>
+<p begin="00:02:02.009" end="00:02:06.540" style="s2">it says that we are at a point where</p>
+<p begin="00:02:04.439" end="00:02:10.470" style="s2">we&#39;ve destabilized the global climate</p>
+<p begin="00:02:06.540" end="00:02:11.849" style="s2">system to a degree that we&#39;re now in the</p>
+<p begin="00:02:10.470" end="00:02:12.810" style="s2">beginning of what&#39;s called runaway</p>
+<p begin="00:02:11.849" end="00:02:15.390" style="s2">climate</p>
+<p begin="00:02:12.810" end="00:02:18.060" style="s2">where certain triggers in the climate</p>
+<p begin="00:02:15.390" end="00:02:22.140" style="s2">system actually amplify the change and</p>
+<p begin="00:02:18.060" end="00:02:25.049" style="s2">where the possibility to move back will</p>
+<p begin="00:02:22.140" end="00:02:27.799" style="s2">soon not be an option anymore so we</p>
+<p begin="00:02:25.049" end="00:02:29.989" style="s2">really Antonio Guterres the</p>
+<p begin="00:02:27.799" end="00:02:33.209" style="s2">secretary-general of the United Nations</p>
+<p begin="00:02:29.989" end="00:02:35.129" style="s2">has recently said that we&#39;ve got a year</p>
+<p begin="00:02:33.209" end="00:02:38.730" style="s2">and a half as a global community to</p>
+<p begin="00:02:35.129" end="00:02:40.530" style="s2">respond seriously to climate change them</p>
+<p begin="00:02:38.730" end="00:02:43.829" style="s2">otherwise it might be too late</p>
+<p begin="00:02:40.530" end="00:02:47.160" style="s2">and then the graphic below that with all</p>
+<p begin="00:02:43.829" end="00:02:49.530" style="s2">these rising exponential curves they&#39;re</p>
+<p begin="00:02:47.160" end="00:02:52.260" style="s2">basically all about water use energy use</p>
+<p begin="00:02:49.530" end="00:02:54.150" style="s2">and the amount of McDonald&#39;s restaurants</p>
+<p begin="00:02:52.260" end="00:02:56.730" style="s2">in the world like basically everything</p>
+<p begin="00:02:54.150" end="00:02:58.950" style="s2">is going up and if we don&#39;t make it on</p>
+<p begin="00:02:56.730" end="00:03:01.379" style="s2">the tombstone of humanity the words will</p>
+<p begin="00:02:58.950" end="00:03:04.590" style="s2">be this species didn&#39;t understand</p>
+<p begin="00:03:01.379" end="00:03:07.200" style="s2">exponential growth we just assumed that</p>
+<p begin="00:03:04.590" end="00:03:09.420" style="s2">things will go on more or less like we</p>
+<p begin="00:03:07.200" end="00:03:12.470" style="s2">accustomed to but we&#39;re now in that</p>
+<p begin="00:03:09.420" end="00:03:16.919" style="s2">steep end of the exponential curve and</p>
+<p begin="00:03:12.470" end="00:03:19.440" style="s2">things will change then the top right</p>
+<p begin="00:03:16.919" end="00:03:22.139" style="s2">corner is que Dre Werth&#39;s</p>
+<p begin="00:03:19.440" end="00:03:23.489" style="s2">donut which is trying to put two things</p>
+<p begin="00:03:22.139" end="00:03:25.470" style="s2">together it&#39;s on the one hand the</p>
+<p begin="00:03:23.489" end="00:03:29.459" style="s2">planetary boundaries issues like climate</p>
+<p begin="00:03:25.470" end="00:03:32.790" style="s2">change ocean acidification all the the</p>
+<p begin="00:03:29.459" end="00:03:35.069" style="s2">key parameters of the planetary</p>
+<p begin="00:03:32.790" end="00:03:37.769" style="s2">life-support system that we&#39;ve already</p>
+<p begin="00:03:35.069" end="00:03:40.829" style="s2">overstepped and what&#39;s inside the circle</p>
+<p begin="00:03:37.769" end="00:03:42.599" style="s2">the red reaching into the circle is</p>
+<p begin="00:03:40.829" end="00:03:45.540" style="s2">where we don&#39;t meet the social</p>
+<p begin="00:03:42.599" end="00:03:47.310" style="s2">foundations of building a healthy and</p>
+<p begin="00:03:45.540" end="00:03:49.349" style="s2">viable society so it&#39;s not just about</p>
+<p begin="00:03:47.310" end="00:03:51.750" style="s2">environmental issues it&#39;s all social</p>
+<p begin="00:03:49.349" end="00:03:55.980" style="s2">issues as well and that pyramid at the</p>
+<p begin="00:03:51.750" end="00:03:58.410" style="s2">bottom is from a report that credit</p>
+<p begin="00:03:55.980" end="00:04:01.340" style="s2">Swiss gives out every two years it&#39;s</p>
+<p begin="00:03:58.410" end="00:04:03.870" style="s2">called the Global Wealth Report and</p>
+<p begin="00:04:01.340" end="00:04:07.340" style="s2">basically we now live in a world where</p>
+<p begin="00:04:03.870" end="00:04:11.760" style="s2">eight point six percent of humanity hold</p>
+<p begin="00:04:07.340" end="00:04:14.250" style="s2">85% of the global wealth eight point six</p>
+<p begin="00:04:11.760" end="00:04:16.320" style="s2">percent of humanity owned eighty five</p>
+<p begin="00:04:14.250" end="00:04:19.280" style="s2">point six percent of the global wealth</p>
+<p begin="00:04:16.320" end="00:04:23.070" style="s2">but what&#39;s even most staggering is that</p>
+<p begin="00:04:19.280" end="00:04:24.990" style="s2">71 percent of humanity have to share</p>
+<p begin="00:04:23.070" end="00:04:28.810" style="s2">three percent of the</p>
+<p begin="00:04:24.990" end="00:04:30.610" style="s2">so again business as usual is no longer</p>
+<p begin="00:04:28.810" end="00:04:33.639" style="s2">an option we cannot sustain the world</p>
+<p begin="00:04:30.610" end="00:04:35.229" style="s2">that is that unequal and would we want</p>
+<p begin="00:04:33.639" end="00:04:40.509" style="s2">to sustain the world that is that</p>
+<p begin="00:04:35.229" end="00:04:44.259" style="s2">unequal so when I asked you about</p>
+<p begin="00:04:40.509" end="00:04:45.460" style="s2">are you keeping business as usual or are</p>
+<p begin="00:04:44.259" end="00:04:46.210" style="s2">you keeping the lights on are you a</p>
+<p begin="00:04:45.460" end="00:04:49.419" style="s2">visionary</p>
+<p begin="00:04:46.210" end="00:04:53.169" style="s2">are you an entrepreneur tweaking what is</p>
+<p begin="00:04:49.419" end="00:04:55.750" style="s2">possible this is to give you an embodied</p>
+<p begin="00:04:53.169" end="00:04:58.750" style="s2">feeling of where you feel most aligned</p>
+<p begin="00:04:55.750" end="00:05:00.220" style="s2">with this particular framework that</p>
+<p begin="00:04:58.750" end="00:05:01.479" style="s2">again friends of mine in the</p>
+<p begin="00:05:00.220" end="00:05:03.159" style="s2">international futures forum have</p>
+<p begin="00:05:01.479" end="00:05:06.819" style="s2">developed it&#39;s called the three horizons</p>
+<p begin="00:05:03.159" end="00:05:08.560" style="s2">framework and I encourage you whatever</p>
+<p begin="00:05:06.819" end="00:05:10.300" style="s2">you do to look this up because if you</p>
+<p begin="00:05:08.560" end="00:05:12.759" style="s2">want to implement something in the long</p>
+<p begin="00:05:10.300" end="00:05:15.789" style="s2">term and you need the voices of the</p>
+<p begin="00:05:12.759" end="00:05:17.470" style="s2">practical day-to-day you need the voices</p>
+<p begin="00:05:15.789" end="00:05:19.240" style="s2">of the visionary in the room and you</p>
+<p begin="00:05:17.470" end="00:05:22.090" style="s2">need the voices of what can we do</p>
+<p begin="00:05:19.240" end="00:05:24.729" style="s2">tomorrow what is feasible already then</p>
+<p begin="00:05:22.090" end="00:05:27.370" style="s2">this is a wonderful map that where a</p>
+<p begin="00:05:24.729" end="00:05:28.960" style="s2">bunch of post-its collecting ideas and</p>
+<p begin="00:05:27.370" end="00:05:33.460" style="s2">working with it you can you can actually</p>
+<p begin="00:05:28.960" end="00:05:38.349" style="s2">step into that space you could say that</p>
+<p begin="00:05:33.460" end="00:05:42.780" style="s2">the red curve is business as usual the</p>
+<p begin="00:05:38.349" end="00:05:46.599" style="s2">world in crisis the green curve is a</p>
+<p begin="00:05:42.780" end="00:05:50.320" style="s2">viable future tomorrow&#39;s land if we make</p>
+<p begin="00:05:46.599" end="00:05:52.840" style="s2">it and the blue curve is the</p>
+<p begin="00:05:50.320" end="00:05:57.460" style="s2">entrepreneur building the bridge between</p>
+<p begin="00:05:52.840" end="00:06:00.669" style="s2">the term but most importantly it&#39;s a way</p>
+<p begin="00:05:57.460" end="00:06:03.190" style="s2">to value all these voices and all these</p>
+<p begin="00:06:00.669" end="00:06:05.710" style="s2">perspectives on the future because if we</p>
+<p begin="00:06:03.190" end="00:06:08.229" style="s2">want to build a future that works for we</p>
+<p begin="00:06:05.710" end="00:06:11.319" style="s2">need to include everybody and the time</p>
+<p begin="00:06:08.229" end="00:06:15.130" style="s2">of them against us is over</p>
+<p begin="00:06:11.319" end="00:06:17.560" style="s2">we&#39;re on living spaceship earth the ship</p>
+<p begin="00:06:15.130" end="00:06:20.440" style="s2">is sinking it&#39;s taking on water either</p>
+<p begin="00:06:17.560" end="00:06:22.690" style="s2">we do it together or there might not be</p>
+<p begin="00:06:20.440" end="00:06:28.060" style="s2">a 22nd century with a lot of happy</p>
+<p begin="00:06:22.690" end="00:06:30.969" style="s2">humans around him and the exercise that</p>
+<p begin="00:06:28.060" end="00:06:33.639" style="s2">we did last with the cards is to</p>
+<p begin="00:06:30.969" end="00:06:35.349" style="s2">introduce you to the sustainable</p>
+<p begin="00:06:33.639" end="00:06:36.940" style="s2">development goals it&#39;s an imperfect</p>
+<p begin="00:06:35.349" end="00:06:39.670" style="s2">platform like most</p>
+<p begin="00:06:36.940" end="00:06:41.410" style="s2">platforms that have been created like</p>
+<p begin="00:06:39.670" end="00:06:44.770" style="s2">this particular one by the United</p>
+<p begin="00:06:41.410" end="00:06:47.020" style="s2">Nations has has come out of the largest</p>
+<p begin="00:06:44.770" end="00:06:49.210" style="s2">consulted Tory process that the United</p>
+<p begin="00:06:47.020" end="00:06:50.830" style="s2">Nations have ever engaged in over a</p>
+<p begin="00:06:49.210" end="00:06:52.780" style="s2">million people from all the countries</p>
+<p begin="00:06:50.830" end="00:06:55.180" style="s2">around the world have somehow</p>
+<p begin="00:06:52.780" end="00:06:59.650" style="s2">contributed to this a group of over</p>
+<p begin="00:06:55.180" end="00:07:01.840" style="s2">3,000 scientists and and selected people</p>
+<p begin="00:06:59.650" end="00:07:05.280" style="s2">have been working diligently on trying</p>
+<p begin="00:07:01.840" end="00:07:10.360" style="s2">to make these goals the best they could</p>
+<p begin="00:07:05.280" end="00:07:12.460" style="s2">they are some critiques in the activist</p>
+<p begin="00:07:10.360" end="00:07:15.100" style="s2">movement that for example goal number 8</p>
+<p begin="00:07:12.460" end="00:07:17.020" style="s2">which still names economic growth as a</p>
+<p begin="00:07:15.100" end="00:07:18.820" style="s2">goal rather than as part of a</p>
+<p begin="00:07:17.020" end="00:07:21.390" style="s2">dysfunctional economic system that we</p>
+<p begin="00:07:18.820" end="00:07:24.250" style="s2">need to fundamentally transform and</p>
+<p begin="00:07:21.390" end="00:07:27.400" style="s2">sabotages all the other ones yes that</p>
+<p begin="00:07:24.250" end="00:07:29.770" style="s2">might be true so we need to reframe that</p>
+<p begin="00:07:27.400" end="00:07:34.090" style="s2">economic growth to may be qualitative</p>
+<p begin="00:07:29.770" end="00:07:36.460" style="s2">growth but rather than dismissing the</p>
+<p begin="00:07:34.090" end="00:07:39.340" style="s2">SDGs altogether I would invite you to</p>
+<p begin="00:07:36.460" end="00:07:42.220" style="s2">understand them as a platform of</p>
+<p begin="00:07:39.340" end="00:07:45.210" style="s2">conversation that for the first time is</p>
+<p begin="00:07:42.220" end="00:07:48.760" style="s2">bringing supranational and national</p>
+<p begin="00:07:45.210" end="00:07:50.730" style="s2">support to a local level so you can</p>
+<p begin="00:07:48.760" end="00:07:54.070" style="s2">actually have the conversation around</p>
+<p begin="00:07:50.730" end="00:07:55.810" style="s2">how are these goals relevant to us here</p>
+<p begin="00:07:54.070" end="00:07:59.919" style="s2">in Merseyside or wherever you come from</p>
+<p begin="00:07:55.810" end="00:08:02.770" style="s2">and how can we somewhat counter co-opt</p>
+<p begin="00:07:59.919" end="00:08:04.360" style="s2">them using the fact that they&#39;re now in</p>
+<p begin="00:08:02.770" end="00:08:06.760" style="s2">national plans and there is</p>
+<p begin="00:08:04.360" end="00:08:09.730" style="s2">international funding to it for</p>
+<p begin="00:08:06.760" end="00:08:13.870" style="s2">implementation to make them meaningful</p>
+<p begin="00:08:09.730" end="00:08:16.180" style="s2">to us and I work part time for an</p>
+<p begin="00:08:13.870" end="00:08:17.680" style="s2">organization called Gaia education and I</p>
+<p begin="00:08:16.180" end="00:08:20.440" style="s2">actually designed the cards that you</p>
+<p begin="00:08:17.680" end="00:08:22.180" style="s2">were just using and basically that&#39;s</p>
+<p begin="00:08:20.440" end="00:08:25.510" style="s2">what they&#39;re what they are they&#39;re our</p>
+<p begin="00:08:22.180" end="00:08:27.400" style="s2">facilitation tool where you can start</p>
+<p begin="00:08:25.510" end="00:08:31.180" style="s2">conversations with people in your</p>
+<p begin="00:08:27.400" end="00:08:33.969" style="s2">community around how to implement the</p>
+<p begin="00:08:31.180" end="00:08:37.800" style="s2">SDGs in ways that are meaningful to your</p>
+<p begin="00:08:33.969" end="00:08:40.030" style="s2">community and it comes together with a</p>
+<p begin="00:08:37.800" end="00:08:43.870" style="s2">manual which is called the multipliers</p>
+<p begin="00:08:40.030" end="00:08:45.490" style="s2">manual we run a one-day or a half like</p>
+<p begin="00:08:43.870" end="00:08:47.860" style="s2">there&#39;s two versions a half-day and a</p>
+<p begin="00:08:45.490" end="00:08:49.340" style="s2">full-day training called the training of</p>
+<p begin="00:08:47.860" end="00:08:54.110" style="s2">multipliers</p>
+<p begin="00:08:49.340" end="00:08:57.680" style="s2">and the manual details minute-by-minute</p>
+<p begin="00:08:54.110" end="00:09:00.560" style="s2">a kind of facilitator script on how to</p>
+<p begin="00:08:57.680" end="00:09:03.350" style="s2">run this workshop so you can choose</p>
+<p begin="00:09:00.560" end="00:09:04.760" style="s2">whether you want to first do one that</p>
+<p begin="00:09:03.350" end="00:09:06.589" style="s2">guy education offer somewhere in the</p>
+<p begin="00:09:04.760" end="00:09:08.630" style="s2">world you can bring them here and and</p>
+<p begin="00:09:06.589" end="00:09:10.339" style="s2">and have them run one but if you just</p>
+<p begin="00:09:08.630" end="00:09:12.800" style="s2">want to run with it yourself you just</p>
+<p begin="00:09:10.339" end="00:09:16.850" style="s2">download the black and white version of</p>
+<p begin="00:09:12.800" end="00:09:18.920" style="s2">them the multipliers handbook and if you</p>
+<p begin="00:09:16.850" end="00:09:21.290" style="s2">have any basic skills as a group</p>
+<p begin="00:09:18.920" end="00:09:23.600" style="s2">facilitator and organizer you&#39;ll see</p>
+<p begin="00:09:21.290" end="00:09:25.220" style="s2">that it&#39;s it&#39;s very self-explanatory so</p>
+<p begin="00:09:23.600" end="00:09:28.070" style="s2">all you need is a set of these cards and</p>
+<p begin="00:09:25.220" end="00:09:31.160" style="s2">you&#39;re off and basically the different</p>
+<p begin="00:09:28.070" end="00:09:32.990" style="s2">steps will show you first then make</p>
+<p begin="00:09:31.160" end="00:09:35.779" style="s2">people familiar with the stds then they</p>
+<p begin="00:09:32.990" end="00:09:38.420" style="s2">look at mapping what&#39;s already happening</p>
+<p begin="00:09:35.779" end="00:09:40.790" style="s2">in my community that might not be framed</p>
+<p begin="00:09:38.420" end="00:09:44.600" style="s2">under an SDG but if if i do a local</p>
+<p begin="00:09:40.790" end="00:09:47.510" style="s2">water project on cleaning up polluted</p>
+<p begin="00:09:44.600" end="00:09:50.180" style="s2">waters or giving people access to better</p>
+<p begin="00:09:47.510" end="00:09:53.510" style="s2">drinking water then that&#39;s already a</p>
+<p begin="00:09:50.180" end="00:09:56.990" style="s2">project working on an SD g and then you</p>
+<p begin="00:09:53.510" end="00:09:59.450" style="s2">identify the the low-hanging fruits in</p>
+<p begin="00:09:56.990" end="00:10:02.000" style="s2">your community where you can do big</p>
+<p begin="00:09:59.450" end="00:10:04.460" style="s2">changes and then you identify where</p>
+<p begin="00:10:02.000" end="00:10:07.370" style="s2">there&#39;s missing gaps and in in the</p>
+<p begin="00:10:04.460" end="00:10:08.630" style="s2">bottom left corner is some of you might</p>
+<p begin="00:10:07.370" end="00:10:11.720" style="s2">be familiar with the business model</p>
+<p begin="00:10:08.630" end="00:10:13.010" style="s2">canvas this is this is a kind of SDG</p>
+<p begin="00:10:11.720" end="00:10:15.620" style="s2">version of the business model canvas</p>
+<p begin="00:10:13.010" end="00:10:16.940" style="s2">it&#39;s another step in a facilitation</p>
+<p begin="00:10:15.620" end="00:10:19.100" style="s2">process where once people have</p>
+<p begin="00:10:16.940" end="00:10:20.900" style="s2">identified a project that ideally</p>
+<p begin="00:10:19.100" end="00:10:22.610" style="s2">addresses three or four of the SDGs</p>
+<p begin="00:10:20.900" end="00:10:27.560" style="s2">together because they have to be</p>
+<p begin="00:10:22.610" end="00:10:29.960" style="s2">addressed together and then this step in</p>
+<p begin="00:10:27.560" end="00:10:33.170" style="s2">the workshop helps you to deepen in into</p>
+<p begin="00:10:29.960" end="00:10:35.540" style="s2">that and in general guide ucation does a</p>
+<p begin="00:10:33.170" end="00:10:37.610" style="s2">lot of capacity-building all around the</p>
+<p begin="00:10:35.540" end="00:10:39.620" style="s2">world we have partners over a hundred</p>
+<p begin="00:10:37.610" end="00:10:41.740" style="s2">partners in 52 countries around the</p>
+<p begin="00:10:39.620" end="00:10:46.270" style="s2">world on all the continents ba</p>
+<p begin="00:10:41.740" end="00:10:49.339" style="s2">Antarctica and we haven&#39;t face-to-face</p>
+<p begin="00:10:46.270" end="00:10:51.500" style="s2">125 our course which is was initially</p>
+<p begin="00:10:49.339" end="00:10:54.290" style="s2">called eco village design education but</p>
+<p begin="00:10:51.500" end="00:10:56.060" style="s2">it&#39;s really about building sustainable</p>
+<p begin="00:10:54.290" end="00:10:58.130" style="s2">communities so it&#39;s also very relevant</p>
+<p begin="00:10:56.060" end="00:11:01.350" style="s2">for people in a transition town movement</p>
+<p begin="00:10:58.130" end="00:11:05.010" style="s2">or who just wanted to neighborhood work</p>
+<p begin="00:11:01.350" end="00:11:07.590" style="s2">then there&#39;s a 400 hour online course</p>
+<p begin="00:11:05.010" end="00:11:09.690" style="s2">called design for sustainability and if</p>
+<p begin="00:11:07.590" end="00:11:12.810" style="s2">you just at that point in in your work</p>
+<p begin="00:11:09.690" end="00:11:15.990" style="s2">where you feel actually everything has</p>
+<p begin="00:11:12.810" end="00:11:19.620" style="s2">to be sustainable because no matter what</p>
+<p begin="00:11:15.990" end="00:11:21.930" style="s2">our future will bring if if we don&#39;t</p>
+<p begin="00:11:19.620" end="00:11:24.330" style="s2">make it sustainable or regenerative then</p>
+<p begin="00:11:21.930" end="00:11:27.240" style="s2">it will not last into the distant future</p>
+<p begin="00:11:24.330" end="00:11:30.120" style="s2">but you feel you still need to brush up</p>
+<p begin="00:11:27.240" end="00:11:32.880" style="s2">on a whole system&#39;s perspective of what</p>
+<p begin="00:11:30.120" end="00:11:35.880" style="s2">that actually means that causes is a</p>
+<p begin="00:11:32.880" end="00:11:38.190" style="s2">great opportunity to do so and and then</p>
+<p begin="00:11:35.880" end="00:11:41.610" style="s2">we also run lots of project-based</p>
+<p begin="00:11:38.190" end="00:11:45.240" style="s2">learning works in Bangladesh in Senegal</p>
+<p begin="00:11:41.610" end="00:11:46.710" style="s2">in favelas in Brazil where people apply</p>
+<p begin="00:11:45.240" end="00:11:49.800" style="s2">there&#39;s kind of whole system&#39;s thinking</p>
+<p begin="00:11:46.710" end="00:11:51.030" style="s2">of sustainability and the phrase that</p>
+<p begin="00:11:49.800" end="00:11:53.370" style="s2">I&#39;ve got there at the bottom is it&#39;s</p>
+<p begin="00:11:51.030" end="00:11:56.610" style="s2">really when you work in a systemic way</p>
+<p begin="00:11:53.370" end="00:11:58.980" style="s2">then you stop thinking that&#39;s my problem</p>
+<p begin="00:11:56.610" end="00:12:00.960" style="s2">how do I solve it the first question is</p>
+<p begin="00:11:58.980" end="00:12:04.440" style="s2">give me at least five or six more</p>
+<p begin="00:12:00.960" end="00:12:06.150" style="s2">problems and then you look at what kind</p>
+<p begin="00:12:04.440" end="00:12:09.120" style="s2">of project can I build that would solve</p>
+<p begin="00:12:06.150" end="00:12:11.790" style="s2">all of them at once because it&#39;s the</p>
+<p begin="00:12:09.120" end="00:12:12.900" style="s2">siloed thinking even in trying to create</p>
+<p begin="00:12:11.790" end="00:12:14.820" style="s2">solutions to things</p>
+<p begin="00:12:12.900" end="00:12:17.880" style="s2">it&#39;s the silo thinking that that</p>
+<p begin="00:12:14.820" end="00:12:21.000" style="s2">sometimes create the wrong emphasis in a</p>
+<p begin="00:12:17.880" end="00:12:24.110" style="s2">project and then that normally bites us</p>
+<p begin="00:12:21.000" end="00:12:29.190" style="s2">in the back later in the in the process</p>
+<p begin="00:12:24.110" end="00:12:31.920" style="s2">so navigating this complexity is tricky</p>
+<p begin="00:12:29.190" end="00:12:33.810" style="s2">there&#39;s unfortunately I wasn&#39;t aware</p>
+<p begin="00:12:31.920" end="00:12:35.730" style="s2">that the screen was gonna be this small</p>
+<p begin="00:12:33.810" end="00:12:37.950" style="s2">so I&#39;m fully aware that most people in</p>
+<p begin="00:12:35.730" end="00:12:40.620" style="s2">the back roles will not be able to read</p>
+<p begin="00:12:37.950" end="00:12:42.780" style="s2">all of what&#39;s on these slides I will</p>
+<p begin="00:12:40.620" end="00:12:45.570" style="s2">give the slides to Ruth and Ruth will</p>
+<p begin="00:12:42.780" end="00:12:48.000" style="s2">send them out to you and there&#39;s lots of</p>
+<p begin="00:12:45.570" end="00:12:50.190" style="s2">hyperlinks in in the give it as a PDF</p>
+<p begin="00:12:48.000" end="00:12:53.010" style="s2">and so all the resources you can</p>
+<p begin="00:12:50.190" end="00:12:55.230" style="s2">directly follow up on so don&#39;t worry</p>
+<p begin="00:12:53.010" end="00:13:00.500" style="s2">about that bit but what what I&#39;m trying</p>
+<p begin="00:12:55.230" end="00:13:02.490" style="s2">to say with this slide is that I wrote I</p>
+<p begin="00:13:00.500" end="00:13:05.010" style="s2">wrote this book called designing</p>
+<p begin="00:13:02.490" end="00:13:08.490" style="s2">regenerative cultures and in many ways</p>
+<p begin="00:13:05.010" end="00:13:11.220" style="s2">there&#39;s a paradox in this title because</p>
+<p begin="00:13:08.490" end="00:13:13.980" style="s2">cultures aren&#39;t designed cultures emerge</p>
+<p begin="00:13:11.220" end="00:13:14.610" style="s2">through our relationships and our</p>
+<p begin="00:13:13.980" end="00:13:17.820" style="s2">interact</p>
+<p begin="00:13:14.610" end="00:13:21.209" style="s2">with each other but in these complex</p>
+<p begin="00:13:17.820" end="00:13:22.680" style="s2">systems once you accept that they are</p>
+<p begin="00:13:21.209" end="00:13:25.649" style="s2">fundamentally unpredictable and</p>
+<p begin="00:13:22.680" end="00:13:28.110" style="s2">uncontrollable and so the aim is not how</p>
+<p begin="00:13:25.649" end="00:13:30.300" style="s2">do we manipulate it and enforce a</p>
+<p begin="00:13:28.110" end="00:13:34.529" style="s2">particular future then you can start</p>
+<p begin="00:13:30.300" end="00:13:37.200" style="s2">look at what is it that I can do to make</p>
+<p begin="00:13:34.529" end="00:13:41.310" style="s2">it more likely that the emergent</p>
+<p begin="00:13:37.200" end="00:13:43.019" style="s2">property the new part of this complex</p>
+<p begin="00:13:41.310" end="00:13:45.450" style="s2">system that we can&#39;t predict that</p>
+<p begin="00:13:43.019" end="00:13:49.260" style="s2">suddenly pops up will be positive rather</p>
+<p begin="00:13:45.450" end="00:13:51.660" style="s2">than negative and when you look deeply</p>
+<p begin="00:13:49.260" end="00:13:54.390" style="s2">into this you find that it is about</p>
+<p begin="00:13:51.660" end="00:13:57.060" style="s2">building qualitative relationships</p>
+<p begin="00:13:54.390" end="00:14:00.750" style="s2">paying attention to what kind of</p>
+<p begin="00:13:57.060" end="00:14:03.990" style="s2">information flows who talks to whom how</p>
+<p begin="00:14:00.750" end="00:14:07.980" style="s2">deep those relationships are and as you</p>
+<p begin="00:14:03.990" end="00:14:09.510" style="s2">nourish these somewhat intangible parts</p>
+<p begin="00:14:07.980" end="00:14:11.640" style="s2">of the system and you so that&#39;s why</p>
+<p begin="00:14:09.510" end="00:14:13.380" style="s2">education is so important because the</p>
+<p begin="00:14:11.640" end="00:14:15.269" style="s2">information that flows makes a big</p>
+<p begin="00:14:13.380" end="00:14:19.500" style="s2">difference in the system that will</p>
+<p begin="00:14:15.269" end="00:14:23.010" style="s2">enable you to create a higher likelihood</p>
+<p begin="00:14:19.500" end="00:14:28.130" style="s2">that what will emerge unpredictably is a</p>
+<p begin="00:14:23.010" end="00:14:30.959" style="s2">healthier and a more positive system and</p>
+<p begin="00:14:28.130" end="00:14:34.260" style="s2">these images again unfortunately you</p>
+<p begin="00:14:30.959" end="00:14:36.480" style="s2">can&#39;t read all of them just reminding</p>
+<p begin="00:14:34.260" end="00:14:39.390" style="s2">you that we all sit at the beginning of</p>
+<p begin="00:14:36.480" end="00:14:41.760" style="s2">the slide that there was the word glocal</p>
+<p begin="00:14:39.390" end="00:14:44.610" style="s2">it wasn&#39;t a misspelling I&#39;m actually</p>
+<p begin="00:14:41.760" end="00:14:47.449" style="s2">talking about global/local at the same</p>
+<p begin="00:14:44.610" end="00:14:51.000" style="s2">time and whole systems design is about</p>
+<p begin="00:14:47.449" end="00:14:52.769" style="s2">always being aware of the scale linking</p>
+<p begin="00:14:51.000" end="00:14:55.470" style="s2">between your little project in your</p>
+<p begin="00:14:52.769" end="00:14:58.320" style="s2">little neighborhood into the city and</p>
+<p begin="00:14:55.470" end="00:15:00.810" style="s2">the city region and the nation and how</p>
+<p begin="00:14:58.320" end="00:15:02.339" style="s2">does it make a difference globally</p>
+<p begin="00:15:00.810" end="00:15:07.260" style="s2">through implementing for example the</p>
+<p begin="00:15:02.339" end="00:15:08.940" style="s2">SDGs and so as a practice of a</p>
+<p begin="00:15:07.260" end="00:15:12.300" style="s2">practitioner wanting to bring about</p>
+<p begin="00:15:08.940" end="00:15:15.690" style="s2">change this graph up there in the top</p>
+<p begin="00:15:12.300" end="00:15:19.470" style="s2">right says you&#39;ve got your project and</p>
+<p begin="00:15:15.690" end="00:15:22.079" style="s2">then you&#39;ve got the primary hold the</p>
+<p begin="00:15:19.470" end="00:15:24.149" style="s2">place that you&#39;re in and then you have</p>
+<p begin="00:15:22.079" end="00:15:27.059" style="s2">the proximate hole which is the slightly</p>
+<p begin="00:15:24.149" end="00:15:29.279" style="s2">wider region and one thing that is</p>
+<p begin="00:15:27.059" end="00:15:32.249" style="s2">amazing in terms of making local</p>
+<p begin="00:15:29.279" end="00:15:34.439" style="s2">projects more powerful is when you ask</p>
+<p begin="00:15:32.249" end="00:15:37.049" style="s2">yourself the question how does my local</p>
+<p begin="00:15:34.439" end="00:15:39.779" style="s2">project contribute meaningfully in a</p>
+<p begin="00:15:37.049" end="00:15:42.059" style="s2">positive way to that proximate greater</p>
+<p begin="00:15:39.779" end="00:15:44.429" style="s2">Hall it will help you with funding it</p>
+<p begin="00:15:42.059" end="00:15:46.319" style="s2">will help you with the the meaning for</p>
+<p begin="00:15:44.429" end="00:15:50.099" style="s2">people in getting engaged in your local</p>
+<p begin="00:15:46.319" end="00:15:52.559" style="s2">project this this comes from pamela mang</p>
+<p begin="00:15:50.099" end="00:15:55.469" style="s2">and there&#39;s actually a book has this</p>
+<p begin="00:15:52.559" end="00:15:57.929" style="s2">type of regenerative cultures there&#39;s a</p>
+<p begin="00:15:55.469" end="00:15:59.669" style="s2">whole movement around regenerative</p>
+<p begin="00:15:57.929" end="00:16:01.769" style="s2">development and the pioneers of that</p>
+<p begin="00:15:59.669" end="00:16:04.379" style="s2">movement and it&#39;s a group called</p>
+<p begin="00:16:01.769" end="00:16:06.629" style="s2">Regenesis group and they&#39;ve created a</p>
+<p begin="00:16:04.379" end="00:16:09.119" style="s2">whole training how to get engaged with</p>
+<p begin="00:16:06.629" end="00:16:14.249" style="s2">regenerative development so again I&#39;d</p>
+<p begin="00:16:09.119" end="00:16:16.759" style="s2">encourage you to look into that um in</p>
+<p begin="00:16:14.249" end="00:16:19.829" style="s2">summary to this slide it&#39;s it&#39;s always</p>
+<p begin="00:16:16.759" end="00:16:21.049" style="s2">understanding that since everything is</p>
+<p begin="00:16:19.829" end="00:16:24.089" style="s2">interconnected</p>
+<p begin="00:16:21.049" end="00:16:26.699" style="s2">there&#39;s always constituent if you think</p>
+<p begin="00:16:24.089" end="00:16:29.429" style="s2">of your own body there are cells that</p>
+<p begin="00:16:26.699" end="00:16:32.069" style="s2">make up organs that make up your body is</p>
+<p begin="00:16:29.429" end="00:16:35.489" style="s2">you sit within a family that sits within</p>
+<p begin="00:16:32.069" end="00:16:39.359" style="s2">a community within an ecosystem within</p>
+<p begin="00:16:35.489" end="00:16:40.259" style="s2">the planet and health and wholeness has</p>
+<p begin="00:16:39.359" end="00:16:43.529" style="s2">a scale</p>
+<p begin="00:16:40.259" end="00:16:45.779" style="s2">linking quality so if we work for a</p>
+<p begin="00:16:43.529" end="00:16:47.879" style="s2">better world we can work on any of these</p>
+<p begin="00:16:45.779" end="00:16:51.269" style="s2">scales and we should always be mindful</p>
+<p begin="00:16:47.879" end="00:16:56.129" style="s2">of how our actions at any of those</p>
+<p begin="00:16:51.269" end="00:17:00.209" style="s2">scales impact the other scales again</p>
+<p begin="00:16:56.129" end="00:17:02.249" style="s2">this is a set of like that that the</p>
+<p begin="00:17:00.209" end="00:17:03.689" style="s2">subtitle of my book and the working</p>
+<p begin="00:17:02.249" end="00:17:05.429" style="s2">title while I was writing it was</p>
+<p begin="00:17:03.689" end="00:17:09.089" style="s2">actually living the questions together</p>
+<p begin="00:17:05.429" end="00:17:11.069" style="s2">and for me that&#39;s why on these cards</p>
+<p begin="00:17:09.089" end="00:17:14.999" style="s2">that you played with earlier there are</p>
+<p begin="00:17:11.069" end="00:17:17.249" style="s2">lots of questions questions are enabling</p>
+<p begin="00:17:14.999" end="00:17:20.069" style="s2">they give people like you you&#39;re</p>
+<p begin="00:17:17.249" end="00:17:22.259" style="s2">actually asking people to engage and to</p>
+<p begin="00:17:20.069" end="00:17:25.230" style="s2">come together around a certain issue if</p>
+<p begin="00:17:22.259" end="00:17:27.179" style="s2">you just talk at them they&#39;ll listen or</p>
+<p begin="00:17:25.230" end="00:17:30.389" style="s2">they don&#39;t listen but there&#39;s there&#39;s</p>
+<p begin="00:17:27.179" end="00:17:33.629" style="s2">something really powerful in questions</p>
+<p begin="00:17:30.389" end="00:17:35.100" style="s2">and to my mind one of the things that</p>
+<p begin="00:17:33.629" end="00:17:37.270" style="s2">we&#39;ve got wrong is that we always want</p>
+<p begin="00:17:35.100" end="00:17:41.590" style="s2">to jump towards solution</p>
+<p begin="00:17:37.270" end="00:17:43.540" style="s2">and answers may be a wise culture in the</p>
+<p begin="00:17:41.590" end="00:17:46.059" style="s2">future would give a catalogue of</p>
+<p begin="00:17:43.540" end="00:17:47.860" style="s2">questions to the next generation rather</p>
+<p begin="00:17:46.059" end="00:17:50.410" style="s2">than the answers because if you think of</p>
+<p begin="00:17:47.860" end="00:17:52.960" style="s2">it most of today&#39;s problems were</p>
+<p begin="00:17:50.410" end="00:17:55.570" style="s2">yesterday&#39;s solutions so how could we</p>
+<p begin="00:17:52.960" end="00:17:57.520" style="s2">assume that our all our most</p>
+<p begin="00:17:55.570" end="00:17:59.830" style="s2">well-meaning solutions that we&#39;re</p>
+<p begin="00:17:57.520" end="00:18:02.880" style="s2">working on today are not going to turn</p>
+<p begin="00:17:59.830" end="00:18:05.890" style="s2">into problems for the next generation so</p>
+<p begin="00:18:02.880" end="00:18:08.020" style="s2">and again an invitation to be mindful of</p>
+<p begin="00:18:05.890" end="00:18:10.179" style="s2">the power of questions and these</p>
+<p begin="00:18:08.020" end="00:18:14.980" style="s2">questions won&#39;t run through all of them</p>
+<p begin="00:18:10.179" end="00:18:17.230" style="s2">a distillation of having looked at what</p>
+<p begin="00:18:14.980" end="00:18:21.040" style="s2">normally goes wrong when we work with</p>
+<p begin="00:18:17.230" end="00:18:24.670" style="s2">complex systems we do things like we set</p>
+<p begin="00:18:21.040" end="00:18:27.690" style="s2">the wrong goals or we try to just look</p>
+<p begin="00:18:24.670" end="00:18:29.830" style="s2">at one isolated parameter rather than</p>
+<p begin="00:18:27.690" end="00:18:31.990" style="s2">optimizing the system of the whole so</p>
+<p begin="00:18:29.830" end="00:18:33.850" style="s2">the most classic example is that we&#39;ve</p>
+<p begin="00:18:31.990" end="00:18:36.640" style="s2">built a global economy and national</p>
+<p begin="00:18:33.850" end="00:18:40.000" style="s2">economies that measure everything in GDP</p>
+<p begin="00:18:36.640" end="00:18:41.710" style="s2">and GDP is actually not an emetic</p>
+<p begin="00:18:40.000" end="00:18:43.990" style="s2">it&#39;s an inadequate measure of progress</p>
+<p begin="00:18:41.710" end="00:18:48.280" style="s2">and when you fight a war when you have a</p>
+<p begin="00:18:43.990" end="00:18:50.650" style="s2">national catastrophe GDP goes up and so</p>
+<p begin="00:18:48.280" end="00:18:53.620" style="s2">we need better indicators of progress</p>
+<p begin="00:18:50.650" end="00:18:58.330" style="s2">and we need to make sure that when we</p>
+<p begin="00:18:53.620" end="00:19:00.190" style="s2">work with systems that our like we try</p>
+<p begin="00:18:58.330" end="00:19:03.450" style="s2">to optimize the system as a whole rather</p>
+<p begin="00:19:00.190" end="00:19:06.010" style="s2">than just work with isolated parts and</p>
+<p begin="00:19:03.450" end="00:19:07.540" style="s2">in the interest of time I&#39;m not going to</p>
+<p begin="00:19:06.010" end="00:19:09.670" style="s2">go through all of them but again I would</p>
+<p begin="00:19:07.540" end="00:19:14.080" style="s2">really encourage you to look at the PDF</p>
+<p begin="00:19:09.670" end="00:19:18.490" style="s2">when you when you get it another aspect</p>
+<p begin="00:19:14.080" end="00:19:20.650" style="s2">that is about that the key things that</p>
+<p begin="00:19:18.490" end="00:19:24.040" style="s2">that motivate us to actually become</p>
+<p begin="00:19:20.650" end="00:19:25.179" style="s2">active to step into this small actions</p>
+<p begin="00:19:24.040" end="00:19:27.910" style="s2">can make a big difference</p>
+<p begin="00:19:25.179" end="00:19:31.390" style="s2">attitude is to understand that we&#39;ve</p>
+<p begin="00:19:27.910" end="00:19:35.380" style="s2">been told an erroneous story about what</p>
+<p begin="00:19:31.390" end="00:19:37.450" style="s2">life is all about somehow it has crept</p>
+<p begin="00:19:35.380" end="00:19:39.970" style="s2">in that life is all about scarce</p>
+<p begin="00:19:37.450" end="00:19:42.940" style="s2">resources and survival of the fittest</p>
+<p begin="00:19:39.970" end="00:19:45.550" style="s2">and competition and some winners and</p>
+<p begin="00:19:42.940" end="00:19:48.010" style="s2">some losers this is how we set up our</p>
+<p begin="00:19:45.550" end="00:19:49.919" style="s2">storytelling and our storytelling is</p>
+<p begin="00:19:48.010" end="00:19:53.130" style="s2">powerful it creates the world</p>
+<p begin="00:19:49.919" end="00:19:56.370" style="s2">we we think we live in and we actually</p>
+<p begin="00:19:53.130" end="00:19:58.230" style="s2">bring forth a world and conversation and</p>
+<p begin="00:19:56.370" end="00:20:01.169" style="s2">I am originally trained as a biologist</p>
+<p begin="00:19:58.230" end="00:20:03.840" style="s2">and I can tell you that the way</p>
+<p begin="00:20:01.169" end="00:20:08.390" style="s2">evolution works since the beginning is</p>
+<p begin="00:20:03.840" end="00:20:11.070" style="s2">it is a process of diversification and</p>
+<p begin="00:20:08.390" end="00:20:13.470" style="s2">subsequent reintegration of that</p>
+<p begin="00:20:11.070" end="00:20:17.070" style="s2">diversity at higher levels of complexity</p>
+<p begin="00:20:13.470" end="00:20:19.529" style="s2">and this reintegration happens more</p>
+<p begin="00:20:17.070" end="00:20:22.049" style="s2">often than not through collaboration and</p>
+<p begin="00:20:19.529" end="00:20:24.269" style="s2">not through competition so while there</p>
+<p begin="00:20:22.049" end="00:20:25.980" style="s2">is a little bit of competition in the</p>
+<p begin="00:20:24.269" end="00:20:29.039" style="s2">world we have we&#39;ve seen the nature</p>
+<p begin="00:20:25.980" end="00:20:33.899" style="s2">programs where we see the lion kill the</p>
+<p begin="00:20:29.039" end="00:20:35.460" style="s2">the new it that&#39;s that&#39;s like ripples on</p>
+<p begin="00:20:33.899" end="00:20:37.620" style="s2">the surface it&#39;s like standing in front</p>
+<p begin="00:20:35.460" end="00:20:39.990" style="s2">of the ocean and being distracted by the</p>
+<p begin="00:20:37.620" end="00:20:42.809" style="s2">waves so much that you can&#39;t see the</p>
+<p begin="00:20:39.990" end="00:20:45.149" style="s2">water underneath but really life is all</p>
+<p begin="00:20:42.809" end="00:20:47.700" style="s2">about a sea of symbiosis and working</p>
+<p begin="00:20:45.149" end="00:20:51.600" style="s2">together in collaboration and if we</p>
+<p begin="00:20:47.700" end="00:20:53.610" style="s2">reconnect to that then we can refit in</p>
+<p begin="00:20:51.600" end="00:20:56.190" style="s2">because we are part of nature it&#39;s</p>
+<p begin="00:20:53.610" end="00:20:58.260" style="s2">another very dangerous bit of</p>
+<p begin="00:20:56.190" end="00:21:02.250" style="s2">storytelling when whenever you hear your</p>
+<p begin="00:20:58.260" end="00:21:04.380" style="s2">self or others use language in a way</p>
+<p begin="00:21:02.250" end="00:21:06.809" style="s2">where you have kind of groups culture</p>
+<p begin="00:21:04.380" end="00:21:09.419" style="s2">there and nature here remind yourself</p>
+<p begin="00:21:06.809" end="00:21:11.789" style="s2">and others that culture is an</p>
+<p begin="00:21:09.419" end="00:21:14.100" style="s2">epiphenomenon of nature we are first and</p>
+<p begin="00:21:11.789" end="00:21:18.059" style="s2">foremost biological beings and and so a</p>
+<p begin="00:21:14.100" end="00:21:20.460" style="s2">part of this movement of diversification</p>
+<p begin="00:21:18.059" end="00:21:22.590" style="s2">and subsequent reintegration of</p>
+<p begin="00:21:20.460" end="00:21:24.570" style="s2">diversity at higher levels of complexity</p>
+<p begin="00:21:22.590" end="00:21:26.789" style="s2">and really that&#39;s what we&#39;re called for</p>
+<p begin="00:21:24.570" end="00:21:29.460" style="s2">as a species right now with all the</p>
+<p begin="00:21:26.789" end="00:21:33.590" style="s2">converging crises we&#39;re facing if we</p>
+<p begin="00:21:29.460" end="00:21:35.940" style="s2">don&#39;t address them as one humanity and</p>
+<p begin="00:21:33.590" end="00:21:39.330" style="s2">redesign the human presence on earth</p>
+<p begin="00:21:35.940" end="00:21:40.250" style="s2">within the lifetime of the generations</p>
+<p begin="00:21:39.330" end="00:21:44.100" style="s2">alive today</p>
+<p begin="00:21:40.250" end="00:21:46.260" style="s2">then the earth will continue but</p>
+<p begin="00:21:44.100" end="00:21:47.610" style="s2">probably we will force the climate</p>
+<p begin="00:21:46.260" end="00:21:51.059" style="s2">system and all sorts of other issues</p>
+<p begin="00:21:47.610" end="00:21:52.950" style="s2">around the planet to a point where the</p>
+<p begin="00:21:51.059" end="00:21:55.769" style="s2">life-support system will not support</p>
+<p begin="00:21:52.950" end="00:21:58.230" style="s2">higher life-forms like human beings so</p>
+<p begin="00:21:55.769" end="00:21:59.070" style="s2">we will have greatly impoverished planet</p>
+<p begin="00:21:58.230" end="00:22:03.750" style="s2">without</p>
+<p begin="00:21:59.070" end="00:22:06.030" style="s2">we&#39;re a young immature species facing a</p>
+<p begin="00:22:03.750" end="00:22:08.970" style="s2">rite of passage and an opportunity to</p>
+<p begin="00:22:06.030" end="00:22:10.710" style="s2">grow up as a species and make a</p>
+<p begin="00:22:08.970" end="00:22:12.810" style="s2">difference and I feel like everyone in</p>
+<p begin="00:22:10.710" end="00:22:14.970" style="s2">this room being called to a conference</p>
+<p begin="00:22:12.810" end="00:22:17.130" style="s2">like this already knows this to some</p>
+<p begin="00:22:14.970" end="00:22:19.590" style="s2">extent and wants to be part of building</p>
+<p begin="00:22:17.130" end="00:22:23.670" style="s2">that tomorrow&#39;s land where there&#39;s still</p>
+<p begin="00:22:19.590" end="00:22:27.060" style="s2">a space for humanity another resource</p>
+<p begin="00:22:23.670" end="00:22:28.890" style="s2">that I would would like to encourage you</p>
+<p begin="00:22:27.060" end="00:22:31.740" style="s2">to look at is this book called</p>
+<p begin="00:22:28.890" end="00:22:34.200" style="s2">regenerative enterprises and it it again</p>
+<p begin="00:22:31.740" end="00:22:36.750" style="s2">looks at how do we build the subtitle of</p>
+<p begin="00:22:34.200" end="00:22:39.660" style="s2">my talk how do we build ikan systems of</p>
+<p begin="00:22:36.750" end="00:22:41.430" style="s2">collaboration and one of the things that</p>
+<p begin="00:22:39.660" end="00:22:44.490" style="s2">when I read this that really struck me</p>
+<p begin="00:22:41.430" end="00:22:46.830" style="s2">is designed for your own death if you</p>
+<p begin="00:22:44.490" end="00:22:48.540" style="s2">have an organization don&#39;t assume that</p>
+<p begin="00:22:46.830" end="00:22:50.870" style="s2">the most important thing is to keep your</p>
+<p begin="00:22:48.540" end="00:22:53.580" style="s2">organization going if you walk in</p>
+<p begin="00:22:50.870" end="00:22:56.700" style="s2">ecosystems of collaboration it doesn&#39;t</p>
+<p begin="00:22:53.580" end="00:22:59.190" style="s2">matter if you&#39;ve served your purpose for</p>
+<p begin="00:22:56.700" end="00:23:01.860" style="s2">five years ten years and then you merge</p>
+<p begin="00:22:59.190" end="00:23:03.870" style="s2">with another company or like with</p>
+<p begin="00:23:01.860" end="00:23:07.020" style="s2">another player in the field or you you</p>
+<p begin="00:23:03.870" end="00:23:10.310" style="s2">dissolve and all your skills feed other</p>
+<p begin="00:23:07.020" end="00:23:13.200" style="s2">businesses we very often create these</p>
+<p begin="00:23:10.310" end="00:23:16.470" style="s2">organizations in good attempt like green</p>
+<p begin="00:23:13.200" end="00:23:19.130" style="s2">peas or WWF and then they become so</p>
+<p begin="00:23:16.470" end="00:23:21.720" style="s2">massive that they become to some extent</p>
+<p begin="00:23:19.130" end="00:23:23.940" style="s2">self-serving first rather than</p>
+<p begin="00:23:21.720" end="00:23:25.440" style="s2">continuing fully with their mission so</p>
+<p begin="00:23:23.940" end="00:23:27.450" style="s2">just keep keep this in mind this</p>
+<p begin="00:23:25.440" end="00:23:29.580" style="s2">flexibility that death is life&#39;s</p>
+<p begin="00:23:27.450" end="00:23:33.000" style="s2">wonderful way to create plenty of life</p>
+<p begin="00:23:29.580" end="00:23:35.100" style="s2">death is not so boring</p>
+<p begin="00:23:33.000" end="00:23:40.290" style="s2">both on the personal level or the level</p>
+<p begin="00:23:35.100" end="00:23:42.120" style="s2">of your company so this is the book</p>
+<p begin="00:23:40.290" end="00:23:44.370" style="s2">where all of this is kind of put</p>
+<p begin="00:23:42.120" end="00:23:46.710" style="s2">together and don&#39;t worry you don&#39;t have</p>
+<p begin="00:23:44.370" end="00:23:48.390" style="s2">to buy the book it&#39;s it&#39;s on my medium</p>
+<p begin="00:23:46.710" end="00:23:50.130" style="s2">block and the block is linked at the end</p>
+<p begin="00:23:48.390" end="00:23:52.860" style="s2">so you can just read it chapter by</p>
+<p begin="00:23:50.130" end="00:23:55.100" style="s2">chapter and should you be interested if</p>
+<p begin="00:23:52.860" end="00:23:59.760" style="s2">you&#39;re interested also have a few copies</p>
+<p begin="00:23:55.100" end="00:24:04.620" style="s2">and again there&#39;s a number of questions</p>
+<p begin="00:23:59.760" end="00:24:06.480" style="s2">around how do we build stronger social</p>
+<p begin="00:24:04.620" end="00:24:08.730" style="s2">innovation and community participation</p>
+<p begin="00:24:06.480" end="00:24:09.980" style="s2">that there are from my book and the</p>
+<p begin="00:24:08.730" end="00:24:11.570" style="s2">images</p>
+<p begin="00:24:09.980" end="00:24:15.100" style="s2">I put in there just to if you&#39;re not</p>
+<p begin="00:24:11.570" end="00:24:17.330" style="s2">aware of Bali which is a network in</p>
+<p begin="00:24:15.100" end="00:24:19.610" style="s2">around the Philadelphia area and the</p>
+<p begin="00:24:17.330" end="00:24:23.330" style="s2">states called the Business Alliance for</p>
+<p begin="00:24:19.610" end="00:24:25.460" style="s2">local living economies to have a look at</p>
+<p begin="00:24:23.330" end="00:24:28.539" style="s2">their work it&#39;s it&#39;s a wonderful model</p>
+<p begin="00:24:25.460" end="00:24:31.549" style="s2">and anybody anywhere in Europe and</p>
+<p begin="00:24:28.539" end="00:24:33.799" style="s2">asking themselves how could we translate</p>
+<p begin="00:24:31.549" end="00:24:36.590" style="s2">what they did in the Philadelphia area</p>
+<p begin="00:24:33.799" end="00:24:39.950" style="s2">to our region and network local</p>
+<p begin="00:24:36.590" end="00:24:43.580" style="s2">businesses into this web of local living</p>
+<p begin="00:24:39.950" end="00:24:46.850" style="s2">of a local living economy and I would</p>
+<p begin="00:24:43.580" end="00:24:50.630" style="s2">would say that it&#39;s it will energize</p>
+<p begin="00:24:46.850" end="00:24:54.519" style="s2">your work in your region and coming to a</p>
+<p begin="00:24:50.630" end="00:24:57.409" style="s2">close just a little anecdote by my</p>
+<p begin="00:24:54.519" end="00:25:00.919" style="s2">colleague and and CEO at guy education</p>
+<p begin="00:24:57.409" end="00:25:03.380" style="s2">may East once shared with me her daily</p>
+<p begin="00:25:00.919" end="00:25:07.340" style="s2">practice in the morning and for me it</p>
+<p begin="00:25:03.380" end="00:25:09.529" style="s2">was an achy moment because be up to that</p>
+<p begin="00:25:07.340" end="00:25:12.559" style="s2">point I kind of got tired of the word</p>
+<p begin="00:25:09.529" end="00:25:15.289" style="s2">activist and because it felt too much</p>
+<p begin="00:25:12.559" end="00:25:17.570" style="s2">like fighting against something there</p>
+<p begin="00:25:15.289" end="00:25:19.250" style="s2">was always this I&#39;m an activist and I</p>
+<p begin="00:25:17.570" end="00:25:20.840" style="s2">don&#39;t like this and the banks are the</p>
+<p begin="00:25:19.250" end="00:25:25.159" style="s2">baddies or the government is the baddie</p>
+<p begin="00:25:20.840" end="00:25:26.840" style="s2">in em and so she told me that when she</p>
+<p begin="00:25:25.159" end="00:25:30.679" style="s2">gets up in the morning after her morning</p>
+<p begin="00:25:26.840" end="00:25:33.500" style="s2">meditation she asks herself what is it</p>
+<p begin="00:25:30.679" end="00:25:37.549" style="s2">that I want to activate with the power</p>
+<p begin="00:25:33.500" end="00:25:41.870" style="s2">of my attention today what what story</p>
+<p begin="00:25:37.549" end="00:25:44.320" style="s2">do I want to continue and we all can</p>
+<p begin="00:25:41.870" end="00:25:47.360" style="s2">make a big big difference every day</p>
+<p begin="00:25:44.320" end="00:25:48.950" style="s2">simply by asking ourselves that question</p>
+<p begin="00:25:47.360" end="00:25:52.340" style="s2">it&#39;s it&#39;s a redefinition of what</p>
+<p begin="00:25:48.950" end="00:25:55.100" style="s2">activism is about where do we put the</p>
+<p begin="00:25:52.340" end="00:25:57.710" style="s2">power of our personal attention what</p>
+<p begin="00:25:55.100" end="00:26:00.950" style="s2">kind of conversations do we have are we</p>
+<p begin="00:25:57.710" end="00:26:04.519" style="s2">building tomorrow&#39;s land in a way that</p>
+<p begin="00:26:00.950" end="00:26:07.639" style="s2">works for all or are we just Pickering</p>
+<p begin="00:26:04.519" end="00:26:10.760" style="s2">about why things aren&#39;t working today so</p>
+<p begin="00:26:07.639" end="00:26:14.389" style="s2">I would encourage you to just keep that</p>
+<p begin="00:26:10.760" end="00:26:17.720" style="s2">in mind and be mindful of how our</p>
+<p begin="00:26:14.389" end="00:26:18.510" style="s2">stories that the stories we continued</p>
+<p begin="00:26:17.720" end="00:26:20.880" style="s2">telling this</p>
+<p begin="00:26:18.510" end="00:26:25.350" style="s2">as we change really make a difference</p>
+<p begin="00:26:20.880" end="00:26:27.870" style="s2">and he can stay in touch with me it&#39;s</p>
+<p begin="00:26:25.350" end="00:26:30.990" style="s2">all along on the PDF you&#39;ll get and</p>
+<p begin="00:26:27.870" end="00:26:33.210" style="s2">these images really to show that we&#39;ve</p>
+<p begin="00:26:30.990" end="00:26:34.890" style="s2">got we&#39;re on the bifurcation point in</p>
+<p begin="00:26:33.210" end="00:26:37.710" style="s2">this complex system that we&#39;re part of</p>
+<p begin="00:26:34.890" end="00:26:40.020" style="s2">we have the opportunity of building a</p>
+<p begin="00:26:37.710" end="00:26:44.809" style="s2">more abundant world the world that works</p>
+<p begin="00:26:40.020" end="00:26:48.380" style="s2">for all at the global scale starting</p>
+<p begin="00:26:44.809" end="00:26:52.169" style="s2">locally but collaborating globally and</p>
+<p begin="00:26:48.380" end="00:26:54.150" style="s2">again if anybody ever tells you well</p>
+<p begin="00:26:52.169" end="00:26:57.090" style="s2">that&#39;s a great project how do we scale</p>
+<p begin="00:26:54.150" end="00:26:59.960" style="s2">it up that&#39;s the wrong question the</p>
+<p begin="00:26:57.090" end="00:27:03.600" style="s2">right question is how do we scale it out</p>
+<p begin="00:26:59.960" end="00:27:06.929" style="s2">because bigger isn&#39;t better bigger very</p>
+<p begin="00:27:03.600" end="00:27:09.690" style="s2">often destroys projects but scaling out</p>
+<p begin="00:27:06.929" end="00:27:10.530" style="s2">saying ooh Bali that interesting things</p>
+<p begin="00:27:09.690" end="00:27:13.559" style="s2">in the States</p>
+<p begin="00:27:10.530" end="00:27:15.630" style="s2">what can I take in terms of the DNA and</p>
+<p begin="00:27:13.559" end="00:27:17.520" style="s2">the core ideas of what they did and how</p>
+<p begin="00:27:15.630" end="00:27:20.309" style="s2">can I make it relevant to the bio</p>
+<p begin="00:27:17.520" end="00:27:22.260" style="s2">cultural uniqueness of place this is in</p>
+<p begin="00:27:20.309" end="00:27:24.660" style="s2">a nutshell what regenerative working</p>
+<p begin="00:27:22.260" end="00:27:26.640" style="s2">regenerative lis is all about you work</p>
+<p begin="00:27:24.660" end="00:27:29.700" style="s2">with people in place you get close to</p>
+<p begin="00:27:26.640" end="00:27:32.910" style="s2">the story of that place what that played</p>
+<p begin="00:27:29.700" end="00:27:35.130" style="s2">the essence of that place and you create</p>
+<p begin="00:27:32.910" end="00:27:37.080" style="s2">elegant solutions that are carefully</p>
+<p begin="00:27:35.130" end="00:27:40.110" style="s2">adapted to the bio cultural uniqueness</p>
+<p begin="00:27:37.080" end="00:27:42.630" style="s2">of place and I feel many of you are</p>
+<p begin="00:27:40.110" end="00:27:46.010" style="s2">already doing this and thank you for</p>
+<p begin="00:27:42.630" end="00:27:46.010" style="s2">listening to me for half an hour</p>
+<p begin="00:27:53.370" end="00:27:57.090" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

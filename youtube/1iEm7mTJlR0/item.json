@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "1iEm7mTJlR0"
+  },
+  "snippet": {
+    "publishedAt": "2019-01-11T12:31:06Z",
+    "channelId": "UC6vpXPhia3nVpBrKTGKZsoA",
+    "title": "A guided tour by David Orr of the Adam Joseph Lewis Centre at Oberlin College (2006)",
+    "description": "This video was recorded in 2006 during a short visit to Oberlin College. In it Prof. David Orr takes us through the main features of the Adam Joseph Lewis Centre ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1iEm7mTJlR0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1iEm7mTJlR0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1iEm7mTJlR0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Daniel Christian Wahl",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-01-11T12:31:06Z"
+  },
+  "_id": "1iEm7mTJlR0",
+  "publishedAt": "2019-01-11T12:31:06Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UC6vpXPhia3nVpBrKTGKZsoA"
+  ]
+}
