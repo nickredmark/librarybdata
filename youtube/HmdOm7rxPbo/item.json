@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "HmdOm7rxPbo"
+  },
+  "snippet": {
+    "publishedAt": "2017-06-22T03:44:08Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Apple 6: Compare Solutions",
+    "description": "Easily compare solutions for growing food, cleaning water, generating electricity, etc.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/HmdOm7rxPbo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/HmdOm7rxPbo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/HmdOm7rxPbo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Creates Something Amazing",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-06-22T03:44:08Z"
+  },
+  "_id": "HmdOm7rxPbo",
+  "publishedAt": "2017-06-22T03:44:08Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
+  ]
+}

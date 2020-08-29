@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "TStNdHrabCo"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-17T19:34:41Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Bret and Heather 39th DarkHorse Podcast Livestream",
+    "description": "In this 39th in a series of live discussions with Bret Weinstein and Heather Heying (both PhDs in Biology), we discuss the state of the world though an ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/TStNdHrabCo/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/TStNdHrabCo/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/TStNdHrabCo/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-08-17T19:34:41Z"
+  },
+  "_id": "TStNdHrabCo",
+  "publishedAt": "2020-08-17T19:34:41Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg"
+  ]
+}
