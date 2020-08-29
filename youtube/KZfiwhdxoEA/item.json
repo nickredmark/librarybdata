@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "KZfiwhdxoEA"
+  },
+  "snippet": {
+    "publishedAt": "2017-06-22T04:18:27Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Apple 15: Stopping over production",
+    "description": "Creating only what is requested. Using our data to minimize waste.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/KZfiwhdxoEA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/KZfiwhdxoEA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/KZfiwhdxoEA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Creates Something Amazing",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-06-22T04:18:27Z"
+  },
+  "_id": "KZfiwhdxoEA",
+  "publishedAt": "2017-06-22T04:18:27Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
+  ]
+}

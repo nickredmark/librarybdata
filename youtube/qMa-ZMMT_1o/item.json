@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "qMa-ZMMT_1o"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-27T01:12:36Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Meta Community: Final Conversation",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/qMa-ZMMT_1o/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/qMa-ZMMT_1o/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/qMa-ZMMT_1o/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Creates Something Amazing",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-08-27T01:12:36Z"
+  },
+  "_id": "qMa-ZMMT_1o",
+  "publishedAt": "2020-08-27T01:12:36Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
+  ]
+}

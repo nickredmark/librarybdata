@@ -1,0 +1,3442 @@
+howdy this is jim rutt and this is the
+jim rutt show
+[Music]
+listeners have asked us to provide
+pointers some of the resources we talk
+about on the show
+we now have links to books and articles
+referenced in recent podcasts that are
+available on our website
+we also offer full transcripts go to
+jimrutshow.com
+that's jimrutsshow.com
+today's guest is joshua bach he is vice
+president of research at the ai
+foundation
+he's previously been a research
+scientist at mit and harvard
+he is author of the book principles of
+synthetic intelligence
+psy that's psi an architecture of
+motivated cognition
+and he has published many papers i also
+have to
+add this he has one of the most
+interesting
+tweet streams that i follow you can
+follow him
+at plinz p-l-i-n-z
+and only some of it has anything much
+directly to do with artificial
+intelligence or cognitive science but it
+sure
+is entertaining he's certainly in my top
+handful
+of tweet streams that i enjoy following
+so let's start
+with understanding sort of your
+motivation how did you get into this
+and here's a quote from i think from one
+of your talks maybe it's from a paper i
+don't remember
+you said we need to understand the
+nature of a.i
+to understand who we are
+yeah i think that artificial
+intelligence is an idea is
+in some sense the missing link between
+philosophy and mathematics
+it's the attempt to make the execution
+of processes that allow us to use
+language
+and make it refer to meaning automatic
+and understandable and scalable
+and this basically allows us to ground
+our
+use of languages that have meaning in
+machinery that we understand in a
+mechanical universe
+this idea that the universe is
+mechanical might sound limiting to many
+people but it's not a very limiting idea
+it simply means
+that the universe is not magic that it's
+not built over
+um symbolic correlations or symbolic
+causation
+but over uh things that have no
+conspiracy inside of them
+and the other thing is that if you think
+of yourself
+as a system that has no conspiracy
+inside of it
+what kind of system is it and ai is the
+attempt to build a testable theory of
+what that is
+and if we are able to test that theory
+successfully we will have built a system
+that in the ways in which it matters is
+going to be like us
+which means it's going to be a system
+that is able to reflect on its
+environment and its own role in it
+and make a model of that understand that
+and understand its own nature as well
+right so this project of
+artificial intelligence in my view is
+something like
+a capstone of the certain philosophical
+tradition or maybe of all philosophical
+traditions of
+the question of what are we in this
+universe and what's our relationship to
+the universe
+that contains us what is the observer
+all the other questions come from that
+and so it's in my view the most
+important question there is
+yeah i have to agree that as i've gotten
+into
+artificial intelligence particularly
+artificial general intelligence over the
+last
+about six years i've started digging to
+it in some depth
+i've found myself being forced to ask
+just those kinds of questions
+which kind of surprised me right and of
+course we both know that not everybody
+interested in ai
+is interested in it at this kind of a
+level there's an awful lot of narrow ai
+these days which we'll talk about later
+the distinction between
+you know cognitive ai and narrow ai and
+artificial general intelligence
+and and more applied things so i take it
+that you would consider yourself
+not just an ai guy but also interested
+in artificial
+general intelligence i think that
+artificial intelligence is an attempt to
+reboot the original idea of artificial
+intelligence so it's basically
+agi and the original ai are the same
+thing
+when ai started out as a field it was
+done by a number of people
+across disciplines there were some
+cyberneticians there were running
+computer scientists computer science was
+just getting started
+uh some information theorists and even
+psychologists
+involved in the whole thing and the idea
+was
+we now understand how computers work we
+understand that
+everything that we understand we can
+express
+as constructive mathematical paradigm
+constructive mathematics is the part of
+math that works and it happens to be
+the same as computation so let's go and
+teach the computers how to think and
+the first generation of people that set
+out to do this
+were very optimistic they basically
+thought this is going to be
+an extended summer project maybe a
+couple years then we will have make
+made tremendous progress and as it
+turned out
+they did make tremendous progress with
+hindsight so they did
+a lot of amazing feeds like it didn't
+take that long to teach computers how to
+play
+decent chess which means chess that is
+much better than make
+abilities even before computers became
+superhuman chess
+and how to get this thing to do very
+simple language understanding
+simple planning and so on this didn't
+take long
+a set of programming languages that we
+used today almost all of them have been
+invented in their structure and
+principles in the first
+couple decades after ai has started and
+the effort was
+very much connected throughout computer
+science so in some sense
+almost everything that didn't work in
+computer science was ai
+and when it worked then it became
+something boring
+and ai has in some sense has been always
+the pioneer battalion of computer
+science and
+very very productive as a field but most
+of the people that work on it realize
+that
+this optimism of building a machine that
+thinks in
+a short time that is for instance within
+the time of a couple grand proposals or
+even
+your entire career that's very daunting
+it's probably not going to succeed
+so they're focused on things that uh
+were going to give results within the
+duration of a grant proposal or within
+the duration of a career
+and these also the things that were
+going to give you tenure so
+aia became more and more applied more
+narrow and it was about
+improving the automation of statistics
+and uh developing mathematics around
+that and theory around that and so on
+and it uh this philosophical project
+itself
+has only captured the attention of
+relatively few people in the field
+as philosophical projects happen to do i
+think in some sense that's
+correct and it's the right thing to do
+because philosophical projects are
+daunting hard risky and often have only
+marginal benefits so
+why not go for this thing that gives
+very tangible benefits
+right here right now and this is what
+the majority of the field did
+there are also some political upheavals
+within the field that happened right
+when minsky
+claimed that cognitive ai was in some
+sense the same thing as symbolic ai i
+think he made the wrong bet
+and minsky was somebody who was an
+extreme visionary
+but he was also somebody who wasn't not
+so interested in the visions of other
+people
+and so he's basically screamed at people
+that did cybernetics and that
+did neural networks and actively delayed
+the
+development of the dynamical systems
+models of cognition and of machine
+learning systems
+for more than a decade basically who
+moved the funding for
+neural networks and apparently also
+impaired the funding of cybernetics and
+contributed to the ending of
+cybernetics as a field in the us to get
+more
+i say suspect funding and airtime for
+his own approaches
+and in some sense it's not his fault
+that he could not see that he was not
+right
+that his approaches ultimately would
+lead to difficulties
+in grounding concepts and building an
+understanding that goes beyond symbolic
+systems
+but he inadvertently created a division
+between
+cognitive ai that was his own followers
+and disciples and everybody else
+and so the other people did not read prg
+anymore and they did not think about
+psychology very much anymore
+and this division within artificial
+intelligence between
+people that think about cognition and
+psychology and people that
+think about how to for instance process
+images and that
+how to interact with an environment uh
+this division
+lasts until today in many ways even
+though it's
+the gap is closing more and more yeah
+and and yet
+if you talk to people even at google
+they will admit
+late in the afternoon or after several
+beers that the reason they got into the
+field was something like agi
+absolutely when i entered university i i
+only did this because i wanted to
+understand how the mind works and that's
+why i studied computer science and
+philosophy
+and a few other things and it was very
+disappointing to me to see that
+philosophers were completely not
+into this mostly didn't understand the
+ideas that computer science
+has said developed during the last 50
+years at all
+and if so then only in a very
+superficial and derisive way
+and the computer scientists were not
+interested in philosophy
+and it was really depressing to me and
+uh i was not alone in this so
+when i was a grad student or not even
+grad students who basically
+post the equivalent of a bachelor other
+students would ask me when they entered
+the field and there was a tutor
+where can i do ai here who's offering
+real ai classes
+even though we had a very large and
+active ai department or university
+and so i decided that i had to offer ai
+classes right so as a student i started
+uh doing a seminar on building cognitive
+architectures
+and on thinking about the mind and so i
+got a dozen students who started
+building things with me and this is the
+origin
+of the microsci architecture by the way
+this is how i got
+into working in academia as a student
+ah that's a very interesting story you
+sort of reacted against
+the prevailing trends in academia where
+as you said earlier
+unfortunately the funding and
+promotional carrots you know
+rewards are focused on you know
+relatively small
+incremental steps against you know known
+benchmarks you know you raise the
+benchmark by
+half a percent and you have a paper you
+can publish when you publish seven
+papers you get tenure right
+and that's not the grand question of how
+do we make a machine
+that thinks sort of like a human are you
+still optimistic that we can create
+computer intelligences that are at human
+level and beyond
+of course i there is no obvious reason
+why we shouldn't
+there's nothing magic going on as far as
+we know in the brain
+i also don't think that there are and
+this might be very controversial to some
+deep open philosophical questions left
+that have to be answered what's what
+needs to be answered is
+a lot of technical details and
+for a lot of these details i think doors
+have opened
+to work on them in the last few years so
+uh even though i don't know how long
+it's going to take
+and whether it's going to happen in our
+lifetime i think there's a significant
+probability
+that we will see something that is not
+human-like but in many areas
+superhuman-like and then other areas
+good enough like uh within our lifetime
+or maybe even in the next few years
+yeah it's hard to say you know it's one
+of these damn questions it could be five
+years it could be a hundred years or
+more right and of course it also as you
+say
+depends on where you're measuring if you
+talk about every single facility it
+might be 100 years but
+if we're talking about superhuman
+capability in certain domains that could
+happen
+or frankly already has happened in
+narrow domains like image recognition
+under certain very constrained cases and
+those windows will
+open larger and larger and i will also
+say that one of the things that's made
+me more optimistic about superhuman
+capacity across the board is the more
+i've learned about cognitive science and
+cognitive neuroscience
+frankly how limited the human brain is
+things like working memory size
+fidelity of memory you know etc
+we're not that smart compared to what we
+could be working memory alone
+is a huge bottleneck on for instance the
+practical level of recursion
+in language and chunking size of
+concepts etc
+you know the low fidelity of our memory
+and lack of persistence is certainly a
+major cognitive limitation
+so i'm not one of those people who
+thinks that the humans are the top
+of the intelligence spectrum frankly i
+believe we're
+approximately the stupidest possible
+general intelligence which is not
+surprising you know evolution is
+seldom profligate with its gifts and
+since we're
+over line of general intelligence at
+least so it appears
+we're probably just over the line and so
+i'm
+one of those who is also very hopeful
+that we can get not just
+over the line but way over the line at
+least in some very interesting
+dimensions
+you know such as language understanding
+the ability to read the literature of a
+discipline and actually make sense of it
+etc i remember that i've always been
+very disappointed in the capacity of my
+brain as a child and
+later on and i also felt bad about this
+because at the same time i was
+confronted with
+the superstitious belief of most people
+that if you apply yourself there is
+basically no limit to what the brain can
+do right
+we could have maybe infinite memory
+maybe if we would just pay attention all
+the time
+we could read all the books and retain
+all the books we could retain all the
+movie maybe we could have photographic
+memory for everything
+maybe there is no limit to our
+intelligence if we really apply
+ourselves and meditate enough
+right and later occurred to me that this
+is probably not the case
+i do know uh many people that are much
+much smarter than myself and know much
+more than myself
+but it's often at the expense of other
+things so they it
+means that they tend to have a much
+narrower view on
+on things and know these things much
+much more deeply and
+apply their attention to exclusively
+these things and not to others
+of course there are some people which
+are way smarter than me across the board
+and
+i am totally in awe of them but still
+it's just a shorter human brain
+and this shorter human brain i still
+don't know
+how much compute we need and how much
+ingenuity we need
+to replicate the schrodiness of course
+right so even though we can see the
+limits of what it's doing
+to get this to run it might be possible
+that it's doable or something that you
+can
+as an average person already buy and put
+into
+your basement if you really want to so
+something in the order of
+say 20k of compute maybe that's possible
+and i'm
+optimistic enough to say that there is a
+chance that this is the case
+yeah attention i've had numerous
+discussions with our mutual friend ben
+gertzell about that
+right and you know i think we both have
+come to the view that
+i think it will turn out to be what is
+the appropriate level of representation
+my home academic discipline is
+evolutionary computing
+and in evolutionary computing again and
+again and again it turns out to be
+what is the representation on whether a
+technique will provide traction on a
+problem and so if it turns out that the
+actual right level of representation
+is indeed the neuron then probably 20k
+computers won't do it if it's symbolic
+you know truly symbolic and the
+old-fashioned ai sense then probably
+you know ten computers call it five
+thousand dollars worth
+will be enough but as i suspect if it's
+some hybrid between the two
+and kind of messy and has some very low
+level stuff and some very high
+level stuff and some transducers between
+them it may be on the order you know
+isn't my best guess and
+you know i think ben thinks my number is
+high but he agrees that it's a plausible
+ceiling
+essentially the equivalent of a thousand
+powerful
+desktop computers so we're talking on
+the order
+of a million dollars of hardware today
+if we got the right level of
+representation at it and of course a
+million dollars with the hardware is no
+barrier
+at all to produce something as valuable
+as human level
+artificial intelligence if we look at
+a thing like for instance gpt two or
+three the models that open ai
+has recently been working on in
+publishing and
+what goes into these models is a
+relatively
+moderate cause that still will drive
+academic researchers
+sweat on on their forehead but it's
+something like two digit
+million dollars that go into training
+these models
+and they are trained on a few years of
+almost a full take of the internet that
+has been filtered down to
+something that removes most of the most
+obvious crap and then
+if it's very basic the common crawl is a
+large part of
+what you will find in a text that's
+written in a given year on the internet
+and then uh it is able to go through
+this enormous amount of text that is
+like a very
+very large library there's lots of
+babbling inside
+and extract the all the meaningful
+correlations or a significant part of
+the meaningful correlations from it
+in relatively short time right it's a
+task that
+is way beyond what a large group of
+researchers could do in their lifetime
+and it's done in the course of a few
+days or weeks
+these computers and this is a tremendous
+achievement that you can do right and if
+you imagine you would have something
+that is only
+able to process these data at a human
+level
+across all modalities maybe you trans uh
+mocrify the data so
+you get the highest bandwidth possible
+in a nervous system
+that has a capacity similar to ours that
+would be a tremendous achievement if
+so much data could be processed and
+extracted in such a short amount of time
+and i don't mean that gpt 203 are
+human-like for me the fascinating thing
+is that they get so far
+that you have this a relatively simple
+algorithm you can produce
+embeddings over text and as they've
+recently shown images
+that allow you to make continuations of
+the text and the images
+that are basically uh surviving a type
+of turing test where the audience is
+unable to tell better than chance
+whether the text that they're looking at
+has been written by a human
+or whether the image that they're
+looking at has been
+uh generated by a photograph you though
+it's a lower resolution image
+yeah that is interesting i mean as you
+say this is not the way humans do it at
+all and
+i had looked quite a bit at gpt2 i
+haven't looked at gpt-3 yet
+and i did some experiments etc and
+wouldn't have fooled me for very long
+but
+apparently could fool some people but
+it's essentially
+you know an extraordinarily deep pattern
+matching system
+and is that all human language
+understanding is i don't know
+it seems to me that there's something
+missing in these brute force
+deep learning approaches when it comes
+particularly the language that yes it's
+amazing what they'll do you know
+the translation algorithms that google
+famously developed
+gpt2 and presumably gpt3 and gbt4
+someday
+you know may well be able to fool us but
+do they actually
+understand language at the level of say
+for instance
+reading every paper and every textbook
+in cognitive science
+and actually then being able to make
+some
+inferences about what's missing in
+cognitive science and what new
+theories or experiments are needed i
+mean that's the kind of thing a human
+could do not very well yet but that's
+what you know a professional cognitive
+scientist does
+could gpt-4 do that i don't think so
+the thing is that gpt uh 2 and 3 are not
+sentient apparently right so they have
+no
+model of a connected unified universe
+onto which they match everything that
+happens
+in real time and they understand their
+own role in it and so on
+it's not that they're far from it it's
+just that it's not part of their task
+then they haven't been asked to do that
+this model has not been trained to do
+such a thing
+and yet the capacity that this thing has
+is
+tremendous and there's a lot of people
+will say oh this is not grounded and has
+no connection to reality
+uh the question is imagine that all you
+would have
+as access to the world is your own
+imagination the only the mental space
+in which you can produce mental
+simulations and lots and lots of books
+and a way to parse them and at some
+point you basically try to
+hash out the space of possibilities in
+which all these symbols that you're
+confronting
+can possibly make sense and give rise to
+a universe that contains you
+is this something where you can prove
+our priority that this is impossible
+that something like gpt tours is three a
+simple text processor
+cannot hash it out based uh just on the
+finding one of the possible orders in
+the patterns after notice there are not
+that many
+and once it figured out the relationship
+between concepts in some kind of
+relational space that is dynamic and
+produces an evolving world can they
+start parsing the wikipedia articles on
+physics and all the papers on physics
+that they read and understand
+possible solutions to the big puzzles in
+physics and so on
+that allow us how to understand the
+automata from which our world is
+generated
+i don't know that gpt 3 is seems to be
+an incremental extension
+over uh gpd2 so basically uses
+magnitudes more data and
+the learning curves are not bending yet
+so it seems that you you can
+extend this even further and the quality
+of text that gpt
+3 is producing in terms of coherence so
+the illusion that this what it writes
+corresponds to a self-coherent universe
+where concepts are consistent for at
+least the duration of the story
+this is much much better than gpt2 so in
+gpt2 you could easily see
+when its construction fell apart then
+lost coherence
+and this is when the story becomes
+unbelievable right you are
+willing to entertain a completely
+fictional story about a completely
+fictional universe
+as long as it refers to a coherent
+universe
+it might be a fantastic universe one
+that doesn't make sense but it's one
+that
+works by certain rules like if you take
+buffy the vampire slayer is a fictional
+universe it's a
+universe where everything is normal for
+a sanitized version of normal it's a
+suburbia that doesn't really exist
+because it's so
+perfect and stereotypical and the only
+thing that's different from this
+perfect and normal and stereotypical
+world is that every year 20
+of the population dies because of an
+invasion of vampires
+and everybody goes on with their life
+and this
+is is probably not realistic right we
+know what happens if one percent of the
+population dies in every given year
+because to covet everything comes to a
+halt
+and so this is a universe that is only
+meant
+to highlight things in the stereotypes
+and the normal interactions by
+introducing this new element
+and deliberately leaving everything else
+that would be downstream from this
+unchanged
+and uh this is an interesting
+construction that our mind can make it's
+producing a universe that is derived
+from our standard universe with all the
+right constraints
+and it's referring to this global
+meaning and that it liberally
+only changes very few things by leaving
+the rest alone and
+the people who understand this
+understand these layers of meaning that
+exist
+and this would be an interesting
+benchmark to see how many layers of
+meaning can
+gpt 3 distinguish between construct
+versus gpt2
+uh with respect to the complexity of a
+brain
+uh i think it's possible that the unit
+is not the new one
+but that it's the column it might be
+that this is a simplification and the
+actual units are somewhat orthogonal to
+both neurons and columns
+so in some sense you have units that are
+made from
+columns you have some that are made from
+multiple columns and a couple neurons
+and you have some where the neuron and
+the couple neuro column and a couple
+neurons interact in a specific way
+or you could have processes inside of
+the new one that play an important role
+that you need to understand in order to
+model the behavior of that thing it's
+similar to
+understanding the role of people in
+society but there
+at a certain level of granularity you
+don't have people you just have
+organizations
+and yet to understand the interplay of
+the organization sometimes you need to
+look at individual people that play the
+role historical developments
+and uh to understand the behavior of
+these people sometimes you need to look
+into
+very particular things in their own mind
+that happened in a certain
+moment in history and without that you
+cannot understand it so this
+simple granularity that that we put on
+on the model
+it's often too coarse to to make it
+happen but if we
+just entertain the idea that columns
+might be the thing because there are
+somewhat ubiquitous over the neocortex
+they are interchangeable you can
+basically cut out
+non-specialized columns from the brain
+of an
+infant mouse and transplant them to
+another area of the brain and
+in their take they will adapt to
+fulfilling the role of that part of the
+cortex
+so the columns seem to be pretty general
+as far as we know right now
+and column is something like 300 to 400
+neurons
+so we end up with uh something like in
+the order of 100 million units and if
+you imagine we have give or take 50
+brain areas
+it would mean that each of these brain
+areas has in the order of a million
+units
+and the units can do way more than an
+individual neuron can do even an
+individual neuron would probably need a
+three-layer network to
+model it as a persopron but eventually
+what they do is that each of them can
+link up
+potentially with a few thousand other
+units
+and these few thousand other units are
+not what they're linked up permanently
+it's the address space
+it's what they can talk to and each of
+them has a number of states that they
+can have and dynamics that they can
+undergo
+set of functions they can model and it's
+limited what they can do
+right and so if you imagine that you
+could
+understand that each column is something
+like an adaptive agent that is
+doing local reinforcement learning by
+some policy
+and there's wired up into a global
+architecture with the others
+then maybe this does fit on a few larger
+gpus already in real time
+yep that could be now i want to clarify
+something that i in my readings in your
+book
+and your talks and papers you talk about
+100 million
+columns as i recall from my reading i
+actually did look it up this afternoon
+there's probably more like 100 million
+mini columns
+and a million columns columns seem to be
+made from multiple mini columns
+which ones are you talking about when
+you're i was talking about melee columns
+and the formation of columns is also
+different in different brains so for
+instance if you look at a mouse brain
+you will find that a large part of the
+neocortex
+seems to model the activity of whiskers
+okay yeah make sense
+and uh so the input space of whiskers
+and uh
+the columns form together into macro
+columns in a way which are
+almost like regions and
+the it's not like you could look in the
+brain you see very clear-cut
+cells that are uh it's just that you
+have groups of neurons that have more
+interconnectivity
+among each other and you lump them
+together in a column and you also find
+that they coincide usually with the glia
+cell around which they're formed
+but it's it's not by any means a very
+very clear-cut architecture and seems to
+be possible that neighboring columns
+that
+fuse and perform functions together and
+so on under certain circumstances so
+it's a lot more messy i think when we
+look into this in detail
+so you look at the mini column as the
+closest thing to a
+reasonably generic unit okay that's good
+yes but it's really something very
+i'm already squinting a lot and possibly
+too much another thing that i wanted
+to or put on my mental stack when you
+mentioned it is the question
+of whether we are just the least
+intelligent
+thing that is generally intelligent in
+nature and
+so i wonder is why there is nothing that
+is obviously smarter than us in nature
+because evil for a monkey it's hard to
+have a brain that is larger than ours
+there are brains in nature that are
+larger than ours right whales have
+larger brains elephants have larger
+brains
+why is it that whales and elephants are
+not smarter than us because they
+basically carry these brains around for
+free right they have so large bodies
+that they scaled up the brain with the
+body size and it's not that they need a
+proportionally larger cortex
+to control a proportionally larger
+muscle this is true for the body map but
+only a very small part of the brain is
+your somatosensory cortex
+so what do they do with all this extra
+capacity
+why is it that they are not that smart
+and
+i suspect that if you make a system too
+smart
+it's very hard to control it it could be
+that elephants have
+uh massive autism because if they uh the
+non-autistic elephants meditated
+themselves out of existence
+they basically started to understand
+their role in the universe like
+very smart monks and then as a result
+they decided that uh doing
+office politics all day and having kids
+and participating in society
+is just not cutting it and instead they
+just go to do something more interesting
+with their lives like meditating
+and these elephants didn't have a lot of
+offspring who knows that is the question
+so i wonder
+if this is a crazy idea i like that
+it is a very crazy idea that's weird
+that's i like that i'm going to lay that
+one on somebody and say
+oh yeah we only have autistic elephants
+because elephants would otherwise be so
+smart that they would you know be too
+busy philosophizing to reproduce
+i mean with the dolphins it's obviously
+it's slightly different that dolphins
+they live under water and you cannot
+really hold a pen
+underwater because everything you write
+down will be washed out
+so there will be no uh life for
+intellectuals
+because they cannot read it right
+underwater so the
+dolphins all only talk about sports and
+celebrities and sex
+and their society is not moving anywhere
+and they have three dimensions too
+that's another thing you know it
+requires
+a better brain to operate in three
+dimensions at the speeds they operate at
+right
+but navigation is so much easier right
+because you don't have to
+solve all these not puzzles you can just
+move where you want to
+yeah and there's collisions are much
+less likely right when you're stuck in
+two dimensions collisions are constantly
+undermined three dimensions it's easier
+to dodge
+right yes you'll probably also notice
+that self-driving airplanes are
+completely common
+and standard for many many decades now
+while self-driving cars are
+difficult yep that's a good point
+because the navigation that you need to
+do on the ground to coordinate with all
+the other things that are limited to two
+dimensions
+and have so many crossing paths are just
+harder yep i love that
+yes or geometry and cognition come
+together and that's exactly the right
+answer
+let's jump back a little bit to a point
+you passed over rapidly
+but i would love to dig into a little
+bit which is your statement that
+in your belief the philosophical
+questions
+are sufficiently answered to to proceed
+what is your take on the nature of the
+mind
+are you a strict materialist i suspect
+that there is a misunderstanding with
+respect to what
+matter means i found that a lot of
+people
+think that matter is immediately given
+somehow that we
+have seen atoms and touch them and the
+molecules and
+the earth on which we stand and the
+earth of which we move
+and while this is experimentally the
+case for the earth and the air
+it's not so quite true for the atoms and
+the underlying structure right
+and when we look at this in more detail
+it just turns out that what we mean by
+matter
+is a way to talk about information
+and what we specifically talk about is
+the way that we can measure change and
+we notice that we can measure changes
+periodic changes in place which we call
+matter
+and we can see how these periodic
+changes in place move between places
+across locations and this is what we
+call momentum and the decryption of the
+universe in terms of matter and momentum
+is what we call physics right so physics
+is the set
+of functions that describes how adjacent
+states of
+the universe are correlated and the
+idea of physics is that we explore the
+hypothesis that there is a course of the
+closed
+lowest layer and the whole thing this is
+what foundational physics is about
+what's the close
+causally closed lowest layer that
+describes this entire
+universe that we are in and this
+hypothesis is that this layer exists and
+it's discoverable to a large degree and
+can be described or inferred is a very
+successful hypothesis
+and this hypothesis doesn't have a
+really good contender there is not
+another game in town that is quite
+plausible
+and what would that other game look like
+and typically we
+confronted with the notion of idealism
+so instead of
+matter being primary and matter being
+the way information travels
+in something like a mathematical space
+so set of discernible locations
+and trajectories that the information
+can take between those locations
+we think that the mind is possibly
+primary so the conscious experience is
+primary and subjectively that's true
+right
+consciously experience is uh affecting
+and now
+that we have given here in this moment
+and this now is not the same thing as
+any particular physical now
+the physical universe is smeared out and
+uncertain
+with respect to that it has a very vague
+and weird relationship to this
+experiential noun that is
+immediately given and if we make the
+step to say that this experiential now
+is everything where
+something can be real an experience is
+real by any observer
+in the physical universe there's nothing
+out there that can experience something
+that can
+be confronted with a reality because in
+physics there's just automata
+only unfeeling mechanisms everything
+that is real
+is in a dream it's in here with us in
+this thing that we perceive that as
+colors and sounds and
+feelings and so on right so
+if we make that thing primary there
+still needs to be an outside that dreams
+us
+what is the thing that dreams us that
+produces the dream that you're part of
+the dream in which physics takes place
+from our perspective and which
+where we construct our ideas of physics
+and everything else
+and that thing out there this outside
+world that we cannot access
+this is still physics if we are dreamt
+by a mind
+on a higher plane of existence then it
+turns out that this higher plane of
+existence
+is still the skull of a primate with a
+brain inside of it
+and that a higher plane of existence can
+be modeled with the ideas of physics
+it's not changing anything
+yeah but is that necessary or when we
+talk about let's say
+human minds emerging from brains you
+know i
+you know i'm i'm kind of a naive realist
+myself maybe i'm too naive but
+i think you know there is a physics out
+there and physics
+emerges to chemistry and chemistry is
+very
+stable and predictable and from
+chemistry we get biochemistry and from
+biochemistry we get
+biology and from biology we eventually
+get neurons and then neurons we
+eventually get nervous systems
+eventually
+we get brains and at some point probably
+around the time of the reptiles or maybe
+the amphibians we finally got
+mind which is the subjective state
+then mind is a new subjective state
+that is packaged within physics i think
+that's the alternative way of looking at
+it
+i suspect that you don't need to uh tell
+the story from this direction you can
+spend
+hundreds of years sitting in your
+monasteries in
+tibet or whatever and be super smart and
+have all the time in the world of your
+hands because you convince the local
+peasantry to give you free breakfast
+every morning
+because you're a holy man you sit
+together with other other smart holy men
+and you write books and discuss
+psychology
+introspectively at the level that
+western psychology still
+doesn't quite master and you do
+understand many parts of the mind and
+how they interact and so on
+and you never ever venture out to
+describe physics for some reason right
+it's not necessary to do so
+because you do not intend to
+revolutionize society
+and invent new means of production make
+everything more efficient because that
+would probably destabilize society
+so you leave that as it is and society
+outside is something like a periodic
+process that you try to organize as well
+as you can so it's
+somewhat stable but you don't want to
+turn it into a runaway pro
+processes technological progress so why
+would you want to look into physics
+you don't need to do that right so many
+cultures only focused on this mental
+perspective
+and the inner structure of perception
+first
+and uh not at the outer structure that
+enables it
+but if you're not looking into physics
+from our perspective you are leaving
+money on the table if you ignore
+this entire scope of models that work
+out that do
+have predictive power tremendous
+predictive power they allow you to build
+machinery
+that all these other civilizations could
+not build and even think and reason
+about and
+did not even start to consider possible
+because it was nothing that they waste
+any ideas on what you can do in the
+mechanical universe
+it's it's possible to do that to leave
+all that on the table
+and our culture is a little bit weird
+because our civilization is not that old
+i think it just started 400 years ago
+and we are mostly unaware of that
+civilization break that we had when we
+got out of the carts and the catholic
+civilization is one that
+obfuscated the area of the mind because
+it made it all part of a mythology
+so you didn't have the free space to
+reason about psychology
+within the catholic society all this was
+taken up
+by god's interfering with the selves on
+the same brain
+people were in some sense discouraged to
+study psychology because it might
+interfere with religion
+and the physics that they engage with in
+was also somewhat crude because access
+to rationality needed to use
+certificates that you would not
+accidentally disprove religion interfere
+with it
+because it was in some sense an
+anti-rationalist system that people had
+to live in
+and what we did was we freed our
+rationality
+for the first time in thousands of years
+and this new rational society that woke
+up with the enlightenment
+dismissed all the stories about the mind
+that the christians had ever told them
+and thought of them as superstition so
+we last lost many concepts and we are
+still in the process of restoring them
+for instance i'm fond of saying that
+spirit is a word that we have dismissed
+now as superstitious and
+it's an old word that just means
+operating system for an
+autonomous robot and when the word was
+coined it just
+meant that the autonomous robots that
+existed
+so there were people there were plants
+animals
+cities nation states even possibly
+ecosystems
+but this was it there were no robots
+that people had built
+and now that we have autonomous robots
+and they have operating systems
+we understand that there is something
+like an operating system and that humans
+must have one too and
+plants must have one as well and
+obviously societies and civilizations
+have some kind of operating system right
+and we understand that this operating
+system of society is
+is not real it's virtual it exists over
+the
+coherent interactions of individuals in
+the society in the same sense as the
+mind
+does not exist as a physical thing it
+exists over the coherent interactions
+of the neurons or whatever are the
+constituting parts
+are yeah well i think that's a very
+important distinction and you know in my
+study of complexity science
+the way i will often say that is
+reductionist science you know
+let's call it old-style science is about
+the dancers
+while complexity perspective is about
+the dance
+and the dancers right so the things that
+hold together let's say
+a business company they're virtual
+they're abstract
+you know that you can't put your finger
+on a particle and say this is
+the operating system of a business and
+yet the business is real
+it is a series of coordinated actions
+operating on signals with boundaries and
+semi-permeable membranes
+it has feedback loops i think that's key
+and you make that point as well in some
+of your writings that feedback loops
+are absolutely critical in creating
+higher levels of complexity and systems
+at least they appear to be you know for
+instance in one of my critiques of our
+current operating system
+is that our current society level
+operating system is overly
+driven around the money on money return
+loop
+you know everything is in the business
+world and frankly in many many people's
+personal world
+is all about optimizing money on money
+return
+and that has produced many of the less
+than desirable characteristics of our
+era
+but that is a real thing the flow of
+money is a
+information processing modality which
+ends up coordinating
+behavior of actual atoms and we'll get
+down to the emergenciest's
+argument about what is top down
+causality but one could argue that
+a society organized around money on
+money return has
+top down causality and that it requires
+you know mary and joe to get up at seven
+o'clock in the morning drive for an hour
+and work in a job for eight
+hours
+and drive an hour home again so i think
+this broader concept
+of you know what is real to include you
+know complex adaptive systems
+gets around this false distinction
+between dead matter
+and live systems the notion of the
+feedback loop is very old i suspect that
+every
+state craft that builds societies
+deliberately had to have this notion of
+feedback regulation in it
+and understanding of nature i find this
+already in
+aristotle and in our intellectual
+traditions
+throughout the times this notion of the
+feedback will be pointed in number three
+where he describes that there must be
+systems of competing springs in the mind
+that
+pull and push against each other and
+keep it in some dynamic balance
+and uh and so it's a very
+classical notion and it became the core
+of cybernetics and control theory
+and it was a very popular paradigm for a
+very long time
+but i also suspect that there is a
+little bit of traditional superstition
+around the first and second generation
+of dynamical systems theory
+especially second order cybernetics in
+the sense that we
+attempted to think of these dynamical
+systems as real
+and i suspect that they are just models
+they are not real
+they are the behavior of too many parts
+to count in the limit
+when we describe how individual things
+interact we can often track them and
+see the low level processes that
+change the evolution of one system
+across the boundary
+of uh by another and if you can no
+longer do that because you're looking at
+trillions of molecules for instance you
+you will have to resort to models that
+look at
+the statistical dynamics of these too
+many parts to count
+and some of the resulting mathematics
+have convergent results
+and others have not and the geometry of
+the world that we're looking at when we
+look at dynamical systems this is
+typically the stuff that is convergent
+where we
+can make models and so turns out that
+newtonian mechanics is
+these convergent dynamics of too many
+parts to count within certain ranges
+it's not real because you cannot really
+make newtonian mechanics perfectly
+working
+from individual parts it's only within a
+certain region of many many parts
+too many parts to count that you get
+something that looks a lot like
+newtonian mechanics
+and for a different region it's true for
+einsteinian mechanics right
+but these systems are not real it's just
+a level of the modeling
+that gives you coherence so when you are
+an observer and you zoom into the
+universe that contains you and the many
+many parts that make up yourself
+you basically will often find layers of
+description
+where you can make a coherent model and
+these are the ones that we latch on as
+description layers and then we discover
+that they form a hierarchy
+and then we try to establish causal
+relationships between them
+but these false relationships are not
+causal relationships that exist in the
+physical universe
+personality is a model category it's a
+property of the models that we are
+making
+so when we talk about these big
+conundrums like the mind-body problem
+you're not talking about how is one
+physical set of things
+like bodies connected to one other
+possibly non-physical set of things
+minds what we have to talk about is we
+have here one category of model
+that is our body map that is dynamically
+arranged in space and articulated with
+skeletal muscles
+and on the other hand you have mental
+states and mental processes and software
+states and so on
+and these two disparate categories of
+models
+how can we make them congruent well
+they're actually they obviously
+have to operate together you know i was
+going to give an example
+about what does reality and models
+really mean
+we talked earlier about companies right
+that they're virtual
+you can't really put your finger on
+saying that's the company right it's a
+standing wave essentially of action and
+motion
+but they're real in the sense that they
+have traction in the physical world
+and that's i think a reasonable
+assessment of what is real
+as an example think of a coal mining
+company a company who digs coal out of
+the ground
+so in terms of traction in the real
+world they dig holes
+and they deliver coal to people who turn
+it into energy so there are actual
+things that are done in the world by
+this virtual thing
+called the coal mining company and
+obviously trying to
+track that at the level of atoms would
+be ridiculous
+and even tracking it at the level of
+human beings would be exceedingly
+difficult
+and would maybe if you had billions of
+dollars you could simulate a coal mining
+company at the level of individual
+humans
+but interestingly at the level of
+abstraction of accounting
+it's quite simple right and people make
+large bets
+based on the future of one coal mining
+company versus another
+based on the signal very abstract very
+high level of accounting information
+that comes out
+and the result is company a gets smaller
+and company b
+gets bigger based on people's
+assessments of this high-level
+information
+and yet at the end of the day we have to
+say that the mining company is real
+because it is having very significant
+impact on the real world well not
+everything that has a significant impact
+on the real world is real
+in the in a particular sense right so
+you could say that ideas have a
+significant impact
+on on the real world and it's very often
+difficult to say what the idea actually
+is because it only exists approximately
+across
+minds right so if you think about a
+political movement
+how would you say that the political
+movement itself is real if the idea
+behind the political movement is
+understood by most people in different
+ways but for a company it's much much
+easier because we have a software uh our
+legal system
+that defines the conditions under which
+a company exists
+right and so you have a criterion by
+which you can decide whether the company
+is there or not
+and what state it is in but this is
+because we have created
+a substrate for the company to run in
+it's similar to what happens in our
+computers we have a build a
+deterministic system
+with clear rules that allow us to decide
+whether a bit is set in the gate or not
+or in a register or not
+and this allows us to construct
+extremely precise models of the behavior
+in the computer and pre-ordain the
+behavior of the computer
+it's a very specific thing that is
+probably
+different from mines where the state
+that the mind is in
+is still somewhat probabilistic yes
+i would say that is true but it also
+seems to be
+at least in many cases in nature that
+emergences to higher level
+structural entities are built from
+relatively well-defined lower level
+units
+and when you lack those more defined
+lower level units it appears to be more
+difficult to get emergent
+properties to come into being so for
+instance
+you make the good point that the fact
+that our laws
+are relatively uniform and they result
+in currency that has equal value
+and that people can only be exploited so
+far because of the limits of the law so
+at some level they're
+almost fungible may actually be part of
+the mechanism that facilitates the
+emergence
+of the mining company perhaps in the
+same way that
+the fact that neurons while they of
+course they vary
+there's at least 100 different varieties
+are not
+that different compared to non-neurons
+right they are
+relatively fungible units of
+construction
+and they give evolution something to
+work with to produce
+higher level emergencies in this case
+mind
+and we take mind to be not just human
+minds but minds all the way down
+to wherever minds first come into being
+on our evolutionary tree
+and so i think that's interesting an
+important thought that
+we typically have a level of emergence
+that has relative simplicity at the
+outer
+envelope of the component pieces at that
+level and that those combining
+allow us to reach the next level of
+emergence
+but we also know that the rules that are
+implemented in the world that are so
+uniform and so on for instance the
+financial system needs to be in order to
+work to be implemented in a way that is
+rather uniform
+you don't have large opportunities for
+arbitrage right
+where they have leaky abstractions and
+yet we both know people that got
+extremely wealthy by specifically
+looking for the fine print
+absolutely and not of these no systems
+are perfect right biology
+is subject to attack by viruses for
+instance right a virus is not actually a
+biological entity
+it's essentially a flaw in biological
+systems
+that they're exploited by dead chemistry
+in the same sense that
+arbitrage yours are essentially like a
+virus operating on
+business looking for the flaws in the
+system and there will always be them
+so the two interesting questions one is
+how much fine print is there in the mind
+so
+in to which degree does the mind not
+emerge over the activity of neurons for
+instance to which degree is this
+simplification and uh to which do we is
+it a very good abstraction and should
+guide all of our thinking and not and
+there are some people which
+uh feel that the neurons are not the
+right description at all and might have
+even superstition connected to that
+but i think it's still worth keeping
+that in the back of the mind so that
+there is usually some degree of
+fine print involved when we make such
+models and circumstances
+under which this is not the entire truth
+and more interesting things are going on
+with respect to viruses right the
+coronavirus is not a life form it's more
+like a text
+that the cell cannot help itself not to
+read
+and when the cell reads this text it's
+doomed because it cannot
+sandbox the idea that is contained in
+the text it will have to turn it into an
+action
+and these viruses exist also in society
+in a way right
+but it's not as if the cell or the
+biological life
+ever existed for a long time at least
+without these viruses
+these viruses have been around briefly
+after cells came into being probably so
+the cells already contain a lot of
+viruses the all the existing cells are
+the result of many many interactions
+that they had with viruses many of which
+permanently migrated into the cells that
+later on divided and became
+us right so the same thing is true for
+societies a lot of the ideas that we
+have
+are the result of the interaction with
+viruses
+that interacted with the pure
+host ideas that had been formed in a
+natural convergence rather than
+being an infection process that
+interacted with the natural convergence
+state of a virgin mind
+and then took roots in there and formed
+an immune system to make sure that
+competing ideas don't
+take root in the same mind and so on
+exactly i've often used the term memetic
+viruses
+for you know radical ideas that
+challenge the status quo
+you know for instance the scientific
+revolution of you know starting around
+1700
+and probably reaching its pinnacle at
+least with respect to
+the christian thing that came before
+with darwin
+were some very virulent memetic viruses
+that were brought out by individual
+thinkers and collectives of thinkers
+and they put a substantial hit on
+the pre-existing status quo model the
+universe so i think you know
+that concept of virus more broadly
+constrained makes a lot of sense
+there's of course the question whether
+the virus increases the fitness
+of the individual in the group and it
+seems to be quite obvious that if you
+look at society that the
+uh viral evolution the memetic evolution
+does not necessarily have to lead to
+improvements nor does the
+biological ones don't either right in
+the long run i think that the things
+that
+don't work out are uh going to be uh
+removed from the playing field this is
+how evolution works
+but it can be a temporary breakdown of
+complexity that you observe so it could
+be for instance that you
+have a species that spreads over a very
+large area of your ecosystem
+and is very homogenous and this makes it
+very susceptible to
+an infection and then the entire
+population gets or large part of the
+population gets
+wiped out by a relatively simple attack
+vector
+and if you have more diversity across
+species you have more resilience
+against viruses and the same thing can
+happen in a society so
+everybody is using the same kind of
+social media and the same
+news sources then society can have very
+homogeneous virus infections
+and as long as the virus is adaptive in
+the sense that it makes the group
+coordinate better
+it can even convey an evolutionary
+advantage on the group and make the
+group out compete other groups
+so i wonder to which degree we are the
+result of such a viral domestication
+process that
+we basically are living in a
+civilization that has
+out-competed other civilizations because
+people in it
+they're very susceptible to this same
+mind viruses
+and as long as the viruses of
+accompanied with some kind of church
+and an immune system like an inquisition
+that would make sure that everybody
+would
+be susceptible to the same viruses and
+not rogue viruses
+right the society is possibly more
+successful than other societies
+and then if you remove the church and
+you have all these superstitious people
+without
+individual epistemology in any kind of
+firewall against rogue ideas
+that have no chance of being true when
+seen uh edited with bright eyes
+that this might create a dangerous
+situation where your society just falls
+apart because it splinters off into
+random cults
+yeah we're running that experiment right
+now right possible
+it's also possible that everybody just
+suddenly seeing the light at the same
+time right and
+this amazing thing happens that after a
+several thousand years of human
+evolution we suddenly get to the point
+where we have the right moral opinion
+about everything that we didn't have in
+the
+1500s or in the 1800s or in
+the 1950s or the 1970s or 1990s
+now we see it of course everybody thinks
+that they always think that they're
+right every epoch thinks that they're
+right but
+i do think that one of the you know the
+experiment that we're running of memetic
+viruses everywhere
+and eliminating many of the quality
+control mechanisms that more autocratic
+regimes have
+may destroy us or may take us in a phase
+change to the new level
+and that's you know what some friends of
+mine myself are working on is can we get
+to a new level of civilization well
+not all of our answers will be the right
+ones but they'll be a lot more right
+than the status quo in particular
+learning how to operate within the
+limits of our ecosystem
+the current status quo seems to have no
+breaks on it it does not know how to
+stop
+it keeps producing new things whether
+they're actually good for us or not and
+indeed many of them are dangerous to the
+continued existence of the human race
+think nuclear weapons
+just finished reading this weekend a
+very interesting book by
+william perry and another fella
+reminding us
+there are still way too many nuclear
+weapons out there and if there should be
+just a mistake
+it could knock us back to the stone age
+quite easily right
+let alone things like crispr or ai risk
+etc which we'll talk about in a little
+bit so
+anyway that's interesting but let's move
+back to our topic a little bit here
+and let's go all the way back in time in
+fact before modernism
+really got started right at the cusp
+with renee descartes and dualism
+dualism seems to be a
+strong attractor to this very day right
+and a place against that a view of
+talking about consciousness here
+essentially or the mind or the spirit or
+whatever we want to call it
+descartes of course famously believed it
+was of a different substance
+than the body or energy or signals it
+was
+you know literally something very
+unclear on how it interacted with
+the physical universe but it was of
+different substance
+while someone like john searle who i
+have found to be one of the more
+interesting philosophers of
+consciousness
+argues that no consciousness or mind
+more broadly
+is nothing but an emergent system from
+biology
+very much like digestion and like
+digestion it comes at a high energetic
+and a high genetic cost to keep it going
+and
+you know those two seem to be the poles
+of our historical thinking and yet the
+cardian
+dualism still seems with us i wonder to
+which degree
+uh the generation after descartes has
+basically simplified his
+thinking and that is especially apparent
+when you look at occasionalism
+the question of how the spheres interact
+how is it possible that the mental
+sphere
+and the physical sphere can interact
+when the physical sphere is causally
+closed right it's if
+the mental sphere doesn't need to be
+causally closed it's possible that
+something
+is getting into your dream and messing
+with it but how is the dream world
+interacting with the physical world if
+the physical world doesn't need any kind
+of
+external interaction to go with that and
+there must be a reason why descartes
+didn't see this as a very big problem
+also what i find is when i read his
+texts
+he is often smarter than people give him
+credit for
+for instance in the meditations he will
+interact with religion
+in the same way as somebody saying
+communism might interact with the
+political dogma that is he will make a
+nod to it
+and pretend to see no reason to doubt it
+and but will it defend it with this
+implosively weave arguments
+so that everybody who is able to uh
+to get to the to a certain point in
+their own thinking realize
+this is not an argument that is good
+enough to actually make a point
+that this person is highly incentivized
+to make then you only need to
+make the next step and understand oh
+maybe descartes was smart enough to
+understand this
+as well and smart enough to understand
+that i would possibly be smart enough as
+well to understand this
+so we now we got this out of the way and
+understand why he wrote it
+right there is a reading of the card
+that is relatively straightforward and
+that is
+that both substances are mental
+substances in a way
+so res extensor is the thing that for
+instance jeff hawkins
+numenta is so obsessed with this idea
+that
+everything that happens in the mind is
+in some sense a representation
+that maps to a certain region in the
+same three-dimensional space
+the same free space is here a model
+right it's the
+space that our mind models about the
+universe
+and this interpretation of jeff hawkins
+is not complete because our mind also
+has a lot of content that does not refer
+to anything in the same moving free
+space
+so if you would say these two categories
+of mental thought the physics engine
+that our brain is generating to deal
+with
+predicting sensory data across all
+modalities and all
+modalities will be mapped on that
+physics engine right everything that you
+hear and see and touch is mapped onto
+the same three space
+and all the other things this would be
+your skogi tens this is not res extensor
+so just
+say res extensor is the physics engine
+that your mind is generating
+whereas cognitives is everything else
+and now you can easily see how they
+interact
+who's our software yeah i want to hop
+back to a comment you made earlier about
+the mind
+not being causally closed do we know
+that
+is it possible the mind is causally
+closed it's just very complex
+the question is what kind of causation
+you observe in the world and
+this was an idea that first occurred to
+me when i was
+a kid and was playing on on telnet
+there was a class of computer games
+which were called nuts they still exist
+in a way but most of them are now
+graphical
+multi-user dungeon adventures and many
+of them were implemented in an
+object-oriented language that allowed
+you to create an arbitrary world from
+text and this was very much like a text
+adventure but it was a text adventure
+that was dynamically evolving
+and in which people could interact
+across many computers so they would log
+into the same server
+and each of them would have a virtual
+character and avatar
+that would play in that world and some
+of the people advanced to the point
+where they would become wizards
+and even gods and a wizard a magician is
+somebody who has
+right access to the rules of reality
+somebody who cannot just use the surface
+layer of reality that
+is producing its a certain mechanical
+structure
+a certain substrate but you can go in
+the substrate beneath that
+and the substrate beneath that change
+the rules by which everybody else has to
+play
+right this is what magic is about it's
+also what magic is in a real world
+about a which is somebody who focuses on
+the way in which other people construct
+reality
+and messes directly with that layer so
+the people around the witch
+will have a reality that is open to the
+attacks
+by witchcraft by the right access to the
+attention of people
+to the way that people perceive their
+own relationship to reality into the
+bitch
+there was the reason why the witches
+have met the
+similar fate under the expansion of
+christianity as the jews did under the
+expansion of fascism
+it's basically a competing system of
+seeing the world
+that the dominant new vector did not
+seem to be compatible with its own mode
+so it tried to eradicate it so uh
+witchcraft in these games existed right
+it's a way to make people perceive
+reality different by
+changing rules by which people have to
+perceive reality
+and interact with it and uh this
+witchcraft exists in our mind there are
+ways in which we can perceive miracles
+and make other people perceive miracles
+it comes down to
+creating a mental entity that you can
+control in the mind of another person
+that is changing the other person's
+memories and perceptions
+and as soon as you notice that you can
+edit your own memories and you
+catch yourself editing your own memories
+uh you notice that the
+interaction the causality in your mind
+is symbolic there is stuff going on like
+you uh perform a certain ritual that
+involves maybe sacrificing a black cat
+and as a result things in the real world
+change
+that are not obviously mechanically uh
+connected to
+the sacrifice of the black cat right
+it's a completely symbolic interaction
+the power of symbolic rituals can only
+be explained i think by the fact that
+our minds are not the course of the
+closed doors layer
+so you're saying that sacrificing the
+black cat actually does
+cause a change in physical reality no
+it must cause a change in you the way
+that you make sense of physical reality
+in the way that which you relate to
+physical reality
+your the model that you make and the
+actions that you perform as a result of
+that change you regulate in a different
+way and as a result reality will now
+look different to you
+that yes okay that certainly makes sense
+so for instance you could make a ritual
+to become
+say a ceo of a company imagine you are a
+a person that is an employee of
+companies difficulty
+to hold on to a job they are financially
+struggling and so on they really don't
+know what to do about this and
+there is no way they can get out of this
+they look into the
+all the rules of reality that exists and
+they can look into economic theory and
+they realized i'm a member of the
+working class
+in fact there's nothing i can do about
+this right and then they meet a magician
+and the magician says
+look we can do these rituals and a lot
+of people that offer this magic as a
+service
+they have this abundance meditation and
+expensive retreats and so on
+and they basically reprogram you into
+becoming a
+say a glorified parasite or an
+entrepreneur or an investor
+and the difference between an investor
+is not some magical ritual that has to
+be performed at birth
+or a change in the universe or a change
+in the social order
+it's a change in how you relate to the
+world around you if you can
+basically change your expectations in
+such a way that you
+consider yourself to be a very different
+system you can often gravitate to a very
+different place in society and in the
+economic order
+right and suddenly you have this big
+house and this big car
+and it's not that you are working
+necessarily longer hours than you did
+before but you just interact with the
+outside world in a completely different
+way
+but you've updated your code i mean it
+happens all the time and the same thing
+happens say this relationship say you
+want to find the perfect partner or
+uh you want to meet very particular
+people and you perform a certain ritual
+and that suddenly changes the way you
+interact with reality and
+as downstream effects also makes other
+people
+interact with you in a different way and
+suddenly you'll find yourself in a very
+different position in the world
+yep that's true but i'm not sure about
+its significance if we assume that
+something like a rough distinction
+between hardware and software and i
+understand
+that there's actually many layers of
+software in the mind
+to update your code and then therefore
+have a different degree of traction in
+the world than you did before doesn't
+strike me as particularly mysterious
+you know if there is only one real layer
+and it's the layer below quantum
+mechanics
+and everything above that is models
+there is a lot of ways in which we can
+meddle with these models to get the
+outcome that we want
+but so far we have not found any such
+mechanisms to
+actually impact the level of physics
+all right we cannot change the mass of
+electrons by a witchcraft we cannot
+change
+the spectral characteristics of alpha
+centauri by
+sacrificing a black cat exactly so there
+seems to be
+a level at which reality is causally
+closed at which magic is not possible
+this was the point that was trying to
+make this hypothesis
+that the world is entirely subject to
+symbolical magic
+falls apart at some point because there
+seems to be a layer
+outside of our minds that we cannot
+change where the rules do not change
+and the question between the
+magicians between the people that think
+that everything is a dream is
+whether this is only because we have
+agreed with each other that there are
+certain parts of the dream are immutable
+and we cannot defect from that dream
+because then we will go insane
+uh from the outside and from the inside
+reality falls apart
+just to sends it to chaos and of course
+you cannot
+disprove idealism right it's
+unfortunately
+in that area where could be true just
+seems unlikely to me
+and as i said i put my flag down many
+years ago as a naive realist which is
+there is a reality out there magic
+doesn't work on physical reality
+and it's not because we all agreed not
+to change this because it's just a
+different thing it's not a realm in
+which magic can apply magic is a null
+category
+in the actual physical world in terms of
+our
+symbol space yes you can believe in
+magic and you might actually think
+about the world differently think about
+people who go to casinos and believe in
+luck for instance right and i know many
+such
+right and yet we all know that if you
+look at games of true chance
+with large enough n there ain't no luck
+you know the house always wins and a
+highly predictable amount in fact people
+even done experiments i love this one
+where they
+track the win and loss records of a
+group of nuns that went to a casino
+and a group of ex-convicts that went to
+a casino
+and guess what they both won and lost at
+exactly the same rates once n was large
+enough
+so you know these mine viruses that
+attempt to claim that they can
+manipulate the universe
+but can't are a specific
+example of what i might call malware
+that the human brain is susceptible to
+very very susceptible to just think of
+the nonsense
+that's loose in the world today about
+covid19 for instance
+but you know i do believe that we can
+use a sharp enough knife
+and say you know this is just not true
+about reality
+so uh the occultist might say to you jim
+you've locked yourself into a reality in
+which you will never win the lottery
+because you
+have made that commitment in the way
+that you in which you constitute your
+relationship to reality
+that you can never beat the odds right
+uh that magic is not possible
+and it's hard to say whether that's true
+for uh but when you compare the
+hypothesis from the outside
+you can basically see which one leads
+into a consistent model of reality
+you can of course always perform magic
+imagine you run a company and everybody
+in the company is depressed because the
+numbers don't add up
+and uh they are pointing towards doom
+and then you hire a consultant and the
+consultant performs magic
+it changes the benchmark and suddenly
+everything is awesome again
+right so you pay the consultant
+and now the question is what's happening
+to your company
+did the uh consultant oppose a better
+model on your company by which it tracks
+its performance in a better way
+and uh regulates in a better way or did
+they just cheat
+and this is the issue with magic that a
+lot of magic comes down to cheating of
+course you can edit your memory and your
+expectations and your interpretations of
+what happens in between
+but it might also change the way that
+what you feel like for instance
+even if you feel terribly you can just
+imagine that you are
+basically a king that presides over an
+awesome kingdom
+and that tomorrow is going to be awesome
+again and this is just a very very short
+intermission
+that is does not actually mean anything
+and this movement if you look at it from
+this perspective is actually quite
+bearable right
+from this perspective you're probably
+going to be a much happier person
+but of course the question is in the
+long run uh how well do you track
+reality
+yeah let's say for instance you decide
+that i am the king of infinite space
+and i decide i'm not gonna work and i'm
+not going to do anything
+and then i'll end up starving to death
+right so at the end
+reality bats last you know and i think
+again in in terms of public affairs you
+can claim
+that covid19 is a hoax but that doesn't
+stop the virus from doing its thing
+yes of course you can also do the
+opposite for instance
+since my early use i think was early
+teens when i
+stumbled on the same thing as greta
+toonberg did
+which the limits to growth and
+the environmental pollution that was you
+know on a one-way trajectory
+and the fact that we didn't have
+regulation mechanisms implemented in our
+civilization that could make it
+sustainable before it breaks down
+and that seemed to be an obvious thing
+right that we are
+instigating dynamics that when unchecked
+will lead to the demise of our
+civilization
+and our main defense against that is
+visual thinking
+and once you realize that you get
+depressed right it's terrifying
+and the same thing is also true when you
+look at society you mostly
+focus on the things that get worse where
+institutions gets understand where
+people defect from what they should be
+doing and all levels of
+responsibility and everything is
+constantly breaking down and getting
+worse and this was my dominant
+perspective for most of my life and i
+must say the world didn't disappoint
+right there was always enough evidence
+to support this worldview so i
+i spent my life being extremely worried
+i did the inverse to the
+king that thinks that what you see today
+is just a short intermission
+of slightly unpleasant things happening
+in a life that is overall totally
+glorious
+i basically perceive the world as
+something that is pretty much miserable
+where the past and the future are
+miserable
+and the present is quite bearable but
+this is
+an exception that will surely be
+corrected in the near future
+right and this is an opposite distortion
+that is unhealthy i think
+though on the other hand i think your
+analysis is approximately true as we
+talked about before
+that the current status quo seems to be
+in a runaway state where it is going to
+run over off a club
+it totally is right 2020 is not an
+aberration it's exactly the future that
+we always expected would
+start to manifest around 2020. and it's
+starting and
+and it'll get worse until we do
+something about it but we could have
+enjoyed the time in between so much more
+that is true all right well that's this
+is interesting this is interesting but
+it's not quite on the main line of the
+topics i wanted to go through but it was
+very
+interesting let's move back a little bit
+more to
+some of the specifics of cognitive
+architectures
+you know the nature of cognitive
+processing
+and particularly i'd love to talk a
+little bit about what your views are
+on the gap between humans and other
+animals you know you alluded to the fact
+that you know elephants have much bigger
+brains than we do
+whales do too some dolphins killer
+whales i think but
+we don't see you know elephants sitting
+around philosophizing
+and of course one of the theories and
+probably the leading theory
+is the difference is that somewhere
+along the line we added a new class
+of object into our brains something like
+symbols maybe or language of
+thought or perhaps it was a more
+powerful form of procedural memory that
+allowed us for instance to
+conceptualize multi-part tools maybe
+that was accepted for language but
+something in that space
+what are your thoughts from examining ai
+and cognitive science about this
+only one percent one and a half percent
+difference in genes between us and a
+chimp and yet
+seemingly a giant gap in terms of our
+cognitive ability
+so there is an experiment that would be
+very interesting to make and this is
+how smart can dogs be there are
+obviously extreme differences
+in the intelligence of dog breeds right
+and typically the small dogs that we
+would like to have in our home tend to
+be quite dumb
+and the dogs that we use to
+hurt our sheep tend to be very smart but
+they are
+the drugs that hurt our sheep tend to be
+less controllable and they are less
+suitable
+as uh to keep around because you need to
+negotiate the relationship to them
+at a more fundamental level they're
+somewhat less domesticated
+and harder to domesticate and homo
+sapiens
+also seems to be a domesticated woman in
+it i
+sometimes wonder whether the
+neanderthals were individually smarter
+than us
+but they didn't have scalable tribes
+that that would scale into
+states into societies with unknown
+numbers of individuals beyond the dunbar
+number
+and in order to get people to cooperate
+at scale you need to domesticate them in
+such a way that you would selectively
+dump them
+down to dump down the epistemology so
+they are able to
+believe the same thing without proof and
+walk on dog step
+it's interesting though i will point out
+that the confrontation between homo
+sapiens sapiens and neanderthal
+happened when we were still operating
+below the dunbar number
+you know that was obviously in our
+forager stage you know at the latest 36
+000 years ago so i'm not sure i buy it
+with respect to
+neanderthal on the other hand it's a
+fact that archaeologists tell me is true
+that if you compare modern man to
+cro-magnon man say 12 000 years ago at
+the very end of our forager days
+cro-magnon man's brain was 10 larger
+than ours
+exactly so uh what i wonder is if the
+evolutionary advantage that allowed us
+to displace the neanderthals
+to genocide them which is probably what
+happened
+was coordination it seems reasonable
+cooperation is the human superpower
+yes and it's not just the way we
+cooperate in the sense that we make a
+choice
+individually to cooperate with somebody
+else which what cooperation is usually
+about
+it's that we do this without thinking
+that we do this automatically
+that's interesting but again we're
+really interested in the line between
+let's say humans and chimps
+right which is much bigger than between
+cro-magnon and neanderthal neanderthal
+and chimps is gigantic
+too just a little bit smaller perhaps
+yes
+so the main issue seems to be lengths of
+childhood i suspect
+the length of our childhood is not too
+much given by social circumstances
+it does play a role but the main issue
+seems to be the mat speed of the
+maturation of the brain
+and uh what you see is that in ancestral
+societies it takes at least 15 years
+before you are able to forage more than
+you can eat
+and in our society this period is even
+longer
+right so uh the time by which a kid can
+basically earn more than it needs
+uh in terms of upkeep is typically
+longer than 18 in our society
+so it's a very expensive period to
+maintain in which you
+are mostly doing exploration instead of
+exploitation
+and what we notice that in this period
+it's not just a decision that the
+individual is making to focus more on
+exploration
+the individual is in some sense
+literally insane it
+has an incomplete model of reality it
+has an incomplete architecture
+and i don't think this is just not
+because it has not learned enough yet
+but it's like the capstones are missing
+it's like the training happens layer by
+layer
+and the infant spends a longer time than
+cat infant
+to learn basic special relationships and
+learn contrast
+and object permanence and so on and then
+spends a longer time on
+engaging with social relationships and
+so on so you'll find
+that a cat a house cat can have a better
+model of the social reality and the
+family and the
+capabilities and relationships of the
+individuals between them and then a
+two-year-old baby will have
+right and that's uh despite the baby
+obviously being in some sense much
+smarter when it comes to
+spatial reasoning and so on even at that
+age and definitely in terms of using
+language
+because most two-year-olds do have some
+kind of language that far surprises
+what a cat can do and so it seems to me
+that uh
+our ability might be conjunction of
+slightly larger brain and optimized
+architecture
+but mostly more training data per day
+when we bootstrap our brains
+so we can make better abstractions and
+that would be a very simple genetic
+switch
+so you could have a genetic switch that
+basically
+delays childhood every phase of it makes
+it slower
+and as a result gives you smarter terms
+at the expense of longer childhood which
+means that
+gyms need to have much better
+environmental circumstances
+and more benefit from exploiting these
+circumstances especially
+so i suspect that moving into temperate
+zones where you have a benefit from
+planning ahead so you
+can make agriculture and decide that if
+you put stuff in the ground now it might
+sprout
+and if you keep a certain fraction of
+the stuff that you
+will not eat as seedlings for the next
+year or
+for years in which you have less
+vegetation coming
+all these planning ahead and so on is
+going to give huge benefit
+to a long childhood it allows you to
+generalize over a very very
+time spans interesting and then of
+course humans
+of course this is just one of these just
+so stories about evolution so it may not
+be true but
+you know one of the theories is that
+once we started standing on two feet
+bipedalism
+it produced evolution that constricted
+the opening of the pelvis
+that limited the size of the head of the
+human baby
+and hence while there was seemingly
+something going on with rapidly
+increasing brain size when our brains
+are almost three times the size of a
+chimp brain
+even though we have similar body size
+we're a little bigger body size but not
+anywhere close to 3x
+the constraint was the pelvis
+arrangement
+in the bipedal method of getting around
+and hence
+the evolutionary adaptation was to be
+delivered very very very prematurely so
+that we required a much longer time
+to fully develop our brains unlike
+actually the model animal i use in my
+cognitive science work is a deer
+white-tailed deer
+and white-tailed deer is fairly
+competent two hours after it's born
+right it can get up it can walk around
+it can find its mother it can flee from
+prey
+not very well but at least a little bit
+compared to a two hour old baby can't do
+a damn thing right
+because the deer pelvis allows a much
+larger
+baby relative to the size of the mother
+and
+they have not been under evolutionary
+pressure for really large brains either
+so maybe that is the causal factor
+of this very long learning process which
+is interesting
+the very interesting point you make
+about however we got there the fact that
+we have a very long maturity period
+would tell us that we have more training
+cases to run more layers to build and
+more abstractions
+and that's interesting having a large
+brain is super nice i also
+see some people that are obviously super
+smart like say john dared and stephen
+warfram it also have extraordinary large
+scales
+so it seems to be possible to have a
+little bit more levee in the human
+pelvis
+to get larger skulls out there and
+sometimes it also has good results
+we also find people that have brains
+that are
+similar to say a gorilla brain and these
+people are not necessarily mentally
+impaired in any way they can
+hold down a job they often study at
+university and
+can be reasonably smart people right so
+the
+size of the brain is not absolutely
+everything there is a
+certain devay in which you can use it
+and it's probably nice to have a brain
+that scales up better
+but i don't think that brain size by
+itself is the deciding factor
+what about the theory that symbols or
+language per se
+is the bright line yeah i wonder about
+this that's a very tempting idea and it
+seems to be that the ability to
+do grammatical decomposition is
+something that distinguishes
+the ability of humans and other apes
+right so for instance uh elephants see
+don't seem to be able to
+produce new images so you uh they can
+learn to draw
+and what they will apparently do is at
+least on in the instances that i've seen
+so far
+they don't generalize they don't make a
+portrait they don't capture a new scene
+they will produce the same image stroke
+by stroke again
+and again they can learn to do this they
+have extremely good motor control
+but there is no obvious generalization
+and observation going into the
+thing that they draw it's not a symbolic
+depiction the same way as we do it
+and if you look at the gorillas that
+have been
+raised in environments that they were
+exposed to human-like stimuli and
+human-like familial structures and so on
+they did get in many ways to be more
+similar to humans
+than many people thought possible but
+they also didn't do the grammatical
+decomposition so when
+coco draws a dog it looks like uh
+jackson pollock it's basically an
+arrangement of colors that seem to be
+related
+to what she was looking at but you don't
+see the decomposition of the dog into
+limbs
+and a torso and a head and the
+arrangement of the parts in it this has
+not been properly reproduced
+it's tempting to think that the lack of
+a chromatic decomposition
+in visual scenes corresponds to the lack
+of the ability of the
+gorilla or the tendency to use
+grammatical language
+and it may be the grammatical language
+because it's such a compression right if
+we
+don't have symbols we don't have
+something like at least partially
+recursive
+language and we have to manipulate
+images only
+which is at least one argument about
+what's in the brain
+in the pre-human era the density and
+ability to manipulate easily
+images is way less than symbols symbols
+are tiny
+right the concept of dog even if i don't
+have a word for it i don't have written
+language
+a conceptual dog is much smaller than
+many many images of many many different
+dogs and so having symbols
+may just make the brain exponentially
+more effective
+as an interesting question also if there
+is a continuum between human
+intelligence and ape intelligence rather
+than a sharp cutoff
+what i've read it seems to be it's not
+sharp
+but there's a big big gulf right as you
+say
+you can teach coco to put together very
+simple linear sentences
+but nothing at all like a recursive
+sentence
+yes but of course there are human beings
+with developmental deficits
+that have a similar cognitive capacity
+right so there are certain syndromes
+where the brain does not
+develop in the same way as it does for
+the others
+and the question is what exactly are the
+differences are these all pathologies of
+course there are
+in some sense because our genetic code
+is the same
+for the most part and they're just local
+changes in genetic code or environmental
+conditions
+that prevented development to the
+specification
+that we are normally evolved to and yet
+if you look at the differences also
+between human beings i noticed this as
+a tutor in computer science that the
+performance that
+people achieve as programmers can often
+be predicted very very early on
+depending on the kind of abstractions
+that they are making in the first few
+hours when you
+are confronting them with certain ideas
+and there is basically a hierarchy of
+concept that you could
+see in computer science say from
+variables
+to loops to pointers to functions to
+closures
+each of these concepts basically
+requires more and more inversion and
+abstraction
+more and more pointers that you need to
+keep stable in the same representation
+the more abstract these concepts become
+the harder it is to teach them
+yep that is very true i found that same
+thing in my technology career i hired
+oh i don't know a thousand software
+developers perhaps
+and i got to be very very good at it
+right you know i'm a pretty damn good
+programmer but i know many better ones
+but i do have probably a better
+theoretical basis
+in computer science than most but i was
+able to recognize
+at a very high level by asking
+relatively few questions
+where they stood on this hierarchy of
+understanding and the ability to grasp
+increasingly abstract software
+development concepts
+and you're absolutely right an hour
+conversation i could predict at about
+80 or 90 percent level of confidence how
+far this person would go in their career
+and there's this thing that most of
+these concepts can be taught it's just
+the
+uh the amount of time that it takes to
+teach the concept
+is very variable yep yep
+and realistically you only have a budget
+of education
+period right you have and realistically
+the individual also has
+a few decades right so uh if you
+are able to just learn five percent
+better
+than somebody else this is going to
+compound
+and so i'm totally envious when you look
+at stephen warfram who understood things
+at 22
+that i understood in my 40s yep i
+certainly
+saw that my dealings with the people of
+the santa fe institute you know in the
+business world i was
+almost always the smartest guy in the
+room at the santa fe institute i am
+almost always the dumbest guy in the
+room or damn close right
+yeah these are great rooms yeah those
+are great rooms you know as i said
+that's not quite true but in business i
+was definitely in a 99th percentile
+in the world of complexity science on a
+good day i'd be the 25th percentile
+and that is it is you know you learn so
+much so fast but you also
+come to appreciate that there are people
+who just operate at a very different
+level of abstraction than which i will
+never be capable
+of but that's okay yeah these people
+make me very happy
+i'm glad they exist i like them a lot
+and frankly i've spent fair amount of my
+effort making their life better right
+so they can do their work let's now
+switch a little bit let's get a little
+move down some in the stack of
+abstraction you know in
+your writings particularly in the book
+you talk a fair amount about
+cognitive architectures as an approach
+to
+we talked about the very beginning
+thinking about the brain through
+software in ways that may help us
+understand ourselves and by the way
+maybe do practical things but at least
+understand ourselves better could you
+maybe tell for our audience a little bit
+about what
+cognitive architectures are in the sense
+you know things like soar akdar
+and the sci model and how they differ
+from what we read about in the newspaper
+all the time you know the machine
+learning
+deep neural network approaches cognitive
+architectures are a tradition that
+mostly originated in psychology within
+people that were strongly influenced by
+the ideas of fibernetics and ai
+and then decided to get real about this
+and try to get a look at the way our
+mind is structured because our mind
+obviously has a lot of structure
+to identify the architecture of our mind
+and then
+identify the principles that would need
+to be implemented
+and i think that most people in the
+field of ai
+would agree that there are two
+directions that we need
+to look into one is the general
+principles of learning and functional
+approximation so
+when confronted with data how do you
+efficiently build a model
+over the data that allows you to predict
+future data and interact with it and
+build control models and the other
+question is
+in which particular way is this
+organized in the human mind to give rise
+to the particular feats
+that humans have like learning language
+interacting socially interacting with
+the environment and with their bodies
+to reflect symbolically over their
+perceptual
+uh representations such as feelings and
+so on
+so to how to get these two perspectives
+together
+is is for me a very interesting and
+challenging question
+and most of the work that is being done
+in machine learning is not looking at
+architectures the architecture is
+only instrumental to a certain task
+which could be for instance
+text completion so we think about how to
+organize structure into layers and then
+how to stack the right number of layers
+together or maybe implement an algorithm
+that automatically searches for the
+right number of layers
+but we can also see that the brain is
+not organized into layers
+it's organized into regions that have
+very complex
+interconnectivity right so it's much
+more
+uh like a city with a rich set of
+different uh ways of transporting
+information around in it right so there
+is going to be some
+street network that is low level where
+you can reach your immediate
+neighborhood
+and then but it's quite pedestrian and
+it takes longer for the signals to cross
+large distances and then there are
+long-range connections like a subway and
+then there is some
+general interconnection network that
+goes by the thalamus and allows to
+for information from basically all every
+region in the neocortex to get to every
+other
+to route information around and so how
+how that works is a very interesting
+question to me
+you could also look from the perspective
+of
+training a network in some layer by
+layer and then
+as soon as you introduce a new layer you
+make this a function of the existing
+layers
+and once that thing is trained you
+introduce recurrent links so the
+predictions of a later layer in your
+architecture
+are going to inform the predictions of
+the earlier layers and become inputs to
+them
+right so they become the context in
+which the lower layer makes its next
+prediction
+and the result is the same so instead of
+getting a
+nicely titty hierarchy of things where
+you have an input and an output and the
+input is your sensible apparatus and
+your output is the
+highest layer of your attention it turns
+out to be fully interconnected and going
+everywhere backwards and forwards
+and suddenly your visual cortex is not
+the first stage of processing
+it's just the area where you store the
+saw the textures
+and of course that seems to be how the
+human mind is structured and you know
+when i react to deep learning mostly
+feed forward though they're
+now adding some simple recursion i i
+always ask myself what are they missing
+by not having these feedback loops
+i think that everybody is aware of the
+fact that they want to have recurrences
+right from the start
+when you look at the original work for
+instance by hinton and zanovsky and
+declay on
+boltzmann machines that you have already
+a very very general form of a model that
+understands that a model is a set of
+parameters that constrain each other and
+each constraint is a computable function
+that says
+if a parameter has this value the
+influence that has on all the other
+parameters in the model
+and then you can say that the deviation
+from these constraints is energy
+and you minimize the energy so it's very
+similar to a spin last model in physics
+where you try to
+minimize the global energy state of the
+system and when you achieve that
+the system converges to an
+interpretation of reality
+and in some sense theoretically this
+works very well as a model it's
+pretty close to optimal but it's
+impossible to train it turns out because
+the search space for these variables and
+constraints between them is
+so dramatically large it's basically not
+trainable beyond a few
+parameters and so um hinton introduced a
+constraint on this he said that
+instead of having all these natural
+links between the parameters all these
+hidden links
+we only link them in a forward manner
+and in between the parameters we don't
+have links and what's called a
+restricted boltzmann machine rbm
+and of course suddenly this thing cannot
+model many things anymore and
+the solution to that was to string many
+of these rbms together in a network
+so each of them is individually
+trainable even though it's limited
+and overall it produces a behavior that
+the individuals could not
+and this eventually leads to our current
+deep learning architectures by a few
+steps
+but it's not optimal right the search
+space is too large
+the too many model states the ideal
+model should be able
+to be so tight that every model states
+corresponds to a
+possible state and reality most neural
+networks
+have many magnitudes more possible model
+states which gives rise to adversarial
+examples and limits
+uh generative creativity because most of
+the states that the system can be in
+will not correspond to a world state
+right
+so uh for me the uh thing that a lot of
+people don't pay enough attention to is
+what uh these this transformer model is
+achieving
+it seems to be a way to think about
+embeddings into a space
+of features in a more general way so it
+gets back to this original notion
+of the balsamic machine from a in a
+different projection
+from a different perspective but still
+and it is
+this notion of attention and
+self-attention binds features together
+across the dimensions into a
+relational graph and this allows you for
+instance to generate a text
+in which a noun and a pronoun are
+associated over a very large distance or
+where the initial
+part of the text mentions the person by
+name that performs a scientific
+experiment and the later part of the
+text
+just refers to this as the scientist
+or the researcher and uses them as
+synonyms and
+understands in some sense or represents
+that these all these
+uh entities refer to the same concept in
+the text
+right this is something that was very
+hard to achieve in previous neural
+network
+implementations of language and uh
+it's striking that this doesn't only
+work for text it also works for images
+so you can train this on images
+you repeated the first few lines of an
+image and it's going to continue the
+image
+which implies that internally while
+predicting the image it's building a
+representation
+during the prediction of the next thing
+of the entire image
+until the end right so that's a
+tremendous achievement it seems to open
+the door to embeddings in general
+across all modalities what happens if
+you are
+not just modeling the perception of a
+system like this but also its decisions
+is there a difference between making a
+decision and predicting your decision
+it's probably the same thing just from a
+different perspective right
+there is still going to be some
+differences in terms of
+the way we predict reality because we do
+not predict reality just from the past
+we also predict reality from the
+perspective of the future that we want
+to have so we limit our search space
+to certain results that we want to have
+achieved in the end
+and this is a thing that the way we
+access
+the gpt-2 class or transformer class of
+models currently are not doing
+but there's nothing that is inherent to
+the way these models are constructed
+it's just inherent to the way you're
+currently using them
+that's very very interesting about where
+we may be able to go
+in using transformer based architectures
+to get back to
+you know the ability to do things at
+long range and you know the transformer
+architecture is still a heck if you look
+at it it's a
+very simple idea of course a very smart
+simple idea that is then scaled up to
+see how far it can go there's not an
+obvious limit but that we have hit yet
+to how far it can go which is
+in some sense terrifying because it's so
+simple
+and uh you immediately wonder uh what
+are the
+uh optimizations going to be that we
+will
+quite inevitably discover in the next
+few years yep that'd be very interesting
+we'll have to keep a look on it we're
+getting
+long on time here kind of gone over our
+time limit but that's okay
+i'd like to drill down a little further
+into details into some of your own work
+now let's maybe give it another 10
+minutes if we can
+and talk a little bit about the psy
+theory
+dietrich dorner is that the guy's name
+who came up with it and you wrote the
+very interesting book
+on the topic and one thing i found
+interesting about it was that it was
+connectionist
+but the elements in the connection
+architecture while they all use the same
+architecture
+could be at varying levels of
+abstraction from quite high to quite low
+and you know the system self-organized
+and higher alcohol all that stuff so
+anyway if you could
+explain how all that works dietrich
+turner is a german psychologist
+a cybernetician strongly influenced by
+these ideas in the 1960s
+for a while shared a desk in the hanzo
+colleague
+is stanislav lam who became a good
+friend of his
+and at some point their directions
+diverged even though
+they remained friends over the years
+until them died and
+then decided that the biggest influence
+that he could have on the development of
+artificial intelligence in cybernetics
+would be to become a philosophical
+science fiction author
+because he would be free of the
+constraints of academia and to actually
+get things to work
+and instead anchor ideas in the minds of
+people that would have a larger
+influence that
+writing a few papers about systems that
+he would not be able to get
+to work in the next decade or two
+decades
+and uh donor was more optimistic he uh
+thought that behavioral psychology which
+was uh
+all the rage at the time is not cutting
+it and instead we need to do cybernetic
+and computational
+psychology and just implement a model of
+how people work and then we'll be done
+and uh he thought that he'd be done in
+the late 1970s originally and told his
+wife
+that they would have an awesome time on
+the beach after that because their job
+would be finished we would have
+computers that think and solve all our
+problems for us and of course that
+didn't quite work out but he
+mostly on his own reinvented or invented
+in parallel many of the ideas that ai
+was into so he started out with
+monolithic systems
+that later became situated connected to
+environment and then this environment
+could be
+changed by the system so it became an
+agent architecture
+and then he invented multi-agent
+architectures and
+all the while these architectures had
+models of autonomous motivation in them
+that were
+based on this cybernetic idea of a
+feedback loop that would regulate it all
+and what i liked about his work was
+that he was extremely serious about
+building minds and
+his heart seemed to be in the right spot
+and also his ideas seem to be on the
+right spot so
+when there started reading his ideas in
+the 1980s
+uh most of the psychologists ignored him
+because uh there was
+theoretical psychology he uh for a long
+time had the only chair
+of theoretical psychology in germany
+there was no such thing as theoretical
+psychology
+and uh that basically tried to bridge
+between ai ideas and psychology while he
+was mostly unaware
+of the discourse that would take place
+in ai and
+uh you would read sometimes something
+about it but always come up with his own
+solutions
+the first interview that i read with him
+a very
+consternated journalist of the german
+magazine spiegel which is the equivalent
+of the times
+uh in us asked him why he would claim
+that these systems are
+have two emotions it would be wouldn't
+everybody understand that it's
+impossible for a computer to have
+emotions
+and turner replied very earnestly that
+it really depends on your definition of
+emotion and that if you have a
+definition of emotion that doesn't have
+an extension that you can understand you
+probably don't know what you're talking
+about
+and then he went on to try to define
+emotion and then ex try to explain
+why his systems would have emotion in
+this sense
+and i i agreed with them and uh while i
+thought that this notion of emotion does
+not capture everything
+that emotion captures for me when i
+define emotion
+uh it seemed to me that there is a
+trajectory along which we can make this
+definition richer and extend it and then
+implement all these missing things
+until we all agree so i i thought this
+is probably the way to go
+and i started reading all this stuff and
+then
+decided to systematize it and translate
+into something that could be actually
+implemented and
+because there was less bold than him i
+took his science theory style this
+letter
+that psychologists love to use and they
+make a theory of everything
+and translate it into mycocy my humble
+attempt as a computer scientist to get
+some of the concepts at least to work
+and i spent uh almost a decade with that
+and
+this uh book principles of synthetic
+intelligence is an attempt to
+turn the site into an acronym for a book
+title of course
+and uh to systematize his work and make
+it accessible to people in cognitive
+science
+and artificial intelligence so this is
+what the first
+third of the book is doing summarize
+donors ideas
+and systematize them contrast them with
+ideas that were around in the field
+compared to related work and then
+the second part of the book is
+implementing these ideas and the third
+part of the book is
+critiquing them and explaining where i
+think we need to go beyond them
+and this is a snapshot of my
+understanding back then and my
+thinking has since then in many areas
+evolved a great deal and moved on it's
+not that i
+still think that these now think that
+these are bad ideas it's just
+this would be the first third of the
+next book that i would write if i find
+the time
+okay interesting and what is the status
+of the micro sci project i saw there was
+a
+micro sci 1 which ran only under windows
+and then there was a microsite 2 that
+was written in python
+but i looked at the github project
+looked like there hadn't been any
+updates on it four or five years
+is anybody working on it is it being
+used at this point
+yes so the the first microsoft we always
+try to be platform independent because
+the
+people that i worked with they had macs
+they had linux they had windows
+and we wanted to make this accessible to
+anyone so the first one was done in java
+and was written directly as plugin to
+the eclipse ide and it was using all the
+typical things that you would use in
+2003 so lots of xml
+and lots of factories and i think that
+back then
+it was respectable software engineering
+but it was very different from what we
+would do five years later when
+everything was going to be pyson
+and you would put your ui in the browser
+so uh the way to make platform
+independent implementation of a research
+cognitive architecture
+was different when you did the second
+edition and the second edition
+was being used in two startups one went
+defunct
+i was in uh ai planning startup the
+other one
+was started later by students of mine
+mostly i'm also a co-founder in this
+it's called microsoft industries and
+uses the microscope architecture
+as a framework to implement control
+networks for
+industrial robots mostly and
+also does a little bit of basic research
+but most of the things that are done are
+in-house so while we still
+post the architecture for people that
+want to use it and some people use it
+and play around with it
+the main evolution takes place within
+the company for proprietary projects in
+britain
+and at the moment i am using
+microsci internally for trying out
+a certain models that i have about using
+spreading activation networks to
+produce procedural strips that interact
+with cellular automata
+representation and processing layers
+also thinking about
+uh what the next edition of microsite is
+going to be and how it's going to be
+implemented and we have some ideas about
+this but it's too early to talk about
+this
+ah okay i was going to see if i could
+get you to talk about what microsoft 3
+might be looking like
+i'm going to throw out some ideas which
+i've also i'm always throwing at
+ben gertzel about opencog which is i
+hope when you do it that you think
+big so many of these cognitive
+architectures or
+ai platforms were unfortunately
+conceptualized to only run
+on a single machine or a small cluster
+and
+one of the things that we now have is
+really cheap computation and really fast
+networks and if i were designing a
+platform
+for thinking machines i would look
+carefully at some of the apache
+large scale very big cluster very large
+throughput
+platforms like ignite and flink and
+spark
+it has two big advantages one that they
+operate at massive scale
+and secondly it gets the implementer out
+of having to write a whole lot of
+low-level
+stuff and so you can leverage your
+manpower
+in the higher levels of the actual value
+add rather than trying to optimize how
+you move pointers and things of that
+sort these guys have already figured
+that out
+exactly i also wonder whether we should
+still think so much of
+vision system and more across systems
+so instead of thinking about how we can
+make a
+representation that is completely
+homogenous think about how different
+parts of the architecture
+implement general principles that allow
+them to learn how to interact with all
+the other parts
+and if that happens you can for instance
+instead of reinventing linear algebra
+on your gpu that then reinvents how to
+render graphics on the gpu using linear
+algebra
+you can for instance use existing shader
+programs and graphics engines
+and learn how to use them instead i
+think that's right and
+again there is no free lunch so people
+say oh yeah well you have ignite you
+know a true
+gigantic key value store well guess what
+on distributed architectures there is no
+free lunch
+right queries that have to traverse the
+network have very different costs than
+ones that don't
+and so having a system that can
+self-organize to take advantage of the
+realities of its network
+is probably the real secret to maximize
+these super powerful gigantic scalar
+tools
+but using them naively you can produce
+degenerate queries quite simply that
+yes you have 100 000 processors but
+guess what it's still slow because the
+data is all over the place that makes
+any single query
+inefficient so these things are by no
+means panaceas but
+if i were going to go down that road i
+would be thinking of these very large
+scale
+data processing architectures rather
+than writing something to run on a
+single machine or a small cluster
+well this has been a very interesting
+conversation
+we went a little bit longer than i was
+thinking we didn't get to some of the
+topics i had on my list but that's okay
+i think our people will find this to be
+a quite interesting deep
+dive into the mind of yoshibak thank you
+i really enjoyed our conversation
+and i'm sure we have more topics left
+for
+future time thank you very much
+[Music]
+production services and audio editing by
+jared janes consulting
+music by tom muller

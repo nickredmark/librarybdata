@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "rkBqTO747a4"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-28T17:01:23Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "The Cognitive Science of Magic w/ Juensung Kim",
+    "description": "My former student, current TA, RA and lab manager Juensung has built upon my work and is doing is Ph.D research on the psychology of religion and the ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/rkBqTO747a4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/rkBqTO747a4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/rkBqTO747a4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-08-28T17:01:23Z"
+  },
+  "_id": "rkBqTO747a4",
+  "publishedAt": "2020-08-28T17:01:23Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCpqDUjTsof-kTNpnyWper_Q"
+  ]
+}

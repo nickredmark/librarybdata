@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "-tU7rlNBt-Y"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-25T03:00:12Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "DarkHorse Podcast with Brendan O&#39;neill and Bret Weinstein",
+    "description": "Brendan O' neill is an author and host of podcast The Brendan O'neill Show for Spiked. He discusses with Bret the current situation in the US and how it relates ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/-tU7rlNBt-Y/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/-tU7rlNBt-Y/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/-tU7rlNBt-Y/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-08-25T03:00:12Z"
+  },
+  "_id": "-tU7rlNBt-Y",
+  "publishedAt": "2020-08-25T03:00:12Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg"
+  ]
+}

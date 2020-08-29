@@ -82,10 +82,22 @@
         "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F600217083_1920x1080.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
       },
       {
-        "width": 960,
-        "height": 540,
-        "link": "https://i.vimeocdn.com/video/600217083_960x540.jpg?r=pad",
-        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F600217083_960x540.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+        "width": 1280,
+        "height": 720,
+        "link": "https://i.vimeocdn.com/video/600217083_1280x720.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F600217083_1280x720.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+      },
+      {
+        "width": 1280,
+        "height": 720,
+        "link": "https://i.vimeocdn.com/video/600217083_1280x720.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F600217083_1280x720.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+      },
+      {
+        "width": 1280,
+        "height": 720,
+        "link": "https://i.vimeocdn.com/video/600217083_1280x720.jpg?r=pad",
+        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F600217083_1280x720.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
       }
     ],
     "resource_key": "a348866e3ada2f4e95d4f98a396264276f0545fc"
@@ -103,7 +115,7 @@
             "options": [
               "GET"
             ],
-            "total": 3278440
+            "total": 3300735
           }
         }
       },
@@ -176,7 +188,6 @@
         "reason": [
           "pornographic",
           "harassment",
-          "advertisement",
           "ripoff",
           "incorrect rating",
           "spam",
@@ -283,7 +294,7 @@
           "options": [
             "GET"
           ],
-          "total": 165
+          "total": 166
         },
         "following": {
           "uri": "/users/34001779/following",

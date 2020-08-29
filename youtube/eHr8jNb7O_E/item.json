@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "eHr8jNb7O_E"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-28T13:35:46Z",
+    "channelId": "UCJZYQRyRNZ1K0HxtT-6t9bA",
+    "title": "Live DC Protests",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/eHr8jNb7O_E/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/eHr8jNb7O_E/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/eHr8jNb7O_E/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jack Murphy Live",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-08-28T13:35:46Z"
+  },
+  "_id": "eHr8jNb7O_E",
+  "publishedAt": "2020-08-28T13:35:46Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCJZYQRyRNZ1K0HxtT-6t9bA"
+  ]
+}
