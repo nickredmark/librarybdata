@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "3j_tTRURT9nMmHkG2lYwSf_LMOs",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "trZPxcbZsHc"
-  },
+  "id": "UExlUkJhLU5lcjRCdEtIeWNMSDJJMkExZ3N1bGpsVkVUdC4zRjM0MkVCRTg0MkYyQTM0",
   "snippet": {
-    "publishedAt": "2020-03-20T16:38:15Z",
-    "channelId": "UCw1Sl_jFYRl2gbkBLp7w4lg",
+    "publishedAt": "2020-08-08T01:59:28Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "EP8 Jordan “Greenhall” Hall and Game B",
-    "description": "Click here for full show notes including episode mentions & recommendations! https://www.jimruttshow.com/jordan-greenhall-hall/ Jordan is the Co-founder and ...",
+    "description": "Click here for full show notes including episode mentions & recommendations!\nhttps://www.jimruttshow.com/jordan-greenhall-hall/\n\nJordan is the Co-founder and Executive Chairman of the Neurohacker Collective. He is now in his 17th year of building disruptive technology companies. Jordan’s interests in comics, science fiction, computers, and way too much TV led to a deep dive into contemporary philosophy (particularly the works of Gilles Deleuze and Manuel DeLanda), artificial intelligence and complex systems science, and then, as the Internet was exploding into the world, a few years at Harvard Law School where he spent time with Larry Lessig, Jonathan Zittrain and Cornel West examining the coevolution of human civilization and technology.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/trZPxcbZsHc/default.jpg",
@@ -25,16 +22,31 @@
         "url": "https://i.ytimg.com/vi/trZPxcbZsHc/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/trZPxcbZsHc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/trZPxcbZsHc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Jim Rutt Show",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-03-20T16:38:15Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt",
+    "position": 22,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "trZPxcbZsHc"
+    }
   },
   "_id": "trZPxcbZsHc",
-  "publishedAt": "2020-03-20T16:38:15Z",
-  "type": "youtube-channel-item",
+  "publishedAt": "2020-08-08T01:59:28Z",
+  "type": "youtube-playlist-item",
   "collections": [
-    "https://www.youtube.com/channel/UCw1Sl_jFYRl2gbkBLp7w4lg"
+    "https://www.youtube.com/channel/UCw1Sl_jFYRl2gbkBLp7w4lg",
+    "https://www.youtube.com/playlist?list=PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt"
   ]
 }

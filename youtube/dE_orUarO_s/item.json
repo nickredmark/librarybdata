@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "A5XnGrPwiCnfBPa2W7podfqiEUA",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "dE_orUarO_s"
-  },
+  "id": "UExlUkJhLU5lcjRCdEtIeWNMSDJJMkExZ3N1bGpsVkVUdC41MzY4MzcwOUFFRUU3QzEx",
   "snippet": {
-    "publishedAt": "2020-05-05T18:44:53Z",
-    "channelId": "UCw1Sl_jFYRl2gbkBLp7w4lg",
-    "title": "Extra: On COVID-19 &amp; Complexity with Jordan Hall",
-    "description": "Click here for full show notes including episode mentions & recommendations! https://www.jimruttshow.com/extra-jordan-hall/ In this short extra episode, Jim ...",
+    "publishedAt": "2020-08-09T00:50:56Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
+    "title": "Extra: On COVID-19 & Complexity with Jordan Hall",
+    "description": "Click here for full show notes including episode mentions & recommendations!\nhttps://www.jimruttshow.com/extra-jordan-hall/\n\nIn this short extra episode, Jim talks with Jordan Hall about the lessons we are learning with respect to complex system dynamic response capabilities including: our current sensemaking & limitations, distributed decision-making, finding warning signals in cultural noise, potential prevention & preparedness measures, bottom-up resilience, cultural change-management, exponential vs linear thinking, applying agile processes at the cultural scale, modernizing digital, physical, & operational infrastructure, and more",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/dE_orUarO_s/default.jpg",
@@ -25,16 +22,31 @@
         "url": "https://i.ytimg.com/vi/dE_orUarO_s/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/dE_orUarO_s/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/dE_orUarO_s/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Jim Rutt Show",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-05-05T18:44:53Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt",
+    "position": 44,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "dE_orUarO_s"
+    }
   },
   "_id": "dE_orUarO_s",
-  "publishedAt": "2020-05-05T18:44:53Z",
-  "type": "youtube-channel-item",
+  "publishedAt": "2020-08-09T00:50:56Z",
+  "type": "youtube-playlist-item",
   "collections": [
-    "https://www.youtube.com/channel/UCw1Sl_jFYRl2gbkBLp7w4lg"
+    "https://www.youtube.com/channel/UCw1Sl_jFYRl2gbkBLp7w4lg",
+    "https://www.youtube.com/playlist?list=PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt"
   ]
 }

@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "8x8QrQhYJf6Jjn5B3dZ2a_tqk-Y",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "MDZwyvz5DEU"
-  },
+  "id": "UExlUkJhLU5lcjRCdEtIeWNMSDJJMkExZ3N1bGpsVkVUdC5CMEQ2Mjk5NTc3NDZFRUNB",
   "snippet": {
-    "publishedAt": "2020-03-17T03:46:43Z",
-    "channelId": "UCJZYQRyRNZ1K0HxtT-6t9bA",
+    "publishedAt": "2020-08-09T00:47:04Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "Jordan Hall - JML #023",
-    "description": "The Corona Kairos: How to find meaning and opportunity amid the CoronaVirus crisis. Jordan Hall is a technologist, an entrepreneur, and a visionary. He joins ...",
+    "description": "The Corona Kairos: How to find meaning and opportunity amid the CoronaVirus crisis.\r\n\r\n Jordan Hall is a technologist, an entrepreneur, and a visionary. He joins me for a impromptu podcast to get us up to date on how to manage the CoronaVirus crisis into something positive for all of us.\r\n\r\n Topics: network cognition, open source intelligence, peer to peer credit systems, signal to noise, exponents, decentralized agency, complexity, retreat of Federal State, the individual revolution, and the end of indiscriminate connections and the rise of discernment.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/MDZwyvz5DEU/default.jpg",
@@ -25,16 +22,31 @@
         "url": "https://i.ytimg.com/vi/MDZwyvz5DEU/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/MDZwyvz5DEU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/MDZwyvz5DEU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Jack Murphy Live",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-03-17T03:46:43Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt",
+    "position": 33,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "MDZwyvz5DEU"
+    }
   },
   "_id": "MDZwyvz5DEU",
-  "publishedAt": "2020-03-17T03:46:43Z",
+  "publishedAt": "2020-08-09T00:47:04Z",
   "collections": [
-    "https://www.youtube.com/channel/UCJZYQRyRNZ1K0HxtT-6t9bA"
+    "https://www.youtube.com/channel/UCJZYQRyRNZ1K0HxtT-6t9bA",
+    "https://www.youtube.com/playlist?list=PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt"
   ],
-  "type": "youtube-channel-item"
+  "type": "youtube-playlist-item"
 }

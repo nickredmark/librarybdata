@@ -1,0 +1,1959 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.560" end="00:00:08.880" style="s2">welcome to the futurists</p>
+<p begin="00:00:06.319" end="00:00:10.400" style="s2">with ben rhodey and alex lightman today</p>
+<p begin="00:00:08.880" end="00:00:12.320" style="s2">our special guest</p>
+<p begin="00:00:10.400" end="00:00:13.759" style="s2">is daniel schmucktenberger who is the</p>
+<p begin="00:00:12.320" end="00:00:16.480" style="s2">director of research</p>
+<p begin="00:00:13.759" end="00:00:17.039" style="s2">for the neurohacker collective i love</p>
+<p begin="00:00:16.480" end="00:00:20.160" style="s2">the name</p>
+<p begin="00:00:17.039" end="00:00:22.720" style="s2">neurohacker collective the idea is</p>
+<p begin="00:00:20.160" end="00:00:23.199" style="s2">as far as we&#39;ll hear today to bring</p>
+<p begin="00:00:22.720" end="00:00:26.960" style="s2">together</p>
+<p begin="00:00:23.199" end="00:00:29.279" style="s2">some of the best uh science and insights</p>
+<p begin="00:00:26.960" end="00:00:30.080" style="s2">into how to make humans smarter and how</p>
+<p begin="00:00:29.279" end="00:00:32.960" style="s2">to do a variety</p>
+<p begin="00:00:30.080" end="00:00:36.000" style="s2">of things so let me uh first introduce</p>
+<p begin="00:00:32.960" end="00:00:38.879" style="s2">my co-host ben rody say hello ben</p>
+<p begin="00:00:36.000" end="00:00:40.000" style="s2">hey daniel thank you so much for joining</p>
+<p begin="00:00:38.879" end="00:00:41.360" style="s2">us</p>
+<p begin="00:00:40.000" end="00:00:43.040" style="s2">it&#39;s a delight to be here thanks for</p>
+<p begin="00:00:41.360" end="00:00:44.000" style="s2">having me and i want to say too that</p>
+<p begin="00:00:43.040" end="00:00:46.239" style="s2">this is a special</p>
+<p begin="00:00:44.000" end="00:00:48.000" style="s2">show because it&#39;s our first show that</p>
+<p begin="00:00:46.239" end="00:00:52.000" style="s2">we&#39;re doing while ben</p>
+<p begin="00:00:48.000" end="00:00:55.360" style="s2">is in a hurricane costa rica</p>
+<p begin="00:00:52.000" end="00:00:58.480" style="s2">and i&#39;m in santa monica and then um</p>
+<p begin="00:00:55.360" end="00:01:00.000" style="s2">neither rain nor snow not that he&#39;d have</p>
+<p begin="00:00:58.480" end="00:01:00.640" style="s2">that much snow but he does live on a</p>
+<p begin="00:01:00.000" end="00:01:03.359" style="s2">mountain</p>
+<p begin="00:01:00.640" end="00:01:03.920" style="s2">uh neither rain nor snow nor dark of</p>
+<p begin="00:01:03.359" end="00:01:05.600" style="s2">night</p>
+<p begin="00:01:03.920" end="00:01:06.960" style="s2">will keep ben rhody from doing the</p>
+<p begin="00:01:05.600" end="00:01:08.640" style="s2">futurist show</p>
+<p begin="00:01:06.960" end="00:01:10.640" style="s2">it must be it must be something i picked</p>
+<p begin="00:01:08.640" end="00:01:12.560" style="s2">up as a mailman and um</p>
+<p begin="00:01:10.640" end="00:01:14.479" style="s2">i think that i think it&#39;s it&#39;s</p>
+<p begin="00:01:12.560" end="00:01:16.560" style="s2">interesting that we spent the last</p>
+<p begin="00:01:14.479" end="00:01:17.520" style="s2">30 minutes trying to get the technology</p>
+<p begin="00:01:16.560" end="00:01:19.119" style="s2">here so i think like</p>
+<p begin="00:01:17.520" end="00:01:20.799" style="s2">the running joke right now is how many</p>
+<p begin="00:01:19.119" end="00:01:23.920" style="s2">futurists does it take to get</p>
+<p begin="00:01:20.799" end="00:01:25.520" style="s2">to be able to record a damn show um yes</p>
+<p begin="00:01:23.920" end="00:01:27.360" style="s2">and let&#39;s say that so we&#39;re also we&#39;re</p>
+<p begin="00:01:25.520" end="00:01:30.720" style="s2">pre-recording this show it&#39;s</p>
+<p begin="00:01:27.360" end="00:01:34.000" style="s2">it&#39;s uh 7 45 p.m for me</p>
+<p begin="00:01:30.720" end="00:01:35.040" style="s2">because uh daniel is a vampire has a</p>
+<p begin="00:01:34.000" end="00:01:36.880" style="s2">vampire schedule</p>
+<p begin="00:01:35.040" end="00:01:38.400" style="s2">so i&#39;m excited to hear about that at</p>
+<p begin="00:01:36.880" end="00:01:41.520" style="s2">some point um</p>
+<p begin="00:01:38.400" end="00:01:43.119" style="s2">and i&#39;m i&#39;m i read in your bio that</p>
+<p begin="00:01:41.520" end="00:01:44.079" style="s2">about your vampire schedule and says so</p>
+<p begin="00:01:43.119" end="00:01:47.600" style="s2">as long as you&#39;re</p>
+<p begin="00:01:44.079" end="00:01:49.600" style="s2">able to meet daniel halfway um</p>
+<p begin="00:01:47.600" end="00:01:50.880" style="s2">we&#39;ll get a lot out of it so here we are</p>
+<p begin="00:01:49.600" end="00:01:53.119" style="s2">meeting uh</p>
+<p begin="00:01:50.880" end="00:01:55.680" style="s2">meeting the vampire at night and i&#39;m</p>
+<p begin="00:01:53.119" end="00:01:58.799" style="s2">excited to</p>
+<p begin="00:01:55.680" end="00:02:02.880" style="s2">buy it into this topic</p>
+<p begin="00:01:58.799" end="00:02:05.520" style="s2">so first question um we we know about</p>
+<p begin="00:02:02.880" end="00:02:07.119" style="s2">what&#39;s uh daniel what is biohacking and</p>
+<p begin="00:02:05.520" end="00:02:10.319" style="s2">then within biohacking</p>
+<p begin="00:02:07.119" end="00:02:10.319" style="s2">what is neurohacking</p>
+<p begin="00:02:10.800" end="00:02:17.200" style="s2">so biohacking</p>
+<p begin="00:02:14.000" end="00:02:19.760" style="s2">and neural hacking are both uh kind of</p>
+<p begin="00:02:17.200" end="00:02:21.599" style="s2">amorphous and emerging terms</p>
+<p begin="00:02:19.760" end="00:02:23.680" style="s2">biohacking has been you know very</p>
+<p begin="00:02:21.599" end="00:02:25.599" style="s2">popularized with</p>
+<p begin="00:02:23.680" end="00:02:26.720" style="s2">bulletproof and dave asprey and tim</p>
+<p begin="00:02:25.599" end="00:02:28.640" style="s2">ferriss and</p>
+<p begin="00:02:26.720" end="00:02:30.480" style="s2">people like that helping its emergence</p>
+<p begin="00:02:28.640" end="00:02:33.200" style="s2">and you know very much</p>
+<p begin="00:02:30.480" end="00:02:34.239" style="s2">relates to performance enhancements</p>
+<p begin="00:02:33.200" end="00:02:36.319" style="s2">through</p>
+<p begin="00:02:34.239" end="00:02:38.640" style="s2">any methodology it relates to kind of</p>
+<p begin="00:02:36.319" end="00:02:39.760" style="s2">integrative medicine and wellness</p>
+<p begin="00:02:38.640" end="00:02:42.720" style="s2">but from a slightly different</p>
+<p begin="00:02:39.760" end="00:02:42.720" style="s2">perspective of</p>
+<p begin="00:02:43.519" end="00:02:46.720" style="s2">rather than working on the disease model</p>
+<p begin="00:02:45.200" end="00:02:49.120" style="s2">side of it what can we do</p>
+<p begin="00:02:46.720" end="00:02:51.280" style="s2">on the fundamental wellness support and</p>
+<p begin="00:02:49.120" end="00:02:54.239" style="s2">enhancement side of it which</p>
+<p begin="00:02:51.280" end="00:02:55.680" style="s2">has some crossover with uh prevention on</p>
+<p begin="00:02:54.239" end="00:02:58.080" style="s2">the disease side</p>
+<p begin="00:02:55.680" end="00:02:59.920" style="s2">and there&#39;s some kind of idea with</p>
+<p begin="00:02:58.080" end="00:03:02.840" style="s2">regard to hacking that it is</p>
+<p begin="00:02:59.920" end="00:03:05.280" style="s2">a other than an establishment approach</p>
+<p begin="00:03:02.840" end="00:03:07.760" style="s2">to uh how to do this so this is not</p>
+<p begin="00:03:05.280" end="00:03:08.480" style="s2">biohacking is not emerging out of pharma</p>
+<p begin="00:03:07.760" end="00:03:10.720" style="s2">and</p>
+<p begin="00:03:08.480" end="00:03:11.760" style="s2">fda sanctioned kind of science it&#39;s</p>
+<p begin="00:03:10.720" end="00:03:14.720" style="s2">emerging out of</p>
+<p begin="00:03:11.760" end="00:03:16.560" style="s2">citizen science out of uh piecing</p>
+<p begin="00:03:14.720" end="00:03:18.640" style="s2">together science from different places</p>
+<p begin="00:03:16.560" end="00:03:20.000" style="s2">for kind of grander hypotheses out of</p>
+<p begin="00:03:18.640" end="00:03:22.000" style="s2">the fields of</p>
+<p begin="00:03:20.000" end="00:03:23.680" style="s2">uh elite sports and performance</p>
+<p begin="00:03:22.000" end="00:03:26.640" style="s2">enhancement and all like that</p>
+<p begin="00:03:23.680" end="00:03:27.840" style="s2">and neural hacking correspondingly is</p>
+<p begin="00:03:26.640" end="00:03:29.360" style="s2">you could think of it as a</p>
+<p begin="00:03:27.840" end="00:03:31.200" style="s2">subset of biohacking or you could think</p>
+<p begin="00:03:29.360" end="00:03:35.040" style="s2">of it in kind of a venn diagram</p>
+<p begin="00:03:31.200" end="00:03:37.280" style="s2">the way we think about neural hacking is</p>
+<p begin="00:03:35.040" end="00:03:39.120" style="s2">really being able to hack the mind brain</p>
+<p begin="00:03:37.280" end="00:03:40.400" style="s2">interface to be able to optimize</p>
+<p begin="00:03:39.120" end="00:03:43.440" style="s2">people&#39;s cognitive</p>
+<p begin="00:03:40.400" end="00:03:45.519" style="s2">and psychological well-being</p>
+<p begin="00:03:43.440" end="00:03:47.200" style="s2">and capabilities so how do we enhance</p>
+<p begin="00:03:45.519" end="00:03:49.760" style="s2">human experience</p>
+<p begin="00:03:47.200" end="00:03:51.440" style="s2">and enhance human capacity cognitively</p>
+<p begin="00:03:49.760" end="00:03:53.599" style="s2">psychologically through</p>
+<p begin="00:03:51.440" end="00:03:56.000" style="s2">both physiological and psychological</p>
+<p begin="00:03:53.599" end="00:03:58.640" style="s2">techniques and processes</p>
+<p begin="00:03:56.000" end="00:04:00.159" style="s2">daniel what would uh what do you think</p>
+<p begin="00:03:58.640" end="00:04:02.640" style="s2">of the biggest six</p>
+<p begin="00:04:00.159" end="00:04:03.680" style="s2">testes to date of biohacking or neural</p>
+<p begin="00:04:02.640" end="00:04:06.879" style="s2">hacking</p>
+<p begin="00:04:03.680" end="00:04:06.879" style="s2">oh i like this question</p>
+<p begin="00:04:08.319" end="00:04:15.439" style="s2">well it&#39;s a good question uh</p>
+<p begin="00:04:12.560" end="00:04:17.040" style="s2">i think since these are kind of newer</p>
+<p begin="00:04:15.439" end="00:04:20.000" style="s2">spaces in the way that they</p>
+<p begin="00:04:17.040" end="00:04:20.639" style="s2">are emerging some of their success is</p>
+<p begin="00:04:20.000" end="00:04:22.720" style="s2">that they are</p>
+<p begin="00:04:20.639" end="00:04:25.919" style="s2">actually emerging spaces where people</p>
+<p begin="00:04:22.720" end="00:04:27.759" style="s2">are uh finding solutions</p>
+<p begin="00:04:25.919" end="00:04:29.520" style="s2">to kind of elite performance that didn&#39;t</p>
+<p begin="00:04:27.759" end="00:04:31.120" style="s2">exist in the medical world</p>
+<p begin="00:04:29.520" end="00:04:33.040" style="s2">that some of the knowledge that had been</p>
+<p begin="00:04:31.120" end="00:04:34.560" style="s2">in very niche worlds is becoming more</p>
+<p begin="00:04:33.040" end="00:04:36.880" style="s2">popularly available</p>
+<p begin="00:04:34.560" end="00:04:38.320" style="s2">and that in kind of the overlap with the</p>
+<p begin="00:04:36.880" end="00:04:40.639" style="s2">integrative medicine world people are</p>
+<p begin="00:04:38.320" end="00:04:42.240" style="s2">finding solutions to better health that</p>
+<p begin="00:04:40.639" end="00:04:44.080" style="s2">they had not found</p>
+<p begin="00:04:42.240" end="00:04:45.520" style="s2">elsewhere and i would say in better</p>
+<p begin="00:04:44.080" end="00:04:47.199" style="s2">health and well-being</p>
+<p begin="00:04:45.520" end="00:04:49.280" style="s2">i would say that there are some good</p>
+<p begin="00:04:47.199" end="00:04:51.120" style="s2">successes across a number of different</p>
+<p begin="00:04:49.280" end="00:04:54.160" style="s2">verticals whether we&#39;re talking about</p>
+<p begin="00:04:51.120" end="00:04:57.120" style="s2">athletics and weight and fitness or</p>
+<p begin="00:04:54.160" end="00:04:58.400" style="s2">sleep optimization or uh you know</p>
+<p begin="00:04:57.120" end="00:04:59.840" style="s2">cognitive optimization i</p>
+<p begin="00:04:58.400" end="00:05:01.199" style="s2">i think there&#39;s actually a number of</p>
+<p begin="00:04:59.840" end="00:05:02.400" style="s2">meaningful things that have happened in</p>
+<p begin="00:05:01.199" end="00:05:04.720" style="s2">all those spaces</p>
+<p begin="00:05:02.400" end="00:05:06.400" style="s2">well i&#39;d like to tell our audience one</p>
+<p begin="00:05:04.720" end="00:05:08.639" style="s2">stat in case you&#39;re thinking</p>
+<p begin="00:05:06.400" end="00:05:09.759" style="s2">oh this is kind of cute it&#39;s nice it&#39;s</p>
+<p begin="00:05:08.639" end="00:05:12.639" style="s2">just having fun</p>
+<p begin="00:05:09.759" end="00:05:14.960" style="s2">this folks this is deadly serious you</p>
+<p begin="00:05:12.639" end="00:05:17.440" style="s2">know when the last time</p>
+<p begin="00:05:14.960" end="00:05:19.440" style="s2">i bet daniel knows this the last time</p>
+<p begin="00:05:17.440" end="00:05:22.479" style="s2">that the fda approved a drug for</p>
+<p begin="00:05:19.440" end="00:05:25.680" style="s2">alzheimer&#39;s do you know when that was</p>
+<p begin="00:05:22.479" end="00:05:29.680" style="s2">i&#39;m gonna say no for everybody okay</p>
+<p begin="00:05:25.680" end="00:05:31.680" style="s2">it was 2003. it was 13 years ago</p>
+<p begin="00:05:29.680" end="00:05:33.280" style="s2">so here we have the group of people with</p>
+<p begin="00:05:31.680" end="00:05:34.320" style="s2">alzheimer&#39;s it&#39;s one of the fastest</p>
+<p begin="00:05:33.280" end="00:05:37.759" style="s2">growing</p>
+<p begin="00:05:34.320" end="00:05:41.280" style="s2">populations in the world and it&#39;s</p>
+<p begin="00:05:37.759" end="00:05:43.919" style="s2">it&#39;s exploding and we have not been</p>
+<p begin="00:05:41.280" end="00:05:45.039" style="s2">we haven&#39;t approved a drug now this show</p>
+<p begin="00:05:43.919" end="00:05:46.720" style="s2">uh takes place</p>
+<p begin="00:05:45.039" end="00:05:48.240" style="s2">post donald trump being elected</p>
+<p begin="00:05:46.720" end="00:05:50.320" style="s2">president united states</p>
+<p begin="00:05:48.240" end="00:05:51.440" style="s2">and i think one of his most interesting</p>
+<p begin="00:05:50.320" end="00:05:54.240" style="s2">proposals</p>
+<p begin="00:05:51.440" end="00:05:56.240" style="s2">is that he says there are 4 000 drugs</p>
+<p begin="00:05:54.240" end="00:05:58.639" style="s2">awaiting approval at the fda</p>
+<p begin="00:05:56.240" end="00:05:59.360" style="s2">and he wants to accelerate that so what</p>
+<p begin="00:05:58.639" end="00:06:01.759" style="s2">i see</p>
+<p begin="00:05:59.360" end="00:06:02.639" style="s2">is that there&#39;s a tremendous pent-up</p>
+<p begin="00:06:01.759" end="00:06:05.680" style="s2">demand</p>
+<p begin="00:06:02.639" end="00:06:09.680" style="s2">for a better faster cheaper</p>
+<p begin="00:06:05.680" end="00:06:12.319" style="s2">more effective less less industrial</p>
+<p begin="00:06:09.680" end="00:06:13.039" style="s2">uh less orthodox way of approaching</p>
+<p begin="00:06:12.319" end="00:06:16.000" style="s2">health</p>
+<p begin="00:06:13.039" end="00:06:17.039" style="s2">and achievement of human potential so</p>
+<p begin="00:06:16.000" end="00:06:19.039" style="s2">daniel what uh</p>
+<p begin="00:06:17.039" end="00:06:21.039" style="s2">what do you think that we&#39;re doing wrong</p>
+<p begin="00:06:19.039" end="00:06:23.680" style="s2">and what do we need to be doing</p>
+<p begin="00:06:21.039" end="00:06:26.000" style="s2">better as a society and what role do the</p>
+<p begin="00:06:23.680" end="00:06:29.440" style="s2">does neuro hack king and the neurohoc</p>
+<p begin="00:06:26.000" end="00:06:32.080" style="s2">neurohakka collective play in this</p>
+<p begin="00:06:29.440" end="00:06:33.600" style="s2">that&#39;s a lot of big questions um i want</p>
+<p begin="00:06:32.080" end="00:06:36.479" style="s2">to just kind of speak to</p>
+<p begin="00:06:33.600" end="00:06:38.160" style="s2">the drug discovery and approval process</p>
+<p begin="00:06:36.479" end="00:06:39.520" style="s2">and the regulatory processes for a</p>
+<p begin="00:06:38.160" end="00:06:42.560" style="s2">moment</p>
+<p begin="00:06:39.520" end="00:06:43.360" style="s2">i think we do need to take a major step</p>
+<p begin="00:06:42.560" end="00:06:45.600" style="s2">forward in</p>
+<p begin="00:06:43.360" end="00:06:46.639" style="s2">how we do medicine and how we do</p>
+<p begin="00:06:45.600" end="00:06:48.319" style="s2">wellness</p>
+<p begin="00:06:46.639" end="00:06:50.240" style="s2">but it is getting to take an</p>
+<p begin="00:06:48.319" end="00:06:51.919" style="s2">evolutionary step that is standing on</p>
+<p begin="00:06:50.240" end="00:06:52.960" style="s2">the shoulders of previous successes</p>
+<p begin="00:06:51.919" end="00:06:55.599" style="s2">rather than</p>
+<p begin="00:06:52.960" end="00:06:57.039" style="s2">um things that didn&#39;t make any sense</p>
+<p begin="00:06:55.599" end="00:06:58.319" style="s2">when you think about the history of the</p>
+<p begin="00:06:57.039" end="00:07:00.560" style="s2">fda we have</p>
+<p begin="00:06:58.319" end="00:07:02.800" style="s2">the fda really gaining you know a lot of</p>
+<p begin="00:07:00.560" end="00:07:05.280" style="s2">necessary traction after thalidomide</p>
+<p begin="00:07:02.800" end="00:07:07.199" style="s2">when a drug that did work for morning</p>
+<p begin="00:07:05.280" end="00:07:08.240" style="s2">sickness and pregnancy got moved forward</p>
+<p begin="00:07:07.199" end="00:07:09.840" style="s2">too quickly and</p>
+<p begin="00:07:08.240" end="00:07:11.599" style="s2">caused meaningful birth defects so</p>
+<p begin="00:07:09.840" end="00:07:13.039" style="s2">there&#39;s this question of if you have</p>
+<p begin="00:07:11.599" end="00:07:16.800" style="s2">delayed causation</p>
+<p begin="00:07:13.039" end="00:07:19.120" style="s2">and very meaningful side effects</p>
+<p begin="00:07:16.800" end="00:07:20.000" style="s2">how much of a longitudinal study do you</p>
+<p begin="00:07:19.120" end="00:07:22.319" style="s2">need to do</p>
+<p begin="00:07:20.000" end="00:07:23.520" style="s2">how big of a group needs studied on to</p>
+<p begin="00:07:22.319" end="00:07:26.319" style="s2">know if there are</p>
+<p begin="00:07:23.520" end="00:07:28.080" style="s2">rare but very serious effects so these</p>
+<p begin="00:07:26.319" end="00:07:30.800" style="s2">are not trivial issues</p>
+<p begin="00:07:28.080" end="00:07:32.800" style="s2">um and so there is a purpose for</p>
+<p begin="00:07:30.800" end="00:07:36.400" style="s2">appropriate methodology</p>
+<p begin="00:07:32.800" end="00:07:37.919" style="s2">that we very much respect uh and</p>
+<p begin="00:07:36.400" end="00:07:40.080" style="s2">i would say the current system has a</p>
+<p begin="00:07:37.919" end="00:07:41.919" style="s2">number of limitations when we&#39;re looking</p>
+<p begin="00:07:40.080" end="00:07:44.080" style="s2">at for instance animal trials there&#39;s a</p>
+<p begin="00:07:41.919" end="00:07:45.599" style="s2">number of places where</p>
+<p begin="00:07:44.080" end="00:07:48.560" style="s2">the data we&#39;re getting from animal</p>
+<p begin="00:07:45.599" end="00:07:51.440" style="s2">trials really doesn&#39;t cross over into</p>
+<p begin="00:07:48.560" end="00:07:52.240" style="s2">human biology well enough and it is a</p>
+<p begin="00:07:51.440" end="00:07:54.000" style="s2">it&#39;s both</p>
+<p begin="00:07:52.240" end="00:07:55.440" style="s2">scientifically and ethically not the</p>
+<p begin="00:07:54.000" end="00:07:58.080" style="s2">best of how we can do it</p>
+<p begin="00:07:55.440" end="00:07:59.280" style="s2">moving forward as we start to get into</p>
+<p begin="00:07:58.080" end="00:08:01.680" style="s2">personalized medicine</p>
+<p begin="00:07:59.280" end="00:08:03.120" style="s2">and wanting to be able to address an</p>
+<p begin="00:08:01.680" end="00:08:04.720" style="s2">individual person&#39;s health</p>
+<p begin="00:08:03.120" end="00:08:06.400" style="s2">uniquely differently based on their</p>
+<p begin="00:08:04.720" end="00:08:08.080" style="s2">genome based on their whole history of</p>
+<p begin="00:08:06.400" end="00:08:09.520" style="s2">life and exposure their microbiome than</p>
+<p begin="00:08:08.080" end="00:08:11.440" style="s2">we would someone else</p>
+<p begin="00:08:09.520" end="00:08:13.039" style="s2">clinical trials aren&#39;t an adequate way</p>
+<p begin="00:08:11.440" end="00:08:14.400" style="s2">to know how to do that because we&#39;re not</p>
+<p begin="00:08:13.039" end="00:08:16.720" style="s2">going to be looking at</p>
+<p begin="00:08:14.400" end="00:08:17.759" style="s2">one drug intervention we&#39;re going to be</p>
+<p begin="00:08:16.720" end="00:08:19.840" style="s2">looking at</p>
+<p begin="00:08:17.759" end="00:08:21.199" style="s2">some weighted combination of a number of</p>
+<p begin="00:08:19.840" end="00:08:23.199" style="s2">different things that might have never</p>
+<p begin="00:08:21.199" end="00:08:24.560" style="s2">been used in exactly that ratio for</p>
+<p begin="00:08:23.199" end="00:08:26.240" style="s2">exactly this person before</p>
+<p begin="00:08:24.560" end="00:08:28.000" style="s2">so getting into n equals one</p>
+<p begin="00:08:26.240" end="00:08:29.120" style="s2">optimization is a totally different kind</p>
+<p begin="00:08:28.000" end="00:08:31.919" style="s2">of science</p>
+<p begin="00:08:29.120" end="00:08:32.719" style="s2">and being able to do more decentralized</p>
+<p begin="00:08:31.919" end="00:08:35.039" style="s2">science</p>
+<p begin="00:08:32.719" end="00:08:36.240" style="s2">synthesize what we know across so many</p>
+<p begin="00:08:35.039" end="00:08:38.000" style="s2">spaces</p>
+<p begin="00:08:36.240" end="00:08:39.680" style="s2">and include citizen science and i think</p>
+<p begin="00:08:38.000" end="00:08:42.719" style="s2">these are all parts of</p>
+<p begin="00:08:39.680" end="00:08:44.399" style="s2">some of the next steps of of scientific</p>
+<p begin="00:08:42.719" end="00:08:46.720" style="s2">evolution that have to happen</p>
+<p begin="00:08:44.399" end="00:08:50.080" style="s2">great so if this is the future of</p>
+<p begin="00:08:46.720" end="00:08:50.080" style="s2">medicine what does this look like</p>
+<p begin="00:08:51.680" end="00:08:55.279" style="s2">i think the biggest thing that i would</p>
+<p begin="00:08:53.680" end="00:08:56.080" style="s2">speak to regarding the future of</p>
+<p begin="00:08:55.279" end="00:08:58.399" style="s2">medicine</p>
+<p begin="00:08:56.080" end="00:09:00.560" style="s2">because there&#39;s going to be evolutions</p>
+<p begin="00:08:58.399" end="00:09:03.360" style="s2">in diagnostic technologies</p>
+<p begin="00:09:00.560" end="00:09:04.959" style="s2">evolutions and therapeutic technologies</p>
+<p begin="00:09:03.360" end="00:09:06.880" style="s2">both on the</p>
+<p begin="00:09:04.959" end="00:09:08.320" style="s2">surgical acute medicine and on the</p>
+<p begin="00:09:06.880" end="00:09:11.600" style="s2">chronic uh</p>
+<p begin="00:09:08.320" end="00:09:14.720" style="s2">you know health side as well as</p>
+<p begin="00:09:11.600" end="00:09:16.080" style="s2">evolutions in um neural hacking</p>
+<p begin="00:09:14.720" end="00:09:19.200" style="s2">biohacking for</p>
+<p begin="00:09:16.080" end="00:09:20.560" style="s2">elite optimization and for radical life</p>
+<p begin="00:09:19.200" end="00:09:22.000" style="s2">extension there&#39;s going to be</p>
+<p begin="00:09:20.560" end="00:09:24.399" style="s2">technological solutions in all those</p>
+<p begin="00:09:22.000" end="00:09:27.200" style="s2">areas the thing that i think is most</p>
+<p begin="00:09:24.399" end="00:09:28.160" style="s2">significant is how it all fits together</p>
+<p begin="00:09:27.200" end="00:09:31.120" style="s2">which is</p>
+<p begin="00:09:28.160" end="00:09:33.600" style="s2">a fundamentally upgraded model for</p>
+<p begin="00:09:31.120" end="00:09:36.640" style="s2">understanding what health and wellness</p>
+<p begin="00:09:33.600" end="00:09:37.920" style="s2">and biological resilience is and</p>
+<p begin="00:09:36.640" end="00:09:40.480" style="s2">understanding</p>
+<p begin="00:09:37.920" end="00:09:43.279" style="s2">what illness is how illness happens in</p>
+<p begin="00:09:40.480" end="00:09:46.320" style="s2">in a more complex and complete way that</p>
+<p begin="00:09:43.279" end="00:09:47.279" style="s2">uh doesn&#39;t have autoimmune diseases and</p>
+<p begin="00:09:46.320" end="00:09:50.640" style="s2">neurodigen</p>
+<p begin="00:09:47.279" end="00:09:54.240" style="s2">and so many cancers um underexplained</p>
+<p begin="00:09:50.640" end="00:09:55.760" style="s2">but actually can have detailed and</p>
+<p begin="00:09:54.240" end="00:09:57.360" style="s2">personalized explanations for these</p>
+<p begin="00:09:55.760" end="00:09:59.680" style="s2">things that lead to</p>
+<p begin="00:09:57.360" end="00:10:01.120" style="s2">cause level solutions and so if we want</p>
+<p begin="00:09:59.680" end="00:10:03.200" style="s2">to dive in a little bit deeper</p>
+<p begin="00:10:01.120" end="00:10:05.279" style="s2">i can talk about what i think and what</p>
+<p begin="00:10:03.200" end="00:10:08.240" style="s2">we&#39;re working on as an emerging</p>
+<p begin="00:10:05.279" end="00:10:09.120" style="s2">adequate model for understanding health</p>
+<p begin="00:10:08.240" end="00:10:10.800" style="s2">optimization</p>
+<p begin="00:10:09.120" end="00:10:12.880" style="s2">and disease prevention reversal i would</p>
+<p begin="00:10:10.800" end="00:10:13.680" style="s2">love that i just want to make a quick</p>
+<p begin="00:10:12.880" end="00:10:15.279" style="s2">comment</p>
+<p begin="00:10:13.680" end="00:10:17.200" style="s2">because some people in our audience will</p>
+<p begin="00:10:15.279" end="00:10:18.720" style="s2">not have heard the uh the phrase our</p>
+<p begin="00:10:17.200" end="00:10:21.600" style="s2">term</p>
+<p begin="00:10:18.720" end="00:10:22.079" style="s2">citizen science so citizen science is</p>
+<p begin="00:10:21.600" end="00:10:26.399" style="s2">this</p>
+<p begin="00:10:22.079" end="00:10:29.440" style="s2">emerging area that actually returns us</p>
+<p begin="00:10:26.399" end="00:10:31.760" style="s2">to some of the golden ages of</p>
+<p begin="00:10:29.440" end="00:10:33.760" style="s2">of science when people were at home</p>
+<p begin="00:10:31.760" end="00:10:34.560" style="s2">experimenting in their own laboratories</p>
+<p begin="00:10:33.760" end="00:10:36.800" style="s2">you know the does</p>
+<p begin="00:10:34.560" end="00:10:38.320" style="s2">the discovery of oxygen happen in a home</p>
+<p begin="00:10:36.800" end="00:10:40.800" style="s2">laboratory et cetera</p>
+<p begin="00:10:38.320" end="00:10:43.040" style="s2">um i chaired a conference on citizen</p>
+<p begin="00:10:40.800" end="00:10:45.680" style="s2">science the rise of the citizen science</p>
+<p begin="00:10:43.040" end="00:10:46.240" style="s2">scientist in 2010 at harvard that was</p>
+<p begin="00:10:45.680" end="00:10:48.480" style="s2">the first</p>
+<p begin="00:10:46.240" end="00:10:50.480" style="s2">international conference on the topic</p>
+<p begin="00:10:48.480" end="00:10:54.880" style="s2">and one of my favorite examples</p>
+<p begin="00:10:50.480" end="00:10:56.959" style="s2">is people discovering stars and galaxies</p>
+<p begin="00:10:54.880" end="00:10:58.399" style="s2">galaxy zoo you know sort of an open</p>
+<p begin="00:10:56.959" end="00:11:01.040" style="s2">source way of of</p>
+<p begin="00:10:58.399" end="00:11:01.920" style="s2">classifying things and also uh folding</p>
+<p begin="00:11:01.040" end="00:11:04.079" style="s2">at home</p>
+<p begin="00:11:01.920" end="00:11:05.279" style="s2">going and using people&#39;s spare computing</p>
+<p begin="00:11:04.079" end="00:11:08.880" style="s2">power to do</p>
+<p begin="00:11:05.279" end="00:11:11.600" style="s2">um basically go and doing protein uh</p>
+<p begin="00:11:08.880" end="00:11:12.160" style="s2">experiments and analysis that would take</p>
+<p begin="00:11:11.600" end="00:11:14.880" style="s2">uh</p>
+<p begin="00:11:12.160" end="00:11:16.160" style="s2">large numbers of people and cost tens of</p>
+<p begin="00:11:14.880" end="00:11:19.600" style="s2">millions of dollars to do</p>
+<p begin="00:11:16.160" end="00:11:21.839" style="s2">but volunteers can do it and uh also</p>
+<p begin="00:11:19.600" end="00:11:22.720" style="s2">a woman went to burger king once who was</p>
+<p begin="00:11:21.839" end="00:11:24.240" style="s2">a chemist</p>
+<p begin="00:11:22.720" end="00:11:26.240" style="s2">and they were giving away all these free</p>
+<p begin="00:11:24.240" end="00:11:27.120" style="s2">colored glasses and she took one at home</p>
+<p begin="00:11:26.240" end="00:11:29.600" style="s2">crushed it</p>
+<p begin="00:11:27.120" end="00:11:31.680" style="s2">and then she found that it was toxic and</p>
+<p begin="00:11:29.600" end="00:11:33.279" style="s2">so with all the scientists and all the</p>
+<p begin="00:11:31.680" end="00:11:35.200" style="s2">regulatory agencies</p>
+<p begin="00:11:33.279" end="00:11:36.640" style="s2">one person who didn&#39;t who wasn&#39;t the</p>
+<p begin="00:11:35.200" end="00:11:37.839" style="s2">right person in the right place at the</p>
+<p begin="00:11:36.640" end="00:11:39.920" style="s2">right time</p>
+<p begin="00:11:37.839" end="00:11:41.600" style="s2">saved millions of people from being</p>
+<p begin="00:11:39.920" end="00:11:44.160" style="s2">exposed to toxins</p>
+<p begin="00:11:41.600" end="00:11:45.920" style="s2">uh and i would just give um one more</p>
+<p begin="00:11:44.160" end="00:11:49.279" style="s2">example of why citizen scientist</p>
+<p begin="00:11:45.920" end="00:11:52.639" style="s2">uh citizen science is vital right now</p>
+<p begin="00:11:49.279" end="00:11:56.000" style="s2">there&#39;s a big debate about uh trump&#39;s</p>
+<p begin="00:11:52.639" end="00:11:58.560" style="s2">uh appointment of myron ebel i think</p>
+<p begin="00:11:56.000" end="00:12:00.560" style="s2">to be the new head of the environmental</p>
+<p begin="00:11:58.560" end="00:12:02.399" style="s2">protection agency transition</p>
+<p begin="00:12:00.560" end="00:12:04.399" style="s2">and people are saying oh my god it&#39;s</p>
+<p begin="00:12:02.399" end="00:12:07.680" style="s2">gonna we&#39;re gonna reduce protections</p>
+<p begin="00:12:04.399" end="00:12:10.600" style="s2">the fact is that the epa only tracks 13</p>
+<p begin="00:12:07.680" end="00:12:11.760" style="s2">chemicals and fracking has been used for</p>
+<p begin="00:12:10.600" end="00:12:14.639" style="s2">150</p>
+<p begin="00:12:11.760" end="00:12:15.760" style="s2">000 wells or more and it has 500</p>
+<p begin="00:12:14.639" end="00:12:18.560" style="s2">chemicals</p>
+<p begin="00:12:15.760" end="00:12:20.480" style="s2">so i don&#39;t see the federal government i</p>
+<p begin="00:12:18.560" end="00:12:22.240" style="s2">think this is a great metric we can look</p>
+<p begin="00:12:20.480" end="00:12:22.959" style="s2">at the federal government with all of</p>
+<p begin="00:12:22.240" end="00:12:25.519" style="s2">its</p>
+<p begin="00:12:22.959" end="00:12:26.160" style="s2">power and money and 4 trillion a year is</p>
+<p begin="00:12:25.519" end="00:12:29.360" style="s2">only</p>
+<p begin="00:12:26.160" end="00:12:32.320" style="s2">tracking 13 chemicals out of 500 but</p>
+<p begin="00:12:29.360" end="00:12:34.079" style="s2">many of those others ones are toxic so</p>
+<p begin="00:12:32.320" end="00:12:34.880" style="s2">citizen science is one of the most</p>
+<p begin="00:12:34.079" end="00:12:37.279" style="s2">important</p>
+<p begin="00:12:34.880" end="00:12:39.120" style="s2">movements to protect our health and to</p>
+<p begin="00:12:37.279" end="00:12:42.240" style="s2">come up with new innovations that we can</p>
+<p begin="00:12:39.120" end="00:12:43.519" style="s2">that we that we have so um i appreciate</p>
+<p begin="00:12:42.240" end="00:12:46.240" style="s2">you bringing that up</p>
+<p begin="00:12:43.519" end="00:12:48.000" style="s2">and um now we can go back to the to what</p>
+<p begin="00:12:46.240" end="00:12:52.160" style="s2">neurohacker collective is doing and i</p>
+<p begin="00:12:48.000" end="00:12:52.880" style="s2">i can&#39;t wait to hear when in the health</p>
+<p begin="00:12:52.160" end="00:12:55.200" style="s2">and medicine</p>
+<p begin="00:12:52.880" end="00:12:57.200" style="s2">and human biology space in particular</p>
+<p begin="00:12:55.200" end="00:12:59.600" style="s2">the rise of quantified self</p>
+<p begin="00:12:57.200" end="00:13:00.399" style="s2">so all the different kind of tracking</p>
+<p begin="00:12:59.600" end="00:13:02.160" style="s2">devices</p>
+<p begin="00:13:00.399" end="00:13:04.079" style="s2">and you know wearables where we can</p>
+<p begin="00:13:02.160" end="00:13:07.440" style="s2">track heart rate variability or</p>
+<p begin="00:13:04.079" end="00:13:10.079" style="s2">gsr or so many things and the rise of</p>
+<p begin="00:13:07.440" end="00:13:12.399" style="s2">uh apps software for tracking cognitive</p>
+<p begin="00:13:10.079" end="00:13:14.320" style="s2">metrics psychometrics</p>
+<p begin="00:13:12.399" end="00:13:16.240" style="s2">people&#39;s ability to test their own</p>
+<p begin="00:13:14.320" end="00:13:18.880" style="s2">well-being and even hardware</p>
+<p begin="00:13:16.240" end="00:13:20.880" style="s2">for people to you know test glucose more</p>
+<p begin="00:13:18.880" end="00:13:23.200" style="s2">regularly or ketones or anything at home</p>
+<p begin="00:13:20.880" end="00:13:24.079" style="s2">and there&#39;s a huge trend in these kinds</p>
+<p begin="00:13:23.200" end="00:13:26.720" style="s2">of</p>
+<p begin="00:13:24.079" end="00:13:28.800" style="s2">decentralized medical technologies and</p>
+<p begin="00:13:26.720" end="00:13:32.839" style="s2">wellness technologies emerging</p>
+<p begin="00:13:28.800" end="00:13:34.880" style="s2">this doesn&#39;t give us traditional</p>
+<p begin="00:13:32.839" end="00:13:36.320" style="s2">placebo-controlled clinical randomized</p>
+<p begin="00:13:34.880" end="00:13:38.480" style="s2">research but it does give us</p>
+<p begin="00:13:36.320" end="00:13:40.720" style="s2">meaningful data over very huge data sets</p>
+<p begin="00:13:38.480" end="00:13:43.199" style="s2">that we can do statistical analysis on</p>
+<p begin="00:13:40.720" end="00:13:44.880" style="s2">as that data starts to be shared in</p>
+<p begin="00:13:43.199" end="00:13:47.199" style="s2">meaningful and structured ways</p>
+<p begin="00:13:44.880" end="00:13:48.639" style="s2">so i think one of the reasons that we</p>
+<p begin="00:13:47.199" end="00:13:52.320" style="s2">have this rise of</p>
+<p begin="00:13:48.639" end="00:13:53.680" style="s2">citizen science is that we have</p>
+<p begin="00:13:52.320" end="00:13:55.680" style="s2">so much more access to actually</p>
+<p begin="00:13:53.680" end="00:13:56.880" style="s2">scientific tools decentralized</p>
+<p begin="00:13:55.680" end="00:13:59.680" style="s2">scientific tools</p>
+<p begin="00:13:56.880" end="00:14:01.040" style="s2">and then access to information</p>
+<p begin="00:13:59.680" end="00:14:02.800" style="s2">processing that we didn&#39;t have</p>
+<p begin="00:14:01.040" end="00:14:03.839" style="s2">previously in the form of like you&#39;re</p>
+<p begin="00:14:02.800" end="00:14:06.000" style="s2">mentioning</p>
+<p begin="00:14:03.839" end="00:14:07.279" style="s2">advanced computational capabilities to</p>
+<p begin="00:14:06.000" end="00:14:08.959" style="s2">do protein folding</p>
+<p begin="00:14:07.279" end="00:14:11.120" style="s2">and you know one of the things for</p>
+<p begin="00:14:08.959" end="00:14:11.680" style="s2">instance that our company is working on</p>
+<p begin="00:14:11.120" end="00:14:14.880" style="s2">right now</p>
+<p begin="00:14:11.680" end="00:14:17.120" style="s2">is an app that can synthesize</p>
+<p begin="00:14:14.880" end="00:14:18.399" style="s2">biometrics and psychometrics from many</p>
+<p begin="00:14:17.120" end="00:14:20.399" style="s2">different sources into</p>
+<p begin="00:14:18.399" end="00:14:21.680" style="s2">one platform and then not only look at</p>
+<p begin="00:14:20.399" end="00:14:23.440" style="s2">those biometrics</p>
+<p begin="00:14:21.680" end="00:14:25.440" style="s2">with regard to you know where the</p>
+<p begin="00:14:23.440" end="00:14:26.560" style="s2">numbers at on a reference range but</p>
+<p begin="00:14:25.440" end="00:14:28.000" style="s2">where all the numbers are at in</p>
+<p begin="00:14:26.560" end="00:14:29.760" style="s2">relationship to each other</p>
+<p begin="00:14:28.000" end="00:14:32.399" style="s2">factoring all the complex causation</p>
+<p begin="00:14:29.760" end="00:14:32.399" style="s2">that&#39;s known about</p>
+<p begin="00:14:33.760" end="00:14:38.639" style="s2">wow i&#39;m just i&#39;m listening to so when i</p>
+<p begin="00:14:36.399" end="00:14:39.600" style="s2">listen to your talk i i notice the way</p>
+<p begin="00:14:38.639" end="00:14:43.199" style="s2">that</p>
+<p begin="00:14:39.600" end="00:14:44.000" style="s2">your brain works that that like i&#39;m</p>
+<p begin="00:14:43.199" end="00:14:47.600" style="s2">imagining</p>
+<p begin="00:14:44.000" end="00:14:50.560" style="s2">being inside of your brain and</p>
+<p begin="00:14:47.600" end="00:14:51.360" style="s2">and the way that you speak is so like</p>
+<p begin="00:14:50.560" end="00:14:54.240" style="s2">yes</p>
+<p begin="00:14:51.360" end="00:14:55.279" style="s2">it&#39;s so technical and it&#39;s so academic</p>
+<p begin="00:14:54.240" end="00:14:58.560" style="s2">and i remember</p>
+<p begin="00:14:55.279" end="00:15:01.040" style="s2">i&#39;m thinking about reading your your bio</p>
+<p begin="00:14:58.560" end="00:15:02.639" style="s2">and uh one of your bios that i really</p>
+<p begin="00:15:01.040" end="00:15:05.760" style="s2">liked was</p>
+<p begin="00:15:02.639" end="00:15:06.720" style="s2">um you said i didn&#39;t have to unlearn all</p>
+<p begin="00:15:05.760" end="00:15:08.800" style="s2">the stuff that</p>
+<p begin="00:15:06.720" end="00:15:10.399" style="s2">basically everybody&#39;s taught through the</p>
+<p begin="00:15:08.800" end="00:15:12.480" style="s2">current education system and that you</p>
+<p begin="00:15:10.399" end="00:15:16.720" style="s2">were raised on buckminster fuller</p>
+<p begin="00:15:12.480" end="00:15:17.839" style="s2">and and uh just all these amazing great</p>
+<p begin="00:15:16.720" end="00:15:21.120" style="s2">minds</p>
+<p begin="00:15:17.839" end="00:15:23.839" style="s2">and so i&#39;m i&#39;m just i&#39;m i&#39;m i&#39;m</p>
+<p begin="00:15:21.120" end="00:15:24.560" style="s2">i&#39;m appreciating that in you and and and</p>
+<p begin="00:15:23.839" end="00:15:26.800" style="s2">so</p>
+<p begin="00:15:24.560" end="00:15:28.560" style="s2">um i don&#39;t want to change the subject if</p>
+<p begin="00:15:26.800" end="00:15:29.839" style="s2">alex has another question about</p>
+<p begin="00:15:28.560" end="00:15:31.759" style="s2">about this and i do want to get into</p>
+<p begin="00:15:29.839" end="00:15:35.199" style="s2">this because i ordered some of your</p>
+<p begin="00:15:31.759" end="00:15:37.680" style="s2">i got on the monthly plan because um</p>
+<p begin="00:15:35.199" end="00:15:39.120" style="s2">my friend daniel raphael highly</p>
+<p begin="00:15:37.680" end="00:15:40.399" style="s2">recommended it and he said it changed</p>
+<p begin="00:15:39.120" end="00:15:43.519" style="s2">his life forever</p>
+<p begin="00:15:40.399" end="00:15:46.000" style="s2">and so so i&#39;m looking forward to</p>
+<p begin="00:15:43.519" end="00:15:47.680" style="s2">getting my my first shipment so i have i</p>
+<p begin="00:15:46.000" end="00:15:48.399" style="s2">have i have more questions about that</p>
+<p begin="00:15:47.680" end="00:15:51.440" style="s2">but</p>
+<p begin="00:15:48.399" end="00:15:54.720" style="s2">um i would like to hear about your</p>
+<p begin="00:15:51.440" end="00:15:56.800" style="s2">just the way that you see the world like</p>
+<p begin="00:15:54.720" end="00:15:58.720" style="s2">like how do you see the future and how</p>
+<p begin="00:15:56.800" end="00:16:02.079" style="s2">do you create the future</p>
+<p begin="00:15:58.720" end="00:16:03.600" style="s2">that maybe most people</p>
+<p begin="00:16:02.079" end="00:16:05.839" style="s2">most people&#39;s brains don&#39;t work like</p>
+<p begin="00:16:03.600" end="00:16:08.560" style="s2">this</p>
+<p begin="00:16:05.839" end="00:16:10.240" style="s2">we could have a conversation sometime on</p>
+<p begin="00:16:08.560" end="00:16:13.440" style="s2">the future of education i</p>
+<p begin="00:16:10.240" end="00:16:16.320" style="s2">i did have this unique fortunate</p>
+<p begin="00:16:13.440" end="00:16:18.000" style="s2">uh childhood where my parents were</p>
+<p begin="00:16:16.320" end="00:16:19.680" style="s2">educational theorists and they wanted to</p>
+<p begin="00:16:18.000" end="00:16:20.800" style="s2">run an educational experiment and this</p>
+<p begin="00:16:19.680" end="00:16:23.440" style="s2">was before</p>
+<p begin="00:16:20.800" end="00:16:24.880" style="s2">the term unschooling uh which has kind</p>
+<p begin="00:16:23.440" end="00:16:27.680" style="s2">of evolved since then</p>
+<p begin="00:16:24.880" end="00:16:29.759" style="s2">which was raising us without any</p>
+<p begin="00:16:27.680" end="00:16:30.560" style="s2">curriculum at all but exposing us to</p>
+<p begin="00:16:29.759" end="00:16:32.079" style="s2">everything</p>
+<p begin="00:16:30.560" end="00:16:33.680" style="s2">that they could expose us to in terms of</p>
+<p begin="00:16:32.079" end="00:16:36.079" style="s2">different topics</p>
+<p begin="00:16:33.680" end="00:16:37.440" style="s2">this is what we&#39;re doing with our kids</p>
+<p begin="00:16:36.079" end="00:16:38.639" style="s2">awesome</p>
+<p begin="00:16:37.440" end="00:16:40.079" style="s2">and then yeah they were just seeing</p>
+<p begin="00:16:38.639" end="00:16:41.920" style="s2">where there were areas of interest and</p>
+<p begin="00:16:40.079" end="00:16:45.199" style="s2">seeing how to facilitate them so</p>
+<p begin="00:16:41.920" end="00:16:46.560" style="s2">i didn&#39;t you know i didn&#39;t learn whole</p>
+<p begin="00:16:45.199" end="00:16:49.199" style="s2">areas of</p>
+<p begin="00:16:46.560" end="00:16:50.000" style="s2">uh spelling grammar american history</p>
+<p begin="00:16:49.199" end="00:16:51.680" style="s2">that one would</p>
+<p begin="00:16:50.000" end="00:16:53.759" style="s2">normally learn have illegible</p>
+<p begin="00:16:51.680" end="00:16:56.639" style="s2">handwriting but i did get to dive</p>
+<p begin="00:16:53.759" end="00:16:58.720" style="s2">much more deeply into the sciences and</p>
+<p begin="00:16:56.639" end="00:17:01.759" style="s2">into activism and into</p>
+<p begin="00:16:58.720" end="00:17:03.040" style="s2">many world philosophies uh then</p>
+<p begin="00:17:01.759" end="00:17:04.880" style="s2">one would otherwise have the opportunity</p>
+<p begin="00:17:03.040" end="00:17:06.720" style="s2">to do and because i didn&#39;t have</p>
+<p begin="00:17:04.880" end="00:17:08.240" style="s2">subject divisions i didn&#39;t think of the</p>
+<p begin="00:17:06.720" end="00:17:08.959" style="s2">world in compartmentalized ways there</p>
+<p begin="00:17:08.240" end="00:17:11.120" style="s2">was a</p>
+<p begin="00:17:08.959" end="00:17:12.079" style="s2">conversation would move between</p>
+<p begin="00:17:11.120" end="00:17:13.520" style="s2">neuroscience</p>
+<p begin="00:17:12.079" end="00:17:14.720" style="s2">and then looking at what&#39;s actually</p>
+<p begin="00:17:13.520" end="00:17:16.319" style="s2">happening at an atomic level</p>
+<p begin="00:17:14.720" end="00:17:19.280" style="s2">understanding</p>
+<p begin="00:17:16.319" end="00:17:20.880" style="s2">so astrophysics to complexity science</p>
+<p begin="00:17:19.280" end="00:17:22.480" style="s2">for how to put it together for deeper</p>
+<p begin="00:17:20.880" end="00:17:23.520" style="s2">underlying you know philosophy around</p>
+<p begin="00:17:22.480" end="00:17:25.039" style="s2">reductionism and</p>
+<p begin="00:17:23.520" end="00:17:27.360" style="s2">mind brain interaction that was just one</p>
+<p begin="00:17:25.039" end="00:17:28.960" style="s2">conversation called how do we go about</p>
+<p begin="00:17:27.360" end="00:17:31.280" style="s2">adequately understanding the nature of</p>
+<p begin="00:17:28.960" end="00:17:34.880" style="s2">reality</p>
+<p begin="00:17:31.280" end="00:17:36.880" style="s2">so when what that means in terms of uh</p>
+<p begin="00:17:34.880" end="00:17:38.320" style="s2">overarching perspective is whether we&#39;re</p>
+<p begin="00:17:36.880" end="00:17:39.440" style="s2">talking about social issues or</p>
+<p begin="00:17:38.320" end="00:17:42.480" style="s2">environmental issues or</p>
+<p begin="00:17:39.440" end="00:17:45.360" style="s2">human biology issues one of the</p>
+<p begin="00:17:42.480" end="00:17:47.039" style="s2">core things that i think that we are not</p>
+<p begin="00:17:45.360" end="00:17:50.240" style="s2">doing adequately currently</p>
+<p begin="00:17:47.039" end="00:17:53.360" style="s2">is understanding all of the various</p>
+<p begin="00:17:50.240" end="00:17:55.200" style="s2">areas of uh interconnectedness and</p>
+<p begin="00:17:53.360" end="00:17:57.679" style="s2">layers of cause and effect</p>
+<p begin="00:17:55.200" end="00:18:00.000" style="s2">so when we&#39;re dealing with climate</p>
+<p begin="00:17:57.679" end="00:18:01.919" style="s2">change and we&#39;re talking about</p>
+<p begin="00:18:00.000" end="00:18:03.760" style="s2">carbon taxes or whatever kind of</p>
+<p begin="00:18:01.919" end="00:18:06.000" style="s2">approaches for climate change that</p>
+<p begin="00:18:03.760" end="00:18:07.280" style="s2">don&#39;t get to fundamentally what all</p>
+<p begin="00:18:06.000" end="00:18:11.200" style="s2">really has to happen</p>
+<p begin="00:18:07.280" end="00:18:13.440" style="s2">to address not emitting greenhouse gases</p>
+<p begin="00:18:11.200" end="00:18:14.960" style="s2">and sequestering them adequately and so</p>
+<p begin="00:18:13.440" end="00:18:16.559" style="s2">you look at why is sequestration</p>
+<p begin="00:18:14.960" end="00:18:17.520" style="s2">decreased of what are all the ways that</p>
+<p begin="00:18:16.559" end="00:18:20.960" style="s2">we cause</p>
+<p begin="00:18:17.520" end="00:18:21.760" style="s2">deforestation damage to uh you know any</p>
+<p begin="00:18:20.960" end="00:18:25.200" style="s2">kind of</p>
+<p begin="00:18:21.760" end="00:18:26.160" style="s2">photosynthesis on land on in water dead</p>
+<p begin="00:18:25.200" end="00:18:27.760" style="s2">zones and oceans</p>
+<p begin="00:18:26.160" end="00:18:29.440" style="s2">you think about all the different kinds</p>
+<p begin="00:18:27.760" end="00:18:30.320" style="s2">of agricultural fluents industrial</p>
+<p begin="00:18:29.440" end="00:18:32.160" style="s2">fluids that are involved</p>
+<p begin="00:18:30.320" end="00:18:33.919" style="s2">the economic drivers of it the</p>
+<p begin="00:18:32.160" end="00:18:36.640" style="s2">underlying economic drivers underneath</p>
+<p begin="00:18:33.919" end="00:18:37.440" style="s2">the you know energy economy an adequate</p>
+<p begin="00:18:36.640" end="00:18:40.400" style="s2">solution</p>
+<p begin="00:18:37.440" end="00:18:43.120" style="s2">involves a lot of things and so we</p>
+<p begin="00:18:40.400" end="00:18:44.720" style="s2">mostly do kind of a symptomatic approach</p>
+<p begin="00:18:43.120" end="00:18:46.799" style="s2">that doesn&#39;t deal with the whole</p>
+<p begin="00:18:44.720" end="00:18:47.760" style="s2">causal taxonomy and that&#39;s the same in</p>
+<p begin="00:18:46.799" end="00:18:49.760" style="s2">medicine</p>
+<p begin="00:18:47.760" end="00:18:51.360" style="s2">and so this is actually very interesting</p>
+<p begin="00:18:49.760" end="00:18:53.039" style="s2">when we talk about why</p>
+<p begin="00:18:51.360" end="00:18:56.320" style="s2">the systems have to evolve is when we</p>
+<p begin="00:18:53.039" end="00:18:59.760" style="s2">have a for-profit medical system</p>
+<p begin="00:18:56.320" end="00:19:02.640" style="s2">where ultimately patients are customers</p>
+<p begin="00:18:59.760" end="00:19:04.480" style="s2">and the you know maximizing the lifetime</p>
+<p begin="00:19:02.640" end="00:19:06.080" style="s2">value of patients</p>
+<p begin="00:19:04.480" end="00:19:07.840" style="s2">means maximizing lifetime value of</p>
+<p begin="00:19:06.080" end="00:19:09.760" style="s2">customers which is something that</p>
+<p begin="00:19:07.840" end="00:19:11.120" style="s2">when you&#39;re doing the numbers of running</p>
+<p begin="00:19:09.760" end="00:19:13.280" style="s2">a business is an automatic</p>
+<p begin="00:19:11.120" end="00:19:14.799" style="s2">kind of calculation if we can figure out</p>
+<p begin="00:19:13.280" end="00:19:15.600" style="s2">how to address symptoms there&#39;s</p>
+<p begin="00:19:14.799" end="00:19:18.240" style="s2">obviously</p>
+<p begin="00:19:15.600" end="00:19:19.679" style="s2">more duration in that profit stream than</p>
+<p begin="00:19:18.240" end="00:19:22.320" style="s2">preventing things</p>
+<p begin="00:19:19.679" end="00:19:23.360" style="s2">from happening at all or quick cures are</p>
+<p begin="00:19:22.320" end="00:19:25.600" style="s2">so it&#39;s like</p>
+<p begin="00:19:23.360" end="00:19:26.880" style="s2">where did the r d budgets even go</p>
+<p begin="00:19:25.600" end="00:19:29.440" style="s2">there&#39;s where there is</p>
+<p begin="00:19:26.880" end="00:19:30.400" style="s2">fiscal incentive for the wrong things</p>
+<p begin="00:19:29.440" end="00:19:32.400" style="s2">where you have</p>
+<p begin="00:19:30.400" end="00:19:34.080" style="s2">some of the most powerful organizations</p>
+<p begin="00:19:32.400" end="00:19:37.360" style="s2">in the world have their own</p>
+<p begin="00:19:34.080" end="00:19:39.440" style="s2">ongoing existence and the</p>
+<p begin="00:19:37.360" end="00:19:40.640" style="s2">health well-being of everyone not</p>
+<p begin="00:19:39.440" end="00:19:42.160" style="s2">aligned</p>
+<p begin="00:19:40.640" end="00:19:43.600" style="s2">and you know from an economic</p>
+<p begin="00:19:42.160" end="00:19:46.160" style="s2">perspective it&#39;s not their fault as</p>
+<p begin="00:19:43.600" end="00:19:48.000" style="s2">organizations it&#39;s a structural issue</p>
+<p begin="00:19:46.160" end="00:19:49.520" style="s2">where you can say theory of markets</p>
+<p begin="00:19:48.000" end="00:19:52.000" style="s2">really shouldn&#39;t apply</p>
+<p begin="00:19:49.520" end="00:19:53.600" style="s2">yeah well they have shareholders to to</p>
+<p begin="00:19:52.000" end="00:19:55.760" style="s2">please and all this so</p>
+<p begin="00:19:53.600" end="00:19:57.840" style="s2">so now you&#39;re you&#39;re you&#39;re mentioning</p>
+<p begin="00:19:55.760" end="00:20:01.280" style="s2">ways that people at home</p>
+<p begin="00:19:57.840" end="00:20:03.600" style="s2">will be able to</p>
+<p begin="00:20:01.280" end="00:20:04.559" style="s2">monitor their own blood sugar and their</p>
+<p begin="00:20:03.600" end="00:20:08.159" style="s2">their own health</p>
+<p begin="00:20:04.559" end="00:20:10.559" style="s2">and and like devices that will uh</p>
+<p begin="00:20:08.159" end="00:20:11.840" style="s2">tell you what&#39;s in your food so what&#39;s</p>
+<p begin="00:20:10.559" end="00:20:13.520" style="s2">the you know i&#39;ve seen a lot of</p>
+<p begin="00:20:11.840" end="00:20:15.440" style="s2">different devices</p>
+<p begin="00:20:13.520" end="00:20:17.280" style="s2">that do a lot of different things but</p>
+<p begin="00:20:15.440" end="00:20:19.280" style="s2">what&#39;s the most comprehensive</p>
+<p begin="00:20:17.280" end="00:20:20.960" style="s2">device that if i had one device that</p>
+<p begin="00:20:19.280" end="00:20:23.520" style="s2">would do everything</p>
+<p begin="00:20:20.960" end="00:20:25.200" style="s2">is this has this been invented is it</p>
+<p begin="00:20:23.520" end="00:20:26.799" style="s2">being invented i think i saw a</p>
+<p begin="00:20:25.200" end="00:20:28.240" style="s2">kickstarter campaign</p>
+<p begin="00:20:26.799" end="00:20:30.400" style="s2">of a device that looked like it was</p>
+<p begin="00:20:28.240" end="00:20:32.480" style="s2">going to do this like read your palm</p>
+<p begin="00:20:30.400" end="00:20:34.400" style="s2">like took a reading from some skin on</p>
+<p begin="00:20:32.480" end="00:20:36.880" style="s2">your palm or something and</p>
+<p begin="00:20:34.400" end="00:20:38.799" style="s2">like this is one of the really big x</p>
+<p begin="00:20:36.880" end="00:20:39.440" style="s2">prizes right now is for the tricorder</p>
+<p begin="00:20:38.799" end="00:20:42.559" style="s2">devices</p>
+<p begin="00:20:39.440" end="00:20:43.840" style="s2">and the tricorder uh medical devices are</p>
+<p begin="00:20:42.559" end="00:20:45.840" style="s2">both</p>
+<p begin="00:20:43.840" end="00:20:48.799" style="s2">for being able to do you know medical</p>
+<p begin="00:20:45.840" end="00:20:51.200" style="s2">diagnostics in rural places where you</p>
+<p begin="00:20:48.799" end="00:20:53.440" style="s2">don&#39;t otherwise have access to</p>
+<p begin="00:20:51.200" end="00:20:55.200" style="s2">formal medical diagnostics but it&#39;s also</p>
+<p begin="00:20:53.440" end="00:20:58.480" style="s2">for at home</p>
+<p begin="00:20:55.200" end="00:21:00.159" style="s2">diagnosis and assessment the</p>
+<p begin="00:20:58.480" end="00:21:02.000" style="s2">the one that i think is probably most</p>
+<p begin="00:21:00.159" end="00:21:04.159" style="s2">promising so far is the gene</p>
+<p begin="00:21:02.000" end="00:21:05.280" style="s2">radar technology it&#39;s at least one of</p>
+<p begin="00:21:04.159" end="00:21:08.159" style="s2">the best ones that</p>
+<p begin="00:21:05.280" end="00:21:09.760" style="s2">anita goal and group from nanobiosim</p>
+<p begin="00:21:08.159" end="00:21:12.799" style="s2">have developed which has</p>
+<p begin="00:21:09.760" end="00:21:14.960" style="s2">the ability to look at pathogens</p>
+<p begin="00:21:12.799" end="00:21:17.280" style="s2">specifically with better accuracy</p>
+<p begin="00:21:14.960" end="00:21:19.520" style="s2">than pcr analysis but without needing to</p>
+<p begin="00:21:17.280" end="00:21:21.760" style="s2">draw blood just on the drop of blood</p>
+<p begin="00:21:19.520" end="00:21:23.840" style="s2">and that and then they&#39;ll be able to</p>
+<p begin="00:21:21.760" end="00:21:25.280" style="s2">move beyond pathogens most likely the</p>
+<p begin="00:21:23.840" end="00:21:27.200" style="s2">key is moving from needing chemical</p>
+<p begin="00:21:25.280" end="00:21:29.039" style="s2">reagents to study the blood to actually</p>
+<p begin="00:21:27.200" end="00:21:32.000" style="s2">being able to study the blood on a chip</p>
+<p begin="00:21:29.039" end="00:21:34.159" style="s2">so you can study many more things</p>
+<p begin="00:21:32.000" end="00:21:36.880" style="s2">accurately with much less</p>
+<p begin="00:21:34.159" end="00:21:38.480" style="s2">blood and much less turnaround time and</p>
+<p begin="00:21:36.880" end="00:21:41.520" style="s2">processing involved</p>
+<p begin="00:21:38.480" end="00:21:44.880" style="s2">i think there are metabolomic solutions</p>
+<p begin="00:21:41.520" end="00:21:45.360" style="s2">for sweat for urine etc that can move</p>
+<p begin="00:21:44.880" end="00:21:48.559" style="s2">from</p>
+<p begin="00:21:45.360" end="00:21:50.159" style="s2">chemical reagents to uh processing on</p>
+<p begin="00:21:48.559" end="00:21:52.320" style="s2">ships that are emerging that are going</p>
+<p begin="00:21:50.159" end="00:21:54.080" style="s2">to be really transformational</p>
+<p begin="00:21:52.320" end="00:21:56.720" style="s2">and one of the areas that i personally</p>
+<p begin="00:21:54.080" end="00:21:58.559" style="s2">have a lot of belief in that&#39;s in the</p>
+<p begin="00:21:56.720" end="00:21:59.919" style="s2">very early stages is laser</p>
+<p begin="00:21:58.559" end="00:22:02.559" style="s2">interferometry</p>
+<p begin="00:21:59.919" end="00:22:04.640" style="s2">for being able to actually just bind</p>
+<p begin="00:22:02.559" end="00:22:06.480" style="s2">beams of light into</p>
+<p begin="00:22:04.640" end="00:22:08.400" style="s2">the you know through the skin into the</p>
+<p begin="00:22:06.480" end="00:22:09.840" style="s2">blood and then based on the chemistry of</p>
+<p begin="00:22:08.400" end="00:22:11.120" style="s2">the blood you get different diffraction</p>
+<p begin="00:22:09.840" end="00:22:13.120" style="s2">patterns you can read the diffraction</p>
+<p begin="00:22:11.120" end="00:22:14.880" style="s2">patterns and as we learn the diffraction</p>
+<p begin="00:22:13.120" end="00:22:16.400" style="s2">patterns of more molecules</p>
+<p begin="00:22:14.880" end="00:22:17.840" style="s2">we could theoretically get the ability</p>
+<p begin="00:22:16.400" end="00:22:20.720" style="s2">to assess almost everything that&#39;s</p>
+<p begin="00:22:17.840" end="00:22:22.080" style="s2">happening in the blood in real time</p>
+<p begin="00:22:20.720" end="00:22:25.280" style="s2">and you can start to imagine what it</p>
+<p begin="00:22:22.080" end="00:22:28.240" style="s2">means to have continuous</p>
+<p begin="00:22:25.280" end="00:22:30.000" style="s2">data on an individual person processing</p>
+<p begin="00:22:28.240" end="00:22:32.480" style="s2">in real time on the cloud</p>
+<p begin="00:22:30.000" end="00:22:34.159" style="s2">where we can really separate and across</p>
+<p begin="00:22:32.480" end="00:22:35.440" style="s2">a huge number of biometrics where we can</p>
+<p begin="00:22:34.159" end="00:22:37.200" style="s2">really separate</p>
+<p begin="00:22:35.440" end="00:22:39.280" style="s2">correlation and causation because we can</p>
+<p begin="00:22:37.200" end="00:22:40.960" style="s2">see which things change first</p>
+<p begin="00:22:39.280" end="00:22:43.039" style="s2">and so we can get big data on a single</p>
+<p begin="00:22:40.960" end="00:22:44.799" style="s2">person and then also across many people</p>
+<p begin="00:22:43.039" end="00:22:46.159" style="s2">and start to get very early predictive</p>
+<p begin="00:22:44.799" end="00:22:47.919" style="s2">analysis for things</p>
+<p begin="00:22:46.159" end="00:22:50.720" style="s2">and start moving towards really</p>
+<p begin="00:22:47.919" end="00:22:52.880" style="s2">customized personalized medicine</p>
+<p begin="00:22:50.720" end="00:22:54.559" style="s2">wow it may sound like it&#39;s like it&#39;s</p>
+<p begin="00:22:52.880" end="00:22:57.360" style="s2">instrumental overkill</p>
+<p begin="00:22:54.559" end="00:22:58.799" style="s2">but daniel makes a very good point um i</p>
+<p begin="00:22:57.360" end="00:23:00.640" style="s2">asked this question i have a bunch of</p>
+<p begin="00:22:58.799" end="00:23:03.760" style="s2">questions that i like to ask people that</p>
+<p begin="00:23:00.640" end="00:23:07.760" style="s2">nobody ever gets right and one of them i</p>
+<p begin="00:23:03.760" end="00:23:10.720" style="s2">i ask is how many chemical reactions</p>
+<p begin="00:23:07.760" end="00:23:12.320" style="s2">are happening in your body you know you</p>
+<p begin="00:23:10.720" end="00:23:13.520" style="s2">can pick whatever period of time but if</p>
+<p begin="00:23:12.320" end="00:23:15.440" style="s2">i say per second</p>
+<p begin="00:23:13.520" end="00:23:17.440" style="s2">nobody ever gets it like some people say</p>
+<p begin="00:23:15.440" end="00:23:21.039" style="s2">10 some people say 100</p>
+<p begin="00:23:17.440" end="00:23:24.960" style="s2">but the real answer is</p>
+<p begin="00:23:21.039" end="00:23:27.760" style="s2">there are basically there are a trillion</p>
+<p begin="00:23:24.960" end="00:23:29.360" style="s2">a tr a trillion chemical a trillion</p>
+<p begin="00:23:27.760" end="00:23:32.720" style="s2">chemical reactions</p>
+<p begin="00:23:29.360" end="00:23:33.760" style="s2">per second yeah it&#39;s</p>
+<p begin="00:23:32.720" end="00:23:35.200" style="s2">we you know we don&#39;t know how to</p>
+<p begin="00:23:33.760" end="00:23:36.240" style="s2">estimate this appropriately and every</p>
+<p begin="00:23:35.200" end="00:23:38.880" style="s2">time we think we do</p>
+<p begin="00:23:36.240" end="00:23:40.640" style="s2">we have another discovery not that long</p>
+<p begin="00:23:38.880" end="00:23:41.840" style="s2">after where it goes up by some orders of</p>
+<p begin="00:23:40.640" end="00:23:44.000" style="s2">magnitude but</p>
+<p begin="00:23:41.840" end="00:23:45.440" style="s2">a trillion metabolic functions per</p>
+<p begin="00:23:44.000" end="00:23:51.520" style="s2">second per cell</p>
+<p begin="00:23:45.440" end="00:23:53.360" style="s2">is a current reasonable estimate and</p>
+<p begin="00:23:51.520" end="00:23:55.279" style="s2">then when you start thinking about you</p>
+<p begin="00:23:53.360" end="00:23:57.279" style="s2">know time synchrony across those and</p>
+<p begin="00:23:55.279" end="00:23:59.440" style="s2">then when you start thinking about</p>
+<p begin="00:23:57.279" end="00:24:00.720" style="s2">sub chemical right information</p>
+<p begin="00:23:59.440" end="00:24:02.240" style="s2">processing uh</p>
+<p begin="00:24:00.720" end="00:24:03.760" style="s2">that might be happening it&#39;s it&#39;s a lot</p>
+<p begin="00:24:02.240" end="00:24:05.760" style="s2">of information and that&#39;s</p>
+<p begin="00:24:03.760" end="00:24:07.600" style="s2">one of the things that really we have to</p>
+<p begin="00:24:05.760" end="00:24:08.440" style="s2">understand about human physiology is</p>
+<p begin="00:24:07.600" end="00:24:10.799" style="s2">that it&#39;s a</p>
+<p begin="00:24:08.440" end="00:24:13.039" style="s2">self-organizing complex system and</p>
+<p begin="00:24:10.799" end="00:24:14.320" style="s2">complex systems and complicated systems</p>
+<p begin="00:24:13.039" end="00:24:16.080" style="s2">are very different</p>
+<p begin="00:24:14.320" end="00:24:17.440" style="s2">complicated systems like a circuit board</p>
+<p begin="00:24:16.080" end="00:24:19.039" style="s2">are not self-organizing they are</p>
+<p begin="00:24:17.440" end="00:24:21.279" style="s2">designed from the outside</p>
+<p begin="00:24:19.039" end="00:24:22.960" style="s2">they&#39;re not fundamentally adaptive and</p>
+<p begin="00:24:21.279" end="00:24:24.960" style="s2">they don&#39;t have causal closure all</p>
+<p begin="00:24:22.960" end="00:24:27.679" style="s2">over all of the input output feedback</p>
+<p begin="00:24:24.960" end="00:24:29.039" style="s2">loops so self-organizing systems</p>
+<p begin="00:24:27.679" end="00:24:30.720" style="s2">are a very unique thing and</p>
+<p begin="00:24:29.039" end="00:24:32.320" style="s2">understanding them actually requires a</p>
+<p begin="00:24:30.720" end="00:24:34.720" style="s2">different kind of scientific approach</p>
+<p begin="00:24:32.320" end="00:24:36.320" style="s2">where you can&#39;t remove the variables</p>
+<p begin="00:24:34.720" end="00:24:37.600" style="s2">understand them in isolation put them</p>
+<p begin="00:24:36.320" end="00:24:39.200" style="s2">back together and think you understand</p>
+<p begin="00:24:37.600" end="00:24:40.880" style="s2">it well because the variables</p>
+<p begin="00:24:39.200" end="00:24:42.960" style="s2">because of combinatorics they actually</p>
+<p begin="00:24:40.880" end="00:24:44.400" style="s2">do different things in relationships</p>
+<p begin="00:24:42.960" end="00:24:46.720" style="s2">than they do separately</p>
+<p begin="00:24:44.400" end="00:24:47.520" style="s2">and the synergy ends up being like like</p>
+<p begin="00:24:46.720" end="00:24:50.400" style="s2">the cell</p>
+<p begin="00:24:47.520" end="00:24:52.000" style="s2">respirates even though no molecules that</p>
+<p begin="00:24:50.400" end="00:24:54.240" style="s2">make up the cell respirator on their own</p>
+<p begin="00:24:52.000" end="00:24:56.640" style="s2">it&#39;s a synergistic emergent property</p>
+<p begin="00:24:54.240" end="00:24:58.080" style="s2">of that order of complexity and so a</p>
+<p begin="00:24:56.640" end="00:24:58.880" style="s2">reductionist approach will give you</p>
+<p begin="00:24:58.080" end="00:25:01.360" style="s2">partial but</p>
+<p begin="00:24:58.880" end="00:25:02.799" style="s2">fundamentally inadequate information so</p>
+<p begin="00:25:01.360" end="00:25:04.480" style="s2">when we look at</p>
+<p begin="00:25:02.799" end="00:25:06.320" style="s2">neurodegeneration or any of the kind of</p>
+<p begin="00:25:04.480" end="00:25:07.039" style="s2">complex diseases part of it is that we</p>
+<p begin="00:25:06.320" end="00:25:10.320" style="s2">can&#39;t</p>
+<p begin="00:25:07.039" end="00:25:12.320" style="s2">split the body up into uh neurology and</p>
+<p begin="00:25:10.320" end="00:25:14.640" style="s2">oncology and gastroenterology</p>
+<p begin="00:25:12.320" end="00:25:16.799" style="s2">and because gastroenterology we can see</p>
+<p begin="00:25:14.640" end="00:25:18.480" style="s2">gut brain access stuff micro</p>
+<p begin="00:25:16.799" end="00:25:20.480" style="s2">biome disorders that are causing</p>
+<p begin="00:25:18.480" end="00:25:21.600" style="s2">neurologic issues the system is too</p>
+<p begin="00:25:20.480" end="00:25:23.679" style="s2">interconnected</p>
+<p begin="00:25:21.600" end="00:25:25.520" style="s2">to be separated that way there are</p>
+<p begin="00:25:23.679" end="00:25:27.760" style="s2">bottom-up processes controlled by</p>
+<p begin="00:25:25.520" end="00:25:30.159" style="s2">genetics and top-down processes can</p>
+<p begin="00:25:27.760" end="00:25:31.039" style="s2">controlled by neuroendocrine process and</p>
+<p begin="00:25:30.159" end="00:25:32.480" style="s2">connectomics</p>
+<p begin="00:25:31.039" end="00:25:34.159" style="s2">that interact with each other to create</p>
+<p begin="00:25:32.480" end="00:25:35.200" style="s2">these very dynamic non-linear</p>
+<p begin="00:25:34.159" end="00:25:37.200" style="s2">equilibriums</p>
+<p begin="00:25:35.200" end="00:25:38.640" style="s2">we have to kind of understand how all</p>
+<p begin="00:25:37.200" end="00:25:39.919" style="s2">those things work and how all the</p>
+<p begin="00:25:38.640" end="00:25:42.480" style="s2">different variables operate</p>
+<p begin="00:25:39.919" end="00:25:44.400" style="s2">differently in relationship and so this</p>
+<p begin="00:25:42.480" end="00:25:46.960" style="s2">is why complexity science</p>
+<p begin="00:25:44.400" end="00:25:48.159" style="s2">is really necessary for understanding</p>
+<p begin="00:25:46.960" end="00:25:49.200" style="s2">biosystems well</p>
+<p begin="00:25:48.159" end="00:25:51.200" style="s2">and then when you start thinking about</p>
+<p begin="00:25:49.200" end="00:25:53.039" style="s2">not just biosystems but biopsycho</p>
+<p begin="00:25:51.200" end="00:25:55.679" style="s2">environmental systems</p>
+<p begin="00:25:53.039" end="00:25:57.600" style="s2">where your body is affecting your</p>
+<p begin="00:25:55.679" end="00:25:59.440" style="s2">psychology but your psychology</p>
+<p begin="00:25:57.600" end="00:26:00.960" style="s2">is affecting your body in turn through</p>
+<p begin="00:25:59.440" end="00:26:02.559" style="s2">kind of psychoneuroimmunological</p>
+<p begin="00:26:00.960" end="00:26:04.720" style="s2">interactions and your environment is</p>
+<p begin="00:26:02.559" end="00:26:07.760" style="s2">affecting you and vice versa</p>
+<p begin="00:26:04.720" end="00:26:09.039" style="s2">to really understand those needs at a</p>
+<p begin="00:26:07.760" end="00:26:11.520" style="s2">different framework</p>
+<p begin="00:26:09.039" end="00:26:12.799" style="s2">for understanding complex causation and</p>
+<p begin="00:26:11.520" end="00:26:13.440" style="s2">that&#39;s actually what i think is at the</p>
+<p begin="00:26:12.799" end="00:26:16.320" style="s2">core</p>
+<p begin="00:26:13.440" end="00:26:17.279" style="s2">of the future of medicine is and it&#39;s</p>
+<p begin="00:26:16.320" end="00:26:18.960" style="s2">where we take</p>
+<p begin="00:26:17.279" end="00:26:20.480" style="s2">incurable diseases where we don&#39;t</p>
+<p begin="00:26:18.960" end="00:26:22.000" style="s2">actually understand the cause and it&#39;s</p>
+<p begin="00:26:20.480" end="00:26:23.360" style="s2">because the cause is not the same thing</p>
+<p begin="00:26:22.000" end="00:26:24.799" style="s2">every time the cause can be very</p>
+<p begin="00:26:23.360" end="00:26:27.279" style="s2">different things</p>
+<p begin="00:26:24.799" end="00:26:28.640" style="s2">for this so two different people&#39;s ms</p>
+<p begin="00:26:27.279" end="00:26:30.720" style="s2">doesn&#39;t necessarily have the same cause</p>
+<p begin="00:26:28.640" end="00:26:33.919" style="s2">we can find</p>
+<p begin="00:26:30.720" end="00:26:35.279" style="s2">statistical correlations of specific</p>
+<p begin="00:26:33.919" end="00:26:37.039" style="s2">pathogens like</p>
+<p begin="00:26:35.279" end="00:26:38.640" style="s2">borrelia burg de ferrai which has some</p>
+<p begin="00:26:37.039" end="00:26:40.400" style="s2">correlation in light of matman&#39;s work or</p>
+<p begin="00:26:38.640" end="00:26:40.799" style="s2">certain funguses that have correlation</p>
+<p begin="00:26:40.400" end="00:26:42.799" style="s2">or</p>
+<p begin="00:26:40.799" end="00:26:44.159" style="s2">certain neurotoxins either heavy metals</p>
+<p begin="00:26:42.799" end="00:26:46.400" style="s2">or organophosphates</p>
+<p begin="00:26:44.159" end="00:26:48.080" style="s2">or certain genetics or certain kind of</p>
+<p begin="00:26:46.400" end="00:26:50.000" style="s2">nutritional deficiencies but the reason</p>
+<p begin="00:26:48.080" end="00:26:52.240" style="s2">that none of them are one-for-one</p>
+<p begin="00:26:50.000" end="00:26:53.840" style="s2">correlations is because there&#39;s a number</p>
+<p begin="00:26:52.240" end="00:26:56.080" style="s2">of different deviations</p>
+<p begin="00:26:53.840" end="00:26:58.320" style="s2">from homeostasis that can lead to the</p>
+<p begin="00:26:56.080" end="00:26:59.520" style="s2">kinds of pathophysiology and causal</p>
+<p begin="00:26:58.320" end="00:27:02.480" style="s2">cascades</p>
+<p begin="00:26:59.520" end="00:27:04.720" style="s2">that lead to those tissues and systems</p>
+<p begin="00:27:02.480" end="00:27:08.080" style="s2">having those kinds of disorders</p>
+<p begin="00:27:04.720" end="00:27:12.159" style="s2">and so we need a an adequate map</p>
+<p begin="00:27:08.080" end="00:27:14.559" style="s2">of how multifactorial</p>
+<p begin="00:27:12.159" end="00:27:15.279" style="s2">complex causal cascades work to then be</p>
+<p begin="00:27:14.559" end="00:27:17.760" style="s2">able to do</p>
+<p begin="00:27:15.279" end="00:27:18.880" style="s2">differential diagnosis across them to</p>
+<p begin="00:27:17.760" end="00:27:20.240" style="s2">find out exactly</p>
+<p begin="00:27:18.880" end="00:27:22.000" style="s2">what weighted combination of which</p>
+<p begin="00:27:20.240" end="00:27:23.760" style="s2">factors are involved for which people</p>
+<p begin="00:27:22.000" end="00:27:26.080" style="s2">and then being able to customize both</p>
+<p begin="00:27:23.760" end="00:27:28.240" style="s2">medicine and optimization for them</p>
+<p begin="00:27:26.080" end="00:27:29.520" style="s2">okay so pay me a picture what does this</p>
+<p begin="00:27:28.240" end="00:27:31.200" style="s2">look like</p>
+<p begin="00:27:29.520" end="00:27:33.520" style="s2">like let&#39;s say there&#39;s somebody at their</p>
+<p begin="00:27:31.200" end="00:27:35.760" style="s2">house they want to figure out</p>
+<p begin="00:27:33.520" end="00:27:37.360" style="s2">what&#39;s my health look like and or what</p>
+<p begin="00:27:35.760" end="00:27:40.960" style="s2">caused my ms</p>
+<p begin="00:27:37.360" end="00:27:44.000" style="s2">um and what can i do about it</p>
+<p begin="00:27:40.960" end="00:27:44.640" style="s2">and so like what what does this machine</p>
+<p begin="00:27:44.000" end="00:27:48.240" style="s2">do this</p>
+<p begin="00:27:44.640" end="00:27:50.000" style="s2">this gene uh this gene machine like</p>
+<p begin="00:27:48.240" end="00:27:51.279" style="s2">what does it do how do they use it and</p>
+<p begin="00:27:50.000" end="00:27:54.399" style="s2">how does it like</p>
+<p begin="00:27:51.279" end="00:27:57.039" style="s2">paint a picture for us that just</p>
+<p begin="00:27:54.399" end="00:27:59.120" style="s2">creates like that would create the value</p>
+<p begin="00:27:57.039" end="00:28:02.640" style="s2">proposition that would make us say oh i</p>
+<p begin="00:27:59.120" end="00:28:05.760" style="s2">get it that makes sense</p>
+<p begin="00:28:02.640" end="00:28:06.320" style="s2">okay so um what i&#39;m talking about right</p>
+<p begin="00:28:05.760" end="00:28:09.200" style="s2">now</p>
+<p begin="00:28:06.320" end="00:28:11.520" style="s2">is actually diagnostics complex system</p>
+<p begin="00:28:09.200" end="00:28:12.880" style="s2">diagnostics and interpretation based on</p>
+<p begin="00:28:11.520" end="00:28:16.000" style="s2">modeling</p>
+<p begin="00:28:12.880" end="00:28:19.200" style="s2">and based on understanding</p>
+<p begin="00:28:16.000" end="00:28:22.000" style="s2">more complexly causation and</p>
+<p begin="00:28:19.200" end="00:28:23.279" style="s2">where the causation is not obvious so</p>
+<p begin="00:28:22.000" end="00:28:25.039" style="s2">causation</p>
+<p begin="00:28:23.279" end="00:28:26.159" style="s2">with a gunshot is obvious right there</p>
+<p begin="00:28:25.039" end="00:28:27.600" style="s2">are certain things where we have very</p>
+<p begin="00:28:26.159" end="00:28:29.440" style="s2">clear causation then we know how to</p>
+<p begin="00:28:27.600" end="00:28:32.320" style="s2">how to treat it but when we&#39;re dealing</p>
+<p begin="00:28:29.440" end="00:28:34.159" style="s2">with very delayed causation where some</p>
+<p begin="00:28:32.320" end="00:28:35.760" style="s2">some cause happens and the effect</p>
+<p begin="00:28:34.159" end="00:28:36.960" style="s2">doesn&#39;t happen in the obvious way for a</p>
+<p begin="00:28:35.760" end="00:28:39.279" style="s2">long time</p>
+<p begin="00:28:36.960" end="00:28:40.559" style="s2">that&#39;s actually tricky or when there are</p>
+<p begin="00:28:39.279" end="00:28:41.840" style="s2">multiple causes</p>
+<p begin="00:28:40.559" end="00:28:44.000" style="s2">that actually all kind of have a</p>
+<p begin="00:28:41.840" end="00:28:46.480" style="s2">confluence together into an emergent</p>
+<p begin="00:28:44.000" end="00:28:48.799" style="s2">set of phenomena that&#39;s tricky or when</p>
+<p begin="00:28:46.480" end="00:28:50.320" style="s2">something has a cause in one system and</p>
+<p begin="00:28:48.799" end="00:28:53.039" style="s2">then it&#39;s affecting a different system</p>
+<p begin="00:28:50.320" end="00:28:55.039" style="s2">or different set of tissues</p>
+<p begin="00:28:53.039" end="00:28:57.440" style="s2">those require a different understanding</p>
+<p begin="00:28:55.039" end="00:29:00.559" style="s2">of how cause and effect</p>
+<p begin="00:28:57.440" end="00:29:03.039" style="s2">works and so um</p>
+<p begin="00:29:00.559" end="00:29:03.840" style="s2">i would say like this think about in</p>
+<p begin="00:29:03.039" end="00:29:05.120" style="s2">order to</p>
+<p begin="00:29:03.840" end="00:29:06.960" style="s2">give you the value prop i actually need</p>
+<p begin="00:29:05.120" end="00:29:08.480" style="s2">to explain the model a little bit and</p>
+<p begin="00:29:06.960" end="00:29:11.679" style="s2">then it&#39;ll make sense</p>
+<p begin="00:29:08.480" end="00:29:14.240" style="s2">so think about what</p>
+<p begin="00:29:11.679" end="00:29:16.320" style="s2">our bodies are as these complex adaptive</p>
+<p begin="00:29:14.240" end="00:29:17.919" style="s2">systems these regulatory systems they&#39;re</p>
+<p begin="00:29:16.320" end="00:29:20.640" style="s2">basically regulating</p>
+<p begin="00:29:17.919" end="00:29:22.720" style="s2">your temperature and your ph and the</p>
+<p begin="00:29:20.640" end="00:29:25.600" style="s2">levels of so many different</p>
+<p begin="00:29:22.720" end="00:29:27.600" style="s2">uh you know biomarkers and processes so</p>
+<p begin="00:29:25.600" end="00:29:30.960" style="s2">it&#39;s a it&#39;s a homeostatic</p>
+<p begin="00:29:27.600" end="00:29:33.279" style="s2">regulatory dynamic regulatory system</p>
+<p begin="00:29:30.960" end="00:29:35.279" style="s2">where all the different regulatory axes</p>
+<p begin="00:29:33.279" end="00:29:38.399" style="s2">are interacting with each other to</p>
+<p begin="00:29:35.279" end="00:29:41.760" style="s2">make this adaptive system and then</p>
+<p begin="00:29:38.399" end="00:29:46.399" style="s2">we can define illness</p>
+<p begin="00:29:41.760" end="00:29:49.440" style="s2">and decreased health</p>
+<p begin="00:29:46.399" end="00:29:52.320" style="s2">in terms of we can think about</p>
+<p begin="00:29:49.440" end="00:29:54.000" style="s2">aging and decreased health as decreased</p>
+<p begin="00:29:52.320" end="00:29:56.320" style="s2">resilience of the homeostatic</p>
+<p begin="00:29:54.000" end="00:29:57.919" style="s2">system decrease regulatory capacity</p>
+<p begin="00:29:56.320" end="00:30:00.640" style="s2">because either there is</p>
+<p begin="00:29:57.919" end="00:30:01.120" style="s2">less range that can be regulated over or</p>
+<p begin="00:30:00.640" end="00:30:05.039" style="s2">less</p>
+<p begin="00:30:01.120" end="00:30:05.600" style="s2">uh ability to move disequilibrius</p>
+<p begin="00:30:05.039" end="00:30:07.520" style="s2">movements</p>
+<p begin="00:30:05.600" end="00:30:09.760" style="s2">out of homeostasis back into homeostasis</p>
+<p begin="00:30:07.520" end="00:30:12.159" style="s2">quicker and so one of the things we want</p>
+<p begin="00:30:09.760" end="00:30:14.880" style="s2">to do is to support the underlying</p>
+<p begin="00:30:12.159" end="00:30:16.640" style="s2">homeostatic not the homeostasis of the</p>
+<p begin="00:30:14.880" end="00:30:18.399" style="s2">system the levels of where things are</p>
+<p begin="00:30:16.640" end="00:30:21.120" style="s2">what your cholesterol levels are</p>
+<p begin="00:30:18.399" end="00:30:22.000" style="s2">this is less interesting than supporting</p>
+<p begin="00:30:21.120" end="00:30:25.120" style="s2">the homeostatic</p>
+<p begin="00:30:22.000" end="00:30:26.799" style="s2">capacity of the system to self-regulate</p>
+<p begin="00:30:25.120" end="00:30:28.960" style="s2">so many things in dynamic equilibrium</p>
+<p begin="00:30:26.799" end="00:30:30.399" style="s2">with each other in relationship</p>
+<p begin="00:30:28.960" end="00:30:32.480" style="s2">to what&#39;s actually happening in the</p>
+<p begin="00:30:30.399" end="00:30:34.320" style="s2">environment so we want to</p>
+<p begin="00:30:32.480" end="00:30:35.760" style="s2">and this is you know this is how do we</p>
+<p begin="00:30:34.320" end="00:30:39.120" style="s2">support things like</p>
+<p begin="00:30:35.760" end="00:30:40.880" style="s2">cellular energy and you know the atp</p>
+<p begin="00:30:39.120" end="00:30:42.320" style="s2">production process how do we support</p>
+<p begin="00:30:40.880" end="00:30:44.640" style="s2">things like autophagy and</p>
+<p begin="00:30:42.320" end="00:30:46.640" style="s2">all of the all of the aspects of just</p>
+<p begin="00:30:44.640" end="00:30:49.919" style="s2">how homeostasis happens</p>
+<p begin="00:30:46.640" end="00:30:50.640" style="s2">systemically and this is kind of we can</p>
+<p begin="00:30:49.919" end="00:30:52.880" style="s2">think about as</p>
+<p begin="00:30:50.640" end="00:30:54.399" style="s2">prevention of illness and supporting</p>
+<p begin="00:30:52.880" end="00:30:57.519" style="s2">life extension</p>
+<p begin="00:30:54.399" end="00:30:59.600" style="s2">and then we can also think about illness</p>
+<p begin="00:30:57.519" end="00:31:00.960" style="s2">as wherever there&#39;s some deviations from</p>
+<p begin="00:30:59.600" end="00:31:03.679" style="s2">homeostasis</p>
+<p begin="00:31:00.960" end="00:31:05.519" style="s2">that exceed the homeostatic capacity of</p>
+<p begin="00:31:03.679" end="00:31:06.240" style="s2">the system to stay within physiologic</p>
+<p begin="00:31:05.519" end="00:31:09.679" style="s2">ranges</p>
+<p begin="00:31:06.240" end="00:31:12.240" style="s2">and then the result is pathophysiology</p>
+<p begin="00:31:09.679" end="00:31:13.039" style="s2">changed physiologic function uh that</p>
+<p begin="00:31:12.240" end="00:31:15.519" style="s2">starts</p>
+<p begin="00:31:13.039" end="00:31:16.640" style="s2">to create pathology and so when we think</p>
+<p begin="00:31:15.519" end="00:31:19.279" style="s2">about it that way</p>
+<p begin="00:31:16.640" end="00:31:21.120" style="s2">we&#39;d say okay so before someone gets a</p>
+<p begin="00:31:19.279" end="00:31:22.960" style="s2">particular autoimmune disease we can see</p>
+<p begin="00:31:21.120" end="00:31:24.799" style="s2">that certain inflammatory markers</p>
+<p begin="00:31:22.960" end="00:31:26.159" style="s2">elevate so we can say inflammation</p>
+<p begin="00:31:24.799" end="00:31:27.679" style="s2">caused it but something caused the</p>
+<p begin="00:31:26.159" end="00:31:29.200" style="s2">inflammation</p>
+<p begin="00:31:27.679" end="00:31:31.519" style="s2">something caused the hormone imbalance</p>
+<p begin="00:31:29.200" end="00:31:33.440" style="s2">whatever those are intermediary markers</p>
+<p begin="00:31:31.519" end="00:31:35.440" style="s2">so they&#39;re part of a causal cascade but</p>
+<p begin="00:31:33.440" end="00:31:36.960" style="s2">they&#39;re never going to be the tier one</p>
+<p begin="00:31:35.440" end="00:31:39.039" style="s2">deviation from homeostasis because</p>
+<p begin="00:31:36.960" end="00:31:40.880" style="s2">they&#39;re messenger molecules</p>
+<p begin="00:31:39.039" end="00:31:43.120" style="s2">and so you have to say you know what was</p>
+<p begin="00:31:40.880" end="00:31:45.200" style="s2">their initial stimulus and the initial</p>
+<p begin="00:31:43.120" end="00:31:46.720" style="s2">tier one deviation from homeostasis for</p>
+<p begin="00:31:45.200" end="00:31:48.880" style="s2">any complex system</p>
+<p begin="00:31:46.720" end="00:31:50.799" style="s2">is always going to be some overarching</p>
+<p begin="00:31:48.880" end="00:31:52.960" style="s2">behavior of the system</p>
+<p begin="00:31:50.799" end="00:31:55.039" style="s2">or some interface of the system with its</p>
+<p begin="00:31:52.960" end="00:31:57.679" style="s2">environment that&#39;s not aligned with what</p>
+<p begin="00:31:55.039" end="00:32:01.360" style="s2">its regulatory system can process</p>
+<p begin="00:31:57.679" end="00:32:02.960" style="s2">and so if we say</p>
+<p begin="00:32:01.360" end="00:32:05.120" style="s2">in interaction with the environment we</p>
+<p begin="00:32:02.960" end="00:32:07.360" style="s2">mean if it if the system if the body</p>
+<p begin="00:32:05.120" end="00:32:09.279" style="s2">takes in too much of something</p>
+<p begin="00:32:07.360" end="00:32:10.720" style="s2">that it can&#39;t process we call that</p>
+<p begin="00:32:09.279" end="00:32:13.600" style="s2">toxicity</p>
+<p begin="00:32:10.720" end="00:32:14.240" style="s2">or pathogenicity or if it takes in not</p>
+<p begin="00:32:13.600" end="00:32:16.399" style="s2">enough</p>
+<p begin="00:32:14.240" end="00:32:18.000" style="s2">of something we call it deficiency these</p>
+<p begin="00:32:16.399" end="00:32:21.120" style="s2">are tier one</p>
+<p begin="00:32:18.000" end="00:32:23.279" style="s2">deviations or if the if the system</p>
+<p begin="00:32:21.120" end="00:32:24.720" style="s2">doesn&#39;t exercise enough or doesn&#39;t sleep</p>
+<p begin="00:32:23.279" end="00:32:26.720" style="s2">enough or</p>
+<p begin="00:32:24.720" end="00:32:28.000" style="s2">uh you know bad posture those are</p>
+<p begin="00:32:26.720" end="00:32:29.519" style="s2">overarching behaviors</p>
+<p begin="00:32:28.000" end="00:32:31.440" style="s2">of the system that are not aligned with</p>
+<p begin="00:32:29.519" end="00:32:33.360" style="s2">again what its homeostatic systems</p>
+<p begin="00:32:31.440" end="00:32:34.080" style="s2">evolve to be able to process and work</p>
+<p begin="00:32:33.360" end="00:32:36.640" style="s2">with</p>
+<p begin="00:32:34.080" end="00:32:37.679" style="s2">so we can actually formally identify all</p>
+<p begin="00:32:36.640" end="00:32:42.159" style="s2">of the</p>
+<p begin="00:32:37.679" end="00:32:44.399" style="s2">tier one causes and then we can</p>
+<p begin="00:32:42.159" end="00:32:46.159" style="s2">sub taxonomize everything that happens</p>
+<p begin="00:32:44.399" end="00:32:47.840" style="s2">all the toxins all the pathogens all the</p>
+<p begin="00:32:46.159" end="00:32:49.440" style="s2">nutrient deficiencies all the genetic</p>
+<p begin="00:32:47.840" end="00:32:51.039" style="s2">disorders etc</p>
+<p begin="00:32:49.440" end="00:32:52.880" style="s2">and then we can look at all the causal</p>
+<p begin="00:32:51.039" end="00:32:55.200" style="s2">cascades</p>
+<p begin="00:32:52.880" end="00:32:57.360" style="s2">and then this gives us the ability to</p>
+<p begin="00:32:55.200" end="00:32:59.360" style="s2">say these are the things</p>
+<p begin="00:32:57.360" end="00:33:00.880" style="s2">we&#39;re looking to do diagnostics we want</p>
+<p begin="00:32:59.360" end="00:33:02.159" style="s2">to look at both what&#39;s happening at a</p>
+<p begin="00:33:00.880" end="00:33:05.440" style="s2">causal cascade level</p>
+<p begin="00:33:02.159" end="00:33:08.559" style="s2">inflammatory markers hormones etc and</p>
+<p begin="00:33:05.440" end="00:33:11.360" style="s2">at an initial cause level pat</p>
+<p begin="00:33:08.559" end="00:33:13.440" style="s2">uh you know pathogenicity toxicity</p>
+<p begin="00:33:11.360" end="00:33:16.240" style="s2">deficiency etc</p>
+<p begin="00:33:13.440" end="00:33:17.200" style="s2">can you still hear me yeah you&#39;re doing</p>
+<p begin="00:33:16.240" end="00:33:21.360" style="s2">great</p>
+<p begin="00:33:17.200" end="00:33:21.360" style="s2">and then um</p>
+<p begin="00:33:21.919" end="00:33:28.960" style="s2">so this starts to give us a basis for</p>
+<p begin="00:33:25.519" end="00:33:30.720" style="s2">both wellness optimization prevention</p>
+<p begin="00:33:28.960" end="00:33:32.240" style="s2">and then when someone has a specific</p>
+<p begin="00:33:30.720" end="00:33:34.320" style="s2">illness being able to identify</p>
+<p begin="00:33:32.240" end="00:33:37.679" style="s2">specifically what&#39;s going on</p>
+<p begin="00:33:34.320" end="00:33:39.679" style="s2">and how to reverse those deviations from</p>
+<p begin="00:33:37.679" end="00:33:42.240" style="s2">homeostasis while</p>
+<p begin="00:33:39.679" end="00:33:43.120" style="s2">non-specifically generally increasing</p>
+<p begin="00:33:42.240" end="00:33:45.440" style="s2">system result</p>
+<p begin="00:33:43.120" end="00:33:46.880" style="s2">resilience and robustness so what would</p>
+<p begin="00:33:45.440" end="00:33:49.200" style="s2">that mean from a</p>
+<p begin="00:33:46.880" end="00:33:52.399" style="s2">you know visualize a practical point of</p>
+<p begin="00:33:49.200" end="00:33:54.320" style="s2">view it means</p>
+<p begin="00:33:52.399" end="00:33:56.320" style="s2">if you actually think about how many</p>
+<p begin="00:33:54.320" end="00:33:58.320" style="s2">different kinds of medical assessment</p>
+<p begin="00:33:56.320" end="00:33:59.679" style="s2">we have and just even if i&#39;m even just</p>
+<p begin="00:33:58.320" end="00:34:01.440" style="s2">talking about blood markers</p>
+<p begin="00:33:59.679" end="00:34:02.960" style="s2">and not looking at electrophysiology or</p>
+<p begin="00:34:01.440" end="00:34:04.720" style="s2">anything else</p>
+<p begin="00:34:02.960" end="00:34:06.320" style="s2">between all of the rheumatologic</p>
+<p begin="00:34:04.720" end="00:34:09.440" style="s2">assessment and toxicologic</p>
+<p begin="00:34:06.320" end="00:34:12.480" style="s2">assessment and metabolomics and and</p>
+<p begin="00:34:09.440" end="00:34:16.159" style="s2">you know all the comics right</p>
+<p begin="00:34:12.480" end="00:34:20.000" style="s2">transcriptomics genetics etc there</p>
+<p begin="00:34:16.159" end="00:34:22.000" style="s2">right now it&#39;s a tremendous amount of</p>
+<p begin="00:34:20.000" end="00:34:23.520" style="s2">blood from different labs that has to be</p>
+<p begin="00:34:22.000" end="00:34:26.480" style="s2">drawn with a lot of cost</p>
+<p begin="00:34:23.520" end="00:34:27.679" style="s2">and you know accuracy issues on many of</p>
+<p begin="00:34:26.480" end="00:34:29.520" style="s2">them</p>
+<p begin="00:34:27.679" end="00:34:31.679" style="s2">if you start thinking about what it</p>
+<p begin="00:34:29.520" end="00:34:33.679" style="s2">would mean to be able to get</p>
+<p begin="00:34:31.679" end="00:34:35.040" style="s2">all of that data and oftentimes you</p>
+<p begin="00:34:33.679" end="00:34:36.560" style="s2">think well that data is not relevant for</p>
+<p begin="00:34:35.040" end="00:34:38.399" style="s2">the kind of condition i have that&#39;s one</p>
+<p begin="00:34:36.560" end="00:34:40.159" style="s2">of the things that we find that is not</p>
+<p begin="00:34:38.399" end="00:34:40.720" style="s2">the case is that the system is so much</p>
+<p begin="00:34:40.159" end="00:34:44.480" style="s2">more</p>
+<p begin="00:34:40.720" end="00:34:46.240" style="s2">interconnected that in sometimes why</p>
+<p begin="00:34:44.480" end="00:34:47.359" style="s2">we&#39;re saying it&#39;s an idiopathic illness</p>
+<p begin="00:34:46.240" end="00:34:48.560" style="s2">meaning we don&#39;t understand</p>
+<p begin="00:34:47.359" end="00:34:50.240" style="s2">you know why it&#39;s happening is because</p>
+<p begin="00:34:48.560" end="00:34:51.440" style="s2">we&#39;re not looking at the right types of</p>
+<p begin="00:34:50.240" end="00:34:55.200" style="s2">causes non-obvious</p>
+<p begin="00:34:51.440" end="00:34:56.960" style="s2">causes so we want to be able to look at</p>
+<p begin="00:34:55.200" end="00:34:59.280" style="s2">all of the different things that could</p>
+<p begin="00:34:56.960" end="00:35:00.960" style="s2">be part of a causal cascade that lead to</p>
+<p begin="00:34:59.280" end="00:35:02.640" style="s2">leads to what&#39;s going on and then be</p>
+<p begin="00:35:00.960" end="00:35:03.520" style="s2">able to do data analysis across the</p>
+<p begin="00:35:02.640" end="00:35:06.560" style="s2">whole thing</p>
+<p begin="00:35:03.520" end="00:35:08.480" style="s2">so imagine in the future that</p>
+<p begin="00:35:06.560" end="00:35:09.760" style="s2">we start getting the ability to do</p>
+<p begin="00:35:08.480" end="00:35:12.240" style="s2">diagnostics</p>
+<p begin="00:35:09.760" end="00:35:12.960" style="s2">much less expensively much more easily</p>
+<p begin="00:35:12.240" end="00:35:15.599" style="s2">across</p>
+<p begin="00:35:12.960" end="00:35:17.440" style="s2">many more biometrics more accurately and</p>
+<p begin="00:35:15.599" end="00:35:19.200" style="s2">then be able to interpret what those</p>
+<p begin="00:35:17.440" end="00:35:21.440" style="s2">mean across this kind of complex</p>
+<p begin="00:35:19.200" end="00:35:22.720" style="s2">causation model</p>
+<p begin="00:35:21.440" end="00:35:24.560" style="s2">and then the machine you&#39;re talking</p>
+<p begin="00:35:22.720" end="00:35:26.480" style="s2">about is actually an ai system</p>
+<p begin="00:35:24.560" end="00:35:28.079" style="s2">not like a sentient ai but a</p>
+<p begin="00:35:26.480" end="00:35:31.119" style="s2">combinatorial ai</p>
+<p begin="00:35:28.079" end="00:35:32.720" style="s2">that can um process</p>
+<p begin="00:35:31.119" end="00:35:35.359" style="s2">you know a tremendous amount of data</p>
+<p begin="00:35:32.720" end="00:35:37.599" style="s2">against a</p>
+<p begin="00:35:35.359" end="00:35:38.400" style="s2">and a causal ontology that&#39;s ever</p>
+<p begin="00:35:37.599" end="00:35:41.200" style="s2">evolving</p>
+<p begin="00:35:38.400" end="00:35:43.040" style="s2">and actually you know be able to help</p>
+<p begin="00:35:41.200" end="00:35:44.160" style="s2">doctors physicians you know whomever</p>
+<p begin="00:35:43.040" end="00:35:47.119" style="s2">identify</p>
+<p begin="00:35:44.160" end="00:35:49.119" style="s2">specifically what&#39;s going on in terms of</p>
+<p begin="00:35:47.119" end="00:35:50.960" style="s2">the pathological cascades</p>
+<p begin="00:35:49.119" end="00:35:53.040" style="s2">and in terms of the kinds of things that</p>
+<p begin="00:35:50.960" end="00:35:54.640" style="s2">could be the upline causes of those</p>
+<p begin="00:35:53.040" end="00:35:56.720" style="s2">pathological cascades</p>
+<p begin="00:35:54.640" end="00:35:58.400" style="s2">and then be able to reference for every</p>
+<p begin="00:35:56.720" end="00:36:00.160" style="s2">pathway that&#39;s involved</p>
+<p begin="00:35:58.400" end="00:36:02.000" style="s2">what the best current therapeutic</p>
+<p begin="00:36:00.160" end="00:36:04.560" style="s2">technologies are and then</p>
+<p begin="00:36:02.000" end="00:36:06.480" style="s2">what the right order of operations and</p>
+<p begin="00:36:04.560" end="00:36:07.680" style="s2">the right synergy of those technologies</p>
+<p begin="00:36:06.480" end="00:36:09.920" style="s2">are to actually be able to address</p>
+<p begin="00:36:07.680" end="00:36:10.960" style="s2">what&#39;s going on for someone</p>
+<p begin="00:36:09.920" end="00:36:12.400" style="s2">well that sounds like the most</p>
+<p begin="00:36:10.960" end="00:36:13.839" style="s2">complicated thing i&#39;ve ever heard in my</p>
+<p begin="00:36:12.400" end="00:36:16.960" style="s2">life</p>
+<p begin="00:36:13.839" end="00:36:19.040" style="s2">dr house at scale</p>
+<p begin="00:36:16.960" end="00:36:21.040" style="s2">so i&#39;m glad you&#39;re working on this</p>
+<p begin="00:36:19.040" end="00:36:23.440" style="s2">instead of me</p>
+<p begin="00:36:21.040" end="00:36:25.760" style="s2">so a really good diagnostician does is</p>
+<p begin="00:36:23.440" end="00:36:27.200" style="s2">they do this they factor</p>
+<p begin="00:36:25.760" end="00:36:29.760" style="s2">thinking through causation more</p>
+<p begin="00:36:27.200" end="00:36:32.160" style="s2">complexly it&#39;s just it&#39;s beyond what any</p>
+<p begin="00:36:29.760" end="00:36:33.680" style="s2">individual human can do and we want it</p>
+<p begin="00:36:32.160" end="00:36:35.040" style="s2">to be widely available</p>
+<p begin="00:36:33.680" end="00:36:37.359" style="s2">and so that can be done through</p>
+<p begin="00:36:35.040" end="00:36:41.200" style="s2">technology yeah that&#39;s great</p>
+<p begin="00:36:37.359" end="00:36:44.960" style="s2">um do you consider yourself a human</p>
+<p begin="00:36:41.200" end="00:36:49.119" style="s2">or do you consider yourself technology</p>
+<p begin="00:36:44.960" end="00:36:52.480" style="s2">i think that&#39;s a false dichotomy</p>
+<p begin="00:36:49.119" end="00:36:54.800" style="s2">you can be both okay so</p>
+<p begin="00:36:52.480" end="00:36:55.520" style="s2">so talking about causation one of the</p>
+<p begin="00:36:54.800" end="00:36:59.359" style="s2">things that</p>
+<p begin="00:36:55.520" end="00:37:03.200" style="s2">that i&#39;ve explored is</p>
+<p begin="00:36:59.359" end="00:37:04.000" style="s2">the is illness happening in the body as</p>
+<p begin="00:37:03.200" end="00:37:05.599" style="s2">a sign</p>
+<p begin="00:37:04.000" end="00:37:08.400" style="s2">right what&#39;s the you know like we&#39;ve all</p>
+<p begin="00:37:05.599" end="00:37:12.160" style="s2">the stories of somebody gets cancer</p>
+<p begin="00:37:08.400" end="00:37:13.520" style="s2">and they&#39;ve um</p>
+<p begin="00:37:12.160" end="00:37:15.359" style="s2">you know and then they quit their job</p>
+<p begin="00:37:13.520" end="00:37:17.119" style="s2">and go live their life purpose and</p>
+<p begin="00:37:15.359" end="00:37:18.480" style="s2">and then forget about the cancer cancer</p>
+<p begin="00:37:17.119" end="00:37:19.599" style="s2">goes into remission and</p>
+<p begin="00:37:18.480" end="00:37:22.880" style="s2">you know it&#39;s kind of like it was a</p>
+<p begin="00:37:19.599" end="00:37:24.000" style="s2">wake-up call right so and i know that a</p>
+<p begin="00:37:22.880" end="00:37:28.160" style="s2">part of your</p>
+<p begin="00:37:24.000" end="00:37:32.160" style="s2">genius cross-contextualizing your genius</p>
+<p begin="00:37:28.160" end="00:37:34.720" style="s2">uh is is you&#39;ve got the scientific</p>
+<p begin="00:37:32.160" end="00:37:36.240" style="s2">background and then you&#39;ve also got the</p>
+<p begin="00:37:34.720" end="00:37:39.280" style="s2">shamanic background</p>
+<p begin="00:37:36.240" end="00:37:40.160" style="s2">and the philosophy and so so what are</p>
+<p begin="00:37:39.280" end="00:37:43.359" style="s2">your thoughts</p>
+<p begin="00:37:40.160" end="00:37:44.880" style="s2">on you know the difference between</p>
+<p begin="00:37:43.359" end="00:37:47.440" style="s2">biomarkers and</p>
+<p begin="00:37:44.880" end="00:37:48.640" style="s2">and chemicals and and the environment</p>
+<p begin="00:37:47.440" end="00:37:53.920" style="s2">creating</p>
+<p begin="00:37:48.640" end="00:37:53.920" style="s2">an illness and the the the um</p>
+<p begin="00:37:54.160" end="00:38:01.520" style="s2">you know the mind the the psycho</p>
+<p begin="00:37:57.520" end="00:38:03.280" style="s2">somatic reasons that the the the</p>
+<p begin="00:38:01.520" end="00:38:05.040" style="s2">the markers in our dreams that are here</p>
+<p begin="00:38:03.280" end="00:38:06.320" style="s2">to wake us up or remind us to pay</p>
+<p begin="00:38:05.040" end="00:38:08.160" style="s2">attention to</p>
+<p begin="00:38:06.320" end="00:38:10.320" style="s2">to our body what what are your thoughts</p>
+<p begin="00:38:08.160" end="00:38:13.520" style="s2">on all that</p>
+<p begin="00:38:10.320" end="00:38:14.800" style="s2">let&#39;s talk about the environment and the</p>
+<p begin="00:38:13.520" end="00:38:16.400" style="s2">psyche because they&#39;re both very</p>
+<p begin="00:38:14.800" end="00:38:17.280" style="s2">interesting things that are not well</p>
+<p begin="00:38:16.400" end="00:38:19.440" style="s2">enough addressed</p>
+<p begin="00:38:17.280" end="00:38:21.839" style="s2">how we think of medicine usually so on</p>
+<p begin="00:38:19.440" end="00:38:24.880" style="s2">the environment side</p>
+<p begin="00:38:21.839" end="00:38:27.520" style="s2">if we have agricultural processes</p>
+<p begin="00:38:24.880" end="00:38:29.920" style="s2">where the deplete topsoil and deplete</p>
+<p begin="00:38:27.520" end="00:38:31.839" style="s2">trace minerals and topsoil so no matter</p>
+<p begin="00:38:29.920" end="00:38:33.040" style="s2">uh what people are eating and if they&#39;re</p>
+<p begin="00:38:31.839" end="00:38:36.720" style="s2">eating well</p>
+<p begin="00:38:33.040" end="00:38:39.200" style="s2">they are getting decreased trace mineral</p>
+<p begin="00:38:36.720" end="00:38:40.400" style="s2">uh density from an evolutionary</p>
+<p begin="00:38:39.200" end="00:38:42.800" style="s2">environment</p>
+<p begin="00:38:40.400" end="00:38:44.400" style="s2">factoring affecting the trace minerals</p>
+<p begin="00:38:42.800" end="00:38:46.240" style="s2">in the soil factoring the microbiome in</p>
+<p begin="00:38:44.400" end="00:38:49.200" style="s2">the soil factoring the</p>
+<p begin="00:38:46.240" end="00:38:50.480" style="s2">uh hybridized seeds you know so many</p>
+<p begin="00:38:49.200" end="00:38:53.839" style="s2">things</p>
+<p begin="00:38:50.480" end="00:38:57.760" style="s2">do you think real quick just uh on</p>
+<p begin="00:38:53.839" end="00:39:00.880" style="s2">on this topic are do gmos contribute</p>
+<p begin="00:38:57.760" end="00:39:03.119" style="s2">to uh loss of</p>
+<p begin="00:39:00.880" end="00:39:04.640" style="s2">the nutrients and what do you what do</p>
+<p begin="00:39:03.119" end="00:39:05.920" style="s2">you think about that just as a quick</p>
+<p begin="00:39:04.640" end="00:39:07.359" style="s2">aside</p>
+<p begin="00:39:05.920" end="00:39:09.040" style="s2">i wouldn&#39;t address it as a whole</p>
+<p begin="00:39:07.359" end="00:39:10.560" style="s2">category i would say we could get into</p>
+<p begin="00:39:09.040" end="00:39:14.079" style="s2">each one but</p>
+<p begin="00:39:10.560" end="00:39:16.240" style="s2">yes that is a real potential and</p>
+<p begin="00:39:14.079" end="00:39:17.119" style="s2">not but it&#39;s not just gmos even</p>
+<p begin="00:39:16.240" end="00:39:19.920" style="s2">hybridizing</p>
+<p begin="00:39:17.119" end="00:39:22.079" style="s2">crops uh effects you know as we&#39;re</p>
+<p begin="00:39:19.920" end="00:39:23.599" style="s2">breeding for more sugar or more</p>
+<p begin="00:39:22.079" end="00:39:25.599" style="s2">you know fruiting we&#39;re also breeding</p>
+<p begin="00:39:23.599" end="00:39:26.240" style="s2">for less of some things it might have</p>
+<p begin="00:39:25.599" end="00:39:28.160" style="s2">been very</p>
+<p begin="00:39:26.240" end="00:39:29.680" style="s2">relevant parts of you know our</p>
+<p begin="00:39:28.160" end="00:39:30.480" style="s2">evolutionary relationship with those</p>
+<p begin="00:39:29.680" end="00:39:34.640" style="s2">plants</p>
+<p begin="00:39:30.480" end="00:39:36.800" style="s2">but as you look at having something like</p>
+<p begin="00:39:34.640" end="00:39:39.119" style="s2">mineral and microbiome deficiency</p>
+<p begin="00:39:36.800" end="00:39:41.040" style="s2">ubiquitously in mass</p>
+<p begin="00:39:39.119" end="00:39:42.320" style="s2">or then you look at environmental</p>
+<p begin="00:39:41.040" end="00:39:43.680" style="s2">toxicity</p>
+<p begin="00:39:42.320" end="00:39:45.680" style="s2">everything from the environment of</p>
+<p begin="00:39:43.680" end="00:39:48.800" style="s2">inside my house where my</p>
+<p begin="00:39:45.680" end="00:39:50.880" style="s2">my paint and my flooring all have high</p>
+<p begin="00:39:48.800" end="00:39:52.480" style="s2">voc output volatile organic compound</p>
+<p begin="00:39:50.880" end="00:39:54.000" style="s2">output where most of those vocs are</p>
+<p begin="00:39:52.480" end="00:39:56.240" style="s2">either</p>
+<p begin="00:39:54.000" end="00:39:57.359" style="s2">carcinogens or neurotoxins or endocrine</p>
+<p begin="00:39:56.240" end="00:39:59.760" style="s2">disruptors</p>
+<p begin="00:39:57.359" end="00:40:01.119" style="s2">and then you know you go outside and</p>
+<p begin="00:39:59.760" end="00:40:01.920" style="s2">whether we&#39;re talking about from coal</p>
+<p begin="00:40:01.119" end="00:40:05.119" style="s2">plants or from</p>
+<p begin="00:40:01.920" end="00:40:06.560" style="s2">cars or from so many sources the</p>
+<p begin="00:40:05.119" end="00:40:09.040" style="s2">you know ubiquitous kinds of</p>
+<p begin="00:40:06.560" end="00:40:12.079" style="s2">environmental toxicity where we can</p>
+<p begin="00:40:09.040" end="00:40:13.839" style="s2">run mother&#39;s breast milk run toxicology</p>
+<p begin="00:40:12.079" end="00:40:16.240" style="s2">on the united states and find hundreds</p>
+<p begin="00:40:13.839" end="00:40:17.440" style="s2">of distinct petrochemicals and mother&#39;s</p>
+<p begin="00:40:16.240" end="00:40:18.319" style="s2">breast milk and you think about what&#39;s</p>
+<p begin="00:40:17.440" end="00:40:19.200" style="s2">happening to the babies that are</p>
+<p begin="00:40:18.319" end="00:40:20.800" style="s2">evolving in that</p>
+<p begin="00:40:19.200" end="00:40:23.920" style="s2">right and that&#39;s not just people who</p>
+<p begin="00:40:20.800" end="00:40:24.800" style="s2">live in in the center of industrial</p>
+<p begin="00:40:23.920" end="00:40:28.079" style="s2">zones that&#39;s</p>
+<p begin="00:40:24.800" end="00:40:29.680" style="s2">everybody and so when you think about</p>
+<p begin="00:40:28.079" end="00:40:31.680" style="s2">a world where the way we&#39;ve done</p>
+<p begin="00:40:29.680" end="00:40:34.960" style="s2">infrastructure has</p>
+<p begin="00:40:31.680" end="00:40:36.000" style="s2">deficiency and toxicity and because of</p>
+<p begin="00:40:34.960" end="00:40:38.400" style="s2">things like mrsa</p>
+<p begin="00:40:36.000" end="00:40:40.720" style="s2">and pesticide resistant and fungicide</p>
+<p begin="00:40:38.400" end="00:40:44.000" style="s2">resistant bugs</p>
+<p begin="00:40:40.720" end="00:40:46.560" style="s2">weird mutated pathogens</p>
+<p begin="00:40:44.000" end="00:40:47.119" style="s2">in mass can you this becomes a deep</p>
+<p begin="00:40:46.560" end="00:40:50.839" style="s2">question</p>
+<p begin="00:40:47.119" end="00:40:54.960" style="s2">can you have optimized people in</p>
+<p begin="00:40:50.839" end="00:40:57.680" style="s2">a highly damaged biosphere wow</p>
+<p begin="00:40:54.960" end="00:40:59.359" style="s2">no right so the future of medicine has</p>
+<p begin="00:40:57.680" end="00:41:03.440" style="s2">to be the future of everything too</p>
+<p begin="00:40:59.359" end="00:41:05.520" style="s2">oh that&#39;s good</p>
+<p begin="00:41:03.440" end="00:41:07.200" style="s2">and so you know we&#39;ll we haven&#39;t even</p>
+<p begin="00:41:05.520" end="00:41:09.280" style="s2">spoke to the psychology side yet which</p>
+<p begin="00:41:07.200" end="00:41:10.800" style="s2">is individual but it&#39;s also systemic if</p>
+<p begin="00:41:09.280" end="00:41:14.079" style="s2">you have a macro</p>
+<p begin="00:41:10.800" end="00:41:15.680" style="s2">economy where people are fundamentally</p>
+<p begin="00:41:14.079" end="00:41:17.119" style="s2">stressed out about money and surviving</p>
+<p begin="00:41:15.680" end="00:41:18.720" style="s2">and you&#39;re asking what&#39;s the effect of</p>
+<p begin="00:41:17.119" end="00:41:20.560" style="s2">psychology and stress on</p>
+<p begin="00:41:18.720" end="00:41:22.160" style="s2">health it&#39;s significant right yeah</p>
+<p begin="00:41:20.560" end="00:41:22.880" style="s2">there&#39;s so many kinds of degenerative</p>
+<p begin="00:41:22.160" end="00:41:24.880" style="s2">disease</p>
+<p begin="00:41:22.880" end="00:41:26.480" style="s2">so as part of the future of health care</p>
+<p begin="00:41:24.880" end="00:41:29.520" style="s2">a better macroeconomic system</p>
+<p begin="00:41:26.480" end="00:41:30.240" style="s2">has to be if you have a macroeconomic</p>
+<p begin="00:41:29.520" end="00:41:32.319" style="s2">system</p>
+<p begin="00:41:30.240" end="00:41:34.400" style="s2">you know political systems that cause</p>
+<p begin="00:41:32.319" end="00:41:37.520" style="s2">war war is not good for health</p>
+<p begin="00:41:34.400" end="00:41:39.920" style="s2">and neither is in</p>
+<p begin="00:41:37.520" end="00:41:41.839" style="s2">neither is industrial process that</p>
+<p begin="00:41:39.920" end="00:41:43.680" style="s2">causes environmental externality because</p>
+<p begin="00:41:41.839" end="00:41:45.520" style="s2">there is no externality on a tiny</p>
+<p begin="00:41:43.680" end="00:41:47.040" style="s2">biosphere floating through outer space</p>
+<p begin="00:41:45.520" end="00:41:49.599" style="s2">where everything is interconnected with</p>
+<p begin="00:41:47.040" end="00:41:51.040" style="s2">everything else and so ultimately the</p>
+<p begin="00:41:49.599" end="00:41:52.240" style="s2">future of medicine what we&#39;re talking</p>
+<p begin="00:41:51.040" end="00:41:55.280" style="s2">about the future of human</p>
+<p begin="00:41:52.240" end="00:41:56.640" style="s2">wellness is that we are fundamentally</p>
+<p begin="00:41:55.280" end="00:41:58.480" style="s2">interconnected with everything else</p>
+<p begin="00:41:56.640" end="00:42:00.240" style="s2">happening on the biosphere and</p>
+<p begin="00:41:58.480" end="00:42:02.640" style="s2">any place where we are externalizing</p>
+<p begin="00:42:00.240" end="00:42:04.880" style="s2">harm it&#39;s not really external</p>
+<p begin="00:42:02.640" end="00:42:06.319" style="s2">we just aren&#39;t calculating the cause and</p>
+<p begin="00:42:04.880" end="00:42:08.160" style="s2">effect of it</p>
+<p begin="00:42:06.319" end="00:42:09.599" style="s2">so we can talk about the future of</p>
+<p begin="00:42:08.160" end="00:42:11.359" style="s2">medicine from the point of view of</p>
+<p begin="00:42:09.599" end="00:42:13.280" style="s2">working just on individuals</p>
+<p begin="00:42:11.359" end="00:42:15.040" style="s2">even if they&#39;re within an environment</p>
+<p begin="00:42:13.280" end="00:42:16.720" style="s2">that is actually a cause of pathology</p>
+<p begin="00:42:15.040" end="00:42:17.920" style="s2">itself but we have to then go beyond</p>
+<p begin="00:42:16.720" end="00:42:19.119" style="s2">that and say how do we have the</p>
+<p begin="00:42:17.920" end="00:42:20.880" style="s2">environment</p>
+<p begin="00:42:19.119" end="00:42:22.960" style="s2">the mac you know individual homes and</p>
+<p begin="00:42:20.880" end="00:42:25.200" style="s2">then also macro environments</p>
+<p begin="00:42:22.960" end="00:42:26.400" style="s2">be a cause for regeneration rather than</p>
+<p begin="00:42:25.200" end="00:42:29.119" style="s2">for ill health</p>
+<p begin="00:42:26.400" end="00:42:29.760" style="s2">and it it really does involve nothing</p>
+<p begin="00:42:29.119" end="00:42:33.200" style="s2">less than</p>
+<p begin="00:42:29.760" end="00:42:34.160" style="s2">fundamental redesign of civilization</p>
+<p begin="00:42:33.200" end="00:42:36.960" style="s2">from scratch</p>
+<p begin="00:42:34.160" end="00:42:37.599" style="s2">from a infrastructure level and a</p>
+<p begin="00:42:36.960" end="00:42:40.880" style="s2">political</p>
+<p begin="00:42:37.599" end="00:42:42.960" style="s2">socioeconomic level and that&#39;s exactly</p>
+<p begin="00:42:40.880" end="00:42:46.000" style="s2">what we&#39;re doing at rise</p>
+<p begin="00:42:42.960" end="00:42:48.000" style="s2">that&#39;s it yeah that&#39;s good</p>
+<p begin="00:42:46.000" end="00:42:49.680" style="s2">that&#39;s good okay so i know we don&#39;t i</p>
+<p begin="00:42:48.000" end="00:42:53.599" style="s2">know we&#39;re gonna say</p>
+<p begin="00:42:49.680" end="00:42:57.440" style="s2">oh yeah yeah yeah go ahead do people&#39;s</p>
+<p begin="00:42:53.599" end="00:42:59.599" style="s2">brains and bodies of and imbalances and</p>
+<p begin="00:42:57.440" end="00:43:02.319" style="s2">hormones neurochemistry etc</p>
+<p begin="00:42:59.599" end="00:43:04.319" style="s2">affect their psyches absolutely do</p>
+<p begin="00:43:02.319" end="00:43:06.160" style="s2">imbalances in people&#39;s psyches from the</p>
+<p begin="00:43:04.319" end="00:43:08.079" style="s2">way they allocate meaning and what they</p>
+<p begin="00:43:06.160" end="00:43:08.640" style="s2">focus on and their definition of success</p>
+<p begin="00:43:08.079" end="00:43:11.280" style="s2">and</p>
+<p begin="00:43:08.640" end="00:43:12.400" style="s2">identity uh does that affect their</p>
+<p begin="00:43:11.280" end="00:43:15.920" style="s2">physiology</p>
+<p begin="00:43:12.400" end="00:43:19.760" style="s2">absolutely uh can we reduce</p>
+<p begin="00:43:15.920" end="00:43:20.720" style="s2">mind to brain it&#39;s very problematic to</p>
+<p begin="00:43:19.760" end="00:43:23.680" style="s2">try</p>
+<p begin="00:43:20.720" end="00:43:25.200" style="s2">and but it&#39;s the it&#39;s kind of a given</p>
+<p begin="00:43:23.680" end="00:43:26.880" style="s2">within the way we think about science</p>
+<p begin="00:43:25.200" end="00:43:28.960" style="s2">because science system</p>
+<p begin="00:43:26.880" end="00:43:31.119" style="s2">is a philosophic system it&#39;s a method of</p>
+<p begin="00:43:28.960" end="00:43:33.200" style="s2">knowing right it&#39;s an epistemology</p>
+<p begin="00:43:31.119" end="00:43:34.960" style="s2">but it&#39;s based on measuring stuff so it</p>
+<p begin="00:43:33.200" end="00:43:36.160" style="s2">can only understand measurable</p>
+<p begin="00:43:34.960" end="00:43:38.960" style="s2">third-person stuff</p>
+<p begin="00:43:36.160" end="00:43:40.400" style="s2">and consciousness is not independently</p>
+<p begin="00:43:38.960" end="00:43:41.599" style="s2">measurable third-person stuff it&#39;s</p>
+<p begin="00:43:40.400" end="00:43:43.680" style="s2">first-person stuff</p>
+<p begin="00:43:41.599" end="00:43:45.119" style="s2">yeah and so it&#39;s fundamentally outside</p>
+<p begin="00:43:43.680" end="00:43:46.880" style="s2">the domain of science</p>
+<p begin="00:43:45.119" end="00:43:48.560" style="s2">so all science can do is measure the</p>
+<p begin="00:43:46.880" end="00:43:50.079" style="s2">neural correlates of consciousness what</p>
+<p begin="00:43:48.560" end="00:43:51.680" style="s2">is someone&#39;s eeg doing</p>
+<p begin="00:43:50.079" end="00:43:53.359" style="s2">when they describe they&#39;re experiencing</p>
+<p begin="00:43:51.680" end="00:43:56.160" style="s2">something but</p>
+<p begin="00:43:53.359" end="00:43:57.119" style="s2">that might be a neural correlate and</p>
+<p begin="00:43:56.160" end="00:43:58.720" style="s2">there&#39;s a lot</p>
+<p begin="00:43:57.119" end="00:44:00.240" style="s2">that we need to say about how to even</p>
+<p begin="00:43:58.720" end="00:44:01.680" style="s2">infer properly</p>
+<p begin="00:44:00.240" end="00:44:03.520" style="s2">but that that&#39;s not first person</p>
+<p begin="00:44:01.680" end="00:44:05.200" style="s2">experience right and</p>
+<p begin="00:44:03.520" end="00:44:07.280" style="s2">so we can have a deeper philosophic</p>
+<p begin="00:44:05.200" end="00:44:08.960" style="s2">conversation around</p>
+<p begin="00:44:07.280" end="00:44:10.319" style="s2">ultimately what is the nature of the</p>
+<p begin="00:44:08.960" end="00:44:11.680" style="s2">real does</p>
+<p begin="00:44:10.319" end="00:44:13.599" style="s2">this physicality emerge from</p>
+<p begin="00:44:11.680" end="00:44:14.240" style="s2">consciousness does consciousness emerge</p>
+<p begin="00:44:13.599" end="00:44:17.440" style="s2">from</p>
+<p begin="00:44:14.240" end="00:44:19.599" style="s2">complex neural networks do they co arise</p>
+<p begin="00:44:17.440" end="00:44:21.040" style="s2">in some kind of structured pan psychism</p>
+<p begin="00:44:19.599" end="00:44:22.720" style="s2">but what we what we can say without</p>
+<p begin="00:44:21.040" end="00:44:26.720" style="s2">getting into all that right now</p>
+<p begin="00:44:22.720" end="00:44:26.720" style="s2">is that people can</p>
+<p begin="00:44:27.599" end="00:44:32.880" style="s2">do different things psychologically</p>
+<p begin="00:44:31.040" end="00:44:34.400" style="s2">that affect their health and the placebo</p>
+<p begin="00:44:32.880" end="00:44:37.119" style="s2">study is a classic example</p>
+<p begin="00:44:34.400" end="00:44:38.000" style="s2">right placebo is thinking they&#39;re going</p>
+<p begin="00:44:37.119" end="00:44:40.800" style="s2">to get well</p>
+<p begin="00:44:38.000" end="00:44:41.920" style="s2">and feeling correspondingly less worried</p>
+<p begin="00:44:40.800" end="00:44:43.760" style="s2">and more hopeful</p>
+<p begin="00:44:41.920" end="00:44:46.200" style="s2">and then getting some degree of</p>
+<p begin="00:44:43.760" end="00:44:47.839" style="s2">improvement symptomologically or</p>
+<p begin="00:44:46.200" end="00:44:49.280" style="s2">pathophysiologically and then you&#39;re</p>
+<p begin="00:44:47.839" end="00:44:50.640" style="s2">like but if the body&#39;s trying to</p>
+<p begin="00:44:49.280" end="00:44:51.839" style="s2">optimize health all the time why</p>
+<p begin="00:44:50.640" end="00:44:53.760" style="s2">wouldn&#39;t it have done that anyways and</p>
+<p begin="00:44:51.839" end="00:44:55.839" style="s2">it&#39;s because</p>
+<p begin="00:44:53.760" end="00:44:58.960" style="s2">the chemicals that mediate feeling</p>
+<p begin="00:44:55.839" end="00:44:58.960" style="s2">that&#39;s actually question</p>
+<p begin="00:44:59.839" end="00:45:04.720" style="s2">but it&#39;s because if you feel shitty</p>
+<p begin="00:45:02.480" end="00:45:08.079" style="s2">anxious angry whatever</p>
+<p begin="00:45:04.720" end="00:45:10.400" style="s2">that that emotion is neurochemically and</p>
+<p begin="00:45:08.079" end="00:45:11.760" style="s2">you know hormonally mediated and what</p>
+<p begin="00:45:10.400" end="00:45:13.839" style="s2">just happens to be very interesting is</p>
+<p begin="00:45:11.760" end="00:45:16.240" style="s2">that most of those emotions</p>
+<p begin="00:45:13.839" end="00:45:18.800" style="s2">are sympathetically mediated which</p>
+<p begin="00:45:16.240" end="00:45:22.000" style="s2">actually does not support</p>
+<p begin="00:45:18.800" end="00:45:24.800" style="s2">the regenerative processes of the body</p>
+<p begin="00:45:22.000" end="00:45:26.000" style="s2">and when someone relaxes feels more</p>
+<p begin="00:45:24.800" end="00:45:28.720" style="s2">hopeful and then feels</p>
+<p begin="00:45:26.000" end="00:45:30.079" style="s2">better that can support parasympathetic</p>
+<p begin="00:45:28.720" end="00:45:32.000" style="s2">nervous system engagement and</p>
+<p begin="00:45:30.079" end="00:45:36.480" style="s2">physiologic regeneration and there&#39;s</p>
+<p begin="00:45:32.000" end="00:45:39.359" style="s2">there&#39;s a lot of actual physiologic</p>
+<p begin="00:45:36.480" end="00:45:41.440" style="s2">pathways that are involved in people&#39;s</p>
+<p begin="00:45:39.359" end="00:45:42.400" style="s2">emotional and cognitive experience and</p>
+<p begin="00:45:41.440" end="00:45:45.760" style="s2">so</p>
+<p begin="00:45:42.400" end="00:45:47.760" style="s2">um this is why i would say psychology by</p>
+<p begin="00:45:45.760" end="00:45:49.599" style="s2">itself is not adequate because someone</p>
+<p begin="00:45:47.760" end="00:45:51.440" style="s2">can have physiologic disorders</p>
+<p begin="00:45:49.599" end="00:45:53.359" style="s2">they&#39;re not going to psychotherapy away</p>
+<p begin="00:45:51.440" end="00:45:56.240" style="s2">or meditate away</p>
+<p begin="00:45:53.359" end="00:45:57.760" style="s2">and medicine by itself is not adequate</p>
+<p begin="00:45:56.240" end="00:45:59.680" style="s2">because the complexity of</p>
+<p begin="00:45:57.760" end="00:46:00.800" style="s2">the information processing that&#39;s</p>
+<p begin="00:45:59.680" end="00:46:01.440" style="s2">happening inside of someone&#39;s</p>
+<p begin="00:46:00.800" end="00:46:06.160" style="s2">consciousness</p>
+<p begin="00:46:01.440" end="00:46:06.160" style="s2">is not reducible to gross neurochemicals</p>
+<p begin="00:46:06.480" end="00:46:16.480" style="s2">great answer great answer</p>
+<p begin="00:46:11.599" end="00:46:19.599" style="s2">do we lose alex alex</p>
+<p begin="00:46:16.480" end="00:46:21.680" style="s2">hey there buddy we lost him um</p>
+<p begin="00:46:19.599" end="00:46:24.000" style="s2">anyway you and i are still here and i&#39;m</p>
+<p begin="00:46:21.680" end="00:46:27.280" style="s2">in a costa rica hurricane</p>
+<p begin="00:46:24.000" end="00:46:30.319" style="s2">he&#39;s on a landline in santa monica so</p>
+<p begin="00:46:27.280" end="00:46:31.920" style="s2">my question to you so i i know we&#39;ve got</p>
+<p begin="00:46:30.319" end="00:46:34.880" style="s2">to go here in a few minutes</p>
+<p begin="00:46:31.920" end="00:46:35.760" style="s2">um i want to hear i want to hear two</p>
+<p begin="00:46:34.880" end="00:46:39.520" style="s2">things i want to hear</p>
+<p begin="00:46:35.760" end="00:46:43.200" style="s2">quickly about your your sleep habits</p>
+<p begin="00:46:39.520" end="00:46:44.880" style="s2">um i i thought about and i tried a long</p>
+<p begin="00:46:43.200" end="00:46:46.560" style="s2">time ago to do polyphasic</p>
+<p begin="00:46:44.880" end="00:46:48.640" style="s2">sleep it sounds like that&#39;s not quite</p>
+<p begin="00:46:46.560" end="00:46:51.680" style="s2">what you&#39;re doing you just have a</p>
+<p begin="00:46:48.640" end="00:46:54.880" style="s2">is it just a backward sleep uh</p>
+<p begin="00:46:51.680" end="00:46:56.800" style="s2">cycle yeah</p>
+<p begin="00:46:54.880" end="00:46:58.160" style="s2">this is nothing particularly interesting</p>
+<p begin="00:46:56.800" end="00:46:59.839" style="s2">uh there are</p>
+<p begin="00:46:58.160" end="00:47:01.599" style="s2">kind of sleep hacking techniques like</p>
+<p begin="00:46:59.839" end="00:47:02.240" style="s2">polyphasic that some people do that i</p>
+<p begin="00:47:01.599" end="00:47:05.520" style="s2">have done</p>
+<p begin="00:47:02.240" end="00:47:07.680" style="s2">in the past but i have uh since the</p>
+<p begin="00:47:05.520" end="00:47:11.839" style="s2">earliest i can remember in childhood</p>
+<p begin="00:47:07.680" end="00:47:15.119" style="s2">been nocturnally oriented and</p>
+<p begin="00:47:11.839" end="00:47:17.599" style="s2">while i have forced that</p>
+<p begin="00:47:15.119" end="00:47:20.800" style="s2">schedule into a diurnal schedule for</p>
+<p begin="00:47:17.599" end="00:47:23.119" style="s2">world purposes a number of times</p>
+<p begin="00:47:20.800" end="00:47:24.319" style="s2">it always is more natural for me to be</p>
+<p begin="00:47:23.119" end="00:47:27.200" style="s2">on a nocturnal schedule</p>
+<p begin="00:47:24.319" end="00:47:29.119" style="s2">and my my actual clarity of thinking and</p>
+<p begin="00:47:27.200" end="00:47:32.319" style="s2">productivity and all like that is best</p>
+<p begin="00:47:29.119" end="00:47:35.200" style="s2">during the quietest hours um and so</p>
+<p begin="00:47:32.319" end="00:47:36.640" style="s2">i it seems that there some of it just</p>
+<p begin="00:47:35.200" end="00:47:38.720" style="s2">might be preference but it also seems</p>
+<p begin="00:47:36.640" end="00:47:40.640" style="s2">that there might be uh</p>
+<p begin="00:47:38.720" end="00:47:42.960" style="s2">some groups of people who for whatever</p>
+<p begin="00:47:40.640" end="00:47:46.400" style="s2">reasons have different circadian rhythms</p>
+<p begin="00:47:42.960" end="00:47:47.040" style="s2">wow that&#39;s so cool i mean i i&#39;ve thought</p>
+<p begin="00:47:46.400" end="00:47:48.559" style="s2">about this</p>
+<p begin="00:47:47.040" end="00:47:50.240" style="s2">and especially when i was looking at a</p>
+<p begin="00:47:48.559" end="00:47:52.960" style="s2">polyphasic sleep</p>
+<p begin="00:47:50.240" end="00:47:54.480" style="s2">like there&#39;s nobody texting you calling</p>
+<p begin="00:47:52.960" end="00:47:56.640" style="s2">you messaging you</p>
+<p begin="00:47:54.480" end="00:47:59.440" style="s2">like my phone&#39;s blowing up the whole the</p>
+<p begin="00:47:56.640" end="00:48:01.599" style="s2">whole day when i&#39;m uh</p>
+<p begin="00:47:59.440" end="00:48:03.760" style="s2">the whole during the day right and so at</p>
+<p begin="00:48:01.599" end="00:48:06.559" style="s2">night you just get to focus and and</p>
+<p begin="00:48:03.760" end="00:48:07.760" style="s2">work your magic without the distractions</p>
+<p begin="00:48:06.559" end="00:48:09.839" style="s2">this is why i love it</p>
+<p begin="00:48:07.760" end="00:48:11.520" style="s2">i i&#39;ve actually been here the whole time</p>
+<p begin="00:48:09.839" end="00:48:13.280" style="s2">i we are using</p>
+<p begin="00:48:11.520" end="00:48:15.599" style="s2">a new system and i couldn&#39;t find the</p>
+<p begin="00:48:13.280" end="00:48:18.160" style="s2">unmute button</p>
+<p begin="00:48:15.599" end="00:48:20.079" style="s2">uh so i finally found it daniel i had a</p>
+<p begin="00:48:18.160" end="00:48:25.280" style="s2">question for you</p>
+<p begin="00:48:20.079" end="00:48:25.280" style="s2">how can how can i get smarter</p>
+<p begin="00:48:26.240" end="00:48:32.720" style="s2">um what&#39;s smarter is a word i would want</p>
+<p begin="00:48:30.960" end="00:48:35.280" style="s2">to dive into a little bit</p>
+<p begin="00:48:32.720" end="00:48:37.200" style="s2">whether you mean increased short-term</p>
+<p begin="00:48:35.280" end="00:48:39.280" style="s2">memory or long-term memory or speed of</p>
+<p begin="00:48:37.200" end="00:48:40.400" style="s2">memory or focus or attention or more</p>
+<p begin="00:48:39.280" end="00:48:43.280" style="s2">knowledge or</p>
+<p begin="00:48:40.400" end="00:48:46.240" style="s2">all every way that i can get smarter by</p>
+<p begin="00:48:43.280" end="00:48:49.599" style="s2">every measure i want to do that</p>
+<p begin="00:48:46.240" end="00:48:52.000" style="s2">yeah um so</p>
+<p begin="00:48:49.599" end="00:48:53.680" style="s2">this is this is the neurohacking space</p>
+<p begin="00:48:52.000" end="00:48:57.359" style="s2">right and</p>
+<p begin="00:48:53.680" end="00:48:59.280" style="s2">so there are uh chemical approaches uh</p>
+<p begin="00:48:57.359" end="00:49:00.960" style="s2">the whole field of notropics and brain</p>
+<p begin="00:48:59.280" end="00:49:03.119" style="s2">nutrients and smart drugs</p>
+<p begin="00:49:00.960" end="00:49:04.480" style="s2">are all about exactly this how to be</p>
+<p begin="00:49:03.119" end="00:49:06.720" style="s2">able to</p>
+<p begin="00:49:04.480" end="00:49:08.079" style="s2">hack biochemistry and neural chemistry</p>
+<p begin="00:49:06.720" end="00:49:10.720" style="s2">for</p>
+<p begin="00:49:08.079" end="00:49:12.880" style="s2">affecting cognition either as a whole or</p>
+<p begin="00:49:10.720" end="00:49:16.240" style="s2">very specific cognitive processes</p>
+<p begin="00:49:12.880" end="00:49:17.040" style="s2">there&#39;s also you know tdcs tms different</p>
+<p begin="00:49:16.240" end="00:49:19.680" style="s2">forms of</p>
+<p begin="00:49:17.040" end="00:49:20.720" style="s2">you know transcranial stimulation that</p>
+<p begin="00:49:19.680" end="00:49:22.800" style="s2">people will use</p>
+<p begin="00:49:20.720" end="00:49:25.040" style="s2">transcranial lasers try and hyperclock</p>
+<p begin="00:49:22.800" end="00:49:28.960" style="s2">atp in particular regions their brain</p>
+<p begin="00:49:25.040" end="00:49:30.400" style="s2">um there are uh microbiome solutions to</p>
+<p begin="00:49:28.960" end="00:49:32.480" style="s2">kind of increase</p>
+<p begin="00:49:30.400" end="00:49:33.839" style="s2">the normal healthy neurotransmitter</p>
+<p begin="00:49:32.480" end="00:49:35.119" style="s2">output that might be decreased in their</p>
+<p begin="00:49:33.839" end="00:49:38.079" style="s2">gut so there&#39;s a lot of like</p>
+<p begin="00:49:35.119" end="00:49:39.119" style="s2">i would say biochemical solutions there</p>
+<p begin="00:49:38.079" end="00:49:41.440" style="s2">are</p>
+<p begin="00:49:39.119" end="00:49:42.720" style="s2">future solutions that are not available</p>
+<p begin="00:49:41.440" end="00:49:44.640" style="s2">yet but in process</p>
+<p begin="00:49:42.720" end="00:49:47.680" style="s2">that are things like you know crispr</p>
+<p begin="00:49:44.640" end="00:49:49.760" style="s2">genomic solutions that actually</p>
+<p begin="00:49:47.680" end="00:49:51.280" style="s2">change genetic predispositions towards</p>
+<p begin="00:49:49.760" end="00:49:53.040" style="s2">brain function</p>
+<p begin="00:49:51.280" end="00:49:54.720" style="s2">um there&#39;s obviously brain computer</p>
+<p begin="00:49:53.040" end="00:49:58.000" style="s2">interface uh</p>
+<p begin="00:49:54.720" end="00:49:59.599" style="s2">technologies in process um and</p>
+<p begin="00:49:58.000" end="00:50:01.040" style="s2">this is all kinds of things on the</p>
+<p begin="00:49:59.599" end="00:50:03.839" style="s2">physiologic side</p>
+<p begin="00:50:01.040" end="00:50:04.240" style="s2">and then on the information processing</p>
+<p begin="00:50:03.839" end="00:50:07.280" style="s2">kind of</p>
+<p begin="00:50:04.240" end="00:50:09.200" style="s2">on the software side um</p>
+<p begin="00:50:07.280" end="00:50:10.839" style="s2">there&#39;s a lot one can do there so i</p>
+<p begin="00:50:09.200" end="00:50:14.160" style="s2">would say</p>
+<p begin="00:50:10.839" end="00:50:16.960" style="s2">um the more one</p>
+<p begin="00:50:14.160" end="00:50:18.000" style="s2">learns about any domain and consciously</p>
+<p begin="00:50:16.960" end="00:50:20.640" style="s2">thinks about</p>
+<p begin="00:50:18.000" end="00:50:22.960" style="s2">the cross-applicability of that like why</p>
+<p begin="00:50:20.640" end="00:50:24.800" style="s2">is this domain the way that it is</p>
+<p begin="00:50:22.960" end="00:50:26.640" style="s2">thinking through everything else you</p>
+<p begin="00:50:24.800" end="00:50:27.920" style="s2">know it does this commentary with the</p>
+<p begin="00:50:26.640" end="00:50:29.520" style="s2">rest of my knowledge making an</p>
+<p begin="00:50:27.920" end="00:50:31.119" style="s2">interconnected database where you don&#39;t</p>
+<p begin="00:50:29.520" end="00:50:32.960" style="s2">have arbitrary subject</p>
+<p begin="00:50:31.119" end="00:50:34.240" style="s2">delineations to apply what you know from</p>
+<p begin="00:50:32.960" end="00:50:36.240" style="s2">thermodynamics to</p>
+<p begin="00:50:34.240" end="00:50:37.359" style="s2">biologic systems and gain interesting</p>
+<p begin="00:50:36.240" end="00:50:39.839" style="s2">insights right from</p>
+<p begin="00:50:37.359" end="00:50:41.040" style="s2">from different kinds of systems and then</p>
+<p begin="00:50:39.839" end="00:50:42.880" style="s2">the larger just</p>
+<p begin="00:50:41.040" end="00:50:44.079" style="s2">net database of knowledge you have and</p>
+<p begin="00:50:42.880" end="00:50:47.359" style="s2">the more interconnect</p>
+<p begin="00:50:44.079" end="00:50:49.200" style="s2">that knowledge set is the more kind of</p>
+<p begin="00:50:47.359" end="00:50:50.079" style="s2">insights you will have for lateral</p>
+<p begin="00:50:49.200" end="00:50:52.000" style="s2">application</p>
+<p begin="00:50:50.079" end="00:50:53.359" style="s2">to any new topic that comes when you</p>
+<p begin="00:50:52.000" end="00:50:54.480" style="s2">think about even if i don&#39;t know this</p>
+<p begin="00:50:53.359" end="00:50:57.200" style="s2">topic well</p>
+<p begin="00:50:54.480" end="00:50:58.720" style="s2">i know a lot about universe surrounding</p>
+<p begin="00:50:57.200" end="00:51:01.040" style="s2">that topic that can have</p>
+<p begin="00:50:58.720" end="00:51:02.559" style="s2">cross applicability and then also</p>
+<p begin="00:51:01.040" end="00:51:06.480" style="s2">frameworks for thinking</p>
+<p begin="00:51:02.559" end="00:51:09.520" style="s2">so studying systems thinking and</p>
+<p begin="00:51:06.480" end="00:51:12.880" style="s2">uh things like integral methodology</p>
+<p begin="00:51:09.520" end="00:51:15.119" style="s2">and uh complexity and</p>
+<p begin="00:51:12.880" end="00:51:16.880" style="s2">critical thinking where one actually has</p>
+<p begin="00:51:15.119" end="00:51:19.920" style="s2">better abilities to vet</p>
+<p begin="00:51:16.880" end="00:51:20.319" style="s2">if things are true or not quickly to</p>
+<p begin="00:51:19.920" end="00:51:22.640" style="s2">know</p>
+<p begin="00:51:20.319" end="00:51:24.240" style="s2">all the perspectives necessary to assess</p>
+<p begin="00:51:22.640" end="00:51:26.559" style="s2">a particular situation well and then how</p>
+<p begin="00:51:24.240" end="00:51:28.160" style="s2">to synthesize those perspectives</p>
+<p begin="00:51:26.559" end="00:51:30.079" style="s2">the you know actually studying</p>
+<p begin="00:51:28.160" end="00:51:32.559" style="s2">epistemology studying the</p>
+<p begin="00:51:30.079" end="00:51:36.880" style="s2">processes of thinking and knowing is</p>
+<p begin="00:51:32.559" end="00:51:40.960" style="s2">very useful</p>
+<p begin="00:51:36.880" end="00:51:43.040" style="s2">wow cool so now with your</p>
+<p begin="00:51:40.960" end="00:51:44.160" style="s2">thank you very much now i didn&#39;t say</p>
+<p begin="00:51:43.040" end="00:51:46.079" style="s2">there the basics</p>
+<p begin="00:51:44.160" end="00:51:48.079" style="s2">are make sure you sleep enough because</p>
+<p begin="00:51:46.079" end="00:51:49.440" style="s2">you&#39;ll lose cognitive ability very</p>
+<p begin="00:51:48.079" end="00:51:50.559" style="s2">quickly if you&#39;re not sleepy enough make</p>
+<p begin="00:51:49.440" end="00:51:51.440" style="s2">sure that you eat well make sure that</p>
+<p begin="00:51:50.559" end="00:51:53.599" style="s2">you exercise</p>
+<p begin="00:51:51.440" end="00:51:54.640" style="s2">make sure that your water blood sugar is</p>
+<p begin="00:51:53.599" end="00:51:56.319" style="s2">stable</p>
+<p begin="00:51:54.640" end="00:51:58.240" style="s2">all of the basics of a healthy</p>
+<p begin="00:51:56.319" end="00:52:00.800" style="s2">physiology so that you actually have</p>
+<p begin="00:51:58.240" end="00:52:03.520" style="s2">healthy brain and information processing</p>
+<p begin="00:52:00.800" end="00:52:04.319" style="s2">um make sure that you you know</p>
+<p begin="00:52:03.520" end="00:52:06.400" style="s2">meditation</p>
+<p begin="00:52:04.319" end="00:52:08.079" style="s2">and the right kinds of psychotherapy in</p>
+<p begin="00:52:06.400" end="00:52:11.200" style="s2">life that you can actually</p>
+<p begin="00:52:08.079" end="00:52:12.000" style="s2">focus well uh and you have a brain that</p>
+<p begin="00:52:11.200" end="00:52:14.079" style="s2">is not</p>
+<p begin="00:52:12.000" end="00:52:15.760" style="s2">over anxious or over stressed out you</p>
+<p begin="00:52:14.079" end="00:52:17.200" style="s2">know these these are all</p>
+<p begin="00:52:15.760" end="00:52:18.559" style="s2">different things so you know what we&#39;re</p>
+<p begin="00:52:17.200" end="00:52:20.160" style="s2">actually working to do at neurohacker</p>
+<p begin="00:52:18.559" end="00:52:23.760" style="s2">collective is</p>
+<p begin="00:52:20.160" end="00:52:24.960" style="s2">kind of vet all of the different types</p>
+<p begin="00:52:23.760" end="00:52:28.720" style="s2">of neurotechnology</p>
+<p begin="00:52:24.960" end="00:52:32.079" style="s2">that can help cognitive optimization</p>
+<p begin="00:52:28.720" end="00:52:35.200" style="s2">and on the physiologic side and</p>
+<p begin="00:52:32.079" end="00:52:37.680" style="s2">on the learning and uh</p>
+<p begin="00:52:35.200" end="00:52:38.720" style="s2">you know psychological side vet all of</p>
+<p begin="00:52:37.680" end="00:52:41.599" style="s2">the processes</p>
+<p begin="00:52:38.720" end="00:52:42.480" style="s2">techniques technologies and say which</p>
+<p begin="00:52:41.599" end="00:52:44.400" style="s2">ones</p>
+<p begin="00:52:42.480" end="00:52:46.079" style="s2">move what kinds of metrics for what</p>
+<p begin="00:52:44.400" end="00:52:47.200" style="s2">kinds of people involving what kinds of</p>
+<p begin="00:52:46.079" end="00:52:49.359" style="s2">pathways</p>
+<p begin="00:52:47.200" end="00:52:51.359" style="s2">and then once betting those how do we</p>
+<p begin="00:52:49.359" end="00:52:53.280" style="s2">synthesize</p>
+<p begin="00:52:51.359" end="00:52:55.359" style="s2">all of those partial answers to be able</p>
+<p begin="00:52:53.280" end="00:52:56.880" style="s2">to then make available</p>
+<p begin="00:52:55.359" end="00:52:58.839" style="s2">the best of human knowledge with</p>
+<p begin="00:52:56.880" end="00:53:00.000" style="s2">progressively more personalization and</p>
+<p begin="00:52:58.839" end="00:53:02.720" style="s2">customization</p>
+<p begin="00:53:00.000" end="00:53:03.599" style="s2">to each person so you know to just make</p>
+<p begin="00:53:02.720" end="00:53:06.880" style="s2">it kind of</p>
+<p begin="00:53:03.599" end="00:53:08.559" style="s2">simple say someone was asking</p>
+<p begin="00:53:06.880" end="00:53:10.800" style="s2">asking about how to become smarter is a</p>
+<p begin="00:53:08.559" end="00:53:11.520" style="s2">very broad thing we could kind of dive</p>
+<p begin="00:53:10.800" end="00:53:14.559" style="s2">into</p>
+<p begin="00:53:11.520" end="00:53:16.800" style="s2">uh specific subsets but for</p>
+<p begin="00:53:14.559" end="00:53:18.240" style="s2">for illustration purposes say someone</p>
+<p begin="00:53:16.800" end="00:53:22.480" style="s2">wants to address</p>
+<p begin="00:53:18.240" end="00:53:24.559" style="s2">anxiety well how much of their anxiety</p>
+<p begin="00:53:22.480" end="00:53:26.000" style="s2">is physiogenic and how much is</p>
+<p begin="00:53:24.559" end="00:53:29.040" style="s2">psychogenic</p>
+<p begin="00:53:26.000" end="00:53:30.640" style="s2">and then of the psychogenic stuff if</p>
+<p begin="00:53:29.040" end="00:53:32.400" style="s2">someone was not anxious as a kid and</p>
+<p begin="00:53:30.640" end="00:53:35.599" style="s2">then they had kind of acute</p>
+<p begin="00:53:32.400" end="00:53:36.319" style="s2">adult trauma that led to ptsd or someone</p>
+<p begin="00:53:35.599" end="00:53:37.920" style="s2">that was always</p>
+<p begin="00:53:36.319" end="00:53:40.400" style="s2">anxious from kind of early childhood</p>
+<p begin="00:53:37.920" end="00:53:42.160" style="s2">attachment theoretic structures</p>
+<p begin="00:53:40.400" end="00:53:43.680" style="s2">even though those are both psychogenics</p>
+<p begin="00:53:42.160" end="00:53:46.000" style="s2">they they actually</p>
+<p begin="00:53:43.680" end="00:53:48.079" style="s2">don&#39;t lend themselves equally well to</p>
+<p begin="00:53:46.000" end="00:53:50.960" style="s2">the same kinds of psychotherapy</p>
+<p begin="00:53:48.079" end="00:53:52.960" style="s2">and on the physiogenic side anxiety from</p>
+<p begin="00:53:50.960" end="00:53:56.800" style="s2">a gut brain access disorder</p>
+<p begin="00:53:52.960" end="00:53:58.079" style="s2">that needs microbiome processing or from</p>
+<p begin="00:53:56.800" end="00:54:00.160" style="s2">mild head injury</p>
+<p begin="00:53:58.079" end="00:54:01.319" style="s2">or from a genetic methylation disorder</p>
+<p begin="00:54:00.160" end="00:54:03.520" style="s2">or from</p>
+<p begin="00:54:01.319" end="00:54:04.559" style="s2">excitotoxicity from neurotoxins like</p>
+<p begin="00:54:03.520" end="00:54:07.920" style="s2">again</p>
+<p begin="00:54:04.559" end="00:54:11.680" style="s2">those are all real uh</p>
+<p begin="00:54:07.920" end="00:54:13.680" style="s2">causes of pathology and they need</p>
+<p begin="00:54:11.680" end="00:54:15.440" style="s2">addressed differently so we can just say</p>
+<p begin="00:54:13.680" end="00:54:16.160" style="s2">like i&#39;ve got a hammer so everybody is a</p>
+<p begin="00:54:15.440" end="00:54:17.680" style="s2">nail</p>
+<p begin="00:54:16.160" end="00:54:19.200" style="s2">everyone should do breathing techniques</p>
+<p begin="00:54:17.680" end="00:54:21.440" style="s2">so they should all do vipassana</p>
+<p begin="00:54:19.200" end="00:54:23.440" style="s2">or they should all take a benzodiazepine</p>
+<p begin="00:54:21.440" end="00:54:24.960" style="s2">and we&#39;ll get some effect</p>
+<p begin="00:54:23.440" end="00:54:26.559" style="s2">everybody on a bell curve if we want to</p>
+<p begin="00:54:24.960" end="00:54:28.000" style="s2">put everybody on the front end of a</p>
+<p begin="00:54:26.559" end="00:54:29.680" style="s2">customized bell curve</p>
+<p begin="00:54:28.000" end="00:54:31.280" style="s2">we have to be able to assess what are</p>
+<p begin="00:54:29.680" end="00:54:33.119" style="s2">all the things that could be</p>
+<p begin="00:54:31.280" end="00:54:34.640" style="s2">involved and what they&#39;re looking for</p>
+<p begin="00:54:33.119" end="00:54:35.520" style="s2">how do we assess what&#39;s actually going</p>
+<p begin="00:54:34.640" end="00:54:37.040" style="s2">on for them</p>
+<p begin="00:54:35.520" end="00:54:38.720" style="s2">and see where the greatest lift is going</p>
+<p begin="00:54:37.040" end="00:54:42.720" style="s2">to occur</p>
+<p begin="00:54:38.720" end="00:54:45.839" style="s2">okay so now so your product uh</p>
+<p begin="00:54:42.720" end="00:54:48.720" style="s2">qualia is that how you say it yeah</p>
+<p begin="00:54:45.839" end="00:54:49.760" style="s2">i&#39;m so excited to uh get my first</p>
+<p begin="00:54:48.720" end="00:54:52.880" style="s2">shipment</p>
+<p begin="00:54:49.760" end="00:54:56.640" style="s2">um how does this how does this</p>
+<p begin="00:54:52.880" end="00:54:58.720" style="s2">actually affect the brain and</p>
+<p begin="00:54:56.640" end="00:55:00.559" style="s2">what like what what are some things that</p>
+<p begin="00:54:58.720" end="00:55:02.000" style="s2">people notice when they first start</p>
+<p begin="00:55:00.559" end="00:55:05.040" style="s2">taking it like what is what are some</p>
+<p begin="00:55:02.000" end="00:55:05.040" style="s2">things i have to look forward to</p>
+<p begin="00:55:05.280" end="00:55:09.359" style="s2">um so quality is the first product that</p>
+<p begin="00:55:08.960" end="00:55:10.640" style="s2">the</p>
+<p begin="00:55:09.359" end="00:55:12.400" style="s2">neurohybrid collective as an</p>
+<p begin="00:55:10.640" end="00:55:13.920" style="s2">organization has</p>
+<p begin="00:55:12.400" end="00:55:15.760" style="s2">made available recently brought to the</p>
+<p begin="00:55:13.920" end="00:55:18.160" style="s2">market we have uh</p>
+<p begin="00:55:15.760" end="00:55:20.000" style="s2">many other products in the kind of</p>
+<p begin="00:55:18.160" end="00:55:23.359" style="s2">biochemical nutraceutical space</p>
+<p begin="00:55:20.000" end="00:55:25.839" style="s2">that are in development not currently on</p>
+<p begin="00:55:23.359" end="00:55:28.319" style="s2">on the market including uh more</p>
+<p begin="00:55:25.839" end="00:55:31.440" style="s2">personalized versions of qualia</p>
+<p begin="00:55:28.319" end="00:55:32.240" style="s2">um and then also things in other areas</p>
+<p begin="00:55:31.440" end="00:55:35.440" style="s2">of neurotech</p>
+<p begin="00:55:32.240" end="00:55:37.040" style="s2">but uh this was something that was able</p>
+<p begin="00:55:35.440" end="00:55:38.559" style="s2">to</p>
+<p begin="00:55:37.040" end="00:55:40.880" style="s2">address a specific need we were</p>
+<p begin="00:55:38.559" end="00:55:42.720" style="s2">interested in which is when you see that</p>
+<p begin="00:55:40.880" end="00:55:44.799" style="s2">there are</p>
+<p begin="00:55:42.720" end="00:55:46.319" style="s2">something like 15 billion dollars a year</p>
+<p begin="00:55:44.799" end="00:55:49.680" style="s2">in uh</p>
+<p begin="00:55:46.319" end="00:55:52.640" style="s2">energy drink sales and something like</p>
+<p begin="00:55:49.680" end="00:55:53.280" style="s2">estimated five billion dollars last year</p>
+<p begin="00:55:52.640" end="00:55:55.599" style="s2">in</p>
+<p begin="00:55:53.280" end="00:55:57.040" style="s2">off-label adderall sales for people</p>
+<p begin="00:55:55.599" end="00:55:58.880" style="s2">using it as a smart drug</p>
+<p begin="00:55:57.040" end="00:56:00.880" style="s2">so many other smart drugs like that and</p>
+<p begin="00:55:58.880" end="00:56:03.920" style="s2">this kind of exponential rise</p>
+<p begin="00:56:00.880" end="00:56:06.000" style="s2">of desire for increased</p>
+<p begin="00:56:03.920" end="00:56:07.839" style="s2">productivity in a world where people</p>
+<p begin="00:56:06.000" end="00:56:11.040" style="s2">feel both more</p>
+<p begin="00:56:07.839" end="00:56:13.280" style="s2">demand and more things competing for</p>
+<p begin="00:56:11.040" end="00:56:16.559" style="s2">their attention and damaging their focus</p>
+<p begin="00:56:13.280" end="00:56:18.480" style="s2">and you either have kind of some</p>
+<p begin="00:56:16.559" end="00:56:19.599" style="s2">vitamin herbal solutions that don&#39;t</p>
+<p begin="00:56:18.480" end="00:56:22.240" style="s2">really do</p>
+<p begin="00:56:19.599" end="00:56:22.960" style="s2">anything obvious for people or you have</p>
+<p begin="00:56:22.240" end="00:56:25.040" style="s2">things</p>
+<p begin="00:56:22.960" end="00:56:27.440" style="s2">like some of these you know either</p>
+<p begin="00:56:25.040" end="00:56:30.240" style="s2">excessive amounts of stimulant or</p>
+<p begin="00:56:27.440" end="00:56:31.200" style="s2">off-label pharmaceuticals that can do</p>
+<p begin="00:56:30.240" end="00:56:33.440" style="s2">something</p>
+<p begin="00:56:31.200" end="00:56:35.040" style="s2">but oftentimes it&#39;s a very partial</p>
+<p begin="00:56:33.440" end="00:56:35.839" style="s2">result with pretty meaningful side</p>
+<p begin="00:56:35.040" end="00:56:37.839" style="s2">effects</p>
+<p begin="00:56:35.839" end="00:56:39.520" style="s2">we wanted to see can we actually</p>
+<p begin="00:56:37.839" end="00:56:42.839" style="s2">increase</p>
+<p begin="00:56:39.520" end="00:56:44.240" style="s2">elements of cognitive capacity</p>
+<p begin="00:56:42.839" end="00:56:48.640" style="s2">neurochemically in</p>
+<p begin="00:56:44.240" end="00:56:50.799" style="s2">a way that had a much more broad set of</p>
+<p begin="00:56:48.640" end="00:56:52.160" style="s2">cognitive benefits where we were not</p>
+<p begin="00:56:50.799" end="00:56:54.160" style="s2">just increasing</p>
+<p begin="00:56:52.160" end="00:56:56.400" style="s2">focus through a dopamine energy process</p>
+<p begin="00:56:54.160" end="00:56:59.359" style="s2">but we were addressing</p>
+<p begin="00:56:56.400" end="00:57:01.520" style="s2">attention span and concentration and</p>
+<p begin="00:56:59.359" end="00:57:03.200" style="s2">speed of memory and verbal fluency and</p>
+<p begin="00:57:01.520" end="00:57:04.720" style="s2">digit span and you know all of the</p>
+<p begin="00:57:03.200" end="00:57:06.640" style="s2">different sub aspects of cognitive</p>
+<p begin="00:57:04.720" end="00:57:08.400" style="s2">capability along with the</p>
+<p begin="00:57:06.640" end="00:57:11.200" style="s2">emotional traits that need to come along</p>
+<p begin="00:57:08.400" end="00:57:14.319" style="s2">like uh emotional resilience</p>
+<p begin="00:57:11.200" end="00:57:16.880" style="s2">and uh you know the kind of drive</p>
+<p begin="00:57:14.319" end="00:57:18.960" style="s2">necessary to follow through and not</p>
+<p begin="00:57:16.880" end="00:57:21.520" style="s2">procrastinate so we were looking at</p>
+<p begin="00:57:18.960" end="00:57:22.799" style="s2">kind of cognitively modeling when people</p>
+<p begin="00:57:21.520" end="00:57:23.839" style="s2">want to take when people are seeking</p>
+<p begin="00:57:22.799" end="00:57:25.680" style="s2">cognitive enhancement what are they</p>
+<p begin="00:57:23.839" end="00:57:29.200" style="s2">really seeking and they&#39;re seeking</p>
+<p begin="00:57:25.680" end="00:57:31.280" style="s2">the ability to go into creative</p>
+<p begin="00:57:29.200" end="00:57:34.000" style="s2">productive flow states where their full</p>
+<p begin="00:57:31.280" end="00:57:36.799" style="s2">cognitive capacity is available</p>
+<p begin="00:57:34.000" end="00:57:38.400" style="s2">uh more readily being able to go into</p>
+<p begin="00:57:36.799" end="00:57:40.480" style="s2">those states so we modeled</p>
+<p begin="00:57:38.400" end="00:57:41.680" style="s2">what are those states from a cognitive</p>
+<p begin="00:57:40.480" end="00:57:43.680" style="s2">point of view</p>
+<p begin="00:57:41.680" end="00:57:46.160" style="s2">and then we looked at what are all of</p>
+<p begin="00:57:43.680" end="00:57:49.040" style="s2">the physiologic systems that mediate</p>
+<p begin="00:57:46.160" end="00:57:50.480" style="s2">each of those functions that we know of</p>
+<p begin="00:57:49.040" end="00:57:53.680" style="s2">and what can we do</p>
+<p begin="00:57:50.480" end="00:57:56.000" style="s2">to support and enhance</p>
+<p begin="00:57:53.680" end="00:57:57.680" style="s2">the function of those underlying systems</p>
+<p begin="00:57:56.000" end="00:57:59.920" style="s2">and so qualia</p>
+<p begin="00:57:57.680" end="00:58:01.680" style="s2">was you know a number of years of</p>
+<p begin="00:57:59.920" end="00:58:04.559" style="s2">refinement and development</p>
+<p begin="00:58:01.680" end="00:58:06.480" style="s2">specifically intended to do that to</p>
+<p begin="00:58:04.559" end="00:58:09.440" style="s2">support the underlying</p>
+<p begin="00:58:06.480" end="00:58:09.920" style="s2">systems that mediate those kind of</p>
+<p begin="00:58:09.440" end="00:58:12.400" style="s2">creative</p>
+<p begin="00:58:09.920" end="00:58:13.119" style="s2">productive flow states and to do so in a</p>
+<p begin="00:58:12.400" end="00:58:15.520" style="s2">way that</p>
+<p begin="00:58:13.119" end="00:58:17.839" style="s2">is not only causing some immediate</p>
+<p begin="00:58:15.520" end="00:58:19.839" style="s2">effect but it&#39;s also in</p>
+<p begin="00:58:17.839" end="00:58:21.599" style="s2">it&#39;s supporting the body&#39;s own</p>
+<p begin="00:58:19.839" end="00:58:22.880" style="s2">regulatory processes rather than</p>
+<p begin="00:58:21.599" end="00:58:24.000" style="s2">overwriting them</p>
+<p begin="00:58:22.880" end="00:58:26.079" style="s2">so that rather than leading to</p>
+<p begin="00:58:24.000" end="00:58:27.839" style="s2">dependency it&#39;s leading to</p>
+<p begin="00:58:26.079" end="00:58:30.720" style="s2">increased system resilience even after</p>
+<p begin="00:58:27.839" end="00:58:32.799" style="s2">someone stops using it</p>
+<p begin="00:58:30.720" end="00:58:34.000" style="s2">great cool it must feel really good to</p>
+<p begin="00:58:32.799" end="00:58:36.400" style="s2">having been worked</p>
+<p begin="00:58:34.000" end="00:58:37.040" style="s2">working on this for so long to have it</p>
+<p begin="00:58:36.400" end="00:58:39.520" style="s2">complete</p>
+<p begin="00:58:37.040" end="00:58:41.520" style="s2">and and people benefiting from it</p>
+<p begin="00:58:39.520" end="00:58:43.280" style="s2">already i&#39;ve heard a lot about it</p>
+<p begin="00:58:41.520" end="00:58:44.880" style="s2">what are some of the other things that</p>
+<p begin="00:58:43.280" end="00:58:47.280" style="s2">you&#39;re working on that that we can look</p>
+<p begin="00:58:44.880" end="00:58:47.280" style="s2">forward to</p>
+<p begin="00:58:48.079" end="00:58:52.640" style="s2">uh if you can talk about it the next</p>
+<p begin="00:58:51.520" end="00:58:54.960" style="s2">handful of things</p>
+<p begin="00:58:52.640" end="00:58:56.160" style="s2">that are likely able to come out are</p>
+<p begin="00:58:54.960" end="00:58:59.680" style="s2">going to be</p>
+<p begin="00:58:56.160" end="00:59:01.680" style="s2">um more personalized</p>
+<p begin="00:58:59.680" end="00:59:03.200" style="s2">versions of qualia where people are you</p>
+<p begin="00:59:01.680" end="00:59:04.559" style="s2">know seeking a similar goal right</p>
+<p begin="00:59:03.200" end="00:59:07.200" style="s2">they&#39;re seeking</p>
+<p begin="00:59:04.559" end="00:59:10.720" style="s2">increased cognitive clarity and</p>
+<p begin="00:59:07.200" end="00:59:13.920" style="s2">availability to create great work</p>
+<p begin="00:59:10.720" end="00:59:15.839" style="s2">you know while having good states of</p>
+<p begin="00:59:13.920" end="00:59:18.960" style="s2">human experience</p>
+<p begin="00:59:15.839" end="00:59:22.160" style="s2">but being able to address more different</p>
+<p begin="00:59:18.960" end="00:59:22.960" style="s2">kinds of physiology types so we&#39;re</p>
+<p begin="00:59:22.160" end="00:59:25.119" style="s2">working on</p>
+<p begin="00:59:22.960" end="00:59:26.799" style="s2">customization which doing that at scale</p>
+<p begin="00:59:25.119" end="00:59:27.839" style="s2">is tricky but we&#39;re uh we&#39;re getting</p>
+<p begin="00:59:26.799" end="00:59:31.280" style="s2">close</p>
+<p begin="00:59:27.839" end="00:59:34.720" style="s2">and we&#39;re also working on support for</p>
+<p begin="00:59:31.280" end="00:59:35.280" style="s2">uh other goals like sleep and calmness</p>
+<p begin="00:59:34.720" end="00:59:37.440" style="s2">and fun</p>
+<p begin="00:59:35.280" end="00:59:38.319" style="s2">weirder things like meditation and lucid</p>
+<p begin="00:59:37.440" end="00:59:41.920" style="s2">dreaming support</p>
+<p begin="00:59:38.319" end="00:59:43.760" style="s2">oh yeah cool let&#39;s do that then</p>
+<p begin="00:59:41.920" end="00:59:45.680" style="s2">i&#39;ll take i&#39;ll take one of those too</p>
+<p begin="00:59:43.760" end="00:59:47.280" style="s2">thank you</p>
+<p begin="00:59:45.680" end="00:59:48.799" style="s2">yeah i mean there there we have to</p>
+<p begin="00:59:47.280" end="00:59:50.000" style="s2">separate what is interesting</p>
+<p begin="00:59:48.799" end="00:59:52.319" style="s2">scientifically</p>
+<p begin="00:59:50.000" end="00:59:53.760" style="s2">and what is doable from a regulatory</p>
+<p begin="00:59:52.319" end="00:59:55.839" style="s2">process so</p>
+<p begin="00:59:53.760" end="00:59:57.599" style="s2">you know there&#39;s a tremendous body of</p>
+<p begin="00:59:55.839" end="01:00:00.079" style="s2">data supporting psychedelic assisted</p>
+<p begin="00:59:57.599" end="01:00:02.640" style="s2">psychotherapy is actually being</p>
+<p begin="01:00:00.079" end="01:00:04.000" style="s2">uniquely capable of addressing certain</p>
+<p begin="01:00:02.640" end="01:00:05.119" style="s2">kinds of issues more quickly than</p>
+<p begin="01:00:04.000" end="01:00:06.799" style="s2">anything else</p>
+<p begin="01:00:05.119" end="01:00:08.559" style="s2">and it&#39;s very silly that we still have</p>
+<p begin="01:00:06.799" end="01:00:09.200" style="s2">the regulatory process around it we do</p>
+<p begin="01:00:08.559" end="01:00:12.000" style="s2">it is not</p>
+<p begin="01:00:09.200" end="01:00:12.720" style="s2">good law um but obviously we have to</p>
+<p begin="01:00:12.000" end="01:00:14.799" style="s2">work in</p>
+<p begin="01:00:12.720" end="01:00:16.799" style="s2">what we can do both from a scientific</p>
+<p begin="01:00:14.799" end="01:00:19.040" style="s2">and a regulatory point of view</p>
+<p begin="01:00:16.799" end="01:00:20.319" style="s2">daniel i wish we could talk longer uh</p>
+<p begin="01:00:19.040" end="01:00:22.160" style="s2">this is almost</p>
+<p begin="01:00:20.319" end="01:00:23.440" style="s2">all the time we have i have one more</p>
+<p begin="01:00:22.160" end="01:00:26.480" style="s2">question for you</p>
+<p begin="01:00:23.440" end="01:00:29.839" style="s2">yeah we we end each show</p>
+<p begin="01:00:26.480" end="01:00:32.319" style="s2">in a similar way we ask our guests</p>
+<p begin="01:00:29.839" end="01:00:33.599" style="s2">to give our listeners three things that</p>
+<p begin="01:00:32.319" end="01:00:35.839" style="s2">they can do</p>
+<p begin="01:00:33.599" end="01:00:37.520" style="s2">uh related to the show so in your case</p>
+<p begin="01:00:35.839" end="01:00:39.599" style="s2">what are three ways</p>
+<p begin="01:00:37.520" end="01:00:40.559" style="s2">that people can improve their</p>
+<p begin="01:00:39.599" end="01:00:43.599" style="s2">intelligence</p>
+<p begin="01:00:40.559" end="01:00:43.920" style="s2">their health or their ability to engage</p>
+<p begin="01:00:43.599" end="01:00:46.079" style="s2">in</p>
+<p begin="01:00:43.920" end="01:00:48.240" style="s2">citizen science perhaps perhaps one of</p>
+<p begin="01:00:46.079" end="01:00:50.799" style="s2">each</p>
+<p begin="01:00:48.240" end="01:00:52.720" style="s2">um okay so a good way to improve your</p>
+<p begin="01:00:50.799" end="01:00:54.799" style="s2">health and intelligence that</p>
+<p begin="01:00:52.720" end="01:00:55.760" style="s2">this is not going to be novel but</p>
+<p begin="01:00:54.799" end="01:00:57.599" style="s2">hopefully</p>
+<p begin="01:00:55.760" end="01:00:59.520" style="s2">if we&#39;ve developed any rapport over the</p>
+<p begin="01:00:57.599" end="01:01:02.799" style="s2">conversation i can add to</p>
+<p begin="01:00:59.520" end="01:01:06.480" style="s2">what one knows about it is uh</p>
+<p begin="01:01:02.799" end="01:01:09.599" style="s2">sleep well and enough</p>
+<p begin="01:01:06.480" end="01:01:12.319" style="s2">it&#39;s the more we study sleep the more</p>
+<p begin="01:01:09.599" end="01:01:13.520" style="s2">profound its effects on cognition and</p>
+<p begin="01:01:12.319" end="01:01:15.200" style="s2">physiology are</p>
+<p begin="01:01:13.520" end="01:01:17.119" style="s2">memory consolidation is almost</p>
+<p begin="01:01:15.200" end="01:01:18.799" style="s2">exclusively happening during slow wave</p>
+<p begin="01:01:17.119" end="01:01:19.599" style="s2">sleep delta sleep and if someone&#39;s not</p>
+<p begin="01:01:18.799" end="01:01:21.599" style="s2">getting enough</p>
+<p begin="01:01:19.599" end="01:01:24.079" style="s2">slow wave sleep not only are there</p>
+<p begin="01:01:21.599" end="01:01:26.480" style="s2">physiologic effects and uh</p>
+<p begin="01:01:24.079" end="01:01:28.000" style="s2">the body does so much of its antioxidant</p>
+<p begin="01:01:26.480" end="01:01:28.799" style="s2">and anti-inflammation and et cetera</p>
+<p begin="01:01:28.000" end="01:01:31.760" style="s2">worked in</p>
+<p begin="01:01:28.799" end="01:01:32.640" style="s2">but memory consolidation is is very</p>
+<p begin="01:01:31.760" end="01:01:34.960" style="s2">limited</p>
+<p begin="01:01:32.640" end="01:01:35.920" style="s2">um and that&#39;s how much is enough sleep</p>
+<p begin="01:01:34.960" end="01:01:37.520" style="s2">how do we know</p>
+<p begin="01:01:35.920" end="01:01:39.200" style="s2">this is genetically different for</p>
+<p begin="01:01:37.520" end="01:01:40.720" style="s2">different people and then even for the</p>
+<p begin="01:01:39.200" end="01:01:42.160" style="s2">same people if they have things going on</p>
+<p begin="01:01:40.720" end="01:01:43.839" style="s2">with their physiology or how much</p>
+<p begin="01:01:42.160" end="01:01:45.520" style="s2">they&#39;re working out or what their stress</p>
+<p begin="01:01:43.839" end="01:01:49.119" style="s2">loads are it&#39;ll all be different</p>
+<p begin="01:01:45.520" end="01:01:52.960" style="s2">uh for most people uh this is in the</p>
+<p begin="01:01:49.119" end="01:01:55.280" style="s2">eight hours of uninterrupted uh sleep</p>
+<p begin="01:01:52.960" end="01:01:56.480" style="s2">that&#39;s ideal some people need less than</p>
+<p begin="01:01:55.280" end="01:01:58.319" style="s2">that and if someone has something going</p>
+<p begin="01:01:56.480" end="01:01:59.680" style="s2">on with their physiology or they&#39;re</p>
+<p begin="01:01:58.319" end="01:02:01.359" style="s2">under a lot of strain working out very</p>
+<p begin="01:01:59.680" end="01:02:02.640" style="s2">hard they might need more than that age</p>
+<p begin="01:02:01.359" end="01:02:05.280" style="s2">is a factor</p>
+<p begin="01:02:02.640" end="01:02:07.200" style="s2">um but a way that you can know is that</p>
+<p begin="01:02:05.280" end="01:02:09.119" style="s2">you wake up feeling refreshed and have</p>
+<p begin="01:02:07.200" end="01:02:11.039" style="s2">good energy throughout the day</p>
+<p begin="01:02:09.119" end="01:02:12.480" style="s2">and if you have to wake up to an alarm</p>
+<p begin="01:02:11.039" end="01:02:14.079" style="s2">still tired and are tired</p>
+<p begin="01:02:12.480" end="01:02:15.520" style="s2">throughout the day then there might be</p>
+<p begin="01:02:14.079" end="01:02:19.119" style="s2">other things going on as well</p>
+<p begin="01:02:15.520" end="01:02:20.319" style="s2">but we would like to see the people not</p>
+<p begin="01:02:19.119" end="01:02:23.920" style="s2">waking up to an alarm</p>
+<p begin="01:02:20.319" end="01:02:25.039" style="s2">tired um and then especially stimulants</p>
+<p begin="01:02:23.920" end="01:02:26.720" style="s2">like caffeine</p>
+<p begin="01:02:25.039" end="01:02:27.839" style="s2">are not universally bad for people</p>
+<p begin="01:02:26.720" end="01:02:28.640" style="s2">there&#39;s actually good research showing</p>
+<p begin="01:02:27.839" end="01:02:30.240" style="s2">that many times</p>
+<p begin="01:02:28.640" end="01:02:32.240" style="s2">in many cases they&#39;re healthy and</p>
+<p begin="01:02:30.240" end="01:02:33.039" style="s2">longevity supporting but using</p>
+<p begin="01:02:32.240" end="01:02:35.839" style="s2">stimulants</p>
+<p begin="01:02:33.039" end="01:02:36.559" style="s2">in place of sleep is bad for you and</p>
+<p begin="01:02:35.839" end="01:02:39.920" style="s2">this is what makes</p>
+<p begin="01:02:36.559" end="01:02:41.200" style="s2">adrenal burnout um and so</p>
+<p begin="01:02:39.920" end="01:02:42.720" style="s2">here&#39;s one thing i would say for</p>
+<p begin="01:02:41.200" end="01:02:45.160" style="s2">intelligence and psychological</p>
+<p begin="01:02:42.720" end="01:02:49.839" style="s2">well-being and health and everything is</p>
+<p begin="01:02:45.160" end="01:02:49.839" style="s2">re-prioritize sleep so that&#39;s one</p>
+<p begin="01:02:50.319" end="01:02:54.160" style="s2">two there are so many you know things i</p>
+<p begin="01:02:53.599" end="01:02:57.280" style="s2">could</p>
+<p begin="01:02:54.160" end="01:03:00.880" style="s2">say here but um study how to</p>
+<p begin="01:02:57.280" end="01:03:02.640" style="s2">how to learn i would say read a book on</p>
+<p begin="01:03:00.880" end="01:03:05.920" style="s2">systems theory</p>
+<p begin="01:03:02.640" end="01:03:09.440" style="s2">read some stuff on complexity</p>
+<p begin="01:03:05.920" end="01:03:11.280" style="s2">read some things on epistemology</p>
+<p begin="01:03:09.440" end="01:03:12.720" style="s2">read you know play with integral</p>
+<p begin="01:03:11.280" end="01:03:15.200" style="s2">philosophy and</p>
+<p begin="01:03:12.720" end="01:03:17.359" style="s2">see if i would say for every hour</p>
+<p begin="01:03:15.200" end="01:03:18.640" style="s2">invested in learning how to learn</p>
+<p begin="01:03:17.359" end="01:03:20.319" style="s2">then everything else that you&#39;re</p>
+<p begin="01:03:18.640" end="01:03:21.119" style="s2">learning is working through better</p>
+<p begin="01:03:20.319" end="01:03:23.839" style="s2">frameworks</p>
+<p begin="01:03:21.119" end="01:03:24.799" style="s2">and it has a over time exponential</p>
+<p begin="01:03:23.839" end="01:03:28.720" style="s2">positive</p>
+<p begin="01:03:24.799" end="01:03:30.880" style="s2">so um i&#39;ll call that number two</p>
+<p begin="01:03:28.720" end="01:03:31.760" style="s2">okay and also for integral philosophy do</p>
+<p begin="01:03:30.880" end="01:03:34.400" style="s2">you recommend</p>
+<p begin="01:03:31.760" end="01:03:35.680" style="s2">ken wilbur as the guy the go-to guy</p>
+<p begin="01:03:34.400" end="01:03:37.359" style="s2">that&#39;s the starting point</p>
+<p begin="01:03:35.680" end="01:03:38.960" style="s2">and this is not that someone&#39;s</p>
+<p begin="01:03:37.359" end="01:03:40.480" style="s2">necessarily going to be called to all of</p>
+<p begin="01:03:38.960" end="01:03:42.839" style="s2">it or agree with all of it ken did a</p>
+<p begin="01:03:40.480" end="01:03:44.480" style="s2">major synthesis work the quadrants came</p>
+<p begin="01:03:42.839" end="01:03:46.720" style="s2">from uh</p>
+<p begin="01:03:44.480" end="01:03:48.319" style="s2">jurgen habermas the hollows came from</p>
+<p begin="01:03:46.720" end="01:03:51.280" style="s2">arthur kessler</p>
+<p begin="01:03:48.319" end="01:03:51.680" style="s2">uh developmental psychology came from</p>
+<p begin="01:03:51.280" end="01:03:53.280" style="s2">you know</p>
+<p begin="01:03:51.680" end="01:03:54.720" style="s2">kohlberg and graves and so many people</p>
+<p begin="01:03:53.280" end="01:03:57.839" style="s2">so he he identified</p>
+<p begin="01:03:54.720" end="01:03:59.359" style="s2">really good meta theories or meaningful</p>
+<p begin="01:03:57.839" end="01:04:00.960" style="s2">at least insightful metatherapists and</p>
+<p begin="01:03:59.359" end="01:04:01.920" style="s2">brought a number of them together to be</p>
+<p begin="01:04:00.960" end="01:04:05.119" style="s2">able to look at</p>
+<p begin="01:04:01.920" end="01:04:09.280" style="s2">things like um human development</p>
+<p begin="01:04:05.119" end="01:04:10.799" style="s2">and so it is it&#39;s an insightful place to</p>
+<p begin="01:04:09.280" end="01:04:11.280" style="s2">look at a number of meaningful meta</p>
+<p begin="01:04:10.799" end="01:04:14.640" style="s2">theories</p>
+<p begin="01:04:11.280" end="01:04:18.000" style="s2">together um</p>
+<p begin="01:04:14.640" end="01:04:18.559" style="s2">and a brief history of everything is a</p>
+<p begin="01:04:18.000" end="01:04:20.480" style="s2">good</p>
+<p begin="01:04:18.559" end="01:04:21.680" style="s2">lay introduction to it and then one can</p>
+<p begin="01:04:20.480" end="01:04:22.480" style="s2">go further in different places and there</p>
+<p begin="01:04:21.680" end="01:04:23.760" style="s2">will be some stuff</p>
+<p begin="01:04:22.480" end="01:04:25.920" style="s2">that sounds kind of mystical</p>
+<p begin="01:04:23.760" end="01:04:26.799" style="s2">pseudosciencey and that&#39;s okay i would</p>
+<p begin="01:04:25.920" end="01:04:28.720" style="s2">again just</p>
+<p begin="01:04:26.799" end="01:04:32.000" style="s2">look at the underlying philosophic</p>
+<p begin="01:04:28.720" end="01:04:35.359" style="s2">structures um</p>
+<p begin="01:04:32.000" end="01:04:36.880" style="s2">and maybe number three now i will say</p>
+<p begin="01:04:35.359" end="01:04:39.039" style="s2">if someone is learning how to learn but</p>
+<p begin="01:04:36.880" end="01:04:40.000" style="s2">they&#39;re not actually learning content it</p>
+<p begin="01:04:39.039" end="01:04:42.079" style="s2">won&#39;t work you also</p>
+<p begin="01:04:40.000" end="01:04:43.599" style="s2">then have to be learning content like</p>
+<p begin="01:04:42.079" end="01:04:45.359" style="s2">whatever fields you&#39;re passionate about</p>
+<p begin="01:04:43.599" end="01:04:45.920" style="s2">study them more allocate more of your</p>
+<p begin="01:04:45.359" end="01:04:48.079" style="s2">life to</p>
+<p begin="01:04:45.920" end="01:04:49.359" style="s2">studying them and then as you&#39;re</p>
+<p begin="01:04:48.079" end="01:04:50.400" style="s2">studying them you actually get an</p>
+<p begin="01:04:49.359" end="01:04:53.680" style="s2">example of</p>
+<p begin="01:04:50.400" end="01:04:55.280" style="s2">applying those thinking models</p>
+<p begin="01:04:53.680" end="01:04:57.280" style="s2">and so it&#39;s the combination of those</p>
+<p begin="01:04:55.280" end="01:05:00.480" style="s2">that makes a huge difference</p>
+<p begin="01:04:57.280" end="01:05:03.680" style="s2">and then number three i would say uh in</p>
+<p begin="01:05:00.480" end="01:05:05.039" style="s2">you know just a straight kind of plug</p>
+<p begin="01:05:03.680" end="01:05:08.400" style="s2">for what we&#39;re doing</p>
+<p begin="01:05:05.039" end="01:05:11.839" style="s2">go check out the website yeah i mean</p>
+<p begin="01:05:08.400" end="01:05:14.240" style="s2">if qualia calls to uh then</p>
+<p begin="01:05:11.839" end="01:05:15.520" style="s2">by all means check it out and either way</p>
+<p begin="01:05:14.240" end="01:05:17.760" style="s2">there&#39;s a lot of information</p>
+<p begin="01:05:15.520" end="01:05:19.280" style="s2">on neurohacker.com and every day more is</p>
+<p begin="01:05:17.760" end="01:05:21.119" style="s2">getting up there about</p>
+<p begin="01:05:19.280" end="01:05:22.480" style="s2">how cognition works and the chemistry</p>
+<p begin="01:05:21.119" end="01:05:24.319" style="s2">that affects it and</p>
+<p begin="01:05:22.480" end="01:05:26.240" style="s2">uh over the next little while we&#39;re</p>
+<p begin="01:05:24.319" end="01:05:27.440" style="s2">planning on robusting that to be a very</p>
+<p begin="01:05:26.240" end="01:05:30.480" style="s2">meaningful</p>
+<p begin="01:05:27.440" end="01:05:32.960" style="s2">uh knowledge source for people so uh</p>
+<p begin="01:05:30.480" end="01:05:33.920" style="s2">awesome check it out cool so if you&#39;re</p>
+<p begin="01:05:32.960" end="01:05:35.760" style="s2">if you&#39;re able to</p>
+<p begin="01:05:33.920" end="01:05:37.359" style="s2">so i&#39;m pulling up a bunch of new tabs on</p>
+<p begin="01:05:35.760" end="01:05:39.680" style="s2">my on my</p>
+<p begin="01:05:37.359" end="01:05:41.039" style="s2">desktop as you&#39;re throwing out of these</p>
+<p begin="01:05:39.680" end="01:05:42.400" style="s2">examples</p>
+<p begin="01:05:41.039" end="01:05:44.240" style="s2">of things to study if you were to</p>
+<p begin="01:05:42.400" end="01:05:47.839" style="s2">recommend one</p>
+<p begin="01:05:44.240" end="01:05:51.359" style="s2">book like your all-time favorite book</p>
+<p begin="01:05:47.839" end="01:05:54.640" style="s2">that just blew you away um that was</p>
+<p begin="01:05:51.359" end="01:05:58.160" style="s2">also consumable for uh</p>
+<p begin="01:05:54.640" end="01:05:58.160" style="s2">the average person what would that be</p>
+<p begin="01:05:58.880" end="01:06:05.119" style="s2">it&#39;s an impossible question uh</p>
+<p begin="01:06:01.920" end="01:06:06.640" style="s2">pick a book any book it&#39;s like asking</p>
+<p begin="01:06:05.119" end="01:06:08.319" style="s2">what my favorite nutrient is where you</p>
+<p begin="01:06:06.640" end="01:06:10.319" style="s2">can die of nutrient deficiency across</p>
+<p begin="01:06:08.319" end="01:06:14.880" style="s2">some meteor</p>
+<p begin="01:06:10.319" end="01:06:17.200" style="s2">um i don&#39;t think it&#39;s that serious</p>
+<p begin="01:06:14.880" end="01:06:17.920" style="s2">but the first book that popped to mind</p>
+<p begin="01:06:17.200" end="01:06:20.880" style="s2">is a</p>
+<p begin="01:06:17.920" end="01:06:22.880" style="s2">critical path by buck mr fuller oh great</p>
+<p begin="01:06:20.880" end="01:06:25.119" style="s2">okay</p>
+<p begin="01:06:22.880" end="01:06:25.119" style="s2">cool</p>
+<p begin="01:06:26.480" end="01:06:32.319" style="s2">all right i&#39;m gonna get</p>
+<p begin="01:06:29.520" end="01:06:34.319" style="s2">my kindle so thank you very much daniel</p>
+<p begin="01:06:32.319" end="01:06:35.039" style="s2">schmuckenberger of the neurohacker</p>
+<p begin="01:06:34.319" end="01:06:38.079" style="s2">collective</p>
+<p begin="01:06:35.039" end="01:06:40.079" style="s2">this is our show uh and ben i admire</p>
+<p begin="01:06:38.079" end="01:06:43.039" style="s2">your courage going ahead with the</p>
+<p begin="01:06:40.079" end="01:06:44.000" style="s2">show even with a hurricane the very</p>
+<p begin="01:06:43.039" end="01:06:47.680" style="s2">first</p>
+<p begin="01:06:44.000" end="01:06:51.680" style="s2">landfall of a hurricane on costa rica</p>
+<p begin="01:06:47.680" end="01:06:52.079" style="s2">since 1851 so this is a historic show</p>
+<p begin="01:06:51.680" end="01:06:54.400" style="s2">and i</p>
+<p begin="01:06:52.079" end="01:06:56.240" style="s2">i think it&#39;s very fun that we&#39;ve done it</p>
+<p begin="01:06:54.400" end="01:06:57.039" style="s2">i&#39;ve really enjoyed this i learned a lot</p>
+<p begin="01:06:56.240" end="01:07:00.079" style="s2">i hope</p>
+<p begin="01:06:57.039" end="01:07:02.160" style="s2">people listening um uh we&#39;ll</p>
+<p begin="01:07:00.079" end="01:07:03.839" style="s2">get something tremendous out of it uh</p>
+<p begin="01:07:02.160" end="01:07:10.000" style="s2">thank you both good night</p>
+<p begin="01:07:03.839" end="01:07:10.000" style="s2">thank you everybody have a good one</p>
+</div>
+</body>
+</tt>
