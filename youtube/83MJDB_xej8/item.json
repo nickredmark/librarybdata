@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "83MJDB_xej8"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-19T08:08:23Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "TogetherTec Board Meeting - Mission",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/83MJDB_xej8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/83MJDB_xej8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/83MJDB_xej8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-19T08:08:23Z"
+  },
+  "_id": "83MJDB_xej8",
+  "publishedAt": "2020-09-19T08:08:23Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCKxyC0UUSUjy1mXvfpR2RKg"
+  ]
+}

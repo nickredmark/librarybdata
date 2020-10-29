@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "QGWBTdK6pwU"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-15T07:55:13Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Update on Jubilee and Channel",
+    "description": "I am busy creating the MLM (Meta Learning Magic) and creating a interconnected community (as opposed to a broadcast one)",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/QGWBTdK6pwU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/QGWBTdK6pwU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/QGWBTdK6pwU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Creates Something Amazing",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-10-15T07:55:13Z"
+  },
+  "_id": "QGWBTdK6pwU",
+  "publishedAt": "2020-10-15T07:55:13Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
+  ]
+}

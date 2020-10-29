@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "8F0HYG51eXs"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-27T21:00:28Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "My best recent talk.",
+    "description": "I received a lot of feedback that my talk at the Embodied Movement Summit entitled \"Mindful movement as the confluence of perspectival and participatory ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/8F0HYG51eXs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/8F0HYG51eXs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/8F0HYG51eXs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-27T21:00:28Z"
+  },
+  "_id": "8F0HYG51eXs",
+  "publishedAt": "2020-09-27T21:00:28Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCpqDUjTsof-kTNpnyWper_Q"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "pJcMoIAzOU4"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-18T17:00:12Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Guy and Mercury Black",
+    "description": "Mercury's channel: https://www.youtube.com/channel/UC2i_hx_UfauBFh5DA3YWfDg.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/pJcMoIAzOU4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/pJcMoIAzOU4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/pJcMoIAzOU4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-10-18T17:00:12Z"
+  },
+  "_id": "pJcMoIAzOU4",
+  "publishedAt": "2020-10-18T17:00:12Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCuhoymQ9glku30sG4qgW-iQ"
+  ]
+}

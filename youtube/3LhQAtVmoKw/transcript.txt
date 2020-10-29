@@ -1,0 +1,1334 @@
+howdy this is jim rutt and this is the
+jim rutt show
+[Music]
+this is a current episode currents are
+shorter and less heavily produced than
+our full-length episodes and generally
+focus
+on a single topic as always links to
+books
+articles and organizations mentioned are
+available on the episode page at
+gymrutshow.com that's jimrutshow.com
+today's guest is rob malda back in the
+day
+he was known by his slashdot handled
+commander taco and he tells me he's
+still known by that
+uh he was the guy along with one of his
+buddies who started the famous
+website slash dot you know back in uh
+you know way back yonder it was uh
+absolutely must read when i was
+a cto of thompson now thompson reuters
+they say about 1999 onward
+i checked it every day when i was ceo of
+network solutions and we were involved
+with the icann wars
+it was again absolute must read so
+interesting how i happened to invite rob
+on the show
+in fact i'd call it some synchronicity a
+couple of weeks ago
+i was talking with my friend peter wang
+who's the ceo of anaconda the python
+tools company about moderation systems
+of the past and what they might have
+with respect to lessons for the future
+and i mentioned
+uh then slash dot and i mentioned how it
+had
+had a very interesting and unusual
+rating system going on
+and uh frankly i said i had no idea
+whether flash
+dot still existed peter assured me that
+it did
+then last week i saw rob musing on
+twitter about writing a history of
+slashdot
+and while i'm supposed to be on a
+six-month break from social media
+i think where am i now i guess i'm
+halfway through month three
+i still do one screen a week just to get
+a
+zeitgeist of the vibe on the nets so i
+just happened to see that i guess some
+one of my friends happened to like it or
+share it or something so i
+i said you know two signals in a
+row
+in seven days got to be something there
+so i reached out to him said hey rob
+hey you can start talking about the
+history of slashdot here
+so rob how you doing i am well
+that's a good thing this craziest of all
+years
+so let me start with the obvious first
+question
+where the hell did the handle commander
+taco come from
+so commander taco is a reference to a
+dave berry
+quote uh he wrote a book i don't know
+probably in the 80s
+uh maybe 90s and it was like a joke
+dating guide
+and the commander taco was the name of a
+restaurant that you should never take a
+first date
+now in my hometown it was quite common
+to take a first date
+to jack in the box at two o'clock in the
+morning for the
+nastiest greasiest tacos ever i guess we
+didn't read that book
+there you go about that so that's we're
+gonna talk about slashdot today
+so what how did it start what was the
+deal what what the hell were you guys
+doing when you launched it
+yeah we didn't know either uh so
+slashdot started uh
+like let's say 1997 it grew out of uh
+i was working at an ad agency as a
+part-time job building websites
+uh i was in college at the time and that
+in 19 let's say 1995 1996 nobody knew
+how to write html
+and i hung out with graphic designers
+and i was an engineer
+and i hung out in irc chat rooms and
+usenet message boards
+and was writing what would in 2020
+be commonly known as a blog but in 1996
+1995 had no name it was just a home page
+uh and all of those things just sort of
+swirl together
+and over the course of uh a couple of
+years there
+i built the slashdot thing cool
+and uh as i recall the the
+software that you ran on has always been
+open source is that was that correct
+i don't know if it's always been open
+source but it was definitely open
+sourced after
+after a time the first couple of
+versions of it were not anything
+shippable
+okay they were you know hodgepodged
+pearl scripts duct taped together
+uh but uh after a few years we
+made a concerted effort to release the
+whole platform as an open source package
+and lots of websites uh in the
+early early 90s ran it it was called
+slash
+there was a number of sites that were of
+varying degrees of popularity that used
+our code
+uh although i don't think that any of
+them
+[Music]
+really plumbed the depths the way we did
+it wasn't really a useful application
+for most people because
+it was itself highly tuned for our
+specific use case which was a pretty
+large population
+and a lot of the weird code that made it
+difficult for noobs to
+install was basically built around us
+building a scalable platform both in
+terms of the available hardware that we
+had
+like average folks didn't have you know
+15 servers to host it on
+but also we were constantly dealing with
+trolls so
+a lot of the code in the system was uh
+the moderation system
+uh and those were not the the system was
+overly complex if you didn't have our
+problems
+yeah i know that feeling uh back in 2013
+i
+uh was part of a project where we put up
+a community
+system board that we thought was going
+to get bigger than it did and we
+foolishly
+uh took a fork of the reddit uh source
+code
+oh you and it and had the same issue it
+had you know
+massive back end scaling potential which
+we thought we were going to need
+well guess what we missed that by two
+orders of magnitude oh well
+and so it was a disproportionate pain in
+the ass
+from a devops perspective and from an
+operational perspective
+uh but it was fun nonetheless and i
+actually still have that code i know
+it's no longer available
+but so if anybody ever needs a copy of
+the reddit source code from 2013
+including a bunch of cool enhancements
+let me know
+i'll i'll keep that in mind should i
+ever find a desire to build up another
+site the code is not bad
+but i would also say it is not good it's
+somewhere in between if you know what i
+mean
+right i have a feeling that uh it was
+developed uh
+under not dissimilar circumstances from
+my own
+so uh that that's not really the ideal
+way to
+start an open source project and as far
+as i know they never rewrote it it's
+just
+you can just see the uh you know it's
+kind of like the ruins of troy 13 layers
+of slag one on top of the other
+so you started around 1997 when did you
+start to build
+you know significant traffic uh we
+i guess i don't know how you define
+significant we were we were
+pretty big pretty fast uh but i guess
+that's all relative
+uh i was very active in the irc
+community uh for the linux
+uh space i was a open source developer i
+was
+writing code and contributing to various
+platforms and my site
+even before slashdot existed had a
+certain percent a certain amount of
+traffic
+but you know uh that would be like you
+know hundreds or thousands of users a
+day so slashdot itself when it came out
+when it started was just
+me saying all of my stuff is here now uh
+and it had thousands of people almost
+immediately uh
+but uh it grew to tens of thousands
+uh in a few months uh and hundreds of
+thousands
+uh within within a year or two um
+we were uh very fortunate uh
+i can't i don't have a lot of advice in
+terms of how you would grow such a thing
+except for to do the right thing and
+don't be dumb uh it seems like that's a
+lesson that a lot of websites don't
+really understand anymore but you know
+yeah let's also be honest be the right
+place at the right time right
+any second man yeah exactly right and uh
+as i said in the opener uh it was kind
+of the must-read source for
+serious biz tech nerds uh in the day
+right uh
+whenever there was some hack or some new
+policy issue that it was arising
+first place i went slashdot for uh for a
+good five years there
+uh we were i wouldn't say the only game
+in town but we were
+heading shoulders above the rest because
+your other choices would be the
+mainstream tech publications and they
+were
+they very much uh grew out of the
+traditional print media so they had
+they had a certain flavor to them uh i
+wouldn't call them stale lame and boring
+but uh i just did
+uh other people might right i mean yeah
+it was interesting and but then on the
+other hand
+eventually it started to fade i still
+sort of recall
+when i first noticed it fading it was
+you know by this point i'd retired from
+business in 2001 and
+had reinvented myself as a scientist and
+i was out at the santa fe institute
+doing
+uh research on agent-based evolutionary
+artificial intelligence how about that
+for a mouthful
+but i still had some you know tech
+investments and still advised if i was
+on a few boards and what have you
+remember something came up and i
+immediately went to slashdot and said
+slashdot should be the place to learn
+about this but about 2003
+and there was hardly anything there and
+what was there was a little weak
+and then i discovered ours technica and
+that then became my kind of go-to place
+around that time
+yeah ours was ours was solid for a long
+time there yeah
+i would say slashdot held on uh its
+relevance uh
+up until uh the era of dig
+and reddit uh uh once they started
+achieving a certain amount of traction
+slashdot lost uh some of its luster
+uh but there was a lot going on uh and
+the new uh more
+uh i guess the more modern crowd-sourced
+uh flavors became more popular uh
+and along with that i think uh slashdot
+began to gently set
+into the sun well yes that happens
+sometimes
+anyway let's get to the point uh that uh
+you know peter wang and i were talking
+about
+at least back in the day as i recall and
+who knows maybe i'm getting senile but i
+recall that you had a
+rating system where people were selected
+somehow
+uh at in relatively low frequency to
+rate the stories
+uh was that is that correct did i
+remember that right well
+uh i might nitpick uh on your
+terminology
+uh slashdot was always a
+the story selection process when you say
+stories uh i think about the story
+selection process
+and i think you're trying to describe
+the comment moderation process uh we
+always took story submissions from
+uh our users right in the
+later eras uh in the later era the
+2007 range let's say there was a voting
+system where the community could
+participate in the story selection
+process
+but within about a maybe a year in
+change of slashdot's existence the
+comment moderation system was
+very much an active development and i
+think that's probably the piece that uh
+that most people think of when they
+think about uh slashdot its role
+uh in large scale discussion systems i
+mean there weren't a lot of systems
+in 1998 1999 that would
+potentially have hundreds of active
+contributors uh
+posting uh within a few hours uh and
+also allowed
+uh anonymity within the context of the
+platform
+so our system uh was uh
+uniquely evolved to deal with the
+problems that we
+saw yeah okay i think you're right yeah
+now you know again this was a while ago
+and i'm getting old god damn it
+uh and so was the it was the uh
+the comment moderation that you picked
+people
+it was not everybody got the vote people
+were picked for short periods of time
+like a couple of days
+and and you had i don't know did you
+have a limited number of votes i don't
+even remember but
+i still remember being selected several
+times and taking it
+seriously because it was a high-powered
+signal you know unlike
+a like on facebook or an update right on
+reddit what you think of as a cheap
+signal
+if you got tapped uh with this limited
+uh period uh franchise yeah actually
+took it seriously
+why don't you explain how that system
+worked yeah scarcity
+uh creates value uh the way that the
+system generally worked is that uh
+you had to be an active participant
+within the community uh which i had a
+number of different
+metrics that i would measure to decide
+if you were able to participate or not
+one of the things was you got to read
+the site and you can't read too much
+so there was sort of a sweet spot you
+had to read the page the site more than
+a couple of times a day and you had to
+read the site less than let's say
+i'll pick a number 50 times a day if you
+were that then we then the concern would
+be that you were trying to game the
+system and get points
+uh intentionally and we absolutely had
+to deal with that problem later on
+but the system would basically dole out
+eligibility tokens
+if you happened to be if you fell within
+the the window of people who were good
+contributors during that time window and
+when the system so basically
+as users would post comments we would
+push eligibility tokens into the system
+and once uh enough comments had been in
+the system we would pull whoever had the
+most tokens
+uh out of the pile uh and give them mod
+points so that would actually amount to
+uh you know a few hundred people a day
+uh or maybe a few thousand people a day
+depending on the era getting mod points
+uh at which point uh the specifics would
+vary
+depending on whether you're talking
+about 1998 or 2008 but
+you'd get let's say five or ten points
+and you were usually given 24
+48 72 hours to spend them uh
+at which point you would read the
+comments and you would find the ones you
+liked and you could choose to
+send them up a point or down a point and
+i mean at the core that's the whole
+system i
+we had uh scarcity uh which
+created urgency uh and over time
+we were able to identify
+uh users who were bad actors and users
+who were good actors
+within the system and sort of uh adjust
+some levers
+to make sure that the right people were
+getting the points at the right time and
+the
+the bad actors got weeded out of the
+system and we were able to get to a
+place where we were able to spend
+we were able to generate a community
+that could spend you know thousands of
+points within the system a day
+which was usually enough i i tried to
+maintain a ratio of comment posts to
+moderator activity
+uh and that that that kind of was the
+sweet spot whereas
+today when you see a you know a tweet or
+a
+reddit post uh with uh with your likes
+or whatever
+uh that's essentially an infinite
+resource you can have a tweet with uh
+with 10 million likes on it
+but the system the slashdot system was
+designed uh to not actually have that
+uh because i always felt that uh the
+scarcity is what uh what made the system
+kind of reliable yeah exactly i mean at
+the time when i was most active on
+slashdot i was the
+ceo of a billion dollar company right my
+time was precious
+uh but when i got those little taps uh
+you know i took it seriously and i
+actually
+uh said okay here's some significant
+signal
+in the community that i respect and so i
+did it and i paid a lot of attention to
+it
+and so i think that was uh you know damn
+clever design
+uh the other thing that's nice about it
+is it defeats some of the game
+theoretical hacks
+on open rating systems i mean uh
+famously
+reddit is where brigading got started
+right it was i can still remember the
+uh reddit says versus the anti-shit
+reddit says
+brigade wars when hundreds of people
+would attack each other's posts and
+upgrade them or down rate them etc
+your system seemed pretty damn resilient
+against brigading as an example
+you know what's interesting is that uh i
+said this earlier but
+uh in the later naughties we developed a
+system to rate stories
+and uh to sort of leverage uh our
+population in the story selection
+process but i wasn't comfortable
+simply flipping the switch and using a
+model like a like a reddit or a dig
+where
+the community votes exclusively
+determine the content content of the
+homepage
+and when that happened we
+saw a lot of that brigading style
+attacks
+on this uh this new system which didn't
+have the same scarcity of moderation
+but i had designed that system
+to avoid it rather than revealing for
+example specific
+uh integer values for
+the posts uh i color coded them uh
+so uh the color codes underneath the
+hood
+could represent uh any number they it
+could be a million likes or it could be
+seven
+uh if it was the right seven uh but uh
+or the right like if i moderated it up
+that was worth more than you
+because sorry jim you're a nice guy but
+uh i you know i i know what i like and i
+know what's going on slashdot
+uh but uh the the system we've
+absolutely had that brigading type
+material
+behavior in that system and that
+the development of that of the the story
+rating system
+very much was influenced by the
+successes that we had had with the
+moderation system i was trying to find
+a hybrid uh between the two between the
+more public
+uh reddit type systems uh which are
+easily gameable
+or relatively easily gameable uh and i
+what i found actually is that
+some of the worst offenders for the
+brigading style tactics were actually
+the publishers themselves
+they would routinely
+get into our system we called it the
+fire hose they would get into the fire
+hose and they would
+uh moderate themselves up and they would
+send their rivals down like the worst
+would be like an embargoed news tech
+release
+uh where you know you got five p you got
+your rs technicas and you got your pc
+magazines and they've all got the same
+embargo news story coming out at 1201
+and they would all log in and moderate
+their own story up and their
+rival publications down and that would
+just be like
+you know a dozen people uh but it was
+very much
+i think at that that was kind of the era
+where i realized oh great the
+publications are just as crappy as the
+randos
+uh and uh it took me a little while to
+realize that the governments would be
+doing the exact same thing and that's
+where we see our
+the the twitters in the the mid-2015s or
+the facebooks
+uh where now you have government actors
+doing
+what uh what uh might have been being
+done by a nand
+tech or something in 2007. yeah
+absolutely
+and again this is what you should expect
+game theory right
+uh you give you give uh agents an
+ecosystem and they will attempt to
+ manipulate it
+you know i'll confess to in the early
+days when i was i wouldn't call it the
+early days of reddit the early days when
+i was on reddit i had a dozen sock
+puppets right
+uh quite handy to kick your uh kick your
+posts up a little bit particularly in
+not so traffic
+subreddits right you give yourself a
+dozen upvotes over
+six or seven hours and uh it definitely
+helped of course people are going to do
+that yeah
+get uh your accounts to stop working on
+slashdot yep exactly and so
+we spent we spent years developing
+defensive techniques against those sorts
+of
+uh those sorts of behaviors uh and i
+actually felt a little bad for the
+reddits and the digs because
+uh when they started gaining traction uh
+and popularity
+those sorts of behaviors just became
+immediately obvious and
+the the users of those systems the
+comment posters
+had uh developed these techniques on
+slashdot and we had spent years
+hardening
+ourselves against them uh so when uh the
+when the next generation the web 2.0
+generation came along
+i felt bad because uh the the troll
+population
+uh was coming to the battle with machine
+guns and they were they were defending
+themselves with uh
+you know two by fours and sticks
+and they still are i mean frankly you
+can you can still manipulate both reddit
+and twitter fairly easily
+although i would i would actually argue
+that now
+it seems like the people who are working
+on the bots are are as much
+me they're working with psychology uh as
+much as anything else
+they're they're they know what
+stuff is gonna bite on people uh
+and they're really careful about that i
+think that uh
+you know 15 years ago it was less about
+the psychology and more about just
+trying to make your point heard
+uh and now it's a lot more savvy a lot
+more
+malicious i suppose yeah it's another
+game that's opened up you know the old
+the old game of upvoting still exists
+brigading still exists i know a guy who
+has an army of
+trolls for instance right and he's real
+active right now
+manipulating things in the presidential
+elections and so
+uh yeah there's robot posting for sure
+uh but good old brigading still exists
+and you know it's a it's
+as always an armed arms race platforms
+are trying to detect it but hey you run
+it through tours they don't know where
+the hell you're coming from and you know
+and you know but then they say all right
+now people's ip's addresses are
+evolving in a non-standard fashion that
+ain't right so
+then you start using ghost where you can
+you know come out where you want
+you know you're giving me flashbacks
+because what you are basically
+describing
+was my day-to-day job from like 2000
+till 2006
+2007. oh great they figured out a new
+way to
+obfuscate their identity and slashdot at
+its core we really worked hard
+during my tenure to maintain the ability
+to post anonymity here to post
+anonymously
+uh and that's not something i think that
+exists anymore and i think that
+i mean whether or not that's a that's a
+value is a different discussion
+uh but uh we valued it at the time
+and that made it very difficult uh
+for uh for us to have a lot of defenses
+against folks because like you say tor
+i mean even before tor um unsecured
+relay servers that was our that was our
+first problem on uh unsecured proxy
+servers
+uh and then that would evolve into tor
+and then we had people
+who would uh they would bought the
+creation of user accounts
+uh and uh so that they could get around
+the
+we would throttle anonymous users in in
+you know maybe a little bit more rigidly
+than regular users because i couldn't
+tell if you were one user or 50
+without enough data uh so we would i
+don't know it
+it was it was a difficult time uh and uh
+it gave me a good sense of what the
+folks that are at the major platforms
+are dealing with today
+and uh it's a bummer because they got
+overwhelmed
+uh and i think that now that everybody's
+aware that that's a problem
+uh it's it's a little bit too late the
+cat's kinda out of the bag for those
+folks
+yeah sort of but you know nothing says
+they couldn't change their moderations
+uh policy well go ahead moderate
+policies uh but uh it's it's
+it's about uh user expectation uh
+and i think that uh you but users of
+these systems
+uh like here's a dumb example
+uh the fact that the the like count on
+twitter is displayed as a numeric
+integer creates a whole number of
+perverse incentives for bad actors and
+for good actors
+but it but they can't take that number
+away in 2020 people would freak
+uh but you know that number is probably
+damaging to them if they simply replaced
+that with percentiles
+and said this comments in the 99th
+percentile for today
+uh a lot of edge case behavior would go
+away
+uh but it also at the lower levels would
+take away uh
+incentive because uh moving to uh you
+know the from the zero to the first
+percentile is actually a pretty big
+burden for
+for most online content yep though
+actually jack has mused about getting
+rid of the count right he's
+talked about it and at one point said he
+was going to he didn't actually but
+uh yeah they're at least thinking about
+it right yeah
+all the time uh i think that uh they're
+all doing their best in a in a
+questionable situation but
+these decisions are hard and they have
+influence uh
+at the at the street level where you
+just have like a random three people
+tweeting back and forth at each other
+but also at the the state actor level
+uh these are hard hard problems and if
+you haven't been deep in it uh
+you don't understand the complexities of
+them and you know
+i wish them all the best uh i wish they
+would have i wish they would have hired
+me for like one day of consulting in
+like 2008 so i could sit down with them
+and say
+look these are what this is what's going
+to happen to you uh
+you need to harden against this now you
+know yep and
+again they should have just known that
+any ecosystem that has
+targets of value that can be exploited
+will be
+exploited right and you discovered many
+of them though probably not all of them
+oh definitely
+uh we were to start we were discovering
+new ones right until the day left
+yep uh is there anybody out there that's
+using the
+uh you know high value scarce uh
+moderation technique that you guys had
+yeah no i haven't seen well nobody's
+using our specifics uh
+i imagine there are systems out there
+that that use them but they're probably
+the notions that we're playing with
+probably have more in common with video
+games
+than uh like a moderation system
+you know things like running out of ammo
+and stuff uh in a in a
+in a in a game you know has a lot to do
+with you know do we add more
+ammo and more weapons to make this map
+more fun or does that create this
+make this map be uh imbalanced towards a
+certain play style
+i think that uh the gaming community
+probably deals with these sorts of
+problems
+more uh than the reddit communities
+because
+i think that uh the the larger scale
+systems
+they're so focused on maximizing time on
+site
+uh that the notion that you would
+throttle uh in interactive behavior
+uh is is a difficult one because when
+you i mean what what are you doing
+except
+uh designing metrics and measuring
+success
+with your various metrics uh and
+what tells you that uh that a user is
+enjoying your system more
+than them clicking a like button that's
+a big deal
+uh and so they they they have a
+different incentive
+uh it's i don't know it's it's a it's a
+hard problem uh i've never seen anybody
+uh deploy things like at that to the
+extreme scale that we did
+there are plenty of systems that
+restrict moderator access
+but they generally do so to tiers or
+classes of users
+and not to uh i mean the slashdot system
+was very much designed to give
+everybody a shot uh like i i'm going to
+test you out welcome to the system
+you've been around for a couple of
+months
+i'm gonna test you out a couple of times
+and if you prove yourself worthy
+then you're gonna get to participate in
+the system uh every couple of weeks and
+if you don't then you're not gonna have
+to play anymore
+yeah great it was a great idea it really
+was i and that's what that's actually
+the conversation peter and i were having
+said
+hmm this was an actually interesting
+different and at the time
+seemingly effective uh way to do
+moderation and we at least had never
+seen it elsewhere
+i think that uh i mean the the systems
+today they suffer with uh with
+another uh a number of uh interesting
+hamstrings on this regard as well
+uh one of slashdot's key advantages in
+the early days is that the community was
+really friggin smart
+and the topic of the site was
+relatively narrow uh it was all
+generally tech or sci-fi or i mean it
+was news for nerds it was it was that
+that vain and especially for the first
+few years
+uh they're just we weren't talking about
+uh
+the general things that you would see
+like on uh a national debate stage
+uh we were talking about a niche uh and
+so
+if uh you're an expert uh in
+operating systems uh then your your
+opinion on uh
+hardware and on video cards might be
+reasonably accurate
+uh but just because you're an expert in
+encryption doesn't make you an expert in
+immigration policy
+uh and i think that the the modern
+systems suffer from
+uh you're you're expected to be all
+things or people tend to be are
+to per to portray themselves as being
+expert in all things
+when they're online so if i'm logged in
+on reddit
+uh or twitter uh whether or not i'm uh
+uh participating in uh the uh
+pc sales subreddit or
+uh the donald i suppose the donald's not
+around no more but uh
+but but regardless the system regards me
+as being generally equal
+uh in each of these areas although i'm
+maybe more of an expert
+in one subject than the other uh and i
+think that that's really where we end up
+in so much trouble with the with the
+twitter these days is that you have
+a person who's an expert they have they
+have a domain of expertise
+and they gain followers because they
+have a
+domain expertise and then that allows
+their ideas
+outside of their expertise to be
+weighed with uh an undeserved value
+because of their expertise in another
+domain uh and
+so therefore because they were
+successful in attracting followers
+from their domain expertise area uh
+their uh opinions on areas where they're
+not they're simply not qualified
+gain likes uh they gain they they gain
+unearned popularity
+uh and i think that a slashdot uh had a
+lot of advantage because at least in the
+earlier days the community was
+relatively
+focused uh on subject matter so we had
+it we had a good advantage there as we
+broadened out and
+added things like politics and stuff to
+the site i think that that that
+uh became more of a problem uh but the
+the modern systems they don't have
+anything like that
+uh on twitter you can follow me because
+you're interested in seeing me make pens
+you can follow me because you're
+interested in uh
+my podcast geeks in space or you can
+follow me because you're interested in
+my opinions on social media and modern
+day use of moderation systems
+but my
+qualifications on any of these things
+has nothing to do with the fact
+my qualification for if i happen to
+tweet that the detroit tigers won today
+uh and obviously these are trivial
+examples but people
+use them for legitimately important
+matters of discussion and the systems
+don't seem to differentiate
+between the two yep and you talk about
+cross
+leverage of expertise and of course on
+twitter the even bigger problem is no
+expertise you know so-called celebrities
+you know they got
+nine million followers and they mouth
+off on all kinds of topics and they have
+no expertise in anything they're just
+famous for being well known the
+definition of being a celebrity right
+and that's the thing is that uh you know
+the kanye west problem i suppose he may
+very well be
+an expert uh in something that he tweets
+about
+uh but he's famous for something else
+and i have no way to vet his
+uh credibility uh on a subject that
+maybe he's never really actively
+participated before and that's
+that's sort of universally true you
+shouldn't uh trust
+my views on any political matter i have
+no particular expertise in politics
+my background is is generally technology
+and social media
+uh you shouldn't trust what i think
+about i don't know immigration policy or
+international relations i don't have any
+but i might tweet about it
+uh but if you're voting that up you know
+it's not because i'm qualified
+yep indeed that's a you know that's an
+interesting
+design issue if one were thinking about
+how to do something like
+social media correctly one of the things
+you mentioned which i did not know at
+the time was that you had
+differential vote weights uh on slashdot
+you know we were considering that in our
+2013
+uh system in fact it was kind of a
+stupid and naive
+first attempt which we never actually
+implemented but we'd specked out
+making the up and down votes you'll love
+this
+weighted by the log five of your reddit
+style karma how about that for an
+obscure algorithm
+it's not looney tunes uh we we did lots
+of variations on that
+uh so in the initial days of slashdot
+scores the scores of comments were rated
+from negative one to five and
+the the the database entry was literally
+just an integer
+and it was literally just sum it all up
+add and subtract when people
+participated uh over time that became
+uh not nearly com and not nearly good
+enough because you have all sorts of
+weird cases like for example
+there's a difference between a comment
+that's a score five and then somebody
+tries to moderate it up to six
+uh and then it so flutters five six five
+six five six five six what does that
+mean
+uh to a user and to the moderators uh i
+didn't i didn't like that because
+i was trying to balance the number of
+points being spent in the system on any
+given day
+uh but there's there's that's a signal
+there and i have to capitalize on that
+uh when we designed the achievement
+system for slashdot
+uh we sort of modeled it after the way
+that world of warcraft did theirs but as
+a joke
+uh we made each of the tiers of um
+of your rating of your achievement of
+your score in the achievement system
+uh each each was exponential it wasn't
+log five it was exponential
+so uh to you know get to rank eight
+or whatever in an achievement category
+it had to be two to the eighth
+uh uh points uh or
+uh events uh that measured that so
+there were there were a number of uh
+achievements in the system that uh
+you know you'd suddenly find yourself
+well you gotta post 16 million comments
+in order to get to the next tier because
+it's exponential
+yeah log two base that's basically log
+two right uh
+and log five is even worse right right
+and so we did we did
+essentially a similar thing uh because i
+didn't want people to treat that as a
+gameable thing
+so at some point uh the difference
+between you know
+if you're talking about uh like an easy
+like a free action like a like or
+something
+on reddit um you know if a user has done
+that
+a hundred thousand times over the course
+of a year whether or not they do it a
+hundred thousand times or two hundred
+thousand times doesn't really matter all
+that much that you know the the
+difference between you know that those
+the orders of magnitude are really all
+that matters at that point
+that's exactly why we we like the log
+the logarithmic scale because it does it
+you know it's essentially the inverse
+of the exponential so it's exactly that
+reason you know the difference between a
+hundred thousand
+and two hundred thousand posts is much
+more d
+much different than between twenty posts
+and a hundred thousand posts
+right the the actual comment moderation
+system on slashdot
+uh didn't exactly use that uh
+but uh we definitely like by the end we
+had a lot
+the system underneath is actually pretty
+complicated when i left
+uh and i can't imagine that it's changed
+much
+uh in the last eight nine years but uh
+it's
+uh there's a lot of weird math going on
+underneath there
+uh like to deal with like weird weird
+edge cases like for example what happens
+if i find a bot
+uh in the system uh and uh i discover
+that that bot has been doing something
+crappy in my system for two weeks and i
+didn't notice well
+i the system that we had actually had
+the ability to
+extract that user from the system i
+could erase their scores and that might
+mean like a lot of weird stuff like the
+example i was talking about earlier you
+got a score five comment that gets
+moderated up to six but slash that
+doesn't have score six
+so it's just four five four five four
+five six five four five bouncing around
+in that range
+well what happens when you pull somebody
+out uh
+pull somebody's influence out of that
+like i'm like a week later well that
+comment isn't getting active moderation
+uh so you actually have to replay uh the
+moderation history
+uh that occurred to that individual
+comment and see that this guy
+who uh you know you might have weighted
+him as a 100 contributing user
+uh a week ago but now you realize he's a
+zero percent control you gotta you gotta
+make sure that uh you keep the score
+fair uh to the to the user who
+uh posted the comment it's it's a it's
+it's a hard problem
+uh and i don't think people really think
+through the complexities of this stuff
+unless they are neck deep in it for a
+few years
+yeah and of course uh be even harder to
+implement something like that on the
+scale of uh
+twitter or facebook where instead of you
+know hundreds of thousands or a few
+millions
+of users you're talking about billions
+right for sure and
+they have the the further problem where
+um
+uh like like i was saying earlier you
+know your post in one domain of
+expertise
+uh you could get retweeted tomorrow by
+somebody who's
+whose followers all exist within a
+completely different domain of expertise
+so a lot of your uh a lot of the
+historical value
+uh gets thrown out the window it's it's
+it's a complicated problem
+uh and i would absolutely uh i would
+love
+full access to those guys log files i'd
+love to i'd love to
+parse that data and see what's what's
+going on have you ever reached out to
+them to uh you know offer your expertise
+and or get access to their data for
+research purposes they do occasionally
+give it out
+uh i have uh academic friends who do
+that sort of thing
+uh but nobody at twitter or facebook
+knows my name so it doesn't matter
+yeah i had a guy philip howard on from
+oxford who
+leads the social media analysis uh
+group over at oxford and they do uh
+stuff like that and i
+had on actually just last week rene
+derista who
+does something very similar at stanford
+uh you know if you'd like to be
+introduced to those folks i'd be happy
+to do it yeah you should uh you might
+want to talk to cliff lampe at
+uh university of michigan he does a lot
+of that stuff too
+sounds good so let's finish the story uh
+what happened this what happened with
+slash dot
+uh why did hacker news kick your ass
+uh hacker news never kicked our ass
+hacker news is a different deal entirely
+um well i think slashdot
+became victim of his own success uh
+we uh that when the site began
+it was a very dedicated population of
+contributors uh who were generally
+expert
+uh in the the areas of the nerd culture
+that we were doing
+that we were covering and uh over the
+years
+uh other choices came along and
+uh when a population starts off with a
+core of experts
+the inevitable thing that happens is
+that a secondary population of
+of hangers on uh
+moves into the into the system as well
+and
+uh i think that uh over the course of a
+few years
+uh a lot of the expert folks got pretty
+annoyed by the noobs
+uh and other possibilities came out too
+uh
+what happens like reddit and twitter uh
+and i guess before before those to a
+certain extent dig
+uh they they created a different kind of
+incentive for users because the story
+selection process
+that those platforms used was
+driven entirely or mostly entirely by
+the the
+the users themselves which meant that
+those systems can be faster
+a tweet that i make right now goes out
+to all of my followers within a second
+uh and they are limited only by how fast
+they can refresh or how often they
+refresh twitter on any given day
+slash dot had itself limited to you know
+let's say a dozen
+a dozen articles a day a dozen stories a
+day so
+if you want more than 12 stories a day
+or if you
+are more interested and you want to deep
+dive into a specific area well that's
+not going to work too well for you on
+slashdot
+so the the the reddits and the twitters
+allowed the power user to get more of
+what they wanted
+and it allowed them to get it faster
+and once the power users started
+figuring that out well the power users
+started losing interest
+uh in slashdot because at that point
+they have to jump through the
+editorial hoop created by the slashdot
+editorial process itself
+uh and that's that's legit and fair and
+i i would do the same in their shoes
+most likely
+uh but uh i think that uh you play that
+forward for a few years and you lose
+five ten fifteen twenty percent of your
+original audience uh for that reason and
+then what you have left is a
+is a bit of a hollow shell compared to
+what you had before
+so it wasn't so much uh a collapse as
+much as it was a slow sad death by
+attrition
+um and uh i i don't think that hacker
+news
+kicked our butt uh i would actually say
+that uh
+dig knocked us off our pedestal uh
+reddit did it did it mostly right uh
+twitter's a different beast
+uh i mean twitter and reddit and
+facebook are i guess the dominant
+platforms now and
+they each succeed and fail along a very
+specific
+vector but they each have very clear
+advantages
+out of uh over slash dot even without
+talking about the
+the the scale advantages that you have
+uh because the other thing to keep in
+mind is that with slashdot i
+very very consciously worked my butt off
+to
+keep it uh within a very specific
+sphere of of domain expertise i didn't
+want slashdot covering stuff that was
+outside of the news for nurse nerds
+umbrella
+and if you want something that's not the
+news in under the news for nerds
+umbrella you gotta go somewhere else
+and i think that uh that was slashdot's
+advantage but that had the uh the
+negative side effect that
+anybody who's going to be reading
+slashdot in 2008
+was probably reading slashdot in 1990 98
+and the thing about people is that we
+can't make more people that were reading
+slashdot in 1998 that's a fixed pool
+that can only shrink
+uh so the only way that you can grow
+your population is to broaden
+uh your domain of expertise uh or lower
+your standards
+and i wasn't really comfortable with
+either of those options
+and i don't know what's happening over
+there today but i imagine probably more
+of the same
+interesting well rob thank you very much
+for
+a walk through the history of one of the
+more important
+uh web sites of that era
+uh i was particularly enjoyed uh jumping
+into more of the details on how your
+comment moderation system worked and
+i hope some listeners out there who work
+at some of these platform companies or
+have influence on them
+might say hey maybe they ought to talk
+to this guy rob right he's uh he's been
+through this before it may not be
+directly applicable but
+some of this thinking i suspect would
+help these platform companies do a
+better job on what they're trying to do
+today
+i mean i don't mean to brag but i pretty
+much think i'm the world's greatest
+uh and that they should all be paying me
+as a highly paid consultant on
+all of these matters uh i mean but i
+might have some biases
+yeah it's just possible just like i
+think my granddaughter's got to be the
+most beautiful baby in the world right
+i i have no reason to believe otherwise
+all righty so if you want to
+catch up on what rob's thinking or at
+least babbling about you can catch him
+up on
+geeks and space podcast available on
+your favorite podcast app i'm imagining
+probably i honestly don't know i've
+never heard it
+yeah frankly i won't tell you how many
+times i was into my podcast but ain't
+many
+uh anyway thanks rob and this was fun
+[Music]
+production services and audio editing by
+jared james consulting
+music by tom muller at
+modernspacemusic.com

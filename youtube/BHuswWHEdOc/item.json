@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "BHuswWHEdOc"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-04T02:41:14Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "A continuing dialogue with John V.",
+    "description": "Again a lot of ground covered. Dialogos. Transnarrative.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/BHuswWHEdOc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/BHuswWHEdOc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/BHuswWHEdOc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-04T02:41:14Z"
+  },
+  "_id": "BHuswWHEdOc",
+  "publishedAt": "2020-09-04T02:41:14Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/playlist?list=PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt",
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
+}

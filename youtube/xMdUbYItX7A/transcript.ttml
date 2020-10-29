@@ -1,0 +1,2157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.140" end="00:00:03.310" style="s2">[Music]</p>
+<p begin="00:00:03.360" end="00:00:06.640" style="s2">the stoa</p>
+<p begin="00:00:04.240" end="00:00:07.600" style="s2">is a digital campfire where we cohere in</p>
+<p begin="00:00:06.640" end="00:00:09.920" style="s2">dialogue</p>
+<p begin="00:00:07.600" end="00:00:17.580" style="s2">about what matters most at the knife&#39;s</p>
+<p begin="00:00:09.920" end="00:00:19.760" style="s2">edge of what&#39;s happening now</p>
+<p begin="00:00:17.580" end="00:00:21.119" style="s2">[Music]</p>
+<p begin="00:00:19.760" end="00:00:23.199" style="s2">sorry i was saying welcome back welcome</p>
+<p begin="00:00:21.119" end="00:00:25.680" style="s2">back dave thanks for coming back</p>
+<p begin="00:00:23.199" end="00:00:27.439" style="s2">um welcome back to part three of</p>
+<p begin="00:00:25.680" end="00:00:30.640" style="s2">naturalizing sense making with</p>
+<p begin="00:00:27.439" end="00:00:32.559" style="s2">sensemaker in residence dave snowden uh</p>
+<p begin="00:00:30.640" end="00:00:34.399" style="s2">last session dave spoke about his</p>
+<p begin="00:00:32.559" end="00:00:35.760" style="s2">evolving kidnapping framework for</p>
+<p begin="00:00:34.399" end="00:00:38.399" style="s2">orienting action</p>
+<p begin="00:00:35.760" end="00:00:40.160" style="s2">in organizational space and i believe</p>
+<p begin="00:00:38.399" end="00:00:41.680" style="s2">this session he&#39;ll be discussing his</p>
+<p begin="00:00:40.160" end="00:00:45.680" style="s2">adaptation of</p>
+<p begin="00:00:41.680" end="00:00:48.000" style="s2">apex predator theory i&#39;m right um</p>
+<p begin="00:00:45.680" end="00:00:50.160" style="s2">as usual first dave is going to present</p>
+<p begin="00:00:48.000" end="00:00:52.079" style="s2">some content that he prepared</p>
+<p begin="00:00:50.160" end="00:00:53.280" style="s2">uh during which time i encourage you to</p>
+<p begin="00:00:52.079" end="00:00:56.160" style="s2">post your questions</p>
+<p begin="00:00:53.280" end="00:00:58.079" style="s2">in the chat um this will be recorded and</p>
+<p begin="00:00:56.160" end="00:00:59.600" style="s2">posted to youtube so</p>
+<p begin="00:00:58.079" end="00:01:01.440" style="s2">um if you would like me to ask your</p>
+<p begin="00:00:59.600" end="00:01:02.559" style="s2">question on your behalf just indicate so</p>
+<p begin="00:01:01.440" end="00:01:06.240" style="s2">with your</p>
+<p begin="00:01:02.559" end="00:01:09.600" style="s2">question and uh without further ado i</p>
+<p begin="00:01:06.240" end="00:01:09.600" style="s2">would like to pass it over to dave</p>
+<p begin="00:01:10.400" end="00:01:16.080" style="s2">okay so um first of all apologies for</p>
+<p begin="00:01:14.640" end="00:01:17.439" style="s2">last week happened to be cancelled</p>
+<p begin="00:01:16.080" end="00:01:18.640" style="s2">everything got a bit difficult at the</p>
+<p begin="00:01:17.439" end="00:01:20.000" style="s2">last minute</p>
+<p begin="00:01:18.640" end="00:01:21.840" style="s2">and i&#39;m now in a cottage in the middle</p>
+<p begin="00:01:20.000" end="00:01:24.960" style="s2">of the lake district um</p>
+<p begin="00:01:21.840" end="00:01:26.000" style="s2">on a walk-in holiday so um yeah i&#39;m</p>
+<p begin="00:01:24.960" end="00:01:29.119" style="s2">hoping the internet</p>
+<p begin="00:01:26.000" end="00:01:32.079" style="s2">will stand up it&#39;s been okay so far um</p>
+<p begin="00:01:29.119" end="00:01:36.240" style="s2">but i have to change to the iphone on 3g</p>
+<p begin="00:01:32.079" end="00:01:38.159" style="s2">so but it looks okay um</p>
+<p begin="00:01:36.240" end="00:01:39.920" style="s2">what i want to do is to go through apex</p>
+<p begin="00:01:38.159" end="00:01:42.159" style="s2">predator theory i&#39;m not sure this is the</p>
+<p begin="00:01:39.920" end="00:01:43.520" style="s2">right name for it i coined it some time</p>
+<p begin="00:01:42.159" end="00:01:45.920" style="s2">ago</p>
+<p begin="00:01:43.520" end="00:01:47.680" style="s2">um because my initial focus was</p>
+<p begin="00:01:45.920" end="00:01:50.720" style="s2">literally on the apex</p>
+<p begin="00:01:47.680" end="00:01:53.040" style="s2">um and i&#39;ll define that in a minute</p>
+<p begin="00:01:50.720" end="00:01:54.000" style="s2">but i&#39;m now getting much more interested</p>
+<p begin="00:01:53.040" end="00:01:56.799" style="s2">as well in things like</p>
+<p begin="00:01:54.000" end="00:01:59.119" style="s2">keystone species and other aspects of</p>
+<p begin="00:01:56.799" end="00:02:01.119" style="s2">trophic cascades so</p>
+<p begin="00:01:59.119" end="00:02:02.159" style="s2">this is a framework looking for a name</p>
+<p begin="00:02:01.119" end="00:02:05.840" style="s2">at the moment</p>
+<p begin="00:02:02.159" end="00:02:09.840" style="s2">it may stay as apex but it tends to</p>
+<p begin="00:02:05.840" end="00:02:09.840" style="s2">focus people on dominating in the space</p>
+<p begin="00:02:09.920" end="00:02:13.040" style="s2">rather than for example enabling the</p>
+<p begin="00:02:12.239" end="00:02:15.440" style="s2">space so</p>
+<p begin="00:02:13.040" end="00:02:16.720" style="s2">i&#39;ll run through that if i get a chance</p>
+<p begin="00:02:15.440" end="00:02:19.680" style="s2">i&#39;m going to introduce</p>
+<p begin="00:02:16.720" end="00:02:21.520" style="s2">the concept of rich data as well to go</p>
+<p begin="00:02:19.680" end="00:02:22.959" style="s2">with big data and thick data</p>
+<p begin="00:02:21.520" end="00:02:24.720" style="s2">because i&#39;d like to leave you to</p>
+<p begin="00:02:22.959" end="00:02:26.720" style="s2">something to think about before we come</p>
+<p begin="00:02:24.720" end="00:02:28.720" style="s2">into that next week which is the fourth</p>
+<p begin="00:02:26.720" end="00:02:31.519" style="s2">week in the final week</p>
+<p begin="00:02:28.720" end="00:02:32.319" style="s2">so this stuff actually goes back before</p>
+<p begin="00:02:31.519" end="00:02:35.680" style="s2">kidnapping</p>
+<p begin="00:02:32.319" end="00:02:38.480" style="s2">um it&#39;s when i was working in corporate</p>
+<p begin="00:02:35.680" end="00:02:39.120" style="s2">and one of the key books i read at that</p>
+<p begin="00:02:38.480" end="00:02:41.599" style="s2">time</p>
+<p begin="00:02:39.120" end="00:02:42.640" style="s2">um was the book called crossing the</p>
+<p begin="00:02:41.599" end="00:02:45.680" style="s2">chasm</p>
+<p begin="00:02:42.640" end="00:02:47.760" style="s2">um which i still recommend and i don&#39;t</p>
+<p begin="00:02:45.680" end="00:02:48.959" style="s2">recommend many popular management books</p>
+<p begin="00:02:47.760" end="00:02:50.319" style="s2">i generally think they&#39;re a load of</p>
+<p begin="00:02:48.959" end="00:02:53.040" style="s2">bloody rubbish but</p>
+<p begin="00:02:50.319" end="00:02:54.560" style="s2">this one kind of like worked partly</p>
+<p begin="00:02:53.040" end="00:02:55.920" style="s2">because he made some predictions which</p>
+<p begin="00:02:54.560" end="00:02:57.680" style="s2">came true which is always</p>
+<p begin="00:02:55.920" end="00:03:00.080" style="s2">impressive most management books are</p>
+<p begin="00:02:57.680" end="00:03:03.760" style="s2">heavily retrospective</p>
+<p begin="00:03:00.080" end="00:03:04.319" style="s2">um and what what he did was to take the</p>
+<p begin="00:03:03.760" end="00:03:06.000" style="s2">basic</p>
+<p begin="00:03:04.319" end="00:03:07.360" style="s2">concept of a life cycle and that&#39;s</p>
+<p begin="00:03:06.000" end="00:03:10.640" style="s2">normally drawn as like</p>
+<p begin="00:03:07.360" end="00:03:12.400" style="s2">a big curve and within that cave</p>
+<p begin="00:03:10.640" end="00:03:14.400" style="s2">you have different groups you have early</p>
+<p begin="00:03:12.400" end="00:03:17.360" style="s2">adopters you have the majority late</p>
+<p begin="00:03:14.400" end="00:03:19.120" style="s2">majority lag guards and so on</p>
+<p begin="00:03:17.360" end="00:03:21.200" style="s2">um now that&#39;s been around for a long</p>
+<p begin="00:03:19.120" end="00:03:22.720" style="s2">time it goes back to procter and gamble</p>
+<p begin="00:03:21.200" end="00:03:24.400" style="s2">and there are well established</p>
+<p begin="00:03:22.720" end="00:03:27.120" style="s2">statistics</p>
+<p begin="00:03:24.400" end="00:03:29.120" style="s2">and there&#39;s some broad principles um if</p>
+<p begin="00:03:27.120" end="00:03:29.360" style="s2">you move into the early majority phase</p>
+<p begin="00:03:29.120" end="00:03:32.080" style="s2">and</p>
+<p begin="00:03:29.360" end="00:03:33.840" style="s2">you can command total market share if</p>
+<p begin="00:03:32.080" end="00:03:35.680" style="s2">the dominant market player at the end of</p>
+<p begin="00:03:33.840" end="00:03:37.840" style="s2">that you control the latter stages of</p>
+<p begin="00:03:35.680" end="00:03:40.959" style="s2">the life cycle of a product and so on so</p>
+<p begin="00:03:37.840" end="00:03:42.560" style="s2">there was a body of theory he built on</p>
+<p begin="00:03:40.959" end="00:03:43.920" style="s2">but what he critically said is that</p>
+<p begin="00:03:42.560" end="00:03:45.599" style="s2">there is actually this thing called the</p>
+<p begin="00:03:43.920" end="00:03:48.000" style="s2">chasm</p>
+<p begin="00:03:45.599" end="00:03:49.599" style="s2">so you get these and there&#39;s various</p>
+<p begin="00:03:48.000" end="00:03:50.959" style="s2">names on this and i&#39;m still playing with</p>
+<p begin="00:03:49.599" end="00:03:52.239" style="s2">them but you get people who</p>
+<p begin="00:03:50.959" end="00:03:55.040" style="s2">you know the guys who always buy</p>
+<p begin="00:03:52.239" end="00:03:57.120" style="s2">something new doesn&#39;t matter what it is</p>
+<p begin="00:03:55.040" end="00:03:58.480" style="s2">they&#39;ve got to have the new thing</p>
+<p begin="00:03:57.120" end="00:04:00.560" style="s2">uh they&#39;re the ones that queue up</p>
+<p begin="00:03:58.480" end="00:04:03.599" style="s2">outside the apple store rather than wait</p>
+<p begin="00:04:00.560" end="00:04:06.400" style="s2">24 hours you know and get some sleep</p>
+<p begin="00:04:03.599" end="00:04:08.640" style="s2">um and these people are vital to the</p>
+<p begin="00:04:06.400" end="00:04:10.319" style="s2">launch of new products</p>
+<p begin="00:04:08.640" end="00:04:12.480" style="s2">and the key thing to understand about</p>
+<p begin="00:04:10.319" end="00:04:15.519" style="s2">this group</p>
+<p begin="00:04:12.480" end="00:04:17.919" style="s2">is that they want to know how it does it</p>
+<p begin="00:04:15.519" end="00:04:18.799" style="s2">they&#39;re not so interested in what it</p>
+<p begin="00:04:17.919" end="00:04:21.440" style="s2">does</p>
+<p begin="00:04:18.799" end="00:04:23.040" style="s2">and this is a critical distinction so</p>
+<p begin="00:04:21.440" end="00:04:24.639" style="s2">they&#39;re they&#39;re guys who want the latest</p>
+<p begin="00:04:23.040" end="00:04:26.479" style="s2">car because they don&#39;t believe cars are</p>
+<p begin="00:04:24.639" end="00:04:27.120" style="s2">to drive around they think cars have to</p>
+<p begin="00:04:26.479" end="00:04:28.639" style="s2">take apart</p>
+<p begin="00:04:27.120" end="00:04:30.240" style="s2">and put back together on the weekend</p>
+<p begin="00:04:28.639" end="00:04:33.680" style="s2">they like to get involved</p>
+<p begin="00:04:30.240" end="00:04:35.520" style="s2">and dirty um and</p>
+<p begin="00:04:33.680" end="00:04:37.919" style="s2">that&#39;s normally well you say something</p>
+<p begin="00:04:35.520" end="00:04:39.759" style="s2">new these guys want something they&#39;re</p>
+<p begin="00:04:37.919" end="00:04:41.199" style="s2">prepared to accept failure in fact</p>
+<p begin="00:04:39.759" end="00:04:43.040" style="s2">they quite like failure because then</p>
+<p begin="00:04:41.199" end="00:04:44.080" style="s2">they can get involved in helping you fix</p>
+<p begin="00:04:43.040" end="00:04:47.199" style="s2">it</p>
+<p begin="00:04:44.080" end="00:04:49.360" style="s2">um and most products start there</p>
+<p begin="00:04:47.199" end="00:04:50.639" style="s2">and if they succeed then people draw</p>
+<p begin="00:04:49.360" end="00:04:53.120" style="s2">projection growth</p>
+<p begin="00:04:50.639" end="00:04:54.479" style="s2">yeah on the traditional life cycle curve</p>
+<p begin="00:04:53.120" end="00:04:57.440" style="s2">and assume it will carry on</p>
+<p begin="00:04:54.479" end="00:04:59.040" style="s2">carry on going what more established is</p>
+<p begin="00:04:57.440" end="00:05:00.560" style="s2">that actually that isn&#39;t the case you</p>
+<p begin="00:04:59.040" end="00:05:02.400" style="s2">get this sudden drop</p>
+<p begin="00:05:00.560" end="00:05:03.680" style="s2">so everything is going fine then all of</p>
+<p begin="00:05:02.400" end="00:05:04.960" style="s2">a sudden you don&#39;t get any sales for a</p>
+<p begin="00:05:03.680" end="00:05:07.520" style="s2">bit</p>
+<p begin="00:05:04.960" end="00:05:08.560" style="s2">and that&#39;s the chasm between these early</p>
+<p begin="00:05:07.520" end="00:05:10.160" style="s2">enthusiasts</p>
+<p begin="00:05:08.560" end="00:05:12.160" style="s2">and the early majority and the key</p>
+<p begin="00:05:10.160" end="00:05:15.280" style="s2">behavioral difference</p>
+<p begin="00:05:12.160" end="00:05:18.320" style="s2">is the first group are buying uh</p>
+<p begin="00:05:15.280" end="00:05:18.880" style="s2">what it does and the second group are</p>
+<p begin="00:05:18.320" end="00:05:20.479" style="s2">buying</p>
+<p begin="00:05:18.880" end="00:05:22.800" style="s2">sorry the first group of buying how it</p>
+<p begin="00:05:20.479" end="00:05:26.320" style="s2">does it and the second group</p>
+<p begin="00:05:22.800" end="00:05:28.400" style="s2">by what it will do for me now critically</p>
+<p begin="00:05:26.320" end="00:05:30.240" style="s2">they don&#39;t want to know what it will do</p>
+<p begin="00:05:28.400" end="00:05:32.000" style="s2">for other people because they want first</p>
+<p begin="00:05:30.240" end="00:05:33.360" style="s2">mover advantage this is why this is a</p>
+<p begin="00:05:32.000" end="00:05:36.160" style="s2">key phase</p>
+<p begin="00:05:33.360" end="00:05:38.000" style="s2">so the early group that is about two and</p>
+<p begin="00:05:36.160" end="00:05:39.199" style="s2">a half percent of the total markets and</p>
+<p begin="00:05:38.000" end="00:05:40.639" style="s2">i&#39;ll class them as early</p>
+<p begin="00:05:39.199" end="00:05:42.240" style="s2">adopters for the moment because that&#39;s</p>
+<p begin="00:05:40.639" end="00:05:44.960" style="s2">the phrase i used it&#39;s not</p>
+<p begin="00:05:42.240" end="00:05:45.840" style="s2">strictly what moore does but the early</p>
+<p begin="00:05:44.960" end="00:05:47.919" style="s2">adopters</p>
+<p begin="00:05:45.840" end="00:05:50.000" style="s2">they they love novelty they love new</p>
+<p begin="00:05:47.919" end="00:05:51.759" style="s2">things i remember when we were building</p>
+<p begin="00:05:50.000" end="00:05:54.720" style="s2">new software</p>
+<p begin="00:05:51.759" end="00:05:56.400" style="s2">based on stock forecast forecasting and</p>
+<p begin="00:05:54.720" end="00:05:58.479" style="s2">industry management algorithms working</p>
+<p begin="00:05:56.400" end="00:05:59.919" style="s2">with cranfield university</p>
+<p begin="00:05:58.479" end="00:06:01.360" style="s2">doing something which actually i&#39;m</p>
+<p begin="00:05:59.919" end="00:06:03.840" style="s2">bringing back in now because everybody&#39;s</p>
+<p begin="00:06:01.360" end="00:06:05.680" style="s2">forgotten about variable buffer stock</p>
+<p begin="00:06:03.840" end="00:06:08.160" style="s2">as a way of handling uncertainty and you</p>
+<p begin="00:06:05.680" end="00:06:09.840" style="s2">can do that in crisis management as well</p>
+<p begin="00:06:08.160" end="00:06:11.280" style="s2">comes from the study of the operational</p>
+<p begin="00:06:09.840" end="00:06:13.199" style="s2">research background</p>
+<p begin="00:06:11.280" end="00:06:14.880" style="s2">so we were introducing new software on</p>
+<p begin="00:06:13.199" end="00:06:17.600" style="s2">that and we got the classic early</p>
+<p begin="00:06:14.880" end="00:06:20.319" style="s2">adopters so we got coca-cola</p>
+<p begin="00:06:17.600" end="00:06:22.240" style="s2">um we got british aerospace we got nato</p>
+<p begin="00:06:20.319" end="00:06:24.400" style="s2">if you&#39;re selling to early adopters</p>
+<p begin="00:06:22.240" end="00:06:25.759" style="s2">there&#39;s no industry specialization at</p>
+<p begin="00:06:24.400" end="00:06:27.440" style="s2">all</p>
+<p begin="00:06:25.759" end="00:06:29.280" style="s2">these are the people in their industry</p>
+<p begin="00:06:27.440" end="00:06:31.039" style="s2">who like to do things new and they can</p>
+<p begin="00:06:29.280" end="00:06:33.520" style="s2">afford to waste some money because they</p>
+<p begin="00:06:31.039" end="00:06:35.039" style="s2">like to grab them first</p>
+<p begin="00:06:33.520" end="00:06:36.639" style="s2">and i still remember we did a big</p>
+<p begin="00:06:35.039" end="00:06:38.479" style="s2">seminar out at</p>
+<p begin="00:06:36.639" end="00:06:39.919" style="s2">namsa which is the supply division of</p>
+<p begin="00:06:38.479" end="00:06:41.759" style="s2">nato</p>
+<p begin="00:06:39.919" end="00:06:43.840" style="s2">and the bastards were actually making</p>
+<p begin="00:06:41.759" end="00:06:45.039" style="s2">deliberate mistakes in algorithms to see</p>
+<p begin="00:06:43.840" end="00:06:47.600" style="s2">if we spotted them when they were</p>
+<p begin="00:06:45.039" end="00:06:49.039" style="s2">discussing what we did on the board</p>
+<p begin="00:06:47.600" end="00:06:50.960" style="s2">and then they told us how we could have</p>
+<p begin="00:06:49.039" end="00:06:52.319" style="s2">done it much better if only only we&#39;d</p>
+<p begin="00:06:50.960" end="00:06:54.160" style="s2">listen to them this is the other</p>
+<p begin="00:06:52.319" end="00:06:55.360" style="s2">characteristic of early adopters if you</p>
+<p begin="00:06:54.160" end="00:06:57.360" style="s2">want to sell to them</p>
+<p begin="00:06:55.360" end="00:06:59.039" style="s2">they can always tell you how they would</p>
+<p begin="00:06:57.360" end="00:07:00.479" style="s2">have done it better the fact nobody is</p>
+<p begin="00:06:59.039" end="00:07:02.960" style="s2">prepared to fund them they can like</p>
+<p begin="00:07:00.479" end="00:07:04.400" style="s2">conveniently forget</p>
+<p begin="00:07:02.960" end="00:07:06.160" style="s2">i should say the whole of the software</p>
+<p begin="00:07:04.400" end="00:07:08.000" style="s2">industry is a bit like this show any</p>
+<p begin="00:07:06.160" end="00:07:09.360" style="s2">software to any software programmer and</p>
+<p begin="00:07:08.000" end="00:07:10.479" style="s2">they&#39;ll tell you you chose the wrong</p>
+<p begin="00:07:09.360" end="00:07:12.479" style="s2">language</p>
+<p begin="00:07:10.479" end="00:07:14.960" style="s2">rather than actually thinking about it</p>
+<p begin="00:07:12.479" end="00:07:17.280" style="s2">so these are a right bloody pain to be</p>
+<p begin="00:07:14.960" end="00:07:18.639" style="s2">honest and when you hit the chasm and</p>
+<p begin="00:07:17.280" end="00:07:22.319" style="s2">everybody&#39;s expecting ongoing</p>
+<p begin="00:07:18.639" end="00:07:23.680" style="s2">sales um the early adopter the the early</p>
+<p begin="00:07:22.319" end="00:07:25.440" style="s2">majority phase on the</p>
+<p begin="00:07:23.680" end="00:07:27.039" style="s2">home which is about 13 and a half</p>
+<p begin="00:07:25.440" end="00:07:29.280" style="s2">percent of the total market</p>
+<p begin="00:07:27.039" end="00:07:30.960" style="s2">these guys aren&#39;t concerned about how it</p>
+<p begin="00:07:29.280" end="00:07:32.000" style="s2">does it they want to know that you&#39;ve</p>
+<p begin="00:07:30.960" end="00:07:33.360" style="s2">done it</p>
+<p begin="00:07:32.000" end="00:07:35.440" style="s2">they&#39;re not going to do it for the first</p>
+<p begin="00:07:33.360" end="00:07:38.880" style="s2">time but then they want to know what it</p>
+<p begin="00:07:35.440" end="00:07:40.720" style="s2">will do for them and what the risk is</p>
+<p begin="00:07:38.880" end="00:07:42.319" style="s2">yeah they want first mover advantage</p>
+<p begin="00:07:40.720" end="00:07:43.919" style="s2">they don&#39;t want to be second movers but</p>
+<p begin="00:07:42.319" end="00:07:46.080" style="s2">they don&#39;t want to be bleeding edge to</p>
+<p begin="00:07:43.919" end="00:07:48.400" style="s2">use the sort of convention</p>
+<p begin="00:07:46.080" end="00:07:50.160" style="s2">and an awful lot of companies never make</p>
+<p begin="00:07:48.400" end="00:07:52.319" style="s2">the switch</p>
+<p begin="00:07:50.160" end="00:07:54.560" style="s2">you know they start off and startup</p>
+<p begin="00:07:52.319" end="00:07:56.240" style="s2">companies are hugely enthusiastic about</p>
+<p begin="00:07:54.560" end="00:07:58.000" style="s2">how they do things and their wonderful</p>
+<p begin="00:07:56.240" end="00:07:59.360" style="s2">algorithms and their brilliant ideas</p>
+<p begin="00:07:58.000" end="00:08:02.080" style="s2">they just want to keep telling you that</p>
+<p begin="00:07:59.360" end="00:08:04.000" style="s2">it&#39;s kind of you know the future stuff</p>
+<p begin="00:08:02.080" end="00:08:06.000" style="s2">um and they don&#39;t realize when the</p>
+<p begin="00:08:04.000" end="00:08:07.280" style="s2">market switches to benefits and that&#39;s</p>
+<p begin="00:08:06.000" end="00:08:09.919" style="s2">another driver</p>
+<p begin="00:08:07.280" end="00:08:11.759" style="s2">yeah on the castle either the sales</p>
+<p begin="00:08:09.919" end="00:08:13.840" style="s2">behavior doesn&#39;t work</p>
+<p begin="00:08:11.759" end="00:08:15.520" style="s2">so we did a big piece of work on that it</p>
+<p begin="00:08:13.840" end="00:08:17.599" style="s2">was part of the genus program</p>
+<p begin="00:08:15.520" end="00:08:20.319" style="s2">in data sciences which turned us around</p>
+<p begin="00:08:17.599" end="00:08:22.479" style="s2">from a penny a share to about</p>
+<p begin="00:08:20.319" end="00:08:24.840" style="s2">i think 40 pounds a share in 18 months</p>
+<p begin="00:08:22.479" end="00:08:28.960" style="s2">when ibm bought us</p>
+<p begin="00:08:24.840" end="00:08:29.599" style="s2">um and it was basically we sat down one</p>
+<p begin="00:08:28.960" end="00:08:31.440" style="s2">day</p>
+<p begin="00:08:29.599" end="00:08:33.200" style="s2">um and i remember sitting there with the</p>
+<p begin="00:08:31.440" end="00:08:33.519" style="s2">white board and saying guys we can&#39;t go</p>
+<p begin="00:08:33.200" end="00:08:36.240" style="s2">through</p>
+<p begin="00:08:33.519" end="00:08:36.959" style="s2">this we&#39;ve got to get new products to</p>
+<p begin="00:08:36.240" end="00:08:38.880" style="s2">market</p>
+<p begin="00:08:36.959" end="00:08:40.640" style="s2">and we can&#39;t go through this phase so</p>
+<p begin="00:08:38.880" end="00:08:43.360" style="s2">we&#39;ve got to cross the chasm we&#39;ve got</p>
+<p begin="00:08:40.640" end="00:08:45.279" style="s2">to jump across the chasm</p>
+<p begin="00:08:43.360" end="00:08:46.880" style="s2">and that&#39;s what i started to specialize</p>
+<p begin="00:08:45.279" end="00:08:48.240" style="s2">in and that was what got me</p>
+<p begin="00:08:46.880" end="00:08:50.399" style="s2">one of the things which got me into the</p>
+<p begin="00:08:48.240" end="00:08:52.640" style="s2">strategy roles in iobm and elsewhere was</p>
+<p begin="00:08:50.399" end="00:08:54.560" style="s2">that basic concept</p>
+<p begin="00:08:52.640" end="00:08:56.800" style="s2">and the way we did at that time is we</p>
+<p begin="00:08:54.560" end="00:08:58.240" style="s2">were world leading experts on something</p>
+<p begin="00:08:56.800" end="00:09:00.640" style="s2">nobody wanted to buy</p>
+<p begin="00:08:58.240" end="00:09:02.160" style="s2">which is you know kind of like immensely</p>
+<p begin="00:09:00.640" end="00:09:05.040" style="s2">self-satisfying but</p>
+<p begin="00:09:02.160" end="00:09:06.320" style="s2">not good for the business yeah so we</p>
+<p begin="00:09:05.040" end="00:09:09.680" style="s2">were experts in what was called</p>
+<p begin="00:09:06.320" end="00:09:11.839" style="s2">then radinjad it had been invented by</p>
+<p begin="00:09:09.680" end="00:09:13.680" style="s2">ibm rapid application development joint</p>
+<p begin="00:09:11.839" end="00:09:17.120" style="s2">application design</p>
+<p begin="00:09:13.680" end="00:09:19.040" style="s2">invented by am in canada forgotten um</p>
+<p begin="00:09:17.120" end="00:09:20.560" style="s2">we were picking it up and using it a lot</p>
+<p begin="00:09:19.040" end="00:09:23.519" style="s2">it was kind of like early stage agile</p>
+<p begin="00:09:20.560" end="00:09:25.680" style="s2">this comes way before agile</p>
+<p begin="00:09:23.519" end="00:09:27.200" style="s2">although it&#39;s one of the feeders so we</p>
+<p begin="00:09:25.680" end="00:09:28.720" style="s2">were really good at that but the trouble</p>
+<p begin="00:09:27.200" end="00:09:29.839" style="s2">is it was entirely novel and nobody want</p>
+<p begin="00:09:28.720" end="00:09:31.920" style="s2">to buy it</p>
+<p begin="00:09:29.839" end="00:09:34.080" style="s2">yeah the other thing we were really good</p>
+<p begin="00:09:31.920" end="00:09:35.440" style="s2">at was object orientated programming and</p>
+<p begin="00:09:34.080" end="00:09:37.519" style="s2">object libraries in fact we were</p>
+<p begin="00:09:35.440" end="00:09:40.800" style="s2">pioneering the use of object libraries</p>
+<p begin="00:09:37.519" end="00:09:42.880" style="s2">to get reuse code the way to do that by</p>
+<p begin="00:09:40.800" end="00:09:44.720" style="s2">the way is not allow programmers access</p>
+<p begin="00:09:42.880" end="00:09:46.800" style="s2">to source code if they ever see source</p>
+<p begin="00:09:44.720" end="00:09:48.320" style="s2">code they want to reinvent it</p>
+<p begin="00:09:46.800" end="00:09:49.760" style="s2">yeah you have to force them through some</p>
+<p begin="00:09:48.320" end="00:09:51.519" style="s2">of the gate on that but either way we&#39;re</p>
+<p begin="00:09:49.760" end="00:09:52.080" style="s2">building experts in these things we did</p>
+<p begin="00:09:51.519" end="00:09:54.240" style="s2">defense</p>
+<p begin="00:09:52.080" end="00:09:55.839" style="s2">contracts which would be magnificent the</p>
+<p begin="00:09:54.240" end="00:09:59.040" style="s2">trouble is we couldn&#39;t get to commercial</p>
+<p begin="00:09:55.839" end="00:10:01.120" style="s2">markets now</p>
+<p begin="00:09:59.040" end="00:10:02.720" style="s2">what i then did was to say okay so</p>
+<p begin="00:10:01.120" end="00:10:05.120" style="s2">what&#39;s the big thing everybody&#39;s got</p>
+<p begin="00:10:02.720" end="00:10:06.399" style="s2">budgets for at the moment</p>
+<p begin="00:10:05.120" end="00:10:07.920" style="s2">where there&#39;s no question they&#39;ve got to</p>
+<p begin="00:10:06.399" end="00:10:09.600" style="s2">buy and effectively you&#39;ve got a</p>
+<p begin="00:10:07.920" end="00:10:11.040" style="s2">seller&#39;s market</p>
+<p begin="00:10:09.600" end="00:10:12.720" style="s2">if you&#39;ve got a seller&#39;s market you can</p>
+<p begin="00:10:11.040" end="00:10:14.320" style="s2">get away with damn more than the buyers</p>
+<p begin="00:10:12.720" end="00:10:16.720" style="s2">market</p>
+<p begin="00:10:14.320" end="00:10:18.560" style="s2">and at that time it was like legacy</p>
+<p begin="00:10:16.720" end="00:10:21.040" style="s2">system management you may remember this</p>
+<p begin="00:10:18.560" end="00:10:23.200" style="s2">is in the build-up to the year 2000</p>
+<p begin="00:10:21.040" end="00:10:25.839" style="s2">and i still remembering remember</p>
+<p begin="00:10:23.200" end="00:10:28.000" style="s2">removing cobalt and fortran for my cv in</p>
+<p begin="00:10:25.839" end="00:10:29.600" style="s2">1995 because they didn&#39;t want anybody to</p>
+<p begin="00:10:28.000" end="00:10:30.480" style="s2">know i could code in that because i knew</p>
+<p begin="00:10:29.600" end="00:10:34.480" style="s2">what would happen</p>
+<p begin="00:10:30.480" end="00:10:36.640" style="s2">yeah in a few years time um</p>
+<p begin="00:10:34.480" end="00:10:38.959" style="s2">so everybody is buying legacy system</p>
+<p begin="00:10:36.640" end="00:10:41.040" style="s2">management we had no history in that</p>
+<p begin="00:10:38.959" end="00:10:43.360" style="s2">but the market leader in europe was a</p>
+<p begin="00:10:41.040" end="00:10:46.480" style="s2">company called unilog</p>
+<p begin="00:10:43.360" end="00:10:47.519" style="s2">um so i got in touch we had some</p>
+<p begin="00:10:46.480" end="00:10:49.040" style="s2">meetings</p>
+<p begin="00:10:47.519" end="00:10:51.200" style="s2">we had a slight bond there and the</p>
+<p begin="00:10:49.040" end="00:10:52.959" style="s2">director responsible was for breton</p>
+<p begin="00:10:51.200" end="00:10:54.640" style="s2">yeah and if you don&#39;t know it bretton is</p>
+<p begin="00:10:52.959" end="00:10:56.880" style="s2">the same as welsh</p>
+<p begin="00:10:54.640" end="00:10:58.320" style="s2">so we could chatting welsh and nobody</p>
+<p begin="00:10:56.880" end="00:11:00.000" style="s2">neither of our two boys knew what the</p>
+<p begin="00:10:58.320" end="00:11:02.320" style="s2">hell we were doing</p>
+<p begin="00:11:00.000" end="00:11:04.560" style="s2">and if you know anything about companies</p>
+<p begin="00:11:02.320" end="00:11:06.320" style="s2">in france you&#39;ll know that for a brat on</p>
+<p begin="00:11:04.560" end="00:11:08.640" style="s2">to become a director of a</p>
+<p begin="00:11:06.320" end="00:11:10.160" style="s2">company otherwise run by grundy coles</p>
+<p begin="00:11:08.640" end="00:11:10.880" style="s2">from paris it&#39;s kind of like this guy</p>
+<p begin="00:11:10.160" end="00:11:13.839" style="s2">was bright</p>
+<p begin="00:11:10.880" end="00:11:15.040" style="s2">right so they were market leaders in</p>
+<p begin="00:11:13.839" end="00:11:17.440" style="s2">europe so we basically</p>
+<p begin="00:11:15.040" end="00:11:19.200" style="s2">took their method on intact as european</p>
+<p begin="00:11:17.440" end="00:11:20.240" style="s2">distributors so we had lay method</p>
+<p begin="00:11:19.200" end="00:11:21.839" style="s2">francais which</p>
+<p begin="00:11:20.240" end="00:11:23.360" style="s2">always goes down within with</p>
+<p begin="00:11:21.839" end="00:11:26.320" style="s2">english-speaking audiences as well</p>
+<p begin="00:11:23.360" end="00:11:27.279" style="s2">um and what we did is we differentiated</p>
+<p begin="00:11:26.320" end="00:11:30.720" style="s2">it with radja</p>
+<p begin="00:11:27.279" end="00:11:32.959" style="s2">object orientation so we said we can</p>
+<p begin="00:11:30.720" end="00:11:35.760" style="s2">object encapsulate your legacy code so</p>
+<p begin="00:11:32.959" end="00:11:37.680" style="s2">you can reuse it in modern software</p>
+<p begin="00:11:35.760" end="00:11:39.120" style="s2">and we&#39;ve got rad jab techniques which</p>
+<p begin="00:11:37.680" end="00:11:40.640" style="s2">means we can rapidly work</p>
+<p begin="00:11:39.120" end="00:11:42.399" style="s2">out what you really need to do and get</p>
+<p begin="00:11:40.640" end="00:11:44.880" style="s2">you better focused</p>
+<p begin="00:11:42.399" end="00:11:46.480" style="s2">and that was maybe two percent of a bid</p>
+<p begin="00:11:44.880" end="00:11:48.240" style="s2">i don&#39;t think we ever did</p>
+<p begin="00:11:46.480" end="00:11:50.720" style="s2">object encapsulation by the way but</p>
+<p begin="00:11:48.240" end="00:11:53.279" style="s2">everybody thought it was a cute idea</p>
+<p begin="00:11:50.720" end="00:11:53.839" style="s2">and what it meant is they bought us</p>
+<p begin="00:11:53.279" end="00:11:55.600" style="s2">because</p>
+<p begin="00:11:53.839" end="00:11:57.279" style="s2">we could do the conventional stuff and</p>
+<p begin="00:11:55.600" end="00:11:58.000" style="s2">we had credibility that&#39;s a late</p>
+<p begin="00:11:57.279" end="00:11:59.839" style="s2">majority</p>
+<p begin="00:11:58.000" end="00:12:01.519" style="s2">market yeah they were buying our</p>
+<p begin="00:11:59.839" end="00:12:03.920" style="s2">reference sites all of which were france</p>
+<p begin="00:12:01.519" end="00:12:06.079" style="s2">or germany with pluncher as well</p>
+<p begin="00:12:03.920" end="00:12:08.320" style="s2">but we had this interesting little thing</p>
+<p begin="00:12:06.079" end="00:12:09.760" style="s2">which it departments got mildly excited</p>
+<p begin="00:12:08.320" end="00:12:10.079" style="s2">about so they kind of like preferred to</p>
+<p begin="00:12:09.760" end="00:12:12.639" style="s2">have</p>
+<p begin="00:12:10.079" end="00:12:14.320" style="s2">us than one of the big consultancy firms</p>
+<p begin="00:12:12.639" end="00:12:15.760" style="s2">because they could get exactly what the</p>
+<p begin="00:12:14.320" end="00:12:18.079" style="s2">big consultancy firm was doing with</p>
+<p begin="00:12:15.760" end="00:12:20.639" style="s2">these extra things as well</p>
+<p begin="00:12:18.079" end="00:12:22.399" style="s2">and within about a year those were</p>
+<p begin="00:12:20.639" end="00:12:23.760" style="s2">dominating our sales because as they</p>
+<p begin="00:12:22.399" end="00:12:25.519" style="s2">started to use rather</p>
+<p begin="00:12:23.760" end="00:12:28.639" style="s2">they suddenly realized the effectiveness</p>
+<p begin="00:12:25.519" end="00:12:30.959" style="s2">of it so they commissioned us to do more</p>
+<p begin="00:12:28.639" end="00:12:33.360" style="s2">and that was a turnaround of the company</p>
+<p begin="00:12:30.959" end="00:12:35.680" style="s2">and that is called a symbiotic marketing</p>
+<p begin="00:12:33.360" end="00:12:37.200" style="s2">strategy</p>
+<p begin="00:12:35.680" end="00:12:39.040" style="s2">you know and kind of like it&#39;s something</p>
+<p begin="00:12:37.200" end="00:12:42.240" style="s2">i&#39;m paranoid about you should never</p>
+<p begin="00:12:39.040" end="00:12:44.000" style="s2">try and sell on the left hand side of</p>
+<p begin="00:12:42.240" end="00:12:46.079" style="s2">the chasm</p>
+<p begin="00:12:44.000" end="00:12:47.839" style="s2">yeah the secret to success is to bring</p>
+<p begin="00:12:46.079" end="00:12:49.360" style="s2">something in on the right hand side and</p>
+<p begin="00:12:47.839" end="00:12:50.320" style="s2">one thing i&#39;m going to talk about next</p>
+<p begin="00:12:49.360" end="00:12:52.480" style="s2">week</p>
+<p begin="00:12:50.320" end="00:12:53.839" style="s2">is how do you repurpose existing</p>
+<p begin="00:12:52.480" end="00:12:57.200" style="s2">capability to match</p>
+<p begin="00:12:53.839" end="00:12:58.639" style="s2">unarticulated needs um</p>
+<p begin="00:12:57.200" end="00:13:00.320" style="s2">because that&#39;s where you really gain</p>
+<p begin="00:12:58.639" end="00:13:02.399" style="s2">advantage and there&#39;s a whole science</p>
+<p begin="00:13:00.320" end="00:13:04.079" style="s2">behind how you do that</p>
+<p begin="00:13:02.399" end="00:13:06.240" style="s2">it comes from the weak signal detection</p>
+<p begin="00:13:04.079" end="00:13:08.399" style="s2">what we did in darpa</p>
+<p begin="00:13:06.240" end="00:13:10.959" style="s2">so that was kind of like successful that</p>
+<p begin="00:13:08.399" end="00:13:13.200" style="s2">got me into market life cycle</p>
+<p begin="00:13:10.959" end="00:13:15.519" style="s2">and then as i moved into ibm research</p>
+<p begin="00:13:13.200" end="00:13:18.880" style="s2">and then left ibm research and</p>
+<p begin="00:13:15.519" end="00:13:20.480" style="s2">set up data cognitive edge this stuff</p>
+<p begin="00:13:18.880" end="00:13:22.399" style="s2">started to come in because we were</p>
+<p begin="00:13:20.480" end="00:13:23.360" style="s2">introducing sensemaker which at that</p>
+<p begin="00:13:22.399" end="00:13:25.200" style="s2">time</p>
+<p begin="00:13:23.360" end="00:13:26.959" style="s2">was a complete unique nobody had ever</p>
+<p begin="00:13:25.200" end="00:13:28.800" style="s2">thought of a quantitative approach to</p>
+<p begin="00:13:26.959" end="00:13:31.040" style="s2">narrative before</p>
+<p begin="00:13:28.800" end="00:13:33.040" style="s2">let alone an approach based on epidemic</p>
+<p begin="00:13:31.040" end="00:13:34.720" style="s2">justice principles</p>
+<p begin="00:13:33.040" end="00:13:36.560" style="s2">namely allowing people to interpret</p>
+<p begin="00:13:34.720" end="00:13:40.240" style="s2">their own narratives</p>
+<p begin="00:13:36.560" end="00:13:41.839" style="s2">um so we started to look at that</p>
+<p begin="00:13:40.240" end="00:13:43.440" style="s2">and then i started to see a broader</p>
+<p begin="00:13:41.839" end="00:13:45.279" style="s2">pattern in this</p>
+<p begin="00:13:43.440" end="00:13:48.639" style="s2">and complexity theory was coming in with</p>
+<p begin="00:13:45.279" end="00:13:50.480" style="s2">its emphasis on context and so what i</p>
+<p begin="00:13:48.639" end="00:13:52.240" style="s2">did was i took moore&#39;s concept of</p>
+<p begin="00:13:50.480" end="00:13:55.120" style="s2">crossing mechanism</p>
+<p begin="00:13:52.240" end="00:13:58.079" style="s2">and i also took s-curves which i first</p>
+<p begin="00:13:55.120" end="00:14:00.959" style="s2">came across in charles handy</p>
+<p begin="00:13:58.079" end="00:14:02.880" style="s2">but actually predate that in economics</p>
+<p begin="00:14:00.959" end="00:14:05.040" style="s2">and what i did was to combine the</p>
+<p begin="00:14:02.880" end="00:14:07.519" style="s2">two now at this point i&#39;m going to share</p>
+<p begin="00:14:05.040" end="00:14:07.519" style="s2">a screen</p>
+<p begin="00:14:09.279" end="00:14:14.839" style="s2">i think i finished with a cat last time</p>
+<p begin="00:14:11.600" end="00:14:19.600" style="s2">but that is definitely a predator</p>
+<p begin="00:14:14.839" end="00:14:21.600" style="s2">um so what i did was to combine the two</p>
+<p begin="00:14:19.600" end="00:14:23.760" style="s2">so i took an s curve and took it down a</p>
+<p begin="00:14:21.600" end="00:14:26.320" style="s2">bit and i took the market life cycle</p>
+<p begin="00:14:23.760" end="00:14:28.079" style="s2">curve and introduced the chasm</p>
+<p begin="00:14:26.320" end="00:14:29.680" style="s2">all right so hopefully you can see that</p>
+<p begin="00:14:28.079" end="00:14:31.360" style="s2">it&#39;s kind of like you know the nescaf</p>
+<p begin="00:14:29.680" end="00:14:33.760" style="s2">like that there&#39;s this bigger</p>
+<p begin="00:14:31.360" end="00:14:34.720" style="s2">sort of market life cycle with a drop in</p>
+<p begin="00:14:33.760" end="00:14:37.040" style="s2">the middle</p>
+<p begin="00:14:34.720" end="00:14:38.399" style="s2">so basically something takes off it&#39;s</p>
+<p begin="00:14:37.040" end="00:14:40.399" style="s2">completely novel</p>
+<p begin="00:14:38.399" end="00:14:41.600" style="s2">then it goes into the chasm then it</p>
+<p begin="00:14:40.399" end="00:14:43.839" style="s2">becomes dominant</p>
+<p begin="00:14:41.600" end="00:14:44.720" style="s2">and then it moves on so this is a</p>
+<p begin="00:14:43.839" end="00:14:49.040" style="s2">combination of s</p>
+<p begin="00:14:44.720" end="00:14:52.240" style="s2">curves and life cycle theory per</p>
+<p begin="00:14:49.040" end="00:14:56.320" style="s2">more so that&#39;s cool but the big</p>
+<p begin="00:14:52.240" end="00:14:56.320" style="s2">realization i had was that actually</p>
+<p begin="00:14:57.199" end="00:15:01.120" style="s2">the previous cycle is one of the reasons</p>
+<p begin="00:14:59.760" end="00:15:03.199" style="s2">for the chasm</p>
+<p begin="00:15:01.120" end="00:15:05.360" style="s2">so let me run through this with my</p>
+<p begin="00:15:03.199" end="00:15:08.240" style="s2">favorite example</p>
+<p begin="00:15:05.360" end="00:15:10.240" style="s2">so one of the reasons that the</p>
+<p begin="00:15:08.240" end="00:15:12.320" style="s2">completely novel idea</p>
+<p begin="00:15:10.240" end="00:15:14.240" style="s2">is ready for penetration people are</p>
+<p begin="00:15:12.320" end="00:15:16.240" style="s2">prepared to buy it</p>
+<p begin="00:15:14.240" end="00:15:17.360" style="s2">is because the old idea or the old</p>
+<p begin="00:15:16.240" end="00:15:19.279" style="s2">product is starting to</p>
+<p begin="00:15:17.360" end="00:15:20.639" style="s2">run out of utility or is becoming a</p>
+<p begin="00:15:19.279" end="00:15:22.639" style="s2">commodity</p>
+<p begin="00:15:20.639" end="00:15:23.920" style="s2">so that creates a space for something</p>
+<p begin="00:15:22.639" end="00:15:25.519" style="s2">new</p>
+<p begin="00:15:23.920" end="00:15:27.920" style="s2">because it&#39;s at the end of the life</p>
+<p begin="00:15:25.519" end="00:15:28.800" style="s2">cycle you know the buyers are</p>
+<p begin="00:15:27.920" end="00:15:30.800" style="s2">conservative</p>
+<p begin="00:15:28.800" end="00:15:32.079" style="s2">buyers so nobody wants to buy the new</p>
+<p begin="00:15:30.800" end="00:15:33.759" style="s2">stuff</p>
+<p begin="00:15:32.079" end="00:15:35.440" style="s2">and that&#39;s the reason you get depressed</p>
+<p begin="00:15:33.759" end="00:15:36.800" style="s2">sales after you&#39;ve sucked up the two and</p>
+<p begin="00:15:35.440" end="00:15:38.160" style="s2">a half percent of the laws by something</p>
+<p begin="00:15:36.800" end="00:15:40.000" style="s2">you anyway</p>
+<p begin="00:15:38.160" end="00:15:41.600" style="s2">so effectively the dominance of the</p>
+<p begin="00:15:40.000" end="00:15:43.519" style="s2">previous idea</p>
+<p begin="00:15:41.600" end="00:15:46.800" style="s2">starts to explain the reason for the</p>
+<p begin="00:15:43.519" end="00:15:48.720" style="s2">suppression of novelty in the chasm</p>
+<p begin="00:15:46.800" end="00:15:50.320" style="s2">now one of the examples i normally give</p>
+<p begin="00:15:48.720" end="00:15:53.680" style="s2">on this is to look at</p>
+<p begin="00:15:50.320" end="00:15:57.440" style="s2">ibm&#39;s total dominance of computing</p>
+<p begin="00:15:53.680" end="00:15:58.959" style="s2">from really the 70s through the 80s into</p>
+<p begin="00:15:57.440" end="00:16:01.360" style="s2">the 90s</p>
+<p begin="00:15:58.959" end="00:16:02.000" style="s2">and the reason ibm was able to do that</p>
+<p begin="00:16:01.360" end="00:16:03.920" style="s2">is</p>
+<p begin="00:16:02.000" end="00:16:05.519" style="s2">that they repurposed if you remember</p>
+<p begin="00:16:03.920" end="00:16:08.639" style="s2">that word exception</p>
+<p begin="00:16:05.519" end="00:16:09.920" style="s2">from the first of these lectures what</p>
+<p begin="00:16:08.639" end="00:16:13.120" style="s2">they did is they were</p>
+<p begin="00:16:09.920" end="00:16:15.120" style="s2">had worldwide confidence in punch cards</p>
+<p begin="00:16:13.120" end="00:16:16.720" style="s2">from various manufacturing machine</p>
+<p begin="00:16:15.120" end="00:16:19.360" style="s2">control devices</p>
+<p begin="00:16:16.720" end="00:16:20.240" style="s2">so they repurposed that competence to</p>
+<p begin="00:16:19.360" end="00:16:22.800" style="s2">create the first</p>
+<p begin="00:16:20.240" end="00:16:23.920" style="s2">ever programs which were all card based</p>
+<p begin="00:16:22.800" end="00:16:25.519" style="s2">for those of us who are old enough to</p>
+<p begin="00:16:23.920" end="00:16:27.519" style="s2">remember it yeah</p>
+<p begin="00:16:25.519" end="00:16:29.290" style="s2">if you learn to program on punch cards</p>
+<p begin="00:16:27.519" end="00:16:30.560" style="s2">you have real programming discipline</p>
+<p begin="00:16:29.290" end="00:16:33.600" style="s2">[Music]</p>
+<p begin="00:16:30.560" end="00:16:35.279" style="s2">um you also learn to carry things</p>
+<p begin="00:16:33.600" end="00:16:36.639" style="s2">carefully there&#39;s a few lessons you get</p>
+<p begin="00:16:35.279" end="00:16:38.880" style="s2">from punch cards</p>
+<p begin="00:16:36.639" end="00:16:40.639" style="s2">so basically because they already knew</p>
+<p begin="00:16:38.880" end="00:16:41.680" style="s2">how to do punch cards and they&#39;d been</p>
+<p begin="00:16:40.639" end="00:16:44.320" style="s2">through all the grief</p>
+<p begin="00:16:41.680" end="00:16:46.320" style="s2">they were highly competent in that that</p>
+<p begin="00:16:44.320" end="00:16:49.040" style="s2">gave them first mover advantage and then</p>
+<p begin="00:16:46.320" end="00:16:51.199" style="s2">they controlled the ait industry</p>
+<p begin="00:16:49.040" end="00:16:52.800" style="s2">i mean they had the worst hardware and</p>
+<p begin="00:16:51.199" end="00:16:55.040" style="s2">the worst software</p>
+<p begin="00:16:52.800" end="00:16:57.279" style="s2">um things like you know the deca alpha</p>
+<p begin="00:16:55.040" end="00:16:58.959" style="s2">were infinitely better when the ibm pc</p>
+<p begin="00:16:57.279" end="00:17:01.120" style="s2">when they came out and the vax clusters</p>
+<p begin="00:16:58.959" end="00:17:02.880" style="s2">took it out performing as400 sorry i&#39;m</p>
+<p begin="00:17:01.120" end="00:17:05.360" style="s2">sure my age now</p>
+<p begin="00:17:02.880" end="00:17:08.240" style="s2">um but basically people didn&#39;t buy the</p>
+<p begin="00:17:05.360" end="00:17:09.760" style="s2">best thing they bought the safest thing</p>
+<p begin="00:17:08.240" end="00:17:12.240" style="s2">that&#39;s actually quite important to</p>
+<p begin="00:17:09.760" end="00:17:13.679" style="s2">remember so as you move into mature</p>
+<p begin="00:17:12.240" end="00:17:15.600" style="s2">markets</p>
+<p begin="00:17:13.679" end="00:17:17.280" style="s2">people want to buy what other people</p>
+<p begin="00:17:15.600" end="00:17:18.240" style="s2">have bought there was a phrase then</p>
+<p begin="00:17:17.280" end="00:17:21.439" style="s2">nobody gets</p>
+<p begin="00:17:18.240" end="00:17:23.360" style="s2">fired for buying ibm so</p>
+<p begin="00:17:21.439" end="00:17:25.679" style="s2">buy something novel and different and it</p>
+<p begin="00:17:23.360" end="00:17:27.600" style="s2">goes wrong it will all be your fault</p>
+<p begin="00:17:25.679" end="00:17:29.360" style="s2">buy ibm and it goes wrong it won&#39;t be</p>
+<p begin="00:17:27.600" end="00:17:31.120" style="s2">your fault because everybody else made</p>
+<p begin="00:17:29.360" end="00:17:32.559" style="s2">the same mistake mckinsey&#39;s are playing</p>
+<p begin="00:17:31.120" end="00:17:34.559" style="s2">off this hugely at the moment in the</p>
+<p begin="00:17:32.559" end="00:17:36.320" style="s2">consultancy market</p>
+<p begin="00:17:34.559" end="00:17:38.240" style="s2">um it&#39;s kind of like there are</p>
+<p begin="00:17:36.320" end="00:17:40.160" style="s2">infinitely certainly in an agile</p>
+<p begin="00:17:38.240" end="00:17:41.919" style="s2">virtually any agile consultancy</p>
+<p begin="00:17:40.160" end="00:17:43.840" style="s2">is a lot better than mckinsey&#39;s in doing</p>
+<p begin="00:17:41.919" end="00:17:46.559" style="s2">the job but you&#39;re not going to get</p>
+<p begin="00:17:43.840" end="00:17:48.640" style="s2">fired if you hire mckenzie&#39;s because of</p>
+<p begin="00:17:46.559" end="00:17:50.720" style="s2">their reputation</p>
+<p begin="00:17:48.640" end="00:17:52.400" style="s2">and remember that this is a conservative</p>
+<p begin="00:17:50.720" end="00:17:55.120" style="s2">buying pattern</p>
+<p begin="00:17:52.400" end="00:17:57.039" style="s2">now because of that so ibm gets first</p>
+<p begin="00:17:55.120" end="00:17:59.200" style="s2">mover advantage it pulls out to the</p>
+<p begin="00:17:57.039" end="00:18:00.160" style="s2">chasm it dominates that early adopter</p>
+<p begin="00:17:59.200" end="00:18:02.320" style="s2">phase</p>
+<p begin="00:18:00.160" end="00:18:04.240" style="s2">which means it controls the late adopter</p>
+<p begin="00:18:02.320" end="00:18:07.679" style="s2">markets which is where all the</p>
+<p begin="00:18:04.240" end="00:18:09.280" style="s2">revenue is yeah um i&#39;m going to tell you</p>
+<p begin="00:18:07.679" end="00:18:10.880" style="s2">something depressing about politics on</p>
+<p begin="00:18:09.280" end="00:18:12.320" style="s2">this at the end because it applies there</p>
+<p begin="00:18:10.880" end="00:18:13.440" style="s2">as well but let&#39;s keep the commercial</p>
+<p begin="00:18:12.320" end="00:18:15.840" style="s2">for the moment</p>
+<p begin="00:18:13.440" end="00:18:17.760" style="s2">now the trouble is that once something</p>
+<p begin="00:18:15.840" end="00:18:20.960" style="s2">reaches its late majority phase it&#39;s</p>
+<p begin="00:18:17.760" end="00:18:22.960" style="s2">starting to become a commodity</p>
+<p begin="00:18:20.960" end="00:18:25.120" style="s2">and as it starts to become a commodity</p>
+<p begin="00:18:22.960" end="00:18:26.640" style="s2">other players can produce things quicker</p>
+<p begin="00:18:25.120" end="00:18:28.400" style="s2">and cheaper</p>
+<p begin="00:18:26.640" end="00:18:30.400" style="s2">but the trouble is if you&#39;re the apex</p>
+<p begin="00:18:28.400" end="00:18:32.160" style="s2">predator the top of the supply chain you</p>
+<p begin="00:18:30.400" end="00:18:34.640" style="s2">don&#39;t see it because your price is</p>
+<p begin="00:18:32.160" end="00:18:36.799" style="s2">protected for a very long time</p>
+<p begin="00:18:34.640" end="00:18:37.919" style="s2">so the shock when it hits you is almost</p>
+<p begin="00:18:36.799" end="00:18:39.760" style="s2">catastrophic</p>
+<p begin="00:18:37.919" end="00:18:41.440" style="s2">you might remember ibm at that time was</p>
+<p begin="00:18:39.760" end="00:18:42.480" style="s2">the largest ever corporate loss in world</p>
+<p begin="00:18:41.440" end="00:18:45.039" style="s2">history</p>
+<p begin="00:18:42.480" end="00:18:47.520" style="s2">and it&#39;s been far exceeded since but it</p>
+<p begin="00:18:45.039" end="00:18:49.679" style="s2">was kind of like a major first</p>
+<p begin="00:18:47.520" end="00:18:50.559" style="s2">so basically because they&#39;re a commodity</p>
+<p begin="00:18:49.679" end="00:18:52.559" style="s2">they don&#39;t see</p>
+<p begin="00:18:50.559" end="00:18:54.799" style="s2">the price drops come in they start they</p>
+<p begin="00:18:52.559" end="00:18:56.640" style="s2">don&#39;t realize what&#39;s going to happen</p>
+<p begin="00:18:54.799" end="00:18:58.480" style="s2">and we got a completely new apex</p>
+<p begin="00:18:56.640" end="00:19:01.520" style="s2">protector in the iit industry a little</p>
+<p begin="00:18:58.480" end="00:19:04.240" style="s2">software company called microsoft</p>
+<p begin="00:19:01.520" end="00:19:06.080" style="s2">um which had actually been paid by ibm</p>
+<p begin="00:19:04.240" end="00:19:08.000" style="s2">to develop an operating system which</p>
+<p begin="00:19:06.080" end="00:19:08.880" style="s2">they quasi stole from somebody else</p>
+<p begin="00:19:08.000" end="00:19:10.880" style="s2">anyway</p>
+<p begin="00:19:08.880" end="00:19:13.440" style="s2">and ipm didn&#39;t think software was</p>
+<p begin="00:19:10.880" end="00:19:15.760" style="s2">significant it was all about hardware</p>
+<p begin="00:19:13.440" end="00:19:16.640" style="s2">um so they let bill have the ip rights</p>
+<p begin="00:19:15.760" end="00:19:18.400" style="s2">to it</p>
+<p begin="00:19:16.640" end="00:19:20.080" style="s2">and lo and behold you&#39;ve got an apex</p>
+<p begin="00:19:18.400" end="00:19:22.320" style="s2">predator</p>
+<p begin="00:19:20.080" end="00:19:24.320" style="s2">now this apex predator concept is key</p>
+<p begin="00:19:22.320" end="00:19:27.200" style="s2">because the entire ecosystem</p>
+<p begin="00:19:24.320" end="00:19:29.120" style="s2">organizes around it there&#39;s a video it&#39;s</p>
+<p begin="00:19:27.200" end="00:19:31.200" style="s2">worth looking at if you type trophic</p>
+<p begin="00:19:29.120" end="00:19:33.039" style="s2">cascade wolves in yellowstone into</p>
+<p begin="00:19:31.200" end="00:19:34.640" style="s2">google</p>
+<p begin="00:19:33.039" end="00:19:36.240" style="s2">you&#39;ll find a wonderland wonderful</p>
+<p begin="00:19:34.640" end="00:19:38.000" style="s2">little video which shows what happened</p>
+<p begin="00:19:36.240" end="00:19:39.520" style="s2">when they reintroduce wolves into</p>
+<p begin="00:19:38.000" end="00:19:41.840" style="s2">yellowstone</p>
+<p begin="00:19:39.520" end="00:19:42.640" style="s2">because they were the apex predator with</p>
+<p begin="00:19:41.840" end="00:19:44.960" style="s2">wolves</p>
+<p begin="00:19:42.640" end="00:19:46.640" style="s2">near deer were curled deered in</p>
+<p begin="00:19:44.960" end="00:19:47.840" style="s2">riverbanks because they were afraid of</p>
+<p begin="00:19:46.640" end="00:19:51.200" style="s2">wolves</p>
+<p begin="00:19:47.840" end="00:19:53.919" style="s2">um water run clear</p>
+<p begin="00:19:51.200" end="00:19:54.640" style="s2">so basically the apex predator survives</p>
+<p begin="00:19:53.919" end="00:19:56.880" style="s2">no matter</p>
+<p begin="00:19:54.640" end="00:20:00.000" style="s2">how incompetent they are because the</p>
+<p begin="00:19:56.880" end="00:20:01.919" style="s2">ecosystem self organizes around them</p>
+<p begin="00:20:00.000" end="00:20:03.919" style="s2">and of course when the ecosystem is</p>
+<p begin="00:20:01.919" end="00:20:06.000" style="s2">destroyed the apex predator can no</p>
+<p begin="00:20:03.919" end="00:20:08.559" style="s2">longer survive so a new one comes</p>
+<p begin="00:20:06.000" end="00:20:10.159" style="s2">through when the meteor wipes out the</p>
+<p begin="00:20:08.559" end="00:20:11.840" style="s2">dinosaurs</p>
+<p begin="00:20:10.159" end="00:20:13.840" style="s2">you know if you had the guess on the</p>
+<p begin="00:20:11.840" end="00:20:15.039" style="s2">successor you go for the crocodile or</p>
+<p begin="00:20:13.840" end="00:20:17.280" style="s2">the shark you wouldn&#39;t go</p>
+<p begin="00:20:15.039" end="00:20:19.200" style="s2">for the first mammal but actually</p>
+<p begin="00:20:17.280" end="00:20:21.280" style="s2">something very small and very</p>
+<p begin="00:20:19.200" end="00:20:23.360" style="s2">energy efficient is more likely to come</p>
+<p begin="00:20:21.280" end="00:20:25.919" style="s2">through the stage</p>
+<p begin="00:20:23.360" end="00:20:27.520" style="s2">so that&#39;s the the apex predator concept</p>
+<p begin="00:20:25.919" end="00:20:29.039" style="s2">and once they&#39;re established you get a</p>
+<p begin="00:20:27.520" end="00:20:31.520" style="s2">trophic cascade and the rest of the</p>
+<p begin="00:20:29.039" end="00:20:33.600" style="s2">ecosystem organizes around them</p>
+<p begin="00:20:31.520" end="00:20:34.559" style="s2">so again they survive even if they&#39;re</p>
+<p begin="00:20:33.600" end="00:20:36.480" style="s2">incompetent</p>
+<p begin="00:20:34.559" end="00:20:37.840" style="s2">yeah until the ecosystem itself is</p>
+<p begin="00:20:36.480" end="00:20:39.840" style="s2">disrupted</p>
+<p begin="00:20:37.840" end="00:20:41.840" style="s2">so the hardware to software shift was a</p>
+<p begin="00:20:39.840" end="00:20:43.919" style="s2">massive ecosystem disruption triggered</p>
+<p begin="00:20:41.840" end="00:20:45.760" style="s2">by commodification</p>
+<p begin="00:20:43.919" end="00:20:47.679" style="s2">and then the same thing happens again so</p>
+<p begin="00:20:45.760" end="00:20:49.120" style="s2">microsoft dominate the space they can</p>
+<p begin="00:20:47.679" end="00:20:49.600" style="s2">command whatever money they want</p>
+<p begin="00:20:49.120" end="00:20:51.600" style="s2">everybody</p>
+<p begin="00:20:49.600" end="00:20:53.039" style="s2">has to buy windows despite the fact it&#39;s</p>
+<p begin="00:20:51.600" end="00:20:56.080" style="s2">appalling software sorry</p>
+<p begin="00:20:53.039" end="00:20:58.559" style="s2">and a macbook um</p>
+<p begin="00:20:56.080" end="00:21:00.640" style="s2">yeah it&#39;s and don&#39;t talk about words and</p>
+<p begin="00:20:58.559" end="00:21:03.280" style="s2">powerpoint for god&#39;s sake right</p>
+<p begin="00:21:00.640" end="00:21:04.880" style="s2">um so but everybody buys it because it&#39;s</p>
+<p begin="00:21:03.280" end="00:21:07.200" style="s2">a safe purchase but it becomes a</p>
+<p begin="00:21:04.880" end="00:21:08.720" style="s2">commodity you start to get free software</p>
+<p begin="00:21:07.200" end="00:21:10.080" style="s2">you start to get the open source</p>
+<p begin="00:21:08.720" end="00:21:13.039" style="s2">movement</p>
+<p begin="00:21:10.080" end="00:21:14.240" style="s2">and microsoft doesn&#39;t realize that until</p>
+<p begin="00:21:13.039" end="00:21:16.080" style="s2">it&#39;s too late</p>
+<p begin="00:21:14.240" end="00:21:17.360" style="s2">i mean it&#39;s reinventing itself because a</p>
+<p begin="00:21:16.080" end="00:21:18.400" style="s2">completely different company at the</p>
+<p begin="00:21:17.360" end="00:21:20.720" style="s2">moment</p>
+<p begin="00:21:18.400" end="00:21:23.360" style="s2">just like ibm reinvented itself as a</p>
+<p begin="00:21:20.720" end="00:21:24.960" style="s2">services company not a hardware company</p>
+<p begin="00:21:23.360" end="00:21:26.400" style="s2">yeah so kind of like if you&#39;ve got cash</p>
+<p begin="00:21:24.960" end="00:21:27.200" style="s2">you can do that a lot of companies go</p>
+<p begin="00:21:26.400" end="00:21:29.039" style="s2">under</p>
+<p begin="00:21:27.200" end="00:21:30.559" style="s2">now the entire european computer</p>
+<p begin="00:21:29.039" end="00:21:32.400" style="s2">industry went under by the way</p>
+<p begin="00:21:30.559" end="00:21:34.080" style="s2">at the same time as ibm&#39;s just</p>
+<p begin="00:21:32.400" end="00:21:35.840" style="s2">disappeared</p>
+<p begin="00:21:34.080" end="00:21:38.880" style="s2">because it was working in a commodity</p>
+<p begin="00:21:35.840" end="00:21:40.960" style="s2">market and of course when microsoft</p>
+<p begin="00:21:38.880" end="00:21:43.360" style="s2">realized that they suddenly discovered</p>
+<p begin="00:21:40.960" end="00:21:45.360" style="s2">that apple have overtaken them</p>
+<p begin="00:21:43.360" end="00:21:47.360" style="s2">because apple realized that the ecobuild</p>
+<p begin="00:21:45.360" end="00:21:49.360" style="s2">system was about integrated hardware and</p>
+<p begin="00:21:47.360" end="00:21:50.799" style="s2">software people weren&#39;t concerned about</p>
+<p begin="00:21:49.360" end="00:21:52.880" style="s2">the hardware or the software they were</p>
+<p begin="00:21:50.799" end="00:21:54.240" style="s2">concerned about having something</p>
+<p begin="00:21:52.880" end="00:21:56.000" style="s2">beautiful which did something they</p>
+<p begin="00:21:54.240" end="00:21:56.640" style="s2">didn&#39;t know they wanted until they had</p>
+<p begin="00:21:56.000" end="00:21:58.080" style="s2">it</p>
+<p begin="00:21:56.640" end="00:22:00.720" style="s2">and then they couldn&#39;t do without it</p>
+<p begin="00:21:58.080" end="00:22:03.280" style="s2">that was apple&#39;s initial success</p>
+<p begin="00:22:00.720" end="00:22:05.840" style="s2">and we&#39;ll go through this cycle again um</p>
+<p begin="00:22:03.280" end="00:22:07.840" style="s2">i think this one will be longer because</p>
+<p begin="00:22:05.840" end="00:22:10.799" style="s2">apple are taking an ecosystem route</p>
+<p begin="00:22:07.840" end="00:22:12.640" style="s2">rather than rather than a product route</p>
+<p begin="00:22:10.799" end="00:22:15.600" style="s2">yeah so they may be able to stay in it</p>
+<p begin="00:22:12.640" end="00:22:17.760" style="s2">longer but this is a natural cycle</p>
+<p begin="00:22:15.600" end="00:22:20.320" style="s2">um you will also see the cycle in</p>
+<p begin="00:22:17.760" end="00:22:20.320" style="s2">politics</p>
+<p begin="00:22:20.720" end="00:22:24.960" style="s2">so if you go back some what</p>
+<p begin="00:22:22.840" end="00:22:28.320" style="s2">neoliberalism did</p>
+<p begin="00:22:24.960" end="00:22:30.640" style="s2">was it homogenized politics</p>
+<p begin="00:22:28.320" end="00:22:33.440" style="s2">yeah it actually meant both republicans</p>
+<p begin="00:22:30.640" end="00:22:35.200" style="s2">and democrats or labour and conservative</p>
+<p begin="00:22:33.440" end="00:22:37.440" style="s2">were all competed in from the center</p>
+<p begin="00:22:35.200" end="00:22:39.440" style="s2">ground they all accepted neo-liberalism</p>
+<p begin="00:22:37.440" end="00:22:41.520" style="s2">so there was no difference</p>
+<p begin="00:22:39.440" end="00:22:43.280" style="s2">between the major political parties or</p>
+<p begin="00:22:41.520" end="00:22:45.840" style="s2">people didn&#39;t see a difference</p>
+<p begin="00:22:43.280" end="00:22:47.760" style="s2">again that&#39;s the commodification phase</p>
+<p begin="00:22:45.840" end="00:22:50.159" style="s2">that means the energy cost</p>
+<p begin="00:22:47.760" end="00:22:53.520" style="s2">of a completely new predator coming into</p>
+<p begin="00:22:50.159" end="00:22:56.159" style="s2">the ecosystem goes radically down</p>
+<p begin="00:22:53.520" end="00:22:58.000" style="s2">so when you lose strategic diversity and</p>
+<p begin="00:22:56.159" end="00:23:00.159" style="s2">you get homogenization</p>
+<p begin="00:22:58.000" end="00:23:01.919" style="s2">something new can come in as trump did</p>
+<p begin="00:23:00.159" end="00:23:03.440" style="s2">or as the far-right and the conservative</p>
+<p begin="00:23:01.919" end="00:23:05.679" style="s2">party did in the uk</p>
+<p begin="00:23:03.440" end="00:23:07.520" style="s2">at very low energy cost because the</p>
+<p begin="00:23:05.679" end="00:23:08.159" style="s2">system is ready for that type of radical</p>
+<p begin="00:23:07.520" end="00:23:11.280" style="s2">disruption</p>
+<p begin="00:23:08.159" end="00:23:14.640" style="s2">so this this framework has a wider</p>
+<p begin="00:23:11.280" end="00:23:16.000" style="s2">purpose um</p>
+<p begin="00:23:14.640" end="00:23:19.840" style="s2">now if we don&#39;t look at it in more</p>
+<p begin="00:23:16.000" end="00:23:22.159" style="s2">detail you actually got this</p>
+<p begin="00:23:19.840" end="00:23:25.360" style="s2">key period if i can get this to advance</p>
+<p begin="00:23:22.159" end="00:23:25.360" style="s2">which i currently can&#39;t</p>
+<p begin="00:23:29.120" end="00:23:35.600" style="s2">okay you get this period here</p>
+<p begin="00:23:33.360" end="00:23:36.799" style="s2">where basically if you&#39;re the dominant</p>
+<p begin="00:23:35.600" end="00:23:39.679" style="s2">predator at the moment</p>
+<p begin="00:23:36.799" end="00:23:41.679" style="s2">you&#39;re now hitting this particular point</p>
+<p begin="00:23:39.679" end="00:23:44.320" style="s2">yeah</p>
+<p begin="00:23:41.679" end="00:23:47.120" style="s2">this particular point here which i call</p>
+<p begin="00:23:44.320" end="00:23:50.159" style="s2">the example point</p>
+<p begin="00:23:47.120" end="00:23:51.679" style="s2">um that&#39;s where you should realize that</p>
+<p begin="00:23:50.159" end="00:23:54.960" style="s2">you&#39;re reaching the peak</p>
+<p begin="00:23:51.679" end="00:23:57.440" style="s2">of your overall market dominance you&#39;re</p>
+<p begin="00:23:54.960" end="00:23:59.039" style="s2">starting to see novel competitors</p>
+<p begin="00:23:57.440" end="00:24:00.480" style="s2">you&#39;re not having a problem competing</p>
+<p begin="00:23:59.039" end="00:24:02.480" style="s2">with them you can wipe them out but</p>
+<p begin="00:24:00.480" end="00:24:04.000" style="s2">there&#39;s an increasing number of them</p>
+<p begin="00:24:02.480" end="00:24:06.080" style="s2">and some of them are starting to gain</p>
+<p begin="00:24:04.000" end="00:24:08.159" style="s2">traction that&#39;s where you need to make a</p>
+<p begin="00:24:06.080" end="00:24:11.919" style="s2">radical shift in your business</p>
+<p begin="00:24:08.159" end="00:24:14.240" style="s2">if you don&#39;t do it you reach this point</p>
+<p begin="00:24:11.919" end="00:24:16.720" style="s2">um which is called competence-induced</p>
+<p begin="00:24:14.240" end="00:24:18.559" style="s2">failure</p>
+<p begin="00:24:16.720" end="00:24:19.919" style="s2">this is the point and this goes back to</p>
+<p begin="00:24:18.559" end="00:24:22.080" style="s2">clayton christiansen&#39;s</p>
+<p begin="00:24:19.919" end="00:24:23.279" style="s2">work and i did some work with clayton</p>
+<p begin="00:24:22.080" end="00:24:25.039" style="s2">christians in one</p>
+<p begin="00:24:23.279" end="00:24:26.640" style="s2">project product and we talked a lot</p>
+<p begin="00:24:25.039" end="00:24:28.799" style="s2">about this then</p>
+<p begin="00:24:26.640" end="00:24:31.200" style="s2">um because this puts context on what he</p>
+<p begin="00:24:28.799" end="00:24:33.200" style="s2">says as christian pointed out</p>
+<p begin="00:24:31.200" end="00:24:34.240" style="s2">companies don&#39;t fail because they&#39;re</p>
+<p begin="00:24:33.200" end="00:24:36.159" style="s2">incompetent</p>
+<p begin="00:24:34.240" end="00:24:38.720" style="s2">they fail because they&#39;re too competent</p>
+<p begin="00:24:36.159" end="00:24:40.799" style="s2">at the old paradigm</p>
+<p begin="00:24:38.720" end="00:24:42.880" style="s2">so people can&#39;t see that actually the</p>
+<p begin="00:24:40.799" end="00:24:45.600" style="s2">old power of them doesn&#39;t work anymore</p>
+<p begin="00:24:42.880" end="00:24:46.000" style="s2">yeah you can see that for example in</p>
+<p begin="00:24:45.600" end="00:24:48.080" style="s2">hillary</p>
+<p begin="00:24:46.000" end="00:24:49.919" style="s2">clinton&#39;s campaign in the last american</p>
+<p begin="00:24:48.080" end="00:24:50.960" style="s2">presidential election i&#39;ll give you lots</p>
+<p begin="00:24:49.919" end="00:24:53.279" style="s2">of other examples</p>
+<p begin="00:24:50.960" end="00:24:54.559" style="s2">yeah the old frameworks aren&#39;t working</p>
+<p begin="00:24:53.279" end="00:24:56.000" style="s2">anymore</p>
+<p begin="00:24:54.559" end="00:24:58.240" style="s2">um but they&#39;re the dominant way of</p>
+<p begin="00:24:56.000" end="00:25:01.360" style="s2">thinking so you effectively have this</p>
+<p begin="00:24:58.240" end="00:25:04.720" style="s2">very narrow gap here</p>
+<p begin="00:25:01.360" end="00:25:06.559" style="s2">where you can make an adjustment now</p>
+<p begin="00:25:04.720" end="00:25:08.000" style="s2">there is important things which come out</p>
+<p begin="00:25:06.559" end="00:25:11.200" style="s2">of this</p>
+<p begin="00:25:08.000" end="00:25:11.760" style="s2">um the first is if you actually look at</p>
+<p begin="00:25:11.200" end="00:25:13.840" style="s2">nearly all</p>
+<p begin="00:25:11.760" end="00:25:15.600" style="s2">industries all political systems or</p>
+<p begin="00:25:13.840" end="00:25:17.120" style="s2">social systems seem to go through this</p>
+<p begin="00:25:15.600" end="00:25:18.799" style="s2">cycle</p>
+<p begin="00:25:17.120" end="00:25:20.240" style="s2">the work i&#39;m building into this at the</p>
+<p begin="00:25:18.799" end="00:25:22.559" style="s2">moment is not just to look</p>
+<p begin="00:25:20.240" end="00:25:25.600" style="s2">at the apex predator but also to look at</p>
+<p begin="00:25:22.559" end="00:25:28.240" style="s2">keystone species things like beavers</p>
+<p begin="00:25:25.600" end="00:25:30.640" style="s2">and i&#39;d argue that in i.t for a long</p>
+<p begin="00:25:28.240" end="00:25:31.919" style="s2">time intel went down a keystone species</p>
+<p begin="00:25:30.640" end="00:25:34.159" style="s2">model</p>
+<p begin="00:25:31.919" end="00:25:36.000" style="s2">it may have been the apex in microchips</p>
+<p begin="00:25:34.159" end="00:25:38.880" style="s2">but in overall computing</p>
+<p begin="00:25:36.000" end="00:25:40.640" style="s2">its chips were used by everybody it was</p>
+<p begin="00:25:38.880" end="00:25:42.880" style="s2">kind of like the supplier of choice</p>
+<p begin="00:25:40.640" end="00:25:44.960" style="s2">apple went in and out and so on</p>
+<p begin="00:25:42.880" end="00:25:46.799" style="s2">so a keystone species is something which</p>
+<p begin="00:25:44.960" end="00:25:48.080" style="s2">sustains the ecosystem but doesn&#39;t</p>
+<p begin="00:25:46.799" end="00:25:50.559" style="s2">dominate it</p>
+<p begin="00:25:48.080" end="00:25:51.200" style="s2">an apex predator dominates the system</p>
+<p begin="00:25:50.559" end="00:25:52.880" style="s2">and we can go</p>
+<p begin="00:25:51.200" end="00:25:54.640" style="s2">and add some more metaphors in this as</p>
+<p begin="00:25:52.880" end="00:25:56.559" style="s2">we go</p>
+<p begin="00:25:54.640" end="00:25:58.240" style="s2">but the principle of this framework and</p>
+<p begin="00:25:56.559" end="00:26:00.080" style="s2">it&#39;s to my mind is up there with</p>
+<p begin="00:25:58.240" end="00:26:01.760" style="s2">canaveral as a sense making framework</p>
+<p begin="00:26:00.080" end="00:26:04.080" style="s2">although it&#39;s about five to six years</p>
+<p begin="00:26:01.760" end="00:26:06.000" style="s2">behind in development</p>
+<p begin="00:26:04.080" end="00:26:09.120" style="s2">it&#39;s basically says that in different</p>
+<p begin="00:26:06.000" end="00:26:11.760" style="s2">contexts different things are possible</p>
+<p begin="00:26:09.120" end="00:26:13.520" style="s2">so if you&#39;re in if you come out of that</p>
+<p begin="00:26:11.760" end="00:26:15.440" style="s2">early adopter phase</p>
+<p begin="00:26:13.520" end="00:26:17.120" style="s2">and that ends at the competence induced</p>
+<p begin="00:26:15.440" end="00:26:18.400" style="s2">failure point that&#39;s the 30 and a half</p>
+<p begin="00:26:17.120" end="00:26:20.240" style="s2">percent</p>
+<p begin="00:26:18.400" end="00:26:22.159" style="s2">if you&#39;re not in total if you&#39;re not</p>
+<p begin="00:26:20.240" end="00:26:23.279" style="s2">actually dominating the market at that</p>
+<p begin="00:26:22.159" end="00:26:25.039" style="s2">point somebody else</p>
+<p begin="00:26:23.279" end="00:26:26.559" style="s2">is and you&#39;ll lose the rest of the</p>
+<p begin="00:26:25.039" end="00:26:29.520" style="s2">business</p>
+<p begin="00:26:26.559" end="00:26:31.039" style="s2">now at that point your strategy and i&#39;m</p>
+<p begin="00:26:29.520" end="00:26:34.159" style="s2">sorry to carry on with these african</p>
+<p begin="00:26:31.039" end="00:26:36.320" style="s2">metaphors is a hyena strategy</p>
+<p begin="00:26:34.159" end="00:26:38.080" style="s2">you have to feed off the scraps of the</p>
+<p begin="00:26:36.320" end="00:26:39.919" style="s2">dominant predator</p>
+<p begin="00:26:38.080" end="00:26:42.400" style="s2">so you have to become for example a</p>
+<p begin="00:26:39.919" end="00:26:44.400" style="s2">microsoft certified supplier</p>
+<p begin="00:26:42.400" end="00:26:46.559" style="s2">or if you&#39;re in agile at the moment and</p>
+<p begin="00:26:44.400" end="00:26:49.279" style="s2">by the way agile is way past the stage</p>
+<p begin="00:26:46.559" end="00:26:51.440" style="s2">in heavy commodification at the moment</p>
+<p begin="00:26:49.279" end="00:26:53.760" style="s2">you end up having to be a safe certified</p>
+<p begin="00:26:51.440" end="00:26:55.919" style="s2">consultant which is to my mind a form of</p>
+<p begin="00:26:53.760" end="00:26:56.960" style="s2">controlled and certified insanity but</p>
+<p begin="00:26:55.919" end="00:26:59.520" style="s2">that&#39;s another matter</p>
+<p begin="00:26:56.960" end="00:27:01.440" style="s2">right basically you&#39;ve got an apex</p>
+<p begin="00:26:59.520" end="00:27:03.279" style="s2">predator you have to serve the apex</p>
+<p begin="00:27:01.440" end="00:27:03.760" style="s2">predator because you can&#39;t compete with</p>
+<p begin="00:27:03.279" end="00:27:06.400" style="s2">it</p>
+<p begin="00:27:03.760" end="00:27:08.320" style="s2">there&#39;s very little room for competition</p>
+<p begin="00:27:06.400" end="00:27:10.400" style="s2">but when the apex predator starts to</p>
+<p begin="00:27:08.320" end="00:27:11.279" style="s2">become highly commodified and you can</p>
+<p begin="00:27:10.400" end="00:27:13.279" style="s2">see this by the way</p>
+<p begin="00:27:11.279" end="00:27:15.039" style="s2">with design thinking as well as with</p>
+<p begin="00:27:13.279" end="00:27:16.760" style="s2">agile at the moment</p>
+<p begin="00:27:15.039" end="00:27:18.960" style="s2">yeah they&#39;re both going through heavy</p>
+<p begin="00:27:16.760" end="00:27:22.000" style="s2">commodification phrases</p>
+<p begin="00:27:18.960" end="00:27:23.520" style="s2">that&#39;s when you introduce something new</p>
+<p begin="00:27:22.000" end="00:27:25.120" style="s2">and if you&#39;ve got any sense you</p>
+<p begin="00:27:23.520" end="00:27:27.760" style="s2">introduce something new by this</p>
+<p begin="00:27:25.120" end="00:27:29.039" style="s2">exceptive term by taking something</p>
+<p begin="00:27:27.760" end="00:27:30.880" style="s2">you&#39;re competent at</p>
+<p begin="00:27:29.039" end="00:27:32.399" style="s2">and applying it to something completely</p>
+<p begin="00:27:30.880" end="00:27:34.320" style="s2">novel</p>
+<p begin="00:27:32.399" end="00:27:36.960" style="s2">i&#39;m going to talk a bit next week about</p>
+<p begin="00:27:34.320" end="00:27:39.919" style="s2">how you can manage for serendipity which</p>
+<p begin="00:27:36.960" end="00:27:43.279" style="s2">is another way of describing that</p>
+<p begin="00:27:39.919" end="00:27:44.559" style="s2">so context is everything if you&#39;re in</p>
+<p begin="00:27:43.279" end="00:27:46.480" style="s2">the growth phase</p>
+<p begin="00:27:44.559" end="00:27:48.640" style="s2">and you can look at this in terms of</p>
+<p begin="00:27:46.480" end="00:27:51.120" style="s2">organizational change</p>
+<p begin="00:27:48.640" end="00:27:52.880" style="s2">so if your company&#39;s got a new ceo and a</p>
+<p begin="00:27:51.120" end="00:27:54.480" style="s2">new h director and they&#39;ve fallen in</p>
+<p begin="00:27:52.880" end="00:27:55.679" style="s2">love with some consultants over the</p>
+<p begin="00:27:54.480" end="00:27:56.399" style="s2">model you&#39;re not going to be able to</p>
+<p begin="00:27:55.679" end="00:27:59.600" style="s2">shake it</p>
+<p begin="00:27:56.399" end="00:28:01.679" style="s2">until it starts to fail or until it</p>
+<p begin="00:27:59.600" end="00:28:02.399" style="s2">becomes so commodified and commonplace</p>
+<p begin="00:28:01.679" end="00:28:04.880" style="s2">it no longer</p>
+<p begin="00:28:02.399" end="00:28:06.080" style="s2">adds value there&#39;s no point in fighting</p>
+<p begin="00:28:04.880" end="00:28:08.880" style="s2">it then you have to wait</p>
+<p begin="00:28:06.080" end="00:28:10.720" style="s2">your moment you have to wait for the</p>
+<p begin="00:28:08.880" end="00:28:12.640" style="s2">commodification point to introduce</p>
+<p begin="00:28:10.720" end="00:28:14.640" style="s2">something new</p>
+<p begin="00:28:12.640" end="00:28:16.559" style="s2">all right now again this is important</p>
+<p begin="00:28:14.640" end="00:28:18.799" style="s2">because if you look at most of the post</p>
+<p begin="00:28:16.559" end="00:28:21.600" style="s2">prototype strategy approaches which come</p>
+<p begin="00:28:18.799" end="00:28:24.640" style="s2">out of systems thinking and cybernetics</p>
+<p begin="00:28:21.600" end="00:28:25.520" style="s2">they assume the strategy is not context</p>
+<p begin="00:28:24.640" end="00:28:27.679" style="s2">specific</p>
+<p begin="00:28:25.520" end="00:28:29.520" style="s2">they have the same models and the same</p>
+<p begin="00:28:27.679" end="00:28:30.320" style="s2">templates that you apply wherever you</p>
+<p begin="00:28:29.520" end="00:28:32.320" style="s2">are</p>
+<p begin="00:28:30.320" end="00:28:34.480" style="s2">what apex predator says very like</p>
+<p begin="00:28:32.320" end="00:28:36.000" style="s2">kinevin yeah and by the way i can map</p>
+<p begin="00:28:34.480" end="00:28:37.520" style="s2">this to kineman</p>
+<p begin="00:28:36.000" end="00:28:39.440" style="s2">you know i&#39;ve got a chaotic point i&#39;ve</p>
+<p begin="00:28:37.520" end="00:28:40.399" style="s2">got a complex point i&#39;ve got an ordered</p>
+<p begin="00:28:39.440" end="00:28:42.720" style="s2">point</p>
+<p begin="00:28:40.399" end="00:28:44.640" style="s2">what apex predator says is first of all</p>
+<p begin="00:28:42.720" end="00:28:48.000" style="s2">what context you&#39;re in</p>
+<p begin="00:28:44.640" end="00:28:49.760" style="s2">that tells you what&#39;s possible yeah and</p>
+<p begin="00:28:48.000" end="00:28:51.120" style="s2">it tells you where the energy gradients</p>
+<p begin="00:28:49.760" end="00:28:53.360" style="s2">are coming back to what i said in the</p>
+<p begin="00:28:51.120" end="00:28:54.159" style="s2">first lecture you need to go where you</p>
+<p begin="00:28:53.360" end="00:28:56.840" style="s2">have the lowest</p>
+<p begin="00:28:54.159" end="00:28:58.880" style="s2">energy gradient the easiest form of</p>
+<p begin="00:28:56.840" end="00:29:02.080" style="s2">action so that in a</p>
+<p begin="00:28:58.880" end="00:29:05.520" style="s2">high level yeah um</p>
+<p begin="00:29:02.080" end="00:29:08.640" style="s2">is apex predator theory now</p>
+<p begin="00:29:05.520" end="00:29:11.360" style="s2">linked to this and this comes into</p>
+<p begin="00:29:08.640" end="00:29:12.080" style="s2">the work we did on counter terrorism so</p>
+<p begin="00:29:11.360" end="00:29:15.279" style="s2">there were two</p>
+<p begin="00:29:12.080" end="00:29:17.200" style="s2">things i was tasked to do when i took</p>
+<p begin="00:29:15.279" end="00:29:20.559" style="s2">this contract on and this was years</p>
+<p begin="00:29:17.200" end="00:29:22.240" style="s2">back it was before 9 11. so i got</p>
+<p begin="00:29:20.559" end="00:29:24.000" style="s2">summoned down to washington and met a</p>
+<p begin="00:29:22.240" end="00:29:25.440" style="s2">really nice old man and we had a great</p>
+<p begin="00:29:24.000" end="00:29:27.440" style="s2">conversation</p>
+<p begin="00:29:25.440" end="00:29:29.279" style="s2">and after i decided that i really liked</p>
+<p begin="00:29:27.440" end="00:29:30.880" style="s2">him i saw a picture of him with ronald</p>
+<p begin="00:29:29.279" end="00:29:32.559" style="s2">reagan and discovered i was talking with</p>
+<p begin="00:29:30.880" end="00:29:34.640" style="s2">admiral john poindexter</p>
+<p begin="00:29:32.559" end="00:29:36.320" style="s2">you might remember with reagan&#39;s nsa at</p>
+<p begin="00:29:34.640" end="00:29:38.000" style="s2">the time with the iran-contra affair but</p>
+<p begin="00:29:36.320" end="00:29:39.120" style="s2">i&#39;m sorry i will defend him he&#39;s still a</p>
+<p begin="00:29:38.000" end="00:29:41.600" style="s2">friend</p>
+<p begin="00:29:39.120" end="00:29:45.039" style="s2">um and i ended up working for him on</p>
+<p begin="00:29:41.600" end="00:29:47.600" style="s2">darpa projects for about a decade</p>
+<p begin="00:29:45.039" end="00:29:50.399" style="s2">and we had a series of tasks one was the</p>
+<p begin="00:29:47.600" end="00:29:52.559" style="s2">weak signal detection task</p>
+<p begin="00:29:50.399" end="00:29:54.000" style="s2">so how do you identify an outlier</p>
+<p begin="00:29:52.559" end="00:29:56.960" style="s2">remember the 17</p>
+<p begin="00:29:54.000" end="00:29:58.640" style="s2">from the first lecture how do i identify</p>
+<p begin="00:29:56.960" end="00:30:01.200" style="s2">people who&#39;ve seen a gorilla but nobody</p>
+<p begin="00:29:58.640" end="00:30:04.000" style="s2">is listening to</p>
+<p begin="00:30:01.200" end="00:30:04.480" style="s2">so that was kind of like task number one</p>
+<p begin="00:30:04.000" end="00:30:07.120" style="s2">um</p>
+<p begin="00:30:04.480" end="00:30:08.640" style="s2">task number two and i&#39;ll never forget</p>
+<p begin="00:30:07.120" end="00:30:09.520" style="s2">when he said this he said when he was</p>
+<p begin="00:30:08.640" end="00:30:11.840" style="s2">nsa</p>
+<p begin="00:30:09.520" end="00:30:13.360" style="s2">when he asked for advice people competed</p>
+<p begin="00:30:11.840" end="00:30:16.080" style="s2">not to tell him the truth but to have</p>
+<p begin="00:30:13.360" end="00:30:18.399" style="s2">their advice accepted</p>
+<p begin="00:30:16.080" end="00:30:20.480" style="s2">the more senior you are in government or</p>
+<p begin="00:30:18.399" end="00:30:23.360" style="s2">industry the more people compete to tell</p>
+<p begin="00:30:20.480" end="00:30:27.039" style="s2">you what you want to hear</p>
+<p begin="00:30:23.360" end="00:30:29.440" style="s2">and because that&#39;s how they survive</p>
+<p begin="00:30:27.039" end="00:30:30.960" style="s2">and what he wanted was disintermediation</p>
+<p begin="00:30:29.440" end="00:30:33.039" style="s2">a system by which he could look at the</p>
+<p begin="00:30:30.960" end="00:30:34.880" style="s2">entire landscape and go direct to raw</p>
+<p begin="00:30:33.039" end="00:30:37.600" style="s2">intelligence reports</p>
+<p begin="00:30:34.880" end="00:30:38.880" style="s2">without any mediation or interpretation</p>
+<p begin="00:30:37.600" end="00:30:40.559" style="s2">and that i&#39;m going to talk a bit about</p>
+<p begin="00:30:38.880" end="00:30:43.919" style="s2">the next week as well</p>
+<p begin="00:30:40.559" end="00:30:45.600" style="s2">and the third thing um he was looking at</p>
+<p begin="00:30:43.919" end="00:30:48.000" style="s2">and this is something we can have his</p>
+<p begin="00:30:45.600" end="00:30:50.240" style="s2">discussion like completely next week</p>
+<p begin="00:30:48.000" end="00:30:52.159" style="s2">he said how and he didn&#39;t phrase it like</p>
+<p begin="00:30:50.240" end="00:30:52.799" style="s2">this but max pastor and i were with him</p>
+<p begin="00:30:52.159" end="00:30:54.320" style="s2">and</p>
+<p begin="00:30:52.799" end="00:30:57.279" style="s2">i remember we both said you want us to</p>
+<p begin="00:30:54.320" end="00:30:59.279" style="s2">reverse ashby&#39;s law then indeed</p>
+<p begin="00:30:57.279" end="00:31:01.360" style="s2">now remember ashby&#39;s law from the early</p>
+<p begin="00:30:59.279" end="00:31:05.679" style="s2">age of information science</p>
+<p begin="00:31:01.360" end="00:31:07.840" style="s2">says that only variety can match variety</p>
+<p begin="00:31:05.679" end="00:31:10.080" style="s2">so you get increasing levels of data</p>
+<p begin="00:31:07.840" end="00:31:11.679" style="s2">stimulation you have to increasingly</p>
+<p begin="00:31:10.080" end="00:31:14.000" style="s2">pump up the energy level of your</p>
+<p begin="00:31:11.679" end="00:31:15.039" style="s2">response and you can&#39;t like go up this</p>
+<p begin="00:31:14.000" end="00:31:16.480" style="s2">line</p>
+<p begin="00:31:15.039" end="00:31:18.320" style="s2">to the point where you end up with</p>
+<p begin="00:31:16.480" end="00:31:20.159" style="s2">aircraft security in the days when we</p>
+<p begin="00:31:18.320" end="00:31:22.559" style="s2">used to fly around the world right</p>
+<p begin="00:31:20.159" end="00:31:23.200" style="s2">only a year ago now i&#39;m going to give it</p>
+<p begin="00:31:22.559" end="00:31:24.559" style="s2">um</p>
+<p begin="00:31:23.200" end="00:31:26.000" style="s2">where they actually the cost of</p>
+<p begin="00:31:24.559" end="00:31:27.760" style="s2">preventing failure is out of all</p>
+<p begin="00:31:26.000" end="00:31:29.279" style="s2">proportion to the benefit</p>
+<p begin="00:31:27.760" end="00:31:31.840" style="s2">and that&#39;s what&#39;s called asymmetric</p>
+<p begin="00:31:29.279" end="00:31:33.760" style="s2">warfare what the terrorist is doing is</p>
+<p begin="00:31:31.840" end="00:31:36.640" style="s2">making your cost of defending against</p>
+<p begin="00:31:33.760" end="00:31:39.039" style="s2">them so high that you will concede</p>
+<p begin="00:31:36.640" end="00:31:40.559" style="s2">now the steph max and i did with john</p>
+<p begin="00:31:39.039" end="00:31:42.320" style="s2">was to actually look at how do you</p>
+<p begin="00:31:40.559" end="00:31:45.360" style="s2">reverse ashby&#39;s law</p>
+<p begin="00:31:42.320" end="00:31:46.480" style="s2">by using human sensor networks so how</p>
+<p begin="00:31:45.360" end="00:31:49.200" style="s2">the governments</p>
+<p begin="00:31:46.480" end="00:31:50.960" style="s2">become asymmetric powers not symmetric</p>
+<p begin="00:31:49.200" end="00:31:52.880" style="s2">pose</p>
+<p begin="00:31:50.960" end="00:31:54.559" style="s2">and that actually feeds into new forms</p>
+<p begin="00:31:52.880" end="00:31:56.320" style="s2">of democracy so i&#39;ll probably pick up</p>
+<p begin="00:31:54.559" end="00:31:59.679" style="s2">that next week</p>
+<p begin="00:31:56.320" end="00:32:01.840" style="s2">um but part of that is this apex theory</p>
+<p begin="00:31:59.679" end="00:32:04.320" style="s2">is it basically says in different</p>
+<p begin="00:32:01.840" end="00:32:04.880" style="s2">contexts the energy gradient of change</p>
+<p begin="00:32:04.320" end="00:32:07.360" style="s2">is very</p>
+<p begin="00:32:04.880" end="00:32:09.679" style="s2">low in other contexts the energy</p>
+<p begin="00:32:07.360" end="00:32:12.640" style="s2">gradient of change is high</p>
+<p begin="00:32:09.679" end="00:32:13.919" style="s2">if you&#39;re not aware of it then you&#39;ll be</p>
+<p begin="00:32:12.640" end="00:32:15.519" style="s2">destroyed and we saw that with</p>
+<p begin="00:32:13.919" end="00:32:18.480" style="s2">neoliberal economics</p>
+<p begin="00:32:15.519" end="00:32:20.159" style="s2">yeah um we&#39;ve seen it with ibm we&#39;ve</p>
+<p begin="00:32:18.480" end="00:32:21.519" style="s2">seen it with microsoft we will see it</p>
+<p begin="00:32:20.159" end="00:32:23.440" style="s2">with apple</p>
+<p begin="00:32:21.519" end="00:32:24.880" style="s2">um we&#39;ve seen it we&#39;re seeing it at the</p>
+<p begin="00:32:23.440" end="00:32:26.960" style="s2">moment with design thinking</p>
+<p begin="00:32:24.880" end="00:32:29.600" style="s2">we&#39;re definitely seeing it with agile</p>
+<p begin="00:32:26.960" end="00:32:31.519" style="s2">this is kind of like a standard cycle</p>
+<p begin="00:32:29.600" end="00:32:34.559" style="s2">if you&#39;re aware of it you can hit the</p>
+<p begin="00:32:31.519" end="00:32:36.559" style="s2">renewal button before it&#39;s too late</p>
+<p begin="00:32:34.559" end="00:32:38.559" style="s2">because you may notice under confidence</p>
+<p begin="00:32:36.559" end="00:32:39.279" style="s2">induced failure that line just goes on</p>
+<p begin="00:32:38.559" end="00:32:42.320" style="s2">down</p>
+<p begin="00:32:39.279" end="00:32:44.080" style="s2">yeah and you actually disappear now key</p>
+<p begin="00:32:42.320" end="00:32:46.080" style="s2">to all of those three poindexter</p>
+<p begin="00:32:44.080" end="00:32:47.600" style="s2">questions which i raised and this is</p>
+<p begin="00:32:46.080" end="00:32:48.799" style="s2">where i&#39;m going to introduce something</p>
+<p begin="00:32:47.600" end="00:32:52.080" style="s2">and then</p>
+<p begin="00:32:48.799" end="00:32:52.080" style="s2">really go into this next week</p>
+<p begin="00:32:53.519" end="00:32:59.919" style="s2">is this right now</p>
+<p begin="00:32:57.120" end="00:33:01.279" style="s2">i extracted the top picture from trisha</p>
+<p begin="00:32:59.919" end="00:33:03.360" style="s2">wang</p>
+<p begin="00:33:01.279" end="00:33:05.360" style="s2">um who blogs on this you can find the</p>
+<p begin="00:33:03.360" end="00:33:08.080" style="s2">reference yeah</p>
+<p begin="00:33:05.360" end="00:33:09.600" style="s2">um i&#39;m paranoid about acknowledging</p>
+<p begin="00:33:08.080" end="00:33:10.000" style="s2">sources i get really upset when some</p>
+<p begin="00:33:09.600" end="00:33:13.039" style="s2">people</p>
+<p begin="00:33:10.000" end="00:33:16.559" style="s2">don&#39;t and she produced the top model</p>
+<p begin="00:33:13.039" end="00:33:18.399" style="s2">which compared big data with thick data</p>
+<p begin="00:33:16.559" end="00:33:20.240" style="s2">um she&#39;s an ethnographer this is</p>
+<p begin="00:33:18.399" end="00:33:21.519" style="s2">becoming a very fashionable thing for</p>
+<p begin="00:33:20.240" end="00:33:24.799" style="s2">people with an ethnographic</p>
+<p begin="00:33:21.519" end="00:33:28.399" style="s2">training so she said big data</p>
+<p begin="00:33:24.799" end="00:33:30.320" style="s2">yeah has very large volume data sets</p>
+<p begin="00:33:28.399" end="00:33:33.840" style="s2">and it gains an insight from that</p>
+<p begin="00:33:30.320" end="00:33:35.840" style="s2">through algorithmic interpretation</p>
+<p begin="00:33:33.840" end="00:33:37.519" style="s2">but the depth of the insight she said is</p>
+<p begin="00:33:35.840" end="00:33:39.120" style="s2">shallow</p>
+<p begin="00:33:37.519" end="00:33:41.679" style="s2">she then contrasts that with an</p>
+<p begin="00:33:39.120" end="00:33:43.840" style="s2">ethnographer who is dealing with low</p>
+<p begin="00:33:41.679" end="00:33:45.120" style="s2">volumes of the data but high volumes of</p>
+<p begin="00:33:43.840" end="00:33:48.240" style="s2">meaning</p>
+<p begin="00:33:45.120" end="00:33:50.320" style="s2">and that she called thick data right and</p>
+<p begin="00:33:48.240" end="00:33:52.640" style="s2">she basically says you need thick data</p>
+<p begin="00:33:50.320" end="00:33:54.240" style="s2">to complement big data</p>
+<p begin="00:33:52.640" end="00:33:55.679" style="s2">now i remember looking at this and</p>
+<p begin="00:33:54.240" end="00:33:57.519" style="s2">saying well there&#39;s a lot of white space</p>
+<p begin="00:33:55.679" end="00:34:00.320" style="s2">on that</p>
+<p begin="00:33:57.519" end="00:34:01.360" style="s2">um big data actually increases meaning</p>
+<p begin="00:34:00.320" end="00:34:03.120" style="s2">as you get more and more</p>
+<p begin="00:34:01.360" end="00:34:05.600" style="s2">data so she&#39;s got that wrong it&#39;s not a</p>
+<p begin="00:34:03.120" end="00:34:07.120" style="s2">column yeah it will actually as you get</p>
+<p begin="00:34:05.600" end="00:34:09.040" style="s2">huge volumes</p>
+<p begin="00:34:07.120" end="00:34:10.639" style="s2">yeah you start to actually get to higher</p>
+<p begin="00:34:09.040" end="00:34:13.839" style="s2">levels of meaning</p>
+<p begin="00:34:10.639" end="00:34:15.599" style="s2">but thick data doesn&#39;t scale so the work</p>
+<p begin="00:34:13.839" end="00:34:17.760" style="s2">we focused on which i&#39;ll go through next</p>
+<p begin="00:34:15.599" end="00:34:20.480" style="s2">week and this is called sensemaker which</p>
+<p begin="00:34:17.760" end="00:34:22.399" style="s2">is a primarily sense making tool</p>
+<p begin="00:34:20.480" end="00:34:24.399" style="s2">is and this links in with the human</p>
+<p begin="00:34:22.399" end="00:34:26.960" style="s2">sensor networks</p>
+<p begin="00:34:24.399" end="00:34:29.520" style="s2">is by allowing people to self-interpret</p>
+<p begin="00:34:26.960" end="00:34:30.240" style="s2">their own experience on a continuous</p>
+<p begin="00:34:29.520" end="00:34:33.040" style="s2">basis</p>
+<p begin="00:34:30.240" end="00:34:34.960" style="s2">into a quantitative framework you can</p>
+<p begin="00:34:33.040" end="00:34:36.720" style="s2">get the benefits of scale</p>
+<p begin="00:34:34.960" end="00:34:38.639" style="s2">with the richness of human</p>
+<p begin="00:34:36.720" end="00:34:40.240" style="s2">interpretation</p>
+<p begin="00:34:38.639" end="00:34:41.599" style="s2">yeah now i&#39;m going to just spend a</p>
+<p begin="00:34:40.240" end="00:34:42.960" style="s2">couple more minutes on that because i</p>
+<p begin="00:34:41.599" end="00:34:44.320" style="s2">want this one to hang around in your</p>
+<p begin="00:34:42.960" end="00:34:46.960" style="s2">minds for a bit</p>
+<p begin="00:34:44.320" end="00:34:48.000" style="s2">i&#39;m ready for next week so what we&#39;re</p>
+<p begin="00:34:46.960" end="00:34:50.399" style="s2">seeking to do</p>
+<p begin="00:34:48.000" end="00:34:52.240" style="s2">is increase the human interpretation</p>
+<p begin="00:34:50.399" end="00:34:54.560" style="s2">within the system</p>
+<p begin="00:34:52.240" end="00:34:55.359" style="s2">now there are also defensive reasons for</p>
+<p begin="00:34:54.560" end="00:34:57.280" style="s2">that so</p>
+<p begin="00:34:55.359" end="00:34:58.560" style="s2">at the moment the internet particularly</p>
+<p begin="00:34:57.280" end="00:35:01.599" style="s2">social media</p>
+<p begin="00:34:58.560" end="00:35:03.200" style="s2">is an unbuffered feedback loop</p>
+<p begin="00:35:01.599" end="00:35:04.480" style="s2">right so if you look at what happens</p>
+<p begin="00:35:03.200" end="00:35:05.599" style="s2">particularly in the current political</p>
+<p begin="00:35:04.480" end="00:35:08.160" style="s2">climate</p>
+<p begin="00:35:05.599" end="00:35:10.800" style="s2">you&#39;ve got whole bot farms yeah you&#39;ve</p>
+<p begin="00:35:08.160" end="00:35:13.359" style="s2">got individual malicious actors</p>
+<p begin="00:35:10.800" end="00:35:14.400" style="s2">the system has no buffering in it and</p>
+<p begin="00:35:13.359" end="00:35:16.160" style="s2">any amber for</p>
+<p begin="00:35:14.400" end="00:35:17.920" style="s2">the feedback loop always leads to</p>
+<p begin="00:35:16.160" end="00:35:19.599" style="s2">perverse outcomes</p>
+<p begin="00:35:17.920" end="00:35:21.280" style="s2">you might remember computer training</p>
+<p begin="00:35:19.599" end="00:35:23.359" style="s2">algorithms um</p>
+<p begin="00:35:21.280" end="00:35:25.440" style="s2">computer trading algorithms which almost</p>
+<p begin="00:35:23.359" end="00:35:27.119" style="s2">destroyed the economy</p>
+<p begin="00:35:25.440" end="00:35:29.280" style="s2">you know because they went into an into</p>
+<p begin="00:35:27.119" end="00:35:31.920" style="s2">a into an unbuffered feedback loop</p>
+<p begin="00:35:29.280" end="00:35:32.560" style="s2">yeah there&#39;s no controls so what we&#39;re</p>
+<p begin="00:35:31.920" end="00:35:35.440" style="s2">doing</p>
+<p begin="00:35:32.560" end="00:35:36.160" style="s2">is to use citizens including school</p>
+<p begin="00:35:35.440" end="00:35:38.800" style="s2">children</p>
+<p begin="00:35:36.160" end="00:35:41.760" style="s2">activists ordinary citizens nurses</p>
+<p begin="00:35:38.800" end="00:35:44.640" style="s2">doctors people in their day-to-day roles</p>
+<p begin="00:35:41.760" end="00:35:45.280" style="s2">um effectively as self-ethnographers to</p>
+<p begin="00:35:44.640" end="00:35:48.560" style="s2">their own</p>
+<p begin="00:35:45.280" end="00:35:50.960" style="s2">day-to-day experiences and shift in the</p>
+<p begin="00:35:48.560" end="00:35:52.960" style="s2">power of interpretation from the expert</p>
+<p begin="00:35:50.960" end="00:35:54.800" style="s2">in the algorithm to the individual</p>
+<p begin="00:35:52.960" end="00:35:57.359" style="s2">responsible for the data</p>
+<p begin="00:35:54.800" end="00:35:58.720" style="s2">but in a quantitative way and i&#39;ll say</p>
+<p begin="00:35:57.359" end="00:36:02.240" style="s2">i&#39;ll talk about how we do this</p>
+<p begin="00:35:58.720" end="00:36:05.280" style="s2">next week but the principle is to get</p>
+<p begin="00:36:02.240" end="00:36:07.119" style="s2">very rich data and in real time to be</p>
+<p begin="00:36:05.280" end="00:36:08.320" style="s2">able to stimulate that network to give</p>
+<p begin="00:36:07.119" end="00:36:11.119" style="s2">feedback</p>
+<p begin="00:36:08.320" end="00:36:12.560" style="s2">for distributed decision support now</p>
+<p begin="00:36:11.119" end="00:36:15.440" style="s2">that is going to be the big</p>
+<p begin="00:36:12.560" end="00:36:16.320" style="s2">theme of next week is how do you</p>
+<p begin="00:36:15.440" end="00:36:19.920" style="s2">distribute</p>
+<p begin="00:36:16.320" end="00:36:20.800" style="s2">decision support because you need</p>
+<p begin="00:36:19.920" end="00:36:23.920" style="s2">cognitively</p>
+<p begin="00:36:20.800" end="00:36:27.280" style="s2">culturally educationally diverse groups</p>
+<p begin="00:36:23.920" end="00:36:30.160" style="s2">otherwise you&#39;ll miss 17 and it&#39;s</p>
+<p begin="00:36:27.280" end="00:36:31.599" style="s2">also linked in with the issue of power</p>
+<p begin="00:36:30.160" end="00:36:33.839" style="s2">because at the moment</p>
+<p begin="00:36:31.599" end="00:36:34.720" style="s2">um if you look at the way democracy</p>
+<p begin="00:36:33.839" end="00:36:36.880" style="s2">doesn&#39;t work</p>
+<p begin="00:36:34.720" end="00:36:38.480" style="s2">yeah it&#39;s the tyranny of the person with</p>
+<p begin="00:36:36.880" end="00:36:40.240" style="s2">the most money to create the most</p>
+<p begin="00:36:38.480" end="00:36:42.079" style="s2">algorithms to run the most adverts</p>
+<p begin="00:36:40.240" end="00:36:44.800" style="s2">people&#39;s ordinary wishes don&#39;t show</p>
+<p begin="00:36:42.079" end="00:36:46.720" style="s2">it through show through and you see this</p>
+<p begin="00:36:44.800" end="00:36:47.200" style="s2">also in consumer spending and everything</p>
+<p begin="00:36:46.720" end="00:36:50.240" style="s2">else</p>
+<p begin="00:36:47.200" end="00:36:53.839" style="s2">so this ability to understand</p>
+<p begin="00:36:50.240" end="00:36:56.880" style="s2">not just raw content but also how people</p>
+<p begin="00:36:53.839" end="00:36:58.400" style="s2">interpret that content becomes key all</p>
+<p begin="00:36:56.880" end="00:36:59.760" style="s2">right so that&#39;s</p>
+<p begin="00:36:58.400" end="00:37:01.680" style="s2">and i remember i was thinking about</p>
+<p begin="00:36:59.760" end="00:37:03.839" style="s2">trump when i wrote the blog post so i</p>
+<p begin="00:37:01.680" end="00:37:04.720" style="s2">wrote the blog post is called big thick</p>
+<p begin="00:37:03.839" end="00:37:07.680" style="s2">and rich</p>
+<p begin="00:37:04.720" end="00:37:08.000" style="s2">right so you can take it from there but</p>
+<p begin="00:37:07.680" end="00:37:09.920" style="s2">the</p>
+<p begin="00:37:08.000" end="00:37:12.000" style="s2">idea is all three types of data are</p>
+<p begin="00:37:09.920" end="00:37:13.680" style="s2">important but the rich data is probably</p>
+<p begin="00:37:12.000" end="00:37:15.680" style="s2">the most important because it&#39;s the most</p>
+<p begin="00:37:13.680" end="00:37:17.200" style="s2">responsive to change</p>
+<p begin="00:37:15.680" end="00:37:20.079" style="s2">and it&#39;s important to remember that</p>
+<p begin="00:37:17.200" end="00:37:22.480" style="s2">algorithms are entirely based on</p>
+<p begin="00:37:20.079" end="00:37:24.400" style="s2">training data sets</p>
+<p begin="00:37:22.480" end="00:37:25.680" style="s2">they cope with novelty less well in</p>
+<p begin="00:37:24.400" end="00:37:28.160" style="s2">humans</p>
+<p begin="00:37:25.680" end="00:37:29.760" style="s2">and ethnographers are entirely based on</p>
+<p begin="00:37:28.160" end="00:37:31.359" style="s2">which particular school they were</p>
+<p begin="00:37:29.760" end="00:37:34.400" style="s2">trained in</p>
+<p begin="00:37:31.359" end="00:37:36.720" style="s2">so neither is is free of three of</p>
+<p begin="00:37:34.400" end="00:37:38.480" style="s2">significant bias yeah you never get rid</p>
+<p begin="00:37:36.720" end="00:37:40.640" style="s2">of bias overall but you should try and</p>
+<p begin="00:37:38.480" end="00:37:42.800" style="s2">reduce significant bias</p>
+<p begin="00:37:40.640" end="00:37:43.680" style="s2">now what that is also going to give us</p>
+<p begin="00:37:42.800" end="00:37:45.920" style="s2">is a means of</p>
+<p begin="00:37:43.680" end="00:37:47.040" style="s2">triggering an alert when we reach an</p>
+<p begin="00:37:45.920" end="00:37:49.280" style="s2">accepted moment</p>
+<p begin="00:37:47.040" end="00:37:52.000" style="s2">and i&#39;m trading next week now that&#39;s</p>
+<p begin="00:37:49.280" end="00:37:53.760" style="s2">called an anticipatory trigger</p>
+<p begin="00:37:52.000" end="00:37:55.280" style="s2">because human beings are very good at</p>
+<p begin="00:37:53.760" end="00:37:57.839" style="s2">noticing an anomaly</p>
+<p begin="00:37:55.280" end="00:38:00.400" style="s2">if you tell them there is anomaly that</p>
+<p begin="00:37:57.839" end="00:38:02.240" style="s2">they&#39;re hopeless if you don&#39;t</p>
+<p begin="00:38:00.400" end="00:38:03.520" style="s2">so you may remember as kids all right</p>
+<p begin="00:38:02.240" end="00:38:06.240" style="s2">you&#39;ve got these pictures of</p>
+<p begin="00:38:03.520" end="00:38:08.160" style="s2">line drawings of a park and the question</p>
+<p begin="00:38:06.240" end="00:38:10.000" style="s2">would be how many kitchen utensils are</p>
+<p begin="00:38:08.160" end="00:38:11.520" style="s2">hidden in the park</p>
+<p begin="00:38:10.000" end="00:38:13.119" style="s2">and because you knew there was something</p>
+<p begin="00:38:11.520" end="00:38:14.720" style="s2">hidden in the park you could see them</p>
+<p begin="00:38:13.119" end="00:38:18.599" style="s2">and spot them but if you weren&#39;t told</p>
+<p begin="00:38:14.720" end="00:38:20.800" style="s2">you would never see them so</p>
+<p begin="00:38:18.599" end="00:38:23.520" style="s2">anticipatory triggers are designed to</p>
+<p begin="00:38:20.800" end="00:38:25.839" style="s2">bring human beings to pay attention</p>
+<p begin="00:38:23.520" end="00:38:27.359" style="s2">to weak signals before they become</p>
+<p begin="00:38:25.839" end="00:38:29.599" style="s2">dominant circles</p>
+<p begin="00:38:27.359" end="00:38:31.599" style="s2">so they can recognize those shifts</p>
+<p begin="00:38:29.599" end="00:38:33.520" style="s2">within the apex curves</p>
+<p begin="00:38:31.599" end="00:38:34.720" style="s2">or you know more simple things like</p>
+<p begin="00:38:33.520" end="00:38:38.240" style="s2">competitive or</p>
+<p begin="00:38:34.720" end="00:38:39.760" style="s2">industrial threat or whatever so that&#39;s</p>
+<p begin="00:38:38.240" end="00:38:42.320" style="s2">high level</p>
+<p begin="00:38:39.760" end="00:38:44.400" style="s2">yeah and as i say this framework sort of</p>
+<p begin="00:38:42.320" end="00:38:46.960" style="s2">sits alongside kinevin</p>
+<p begin="00:38:44.400" end="00:38:48.560" style="s2">and the stuff i&#39;m introducing now on big</p>
+<p begin="00:38:46.960" end="00:38:51.040" style="s2">thick on the rich data</p>
+<p begin="00:38:48.560" end="00:38:52.240" style="s2">is kind of like the third um leg of the</p>
+<p begin="00:38:51.040" end="00:38:53.839" style="s2">stool</p>
+<p begin="00:38:52.240" end="00:38:55.520" style="s2">you know can navin is a primary</p>
+<p begin="00:38:53.839" end="00:38:57.839" style="s2">sense-making framework</p>
+<p begin="00:38:55.520" end="00:38:59.680" style="s2">apex predator theory as a means of</p>
+<p begin="00:38:57.839" end="00:39:01.760" style="s2">determining where you are</p>
+<p begin="00:38:59.680" end="00:39:03.599" style="s2">and the whole issue of distributed</p>
+<p begin="00:39:01.760" end="00:39:06.560" style="s2">narrative sense making</p>
+<p begin="00:39:03.599" end="00:39:08.000" style="s2">um as a new method of research insight</p>
+<p begin="00:39:06.560" end="00:39:10.079" style="s2">and decision support</p>
+<p begin="00:39:08.000" end="00:39:11.760" style="s2">so those are the three things i&#39;ll cover</p>
+<p begin="00:39:10.079" end="00:39:13.760" style="s2">over the time</p>
+<p begin="00:39:11.760" end="00:39:15.040" style="s2">and i&#39;ve taken my 40 minutes i think yes</p>
+<p begin="00:39:13.760" end="00:39:18.560" style="s2">i have so</p>
+<p begin="00:39:15.040" end="00:39:19.280" style="s2">open to questions thanks dave that was</p>
+<p begin="00:39:18.560" end="00:39:21.280" style="s2">great</p>
+<p begin="00:39:19.280" end="00:39:23.119" style="s2">um personally i&#39;m really excited for</p>
+<p begin="00:39:21.280" end="00:39:25.119" style="s2">next week i was</p>
+<p begin="00:39:23.119" end="00:39:27.200" style="s2">excited about this topic from day one so</p>
+<p begin="00:39:25.119" end="00:39:31.040" style="s2">i&#39;m really looking forward to next week</p>
+<p begin="00:39:27.200" end="00:39:32.720" style="s2">um so we have a couple questions</p>
+<p begin="00:39:31.040" end="00:39:35.760" style="s2">maybe i&#39;ll give someone a chance to ask</p>
+<p begin="00:39:32.720" end="00:39:38.320" style="s2">before i do um</p>
+<p begin="00:39:35.760" end="00:39:39.680" style="s2">so first we have i&#39;m not sure if i&#39;m</p>
+<p begin="00:39:38.320" end="00:39:42.480" style="s2">pronouncing this correctly but</p>
+<p begin="00:39:39.680" end="00:39:43.280" style="s2">titia ttf you have a question you&#39;d like</p>
+<p begin="00:39:42.480" end="00:39:46.880" style="s2">to ask</p>
+<p begin="00:39:43.280" end="00:39:48.800" style="s2">do you uh yes yes it&#39;s here so</p>
+<p begin="00:39:46.880" end="00:39:51.280" style="s2">you pronounce it all right so my</p>
+<p begin="00:39:48.800" end="00:39:53.440" style="s2">question is um on these two curves</p>
+<p begin="00:39:51.280" end="00:39:55.440" style="s2">between this acceptive point and</p>
+<p begin="00:39:53.440" end="00:39:56.720" style="s2">competitive competence induced failure</p>
+<p begin="00:39:55.440" end="00:39:59.520" style="s2">is that also</p>
+<p begin="00:39:56.720" end="00:40:00.960" style="s2">the point where you see companies</p>
+<p begin="00:39:59.520" end="00:40:04.400" style="s2">annexing or buying</p>
+<p begin="00:40:00.960" end="00:40:04.400" style="s2">that novel player</p>
+<p begin="00:40:06.960" end="00:40:10.880" style="s2">yeah i think and that&#39;s one strategy but</p>
+<p begin="00:40:08.960" end="00:40:13.839" style="s2">it only works for so long</p>
+<p begin="00:40:10.880" end="00:40:15.839" style="s2">and that&#39;s if they see it um you</p>
+<p begin="00:40:13.839" end="00:40:17.200" style="s2">generally find they often buy too late i</p>
+<p begin="00:40:15.839" end="00:40:19.119" style="s2">mean it&#39;s been quite interesting and</p>
+<p begin="00:40:17.200" end="00:40:20.960" style="s2">agile the big six have been buying up</p>
+<p begin="00:40:19.119" end="00:40:23.040" style="s2">agile companies</p>
+<p begin="00:40:20.960" end="00:40:24.480" style="s2">at ridiculous p e ratios they&#39;re</p>
+<p begin="00:40:23.040" end="00:40:26.400" style="s2">actually not buying the company they&#39;re</p>
+<p begin="00:40:24.480" end="00:40:28.640" style="s2">buying the brand</p>
+<p begin="00:40:26.400" end="00:40:30.640" style="s2">and those prices are longer on offer so</p>
+<p begin="00:40:28.640" end="00:40:32.079" style="s2">people have got more sophisticated about</p>
+<p begin="00:40:30.640" end="00:40:35.119" style="s2">recovery strategies</p>
+<p begin="00:40:32.079" end="00:40:38.160" style="s2">yeah if you&#39;ve got a lot of cash</p>
+<p begin="00:40:35.119" end="00:40:40.160" style="s2">um but generally towards the right hand</p>
+<p begin="00:40:38.160" end="00:40:40.800" style="s2">side of that yellow space people start</p>
+<p begin="00:40:40.160" end="00:40:43.920" style="s2">to realize</p>
+<p begin="00:40:40.800" end="00:40:45.760" style="s2">it&#39;s not working and they panic the</p>
+<p begin="00:40:43.920" end="00:40:53.440" style="s2">sooner you realize you&#39;re at that moment</p>
+<p begin="00:40:45.760" end="00:40:57.599" style="s2">the less panic you have to do</p>
+<p begin="00:40:53.440" end="00:41:00.960" style="s2">um okay and next we have tony</p>
+<p begin="00:40:57.599" end="00:41:00.960" style="s2">tony of question you like to ask</p>
+<p begin="00:41:01.440" end="00:41:04.800" style="s2">well it really wasn&#39;t a question</p>
+<p begin="00:41:03.599" end="00:41:07.119" style="s2">necessarily</p>
+<p begin="00:41:04.800" end="00:41:09.040" style="s2">but it was a the the comment was uh the</p>
+<p begin="00:41:07.119" end="00:41:11.440" style="s2">work that you did with uh dave&#39;s</p>
+<p begin="00:41:09.040" end="00:41:14.079" style="s2">uh excuse me went up uh with uh</p>
+<p begin="00:41:11.440" end="00:41:16.480" style="s2">poindexter about disintermediation of</p>
+<p begin="00:41:14.079" end="00:41:18.720" style="s2">of raw data that&#39;s sort of what got us</p>
+<p begin="00:41:16.480" end="00:41:20.960" style="s2">into the iraq war</p>
+<p begin="00:41:18.720" end="00:41:22.800" style="s2">because cheney the vice president at the</p>
+<p begin="00:41:20.960" end="00:41:25.119" style="s2">time loved to look at the raw</p>
+<p begin="00:41:22.800" end="00:41:26.880" style="s2">intelligence reports and and draw his</p>
+<p begin="00:41:25.119" end="00:41:27.839" style="s2">own conclusions which may or may not</p>
+<p begin="00:41:26.880" end="00:41:30.720" style="s2">have been</p>
+<p begin="00:41:27.839" end="00:41:32.800" style="s2">informed by any kind of context or the</p>
+<p begin="00:41:30.720" end="00:41:36.480" style="s2">context that he wanted to read into them</p>
+<p begin="00:41:32.800" end="00:41:38.880" style="s2">that was my only comment yeah i mean</p>
+<p begin="00:41:36.480" end="00:41:41.280" style="s2">and i was around at that time all right</p>
+<p begin="00:41:38.880" end="00:41:43.040" style="s2">um spent all my time in dc the fact is</p>
+<p begin="00:41:41.280" end="00:41:44.800" style="s2">that one agent can&#39;t read all the</p>
+<p begin="00:41:43.040" end="00:41:46.800" style="s2">reports that&#39;s the danger</p>
+<p begin="00:41:44.800" end="00:41:48.400" style="s2">so what actually happened is you read</p>
+<p begin="00:41:46.800" end="00:41:50.079" style="s2">the ones which match what you want to</p>
+<p begin="00:41:48.400" end="00:41:51.520" style="s2">hear</p>
+<p begin="00:41:50.079" end="00:41:53.440" style="s2">so poindexter could have done that</p>
+<p begin="00:41:51.520" end="00:41:54.720" style="s2">anytime what he wanted is something</p>
+<p begin="00:41:53.440" end="00:41:57.040" style="s2">which visualized</p>
+<p begin="00:41:54.720" end="00:41:58.720" style="s2">all of the available intelligence so he</p>
+<p begin="00:41:57.040" end="00:42:00.640" style="s2">could see patterns</p>
+<p begin="00:41:58.720" end="00:42:02.400" style="s2">and that would focus him on reading</p>
+<p begin="00:42:00.640" end="00:42:04.000" style="s2">things he needed to read and that&#39;s a</p>
+<p begin="00:42:02.400" end="00:42:07.760" style="s2">radical difference</p>
+<p begin="00:42:04.000" end="00:42:07.760" style="s2">yeah and that was what we did</p>
+<p begin="00:42:10.880" end="00:42:14.880" style="s2">i did have an entertaining time in the</p>
+<p begin="00:42:12.720" end="00:42:16.480" style="s2">pentagon by quoting roman</p>
+<p begin="00:42:14.880" end="00:42:18.400" style="s2">doctrine on military doctrine on</p>
+<p begin="00:42:16.480" end="00:42:20.960" style="s2">invading syria</p>
+<p begin="00:42:18.400" end="00:42:22.640" style="s2">um the romans had it worked out they</p>
+<p begin="00:42:20.960" end="00:42:24.079" style="s2">said if you have a rebellion in</p>
+<p begin="00:42:22.640" end="00:42:25.680" style="s2">in the parthians all right which is the</p>
+<p begin="00:42:24.079" end="00:42:27.440" style="s2">same area</p>
+<p begin="00:42:25.680" end="00:42:29.119" style="s2">um because they were fighting iraq then</p>
+<p begin="00:42:27.440" end="00:42:31.359" style="s2">as well you know move in with</p>
+<p begin="00:42:29.119" end="00:42:32.720" style="s2">overwhelming flaws and wait outside the</p>
+<p begin="00:42:31.359" end="00:42:35.599" style="s2">capital city</p>
+<p begin="00:42:32.720" end="00:42:37.440" style="s2">and let the factions fight each out each</p>
+<p begin="00:42:35.599" end="00:42:39.200" style="s2">it out and then move in and support the</p>
+<p begin="00:42:37.440" end="00:42:40.960" style="s2">winning faction</p>
+<p begin="00:42:39.200" end="00:42:42.720" style="s2">if you move in and conquer the city all</p>
+<p begin="00:42:40.960" end="00:42:44.240" style="s2">the factions will unite against you and</p>
+<p begin="00:42:42.720" end="00:42:45.839" style="s2">you won&#39;t achieve your results and i</p>
+<p begin="00:42:44.240" end="00:42:49.040" style="s2">remember saying that and i still stand</p>
+<p begin="00:42:45.839" end="00:42:49.040" style="s2">by that as advice</p>
+<p begin="00:42:49.920" end="00:42:54.800" style="s2">that&#39;s sort of like when the english</p>
+<p begin="00:42:51.520" end="00:42:57.119" style="s2">show up you&#39;re welch</p>
+<p begin="00:42:54.800" end="00:42:58.240" style="s2">yeah and i mean the english i mean they</p>
+<p begin="00:42:57.119" end="00:43:00.079" style="s2">practiced on the welsh</p>
+<p begin="00:42:58.240" end="00:43:01.760" style="s2">every time they invaded us they had more</p>
+<p begin="00:43:00.079" end="00:43:03.040" style="s2">welsh troops fighting for them than</p>
+<p begin="00:43:01.760" end="00:43:05.760" style="s2">english troops</p>
+<p begin="00:43:03.040" end="00:43:08.240" style="s2">and that&#39;s how they conquered india they</p>
+<p begin="00:43:05.760" end="00:43:09.760" style="s2">did it by exploiting local differences</p>
+<p begin="00:43:08.240" end="00:43:11.040" style="s2">in the people they were conquering it</p>
+<p begin="00:43:09.760" end="00:43:12.960" style="s2">was and it was a very successful</p>
+<p begin="00:43:11.040" end="00:43:14.560" style="s2">strategy</p>
+<p begin="00:43:12.960" end="00:43:17.760" style="s2">yet you guys wanted to make everybody</p>
+<p begin="00:43:14.560" end="00:43:17.760" style="s2">american that never works</p>
+<p begin="00:43:22.160" end="00:43:26.640" style="s2">okay great um i have a question with a</p>
+<p begin="00:43:25.200" end="00:43:29.839" style="s2">couple plus ones</p>
+<p begin="00:43:26.640" end="00:43:33.040" style="s2">um it was an anonymous question</p>
+<p begin="00:43:29.839" end="00:43:34.880" style="s2">i will ask it for the person um if the</p>
+<p begin="00:43:33.040" end="00:43:37.920" style="s2">ecosystem</p>
+<p begin="00:43:34.880" end="00:43:40.000" style="s2">shifts towards an experienced economy</p>
+<p begin="00:43:37.920" end="00:43:42.880" style="s2">what do the apex predator and keystone</p>
+<p begin="00:43:40.000" end="00:43:45.119" style="s2">species look like</p>
+<p begin="00:43:42.880" end="00:43:46.880" style="s2">did you understand the question i think</p>
+<p begin="00:43:45.119" end="00:43:48.400" style="s2">that&#39;s interesting</p>
+<p begin="00:43:46.880" end="00:43:49.839" style="s2">i mean it&#39;s part of the problem we</p>
+<p begin="00:43:48.400" end="00:43:51.440" style="s2">addressed in the early days of knowledge</p>
+<p begin="00:43:49.839" end="00:43:53.760" style="s2">management</p>
+<p begin="00:43:51.440" end="00:43:55.119" style="s2">where companies were starting to hire in</p>
+<p begin="00:43:53.760" end="00:43:58.319" style="s2">people</p>
+<p begin="00:43:55.119" end="00:43:59.760" style="s2">so the idea then was you no longer have</p>
+<p begin="00:43:58.319" end="00:44:01.760" style="s2">lifetime employment</p>
+<p begin="00:43:59.760" end="00:44:03.440" style="s2">you&#39;re expected to move on every two to</p>
+<p begin="00:44:01.760" end="00:44:05.280" style="s2">three years</p>
+<p begin="00:44:03.440" end="00:44:07.440" style="s2">um and then it was held this would be a</p>
+<p begin="00:44:05.280" end="00:44:10.079" style="s2">benefit to you the reality it meant</p>
+<p begin="00:44:07.440" end="00:44:10.480" style="s2">that you just rented your knowledge you</p>
+<p begin="00:44:10.079" end="00:44:12.240" style="s2">only</p>
+<p begin="00:44:10.480" end="00:44:13.680" style="s2">contributed what you really needed to</p>
+<p begin="00:44:12.240" end="00:44:15.760" style="s2">contribute</p>
+<p begin="00:44:13.680" end="00:44:17.599" style="s2">and for me a lot of the experienced</p>
+<p begin="00:44:15.760" end="00:44:20.319" style="s2">economy is no different from the get a</p>
+<p begin="00:44:17.599" end="00:44:20.319" style="s2">gig economy</p>
+<p begin="00:44:20.720" end="00:44:24.000" style="s2">because the danger is you have to</p>
+<p begin="00:44:22.640" end="00:44:26.720" style="s2">actually i mean</p>
+<p begin="00:44:24.000" end="00:44:28.480" style="s2">it&#39;s a it&#39;s it&#39;s the issue about what</p>
+<p begin="00:44:26.720" end="00:44:28.960" style="s2">people will do for you are you paying</p>
+<p begin="00:44:28.480" end="00:44:31.040" style="s2">them to</p>
+<p begin="00:44:28.960" end="00:44:32.160" style="s2">do something yeah which you know you</p>
+<p begin="00:44:31.040" end="00:44:34.560" style="s2">want</p>
+<p begin="00:44:32.160" end="00:44:36.400" style="s2">or are they part of your inner ecosystem</p>
+<p begin="00:44:34.560" end="00:44:39.920" style="s2">and they&#39;re part of generating novelty</p>
+<p begin="00:44:36.400" end="00:44:42.240" style="s2">and new ideas you didn&#39;t know you needed</p>
+<p begin="00:44:39.920" end="00:44:44.000" style="s2">and also the nature of experience is</p>
+<p begin="00:44:42.240" end="00:44:45.440" style="s2">also critical to understand</p>
+<p begin="00:44:44.000" end="00:44:47.119" style="s2">so for example there&#39;s a whole body of</p>
+<p begin="00:44:45.440" end="00:44:48.880" style="s2">human knowledge</p>
+<p begin="00:44:47.119" end="00:44:50.160" style="s2">um which takes two to three years</p>
+<p begin="00:44:48.880" end="00:44:52.800" style="s2">minimum to acquire</p>
+<p begin="00:44:50.160" end="00:44:54.079" style="s2">you can&#39;t just learn it yeah it&#39;s it&#39;s</p>
+<p begin="00:44:52.800" end="00:44:55.599" style="s2">knowledge in your fingertips or</p>
+<p begin="00:44:54.079" end="00:44:57.280" style="s2">heuristics</p>
+<p begin="00:44:55.599" end="00:44:59.280" style="s2">so i think there&#39;s a lot been talked</p>
+<p begin="00:44:57.280" end="00:44:59.839" style="s2">about here and people aren&#39;t going back</p>
+<p begin="00:44:59.280" end="00:45:01.599" style="s2">and remember</p>
+<p begin="00:44:59.839" end="00:45:03.200" style="s2">some of the similar mistakes i think the</p>
+<p begin="00:45:01.599" end="00:45:05.599" style="s2">real thing</p>
+<p begin="00:45:03.200" end="00:45:06.960" style="s2">on the economy is is not using</p>
+<p begin="00:45:05.599" end="00:45:09.920" style="s2">experience</p>
+<p begin="00:45:06.960" end="00:45:10.880" style="s2">as mediation instead of money or skills</p>
+<p begin="00:45:09.920" end="00:45:12.640" style="s2">or whatever</p>
+<p begin="00:45:10.880" end="00:45:13.920" style="s2">the real issue and the one thing i&#39;m</p>
+<p begin="00:45:12.640" end="00:45:16.960" style="s2">interested in the moment is</p>
+<p begin="00:45:13.920" end="00:45:18.880" style="s2">is how gifting works because i</p>
+<p begin="00:45:16.960" end="00:45:21.839" style="s2">did a lot of work on this in aboriginal</p>
+<p begin="00:45:18.880" end="00:45:24.000" style="s2">communities in australia back in the 70s</p>
+<p begin="00:45:21.839" end="00:45:25.520" style="s2">uh gifting in indigenous communities is</p>
+<p begin="00:45:24.000" end="00:45:29.280" style="s2">an entry fee it&#39;s not</p>
+<p begin="00:45:25.520" end="00:45:31.040" style="s2">an exchange so if you gift your part</p>
+<p begin="00:45:29.280" end="00:45:32.319" style="s2">to the community the community looks</p>
+<p begin="00:45:31.040" end="00:45:33.760" style="s2">after you if you don&#39;t gift you&#39;re</p>
+<p begin="00:45:32.319" end="00:45:35.680" style="s2">excluded</p>
+<p begin="00:45:33.760" end="00:45:36.800" style="s2">and the gift isn&#39;t as i say an equal</p>
+<p begin="00:45:35.680" end="00:45:39.200" style="s2">exchange</p>
+<p begin="00:45:36.800" end="00:45:40.480" style="s2">now there&#39;s absolutely no reason why we</p>
+<p begin="00:45:39.200" end="00:45:42.640" style="s2">shouldn&#39;t give free at the point of</p>
+<p begin="00:45:40.480" end="00:45:44.800" style="s2">entry health care education and social</p>
+<p begin="00:45:42.640" end="00:45:46.720" style="s2">services everywhere in the world</p>
+<p begin="00:45:44.800" end="00:45:48.880" style="s2">it&#39;s just we choose not to we ration it</p>
+<p begin="00:45:46.720" end="00:45:50.800" style="s2">with money</p>
+<p begin="00:45:48.880" end="00:45:52.960" style="s2">indigenous communities don&#39;t ration</p>
+<p begin="00:45:50.800" end="00:45:54.960" style="s2">things with with a means of exchange</p>
+<p begin="00:45:52.960" end="00:45:56.480" style="s2">they have a gifting culture</p>
+<p begin="00:45:54.960" end="00:45:58.800" style="s2">and to me i think that&#39;s one of the</p>
+<p begin="00:45:56.480" end="00:46:00.800" style="s2">areas we&#39;ve got to start to look at</p>
+<p begin="00:45:58.800" end="00:46:01.839" style="s2">right in terms of the next generation</p>
+<p begin="00:46:00.800" end="00:46:03.599" style="s2">economy</p>
+<p begin="00:46:01.839" end="00:46:05.119" style="s2">and i think covered is driving that</p>
+<p begin="00:46:03.599" end="00:46:06.560" style="s2">faster because the</p>
+<p begin="00:46:05.119" end="00:46:08.480" style="s2">breakdown in traditional economic</p>
+<p begin="00:46:06.560" end="00:46:11.200" style="s2">discipline the increasing dependency of</p>
+<p begin="00:46:08.480" end="00:46:12.640" style="s2">local communities on support</p>
+<p begin="00:46:11.200" end="00:46:14.720" style="s2">we&#39;re starting to see some of those</p>
+<p begin="00:46:12.640" end="00:46:17.040" style="s2">changes i mean neoliberalism</p>
+<p begin="00:46:14.720" end="00:46:18.720" style="s2">was a bad idea in the first place and</p>
+<p begin="00:46:17.040" end="00:46:21.040" style="s2">thank god he&#39;s dead but i really don&#39;t</p>
+<p begin="00:46:18.720" end="00:46:22.800" style="s2">want it to be replaced with fascism</p>
+<p begin="00:46:21.040" end="00:46:24.960" style="s2">which still seems like the most likely</p>
+<p begin="00:46:22.800" end="00:46:27.040" style="s2">alternative at the moment</p>
+<p begin="00:46:24.960" end="00:46:28.640" style="s2">so i think we need to start to look at</p>
+<p begin="00:46:27.040" end="00:46:30.240" style="s2">look at these sort of different things</p>
+<p begin="00:46:28.640" end="00:46:32.240" style="s2">and we also need to think about the</p>
+<p begin="00:46:30.240" end="00:46:33.760" style="s2">competence because</p>
+<p begin="00:46:32.240" end="00:46:35.200" style="s2">i mean one of the sentence making</p>
+<p begin="00:46:33.760" end="00:46:36.160" style="s2">frameworks i created i&#39;ve only gone</p>
+<p begin="00:46:35.200" end="00:46:38.640" style="s2">through a few of them</p>
+<p begin="00:46:36.160" end="00:46:40.000" style="s2">in in four or four lectures all right</p>
+<p begin="00:46:38.640" end="00:46:41.839" style="s2">it&#39;s called ashen</p>
+<p begin="00:46:40.000" end="00:46:44.160" style="s2">which starts it stands for artifact</p>
+<p begin="00:46:41.839" end="00:46:45.280" style="s2">skills heuristics experience and natural</p>
+<p begin="00:46:44.160" end="00:46:46.960" style="s2">talent</p>
+<p begin="00:46:45.280" end="00:46:49.520" style="s2">and it&#39;s a mechanism for knowledge</p>
+<p begin="00:46:46.960" end="00:46:50.880" style="s2">mapping so when somebody makes a</p>
+<p begin="00:46:49.520" end="00:46:53.200" style="s2">decision</p>
+<p begin="00:46:50.880" end="00:46:55.040" style="s2">you say you cluster those decisions and</p>
+<p begin="00:46:53.200" end="00:46:56.880" style="s2">you say when you made that decision what</p>
+<p begin="00:46:55.040" end="00:46:59.599" style="s2">artifacts did you use</p>
+<p begin="00:46:56.880" end="00:47:00.160" style="s2">you know artifacts comes from artists in</p>
+<p begin="00:46:59.599" end="00:47:02.960" style="s2">fact though</p>
+<p begin="00:47:00.160" end="00:47:04.560" style="s2">something man-made yeah what skills were</p>
+<p begin="00:47:02.960" end="00:47:06.000" style="s2">necessary and a skill is something you</p>
+<p begin="00:47:04.560" end="00:47:06.720" style="s2">can train somebody to do and know</p>
+<p begin="00:47:06.000" end="00:47:09.520" style="s2">whether they&#39;ve got</p>
+<p begin="00:47:06.720" end="00:47:10.000" style="s2">it or not yeah what heuristics are</p>
+<p begin="00:47:09.520" end="00:47:12.000" style="s2">present</p>
+<p begin="00:47:10.000" end="00:47:13.200" style="s2">because heuristics are a key method by</p>
+<p begin="00:47:12.000" end="00:47:15.760" style="s2">which experts</p>
+<p begin="00:47:13.200" end="00:47:17.200" style="s2">make decisions what experience is</p>
+<p begin="00:47:15.760" end="00:47:20.480" style="s2">necessary and what</p>
+<p begin="00:47:17.200" end="00:47:22.400" style="s2">natural talent is there yeah and what we</p>
+<p begin="00:47:20.480" end="00:47:24.000" style="s2">basically argue with that is all five of</p>
+<p begin="00:47:22.400" end="00:47:26.720" style="s2">those things come into play in different</p>
+<p begin="00:47:24.000" end="00:47:28.800" style="s2">balances in different contexts</p>
+<p begin="00:47:26.720" end="00:47:30.960" style="s2">so the danger is you start to say we&#39;re</p>
+<p begin="00:47:28.800" end="00:47:34.079" style="s2">not in this economy we&#39;re not in economy</p>
+<p begin="00:47:30.960" end="00:47:36.000" style="s2">x we&#39;re in economy why</p>
+<p begin="00:47:34.079" end="00:47:37.280" style="s2">yeah you know it&#39;s like bpr we&#39;re no</p>
+<p begin="00:47:36.000" end="00:47:39.440" style="s2">longer vertically focused for</p>
+<p begin="00:47:37.280" end="00:47:40.319" style="s2">horizontally focused you these constant</p>
+<p begin="00:47:39.440" end="00:47:42.480" style="s2">switches</p>
+<p begin="00:47:40.319" end="00:47:43.599" style="s2">from one thing to another and don&#39;t</p>
+<p begin="00:47:42.480" end="00:47:45.200" style="s2">realize that all</p>
+<p begin="00:47:43.599" end="00:47:46.559" style="s2">all things have validity within</p>
+<p begin="00:47:45.200" end="00:47:48.000" style="s2">different contexts within different</p>
+<p begin="00:47:46.559" end="00:47:50.319" style="s2">boundaries</p>
+<p begin="00:47:48.000" end="00:47:51.440" style="s2">yeah so it&#39;s this desire to always</p>
+<p begin="00:47:50.319" end="00:47:53.280" style="s2">create the new thing and</p>
+<p begin="00:47:51.440" end="00:47:54.800" style="s2">you see it a lot now i get really angry</p>
+<p begin="00:47:53.280" end="00:47:56.319" style="s2">with it on social media don&#39;t get angry</p>
+<p begin="00:47:54.800" end="00:47:58.800" style="s2">i just get irritated and that&#39;s</p>
+<p begin="00:47:56.319" end="00:48:00.880" style="s2">always dangerous right yeah somebody</p>
+<p begin="00:47:58.800" end="00:48:02.960" style="s2">puts up two columns and on the left are</p>
+<p begin="00:48:00.880" end="00:48:03.680" style="s2">terrible evil things and on the right to</p>
+<p begin="00:48:02.960" end="00:48:05.040" style="s2">terrible</p>
+<p begin="00:48:03.680" end="00:48:07.520" style="s2">you know things that i&#39;m selling which</p>
+<p begin="00:48:05.040" end="00:48:08.960" style="s2">by definition are not evil</p>
+<p begin="00:48:07.520" end="00:48:10.559" style="s2">and i always look at them and i want to</p>
+<p begin="00:48:08.960" end="00:48:12.240" style="s2">draw you know kind of like well actually</p>
+<p begin="00:48:10.559" end="00:48:13.680" style="s2">most of the stuff on the left</p>
+<p begin="00:48:12.240" end="00:48:15.359" style="s2">there&#39;s nothing wrong with it in some</p>
+<p begin="00:48:13.680" end="00:48:16.559" style="s2">contexts you know</p>
+<p begin="00:48:15.359" end="00:48:18.559" style="s2">and a lot of the stuff on the right</p>
+<p begin="00:48:16.559" end="00:48:20.480" style="s2">would be a bad idea so</p>
+<p begin="00:48:18.559" end="00:48:22.480" style="s2">we need to get much more sophisticated</p>
+<p begin="00:48:20.480" end="00:48:24.720" style="s2">about the way we talk about this</p>
+<p begin="00:48:22.480" end="00:48:26.640" style="s2">and we also need to create economies</p>
+<p begin="00:48:24.720" end="00:48:29.200" style="s2">which are not dependent on skills or</p>
+<p begin="00:48:26.640" end="00:48:29.200" style="s2">experience</p>
+<p begin="00:48:29.280" end="00:48:32.800" style="s2">if you want to have a civilization</p>
+<p begin="00:48:31.040" end="00:48:36.480" style="s2">you&#39;ve got to have jobs for people</p>
+<p begin="00:48:32.800" end="00:48:36.480" style="s2">who don&#39;t have skills and experience</p>
+<p begin="00:48:37.280" end="00:48:40.800" style="s2">yeah and then people just start thinking</p>
+<p begin="00:48:38.559" end="00:48:42.000" style="s2">about that i mean it&#39;s quite</p>
+<p begin="00:48:40.800" end="00:48:44.079" style="s2">i mean i don&#39;t know where it&#39;s still the</p>
+<p begin="00:48:42.000" end="00:48:45.119" style="s2">case i always used to like driving from</p>
+<p begin="00:48:44.079" end="00:48:49.200" style="s2">um</p>
+<p begin="00:48:45.119" end="00:48:51.280" style="s2">washington state down to portland</p>
+<p begin="00:48:49.200" end="00:48:54.160" style="s2">um because i didn&#39;t have to fill up the</p>
+<p begin="00:48:51.280" end="00:48:56.079" style="s2">gas anymore</p>
+<p begin="00:48:54.160" end="00:48:57.599" style="s2">because you&#39;re not allowed to get out</p>
+<p begin="00:48:56.079" end="00:48:59.200" style="s2">the car and fill out the gas they do it</p>
+<p begin="00:48:57.599" end="00:49:00.000" style="s2">for you so they&#39;ve got effectively an</p>
+<p begin="00:48:59.200" end="00:49:01.520" style="s2">employment</p>
+<p begin="00:49:00.000" end="00:49:04.960" style="s2">tax you know there&#39;s people who have to</p>
+<p begin="00:49:01.520" end="00:49:04.960" style="s2">be employed to fill up your tank</p>
+<p begin="00:49:05.280" end="00:49:09.040" style="s2">right and and i&#39;m not saying that should</p>
+<p begin="00:49:07.280" end="00:49:10.240" style="s2">be universal but they&#39;re not just</p>
+<p begin="00:49:09.040" end="00:49:12.400" style="s2">letting in automation</p>
+<p begin="00:49:10.240" end="00:49:13.920" style="s2">can replace all the jobs for people</p>
+<p begin="00:49:12.400" end="00:49:15.680" style="s2">because then you get a terrible</p>
+<p begin="00:49:13.920" end="00:49:16.960" style="s2">underclass and you don&#39;t have to read</p>
+<p begin="00:49:15.680" end="00:49:20.319" style="s2">much science fiction you know the</p>
+<p begin="00:49:16.960" end="00:49:20.319" style="s2">consequences of that density</p>
+<p begin="00:49:23.839" end="00:49:27.280" style="s2">but i think that&#39;s a really good segue</p>
+<p begin="00:49:26.400" end="00:49:30.480" style="s2">into the</p>
+<p begin="00:49:27.280" end="00:49:31.440" style="s2">other question dave are you familiar</p>
+<p begin="00:49:30.480" end="00:49:35.119" style="s2">with the game</p>
+<p begin="00:49:31.440" end="00:49:35.119" style="s2">b space kmb</p>
+<p begin="00:49:35.200" end="00:49:39.680" style="s2">now i&#39;m not a game player and i think it</p>
+<p begin="00:49:37.599" end="00:49:40.960" style="s2">all it all got too difficult after space</p>
+<p begin="00:49:39.680" end="00:49:44.640" style="s2">invaders to be honest</p>
+<p begin="00:49:40.960" end="00:49:47.920" style="s2">you know okay okay um</p>
+<p begin="00:49:44.640" end="00:49:48.880" style="s2">maybe maybe i&#39;ll i&#39;ll see so i will make</p>
+<p begin="00:49:47.920" end="00:49:50.880" style="s2">a general comment</p>
+<p begin="00:49:48.880" end="00:49:52.000" style="s2">though i mean we&#39;ve seen this in a lot</p>
+<p begin="00:49:50.880" end="00:49:52.960" style="s2">of our work</p>
+<p begin="00:49:52.000" end="00:49:55.359" style="s2">and we&#39;ve seen it in some of the</p>
+<p begin="00:49:52.960" end="00:49:57.680" style="s2">military game players</p>
+<p begin="00:49:55.359" end="00:49:59.520" style="s2">yeah most games involve understanding</p>
+<p begin="00:49:57.680" end="00:50:02.960" style="s2">the rules</p>
+<p begin="00:49:59.520" end="00:50:02.960" style="s2">and life isn&#39;t like that</p>
+<p begin="00:50:03.040" end="00:50:06.960" style="s2">so you need to be very careful on it i</p>
+<p begin="00:50:04.960" end="00:50:10.400" style="s2">mean we we have a game system we use</p>
+<p begin="00:50:06.960" end="00:50:12.000" style="s2">called answer simulation which is set up</p>
+<p begin="00:50:10.400" end="00:50:14.720" style="s2">so that people can&#39;t succeed</p>
+<p begin="00:50:12.000" end="00:50:16.640" style="s2">run by human games masters and the rules</p>
+<p begin="00:50:14.720" end="00:50:18.319" style="s2">are changed by the games masters</p>
+<p begin="00:50:16.640" end="00:50:20.800" style="s2">as they go through to make sure people</p>
+<p begin="00:50:18.319" end="00:50:20.800" style="s2">for help</p>
+<p begin="00:50:25.200" end="00:50:28.079" style="s2">but you know it&#39;s interesting because</p>
+<p begin="00:50:27.040" end="00:50:30.079" style="s2">when you were talking about the</p>
+<p begin="00:50:28.079" end="00:50:31.920" style="s2">experience economy</p>
+<p begin="00:50:30.079" end="00:50:33.599" style="s2">well i interpreted a completely</p>
+<p begin="00:50:31.920" end="00:50:35.200" style="s2">different way and i&#39;m not sure how the</p>
+<p begin="00:50:33.599" end="00:50:37.680" style="s2">person who asked the question and uh</p>
+<p begin="00:50:35.200" end="00:50:38.720" style="s2">meant it when i heard experience economy</p>
+<p begin="00:50:37.680" end="00:50:41.920" style="s2">i heard</p>
+<p begin="00:50:38.720" end="00:50:44.240" style="s2">um as opposed to things like</p>
+<p begin="00:50:41.920" end="00:50:45.920" style="s2">um i can buy this mug i can buy an</p>
+<p begin="00:50:44.240" end="00:50:49.359" style="s2">experience of like watching</p>
+<p begin="00:50:45.920" end="00:50:50.960" style="s2">a netflix show or experience of going to</p>
+<p begin="00:50:49.359" end="00:50:52.480" style="s2">disney world or something like that</p>
+<p begin="00:50:50.960" end="00:50:53.680" style="s2">experience having to be</p>
+<p begin="00:50:52.480" end="00:50:55.760" style="s2">something that&#39;s immaterial something</p>
+<p begin="00:50:53.680" end="00:50:58.480" style="s2">that&#39;s um attracting</p>
+<p begin="00:50:55.760" end="00:50:59.680" style="s2">okay now right we call that the service</p>
+<p begin="00:50:58.480" end="00:51:02.000" style="s2">economy</p>
+<p begin="00:50:59.680" end="00:51:03.440" style="s2">or maybe using different language there</p>
+<p begin="00:51:02.000" end="00:51:06.400" style="s2">um you still have to have something</p>
+<p begin="00:51:03.440" end="00:51:07.839" style="s2">which you&#39;re producing</p>
+<p begin="00:51:06.400" end="00:51:09.680" style="s2">yeah there has to be some heart on the</p>
+<p begin="00:51:07.839" end="00:51:11.119" style="s2">economy the huge weakness of the british</p>
+<p begin="00:51:09.680" end="00:51:12.720" style="s2">economy a moment is we&#39;re entirely</p>
+<p begin="00:51:11.119" end="00:51:14.079" style="s2">reliant on financial services and we&#39;re</p>
+<p begin="00:51:12.720" end="00:51:17.599" style="s2">about to lose them</p>
+<p begin="00:51:14.079" end="00:51:19.440" style="s2">yeah we&#39;ve got no primary manufacturing</p>
+<p begin="00:51:17.599" end="00:51:21.520" style="s2">but i mean the points still stand right</p>
+<p begin="00:51:19.440" end="00:51:23.040" style="s2">there is that there is there is not one</p>
+<p begin="00:51:21.520" end="00:51:23.599" style="s2">right way of doing things there are</p>
+<p begin="00:51:23.040" end="00:51:25.119" style="s2">multiple</p>
+<p begin="00:51:23.599" end="00:51:27.599" style="s2">rise ways of doing things in different</p>
+<p begin="00:51:25.119" end="00:51:27.599" style="s2">contexts</p>
+<p begin="00:51:30.400" end="00:51:40.480" style="s2">okay uh andy you have the question</p>
+<p begin="00:51:36.880" end="00:51:43.599" style="s2">hi i wanted to ask about the</p>
+<p begin="00:51:40.480" end="00:51:47.839" style="s2">domains let me pull back and see</p>
+<p begin="00:51:43.599" end="00:51:50.960" style="s2">so if the competencies change</p>
+<p begin="00:51:47.839" end="00:51:52.559" style="s2">as valued by society with time</p>
+<p begin="00:51:50.960" end="00:51:54.079" style="s2">i want to know if there&#39;s some sub</p>
+<p begin="00:51:52.559" end="00:51:58.400" style="s2">competencies</p>
+<p begin="00:51:54.079" end="00:52:00.880" style="s2">that we can define that will change</p>
+<p begin="00:51:58.400" end="00:52:01.839" style="s2">the apex predator curve either make it</p>
+<p begin="00:52:00.880" end="00:52:04.000" style="s2">deeper</p>
+<p begin="00:52:01.839" end="00:52:05.119" style="s2">shift it to the left or right so let me</p>
+<p begin="00:52:04.000" end="00:52:08.559" style="s2">give an example so</p>
+<p begin="00:52:05.119" end="00:52:10.559" style="s2">u.s healthcare delivery used to the</p>
+<p begin="00:52:08.559" end="00:52:14.000" style="s2">competency used to be</p>
+<p begin="00:52:10.559" end="00:52:18.319" style="s2">uh let&#39;s say relationship or</p>
+<p begin="00:52:14.000" end="00:52:20.559" style="s2">quality and now it&#39;s convenience um</p>
+<p begin="00:52:18.319" end="00:52:21.680" style="s2">so a cultural change has happened is</p>
+<p begin="00:52:20.559" end="00:52:25.680" style="s2">there a way to</p>
+<p begin="00:52:21.680" end="00:52:28.079" style="s2">um generalize that to other domains</p>
+<p begin="00:52:25.680" end="00:52:30.079" style="s2">i think it&#39;s an important point i mean i</p>
+<p begin="00:52:28.079" end="00:52:31.440" style="s2">i&#39;m meeting up with three doctors i go</p>
+<p begin="00:52:30.079" end="00:52:33.280" style="s2">walking with tomorrow i&#39;ve been on my</p>
+<p begin="00:52:31.440" end="00:52:34.559" style="s2">own this week but now i&#39;m with them for</p>
+<p begin="00:52:33.280" end="00:52:36.800" style="s2">the weekend</p>
+<p begin="00:52:34.559" end="00:52:38.400" style="s2">and jess&#39;s advice never go walking with</p>
+<p begin="00:52:36.800" end="00:52:39.680" style="s2">three doctors if anything goes wrong</p>
+<p begin="00:52:38.400" end="00:52:41.599" style="s2">with you they&#39;ll spend all their time</p>
+<p begin="00:52:39.680" end="00:52:46.079" style="s2">arguing about it while you die or</p>
+<p begin="00:52:41.599" end="00:52:47.520" style="s2">all right um one doctor is a good idea</p>
+<p begin="00:52:46.079" end="00:52:49.359" style="s2">but one things they all say is they</p>
+<p begin="00:52:47.520" end="00:52:51.680" style="s2">don&#39;t want to be operated on by anybody</p>
+<p begin="00:52:49.359" end="00:52:53.440" style="s2">under 50.</p>
+<p begin="00:52:51.680" end="00:52:55.280" style="s2">because what happened to medical</p>
+<p begin="00:52:53.440" end="00:52:58.720" style="s2">training in the uk</p>
+<p begin="00:52:55.280" end="00:52:59.280" style="s2">at that equivalent point is it went from</p>
+<p begin="00:52:58.720" end="00:53:01.280" style="s2">people</p>
+<p begin="00:52:59.280" end="00:53:02.960" style="s2">effectively being trained as teams with</p>
+<p begin="00:53:01.280" end="00:53:04.640" style="s2">people they know where people covered</p>
+<p begin="00:53:02.960" end="00:53:06.480" style="s2">for your mistakes and looked after you</p>
+<p begin="00:53:04.640" end="00:53:08.079" style="s2">and you gradually gained experience</p>
+<p begin="00:53:06.480" end="00:53:10.240" style="s2">into people having designated</p>
+<p begin="00:53:08.079" end="00:53:11.119" style="s2">qualifications being allocated to teams</p>
+<p begin="00:53:10.240" end="00:53:13.359" style="s2">automatically</p>
+<p begin="00:53:11.119" end="00:53:15.200" style="s2">they were treated as a commodity yeah</p>
+<p begin="00:53:13.359" end="00:53:17.920" style="s2">rather than as people</p>
+<p begin="00:53:15.200" end="00:53:21.119" style="s2">so that&#39;s leading to a breakdown in the</p>
+<p begin="00:53:17.920" end="00:53:23.680" style="s2">healthcare sector in the us and the uk</p>
+<p begin="00:53:21.119" end="00:53:25.359" style="s2">right which relates to the care issue</p>
+<p begin="00:53:23.680" end="00:53:27.440" style="s2">now you&#39;ve got various ways that that</p>
+<p begin="00:53:25.359" end="00:53:29.520" style="s2">can go one is we could go to an entirely</p>
+<p begin="00:53:27.440" end="00:53:31.200" style="s2">faith-healing alternative and you can</p>
+<p begin="00:53:29.520" end="00:53:32.400" style="s2">see some of that you know why didn&#39;t you</p>
+<p begin="00:53:31.200" end="00:53:36.160" style="s2">swallow some bleach</p>
+<p begin="00:53:32.400" end="00:53:37.359" style="s2">and you won&#39;t get covered and that sort</p>
+<p begin="00:53:36.160" end="00:53:40.079" style="s2">of thing is growing</p>
+<p begin="00:53:37.359" end="00:53:43.040" style="s2">um you could start to reintroduce</p>
+<p begin="00:53:40.079" end="00:53:44.480" style="s2">primary care with people who are based</p>
+<p begin="00:53:43.040" end="00:53:46.319" style="s2">in communities and want to work with</p>
+<p begin="00:53:44.480" end="00:53:47.680" style="s2">communities but that itself is difficult</p>
+<p begin="00:53:46.319" end="00:53:50.720" style="s2">we&#39;re doing work at the moment on</p>
+<p begin="00:53:47.680" end="00:53:52.480" style="s2">conflict in maternity services</p>
+<p begin="00:53:50.720" end="00:53:54.720" style="s2">where the professionals would you know</p>
+<p begin="00:53:52.480" end="00:53:56.000" style="s2">ideally want all women put into hospital</p>
+<p begin="00:53:54.720" end="00:53:58.079" style="s2">at six months and put</p>
+<p begin="00:53:56.000" end="00:54:00.559" style="s2">into a bed and you know basically</p>
+<p begin="00:53:58.079" end="00:54:02.319" style="s2">managed to produce the perfect baby</p>
+<p begin="00:54:00.559" end="00:54:04.160" style="s2">and can&#39;t understand why women don&#39;t</p>
+<p begin="00:54:02.319" end="00:54:05.839" style="s2">like this idea and want to stay within</p>
+<p begin="00:54:04.160" end="00:54:06.960" style="s2">the communities and get care at the</p>
+<p begin="00:54:05.839" end="00:54:10.480" style="s2">local level</p>
+<p begin="00:54:06.960" end="00:54:13.920" style="s2">yeah and that sort of modification</p>
+<p begin="00:54:10.480" end="00:54:17.280" style="s2">and that failure to appreciate it yeah</p>
+<p begin="00:54:13.920" end="00:54:18.720" style="s2">is part of the problem right so i think</p>
+<p begin="00:54:17.280" end="00:54:20.720" style="s2">some of the strategies we&#39;ve got to do</p>
+<p begin="00:54:18.720" end="00:54:24.400" style="s2">is we&#39;ve got to create</p>
+<p begin="00:54:20.720" end="00:54:26.880" style="s2">and this comes into complexity theory um</p>
+<p begin="00:54:24.400" end="00:54:28.240" style="s2">you can&#39;t tackle the dominant attractor</p>
+<p begin="00:54:26.880" end="00:54:29.760" style="s2">if you&#39;ve got a dominant negative</p>
+<p begin="00:54:28.240" end="00:54:31.440" style="s2">attractor if you attack it directly</p>
+<p begin="00:54:29.760" end="00:54:33.280" style="s2">you&#39;ll make it worse that&#39;s the mistake</p>
+<p begin="00:54:31.440" end="00:54:34.559" style="s2">liberals are making him criticizing</p>
+<p begin="00:54:33.280" end="00:54:36.839" style="s2">trump</p>
+<p begin="00:54:34.559" end="00:54:39.359" style="s2">now you you don&#39;t tackle those things</p>
+<p begin="00:54:36.839" end="00:54:41.440" style="s2">directly you tackle it by making</p>
+<p begin="00:54:39.359" end="00:54:43.119" style="s2">alternative attractors stronger so they</p>
+<p begin="00:54:41.440" end="00:54:44.400" style="s2">take energy away from the negative</p>
+<p begin="00:54:43.119" end="00:54:46.319" style="s2">attractor</p>
+<p begin="00:54:44.400" end="00:54:47.440" style="s2">so i think the secret to making the</p>
+<p begin="00:54:46.319" end="00:54:50.319" style="s2">change is</p>
+<p begin="00:54:47.440" end="00:54:52.480" style="s2">the sort of small parallel experiments</p>
+<p begin="00:54:50.319" end="00:54:54.319" style="s2">we talked about on kinevin</p>
+<p begin="00:54:52.480" end="00:54:56.400" style="s2">but also some of the apparatic</p>
+<p begin="00:54:54.319" end="00:54:58.640" style="s2">techniques um</p>
+<p begin="00:54:56.400" end="00:55:00.079" style="s2">and i only went into those briefly but</p>
+<p begin="00:54:58.640" end="00:55:01.040" style="s2">the whole point about apparatic</p>
+<p begin="00:55:00.079" end="00:55:04.880" style="s2">techniques is</p>
+<p begin="00:55:01.040" end="00:55:06.960" style="s2">is to create irresolvable paradoxes or</p>
+<p begin="00:55:04.880" end="00:55:09.040" style="s2">contradictions so people are forced to</p>
+<p begin="00:55:06.960" end="00:55:11.839" style="s2">act and think differently</p>
+<p begin="00:55:09.040" end="00:55:13.599" style="s2">yeah i you can&#39;t flip into the norm but</p>
+<p begin="00:55:11.839" end="00:55:14.960" style="s2">i think you&#39;ve raised a really important</p>
+<p begin="00:55:13.599" end="00:55:16.960" style="s2">point and we&#39;ve got to try and do more</p>
+<p begin="00:55:14.960" end="00:55:19.680" style="s2">of it</p>
+<p begin="00:55:16.960" end="00:55:20.880" style="s2">and the other thing i think is and this</p>
+<p begin="00:55:19.680" end="00:55:23.040" style="s2">partly comes actually into the</p>
+<p begin="00:55:20.880" end="00:55:27.040" style="s2">experience economy per your question</p>
+<p begin="00:55:23.040" end="00:55:28.319" style="s2">going back to that a bit um</p>
+<p begin="00:55:27.040" end="00:55:30.319" style="s2">the more you increase the</p>
+<p begin="00:55:28.319" end="00:55:34.799" style="s2">personalization of a product the less</p>
+<p begin="00:55:30.319" end="00:55:38.000" style="s2">it&#39;s a commodity</p>
+<p begin="00:55:34.799" end="00:55:39.440" style="s2">yeah and and that&#39;s important to realize</p>
+<p begin="00:55:38.000" end="00:55:41.040" style="s2">and it&#39;s been kind of we&#39;ve been going</p>
+<p begin="00:55:39.440" end="00:55:42.720" style="s2">through hell lately on legal fronts and</p>
+<p begin="00:55:41.040" end="00:55:44.480" style="s2">god knows what else and one things which</p>
+<p begin="00:55:42.720" end="00:55:46.880" style="s2">i&#39;ve learned from that is loyalty</p>
+<p begin="00:55:44.480" end="00:55:51.200" style="s2">matters</p>
+<p begin="00:55:46.880" end="00:55:53.280" style="s2">um and it&#39;s amazing how loyal people are</p>
+<p begin="00:55:51.200" end="00:55:55.280" style="s2">if you&#39;ve treated them</p>
+<p begin="00:55:53.280" end="00:55:56.720" style="s2">with respect and you&#39;ve actually done</p>
+<p begin="00:55:55.280" end="00:55:58.480" style="s2">things and all that sort of thing and i</p>
+<p begin="00:55:56.720" end="00:56:01.040" style="s2">think that the loyalty element</p>
+<p begin="00:55:58.480" end="00:56:02.640" style="s2">and that there&#39;s community limitations</p>
+<p begin="00:56:01.040" end="00:56:03.839" style="s2">on this</p>
+<p begin="00:56:02.640" end="00:56:06.160" style="s2">the part of the problem we&#39;ve got with</p>
+<p begin="00:56:03.839" end="00:56:09.119" style="s2">politics is we&#39;re too far removed from</p>
+<p begin="00:56:06.160" end="00:56:09.119" style="s2">the people we elect</p>
+<p begin="00:56:09.200" end="00:56:14.319" style="s2">right um democracy actually evolved for</p>
+<p begin="00:56:12.000" end="00:56:16.240" style="s2">a system where you knew who your</p>
+<p begin="00:56:14.319" end="00:56:18.000" style="s2">representative was to parliament or the</p>
+<p begin="00:56:16.240" end="00:56:18.720" style="s2">congress it didn&#39;t resolve for a system</p>
+<p begin="00:56:18.000" end="00:56:21.680" style="s2">where</p>
+<p begin="00:56:18.720" end="00:56:24.400" style="s2">you were just one of 150 or 200 000 and</p>
+<p begin="00:56:21.680" end="00:56:26.079" style="s2">you had no idea who you were voting for</p>
+<p begin="00:56:24.400" end="00:56:27.760" style="s2">and i&#39;m actually blogging about this at</p>
+<p begin="00:56:26.079" end="00:56:29.520" style="s2">the moment right</p>
+<p begin="00:56:27.760" end="00:56:31.440" style="s2">um so i think one of the key things</p>
+<p begin="00:56:29.520" end="00:56:33.520" style="s2">we&#39;ve got to do and this</p>
+<p begin="00:56:31.440" end="00:56:36.079" style="s2">generally i&#39;m starting a series of blogs</p>
+<p begin="00:56:33.520" end="00:56:38.799" style="s2">on the subject of intimacy</p>
+<p begin="00:56:36.079" end="00:56:40.559" style="s2">um which is not me getting to be a dirty</p>
+<p begin="00:56:38.799" end="00:56:42.000" style="s2">old man or anything like that i hasten</p>
+<p begin="00:56:40.559" end="00:56:42.839" style="s2">to add but it&#39;s saying you need to</p>
+<p begin="00:56:42.000" end="00:56:46.079" style="s2">increase</p>
+<p begin="00:56:42.839" end="00:56:48.079" style="s2">intimacy within service position with</p>
+<p begin="00:56:46.079" end="00:56:51.920" style="s2">commodities because actually that&#39;s how</p>
+<p begin="00:56:48.079" end="00:56:51.920" style="s2">you create differentiation and loyalty</p>
+<p begin="00:56:53.119" end="00:56:58.480" style="s2">is there a way to scale loyalty</p>
+<p begin="00:56:57.040" end="00:57:01.040" style="s2">yeah i think there is but i think you</p>
+<p begin="00:56:58.480" end="00:57:02.559" style="s2">scale it by nodal networks i mean we</p>
+<p begin="00:57:01.040" end="00:57:04.400" style="s2">valdez krebs and i are doing an</p>
+<p begin="00:57:02.559" end="00:57:07.200" style="s2">exploratory in the new year</p>
+<p begin="00:57:04.400" end="00:57:08.799" style="s2">if you know voldiscrabs like he&#39;s the</p>
+<p begin="00:57:07.200" end="00:57:10.640" style="s2">best person i know in the world on</p>
+<p begin="00:57:08.799" end="00:57:11.760" style="s2">network analysis</p>
+<p begin="00:57:10.640" end="00:57:14.799" style="s2">so one of the things we&#39;re going to be</p>
+<p begin="00:57:11.760" end="00:57:18.319" style="s2">exploring at that is what type of</p>
+<p begin="00:57:14.799" end="00:57:20.400" style="s2">nodal networks um create the highest</p>
+<p begin="00:57:18.319" end="00:57:23.520" style="s2">level of rapid promulgation of</p>
+<p begin="00:57:20.400" end="00:57:25.119" style="s2">emittive behavior which is beneficial</p>
+<p begin="00:57:23.520" end="00:57:27.440" style="s2">yeah i mean the key thing you&#39;ve got to</p>
+<p begin="00:57:25.119" end="00:57:28.960" style="s2">realize is that behavior evolves it</p>
+<p begin="00:57:27.440" end="00:57:30.960" style="s2">can&#39;t be designed</p>
+<p begin="00:57:28.960" end="00:57:32.640" style="s2">this is a big mistake of behavioral</p>
+<p begin="00:57:30.960" end="00:57:33.920" style="s2">economists</p>
+<p begin="00:57:32.640" end="00:57:36.240" style="s2">you know that they&#39;re thinking they can</p>
+<p begin="00:57:33.920" end="00:57:38.000" style="s2">design behavior and they had they had a</p>
+<p begin="00:57:36.240" end="00:57:39.839" style="s2">hawthorn effect at the start because it</p>
+<p begin="00:57:38.000" end="00:57:40.240" style="s2">was novel to get a letter saying that</p>
+<p begin="00:57:39.839" end="00:57:41.760" style="s2">your</p>
+<p begin="00:57:40.240" end="00:57:43.280" style="s2">neighbor had paid their tax and you</p>
+<p begin="00:57:41.760" end="00:57:45.599" style="s2">hadn&#39;t right</p>
+<p begin="00:57:43.280" end="00:57:46.640" style="s2">um but it&#39;s no longer novel so it&#39;s past</p>
+<p begin="00:57:45.599" end="00:57:49.760" style="s2">the hawthorne stage</p>
+<p begin="00:57:46.640" end="00:57:49.760" style="s2">and it&#39;s manipulative</p>
+<p begin="00:57:51.839" end="00:57:56.000" style="s2">uh dave do you have a couple minutes</p>
+<p begin="00:57:53.839" end="00:57:58.640" style="s2">maybe 10-15 minutes extra</p>
+<p begin="00:57:56.000" end="00:57:59.920" style="s2">yeah sure okay perfect thank you for</p>
+<p begin="00:57:58.640" end="00:58:03.040" style="s2">humoring us</p>
+<p begin="00:57:59.920" end="00:58:04.640" style="s2">again and again um i believe on the</p>
+<p begin="00:58:03.040" end="00:58:07.599" style="s2">point of medical care i</p>
+<p begin="00:58:04.640" end="00:58:08.880" style="s2">believe um dan dan you got a question a</p>
+<p begin="00:58:07.599" end="00:58:11.920" style="s2">follow-up question for that</p>
+<p begin="00:58:08.880" end="00:58:11.920" style="s2">uh point he just made</p>
+<p begin="00:58:12.319" end="00:58:17.280" style="s2">john feldman um what was i&#39;m sorry what</p>
+<p begin="00:58:15.680" end="00:58:19.680" style="s2">was the</p>
+<p begin="00:58:17.280" end="00:58:19.680" style="s2">question</p>
+<p begin="00:58:20.480" end="00:58:26.880" style="s2">oh i&#39;m sorry i can&#39;t hear you</p>
+<p begin="00:58:23.520" end="00:58:30.400" style="s2">you you asked about the bert&#39;s uh</p>
+<p begin="00:58:26.880" end="00:58:31.839" style="s2">berkshire method uh i think you were</p>
+<p begin="00:58:30.400" end="00:58:32.960" style="s2">talking about dave i think you were</p>
+<p begin="00:58:31.839" end="00:58:36.079" style="s2">talking about</p>
+<p begin="00:58:32.960" end="00:58:38.160" style="s2">um uh intimacy</p>
+<p begin="00:58:36.079" end="00:58:39.680" style="s2">and primary care spreading out primary</p>
+<p begin="00:58:38.160" end="00:58:41.280" style="s2">care and i was wondering if the</p>
+<p begin="00:58:39.680" end="00:58:43.200" style="s2">i know you&#39;re not a fan of the</p>
+<p begin="00:58:41.280" end="00:58:43.680" style="s2">reinventing organization&#39;s book as i&#39;m</p>
+<p begin="00:58:43.200" end="00:58:47.280" style="s2">not</p>
+<p begin="00:58:43.680" end="00:58:49.839" style="s2">uh i&#39;m not either but uh the cons</p>
+<p begin="00:58:47.280" end="00:58:50.960" style="s2">the the idea that that the bert&#39;s org</p>
+<p begin="00:58:49.839" end="00:58:53.599" style="s2">organization</p>
+<p begin="00:58:50.960" end="00:58:54.000" style="s2">where that was highlighted in that book</p>
+<p begin="00:58:53.599" end="00:58:56.880" style="s2">where</p>
+<p begin="00:58:54.000" end="00:58:58.240" style="s2">the uh i guess the members of this</p>
+<p begin="00:58:56.880" end="00:59:01.359" style="s2">organization</p>
+<p begin="00:58:58.240" end="00:59:03.280" style="s2">meet the patients directly and they&#39;re</p>
+<p begin="00:59:01.359" end="00:59:04.480" style="s2">kind of self-managed or self-organized</p>
+<p begin="00:59:03.280" end="00:59:05.359" style="s2">and i was wondering if you had any</p>
+<p begin="00:59:04.480" end="00:59:07.839" style="s2">comments on that</p>
+<p begin="00:59:05.359" end="00:59:10.000" style="s2">i think it suffers from all the cases in</p>
+<p begin="00:59:07.839" end="00:59:11.280" style="s2">that book that he only picks the parts</p>
+<p begin="00:59:10.000" end="00:59:14.480" style="s2">of the cases which</p>
+<p begin="00:59:11.280" end="00:59:15.599" style="s2">actually support his religious beliefs</p>
+<p begin="00:59:14.480" end="00:59:17.839" style="s2">and that that&#39;s the problem with</p>
+<p begin="00:59:15.599" end="00:59:19.760" style="s2">everything in the crocs yeah he&#39;s got an</p>
+<p begin="00:59:17.839" end="00:59:21.440" style="s2">ideology and he&#39;s highly selective in</p>
+<p begin="00:59:19.760" end="00:59:23.440" style="s2">what he presents</p>
+<p begin="00:59:21.440" end="00:59:24.799" style="s2">um and that&#39;s been around for some time</p>
+<p begin="00:59:23.440" end="00:59:27.599" style="s2">and hasn&#39;t scaled</p>
+<p begin="00:59:24.799" end="00:59:29.119" style="s2">yeah and i think the trouble is you can</p>
+<p begin="00:59:27.599" end="00:59:31.680" style="s2">lose these things very quickly they</p>
+<p begin="00:59:29.119" end="00:59:34.480" style="s2">build over years</p>
+<p begin="00:59:31.680" end="00:59:35.920" style="s2">um so the whole sort of concept of the</p>
+<p begin="00:59:34.480" end="00:59:37.520" style="s2">primary care the doctor</p>
+<p begin="00:59:35.920" end="00:59:39.200" style="s2">lived in the neighborhood whose father</p>
+<p begin="00:59:37.520" end="00:59:40.720" style="s2">was your doctor before you or his mother</p>
+<p begin="00:59:39.200" end="00:59:42.799" style="s2">was your doctor before you and you</p>
+<p begin="00:59:40.720" end="00:59:44.880" style="s2">everybody knew the family</p>
+<p begin="00:59:42.799" end="00:59:46.720" style="s2">the total depersonalization of health</p>
+<p begin="00:59:44.880" end="00:59:49.200" style="s2">care is is now a problem</p>
+<p begin="00:59:46.720" end="00:59:50.880" style="s2">right and it&#39;s not going to be solved by</p>
+<p begin="00:59:49.200" end="00:59:52.720" style="s2">some behavioral training and some</p>
+<p begin="00:59:50.880" end="00:59:54.720" style="s2">inspired leadership is going to be have</p>
+<p begin="00:59:52.720" end="00:59:55.920" style="s2">to be solved by far more systematic</p>
+<p begin="00:59:54.720" end="00:59:59.119" style="s2">change</p>
+<p begin="00:59:55.920" end="01:00:02.640" style="s2">yeah in the way we do things</p>
+<p begin="00:59:59.119" end="01:00:04.400" style="s2">and you know part of that i think</p>
+<p begin="01:00:02.640" end="01:00:06.799" style="s2">i speak at the moment having you know</p>
+<p begin="01:00:04.400" end="01:00:09.599" style="s2">i&#39;m 66 and i&#39;m walking 30 miles a day</p>
+<p begin="01:00:06.799" end="01:00:11.599" style="s2">and climbing 4000 feet a day</p>
+<p begin="01:00:09.599" end="01:00:13.520" style="s2">and meeting people in their 40s</p>
+<p begin="01:00:11.599" end="01:00:15.280" style="s2">struggling to get up 200 meters to a</p>
+<p begin="01:00:13.520" end="01:00:18.559" style="s2">popular tourist site</p>
+<p begin="01:00:15.280" end="01:00:21.920" style="s2">and we&#39;re not doing enough on on health</p>
+<p begin="01:00:18.559" end="01:00:25.040" style="s2">yeah we&#39;re doing too much on the sort of</p>
+<p begin="01:00:21.920" end="01:00:26.839" style="s2">you know diagnosed cure type cycle yeah</p>
+<p begin="01:00:25.040" end="01:00:28.160" style="s2">so we&#39;re not creating resilience in the</p>
+<p begin="01:00:26.839" end="01:00:29.599" style="s2">population</p>
+<p begin="01:00:28.160" end="01:00:31.680" style="s2">and again i think we&#39;ve got to look at</p>
+<p begin="01:00:29.599" end="01:00:33.680" style="s2">ways of scaling that</p>
+<p begin="01:00:31.680" end="01:00:34.720" style="s2">and i think it&#39;s got to be something</p>
+<p begin="01:00:33.680" end="01:00:36.240" style="s2">which what</p>
+<p begin="01:00:34.720" end="01:00:38.640" style="s2">and i think it&#39;s a key principle for</p>
+<p begin="01:00:36.240" end="01:00:40.880" style="s2">complexity when it emerges we&#39;ll</p>
+<p begin="01:00:38.640" end="01:00:42.160" style="s2">recognize it but we can&#39;t design it up</p>
+<p begin="01:00:40.880" end="01:00:44.079" style="s2">front</p>
+<p begin="01:00:42.160" end="01:00:45.839" style="s2">and the problem with all of the crocs</p>
+<p begin="01:00:44.079" end="01:00:48.960" style="s2">types books and there&#39;s many</p>
+<p begin="01:00:45.839" end="01:00:52.000" style="s2">is they&#39;re trying to design utopia</p>
+<p begin="01:00:48.960" end="01:00:54.160" style="s2">and that never works yeah what you have</p>
+<p begin="01:00:52.000" end="01:00:56.400" style="s2">to do is to change the constraints and</p>
+<p begin="01:00:54.160" end="01:00:57.839" style="s2">see what works and then amplify the</p>
+<p begin="01:00:56.400" end="01:01:00.400" style="s2">things which do and dampen the things</p>
+<p begin="01:00:57.839" end="01:01:00.400" style="s2">which don&#39;t</p>
+<p begin="01:01:02.799" end="01:01:10.960" style="s2">thank you actually</p>
+<p begin="01:01:06.240" end="01:01:10.960" style="s2">um i&#39;ll give you an</p>
+<p begin="01:01:15.359" end="01:01:18.720" style="s2">i&#39;m just going to tell another story so</p>
+<p begin="01:01:16.799" end="01:01:19.119" style="s2">ask another question go for it no no</p>
+<p begin="01:01:18.720" end="01:01:21.680" style="s2">please</p>
+<p begin="01:01:19.119" end="01:01:22.400" style="s2">please go ahead please uh it was an</p>
+<p begin="01:01:21.680" end="01:01:24.480" style="s2">example</p>
+<p begin="01:01:22.400" end="01:01:26.559" style="s2">i had to give a lecture to um a thing</p>
+<p begin="01:01:24.480" end="01:01:30.000" style="s2">called spring summing down</p>
+<p begin="01:01:26.559" end="01:01:32.000" style="s2">which is every year all of the um</p>
+<p begin="01:01:30.000" end="01:01:33.280" style="s2">the heads of you know the civil service</p>
+<p begin="01:01:32.000" end="01:01:35.200" style="s2">heads and all the heads of british</p>
+<p begin="01:01:33.280" end="01:01:36.319" style="s2">industry get together for three days off</p>
+<p begin="01:01:35.200" end="01:01:38.480" style="s2">site</p>
+<p begin="01:01:36.319" end="01:01:40.240" style="s2">so it&#39;s chatham house rules yeah and it</p>
+<p begin="01:01:38.480" end="01:01:41.359" style="s2">was rather amusing because i got invited</p>
+<p begin="01:01:40.240" end="01:01:43.040" style="s2">to speak and i got</p>
+<p begin="01:01:41.359" end="01:01:45.359" style="s2">the best slot which is the after dinner</p>
+<p begin="01:01:43.040" end="01:01:46.799" style="s2">slot because then you get to have a meal</p>
+<p begin="01:01:45.359" end="01:01:48.000" style="s2">with the guys and stay around and get</p>
+<p begin="01:01:46.799" end="01:01:49.520" style="s2">drunk with them right</p>
+<p begin="01:01:48.000" end="01:01:51.839" style="s2">which is a lot better than just having a</p>
+<p begin="01:01:49.520" end="01:01:54.000" style="s2">20-minute presentation during the day</p>
+<p begin="01:01:51.839" end="01:01:55.440" style="s2">and i still remember i told the ibm</p>
+<p begin="01:01:54.000" end="01:01:57.359" style="s2">general manager for</p>
+<p begin="01:01:55.440" end="01:01:59.280" style="s2">britain i&#39;ve been invited and i got this</p>
+<p begin="01:01:57.359" end="01:02:01.119" style="s2">vicious email back saying why have you</p>
+<p begin="01:01:59.280" end="01:02:03.359" style="s2">usurped an invitation intended for</p>
+<p begin="01:02:01.119" end="01:02:06.079" style="s2">somebody more senior than you</p>
+<p begin="01:02:03.359" end="01:02:08.160" style="s2">and which point yeah the cabinet office</p>
+<p begin="01:02:06.079" end="01:02:10.160" style="s2">had to explain i&#39;ve been invited despite</p>
+<p begin="01:02:08.160" end="01:02:11.599" style="s2">the fact i worked for ibm not because i</p>
+<p begin="01:02:10.160" end="01:02:13.280" style="s2">had</p>
+<p begin="01:02:11.599" end="01:02:14.720" style="s2">and then they sent me a slide set and</p>
+<p begin="01:02:13.280" end="01:02:16.079" style="s2">wanted to rehearse me and what they</p>
+<p begin="01:02:14.720" end="01:02:17.520" style="s2">wanted me to say and they had to have</p>
+<p begin="01:02:16.079" end="01:02:18.799" style="s2">another conversation with the cabinet</p>
+<p begin="01:02:17.520" end="01:02:20.160" style="s2">office</p>
+<p begin="01:02:18.799" end="01:02:22.079" style="s2">either way i got there and i was doing a</p>
+<p begin="01:02:20.160" end="01:02:25.200" style="s2">basic complexity canadian type</p>
+<p begin="01:02:22.079" end="01:02:27.760" style="s2">thing um because we used extensively on</p>
+<p begin="01:02:25.200" end="01:02:29.599" style="s2">well a whole bunch of stuff on foreign</p>
+<p begin="01:02:27.760" end="01:02:32.319" style="s2">policy and things like that</p>
+<p begin="01:02:29.599" end="01:02:33.440" style="s2">so i was presenting it um and just</p>
+<p begin="01:02:32.319" end="01:02:36.079" style="s2">before i started</p>
+<p begin="01:02:33.440" end="01:02:37.359" style="s2">the permanent secretary for health ran</p>
+<p begin="01:02:36.079" end="01:02:39.200" style="s2">up to me</p>
+<p begin="01:02:37.359" end="01:02:41.680" style="s2">and said you can&#39;t use the matron</p>
+<p begin="01:02:39.200" end="01:02:43.920" style="s2">example</p>
+<p begin="01:02:41.680" end="01:02:45.760" style="s2">and i said why can&#39;t i use the matron</p>
+<p begin="01:02:43.920" end="01:02:47.039" style="s2">example and he said because</p>
+<p begin="01:02:45.760" end="01:02:48.559" style="s2">you know i&#39;ll come back to that in a</p>
+<p begin="01:02:47.039" end="01:02:50.880" style="s2">minute right and the matron example was</p>
+<p begin="01:02:48.559" end="01:02:53.200" style="s2">very simple i use it a lot in complexity</p>
+<p begin="01:02:50.880" end="01:02:55.599" style="s2">so it used to be and it was all girls in</p>
+<p begin="01:02:53.200" end="01:02:57.599" style="s2">those days young girls left school</p>
+<p begin="01:02:55.599" end="01:02:58.720" style="s2">became a nurse lived in a nursing</p>
+<p begin="01:02:57.599" end="01:03:00.400" style="s2">hospital</p>
+<p begin="01:02:58.720" end="01:03:01.839" style="s2">you know got their qualifications</p>
+<p begin="01:03:00.400" end="01:03:03.119" style="s2">gradually came up the rank and</p>
+<p begin="01:03:01.839" end="01:03:04.640" style="s2">throughout this period they were</p>
+<p begin="01:03:03.119" end="01:03:06.160" style="s2">terrified of this figure called the</p>
+<p begin="01:03:04.640" end="01:03:08.400" style="s2">matron</p>
+<p begin="01:03:06.160" end="01:03:09.760" style="s2">it was the most senior nurse and then</p>
+<p begin="01:03:08.400" end="01:03:10.960" style="s2">one day they discovered they were the</p>
+<p begin="01:03:09.760" end="01:03:12.799" style="s2">matron</p>
+<p begin="01:03:10.960" end="01:03:14.559" style="s2">and the matron picked up on all the</p>
+<p begin="01:03:12.799" end="01:03:15.440" style="s2">pieces the other parts of the system</p>
+<p begin="01:03:14.559" end="01:03:17.039" style="s2">didn&#39;t deal with</p>
+<p begin="01:03:15.440" end="01:03:18.400" style="s2">and if you were a junior adopter</p>
+<p begin="01:03:17.039" end="01:03:21.039" style="s2">technically you could tell the nature</p>
+<p begin="01:03:18.400" end="01:03:22.000" style="s2">what to do but god help you if you tried</p>
+<p begin="01:03:21.039" end="01:03:23.680" style="s2">you know it was like the young</p>
+<p begin="01:03:22.000" end="01:03:24.079" style="s2">lieutenant trying to say something to a</p>
+<p begin="01:03:23.680" end="01:03:27.119" style="s2">staff</p>
+<p begin="01:03:24.079" end="01:03:28.960" style="s2">sergeant it was the same sort of result</p>
+<p begin="01:03:27.119" end="01:03:30.799" style="s2">um now it&#39;s interesting because when</p>
+<p begin="01:03:28.960" end="01:03:32.559" style="s2">they allowed men to become nurses it&#39;s</p>
+<p begin="01:03:30.799" end="01:03:34.400" style="s2">quite interesting now the dominant</p>
+<p begin="01:03:32.559" end="01:03:36.000" style="s2">number of nurse managers are male</p>
+<p begin="01:03:34.400" end="01:03:37.440" style="s2">even though the number of nurses are</p>
+<p begin="01:03:36.000" end="01:03:38.559" style="s2">female then that should tell us</p>
+<p begin="01:03:37.440" end="01:03:40.480" style="s2">something</p>
+<p begin="01:03:38.559" end="01:03:41.839" style="s2">but what also happened is they got rid</p>
+<p begin="01:03:40.480" end="01:03:43.440" style="s2">of matrons</p>
+<p begin="01:03:41.839" end="01:03:45.200" style="s2">because they said they were super</p>
+<p begin="01:03:43.440" end="01:03:47.839" style="s2">surplus level of management nobody could</p>
+<p begin="01:03:45.200" end="01:03:47.839" style="s2">see what they did</p>
+<p begin="01:03:48.000" end="01:03:51.520" style="s2">now the reality is they held the system</p>
+<p begin="01:03:49.839" end="01:03:53.119" style="s2">together like hassan you know like the</p>
+<p begin="01:03:51.520" end="01:03:55.119" style="s2">regimental sergeant major the staff</p>
+<p begin="01:03:53.119" end="01:03:56.480" style="s2">sergeant all these sort of people did</p>
+<p begin="01:03:55.119" end="01:03:58.400" style="s2">they didn&#39;t get rid of them in northern</p>
+<p begin="01:03:56.480" end="01:04:00.880" style="s2">ireland which was interesting</p>
+<p begin="01:03:58.400" end="01:04:02.000" style="s2">yeah um and the reason they did include</p>
+<p begin="01:04:00.880" end="01:04:03.520" style="s2">them in northern ireland is they were</p>
+<p begin="01:04:02.000" end="01:04:05.440" style="s2">holding the system together because you</p>
+<p begin="01:04:03.520" end="01:04:07.280" style="s2">had young nurses dealing with their</p>
+<p begin="01:04:05.440" end="01:04:08.559" style="s2">boyfriend from school coming in with his</p>
+<p begin="01:04:07.280" end="01:04:11.440" style="s2">knees shut off</p>
+<p begin="01:04:08.559" end="01:04:12.079" style="s2">as a punishment killing all right so i</p>
+<p begin="01:04:11.440" end="01:04:14.160" style="s2">mean that this</p>
+<p begin="01:04:12.079" end="01:04:15.680" style="s2">uh read the story of mar today it&#39;s</p>
+<p begin="01:04:14.160" end="01:04:16.480" style="s2">written by one of the nurses there which</p>
+<p begin="01:04:15.680" end="01:04:18.000" style="s2">is a good friend of</p>
+<p begin="01:04:16.480" end="01:04:20.000" style="s2">mine it&#39;s brilliant you know what they</p>
+<p begin="01:04:18.000" end="01:04:22.480" style="s2">had to put it up within belfast</p>
+<p begin="01:04:20.000" end="01:04:24.480" style="s2">so they didn&#39;t get rid of it then so i</p>
+<p begin="01:04:22.480" end="01:04:27.119" style="s2">always use as an example of an evolved</p>
+<p begin="01:04:24.480" end="01:04:28.880" style="s2">role that you get rid of your peril</p>
+<p begin="01:04:27.119" end="01:04:30.319" style="s2">and say the the guy in charge of house</p>
+<p begin="01:04:28.880" end="01:04:31.280" style="s2">said you can&#39;t use the example and i</p>
+<p begin="01:04:30.319" end="01:04:33.280" style="s2">said well you know</p>
+<p begin="01:04:31.280" end="01:04:34.720" style="s2">i&#39;ve been told to do it by defendants</p>
+<p begin="01:04:33.280" end="01:04:36.000" style="s2">because they&#39;ve kept their sergeants and</p>
+<p begin="01:04:34.720" end="01:04:37.839" style="s2">you got rid of their matrons and i&#39;m</p>
+<p begin="01:04:36.000" end="01:04:40.160" style="s2">more scared of defense than i am of you</p>
+<p begin="01:04:37.839" end="01:04:41.760" style="s2">so i&#39;m going to use it anyway and i</p>
+<p begin="01:04:40.160" end="01:04:42.720" style="s2">never get he said well you can&#39;t use it</p>
+<p begin="01:04:41.760" end="01:04:44.400" style="s2">because we&#39;re bringing back</p>
+<p begin="01:04:42.720" end="01:04:46.319" style="s2">matrons i said oh great you&#39;ve got a</p>
+<p begin="01:04:44.400" end="01:04:47.760" style="s2">30-year process have you he said oh no</p>
+<p begin="01:04:46.319" end="01:04:49.359" style="s2">we&#39;ve got a two-week training course</p>
+<p begin="01:04:47.760" end="01:04:51.520" style="s2">and we&#39;re giving them a career to become</p>
+<p begin="01:04:49.359" end="01:04:53.200" style="s2">doctors</p>
+<p begin="01:04:51.520" end="01:04:55.039" style="s2">and i use the example he just haven&#39;t</p>
+<p begin="01:04:53.200" end="01:04:57.280" style="s2">understood it um</p>
+<p begin="01:04:55.039" end="01:05:00.400" style="s2">stable stabilizing elements of social</p>
+<p begin="01:04:57.280" end="01:05:02.160" style="s2">systems take decades to evolve</p>
+<p begin="01:05:00.400" end="01:05:03.440" style="s2">they can&#39;t just be designed and put in</p>
+<p begin="01:05:02.160" end="01:05:04.960" style="s2">place instantly</p>
+<p begin="01:05:03.440" end="01:05:06.839" style="s2">and that&#39;s something we&#39;ve got to start</p>
+<p begin="01:05:04.960" end="01:05:09.839" style="s2">to understand in politics and everything</p>
+<p begin="01:05:06.839" end="01:05:09.839" style="s2">else</p>
+<p begin="01:05:11.119" end="01:05:14.640" style="s2">yeah that&#39;s a real challenge for</p>
+<p begin="01:05:13.359" end="01:05:17.599" style="s2">evaluating</p>
+<p begin="01:05:14.640" end="01:05:19.280" style="s2">new programs or programs that&#39;s yeah</p>
+<p begin="01:05:17.599" end="01:05:21.200" style="s2">there&#39;s a desire for a quick hit i mean</p>
+<p begin="01:05:19.280" end="01:05:22.880" style="s2">that&#39;s why lacrosse book sells because</p>
+<p begin="01:05:21.200" end="01:05:24.559" style="s2">it sounds wonderful and everybody knows</p>
+<p begin="01:05:22.880" end="01:05:27.520" style="s2">they won&#39;t have to do it</p>
+<p begin="01:05:24.559" end="01:05:28.960" style="s2">that&#39;s perfect for most executives buy a</p>
+<p begin="01:05:27.520" end="01:05:30.480" style="s2">program which you know is full of</p>
+<p begin="01:05:28.960" end="01:05:32.640" style="s2">platitude say you&#39;re gonna do it and</p>
+<p begin="01:05:30.480" end="01:05:37.119" style="s2">just carry on as normal</p>
+<p begin="01:05:32.640" end="01:05:39.039" style="s2">most of agiles like that</p>
+<p begin="01:05:37.119" end="01:05:40.480" style="s2">so uh maybe we have time for a couple</p>
+<p begin="01:05:39.039" end="01:05:42.559" style="s2">more two more questions</p>
+<p begin="01:05:40.480" end="01:05:44.319" style="s2">uh anja and always has a lot of very</p>
+<p begin="01:05:42.559" end="01:05:51.839" style="s2">good questions so angela would you ask</p>
+<p begin="01:05:44.319" end="01:05:51.839" style="s2">one of your questions</p>
+<p begin="01:05:54.000" end="01:05:59.599" style="s2">uh we can&#39;t hear you for some reason i</p>
+<p begin="01:05:56.880" end="01:05:59.599" style="s2">can&#39;t hear you</p>
+<p begin="01:06:00.480" end="01:06:06.400" style="s2">can you hear me now yeah okay</p>
+<p begin="01:06:03.839" end="01:06:08.240" style="s2">um dave i noticed you use a fair number</p>
+<p begin="01:06:06.400" end="01:06:12.079" style="s2">of</p>
+<p begin="01:06:08.240" end="01:06:15.359" style="s2">natural analogies um to biology</p>
+<p begin="01:06:12.079" end="01:06:17.920" style="s2">to nature and i&#39;m curious</p>
+<p begin="01:06:15.359" end="01:06:19.200" style="s2">do you think they&#39;re just analogies or</p>
+<p begin="01:06:17.920" end="01:06:23.119" style="s2">is there a chance</p>
+<p begin="01:06:19.200" end="01:06:26.160" style="s2">um it&#39;s something more</p>
+<p begin="01:06:23.119" end="01:06:27.280" style="s2">it&#39;s actually i think it&#39;s something</p>
+<p begin="01:06:26.160" end="01:06:31.119" style="s2">more but i don&#39;t want to get</p>
+<p begin="01:06:27.280" end="01:06:34.000" style="s2">new age fluffy bunny about this right um</p>
+<p begin="01:06:31.119" end="01:06:34.880" style="s2">but we i mean part of the problem is</p>
+<p begin="01:06:34.000" end="01:06:38.079" style="s2">northern europe</p>
+<p begin="01:06:34.880" end="01:06:40.720" style="s2">and northern america has got</p>
+<p begin="01:06:38.079" end="01:06:42.400" style="s2">thoroughly into cartesian dualism the</p>
+<p begin="01:06:40.720" end="01:06:44.079" style="s2">belief that the mind is separate from</p>
+<p begin="01:06:42.400" end="01:06:45.920" style="s2">the body</p>
+<p begin="01:06:44.079" end="01:06:47.920" style="s2">and part of the problem we got with what</p>
+<p begin="01:06:45.920" end="01:06:49.920" style="s2">i call the adoption of faux buddhism</p>
+<p begin="01:06:47.920" end="01:06:51.760" style="s2">in the states is it furthers that</p>
+<p begin="01:06:49.920" end="01:06:52.799" style="s2">distinction it claims not to but it</p>
+<p begin="01:06:51.760" end="01:06:55.280" style="s2">actually furthers it</p>
+<p begin="01:06:52.799" end="01:06:56.319" style="s2">yeah and the reality is that</p>
+<p begin="01:06:55.280" end="01:06:59.359" style="s2">consciousness is</p>
+<p begin="01:06:56.319" end="01:07:01.599" style="s2">distributed function of the body</p>
+<p begin="01:06:59.359" end="01:07:03.599" style="s2">and the brain and its social connections</p>
+<p begin="01:07:01.599" end="01:07:04.160" style="s2">andy clark&#39;s work on this has shown that</p>
+<p begin="01:07:03.599" end="01:07:05.760" style="s2">narrative</p>
+<p begin="01:07:04.160" end="01:07:07.920" style="s2">structures in society are part of our</p>
+<p begin="01:07:05.760" end="01:07:10.960" style="s2">extended consciousness</p>
+<p begin="01:07:07.920" end="01:07:13.039" style="s2">um so we are physical creatures</p>
+<p begin="01:07:10.960" end="01:07:15.039" style="s2">i mean and you know this whole concept</p>
+<p begin="01:07:13.039" end="01:07:16.799" style="s2">of this singularity and if you believe</p>
+<p begin="01:07:15.039" end="01:07:18.480" style="s2">in the singularity your brain is</p>
+<p begin="01:07:16.799" end="01:07:20.400" style="s2">probably ossified to the point where for</p>
+<p begin="01:07:18.480" end="01:07:23.280" style="s2">you it may be possible</p>
+<p begin="01:07:20.400" end="01:07:23.599" style="s2">yeah human consciousness is not like</p>
+<p begin="01:07:23.280" end="01:07:26.319" style="s2">that</p>
+<p begin="01:07:23.599" end="01:07:27.039" style="s2">it&#39;s much more distributed we know that</p>
+<p begin="01:07:26.319" end="01:07:28.960" style="s2">for example</p>
+<p begin="01:07:27.039" end="01:07:31.359" style="s2">pheromone traces have a significant</p>
+<p begin="01:07:28.960" end="01:07:32.720" style="s2">pickup in humans in determining trust</p>
+<p begin="01:07:31.359" end="01:07:35.280" style="s2">which is a problem with virtual</p>
+<p begin="01:07:32.720" end="01:07:38.240" style="s2">communication so we are physical</p>
+<p begin="01:07:35.280" end="01:07:41.920" style="s2">creatures in a physical world</p>
+<p begin="01:07:38.240" end="01:07:43.680" style="s2">um and the distinction the separation of</p>
+<p begin="01:07:41.920" end="01:07:45.359" style="s2">us from that physical world is behind</p>
+<p begin="01:07:43.680" end="01:07:46.079" style="s2">things like global warming all sorts of</p>
+<p begin="01:07:45.359" end="01:07:48.240" style="s2">other things</p>
+<p begin="01:07:46.079" end="01:07:49.839" style="s2">yeah i spend a lot of my time working</p>
+<p begin="01:07:48.240" end="01:07:51.280" style="s2">with indigenous communities they don&#39;t</p>
+<p begin="01:07:49.839" end="01:07:52.960" style="s2">make that separation</p>
+<p begin="01:07:51.280" end="01:07:55.119" style="s2">now you can&#39;t adopt their practices</p>
+<p begin="01:07:52.960" end="01:07:57.440" style="s2">intact but you can learn from that</p>
+<p begin="01:07:55.119" end="01:07:59.200" style="s2">yeah and that&#39;s where i was coming onto</p>
+<p begin="01:07:57.440" end="01:08:00.880" style="s2">the concept of gifting</p>
+<p begin="01:07:59.200" end="01:08:02.240" style="s2">the other thing it&#39;s worth reading and i</p>
+<p begin="01:08:00.880" end="01:08:04.079" style="s2">know in a catholic school i shouldn&#39;t be</p>
+<p begin="01:08:02.240" end="01:08:05.839" style="s2">doing this but the pope&#39;s encyclical on</p>
+<p begin="01:08:04.079" end="01:08:08.559" style="s2">the environment called la doty say</p>
+<p begin="01:08:05.839" end="01:08:10.079" style="s2">should be read because he&#39;s a chemist</p>
+<p begin="01:08:08.559" end="01:08:11.200" style="s2">and we&#39;re actually doing some work on</p>
+<p begin="01:08:10.079" end="01:08:13.119" style="s2">this at the moment</p>
+<p begin="01:08:11.200" end="01:08:15.119" style="s2">and if you look at a lot of modern</p>
+<p begin="01:08:13.119" end="01:08:17.839" style="s2">religious practice it&#39;s actually about</p>
+<p begin="01:08:15.119" end="01:08:19.520" style="s2">reintegrating us with the physical world</p>
+<p begin="01:08:17.839" end="01:08:20.719" style="s2">yeah as that sort of sense of something</p>
+<p begin="01:08:19.520" end="01:08:22.239" style="s2">other</p>
+<p begin="01:08:20.719" end="01:08:24.239" style="s2">uh the technical term for this is</p>
+<p begin="01:08:22.239" end="01:08:25.440" style="s2">numinous which we&#39;re running projects on</p>
+<p begin="01:08:24.239" end="01:08:27.120" style="s2">at the moment</p>
+<p begin="01:08:25.440" end="01:08:29.600" style="s2">the sense that there&#39;s something more</p>
+<p begin="01:08:27.120" end="01:08:30.239" style="s2">than you so i think that&#39;s one aspect of</p>
+<p begin="01:08:29.600" end="01:08:32.719" style="s2">it</p>
+<p begin="01:08:30.239" end="01:08:34.640" style="s2">the other is the chemicals play far more</p>
+<p begin="01:08:32.719" end="01:08:35.679" style="s2">part in our decision-making than we like</p>
+<p begin="01:08:34.640" end="01:08:37.920" style="s2">to think</p>
+<p begin="01:08:35.679" end="01:08:39.199" style="s2">so the ecological metaphors do come</p>
+<p begin="01:08:37.920" end="01:08:42.960" style="s2">across as</p>
+<p begin="01:08:39.199" end="01:08:44.640" style="s2">physical descriptions not as metaphors</p>
+<p begin="01:08:42.960" end="01:08:46.319" style="s2">they&#39;re not deterministic though that&#39;s</p>
+<p begin="01:08:44.640" end="01:08:47.839" style="s2">the difference they&#39;re deterministic in</p>
+<p begin="01:08:46.319" end="01:08:53.520" style="s2">termites nests</p>
+<p begin="01:08:47.839" end="01:08:56.480" style="s2">but they&#39;re not deterministic in humans</p>
+<p begin="01:08:53.520" end="01:08:56.480" style="s2">they&#39;re dispositional</p>
+<p begin="01:08:59.920" end="01:09:05.279" style="s2">very interesting so maybe we&#39;ll have</p>
+<p begin="01:09:03.440" end="01:09:08.000" style="s2">time for one more question</p>
+<p begin="01:09:05.279" end="01:09:10.560" style="s2">um sorry thief i took so long to ask you</p>
+<p begin="01:09:08.000" end="01:09:13.600" style="s2">a question deep are you still here</p>
+<p begin="01:09:10.560" end="01:09:16.000" style="s2">i want to ask you yes okay sorry</p>
+<p begin="01:09:13.600" end="01:09:17.679" style="s2">uh well it&#39;s tough to keep up with</p>
+<p begin="01:09:16.000" end="01:09:18.319" style="s2">father jargon and all the different</p>
+<p begin="01:09:17.679" end="01:09:21.520" style="s2">models</p>
+<p begin="01:09:18.319" end="01:09:22.239" style="s2">but the question sort of keyed in when</p>
+<p begin="01:09:21.520" end="01:09:24.960" style="s2">you described</p>
+<p begin="01:09:22.239" end="01:09:25.359" style="s2">asset matter asymmetric warfare how you</p>
+<p begin="01:09:24.960" end="01:09:28.319" style="s2">the</p>
+<p begin="01:09:25.359" end="01:09:29.199" style="s2">terrorists just wear down the defenses</p>
+<p begin="01:09:28.319" end="01:09:31.679" style="s2">if you could you</p>
+<p begin="01:09:29.199" end="01:09:32.799" style="s2">use that same analogy to sort of say how</p>
+<p begin="01:09:31.679" end="01:09:36.080" style="s2">the inframage</p>
+<p begin="01:09:32.799" end="01:09:39.120" style="s2">information age and technology 24 7</p>
+<p begin="01:09:36.080" end="01:09:41.120" style="s2">news social media has sort of flooded</p>
+<p begin="01:09:39.120" end="01:09:42.640" style="s2">the masses with too much information to</p>
+<p begin="01:09:41.120" end="01:09:45.920" style="s2">process yeah so they&#39;re</p>
+<p begin="01:09:42.640" end="01:09:48.239" style="s2">you can&#39;t make the decisions so maybe</p>
+<p begin="01:09:45.920" end="01:09:50.239" style="s2">whoever the apex predators are sort of</p>
+<p begin="01:09:48.239" end="01:09:51.040" style="s2">taking advantage of this landscape of</p>
+<p begin="01:09:50.239" end="01:09:53.520" style="s2">just</p>
+<p begin="01:09:51.040" end="01:09:54.159" style="s2">the masses just can&#39;t navigate this sort</p>
+<p begin="01:09:53.520" end="01:09:57.600" style="s2">of</p>
+<p begin="01:09:54.159" end="01:09:59.679" style="s2">confusing flooded mess and</p>
+<p begin="01:09:57.600" end="01:10:01.840" style="s2">if i gave a lecture on that in dc just</p>
+<p begin="01:09:59.679" end="01:10:02.640" style="s2">before last november when i was over</p>
+<p begin="01:10:01.840" end="01:10:04.800" style="s2">yeah</p>
+<p begin="01:10:02.640" end="01:10:06.159" style="s2">but what what you do the whole point is</p>
+<p begin="01:10:04.800" end="01:10:08.080" style="s2">if you flood people with too much</p>
+<p begin="01:10:06.159" end="01:10:10.000" style="s2">information they start to delegate</p>
+<p begin="01:10:08.080" end="01:10:11.840" style="s2">decision making</p>
+<p begin="01:10:10.000" end="01:10:13.360" style="s2">and the minute people delegate decision</p>
+<p begin="01:10:11.840" end="01:10:15.760" style="s2">making the people</p>
+<p begin="01:10:13.360" end="01:10:18.239" style="s2">you know they&#39;ll just go i mean the way</p>
+<p begin="01:10:15.760" end="01:10:21.360" style="s2">i said it once which i still stand by</p>
+<p begin="01:10:18.239" end="01:10:22.960" style="s2">is everybody used to trust experts from</p>
+<p begin="01:10:21.360" end="01:10:24.640" style="s2">the 40s onwards</p>
+<p begin="01:10:22.960" end="01:10:26.719" style="s2">and if you look at the news then you</p>
+<p begin="01:10:24.640" end="01:10:28.000" style="s2">have consideration it&#39;s once per day</p>
+<p begin="01:10:26.719" end="01:10:30.560" style="s2">everybody watches it</p>
+<p begin="01:10:28.000" end="01:10:32.480" style="s2">you get journalism now we&#39;ve got</p>
+<p begin="01:10:30.560" end="01:10:34.320" style="s2">information saturation and people can&#39;t</p>
+<p begin="01:10:32.480" end="01:10:35.920" style="s2">cope so they&#39;re trying populists for a</p>
+<p begin="01:10:34.320" end="01:10:37.760" style="s2">change</p>
+<p begin="01:10:35.920" end="01:10:39.040" style="s2">so i think that&#39;s that&#39;s one point all</p>
+<p begin="01:10:37.760" end="01:10:41.440" style="s2">right the the sheer</p>
+<p begin="01:10:39.040" end="01:10:42.480" style="s2">volume of information creates an</p>
+<p begin="01:10:41.440" end="01:10:45.120" style="s2">asymmetric threat</p>
+<p begin="01:10:42.480" end="01:10:46.880" style="s2">actually to our survival as a species or</p>
+<p begin="01:10:45.120" end="01:10:49.280" style="s2">certainly as a humane species</p>
+<p begin="01:10:46.880" end="01:10:50.000" style="s2">and and that&#39;s critical right the other</p>
+<p begin="01:10:49.280" end="01:10:51.280" style="s2">thing sorry</p>
+<p begin="01:10:50.000" end="01:10:53.040" style="s2">i&#39;m going to react a little bit to your</p>
+<p begin="01:10:51.280" end="01:10:54.239" style="s2">use of the word jargon writing quote</p>
+<p begin="01:10:53.040" end="01:10:56.640" style="s2">heidiger</p>
+<p begin="01:10:54.239" end="01:10:58.560" style="s2">and heidi famously said man thinks he&#39;s</p>
+<p begin="01:10:56.640" end="01:11:00.239" style="s2">the master of language but language is</p>
+<p begin="01:10:58.560" end="01:11:02.239" style="s2">the master of man</p>
+<p begin="01:11:00.239" end="01:11:05.760" style="s2">if you don&#39;t change people&#39;s language</p>
+<p begin="01:11:02.239" end="01:11:05.760" style="s2">you don&#39;t change the way they think</p>
+<p begin="01:11:09.920" end="01:11:14.480" style="s2">yes uh we have some really interesting</p>
+<p begin="01:11:12.719" end="01:11:18.239" style="s2">other questions but i think we should</p>
+<p begin="01:11:14.480" end="01:11:20.239" style="s2">close it up here for now um</p>
+<p begin="01:11:18.239" end="01:11:21.360" style="s2">just to give you a preview of some of</p>
+<p begin="01:11:20.239" end="01:11:22.480" style="s2">the things that people are thinking</p>
+<p begin="01:11:21.360" end="01:11:25.520" style="s2">about dave</p>
+<p begin="01:11:22.480" end="01:11:27.840" style="s2">um someone asked can you</p>
+<p begin="01:11:25.520" end="01:11:29.360" style="s2">talk more about your metaphysical views</p>
+<p begin="01:11:27.840" end="01:11:29.840" style="s2">and personally i&#39;ve been interested in</p>
+<p begin="01:11:29.360" end="01:11:32.719" style="s2">your</p>
+<p begin="01:11:29.840" end="01:11:34.560" style="s2">in your religious views as well so maybe</p>
+<p begin="01:11:32.719" end="01:11:36.560" style="s2">sometime you can talk about that</p>
+<p begin="01:11:34.560" end="01:11:38.480" style="s2">um maybe i&#39;ll give you some a little bit</p>
+<p begin="01:11:36.560" end="01:11:40.880" style="s2">of time to talk about what you want to</p>
+<p begin="01:11:38.480" end="01:11:44.320" style="s2">a brief introduction for next week or</p>
+<p begin="01:11:40.880" end="01:11:44.320" style="s2">anything else you want to close off with</p>
+<p begin="01:11:44.640" end="01:11:49.040" style="s2">um okay i i wrote a blog recently where</p>
+<p begin="01:11:47.199" end="01:11:51.600" style="s2">i confess to being a pelagian i think</p>
+<p begin="01:11:49.040" end="01:11:55.840" style="s2">pelagianism is the heresy to adopt so i</p>
+<p begin="01:11:51.600" end="01:11:55.840" style="s2">recommend that</p>
+<p begin="01:11:56.960" end="01:12:01.120" style="s2">anything sin augustine opposed is to be</p>
+<p begin="01:11:59.360" end="01:12:03.120" style="s2">supportive because anybody who could</p>
+<p begin="01:12:01.120" end="01:12:05.120" style="s2">write the bloody city of god which i was</p>
+<p begin="01:12:03.120" end="01:12:06.320" style="s2">forced to read deserves to be punished</p>
+<p begin="01:12:05.120" end="01:12:08.159" style="s2">right</p>
+<p begin="01:12:06.320" end="01:12:09.600" style="s2">and but pelagian is called the british</p>
+<p begin="01:12:08.159" end="01:12:12.960" style="s2">heresy</p>
+<p begin="01:12:09.600" end="01:12:15.199" style="s2">it&#39;s the belief that you have free will</p>
+<p begin="01:12:12.960" end="01:12:18.560" style="s2">and there&#39;s no original sin and i think</p>
+<p begin="01:12:15.199" end="01:12:18.560" style="s2">that&#39;s where we need to be at the moment</p>
+<p begin="01:12:19.520" end="01:12:24.000" style="s2">all right okay thank you dave thanks</p>
+<p begin="01:12:22.800" end="01:12:26.480" style="s2">everyone i just want to</p>
+<p begin="01:12:24.000" end="01:12:28.400" style="s2">make some announcements about uh stowe</p>
+<p begin="01:12:26.480" end="01:12:31.440" style="s2">session that&#39;s coming up tonight</p>
+<p begin="01:12:28.400" end="01:12:33.120" style="s2">um the name of it is called god bless</p>
+<p begin="01:12:31.440" end="01:12:36.640" style="s2">the broken bones and it&#39;s with</p>
+<p begin="01:12:33.120" end="01:12:37.600" style="s2">william farah olo holo ferrariolo i hope</p>
+<p begin="01:12:36.640" end="01:12:39.680" style="s2">earpinos are correct</p>
+<p begin="01:12:37.600" end="01:12:41.760" style="s2">it&#39;s at 7 30 um</p>
+<p begin="01:12:39.680" end="01:12:44.560" style="s2">[Music]</p>
+<p begin="01:12:41.760" end="01:12:45.679" style="s2">tonight 7 30 tonight also if you&#39;re</p>
+<p begin="01:12:44.560" end="01:12:48.880" style="s2">enjoying the store</p>
+<p begin="01:12:45.679" end="01:12:49.280" style="s2">um i want to invite you to um if you</p>
+<p begin="01:12:48.880" end="01:12:52.560" style="s2">feel</p>
+<p begin="01:12:49.280" end="01:12:54.719" style="s2">called to give a gift to the store on</p>
+<p begin="01:12:52.560" end="01:12:58.159" style="s2">patreon and i just posted the link</p>
+<p begin="01:12:54.719" end="01:12:59.600" style="s2">in the chat um but yeah well</p>
+<p begin="01:12:58.159" end="01:13:01.199" style="s2">thank you dave and thank you everyone</p>
+<p begin="01:12:59.600" end="01:13:02.960" style="s2">for the amazing questions and</p>
+<p begin="01:13:01.199" end="01:13:04.480" style="s2">um i hope to see everyone back here</p>
+<p begin="01:13:02.960" end="01:13:07.760" style="s2">again i think</p>
+<p begin="01:13:04.480" end="01:13:09.280" style="s2">on well soon it&#39;s in the uh on the event</p>
+<p begin="01:13:07.760" end="01:13:12.000" style="s2">page so we&#39;ll see you back</p>
+<p begin="01:13:09.280" end="01:13:13.600" style="s2">next week okay perfect thank you</p>
+<p begin="01:13:12.000" end="01:13:18.239" style="s2">everyone</p>
+<p begin="01:13:13.600" end="01:13:21.120" style="s2">take it easy</p>
+<p begin="01:13:18.239" end="01:13:21.120" style="s2">hi thank you so</p>
+</div>
+</body>
+</tt>

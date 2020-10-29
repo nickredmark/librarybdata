@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "VaX10PSJVkM"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-05T22:46:02Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "Your Questions Answered - Bret and Heather 43rd DarkHorse Podcast Livestream",
+    "description": "The Q & A section of the 43rd live discussion between Bret Weinstein and Heather Heying on the DarkHorse Podcast. TIMESTAMPS at bottom of video ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/VaX10PSJVkM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/VaX10PSJVkM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/VaX10PSJVkM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-05T22:46:02Z"
+  },
+  "_id": "VaX10PSJVkM",
+  "publishedAt": "2020-09-05T22:46:02Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg"
+  ]
+}

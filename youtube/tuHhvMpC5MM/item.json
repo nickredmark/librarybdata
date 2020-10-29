@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "tuHhvMpC5MM"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-10T22:11:40Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "The Civium Project 08: Civium Summarized",
+    "description": "A brief summary of civium with Tim Adalin. Full video here: https://youtu.be/YYYlcV9AiGA.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/tuHhvMpC5MM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/tuHhvMpC5MM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/tuHhvMpC5MM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-10T22:11:40Z"
+  },
+  "_id": "tuHhvMpC5MM",
+  "publishedAt": "2020-09-10T22:11:40Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/playlist?list=PLeRBa-Ner4BsFuhndU4mMCDAqv97661GT",
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
+}

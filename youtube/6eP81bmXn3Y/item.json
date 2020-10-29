@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "6eP81bmXn3Y"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-12T19:51:33Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Wisdom &amp; Serious Play - John Vervaeke &amp; Rafe Kelley",
+    "description": "John Vervaeke and @Rafe Kelley discuss wisdom and the importance of serious play. Watch the full discussion here: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/6eP81bmXn3Y/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/6eP81bmXn3Y/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/6eP81bmXn3Y/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-10-12T19:51:33Z"
+  },
+  "_id": "6eP81bmXn3Y",
+  "publishedAt": "2020-10-12T19:51:33Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCpqDUjTsof-kTNpnyWper_Q"
+  ]
+}

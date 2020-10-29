@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "6sldUjctqtA"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-05T08:11:05Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "TogetherTec- Vision and Mission",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/6sldUjctqtA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/6sldUjctqtA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/6sldUjctqtA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-05T08:11:05Z"
+  },
+  "_id": "6sldUjctqtA",
+  "publishedAt": "2020-09-05T08:11:05Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCKxyC0UUSUjy1mXvfpR2RKg"
+  ]
+}

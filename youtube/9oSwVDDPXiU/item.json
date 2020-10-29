@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "9oSwVDDPXiU"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-18T20:11:33Z",
+    "channelId": "UCpqDUjTsof-kTNpnyWper_Q",
+    "title": "Live Q&amp;A with John Vervaeke - Fri 2020-09-18",
+    "description": "Thank you for joining my Q&A. A few notes: 1. It starts just after 1500 EST and lasts for approximately an hour. 2. The first ~45 minutes are previously submitted ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9oSwVDDPXiU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9oSwVDDPXiU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9oSwVDDPXiU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "John Vervaeke",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-18T20:11:33Z"
+  },
+  "_id": "9oSwVDDPXiU",
+  "publishedAt": "2020-09-18T20:11:33Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCpqDUjTsof-kTNpnyWper_Q"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "I-4SBv1PfCU"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-14T02:50:33Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "The Hollow: Session 1 w/ Bonnitta Roy",
+    "description": "This is a part of The Stoa's \"Sensemaker in Residence\" series. Session 1: October 9 Session 2: October 16 Session 3: October 23 Session 4: October 30 A ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/I-4SBv1PfCU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/I-4SBv1PfCU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/I-4SBv1PfCU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-10-14T02:50:33Z"
+  },
+  "_id": "I-4SBv1PfCU",
+  "publishedAt": "2020-10-14T02:50:33Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
+}

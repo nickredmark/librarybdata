@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "13zlPC77faY"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-13T13:58:22Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Glass Bead Game w/ Laurence Currie-Clark",
+    "description": "September 12, 2020 Laurence Currie-Clark is the inventor of a sensemaking game called The Glass Bead Game. \"The Glass Bead Game is a way of playing ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/13zlPC77faY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/13zlPC77faY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/13zlPC77faY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-13T13:58:22Z"
+  },
+  "_id": "13zlPC77faY",
+  "publishedAt": "2020-09-13T13:58:22Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
+}

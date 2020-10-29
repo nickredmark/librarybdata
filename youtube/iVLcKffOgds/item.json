@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "iVLcKffOgds"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-10T23:02:52Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Rap Unbattles w/ Tyson Wagner",
+    "description": "This is a preview of the \"Rap Unbattles\" that is occurring at The Stoa on Mondays in October at 9 PM ET. *** Rap (Un)battles is a space to collectively practice ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/iVLcKffOgds/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/iVLcKffOgds/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/iVLcKffOgds/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-10-10T23:02:52Z"
+  },
+  "_id": "iVLcKffOgds",
+  "publishedAt": "2020-10-10T23:02:52Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
+}

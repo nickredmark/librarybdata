@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "bcXlPAQaBp4"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-28T00:39:33Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Effective Altruism w/ William MacAskill",
+    "description": "October 19th, 2020 William MacAskill is a Associate Professor in Philosophy and Research Fellow at the Global Priorities Institute, University of Oxford.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/bcXlPAQaBp4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/bcXlPAQaBp4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/bcXlPAQaBp4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-10-28T00:39:33Z"
+  },
+  "_id": "bcXlPAQaBp4",
+  "publishedAt": "2020-10-28T00:39:33Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
+}

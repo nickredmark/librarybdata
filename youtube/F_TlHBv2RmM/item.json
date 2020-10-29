@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "F_TlHBv2RmM"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-11T05:09:18Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "Saturday Roundtable: October 10, 2020",
+    "description": "Where we share about our projects and help one another move forward.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/F_TlHBv2RmM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/F_TlHBv2RmM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/F_TlHBv2RmM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-10-11T05:09:18Z"
+  },
+  "_id": "F_TlHBv2RmM",
+  "publishedAt": "2020-10-11T05:09:18Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCKxyC0UUSUjy1mXvfpR2RKg"
+  ]
+}

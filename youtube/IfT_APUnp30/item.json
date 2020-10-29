@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "IfT_APUnp30"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-04T03:00:56Z",
+    "channelId": "UCi5N_uAqApEUIlg32QzkPlg",
+    "title": "DarkHorse Podcast with Nancy Rommelmann and Bret Weinstein",
+    "description": "Nancy Rommelmann is an author, and reporter for Reason magazine. She discusses with Bret the current situation in Portland Oregon. Find Nancy on her ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/IfT_APUnp30/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/IfT_APUnp30/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/IfT_APUnp30/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Bret Weinstein",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-04T03:00:56Z"
+  },
+  "_id": "IfT_APUnp30",
+  "publishedAt": "2020-09-04T03:00:56Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg"
+  ]
+}

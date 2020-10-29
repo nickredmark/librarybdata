@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "7Vd1uoSaWyM"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-07T14:52:31Z",
+    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "title": "Solution Raising- War",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7Vd1uoSaWyM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7Vd1uoSaWyM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7Vd1uoSaWyM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jubilee Creates Something Amazing",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-10-07T14:52:31Z"
+  },
+  "_id": "7Vd1uoSaWyM",
+  "publishedAt": "2020-10-07T14:52:31Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg"
+  ]
+}

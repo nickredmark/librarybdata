@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "F5lUdTYt_3c"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-11T20:58:16Z",
+    "channelId": "UClm5hXscSTn4CDRUgoEWv7g",
+    "title": "September 11, 2020",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/F5lUdTYt_3c/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/F5lUdTYt_3c/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/F5lUdTYt_3c/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Idea Cafe",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-11T20:58:16Z"
+  },
+  "_id": "F5lUdTYt_3c",
+  "publishedAt": "2020-09-11T20:58:16Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UClm5hXscSTn4CDRUgoEWv7g"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "3JfhFDToJoQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-21T02:25:14Z",
+    "channelId": "UCuhoymQ9glku30sG4qgW-iQ",
+    "title": "Nothing...",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/3JfhFDToJoQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/3JfhFDToJoQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/3JfhFDToJoQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "guy sengstock",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-10-21T02:25:14Z"
+  },
+  "_id": "3JfhFDToJoQ",
+  "publishedAt": "2020-10-21T02:25:14Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCuhoymQ9glku30sG4qgW-iQ"
+  ]
+}

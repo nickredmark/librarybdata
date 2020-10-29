@@ -1,0 +1,3433 @@
+howdy this is jim rutt and this is the
+jim rutt show
+[Music]
+listeners have asked us to provide
+pointers some of the resources we talk
+about on the show
+we now have links to books and articles
+referenced in recent podcasts that are
+available on our website
+we also offer full transcripts go to
+jimrutshow.com
+that's jimrutsshow.com
+unfortunately we had some technical
+issues while recording this episode and
+the sound quality isn't up to our
+usual standards nonetheless it's very
+listenable
+and the content is great
+today's guest is seth lloyd professor of
+mechanical engineering at mit
+and author of the book programming the
+universe
+hi seth great to have you on hi jim it's
+great to be here yeah this is going to
+be an interesting conversation talk
+about
+going from the microsphere to the
+macrosphere and everything in between
+the ridge programming universe when it
+first came out quite a while ago
+and i reread it for territory for this
+episode and there's an
+awful lot in that book we're not going
+to cover everything from it
+we're going to cover some of it we're
+going to talk a fair amount about
+what is quantum mechanics what is
+quantum computing what's the state of
+the art etc
+so let's get started let's start with
+some basics
+how is the quantum world different from
+the classical world
+it's smaller and it's weirder
+so the quantum mechanics describes how
+things behave at their most fundamental
+level
+you know the level of atoms molecules
+elementary particles
+and the main thing to remember about it
+is that things behave differently
+and in a weird fancy strange way
+so sometimes you know stay it's like
+quantum mechanics is kind of the james
+brown sciences
+whatever's there it's got to be funky
+[Laughter]
+interesting yeah one of my long-term
+hobbies actually
+is reading in the field known as quantum
+interpretation
+i fell into this weird habit by reading
+a book called quantum reality by a guy
+named nick herbert
+uh-huh with that book yeah absolutely
+yeah and ever since i've sort of kept up
+with the evolution of the field
+and it is interesting to hear something
+so fundamental
+in our sciences and yet there's some
+significant number like
+five or ten different interpretations of
+what
+it all means and none of them are
+inconsistent with the experimental
+results
+yet right including one of my favorite
+you know again
+for the shorthand of quantum mechanics
+is
+there's inherent randomness in you know
+the positions the spins you know the
+various things we measure
+and yet there's still a school it seems
+like maybe it's even
+gaining strength at the moment that
+quantum phenomena may not actually be
+random it's just that we don't
+understand the mechanisms well enough
+maybe talk a little bit about quantum
+interpretations and your views
+on what's going on there
+sure sure jim i thought that's a subject
+dear to my heart because one of
+the way i got into working on ideas of
+information
+and quantum mechanics came from doing a
+master's in philosophy of science at
+cambridge university studying
+foundations of quantum mechanics and
+quantum interpretations
+so i share your interest in it and
+you're right there
+are at least 10 different
+interpretations out there
+and the interesting thing about them is
+they're all consistent with experiment
+as you say
+and all of them are each one in its own
+way is deeply
+unsatisfactory if any one of them
+were completely satisfactory then
+there'd be only one interpretation
+but none of them are satisfactory and i
+interpret this
+to mean that really it's hard to come up
+with a good interpretation of quantum
+mechanics
+in fact my belief is that we will never
+have an interpretation of quantum
+mechanics that satisfies
+ordinary human beings or smart human
+beings or philosophers of science
+simply because quantum mechanics is so
+strange and counterintuitive
+that there's no way to interpret that
+strangeness and counterintuitiveness
+away
+yeah that's certainly one of the meta
+theories right but it's just
+shut up and calculate basically we'll
+never understand it
+uh no no i'm not i'm not advocating that
+i think we should think about it but we
+should be aware that we're not likely to
+get a good solution
+i mean the basic problem is that as you
+mentioned there's a
+tension between determinism and
+uh indeterminism or chancy probabilistic
+behavior
+that the schrodinger equation and
+equations of motion that govern quantum
+mechanics are themselves deterministic
+so you set them running you say here's
+the situation now
+what's going to happen in the future and
+then the equations just churn on ahead
+and they say here's the state of the
+system in the future
+completely determined by the state in
+the past but
+when you actually look at the
+predictions for the results of
+experiments
+and you look at what you observe then
+you find that those predictions
+are probabilistic and not determined so
+how do you reconcile those two features
+the fact that the underlying theory is
+in some sense deterministic and yet it
+makes
+probabilistic predictions for what's
+going to happen that's pretty tough
+interesting
+now do you have a view do you have a an
+intuition shall we say on this
+randomness versus determinism question
+or is it just so damn hazy
+it's not worth speculating in your view
+oh no i do i actually i have a
+view which i find reasonably satisfying
+i say no no views are satisfied
+are you know perfectly satisfying but as
+you know well from
+reading about this that the the kind of
+original interpretation that people came
+up with came
+largely from neil's wars called the
+copenhagen interpretation
+and bohr said okay the underlying laws
+are deterministic
+um but these just describe kind of
+microscopic phenomenon when you get to
+macroscopic things
+like measurement devices that are making
+measurements then
+these are you know kind of categorically
+different than the microscopic devices
+so their behaviors can be different
+and that's pretty annoying because like
+well you know the devices are made up
+you know our measurement apparatus
+is made up of of atoms and molecules and
+things behaving
+according to laws of quantum mechanics
+why shouldn't they also obey the laws of
+quantum mechanics
+so that's one interpretation and then
+another
+very commonly used interpretation which
+is pretty wacky but is
+is adopted by many people is called the
+many worlds interpretation
+which says yeah the underlying laws are
+deterministic
+and so you set this up and the universe
+evolves in a deterministic fashion
+but every time you make a measurement
+or look at something happening that
+appears to be probabilistic
+the universe splits into two pieces uh
+and you only get one of them and which
+one you get is determined by the laws of
+chance so it's probabilistic
+and that's made okay that explains
+what's going on as you say
+it fits what the what we see
+experimentally but then you have the
+every time you make a measurement this
+whole other piece of the universe just
+split off and you're never going to see
+it again
+and um it constitutes you know another
+world different from our world
+that's also not very satisfactory yep
+it's crazy in fact i had a very intense
+conversation with murray gelman one day
+when i was out
+santa fe institute started at lunch and
+then we ended up walking down to his
+office and talking for about two hours
+and we went all around these various
+theories and he finally
+used some words which i found that he
+probably hasn't used with anybody else
+since i've found anybody else that says
+they ever heard these words from them
+he said you know jim here's one way to
+think about it which is
+take the many worlds interpretation do
+the math
+as if many worlds but by some mechanism
+we don't understand
+only one of those worlds is actually
+realized and the rest just don't happen
+he said that's kind of a layman's way to
+describe his own views
+on quantum interpretation what do you
+think of that
+yeah no i i agree with that well you
+know i did my first post talk with
+murray and we spent a lot of time
+working on what's called the coherent
+histories formulation of quantum
+mechanics
+which can be thought of as a a kind of a
+a version of many worlds but instead of
+just looking at the world now to say we
+split up into these different worlds we
+look at the whole history
+of the universe past and future and so
+then
+we have one past history but our history
+can branch off into many other histories
+in the future
+um marie and i were pretty much on the
+same page about this
+so i i actually agree with that and i
+have a modest
+and mild proposal about interpretation
+here i think that
+a lot of the the problem that people
+have particularly physicists about this
+is that
+the issue about many worlds is it's very
+hard to believe
+in the the existence of these other
+worlds in which everything
+is radically different from the way it
+is in our world i mean
+are they real or are they not we have
+our world
+about which we have empirical evidence
+you know if that's the case i had a
+delicious bowl of oatmeal
+with homemade rhubarb compote
+this morning and in another world i had
+a delicious fried egg
+but i'm in this world right so i know
+that i have information about this world
+of things are the case
+so what distinguishes our world from
+these other worlds
+is we have evidence about what is the
+case in our world
+oh i like to think of this in the
+following and this is you know
+physicists don't like this in general
+but philosophers are okay
+it's like physicists want to believe
+there's only one thing that's real
+and if it's there in the wave function
+of the universe by god it's real
+the problem with that with many worlds
+is that you've got all these other
+worlds that are by definition real
+because
+if you declare them to be so so my
+my simple solution to this uh which of
+course will not you know many people
+won't like if that's okay
+is that really there are we should
+distinguish between empirical reality
+things that we know to be the case
+because we have evidence that they're
+the case
+and then this kind of wave function
+reality being real in the wave function
+of the universe
+because the wave function of the
+universe contains all these other worlds
+where things are by definition different
+empirically different from the way they
+are
+in our world and so there are different
+things we have our world that we see
+we know it to be the case and that's one
+piece of the whole wave function of the
+universe and then the wave function
+contains all these other worlds
+which are real in a wave function kind
+of way but not in an empirical fashion
+and that for me is good enough
+interesting that's a kind of interesting
+fudge i'd try to get my head around that
+later
+it's not a fudge it's i'm simply saying
+that
+that physicists want to say there's only
+one kind of reality right but
+saying i'm saying okay there's reality
+is it just in the wave function
+and then there's what was empirical
+reality which refers to one part of the
+wave function
+i'm not fudging i'm just being precise
+okay i'll retract fudge and say hmm
+that's yet another
+interpretation i'm going to try to get
+my head around it later
+let's talk about another phenomenon
+which will turn out to be extremely
+important as we dive into quantum
+computing which is
+entanglement non-locality can you talk
+about that a little bit
+absolutely yeah entanglement is one of
+those james brown
+features i was at a james brown concert
+long ago and somebody
+james brown finished a song and then
+somebody else somebody said james what
+are you going to play next
+and he said i don't know but whatever it
+is it's got to be funky
+so as i said quantum mechanics is a
+james brown of sciences it's very funky
+and entanglement is kind of the funkiest
+central funkitude
+of quantum mechanics so so entanglement
+is a very funny feature well finally i
+don't know about in the haha sense but
+strange and counterintuitive feature of
+quantum mechanics
+where things can be correlated with each
+other or have information
+about each other and they have strictly
+more information than you're allowed to
+have
+classically and it shows up in ways if
+you have
+an entangled pair of particles and said
+let's say we have
+we have two electrons and they have spin
+and you can say
+one is spinning clockwise the other is
+spinning counterclockwise
+they can be in a situation where if you
+look at each electron
+on its own its spin clockwise or
+counterclockwise is completely not
+determined
+so if you measure it then you say hey
+are you spinning clockwise or
+counterclockwise
+it will say you know in a chance fashion
+it will say oh i'm spinning clockwise
+then if you measure the other electron
+you'll find that the spin is always
+anti-correlated so it's in the opposite
+way so if the first electron is spinning
+clockwise the second one is spinning
+counterclockwise
+or if you measure the first one you find
+it's spinning counterclockwise you find
+second one is spinning clockwise now
+what's weird about this
+is that until you actually make the
+measurement then
+the electron is neither clockwise
+spinning clockwise
+nor counterclockwise it's spinning both
+clockwise and counterclockwise at the
+same time
+in some weird and funky quantum
+mechanical fashion that nobody has a
+good intuition for
+and so when you measure the first
+electron it has to as as
+it were declare itself to say oh i'm
+clockwise
+but as soon as it declares itself to be
+clockwise you know that if you were to
+go and measure the other electron you'd
+find it's counterclockwise
+so there's some weird sense in this
+entanglement
+as it's called that these two electrons
+are in an indeterminate
+but anti-correlated state and somehow if
+you make a measurement
+on one kind of thereby making that
+electron declare itself to be in a
+determined state
+let's say clockwise then at the same
+instant
+the other electron you know has declared
+itself to be counterclockwise
+and this is weird and strange and
+einstein called this
+spooky action at a distance actually he
+called it in german
+which sounds more impressive
+and for many years people thought oh my
+goodness this is terrible would it allow
+instantaneous communication from one
+electron to another
+though as it turns out it doesn't allow
+communications it's merely some funny
+way in which the two electrons are more
+intimate with each other
+interesting yeah in fact people are
+interested in this your book actually
+does the best job i've ever seen
+explaining why you can't cheat and use
+entanglement to send information over a
+distance
+that's the easy fallacy to say looks
+like faster than speed of light suppose
+we had
+two electrons that were separated one
+went to alpha centauri one state on
+earth
+you did a measure on alpha centauri we
+could tell here on earth some
+information your book does a great job
+explaining how that can't happen mother
+nature just does not seem to want us to
+act it's be the light
+i believe this to be a good thing not
+just a good thing it's the law
+right if we talk later on about
+about time travel i can qualify that
+statement
+oh dude we may not get there we'll say
+now closely related to entanglement
+is the concept of coherence probably
+both actually rooted in the deeper idea
+of superposition
+talk a little bit about coherence and
+how that's similar to and related to
+a little different at least from a point
+of view perspective from entangled
+again that's going to be important as we
+talk about quantum computing
+yeah so i indeed so coherence
+is well coherence when referring to
+human beings mean that they're making a
+coherent case for what they're doing
+and uh i'm i'm not going to claim that
+i'm going to be coherent talking about
+coherence but i'll give it a shot
+so in quantum mechanics the notion of
+coherence comes from
+this feature that when quantum mechanics
+was
+first formalized by schrodinger and
+heisenberg in the 1920s
+it was about waves so schrodinger came
+up with this wave equation which
+said oh look you know each situation
+each wave for instance electron spinning
+clockwise or counterclockwise
+corresponds to a wave and if you think
+of waves of water or waves of sound you
+know
+waves of water or the surface of the
+water
+wiggling up and down in a periodic and
+regular fashion
+and so waves have a notion of coherence
+in the sense that
+if you think of a water wave that's
+going undulating up and down
+it's got a regular wave undulating up
+and down and when you have two waves
+that that collide with each other
+they can interfere and the parts where
+the waves
+are both high become extra high the
+parts where the waves are both low
+become extra low
+and the parts where one wave is high and
+the other wave is low
+then cancel each other out so the waves
+interfere with each other in a way
+that's coherent that's how it's
+described and all it really means is
+that the amplitude of the waves how high
+or low they are
+just add up together in a regular and
+coherent fashion so
+coherence in quantum mechanics refers to
+this wave-like nature
+of quantum mechanics and the notion of
+superposition that you mentioned before
+simply means that when you take two wave
+corresponding to two possible states
+you just add them together and the
+resulting wave is the sum of the two
+waves
+so mathematically and actually even you
+know intuitively
+and visualizing it that's what's going
+on so you you have
+states or waves coherence means that the
+waves can add up in a systematic fashion
+and superposition means
+that if you withdraw a few waves then
+uh you just add them together so that
+actually doesn't sound so bad
+the problem is when you try to relate it
+to behavior of things like
+electrons and and then square that with
+your macroscopic intuition
+so for example you know in quantum
+mechanics the the amplitude of the wave
+is related to where you're likely to
+find a particle so if i have the wave
+corresponding electron
+and the wave is really big over here
+then
+that means if i make a measurement to
+say where is the electron then it's
+going to be likely to be over here
+or if the wave is really big over there
+and i measure to see where the electron
+is then i'm likely to find the electron
+over there
+well that doesn't sound so bad it's okay
+it has something to do with these
+probabilities of measurement
+but the problem is because of this
+principle superposition
+in quantum mechanics if you have two
+waves then not only can you add them up
+if you add them up the sum of these two
+waves is a perfectly reasonable state
+for the electron
+so you know the wave electron
+over here okay wave with the electron
+over there
+that's fine but when you add them up you
+have a wave where there's a big
+amplitude
+for the electron being over here and a
+big amplitude for the electron being
+over there
+and what does that mean well means that
+in some funky quantum mechanical sense
+the electron is here
+and there at the same time and that's
+pretty tough for
+our feeble macroscopic minds to grasp
+indeed and now let's make the turn
+towards quantum computing because we've
+set the foundations is this funky
+concept that the electron or the photon
+or whatever it is can be many things at
+once
+you know how do we use that to produce
+quantum computing
+and how is it fundamentally different to
+classical computing
+two big questions so feel free to take a
+while to answer those two
+ah well jim since you set it up pretty
+well i think we are in good shape to
+look at that because
+really the basic distance between
+quantum computing and classical
+computing is what we were just talking
+about
+that is quantum computers are just
+ordinary computers you've got bits of
+information
+you code information and bits you flip
+the bits in a systematic fashion
+and then you perform a computation you
+process the information that's what
+classical digital computers do
+that's what quantum computers do but
+because quantum
+computers have access to this quantum
+funkiness
+then what they have is something more
+than what classical computers have
+in particular let's think of this
+electron actually you know in a
+classical computer the way you store a
+bit of
+information is you've got a whole bunch
+of electrons you know you put the
+electrons onto a capacitor you put them
+over here
+and you call that you know zero you take
+to put them over there you put them on
+another capacitor you call that
+one okay and when you flip the bit you
+say oh let's move the electrons
+open a switch and let the electrons flow
+from this capacitor to this other
+capacitor
+capacitor is just like a bucket for
+electrons you toss electrons in the
+bucket
+and then flipping a bit in a computer is
+like oh let's take the electrons from
+this bucket and we'll empty it into that
+other bucket so we take it from the zero
+bucket we pop them into one bucket
+okay fine and then you know the the the
+way that
+classical computers work is just simply
+doing this in a systematic fashion let's
+say
+oh let's empty this bucket if this other
+bucket is full and then let's fill up
+this other bucket if the other bucket is
+empty
+and then let's do this many many many
+many many times and that's what digital
+computers are doing
+okay what about a quantum computer well
+quantum computer is like a classical
+computer but
+let's say we're storing a bit of
+information on a single electron
+so electron over here you know with its
+wave
+concentrated over here okay we'll call
+that zero
+electron over there this wave
+concentrated over there
+we'll call that one but then
+electron with its wave over here and
+over there
+that's an electron that's here and there
+at the same time that's a
+a bit a quantum bit or a cubit
+which is both zero and one at the same
+time
+again in some funky counter-intuitive
+quantum sense which nobody really
+understands
+and that's at bottom the only difference
+between
+quantum computers and classical
+computers is that quantum computers
+quantum bits can be zero and one at the
+same time
+by taking advantage of this quantum
+funkiness
+it turns out to have a huge difference
+in the capabilities
+of computation right i mean the fact
+that we can in some sense
+explore all possible solutions more or
+less simultaneously
+at least for some algorithms give an
+unbelievable
+boost in their capability for instance
+the first
+time i ever heard of quantum computing
+was shore's algorithm
+and believe it or not there was probably
+15 minutes when i actually understood
+shore's algorithm and worked through it
+enough
+to really understood how it worked and i
+go holy
+did you maybe run through a little bit
+how a relatively small
+quantum computer could do what seems
+impossible which is to
+factor huge numbers how does
+entanglement
+allow that to happen yeah absolutely
+we're just talking about how in a
+quantum computer a quantum bit can be
+zero and one at the same time
+and then two quantum bits can be you
+know they don't have to be either you
+know zero one or one
+zero they can be zero one and one zero
+at the same time
+they can be in the quantum superposition
+of the two states zero
+one and one zero and when they're in
+this state then they're in this
+entangled state
+because if i measure the first one i
+find the answer is zero then i know the
+second one is in the state one
+if i find the first one in the state one
+i know the second one is in the state
+zero
+so this this principle of superposition
+that a quantum bit or cubic can be zero
+and one at the same time
+when you apply it to two or more qubits
+you get entangled states
+and this is key for uh using quantum
+computers to solve hard problems
+a good way to think of this is the
+problem but remember that the state of a
+quantum system corresponds to a wave to
+a solution to the schrodinger equation
+and a classical computation all the bits
+at any given time
+have have a well-defined value
+so you know each one is either zero or
+one
+but not zero and one at the same time
+and you know so all the bits in the
+classical computer at one point they're
+like 0 one one zero one
+one one zero for a small classical
+computer but in aquatic computer
+the bits can be zero one one one zero
+zero one one zero
+and one zero one zero one zero one zero
+one zero one zero one
+at the same time again it's hard to
+understand how that works
+in our intuitions but it's just a
+superposition of two waves
+so a nice way of thinking about this
+this is a metaphor but it's very precise
+metaphor because it actually has to do
+with waves
+is that a classical computation which is
+a sequence
+of states of bits is so like something
+like you know
+gregorian plane chant like
+where there's only one sound there's no
+harmony it's just a melody
+one sound at each point whereas a
+quantum computation
+is the superposition of many sounds
+simultaneously it's a symphony
+everybody's playing it once and if they
+play at once in a harmonious fashion
+you can make a sound that you could
+never obtain or even know what it
+sounded like
+if you just had a single cat with a
+single note
+so as i say this is a metaphor but it's
+a good metaphor to keep in mind
+so what happens for solving hard
+problems like schwarz algorithm
+so in 1994 my colleague peter shore
+showed that
+if you had a quantum computer you could
+use this
+symphonic nature of quantum computation
+to solve a problem of considerable
+practical interest
+which is uh code breaking and he showed
+you could use quantum computers to break
+the commonly used public key
+cryptosystems that we use whenever we
+you know buy something over the internet
+we buy something over the internet
+you know i i i say to amazon i'd like to
+buy these tea bags please
+and they say okay send us your credit
+card number
+and i would say well i'm not going to
+send my credit card number openly over
+the internet they say that's fine we're
+going to send you a public key
+and you're going to use that to send us
+your credit card number and once you've
+combined your credit card number with a
+public key nobody will know what your
+credit card number is
+but will be able to decode it using our
+private key when you send it to us and i
+say okay that's fine i really want my t
+and this sounds good so you do that and
+this is very useful as you can imagine
+and uh this is what happens with all
+these transactions over the internet
+that whenever you want to send private
+information
+the retailer sends you a public key
+which you use to encrypt your
+information in a way that nobody else
+can encrypt can
+so that nobody else can discover it so
+sure showed that by
+uh being able to do something called
+factoring
+to take find a number and get given a
+number which is the product of two large
+numbers to find the other
+two large numbers which when multiplied
+together make the first number
+so you're given r which is the product
+of p and q
+and given r you want to find p and q
+that's the factoring problem like you
+know
+like 15 given 15 it's like
+oh 15 is 3 times 5. so
+um so when the numbers get very very big
+this is a very hard problem and short
+short showed how to do this the way that
+he he showed how to do this
+is related intimately with the wave like
+nature of how
+information is represented in quantum
+mechanics
+so if you have a wave like a wave in the
+ocean
+then the wave can have different
+wavelengths and different periods
+so when the waves are small the
+wavelength is short
+and the waves wiggle up and down very
+rapidly when the waves are big the
+wavelength is longer
+and the waves are wiggling up and down
+more slowly
+so shor showed how to encode
+the answer to this hard problem
+of factoring and code breaking into a
+huge long wave that stretches over
+if you were to actually stretch it out
+in space it would be larger than the
+length of the universe
+but if you can stretch it out you can
+kind of curl it up into the quantum bits
+of a quantum computer
+and you want to find the period of this
+wave you want to find
+how fast it's wiggling up and down
+and classically this is very hard to do
+but quantum mechanically because quantum
+mechanics is all about
+waves it turns out that it's quite
+possible in a straightforward fashion if
+you're given a huge long wave and you
+want to find out how fast it's wiggling
+up and down
+you can do that very efficiently and
+straightforwardly on a quantum computer
+it's a it's because quantum mechanics is
+about waves
+to begin with so shore took this
+wave-like nature
+of quantum mechanics showed how you
+could encode the answer the solution to
+a hard problem by finding
+the wavelength of a long periodic wave
+and then showed how you could use a
+quantum computer to find that wavelength
+and thereby factoring the numbers and
+breaking the code
+it's a very very very beautiful piece of
+work and
+it shows intimately how quantum
+mechanics actually works because it
+takes this very important feature of
+quantum mechanics this wave-like feature
+ordinary bits don't have but quantum
+bits qubits do have
+and then shows that how to elegantly
+solve a hard problem
+yeah that's an interesting as i said i
+understood it for about 15 minutes and
+here's an interesting personal
+story shore's algorithm was actually
+central to a key decision i made in my
+life how about that who would have
+thought it right in 2000 i had an
+opportunity to sell
+my internet company to verisign the
+company that ran the digital certificate
+business
+which was based on the rsa crypto
+algorithm that you just described
+at that time essentially all the digital
+certificates that did what you described
+which would secure the transmission over
+the web of your credit card to
+amazon were sold by verizon they had a
+quasi monopoly with one small competitor
+they eventually bought them out
+anyway they wanted to buy my company so
+one of the things i had to do as part of
+the due diligence
+we were a publicly traded company so we
+had to you know be
+quite public about all our due diligence
+was estimate what is the chances
+in some reasonable period of time that
+shore's algorithm will get implemented
+in a quantum computer and break rsa
+right we literally had to do that right
+and i
+you know again this was 2000 so nobody
+had any clue really about how
+fast quantum computing would progress
+but we talked to some people and i would
+say in classic american short-term
+business thinking
+we concluded that there was essentially
+no chance it would happen in the next
+five years
+so we went ahead and did the deal and
+then interestingly
+after we did the deal i ended up running
+the digital certificate business how
+about that
+so i literally had to worry about a
+little bit
+convinced myself i didn't have to worry
+about it anytime soon which is a good
+pivot actually
+to the shores algorithm and many other
+algorithms
+in theory are exceedingly powerful
+however
+to get that power there has to be a size
+of
+entanglement essentially or at least an
+effective size of entanglement to solve
+a problem
+of size x right you know at the time i
+think our keys were 512 bits long
+you know they were like three qubits or
+something at the time
+okay that's a long damn way from being
+able to break a 512
+bit key i just looked it up this morning
+the minimum
+specified key length for digital
+certificates now is 2048 bits
+and so essentially this rsa encryption
+algorithm
+is in a race adding more bits to stay
+ahead
+of the increasing power of quantum
+computing
+so talk a little bit about how the power
+of quantum computing
+is related to the number of qubits that
+are simultaneously entangled and
+let's start with that and then we'll go
+on to the other pieces that sort of
+delineate the effective power of a
+quantum computer
+absolutely jim yeah so a nice way of
+thinking about this
+i mean this is the power of information
+in general the amazing power of
+information is that a small number of
+bits
+can have a very large number of possible
+states so
+you know if i have one bit it can be
+either zero or one
+you don't have to call it zero one it's
+conventionally called it could be yes or
+no or true or false or head through
+tails it's just a question of having two
+states
+and then two bits well there's zero zero
+zero one one zero one one so it's got
+four states and then three bits you've
+got zero zero zero zero zero one zero
+one zero
+oh i'm getting tired of it they've got
+eight states right
+four bits have 16 states five bits of 32
+states
+ten bits of a thousand twenty fourth
+dates
+twenty bits have more than a million
+states thirty bits have more than a
+billion states
+forty bits have more than a trillion
+states so the number of states grows
+very rapidly
+with the number of bits it grows
+exponentially if i have
+n bits the number goes as 2 to the n and
+that number gets very big very fast so
+for instance
+300 bits well 2 to the 300 is around 10
+to the 90.
+10 to the 90 power is the number of
+elementary particles in the universe
+so with 300 bits you have enough bits to
+label
+every elementary particle in the
+universe if you could figure out a way
+where to put the label so
+so the this is the power of classical
+information was tremendously powerful
+because it shows you have you have the
+potential to explore
+a huge information space even with a
+relatively small number of bits
+and the power of quantum computation
+means oh
+if i have quantum bits and they can be
+in superposition
+and entangled with each other then i can
+explore that same
+huge space simultaneously so with 300
+cubits i can explore a space where
+if i were going to do this classically
+on a classical computer my classical
+computer
+would have to be the size of the whole
+universe
+so it these the the size grows very
+rapidly
+of course being able to control those
+bits
+and build a quantum computer that's
+harder
+so the back in 1993 before shore's
+algorithm
+i made the first technologically
+feasible design for quantum computer
+prior to that the first quantum
+computers were proposed by the idea was
+proposed by paul benioff around 1980
+picked up by the famous noble lord
+richard feynman in the early
+80s and then david deutsch kind of
+codified the theory of quantum
+computation in the mid-80s
+but all that time nobody had any idea
+how you could build a quantum computer
+there's some
+quote from feynman at some conference he
+says i'm going to talk to you about this
+notion of quantum computation now you
+may think i'm
+crazy and nobody has any idea how to
+build these things but i'm going to talk
+about it anyway
+so back in the late 1980s early 1990s i
+said
+you know i wonder how you might build
+one of these things and i started
+working on how the physics of building
+quantum computation
+early 1990s i learned about what's
+called electromagnetic resonance which
+is what happens when you zap
+atoms with lasers or when you zap spins
+with microwaves
+and i realized you know you zap atoms
+with lasers in the right way
+you could build a quantum computer so i
+i published a paper in science called a
+technologically feasible quantum
+computer
+that was 1993 and in 1994 i started
+working with
+folks to start making the first quantum
+logic gates and the first quantum
+computers
+and so it worked very well except the
+computers the quantum computers only had
+a couple of quantum bits
+we started with two cubic quantum
+computer turns out you can actually
+demonstrate
+you know a do a proof of principle
+demonstration of quantum computation
+with only two qubits which
+we did the first algorithms with those
+then we went to three qubits oh now you
+have eight states that's great
+then we went to four qubits and five
+qubits then you know eventually
+by the early 2000s we were up to like a
+dozen or two qubits
+and then about you shows you the
+progress is slow
+because you're trying to convince
+atoms molecules superconducting systems
+to process information at the most
+fundamental possible level
+it's simply hard to do and so the
+progress is slow
+but then about five or six years ago
+hartmut nevin at google
+convinced sergey brin it's like hey say
+you know if we were to invest a hundred
+million dollars or a couple of hundred
+million dollars and actually
+building a quantum computer we could do
+it the technology is there
+and they hired john martinez from
+university of santa barbara
+and they went wild and they immediately
+started building quantum computers that
+had you know
+you know 20 cubits 30 cubits 40 qubits
+and then ibm and microsoft who had been
+you know working on quantum computing
+for decades and
+to kind of like you know at a smaller
+level they say hey google's eating our
+lunch we got to do this too
+so they invested 100 million dollars and
+they started building much larger
+quantum computers and then places like
+you know intel and huawei said
+we don't even know what a quantum
+computer is but we better invest in this
+too
+anyway so last five years things have
+been going kind of crazy in the field
+but the net result is that now people
+have quantum computers with
+you know on the order 50 to 100 quantum
+bits they're still not big enough to
+factor large numbers and break public
+key crypto systems
+thereby instilling fear in the heart of
+agencies with three letters in their
+name
+like nfo not that such agencies have
+hearts
+but anyway that they but so they still
+are not there in terms of breaking the
+public key crypto systems
+but you know it's starting to look like
+it's within shouting distance of doing
+so
+why has it been hard you know why do you
+have to spend hundreds of millions of
+dollars to get 100 bits to talk to each
+other
+jesus that doesn't sound too hard but
+obviously it is
+so what makes that a hard problem it's
+useful to remember what happened when
+people
+first started building you know
+conventional electronic digital
+computers
+they were they first started with vacuum
+tubes and then they started with
+transistors
+and then the computers that you had to
+put together you had to wire together a
+huge number of vacuum tubes or a huge
+number of transistors each
+vacuum tube where each transistor
+corresponded to a single switch or a bit
+and the vacuum tubes would break and
+blow out and then you know
+some bit in your computer has blown out
+where is it how do we find it
+and so to build a a conventional
+classical computer with a few hundred or
+a few thousand bits also took
+an apparatus the size of the room an
+effort by a huge expensive effort on the
+part of the government
+and years and years to build so it's
+hard because you're you're trying with
+competition it's hard you're trying to
+build
+a system with many different parts that
+functions reliably
+and you can control each of the parts
+that just isn't easy
+it was already hard to do back in the
+1950s and early 60s in terms of vacuum
+tubes and transistors
+and now we're trying to do this at the
+level of individual atoms
+the change in conventional classical
+computing came with the invention of
+integrated circuits
+in the late 60s early 70s where it
+became clear oh
+look we can actually have a systematic
+way of putting lots and lots and lots
+and lots of transistors on a single
+semiconductor chip and then we can
+figure out ways to scale it up
+and to make more and more and more and
+while we're maintaining things
+in a reliable functioning state
+so with quantum computers the place
+we're at right now
+is more like the place where classical
+computers were back in the
+vacuum cube era of the 1950s early 1960s
+where we're just trying to figure out
+the basics of how we put together the
+different qubits
+how we make them talk with each other in
+a way where they can do so accurately
+and come up with schemes for scaling up
+and so
+it's just simply hard to do it was hard
+to do with classical computers as well
+and it's a lot harder if the things
+you're putting together or individual
+atoms
+you have to address each atom
+individually you have to make them talk
+with each other
+pair by pair you have to zap them with
+lasers to try to tickle them and
+convince them to
+to process information the right way
+it's not you know not an easy thing to
+do and it's taking a long time
+moreover it's not even clear even though
+you know huge progress has been made in
+the last five years about this
+it's not even clear we're going to get
+there because just in the same way when
+we had vacuum tube computers it's like
+ah this is never going to work you know
+vacuum tubes are we have a computer once
+we have you know
+10 000 or 100 000 vacuum tubes they're
+always going to be blowing out it's
+never going to make we can never make
+this happen
+so we're still at the stage where we're
+aspiring to make them bigger
+if we can make them bigger that'd be
+great i mean not just for
+for you know it's fine to to factor
+large numbers break publicly
+cryptosystems and thereby screw up the
+whole
+business of the world which is to buy
+extra crap on the internet
+how disruptive would that be but but
+there's lots of other great
+applications for quantum computers as
+well and those would be wonderful if we
+could
+achieve them and it looks right now that
+what we they might actually do within
+our grasp
+interesting in addition to the number of
+qubits which is what we usually hear
+about in the popular press
+you know i had a concept quantum
+computational
+density which i don't know that's a word
+that you all actually use but i use it
+myself
+and i include the number of qubits plus
+how long you can keep the
+entangled qubits from deco hearing and
+the error rates
+and the sort of three together provide a
+combination which talks about
+the actual amount of work you can get
+done you know how do those other two
+parts the decoherence times and the
+error rates
+factor in the equation of how useful
+quantum computation could actually be
+you're right on target there jim those
+are very important you can't actually
+think of how to build a quantum computer
+with actually looking at this
+three-dimensional space rather than a
+one-dimensional space of
+how many qubits you have how long can
+you keep them coherent which
+in the quantum mechanical cases how long
+can you keep this kind of
+wave coherent coherence of the different
+waves making up the different states of
+the qubits
+because once they become incoherent you
+have a cubit that's like
+zero that's zero and one at the same
+time in this funky quantum mechanical
+way it's cool
+because it's coherent but when it loses
+its coherence then it just
+lapses into something much more
+classical which is being either zero
+or one which you can get just
+classically
+so there's the coherence time which is
+how long you can maintain this
+superposed wave-like nature of entangled
+qubits
+and then finally there's the error rate
+which you can think of
+is when you're flipping qubits from one
+state to another
+how accurately you can do that so right
+now the numbers are kind of like
+well we have 50 to 100 cubits and
+um the coherence times uh for
+superconducting qubits are in the order
+of one ten thousandths of a second 100
+microseconds 100 millionths of a second
+and during that time you can put in on
+the order of
+10 000 individual qubit operations or
+or q bit flips and the error rate so
+that
+the precision which which they can be
+done is currently around
+99.7 that's the
+that's kind of the world record right
+now for for the accuracy of an
+individual cupid so
+three parts out of a thousand
+sounds pretty accurate but it turns out
+that if you actually really want to do
+something like factor a large number
+you're going to need something like 100
+000 qubits
+you're going to be able to do millions
+of operations
+and to do this you're going to need
+error rates that are kind of
+one part and 10 000 99.99
+rather than 99.7 percent or sorry
+accuracy that's not the error rate so
+the error rate is one minus the accuracy
+if you like
+um so there uh we're still a ways away
+you know we're still a few orders of
+magnitude away
+in terms of being able to have the right
+number of quantum bits
+being able to do have the coherence
+times are now very good
+they will stay coherent for a long time
+those are actually quite adequate at the
+moment we don't really need longer
+coherence times
+but um though of course it'd always be
+nice but more bits
+and and better accuracy so lower lower
+error rate
+and the great thing about that is that
+you know we we have a goal
+we can attain it it's great and moreover
+it's in sight
+you know making a we really basically
+need a factor of 10
+in terms of the precision for doing the
+the logic operations well you know
+that actually is quite doable if we've
+already gone up by a factor you know we
+started out
+at 50 times less accurate than we are
+right now we can get another factor of
+10 we're good
+number of qubits okay we need to go up
+by a factor
+of 100 but we're up by a factor of 100
+already from you know the early days of
+quantum computing too
+so you know maybe we'll get there uh
+very hard to predict these things the
+technological prediction is a mugs game
+and in some areas some areas it's not
+maybe obviously moore's law
+has been not so bad for quite a while
+and
+i suppose the rate must have an
+exponential associated with it with
+respect to
+improving computational density in the
+quantum world as well
+of course the question always is is
+there a wall we know there's a wall on
+moore's law one wonders where there is a
+wall or not
+in the quantum world yeah so it's
+interesting you should mention moore's
+law because you know which is
+as you know but i'll just say it again
+is the this
+empirical fact you know an observation
+about technology made by gordon moore
+the head of intel back in the 70s it's
+like oh look
+the number of bits in our computers has
+been growing by a factor of two
+every two years and at that time was
+also the case that the speed of the
+computers was growing by a factor of two
+the clock rate was going by factor of
+two
+and so the overall computational power
+of the classical computers was growing
+by a factor of two or so
+every couple of years it's important to
+remember about moore's laws that moore's
+law
+is it's not a law of nature it's uh
+empirical law about technological
+progress
+and it's actually continued for an
+amazing period of time i mean it's
+really started
+back when people first started building
+computers in the late you know mid to
+late 1940s
+and has gone on ever since for 70 years
+which is why our computers are extremely
+powerful by now
+but moore's law if you actually look at
+its different features none of its
+individual pieces some of them are
+exponential like the density
+of bits in transistorized wafers has
+been going up by a factor of two every
+two years
+but the speed the clock speed of the
+computers
+stopped doubling just right after 2000
+and the reason was very simple it's like
+it was doubling every couple of years it
+was doubling
+they're getting faster and faster and
+then starting around 2003 or something
+like that when the clock speed got up to
+a few billion times a second a few
+gigahertz
+it's like you start pushing it further
+than that and the chip started melting
+and that's something it's hard to get
+around so it's have stayed at
+a few gigahertz a few billion times a
+second ever since so
+not all aspects of computation
+continue to proceed by a factor of two
+every two years
+and in quantum computing it actually
+hasn't really happened that way
+in the sense that you know the number
+of of quantum bits that we have has not
+doubled
+every two years it's been a slower pace
+uh which i think comes from the fact
+that we're really starting at the very
+bottom scale and trying to put them
+together
+with in moore's law it was really an
+observation but what happens is when
+you've got a good platform
+the silicon wafer and the etched chip
+and then you proceed by making the
+materials more pure
+by making the etching more precise by
+allowing you to pack more transistors on
+the chip
+by process of miniaturization in the
+case of quantum computers we actually
+started
+off at the most miniature scale already
+and then we're trying to put together
+more and more quantum bit per qubits
+it's a different kind of process
+and it hasn't been obeying moore's law
+though
+as i said it's sped up a lot quite
+recently which shows that if you invest
+but you give money to smart people who
+know what they're doing and invest in a
+good program for building better quantum
+computers by god you're going to get
+better quantum computers
+yeah that's cool we'll come back to the
+different architectures that people are
+working on but before we do that let's
+talk a little bit about
+some of the applications and algorithms
+and sort of
+higher level approaches to quantum
+computing
+first what we've been talking about and
+i believe it's the field that you're
+active in
+one can divide quantum computing roughly
+into
+digital quantum computing now what i
+call the quantum circuits guys and i
+put you in that bucket but there's also
+some analog
+approaches to quantum computing like
+quantum annealing or adiabatic quantum
+computing
+could you talk a little bit about the
+distinction between those two
+yeah and do you mind if i talk a little
+bit about
+about you know quantum analog computing
+in the sense
+the original sense of the word of analog
+computing
+or the original sense of the word analog
+computing is
+you build a physical system like an
+electronic system
+and you program it so that it's dynamics
+is an analog
+of the dynamics of some system you'd
+like to simulate may i talk about that
+as well
+sure good i think i'll talk about that
+first because i think that that's
+important it was really the first
+suggested application of quantum
+computers so back
+uh paul as i mentioned paul benioff
+first proposed quantum computers
+back in 1980 and in 1982 richard feynman
+said you know a good application
+of these quantum devices would be to
+simulate other quantum systems
+and he said wouldn't it be nice if we
+had a box
+with knobs on it and the thing inside
+the box was quantum mechanical
+and when we turned the knobs we were
+changing the dynamics of the quantum
+thing
+inside the box and if we turned the
+knobs to the right setting we would
+program
+this quantum dynamics in the box to be
+an analog
+of the dynamics of something we want to
+simulate for example
+we might want to simulate strong
+interactions
+in elementary particle physics or we
+might want to simulate
+quantum gravity and what happens inside
+a black hole
+or we might want to simulate what
+happens to electrons as they hop around
+inside a semiconductor all these are
+very quantum mechanical kinds of
+processes
+they're very hard to simulate on a
+classical computer
+because the classical computer has to
+follow all these different waves that
+are wiggling around in superposition and
+there are a lot of these waves
+so it's hard to simulate these quantum
+systems on a classical computer
+so feynman said hey wouldn't it be great
+to have
+a quantum simulator that could actually
+simulate these other systems
+and he was basically proposing the
+quantum version of an analog
+computer so how do we make a quantum
+system where we can program that
+to be the analog of other quantum
+systems and this is a very
+widespread application certainly for you
+know someone like me who has a phd in
+physics
+it's like and doesn't understand how
+quantum systems are behaving it would be
+awesome to have a quantum analog
+computer a quantum simulator that you
+could use
+to say now i wonder why this
+superconducting system is not behaving
+the way it should let's try another
+design let's see what happens let's
+simulate it let's see what happens if we
+do it this way
+that would be awesome so that's a great
+application
+and that is one of the applications that
+in fact is
+for quantum computers that's the most
+practical right now pretty much as soon
+as quantum computers began to be built
+you know remember i proposed the first
+design in 93
+ignacio sorak and peter zoller proposed
+how to build quantum computers using
+iron traps
+in 94. i started working with hans moya
+and delft
+to do superconducting quantum computers
+in 96 and 97 first superconducting
+quantum computers
+were 1999 yasunov nakamura
+shenzhe nec so these technologies have
+been developing one of the very first
+applications is this is this quantum
+simulation
+uh back in 94 i looked at its original
+finding paper and said
+you know that's a great idea now that we
+have quantum computers that are being
+built
+how do we do this so i started writing
+algorithms for quantum simulation
+analog quantum computers and pretty soon
+i convinced david corey at mit to start
+implementing these
+and now these are one of the primary
+applications that people use for for
+quantum computers
+uh one of the most exciting ones is to
+use it for figuring out chemical
+structure
+and drug discovery uh these are
+wonderful applications for even quite
+small
+quantum computers and that's taking the
+kind of
+quantum nature of a system that's
+processing information
+and as you were saying before you're
+just kind of writing
+the rules for how this quantum system
+behaves so that
+it behaves like another system that you
+want it to behave like
+and and this is a great application for
+quantum computation
+and then you mentioned several other
+applications for quantum computers
+that are not you know the digital kind
+of quantum computation where
+the paradigm or the most famous example
+digital quantum computation is short
+algorithm and factoring as we were
+talking about before
+so um i i call this uh you know
+quantum systems being quantum so
+and and you know being quantum is easy
+for a quantum system but it's very hard
+for a classical system to figure out
+like you or me
+or classical computers to figure out
+what it means for a quantum system to be
+quantum and how it's behaving this way
+so there's what's called adiabatic
+quantum computing where you have a
+quantum system where
+it always remains in its lowest energy
+state it's so-called ground state
+but you slowly change the parameters of
+the system so it oozes over into a new
+ground state
+new lowest energy state and at the end
+of this kind of slow
+process of changing that's what
+adiabatic means it basically means
+moving so slowly you always remain in
+the ground state at the end of the slow
+process of changing you've changed the
+parameters of your system so that the
+final state of the system
+encodes the answer to some hard problem
+that you couldn't find in any other way
+that's a very cool use of quantum
+computers and there's a
+company d-wave that's been making these
+adiabatic quantum computers now for 15
+years
+and that's a great application of
+quantum computation
+and then there's a whole host of other
+applications including the use of things
+like light
+and continuous variables things that
+wiggle up and down in continuous ways
+like the states of light interactions of
+light
+with atoms and matter to try to make
+systems
+that can uh compute and solve problems
+that you couldn't do otherwise
+in fact there's the one of the reasons
+why
+building large-scale aquatic computers
+is not so easy
+is that quantum systems give you
+a huge set of possible opportunities
+in ways to construct novel quantum
+devices and have them process
+it process information in novel ways
+and the fact that they have give you
+great opportunities
+makes it hard to take advantage of any
+one of them
+so i guess how would you say with great
+quantum opportunity become comes great
+quantum responsibility yeah and we'll
+talk about that just a few minutes the
+different technologies
+say there's many of them you mentioned
+quantum simulation for chemistry
+that's trying to put together an effort
+to use quantum simulation to find a
+better way to create
+ammonia you know we think ammonia what
+the hell you know but ammonia is the
+main basis for fertilizer and it's a
+huge
+like 50 billion dollar a year industry
+you can make it even 10 more efficient
+and be a gigantic win
+so those are you know some of the kinds
+of things that i'm hearing about
+out in the hinterlands one more
+algorithm i'd like to
+ask about is the hhl algorithm
+and in fact what does the l stand for
+about lloyd you were involved with that
+right could you tell us a little bit
+about quantum machine learning
+sure i mean hhl let me mention aaron
+harrow or navidad in hastadine
+who are the two h's there i called the
+holy hell algorithm because hhl was like
+it's easy to pronounce for that so so
+short proposed this algorithm for
+factoring back in 1994
+and it was already clear he used this
+feature that
+that you could use a quantum computer to
+extract the periodicity you know how
+fast a wave is
+wiggling up and down this is what's
+called the quantum fourier transform the
+fourier transform as you know is a
+classical technique for extracting
+periodicities
+and then alexa tayev came up with a
+variant on shore's algorithm around 1996
+and that was kind of all for quite a
+while in fact the progress in building
+quantum computers slow though it is
+has been much more steady than the
+progress in coming up with algorithms
+and applications and remember
+that quantum computing works by taking
+these waves
+and superposing them on each other
+adding up these waves
+and around the mid 2000s
+when again you know not many algorithms
+quantum algorithms had come up
+i had the idea of looking at let's look
+at
+kind of a much broader class of
+procedures than what people have been
+looking at
+so far so the idea if you look at the
+mathematics of how you take these waves
+and add them up
+the waves can be thought as what are
+called vectors and a vector is just a
+big long list of numbers
+for a wave you can say oh let's like
+take the wave and let's like discretize
+it in space and each number tells you
+the amplitude of the wave at a click
+replace like
+the first number is oh the wave is zero
+the amplitude is zero then the next one
+is one oh look the
+wave is one the next one is two oh look
+the next one is two
+the next one is two again oh look it's
+leveling off the next one is one oh look
+it's going back down
+the next one is zero oh look it's back
+down at zero so you see the wave we can
+encode the wave as just a list of
+numbers
+and the advantage of quantum computation
+here is that list of numbers can be
+extremely
+long remember with 300 qubits 300
+quantum bits the list of numbers
+is 2 to the 300 the list is you know as
+long as the total number
+of elementary particles in the universe
+so the advantage of quantum computers
+is that these vectors these you know
+digitized version of waves
+can be huge and then the
+the study of how these vectors operate
+these long list of numbers is what's
+called linear algebra
+and the way you add that you can add
+vectors together that's just you know
+quantum superposition in the case of the
+quantum systems
+and another thing you can do vectors you
+can multiply them with by what's called
+a matrix which is
+just a even bigger list of numbers now
+in the form of for instance
+a square rather than just a long list
+so linear algebra is basically the study
+of how you take these lists of numbers
+and how you manipulate them by
+multiplying them and adding them with
+other lists of numbers
+and a lot of what classical computers do
+is just this linear algebra
+and a lot of for instance when i teach
+my undergraduate mechanical engineers
+about
+numerical methods the things you need to
+know for you know doing calculus or
+building bridges or programming
+computers to do design
+to understand you know the material
+properties of structures
+a huge amount of what they're doing is
+just taking these classical computers
+programming in big big lists of numbers
+and then multiplying
+and adding and dividing them just doing
+these linear algebraic techniques
+so it's a big part of both pure math and
+a very large part of kind of practical
+and applied math
+with linear algebra so i had the idea
+it's like hey you know
+these quantum computers why do quantum
+computers do a good job
+it's because quantum systems are
+basically doing linear algebra
+you know the state of a quantum system
+is a huge long list of numbers
+we don't have direct access to the
+numbers in this list but the state
+they're there
+and when the state gets transformed you
+know when a quantum system evolves from
+one state to another
+these numbers change and the way they're
+changed is by multiplying these numbers
+by a big
+matrix you know another big square array
+of numbers
+so the quantum systems the reason why
+quantum computers are better than
+classical computers for some problems is
+that
+quantum systems are hardwired to do
+linear algebra
+so i had the idea of saying well you
+know let's look at just some other
+linear algebraic techniques let's see
+what we can do
+and one very common problem in linear
+algebra
+is you have a set of equations
+in unknown variables and you want to
+know
+what the answer is and meaning this is
+out like like
+2 x equals 6.
+what is x right well
+okay in this case x is equal to 3.
+so and then you have here's another one
+in
+more variables x plus y
+equals seven x minus y
+is equal to two well i just made that up
+in my head because
+i knew the answer because i put it in
+it's oh x is equal to three
+and y is equal to one right that's our
+old
+simultaneous equations from you know
+algebra one in eighth grade
+right exactly exactly and so um
+you know we have systematic ways of
+doing solving these equations
+actually these systematic ways it's
+often called it's often called
+gaussian elimination it's named after
+carl friedrich gauss
+and the reason it's called that is was
+actually invented in the west by isaac
+newton
+but somehow gauss made some improvements
+so they called it after gauss
+and then it was invented in china like
+1500 years ago or longer so it's been
+around for a long time
+and the systematic way of doing this
+everybody who went through eighth grade
+into this knows it's like okay
+first we add together these equations or
+subtract them from each other after
+multiplying from each other to eliminate
+certain variables
+until we end up with the answer oh look
+it turns out y equals one
+and then we plug y equals one back into
+the rest of the equations and we find oh
+look x is equal to three
+right and so uh that's called gaussian
+elimination
+and it takes some time and if you have
+more variables it takes a longer time
+and actually time it takes grows rather
+rapidly with a number of variables
+so i started looking at this problem
+like i wonder if we could you know
+if the numbers we're looking for are the
+entries in a vector
+the vector is a quantum state it's just
+a list of numbers
+and we can write these linear equations
+by saying
+oh let's take this list of unknown
+values
+we multiply them by a vector that gives
+the kind of like
+2x plus y is equal to 2x plus y
+part or the you know x minus y part that
+you can get by multiplying this list of
+number unknowns by
+a matrix and then you say oh and it's
+equal to a known vector that gives us
+2x plus y is equal to 7 x minus y is
+equal to 2.
+so then we have this list of the knowns
+then we
+we are rephrasing the problem in the
+form of
+ax equals b where x is an
+unknown vector b is a known vector and a
+is a known matrix so
+i said let's see if we can solve that i
+said you know what
+i know how to solve that it's pretty
+funny actually the way we came up with
+the solution so
+avinalton
+and i just made them a big italian lunch
+and the rule of coming out and working
+with me there is that you spend the
+whole day you work really intensely for
+like four hours i make
+a large and delicious detail well i i
+regard as delicious they may not but a
+large italian lodge
+you eat it while you're eating you talk
+about other things you don't talk about
+physics
+but while you're washing up afterwards
+you're allowed to start talking about
+physics again
+we were washing up after the lunch and
+and aaron said well so seth
+are you have any problems you're working
+on i said yes i am actually
+working on this problem you know uh
+ax equals b and we want to find
+x is equal to the a inverse multiplied
+by
+b and i said i can do 99
+of this problem because i can show i can
+solve the problem with the form
+of you know i can say i can produce e
+to the a inverse x where this is just
+some you know
+different version the same problem i
+said but i can't get to the last step
+and aaron said
+oh but that's easy and he explained how
+you do it and that was it
+that's a wonderful story about
+collaboration exactly and then of course
+of course then it took three months
+actually to get the paper written to
+figure out all the
+dot the i's across the t's and all the
+epsilon deltas
+but then we had the answer to that and i
+think that that
+i mean first of all it's a fun problem
+because it solves a very fundamental
+question
+in linear algebra that i think is great
+but i think the other thing that was
+really fun about that work
+is it showed it kind of said it was that
+it's not just like they're just a few
+problems in linear algebra that we can
+solve like this original one from like
+finding periodicities from schwarz
+algorithm it's like
+oh look we can we can solve equations
+with a whole bunch of unknowns
+and then a bunch of us realized you know
+oh this means that pretty much all of
+linear algebra which is a huge field
+right pretty much all of that would be
+much much much faster on a quantum
+computer if we could build one
+which leads me to my next question when
+i read about hhl i said
+linear algebra what else is based on
+linear algebra
+deep neural nets has anyone to your
+knowledge
+attempted to at least design the
+algorithms for what
+neural nets might look like on a quantum
+computer
+absolutely and that's that's exactly
+what we decided to look at
+um was just so neural networks are you
+know
+a classical method for trying to
+figure out you know simulate on a
+computer in a
+stylized fashion what happens inside the
+brain and famously they're used
+in very widespread fashion now
+artificial neural networks are used for
+machine learning for finding patterns
+and data
+because it turns out if you make huge
+honking artificial neural networks and
+tune them
+turn them loose on gigantic training
+sets of dana
+that they do pretty well at least you
+know for extremely important societal
+problems like
+recognizing pictures of kittens on the
+internet
+which actually you know i was a little
+surprised that that when when google
+was amazing that google was able to
+train a deep neural network
+to recognize that there are lots of
+pictures of kittens on the internet to
+figure out how to do it but
+you know it's not that strange because
+if you pick a random picture from the
+internet and show it to computer the
+chances
+are that it's a kitten they're already
+relatively high so just guessing
+yeah it's kittens probably going to
+probably do pretty well
+um yeah so this is a great question jim
+and and that in fact is one of the
+primary proposed applications of quantum
+computers right now
+is quantum machine learning in general
+and things like quantum versions of
+neural networks in particular
+and i think here's is there's a
+tremendous opportunities
+because we have these fantastic classic
+machine learning
+algorithms now you know it's no secret
+that over the last
+five to ten years that classical machine
+learning has been going wild and
+accomplishing things that were
+very unexpected uh whereas previously
+actually for the previous 20
+or 30 years it hadn't been working that
+well to tell the truth
+somehow this threshold got crossed where
+the amounts of data got big enough
+the computers got more powerful and the
+methods were defined to the point where
+they could really do some pretty
+impressive things
+um you know not just you know uh beating
+the world go
+champion and go or recognizing you know
+doing facial recognition or pattern
+recognition or voice recognition it's
+kind of a lot of things are coming
+together um that doesn't mean i'm still
+going to be willing to just get into a
+car
+that's driven by some big machine
+learning algorithm and have it drive me
+around at 70 miles an hour through the
+streets
+but there's still some glitches to be
+worked out
+yeah but the quantum version of this is
+remarkable as well
+and i think that that it suggests going
+forward
+um one thing that we're working a lot in
+my group is kind of a partnership
+between
+quantum methods and and the classical
+methods because as you say
+classical neural networks the way that
+they work is
+you take a huge vector a huge long list
+of numbers you multiply it by a gigantic
+matrix called a weight matrix
+and then you take the resulting vector
+that you get after you know transforming
+this vector
+in this fashion using linear algebra and
+then you apply some kind of nonlinear
+transformation on it
+this nonlinear transformation is the
+analog the
+the computational analog to what a
+neuron does
+the neuron has all these synapses with
+signals coming in
+those signals get processed in a way
+where they get combined and added and
+subtracted from each other
+in a way which is like this multiplying
+these signals these list of numbers by a
+matrix
+and then the nonlinear part is okay do i
+fire or not
+the neurons question is like oh well
+yeah the if the inputs
+process inputs get above a particular
+threshold by gum i'm gonna fire
+if they're not i'm gonna hold my keep my
+powder dry i'm not gonna fire
+so the nonlinear part is this firing
+part and the neurons the linear part is
+this
+combining of a huge number of incoming
+messages
+so for the quantum version of neural
+networks
+a really great application of quantum
+mechanics is like oh look the quantum
+systems are great at combining vast
+numbers of these signals encoded as
+quantum states
+you know adding and subtracting them
+multiplying them by different numbers
+and putting them together
+let's take those and let's combine them
+with a classical device that's going to
+take
+the results you know of say classical
+measurements made on these states
+and then do these non-linear
+transformations
+and this this kind of hybrid
+architecture uh
+it's one of the nice things about it is
+you know it's going to be at least as
+powerful as either the quantum or the
+classical on its own because
+you know you could always just turn the
+classical part entirely off and have a
+fully quantum device or turn the quantum
+part entirely off and have a fully
+classical device
+but by getting them to collaborate with
+each other the quantum the classical you
+have a device
+that is at least as powerful as just
+classical or just quantum on its own
+that's a very exciting set of
+applications
+yeah it looks like an area that's going
+to be well worth following
+doing that let's now turn to something
+that our investor
+listeners which we have some would be
+interested in which is
+the underlying technical substrates
+for implementing quantum computing two
+of the big ones
+that seem to be still hanging in there
+is the two leading contenders are
+super conductors and trapped ions i
+think you talk a little bit about those
+two and then we'll talk about some of
+the others
+yeah that's a very it's a very good
+question about i mean i'm sure and i'm
+sure there's a lot of question right now
+it's like
+there's a race to build the first
+scalable quantum computer who will win
+you know the you know the state of the
+known universe hangs in the balance
+um that kind of thing and uh
+so yeah the i mean i think the first
+thing to recognize
+about how you build a quantum computer
+is that
+you know pretty much any quantum
+mechanical system
+makes a good makes it could be a quantum
+bit because the whole quantum in quantum
+mechanics tells you
+that there's this kind of discrete
+nature this kind of digital nature to
+quantum mechanics at bottom
+so recall you know when i made this
+first design you know back in 1993 for
+how you might build a quantum computer
+uh i scraped around for years like for
+five years or so trying to figure out
+how to do this because
+there was no technological guidance
+nobody knew how to do it and then
+finally i said hold but hold it you know
+really any quantum system will work we
+can have an atom we've got an electron
+electron you know
+over here that's zero electron there's
+one
+we have the spin of the electron
+electron spinning clockwise we call that
+zero electrons electron spinning
+counterclockwise we call that one
+it doesn't have to be electron it can be
+a proton or a neutron with its spin
+clockwise counterclockwise zero one
+we could have a photon which is a
+particle of light
+where it's it's polarization you know
+wiggling back and forth
+is zero wiggling up and down as one and
+that is the advantage that it moves from
+one place to another the speed of light
+which is kind of
+useful if you want to communicate
+quantum information from one place to
+another
+every atom has internal atomic states
+and these eternal
+atomic states can be can be controlled
+and changed by zapping them
+with light any two atoms that
+interact with each other their
+interaction can be taken to
+perform a quantum logic operation
+and then actually so and this of course
+is the basis for iron trap quantum
+computing
+that was proposed by ignacio serach and
+peters older in 1994
+it's like oh yeah look you can take or
+maybe it was 1995 i forget
+it was a little after shore's algorithm
+they said look you can take these ions
+which are
+atoms where an electron has been
+stripped off as in the old joke
+you know two hydrogen atoms
+stagger out of a bar and one says oh
+shoot i lost an electron and the other
+one says are you sure
+and the first one says yeah i'm positive
+sorry ha ha
+that's terrible that's a groaner of the
+first water
+anyway you strip electrons off the off
+the atoms they're now ions
+they're positively charged so they repel
+each other
+and then you trap them in a trap that
+has
+has both static and dynamic
+electromagnetic fields and you can line
+them up in a trap
+they interact with each other because
+they repel each other because of their
+positive charge
+and the they have internal states that
+can store quantum information for a very
+long period of time they make extra
+excellent quantum bits or qubits and
+then you can take their interactions
+effective direction act
+interacting and then by you know
+tickling them in the right way you can
+really get these interactions to allow
+them to perform you know quantum logic
+operations on several quantum bits at
+once it's very nice
+very nice substrate for design for
+making a quantum computer
+the atoms are extremely coherent they
+have very long coherence times
+on the order of hours right
+and so coherence is not a problem the
+laser techniques for zapping the atoms
+with lasers for getting them to talk
+with each other
+that actually those are very well
+developed and so you have very high
+accuracy gates with very low error rates
+and they're really the main problem is
+just from the technical limitation of
+putting
+ions together in iron traps once you've
+got about 100 ions and a single iron
+traps that's about all you're going to
+get into one iron trap
+otherwise there are too many that start
+all apart so then you have the problem
+of
+if you want to build a scalable quantum
+computer to make it larger and larger
+you have to put
+more and more and more ions together and
+indeed you need a way of having
+different iron traps talk with each
+other
+and this is currently the technologies
+we're doing that are kind of slow
+processes of quantum communication that
+take quite a while
+to move quantum bits from one iron trap
+to another that i would say
+is probably the biggest bottleneck at
+the moment making large-scale
+uh computers using iron traps because
+the other features are great the
+coherence is amazing
+impeccable basically eternity so far as
+we're concerned we're not worried about
+quantum coherence
+and the ion traps the coherence times
+our coherence time is very long
+the the control parameters in terms of
+the
+the performing low error rate gates that
+still has a lot of work to do
+you know there remember the kind of like
+benchmark you really want to get is
+99.99
+accuracy before performing individual
+gates
+there's still a nine or two away from
+that they've got a factor of 10 or more
+for doing that but that's in good shape
+there the bottleneck has this
+communication
+but this is a great technology for
+decades it would because of the long
+coherent specific control
+characteristics this iron traps were
+considered to be the front-running
+technology for
+building quantum computers ever since
+they were proposed by
+sorak and zola and then implemented and
+this is one of the features for which
+weiner got his nobel prize
+in physics so that's a great technology
+one of the two
+front-running technologies then so that
+was early 90s or like 94-95
+or mid-90s a bunch of people started
+talking about the possibility of using
+superconducting systems
+for performing quantum computation as i
+mentioned my introduction introduction
+from this came from talking with hans
+moay
+m-o-o-i-j hard name to pronounce a very
+distinguished professor
+of uh of physics at the uh
+technical university of delft kind of
+the mit of delft
+except in holland they believe it's
+better than my team so anyway i'm not
+sure i believe that but it's great place
+and hans had the idea that you could use
+something what's called macroscopic
+quantum coherence that had been talked
+about a lot by um
+people like tony leggett who got his
+nobel prize for
+elucidating how superconductivity work
+so the idea here
+is and other people by the way like as i
+said
+nakamura were working on the same id at
+the same time so the idea
+of macroscopic quantum coherence is the
+following
+so a superconductor is a state of matter
+typically something like
+a metal like aluminum and when you cool
+it down below
+a certain temperature you find
+mysteriously and quite remarkably
+is that the resistance of for the flow
+of current goes to zero
+this is because below a certain point
+and in order to get resistance
+you need the thermal expectations of the
+system to
+be sufficiently great that will knock
+the electrons out of the state that
+they're in in order to get resistance
+but there's just not enough energy in
+the thermal fluctuations to do that
+so the electrons once they start going
+they just keep on going forever and so
+you can build a loop a superconducting
+loop
+where one of the states of the loop is
+electrons going around the loop forever
+in a counterclockwise direction
+and another state of the loop is
+electrons going around the loop forever
+in a clockwise direction these are
+perfectly reasonable states of a
+superconducting system
+now if you have macroscopic quantum
+coherence
+then what happens is this macroscopic
+state of the electrons you know we've
+talked but we're talking a state of
+trillions of electrons here
+trillions of electrons going around the
+loop clockwise forever
+or trillions of electrons going around
+the counterclockwise forever
+you can create a quantum state which is
+trillions of electrons going around the
+root the loop
+in a clockwise direction and in a
+counterclockwise direction
+at the same time just in the same way
+you can have a single electron that's
+over here and over there at the same
+time in some funky quantum mechanical
+sense
+that nobody understands so this
+macroscopic quantum coherence is really
+weird because it's like wow trillion
+electrons going
+clockwise around the loop and going
+counterclockwise around
+at the same time just doesn't make sense
+and it doesn't make sense but that's the
+way it is
+and in the late 1990s nakamura shenzhai
+at nec
+and subsequently hans moy kasper van
+deval a delft an experiment that i was
+honored to be able to participate in in
+helping with the theory
+managed to demonstrate this macroscopic
+quantum coherence and showed the
+existence of the first superducting
+cubits so it was 1999-2000
+an amazing wonderful
+demonstration brilliant experiments
+and the only issue for using these for
+quantum computing is that the qubits
+sucked that's a technical by the way ah
+yeah
+that's the acronym s-u-c-k right
+exactly you know you could get these
+super currents going in this quantum
+super position
+and they go around the loop you know a
+few hundred times and that was it then
+the whole thing would fall apart they'd
+decode here
+you know the coherence times were very
+short we had no idea why this was going
+on
+a whole bunch of people tried to make
+them better a little bit of progress
+happened
+some practice and design happen and you
+know we said oh let's make them smaller
+you know let's try different techniques
+for etching out the superconducting
+circuit
+let's you know bring out all the
+possible you know methods we have for
+doing it
+and then around oh i don't know mid
+mid-2000s maybe 2007 2008
+rob shulkoff who was at yale then said
+you know what
+let's try making the qubits bigger
+instead of smaller and
+let's take these superconducting qubits
+you know
+they're part of a superconducting
+circuit that has these different
+features in them and like we have a lot
+of flexibility in how we design these
+things let's try making them bigger
+and you know what this worked like a
+charm turned out that making them
+you know ten times as big which inside
+and you know spatial extent which made
+them a hundred to a thousand times a bit
+big in terms of the amount of material
+that was in them
+this meant that they became much more
+coherent and there was amazing insight
+by rob
+and his group there including people
+like michelle defray
+which was that oh what's what's the
+problem the problem is
+in these you know in the metals and the
+insulators that make up these
+superconducting
+qubits even though these are very very
+refined and we're doing the best we can
+there are these little tiny defects in
+places
+that are out of our control and these
+defects are what are causing
+this decoherence and causing things to
+be messed up
+now if you make the system bigger
+you think oh but you know now you have
+more defects
+and that's true but what also happens is
+that the electrons
+that are doing the superconductivity
+their waves
+get spread out over a much larger volume
+and so each the electron experiences
+each defect to a much smaller degree
+and when you do a little bit of the math
+you find out okay
+you know the effect of each defect goes
+something like okay
+the number of defects grows linearly
+with the volume
+or the size but the effect of the
+electron goes down as something like one
+over you know the cube of the size or
+something like that or the square of the
+size depending on the
+on the particular architecture and
+geometry and so what happens is the
+coherence time just shoots up
+and along with this this innovation
+along with other innovations we're going
+and other other kind of superconducting
+systems
+the coherence times of these
+superconducting circuits went from being
+100 nanoseconds you know a tenth of a
+millionth of a second
+down to 100 microseconds or 100 two
+thousand microseconds it went up by a
+factor of 10 to the four of a thousand
+to ten thousand even a hundred thousand
+over the course of around a decade
+or less and that meant that all of a
+sudden these superconducting qubits
+which
+previously had been limited by their
+coherence times that was no longer the
+limitation
+an amazing wonderful technological
+advance
+and the thing about superconducting
+qubits is because you can etch them
+on chips with technologies that are
+similar to those
+where you etch semiconductor chips so
+here you're etching things like you know
+aluminum
+and aluminum oxide onto the chips along
+with other kinds of you know
+transistorized controls
+you have a lot more flexibility for how
+you put the qubits together than you you
+do when you have ion tracks
+so now we have these two technologies
+and the ones that that
+that google when google when harper
+nevin had this insight hey you know we
+can do this we can wrap this
+up he said let's go with the
+superconducting technology
+the time is right for that we can build
+larger superconducting technology
+chips and he listed john martinez at the
+same time john martinez had this strong
+vision for how to make this happen
+and they did and they made it happen and
+uh very impressive so the devices are
+remarkable
+buying traps haven't gone away there's
+an amazing startup done by chris monroe
+called inq
+there's a lot of academic research on
+this where inq they also have you know
+100 cubits in their system
+and then they're actually the thing is
+because of what i described before it's
+like
+any quantum system is a reasonable
+candidate for doing quantum computation
+you know i our conducting systems are
+the current front-runners in the
+technologies
+but coming up behind them are a lot of
+other technologies which have all kinds
+of potential advantages
+and are not yet as well developed as the
+superconnecting systems and ion traps
+merely because
+they haven't had as much investment for
+them in them and these include things
+like
+other atom and optical technologies
+all optical technologies companies like
+xanadu
+or uh jeremy o'brien's company
+sorry jeremy i forget the name of your
+company right now but it's a great
+company
+new company using uh uh atoms and optics
+using entangled in different ways so
+there are a lot of other technologies
+that are
+currently in the form of things like
+startups that might very well have
+breakthroughs and leap to the front of
+the pack
+it's a little too early to decide in my
+opinion at any rate to decide it's just
+going to be superintendent systems it's
+just going to be iron traps
+or one of these other technologies
+because they all have their advantages
+now what i stumbled across and i was
+doing my research for the show
+has the mouthful name non-abelian
+india ah apparently that's microsoft's
+bet
+uh what's that oh yeah this is a
+wonderful i mean
+this non-abelian anions as the name
+suggests are like
+i have no idea what the hell they are
+but it sounds super cool
+exactly that was my reaction what the
+ i think i know what
+none means but i'm not sure what abelian
+ineons might be
+right yeah this is a very beautiful
+theoretical idea that was proposed
+by the the brilliant scientist electric
+type back in the 1990s
+and he was using what are called
+topological effects
+topological effects are things like you
+know topology are things like based on
+knock theory
+right a knot is something what is a not
+well a nod is an arrangement of strings
+where you take a rope or a string and
+you you interweave it with each other in
+a particular way
+and once it's interwoven in a particular
+way the actual
+kind of like exact way that the string
+is lying on top of each other
+doesn't really matter what matter is is
+how it's interwoven
+and so if i tighten it up it's still the
+same knot or i loosen it a little bit
+it's still the same knot
+the knottedness comes with the topology
+of how it's knotted together
+and ketaya came up with this amazing
+idea that
+there are these topological excitations
+at microscopic levels you have these
+systems where
+the way the system behave depends on its
+topology kind of the way it's
+knotted together rather than on the
+exact microscopic configuration of the
+system you know exactly where
+the the the electron is and so
+there are these things called these
+topological excitations of the feature
+that how they behave and what they do
+depends on how
+you knock them together and the way you
+knock them together
+is actually you kind of move them around
+each other
+i pick up one system and then i i i
+take it in a circuit like it takes a
+little version to move
+all the way around another system and
+the way this is described if you do it
+in time if you imagine unraveling this
+in time
+it's like a braid i have you know the
+time the history of one system is a
+string
+here's one system that's sitting still
+it's just like a string that's pulled
+tight
+and then the history of the other system
+that i'm moving around it's like another
+string
+but i take the string and i take the
+front of the string
+and i move it all the way around the
+other system so i'm braiding the history
+of this system around the other system
+does that make sense it's hard this
+would be easier if i
+i had some props with me yeah it's hard
+to get one's head around
+but it's interesting that it's
+essentially quantum manipulation of
+topologies holy
+right so it's you you just by by taking
+system and moving one system around the
+other then that's a kind of if you if
+you unravel this in time it looks like a
+braid where a braid is you just have a
+series of ropes or strands of hair
+you pick up one strand and then you
+braid it around the other system
+properties of the dynamics of the system
+end up being a property that's braiding
+and so the the topological part
+is is the braiding part and then
+the fact that what happens to the
+there's a kind of a trivial way of
+braiding which is called abelian
+braiding whereas if you
+if you do it to one system then you to
+another system doesn't matter what order
+you do the braiding in and that is not
+enough doing quantum computation
+the non-abelian part says what happens
+to the quantum systems depend on the
+order in which you braid
+one around another and then the anion
+just means that you can do anything you
+want with these cis with these
+topological systems including doing
+quantum computation
+so the non-quantum computation with
+non-abelian anions comes from this
+braiding of these topological quantum
+systems around each other
+i know it's like i'm trying to i'm just
+doing my best gem i'm just doing
+my best i i can't can do no more okay
+let's hop
+up to how does it do on our three
+factors
+number of qubits decoherence time and
+error rates
+so great so that's the what is what is
+good about
+these these these topological systems
+it's the fact that the way they behave
+is insensitive to just kind of the
+microscopic state of the system
+remember in a knot i can have a knot
+that's where the the it's knottedness
+and then the form that the knot takes
+doesn't matter just like how tightly the
+strings are pulled or not it doesn't
+matter you know i take
+you know i have a loose knot and i move
+a little bit of string to one place
+through another i poke around and the
+knot it's still the same knot
+even if i move everything around i like
+pick it up and i shake it
+yeah that's topology right but apology
+is that
+the what it's doing is insensitive to
+you know the details of the geometry
+right so the great thing about these
+topological computational methods
+and this was pointed out by kataya from
+the 1990s is
+that the computation that they're
+performing is insensitive to the exact
+way that you braid things around each
+other
+you know you're a little sloppy about
+how you braid the things around
+who cares what happens in terms of the
+computation is exactly the same
+so the great thing about this from a
+theoretical perspective is these
+topological methods of computation
+which are the ones being pursued by
+microsoft are intrinsically insensitive
+to how you do this
+so they've got an intrinsic error
+correction built in
+already whereas in a kind of a more if i
+may call it conventional quantum
+computer like an ion trap or a
+superconducting system
+you have to perfectly encode the error
+correcting in by building a whole bunch
+more qubits by doing a whole bunch more
+error correcting operations and it's a
+mess
+so that's the real advantage of these
+topological methods
+and this was as you mentioned this is a
+method that that so
+there they have the kind of error rate
+if you can make it happen
+then you're in great shape and microsoft
+a long time ago decided back in the late
+90s
+due to the brilliance of michael
+friedman who said
+who there's a fields medalist you know
+the mathematical equivalent the nobel
+prize except even more
+more prestigious feels medalist in all
+things topology
+he said look back in the 80s he was
+already saying look babe we could use
+these topological methods with quantum
+systems to do computation
+and then in the late 90s he started
+station q at microsoft back in santa
+barbara it's like let's make this happen
+and microsoft's been working on it ever
+since a beautiful set of ideas wonderful
+experiments
+with these topological excitations which
+you know previously didn't exist they
+now actually exist
+uh the problem is they exist at the
+level of you know
+one qubit and they haven't yet been able
+to do a single two-qubit
+operation so for the theory side it's
+fantastic from the basic
+physics side it's amazing the
+experiments done by people like you know
+charlie marcus or leo von kavenhoven at
+delft they're beautiful
+wonderful experiments kind of nobel
+prize character kind of experiments
+but in terms of building quantum
+computers the number of qubits is very
+small in fact they still don't really
+have two qubits to rub
+together that's not much so then on our
+three-part model they're
+good on decoherence they're good on
+error rates but they can't
+so far figure out how to even entangle
+two cubits
+well yeah so that's a problem now it's
+possible they may have some some
+breakthrough in this but you know
+turns out that this particular method
+maybe because it's so
+beautiful and fancy and accomplishes all
+these other things you know you don't
+get something for nothing so
+by having this kind of comp these
+topological methods
+you have to struggle so hard to get
+these beautiful uh you know
+resilient topological quantum
+excitations that
+the rest of the features like scaling it
+up then you take a big hit
+in that yeah no free lunch right
+now let's move on to let's jump out of
+the fairly straightforward world of
+quantum computing
+into the wild blue yonder late in your
+book actually
+it's in the beginning too and here and
+there but especially late in your book
+you start making some strong arguments
+about the universe as a quantum computer
+and some amazing claims about how
+thinking about the universe as a quantum
+computer
+solves some minor little problems like
+quantum gravity
+right which is the biggest question in
+physics today
+you know how the hell do we reconcile
+the macro sphere and general relativity
+with quantum mechanics
+so why don't you go on a wrap here for a
+couple of a few minutes
+on the universe's quantum computer and
+what that insight provides us in terms
+of trying to figure out
+how the universe is well jim well this
+is a
+this yeah this is a story that i've been
+very important for me personally
+because the question of quantum
+information and quantum gravity is how i
+got into the field in the first place in
+1983-84 i was taking
+i was a graduate student in cambridge on
+a marshall scholarship doing this
+masters in philosophy of science and and
+i took stephen hawking's uh graduate
+seminar on quantum gravity
+at that time and said you know this
+stuff that i'm doing about information
+and quantum mechanics can really fit in
+well with this quantum gravity stuff and
+i started working on it ever since i've
+been working on it ever since not very
+successfully
+may i say and actually nobody else was
+doing this for a long time
+and now just suddenly all of a sudden
+the last few years everybody's decided
+that quantum information and quantum
+gravity goes together so
+that's nice but in terms of the universe
+as a quantum computer
+the argument there it's not even an
+argument and
+i know it sounds you know like
+completely overblown like oh the
+universe is a big quantum computer it's
+like
+oh when you study quantum computation
+everything's a quantum computer it's
+like when you've got a hammer everything
+looks like a nail
+but it's not really that that's not
+what's going on here it's really has to
+it's related to what i was describing
+earlier about how you build quantum
+computers
+so in figuring out how to build chronic
+computers in the first place i was like
+i wonder what kind of would be a good
+like you know substrate for building
+quantum computer and that was like
+huh you know could be anything because
+everything out there
+in the universe you know every atom
+every elementary particle every electron
+every quark every photon
+carries with it quantum information and
+when
+different atoms electrons photons quarks
+interact with each other
+that information is changed and
+transformed
+and so the carrying information you know
+registering information in a quantum
+mechanical fashion
+every individual piece of the universe
+does that
+and then when two pieces of the universe
+interact with each other your two
+elementary particles bounce off of each
+other
+that information that they carry is
+processed and transformed
+so when we build a quantum computer all
+we're doing is just accepting the
+reality that everything out there in the
+universe is already
+registering quantum information and
+processing it in a systematic fashion
+so to build a quantum computer what we
+need to do is kind of hack into this
+ongoing computation
+and see if we can't you know by tickling
+things with lasers or mazers or you know
+or like by electric potentials and stuff
+if we can't kind of guide this ongoing
+computation towards directions to doing
+things that we'd like to do like quantum
+stimulation or factoring
+so my realization that the universe was
+really the whole thing was a quantum
+computer
+really came from this very practical
+engineering challenge
+like hey how do we build a quantum
+computer what can we use oh we can use
+anything we want because they're already
+processing information in a quantum
+mechanical fashion these electrons are
+already
+effectively computing and what we need
+to do is not you know
+make them compute or exploit them to
+make them compute
+we need to recognize that they're
+already computing and processing
+information
+and then intervene into this this
+computation they're already performing
+to program them
+to do something different and something
+we'd like them to do hence the title of
+my book programming
+the universe you know when we were
+building a quantum computer
+we're not actually you know doing
+something that the universe wasn't doing
+already
+we're simply intervening in part of the
+universe to program it to perform
+a complication we'd like it to perform
+and if you ask
+electrons and atoms and through chronic
+interpretation the right way very nicely
+speaking their own language
+tickle them with light in the right
+fashion by gum they're going to do that
+for you and that's what's happening with
+quantum computation
+so when you actually think of the
+universe as a as a quantum computer i
+actually would say it's not you know a
+metaphor it's just a fact
+right it every piece of the universe is
+registered information
+you know when pieces of the universe are
+direct they're processing information
+information processing is computation
+that what computation is by definition
+and the universe is processing
+information and computing in a quantum
+mechanical fashion it's just a fact it's
+not a metaphor
+but some of the implications that you
+take from that are quite astounding
+well i mean you know you take this facts
+and i'm going to just call it a fact
+because it's a fact
+and you say well what are the
+implications for this well one you know
+implication you said as well maybe we
+could understand this
+famous unsolved hundred-year-old
+unsolved question about how you make a
+quantum theory of gravity
+using ideas from quantum information
+processing that would be great
+you know i've been working on this since
+early 80s
+and you know making progress slow
+and not even steady slipping backwards
+and more recently people like
+lenny suskin you know the last few years
+have advocated doing this
+um and now there are a lot of people
+working on this problem maybe we'll make
+progress
+quantum mechanics and gravity is a more
+than 100 year old question
+and indeed a few years ago at the at the
+100th anniversary
+of einstein's discovery of the theory of
+general relativity
+some friends of mine and i who do we all
+do quantum gravity we said
+let's have a conference entitled a
+hundred years of
+failing to quantize gravity
+[Laughter]
+because let's face it we still don't
+know how to do it
+and if someone tells you you know they
+know how to do it it just merely means
+that they're a string theorists
+but i think that there's actually you
+know so it could be helpful for that
+that would be great
+i think there's one aspect of the fact
+that the universe is
+in fact a big quantum computer that is
+really amazing and there's an
+implication
+of that that is remarkable and does
+explain something
+that is very beautiful and profound
+about the universe
+which is why the universe is so complex
+ah i was going to ask you that was going
+to be my next topic let's just roll with
+that
+this will be our last topic and then we
+will wrap up
+good so let's just move into that
+because this is a very wonderful
+question
+and people have been asking this
+question as look for as long as they've
+been people you know
+you stare up at the night sky what's
+going on out there
+what what are all these stars you look
+at the world around you know you know
+what is all
+are all these living things my god look
+at human beings what the heck is going
+on here
+it's totally out of control with
+complexity
+where did that come from a very
+mysterious
+question that's very hard to answer and
+you know in some sense
+is this question is that the basis for
+organized religion
+disorganized religion personal religion
+etc
+and you know people in science have been
+scientists have been trying to answer
+this question
+for hundreds of years as well also
+failing to do so
+actually from the point of view of
+physics it's particularly mysterious
+because
+one of the features of physics is when
+you look at things at their most
+fundamental level they look simple
+you know the standard model for
+elementary particles
+fits on a t-shirt it's simple
+how do you have these simple laws and
+get all this complex stuff
+coming out of it well the fact that the
+universe is performing a quantum
+computation
+actually provides an explanation for
+this because a computer at bottom
+is in fact a simple thing the dynamics
+of a computer
+oh it's a simple the computer it's got
+information in it stored in bits
+and the quantum computer is stored in
+quantum bits or qubits that's fine
+bit is a very simple thing it's
+something that has two possible states
+which we just happen to call zero and
+one
+or electron here an electron there and
+then the the elementary logical
+operations out of which the computations
+are built
+are also very simple it's like oh we
+just flipped the bit we move the
+electron from here to there or
+you know we have a we flip this bit if
+this other bit is one
+oh we only flipped the bit at the other
+bit as one that's called controlled not
+non-operation
+it's a very simple logical operation and
+if you look at the most complicated
+computations you know
+that involve bajillions of bits a
+technical term
+and performing gajillions of logical
+operations that's also a technical term
+all it is is a lot of bits and flipping
+these bits in a systematic fashion
+well that's a computation and out of a
+computation
+even though the actual dynamics and
+underlying physical reality of the
+computation is simple
+just bits bits interacting with each
+other bits flipping in a systematic way
+you can get very very very very
+complicated behavior out of a
+complication
+so this is great because this tells us
+how we can get
+a universe that has very simple laws
+simple ways of representing information
+simple quantum mechanical rules for
+flipping bits
+and yet and it can start from a very
+simple state at the time of the big bang
+and yet it can spontaneously generate
+any kind of complicated behavior that
+you
+would like to think about and for this
+we just need a little extra bit of
+mathematics and the mathematics is very
+simple it says
+we take something that's capable of
+computation
+we give it a random program so we give
+it random bits to start out with
+and we look to see what happens and
+there's a beautiful aspect
+of mathematics called algorithmic
+complexity
+theory that says this computer
+programmed at random
+is going to has a finite chance of
+producing any complex system you can
+imagine
+not only anyone that already exists but
+any complex system that can exist
+and anyone that you can even imagine and
+that's a very beautiful piece of math
+and when we apply to the universe as a
+whole we say look
+the universe is a quantum computer it
+gets programmed at random by these kind
+of just like
+quantum randomness but when we take a
+computer we give it a random program
+what do we expect happens
+we expect amazing beautiful wonderful
+complex things to happen and that's what
+happened
+yeah so that the quantum randomness or
+pseudo-randomness or whatever it is
+was the mechanism by which complexity
+was bootstrapped from
+a relatively uniform early universe
+is that it in a nutshell exactly i mean
+and there's lots of very cool stuff in
+this it's like it's like it has to do
+with gravity and actually quantum
+gravity it's like
+oh you know the universe was very
+uniform to begin with and at a state of
+maximum entropy how did it get
+so non-uniform turns out when you have
+gravity
+that uniformity is bad clumpiness is
+good
+matter likes to clump together to form
+things like you know stars and planets
+and galaxies
+and then once things start to clump it's
+like oh
+you know actually then this
+spontaneously generates the information
+theoretic conditions that allow
+computation to bootstrap itself into
+more ever more complicated forms by
+generating ever more complicated forms
+and patterns in energy so called free
+energy so you know
+first you get planets stars galaxies you
+get
+then you get you know on planets you get
+more and more complicated chemical
+compounds that can recombine in ever
+more
+complicated chemical fashions to perform
+more and more complicated chemicals that
+oh my god
+then a certain point it's like oh this
+group of chemicals could be rna or
+something like that
+they figured out a way to reproduce
+their state but with variation
+once you have things that reproduce with
+variation then that's just life
+man you know and and then life is off
+and running and so there's a very
+natural tendency at each stage along the
+game
+for the information processing power of
+the previous generation if you like
+to get bootstrapped into an ever more
+complicated form of information
+processing in the next generation
+though it is difficult to maintain that
+right the famous error catastrophe and
+evolution
+right it's not easy to maintain that
+complexity from
+generation to generation that's what's
+so interesting about life
+i had an amazing conversation with
+stuart kaufman once out of sfi for about
+four hours and we both ended up at the
+same point which was how the
+ did pre-organic life
+managed to get over the error
+catastrophe because the rna world
+alone the error rate is too high but
+when you get to the dna plus all the
+replication machinery the error rate is
+low enough to defeat the error
+catastrophe
+how the hell did we get over that bridge
+without the air correction
+and we both said if we know that it
+may actually have something to do with
+the fermi paradox just maybe some
+goddamn art maybe it only happened once
+but anyway i would put that caveat
+on your story which is yes quantum
+randomness creates
+complexity but often the complexity
+breaks down again very quickly
+absolutely and in fact the one of the
+features that exactly be the same
+instability that makes you know matter
+and energy clump together to form stars
+and galaxies and then
+you need instability in order to go from
+something that's
+homogeneous and uniform to something
+that's non-homogeneous and non-uniform
+the same you know instability that says
+oh simple groups of chemicals together
+are not unstable to the formation of
+more complex groups of chemicals
+and then oh just complex groups of
+chemicals are unstable to
+the set of auto catalytic sets and say
+something like the rna world if that's
+how
+the world came together but then the rna
+world is unstable
+to things that have dna and error
+correction that can be more meticulous
+and create even more complex forms
+so i don't claim to understand this but
+you know something like that definitely
+happened
+interesting well i think we're going to
+wrap it up here we have covered some
+amazing amount of ground
+and people who hung with us to the end
+have gone on an amazing
+journey so i want to thank you very much
+seth for
+just a tremendous episode thank you so
+much jim next time
+fermi paradox indeed
+[Music]
+production services and audio editing by
+jared james consulting
+music by tom muller at modern

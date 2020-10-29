@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.140" end="00:00:03.310" style="s2">[Music]</p>
+<p begin="00:00:03.360" end="00:00:06.640" style="s2">the stoa</p>
+<p begin="00:00:04.240" end="00:00:07.600" style="s2">is a digital campfire where we cohere in</p>
+<p begin="00:00:06.640" end="00:00:09.920" style="s2">dialogue</p>
+<p begin="00:00:07.600" end="00:00:17.920" style="s2">about what matters most at the knife&#39;s</p>
+<p begin="00:00:09.920" end="00:00:17.920" style="s2">edge of what&#39;s happening now</p>
+<p begin="00:00:18.240" end="00:00:24.720" style="s2">right boom welcome to stoa everyone</p>
+<p begin="00:00:22.320" end="00:00:26.560" style="s2">i am peter limberg the steward of the</p>
+<p begin="00:00:24.720" end="00:00:28.720" style="s2">stoa and the stow is a place for us to</p>
+<p begin="00:00:26.560" end="00:00:30.720" style="s2">cohere and dialogue about what matters</p>
+<p begin="00:00:28.720" end="00:00:33.600" style="s2">most at the knife&#39;s edge</p>
+<p begin="00:00:30.720" end="00:00:34.640" style="s2">of this very moment and for those of you</p>
+<p begin="00:00:33.600" end="00:00:36.960" style="s2">who are new</p>
+<p begin="00:00:34.640" end="00:00:38.000" style="s2">at the stoa uh sometimes we call it a</p>
+<p begin="00:00:36.960" end="00:00:40.719" style="s2">digital campfire</p>
+<p begin="00:00:38.000" end="00:00:41.680" style="s2">sometimes we call it a communal podcast</p>
+<p begin="00:00:40.719" end="00:00:43.920" style="s2">we have a</p>
+<p begin="00:00:41.680" end="00:00:45.440" style="s2">wisdom gym here uh and it&#39;s basically a</p>
+<p begin="00:00:43.920" end="00:00:46.399" style="s2">space where we have zoom events</p>
+<p begin="00:00:45.440" end="00:00:48.800" style="s2">essentially</p>
+<p begin="00:00:46.399" end="00:00:49.440" style="s2">uh we started uh when kovid first came</p>
+<p begin="00:00:48.800" end="00:00:52.399" style="s2">online</p>
+<p begin="00:00:49.440" end="00:00:53.120" style="s2">and we probably have around 400 uh</p>
+<p begin="00:00:52.399" end="00:00:55.600" style="s2">events</p>
+<p begin="00:00:53.120" end="00:00:56.879" style="s2">uh thus far all been for free and we</p>
+<p begin="00:00:55.600" end="00:00:58.879" style="s2">have an amazing guest like daniel</p>
+<p begin="00:00:56.879" end="00:01:00.559" style="s2">schmachtenberger or james cars from</p>
+<p begin="00:00:58.879" end="00:01:02.559" style="s2">finite infinite games and even noam</p>
+<p begin="00:01:00.559" end="00:01:04.080" style="s2">chomsky&#39;s coming on in november</p>
+<p begin="00:01:02.559" end="00:01:06.400" style="s2">and it&#39;s sort of becoming a hub this</p>
+<p begin="00:01:04.080" end="00:01:08.320" style="s2">kind of like indie hub of sense making</p>
+<p begin="00:01:06.400" end="00:01:10.320" style="s2">that all the cool kids come to escape</p>
+<p begin="00:01:08.320" end="00:01:14.240" style="s2">the culture war noise</p>
+<p begin="00:01:10.320" end="00:01:16.880" style="s2">uh and today we got brett weinstein</p>
+<p begin="00:01:14.240" end="00:01:18.159" style="s2">coming in i gotta play that that hype</p>
+<p begin="00:01:16.880" end="00:01:18.960" style="s2">that hype sound the next time the</p>
+<p begin="00:01:18.159" end="00:01:21.280" style="s2">hypeborn</p>
+<p begin="00:01:18.960" end="00:01:23.520" style="s2">um so brett is here today uh he&#39;s gonna</p>
+<p begin="00:01:21.280" end="00:01:27.040" style="s2">talk about unity 2020</p>
+<p begin="00:01:23.520" end="00:01:28.159" style="s2">and uh our for today is everyone&#39;s</p>
+<p begin="00:01:27.040" end="00:01:31.119" style="s2">favorite blackbird</p>
+<p begin="00:01:28.159" end="00:01:32.400" style="s2">ravenconnelly um so raven will introduce</p>
+<p begin="00:01:31.119" end="00:01:35.439" style="s2">uh brett and the</p>
+<p begin="00:01:32.400" end="00:01:37.759" style="s2">kind of question answer protocols and</p>
+<p begin="00:01:35.439" end="00:01:39.200" style="s2">raven was a former student of bret too i</p>
+<p begin="00:01:37.759" end="00:01:40.960" style="s2">don&#39;t know if people know that she was</p>
+<p begin="00:01:39.200" end="00:01:43.360" style="s2">uh they were evergreen together</p>
+<p begin="00:01:40.960" end="00:01:44.880" style="s2">so that&#39;s an exciting stoa trevory</p>
+<p begin="00:01:43.360" end="00:01:47.360" style="s2">trivia for everyone</p>
+<p begin="00:01:44.880" end="00:01:48.880" style="s2">so that being said i will uh allow</p>
+<p begin="00:01:47.360" end="00:01:50.479" style="s2">everyone to unmute themselves</p>
+<p begin="00:01:48.880" end="00:01:53.520" style="s2">please don&#39;t abuse that function and i</p>
+<p begin="00:01:50.479" end="00:01:56.560" style="s2">will take raven in</p>
+<p begin="00:01:53.520" end="00:01:58.719" style="s2">excellent thank you peter great yes i am</p>
+<p begin="00:01:56.560" end="00:02:00.240" style="s2">a former student of brett&#39;s at the</p>
+<p begin="00:01:58.719" end="00:02:01.439" style="s2">evergreen state college and for those of</p>
+<p begin="00:02:00.240" end="00:02:03.520" style="s2">you who don&#39;t know</p>
+<p begin="00:02:01.439" end="00:02:05.360" style="s2">um brett has a phd in evolutionary</p>
+<p begin="00:02:03.520" end="00:02:07.920" style="s2">biology and evolutionary theory</p>
+<p begin="00:02:05.360" end="00:02:09.119" style="s2">um and is a professor in exile from</p>
+<p begin="00:02:07.920" end="00:02:11.440" style="s2">evergreen</p>
+<p begin="00:02:09.119" end="00:02:13.840" style="s2">and he&#39;s the host of the dark horse</p>
+<p begin="00:02:11.440" end="00:02:17.200" style="s2">podcast and the mastermind</p>
+<p begin="00:02:13.840" end="00:02:19.360" style="s2">and advocate for the unity 2020</p>
+<p begin="00:02:17.200" end="00:02:21.280" style="s2">presidential campaign which is what we</p>
+<p begin="00:02:19.360" end="00:02:23.440" style="s2">are here to talk about today</p>
+<p begin="00:02:21.280" end="00:02:24.879" style="s2">so just before i hand it over to brett</p>
+<p begin="00:02:23.440" end="00:02:26.959" style="s2">and ask him a few questions we&#39;ll go</p>
+<p begin="00:02:24.879" end="00:02:27.840" style="s2">over the question and answer kind of</p>
+<p begin="00:02:26.959" end="00:02:30.640" style="s2">protocol</p>
+<p begin="00:02:27.840" end="00:02:32.319" style="s2">so i&#39;m going to ask brett a few</p>
+<p begin="00:02:30.640" end="00:02:32.720" style="s2">questions to get us going today for</p>
+<p begin="00:02:32.319" end="00:02:34.319" style="s2">about</p>
+<p begin="00:02:32.720" end="00:02:36.000" style="s2">25 minutes we&#39;ll have a little bit of a</p>
+<p begin="00:02:34.319" end="00:02:38.000" style="s2">back and forth and then we&#39;ll move</p>
+<p begin="00:02:36.000" end="00:02:40.080" style="s2">into question and answer with the</p>
+<p begin="00:02:38.000" end="00:02:42.239" style="s2">audience where you can put your</p>
+<p begin="00:02:40.080" end="00:02:43.360" style="s2">questions for brett in the chat and then</p>
+<p begin="00:02:42.239" end="00:02:46.239" style="s2">i will call your name</p>
+<p begin="00:02:43.360" end="00:02:47.440" style="s2">you can mute yourself ask a question and</p>
+<p begin="00:02:46.239" end="00:02:50.400" style="s2">you get one</p>
+<p begin="00:02:47.440" end="00:02:51.440" style="s2">back and forth with with him so thank</p>
+<p begin="00:02:50.400" end="00:02:53.519" style="s2">you so much brett</p>
+<p begin="00:02:51.440" end="00:02:55.599" style="s2">for being here today thanks for having</p>
+<p begin="00:02:53.519" end="00:03:00.319" style="s2">me i&#39;m excited about this</p>
+<p begin="00:02:55.599" end="00:03:03.760" style="s2">oh that sounded like there was an echo</p>
+<p begin="00:03:00.319" end="00:03:04.159" style="s2">oh maybe it&#39;s gone okay good great just</p>
+<p begin="00:03:03.760" end="00:03:05.599" style="s2">uh</p>
+<p begin="00:03:04.159" end="00:03:07.360" style="s2">yeah we don&#39;t i don&#39;t hear anything so</p>
+<p begin="00:03:05.599" end="00:03:09.680" style="s2">it should be good</p>
+<p begin="00:03:07.360" end="00:03:10.959" style="s2">um let&#39;s just like get to the basics</p>
+<p begin="00:03:09.680" end="00:03:14.640" style="s2">start off everybody</p>
+<p begin="00:03:10.959" end="00:03:15.760" style="s2">uh what is unity 2020 and why is this an</p>
+<p begin="00:03:14.640" end="00:03:19.680" style="s2">important movement</p>
+<p begin="00:03:15.760" end="00:03:22.720" style="s2">for this particular political campaign</p>
+<p begin="00:03:19.680" end="00:03:25.040" style="s2">so unity 2020 is a</p>
+<p begin="00:03:22.720" end="00:03:25.840" style="s2">proposal that i unveiled most</p>
+<p begin="00:03:25.040" end="00:03:28.879" style="s2">prominently</p>
+<p begin="00:03:25.840" end="00:03:30.159" style="s2">on joe rogan&#39;s podcast and it&#39;s</p>
+<p begin="00:03:28.879" end="00:03:32.720" style="s2">basically an attempt</p>
+<p begin="00:03:30.159" end="00:03:35.920" style="s2">to defeat the central argument that the</p>
+<p begin="00:03:32.720" end="00:03:39.200" style="s2">duopoly uses to keep us all prisoner</p>
+<p begin="00:03:35.920" end="00:03:39.760" style="s2">so the central argument is the lesser</p>
+<p begin="00:03:39.200" end="00:03:42.799" style="s2">evil</p>
+<p begin="00:03:39.760" end="00:03:44.400" style="s2">paradox that is to say you have to vote</p>
+<p begin="00:03:42.799" end="00:03:46.480" style="s2">for whatever the duopoly is</p>
+<p begin="00:03:44.400" end="00:03:47.680" style="s2">offering you because if you offer</p>
+<p begin="00:03:46.480" end="00:03:49.519" style="s2">something else</p>
+<p begin="00:03:47.680" end="00:03:51.440" style="s2">you will tend to empower the party that</p>
+<p begin="00:03:49.519" end="00:03:53.760" style="s2">is farther away from</p>
+<p begin="00:03:51.440" end="00:03:55.680" style="s2">what you want you will draw votes away</p>
+<p begin="00:03:53.760" end="00:03:57.280" style="s2">from that which is closer and therefore</p>
+<p begin="00:03:55.680" end="00:03:59.439" style="s2">the system will move away from your</p>
+<p begin="00:03:57.280" end="00:04:02.799" style="s2">desires rather than towards them</p>
+<p begin="00:03:59.439" end="00:04:05.200" style="s2">so that argument has kept us captive for</p>
+<p begin="00:04:02.799" end="00:04:06.560" style="s2">well basically for most of my adult life</p>
+<p begin="00:04:05.200" end="00:04:09.120" style="s2">all of those of us who</p>
+<p begin="00:04:06.560" end="00:04:11.040" style="s2">would entertain some alternative to the</p>
+<p begin="00:04:09.120" end="00:04:12.480" style="s2">toxic and corrupt duopoly</p>
+<p begin="00:04:11.040" end="00:04:14.159" style="s2">always seek for something over in</p>
+<p begin="00:04:12.480" end="00:04:15.760" style="s2">third-party space and it never works out</p>
+<p begin="00:04:14.159" end="00:04:18.880" style="s2">and we&#39;re always told that we are</p>
+<p begin="00:04:15.760" end="00:04:21.359" style="s2">betraying our values so the proposal</p>
+<p begin="00:04:18.880" end="00:04:22.800" style="s2">is to draft two candidates one from the</p>
+<p begin="00:04:21.359" end="00:04:24.320" style="s2">left and one from the right</p>
+<p begin="00:04:22.800" end="00:04:26.000" style="s2">and to draft them under the agreement</p>
+<p begin="00:04:24.320" end="00:04:29.120" style="s2">that they will govern together</p>
+<p begin="00:04:26.000" end="00:04:31.280" style="s2">as a team by consensus once elected</p>
+<p begin="00:04:29.120" end="00:04:32.400" style="s2">the person at the top of the ticket will</p>
+<p begin="00:04:31.280" end="00:04:35.120" style="s2">be chosen by</p>
+<p begin="00:04:32.400" end="00:04:36.880" style="s2">coin flip after four years their</p>
+<p begin="00:04:35.120" end="00:04:37.440" style="s2">positions will reverse and the person</p>
+<p begin="00:04:36.880" end="00:04:38.960" style="s2">who</p>
+<p begin="00:04:37.440" end="00:04:40.880" style="s2">was in the role of president will run</p>
+<p begin="00:04:38.960" end="00:04:41.680" style="s2">for the vice presidential slot and vice</p>
+<p begin="00:04:40.880" end="00:04:43.680" style="s2">versa</p>
+<p begin="00:04:41.680" end="00:04:45.520" style="s2">and this can continue until somebody has</p>
+<p begin="00:04:43.680" end="00:04:46.479" style="s2">been president twice at which point they</p>
+<p begin="00:04:45.520" end="00:04:48.960" style="s2">would have to be</p>
+<p begin="00:04:46.479" end="00:04:49.600" style="s2">replaced with a suitable alternative</p>
+<p begin="00:04:48.960" end="00:04:51.919" style="s2">candidate</p>
+<p begin="00:04:49.600" end="00:04:52.880" style="s2">and that could go on indefinitely the</p>
+<p begin="00:04:51.919" end="00:04:55.440" style="s2">idea of course</p>
+<p begin="00:04:52.880" end="00:04:57.040" style="s2">is to challenge the corruption that has</p>
+<p begin="00:04:55.440" end="00:04:59.199" style="s2">overtaken our system</p>
+<p begin="00:04:57.040" end="00:05:00.080" style="s2">and give people a choice to vote for</p>
+<p begin="00:04:59.199" end="00:05:03.120" style="s2">something</p>
+<p begin="00:05:00.080" end="00:05:05.039" style="s2">patriotic and decent i laid out three</p>
+<p begin="00:05:03.120" end="00:05:06.880" style="s2">characteristics that would be required</p>
+<p begin="00:05:05.039" end="00:05:07.759" style="s2">of all candidates we would consider</p>
+<p begin="00:05:06.880" end="00:05:10.320" style="s2">drafting</p>
+<p begin="00:05:07.759" end="00:05:11.120" style="s2">they have to be courageous they have to</p>
+<p begin="00:05:10.320" end="00:05:13.199" style="s2">be capable</p>
+<p begin="00:05:11.120" end="00:05:14.160" style="s2">and they have to be patriots and nothing</p>
+<p begin="00:05:13.199" end="00:05:16.720" style="s2">else</p>
+<p begin="00:05:14.160" end="00:05:19.280" style="s2">so that&#39;s the proposal and we are now uh</p>
+<p begin="00:05:16.720" end="00:05:21.840" style="s2">fairly deeply into this process</p>
+<p begin="00:05:19.280" end="00:05:22.800" style="s2">we went through nominations we had more</p>
+<p begin="00:05:21.840" end="00:05:25.199" style="s2">than a thousand</p>
+<p begin="00:05:22.800" end="00:05:27.440" style="s2">nominations submitted it turned out that</p>
+<p begin="00:05:25.199" end="00:05:27.919" style="s2">the top six happened to divide evenly</p>
+<p begin="00:05:27.440" end="00:05:30.479" style="s2">between</p>
+<p begin="00:05:27.919" end="00:05:32.240" style="s2">left and right and were far enough away</p>
+<p begin="00:05:30.479" end="00:05:33.120" style="s2">from their next nearest competitors that</p>
+<p begin="00:05:32.240" end="00:05:35.120" style="s2">we</p>
+<p begin="00:05:33.120" end="00:05:37.039" style="s2">had held a ranked choice vote for the</p>
+<p begin="00:05:35.120" end="00:05:38.320" style="s2">nine possible tickets you could assemble</p>
+<p begin="00:05:37.039" end="00:05:40.400" style="s2">and our top ticket</p>
+<p begin="00:05:38.320" end="00:05:42.960" style="s2">ended up being tulsi gabbard and dan</p>
+<p begin="00:05:40.400" end="00:05:42.960" style="s2">crenshaw</p>
+<p begin="00:05:44.320" end="00:05:48.800" style="s2">very exciting so something i&#39;ve noticed</p>
+<p begin="00:05:47.440" end="00:05:50.720" style="s2">as i&#39;ve been</p>
+<p begin="00:05:48.800" end="00:05:52.639" style="s2">researching unity 2020 and watching your</p>
+<p begin="00:05:50.720" end="00:05:54.639" style="s2">live streams is that at the core of this</p>
+<p begin="00:05:52.639" end="00:05:58.080" style="s2">there seems to be some very strong</p>
+<p begin="00:05:54.639" end="00:05:59.759" style="s2">principles and that your process</p>
+<p begin="00:05:58.080" end="00:06:01.360" style="s2">for how this whole thing has been</p>
+<p begin="00:05:59.759" end="00:06:04.319" style="s2">designed and unfolded</p>
+<p begin="00:06:01.360" end="00:06:05.280" style="s2">the organizing itself um like what you</p>
+<p begin="00:06:04.319" end="00:06:08.080" style="s2">just described</p>
+<p begin="00:06:05.280" end="00:06:08.960" style="s2">about how you even came to select these</p>
+<p begin="00:06:08.080" end="00:06:11.759" style="s2">candidates is</p>
+<p begin="00:06:08.960" end="00:06:13.840" style="s2">rooted deeply in these principles and</p>
+<p begin="00:06:11.759" end="00:06:16.000" style="s2">can you talk a little bit about</p>
+<p begin="00:06:13.840" end="00:06:17.440" style="s2">uh the principles at the core of this</p>
+<p begin="00:06:16.000" end="00:06:20.400" style="s2">cultural movement</p>
+<p begin="00:06:17.440" end="00:06:21.440" style="s2">and how that is kind of uh the core</p>
+<p begin="00:06:20.400" end="00:06:24.400" style="s2">motivation</p>
+<p begin="00:06:21.440" end="00:06:24.960" style="s2">for what you&#39;re doing with unity 2020</p>
+<p begin="00:06:24.400" end="00:06:27.280" style="s2">sure</p>
+<p begin="00:06:24.960" end="00:06:28.720" style="s2">i think there are really two principles</p>
+<p begin="00:06:27.280" end="00:06:31.600" style="s2">one is we&#39;re doomed</p>
+<p begin="00:06:28.720" end="00:06:33.360" style="s2">and two is that&#39;s bad so anyway this is</p>
+<p begin="00:06:31.600" end="00:06:35.520" style="s2">an attempt to avoid doom</p>
+<p begin="00:06:33.360" end="00:06:36.400" style="s2">because it&#39;s uh it&#39;s what we&#39;re built</p>
+<p begin="00:06:35.520" end="00:06:38.880" style="s2">for and</p>
+<p begin="00:06:36.400" end="00:06:40.080" style="s2">in some sense you know if i put the</p>
+<p begin="00:06:38.880" end="00:06:41.520" style="s2">jokes aside</p>
+<p begin="00:06:40.080" end="00:06:43.759" style="s2">the people who are drawn to the movement</p>
+<p begin="00:06:41.520" end="00:06:44.240" style="s2">really do believe that the republic is</p>
+<p begin="00:06:43.759" end="00:06:47.440" style="s2">in</p>
+<p begin="00:06:44.240" end="00:06:49.120" style="s2">grave danger and that the</p>
+<p begin="00:06:47.440" end="00:06:51.280" style="s2">collapse or disintegration of the</p>
+<p begin="00:06:49.120" end="00:06:53.440" style="s2">republic would be a huge</p>
+<p begin="00:06:51.280" end="00:06:54.880" style="s2">setback not just for americans but for</p>
+<p begin="00:06:53.440" end="00:06:58.000" style="s2">people across</p>
+<p begin="00:06:54.880" end="00:07:00.720" style="s2">the west and possibly the whole world</p>
+<p begin="00:06:58.000" end="00:07:02.720" style="s2">because in some sense the power vacuum</p>
+<p begin="00:07:00.720" end="00:07:05.599" style="s2">that would be created by</p>
+<p begin="00:07:02.720" end="00:07:06.160" style="s2">the collapse of the u.s would open the</p>
+<p begin="00:07:05.599" end="00:07:10.160" style="s2">door</p>
+<p begin="00:07:06.160" end="00:07:12.160" style="s2">to regressive regimes and</p>
+<p begin="00:07:10.160" end="00:07:14.160" style="s2">was really potentially an existential</p>
+<p begin="00:07:12.160" end="00:07:17.840" style="s2">threat to</p>
+<p begin="00:07:14.160" end="00:07:17.840" style="s2">to our way of life</p>
+<p begin="00:07:19.199" end="00:07:25.440" style="s2">absolutely so there&#39;s also um</p>
+<p begin="00:07:22.639" end="00:07:25.840" style="s2">criticism about the movement you know uh</p>
+<p begin="00:07:25.440" end="00:07:27.680" style="s2">not</p>
+<p begin="00:07:25.840" end="00:07:28.880" style="s2">going to be able to like achieve its</p>
+<p begin="00:07:27.680" end="00:07:31.680" style="s2">stated goals</p>
+<p begin="00:07:28.880" end="00:07:32.080" style="s2">but i think what is interesting about</p>
+<p begin="00:07:31.680" end="00:07:34.400" style="s2">how</p>
+<p begin="00:07:32.080" end="00:07:35.360" style="s2">at the core there is what i see you</p>
+<p begin="00:07:34.400" end="00:07:38.960" style="s2">advocating for</p>
+<p begin="00:07:35.360" end="00:07:41.520" style="s2">is is patriotism principled action</p>
+<p begin="00:07:38.960" end="00:07:42.160" style="s2">is thinking about the bigger picture you</p>
+<p begin="00:07:41.520" end="00:07:43.840" style="s2">know and</p>
+<p begin="00:07:42.160" end="00:07:45.199" style="s2">putting oneself forth for something that</p>
+<p begin="00:07:43.840" end="00:07:47.280" style="s2">we you know believe in</p>
+<p begin="00:07:45.199" end="00:07:49.120" style="s2">rather than thinking about um you know</p>
+<p begin="00:07:47.280" end="00:07:52.240" style="s2">what is what is the most likely</p>
+<p begin="00:07:49.120" end="00:07:54.479" style="s2">you know chance that we have so</p>
+<p begin="00:07:52.240" end="00:07:57.199" style="s2">thinking about this regardless of the</p>
+<p begin="00:07:54.479" end="00:07:59.360" style="s2">outcome of the 2020 election</p>
+<p begin="00:07:57.199" end="00:08:01.599" style="s2">which is a bet at this point for all of</p>
+<p begin="00:07:59.360" end="00:08:03.840" style="s2">us what do you think</p>
+<p begin="00:08:01.599" end="00:08:04.639" style="s2">the value of getting involved</p>
+<p begin="00:08:03.840" end="00:08:07.280" style="s2">aggressively</p>
+<p begin="00:08:04.639" end="00:08:09.919" style="s2">in this movement um besides what</p>
+<p begin="00:08:07.280" end="00:08:11.599" style="s2">specifically happens on november 3rd</p>
+<p begin="00:08:09.919" end="00:08:13.039" style="s2">well i&#39;m really glad you asked that</p>
+<p begin="00:08:11.599" end="00:08:15.520" style="s2">question because</p>
+<p begin="00:08:13.039" end="00:08:16.240" style="s2">the proposal has always had two</p>
+<p begin="00:08:15.520" end="00:08:20.000" style="s2">components</p>
+<p begin="00:08:16.240" end="00:08:23.520" style="s2">one is a an emergency plan for</p>
+<p begin="00:08:20.000" end="00:08:26.000" style="s2">the current election and the other</p>
+<p begin="00:08:23.520" end="00:08:26.800" style="s2">is the larger recognition that what</p>
+<p begin="00:08:26.000" end="00:08:29.599" style="s2">unites us</p>
+<p begin="00:08:26.800" end="00:08:32.320" style="s2">is far greater and more important than</p>
+<p begin="00:08:29.599" end="00:08:34.479" style="s2">what divides us and that is being lost</p>
+<p begin="00:08:32.320" end="00:08:36.080" style="s2">by virtue of various processes you know</p>
+<p begin="00:08:34.479" end="00:08:39.120" style="s2">a failure of sense-making which</p>
+<p begin="00:08:36.080" end="00:08:41.039" style="s2">i think still is very deliberately built</p>
+<p begin="00:08:39.120" end="00:08:44.080" style="s2">to counteract</p>
+<p begin="00:08:41.039" end="00:08:47.600" style="s2">so those processes are</p>
+<p begin="00:08:44.080" end="00:08:51.040" style="s2">destructive of many things most</p>
+<p begin="00:08:47.600" end="00:08:51.839" style="s2">centrally is the recognition that we are</p>
+<p begin="00:08:51.040" end="00:08:55.120" style="s2">actually in</p>
+<p begin="00:08:51.839" end="00:08:58.160" style="s2">the same boat and we are dependent on</p>
+<p begin="00:08:55.120" end="00:08:59.200" style="s2">our recognition of that fact to to</p>
+<p begin="00:08:58.160" end="00:09:03.120" style="s2">continue</p>
+<p begin="00:08:59.200" end="00:09:05.120" style="s2">so um you know we can talk about unity</p>
+<p begin="00:09:03.120" end="00:09:07.920" style="s2">2020 the plan for</p>
+<p begin="00:09:05.120" end="00:09:10.080" style="s2">this election and we can talk about the</p>
+<p begin="00:09:07.920" end="00:09:12.320" style="s2">overarching dynamic of unity what i</p>
+<p begin="00:09:10.080" end="00:09:14.320" style="s2">would call the unity movement</p>
+<p begin="00:09:12.320" end="00:09:16.160" style="s2">and i would say the former is a</p>
+<p begin="00:09:14.320" end="00:09:17.920" style="s2">manifestation of the latter but the</p>
+<p begin="00:09:16.160" end="00:09:20.320" style="s2">latter is the much more important</p>
+<p begin="00:09:17.920" end="00:09:20.320" style="s2">fact</p>
+<p begin="00:09:21.600" end="00:09:24.720" style="s2">great so can you talk can you talk a</p>
+<p begin="00:09:23.120" end="00:09:26.320" style="s2">little bit more about unity you know</p>
+<p begin="00:09:24.720" end="00:09:28.240" style="s2">we&#39;re here for unity 2020 but</p>
+<p begin="00:09:26.320" end="00:09:29.760" style="s2">what is the unity movement and what is</p>
+<p begin="00:09:28.240" end="00:09:32.800" style="s2">the broader</p>
+<p begin="00:09:29.760" end="00:09:34.000" style="s2">uh plan beyond even just the next month</p>
+<p begin="00:09:32.800" end="00:09:36.480" style="s2">of organizing for</p>
+<p begin="00:09:34.000" end="00:09:37.760" style="s2">for the election what&#39;s the big picture</p>
+<p begin="00:09:36.480" end="00:09:40.959" style="s2">here</p>
+<p begin="00:09:37.760" end="00:09:44.080" style="s2">well so the first thing to say is that i</p>
+<p begin="00:09:40.959" end="00:09:44.480" style="s2">announced this proposal on joe rogan and</p>
+<p begin="00:09:44.080" end="00:09:47.600" style="s2">people</p>
+<p begin="00:09:44.480" end="00:09:50.240" style="s2">just started showing up which was</p>
+<p begin="00:09:47.600" end="00:09:52.560" style="s2">in and of itself telling right there was</p>
+<p begin="00:09:50.240" end="00:09:54.720" style="s2">a great hunger for somebody to speak</p>
+<p begin="00:09:52.560" end="00:09:55.680" style="s2">to something beyond politics and i think</p>
+<p begin="00:09:54.720" end="00:09:58.560" style="s2">there was a second</p>
+<p begin="00:09:55.680" end="00:09:59.920" style="s2">piece to it which was if i was a</p>
+<p begin="00:09:58.560" end="00:10:01.760" style="s2">centrist by nature</p>
+<p begin="00:09:59.920" end="00:10:04.240" style="s2">then it wouldn&#39;t be very interesting</p>
+<p begin="00:10:01.760" end="00:10:07.680" style="s2">that i was advocating for something</p>
+<p begin="00:10:04.240" end="00:10:10.640" style="s2">that um sidelined the duopoly by</p>
+<p begin="00:10:07.680" end="00:10:12.560" style="s2">navigating the space between it but</p>
+<p begin="00:10:10.640" end="00:10:14.800" style="s2">because i&#39;m actually a radical</p>
+<p begin="00:10:12.560" end="00:10:16.320" style="s2">people heard somebody putting aside</p>
+<p begin="00:10:14.800" end="00:10:18.959" style="s2">their own ideology</p>
+<p begin="00:10:16.320" end="00:10:20.720" style="s2">in favor of something more important and</p>
+<p begin="00:10:18.959" end="00:10:21.120" style="s2">it caused many of them to do the same</p>
+<p begin="00:10:20.720" end="00:10:24.560" style="s2">thing</p>
+<p begin="00:10:21.120" end="00:10:27.760" style="s2">so i would say the most telling feature</p>
+<p begin="00:10:24.560" end="00:10:30.320" style="s2">is that we have this uh large</p>
+<p begin="00:10:27.760" end="00:10:32.079" style="s2">network of volunteers people who are</p>
+<p begin="00:10:30.320" end="00:10:35.440" style="s2">spending a tremendous amount</p>
+<p begin="00:10:32.079" end="00:10:36.560" style="s2">of time on the unity project and they&#39;re</p>
+<p begin="00:10:35.440" end="00:10:39.040" style="s2">very good folks</p>
+<p begin="00:10:36.560" end="00:10:41.120" style="s2">and we gather and we talk about what to</p>
+<p begin="00:10:39.040" end="00:10:44.160" style="s2">do and we scratch our heads over</p>
+<p begin="00:10:41.120" end="00:10:46.480" style="s2">all of the twists and turns of 2020</p>
+<p begin="00:10:44.160" end="00:10:48.240" style="s2">and the fact is i couldn&#39;t tell you</p>
+<p begin="00:10:46.480" end="00:10:48.560" style="s2">which side of the aisle most of them are</p>
+<p begin="00:10:48.240" end="00:10:51.360" style="s2">on</p>
+<p begin="00:10:48.560" end="00:10:51.839" style="s2">i actually just don&#39;t know because it is</p>
+<p begin="00:10:51.360" end="00:10:54.160" style="s2">um</p>
+<p begin="00:10:51.839" end="00:10:57.279" style="s2">such an unimportant fact in the context</p>
+<p begin="00:10:54.160" end="00:10:59.440" style="s2">of people who have gathered together</p>
+<p begin="00:10:57.279" end="00:11:00.480" style="s2">in a patriotic effort to save the</p>
+<p begin="00:10:59.440" end="00:11:04.320" style="s2">republic</p>
+<p begin="00:11:00.480" end="00:11:04.320" style="s2">that it just doesn&#39;t come up</p>
+<p begin="00:11:05.200" end="00:11:09.600" style="s2">that&#39;s beautiful um the other thing that</p>
+<p begin="00:11:08.160" end="00:11:11.040" style="s2">you&#39;ve been doing which is</p>
+<p begin="00:11:09.600" end="00:11:12.959" style="s2">organizing all of this within the</p>
+<p begin="00:11:11.040" end="00:11:15.680" style="s2">context of a pandemic</p>
+<p begin="00:11:12.959" end="00:11:16.320" style="s2">so all of these you know other ways of</p>
+<p begin="00:11:15.680" end="00:11:17.920" style="s2">kind of</p>
+<p begin="00:11:16.320" end="00:11:19.440" style="s2">you know rallying political support of</p>
+<p begin="00:11:17.920" end="00:11:21.360" style="s2">having big events and</p>
+<p begin="00:11:19.440" end="00:11:23.440" style="s2">you know having speakers and having all</p>
+<p begin="00:11:21.360" end="00:11:25.040" style="s2">of these people coming together and</p>
+<p begin="00:11:23.440" end="00:11:27.120" style="s2">being in the energy of a movement</p>
+<p begin="00:11:25.040" end="00:11:28.640" style="s2">are not accessible to you and so you&#39;ve</p>
+<p begin="00:11:27.120" end="00:11:30.480" style="s2">been relying very heavily on</p>
+<p begin="00:11:28.640" end="00:11:32.320" style="s2">on online platforms and i know that</p>
+<p begin="00:11:30.480" end="00:11:34.560" style="s2">you&#39;ve had difficulty</p>
+<p begin="00:11:32.320" end="00:11:35.519" style="s2">uh getting your message through on</p>
+<p begin="00:11:34.560" end="00:11:38.079" style="s2">twitter</p>
+<p begin="00:11:35.519" end="00:11:39.120" style="s2">um can you talk about that what&#39;s going</p>
+<p begin="00:11:38.079" end="00:11:40.399" style="s2">on with twitter</p>
+<p begin="00:11:39.120" end="00:11:42.160" style="s2">and the censorship that&#39;s happening</p>
+<p begin="00:11:40.399" end="00:11:44.959" style="s2">there sure</p>
+<p begin="00:11:42.160" end="00:11:46.480" style="s2">so first of all i would say that the um</p>
+<p begin="00:11:44.959" end="00:11:47.040" style="s2">the constraints that come along with</p>
+<p begin="00:11:46.480" end="00:11:50.560" style="s2">kovid</p>
+<p begin="00:11:47.040" end="00:11:51.680" style="s2">are a mixed bag because on the one hand</p>
+<p begin="00:11:50.560" end="00:11:53.839" style="s2">it does mean that there are lots of</p>
+<p begin="00:11:51.680" end="00:11:55.920" style="s2">things we would like to do that we can&#39;t</p>
+<p begin="00:11:53.839" end="00:11:57.760" style="s2">on the other hand it has put everybody</p>
+<p begin="00:11:55.920" end="00:12:01.040" style="s2">in the frame of mind of breaking</p>
+<p begin="00:11:57.760" end="00:12:03.360" style="s2">whatever rules they thought</p>
+<p begin="00:12:01.040" end="00:12:05.839" style="s2">accompanied what must take place in the</p>
+<p begin="00:12:03.360" end="00:12:07.920" style="s2">context of a campaign or anything else</p>
+<p begin="00:12:05.839" end="00:12:09.279" style="s2">and you know people are figuring out new</p>
+<p begin="00:12:07.920" end="00:12:10.959" style="s2">ways to exist and</p>
+<p begin="00:12:09.279" end="00:12:12.560" style="s2">some of that is counterproductive but i</p>
+<p begin="00:12:10.959" end="00:12:14.079" style="s2">think in large measure just the fact</p>
+<p begin="00:12:12.560" end="00:12:15.920" style="s2">that we all have to think</p>
+<p begin="00:12:14.079" end="00:12:17.839" style="s2">consciously about how to interact rather</p>
+<p begin="00:12:15.920" end="00:12:20.240" style="s2">than be on autopilot</p>
+<p begin="00:12:17.839" end="00:12:21.200" style="s2">is very productive with respect to the</p>
+<p begin="00:12:20.240" end="00:12:24.399" style="s2">platforms</p>
+<p begin="00:12:21.200" end="00:12:25.680" style="s2">this is also revealing just how much</p>
+<p begin="00:12:24.399" end="00:12:28.240" style="s2">power they have</p>
+<p begin="00:12:25.680" end="00:12:29.760" style="s2">not over not only over whether or not we</p>
+<p begin="00:12:28.240" end="00:12:32.399" style="s2">have access and can</p>
+<p begin="00:12:29.760" end="00:12:33.519" style="s2">talk to our our followers and attract</p>
+<p begin="00:12:32.399" end="00:12:37.680" style="s2">new ones</p>
+<p begin="00:12:33.519" end="00:12:40.720" style="s2">but um you know how we think</p>
+<p begin="00:12:37.680" end="00:12:42.720" style="s2">right because the the hidden feature of</p>
+<p begin="00:12:40.720" end="00:12:43.519" style="s2">these things are the algorithms at their</p>
+<p begin="00:12:42.720" end="00:12:46.160" style="s2">core</p>
+<p begin="00:12:43.519" end="00:12:47.839" style="s2">that actually adjust what it is that</p>
+<p begin="00:12:46.160" end="00:12:50.720" style="s2">comes through your feed</p>
+<p begin="00:12:47.839" end="00:12:52.560" style="s2">and you know which voices are amplified</p>
+<p begin="00:12:50.720" end="00:12:54.240" style="s2">and which ones are dampened and so</p>
+<p begin="00:12:52.560" end="00:12:56.399" style="s2">what we ran into in the context of</p>
+<p begin="00:12:54.240" end="00:12:57.839" style="s2">twitter is actually fascinating</p>
+<p begin="00:12:56.399" end="00:12:59.440" style="s2">the first thing i&#39;ll say about it is</p>
+<p begin="00:12:57.839" end="00:13:00.079" style="s2">that we categorize it inside the</p>
+<p begin="00:12:59.440" end="00:13:01.760" style="s2">movement</p>
+<p begin="00:13:00.079" end="00:13:03.680" style="s2">as the flack you get when you&#39;re over</p>
+<p begin="00:13:01.760" end="00:13:05.600" style="s2">the target in other words the fact that</p>
+<p begin="00:13:03.680" end="00:13:08.639" style="s2">we&#39;re getting this pushback is not good</p>
+<p begin="00:13:05.600" end="00:13:10.160" style="s2">the pushback is dangerous but</p>
+<p begin="00:13:08.639" end="00:13:12.560" style="s2">the fact that we are getting it is an</p>
+<p begin="00:13:10.160" end="00:13:13.360" style="s2">indication that we&#39;ve struck a nerve and</p>
+<p begin="00:13:12.560" end="00:13:15.440" style="s2">that&#39;s something</p>
+<p begin="00:13:13.360" end="00:13:16.399" style="s2">that if we weren&#39;t doing it we&#39;d have to</p>
+<p begin="00:13:15.440" end="00:13:19.360" style="s2">wonder if we were</p>
+<p begin="00:13:16.399" end="00:13:20.560" style="s2">on a pointless mission so what happened</p>
+<p begin="00:13:19.360" end="00:13:23.600" style="s2">was</p>
+<p begin="00:13:20.560" end="00:13:25.680" style="s2">we had an account that was the central</p>
+<p begin="00:13:23.600" end="00:13:26.800" style="s2">distribution point for information about</p>
+<p begin="00:13:25.680" end="00:13:28.720" style="s2">unity</p>
+<p begin="00:13:26.800" end="00:13:30.399" style="s2">it was the articles of unity account on</p>
+<p begin="00:13:28.720" end="00:13:34.560" style="s2">twitter and</p>
+<p begin="00:13:30.399" end="00:13:36.320" style="s2">we advanced a hashtag on the last day of</p>
+<p begin="00:13:34.560" end="00:13:39.600" style="s2">the republican convention</p>
+<p begin="00:13:36.320" end="00:13:43.440" style="s2">just say no to donald and joe and</p>
+<p begin="00:13:39.600" end="00:13:45.600" style="s2">we broadcasted over that channel and our</p>
+<p begin="00:13:43.440" end="00:13:47.760" style="s2">vast network of volunteers broadcast the</p>
+<p begin="00:13:45.600" end="00:13:50.000" style="s2">hashtag and it spread and actually we</p>
+<p begin="00:13:47.760" end="00:13:51.120" style="s2">succeeded in getting that hashtag to</p>
+<p begin="00:13:50.000" end="00:13:52.720" style="s2">trend</p>
+<p begin="00:13:51.120" end="00:13:54.320" style="s2">next thing we knew our account was</p>
+<p begin="00:13:52.720" end="00:13:56.880" style="s2">suspended</p>
+<p begin="00:13:54.320" end="00:13:58.800" style="s2">no indication of why many of our</p>
+<p begin="00:13:56.880" end="00:14:01.279" style="s2">detractors who have accused us of all</p>
+<p begin="00:13:58.800" end="00:14:03.600" style="s2">kinds of things</p>
+<p begin="00:14:01.279" end="00:14:04.800" style="s2">were crowing on twitter about having</p>
+<p begin="00:14:03.600" end="00:14:06.959" style="s2">reported us</p>
+<p begin="00:14:04.800" end="00:14:08.959" style="s2">um for various malfeasance including</p>
+<p begin="00:14:06.959" end="00:14:12.399" style="s2">being russian bots</p>
+<p begin="00:14:08.959" end="00:14:13.760" style="s2">and um we were unable to get anything</p>
+<p begin="00:14:12.399" end="00:14:15.279" style="s2">official out of twitter about</p>
+<p begin="00:14:13.760" end="00:14:16.959" style="s2">what it was that they were claiming we</p>
+<p begin="00:14:15.279" end="00:14:19.040" style="s2">had done but back channel</p>
+<p begin="00:14:16.959" end="00:14:21.040" style="s2">we were told that we had registered</p>
+<p begin="00:14:19.040" end="00:14:24.480" style="s2">something like 50 fake accounts</p>
+<p begin="00:14:21.040" end="00:14:26.560" style="s2">in order to amplify the hashtag now that</p>
+<p begin="00:14:24.480" end="00:14:27.199" style="s2">did not ring true to us but because it&#39;s</p>
+<p begin="00:14:26.560" end="00:14:30.240" style="s2">a large</p>
+<p begin="00:14:27.199" end="00:14:31.760" style="s2">volunteer organization we had to check</p>
+<p begin="00:14:30.240" end="00:14:33.360" style="s2">very thoroughly to make sure there was</p>
+<p begin="00:14:31.760" end="00:14:34.160" style="s2">nothing that we were unaware of that</p>
+<p begin="00:14:33.360" end="00:14:37.760" style="s2">some</p>
+<p begin="00:14:34.160" end="00:14:40.880" style="s2">uh overzealous volunteer had engaged in</p>
+<p begin="00:14:37.760" end="00:14:42.560" style="s2">after a week of exhaustive interviews of</p>
+<p begin="00:14:40.880" end="00:14:44.000" style="s2">people who were part of our movement</p>
+<p begin="00:14:42.560" end="00:14:45.600" style="s2">and checking everything that was</p>
+<p begin="00:14:44.000" end="00:14:47.040" style="s2">possible to check it became very clear</p>
+<p begin="00:14:45.600" end="00:14:47.680" style="s2">that whatever twitter thought had</p>
+<p begin="00:14:47.040" end="00:14:50.880" style="s2">happened</p>
+<p begin="00:14:47.680" end="00:14:54.000" style="s2">had not and we filed an appeal</p>
+<p begin="00:14:50.880" end="00:14:56.959" style="s2">and we have heard nothing back</p>
+<p begin="00:14:54.000" end="00:14:57.519" style="s2">just silence i should also point out</p>
+<p begin="00:14:56.959" end="00:15:00.399" style="s2">that</p>
+<p begin="00:14:57.519" end="00:15:02.000" style="s2">in the early phases of the suspension it</p>
+<p begin="00:15:00.399" end="00:15:05.760" style="s2">was impossible to post</p>
+<p begin="00:15:02.000" end="00:15:06.240" style="s2">a link to our website no person on</p>
+<p begin="00:15:05.760" end="00:15:08.000" style="s2">twitter</p>
+<p begin="00:15:06.240" end="00:15:09.519" style="s2">could link to our website if you</p>
+<p begin="00:15:08.000" end="00:15:10.959" style="s2">attempted it the tweet did not go</p>
+<p begin="00:15:09.519" end="00:15:12.000" style="s2">through and you got a message that said</p>
+<p begin="00:15:10.959" end="00:15:15.279" style="s2">that the website might</p>
+<p begin="00:15:12.000" end="00:15:18.320" style="s2">contain harmful information now mind you</p>
+<p begin="00:15:15.279" end="00:15:20.399" style="s2">this is a group of patriots attempting</p>
+<p begin="00:15:18.320" end="00:15:23.519" style="s2">to escape the duopoly</p>
+<p begin="00:15:20.399" end="00:15:26.639" style="s2">who are resolutely non-ideological</p>
+<p begin="00:15:23.519" end="00:15:29.279" style="s2">and above politics now twitter</p>
+<p begin="00:15:26.639" end="00:15:32.399" style="s2">could have many opinions about that but</p>
+<p begin="00:15:29.279" end="00:15:34.560" style="s2">the idea that it feels entitled to block</p>
+<p begin="00:15:32.399" end="00:15:36.079" style="s2">other people from posting links to our</p>
+<p begin="00:15:34.560" end="00:15:37.600" style="s2">website tells you something</p>
+<p begin="00:15:36.079" end="00:15:39.759" style="s2">about the arrogance inside the</p>
+<p begin="00:15:37.600" end="00:15:41.360" style="s2">organization</p>
+<p begin="00:15:39.759" end="00:15:43.120" style="s2">so i&#39;m not sure exactly what we can do</p>
+<p begin="00:15:41.360" end="00:15:44.399" style="s2">about any of this because</p>
+<p begin="00:15:43.120" end="00:15:46.480" style="s2">of course the platforms have a</p>
+<p begin="00:15:44.399" end="00:15:48.560" style="s2">tremendous amount of discretion</p>
+<p begin="00:15:46.480" end="00:15:50.399" style="s2">they dodge and weave between the</p>
+<p begin="00:15:48.560" end="00:15:51.920" style="s2">interpretations that they are publishers</p>
+<p begin="00:15:50.399" end="00:15:53.519" style="s2">and they are platforms taking the</p>
+<p begin="00:15:51.920" end="00:15:55.279" style="s2">advantages of both positions and the</p>
+<p begin="00:15:53.519" end="00:15:58.320" style="s2">disadvantages of neither</p>
+<p begin="00:15:55.279" end="00:16:01.199" style="s2">and unfortunately they effectively</p>
+<p begin="00:15:58.320" end="00:16:01.680" style="s2">own what is now the public square</p>
+<p begin="00:16:01.199" end="00:16:04.720" style="s2">through</p>
+<p begin="00:16:01.680" end="00:16:05.199" style="s2">pure technological accident and that</p>
+<p begin="00:16:04.720" end="00:16:07.839" style="s2">means</p>
+<p begin="00:16:05.199" end="00:16:08.480" style="s2">that we have no ability to reach each</p>
+<p begin="00:16:07.839" end="00:16:12.000" style="s2">other</p>
+<p begin="00:16:08.480" end="00:16:15.199" style="s2">without their okay and</p>
+<p begin="00:16:12.000" end="00:16:17.120" style="s2">anyway it&#39;s a very serious concern that</p>
+<p begin="00:16:15.199" end="00:16:20.000" style="s2">we ought to focus on collectively</p>
+<p begin="00:16:17.120" end="00:16:22.560" style="s2">irrespective of where we find ourselves</p>
+<p begin="00:16:20.000" end="00:16:23.040" style="s2">in the political dialogue a threat to</p>
+<p begin="00:16:22.560" end="00:16:24.880" style="s2">speech</p>
+<p begin="00:16:23.040" end="00:16:26.240" style="s2">that comes in the form of mysterious</p>
+<p begin="00:16:24.880" end="00:16:29.839" style="s2">algorithms</p>
+<p begin="00:16:26.240" end="00:16:34.000" style="s2">and uh un uh unaccountable</p>
+<p begin="00:16:29.839" end="00:16:34.000" style="s2">judges is simply unacceptable</p>
+<p begin="00:16:34.480" end="00:16:39.440" style="s2">yeah that&#39;s deeply concerning has unity</p>
+<p begin="00:16:37.600" end="00:16:41.360" style="s2">the unity movement or unity 2020</p>
+<p begin="00:16:39.440" end="00:16:44.240" style="s2">integrated this experience</p>
+<p begin="00:16:41.360" end="00:16:45.759" style="s2">and made it part of the platform itself</p>
+<p begin="00:16:44.240" end="00:16:49.120" style="s2">to talk about tech and</p>
+<p begin="00:16:45.759" end="00:16:50.160" style="s2">and media um involvement in in our</p>
+<p begin="00:16:49.120" end="00:16:52.959" style="s2">political</p>
+<p begin="00:16:50.160" end="00:16:53.839" style="s2">discourse you know i would say we&#39;re in</p>
+<p begin="00:16:52.959" end="00:16:55.839" style="s2">touch with many</p>
+<p begin="00:16:53.839" end="00:16:57.120" style="s2">of the people you would imagine we</p>
+<p begin="00:16:55.839" end="00:16:59.279" style="s2">should talk to about this</p>
+<p begin="00:16:57.120" end="00:17:00.240" style="s2">in terms of figuring out how to</p>
+<p begin="00:16:59.279" end="00:17:02.720" style="s2">integrate it</p>
+<p begin="00:17:00.240" end="00:17:05.039" style="s2">into the movement i would say it</p>
+<p begin="00:17:02.720" end="00:17:08.240" style="s2">actually points to the larger</p>
+<p begin="00:17:05.039" end="00:17:11.280" style="s2">question you asked before unity</p>
+<p begin="00:17:08.240" end="00:17:14.559" style="s2">is it is a movement about</p>
+<p begin="00:17:11.280" end="00:17:16.000" style="s2">obstacles to good governance so</p>
+<p begin="00:17:14.559" end="00:17:18.079" style="s2">there are many things that are obstacles</p>
+<p begin="00:17:16.000" end="00:17:21.520" style="s2">to good governance corruption</p>
+<p begin="00:17:18.079" end="00:17:24.480" style="s2">is one uh the</p>
+<p begin="00:17:21.520" end="00:17:26.400" style="s2">perverse incentives that accompany the</p>
+<p begin="00:17:24.480" end="00:17:27.120" style="s2">platforms that allow us to talk to each</p>
+<p begin="00:17:26.400" end="00:17:30.880" style="s2">other</p>
+<p begin="00:17:27.120" end="00:17:32.960" style="s2">is another and we effectively</p>
+<p begin="00:17:30.880" end="00:17:34.960" style="s2">oppose all such things and let me give</p>
+<p begin="00:17:32.960" end="00:17:37.120" style="s2">you a a modern example so you have a</p>
+<p begin="00:17:34.960" end="00:17:40.400" style="s2">better sense of what i&#39;m talking about</p>
+<p begin="00:17:37.120" end="00:17:43.039" style="s2">so ruth bader ginsburg&#39;s death creates</p>
+<p begin="00:17:40.400" end="00:17:43.440" style="s2">a number of problems in addition to</p>
+<p begin="00:17:43.039" end="00:17:47.039" style="s2">being</p>
+<p begin="00:17:43.440" end="00:17:47.760" style="s2">just simply very sad it raises the</p>
+<p begin="00:17:47.039" end="00:17:50.080" style="s2">specter</p>
+<p begin="00:17:47.760" end="00:17:51.919" style="s2">that an election that many people</p>
+<p begin="00:17:50.080" end="00:17:54.880" style="s2">already expect to be</p>
+<p begin="00:17:51.919" end="00:17:56.400" style="s2">contested might run into an additional</p>
+<p begin="00:17:54.880" end="00:17:59.120" style="s2">hazard which is to say</p>
+<p begin="00:17:56.400" end="00:18:00.000" style="s2">a court of eight can deadlock 50 50</p>
+<p begin="00:17:59.120" end="00:18:03.679" style="s2">whereas a court of</p>
+<p begin="00:18:00.000" end="00:18:05.440" style="s2">nine cannot and so her absence means</p>
+<p begin="00:18:03.679" end="00:18:06.880" style="s2">that we might be faced with a situation</p>
+<p begin="00:18:05.440" end="00:18:08.640" style="s2">in which the supreme court</p>
+<p begin="00:18:06.880" end="00:18:10.799" style="s2">has to rescue the republic and is</p>
+<p begin="00:18:08.640" end="00:18:13.840" style="s2">incapable of doing so</p>
+<p begin="00:18:10.799" end="00:18:15.760" style="s2">so in that context it seems</p>
+<p begin="00:18:13.840" end="00:18:18.799" style="s2">patriotically true</p>
+<p begin="00:18:15.760" end="00:18:19.520" style="s2">that we should do everything all those</p>
+<p begin="00:18:18.799" end="00:18:22.000" style="s2">who view</p>
+<p begin="00:18:19.520" end="00:18:23.120" style="s2">the survival of the republic as</p>
+<p begin="00:18:22.000" end="00:18:26.960" style="s2">paramount</p>
+<p begin="00:18:23.120" end="00:18:28.080" style="s2">should seek to seat a proper justice as</p>
+<p begin="00:18:26.960" end="00:18:30.080" style="s2">quickly as possible</p>
+<p begin="00:18:28.080" end="00:18:31.520" style="s2">the president should nominate someone</p>
+<p begin="00:18:30.080" end="00:18:34.240" style="s2">who is not</p>
+<p begin="00:18:31.520" end="00:18:35.520" style="s2">divisive and the senate should speed</p>
+<p begin="00:18:34.240" end="00:18:36.799" style="s2">their confirmation</p>
+<p begin="00:18:35.520" end="00:18:39.520" style="s2">so that at the point we reach the</p>
+<p begin="00:18:36.799" end="00:18:42.240" style="s2">election we have all the tools available</p>
+<p begin="00:18:39.520" end="00:18:44.559" style="s2">to save ourselves from some sort of an</p>
+<p begin="00:18:42.240" end="00:18:48.000" style="s2">ambiguous</p>
+<p begin="00:18:44.559" end="00:18:48.640" style="s2">and dangerous outcome so in the unity</p>
+<p begin="00:18:48.000" end="00:18:52.559" style="s2">movement</p>
+<p begin="00:18:48.640" end="00:18:54.080" style="s2">i feel we would be wise to advocate such</p>
+<p begin="00:18:52.559" end="00:18:54.720" style="s2">a thing we don&#39;t regard that as</p>
+<p begin="00:18:54.080" end="00:18:57.520" style="s2">political</p>
+<p begin="00:18:54.720" end="00:18:59.440" style="s2">now many on the left will regard it as</p>
+<p begin="00:18:57.520" end="00:19:02.000" style="s2">political because they see</p>
+<p begin="00:18:59.440" end="00:19:03.679" style="s2">blocking the nomination as their</p>
+<p begin="00:19:02.000" end="00:19:04.799" style="s2">obligation in light of what happened in</p>
+<p begin="00:19:03.679" end="00:19:07.919" style="s2">2016</p>
+<p begin="00:19:04.799" end="00:19:10.960" style="s2">but we see it differently and we are</p>
+<p begin="00:19:07.919" end="00:19:13.919" style="s2">very likely to advocate for the</p>
+<p begin="00:19:10.960" end="00:19:16.160" style="s2">rapid seating of a good justice in short</p>
+<p begin="00:19:13.919" end="00:19:16.160" style="s2">order</p>
+<p begin="00:19:17.840" end="00:19:25.280" style="s2">so you have just over a month</p>
+<p begin="00:19:21.840" end="00:19:25.679" style="s2">before the election how are you going to</p>
+<p begin="00:19:25.280" end="00:19:28.960" style="s2">use</p>
+<p begin="00:19:25.679" end="00:19:29.679" style="s2">this very precious time uh to accelerate</p>
+<p begin="00:19:28.960" end="00:19:33.440" style="s2">the movement</p>
+<p begin="00:19:29.679" end="00:19:34.480" style="s2">and to grow interest and um</p>
+<p begin="00:19:33.440" end="00:19:36.799" style="s2">yeah what are you what are you going to</p>
+<p begin="00:19:34.480" end="00:19:40.400" style="s2">do well if i can be</p>
+<p begin="00:19:36.799" end="00:19:43.440" style="s2">candid with you i think we are</p>
+<p begin="00:19:40.400" end="00:19:44.000" style="s2">in the following predicament so were it</p>
+<p begin="00:19:43.440" end="00:19:46.799" style="s2">true</p>
+<p begin="00:19:44.000" end="00:19:47.120" style="s2">that upon announcing this a groundswell</p>
+<p begin="00:19:46.799" end="00:19:49.760" style="s2">has</p>
+<p begin="00:19:47.120" end="00:19:51.520" style="s2">had emerged we could have drafted our</p>
+<p begin="00:19:49.760" end="00:19:53.679" style="s2">candidates and we could have</p>
+<p begin="00:19:51.520" end="00:19:56.080" style="s2">imposed on the parties that have ballot</p>
+<p begin="00:19:53.679" end="00:19:57.120" style="s2">access to partner with us and that was</p>
+<p begin="00:19:56.080" end="00:20:00.000" style="s2">the plan</p>
+<p begin="00:19:57.120" end="00:20:00.720" style="s2">now we saw a very good growth but we did</p>
+<p begin="00:20:00.000" end="00:20:02.880" style="s2">not see</p>
+<p begin="00:20:00.720" end="00:20:05.360" style="s2">a groundswell in fact i think many</p>
+<p begin="00:20:02.880" end="00:20:07.360" style="s2">people are still traumatized by the long</p>
+<p begin="00:20:05.360" end="00:20:08.880" style="s2">abusive relationship that they&#39;ve had</p>
+<p begin="00:20:07.360" end="00:20:11.360" style="s2">with the duopoly</p>
+<p begin="00:20:08.880" end="00:20:13.280" style="s2">and find themselves sitting on the fence</p>
+<p begin="00:20:11.360" end="00:20:14.640" style="s2">maybe rooting for us but not willing to</p>
+<p begin="00:20:13.280" end="00:20:15.440" style="s2">say out loud that they&#39;re actually</p>
+<p begin="00:20:14.640" end="00:20:17.280" style="s2">entertaining</p>
+<p begin="00:20:15.440" end="00:20:18.480" style="s2">the possibility that we could do</p>
+<p begin="00:20:17.280" end="00:20:21.919" style="s2">something</p>
+<p begin="00:20:18.480" end="00:20:24.720" style="s2">so in that light the path</p>
+<p begin="00:20:21.919" end="00:20:25.679" style="s2">to the white house has become pretty</p>
+<p begin="00:20:24.720" end="00:20:28.000" style="s2">unlikely</p>
+<p begin="00:20:25.679" end="00:20:29.679" style="s2">now it could still happen right we still</p>
+<p begin="00:20:28.000" end="00:20:33.679" style="s2">have the debates ahead of us</p>
+<p begin="00:20:29.679" end="00:20:36.960" style="s2">and both the major party candidates</p>
+<p begin="00:20:33.679" end="00:20:38.480" style="s2">are rather old we&#39;re talking about two</p>
+<p begin="00:20:36.960" end="00:20:40.240" style="s2">septuaginarians we don&#39;t</p>
+<p begin="00:20:38.480" end="00:20:42.320" style="s2">know what will happen in these debates</p>
+<p begin="00:20:40.240" end="00:20:45.039" style="s2">but it is possible that something</p>
+<p begin="00:20:42.320" end="00:20:46.720" style="s2">will cause a shift in the electorate</p>
+<p begin="00:20:45.039" end="00:20:47.760" style="s2">where suddenly one side will realize</p>
+<p begin="00:20:46.720" end="00:20:50.880" style="s2">that its ticket</p>
+<p begin="00:20:47.760" end="00:20:52.400" style="s2">is not actually viable and it will fear</p>
+<p begin="00:20:50.880" end="00:20:56.000" style="s2">the election of the other</p>
+<p begin="00:20:52.400" end="00:20:58.559" style="s2">that could put this plan in motion right</p>
+<p begin="00:20:56.000" end="00:21:00.400" style="s2">there are actually pathways to the</p>
+<p begin="00:20:58.559" end="00:21:02.240" style="s2">election of the unity ticket right up to</p>
+<p begin="00:21:00.400" end="00:21:06.080" style="s2">the point of the election</p>
+<p begin="00:21:02.240" end="00:21:08.720" style="s2">but that would require</p>
+<p begin="00:21:06.080" end="00:21:11.360" style="s2">something of historic proportions to</p>
+<p begin="00:21:08.720" end="00:21:13.600" style="s2">unfold in very short order</p>
+<p begin="00:21:11.360" end="00:21:15.120" style="s2">absent such a thing i would say the</p>
+<p begin="00:21:13.600" end="00:21:18.480" style="s2">focus has to be</p>
+<p begin="00:21:15.120" end="00:21:20.720" style="s2">on the movement going forward and</p>
+<p begin="00:21:18.480" end="00:21:21.520" style="s2">i think we are in grave jeopardy in the</p>
+<p begin="00:21:20.720" end="00:21:25.200" style="s2">short term</p>
+<p begin="00:21:21.520" end="00:21:25.200" style="s2">i personally am</p>
+<p begin="00:21:25.520" end="00:21:28.799" style="s2">i hesitate to use the term frightened</p>
+<p begin="00:21:27.360" end="00:21:30.159" style="s2">but i don&#39;t think there&#39;s really a good</p>
+<p begin="00:21:28.799" end="00:21:31.200" style="s2">alternative i&#39;m frightened about what&#39;s</p>
+<p begin="00:21:30.159" end="00:21:34.320" style="s2">going to happen</p>
+<p begin="00:21:31.200" end="00:21:36.159" style="s2">if the election is anything but clear</p>
+<p begin="00:21:34.320" end="00:21:37.919" style="s2">i&#39;m frightened that one side or the</p>
+<p begin="00:21:36.159" end="00:21:39.280" style="s2">other will not accept the results that</p>
+<p begin="00:21:37.919" end="00:21:41.200" style="s2">violence will occur</p>
+<p begin="00:21:39.280" end="00:21:43.280" style="s2">and that it will further deepen the</p>
+<p begin="00:21:41.200" end="00:21:46.480" style="s2">divide that is</p>
+<p begin="00:21:43.280" end="00:21:49.600" style="s2">threatening us and so in some sense</p>
+<p begin="00:21:46.480" end="00:21:52.720" style="s2">i&#39;m not sure we have till 2024 um</p>
+<p begin="00:21:49.600" end="00:21:55.840" style="s2">but i would say the odds</p>
+<p begin="00:21:52.720" end="00:21:57.520" style="s2">are uh better than 50 50 that we will</p>
+<p begin="00:21:55.840" end="00:21:59.039" style="s2">make it to 2024.</p>
+<p begin="00:21:57.520" end="00:22:01.360" style="s2">there&#39;s nothing on the horizon that</p>
+<p begin="00:21:59.039" end="00:22:04.880" style="s2">suggests it&#39;s going to cure the basic</p>
+<p begin="00:22:01.360" end="00:22:06.880" style="s2">problem of uh divisive partisan politics</p>
+<p begin="00:22:04.880" end="00:22:10.080" style="s2">and therefore we have to be ready</p>
+<p begin="00:22:06.880" end="00:22:11.840" style="s2">for next time and frankly with this much</p>
+<p begin="00:22:10.080" end="00:22:13.840" style="s2">run-up we can be in a much better</p>
+<p begin="00:22:11.840" end="00:22:15.039" style="s2">position where for example we don&#39;t have</p>
+<p begin="00:22:13.840" end="00:22:17.760" style="s2">to impose on</p>
+<p begin="00:22:15.039" end="00:22:18.960" style="s2">third parties for ballot access if this</p>
+<p begin="00:22:17.760" end="00:22:22.000" style="s2">is the path forward</p>
+<p begin="00:22:18.960" end="00:22:24.400" style="s2">then we could gain ballot access through</p>
+<p begin="00:22:22.000" end="00:22:25.919" style="s2">the uh the normal mechanisms normal</p>
+<p begin="00:22:24.400" end="00:22:26.799" style="s2">mechanisms which i should point out the</p>
+<p begin="00:22:25.919" end="00:22:29.200" style="s2">duopoly</p>
+<p begin="00:22:26.799" end="00:22:32.000" style="s2">has made onerous for reasons of</p>
+<p begin="00:22:29.200" end="00:22:32.000" style="s2">self-protection</p>
+<p begin="00:22:33.120" end="00:22:36.559" style="s2">right so we&#39;re about to move over to the</p>
+<p begin="00:22:34.880" end="00:22:37.360" style="s2">audience q a is there anything else that</p>
+<p begin="00:22:36.559" end="00:22:39.919" style="s2">you want to</p>
+<p begin="00:22:37.360" end="00:22:41.600" style="s2">just say before we move into the dynamic</p>
+<p begin="00:22:39.919" end="00:22:43.440" style="s2">part of the live podcast</p>
+<p begin="00:22:41.600" end="00:22:45.280" style="s2">well i should say i feel a little weird</p>
+<p begin="00:22:43.440" end="00:22:46.960" style="s2">uh with</p>
+<p begin="00:22:45.280" end="00:22:48.960" style="s2">you asking these questions i don&#39;t think</p>
+<p begin="00:22:46.960" end="00:22:52.159" style="s2">people fully grasp</p>
+<p begin="00:22:48.960" end="00:22:52.720" style="s2">that um to say that you were a student</p>
+<p begin="00:22:52.159" end="00:22:56.240" style="s2">of mine</p>
+<p begin="00:22:52.720" end="00:22:58.559" style="s2">is really you know this is this does not</p>
+<p begin="00:22:56.240" end="00:22:59.840" style="s2">properly characterize how well we know</p>
+<p begin="00:22:58.559" end="00:23:02.159" style="s2">each other because</p>
+<p begin="00:22:59.840" end="00:23:02.880" style="s2">you in addition to being my student for</p>
+<p begin="00:23:02.159" end="00:23:06.240" style="s2">a number of</p>
+<p begin="00:23:02.880" end="00:23:09.600" style="s2">years were present on the</p>
+<p begin="00:23:06.240" end="00:23:12.960" style="s2">trip that my wife and i ran</p>
+<p begin="00:23:09.600" end="00:23:14.000" style="s2">to ecuador in our second to last year of</p>
+<p begin="00:23:12.960" end="00:23:16.240" style="s2">teaching at evergreen</p>
+<p begin="00:23:14.000" end="00:23:17.120" style="s2">so we&#39;ve been in the field together in</p>
+<p begin="00:23:16.240" end="00:23:18.720" style="s2">fact</p>
+<p begin="00:23:17.120" end="00:23:20.559" style="s2">if i&#39;m remembering correctly you and i</p>
+<p begin="00:23:18.720" end="00:23:21.440" style="s2">were almost killed together in the same</p>
+<p begin="00:23:20.559" end="00:23:24.159" style="s2">storm</p>
+<p begin="00:23:21.440" end="00:23:26.559" style="s2">as a result of a sudden tree fall right</p>
+<p begin="00:23:24.159" end="00:23:30.159" style="s2">so anyway</p>
+<p begin="00:23:26.559" end="00:23:33.520" style="s2">it&#39;s good to see you raven and</p>
+<p begin="00:23:30.159" end="00:23:36.320" style="s2">um anyway i just feel that context is</p>
+<p begin="00:23:33.520" end="00:23:36.960" style="s2">necessary to know because uh i don&#39;t</p>
+<p begin="00:23:36.320" end="00:23:38.480" style="s2">know</p>
+<p begin="00:23:36.960" end="00:23:41.520" style="s2">it&#39;d be weird to imagine that we just</p>
+<p begin="00:23:38.480" end="00:23:45.760" style="s2">sort of we&#39;re in the same classroom</p>
+<p begin="00:23:41.520" end="00:23:48.960" style="s2">no i mean yes they&#39;re a lot together</p>
+<p begin="00:23:45.760" end="00:23:50.960" style="s2">yep very true yeah and it&#39;s</p>
+<p begin="00:23:48.960" end="00:23:52.400" style="s2">changed my life to know you that&#39;s</p>
+<p begin="00:23:50.960" end="00:23:55.600" style="s2">definitely the case</p>
+<p begin="00:23:52.400" end="00:23:58.799" style="s2">yes oh okay</p>
+<p begin="00:23:55.600" end="00:24:01.679" style="s2">and with that let us move to</p>
+<p begin="00:23:58.799" end="00:24:03.360" style="s2">the q a so if you have a question for</p>
+<p begin="00:24:01.679" end="00:24:05.520" style="s2">brett go ahead throw it in the chat</p>
+<p begin="00:24:03.360" end="00:24:06.640" style="s2">this is not the opportunity to debate</p>
+<p begin="00:24:05.520" end="00:24:08.320" style="s2">him so</p>
+<p begin="00:24:06.640" end="00:24:10.000" style="s2">you get your question and then a</p>
+<p begin="00:24:08.320" end="00:24:12.880" style="s2">follow-up question</p>
+<p begin="00:24:10.000" end="00:24:14.400" style="s2">you feel called to do that um and we&#39;re</p>
+<p begin="00:24:12.880" end="00:24:17.840" style="s2">gonna begin</p>
+<p begin="00:24:14.400" end="00:24:20.320" style="s2">with david</p>
+<p begin="00:24:17.840" end="00:24:22.080" style="s2">would you like to unmute yourself and</p>
+<p begin="00:24:20.320" end="00:24:24.320" style="s2">ask your question</p>
+<p begin="00:24:22.080" end="00:24:25.120" style="s2">yeah thank you very much hey thanks fred</p>
+<p begin="00:24:24.320" end="00:24:26.480" style="s2">um</p>
+<p begin="00:24:25.120" end="00:24:27.440" style="s2">yeah i&#39;ve been following along so i know</p>
+<p begin="00:24:26.480" end="00:24:28.159" style="s2">that you&#39;ve reached out to the</p>
+<p begin="00:24:27.440" end="00:24:31.200" style="s2">libertarian</p>
+<p begin="00:24:28.159" end="00:24:32.240" style="s2">parties jergensen um and it&#39;s</p>
+<p begin="00:24:31.200" end="00:24:34.559" style="s2">understandable that she</p>
+<p begin="00:24:32.240" end="00:24:35.760" style="s2">she&#39;s reluctant to hand you the unity 20</p>
+<p begin="00:24:34.559" end="00:24:37.360" style="s2">20 um</p>
+<p begin="00:24:35.760" end="00:24:40.240" style="s2">seat for the nomination that she</p>
+<p begin="00:24:37.360" end="00:24:41.679" style="s2">received but is it conceivable that um</p>
+<p begin="00:24:40.240" end="00:24:43.440" style="s2">the green party and the libertarian</p>
+<p begin="00:24:41.679" end="00:24:44.960" style="s2">parties and the unity movement could get</p>
+<p begin="00:24:43.440" end="00:24:47.520" style="s2">together for</p>
+<p begin="00:24:44.960" end="00:24:48.799" style="s2">some way to combine forces to make a</p>
+<p begin="00:24:47.520" end="00:24:51.840" style="s2">third-party option really</p>
+<p begin="00:24:48.799" end="00:24:55.440" style="s2">really viable so that um</p>
+<p begin="00:24:51.840" end="00:24:57.679" style="s2">whether it&#39;s a debate between them</p>
+<p begin="00:24:55.440" end="00:24:59.840" style="s2">that would show intelligence distinct</p>
+<p begin="00:24:57.679" end="00:25:02.000" style="s2">from the</p>
+<p begin="00:24:59.840" end="00:25:02.880" style="s2">candidates or some other method where</p>
+<p begin="00:25:02.000" end="00:25:05.360" style="s2">they they could</p>
+<p begin="00:25:02.880" end="00:25:07.120" style="s2">in a sense combine efforts and say unity</p>
+<p begin="00:25:05.360" end="00:25:09.600" style="s2">would support the libertarians if</p>
+<p begin="00:25:07.120" end="00:25:10.480" style="s2">if some contest showed that among the</p>
+<p begin="00:25:09.600" end="00:25:12.000" style="s2">three of them</p>
+<p begin="00:25:10.480" end="00:25:14.240" style="s2">the one that had the best chances of</p>
+<p begin="00:25:12.000" end="00:25:17.360" style="s2">winning would be</p>
+<p begin="00:25:14.240" end="00:25:18.799" style="s2">any one of those three a great question</p>
+<p begin="00:25:17.360" end="00:25:21.279" style="s2">i would say there are a lot of ways it</p>
+<p begin="00:25:18.799" end="00:25:24.240" style="s2">could go um</p>
+<p begin="00:25:21.279" end="00:25:26.720" style="s2">there is so to our mind we were not</p>
+<p begin="00:25:24.240" end="00:25:30.000" style="s2">exactly asking the libertarians and or</p>
+<p begin="00:25:26.720" end="00:25:31.279" style="s2">greens and or any other of the third</p>
+<p begin="00:25:30.000" end="00:25:33.919" style="s2">party options</p>
+<p begin="00:25:31.279" end="00:25:35.679" style="s2">to hand us their ballot access we were</p>
+<p begin="00:25:33.919" end="00:25:37.039" style="s2">hoping that they would recognize this as</p>
+<p begin="00:25:35.679" end="00:25:39.200" style="s2">a real opportunity</p>
+<p begin="00:25:37.039" end="00:25:40.080" style="s2">because what happens with the third</p>
+<p begin="00:25:39.200" end="00:25:43.679" style="s2">parties</p>
+<p begin="00:25:40.080" end="00:25:47.360" style="s2">is they attain the status</p>
+<p begin="00:25:43.679" end="00:25:49.840" style="s2">of historical footnote at best</p>
+<p begin="00:25:47.360" end="00:25:50.799" style="s2">at worst they get enough of the vote to</p>
+<p begin="00:25:49.840" end="00:25:54.400" style="s2">be blamed</p>
+<p begin="00:25:50.799" end="00:25:58.000" style="s2">for whoever is elected</p>
+<p begin="00:25:54.400" end="00:26:01.840" style="s2">and in this case what we were suggesting</p>
+<p begin="00:25:58.000" end="00:26:04.640" style="s2">was that if they were to step aside</p>
+<p begin="00:26:01.840" end="00:26:04.960" style="s2">for one election cycle that there would</p>
+<p begin="00:26:04.640" end="00:26:07.200" style="s2">be</p>
+<p begin="00:26:04.960" end="00:26:09.200" style="s2">a lot of value for their long-term</p>
+<p begin="00:26:07.200" end="00:26:10.960" style="s2">well-being and the value would come in a</p>
+<p begin="00:26:09.200" end="00:26:14.400" style="s2">couple of different forms</p>
+<p begin="00:26:10.960" end="00:26:16.640" style="s2">first for any party that gets</p>
+<p begin="00:26:14.400" end="00:26:17.760" style="s2">five percent of the vote there are</p>
+<p begin="00:26:16.640" end="00:26:20.159" style="s2">federal funds</p>
+<p begin="00:26:17.760" end="00:26:22.000" style="s2">available in a future election had one</p>
+<p begin="00:26:20.159" end="00:26:23.600" style="s2">of the parties achieve five percent in</p>
+<p begin="00:26:22.000" end="00:26:25.600" style="s2">the past election</p>
+<p begin="00:26:23.600" end="00:26:26.799" style="s2">that would have been worth 20 million</p>
+<p begin="00:26:25.600" end="00:26:30.240" style="s2">dollars in this case</p>
+<p begin="00:26:26.799" end="00:26:33.200" style="s2">so we&#39;re talking about a large</p>
+<p begin="00:26:30.240" end="00:26:35.360" style="s2">bit of fuel that was available to a</p>
+<p begin="00:26:33.200" end="00:26:38.640" style="s2">third party that had the vision</p>
+<p begin="00:26:35.360" end="00:26:41.919" style="s2">to partner with us also</p>
+<p begin="00:26:38.640" end="00:26:43.679" style="s2">our vote that we held between our nine</p>
+<p begin="00:26:41.919" end="00:26:45.440" style="s2">possible tickets was a ranked choice</p>
+<p begin="00:26:43.679" end="00:26:47.520" style="s2">vote which is evidence of our commitment</p>
+<p begin="00:26:45.440" end="00:26:48.720" style="s2">to the idea of rank choice voting and</p>
+<p begin="00:26:47.520" end="00:26:52.320" style="s2">rank choice voting</p>
+<p begin="00:26:48.720" end="00:26:55.120" style="s2">is probably the key proposal</p>
+<p begin="00:26:52.320" end="00:26:56.159" style="s2">to increase the influence of third</p>
+<p begin="00:26:55.120" end="00:26:59.760" style="s2">parties</p>
+<p begin="00:26:56.159" end="00:27:01.279" style="s2">in our governance so</p>
+<p begin="00:26:59.760" end="00:27:03.279" style="s2">what we were hoping was that they would</p>
+<p begin="00:27:01.279" end="00:27:04.240" style="s2">recognize that this was a long-term</p>
+<p begin="00:27:03.279" end="00:27:06.000" style="s2">investment and that</p>
+<p begin="00:27:04.240" end="00:27:07.679" style="s2">in effect they were making a trade</p>
+<p begin="00:27:06.000" end="00:27:10.880" style="s2">rather than uh</p>
+<p begin="00:27:07.679" end="00:27:12.400" style="s2">engaging in charity now i don&#39;t</p>
+<p begin="00:27:10.880" end="00:27:14.320" style="s2">actually know what the conversation</p>
+<p begin="00:27:12.400" end="00:27:15.520" style="s2">sounds like on the inside of these</p>
+<p begin="00:27:14.320" end="00:27:18.080" style="s2">parties</p>
+<p begin="00:27:15.520" end="00:27:18.720" style="s2">i do know that we are in contact with</p>
+<p begin="00:27:18.080" end="00:27:21.440" style="s2">people</p>
+<p begin="00:27:18.720" end="00:27:23.840" style="s2">in the libertarian organization we had</p>
+<p begin="00:27:21.440" end="00:27:27.120" style="s2">justin amash on our most recent</p>
+<p begin="00:27:23.840" end="00:27:30.960" style="s2">campfire and</p>
+<p begin="00:27:27.120" end="00:27:33.200" style="s2">so i think there is a kind of dawning</p>
+<p begin="00:27:30.960" end="00:27:35.120" style="s2">awareness in these circles that there&#39;s</p>
+<p begin="00:27:33.200" end="00:27:37.600" style="s2">a larger</p>
+<p begin="00:27:35.120" end="00:27:38.960" style="s2">a larger game theoretic puzzle to be</p>
+<p begin="00:27:37.600" end="00:27:41.919" style="s2">solved</p>
+<p begin="00:27:38.960" end="00:27:42.559" style="s2">now as to the particular structure you</p>
+<p begin="00:27:41.919" end="00:27:44.399" style="s2">lay out</p>
+<p begin="00:27:42.559" end="00:27:45.600" style="s2">i think there are some game theoretic</p>
+<p begin="00:27:44.399" end="00:27:48.640" style="s2">problems with it</p>
+<p begin="00:27:45.600" end="00:27:50.640" style="s2">in other words the libertarians and the</p>
+<p begin="00:27:48.640" end="00:27:54.399" style="s2">greens for example</p>
+<p begin="00:27:50.640" end="00:27:57.600" style="s2">because these are ideology-based parties</p>
+<p begin="00:27:54.399" end="00:28:00.000" style="s2">um have to swallow a very bitter pill</p>
+<p begin="00:27:57.600" end="00:28:02.240" style="s2">if they are to team up in order to</p>
+<p begin="00:28:00.000" end="00:28:04.720" style="s2">defeat the duopoly but are to empower</p>
+<p begin="00:28:02.240" end="00:28:06.559" style="s2">something that is distant from</p>
+<p begin="00:28:04.720" end="00:28:09.760" style="s2">themselves ideologically</p>
+<p begin="00:28:06.559" end="00:28:11.840" style="s2">that is probably not a viable structure</p>
+<p begin="00:28:09.760" end="00:28:13.600" style="s2">which is exactly why the unity proposal</p>
+<p begin="00:28:11.840" end="00:28:16.480" style="s2">looks the way it does</p>
+<p begin="00:28:13.600" end="00:28:18.640" style="s2">by being non-ideological it allows those</p>
+<p begin="00:28:16.480" end="00:28:21.760" style="s2">of us who recognize that the corruption</p>
+<p begin="00:28:18.640" end="00:28:23.840" style="s2">in our system is the hazard to it</p>
+<p begin="00:28:21.760" end="00:28:25.679" style="s2">serving our collective well-being it</p>
+<p begin="00:28:23.840" end="00:28:26.720" style="s2">allows us to gather together under one</p>
+<p begin="00:28:25.679" end="00:28:31.760" style="s2">banner and</p>
+<p begin="00:28:26.720" end="00:28:33.360" style="s2">not be compromised in so doing</p>
+<p begin="00:28:31.760" end="00:28:35.440" style="s2">just a quick follow-up just i think it&#39;s</p>
+<p begin="00:28:33.360" end="00:28:37.919" style="s2">a yes or no is there just a sense that</p>
+<p begin="00:28:35.440" end="00:28:38.559" style="s2">if it were to further the third party</p>
+<p begin="00:28:37.919" end="00:28:40.480" style="s2">option</p>
+<p begin="00:28:38.559" end="00:28:41.600" style="s2">could you see i mean obviously you can&#39;t</p>
+<p begin="00:28:40.480" end="00:28:44.000" style="s2">guarantee anybody</p>
+<p begin="00:28:41.600" end="00:28:45.120" style="s2">does anything could you see encouraging</p>
+<p begin="00:28:44.000" end="00:28:48.240" style="s2">the unity followers</p>
+<p begin="00:28:45.120" end="00:28:49.840" style="s2">to back the libertarians if there was</p>
+<p begin="00:28:48.240" end="00:28:51.760" style="s2">some way that that actually would be</p>
+<p begin="00:28:49.840" end="00:28:54.000" style="s2">more viable for making third party</p>
+<p begin="00:28:51.760" end="00:28:56.720" style="s2">option bible this time</p>
+<p begin="00:28:54.000" end="00:28:58.399" style="s2">well again i think it&#39;s a larger game</p>
+<p begin="00:28:56.720" end="00:29:00.399" style="s2">theoretic puzzle</p>
+<p begin="00:28:58.399" end="00:29:01.760" style="s2">what we will certainly do is we will</p>
+<p begin="00:29:00.399" end="00:29:02.480" style="s2">advocate that people vote their</p>
+<p begin="00:29:01.760" end="00:29:05.039" style="s2">conscience</p>
+<p begin="00:29:02.480" end="00:29:06.240" style="s2">to the extent that the argument is you</p>
+<p begin="00:29:05.039" end="00:29:07.919" style="s2">mustn&#39;t consider</p>
+<p begin="00:29:06.240" end="00:29:09.760" style="s2">voting for anything other than the major</p>
+<p begin="00:29:07.919" end="00:29:11.520" style="s2">party options because</p>
+<p begin="00:29:09.760" end="00:29:12.960" style="s2">you&#39;ll elect the greater evil i would</p>
+<p begin="00:29:11.520" end="00:29:15.360" style="s2">remind you</p>
+<p begin="00:29:12.960" end="00:29:16.320" style="s2">once upon a time mitt romney was the</p>
+<p begin="00:29:15.360" end="00:29:18.480" style="s2">greater evil</p>
+<p begin="00:29:16.320" end="00:29:20.240" style="s2">that tells you how dumb this argument is</p>
+<p begin="00:29:18.480" end="00:29:21.919" style="s2">right people are now begging for a mitt</p>
+<p begin="00:29:20.240" end="00:29:23.600" style="s2">romney-like figure they&#39;re wishing</p>
+<p begin="00:29:21.919" end="00:29:25.200" style="s2">that such a person would step in and</p>
+<p begin="00:29:23.600" end="00:29:26.880" style="s2">save us from the absurd</p>
+<p begin="00:29:25.200" end="00:29:28.320" style="s2">choice that the duopoly has stuck us</p>
+<p begin="00:29:26.880" end="00:29:30.320" style="s2">with but</p>
+<p begin="00:29:28.320" end="00:29:31.520" style="s2">you know in the past this was an</p>
+<p begin="00:29:30.320" end="00:29:34.159" style="s2">unthinkable fate</p>
+<p begin="00:29:31.520" end="00:29:34.640" style="s2">so that&#39;s the argument the argument is</p>
+<p begin="00:29:34.159" end="00:29:36.159" style="s2">false</p>
+<p begin="00:29:34.640" end="00:29:38.000" style="s2">people should vote their conscience and</p>
+<p begin="00:29:36.159" end="00:29:41.440" style="s2">if they did we wouldn&#39;t be stuck with</p>
+<p begin="00:29:38.000" end="00:29:44.240" style="s2">the structure</p>
+<p begin="00:29:41.440" end="00:29:45.039" style="s2">thank you we&#39;re going to go to paul</p>
+<p begin="00:29:44.240" end="00:29:46.399" style="s2">dunscombe</p>
+<p begin="00:29:45.039" end="00:29:48.080" style="s2">would you like to mute yourself and ask</p>
+<p begin="00:29:46.399" end="00:29:51.279" style="s2">a question</p>
+<p begin="00:29:48.080" end="00:29:52.880" style="s2">hey um so from my perspective at c</p>
+<p begin="00:29:51.279" end="00:29:54.480" style="s2">and i&#39;m sure a lot of others it seems</p>
+<p begin="00:29:52.880" end="00:29:56.799" style="s2">like the two tribes</p>
+<p begin="00:29:54.480" end="00:29:57.919" style="s2">live in sort of two different realities</p>
+<p begin="00:29:56.799" end="00:29:59.360" style="s2">which to me seems</p>
+<p begin="00:29:57.919" end="00:30:01.600" style="s2">fundamentally different than having two</p>
+<p begin="00:29:59.360" end="00:30:03.840" style="s2">different ideologies</p>
+<p begin="00:30:01.600" end="00:30:06.640" style="s2">how does unity address this</p>
+<p begin="00:30:03.840" end="00:30:09.279" style="s2">epistemological crisis</p>
+<p begin="00:30:06.640" end="00:30:10.720" style="s2">and and second how does the answer not</p>
+<p begin="00:30:09.279" end="00:30:11.120" style="s2">just be a split the difference where</p>
+<p begin="00:30:10.720" end="00:30:14.320" style="s2">neither</p>
+<p begin="00:30:11.120" end="00:30:18.320" style="s2">side is happy all right</p>
+<p begin="00:30:14.320" end="00:30:19.600" style="s2">um that is multifaceted but you&#39;re</p>
+<p begin="00:30:18.320" end="00:30:23.279" style="s2">exactly right</p>
+<p begin="00:30:19.600" end="00:30:25.320" style="s2">now i would argue that the distinct</p>
+<p begin="00:30:23.279" end="00:30:26.960" style="s2">and maybe more importantly</p>
+<p begin="00:30:25.320" end="00:30:29.840" style="s2">unreconcilable</p>
+<p begin="00:30:26.960" end="00:30:31.520" style="s2">narratives exist in service of a</p>
+<p begin="00:30:29.840" end="00:30:33.360" style="s2">structure that does not wish to be</p>
+<p begin="00:30:31.520" end="00:30:38.480" style="s2">displaced by</p>
+<p begin="00:30:33.360" end="00:30:42.399" style="s2">analysis and its logical consequences</p>
+<p begin="00:30:38.480" end="00:30:47.679" style="s2">so the two tribes do live in</p>
+<p begin="00:30:42.399" end="00:30:50.640" style="s2">what i see as an almost reciprocal</p>
+<p begin="00:30:47.679" end="00:30:52.240" style="s2">pair of realities so the way i used to</p>
+<p begin="00:30:50.640" end="00:30:55.440" style="s2">say this</p>
+<p begin="00:30:52.240" end="00:30:58.640" style="s2">is the fox news viewer</p>
+<p begin="00:30:55.440" end="00:31:00.240" style="s2">sees the npr listener as insane the npr</p>
+<p begin="00:30:58.640" end="00:31:03.039" style="s2">listener</p>
+<p begin="00:31:00.240" end="00:31:04.320" style="s2">regards the the fox news viewer as crazy</p>
+<p begin="00:31:03.039" end="00:31:06.799" style="s2">and they&#39;re both right</p>
+<p begin="00:31:04.320" end="00:31:08.640" style="s2">right so they they each see something in</p>
+<p begin="00:31:06.799" end="00:31:10.080" style="s2">the other that is accurate and causes</p>
+<p begin="00:31:08.640" end="00:31:10.880" style="s2">them not to pay attention and what they</p>
+<p begin="00:31:10.080" end="00:31:13.760" style="s2">don&#39;t see</p>
+<p begin="00:31:10.880" end="00:31:14.240" style="s2">is the same distortion in themselves and</p>
+<p begin="00:31:13.760" end="00:31:16.960" style="s2">so</p>
+<p begin="00:31:14.240" end="00:31:17.760" style="s2">first thing to say is those who have</p>
+<p begin="00:31:16.960" end="00:31:21.600" style="s2">arrived</p>
+<p begin="00:31:17.760" end="00:31:23.200" style="s2">at a unity orientation and my guess is</p>
+<p begin="00:31:21.600" end="00:31:24.080" style="s2">i&#39;m looking at a screen full of people</p>
+<p begin="00:31:23.200" end="00:31:27.200" style="s2">who have</p>
+<p begin="00:31:24.080" end="00:31:29.840" style="s2">something like a unity orientation that</p>
+<p begin="00:31:27.200" end="00:31:30.720" style="s2">those people begin to recognize that the</p>
+<p begin="00:31:29.840" end="00:31:33.840" style="s2">truth</p>
+<p begin="00:31:30.720" end="00:31:37.200" style="s2">is not encapsulated in either place</p>
+<p begin="00:31:33.840" end="00:31:39.919" style="s2">that it is it has to be constructed</p>
+<p begin="00:31:37.200" end="00:31:41.200" style="s2">all a cart because it is actually</p>
+<p begin="00:31:39.919" end="00:31:45.360" style="s2">complex</p>
+<p begin="00:31:41.200" end="00:31:46.000" style="s2">so um what are we doing about it i think</p>
+<p begin="00:31:45.360" end="00:31:49.200" style="s2">that&#39;s almost</p>
+<p begin="00:31:46.000" end="00:31:52.080" style="s2">the wrong way to look at it i would say</p>
+<p begin="00:31:49.200" end="00:31:53.679" style="s2">many different projects aim to solve a</p>
+<p begin="00:31:52.080" end="00:31:57.039" style="s2">piece of this puzzle</p>
+<p begin="00:31:53.679" end="00:31:59.519" style="s2">unity 2020 aims to</p>
+<p begin="00:31:57.039" end="00:32:01.600" style="s2">solve this puzzle in the political</p>
+<p begin="00:31:59.519" end="00:32:05.120" style="s2">context</p>
+<p begin="00:32:01.600" end="00:32:08.880" style="s2">whereas stoa is aiming to solve this</p>
+<p begin="00:32:05.120" end="00:32:11.679" style="s2">in a social context idw</p>
+<p begin="00:32:08.880" end="00:32:12.960" style="s2">aimed to solve it in a sense-making</p>
+<p begin="00:32:11.679" end="00:32:16.320" style="s2">public context</p>
+<p begin="00:32:12.960" end="00:32:18.240" style="s2">you know close kin to stella maybe but</p>
+<p begin="00:32:16.320" end="00:32:21.120" style="s2">all of these things are attempts to</p>
+<p begin="00:32:18.240" end="00:32:24.799" style="s2">bypass these game theoretic failures</p>
+<p begin="00:32:21.120" end="00:32:25.279" style="s2">and bootstrap a superior alternative and</p>
+<p begin="00:32:24.799" end="00:32:28.240" style="s2">what i</p>
+<p begin="00:32:25.279" end="00:32:29.760" style="s2">hope above all else is that all of these</p>
+<p begin="00:32:28.240" end="00:32:31.760" style="s2">projects that aim to do that</p>
+<p begin="00:32:29.760" end="00:32:34.320" style="s2">begin to recognize that they are each</p>
+<p begin="00:32:31.760" end="00:32:37.039" style="s2">looking at one facet of the same gem</p>
+<p begin="00:32:34.320" end="00:32:38.000" style="s2">and the extent that we do that we become</p>
+<p begin="00:32:37.039" end="00:32:42.640" style="s2">very powerful</p>
+<p begin="00:32:38.000" end="00:32:44.799" style="s2">very quickly</p>
+<p begin="00:32:42.640" end="00:32:47.279" style="s2">okay all do you have a any kind of</p>
+<p begin="00:32:44.799" end="00:32:47.279" style="s2">response</p>
+<p begin="00:32:47.919" end="00:32:55.039" style="s2">no okay let us move</p>
+<p begin="00:32:51.600" end="00:32:57.840" style="s2">to blaine would you like to</p>
+<p begin="00:32:55.039" end="00:32:57.840" style="s2">yourself and ask a question</p>
+<p begin="00:33:01.360" end="00:33:07.519" style="s2">uh yes let me just pull it up all right</p>
+<p begin="00:33:04.559" end="00:33:08.880" style="s2">i&#39;m just gonna read what i submitted it</p>
+<p begin="00:33:07.519" end="00:33:12.159" style="s2">says instead of ubi</p>
+<p begin="00:33:08.880" end="00:33:12.880" style="s2">wouldn&#39;t earned universal income be a</p>
+<p begin="00:33:12.159" end="00:33:17.120" style="s2">platform for</p>
+<p begin="00:33:12.880" end="00:33:19.120" style="s2">unity basically putin citizens would</p>
+<p begin="00:33:17.120" end="00:33:20.399" style="s2">serve in the communities for x amount of</p>
+<p begin="00:33:19.120" end="00:33:24.399" style="s2">time or</p>
+<p begin="00:33:20.399" end="00:33:25.519" style="s2">x way to earn ubi seems to be two birds</p>
+<p begin="00:33:24.399" end="00:33:28.640" style="s2">one stone</p>
+<p begin="00:33:25.519" end="00:33:32.240" style="s2">uh they&#39;re saying defund the police but</p>
+<p begin="00:33:28.640" end="00:33:34.159" style="s2">also have citizens uh service police so</p>
+<p begin="00:33:32.240" end="00:33:36.159" style="s2">policing gets more resources</p>
+<p begin="00:33:34.159" end="00:33:38.960" style="s2">to focus on education and training but</p>
+<p begin="00:33:36.159" end="00:33:40.720" style="s2">also quote unquote defund</p>
+<p begin="00:33:38.960" end="00:33:42.960" style="s2">as then put back into the communities</p>
+<p begin="00:33:40.720" end="00:33:45.679" style="s2">through the citizens earning</p>
+<p begin="00:33:42.960" end="00:33:45.679" style="s2">their ubi</p>
+<p begin="00:33:46.559" end="00:33:49.600" style="s2">so um</p>
+<p begin="00:33:50.240" end="00:33:57.760" style="s2">i think this is a very good</p>
+<p begin="00:33:54.399" end="00:34:01.120" style="s2">this shows us a an important fork</p>
+<p begin="00:33:57.760" end="00:34:04.159" style="s2">in the conversation so i personally</p>
+<p begin="00:34:01.120" end="00:34:06.000" style="s2">agree with you about uh what i would</p>
+<p begin="00:34:04.159" end="00:34:08.480" style="s2">call participation income as</p>
+<p begin="00:34:06.000" end="00:34:09.359" style="s2">likely superior to universal basic</p>
+<p begin="00:34:08.480" end="00:34:13.040" style="s2">income</p>
+<p begin="00:34:09.359" end="00:34:13.839" style="s2">but that conversation really has no</p>
+<p begin="00:34:13.040" end="00:34:17.440" style="s2">place</p>
+<p begin="00:34:13.839" end="00:34:18.320" style="s2">in the unity layer right because as much</p>
+<p begin="00:34:17.440" end="00:34:20.879" style="s2">as i think</p>
+<p begin="00:34:18.320" end="00:34:23.280" style="s2">that&#39;s a desirable thing and that all</p>
+<p begin="00:34:20.879" end="00:34:25.599" style="s2">reasonable people should probably</p>
+<p begin="00:34:23.280" end="00:34:27.359" style="s2">be considering some proposal in this</p>
+<p begin="00:34:25.599" end="00:34:30.720" style="s2">neighborhood as the solution to</p>
+<p begin="00:34:27.359" end="00:34:32.639" style="s2">a large and growing problem that&#39;s my</p>
+<p begin="00:34:30.720" end="00:34:35.679" style="s2">personal political belief</p>
+<p begin="00:34:32.639" end="00:34:38.639" style="s2">right what i&#39;m hoping what the</p>
+<p begin="00:34:35.679" end="00:34:39.520" style="s2">unity proposal is built around is the</p>
+<p begin="00:34:38.639" end="00:34:43.040" style="s2">idea</p>
+<p begin="00:34:39.520" end="00:34:44.960" style="s2">that if you put two uh patriots</p>
+<p begin="00:34:43.040" end="00:34:47.040" style="s2">in a room from different sides of the</p>
+<p begin="00:34:44.960" end="00:34:49.200" style="s2">political spectrum</p>
+<p begin="00:34:47.040" end="00:34:50.079" style="s2">and they hash this out in the interest</p>
+<p begin="00:34:49.200" end="00:34:52.720" style="s2">of the nation</p>
+<p begin="00:34:50.079" end="00:34:54.320" style="s2">that they will arrive at a good answer</p>
+<p begin="00:34:52.720" end="00:34:56.000" style="s2">right if the good answer is something</p>
+<p begin="00:34:54.320" end="00:34:59.119" style="s2">like participation income</p>
+<p begin="00:34:56.000" end="00:35:00.240" style="s2">i&#39;m hoping that that will be shown by</p>
+<p begin="00:34:59.119" end="00:35:02.240" style="s2">the process</p>
+<p begin="00:35:00.240" end="00:35:04.560" style="s2">but i do think it is important to</p>
+<p begin="00:35:02.240" end="00:35:07.599" style="s2">separate our own political</p>
+<p begin="00:35:04.560" end="00:35:09.680" style="s2">desires and beliefs from</p>
+<p begin="00:35:07.599" end="00:35:11.839" style="s2">the effort to rid the system of the</p>
+<p begin="00:35:09.680" end="00:35:16.800" style="s2">corruption that prevents a rational set</p>
+<p begin="00:35:11.839" end="00:35:21.040" style="s2">of beliefs from guiding us</p>
+<p begin="00:35:16.800" end="00:35:23.280" style="s2">uh thank you uh yeah i just</p>
+<p begin="00:35:21.040" end="00:35:24.320" style="s2">from that platform i kind of view it as</p>
+<p begin="00:35:23.280" end="00:35:27.440" style="s2">also</p>
+<p begin="00:35:24.320" end="00:35:30.960" style="s2">uh the members serving uh</p>
+<p begin="00:35:27.440" end="00:35:34.160" style="s2">through the earned ubi um program</p>
+<p begin="00:35:30.960" end="00:35:37.359" style="s2">could also be kind of giving the people</p>
+<p begin="00:35:34.160" end="00:35:40.480" style="s2">a big brother into</p>
+<p begin="00:35:37.359" end="00:35:42.880" style="s2">all of the elements of service to</p>
+<p begin="00:35:40.480" end="00:35:43.520" style="s2">because let&#39;s say you have a physical</p>
+<p begin="00:35:42.880" end="00:35:46.720" style="s2">physical</p>
+<p begin="00:35:43.520" end="00:35:49.440" style="s2">uh disability it can only serve through</p>
+<p begin="00:35:46.720" end="00:35:50.720" style="s2">abdication you would still be able to</p>
+<p begin="00:35:49.440" end="00:35:52.480" style="s2">keep eye</p>
+<p begin="00:35:50.720" end="00:35:54.480" style="s2">to make sure there&#39;s no like corruption</p>
+<p begin="00:35:52.480" end="00:35:58.240" style="s2">in certain um</p>
+<p begin="00:35:54.480" end="00:36:01.680" style="s2">departments or anywhere um and</p>
+<p begin="00:35:58.240" end="00:36:03.040" style="s2">the way i&#39;m gonna cut in here uh thank</p>
+<p begin="00:36:01.680" end="00:36:05.359" style="s2">you so much for your question but we&#39;re</p>
+<p begin="00:36:03.040" end="00:36:08.079" style="s2">gonna go to megan&#39;s question</p>
+<p begin="00:36:05.359" end="00:36:09.839" style="s2">thank you megan would you like to remit</p>
+<p begin="00:36:08.079" end="00:36:13.520" style="s2">yourself and ask the question</p>
+<p begin="00:36:09.839" end="00:36:16.720" style="s2">ah thanks very much um i was curious by</p>
+<p begin="00:36:13.520" end="00:36:18.640" style="s2">um by uh when you said that uh the power</p>
+<p begin="00:36:16.720" end="00:36:19.839" style="s2">that sweater has is a technological</p>
+<p begin="00:36:18.640" end="00:36:22.320" style="s2">accident</p>
+<p begin="00:36:19.839" end="00:36:23.440" style="s2">um there&#39;s a term that i learned here on</p>
+<p begin="00:36:22.320" end="00:36:25.119" style="s2">the star that um</p>
+<p begin="00:36:23.440" end="00:36:26.400" style="s2">i was really i think i was really</p>
+<p begin="00:36:25.119" end="00:36:27.440" style="s2">looking for in life which is the blue</p>
+<p begin="00:36:26.400" end="00:36:30.079" style="s2">church</p>
+<p begin="00:36:27.440" end="00:36:32.000" style="s2">um and it looks to me like both twitter</p>
+<p begin="00:36:30.079" end="00:36:32.480" style="s2">and facebook are branches of that blue</p>
+<p begin="00:36:32.000" end="00:36:36.400" style="s2">church</p>
+<p begin="00:36:32.480" end="00:36:39.440" style="s2">um they they are very specific</p>
+<p begin="00:36:36.400" end="00:36:41.599" style="s2">in the in the angle that they push i&#39;m</p>
+<p begin="00:36:39.440" end="00:36:44.720" style="s2">noticing the flags that say um learn how</p>
+<p begin="00:36:41.599" end="00:36:46.640" style="s2">voting by mail is safe and secure it&#39;s</p>
+<p begin="00:36:44.720" end="00:36:48.800" style="s2">like it&#39;s a very very specific message</p>
+<p begin="00:36:46.640" end="00:36:50.720" style="s2">that those people are pushing um</p>
+<p begin="00:36:48.800" end="00:36:52.320" style="s2">so i was wanting to know what&#39;s your</p>
+<p begin="00:36:50.720" end="00:36:55.440" style="s2">basis for attributing this</p>
+<p begin="00:36:52.320" end="00:36:57.280" style="s2">this effect to being an accident um</p>
+<p begin="00:36:55.440" end="00:36:59.760" style="s2">and what would be your opinion on the</p>
+<p begin="00:36:57.280" end="00:37:02.160" style="s2">implication of the possibility either</p>
+<p begin="00:36:59.760" end="00:37:05.119" style="s2">that&#39;s an accident or that it&#39;s actually</p>
+<p begin="00:37:02.160" end="00:37:06.880" style="s2">a branch of something that is organized</p>
+<p begin="00:37:05.119" end="00:37:08.320" style="s2">that&#39;s that&#39;s interesting because i mean</p>
+<p begin="00:37:06.880" end="00:37:10.800" style="s2">i see exactly the same</p>
+<p begin="00:37:08.320" end="00:37:11.440" style="s2">bias that you do i do think silicon</p>
+<p begin="00:37:10.800" end="00:37:16.160" style="s2">valley</p>
+<p begin="00:37:11.440" end="00:37:16.640" style="s2">is um it is in alignment with the blue</p>
+<p begin="00:37:16.160" end="00:37:18.560" style="s2">church</p>
+<p begin="00:37:16.640" end="00:37:20.000" style="s2">but the way i would say it is that</p>
+<p begin="00:37:18.560" end="00:37:24.079" style="s2">silicon valley</p>
+<p begin="00:37:20.000" end="00:37:26.160" style="s2">is utilizing one half of the duopoly</p>
+<p begin="00:37:24.079" end="00:37:27.599" style="s2">to advance its interests and so the</p>
+<p begin="00:37:26.160" end="00:37:30.320" style="s2">reason that we have</p>
+<p begin="00:37:27.599" end="00:37:32.240" style="s2">two parties in the duopoly is that there</p>
+<p begin="00:37:30.320" end="00:37:33.280" style="s2">are actually competing interests within</p>
+<p begin="00:37:32.240" end="00:37:35.920" style="s2">the elites</p>
+<p begin="00:37:33.280" end="00:37:37.680" style="s2">and the elites the rent seekers</p>
+<p begin="00:37:35.920" end="00:37:40.880" style="s2">basically own all of the power</p>
+<p begin="00:37:37.680" end="00:37:43.920" style="s2">this is why policy has almost</p>
+<p begin="00:37:40.880" end="00:37:45.119" style="s2">no uh relationship to the desire of the</p>
+<p begin="00:37:43.920" end="00:37:48.320" style="s2">electorate</p>
+<p begin="00:37:45.119" end="00:37:51.599" style="s2">the electorate is a</p>
+<p begin="00:37:48.320" end="00:37:53.520" style="s2">a body that has to be persuaded to award</p>
+<p begin="00:37:51.599" end="00:37:56.240" style="s2">power which is then monetized</p>
+<p begin="00:37:53.520" end="00:37:57.359" style="s2">and peddled by these two these two</p>
+<p begin="00:37:56.240" end="00:37:58.480" style="s2">forces but</p>
+<p begin="00:37:57.359" end="00:38:00.400" style="s2">they&#39;re peddling to different</p>
+<p begin="00:37:58.480" end="00:38:04.240" style="s2">constituencies right so</p>
+<p begin="00:38:00.400" end="00:38:07.440" style="s2">you know it might be that um the</p>
+<p begin="00:38:04.240" end="00:38:10.079" style="s2">the blue church as you put it is uh</p>
+<p begin="00:38:07.440" end="00:38:10.880" style="s2">in alignment with alternative energy</p>
+<p begin="00:38:10.079" end="00:38:14.720" style="s2">properties</p>
+<p begin="00:38:10.880" end="00:38:18.480" style="s2">and that the red religion is</p>
+<p begin="00:38:14.720" end="00:38:20.400" style="s2">um defending uh fossil fuels and that</p>
+<p begin="00:38:18.480" end="00:38:21.200" style="s2">those two things are in competition with</p>
+<p begin="00:38:20.400" end="00:38:23.520" style="s2">each other</p>
+<p begin="00:38:21.200" end="00:38:25.599" style="s2">but the fact is the corruption that</p>
+<p begin="00:38:23.520" end="00:38:26.800" style="s2">comes from both of these things pushing</p>
+<p begin="00:38:25.599" end="00:38:30.160" style="s2">their interests</p>
+<p begin="00:38:26.800" end="00:38:31.920" style="s2">in this pugilistic context</p>
+<p begin="00:38:30.160" end="00:38:32.960" style="s2">it&#39;s corrosive to us serving our</p>
+<p begin="00:38:31.920" end="00:38:35.040" style="s2">interests which would have</p>
+<p begin="00:38:32.960" end="00:38:38.400" style="s2">representatives who don&#39;t have</p>
+<p begin="00:38:35.040" end="00:38:40.000" style="s2">a dog in the fight um talking about what</p>
+<p begin="00:38:38.400" end="00:38:42.320" style="s2">energy policy should be</p>
+<p begin="00:38:40.000" end="00:38:43.200" style="s2">going forward so the leap in your</p>
+<p begin="00:38:42.320" end="00:38:47.680" style="s2">question</p>
+<p begin="00:38:43.200" end="00:38:51.599" style="s2">is um did</p>
+<p begin="00:38:47.680" end="00:38:53.359" style="s2">did these platforms um</p>
+<p begin="00:38:51.599" end="00:38:55.040" style="s2">have an alignment with the blue church</p>
+<p begin="00:38:53.359" end="00:38:57.839" style="s2">or did they find the blue church the</p>
+<p begin="00:38:55.040" end="00:39:00.160" style="s2">democratic party as the locale</p>
+<p begin="00:38:57.839" end="00:39:01.920" style="s2">through which they could corrupt the</p>
+<p begin="00:39:00.160" end="00:39:04.079" style="s2">system in their interest and i think it</p>
+<p begin="00:39:01.920" end="00:39:07.359" style="s2">is very much likely to be</p>
+<p begin="00:39:04.079" end="00:39:10.400" style="s2">the latter the historical accident</p>
+<p begin="00:39:07.359" end="00:39:13.680" style="s2">is just the fact of the</p>
+<p begin="00:39:10.400" end="00:39:16.880" style="s2">amazing rate of growth that accompanied</p>
+<p begin="00:39:13.680" end="00:39:20.880" style="s2">the innovations</p>
+<p begin="00:39:16.880" end="00:39:24.320" style="s2">in social media and search</p>
+<p begin="00:39:20.880" end="00:39:27.040" style="s2">those things empowered a group of</p>
+<p begin="00:39:24.320" end="00:39:28.560" style="s2">companies that started from nothing to</p>
+<p begin="00:39:27.040" end="00:39:31.040" style="s2">dominate this entire</p>
+<p begin="00:39:28.560" end="00:39:32.400" style="s2">piece of landscape so that we cannot for</p>
+<p begin="00:39:31.040" end="00:39:35.359" style="s2">example</p>
+<p begin="00:39:32.400" end="00:39:36.320" style="s2">simply opt for something that functions</p>
+<p begin="00:39:35.359" end="00:39:38.960" style="s2">like twitter</p>
+<p begin="00:39:36.320" end="00:39:39.760" style="s2">but doesn&#39;t uh take its view of</p>
+<p begin="00:39:38.960" end="00:39:42.560" style="s2">censorship</p>
+<p begin="00:39:39.760" end="00:39:44.640" style="s2">right we are left with either accepting</p>
+<p begin="00:39:42.560" end="00:39:46.640" style="s2">twitter&#39;s view of censorship or opting</p>
+<p begin="00:39:44.640" end="00:39:49.839" style="s2">out of all twitter-like phenomena</p>
+<p begin="00:39:46.640" end="00:39:51.280" style="s2">and i let&#39;s put it this way the</p>
+<p begin="00:39:49.839" end="00:39:52.880" style="s2">hypothesis</p>
+<p begin="00:39:51.280" end="00:39:54.800" style="s2">that this is something more than a</p>
+<p begin="00:39:52.880" end="00:39:55.680" style="s2">historical accident is something that</p>
+<p begin="00:39:54.800" end="00:39:57.680" style="s2">would require</p>
+<p begin="00:39:55.680" end="00:39:59.040" style="s2">some evidence and i haven&#39;t seen it yet</p>
+<p begin="00:39:57.680" end="00:40:02.160" style="s2">it looks to me like</p>
+<p begin="00:39:59.040" end="00:40:05.760" style="s2">a much more natural story of</p>
+<p begin="00:40:02.160" end="00:40:06.800" style="s2">um of platforms finding a mechanism to</p>
+<p begin="00:40:05.760" end="00:40:08.960" style="s2">serve their interests</p>
+<p begin="00:40:06.800" end="00:40:10.160" style="s2">in a governmental structure that is</p>
+<p begin="00:40:08.960" end="00:40:13.280" style="s2">prone to</p>
+<p begin="00:40:10.160" end="00:40:13.280" style="s2">facilitate corruption</p>
+<p begin="00:40:15.040" end="00:40:20.160" style="s2">i&#39;ll just add a quick uh follow-up um</p>
+<p begin="00:40:18.800" end="00:40:22.400" style="s2">i&#39;m just wondering about the sort of</p>
+<p begin="00:40:20.160" end="00:40:23.920" style="s2">implication of the equal</p>
+<p begin="00:40:22.400" end="00:40:26.240" style="s2">the equal basis of the blue and the red</p>
+<p begin="00:40:23.920" end="00:40:26.560" style="s2">in this case um just my perspective on</p>
+<p begin="00:40:26.240" end="00:40:28.240" style="s2">this</p>
+<p begin="00:40:26.560" end="00:40:30.720" style="s2">is maybe a little unusual because i&#39;m a</p>
+<p begin="00:40:28.240" end="00:40:32.560" style="s2">new zealander and we don&#39;t have red</p>
+<p begin="00:40:30.720" end="00:40:34.560" style="s2">flavored mainstream news</p>
+<p begin="00:40:32.560" end="00:40:35.839" style="s2">uh we only have blue flavored mainstream</p>
+<p begin="00:40:34.560" end="00:40:38.319" style="s2">news uh washington</p>
+<p begin="00:40:35.839" end="00:40:39.040" style="s2">washington coast new york times um are</p>
+<p begin="00:40:38.319" end="00:40:40.400" style="s2">the</p>
+<p begin="00:40:39.040" end="00:40:42.240" style="s2">are the outlets that are constantly</p>
+<p begin="00:40:40.400" end="00:40:44.160" style="s2">repeated in our media</p>
+<p begin="00:40:42.240" end="00:40:46.079" style="s2">um and there is there is there seems to</p>
+<p begin="00:40:44.160" end="00:40:49.119" style="s2">be absolutely no equivalent here</p>
+<p begin="00:40:46.079" end="00:40:50.800" style="s2">and um anyone who gets their narrative</p>
+<p begin="00:40:49.119" end="00:40:52.319" style="s2">in the mainstream media of the uh you</p>
+<p begin="00:40:50.800" end="00:40:52.960" style="s2">know the great southern bolt hole over</p>
+<p begin="00:40:52.319" end="00:40:56.160" style="s2">here</p>
+<p begin="00:40:52.960" end="00:40:57.599" style="s2">seems to me to um to be i mean that&#39;s a</p>
+<p begin="00:40:56.160" end="00:40:59.040" style="s2">that&#39;s it&#39;s a very superlative</p>
+<p begin="00:40:57.599" end="00:41:00.560" style="s2">achievement um</p>
+<p begin="00:40:59.040" end="00:41:02.160" style="s2">which i guess makes me more more</p>
+<p begin="00:41:00.560" end="00:41:03.520" style="s2">inclined to believe that it&#39;s not some</p>
+<p begin="00:41:02.160" end="00:41:04.720" style="s2">kind of accident but</p>
+<p begin="00:41:03.520" end="00:41:06.560" style="s2">sorry i guess that&#39;s not really a</p>
+<p begin="00:41:04.720" end="00:41:09.599" style="s2">question i&#39;ll uh i&#39;ll um i&#39;ll let</p>
+<p begin="00:41:06.560" end="00:41:09.599" style="s2">someone else take over</p>
+<p begin="00:41:12.319" end="00:41:15.359" style="s2">i&#39;m going to read this question on</p>
+<p begin="00:41:13.680" end="00:41:18.640" style="s2">behalf of drew</p>
+<p begin="00:41:15.359" end="00:41:19.599" style="s2">buckmiller with the stated concern of</p>
+<p begin="00:41:18.640" end="00:41:22.000" style="s2">gridlock</p>
+<p begin="00:41:19.599" end="00:41:23.440" style="s2">in the supreme court with an even number</p>
+<p begin="00:41:22.000" end="00:41:25.359" style="s2">of justices</p>
+<p begin="00:41:23.440" end="00:41:28.319" style="s2">how does the same concern relate to the</p>
+<p begin="00:41:25.359" end="00:41:30.800" style="s2">proposal of operating under consensus</p>
+<p begin="00:41:28.319" end="00:41:32.079" style="s2">between the two people on the unity</p>
+<p begin="00:41:30.800" end="00:41:35.440" style="s2">ticket</p>
+<p begin="00:41:32.079" end="00:41:38.800" style="s2">yep great question so first of all</p>
+<p begin="00:41:35.440" end="00:41:42.240" style="s2">the unity proposal</p>
+<p begin="00:41:38.800" end="00:41:43.119" style="s2">is built to take our constitutional</p>
+<p begin="00:41:42.240" end="00:41:46.079" style="s2">structure</p>
+<p begin="00:41:43.119" end="00:41:47.040" style="s2">and use it in a new way without having</p>
+<p begin="00:41:46.079" end="00:41:48.960" style="s2">to alter it</p>
+<p begin="00:41:47.040" end="00:41:50.640" style="s2">right this is a model that i would</p>
+<p begin="00:41:48.960" end="00:41:53.440" style="s2">suggest we need to get</p>
+<p begin="00:41:50.640" end="00:41:55.920" style="s2">better at right having a constitutional</p>
+<p begin="00:41:53.440" end="00:41:57.760" style="s2">convention to sit to fix your structure</p>
+<p begin="00:41:55.920" end="00:41:58.960" style="s2">may seem like the right move but it</p>
+<p begin="00:41:57.760" end="00:42:00.640" style="s2">could end in disaster</p>
+<p begin="00:41:58.960" end="00:42:03.359" style="s2">whereas doing something that is</p>
+<p begin="00:42:00.640" end="00:42:06.079" style="s2">constitutional but unforeseen</p>
+<p begin="00:42:03.359" end="00:42:07.760" style="s2">doesn&#39;t carry the same hazard in this</p>
+<p begin="00:42:06.079" end="00:42:11.280" style="s2">case</p>
+<p begin="00:42:07.760" end="00:42:14.560" style="s2">you elect a president and vice president</p>
+<p begin="00:42:11.280" end="00:42:16.079" style="s2">they informally agree to rule to govern</p>
+<p begin="00:42:14.560" end="00:42:18.880" style="s2">by consensus</p>
+<p begin="00:42:16.079" end="00:42:19.760" style="s2">and in the case that they can&#39;t reach a</p>
+<p begin="00:42:18.880" end="00:42:22.240" style="s2">consensus</p>
+<p begin="00:42:19.760" end="00:42:24.079" style="s2">the president is the president right so</p>
+<p begin="00:42:22.240" end="00:42:26.960" style="s2">you could regard that as</p>
+<p begin="00:42:24.079" end="00:42:28.880" style="s2">a major asymmetry but the agreement also</p>
+<p begin="00:42:26.960" end="00:42:31.040" style="s2">has them reversing roles after four</p>
+<p begin="00:42:28.880" end="00:42:33.520" style="s2">years and so even if there is</p>
+<p begin="00:42:31.040" end="00:42:34.160" style="s2">a slight bias within any four year</p>
+<p begin="00:42:33.520" end="00:42:36.319" style="s2">period</p>
+<p begin="00:42:34.160" end="00:42:37.599" style="s2">it tends to reverse over time and this</p>
+<p begin="00:42:36.319" end="00:42:40.160" style="s2">maintains balance</p>
+<p begin="00:42:37.599" end="00:42:41.040" style="s2">is it perfect no but if you found two</p>
+<p begin="00:42:40.160" end="00:42:42.720" style="s2">good people</p>
+<p begin="00:42:41.040" end="00:42:44.640" style="s2">and the two people that we found for the</p>
+<p begin="00:42:42.720" end="00:42:46.720" style="s2">ticket we hope to draft</p>
+<p begin="00:42:44.640" end="00:42:47.680" style="s2">tulsi gabbard and dan crenshaw they</p>
+<p begin="00:42:46.720" end="00:42:49.920" style="s2">actually turn out</p>
+<p begin="00:42:47.680" end="00:42:51.359" style="s2">to be friends and although ideologically</p>
+<p begin="00:42:49.920" end="00:42:54.960" style="s2">they&#39;re quite far apart</p>
+<p begin="00:42:51.359" end="00:42:55.920" style="s2">they clearly have um the characteristics</p>
+<p begin="00:42:54.960" end="00:43:00.240" style="s2">necessary</p>
+<p begin="00:42:55.920" end="00:43:03.200" style="s2">for them to discuss what should be done</p>
+<p begin="00:43:00.240" end="00:43:03.680" style="s2">in a humane and decent way with each</p>
+<p begin="00:43:03.200" end="00:43:07.200" style="s2">other</p>
+<p begin="00:43:03.680" end="00:43:08.560" style="s2">they also both are clear patriots and so</p>
+<p begin="00:43:07.200" end="00:43:10.560" style="s2">the interests of the nation</p>
+<p begin="00:43:08.560" end="00:43:12.079" style="s2">would presumably loom larger for them</p>
+<p begin="00:43:10.560" end="00:43:15.119" style="s2">than their own</p>
+<p begin="00:43:12.079" end="00:43:15.119" style="s2">personal desires</p>
+<p begin="00:43:18.079" end="00:43:22.800" style="s2">chris c would you like to meet yourself</p>
+<p begin="00:43:20.000" end="00:43:22.800" style="s2">and ask your question</p>
+<p begin="00:43:24.800" end="00:43:29.760" style="s2">hey brett cruz to know what uh the unity</p>
+<p begin="00:43:27.839" end="00:43:33.119" style="s2">movement stances on</p>
+<p begin="00:43:29.760" end="00:43:36.240" style="s2">local and state politics</p>
+<p begin="00:43:33.119" end="00:43:39.520" style="s2">well so far we have taken no</p>
+<p begin="00:43:36.240" end="00:43:40.640" style="s2">action with respect to anything down</p>
+<p begin="00:43:39.520" end="00:43:42.720" style="s2">ballot</p>
+<p begin="00:43:40.640" end="00:43:44.560" style="s2">that&#39;s because we got started very late</p>
+<p begin="00:43:42.720" end="00:43:47.440" style="s2">in light of a national emergency</p>
+<p begin="00:43:44.560" end="00:43:49.119" style="s2">that surrounded the presidential ticket</p>
+<p begin="00:43:47.440" end="00:43:52.160" style="s2">long term</p>
+<p begin="00:43:49.119" end="00:43:55.280" style="s2">those races are obviously important</p>
+<p begin="00:43:52.160" end="00:43:55.839" style="s2">and what i would say is we would take</p>
+<p begin="00:43:55.280" end="00:43:57.839" style="s2">the same</p>
+<p begin="00:43:55.839" end="00:43:59.680" style="s2">overarching posture which is that</p>
+<p begin="00:43:57.839" end="00:44:02.400" style="s2">somebody has to advocate</p>
+<p begin="00:43:59.680" end="00:44:04.079" style="s2">for the well-being you know for the</p>
+<p begin="00:44:02.400" end="00:44:06.319" style="s2">patriotic middle</p>
+<p begin="00:44:04.079" end="00:44:08.079" style="s2">unfortunately in the context of some of</p>
+<p begin="00:44:06.319" end="00:44:10.319" style="s2">these state processes</p>
+<p begin="00:44:08.079" end="00:44:11.440" style="s2">a mechanism for balance is harder to</p>
+<p begin="00:44:10.319" end="00:44:13.280" style="s2">build</p>
+<p begin="00:44:11.440" end="00:44:15.200" style="s2">right the presidential ticket because of</p>
+<p begin="00:44:13.280" end="00:44:17.599" style="s2">the way president and vice president</p>
+<p begin="00:44:15.200" end="00:44:18.480" style="s2">are elected allowed us to use this</p>
+<p begin="00:44:17.599" end="00:44:21.599" style="s2">proposal</p>
+<p begin="00:44:18.480" end="00:44:24.319" style="s2">you have to be cleverer to make it work</p>
+<p begin="00:44:21.599" end="00:44:27.440" style="s2">in other contexts that don&#39;t lend</p>
+<p begin="00:44:24.319" end="00:44:27.440" style="s2">themselves to that balance</p>
+<p begin="00:44:29.839" end="00:44:34.319" style="s2">thank you very much all right let me see</p>
+<p begin="00:44:33.599" end="00:44:36.000" style="s2">here</p>
+<p begin="00:44:34.319" end="00:44:38.400" style="s2">listen would you like to ask the</p>
+<p begin="00:44:36.000" end="00:44:38.400" style="s2">question</p>
+<p begin="00:44:43.839" end="00:44:47.599" style="s2">sure thank you i&#39;m here i was pulling</p>
+<p begin="00:44:46.960" end="00:44:50.400" style="s2">over</p>
+<p begin="00:44:47.599" end="00:44:51.839" style="s2">okay hi thank you brett my question is</p>
+<p begin="00:44:50.400" end="00:44:55.119" style="s2">do you see any glimpses</p>
+<p begin="00:44:51.839" end="00:44:58.000" style="s2">yet of other projects or campaigns</p>
+<p begin="00:44:55.119" end="00:44:59.920" style="s2">being started initiated by the unity</p>
+<p begin="00:44:58.000" end="00:45:02.800" style="s2">2020 team or movement</p>
+<p begin="00:44:59.920" end="00:45:03.440" style="s2">um in addition to the political campaign</p>
+<p begin="00:45:02.800" end="00:45:06.640" style="s2">that</p>
+<p begin="00:45:03.440" end="00:45:08.880" style="s2">has started it all well</p>
+<p begin="00:45:06.640" end="00:45:10.400" style="s2">let me understand your question you&#39;re</p>
+<p begin="00:45:08.880" end="00:45:12.800" style="s2">asking if people</p>
+<p begin="00:45:10.400" end="00:45:14.720" style="s2">inside the unity movement are starting</p>
+<p begin="00:45:12.800" end="00:45:18.000" style="s2">their own initiatives</p>
+<p begin="00:45:14.720" end="00:45:19.760" style="s2">yeah other projects initiatives even if</p>
+<p begin="00:45:18.000" end="00:45:21.839" style="s2">it&#39;s just a glimpse or a sense of</p>
+<p begin="00:45:19.760" end="00:45:23.920" style="s2">something that might be created or</p>
+<p begin="00:45:21.839" end="00:45:24.880" style="s2">produced by those individuals as a</p>
+<p begin="00:45:23.920" end="00:45:26.720" style="s2">result of this</p>
+<p begin="00:45:24.880" end="00:45:28.400" style="s2">there&#39;s lots of discussion inside the</p>
+<p begin="00:45:26.720" end="00:45:32.079" style="s2">movement about what to do</p>
+<p begin="00:45:28.400" end="00:45:34.240" style="s2">and how to move forward um</p>
+<p begin="00:45:32.079" end="00:45:36.240" style="s2">i think the thing that troubles me and</p>
+<p begin="00:45:34.240" end="00:45:39.119" style="s2">this isn&#39;t the first time i&#39;ve seen it</p>
+<p begin="00:45:36.240" end="00:45:41.599" style="s2">so you all are presumably familiar with</p>
+<p begin="00:45:39.119" end="00:45:41.599" style="s2">game b</p>
+<p begin="00:45:41.760" end="00:45:44.880" style="s2">okay so to the extent that you are</p>
+<p begin="00:45:43.359" end="00:45:48.599" style="s2">familiar with game b game b</p>
+<p begin="00:45:44.880" end="00:45:51.119" style="s2">was at a time back in</p>
+<p begin="00:45:48.599" end="00:45:52.000" style="s2">2013-ish it was a group of people who</p>
+<p begin="00:45:51.119" end="00:45:55.280" style="s2">met</p>
+<p begin="00:45:52.000" end="00:45:58.079" style="s2">to discuss the question of how</p>
+<p begin="00:45:55.280" end="00:45:59.680" style="s2">to transition civilization to something</p>
+<p begin="00:45:58.079" end="00:46:04.720" style="s2">more effective</p>
+<p begin="00:45:59.680" end="00:46:09.119" style="s2">less fragile and more humane</p>
+<p begin="00:46:04.720" end="00:46:11.200" style="s2">in any case early in that process</p>
+<p begin="00:46:09.119" end="00:46:12.160" style="s2">we had a fair amount of discussion over</p>
+<p begin="00:46:11.200" end="00:46:15.280" style="s2">whether or not</p>
+<p begin="00:46:12.160" end="00:46:17.599" style="s2">we were the only effort</p>
+<p begin="00:46:15.280" end="00:46:19.280" style="s2">to discuss that systematically the only</p>
+<p begin="00:46:17.599" end="00:46:21.119" style="s2">people meeting or were there a thousand</p>
+<p begin="00:46:19.280" end="00:46:22.079" style="s2">rooms of people meeting having parallel</p>
+<p begin="00:46:21.119" end="00:46:24.560" style="s2">discussions</p>
+<p begin="00:46:22.079" end="00:46:25.520" style="s2">and the answer adjusts things rather</p>
+<p begin="00:46:24.560" end="00:46:28.160" style="s2">radically</p>
+<p begin="00:46:25.520" end="00:46:28.800" style="s2">if game b had been one of a thousand</p>
+<p begin="00:46:28.160" end="00:46:30.560" style="s2">groups</p>
+<p begin="00:46:28.800" end="00:46:32.319" style="s2">targeted at that same puzzle then at</p>
+<p begin="00:46:30.560" end="00:46:35.520" style="s2">some in some sense</p>
+<p begin="00:46:32.319" end="00:46:37.760" style="s2">only one has to succeed right if game b</p>
+<p begin="00:46:35.520" end="00:46:39.440" style="s2">was the only one of those then it had to</p>
+<p begin="00:46:37.760" end="00:46:41.680" style="s2">succeed and those</p>
+<p begin="00:46:39.440" end="00:46:43.760" style="s2">uh knowing the answer to that causes you</p>
+<p begin="00:46:41.680" end="00:46:45.920" style="s2">to play the game differently</p>
+<p begin="00:46:43.760" end="00:46:47.440" style="s2">i think we discovered over time that in</p>
+<p begin="00:46:45.920" end="00:46:49.520" style="s2">the english-speaking world</p>
+<p begin="00:46:47.440" end="00:46:50.720" style="s2">there were not a thousand game bees in</p>
+<p begin="00:46:49.520" end="00:46:54.560" style="s2">fact the</p>
+<p begin="00:46:50.720" end="00:46:56.160" style="s2">tendency was for those things that began</p>
+<p begin="00:46:54.560" end="00:46:57.040" style="s2">to show signs of thinking in this</p>
+<p begin="00:46:56.160" end="00:46:59.440" style="s2">direction</p>
+<p begin="00:46:57.040" end="00:47:01.359" style="s2">that they tended to coalesce and that&#39;s</p>
+<p begin="00:46:59.440" end="00:47:03.040" style="s2">probably not a good thing</p>
+<p begin="00:47:01.359" end="00:47:04.800" style="s2">probably from the point of view of our</p>
+<p begin="00:47:03.040" end="00:47:06.480" style="s2">over all well-being</p>
+<p begin="00:47:04.800" end="00:47:09.040" style="s2">we should want to see many separate</p>
+<p begin="00:47:06.480" end="00:47:13.119" style="s2">projects that do not</p>
+<p begin="00:47:09.040" end="00:47:16.240" style="s2">fail together now in the case of unity</p>
+<p begin="00:47:13.119" end="00:47:16.240" style="s2">again i would imagine</p>
+<p begin="00:47:16.800" end="00:47:21.280" style="s2">in the context of a presidential</p>
+<p begin="00:47:18.319" end="00:47:23.680" style="s2">election with two unforgivably bad</p>
+<p begin="00:47:21.280" end="00:47:24.400" style="s2">tickets that you would imagine lots of</p>
+<p begin="00:47:23.680" end="00:47:26.720" style="s2">people</p>
+<p begin="00:47:24.400" end="00:47:28.640" style="s2">would be generating alternative</p>
+<p begin="00:47:26.720" end="00:47:30.400" style="s2">mechanisms some of them</p>
+<p begin="00:47:28.640" end="00:47:31.920" style="s2">more cogent than others but you would</p>
+<p begin="00:47:30.400" end="00:47:34.400" style="s2">expect to see lots of</p>
+<p begin="00:47:31.920" end="00:47:35.760" style="s2">projects like that and we saw very</p>
+<p begin="00:47:34.400" end="00:47:38.480" style="s2">little that was new</p>
+<p begin="00:47:35.760" end="00:47:40.480" style="s2">so that worries me what that tells me is</p>
+<p begin="00:47:38.480" end="00:47:43.280" style="s2">that somehow we&#39;ve gotten into</p>
+<p begin="00:47:40.480" end="00:47:45.200" style="s2">the habit of thinking this is impossible</p>
+<p begin="00:47:43.280" end="00:47:47.119" style="s2">and at the same time i would argue that</p>
+<p begin="00:47:45.200" end="00:47:49.440" style="s2">logically it is necessary</p>
+<p begin="00:47:47.119" end="00:47:51.440" style="s2">so if we all imagine that that which is</p>
+<p begin="00:47:49.440" end="00:47:52.079" style="s2">necessary is actually impossible and it</p>
+<p begin="00:47:51.440" end="00:47:54.480" style="s2">paralyzes</p>
+<p begin="00:47:52.079" end="00:47:55.680" style="s2">us so we don&#39;t do it we&#39;re in serious</p>
+<p begin="00:47:54.480" end="00:47:57.760" style="s2">trouble</p>
+<p begin="00:47:55.680" end="00:47:58.880" style="s2">so anyway i&#39;d love to see lots of other</p>
+<p begin="00:47:57.760" end="00:48:02.480" style="s2">unity-themed</p>
+<p begin="00:47:58.880" end="00:48:03.599" style="s2">movements arise and then we could talk</p>
+<p begin="00:48:02.480" end="00:48:06.240" style="s2">about whether</p>
+<p begin="00:48:03.599" end="00:48:07.920" style="s2">teaming up made sense or you know</p>
+<p begin="00:48:06.240" end="00:48:09.920" style="s2">honorably competing with each other made</p>
+<p begin="00:48:07.920" end="00:48:13.440" style="s2">sense or some hybrid of the two</p>
+<p begin="00:48:09.920" end="00:48:15.680" style="s2">but at the moment what i see is uh</p>
+<p begin="00:48:13.440" end="00:48:17.440" style="s2">we tried it and we don&#39;t see a lot of</p>
+<p begin="00:48:15.680" end="00:48:21.839" style="s2">other attempts and that</p>
+<p begin="00:48:17.440" end="00:48:21.839" style="s2">is probably not good news</p>
+<p begin="00:48:21.920" end="00:48:24.240" style="s2">thank you</p>
+<p begin="00:48:25.920" end="00:48:30.800" style="s2">all right let&#39;s move to james baker</p>
+<p begin="00:48:30.960" end="00:48:36.240" style="s2">hi thanks um so this is a question about</p>
+<p begin="00:48:34.559" end="00:48:38.480" style="s2">polarization and</p>
+<p begin="00:48:36.240" end="00:48:39.520" style="s2">maybe avoiding but more recovering uh so</p>
+<p begin="00:48:38.480" end="00:48:42.880" style="s2">thinking forward</p>
+<p begin="00:48:39.520" end="00:48:46.240" style="s2">to maybe 2024 or down the road um</p>
+<p begin="00:48:42.880" end="00:48:46.880" style="s2">when if and when unity is embraced a bit</p>
+<p begin="00:48:46.240" end="00:48:50.000" style="s2">more</p>
+<p begin="00:48:46.880" end="00:48:51.680" style="s2">by one party than the other uh</p>
+<p begin="00:48:50.000" end="00:48:53.599" style="s2">what i see happening there is then</p>
+<p begin="00:48:51.680" end="00:48:55.440" style="s2">instantly it would become</p>
+<p begin="00:48:53.599" end="00:48:57.119" style="s2">part of the polarized frame like it</p>
+<p begin="00:48:55.440" end="00:48:59.119" style="s2">would get polarized in the frame of</p>
+<p begin="00:48:57.119" end="00:49:01.440" style="s2">everybody from both tribes</p>
+<p begin="00:48:59.119" end="00:49:04.400" style="s2">how would what would the strategy then</p>
+<p begin="00:49:01.440" end="00:49:08.800" style="s2">be to kind of recover from that</p>
+<p begin="00:49:04.400" end="00:49:11.359" style="s2">um to be very careful what you agreed to</p>
+<p begin="00:49:08.800" end="00:49:12.400" style="s2">right so yes i can imagine that at some</p>
+<p begin="00:49:11.359" end="00:49:15.599" style="s2">point</p>
+<p begin="00:49:12.400" end="00:49:16.160" style="s2">the major parties might realize that</p>
+<p begin="00:49:15.599" end="00:49:19.200" style="s2">they</p>
+<p begin="00:49:16.160" end="00:49:22.079" style="s2">had something to gain by capturing unity</p>
+<p begin="00:49:19.200" end="00:49:22.960" style="s2">and unity has to be uncapturable and it</p>
+<p begin="00:49:22.079" end="00:49:24.720" style="s2">doesn&#39;t mean</p>
+<p begin="00:49:22.960" end="00:49:27.359" style="s2">that we wouldn&#39;t be willing to play ball</p>
+<p begin="00:49:24.720" end="00:49:30.400" style="s2">with a a major party but the point is</p>
+<p begin="00:49:27.359" end="00:49:33.040" style="s2">each choice has to be one</p>
+<p begin="00:49:30.400" end="00:49:35.040" style="s2">that is safe to engage in and that is</p>
+<p begin="00:49:33.040" end="00:49:38.960" style="s2">justified on its merits</p>
+<p begin="00:49:35.040" end="00:49:40.880" style="s2">so in essence we would have to have</p>
+<p begin="00:49:38.960" end="00:49:42.000" style="s2">the ability to pull one of the parties</p>
+<p begin="00:49:40.880" end="00:49:45.680" style="s2">in the direction</p>
+<p begin="00:49:42.000" end="00:49:49.119" style="s2">of the patriotic center in order for it</p>
+<p begin="00:49:45.680" end="00:49:49.119" style="s2">to be worth even contemplating</p>
+<p begin="00:49:50.640" end="00:49:54.000" style="s2">i guess my follow-up would be to relate</p>
+<p begin="00:49:52.400" end="00:49:55.440" style="s2">this back to the general dynamic of</p>
+<p begin="00:49:54.000" end="00:49:59.440" style="s2">third parties</p>
+<p begin="00:49:55.440" end="00:50:01.920" style="s2">um and how to</p>
+<p begin="00:49:59.440" end="00:50:02.720" style="s2">like the the you said something about</p>
+<p begin="00:50:01.920" end="00:50:05.920" style="s2">like avoid</p>
+<p begin="00:50:02.720" end="00:50:09.520" style="s2">um you know being captured</p>
+<p begin="00:50:05.920" end="00:50:12.319" style="s2">uh but um sorry the</p>
+<p begin="00:50:09.520" end="00:50:13.280" style="s2">the impulse here like if if uh if</p>
+<p begin="00:50:12.319" end="00:50:16.079" style="s2">adopted by</p>
+<p begin="00:50:13.280" end="00:50:17.280" style="s2">one side more than the other like how do</p>
+<p begin="00:50:16.079" end="00:50:19.440" style="s2">you</p>
+<p begin="00:50:17.280" end="00:50:22.240" style="s2">how do you avoid being captured when the</p>
+<p begin="00:50:19.440" end="00:50:24.160" style="s2">thing that is the capturing is the frame</p>
+<p begin="00:50:22.240" end="00:50:26.000" style="s2">of everybody in both tribes who is</p>
+<p begin="00:50:24.160" end="00:50:27.200" style="s2">looking at this thing</p>
+<p begin="00:50:26.000" end="00:50:29.200" style="s2">and trying to decide whether it&#39;s</p>
+<p begin="00:50:27.200" end="00:50:30.720" style="s2">something that they can trust</p>
+<p begin="00:50:29.200" end="00:50:32.319" style="s2">to navigate that knife&#39;s edge</p>
+<p begin="00:50:30.720" end="00:50:34.160" style="s2">third-party route or</p>
+<p begin="00:50:32.319" end="00:50:36.559" style="s2">or whether it just becomes part of the</p>
+<p begin="00:50:34.160" end="00:50:40.640" style="s2">tribal warfare</p>
+<p begin="00:50:36.559" end="00:50:43.359" style="s2">the answer is first principles thinking</p>
+<p begin="00:50:40.640" end="00:50:45.200" style="s2">right if you are reasoning from first</p>
+<p begin="00:50:43.359" end="00:50:48.319" style="s2">principles and your reasoning</p>
+<p begin="00:50:45.200" end="00:50:52.000" style="s2">is robust then you are not vulnerable</p>
+<p begin="00:50:48.319" end="00:50:54.240" style="s2">to being lured into dangerous</p>
+<p begin="00:50:52.000" end="00:50:55.520" style="s2">illogic now you can still make an error</p>
+<p begin="00:50:54.240" end="00:50:58.640" style="s2">but the problem</p>
+<p begin="00:50:55.520" end="00:51:03.359" style="s2">of capture arises when you&#39;re</p>
+<p begin="00:50:58.640" end="00:51:06.000" style="s2">in a a different modality like</p>
+<p begin="00:51:03.359" end="00:51:06.880" style="s2">one of negotiation where you could</p>
+<p begin="00:51:06.000" end="00:51:09.680" style="s2">surrender</p>
+<p begin="00:51:06.880" end="00:51:10.000" style="s2">the peace that you need to hold because</p>
+<p begin="00:51:09.680" end="00:51:11.760" style="s2">you</p>
+<p begin="00:51:10.000" end="00:51:13.599" style="s2">it seemed like you were making a trade</p>
+<p begin="00:51:11.760" end="00:51:16.000" style="s2">that was valuable</p>
+<p begin="00:51:13.599" end="00:51:17.839" style="s2">so i would just say the unity movement</p>
+<p begin="00:51:16.000" end="00:51:19.760" style="s2">mustn&#39;t do anything that doesn&#39;t make</p>
+<p begin="00:51:17.839" end="00:51:21.760" style="s2">sense on its merits</p>
+<p begin="00:51:19.760" end="00:51:24.079" style="s2">independent of whether or not it&#39;s on</p>
+<p begin="00:51:21.760" end="00:51:24.079" style="s2">offer</p>
+<p begin="00:51:26.000" end="00:51:32.800" style="s2">right rob hart would you like to</p>
+<p begin="00:51:29.599" end="00:51:32.800" style="s2">meet yourself and ask a question</p>
+<p begin="00:51:33.440" end="00:51:36.640" style="s2">yes i&#39;m scrolling back to find it and</p>
+<p begin="00:51:35.119" end="00:51:39.440" style="s2">you know um</p>
+<p begin="00:51:36.640" end="00:51:40.800" style="s2">so the offer from the major parties has</p>
+<p begin="00:51:39.440" end="00:51:42.559" style="s2">never been worse</p>
+<p begin="00:51:40.800" end="00:51:44.880" style="s2">uh which means that the potential for a</p>
+<p begin="00:51:42.559" end="00:51:47.040" style="s2">third party win has never been better um</p>
+<p begin="00:51:44.880" end="00:51:49.359" style="s2">but two-thirds of americans now agree</p>
+<p begin="00:51:47.040" end="00:51:51.280" style="s2">that a third party is actually necessary</p>
+<p begin="00:51:49.359" end="00:51:52.880" style="s2">kind of makes this moment one to</p>
+<p begin="00:51:51.280" end="00:51:55.359" style="s2">leverage</p>
+<p begin="00:51:52.880" end="00:51:58.400" style="s2">could unity do that by promising to</p>
+<p begin="00:51:55.359" end="00:51:59.680" style="s2">reform elections themselves</p>
+<p begin="00:51:58.400" end="00:52:02.480" style="s2">such that third parties will have a</p>
+<p begin="00:51:59.680" end="00:52:03.760" style="s2">viable future well in some sense</p>
+<p begin="00:52:02.480" end="00:52:05.920" style="s2">we&#39;re doing that the one thing we</p>
+<p begin="00:52:03.760" end="00:52:08.400" style="s2">haven&#39;t done is start a third party</p>
+<p begin="00:52:05.920" end="00:52:09.520" style="s2">at the moment unity is a movement now it</p>
+<p begin="00:52:08.400" end="00:52:11.520" style="s2">might have to become</p>
+<p begin="00:52:09.520" end="00:52:12.880" style="s2">a third party in order to accomplish</p>
+<p begin="00:52:11.520" end="00:52:16.240" style="s2">that but</p>
+<p begin="00:52:12.880" end="00:52:19.040" style="s2">by setting it in motion as a movement we</p>
+<p begin="00:52:16.240" end="00:52:20.079" style="s2">retained options that i think were</p>
+<p begin="00:52:19.040" end="00:52:22.960" style="s2">valuable at least</p>
+<p begin="00:52:20.079" end="00:52:23.839" style="s2">in this initial run-up so from my</p>
+<p begin="00:52:22.960" end="00:52:26.880" style="s2">perspective</p>
+<p begin="00:52:23.839" end="00:52:28.319" style="s2">i don&#39;t need it to be a third party it</p>
+<p begin="00:52:26.880" end="00:52:30.079" style="s2">could be a third party and i could be</p>
+<p begin="00:52:28.319" end="00:52:33.040" style="s2">comfortable with that</p>
+<p begin="00:52:30.079" end="00:52:35.520" style="s2">what i need is for something to fix the</p>
+<p begin="00:52:33.040" end="00:52:37.599" style="s2">system so that it stops parasitizing us</p>
+<p begin="00:52:35.520" end="00:52:40.400" style="s2">and putting us in jeopardy</p>
+<p begin="00:52:37.599" end="00:52:41.200" style="s2">and i think the statistics that you cite</p>
+<p begin="00:52:40.400" end="00:52:43.599" style="s2">reflect</p>
+<p begin="00:52:41.200" end="00:52:45.839" style="s2">the fact that a lot of people are of</p>
+<p begin="00:52:43.599" end="00:52:46.559" style="s2">similar minds so yes the opportunity is</p>
+<p begin="00:52:45.839" end="00:52:49.040" style="s2">absolutely</p>
+<p begin="00:52:46.559" end="00:52:51.280" style="s2">immense and it&#39;s much greater even than</p>
+<p begin="00:52:49.040" end="00:52:55.440" style="s2">most people realize because</p>
+<p begin="00:52:51.280" end="00:52:57.599" style="s2">there is this huge group of non-voters</p>
+<p begin="00:52:55.440" end="00:52:59.520" style="s2">and there&#39;s a way in which non-voter has</p>
+<p begin="00:52:57.599" end="00:53:00.400" style="s2">a kind of sound to it where we hear it</p>
+<p begin="00:52:59.520" end="00:53:03.040" style="s2">as</p>
+<p begin="00:53:00.400" end="00:53:04.400" style="s2">apathetic but some of the people who</p>
+<p begin="00:53:03.040" end="00:53:06.720" style="s2">don&#39;t vote are apathetic</p>
+<p begin="00:53:04.400" end="00:53:08.319" style="s2">many of them are disaffected and are</p>
+<p begin="00:53:06.720" end="00:53:12.000" style="s2">responding to the fact</p>
+<p begin="00:53:08.319" end="00:53:13.839" style="s2">that the system does not does not react</p>
+<p begin="00:53:12.000" end="00:53:16.880" style="s2">to their will</p>
+<p begin="00:53:13.839" end="00:53:19.280" style="s2">those people can easily be brought back</p>
+<p begin="00:53:16.880" end="00:53:20.319" style="s2">if something does become responsive and</p>
+<p begin="00:53:19.280" end="00:53:22.400" style="s2">in fact we&#39;ve seen</p>
+<p begin="00:53:20.319" end="00:53:23.920" style="s2">a quarter of our volunteers are people</p>
+<p begin="00:53:22.400" end="00:53:24.720" style="s2">who weren&#39;t planning to vote in this</p>
+<p begin="00:53:23.920" end="00:53:29.119" style="s2">election</p>
+<p begin="00:53:24.720" end="00:53:30.079" style="s2">until unity so it does mobilize people</p>
+<p begin="00:53:29.119" end="00:53:33.440" style="s2">who were</p>
+<p begin="00:53:30.079" end="00:53:36.880" style="s2">interested but not participating</p>
+<p begin="00:53:33.440" end="00:53:40.240" style="s2">and that group could actually make</p>
+<p begin="00:53:36.880" end="00:53:41.280" style="s2">a third party or a movement the largest</p>
+<p begin="00:53:40.240" end="00:53:44.720" style="s2">political force</p>
+<p begin="00:53:41.280" end="00:53:44.720" style="s2">in the country very quickly</p>
+<p begin="00:53:45.440" end="00:53:48.559" style="s2">just a follow-up to that um since you</p>
+<p begin="00:53:47.920" end="00:53:49.760" style="s2">mentioned</p>
+<p begin="00:53:48.559" end="00:53:51.440" style="s2">that you don&#39;t have an interest in</p>
+<p begin="00:53:49.760" end="00:53:53.359" style="s2">forming a third party i actually feel</p>
+<p begin="00:53:51.440" end="00:53:55.280" style="s2">that it may be more attractive to people</p>
+<p begin="00:53:53.359" end="00:53:56.400" style="s2">because they don&#39;t feel that this party</p>
+<p begin="00:53:55.280" end="00:53:58.480" style="s2">or this</p>
+<p begin="00:53:56.400" end="00:54:00.800" style="s2">movement is seeking its own power but</p>
+<p begin="00:53:58.480" end="00:54:04.559" style="s2">rather seeking to empower all people</p>
+<p begin="00:54:00.800" end="00:54:07.359" style="s2">um my thought would be that um</p>
+<p begin="00:54:04.559" end="00:54:09.599" style="s2">leveraging that that very idea would</p>
+<p begin="00:54:07.359" end="00:54:12.079" style="s2">allow more people to get on board but</p>
+<p begin="00:54:09.599" end="00:54:14.319" style="s2">but you point to uh to the thing that</p>
+<p begin="00:54:12.079" end="00:54:15.040" style="s2">probably is the biggest obstacle to this</p>
+<p begin="00:54:14.319" end="00:54:17.839" style="s2">and that&#39;s</p>
+<p begin="00:54:15.040" end="00:54:18.160" style="s2">that people don&#39;t believe it&#39;s possible</p>
+<p begin="00:54:17.839" end="00:54:19.920" style="s2">so</p>
+<p begin="00:54:18.160" end="00:54:21.599" style="s2">if they were to reflect on just how</p>
+<p begin="00:54:19.920" end="00:54:23.040" style="s2">great their numbers are they might</p>
+<p begin="00:54:21.599" end="00:54:26.240" style="s2">actually see</p>
+<p begin="00:54:23.040" end="00:54:29.280" style="s2">the movement worthwhile oh</p>
+<p begin="00:54:26.240" end="00:54:31.760" style="s2">exactly and in a year like 2020</p>
+<p begin="00:54:29.280" end="00:54:32.800" style="s2">you know people&#39;s sense of what is and</p>
+<p begin="00:54:31.760" end="00:54:36.640" style="s2">isn&#39;t possible</p>
+<p begin="00:54:32.800" end="00:54:39.119" style="s2">is more or less incoherent right because</p>
+<p begin="00:54:36.640" end="00:54:39.760" style="s2">all this took right this could actually</p>
+<p begin="00:54:39.119" end="00:54:42.559" style="s2">happen</p>
+<p begin="00:54:39.760" end="00:54:43.359" style="s2">if people suspended their disbelief but</p>
+<p begin="00:54:42.559" end="00:54:46.480" style="s2">the fact of</p>
+<p begin="00:54:43.359" end="00:54:47.440" style="s2">democracy requires that anyway right we</p>
+<p begin="00:54:46.480" end="00:54:50.240" style="s2">need people</p>
+<p begin="00:54:47.440" end="00:54:50.960" style="s2">to go and vote in numbers large enough</p>
+<p begin="00:54:50.240" end="00:54:54.000" style="s2">that their</p>
+<p begin="00:54:50.960" end="00:54:54.400" style="s2">will is proportionally represented even</p>
+<p begin="00:54:54.000" end="00:54:57.520" style="s2">though</p>
+<p begin="00:54:54.400" end="00:55:00.240" style="s2">those people know that their vote</p>
+<p begin="00:54:57.520" end="00:55:01.359" style="s2">is almost certainly not going to change</p>
+<p begin="00:55:00.240" end="00:55:03.440" style="s2">any outcome</p>
+<p begin="00:55:01.359" end="00:55:05.040" style="s2">right so they have already suspended</p>
+<p begin="00:55:03.440" end="00:55:06.000" style="s2">their disbelief just simply to</p>
+<p begin="00:55:05.040" end="00:55:08.240" style="s2">participate</p>
+<p begin="00:55:06.000" end="00:55:09.440" style="s2">and all we&#39;re suggesting is actually</p>
+<p begin="00:55:08.240" end="00:55:11.200" style="s2">suspend your disbelief</p>
+<p begin="00:55:09.440" end="00:55:13.040" style="s2">in a different direction something</p>
+<p begin="00:55:11.200" end="00:55:14.880" style="s2">you&#39;ve been told can&#39;t happen</p>
+<p begin="00:55:13.040" end="00:55:16.880" style="s2">actually can happen and the people who</p>
+<p begin="00:55:14.880" end="00:55:19.200" style="s2">told you it couldn&#39;t happen</p>
+<p begin="00:55:16.880" end="00:55:21.839" style="s2">have a perverse incentive to lead you to</p>
+<p begin="00:55:19.200" end="00:55:21.839" style="s2">be paralyzed</p>
+<p begin="00:55:23.520" end="00:55:27.520" style="s2">great and aaron would you like to bring</p>
+<p begin="00:55:26.880" end="00:55:30.720" style="s2">us home</p>
+<p begin="00:55:27.520" end="00:55:34.079" style="s2">with your final question</p>
+<p begin="00:55:30.720" end="00:55:36.000" style="s2">gladly raven thank you um brett you</p>
+<p begin="00:55:34.079" end="00:55:38.880" style="s2">mentioned that unity 2020</p>
+<p begin="00:55:36.000" end="00:55:39.920" style="s2">the idw and the stoa might represent</p>
+<p begin="00:55:38.880" end="00:55:42.240" style="s2">different facets</p>
+<p begin="00:55:39.920" end="00:55:44.559" style="s2">of the same jewel how can these</p>
+<p begin="00:55:42.240" end="00:55:46.480" style="s2">different facets best support each other</p>
+<p begin="00:55:44.559" end="00:55:48.000" style="s2">how should a platform like the stoa</p>
+<p begin="00:55:46.480" end="00:55:49.920" style="s2">excuse me what should a platform like to</p>
+<p begin="00:55:48.000" end="00:55:52.319" style="s2">stowa do in the next month</p>
+<p begin="00:55:49.920" end="00:55:54.079" style="s2">and how might it evolve between now and</p>
+<p begin="00:55:52.319" end="00:55:56.720" style="s2">2024</p>
+<p begin="00:55:54.079" end="00:55:58.640" style="s2">great question first thing to do is just</p>
+<p begin="00:55:56.720" end="00:55:59.599" style="s2">figure out whether you agree with the</p>
+<p begin="00:55:58.640" end="00:56:01.520" style="s2">premise</p>
+<p begin="00:55:59.599" end="00:56:03.920" style="s2">right if you agree with the premise that</p>
+<p begin="00:56:01.520" end="00:56:06.400" style="s2">these things are manifestations</p>
+<p begin="00:56:03.920" end="00:56:07.119" style="s2">of the same impulse to make things</p>
+<p begin="00:56:06.400" end="00:56:09.359" style="s2">better</p>
+<p begin="00:56:07.119" end="00:56:11.280" style="s2">right to escape the game theoretic traps</p>
+<p begin="00:56:09.359" end="00:56:14.319" style="s2">of our current system</p>
+<p begin="00:56:11.280" end="00:56:15.599" style="s2">then i would say first of all spreading</p>
+<p begin="00:56:14.319" end="00:56:19.119" style="s2">that message</p>
+<p begin="00:56:15.599" end="00:56:22.000" style="s2">is key right people we are</p>
+<p begin="00:56:19.119" end="00:56:22.319" style="s2">wasting our effort by being divided you</p>
+<p begin="00:56:22.000" end="00:56:23.920" style="s2">know</p>
+<p begin="00:56:22.319" end="00:56:26.160" style="s2">part of its useful division right you</p>
+<p begin="00:56:23.920" end="00:56:27.599" style="s2">need to have people focused on a problem</p>
+<p begin="00:56:26.160" end="00:56:29.520" style="s2">that&#39;s tractable and if we&#39;re all</p>
+<p begin="00:56:27.599" end="00:56:30.319" style="s2">focused on the total problem it&#39;s not</p>
+<p begin="00:56:29.520" end="00:56:32.960" style="s2">tractable</p>
+<p begin="00:56:30.319" end="00:56:34.079" style="s2">but to recognize that we are fellow</p>
+<p begin="00:56:32.960" end="00:56:37.599" style="s2">travelers</p>
+<p begin="00:56:34.079" end="00:56:41.680" style="s2">empowers us greatly and let me just say</p>
+<p begin="00:56:37.599" end="00:56:45.119" style="s2">you know it&#39;s not just idw stoa game b</p>
+<p begin="00:56:41.680" end="00:56:48.799" style="s2">unity it&#39;s also the makers movement</p>
+<p begin="00:56:45.119" end="00:56:50.000" style="s2">it&#39;s open source right it&#39;s all of these</p>
+<p begin="00:56:48.799" end="00:56:52.720" style="s2">different attempts</p>
+<p begin="00:56:50.000" end="00:56:54.559" style="s2">to do something uh basically to</p>
+<p begin="00:56:52.720" end="00:56:55.200" style="s2">restructure incentives so that things</p>
+<p begin="00:56:54.559" end="00:56:58.960" style="s2">work it&#39;s</p>
+<p begin="00:56:55.200" end="00:57:01.520" style="s2">probably the crypto movement as well so</p>
+<p begin="00:56:58.960" end="00:57:04.319" style="s2">recognizing the connection is key</p>
+<p begin="00:57:01.520" end="00:57:06.480" style="s2">spreading the message so that people who</p>
+<p begin="00:57:04.319" end="00:57:07.839" style="s2">are you know have their blinders on in</p>
+<p begin="00:57:06.480" end="00:57:09.760" style="s2">their corner of this</p>
+<p begin="00:57:07.839" end="00:57:10.880" style="s2">realize that they are in some sense part</p>
+<p begin="00:57:09.760" end="00:57:12.880" style="s2">of something</p>
+<p begin="00:57:10.880" end="00:57:14.000" style="s2">larger and that it doesn&#39;t take very</p>
+<p begin="00:57:12.880" end="00:57:17.200" style="s2">much to</p>
+<p begin="00:57:14.000" end="00:57:17.760" style="s2">you know append to your toolkit well</p>
+<p begin="00:57:17.200" end="00:57:19.920" style="s2">maybe i&#39;m</p>
+<p begin="00:57:17.760" end="00:57:22.240" style="s2">a you know i&#39;m a programmer and i&#39;m</p>
+<p begin="00:57:19.920" end="00:57:26.079" style="s2">involved in the open source movement</p>
+<p begin="00:57:22.240" end="00:57:28.960" style="s2">but i&#39;m also subject to the political</p>
+<p begin="00:57:26.079" end="00:57:31.920" style="s2">will of the electorate and there is a</p>
+<p begin="00:57:28.960" end="00:57:34.720" style="s2">parallel project over an electoral space</p>
+<p begin="00:57:31.920" end="00:57:36.559" style="s2">so whatever effort i put into thinking</p>
+<p begin="00:57:34.720" end="00:57:40.079" style="s2">about politics i&#39;m going to</p>
+<p begin="00:57:36.559" end="00:57:42.720" style="s2">tune into that or from the point of view</p>
+<p begin="00:57:40.079" end="00:57:44.480" style="s2">of sense-making about the world i&#39;m</p>
+<p begin="00:57:42.720" end="00:57:46.319" style="s2">going to tune into channels that seem to</p>
+<p begin="00:57:44.480" end="00:57:49.920" style="s2">be dedicated to breaking</p>
+<p begin="00:57:46.319" end="00:57:52.000" style="s2">these uh toxic narratives that so many</p>
+<p begin="00:57:49.920" end="00:57:55.520" style="s2">people are being jerked around by</p>
+<p begin="00:57:52.000" end="00:57:56.640" style="s2">so um i&#39;m not sure that i&#39;ve given you a</p>
+<p begin="00:57:55.520" end="00:57:58.400" style="s2">very clear answer</p>
+<p begin="00:57:56.640" end="00:58:00.000" style="s2">but the recognition that these things</p>
+<p begin="00:57:58.400" end="00:58:01.920" style="s2">are connected um</p>
+<p begin="00:58:00.000" end="00:58:03.680" style="s2">to the extent that one can spread that</p>
+<p begin="00:58:01.920" end="00:58:05.680" style="s2">message so that people who</p>
+<p begin="00:58:03.680" end="00:58:07.599" style="s2">are likely to have ears to hear because</p>
+<p begin="00:58:05.680" end="00:58:10.640" style="s2">they&#39;re in one of these other projects</p>
+<p begin="00:58:07.599" end="00:58:12.640" style="s2">can begin to tune in and recognize that</p>
+<p begin="00:58:10.640" end="00:58:14.079" style="s2">they may have been you know missing a</p>
+<p begin="00:58:12.640" end="00:58:15.520" style="s2">solution to a problem they weren&#39;t even</p>
+<p begin="00:58:14.079" end="00:58:16.880" style="s2">paying attention to</p>
+<p begin="00:58:15.520" end="00:58:22.079" style="s2">those things i think will have a very</p>
+<p begin="00:58:16.880" end="00:58:25.440" style="s2">positive effect in the long term</p>
+<p begin="00:58:22.079" end="00:58:28.880" style="s2">great thank you and we have reached</p>
+<p begin="00:58:25.440" end="00:58:30.240" style="s2">our our hour mark um so before we close</p>
+<p begin="00:58:28.880" end="00:58:32.079" style="s2">brad</p>
+<p begin="00:58:30.240" end="00:58:34.839" style="s2">where can we find you do you have any</p>
+<p begin="00:58:32.079" end="00:58:36.640" style="s2">final words that you want to leave us</p>
+<p begin="00:58:34.839" end="00:58:40.079" style="s2">with um</p>
+<p begin="00:58:36.640" end="00:58:42.400" style="s2">sure uh let&#39;s just say this has been a</p>
+<p begin="00:58:40.079" end="00:58:43.839" style="s2">great conversation i do feel like i have</p>
+<p begin="00:58:42.400" end="00:58:46.640" style="s2">stepped into</p>
+<p begin="00:58:43.839" end="00:58:47.440" style="s2">a um a parallel universe of fellow</p>
+<p begin="00:58:46.640" end="00:58:50.799" style="s2">travelers</p>
+<p begin="00:58:47.440" end="00:58:52.880" style="s2">and that&#39;s always a very reassuring</p>
+<p begin="00:58:50.799" end="00:58:56.799" style="s2">thing to discover</p>
+<p begin="00:58:52.880" end="00:59:00.280" style="s2">people can find they can find</p>
+<p begin="00:58:56.799" end="00:59:02.160" style="s2">our website for unity2020 at</p>
+<p begin="00:59:00.280" end="00:59:04.799" style="s2">articlesofunity.org</p>
+<p begin="00:59:02.160" end="00:59:05.280" style="s2">if you want updates on twitter you can</p>
+<p begin="00:59:04.799" end="00:59:07.680" style="s2">follow</p>
+<p begin="00:59:05.280" end="00:59:09.839" style="s2">my twitter account at brettweinstein</p>
+<p begin="00:59:07.680" end="00:59:12.640" style="s2">brett has1t</p>
+<p begin="00:59:09.839" end="00:59:13.520" style="s2">you can find my wife and me doing</p>
+<p begin="00:59:12.640" end="00:59:16.319" style="s2">bi-weekly</p>
+<p begin="00:59:13.520" end="00:59:18.000" style="s2">podcasts on the dark horse podcast on</p>
+<p begin="00:59:16.319" end="00:59:21.200" style="s2">youtube or whatever your favorite</p>
+<p begin="00:59:18.000" end="00:59:26.160" style="s2">podcast app is</p>
+<p begin="00:59:21.200" end="00:59:26.160" style="s2">and maybe that&#39;s that&#39;s it</p>
+<p begin="00:59:26.240" end="00:59:29.680" style="s2">excellent i think i can speak for</p>
+<p begin="00:59:27.520" end="00:59:30.640" style="s2">everyone thank you so much for being</p>
+<p begin="00:59:29.680" end="00:59:32.400" style="s2">here this was a really great</p>
+<p begin="00:59:30.640" end="00:59:34.400" style="s2">conversation</p>
+<p begin="00:59:32.400" end="00:59:35.760" style="s2">we hope to see you again at the stoa</p>
+<p begin="00:59:34.400" end="00:59:38.000" style="s2">thank you i really</p>
+<p begin="00:59:35.760" end="00:59:38.880" style="s2">had a great time and it was nice seeing</p>
+<p begin="00:59:38.000" end="00:59:42.640" style="s2">you again</p>
+<p begin="00:59:38.880" end="00:59:44.839" style="s2">and anyway be well all um</p>
+<p begin="00:59:42.640" end="00:59:46.079" style="s2">let&#39;s keep fighting the good fight</p>
+<p begin="00:59:44.839" end="00:59:48.160" style="s2">absolutely</p>
+<p begin="00:59:46.079" end="00:59:49.760" style="s2">great and peter i don&#39;t know where you</p>
+<p begin="00:59:48.160" end="00:59:53.280" style="s2">are but do you want to</p>
+<p begin="00:59:49.760" end="00:59:56.079" style="s2">promote any future events yes uh</p>
+<p begin="00:59:53.280" end="00:59:57.200" style="s2">so uh brett raven thank you for uh</p>
+<p begin="00:59:56.079" end="00:59:58.799" style="s2">having that dialogue and thank you</p>
+<p begin="00:59:57.200" end="01:00:01.119" style="s2">everyone for your excellent questions</p>
+<p begin="00:59:58.799" end="01:00:02.160" style="s2">some upcoming events uh our boy tyson</p>
+<p begin="01:00:01.119" end="01:00:03.760" style="s2">has an event coming up</p>
+<p begin="01:00:02.160" end="01:00:05.440" style="s2">tyson if you can meet yourself and plug</p>
+<p begin="01:00:03.760" end="01:00:07.359" style="s2">that</p>
+<p begin="01:00:05.440" end="01:00:10.000" style="s2">sure thank you peter thanks again brett</p>
+<p begin="01:00:07.359" end="01:00:12.880" style="s2">thank you raven uh tonight at 8 30</p>
+<p begin="01:00:10.000" end="01:00:14.559" style="s2">eastern is flowing with unknowingness</p>
+<p begin="01:00:12.880" end="01:00:15.760" style="s2">where we practice</p>
+<p begin="01:00:14.559" end="01:00:18.000" style="s2">deepening our relationship with</p>
+<p begin="01:00:15.760" end="01:00:20.480" style="s2">uncertainty and exercising</p>
+<p begin="01:00:18.000" end="01:00:22.240" style="s2">our trust muscles through freestyle</p>
+<p begin="01:00:20.480" end="01:00:24.079" style="s2">spoken word and freestyle rap</p>
+<p begin="01:00:22.240" end="01:00:25.280" style="s2">imagine collective dialogue backed by</p>
+<p begin="01:00:24.079" end="01:00:27.280" style="s2">hip-hop beats</p>
+<p begin="01:00:25.280" end="01:00:29.119" style="s2">that&#39;s what it is so we&#39;d love to see</p>
+<p begin="01:00:27.280" end="01:00:30.400" style="s2">you there um</p>
+<p begin="01:00:29.119" end="01:00:31.920" style="s2">and if you are feeling a little bit</p>
+<p begin="01:00:30.400" end="01:00:33.119" style="s2">nervous about it i&#39;ll just say like all</p>
+<p begin="01:00:31.920" end="01:00:36.079" style="s2">the more reason</p>
+<p begin="01:00:33.119" end="01:00:38.000" style="s2">to show up and enjoy it so see you there</p>
+<p begin="01:00:36.079" end="01:00:39.520" style="s2">tyson&#39;s venting a new genre of sense</p>
+<p begin="01:00:38.000" end="01:00:41.920" style="s2">making rap so uh</p>
+<p begin="01:00:39.520" end="01:00:43.359" style="s2">must check that out uh tomorrow we have</p>
+<p begin="01:00:41.920" end="01:00:45.599" style="s2">surrendered leadership with john</p>
+<p begin="01:00:43.359" end="01:00:46.720" style="s2">thompson he&#39;s from circling uh europe</p>
+<p begin="01:00:45.599" end="01:00:48.960" style="s2">and so we&#39;re going to get our kind of</p>
+<p begin="01:00:46.720" end="01:00:50.880" style="s2">authentic relating circling on that&#39;s at</p>
+<p begin="01:00:48.960" end="01:00:54.400" style="s2">12 p.m eastern time</p>
+<p begin="01:00:50.880" end="01:00:56.240" style="s2">and susan blackmore um the medic scholar</p>
+<p begin="01:00:54.400" end="01:00:58.240" style="s2">she&#39;s coming in thursday i believe</p>
+<p begin="01:00:56.240" end="01:01:00.640" style="s2">conscious of selfish jeans and</p>
+<p begin="01:00:58.240" end="01:01:02.799" style="s2">selfish jeans and memes uh machines</p>
+<p begin="01:01:00.640" end="01:01:04.960" style="s2">that&#39;s september 24th at 12 p.m</p>
+<p begin="01:01:02.799" end="01:01:06.079" style="s2">eastern time we&#39;ve got tons of events</p>
+<p begin="01:01:04.960" end="01:01:08.640" style="s2">check out our website</p>
+<p begin="01:01:06.079" end="01:01:10.000" style="s2">a lot of exciting action here and if</p>
+<p begin="01:01:08.640" end="01:01:12.880" style="s2">you&#39;d like to support us while we steal</p>
+<p begin="01:01:10.000" end="01:01:15.440" style="s2">the culture you can do so on patreon</p>
+<p begin="01:01:12.880" end="01:01:17.200" style="s2">that being said uh brett raven everyone</p>
+<p begin="01:01:15.440" end="01:01:18.720" style="s2">thank you so much for coming to pistol</p>
+<p begin="01:01:17.200" end="01:01:23.599" style="s2">today</p>
+<p begin="01:01:18.720" end="01:01:23.599" style="s2">well everybody</p>
+</div>
+</body>
+</tt>

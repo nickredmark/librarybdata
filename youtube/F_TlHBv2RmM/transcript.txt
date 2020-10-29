@@ -1,0 +1,1839 @@
+welcome to our together tech roundtable
+where we tell you what our projects are
+who we are what we've been up to
+and what we could use help with
+um i'll start today since i rarely start
+i just do the
+the intro why did i just say that i've
+nobody would open up to
+uh we didn't hold solution raising this
+week um carrie showed up and eric
+didn't until later and it was actually
+perfect carrie and i
+i was more in a venting mood we were
+gonna be discussing humor
+i was like anyway so that is how
+solution raising went solution raising
+is an hour long conversation we generate
+solutions with
+10 000 people 100 000 my focus right now
+is on my own existential crisis of how
+to get the mlm in the world with my
+limited capacity and like which
+direction to take it in
+and so right now i'm focusing on the
+product itself
+and finding people who enjoy the product
+want the product to want to build that
+out um because it's easier than either
+figuring it out for the community or
+everyone wants it on the business
+structure but not necessarily the
+product
+um and the community is is most of the
+people that i know are going to be
+with that same with the same ideal of
+community that i have but at the same
+time
+unless it's explicitly stated it's it
+there's a lot of gray area of conflict
+if you're not saying that we're here for
+diversity and authenticity then then
+that can arise
+um and that is what i've been up to the
+last week because i i did do a
+a presentation for the product i created
+a new
+slide and sent it out to kylie and
+carrie
+and raymond and uh i'm gonna be holding
+our first six week course starting out
+this tuesday where i'm gonna be with
+with carrie and possibly kylie and
+figure
+out kind of the pre the pre to the sixth
+week because that's part of it is
+is the product itself is like do you
+come in have you never heard of anything
+and
+do the product or is it people who know
+what i'm up to when are there to sample
+the product and help
+create it so anyway that is what that
+was kind of all over the place but
+yeah that's also what i who i am my
+eccentric crisis so
+who would like to go next
+i can go next uh so my main project is
+converati
+it is a source of uh information that
+earns your trust
+and it's meant to provide information on
+science and news
+and then the partner project wikilection
+which does the same thing
+provides information that earns your
+trust for politics
+um i've been sort of
+on hold ish for the last couple of weeks
+been waiting for the new version of the
+prototype to come out
+uh while i've been working on that i've
+been working on the sort of specs for
+the conference platform and in doing so
+have decided that
+the overall decision of development
+should or the direction of development
+should probably change and
+focus a bit more on uh it being a
+platform as opposed to
+just a typical coded application um
+so theoretically we might be able to
+talk about that today
+if nothing else comes up but that's that
+would probably get fairly
+technical so i'm not sure that's what
+i'm up to
+okay and uh i'm bentley davis um
+my i got a couple projects i'm working
+on one is
+i'm going to say goaliebot which is a
+a chatbot that builds mass agreement
+across the world in theory if it works
+i haven't done anything on that project
+i'm really getting inspired on another
+project which is a
+generic rating and
+reporting system that allows you to
+grade everything which is also a part of
+contrary
+and wikilection so yeah i
+want to work on building that
+and putting it in other spheres i also i
+think i mentioned last time i kind of
+got a day job so i'm working part-time
+on a startup
+that's also about information processing
+so it's mostly
+creating digital books that also
+have an interactive component to them so
+you're able to get it
+content uh link out to content more
+conveniently
+and we hope it it makes it a more
+a deeper and more valuable experience
+than just reading the text
+and more so than the current book
+systems that exist today
+so we'll see if that works out
+[Music]
+yeah i have had some interesting
+meetings this week
+about the canonical debate lab which is
+very close to
+goaliebot um we're looking for
+funding so we're doing a lot of work on
+that i
+just uh was in a meeting with the
+founder of wysaurus
+which is another debate platform so i
+was introducing him
+to the canonical debate group of
+projects that have to do with argument
+and debate mapping
+and then i met a guy named doran
+who has an idea for a project that helps
+people
+handle internal conflicts which then he
+hopes
+would allow people to
+also handle external conflicts
+better so lots of things going on but
+mostly i'm moving and i'm resetting up
+my studio
+uh and right now my desk is in a rare
+areas and
+my internet's choppy so i may drop off
+um so we'll see how it goes
+all right you know it looks sounds like
+you have the most um
+you know it makes more sense for you to
+be lusty you have a need for something
+can you
+re-explain i know i might not be able to
+add to the technical part but the
+difference
+why you're thinking that a coded app
+isn't going to work in a platform
+would be right the way to first of all
+good job keeping track of
+the terms um so the coded app
+is sort of like every page is is coded
+right so like if
+if um so for example the most recent
+change for
+wiki election the existing prototype
+tracks people attracts organizations
+and attracts the role that the people
+have held at organizations so very
+simple
+the next layer was meant to track
+legislation and then how people had
+voted on
+legislation and then there was also that
+extra layer of what bentley was talking
+about
+where it was sort of the the ability to
+add things that you could score
+legislation on um right like is it good
+for the
+environment or bad for the environment
+good for business bad for her business
+that kind of thing
+um and then based on how somebody voted
+it would
+affect that you know the same score for
+the person to vote
+so if you vote for something that's bad
+for the environment your score gets
+worse for the environment
+um so that was sort of the you know
+that's
+where it's at right now and then the
+thing that we were working on
+and i think a big part of why it was
+stuck was the the scoring
+um but also to just the fact that like
+the two were tied together
+and a lot of the like i guess what i
+would go object
+level stuff so an object is like one
+individual table in the database so like
+people or organizations or
+legislation those would all be objects
+um and
+i mean this the layouts for all those
+pages will be
+not the same but like the same basic
+principle of your showing fields
+from a record um
+and there are a number of other
+applications out there that allow you to
+sort of you know
+create objects and create you know extra
+fields in those tables
+and then it's easier to add them to
+layouts so it's
+sort of like a canvas so that you can
+say here's your list of fields
+here's a blank page tell us where you
+want them and then you can drag out
+fields
+um and so that's different like that's
+uh a lot of how salesforce works where
+they have their own developers that go
+and
+develop that platform and then other
+people that aren't
+developers can essentially make things
+on their platform right can kind of make
+apps
+um and add objects and fields and say
+you know how they look
+um and it wouldn't need to be even one
+percent of what salesforce does but but
+the basic idea of like you know you can
+add tables add fields
+add the pages as they will be linked and
+then at that point
+someone like me could probably go in and
+just change
+what would that what would be the the
+meta data or like data that's not
+actually data
+or it could get i i guess you could say
+data about data
+um and so that is sort of the back end
+where
+if we had a coder build the platform and
+then they might still need to add tables
+and fields and stuff like that
+but once those existed then i could just
+go in there and say okay this layout
+should have this field here
+this field here these sections show this
+and as the platform builds out we can
+start to
+make those same sort of changes on all
+of the the pages
+plus the the same thing should be used
+for conferrati
+and for for wiki election it's sort of
+two sides of the same coin
+and there will almost certainly be more
+apps like
+wiki election we're sort of an offshoot
+of converation accessing the same
+overall
+data set but like with a a unique view
+into it but but with the same overall
+like the
+way to build your how the fields appear
+on the
+page um you know where they're ordered
+what links to what
+all that type of thing does that make
+sense
+a lot of that was over my head but kind
+of so if we put in lego terms
+um you're looking like as the consumer
+as the person the user
+um when you were talking about building
+blocks is that for um
+like different websites that i'm coming
+to and i don't know
+how it's built or as the user am i
+configuring that for my
+for my page you know what i mean like is
+it my facebook and i get to choose where
+everything is
+or is facebook its own thing and then if
+i come on facebook
+it has it but if they wanted to use that
+same piece for
+twitter and twitter wouldn't it be for
+for users at least not for
+the i would say even far future like
+that
+that's theoretically possible that's way
+down the road it's more meant to sort of
+split
+the the quote-unquote development
+responsibilities where actual
+programmers would be building
+the platform and somebody like me that's
+technical but not a
+programmer can go in there sort of you
+know learn okay here's how
+she designed a page right it might end
+up being like so you're looking to
+create
+the lego blocks yes because you don't
+know how to make the lego blocks you
+want to put the links lego is actually a
+really good example
+it's like instead currently we've been
+building you know a toy
+and instead we're saying no no instead
+let's build lego so
+it's just pieces that in this case
+that's where it kind of falls apart
+because it's meant for the
+end user to to build something in this
+case it's more
+the developers build the pieces they
+give them to me i construct something
+and then that's what i put out in the
+world through you know confronti through
+wikileaks etc and a part of the the
+platform is also to support
+like they're being different for example
+domain names like
+wikilection.com or conference.com it
+would actually be did
+different apps because they're different
+views into two data
+like conferrati might not have a special
+section for
+legislation whereas of course wiki
+election would
+confront would show like you know a
+bunch of corporations and businesses of
+all sides
+but whereas wiki election would only
+show like
+political parties lobbying groups things
+that are direct like organizations that
+are directly connected to politics
+but still the same overall data set and
+that same thing powering it
+so i know what bentley's doing with the
+rating system
+is more like a i'm going to bring it
+back to lego like a lego construction
+set
+like a um wow instructions
+but it's like you can build anything
+with it it's kind of more
+the thing that the event is talking
+about is like one of those really weird
+lego pieces right that you're like
+it's cool you're like it might be like a
+a special part of a spaceship
+or something where like you couldn't
+build that with just the lego pieces
+and you can you know reuse it wherever
+you see a spot for it
+but like it kind of does have a a
+specialized purpose
+in this case it might actually make it a
+bit easier because then you can say okay
+here's that
+thing that does the scoring and then you
+can actually say okay here's
+the different settings that you can do
+here's the you know where we're actually
+storing the different scoring values
+here's the different sets of scores
+here's
+what objects we're saying are the things
+that get ranked
+and then here are the objects that
+actually get scored so in the case of
+wiki election you could say the
+legislation are are the things that are
+actually being like
+directly scored or ranked and then
+the votes will be the things that i
+guess are actually
+counted to help affect that in the end
+and then in the very end
+the the politicians are the people that
+sort of get automatically scored through
+that system
+so we'd obviously want like some better
+terms to to categorize things
+but it becomes easier in in in my mind
+if you can just say here's this here's
+how it connects you define each of these
+variables like
+you know where's the score being stored
+what are we counting and where is it
+actually being calculated
+you can specify those three things you
+can use it pretty much anywhere across
+the platform as long as you're following
+the rules of that
+and so is the idea i think with this is
+how i understand it with bentley's it's
+the um
+it's the equipment we're working out on
+it's the something that you can plug and
+play in different places anywhere you
+need that rating system
+that's the idea that it can be more more
+generic because a lot of people trying
+to solve this
+whereas um who is which one of these
+things
+is doing it like the data itself is not
+repetitive
+so if we put in the politicians
+information
+and we know who they vote if someone
+else has to have that information they
+don't have to you know like
+his feels like it's the software that's
+plug and playable or the
+the thing we're working out on whereas
+yours is yours looking at not having to
+put in that same information every time
+as well and so if i use that same widget
+on my thing it has it comes with that
+information yeah that's
+in the fairly soon future like that
+should be fairly soon into
+to to the app where you can sort of
+query something and say hey
+i want to make you know a chrome
+extension that if i'm reading news it
+looks for names that we know about and
+then you know shows a side panel
+i would definitely like something like
+that to be
+to be possible now how open it is and
+stuff like that i'm not sure
+but definitely that's how i i i wanted
+to be used
+even if you know it's actually con
+ferrari that ends up making
+the the chrome extension um
+but i do want there to be some ability
+for other services to sort of you know
+ask for
+for certain pieces of data even if it's
+just hey who's this person and what's
+their score in these areas
+yeah i i have a couple thoughts uh maybe
+i am fading in and out i wonder maybe we
+could go ahead and
+stop your guys videos and see if that
+clears it up a bit
+otherwise i don't know if you all be
+able to hear me either right yeah
+um good i mean hopefully it's
+it's prioritizing income you know my
+outgoing data rather than the incoming
+um so so yeah i mean really what you
+want is you you
+you're you're asking for a little bit of
+functionality kind of like knack
+not all of nak of course but just that
+ability to kind of configure
+the displays and bubble and all that
+it's a kind of a no code solution
+um right although in this case i
+wouldn't be as attached to
+like the front end that gets kind of
+weird
+uh being all that nice right like even
+if the
+the designing of the page is just like
+kind of code-ish right like if it's
+some sort of a document like a json file
+or something i would go in there and
+learn the syntax of and then i can you
+know
+say like here's the field here's where
+where it is on the page
+i i think with a little bit of training
+you could do that today
+totally yeah yeah i've i i do that kind
+of thing at work like
+it's the sort of thing where really
+basic syntax you know and like using
+field name stuff like that i can do that
+yeah and so if we can
+allow that to be sort of the the
+bottleneck for
+i guess kind of like the actual
+translation of what's happening in the
+back end to the actual
+front end of here are the objects that
+this app uses
+here are the fields on the layout
+there's probably going to be a bunch of
+extra in the back end that most
+people won't care about but will track
+just in case
+and then you know if i want to add a
+field or to take a field off i can just
+go edit this certain file
+and then i don't have to you know ask a
+developer and do this and go through a
+whole bunch of stuff and go
+through testing because the the testing
+would mostly be at the platform level on
+you know adding fields on taking fields
+off do things work together
+that's right we'd have to figure out
+though
+i guess is that are you editing
+because if you want those changes to go
+live then we need to get a what's called
+a continuous deployment
+which is doable that's all built in to
+github but then we'd also have to make
+sure that your changes
+are merged into the developer
+the test version that that radical i
+would be working on which
+is doable um i mean i guess
+the goal is for the thing that the
+that radic and possibly you would be
+working on would be the platform that
+would translate whatever these files are
+right so like those
+what what what would be the things that
+would actually be in in
+github and then sort of their job
+like the job of the platform is to so
+you know take a look at what objects are
+available
+take a look at sort of what app they're
+at right are they at
+wiki election or conference or something
+else and each of those would end up
+having its own sort of you know set of
+files or set up
+settings that they would say okay
+they're at
+wikilection so we're gonna go over to
+this you know grouping of
+settings and say things right like here
+here are the top level objects right
+like
+there's home there's there's people
+there's organizations there's
+elections legislation stuff like that
+so if you click it'll it'll all be a
+balance
+between because i mean
+some of that is extremely complex and
+would take a long time to develop
+and i don't think that you want to that
+it would be worth the time
+to build that right when really you're
+still i mean i guess
+are you thinking that this is still a
+prototype or is it a beta software
+you want beta because you want users to
+end up
+using it oh it's a combination between
+because really could be either
+at this point i i guess i want to shift
+because i think that the platform is
+sort of a better long-term
+approach and so and but but i think it's
+also
+if we can get the bare bones part
+working and put
+you know a bit more of the onus on me
+then i can do part of the development
+myself right yeah but unless unless it
+takes us longer to build a platform than
+it would for us
+right which is what i think it's going
+to be and also you don't need a platform
+after
+you get a certain level of functionality
+right well that's where it's a bit
+iffy because there's probably going to
+end up being a bunch of different
+portals sort of into the conference
+ecosystem
+right like they're like for right now
+confronti is
+kind of the name for bulky platform and
+they're going to end up being this
+busy probably mess of an app that's
+doing you know 100
+different things and so i expect that
+wiki election is going to be a lot
+cleaner because it's kind of got more
+specific purpose and over time i kind of
+expect certain things to start splitting
+off of confronting right like if the
+science
+review part gets big and there's a lot
+of pieces and it it
+it it makes sense to give its own portal
+i imagine that will end up happening at
+some point
+so my understanding from what radical is
+working on
+is that he made it to where the data
+is stored kind of abstractly
+but he hadn't gone in and changed the ui
+toward displays that
+so his goal was actually to get
+to what you want to do for the rating
+system
+which is also what i need because i
+remember i'm making a generic rating
+system so the users need to be able to
+go in and say
+i want to create a legislature a
+legislative
+person and then i want right these are
+the judge
+you know these are the the categories
+the attributes that i want to rate
+so that was all part of the plan so what
+i believe he had done
+back when he showed us the demo was the
+back end was flexible like that but the
+front end was all hard-coded
+right so my understanding is he was
+making that front-end more flexible now
+the thing is though is that that's only
+for the rating
+system part to build which is kind of a
+very specific scope
+so building a dynamic interface for that
+is
+is reasonable um some of the other pages
+though i don't know we'd have to look at
+i just
+so yeah i mean definitely i think we
+need to
+talk it through and figure out where we
+can do it i would i do want to caution
+though that there will be
+it sounds like i don't know that there
+will be it sounds like there's a couple
+of sections and pieces that
+the workload to make those dynamic might
+be
+more than is worthwhile right right
+okay but yeah we definitely have that
+discussion but then also
+i'm thinking it sounds like
+much of wiki election and conferrati is
+just an
+implement implementation of the generic
+rating system
+and which which is fine i mean there's
+that's
+definitely an important layer of it yeah
+well yeah so what i just
+i guess i don't know what i mean you're
+gonna have
+you'd need that evidence-based i just
+it might be nice to list out your
+feature set and say
+which features are is the rating system
+and which features aren't
+just so we have an idea of because you
+know your
+code is still going to be closed source
+but my hope is that the rating system
+would be open source right um so
+even though it wouldn't have the data
+that says here's the representative and
+all the stuff or even the
+the structure of a representative has
+these attributes
+um that would never be open sourced
+um but the code that lets you represent
+that would be
+so it might be good if we drew some
+boxes around what's the rating system
+and what's not and then
+uh yeah so do you have a
+feature list yet um
+yep it's uh it's kind of spread apart
+different things and it's in there oh
+it's like where it is
+this one um
+so it might be nice if we if we
+consolidated that
+in some sort of table form
+and then um said which one of those
+features are going to be
+fulfilled in the rating system and then
+also get a prioritization from you on it
+which i think the rating system is still
+the top
+priority um
+i guess i don't know a spreadsheet of
+those he's like i'm looking through
+the materials that i have for con
+ferrari and for wiki election
+and like it sort of talks about how some
+of the features would be used but it
+doesn't you know
+call them out into a list um yeah
+yeah so that'd be nice if you could put
+that together and then we could schedule
+a meeting
+yeah for sure yeah i've been good good
+going through and sort of
+drawing up some of the really basic
+requirements for
+the platform and to your point maybe it
+ends up being like a weird
+hybrid platform where like i do it
+really doesn't need to be a very you
+know polished back end like if it's just
+me editing text files
+that that's fine um and if i have to
+check stuff in to github i can learn how
+to to do that i'm sure um at this point
+it's more
+just about trying to simplify the
+process of you know
+adding a new object and then a new page
+for it like that shouldn't be a week's
+long
+thing that should be you know an hour
+max
+be like you know after the table's
+already been headed and we know the the
+fields and
+we we know the layout that should be you
+know okay here's the layout for
+legislation
+these fields go here okay and then
+here's another section where
+we're going to be listing the votes and
+here are the columns to use
+okay now go render that yeah and that
+so i think as far as it's within the
+rating system thing they'll definitely
+be doable
+another thing we might consider is to
+uh use a content management system
+for the like the home page and the
+description pages
+and the blog i don't know if you have a
+blog on there but you probably need one
+for content
+marketing um yeah i mean i'm
+that there will end up being a set up
+for it yeah and and that's where like
+each individual table kind of like or
+the records need the ability to have
+some amount
+of rich text um and so depending i mean
+it could end up being like some objects
+might just be a single table that
+that are just the rich text right but
+i'm distinguishing between
+your kind of the data and then your your
+more like blogish description marketing
+content
+right yeah i don't think that we need to
+build a content management system
+into no and that's where like
+and i think this is probably true for
+both conferrati and
+wiki election where like there's going
+to be a website for it
+right which is going to be on some form
+of acms and there might be blogs and you
+know and links up to youtube and all
+that sort of thing
+and then there will be the actual app
+right where it's probably like
+app.com or app.wikilection.com
+which is where the the prototype is um
+that that's how you actually access the
+application but then for the media the
+blogs the
+the press releases that sort of thing
+that goes on the website
+so i generally try and
+keep those on the same domain there are
+ways to separate out
+right yeah that's what they're
+developing well app
+dot i'm saying even the same sub domain
+okay
+and the reason for that is that google
+sometimes you you'd get the same
+juice or not google juice
+the same seo if they're if they're
+separate it
+google in some instances if they're
+separate sub domains
+i'm not too worried about seo
+i mean i don't think i ever want people
+to use the system
+well at a certain point it will become
+so like if it actually gains traction
+it'll become something like
+you know wikipedia or i imdb
+where google actually says okay give
+this more
+more credence right if somebody's
+searching for an actor
+go ahead and use i i am db
+right and yeah they have special sort of
+uh uh parsers for it and stuff but like
+i don't i'm not really sure what
+somebody would search for to end up on
+the site except for someone's name
+well yeah they'd search for a
+politician's name yeah but
+so but your reputation based on your
+blog posts
+you want that to apply to whether google
+recommends you also for the
+politicians
+have themselves separate reputations and
+then they're not combined so
+they're each half as likely to be shown
+up on youtube because a lot of like
+the major b2b apps do it that way right
+like that's how sales yeah
+but that's well yeah and
+they're taking a hit on their seo yeah
+and they don't
+likely too and they're never indexing
+the app
+part because that's all behind you know
+very well so that's the question well
+you're right right
+but see your data i think you do want to
+index
+so yeah if it's public then it should it
+should be indexed some of these stuff
+might be member only and then that
+wouldn't be we also have to
+yeah and there's a lot of technical
+issues to make sure that it's indexable
+yeah um i mean the good news is google's
+pretty good at indexing
+javascript dynamic applications these
+days but i don't trust them
+so i also statically generate the data
+the google index and for the most part i
+expect that
+as it starts being used it would start
+using like you know sort of the true the
+original google thing
+the back linking right where people like
+in twitter posts and on facebook and on
+their websites and stuff would be like
+hey check out this profile you know for
+donald trump and then link that to the
+wiki election page
+you do that you know ten thousand times
+and all of a sudden google's like wait
+what
+that's what i expect will actually end
+up being the thing
+so i think we do need to have you choose
+a content management
+system to use outside of the application
+and then we also need to
+and maybe even get that up and running
+so that you can
+do that stuff because you you don't have
+anything like that right now
+right a wordpress website or anything um
+i mean the website for what wikilection
+i think is
+uh wix and so really
+like i still sort of uh thinking is
+going to end up being
+two different sub domains at least to to
+start with
+um if the platform ends up you know
+having some sort of integrated cms where
+like
+i can have a page that is proper ems
+and there's a decent way to sort of show
+that where it's like hey here's
+the web page and all the content that i
+want to show there and
+a deep decent way to say on the flip
+side here's all the content that you
+might actually
+be here for um
+regardless regardless of whether on the
+same
+sub domain or not doesn't matter so if
+you get a
+it would be a headless content
+management system
+so you would you would go to a
+completely different page into the data
+and then we could serve it up on
+any domain anywhere i see okay so we
+just need i haven't played with
+headless it might be dms
+yeah so we might choose one i'm trying
+to think of the one that i don't think
+we need to worry about that
+now because i think for now i'm going to
+keep the them separate where the
+the the www will be
+the website and then the app will will
+be the app
+if the app thing and when you're saying
+that you're happy using
+wix as your cms or whichever right at
+that point
+they're completely divorced so i i if i
+wanted to use wix or drupal or
+um the the big one whose name i'm
+forgetting
+it's not coming but yeah wordpress there
+we go
+if it's any of those right because right
+now i just had to change the sub domain
+mapping for
+you know app.collection.com for the
+prototype
+and then tr triple w i change through
+wix right like i
+those are two totally separate things if
+i want to now change
+who the web hosting is like for the
+website i can do that at will and
+and not affect the application so yeah
+so i think the main thing
+we need to do is get a list of features
+in pr in prioritized order for
+desirability although
+we of course may move the order
+depending upon the speed of development
+right because if something's an easy
+quick win and it provides value we can
+move it up in priority
+but if we if we just had it in priority
+order right
+yeah i can probably do like the one to
+ten
+priority and the work with you and uh
+and radek to get
+a one to ten on difficulty and then we
+can make that chart showing you know hey
+yeah and then there will be some things
+that are core if you're like hey even if
+this is easy
+if we can't use it until that thing is
+done then there's no point in making it
+until
+right right yeah and then uh and then
+also to have a
+flag on there or an indicator whether
+they
+are part of the generic rating app or if
+they're if it's unique to wikilection
+yeah i mean in this case i think the the
+writing app it would end up being built
+into
+like it's sort of its native place is
+this app and then we can i mean i i'm
+not sure how early we want to branch it
+like if we want to get it
+it working and see like okay this is now
+able to score you know
+legislation and people and this and
+here's how it's mapping here
+i would certainly now let's transplant
+that to open source world
+and then you've got to wait i would i
+got some stuff i'd like to start using
+it for in a couple of weeks
+right so either we're gonna
+you know either i'm gonna rewrite it
+from scratch
+i mean for my purpose as long as as my
+version works
+go nuts i yeah that's what i think
+so i just need time to kind of at the
+point where
+like i'm hoping it can be reused but
+also if the whole thing like
+yeah it's been frozen for way too long
+now i'm i'm sort of like hey if it's not
+done you know in the next
+well let's say five hours just don't
+worry about it
+right we'll just be starting from from
+scratch
+yeah yeah and that's the thing is i
+don't i don't want to i
+you know it's a balance between i
+definitely don't want to slow radic down
+or if or if i help on the wiki lecture
+side i don't want to slow that
+development down
+at all
+so it may just be you know i i
+i look at radix code and write something
+that's compatible
+and then at some point we could
+integrate it back in and and use it or
+whatever
+um so yeah it's really kind of having
+that discussion
+but i think it would be helpful also
+know kind of like what percentage
+of wikilection is this rating app
+because in my mind it's a
+it's like 75 but i've probably forgotten
+some features that anyone
+like the like depends because
+it it's definitely one of the major
+things but
+without the evidence system it's kind of
+useless because it's just numbers
+like great you say there are six why
+should i believe you right um
+and that's where like it's going to end
+up being very integrated
+with that right we're at the underlying
+level the content
+section and the the rating system will
+be really intertwined because you're
+going to be like this content is saying
+this but then it's proven untrue but
+then it's kind of this
+and then it's yeah it's going to be
+interesting to figure out what the end
+score ended up being after the content
+is now i also envisioned
+envision the ratingsism does have some
+evidence pieces in it because it's
+basically underneath that i think i'm
+going to have
+reason score um but
+one the piece that i don't think it
+needs that his needs is like
+you had a a rather
+um high-value
+advanced kind of video thing
+and that right that would be the level
+of detail that
+that these this other system wouldn't
+need
+um so that i think would be kind of a
+unique feature but the fact of saying
+okay i i put this rating and here's a
+link to the evidence that's something i
+think
+we'll also need in there and then that
+evidence could be rated using re
+reason score pros and cons and debated
+right
+um yeah because so so another
+thing that i'm considering which might
+affect like
+you know if you think that doing the the
+the full platform is a good idea or not
+is drawing up a lot more detailed specs
+and then using upwork you know and
+hiring some people in india
+or somewhere to sort of build the
+platform
+um because then you know it if it takes
+you know 100 hours or 200 hours like
+that's a lot more manageable and then in
+the end
+i would hope that there's you know some
+rudimentary documentation so either they
+or somebody else can pick it up
+but with the end goal being that you
+know adding new pages adding new objects
+doing stuff stuff like that um
+even if it's a bit more complex than
+that is in my day job
+would still be um faster in the
+long run i think now i i do probably
+have some time for some paid work the
+problem is that i
+charge two to three times even at my
+lowest rates
+for a product that i believe helps the
+world which of course
+uh wikilection falls into that category
+i still cost to at least two times more
+than i think you could hire a pretty
+decent dev
+not the lowest price dev and i'm three
+times more than
+kind of the average price and four times
+more than
+the cheapest dev which i think are more
+work than they're worth
+um yeah no i i i also
+might be i might be twice as fast or
+four times as fast
+you know i had charged fewer hours just
+because i know what we're doing and
+everything right
+so we we might want to think about
+whether i am
+a uh efficient use of res
+funds and maybe
+maybe just having me manage those
+resources from yeah
+that's kind of what i was planning it is
+easy you know having somebody that i
+know and trust
+sort of help both help manage them and
+help answer questions that i wouldn't be
+able to right and then like
+i can talk to either you or radic or
+whoever and sort of have that back and
+forth right like
+sort of product manager architect type r
+r relationship in the software world yes
+we probably need to have a separate
+meeting
+and probably that one where we talk
+about budgeting what what you feel like
+you can
+afford to invest um although i
+i still kind of feel bad about that
+because i
+unless i'm not going to suggest spending
+any money unless i can
+see that you will get hit back
+right and that might be a a a part of it
+right is i can
+come up sort of with the um
+the documentation for what i think the
+first
+version should be and it's probably more
+realistic to start saying beta if it
+ends up being a prototype
+that's fine um but kind of for it to
+you know even if it starts off as a
+prototype that hopefully evolves into a
+beta but like i really don't expect all
+of this to
+you know in two or three years if it's
+solid and stable and has a big user base
+i don't expect there to be a lot of
+correlation between the two projects if
+there is great
+if not that's fine too um really it's
+just meant to sort of
+you know prove the concept and hopefully
+it'll help be somewhat agile to prove
+new concepts
+but then to hope you know help show
+people hey here's what you'd be buying
+into if you supported us on patreon or
+wherever yeah and is that is that your
+kind of initial um
+funding model is patreon
+patreon or kickstarter or something like
+that right like it's really
+it well the initial initial funding is
+me and then after that
+it goes into to cr crowdfunding
+and that's the goal is to where most of
+the money should should come from
+like so even a prototype you could start
+promoting and seeing if right yeah
+i guess the basic goal is i pay for a
+prototype that sort of you know
+gets people interested and then that
+gets people interested to start paying
+in to the organization and then the
+organization you know
+pays to build it properly okay
+well yeah then then yeah let's let's get
+with reddit get your feature list and
+let's
+talk about how we can facilitate that
+in the quickest way possible including
+like you said making it to where you can
+contribute
+time to the project more efficiently
+totally yeah and that like you know it's
+it's a bit easier to sort of add new
+pages and
+things that i'm used to to doing right
+like
+that's that's and i think that i think
+what radic as far as the the rating
+system like we said and that's kind of
+the
+probably the base i think radic is
+already working on making it to where
+you can add an entity
+and it'll create a page for it
+automatically i think that's
+been working on so he may be partially
+down that path and maybe now that
+we know that if if if
+if i'm an efficient use of
+financial resources then you know i can
+hop in and maybe we can get this thing
+moving faster
+right right now do you remember what
+raddick is using for the back end is i
+think for the the the front end
+it's firebase and i think the front ends
+react okay
+okay and i i've that's my most recent
+technology stack
+okay cool now do you know because i've
+been doing a bit more research just on
+the the stacks everything i read was
+saying like hey for
+for prototypes ruby on rails keeps
+coming out
+no um so what is the difference like as
+far as like
+the wrong thing with the the gems
+i mean that's that that sounds
+interesting but i don't know what
+firebase you know is and sort of what
+libraries it has
+but like i you know did a bit of
+research in
+into what sort of gems are available for
+root for ruben rails and there were some
+very
+good good sounding ones right that might
+make future
+parts of the prototype the the problem
+well
+i don't know when this when they say
+ruby on rails are they saying ruby on
+rails
+um and then having a react or some sort
+of front dinner they talk about ruby on
+rails and just ruby
+so when all the reading i did was
+talking about using ruby on rails purely
+as the back end
+and then i'll you know in a in a
+separate conversation
+i did some research on hey what's the
+the difference between ruby on rails and
+react
+and the general consensus of a bunch of
+things i i read was
+okay so they're not already they're not
+comparable that rails was
+the back end and react was the the well
+ruby
+that's my understanding ruby on rails
+used to be when it was first created
+generates the front end html on css and
+sends it to the server so it was a
+completely backend system and had no
+dynam
+dynamic on the front end and you had to
+have a different technology so i guess
+now recently
+they've said uh
+they've said now just use it as a back
+end but
+your system
+doesn't have a lot of back end code and
+so what
+firebase is is it's a fully built
+it's a fully built back end it's a
+no-code back-end basically
+right so i don't know why
+unless you unless you have some
+high-level processing on the back end
+which i don't think you do
+so the the modern process would be to go
+basically what's serverless functions is
+the
+is the more thing rather than using um
+c sharp or ruby on rails to have
+and have a back-end server that you
+didn't you'd have to scale
+right so now now all you do is you have
+a database that you're allowed that has
+an automated
+so the ruby on rails is basically
+building an api to your database and
+it's very fast for that
+but the firebase database is an api
+right so we don't need it's an extra
+step to put ruby on rails
+right here yeah that was the universal
+thing that was sort of the con
+against ruby on rails was the
+performance that was like
+really the only thing that they said was
+like yeah the performance compared to
+the other options it isn't as good
+um now the part that i'm not sure about
+is like for something like
+firebase right if you wanted to add like
+is there you know just a really easy
+sort of
+i mean i don't think that even ruby on
+rails the term plug-and-play still
+doesn't apply but i'll use it because i
+don't know what
+to use yeah what gyms did you hear that
+you thought might be
+um
+okay one second there might be some
+pieces of functionality
+right um so i i mean they had a bunch of
+things they were talking about like sort
+of
+data display they had a bun like for
+pagination for categorization for easy
+cloning records soft delete
+like they have a full list of you know
+here's things for in
+internationalization
+there's some good testing stuff i'm not
+i mean
+coders might be interested in some of
+the stuff where they're talking about
+coding style and debugging
+but one of the the main things is
+looking at things like um
+the the member sort of creation
+management backend
+um at some point there are a few
+features that will rely
+on either accepting payments or
+recurring payments
+and there's like a bunch of sort of like
+payment back ends where i'm quite used
+to working you know
+in the the payment cards industry you
+know
+with billing not at like the most
+detailed you know
+actually talking to the the gateways
+but like if there's a tool that we you
+know
+it just says hey you need you know a
+gateway in these countries you need
+this information and then just plug that
+information into the gym and you can
+start
+card processing that would be awesome
+right if it were
+50 hours instead of 500 hours yeah i
+guess
+my concern is that
+all of those payment processing backends
+have their own
+um javascript apis
+and if the ruby on rails gems is just a
+back end and not a front end
+then right yeah and that's i guess
+one of the key things is like and this
+is probably something that i guess
+like somebody who works in ruby on rails
+currently
+would have more information on but the
+article is i
+what i was reading they they were sort
+of talking about
+using ruby on rails as the back end and
+a lot of people talked about using react
+as the
+the front end for a ruby on rails back
+end
+yeah but i think those gems are probably
+both fronted back and ruby rails
+because i don't it wouldn't be possible
+in and
+are you looking at the dates of these
+articles
+um this one you might want to do that
+because if they're over two years old or
+over a year
+this one was from january 2020. all
+right
+why don't once you gather up a few of
+those uh
+and shoot them my way or document them
+on that spreadsheet and then we can take
+a look at them because i
+i didn't even know that people were
+starting to use ruby on rails is just a
+back end
+but honestly i mean
+i don't see why you do the extra work
+when
+firebase has a back end builds the back
+end for you automatically when you build
+the database so yeah
+actually that's a good one second let me
+go to firebase i'm going to do some
+researching how people are currently
+talking about firebase compared to ruby
+on rails and sort of seeing
+what they're saying the differences are
+uh sorry i remember saying
+uh feature list that's gonna end up
+being a weird mess because there's gonna
+be like things on the platform side and
+the front end and features
+and that that's fine this and then write
+a list of
+ruby on rails uh gems etc so those are
+the things i'll work on so
+kind of personally i'm going to go do
+some research on the firebase versus
+rails just to see what people are saying
+but then for our future conversation
+i'll actually list out the features in
+literature
+a spreadsheet you know and do some of
+the basic like sort of how
+important they are what i figured the
+dependencies are that sort of thing
+and then i'll go and make a list of the
+things that came up in my ruby on rails
+research that sound interesting
+especially as far as
+existing gems are concerned that like if
+firebase or something else has an
+alternative i don't care about
+ruby versus not i just want like a fast
+good prototype that's all i care about
+yeah so ruby on rails definitely was the
+most
+popular prototyping tool
+three years ago right but that was
+before you have things like fire
+where you have these dynamic back ends
+um
+so i like in the first article i'm
+hitting they say
+firebase might be less time consuming
+um right and then they say ruby is
+simpler
+um and ruby has a better community
+but it's not ruby is no longer faster to
+develop in
+okay do you know are like i'm wondering
+if that takes into account the size of
+the prototype like is there
+you know because with all of the gems if
+firebase doesn't have
+that i wonder if it's you know sort of a
+rudimentary
+prototype is faster in firebase but once
+you hit a certain point maybe it starts
+to be faster in ruby if you're going to
+be you know
+using like 10 gems or like yeah at that
+point it's probably worth it if you know
+it if you aren't using
+any gems or one or two it might end up
+being faster just to you
+use firebase and then do the functions
+of those
+but if you're going to be using 10 or
+20. okay now we're in the territory of
+yeah that probably is you're gonna be
+saving a ton of time there
+yeah i mean that's definitely possible
+but
+uh like when you talk about members
+the firebase has a full member system
+built into it right um
+so i guess we'd have to look to see if
+those pieces aren't already built
+most stuff like that you could you could
+go to javascript
+um like they already have an api
+to those things so
+we'd have to so yeah if you get a list
+of the gems i mean that that definitely
+would be something to be like
+oh if we use this gem we don't have to
+write this whole section of the app
+right
+totally yeah if we can figure out what
+what what those situations are
+and i guess that's probably what it will
+end up coming down to is like
+not just here are the gems that you know
+sound interesting but like
+hear the gems that actively sound like
+they probably should be used
+um and then some like i guess that's
+where it gets a bit tricky with it is it
+sounds like some of the gems
+um i wouldn't necessarily care about
+like
+you or you know another developer taking
+a look at it
+might say like oh yeah that would be
+quite useful um
+because if this it it is meant to be you
+know
+a somewhat long-term prototype doing
+like some really basic
+automated testing wouldn't hurt like you
+know it's just to cut
+the testing loads and i can't i can't
+imagine that
+that they would have a gem that would
+have better testing than
+what we have oh really okay because
+we're just writing javascript and
+there's like 50 different javascript
+automated testing tools
+uh you know i don't know i mean go if
+you want to list a few of those that
+that'd be fine yeah i'll i i i might
+just end up sending you
+this article first because it sort of
+has that actually yeah i heard one sec
+i'll put this in the
+chat um
+because that it's got them split into i
+don't know like 15 or 20 sort of like
+sections and then a bunch of gems for
+each section
+and some of them i don't have any skin
+in that game right like their testing
+coding style
+debugging some of them you know kind of
+get into interesting to me but not
+directly but i can see that they're
+important things like authentication
+security deployment um
+search is in there like there's a bunch
+of things which you know
+a big part of it is how easy to actually
+implement it and do we need all of the
+things that it's going to do
+i understand yeah there's going to be a
+lot of back and forth but
+i guess a big part of this is just me
+doing the research on firebase
+versus rails and just seeing what people
+are
+are saying because if firebase is fine
+then i mean then it's probably easier
+just to stick with it because we're
+already
+there yeah but yeah part of it is i'm
+also
+two different languages so
+uh you know i don't know if radix would
+be interested in
+coding that so you'd have you might have
+to get a full developer set of new set
+of developers
+that's usually actually the the biggest
+decision um on what technology to go
+with is just what
+your developers know right um but we can
+look
+and i can see if there's anything in
+here i mean there
+also in this article if there's anything
+that
+stuck out to you like you mentioned the
+uh the authentication authorization
+um i get the admin panel
+i like from my side the active record
+thing sounded it
+sounded interesting partly because i
+like
+i'm also hoping that in using ruby
+because it's sort of meant to be like
+that really sort of templated you know
+um plug and play back in style then i'm
+hoping that some of them might either
+support this natively or can kind of be
+re repurposed
+to be that platform to sort of say hey
+use this gem
+and then all you know all i'll feed it
+these values
+paste on some file and that now tells us
+how to render the page
+for people or for you know or
+legislation
+that kind of so yeah so like active
+record is an orm
+object relational mapper so that's if
+you're hitting a relational database
+right firebase is a document store
+database uh
+and the one of the reasons that our
+document store databases are good is
+that you don't need an orm
+so it's one of those things where they
+created active record
+because we had relational databases but
+we're not using relational databases
+anymore
+so you don't it's a it's a it's a whole
+category so
+what are the ones that you don't need
+anymore because when i hear relational
+database that sounds like what i
+i would have in mind because a huge part
+of this is how the records
+relate to each other so is the content
+part is that all the same features
+using right but actually what you talked
+about is a graph database not a
+relational database
+okay because the the objects relate to
+each other not the tables
+i'm each of those being the same thing
+what's that well
+so uh a
+at a table you say that there's a
+relationship
+there's a one-to-many relationship
+between well actually many many between
+the legislature
+from the legislators table and the
+um and the
+like between the legislation and
+politicians there's a many too many
+relationship in how they voted yeah and
+so how
+i've like documented that is there's
+three t
+tables there there's people there's
+there's legislation and then there's a
+joint table in the middle called i think
+just
+voting history that then has a look up
+to both of those
+right that where it's got a column for
+the id of the legislation
+and i call them for the idea of the
+person and then it says how they voted
+and anything else that we we
+need to know about the vote so i mean
+the same thing is done in this except
+it's just two tables because you have
+entity and then you have a table of
+relationships between the entities
+although you could do that in a
+relational database how does that work
+with the tables having different columns
+though
+that's the thing is in a in a in a
+in a document database you don't have
+any any object can have any number of
+columns and they don't have to relate to
+the other columns you don't have to have
+a fine
+uh defined structure to put data
+in a collection together okay and the
+difference between relational document
+is that is that a document database is
+much more flexible
+okay the problem is wondering if it ends
+up being like
+is it as good for actually like
+crunching numbers and doing calculations
+and you know
+when those relationships between the
+records in the tables are incredibly
+important
+and there's going to be a lot of back
+and forth number crunching
+is okay but doing a dynamic query
+among them is a little bit slower in
+this case but that doesn't
+necessarily but
+document databases scale a lot better
+than relational databases
+so as it gets bigger the document
+database gets more efficient
+well it's less less efficient right
+than a relational database is that like
+talking sort of about having a bunch of
+different pages or is that talking about
+as sort of the database gets more
+complex because
+this is going to end up being one hell
+of a database no it's not complexity
+it's
+it's volume of data as the volume of
+data increases
+the the relational databases become
+and that's saying both when the number
+of tables increases and the number of
+records
+it handles both better uh
+well in in the document database you
+don't have multiple tables
+i mean like the the the concept
+of having more tables right like if if
+we were having it right there there's
+realistically there probably end up
+being over 100 tables when all
+is said and done right like if we're
+looking at just you know the people
+organizations their roles there's
+probably going to end up being some
+stuff underlying that for the content
+is going to be legislation you know like
+things are going to be so
+interrelated it's just going to be this
+spiderweb of a database map
+if it were a relational database
+it depends uh mostly that's not that's
+not going to
+affect either the data systems right
+because they're both optimized to handle
+that
+i mean unless you're talking about
+thousands of tables that's only the time
+it
+gets to i don't think so but i don't
+think so
+and like especially not super active
+tables like there might end up being you
+know if they're
+if there were a thousand half of them
+would end up being these weird fringe
+tables that like
+i mean some of them like if we take into
+account the metadata tables and stuff
+like
+that maybe but yeah so yeah you would
+you would but then you'd restructure how
+you designed databases you go up in the
+abstraction layer so
+um yeah no i you know um
+all the main one the main difference is
+that
+is that document databases are much
+faster to do an initial development than
+than a relational database
+right because for a relational database
+i have to decide what each column has
+and i have to decide what value
+is in a document database i can take any
+document
+any javascript string and i can just
+throw it in the database
+okay so it cuts the development time
+significantly right um scales faster but
+the problem is that if you
+like if you're running a query that says
+um dynamic
+calculations like i want to write a
+query that says for all these people
+that have the name begin with m and have
+a legislation
+that that has a rating of five
+that sort of thing is faster in
+relational databases
+right but what you do for that when you
+document databases is you pre-compute
+that on the back end so if your queries
+aren't as
+dynamic the document database okay i
+mean that part
+is good because that i i do expect a lot
+of those kinds of searches but they
+should mostly be sort of built into
+the app the apps right like for example
+when you're looking at a list of
+organizations in in wikilection
+it's going to be a filtered list showing
+organizations involved in politics
+yeah so there can be some sort of a flag
+there and then it's easy to say go pull
+that list and then you know it's already
+pre pre-calculated
+yeah and then there are ways to optimize
+around that if you end up needing that
+so um you know yeah
+okay cool that's good i think we're but
+we can we can talk a little bit more
+about it
+um but yeah yeah no take a look thank
+you thank you thank you thank you thank
+you thank you thank you thank you thank
+you thank you thank you thank you thank
+you thank you thank you thank you for
+having us i've got a bunch of notes here
+and stuff to your research
+this was very helpful we'll schedule a
+meeting with me and radic sometime
+sure yeah for sure all right guys i
+think we noticed we are at the 10
+o'clock um i forgot to mention yesterday
+in our meeting that i may not be at next
+week's board meeting
+it depends uh i just have to go pick up
+my dad from uh surgery so
+depends what time that is at okay
+uh other than that i will maybe see you
+next week and i'll be at this next week
+either way
+and i will so we can say goodbye to
+youtube it's weirder with the cameras
+off

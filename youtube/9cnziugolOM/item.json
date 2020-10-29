@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "9cnziugolOM"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-26T08:09:24Z",
+    "channelId": "UCKxyC0UUSUjy1mXvfpR2RKg",
+    "title": "TogetherTec Board Meeting - Foundational Planning",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9cnziugolOM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9cnziugolOM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9cnziugolOM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "TogetherTec",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-26T08:09:24Z"
+  },
+  "_id": "9cnziugolOM",
+  "publishedAt": "2020-09-26T08:09:24Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCKxyC0UUSUjy1mXvfpR2RKg"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "zNGBU0k5om8"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-22T00:33:11Z",
+    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "title": "Unity 2020 w/ Bret Weinstein",
+    "description": "September 21, 2020 Bret Weinstein visits The Stoa to discuss Unity 2020. \"Imagine it's November 4th, the morning after the election. How will you feel?",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/zNGBU0k5om8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/zNGBU0k5om8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/zNGBU0k5om8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "The Stoa",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-22T00:33:11Z"
+  },
+  "_id": "zNGBU0k5om8",
+  "publishedAt": "2020-09-22T00:33:11Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"
+  ]
+}

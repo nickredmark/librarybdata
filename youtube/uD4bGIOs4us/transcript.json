@@ -1,0 +1,6322 @@
+[
+  {
+    "text": "[Music]",
+    "begin": "00:00:00.000",
+    "end": "00:00:02.780"
+  },
+  {
+    "text": "brett thank you very much for joining me",
+    "begin": "00:00:05.040",
+    "end": "00:00:09.280"
+  },
+  {
+    "text": "thanks for having me so we're going to",
+    "begin": "00:00:07.200",
+    "end": "00:00:12.400"
+  },
+  {
+    "text": "talk about the unity 2020",
+    "begin": "00:00:09.280",
+    "end": "00:00:15.040"
+  },
+  {
+    "text": "plan uh which maybe some people watching",
+    "begin": "00:00:12.400",
+    "end": "00:00:16.720"
+  },
+  {
+    "text": "this will have already been aware of",
+    "begin": "00:00:15.040",
+    "end": "00:00:18.480"
+  },
+  {
+    "text": "but i want to do it from a perspective",
+    "begin": "00:00:16.720",
+    "end": "00:00:20.400"
+  },
+  {
+    "text": "that viewers of",
+    "begin": "00:00:18.480",
+    "end": "00:00:21.840"
+  },
+  {
+    "text": "rebel wisdom and probably viewers of",
+    "begin": "00:00:20.400",
+    "end": "00:00:23.600"
+  },
+  {
+    "text": "your podcast will be familiar with which",
+    "begin": "00:00:21.840",
+    "end": "00:00:25.680"
+  },
+  {
+    "text": "is this idea of the game b",
+    "begin": "00:00:23.600",
+    "end": "00:00:29.199"
+  },
+  {
+    "text": "and game a dynamic game a being",
+    "begin": "00:00:25.680",
+    "end": "00:00:31.679"
+  },
+  {
+    "text": "the current system and there's all sorts",
+    "begin": "00:00:29.199",
+    "end": "00:00:33.840"
+  },
+  {
+    "text": "of game theoretic traps there are there",
+    "begin": "00:00:31.679",
+    "end": "00:00:34.640"
+  },
+  {
+    "text": "are traps",
+    "begin": "00:00:33.840",
+    "end": "00:00:36.800"
+  },
+  {
+    "text": "for example the race to the bottom uh",
+    "begin": "00:00:34.640",
+    "end": "00:00:38.320"
+  },
+  {
+    "text": "the tragedy of the commons",
+    "begin": "00:00:36.800",
+    "end": "00:00:39.920"
+  },
+  {
+    "text": "you've outlined that a lot in a lot of",
+    "begin": "00:00:38.320",
+    "end": "00:00:41.360"
+  },
+  {
+    "text": "your previous work",
+    "begin": "00:00:39.920",
+    "end": "00:00:44.239"
+  },
+  {
+    "text": "and there's a group of people uh that",
+    "begin": "00:00:41.360",
+    "end": "00:00:45.120"
+  },
+  {
+    "text": "have been looking at",
+    "begin": "00:00:44.239",
+    "end": "00:00:46.800"
+  },
+  {
+    "text": "society through that framework and",
+    "begin": "00:00:45.120",
+    "end": "00:00:49.039"
+  },
+  {
+    "text": "saying okay the entire source code",
+    "begin": "00:00:46.800",
+    "end": "00:00:52.160"
+  },
+  {
+    "text": "of this game a structure is",
+    "begin": "00:00:49.039",
+    "end": "00:00:54.079"
+  },
+  {
+    "text": "self-terminating in many ways",
+    "begin": "00:00:52.160",
+    "end": "00:00:55.520"
+  },
+  {
+    "text": "and you can look at the choices that",
+    "begin": "00:00:54.079",
+    "end": "00:00:57.520"
+  },
+  {
+    "text": "have been presented in the 2020 election",
+    "begin": "00:00:55.520",
+    "end": "00:00:59.120"
+  },
+  {
+    "text": "as evidence of",
+    "begin": "00:00:57.520",
+    "end": "00:01:00.719"
+  },
+  {
+    "text": "this system becoming more and more",
+    "begin": "00:00:59.120",
+    "end": "00:01:02.399"
+  },
+  {
+    "text": "dysfunctional",
+    "begin": "00:01:00.719",
+    "end": "00:01:06.000"
+  },
+  {
+    "text": "and then game b is a placeholder for a",
+    "begin": "00:01:02.399",
+    "end": "00:01:07.439"
+  },
+  {
+    "text": "different system like there's all sorts",
+    "begin": "00:01:06.000",
+    "end": "00:01:08.000"
+  },
+  {
+    "text": "of game b",
+    "begin": "00:01:07.439",
+    "end": "00:01:11.200"
+  },
+  {
+    "text": "projects and they the",
+    "begin": "00:01:08.000",
+    "end": "00:01:12.880"
+  },
+  {
+    "text": "the main features they have is that they",
+    "begin": "00:01:11.200",
+    "end": "00:01:15.360"
+  },
+  {
+    "text": "deal with some of the traps of a game a",
+    "begin": "00:01:12.880",
+    "end": "00:01:16.640"
+  },
+  {
+    "text": "system",
+    "begin": "00:01:15.360",
+    "end": "00:01:20.640"
+  },
+  {
+    "text": "given that would you describe unity 2020",
+    "begin": "00:01:16.640",
+    "end": "00:01:21.520"
+  },
+  {
+    "text": "as a game b",
+    "begin": "00:01:20.640",
+    "end": "00:01:23.520"
+  },
+  {
+    "text": "project it's certainly an attempt to",
+    "begin": "00:01:21.520",
+    "end": "00:01:25.040"
+  },
+  {
+    "text": "create a a game b",
+    "begin": "00:01:23.520",
+    "end": "00:01:28.240"
+  },
+  {
+    "text": "project in political space it is",
+    "begin": "00:01:25.040",
+    "end": "00:01:29.600"
+  },
+  {
+    "text": "obviously",
+    "begin": "00:01:28.240",
+    "end": "00:01:33.520"
+  },
+  {
+    "text": "built to defeat the duopoly",
+    "begin": "00:01:29.600",
+    "end": "00:01:36.079"
+  },
+  {
+    "text": "on the duopoly's home turf so almost by",
+    "begin": "00:01:33.520",
+    "end": "00:01:38.079"
+  },
+  {
+    "text": "definition this is a game b",
+    "begin": "00:01:36.079",
+    "end": "00:01:40.320"
+  },
+  {
+    "text": "whether or not it can succeed and",
+    "begin": "00:01:38.079",
+    "end": "00:01:42.079"
+  },
+  {
+    "text": "whether it is long-term stable",
+    "begin": "00:01:40.320",
+    "end": "00:01:45.439"
+  },
+  {
+    "text": "is harder to tell i would say",
+    "begin": "00:01:42.079",
+    "end": "00:01:47.680"
+  },
+  {
+    "text": "one thing that is very clear from the",
+    "begin": "00:01:45.439",
+    "end": "00:01:49.759"
+  },
+  {
+    "text": "inside of the unity movement",
+    "begin": "00:01:47.680",
+    "end": "00:01:52.000"
+  },
+  {
+    "text": "is just how much the duopoly is",
+    "begin": "00:01:49.759",
+    "end": "00:01:54.159"
+  },
+  {
+    "text": "depending on its ability to bar",
+    "begin": "00:01:52.000",
+    "end": "00:01:57.360"
+  },
+  {
+    "text": "competitors from the landscape as you",
+    "begin": "00:01:54.159",
+    "end": "00:02:01.200"
+  },
+  {
+    "text": "point out in your introduction to unity",
+    "begin": "00:01:57.360",
+    "end": "00:02:03.840"
+  },
+  {
+    "text": "the major parties have delivered us",
+    "begin": "00:02:01.200",
+    "end": "00:02:05.119"
+  },
+  {
+    "text": "offerings that are",
+    "begin": "00:02:03.840",
+    "end": "00:02:07.439"
+  },
+  {
+    "text": "absolutely preposterous and would seem",
+    "begin": "00:02:05.119",
+    "end": "00:02:08.319"
+  },
+  {
+    "text": "to leave",
+    "begin": "00:02:07.439",
+    "end": "00:02:10.640"
+  },
+  {
+    "text": "those parties open to challenge from",
+    "begin": "00:02:08.319",
+    "end": "00:02:12.400"
+  },
+  {
+    "text": "anybody who could muster",
+    "begin": "00:02:10.640",
+    "end": "00:02:15.280"
+  },
+  {
+    "text": "a better ticket but the obstacles to",
+    "begin": "00:02:12.400",
+    "end": "00:02:16.160"
+  },
+  {
+    "text": "doing so",
+    "begin": "00:02:15.280",
+    "end": "00:02:19.200"
+  },
+  {
+    "text": "are absolutely ferocious",
+    "begin": "00:02:16.160",
+    "end": "00:02:22.879"
+  },
+  {
+    "text": "and that is the question can something",
+    "begin": "00:02:19.200",
+    "end": "00:02:25.840"
+  },
+  {
+    "text": "like unity that is structurally built to",
+    "begin": "00:02:22.879",
+    "end": "00:02:28.400"
+  },
+  {
+    "text": "defeat the arguments that prevent",
+    "begin": "00:02:25.840",
+    "end": "00:02:31.040"
+  },
+  {
+    "text": "uh anything from outside of the duopoly",
+    "begin": "00:02:28.400",
+    "end": "00:02:32.319"
+  },
+  {
+    "text": "from functioning",
+    "begin": "00:02:31.040",
+    "end": "00:02:35.440"
+  },
+  {
+    "text": "is that new structure sufficient",
+    "begin": "00:02:32.319",
+    "end": "00:02:39.360"
+  },
+  {
+    "text": "to break in could you summarize what you",
+    "begin": "00:02:35.440",
+    "end": "00:02:40.400"
+  },
+  {
+    "text": "think of the game b",
+    "begin": "00:02:39.360",
+    "end": "00:02:43.040"
+  },
+  {
+    "text": "dynamics and the game a dynamic that",
+    "begin": "00:02:40.400",
+    "end": "00:02:43.920"
+  },
+  {
+    "text": "this is kind of",
+    "begin": "00:02:43.040",
+    "end": "00:02:47.040"
+  },
+  {
+    "text": "designed to deal with",
+    "begin": "00:02:43.920",
+    "end": "00:02:50.879"
+  },
+  {
+    "text": "sure the first thing i would say is that",
+    "begin": "00:02:47.040",
+    "end": "00:02:54.800"
+  },
+  {
+    "text": "this election in the u.s is revealing",
+    "begin": "00:02:50.879",
+    "end": "00:02:58.319"
+  },
+  {
+    "text": "that the key feature that allows",
+    "begin": "00:02:54.800",
+    "end": "00:03:01.519"
+  },
+  {
+    "text": "the major parties to survive is their",
+    "begin": "00:02:58.319",
+    "end": "00:03:02.879"
+  },
+  {
+    "text": "ability to bar",
+    "begin": "00:03:01.519",
+    "end": "00:03:05.280"
+  },
+  {
+    "text": "entry to anything that has the capacity",
+    "begin": "00:03:02.879",
+    "end": "00:03:06.720"
+  },
+  {
+    "text": "to challenge them",
+    "begin": "00:03:05.280",
+    "end": "00:03:09.680"
+  },
+  {
+    "text": "so on the democratic side in particular",
+    "begin": "00:03:06.720",
+    "end": "00:03:11.120"
+  },
+  {
+    "text": "we're seeing",
+    "begin": "00:03:09.680",
+    "end": "00:03:14.560"
+  },
+  {
+    "text": "a party that refuses to articulate",
+    "begin": "00:03:11.120",
+    "end": "00:03:17.680"
+  },
+  {
+    "text": "any positive vision refuses to advance",
+    "begin": "00:03:14.560",
+    "end": "00:03:20.959"
+  },
+  {
+    "text": "candidates that catalyze the imagination",
+    "begin": "00:03:17.680",
+    "end": "00:03:24.560"
+  },
+  {
+    "text": "and is running entirely on the argument",
+    "begin": "00:03:20.959",
+    "end": "00:03:27.680"
+  },
+  {
+    "text": "that it is the only reasonable vote",
+    "begin": "00:03:24.560",
+    "end": "00:03:31.040"
+  },
+  {
+    "text": "in light of the opposition so",
+    "begin": "00:03:27.680",
+    "end": "00:03:33.120"
+  },
+  {
+    "text": "that is not a strong position",
+    "begin": "00:03:31.040",
+    "end": "00:03:34.480"
+  },
+  {
+    "text": "electorally",
+    "begin": "00:03:33.120",
+    "end": "00:03:38.080"
+  },
+  {
+    "text": "it is in fact very easy to come up with",
+    "begin": "00:03:34.480",
+    "end": "00:03:40.319"
+  },
+  {
+    "text": "candidates who do catalyze the",
+    "begin": "00:03:38.080",
+    "end": "00:03:42.879"
+  },
+  {
+    "text": "imagination to come up with policies",
+    "begin": "00:03:40.319",
+    "end": "00:03:45.680"
+  },
+  {
+    "text": "that are popular to come up with",
+    "begin": "00:03:42.879",
+    "end": "00:03:47.440"
+  },
+  {
+    "text": "strategies that are more",
+    "begin": "00:03:45.680",
+    "end": "00:03:50.640"
+  },
+  {
+    "text": "nimble what is impossible to do is to",
+    "begin": "00:03:47.440",
+    "end": "00:03:52.400"
+  },
+  {
+    "text": "get a seat at the table",
+    "begin": "00:03:50.640",
+    "end": "00:03:54.480"
+  },
+  {
+    "text": "which would allow you to compete head to",
+    "begin": "00:03:52.400",
+    "end": "00:03:56.159"
+  },
+  {
+    "text": "head with the feeble",
+    "begin": "00:03:54.480",
+    "end": "00:03:59.519"
+  },
+  {
+    "text": "offerings of the major parties so",
+    "begin": "00:03:56.159",
+    "end": "00:04:03.599"
+  },
+  {
+    "text": "first and foremost unity is a project",
+    "begin": "00:03:59.519",
+    "end": "00:04:06.879"
+  },
+  {
+    "text": "that attacks the primary",
+    "begin": "00:04:03.599",
+    "end": "00:04:09.680"
+  },
+  {
+    "text": "obstacle to what are typically described",
+    "begin": "00:04:06.879",
+    "end": "00:04:11.840"
+  },
+  {
+    "text": "as third-party offerings now unity is",
+    "begin": "00:04:09.680",
+    "end": "00:04:13.760"
+  },
+  {
+    "text": "not a party but nonetheless it runs up",
+    "begin": "00:04:11.840",
+    "end": "00:04:15.120"
+  },
+  {
+    "text": "against the bulwark",
+    "begin": "00:04:13.760",
+    "end": "00:04:16.560"
+  },
+  {
+    "text": "that is designed to prevent other",
+    "begin": "00:04:15.120",
+    "end": "00:04:18.959"
+  },
+  {
+    "text": "parties from challenging the duopoly",
+    "begin": "00:04:16.560",
+    "end": "00:04:22.240"
+  },
+  {
+    "text": "and that that primary weapon is the",
+    "begin": "00:04:18.959",
+    "end": "00:04:23.280"
+  },
+  {
+    "text": "argument",
+    "begin": "00:04:22.240",
+    "end": "00:04:26.240"
+  },
+  {
+    "text": "that if your values are over here and",
+    "begin": "00:04:23.280",
+    "end": "00:04:28.320"
+  },
+  {
+    "text": "you marshal a third party that's over",
+    "begin": "00:04:26.240",
+    "end": "00:04:29.680"
+  },
+  {
+    "text": "here you will rob",
+    "begin": "00:04:28.320",
+    "end": "00:04:31.440"
+  },
+  {
+    "text": "the major party that's closer to your",
+    "begin": "00:04:29.680",
+    "end": "00:04:33.040"
+  },
+  {
+    "text": "values and empower the one that's",
+    "begin": "00:04:31.440",
+    "end": "00:04:35.120"
+  },
+  {
+    "text": "farther away so what you do will be",
+    "begin": "00:04:33.040",
+    "end": "00:04:36.400"
+  },
+  {
+    "text": "counterproductive",
+    "begin": "00:04:35.120",
+    "end": "00:04:39.120"
+  },
+  {
+    "text": "because you will elect the greater evil",
+    "begin": "00:04:36.400",
+    "end": "00:04:40.080"
+  },
+  {
+    "text": "the key",
+    "begin": "00:04:39.120",
+    "end": "00:04:42.800"
+  },
+  {
+    "text": "dynamic inside of the unity proposal is",
+    "begin": "00:04:40.080",
+    "end": "00:04:43.840"
+  },
+  {
+    "text": "that we take",
+    "begin": "00:04:42.800",
+    "end": "00:04:48.000"
+  },
+  {
+    "text": "a uh a draft e from the left and a draft",
+    "begin": "00:04:43.840",
+    "end": "00:04:48.479"
+  },
+  {
+    "text": "e",
+    "begin": "00:04:48.000",
+    "end": "00:04:50.880"
+  },
+  {
+    "text": "from the right and we bring them",
+    "begin": "00:04:48.479",
+    "end": "00:04:52.720"
+  },
+  {
+    "text": "together under an agreement",
+    "begin": "00:04:50.880",
+    "end": "00:04:55.919"
+  },
+  {
+    "text": "that they would rule by consensus and so",
+    "begin": "00:04:52.720",
+    "end": "00:04:56.720"
+  },
+  {
+    "text": "you can't",
+    "begin": "00:04:55.919",
+    "end": "00:05:00.080"
+  },
+  {
+    "text": "place unity on the political spectrum",
+    "begin": "00:04:56.720",
+    "end": "00:05:01.360"
+  },
+  {
+    "text": "because it's apolitical",
+    "begin": "00:05:00.080",
+    "end": "00:05:04.720"
+  },
+  {
+    "text": "it's not ideological and because of that",
+    "begin": "00:05:01.360",
+    "end": "00:05:07.440"
+  },
+  {
+    "text": "the argument that you will empower the",
+    "begin": "00:05:04.720",
+    "end": "00:05:09.680"
+  },
+  {
+    "text": "greater evil by deploying this strategy",
+    "begin": "00:05:07.440",
+    "end": "00:05:11.440"
+  },
+  {
+    "text": "and therefore are morally required not",
+    "begin": "00:05:09.680",
+    "end": "00:05:13.759"
+  },
+  {
+    "text": "to deploy it that argument falls flat",
+    "begin": "00:05:11.440",
+    "end": "00:05:16.400"
+  },
+  {
+    "text": "for anybody who's tracking the analytics",
+    "begin": "00:05:13.759",
+    "end": "00:05:18.160"
+  },
+  {
+    "text": "now interestingly",
+    "begin": "00:05:16.400",
+    "end": "00:05:20.800"
+  },
+  {
+    "text": "although the analytics fail many people",
+    "begin": "00:05:18.160",
+    "end": "00:05:22.080"
+  },
+  {
+    "text": "are emotionally",
+    "begin": "00:05:20.800",
+    "end": "00:05:25.680"
+  },
+  {
+    "text": "so wrapped up in the idea that somehow",
+    "begin": "00:05:22.080",
+    "end": "00:05:28.720"
+  },
+  {
+    "text": "this will spoil an election that they",
+    "begin": "00:05:25.680",
+    "end": "00:05:30.320"
+  },
+  {
+    "text": "won't even allow themselves to",
+    "begin": "00:05:28.720",
+    "end": "00:05:32.240"
+  },
+  {
+    "text": "contemplate the idea",
+    "begin": "00:05:30.320",
+    "end": "00:05:34.400"
+  },
+  {
+    "text": "so they have been traumatized by the",
+    "begin": "00:05:32.240",
+    "end": "00:05:36.479"
+  },
+  {
+    "text": "major parties they've watched people",
+    "begin": "00:05:34.400",
+    "end": "00:05:39.360"
+  },
+  {
+    "text": "like ralph nader and jill stein be",
+    "begin": "00:05:36.479",
+    "end": "00:05:40.320"
+  },
+  {
+    "text": "demonized",
+    "begin": "00:05:39.360",
+    "end": "00:05:42.800"
+  },
+  {
+    "text": "as the spoilers that elected the greater",
+    "begin": "00:05:40.320",
+    "end": "00:05:44.639"
+  },
+  {
+    "text": "evil and they don't want responsibility",
+    "begin": "00:05:42.800",
+    "end": "00:05:46.639"
+  },
+  {
+    "text": "so even though it is irrational to fear",
+    "begin": "00:05:44.639",
+    "end": "00:05:49.440"
+  },
+  {
+    "text": "unity on this basis people still do at",
+    "begin": "00:05:46.639",
+    "end": "00:05:50.720"
+  },
+  {
+    "text": "least some of them",
+    "begin": "00:05:49.440",
+    "end": "00:05:52.800"
+  },
+  {
+    "text": "so just to kind of outline it it's two",
+    "begin": "00:05:50.720",
+    "end": "00:05:54.160"
+  },
+  {
+    "text": "candidates",
+    "begin": "00:05:52.800",
+    "end": "00:05:56.000"
+  },
+  {
+    "text": "uh ideally one from the right one from",
+    "begin": "00:05:54.160",
+    "end": "00:05:57.680"
+  },
+  {
+    "text": "the left who who are kind of",
+    "begin": "00:05:56.000",
+    "end": "00:06:00.000"
+  },
+  {
+    "text": "in joint making joint decisions through",
+    "begin": "00:05:57.680",
+    "end": "00:06:01.199"
+  },
+  {
+    "text": "consensus",
+    "begin": "00:06:00.000",
+    "end": "00:06:04.479"
+  },
+  {
+    "text": "how is that consensus enforced",
+    "begin": "00:06:01.199",
+    "end": "00:06:07.199"
+  },
+  {
+    "text": "wouldn't the president because once they",
+    "begin": "00:06:04.479",
+    "end": "00:06:08.080"
+  },
+  {
+    "text": "if they win",
+    "begin": "00:06:07.199",
+    "end": "00:06:09.360"
+  },
+  {
+    "text": "there's a coin toss and then the",
+    "begin": "00:06:08.080",
+    "end": "00:06:11.520"
+  },
+  {
+    "text": "president is chosen that way how how do",
+    "begin": "00:06:09.360",
+    "end": "00:06:12.479"
+  },
+  {
+    "text": "you avoid",
+    "begin": "00:06:11.520",
+    "end": "00:06:14.319"
+  },
+  {
+    "text": "the fact that the situation that the",
+    "begin": "00:06:12.479",
+    "end": "00:06:16.000"
+  },
+  {
+    "text": "president just has the kind of veto",
+    "begin": "00:06:14.319",
+    "end": "00:06:18.720"
+  },
+  {
+    "text": "power over those decisions",
+    "begin": "00:06:16.000",
+    "end": "00:06:21.520"
+  },
+  {
+    "text": "um well i would say first of all let me",
+    "begin": "00:06:18.720",
+    "end": "00:06:22.800"
+  },
+  {
+    "text": "just correct one thing they're not",
+    "begin": "00:06:21.520",
+    "end": "00:06:23.759"
+  },
+  {
+    "text": "candidates",
+    "begin": "00:06:22.800",
+    "end": "00:06:27.039"
+  },
+  {
+    "text": "what we have are potential draftees",
+    "begin": "00:06:23.759",
+    "end": "00:06:29.680"
+  },
+  {
+    "text": "this is phrased uh as a draft very",
+    "begin": "00:06:27.039",
+    "end": "00:06:30.560"
+  },
+  {
+    "text": "intentionally",
+    "begin": "00:06:29.680",
+    "end": "00:06:32.400"
+  },
+  {
+    "text": "because one of the things that we needed",
+    "begin": "00:06:30.560",
+    "end": "00:06:35.600"
+  },
+  {
+    "text": "to accomplish was",
+    "begin": "00:06:32.400",
+    "end": "00:06:39.440"
+  },
+  {
+    "text": "that the offerings had to not be limited",
+    "begin": "00:06:35.600",
+    "end": "00:06:42.479"
+  },
+  {
+    "text": "to those people who were",
+    "begin": "00:06:39.440",
+    "end": "00:06:44.400"
+  },
+  {
+    "text": "let's say independent of the bulwark",
+    "begin": "00:06:42.479",
+    "end": "00:06:46.639"
+  },
+  {
+    "text": "created by the duopoly",
+    "begin": "00:06:44.400",
+    "end": "00:06:48.560"
+  },
+  {
+    "text": "that is to say the best candidates had",
+    "begin": "00:06:46.639",
+    "end": "00:06:50.560"
+  },
+  {
+    "text": "to be chosen from the full",
+    "begin": "00:06:48.560",
+    "end": "00:06:53.680"
+  },
+  {
+    "text": "menu and that meant",
+    "begin": "00:06:50.560",
+    "end": "00:06:56.800"
+  },
+  {
+    "text": "that we couldn't seek their uh we",
+    "begin": "00:06:53.680",
+    "end": "00:06:57.919"
+  },
+  {
+    "text": "couldn't ask them to",
+    "begin": "00:06:56.800",
+    "end": "00:07:01.039"
+  },
+  {
+    "text": "run in advance of choosing who we",
+    "begin": "00:06:57.919",
+    "end": "00:07:03.520"
+  },
+  {
+    "text": "ideally wanted to draft",
+    "begin": "00:07:01.039",
+    "end": "00:07:07.120"
+  },
+  {
+    "text": "so in essence what we did was we ran",
+    "begin": "00:07:03.520",
+    "end": "00:07:10.639"
+  },
+  {
+    "text": "a poll to figure out who ideally we",
+    "begin": "00:07:07.120",
+    "end": "00:07:12.639"
+  },
+  {
+    "text": "wanted to see inhabit the office",
+    "begin": "00:07:10.639",
+    "end": "00:07:16.400"
+  },
+  {
+    "text": "and our hope was that having been drawn",
+    "begin": "00:07:12.639",
+    "end": "00:07:17.440"
+  },
+  {
+    "text": "from right and left",
+    "begin": "00:07:16.400",
+    "end": "00:07:21.199"
+  },
+  {
+    "text": "the constituency of unity which voted on",
+    "begin": "00:07:17.440",
+    "end": "00:07:22.720"
+  },
+  {
+    "text": "who we wish to draft",
+    "begin": "00:07:21.199",
+    "end": "00:07:25.759"
+  },
+  {
+    "text": "would choose people with the capacity to",
+    "begin": "00:07:22.720",
+    "end": "00:07:27.440"
+  },
+  {
+    "text": "work across",
+    "begin": "00:07:25.759",
+    "end": "00:07:29.759"
+  },
+  {
+    "text": "a political divide and the instinct to",
+    "begin": "00:07:27.440",
+    "end": "00:07:30.800"
+  },
+  {
+    "text": "do it",
+    "begin": "00:07:29.759",
+    "end": "00:07:32.720"
+  },
+  {
+    "text": "and we didn't know if it would work but",
+    "begin": "00:07:30.800",
+    "end": "00:07:34.479"
+  },
+  {
+    "text": "what we discovered was that it did",
+    "begin": "00:07:32.720",
+    "end": "00:07:38.000"
+  },
+  {
+    "text": "we got six people were",
+    "begin": "00:07:34.479",
+    "end": "00:07:41.120"
+  },
+  {
+    "text": "nominated for our draft and",
+    "begin": "00:07:38.000",
+    "end": "00:07:43.280"
+  },
+  {
+    "text": "three came from the left three came from",
+    "begin": "00:07:41.120",
+    "end": "00:07:44.639"
+  },
+  {
+    "text": "the right we then ran",
+    "begin": "00:07:43.280",
+    "end": "00:07:48.080"
+  },
+  {
+    "text": "a ranked choice vote to see which",
+    "begin": "00:07:44.639",
+    "end": "00:07:50.080"
+  },
+  {
+    "text": "ordering people preferred these tickets",
+    "begin": "00:07:48.080",
+    "end": "00:07:52.080"
+  },
+  {
+    "text": "in the top choice",
+    "begin": "00:07:50.080",
+    "end": "00:07:54.160"
+  },
+  {
+    "text": "turned out to be tulsi gabbard and dan",
+    "begin": "00:07:52.080",
+    "end": "00:07:55.280"
+  },
+  {
+    "text": "crenshaw",
+    "begin": "00:07:54.160",
+    "end": "00:07:57.360"
+  },
+  {
+    "text": "now it turns out tulsi gabbard and dan",
+    "begin": "00:07:55.280",
+    "end": "00:07:59.120"
+  },
+  {
+    "text": "crenshaw are friends",
+    "begin": "00:07:57.360",
+    "end": "00:08:01.280"
+  },
+  {
+    "text": "they are from opposite parties they",
+    "begin": "00:07:59.120",
+    "end": "00:08:02.879"
+  },
+  {
+    "text": "quite like each other and have no",
+    "begin": "00:08:01.280",
+    "end": "00:08:03.360"
+  },
+  {
+    "text": "trouble",
+    "begin": "00:08:02.879",
+    "end": "00:08:06.000"
+  },
+  {
+    "text": "working productively together so the",
+    "begin": "00:08:03.360",
+    "end": "00:08:07.120"
+  },
+  {
+    "text": "answer to your question",
+    "begin": "00:08:06.000",
+    "end": "00:08:10.639"
+  },
+  {
+    "text": "is that our guess at what one would have",
+    "begin": "00:08:07.120",
+    "end": "00:08:11.199"
+  },
+  {
+    "text": "to do",
+    "begin": "00:08:10.639",
+    "end": "00:08:13.520"
+  },
+  {
+    "text": "in order to find the ability to reach",
+    "begin": "00:08:11.199",
+    "end": "00:08:14.240"
+  },
+  {
+    "text": "consensus",
+    "begin": "00:08:13.520",
+    "end": "00:08:17.120"
+  },
+  {
+    "text": "worked beautifully and we couldn't be",
+    "begin": "00:08:14.240",
+    "end": "00:08:18.240"
+  },
+  {
+    "text": "happier",
+    "begin": "00:08:17.120",
+    "end": "00:08:20.160"
+  },
+  {
+    "text": "um that this ticket is the one that rose",
+    "begin": "00:08:18.240",
+    "end": "00:08:21.680"
+  },
+  {
+    "text": "to the top",
+    "begin": "00:08:20.160",
+    "end": "00:08:24.840"
+  },
+  {
+    "text": "have have they agreed to to be part of",
+    "begin": "00:08:21.680",
+    "end": "00:08:26.560"
+  },
+  {
+    "text": "it",
+    "begin": "00:08:24.840",
+    "end": "00:08:29.120"
+  },
+  {
+    "text": "uh no and in fact i would counsel them",
+    "begin": "00:08:26.560",
+    "end": "00:08:30.319"
+  },
+  {
+    "text": "not to agree",
+    "begin": "00:08:29.120",
+    "end": "00:08:32.880"
+  },
+  {
+    "text": "the fact is these are the best people we",
+    "begin": "00:08:30.319",
+    "end": "00:08:33.360"
+  },
+  {
+    "text": "have",
+    "begin": "00:08:32.880",
+    "end": "00:08:36.479"
+  },
+  {
+    "text": "in our system and because we are",
+    "begin": "00:08:33.360",
+    "end": "00:08:38.719"
+  },
+  {
+    "text": "patriotic americans we want them strong",
+    "begin": "00:08:36.479",
+    "end": "00:08:40.240"
+  },
+  {
+    "text": "irrespective of whether or not",
+    "begin": "00:08:38.719",
+    "end": "00:08:42.240"
+  },
+  {
+    "text": "this is in a unity context or in their",
+    "begin": "00:08:40.240",
+    "end": "00:08:43.680"
+  },
+  {
+    "text": "present context",
+    "begin": "00:08:42.240",
+    "end": "00:08:46.959"
+  },
+  {
+    "text": "so the the nature of the draft is that",
+    "begin": "00:08:43.680",
+    "end": "00:08:48.640"
+  },
+  {
+    "text": "we have to deliver",
+    "begin": "00:08:46.959",
+    "end": "00:08:52.720"
+  },
+  {
+    "text": "them something that",
+    "begin": "00:08:48.640",
+    "end": "00:08:55.040"
+  },
+  {
+    "text": "would justify they're taking the risk of",
+    "begin": "00:08:52.720",
+    "end": "00:08:56.080"
+  },
+  {
+    "text": "partnering with us",
+    "begin": "00:08:55.040",
+    "end": "00:08:58.240"
+  },
+  {
+    "text": "and that has not happened yet but our",
+    "begin": "00:08:56.080",
+    "end": "00:08:59.279"
+  },
+  {
+    "text": "hope is that it will",
+    "begin": "00:08:58.240",
+    "end": "00:09:01.760"
+  },
+  {
+    "text": "over the coming weeks i i've been",
+    "begin": "00:08:59.279",
+    "end": "00:09:03.040"
+  },
+  {
+    "text": "thinking about a kind of a good",
+    "begin": "00:09:01.760",
+    "end": "00:09:05.279"
+  },
+  {
+    "text": "definition of game a and game b and one",
+    "begin": "00:09:03.040",
+    "end": "00:09:06.480"
+  },
+  {
+    "text": "of the",
+    "begin": "00:09:05.279",
+    "end": "00:09:08.800"
+  },
+  {
+    "text": "i think one of the most compelling",
+    "begin": "00:09:06.480",
+    "end": "00:09:11.120"
+  },
+  {
+    "text": "visions of that is the the series the",
+    "begin": "00:09:08.800",
+    "end": "00:09:12.240"
+  },
+  {
+    "text": "wire",
+    "begin": "00:09:11.120",
+    "end": "00:09:14.399"
+  },
+  {
+    "text": "you familiar with that the the david",
+    "begin": "00:09:12.240",
+    "end": "00:09:15.279"
+  },
+  {
+    "text": "simon",
+    "begin": "00:09:14.399",
+    "end": "00:09:18.640"
+  },
+  {
+    "text": "series it is my favorite piece of",
+    "begin": "00:09:15.279",
+    "end": "00:09:19.600"
+  },
+  {
+    "text": "television ever",
+    "begin": "00:09:18.640",
+    "end": "00:09:21.200"
+  },
+  {
+    "text": "what i love about that is that it",
+    "begin": "00:09:19.600",
+    "end": "00:09:22.880"
+  },
+  {
+    "text": "demonstrates",
+    "begin": "00:09:21.200",
+    "end": "00:09:25.120"
+  },
+  {
+    "text": "that almost all of these power systems",
+    "begin": "00:09:22.880",
+    "end": "00:09:27.120"
+  },
+  {
+    "text": "create these compromises create these",
+    "begin": "00:09:25.120",
+    "end": "00:09:28.720"
+  },
+  {
+    "text": "kind of boxed in",
+    "begin": "00:09:27.120",
+    "end": "00:09:30.240"
+  },
+  {
+    "text": "uh situations whether you're part of the",
+    "begin": "00:09:28.720",
+    "end": "00:09:31.519"
+  },
+  {
+    "text": "police force or whether you're part of a",
+    "begin": "00:09:30.240",
+    "end": "00:09:32.800"
+  },
+  {
+    "text": "drug gang",
+    "begin": "00:09:31.519",
+    "end": "00:09:35.440"
+  },
+  {
+    "text": "you are no not free because of the the",
+    "begin": "00:09:32.800",
+    "end": "00:09:38.160"
+  },
+  {
+    "text": "nature of those systems",
+    "begin": "00:09:35.440",
+    "end": "00:09:40.560"
+  },
+  {
+    "text": "i think that's an excellent analysis and",
+    "begin": "00:09:38.160",
+    "end": "00:09:42.880"
+  },
+  {
+    "text": "by going through",
+    "begin": "00:09:40.560",
+    "end": "00:09:46.080"
+  },
+  {
+    "text": "one area after another",
+    "begin": "00:09:42.880",
+    "end": "00:09:48.160"
+  },
+  {
+    "text": "doing this by season it highlighted the",
+    "begin": "00:09:46.080",
+    "end": "00:09:49.760"
+  },
+  {
+    "text": "fact that it was basically the game",
+    "begin": "00:09:48.160",
+    "end": "00:09:52.000"
+  },
+  {
+    "text": "theory ruling each of these",
+    "begin": "00:09:49.760",
+    "end": "00:09:55.120"
+  },
+  {
+    "text": "uh each of these dynamics so yeah it's a",
+    "begin": "00:09:52.000",
+    "end": "00:09:56.160"
+  },
+  {
+    "text": "perfect analogy",
+    "begin": "00:09:55.120",
+    "end": "00:09:57.839"
+  },
+  {
+    "text": "if we use that as a kind of definition",
+    "begin": "00:09:56.160",
+    "end": "00:09:59.920"
+  },
+  {
+    "text": "of game a for me it's a perfect example",
+    "begin": "00:09:57.839",
+    "end": "00:10:00.399"
+  },
+  {
+    "text": "and it",
+    "begin": "00:09:59.920",
+    "end": "00:10:03.360"
+  },
+  {
+    "text": "it uses game theory to explain why",
+    "begin": "00:10:00.399",
+    "end": "00:10:04.000"
+  },
+  {
+    "text": "you'll know",
+    "begin": "00:10:03.360",
+    "end": "00:10:05.360"
+  },
+  {
+    "text": "you're not free for all of these",
+    "begin": "00:10:04.000",
+    "end": "00:10:06.640"
+  },
+  {
+    "text": "different reasons within these different",
+    "begin": "00:10:05.360",
+    "end": "00:10:07.760"
+  },
+  {
+    "text": "systems",
+    "begin": "00:10:06.640",
+    "end": "00:10:11.200"
+  },
+  {
+    "text": "um for for me it's interesting to look",
+    "begin": "00:10:07.760",
+    "end": "00:10:12.800"
+  },
+  {
+    "text": "at the situation that we're in",
+    "begin": "00:10:11.200",
+    "end": "00:10:15.600"
+  },
+  {
+    "text": "and in some ways trump did break the",
+    "begin": "00:10:12.800",
+    "end": "00:10:16.399"
+  },
+  {
+    "text": "duopoly",
+    "begin": "00:10:15.600",
+    "end": "00:10:19.120"
+  },
+  {
+    "text": "he came as an outsider from outside the",
+    "begin": "00:10:16.399",
+    "end": "00:10:20.720"
+  },
+  {
+    "text": "republican party",
+    "begin": "00:10:19.120",
+    "end": "00:10:23.839"
+  },
+  {
+    "text": "and would you would you agree with that",
+    "begin": "00:10:20.720",
+    "end": "00:10:24.240"
+  },
+  {
+    "text": "and i",
+    "begin": "00:10:23.839",
+    "end": "00:10:25.600"
+  },
+  {
+    "text": "i think it's really interesting to look",
+    "begin": "00:10:24.240",
+    "end": "00:10:27.279"
+  },
+  {
+    "text": "at trump as",
+    "begin": "00:10:25.600",
+    "end": "00:10:30.000"
+  },
+  {
+    "text": "for me a kind of herald at the end of",
+    "begin": "00:10:27.279",
+    "end": "00:10:30.800"
+  },
+  {
+    "text": "game a",
+    "begin": "00:10:30.000",
+    "end": "00:10:32.480"
+  },
+  {
+    "text": "like he seems to be a product of the end",
+    "begin": "00:10:30.800",
+    "end": "00:10:34.800"
+  },
+  {
+    "text": "of game a he's kind of",
+    "begin": "00:10:32.480",
+    "end": "00:10:36.959"
+  },
+  {
+    "text": "like a zero trust environment he's kind",
+    "begin": "00:10:34.800",
+    "end": "00:10:39.440"
+  },
+  {
+    "text": "of the prisoner's dilemma made flesh",
+    "begin": "00:10:36.959",
+    "end": "00:10:42.079"
+  },
+  {
+    "text": "for me as a kind of in a game theoretic",
+    "begin": "00:10:39.440",
+    "end": "00:10:43.120"
+  },
+  {
+    "text": "sense it's like if",
+    "begin": "00:10:42.079",
+    "end": "00:10:44.480"
+  },
+  {
+    "text": "if you devote yourself to anything",
+    "begin": "00:10:43.120",
+    "end": "00:10:46.480"
+  },
+  {
+    "text": "bigger than you yourself you're a sucker",
+    "begin": "00:10:44.480",
+    "end": "00:10:48.560"
+  },
+  {
+    "text": "as we saw recently with the with the",
+    "begin": "00:10:46.480",
+    "end": "00:10:49.680"
+  },
+  {
+    "text": "comments about the",
+    "begin": "00:10:48.560",
+    "end": "00:10:51.279"
+  },
+  {
+    "text": "the kind of the armed forces like he",
+    "begin": "00:10:49.680",
+    "end": "00:10:52.720"
+  },
+  {
+    "text": "just doesn't get the idea of anything",
+    "begin": "00:10:51.279",
+    "end": "00:10:54.000"
+  },
+  {
+    "text": "bigger than himself",
+    "begin": "00:10:52.720",
+    "end": "00:10:55.680"
+  },
+  {
+    "text": "which i'd like to follow this thread a",
+    "begin": "00:10:54.000",
+    "end": "00:10:57.360"
+  },
+  {
+    "text": "little bit what would you what would you",
+    "begin": "00:10:55.680",
+    "end": "00:10:58.800"
+  },
+  {
+    "text": "say to that",
+    "begin": "00:10:57.360",
+    "end": "00:11:00.880"
+  },
+  {
+    "text": "first of all i would say he absolutely",
+    "begin": "00:10:58.800",
+    "end": "00:11:02.320"
+  },
+  {
+    "text": "was a successful challenge to the",
+    "begin": "00:11:00.880",
+    "end": "00:11:03.040"
+  },
+  {
+    "text": "duopoly",
+    "begin": "00:11:02.320",
+    "end": "00:11:06.079"
+  },
+  {
+    "text": "he decapitated the gop and so one of the",
+    "begin": "00:11:03.040",
+    "end": "00:11:07.279"
+  },
+  {
+    "text": "reasons that",
+    "begin": "00:11:06.079",
+    "end": "00:11:09.839"
+  },
+  {
+    "text": "um explaining where we are is difficult",
+    "begin": "00:11:07.279",
+    "end": "00:11:11.680"
+  },
+  {
+    "text": "is that we are challenging the duopoly",
+    "begin": "00:11:09.839",
+    "end": "00:11:13.600"
+  },
+  {
+    "text": "but the duopoly has already",
+    "begin": "00:11:11.680",
+    "end": "00:11:17.600"
+  },
+  {
+    "text": "been reformed by trump who demonstrated",
+    "begin": "00:11:13.600",
+    "end": "00:11:19.200"
+  },
+  {
+    "text": "that it was possible",
+    "begin": "00:11:17.600",
+    "end": "00:11:21.839"
+  },
+  {
+    "text": "so unfortunately for the reasons you",
+    "begin": "00:11:19.200",
+    "end": "00:11:23.040"
+  },
+  {
+    "text": "just outlined",
+    "begin": "00:11:21.839",
+    "end": "00:11:26.720"
+  },
+  {
+    "text": "it was not a highly useful demonstration",
+    "begin": "00:11:23.040",
+    "end": "00:11:28.800"
+  },
+  {
+    "text": "in the sense of what followed the",
+    "begin": "00:11:26.720",
+    "end": "00:11:31.839"
+  },
+  {
+    "text": "payload of what was carried in",
+    "begin": "00:11:28.800",
+    "end": "00:11:34.880"
+  },
+  {
+    "text": "in place of the previous power structure",
+    "begin": "00:11:31.839",
+    "end": "00:11:38.480"
+  },
+  {
+    "text": "has been well maybe it's even generous",
+    "begin": "00:11:34.880",
+    "end": "00:11:38.959"
+  },
+  {
+    "text": "to say",
+    "begin": "00:11:38.480",
+    "end": "00:11:42.079"
+  },
+  {
+    "text": "a mixed bag but the",
+    "begin": "00:11:38.959",
+    "end": "00:11:45.440"
+  },
+  {
+    "text": "proof of concept that it is possible",
+    "begin": "00:11:42.079",
+    "end": "00:11:49.440"
+  },
+  {
+    "text": "was very powerful and you know i think",
+    "begin": "00:11:45.440",
+    "end": "00:11:53.279"
+  },
+  {
+    "text": "what we saw in 2016 was a",
+    "begin": "00:11:49.440",
+    "end": "00:11:55.440"
+  },
+  {
+    "text": "real challenge to both sides of the",
+    "begin": "00:11:53.279",
+    "end": "00:11:56.560"
+  },
+  {
+    "text": "duopoly",
+    "begin": "00:11:55.440",
+    "end": "00:11:58.399"
+  },
+  {
+    "text": "in the form of bernie sanders on the",
+    "begin": "00:11:56.560",
+    "end": "00:12:00.959"
+  },
+  {
+    "text": "left and donald trump on the right",
+    "begin": "00:11:58.399",
+    "end": "00:12:03.920"
+  },
+  {
+    "text": "now bernie sanders almost made it but",
+    "begin": "00:12:00.959",
+    "end": "00:12:05.600"
+  },
+  {
+    "text": "his constraints were greater",
+    "begin": "00:12:03.920",
+    "end": "00:12:07.760"
+  },
+  {
+    "text": "as you point out bernie sanders well you",
+    "begin": "00:12:05.600",
+    "end": "00:12:09.360"
+  },
+  {
+    "text": "don't point this out about bernie but",
+    "begin": "00:12:07.760",
+    "end": "00:12:10.160"
+  },
+  {
+    "text": "you point out",
+    "begin": "00:12:09.360",
+    "end": "00:12:12.480"
+  },
+  {
+    "text": "trump doesn't have obligation to things",
+    "begin": "00:12:10.160",
+    "end": "00:12:14.240"
+  },
+  {
+    "text": "larger than himself and",
+    "begin": "00:12:12.480",
+    "end": "00:12:17.360"
+  },
+  {
+    "text": "that frees him maximally to do whatever",
+    "begin": "00:12:14.240",
+    "end": "00:12:18.480"
+  },
+  {
+    "text": "is necessary",
+    "begin": "00:12:17.360",
+    "end": "00:12:21.760"
+  },
+  {
+    "text": "to move forward bernie sanders is",
+    "begin": "00:12:18.480",
+    "end": "00:12:24.160"
+  },
+  {
+    "text": "committed to certain moral principles",
+    "begin": "00:12:21.760",
+    "end": "00:12:25.040"
+  },
+  {
+    "text": "and as such",
+    "begin": "00:12:24.160",
+    "end": "00:12:28.079"
+  },
+  {
+    "text": "in the end he fell on his sword you know",
+    "begin": "00:12:25.040",
+    "end": "00:12:30.480"
+  },
+  {
+    "text": "what i think is a mistaken attempt to",
+    "begin": "00:12:28.079",
+    "end": "00:12:32.480"
+  },
+  {
+    "text": "to adhere to those principles but",
+    "begin": "00:12:30.480",
+    "end": "00:12:33.600"
+  },
+  {
+    "text": "nonetheless",
+    "begin": "00:12:32.480",
+    "end": "00:12:35.920"
+  },
+  {
+    "text": "the democratic side of the duopoly has",
+    "begin": "00:12:33.600",
+    "end": "00:12:38.480"
+  },
+  {
+    "text": "been more successful at preventing",
+    "begin": "00:12:35.920",
+    "end": "00:12:39.839"
+  },
+  {
+    "text": "insurgents from breaking its",
+    "begin": "00:12:38.480",
+    "end": "00:12:42.000"
+  },
+  {
+    "text": "stranglehold leading to the absolutely",
+    "begin": "00:12:39.839",
+    "end": "00:12:43.279"
+  },
+  {
+    "text": "absurd",
+    "begin": "00:12:42.000",
+    "end": "00:12:46.720"
+  },
+  {
+    "text": "2020 situation of",
+    "begin": "00:12:43.279",
+    "end": "00:12:49.839"
+  },
+  {
+    "text": "two candidates neither of which inspire",
+    "begin": "00:12:46.720",
+    "end": "00:12:52.880"
+  },
+  {
+    "text": "anyone with no proposal about how to",
+    "begin": "00:12:49.839",
+    "end": "00:12:53.839"
+  },
+  {
+    "text": "make things",
+    "begin": "00:12:52.880",
+    "end": "00:12:56.079"
+  },
+  {
+    "text": "better and one of them clearly",
+    "begin": "00:12:53.839",
+    "end": "00:12:57.920"
+  },
+  {
+    "text": "evidencing signs of",
+    "begin": "00:12:56.079",
+    "end": "00:13:00.000"
+  },
+  {
+    "text": "cognitive failure i mean if you wrote",
+    "begin": "00:12:57.920",
+    "end": "00:13:01.920"
+  },
+  {
+    "text": "this as a script people wouldn't buy it",
+    "begin": "00:13:00.000",
+    "end": "00:13:03.839"
+  },
+  {
+    "text": "it's not even plausible and yet here we",
+    "begin": "00:13:01.920",
+    "end": "00:13:04.399"
+  },
+  {
+    "text": "are",
+    "begin": "00:13:03.839",
+    "end": "00:13:06.399"
+  },
+  {
+    "text": "and what's your concern if trump wins",
+    "begin": "00:13:04.399",
+    "end": "00:13:08.000"
+  },
+  {
+    "text": "then",
+    "begin": "00:13:06.399",
+    "end": "00:13:10.720"
+  },
+  {
+    "text": "i have tremendous concerns if trump wins",
+    "begin": "00:13:08.000",
+    "end": "00:13:12.079"
+  },
+  {
+    "text": "for one thing",
+    "begin": "00:13:10.720",
+    "end": "00:13:15.920"
+  },
+  {
+    "text": "the what we have unfolding in the u.s",
+    "begin": "00:13:12.079",
+    "end": "00:13:18.160"
+  },
+  {
+    "text": "and really i think in the west",
+    "begin": "00:13:15.920",
+    "end": "00:13:22.160"
+  },
+  {
+    "text": "at a larger scale is a competition",
+    "begin": "00:13:18.160",
+    "end": "00:13:25.360"
+  },
+  {
+    "text": "between two narratives both of which are",
+    "begin": "00:13:22.160",
+    "end": "00:13:28.959"
+  },
+  {
+    "text": "wrong and the unrest in",
+    "begin": "00:13:25.360",
+    "end": "00:13:32.720"
+  },
+  {
+    "text": "the american streets is predicated on",
+    "begin": "00:13:28.959",
+    "end": "00:13:34.880"
+  },
+  {
+    "text": "the idea that",
+    "begin": "00:13:32.720",
+    "end": "00:13:38.240"
+  },
+  {
+    "text": "white supremacy is rampant and",
+    "begin": "00:13:34.880",
+    "end": "00:13:39.920"
+  },
+  {
+    "text": "riddled throughout our system that it",
+    "begin": "00:13:38.240",
+    "end": "00:13:42.320"
+  },
+  {
+    "text": "hides behind every corner that it is",
+    "begin": "00:13:39.920",
+    "end": "00:13:45.279"
+  },
+  {
+    "text": "in every white mind that's obvious",
+    "begin": "00:13:42.320",
+    "end": "00:13:46.959"
+  },
+  {
+    "text": "nonsense but",
+    "begin": "00:13:45.279",
+    "end": "00:13:50.720"
+  },
+  {
+    "text": "the fact of that accusation now being",
+    "begin": "00:13:46.959",
+    "end": "00:13:51.360"
+  },
+  {
+    "text": "leveled",
+    "begin": "00:13:50.720",
+    "end": "00:13:53.600"
+  },
+  {
+    "text": "and with quite a bit of stigmatizing",
+    "begin": "00:13:51.360",
+    "end": "00:13:55.040"
+  },
+  {
+    "text": "power",
+    "begin": "00:13:53.600",
+    "end": "00:13:56.720"
+  },
+  {
+    "text": "level leveled against anybody who",
+    "begin": "00:13:55.040",
+    "end": "00:14:00.160"
+  },
+  {
+    "text": "resists it this is going to drive",
+    "begin": "00:13:56.720",
+    "end": "00:14:02.560"
+  },
+  {
+    "text": "white people together it's going to",
+    "begin": "00:14:00.160",
+    "end": "00:14:04.639"
+  },
+  {
+    "text": "drive the very racism",
+    "begin": "00:14:02.560",
+    "end": "00:14:07.920"
+  },
+  {
+    "text": "that is claimed to exist already",
+    "begin": "00:14:04.639",
+    "end": "00:14:11.040"
+  },
+  {
+    "text": "and that racism will find",
+    "begin": "00:14:07.920",
+    "end": "00:14:14.320"
+  },
+  {
+    "text": "safe harbor in a",
+    "begin": "00:14:11.040",
+    "end": "00:14:17.360"
+  },
+  {
+    "text": "uh trumpian gop",
+    "begin": "00:14:14.320",
+    "end": "00:14:19.440"
+  },
+  {
+    "text": "milieu where it hasn't been at home in",
+    "begin": "00:14:17.360",
+    "end": "00:14:20.639"
+  },
+  {
+    "text": "some time",
+    "begin": "00:14:19.440",
+    "end": "00:14:22.720"
+  },
+  {
+    "text": "the way that the media frames trump sort",
+    "begin": "00:14:20.639",
+    "end": "00:14:24.079"
+  },
+  {
+    "text": "of seems to be as kind of",
+    "begin": "00:14:22.720",
+    "end": "00:14:26.000"
+  },
+  {
+    "text": "orange hitler like he's got some kind of",
+    "begin": "00:14:24.079",
+    "end": "00:14:27.440"
+  },
+  {
+    "text": "big authoritarian plan",
+    "begin": "00:14:26.000",
+    "end": "00:14:31.040"
+  },
+  {
+    "text": "i think people sense",
+    "begin": "00:14:27.440",
+    "end": "00:14:33.920"
+  },
+  {
+    "text": "that that's not probably not true",
+    "begin": "00:14:31.040",
+    "end": "00:14:35.199"
+  },
+  {
+    "text": "because trump doesn't have any kind of a",
+    "begin": "00:14:33.920",
+    "end": "00:14:36.000"
+  },
+  {
+    "text": "plan",
+    "begin": "00:14:35.199",
+    "end": "00:14:37.839"
+  },
+  {
+    "text": "but my concern is that the nature of",
+    "begin": "00:14:36.000",
+    "end": "00:14:39.760"
+  },
+  {
+    "text": "trump's psychology",
+    "begin": "00:14:37.839",
+    "end": "00:14:41.839"
+  },
+  {
+    "text": "could lead him in that direction through",
+    "begin": "00:14:39.760",
+    "end": "00:14:44.399"
+  },
+  {
+    "text": "pure naked self-interest",
+    "begin": "00:14:41.839",
+    "end": "00:14:46.399"
+  },
+  {
+    "text": "and because there's a tremendous",
+    "begin": "00:14:44.399",
+    "end": "00:14:48.399"
+  },
+  {
+    "text": "opportunity that will be generated by",
+    "begin": "00:14:46.399",
+    "end": "00:14:49.360"
+  },
+  {
+    "text": "the lunacy",
+    "begin": "00:14:48.399",
+    "end": "00:14:52.399"
+  },
+  {
+    "text": "on the left a couple of years ago i put",
+    "begin": "00:14:49.360",
+    "end": "00:14:53.360"
+  },
+  {
+    "text": "out a video",
+    "begin": "00:14:52.399",
+    "end": "00:14:55.519"
+  },
+  {
+    "text": "i think the title of it was speak of the",
+    "begin": "00:14:53.360",
+    "end": "00:14:58.160"
+  },
+  {
+    "text": "devil and it was about this very process",
+    "begin": "00:14:55.519",
+    "end": "00:15:01.600"
+  },
+  {
+    "text": "where in leveling false",
+    "begin": "00:14:58.160",
+    "end": "00:15:04.800"
+  },
+  {
+    "text": "accusations about the degree of white",
+    "begin": "00:15:01.600",
+    "end": "00:15:06.320"
+  },
+  {
+    "text": "supremacy for example",
+    "begin": "00:15:04.800",
+    "end": "00:15:09.360"
+  },
+  {
+    "text": "in the u.s that the",
+    "begin": "00:15:06.320",
+    "end": "00:15:12.800"
+  },
+  {
+    "text": "foolishness on the democratic side",
+    "begin": "00:15:09.360",
+    "end": "00:15:16.560"
+  },
+  {
+    "text": "would cause people on the republican",
+    "begin": "00:15:12.800",
+    "end": "00:15:18.720"
+  },
+  {
+    "text": "side to begin to view the world in",
+    "begin": "00:15:16.560",
+    "end": "00:15:21.519"
+  },
+  {
+    "text": "exactly those terms and it would create",
+    "begin": "00:15:18.720",
+    "end": "00:15:25.199"
+  },
+  {
+    "text": "a revival of",
+    "begin": "00:15:21.519",
+    "end": "00:15:28.639"
+  },
+  {
+    "text": "white racism in the u.s that has been",
+    "begin": "00:15:25.199",
+    "end": "00:15:30.959"
+  },
+  {
+    "text": "close to flickering out for several",
+    "begin": "00:15:28.639",
+    "end": "00:15:32.480"
+  },
+  {
+    "text": "decades now",
+    "begin": "00:15:30.959",
+    "end": "00:15:35.519"
+  },
+  {
+    "text": "so i have this fear exactly that a",
+    "begin": "00:15:32.480",
+    "end": "00:15:38.720"
+  },
+  {
+    "text": "an opportunist like trump",
+    "begin": "00:15:35.519",
+    "end": "00:15:42.399"
+  },
+  {
+    "text": "will find himself behaving in exactly",
+    "begin": "00:15:38.720",
+    "end": "00:15:43.199"
+  },
+  {
+    "text": "the way",
+    "begin": "00:15:42.399",
+    "end": "00:15:46.320"
+  },
+  {
+    "text": "that he has been accused of planning and",
+    "begin": "00:15:43.199",
+    "end": "00:15:48.959"
+  },
+  {
+    "text": "clearly wasn't planning we're now almost",
+    "begin": "00:15:46.320",
+    "end": "00:15:51.360"
+  },
+  {
+    "text": "four years into",
+    "begin": "00:15:48.959",
+    "end": "00:15:54.880"
+  },
+  {
+    "text": "the trump presidency and uh it hasn't",
+    "begin": "00:15:51.360",
+    "end": "00:15:58.000"
+  },
+  {
+    "text": "been a case of the rise of a new hitler",
+    "begin": "00:15:54.880",
+    "end": "00:15:59.360"
+  },
+  {
+    "text": "and the left has",
+    "begin": "00:15:58.000",
+    "end": "00:16:01.360"
+  },
+  {
+    "text": "not admitted this which it really it's",
+    "begin": "00:15:59.360",
+    "end": "00:16:02.639"
+  },
+  {
+    "text": "about time that it did",
+    "begin": "00:16:01.360",
+    "end": "00:16:04.480"
+  },
+  {
+    "text": "and it also points to something i think",
+    "begin": "00:16:02.639",
+    "end": "00:16:05.759"
+  },
+  {
+    "text": "that",
+    "begin": "00:16:04.480",
+    "end": "00:16:07.120"
+  },
+  {
+    "text": "certainly eric has talked about and",
+    "begin": "00:16:05.759",
+    "end": "00:16:08.560"
+  },
+  {
+    "text": "perhaps you've talked about as well is",
+    "begin": "00:16:07.120",
+    "end": "00:16:09.040"
+  },
+  {
+    "text": "that",
+    "begin": "00:16:08.560",
+    "end": "00:16:11.759"
+  },
+  {
+    "text": "the sense of all of the opportunity",
+    "begin": "00:16:09.040",
+    "end": "00:16:13.839"
+  },
+  {
+    "text": "being hoarded by a certain generation i",
+    "begin": "00:16:11.759",
+    "end": "00:16:16.240"
+  },
+  {
+    "text": "mean you look at now",
+    "begin": "00:16:13.839",
+    "end": "00:16:18.079"
+  },
+  {
+    "text": "everyone was born in the 1940s it's",
+    "begin": "00:16:16.240",
+    "end": "00:16:19.759"
+  },
+  {
+    "text": "basically the baby baby boomer",
+    "begin": "00:16:18.079",
+    "end": "00:16:21.759"
+  },
+  {
+    "text": "generation refusing to give up power",
+    "begin": "00:16:19.759",
+    "end": "00:16:24.000"
+  },
+  {
+    "text": "what do you make of that dynamic",
+    "begin": "00:16:21.759",
+    "end": "00:16:25.759"
+  },
+  {
+    "text": "well i think eric has been right to",
+    "begin": "00:16:24.000",
+    "end": "00:16:28.079"
+  },
+  {
+    "text": "point out even just at the level of",
+    "begin": "00:16:25.759",
+    "end": "00:16:29.440"
+  },
+  {
+    "text": "noticing the pattern",
+    "begin": "00:16:28.079",
+    "end": "00:16:32.480"
+  },
+  {
+    "text": "the shocking concentration of",
+    "begin": "00:16:29.440",
+    "end": "00:16:36.079"
+  },
+  {
+    "text": "wealth and power in this now dwindling",
+    "begin": "00:16:32.480",
+    "end": "00:16:38.880"
+  },
+  {
+    "text": "generation i think it's part of a larger",
+    "begin": "00:16:36.079",
+    "end": "00:16:40.240"
+  },
+  {
+    "text": "dynamic though",
+    "begin": "00:16:38.880",
+    "end": "00:16:42.560"
+  },
+  {
+    "text": "essentially what we have is a system",
+    "begin": "00:16:40.240",
+    "end": "00:16:43.839"
+  },
+  {
+    "text": "that has",
+    "begin": "00:16:42.560",
+    "end": "00:16:47.199"
+  },
+  {
+    "text": "through an evolutionary process turned",
+    "begin": "00:16:43.839",
+    "end": "00:16:48.160"
+  },
+  {
+    "text": "into one",
+    "begin": "00:16:47.199",
+    "end": "00:16:51.920"
+  },
+  {
+    "text": "that amplifies and perpetuates existing",
+    "begin": "00:16:48.160",
+    "end": "00:16:53.839"
+  },
+  {
+    "text": "distributions of well-being",
+    "begin": "00:16:51.920",
+    "end": "00:16:55.920"
+  },
+  {
+    "text": "and so what really has happened i think",
+    "begin": "00:16:53.839",
+    "end": "00:16:57.199"
+  },
+  {
+    "text": "is not that",
+    "begin": "00:16:55.920",
+    "end": "00:17:00.399"
+  },
+  {
+    "text": "the boomers have conspired against",
+    "begin": "00:16:57.199",
+    "end": "00:17:03.040"
+  },
+  {
+    "text": "the future it's that anything that is",
+    "begin": "00:17:00.399",
+    "end": "00:17:04.079"
+  },
+  {
+    "text": "powerful has been",
+    "begin": "00:17:03.040",
+    "end": "00:17:08.079"
+  },
+  {
+    "text": "given um impressive tools with which",
+    "begin": "00:17:04.079",
+    "end": "00:17:11.520"
+  },
+  {
+    "text": "to not uh pass the torch",
+    "begin": "00:17:08.079",
+    "end": "00:17:15.039"
+  },
+  {
+    "text": "and that works racially that works",
+    "begin": "00:17:11.520",
+    "end": "00:17:18.319"
+  },
+  {
+    "text": "generationally it works uh at all kinds",
+    "begin": "00:17:15.039",
+    "end": "00:17:19.039"
+  },
+  {
+    "text": "of levels",
+    "begin": "00:17:18.319",
+    "end": "00:17:22.880"
+  },
+  {
+    "text": "and the fact of these",
+    "begin": "00:17:19.039",
+    "end": "00:17:25.760"
+  },
+  {
+    "text": "two geriatric candidates running is a",
+    "begin": "00:17:22.880",
+    "end": "00:17:29.440"
+  },
+  {
+    "text": "manifestation of that larger process",
+    "begin": "00:17:25.760",
+    "end": "00:17:32.480"
+  },
+  {
+    "text": "and what do you make i remember on a",
+    "begin": "00:17:29.440",
+    "end": "00:17:34.240"
+  },
+  {
+    "text": "on a recent live stream with heather you",
+    "begin": "00:17:32.480",
+    "end": "00:17:36.320"
+  },
+  {
+    "text": "both talked about how",
+    "begin": "00:17:34.240",
+    "end": "00:17:38.559"
+  },
+  {
+    "text": "um you were equally that there was sort",
+    "begin": "00:17:36.320",
+    "end": "00:17:39.360"
+  },
+  {
+    "text": "of trump",
+    "begin": "00:17:38.559",
+    "end": "00:17:41.039"
+  },
+  {
+    "text": "trump delusion syndrome often on the",
+    "begin": "00:17:39.360",
+    "end": "00:17:42.799"
+  },
+  {
+    "text": "left but there was an equivalent",
+    "begin": "00:17:41.039",
+    "end": "00:17:44.240"
+  },
+  {
+    "text": "on on the right where some people just",
+    "begin": "00:17:42.799",
+    "end": "00:17:46.400"
+  },
+  {
+    "text": "wouldn't hear criticism of him",
+    "begin": "00:17:44.240",
+    "end": "00:17:47.840"
+  },
+  {
+    "text": "and you were equally kind of uh",
+    "begin": "00:17:46.400",
+    "end": "00:17:49.679"
+  },
+  {
+    "text": "concerned about both",
+    "begin": "00:17:47.840",
+    "end": "00:17:52.160"
+  },
+  {
+    "text": "i i wonder i mean as i look at the the",
+    "begin": "00:17:49.679",
+    "end": "00:17:54.400"
+  },
+  {
+    "text": "election the way i look at it with",
+    "begin": "00:17:52.160",
+    "end": "00:17:57.440"
+  },
+  {
+    "text": "i just can't see if trump is the the",
+    "begin": "00:17:54.400",
+    "end": "00:17:58.720"
+  },
+  {
+    "text": "sort of",
+    "begin": "00:17:57.440",
+    "end": "00:18:00.880"
+  },
+  {
+    "text": "the herald at the end of game a like",
+    "begin": "00:17:58.720",
+    "end": "00:18:01.919"
+  },
+  {
+    "text": "he's the kind of the",
+    "begin": "00:18:00.880",
+    "end": "00:18:04.240"
+  },
+  {
+    "text": "the ultimate boss of that kind of",
+    "begin": "00:18:01.919",
+    "end": "00:18:07.039"
+  },
+  {
+    "text": "dysfunctional way of doing things",
+    "begin": "00:18:04.240",
+    "end": "00:18:10.720"
+  },
+  {
+    "text": "i i just don't see aesthetically",
+    "begin": "00:18:07.039",
+    "end": "00:18:12.480"
+  },
+  {
+    "text": "from a sort of storyline perspective it",
+    "begin": "00:18:10.720",
+    "end": "00:18:13.840"
+  },
+  {
+    "text": "just doesn't make any sense that we're",
+    "begin": "00:18:12.480",
+    "end": "00:18:16.240"
+  },
+  {
+    "text": "going to go back to an obama-era",
+    "begin": "00:18:13.840",
+    "end": "00:18:19.039"
+  },
+  {
+    "text": "democrat it's just like i just can't see",
+    "begin": "00:18:16.240",
+    "end": "00:18:20.080"
+  },
+  {
+    "text": "it happening",
+    "begin": "00:18:19.039",
+    "end": "00:18:21.600"
+  },
+  {
+    "text": "i mean i don't i don't know what the",
+    "begin": "00:18:20.080",
+    "end": "00:18:23.679"
+  },
+  {
+    "text": "next stage is but",
+    "begin": "00:18:21.600",
+    "end": "00:18:25.360"
+  },
+  {
+    "text": "it doesn't look good for all sorts of",
+    "begin": "00:18:23.679",
+    "end": "00:18:27.520"
+  },
+  {
+    "text": "different reasons and it just seems",
+    "begin": "00:18:25.360",
+    "end": "00:18:29.600"
+  },
+  {
+    "text": "it just seems almost impossible that it",
+    "begin": "00:18:27.520",
+    "end": "00:18:31.840"
+  },
+  {
+    "text": "it could be a abide in victory",
+    "begin": "00:18:29.600",
+    "end": "00:18:34.559"
+  },
+  {
+    "text": "just from a sort of sense of the story",
+    "begin": "00:18:31.840",
+    "end": "00:18:36.000"
+  },
+  {
+    "text": "arc of where we've been and where we're",
+    "begin": "00:18:34.559",
+    "end": "00:18:37.840"
+  },
+  {
+    "text": "going",
+    "begin": "00:18:36.000",
+    "end": "00:18:40.160"
+  },
+  {
+    "text": "i i absolutely agree with this i mean i",
+    "begin": "00:18:37.840",
+    "end": "00:18:41.679"
+  },
+  {
+    "text": "believe we are staring",
+    "begin": "00:18:40.160",
+    "end": "00:18:44.400"
+  },
+  {
+    "text": "at the collapse of the democratic party",
+    "begin": "00:18:41.679",
+    "end": "00:18:46.480"
+  },
+  {
+    "text": "the democratic party has effectively",
+    "begin": "00:18:44.400",
+    "end": "00:18:48.240"
+  },
+  {
+    "text": "announced that there's nothing left in",
+    "begin": "00:18:46.480",
+    "end": "00:18:50.000"
+  },
+  {
+    "text": "the tank and",
+    "begin": "00:18:48.240",
+    "end": "00:18:53.280"
+  },
+  {
+    "text": "i don't know why anybody is imagining",
+    "begin": "00:18:50.000",
+    "end": "00:18:56.000"
+  },
+  {
+    "text": "that an entity that performed this badly",
+    "begin": "00:18:53.280",
+    "end": "00:18:58.240"
+  },
+  {
+    "text": "in terms of nominating candidates to",
+    "begin": "00:18:56.000",
+    "end": "00:18:59.760"
+  },
+  {
+    "text": "defeat what they claim is",
+    "begin": "00:18:58.240",
+    "end": "00:19:02.720"
+  },
+  {
+    "text": "you know this historic evil right the",
+    "begin": "00:18:59.760",
+    "end": "00:19:04.000"
+  },
+  {
+    "text": "fact that it would",
+    "begin": "00:19:02.720",
+    "end": "00:19:06.000"
+  },
+  {
+    "text": "that it would advance such a feeble",
+    "begin": "00:19:04.000",
+    "end": "00:19:07.840"
+  },
+  {
+    "text": "ticket is",
+    "begin": "00:19:06.000",
+    "end": "00:19:10.480"
+  },
+  {
+    "text": "proof positive that it has no idea where",
+    "begin": "00:19:07.840",
+    "end": "00:19:11.120"
+  },
+  {
+    "text": "to go",
+    "begin": "00:19:10.480",
+    "end": "00:19:14.720"
+  },
+  {
+    "text": "and i think the way it is handling the",
+    "begin": "00:19:11.120",
+    "end": "00:19:16.480"
+  },
+  {
+    "text": "unrest in the u.s",
+    "begin": "00:19:14.720",
+    "end": "00:19:18.559"
+  },
+  {
+    "text": "is equally strong evidence this is a",
+    "begin": "00:19:16.480",
+    "end": "00:19:20.960"
+  },
+  {
+    "text": "recipe for electoral disaster",
+    "begin": "00:19:18.559",
+    "end": "00:19:23.520"
+  },
+  {
+    "text": "they're going to lose to trump if",
+    "begin": "00:19:20.960",
+    "end": "00:19:25.679"
+  },
+  {
+    "text": "something like unity does not swoop in",
+    "begin": "00:19:23.520",
+    "end": "00:19:28.160"
+  },
+  {
+    "text": "and allow something reasonable to happen",
+    "begin": "00:19:25.679",
+    "end": "00:19:31.919"
+  },
+  {
+    "text": "and from my perspective it is",
+    "begin": "00:19:28.160",
+    "end": "00:19:35.280"
+  },
+  {
+    "text": "frustrating to see people conclude",
+    "begin": "00:19:31.919",
+    "end": "00:19:38.640"
+  },
+  {
+    "text": "that the democrats are right there",
+    "begin": "00:19:35.280",
+    "end": "00:19:40.960"
+  },
+  {
+    "text": "in the hunt i think on the basis that",
+    "begin": "00:19:38.640",
+    "end": "00:19:42.880"
+  },
+  {
+    "text": "they typically always are",
+    "begin": "00:19:40.960",
+    "end": "00:19:45.600"
+  },
+  {
+    "text": "and i think people are just failing to",
+    "begin": "00:19:42.880",
+    "end": "00:19:47.120"
+  },
+  {
+    "text": "look at the evidence in front of them",
+    "begin": "00:19:45.600",
+    "end": "00:19:48.880"
+  },
+  {
+    "text": "well you could argue i mean they are",
+    "begin": "00:19:47.120",
+    "end": "00:19:50.320"
+  },
+  {
+    "text": "ahead in the polls",
+    "begin": "00:19:48.880",
+    "end": "00:19:52.160"
+  },
+  {
+    "text": "and have been quite substantially for a",
+    "begin": "00:19:50.320",
+    "end": "00:19:54.400"
+  },
+  {
+    "text": "while",
+    "begin": "00:19:52.160",
+    "end": "00:19:56.080"
+  },
+  {
+    "text": "um i don't know why anyone finds that",
+    "begin": "00:19:54.400",
+    "end": "00:19:58.160"
+  },
+  {
+    "text": "comforting in light of 2016.",
+    "begin": "00:19:56.080",
+    "end": "00:20:01.360"
+  },
+  {
+    "text": "what we know is that there is incredible",
+    "begin": "00:19:58.160",
+    "end": "00:20:01.919"
+  },
+  {
+    "text": "pressure",
+    "begin": "00:20:01.360",
+    "end": "00:20:05.760"
+  },
+  {
+    "text": "for people not to say that they are",
+    "begin": "00:20:01.919",
+    "end": "00:20:08.000"
+  },
+  {
+    "text": "considering voting for donald trump and",
+    "begin": "00:20:05.760",
+    "end": "00:20:09.600"
+  },
+  {
+    "text": "that when they end up",
+    "begin": "00:20:08.000",
+    "end": "00:20:11.360"
+  },
+  {
+    "text": "voting many of the people who swear",
+    "begin": "00:20:09.600",
+    "end": "00:20:12.799"
+  },
+  {
+    "text": "they're not going to do that do",
+    "begin": "00:20:11.360",
+    "end": "00:20:14.960"
+  },
+  {
+    "text": "anyway and their reason to do it in this",
+    "begin": "00:20:12.799",
+    "end": "00:20:16.320"
+  },
+  {
+    "text": "circumstance",
+    "begin": "00:20:14.960",
+    "end": "00:20:19.679"
+  },
+  {
+    "text": "is becoming more",
+    "begin": "00:20:16.320",
+    "end": "00:20:24.080"
+  },
+  {
+    "text": "rational in light of the threat posed to",
+    "begin": "00:20:19.679",
+    "end": "00:20:27.200"
+  },
+  {
+    "text": "average americans by unrest in the",
+    "begin": "00:20:24.080",
+    "end": "00:20:27.840"
+  },
+  {
+    "text": "streets",
+    "begin": "00:20:27.200",
+    "end": "00:20:29.280"
+  },
+  {
+    "text": "the fact is the democrats have",
+    "begin": "00:20:27.840",
+    "end": "00:20:31.360"
+  },
+  {
+    "text": "effectively announced",
+    "begin": "00:20:29.280",
+    "end": "00:20:34.320"
+  },
+  {
+    "text": "a an unwillingness to address this",
+    "begin": "00:20:31.360",
+    "end": "00:20:35.120"
+  },
+  {
+    "text": "problem",
+    "begin": "00:20:34.320",
+    "end": "00:20:37.120"
+  },
+  {
+    "text": "it really is threatening people in their",
+    "begin": "00:20:35.120",
+    "end": "00:20:39.039"
+  },
+  {
+    "text": "homes and",
+    "begin": "00:20:37.120",
+    "end": "00:20:41.200"
+  },
+  {
+    "text": "that is going to result in people voting",
+    "begin": "00:20:39.039",
+    "end": "00:20:43.120"
+  },
+  {
+    "text": "for the one thing",
+    "begin": "00:20:41.200",
+    "end": "00:20:46.559"
+  },
+  {
+    "text": "that they think might protect them so",
+    "begin": "00:20:43.120",
+    "end": "00:20:48.720"
+  },
+  {
+    "text": "a loss for the democrats is perfectly",
+    "begin": "00:20:46.559",
+    "end": "00:20:50.159"
+  },
+  {
+    "text": "predictable here",
+    "begin": "00:20:48.720",
+    "end": "00:20:53.280"
+  },
+  {
+    "text": "and in light of that loss given what",
+    "begin": "00:20:50.159",
+    "end": "00:20:56.320"
+  },
+  {
+    "text": "people on the left believe",
+    "begin": "00:20:53.280",
+    "end": "00:20:59.360"
+  },
+  {
+    "text": "about trump you would imagine that this",
+    "begin": "00:20:56.320",
+    "end": "00:21:01.120"
+  },
+  {
+    "text": "would make them receptive to anybody who",
+    "begin": "00:20:59.360",
+    "end": "00:21:03.679"
+  },
+  {
+    "text": "was offering something coherent",
+    "begin": "00:21:01.120",
+    "end": "00:21:08.480"
+  },
+  {
+    "text": "in his stead and yet there is this",
+    "begin": "00:21:03.679",
+    "end": "00:21:11.679"
+  },
+  {
+    "text": "i would argue sheepish tendency to",
+    "begin": "00:21:08.480",
+    "end": "00:21:13.600"
+  },
+  {
+    "text": "simply imagine that what has been",
+    "begin": "00:21:11.679",
+    "end": "00:21:16.559"
+  },
+  {
+    "text": "is what will be and we know that that's",
+    "begin": "00:21:13.600",
+    "end": "00:21:16.960"
+  },
+  {
+    "text": "you know",
+    "begin": "00:21:16.559",
+    "end": "00:21:19.200"
+  },
+  {
+    "text": "that's rule of thumb at best and history",
+    "begin": "00:21:16.960",
+    "end": "00:21:20.159"
+  },
+  {
+    "text": "doesn't work that way",
+    "begin": "00:21:19.200",
+    "end": "00:21:22.320"
+  },
+  {
+    "text": "new things happen and they take over and",
+    "begin": "00:21:20.159",
+    "end": "00:21:24.480"
+  },
+  {
+    "text": "trump was one and sanders was",
+    "begin": "00:21:22.320",
+    "end": "00:21:27.760"
+  },
+  {
+    "text": "one and here we are in 2020",
+    "begin": "00:21:24.480",
+    "end": "00:21:31.440"
+  },
+  {
+    "text": "staring at an absolutely unprecedented",
+    "begin": "00:21:27.760",
+    "end": "00:21:34.240"
+  },
+  {
+    "text": "competition between two tickets that",
+    "begin": "00:21:31.440",
+    "end": "00:21:35.600"
+  },
+  {
+    "text": "don't look like anything that has",
+    "begin": "00:21:34.240",
+    "end": "00:21:37.440"
+  },
+  {
+    "text": "preceded them so",
+    "begin": "00:21:35.600",
+    "end": "00:21:39.280"
+  },
+  {
+    "text": "something unprecedented is about to",
+    "begin": "00:21:37.440",
+    "end": "00:21:40.559"
+  },
+  {
+    "text": "happen and the fact that",
+    "begin": "00:21:39.280",
+    "end": "00:21:42.960"
+  },
+  {
+    "text": "people imagine that unprecedented thing",
+    "begin": "00:21:40.559",
+    "end": "00:21:45.360"
+  },
+  {
+    "text": "will be as precedented as possible",
+    "begin": "00:21:42.960",
+    "end": "00:21:48.559"
+  },
+  {
+    "text": "is uh it's a failure of imagination",
+    "begin": "00:21:45.360",
+    "end": "00:21:52.240"
+  },
+  {
+    "text": "and there have been a few um",
+    "begin": "00:21:48.559",
+    "end": "00:21:54.400"
+  },
+  {
+    "text": "practical criticisms of the the unity",
+    "begin": "00:21:52.240",
+    "end": "00:21:56.480"
+  },
+  {
+    "text": "plan like about ballot access in",
+    "begin": "00:21:54.400",
+    "end": "00:21:57.280"
+  },
+  {
+    "text": "particular",
+    "begin": "00:21:56.480",
+    "end": "00:22:00.080"
+  },
+  {
+    "text": "that it was launched very uh too late to",
+    "begin": "00:21:57.280",
+    "end": "00:22:01.840"
+  },
+  {
+    "text": "get people onto the ballot",
+    "begin": "00:22:00.080",
+    "end": "00:22:03.600"
+  },
+  {
+    "text": "well we we wouldn't have been proceeding",
+    "begin": "00:22:01.840",
+    "end": "00:22:05.039"
+  },
+  {
+    "text": "with this if there wasn't a mechanism",
+    "begin": "00:22:03.600",
+    "end": "00:22:06.159"
+  },
+  {
+    "text": "for doing it",
+    "begin": "00:22:05.039",
+    "end": "00:22:09.440"
+  },
+  {
+    "text": "and this again shows that uh",
+    "begin": "00:22:06.159",
+    "end": "00:22:12.720"
+  },
+  {
+    "text": "people are",
+    "begin": "00:22:09.440",
+    "end": "00:22:15.600"
+  },
+  {
+    "text": "overly obligated to their models of how",
+    "begin": "00:22:12.720",
+    "end": "00:22:16.559"
+  },
+  {
+    "text": "things are done",
+    "begin": "00:22:15.600",
+    "end": "00:22:19.679"
+  },
+  {
+    "text": "and the fact is the duopoly has blocked",
+    "begin": "00:22:16.559",
+    "end": "00:22:22.400"
+  },
+  {
+    "text": "every normal mode that you might use to",
+    "begin": "00:22:19.679",
+    "end": "00:22:24.159"
+  },
+  {
+    "text": "challenge them so by definition any",
+    "begin": "00:22:22.400",
+    "end": "00:22:25.600"
+  },
+  {
+    "text": "successful challenge will have to be",
+    "begin": "00:22:24.159",
+    "end": "00:22:26.880"
+  },
+  {
+    "text": "abnormal",
+    "begin": "00:22:25.600",
+    "end": "00:22:29.840"
+  },
+  {
+    "text": "now what people expect is oh if you're",
+    "begin": "00:22:26.880",
+    "end": "00:22:31.120"
+  },
+  {
+    "text": "going to get on the ballot what you do",
+    "begin": "00:22:29.840",
+    "end": "00:22:31.919"
+  },
+  {
+    "text": "is you collect",
+    "begin": "00:22:31.120",
+    "end": "00:22:33.760"
+  },
+  {
+    "text": "huge numbers of signatures you have to",
+    "begin": "00:22:31.919",
+    "end": "00:22:35.200"
+  },
+  {
+    "text": "do so in every state",
+    "begin": "00:22:33.760",
+    "end": "00:22:38.159"
+  },
+  {
+    "text": "and that that is you know it requires a",
+    "begin": "00:22:35.200",
+    "end": "00:22:39.200"
+  },
+  {
+    "text": "gigantic",
+    "begin": "00:22:38.159",
+    "end": "00:22:41.760"
+  },
+  {
+    "text": "effort just to gain viability on the",
+    "begin": "00:22:39.200",
+    "end": "00:22:42.799"
+  },
+  {
+    "text": "other hand",
+    "begin": "00:22:41.760",
+    "end": "00:22:46.480"
+  },
+  {
+    "text": "we have numerous parties that are not",
+    "begin": "00:22:42.799",
+    "end": "00:22:49.440"
+  },
+  {
+    "text": "in and of themselves viable we have two",
+    "begin": "00:22:46.480",
+    "end": "00:22:51.760"
+  },
+  {
+    "text": "major ones and many minor ones",
+    "begin": "00:22:49.440",
+    "end": "00:22:55.120"
+  },
+  {
+    "text": "and they have ballot access which they",
+    "begin": "00:22:51.760",
+    "end": "00:22:56.480"
+  },
+  {
+    "text": "are free to allocate",
+    "begin": "00:22:55.120",
+    "end": "00:22:59.520"
+  },
+  {
+    "text": "and so in a moment where americans are",
+    "begin": "00:22:56.480",
+    "end": "00:23:00.400"
+  },
+  {
+    "text": "actually",
+    "begin": "00:22:59.520",
+    "end": "00:23:02.400"
+  },
+  {
+    "text": "fleeing cities that they live in moving",
+    "begin": "00:23:00.400",
+    "end": "00:23:03.679"
+  },
+  {
+    "text": "to places that they",
+    "begin": "00:23:02.400",
+    "end": "00:23:06.159"
+  },
+  {
+    "text": "feel that violence is less likely to",
+    "begin": "00:23:03.679",
+    "end": "00:23:07.039"
+  },
+  {
+    "text": "reach them",
+    "begin": "00:23:06.159",
+    "end": "00:23:09.039"
+  },
+  {
+    "text": "that's an emergency moment and the",
+    "begin": "00:23:07.039",
+    "end": "00:23:10.640"
+  },
+  {
+    "text": "question is can",
+    "begin": "00:23:09.039",
+    "end": "00:23:12.720"
+  },
+  {
+    "text": "these third parties that have ballot",
+    "begin": "00:23:10.640",
+    "end": "00:23:14.240"
+  },
+  {
+    "text": "access recognize",
+    "begin": "00:23:12.720",
+    "end": "00:23:17.679"
+  },
+  {
+    "text": "that not only is it the patriotic thing",
+    "begin": "00:23:14.240",
+    "end": "00:23:18.400"
+  },
+  {
+    "text": "to do",
+    "begin": "00:23:17.679",
+    "end": "00:23:20.799"
+  },
+  {
+    "text": "to join together under a unity banner",
+    "begin": "00:23:18.400",
+    "end": "00:23:21.679"
+  },
+  {
+    "text": "and",
+    "begin": "00:23:20.799",
+    "end": "00:23:23.360"
+  },
+  {
+    "text": "do something that might electorally",
+    "begin": "00:23:21.679",
+    "end": "00:23:25.679"
+  },
+  {
+    "text": "succeed but it is also in their interest",
+    "begin": "00:23:23.360",
+    "end": "00:23:26.480"
+  },
+  {
+    "text": "to do it",
+    "begin": "00:23:25.679",
+    "end": "00:23:29.039"
+  },
+  {
+    "text": "that the duopoly is their enemy and",
+    "begin": "00:23:26.480",
+    "end": "00:23:31.440"
+  },
+  {
+    "text": "defeating it is in their interest",
+    "begin": "00:23:29.039",
+    "end": "00:23:33.679"
+  },
+  {
+    "text": "you know in general ways but also very",
+    "begin": "00:23:31.440",
+    "end": "00:23:35.200"
+  },
+  {
+    "text": "specific ones",
+    "begin": "00:23:33.679",
+    "end": "00:23:37.760"
+  },
+  {
+    "text": "any party that gains five percent in the",
+    "begin": "00:23:35.200",
+    "end": "00:23:38.559"
+  },
+  {
+    "text": "election",
+    "begin": "00:23:37.760",
+    "end": "00:23:40.720"
+  },
+  {
+    "text": "gets federal funds in the next cycle",
+    "begin": "00:23:38.559",
+    "end": "00:23:42.880"
+  },
+  {
+    "text": "that's a very substantial advantage that",
+    "begin": "00:23:40.720",
+    "end": "00:23:44.080"
+  },
+  {
+    "text": "they would have",
+    "begin": "00:23:42.880",
+    "end": "00:23:47.200"
+  },
+  {
+    "text": "it's also true that unity has already",
+    "begin": "00:23:44.080",
+    "end": "00:23:49.200"
+  },
+  {
+    "text": "displayed a commitment to rank choice",
+    "begin": "00:23:47.200",
+    "end": "00:23:51.360"
+  },
+  {
+    "text": "voting which is a mechanism that would",
+    "begin": "00:23:49.200",
+    "end": "00:23:52.960"
+  },
+  {
+    "text": "greatly enhance the power of third",
+    "begin": "00:23:51.360",
+    "end": "00:23:53.520"
+  },
+  {
+    "text": "parties",
+    "begin": "00:23:52.960",
+    "end": "00:23:55.919"
+  },
+  {
+    "text": "to bring coherence to our national",
+    "begin": "00:23:53.520",
+    "end": "00:23:56.799"
+  },
+  {
+    "text": "discussion",
+    "begin": "00:23:55.919",
+    "end": "00:23:58.880"
+  },
+  {
+    "text": "so joining with unity makes a good deal",
+    "begin": "00:23:56.799",
+    "end": "00:24:00.480"
+  },
+  {
+    "text": "of sense for",
+    "begin": "00:23:58.880",
+    "end": "00:24:02.080"
+  },
+  {
+    "text": "any third party and there are numerous",
+    "begin": "00:24:00.480",
+    "end": "00:24:04.000"
+  },
+  {
+    "text": "ways it could happen the simplest",
+    "begin": "00:24:02.080",
+    "end": "00:24:05.679"
+  },
+  {
+    "text": "way would be for the greens or",
+    "begin": "00:24:04.000",
+    "end": "00:24:07.840"
+  },
+  {
+    "text": "libertarians to see the wisdom in this",
+    "begin": "00:24:05.679",
+    "end": "00:24:08.720"
+  },
+  {
+    "text": "plan",
+    "begin": "00:24:07.840",
+    "end": "00:24:12.080"
+  },
+  {
+    "text": "and to to join with us but there are",
+    "begin": "00:24:08.720",
+    "end": "00:24:13.279"
+  },
+  {
+    "text": "many other parties",
+    "begin": "00:24:12.080",
+    "end": "00:24:17.919"
+  },
+  {
+    "text": "and it's there there are many paths to",
+    "begin": "00:24:13.279",
+    "end": "00:24:18.559"
+  },
+  {
+    "text": "the ballot",
+    "begin": "00:24:17.919",
+    "end": "00:24:21.840"
+  },
+  {
+    "text": "in all 50 states when you first pitched",
+    "begin": "00:24:18.559",
+    "end": "00:24:22.400"
+  },
+  {
+    "text": "the",
+    "begin": "00:24:21.840",
+    "end": "00:24:24.159"
+  },
+  {
+    "text": "the plan the unity plan you mentioned",
+    "begin": "00:24:22.400",
+    "end": "00:24:25.919"
+  },
+  {
+    "text": "the two names that came to mind at first",
+    "begin": "00:24:24.159",
+    "end": "00:24:28.480"
+  },
+  {
+    "text": "were andrew yang and william mcraven",
+    "begin": "00:24:25.919",
+    "end": "00:24:30.720"
+  },
+  {
+    "text": "and that seemed to make quite a lot of",
+    "begin": "00:24:28.480",
+    "end": "00:24:32.320"
+  },
+  {
+    "text": "sense in terms of",
+    "begin": "00:24:30.720",
+    "end": "00:24:35.520"
+  },
+  {
+    "text": "uh a military figure coming in i think",
+    "begin": "00:24:32.320",
+    "end": "00:24:37.279"
+  },
+  {
+    "text": "he was a university president before",
+    "begin": "00:24:35.520",
+    "end": "00:24:39.679"
+  },
+  {
+    "text": "uh chancellor of the university of texas",
+    "begin": "00:24:37.279",
+    "end": "00:24:41.039"
+  },
+  {
+    "text": "yeah so he's sort of coming from",
+    "begin": "00:24:39.679",
+    "end": "00:24:43.200"
+  },
+  {
+    "text": "slightly outside politics and and coming",
+    "begin": "00:24:41.039",
+    "end": "00:24:44.000"
+  },
+  {
+    "text": "in",
+    "begin": "00:24:43.200",
+    "end": "00:24:47.360"
+  },
+  {
+    "text": "that seemed to make a lot of sense",
+    "begin": "00:24:44.000",
+    "end": "00:24:49.840"
+  },
+  {
+    "text": "when the when the choice shifted to to",
+    "begin": "00:24:47.360",
+    "end": "00:24:50.480"
+  },
+  {
+    "text": "tulsi",
+    "begin": "00:24:49.840",
+    "end": "00:24:53.279"
+  },
+  {
+    "text": "and dan crenshaw for me that seemed to",
+    "begin": "00:24:50.480",
+    "end": "00:24:54.559"
+  },
+  {
+    "text": "make less sense because they are",
+    "begin": "00:24:53.279",
+    "end": "00:24:56.720"
+  },
+  {
+    "text": "political figures they're within the",
+    "begin": "00:24:54.559",
+    "end": "00:24:59.600"
+  },
+  {
+    "text": "the the parties and i i would argue a",
+    "begin": "00:24:56.720",
+    "end": "00:25:01.440"
+  },
+  {
+    "text": "sort of subject to the same kind of game",
+    "begin": "00:24:59.600",
+    "end": "00:25:02.480"
+  },
+  {
+    "text": "a forces that",
+    "begin": "00:25:01.440",
+    "end": "00:25:04.640"
+  },
+  {
+    "text": "that everyone else is subject to",
+    "begin": "00:25:02.480",
+    "end": "00:25:06.640"
+  },
+  {
+    "text": "crenshaw has to is thinking about a run",
+    "begin": "00:25:04.640",
+    "end": "00:25:08.559"
+  },
+  {
+    "text": "potentially in 2024",
+    "begin": "00:25:06.640",
+    "end": "00:25:11.520"
+  },
+  {
+    "text": "there are he he's kind of in that in",
+    "begin": "00:25:08.559",
+    "end": "00:25:12.640"
+  },
+  {
+    "text": "that game",
+    "begin": "00:25:11.520",
+    "end": "00:25:16.159"
+  },
+  {
+    "text": "like i i have to say i was it it changed",
+    "begin": "00:25:12.640",
+    "end": "00:25:17.360"
+  },
+  {
+    "text": "the nature of it for me when",
+    "begin": "00:25:16.159",
+    "end": "00:25:19.200"
+  },
+  {
+    "text": "when those when those names were",
+    "begin": "00:25:17.360",
+    "end": "00:25:21.760"
+  },
+  {
+    "text": "announced",
+    "begin": "00:25:19.200",
+    "end": "00:25:21.760"
+  },
+  {
+    "text": "well i understand that i have to say i",
+    "begin": "00:25:21.840",
+    "end": "00:25:25.279"
+  },
+  {
+    "text": "think uh",
+    "begin": "00:25:24.000",
+    "end": "00:25:27.440"
+  },
+  {
+    "text": "we have already demonstrated something",
+    "begin": "00:25:25.279",
+    "end": "00:25:28.480"
+  },
+  {
+    "text": "very powerful",
+    "begin": "00:25:27.440",
+    "end": "00:25:31.360"
+  },
+  {
+    "text": "with unity 2020 and we demonstrated it",
+    "begin": "00:25:28.480",
+    "end": "00:25:32.480"
+  },
+  {
+    "text": "by running",
+    "begin": "00:25:31.360",
+    "end": "00:25:34.820"
+  },
+  {
+    "text": "a completely",
+    "begin": "00:25:32.480",
+    "end": "00:25:36.000"
+  },
+  {
+    "text": "[Music]",
+    "begin": "00:25:34.820",
+    "end": "00:25:39.360"
+  },
+  {
+    "text": "how can i put it a completely",
+    "begin": "00:25:36.000",
+    "end": "00:25:43.279"
+  },
+  {
+    "text": "successful mechanized attempt to count",
+    "begin": "00:25:39.360",
+    "end": "00:25:46.400"
+  },
+  {
+    "text": "the will of our constituents",
+    "begin": "00:25:43.279",
+    "end": "00:25:49.520"
+  },
+  {
+    "text": "and put it into action",
+    "begin": "00:25:46.400",
+    "end": "00:25:51.760"
+  },
+  {
+    "text": "i take that back that was not well said",
+    "begin": "00:25:49.520",
+    "end": "00:25:53.039"
+  },
+  {
+    "text": "i have to figure out some better way of",
+    "begin": "00:25:51.760",
+    "end": "00:25:53.840"
+  },
+  {
+    "text": "saying it",
+    "begin": "00:25:53.039",
+    "end": "00:25:56.159"
+  },
+  {
+    "text": "okay",
+    "begin": "00:25:53.840",
+    "end": "00:25:56.159"
+  },
+  {
+    "text": "the unity movement is composed",
+    "begin": "00:25:58.480",
+    "end": "00:26:06.640"
+  },
+  {
+    "text": "of a great many volunteers who are",
+    "begin": "00:26:02.400",
+    "end": "00:26:08.320"
+  },
+  {
+    "text": "engaged in the process of making it",
+    "begin": "00:26:06.640",
+    "end": "00:26:10.240"
+  },
+  {
+    "text": "happen and a much larger group",
+    "begin": "00:26:08.320",
+    "end": "00:26:11.760"
+  },
+  {
+    "text": "of people who are paying attention to",
+    "begin": "00:26:10.240",
+    "end": "00:26:13.440"
+  },
+  {
+    "text": "the movement and interested in",
+    "begin": "00:26:11.760",
+    "end": "00:26:17.039"
+  },
+  {
+    "text": "what it does and in running this vote",
+    "begin": "00:26:13.440",
+    "end": "00:26:19.279"
+  },
+  {
+    "text": "we did not meddle with the will of our",
+    "begin": "00:26:17.039",
+    "end": "00:26:20.559"
+  },
+  {
+    "text": "constituents so",
+    "begin": "00:26:19.279",
+    "end": "00:26:23.679"
+  },
+  {
+    "text": "what happened was they had the ability",
+    "begin": "00:26:20.559",
+    "end": "00:26:27.279"
+  },
+  {
+    "text": "to nominate potential draftees and then",
+    "begin": "00:26:23.679",
+    "end": "00:26:30.640"
+  },
+  {
+    "text": "to vote on them and the only thing we",
+    "begin": "00:26:27.279",
+    "end": "00:26:32.480"
+  },
+  {
+    "text": "did was eliminate people we didn't",
+    "begin": "00:26:30.640",
+    "end": "00:26:35.760"
+  },
+  {
+    "text": "think met the unity criteria",
+    "begin": "00:26:32.480",
+    "end": "00:26:38.799"
+  },
+  {
+    "text": "so what happened was tulsi gabbard and",
+    "begin": "00:26:35.760",
+    "end": "00:26:40.559"
+  },
+  {
+    "text": "dan crenshaw rose to the top",
+    "begin": "00:26:38.799",
+    "end": "00:26:43.440"
+  },
+  {
+    "text": "in a perfectly natural process and i",
+    "begin": "00:26:40.559",
+    "end": "00:26:44.720"
+  },
+  {
+    "text": "must say i am",
+    "begin": "00:26:43.440",
+    "end": "00:26:48.559"
+  },
+  {
+    "text": "quite pleased with the ticket i find the",
+    "begin": "00:26:44.720",
+    "end": "00:26:52.159"
+  },
+  {
+    "text": "fact that these figures genuinely are",
+    "begin": "00:26:48.559",
+    "end": "00:26:54.799"
+  },
+  {
+    "text": "from two different sides of the",
+    "begin": "00:26:52.159",
+    "end": "00:26:56.240"
+  },
+  {
+    "text": "political spectrum",
+    "begin": "00:26:54.799",
+    "end": "00:26:58.559"
+  },
+  {
+    "text": "that they have genuine respect for each",
+    "begin": "00:26:56.240",
+    "end": "00:27:00.640"
+  },
+  {
+    "text": "other each one has displayed",
+    "begin": "00:26:58.559",
+    "end": "00:27:04.080"
+  },
+  {
+    "text": "a great deal of courage and patriotism",
+    "begin": "00:27:00.640",
+    "end": "00:27:07.440"
+  },
+  {
+    "text": "and the",
+    "begin": "00:27:04.080",
+    "end": "00:27:10.320"
+  },
+  {
+    "text": "the pairing of them does seem to create",
+    "begin": "00:27:07.440",
+    "end": "00:27:11.600"
+  },
+  {
+    "text": "a natural balance",
+    "begin": "00:27:10.320",
+    "end": "00:27:14.320"
+  },
+  {
+    "text": "as for them being too much within the",
+    "begin": "00:27:11.600",
+    "end": "00:27:16.000"
+  },
+  {
+    "text": "system",
+    "begin": "00:27:14.320",
+    "end": "00:27:17.840"
+  },
+  {
+    "text": "i would say i personally have had",
+    "begin": "00:27:16.000",
+    "end": "00:27:19.600"
+  },
+  {
+    "text": "several interactions now",
+    "begin": "00:27:17.840",
+    "end": "00:27:22.080"
+  },
+  {
+    "text": "with dan crenshaw and although he and i",
+    "begin": "00:27:19.600",
+    "end": "00:27:23.360"
+  },
+  {
+    "text": "are on very different",
+    "begin": "00:27:22.080",
+    "end": "00:27:25.520"
+  },
+  {
+    "text": "parts of the political spectrum we have",
+    "begin": "00:27:23.360",
+    "end": "00:27:26.960"
+  },
+  {
+    "text": "no trouble",
+    "begin": "00:27:25.520",
+    "end": "00:27:28.799"
+  },
+  {
+    "text": "finding common ground and seeing the",
+    "begin": "00:27:26.960",
+    "end": "00:27:30.640"
+  },
+  {
+    "text": "humanity in each other so i believe",
+    "begin": "00:27:28.799",
+    "end": "00:27:32.840"
+  },
+  {
+    "text": "the individual is quite up to the",
+    "begin": "00:27:30.640",
+    "end": "00:27:34.640"
+  },
+  {
+    "text": "challenge and",
+    "begin": "00:27:32.840",
+    "end": "00:27:37.760"
+  },
+  {
+    "text": "um in tulsi's case she has faced",
+    "begin": "00:27:34.640",
+    "end": "00:27:41.440"
+  },
+  {
+    "text": "absolutely um diabolical challenges from",
+    "begin": "00:27:37.760",
+    "end": "00:27:41.760"
+  },
+  {
+    "text": "her",
+    "begin": "00:27:41.440",
+    "end": "00:27:44.640"
+  },
+  {
+    "text": "own party the worst of which being",
+    "begin": "00:27:41.760",
+    "end": "00:27:45.760"
+  },
+  {
+    "text": "hillary clinton's",
+    "begin": "00:27:44.640",
+    "end": "00:27:48.320"
+  },
+  {
+    "text": "alleging that she was a russian asset",
+    "begin": "00:27:45.760",
+    "end": "00:27:49.120"
+  },
+  {
+    "text": "during",
+    "begin": "00:27:48.320",
+    "end": "00:27:52.240"
+  },
+  {
+    "text": "the primaries so this team",
+    "begin": "00:27:49.120",
+    "end": "00:27:55.120"
+  },
+  {
+    "text": "is one that has awareness of just how",
+    "begin": "00:27:52.240",
+    "end": "00:27:57.440"
+  },
+  {
+    "text": "toxic these parties can be",
+    "begin": "00:27:55.120",
+    "end": "00:28:00.880"
+  },
+  {
+    "text": "and has an instinct to to act in the",
+    "begin": "00:27:57.440",
+    "end": "00:28:01.840"
+  },
+  {
+    "text": "nation's interest",
+    "begin": "00:28:00.880",
+    "end": "00:28:03.679"
+  },
+  {
+    "text": "irrespective of what the parties think",
+    "begin": "00:28:01.840",
+    "end": "00:28:06.000"
+  },
+  {
+    "text": "and i'm very happy with the ticket",
+    "begin": "00:28:03.679",
+    "end": "00:28:08.480"
+  },
+  {
+    "text": "would i have been happy with yang and",
+    "begin": "00:28:06.000",
+    "end": "00:28:09.360"
+  },
+  {
+    "text": "mcraven",
+    "begin": "00:28:08.480",
+    "end": "00:28:10.960"
+  },
+  {
+    "text": "i would have been the reason i named",
+    "begin": "00:28:09.360",
+    "end": "00:28:13.520"
+  },
+  {
+    "text": "them when i first unveiled the proposal",
+    "begin": "00:28:10.960",
+    "end": "00:28:15.360"
+  },
+  {
+    "text": "was that i thought highly of them both",
+    "begin": "00:28:13.520",
+    "end": "00:28:17.200"
+  },
+  {
+    "text": "and i saw that they had the potential to",
+    "begin": "00:28:15.360",
+    "end": "00:28:19.440"
+  },
+  {
+    "text": "do the same thing",
+    "begin": "00:28:17.200",
+    "end": "00:28:22.880"
+  },
+  {
+    "text": "but gabbard and crenshaw seems to me",
+    "begin": "00:28:19.440",
+    "end": "00:28:26.720"
+  },
+  {
+    "text": "a perfectly viable unity ticket",
+    "begin": "00:28:22.880",
+    "end": "00:28:29.279"
+  },
+  {
+    "text": "and what's more when one compares it to",
+    "begin": "00:28:26.720",
+    "end": "00:28:31.039"
+  },
+  {
+    "text": "the offerings that the major parties",
+    "begin": "00:28:29.279",
+    "end": "00:28:32.000"
+  },
+  {
+    "text": "have provided",
+    "begin": "00:28:31.039",
+    "end": "00:28:34.799"
+  },
+  {
+    "text": "there's simply no contest i don't want",
+    "begin": "00:28:32.000",
+    "end": "00:28:36.159"
+  },
+  {
+    "text": "to concentrate or stay",
+    "begin": "00:28:34.799",
+    "end": "00:28:37.600"
+  },
+  {
+    "text": "too long on either of the figures",
+    "begin": "00:28:36.159",
+    "end": "00:28:38.799"
+  },
+  {
+    "text": "because that's not the point of the",
+    "begin": "00:28:37.600",
+    "end": "00:28:40.480"
+  },
+  {
+    "text": "conversation but",
+    "begin": "00:28:38.799",
+    "end": "00:28:44.000"
+  },
+  {
+    "text": "um crenshaw for example",
+    "begin": "00:28:40.480",
+    "end": "00:28:46.559"
+  },
+  {
+    "text": "and i'm just i'm just taking his his um",
+    "begin": "00:28:44.000",
+    "end": "00:28:48.559"
+  },
+  {
+    "text": "actions here he posted on facebook a",
+    "begin": "00:28:46.559",
+    "end": "00:28:50.480"
+  },
+  {
+    "text": "while ago that trump was an idiot",
+    "begin": "00:28:48.559",
+    "end": "00:28:53.039"
+  },
+  {
+    "text": "his rhetoric was insane and hateful and",
+    "begin": "00:28:50.480",
+    "end": "00:28:53.520"
+  },
+  {
+    "text": "has then",
+    "begin": "00:28:53.039",
+    "end": "00:28:54.960"
+  },
+  {
+    "text": "flipped round to actually being one of",
+    "begin": "00:28:53.520",
+    "end": "00:28:57.360"
+  },
+  {
+    "text": "trump's most kind of ardent defenders",
+    "begin": "00:28:54.960",
+    "end": "00:28:59.279"
+  },
+  {
+    "text": "like for me that illustrates the problem",
+    "begin": "00:28:57.360",
+    "end": "00:29:00.720"
+  },
+  {
+    "text": "with the game a system",
+    "begin": "00:28:59.279",
+    "end": "00:29:02.399"
+  },
+  {
+    "text": "i'm not i'm not making that a comment",
+    "begin": "00:29:00.720",
+    "end": "00:29:04.159"
+  },
+  {
+    "text": "about him specifically",
+    "begin": "00:29:02.399",
+    "end": "00:29:07.360"
+  },
+  {
+    "text": "but the the forces are pushing someone",
+    "begin": "00:29:04.159",
+    "end": "00:29:08.799"
+  },
+  {
+    "text": "like crenshaw has got a political",
+    "begin": "00:29:07.360",
+    "end": "00:29:11.120"
+  },
+  {
+    "text": "ambition to run in 2024",
+    "begin": "00:29:08.799",
+    "end": "00:29:13.360"
+  },
+  {
+    "text": "towards supporting someone who he",
+    "begin": "00:29:11.120",
+    "end": "00:29:15.200"
+  },
+  {
+    "text": "probably actually does not",
+    "begin": "00:29:13.360",
+    "end": "00:29:18.399"
+  },
+  {
+    "text": "uh align with on many levels like",
+    "begin": "00:29:15.200",
+    "end": "00:29:20.480"
+  },
+  {
+    "text": "it just seems to be a much bigger game",
+    "begin": "00:29:18.399",
+    "end": "00:29:21.840"
+  },
+  {
+    "text": "theoretic trap",
+    "begin": "00:29:20.480",
+    "end": "00:29:24.960"
+  },
+  {
+    "text": "than than any of us than than is able to",
+    "begin": "00:29:21.840",
+    "end": "00:29:28.080"
+  },
+  {
+    "text": "be dealt with by this plan",
+    "begin": "00:29:24.960",
+    "end": "00:29:31.919"
+  },
+  {
+    "text": "on the contrary um the fact is yes",
+    "begin": "00:29:28.080",
+    "end": "00:29:34.640"
+  },
+  {
+    "text": "dan crenshaw has said some things that",
+    "begin": "00:29:31.919",
+    "end": "00:29:35.200"
+  },
+  {
+    "text": "uh",
+    "begin": "00:29:34.640",
+    "end": "00:29:38.080"
+  },
+  {
+    "text": "don't fit with what i think a completely",
+    "begin": "00:29:35.200",
+    "end": "00:29:39.440"
+  },
+  {
+    "text": "free actor",
+    "begin": "00:29:38.080",
+    "end": "00:29:43.039"
+  },
+  {
+    "text": "would say given what i am certain he",
+    "begin": "00:29:39.440",
+    "end": "00:29:44.320"
+  },
+  {
+    "text": "believes",
+    "begin": "00:29:43.039",
+    "end": "00:29:47.360"
+  },
+  {
+    "text": "that is to say he's a smart guy and he",
+    "begin": "00:29:44.320",
+    "end": "00:29:48.880"
+  },
+  {
+    "text": "is playing a political game because",
+    "begin": "00:29:47.360",
+    "end": "00:29:50.799"
+  },
+  {
+    "text": "that's the system he's in but",
+    "begin": "00:29:48.880",
+    "end": "00:29:52.799"
+  },
+  {
+    "text": "i would say one of the things back in",
+    "begin": "00:29:50.799",
+    "end": "00:29:55.360"
+  },
+  {
+    "text": "the uh the days when game b was first",
+    "begin": "00:29:52.799",
+    "end": "00:29:56.159"
+  },
+  {
+    "text": "being",
+    "begin": "00:29:55.360",
+    "end": "00:29:58.320"
+  },
+  {
+    "text": "formulated i did a lot of thinking about",
+    "begin": "00:29:56.159",
+    "end": "00:30:00.480"
+  },
+  {
+    "text": "what game a is composed of",
+    "begin": "00:29:58.320",
+    "end": "00:30:02.799"
+  },
+  {
+    "text": "and there are three kinds of actors in",
+    "begin": "00:30:00.480",
+    "end": "00:30:04.080"
+  },
+  {
+    "text": "our system",
+    "begin": "00:30:02.799",
+    "end": "00:30:07.360"
+  },
+  {
+    "text": "there are those who will do the right",
+    "begin": "00:30:04.080",
+    "end": "00:30:09.360"
+  },
+  {
+    "text": "thing no matter what",
+    "begin": "00:30:07.360",
+    "end": "00:30:11.760"
+  },
+  {
+    "text": "these people are not powerful because",
+    "begin": "00:30:09.360",
+    "end": "00:30:12.640"
+  },
+  {
+    "text": "they",
+    "begin": "00:30:11.760",
+    "end": "00:30:15.200"
+  },
+  {
+    "text": "they are too obligated to principle to",
+    "begin": "00:30:12.640",
+    "end": "00:30:16.720"
+  },
+  {
+    "text": "be successful and although",
+    "begin": "00:30:15.200",
+    "end": "00:30:19.279"
+  },
+  {
+    "text": "i admire them we don't see them very",
+    "begin": "00:30:16.720",
+    "end": "00:30:20.159"
+  },
+  {
+    "text": "frequently",
+    "begin": "00:30:19.279",
+    "end": "00:30:22.720"
+  },
+  {
+    "text": "inside of the system we have people who",
+    "begin": "00:30:20.159",
+    "end": "00:30:23.360"
+  },
+  {
+    "text": "will do",
+    "begin": "00:30:22.720",
+    "end": "00:30:25.440"
+  },
+  {
+    "text": "what is in their self-interest no matter",
+    "begin": "00:30:23.360",
+    "end": "00:30:26.399"
+  },
+  {
+    "text": "what",
+    "begin": "00:30:25.440",
+    "end": "00:30:29.279"
+  },
+  {
+    "text": "at any cost to others we see a fair",
+    "begin": "00:30:26.399",
+    "end": "00:30:30.480"
+  },
+  {
+    "text": "number of those",
+    "begin": "00:30:29.279",
+    "end": "00:30:32.720"
+  },
+  {
+    "text": "and then we have people who are",
+    "begin": "00:30:30.480",
+    "end": "00:30:35.039"
+  },
+  {
+    "text": "reluctant participants in game a",
+    "begin": "00:30:32.720",
+    "end": "00:30:38.640"
+  },
+  {
+    "text": "who given a game b option would take it",
+    "begin": "00:30:35.039",
+    "end": "00:30:41.360"
+  },
+  {
+    "text": "and so if we're going to judge all of",
+    "begin": "00:30:38.640",
+    "end": "00:30:42.960"
+  },
+  {
+    "text": "the people in the system who are",
+    "begin": "00:30:41.360",
+    "end": "00:30:44.080"
+  },
+  {
+    "text": "successfully",
+    "begin": "00:30:42.960",
+    "end": "00:30:46.880"
+  },
+  {
+    "text": "playing the game a game if we're going",
+    "begin": "00:30:44.080",
+    "end": "00:30:47.679"
+  },
+  {
+    "text": "to judge them",
+    "begin": "00:30:46.880",
+    "end": "00:30:50.159"
+  },
+  {
+    "text": "for having touched game a then all hope",
+    "begin": "00:30:47.679",
+    "end": "00:30:51.120"
+  },
+  {
+    "text": "is lost",
+    "begin": "00:30:50.159",
+    "end": "00:30:53.200"
+  },
+  {
+    "text": "if we are going to provide a better",
+    "begin": "00:30:51.120",
+    "end": "00:30:54.559"
+  },
+  {
+    "text": "option and then",
+    "begin": "00:30:53.200",
+    "end": "00:30:57.279"
+  },
+  {
+    "text": "allow them to jump ship from game a into",
+    "begin": "00:30:54.559",
+    "end": "00:30:58.799"
+  },
+  {
+    "text": "something that aspires",
+    "begin": "00:30:57.279",
+    "end": "00:31:02.000"
+  },
+  {
+    "text": "to a much better outcome on game",
+    "begin": "00:30:58.799",
+    "end": "00:31:05.200"
+  },
+  {
+    "text": "theoretically sound basis then there's a",
+    "begin": "00:31:02.000",
+    "end": "00:31:06.720"
+  },
+  {
+    "text": "lot of hope and so",
+    "begin": "00:31:05.200",
+    "end": "00:31:08.880"
+  },
+  {
+    "text": "i am quite confident having interacted",
+    "begin": "00:31:06.720",
+    "end": "00:31:10.080"
+  },
+  {
+    "text": "with dan crenshaw",
+    "begin": "00:31:08.880",
+    "end": "00:31:12.000"
+  },
+  {
+    "text": "that although he's a very successful",
+    "begin": "00:31:10.080",
+    "end": "00:31:13.360"
+  },
+  {
+    "text": "game a player",
+    "begin": "00:31:12.000",
+    "end": "00:31:15.760"
+  },
+  {
+    "text": "that given a better game he'd be glad to",
+    "begin": "00:31:13.360",
+    "end": "00:31:16.559"
+  },
+  {
+    "text": "play that one",
+    "begin": "00:31:15.760",
+    "end": "00:31:18.399"
+  },
+  {
+    "text": "and he would do very well in it i think",
+    "begin": "00:31:16.559",
+    "end": "00:31:20.240"
+  },
+  {
+    "text": "his instincts are the right ones",
+    "begin": "00:31:18.399",
+    "end": "00:31:24.480"
+  },
+  {
+    "text": "i'm not going to fault him for",
+    "begin": "00:31:20.240",
+    "end": "00:31:24.480"
+  },
+  {
+    "text": "playing a strategically wise game inside",
+    "begin": "00:31:25.440",
+    "end": "00:31:29.919"
+  },
+  {
+    "text": "of washington",
+    "begin": "00:31:28.799",
+    "end": "00:31:31.679"
+  },
+  {
+    "text": "because frankly that's what has him",
+    "begin": "00:31:29.919",
+    "end": "00:31:34.799"
+  },
+  {
+    "text": "there and i'm glad that he's in the room",
+    "begin": "00:31:31.679",
+    "end": "00:31:36.559"
+  },
+  {
+    "text": "because i know that his instinct is to",
+    "begin": "00:31:34.799",
+    "end": "00:31:39.120"
+  },
+  {
+    "text": "protect the nation and we need it",
+    "begin": "00:31:36.559",
+    "end": "00:31:42.240"
+  },
+  {
+    "text": "and in those three categories you just",
+    "begin": "00:31:39.120",
+    "end": "00:31:43.039"
+  },
+  {
+    "text": "laid out",
+    "begin": "00:31:42.240",
+    "end": "00:31:45.279"
+  },
+  {
+    "text": "how would you describe yourself because",
+    "begin": "00:31:43.039",
+    "end": "00:31:47.440"
+  },
+  {
+    "text": "the the",
+    "begin": "00:31:45.279",
+    "end": "00:31:48.960"
+  },
+  {
+    "text": "the story of evergreen would suggest",
+    "begin": "00:31:47.440",
+    "end": "00:31:50.880"
+  },
+  {
+    "text": "that you were someone who would kind of",
+    "begin": "00:31:48.960",
+    "end": "00:31:52.799"
+  },
+  {
+    "text": "say what he believed no matter what do",
+    "begin": "00:31:50.880",
+    "end": "00:31:55.039"
+  },
+  {
+    "text": "you do you see yourself as someone who",
+    "begin": "00:31:52.799",
+    "end": "00:31:56.640"
+  },
+  {
+    "text": "occasionally collaborates occasionally",
+    "begin": "00:31:55.039",
+    "end": "00:31:59.120"
+  },
+  {
+    "text": "stands up or you which category put",
+    "begin": "00:31:56.640",
+    "end": "00:32:00.480"
+  },
+  {
+    "text": "yourself",
+    "begin": "00:31:59.120",
+    "end": "00:32:03.600"
+  },
+  {
+    "text": "well what i would point out is that",
+    "begin": "00:32:00.480",
+    "end": "00:32:04.799"
+  },
+  {
+    "text": "first of all",
+    "begin": "00:32:03.600",
+    "end": "00:32:07.279"
+  },
+  {
+    "text": "whether i have gotten somewhere or not",
+    "begin": "00:32:04.799",
+    "end": "00:32:08.480"
+  },
+  {
+    "text": "gotten somewhere",
+    "begin": "00:32:07.279",
+    "end": "00:32:13.120"
+  },
+  {
+    "text": "is dependent on which metric you use",
+    "begin": "00:32:08.480",
+    "end": "00:32:17.279"
+  },
+  {
+    "text": "game a does a tremendous job of ignoring",
+    "begin": "00:32:13.120",
+    "end": "00:32:21.039"
+  },
+  {
+    "text": "the world of podcasters let's say",
+    "begin": "00:32:17.279",
+    "end": "00:32:24.320"
+  },
+  {
+    "text": "right it did a very poor job handling",
+    "begin": "00:32:21.039",
+    "end": "00:32:26.240"
+  },
+  {
+    "text": "the evergreen story what made the",
+    "begin": "00:32:24.320",
+    "end": "00:32:26.799"
+  },
+  {
+    "text": "evergreen",
+    "begin": "00:32:26.240",
+    "end": "00:32:29.919"
+  },
+  {
+    "text": "story resonate for people were outsiders",
+    "begin": "00:32:26.799",
+    "end": "00:32:32.320"
+  },
+  {
+    "text": "who didn't even have a seat at the table",
+    "begin": "00:32:29.919",
+    "end": "00:32:33.120"
+  },
+  {
+    "text": "in game a",
+    "begin": "00:32:32.320",
+    "end": "00:32:35.919"
+  },
+  {
+    "text": "you know mike nena's documentary shocked",
+    "begin": "00:32:33.120",
+    "end": "00:32:36.559"
+  },
+  {
+    "text": "people",
+    "begin": "00:32:35.919",
+    "end": "00:32:39.760"
+  },
+  {
+    "text": "it was brilliantly done but mike nena is",
+    "begin": "00:32:36.559",
+    "end": "00:32:40.559"
+  },
+  {
+    "text": "not",
+    "begin": "00:32:39.760",
+    "end": "00:32:43.360"
+  },
+  {
+    "text": "with a major outfit he's a freelancer",
+    "begin": "00:32:40.559",
+    "end": "00:32:44.640"
+  },
+  {
+    "text": "from australia",
+    "begin": "00:32:43.360",
+    "end": "00:32:48.240"
+  },
+  {
+    "text": "born in mauritius right this is um",
+    "begin": "00:32:44.640",
+    "end": "00:32:50.640"
+  },
+  {
+    "text": "a very different kind of player so to",
+    "begin": "00:32:48.240",
+    "end": "00:32:52.080"
+  },
+  {
+    "text": "the extent that game b",
+    "begin": "00:32:50.640",
+    "end": "00:32:56.640"
+  },
+  {
+    "text": "is rising on the outskirts of game a",
+    "begin": "00:32:52.080",
+    "end": "00:32:58.640"
+  },
+  {
+    "text": "i've done alright and i don't think",
+    "begin": "00:32:56.640",
+    "end": "00:33:00.640"
+  },
+  {
+    "text": "that's surprising you would expect",
+    "begin": "00:32:58.640",
+    "end": "00:33:03.679"
+  },
+  {
+    "text": "a game b player to play",
+    "begin": "00:33:00.640",
+    "end": "00:33:07.519"
+  },
+  {
+    "text": "well in game b and as i've pointed out",
+    "begin": "00:33:03.679",
+    "end": "00:33:10.640"
+  },
+  {
+    "text": "elsewhere game a and game b",
+    "begin": "00:33:07.519",
+    "end": "00:33:13.279"
+  },
+  {
+    "text": "are always in competition now it happens",
+    "begin": "00:33:10.640",
+    "end": "00:33:14.240"
+  },
+  {
+    "text": "that game a",
+    "begin": "00:33:13.279",
+    "end": "00:33:16.399"
+  },
+  {
+    "text": "has been so dominant for so long that we",
+    "begin": "00:33:14.240",
+    "end": "00:33:18.000"
+  },
+  {
+    "text": "view it as the entirety of things but",
+    "begin": "00:33:16.399",
+    "end": "00:33:18.960"
+  },
+  {
+    "text": "there's always",
+    "begin": "00:33:18.000",
+    "end": "00:33:23.279"
+  },
+  {
+    "text": "um limited venues in which game b",
+    "begin": "00:33:18.960",
+    "end": "00:33:25.600"
+  },
+  {
+    "text": "shines and i would say those limited",
+    "begin": "00:33:23.279",
+    "end": "00:33:27.200"
+  },
+  {
+    "text": "venues are becoming",
+    "begin": "00:33:25.600",
+    "end": "00:33:31.039"
+  },
+  {
+    "text": "more public because of the fragility of",
+    "begin": "00:33:27.200",
+    "end": "00:33:34.080"
+  },
+  {
+    "text": "game a which is finally showing",
+    "begin": "00:33:31.039",
+    "end": "00:33:35.919"
+  },
+  {
+    "text": "so yes i have succeeded but i don't",
+    "begin": "00:33:34.080",
+    "end": "00:33:38.000"
+  },
+  {
+    "text": "think i've succeeded in the sense",
+    "begin": "00:33:35.919",
+    "end": "00:33:40.880"
+  },
+  {
+    "text": "that i'm winning within game a i'm",
+    "begin": "00:33:38.000",
+    "end": "00:33:42.880"
+  },
+  {
+    "text": "winning on the outskirts of game a",
+    "begin": "00:33:40.880",
+    "end": "00:33:46.399"
+  },
+  {
+    "text": "at best over in a place where game b",
+    "begin": "00:33:42.880",
+    "end": "00:33:48.240"
+  },
+  {
+    "text": "values are held and i don't think that",
+    "begin": "00:33:46.399",
+    "end": "00:33:49.760"
+  },
+  {
+    "text": "should surprise anyone",
+    "begin": "00:33:48.240",
+    "end": "00:33:50.960"
+  },
+  {
+    "text": "i'd like to bring in a couple more",
+    "begin": "00:33:49.760",
+    "end": "00:33:52.480"
+  },
+  {
+    "text": "topics that i've been thinking about a",
+    "begin": "00:33:50.960",
+    "end": "00:33:54.000"
+  },
+  {
+    "text": "lot and i know that you've been thinking",
+    "begin": "00:33:52.480",
+    "end": "00:33:55.440"
+  },
+  {
+    "text": "about as well",
+    "begin": "00:33:54.000",
+    "end": "00:33:58.799"
+  },
+  {
+    "text": "and um issues that affect all of us who",
+    "begin": "00:33:55.440",
+    "end": "00:34:00.159"
+  },
+  {
+    "text": "are kind of operating in this kind of",
+    "begin": "00:33:58.799",
+    "end": "00:34:02.559"
+  },
+  {
+    "text": "alternative sense-making space",
+    "begin": "00:34:00.159",
+    "end": "00:34:04.559"
+  },
+  {
+    "text": "i saw a live stream with you and heather",
+    "begin": "00:34:02.559",
+    "end": "00:34:06.880"
+  },
+  {
+    "text": "a while ago where it's mostly heather",
+    "begin": "00:34:04.559",
+    "end": "00:34:08.240"
+  },
+  {
+    "text": "talking about",
+    "begin": "00:34:06.880",
+    "end": "00:34:12.320"
+  },
+  {
+    "text": "how you the the algorithms had been",
+    "begin": "00:34:08.240",
+    "end": "00:34:14.159"
+  },
+  {
+    "text": "categorizing your content in a certain",
+    "begin": "00:34:12.320",
+    "end": "00:34:15.119"
+  },
+  {
+    "text": "way",
+    "begin": "00:34:14.159",
+    "end": "00:34:19.280"
+  },
+  {
+    "text": "and this sense of being um",
+    "begin": "00:34:15.119",
+    "end": "00:34:22.480"
+  },
+  {
+    "text": "i i'd say that that you you want to",
+    "begin": "00:34:19.280",
+    "end": "00:34:25.919"
+  },
+  {
+    "text": "appear or you want to to present a",
+    "begin": "00:34:22.480",
+    "end": "00:34:27.760"
+  },
+  {
+    "text": "perspective that's kind of nuanced and",
+    "begin": "00:34:25.919",
+    "end": "00:34:29.359"
+  },
+  {
+    "text": "is not right and is not left",
+    "begin": "00:34:27.760",
+    "end": "00:34:31.440"
+  },
+  {
+    "text": "but you were being kind of drawn towards",
+    "begin": "00:34:29.359",
+    "end": "00:34:33.280"
+  },
+  {
+    "text": "one side of the spectrum",
+    "begin": "00:34:31.440",
+    "end": "00:34:35.200"
+  },
+  {
+    "text": "rather than the other where do you think",
+    "begin": "00:34:33.280",
+    "end": "00:34:36.639"
+  },
+  {
+    "text": "you've ended up and",
+    "begin": "00:34:35.200",
+    "end": "00:34:38.960"
+  },
+  {
+    "text": "what do you think the dangers are of of",
+    "begin": "00:34:36.639",
+    "end": "00:34:41.320"
+  },
+  {
+    "text": "the kind of algorithmic",
+    "begin": "00:34:38.960",
+    "end": "00:34:44.960"
+  },
+  {
+    "text": "manipulation of this space",
+    "begin": "00:34:41.320",
+    "end": "00:34:48.079"
+  },
+  {
+    "text": "well let's be very clear in",
+    "begin": "00:34:44.960",
+    "end": "00:34:50.480"
+  },
+  {
+    "text": "in being drawn somewhere this is really",
+    "begin": "00:34:48.079",
+    "end": "00:34:51.440"
+  },
+  {
+    "text": "a matter of",
+    "begin": "00:34:50.480",
+    "end": "00:34:53.839"
+  },
+  {
+    "text": "the portrayal that the algorithm",
+    "begin": "00:34:51.440",
+    "end": "00:34:55.839"
+  },
+  {
+    "text": "portrays you as one way or the other",
+    "begin": "00:34:53.839",
+    "end": "00:34:56.960"
+  },
+  {
+    "text": "based on",
+    "begin": "00:34:55.839",
+    "end": "00:35:00.720"
+  },
+  {
+    "text": "the incentives of the corporations that",
+    "begin": "00:34:56.960",
+    "end": "00:35:02.640"
+  },
+  {
+    "text": "are deploying these algorithms",
+    "begin": "00:35:00.720",
+    "end": "00:35:05.280"
+  },
+  {
+    "text": "i think we have been very successful at",
+    "begin": "00:35:02.640",
+    "end": "00:35:06.320"
+  },
+  {
+    "text": "resisting",
+    "begin": "00:35:05.280",
+    "end": "00:35:10.000"
+  },
+  {
+    "text": "the temptation to feed the audience",
+    "begin": "00:35:06.320",
+    "end": "00:35:13.359"
+  },
+  {
+    "text": "that is finding our content that is to",
+    "begin": "00:35:10.000",
+    "end": "00:35:14.400"
+  },
+  {
+    "text": "say",
+    "begin": "00:35:13.359",
+    "end": "00:35:17.839"
+  },
+  {
+    "text": "there were years where people",
+    "begin": "00:35:14.400",
+    "end": "00:35:20.960"
+  },
+  {
+    "text": "who were arriving at our doorstep",
+    "begin": "00:35:17.839",
+    "end": "00:35:24.160"
+  },
+  {
+    "text": "were typically right of center and there",
+    "begin": "00:35:20.960",
+    "end": "00:35:26.079"
+  },
+  {
+    "text": "was a lot of insistence that we were",
+    "begin": "00:35:24.160",
+    "end": "00:35:26.800"
+  },
+  {
+    "text": "being",
+    "begin": "00:35:26.079",
+    "end": "00:35:29.359"
+  },
+  {
+    "text": "so-called red pilled and that we would",
+    "begin": "00:35:26.800",
+    "end": "00:35:30.000"
+  },
+  {
+    "text": "wake up to",
+    "begin": "00:35:29.359",
+    "end": "00:35:32.240"
+  },
+  {
+    "text": "the conservative reality of the world",
+    "begin": "00:35:30.000",
+    "end": "00:35:33.280"
+  },
+  {
+    "text": "and that would",
+    "begin": "00:35:32.240",
+    "end": "00:35:35.359"
+  },
+  {
+    "text": "complete the story and the fact is we",
+    "begin": "00:35:33.280",
+    "end": "00:35:36.640"
+  },
+  {
+    "text": "haven't moved to the right",
+    "begin": "00:35:35.359",
+    "end": "00:35:39.920"
+  },
+  {
+    "text": "even though um there was a niche for us",
+    "begin": "00:35:36.640",
+    "end": "00:35:42.240"
+  },
+  {
+    "text": "to do so there would it would have been",
+    "begin": "00:35:39.920",
+    "end": "00:35:45.200"
+  },
+  {
+    "text": "financially rewarding for example to",
+    "begin": "00:35:42.240",
+    "end": "00:35:47.920"
+  },
+  {
+    "text": "acknowledge the truth of conservatism",
+    "begin": "00:35:45.200",
+    "end": "00:35:50.800"
+  },
+  {
+    "text": "and be heralded on that side but instead",
+    "begin": "00:35:47.920",
+    "end": "00:35:51.359"
+  },
+  {
+    "text": "the",
+    "begin": "00:35:50.800",
+    "end": "00:35:53.280"
+  },
+  {
+    "text": "the honest thing to do was to say that",
+    "begin": "00:35:51.359",
+    "end": "00:35:55.040"
+  },
+  {
+    "text": "actually this story isn't",
+    "begin": "00:35:53.280",
+    "end": "00:35:58.000"
+  },
+  {
+    "text": "a clear victory for conservatism even if",
+    "begin": "00:35:55.040",
+    "end": "00:35:58.880"
+  },
+  {
+    "text": "reason",
+    "begin": "00:35:58.000",
+    "end": "00:36:00.960"
+  },
+  {
+    "text": "is finding safe harbor on the",
+    "begin": "00:35:58.880",
+    "end": "00:36:04.160"
+  },
+  {
+    "text": "conservative side at the moment",
+    "begin": "00:36:00.960",
+    "end": "00:36:06.800"
+  },
+  {
+    "text": "but you can't beat the algorithm for one",
+    "begin": "00:36:04.160",
+    "end": "00:36:07.440"
+  },
+  {
+    "text": "thing",
+    "begin": "00:36:06.800",
+    "end": "00:36:10.800"
+  },
+  {
+    "text": "you can't see it and for another thing",
+    "begin": "00:36:07.440",
+    "end": "00:36:13.839"
+  },
+  {
+    "text": "it's not stable the algorithm is",
+    "begin": "00:36:10.800",
+    "end": "00:36:16.160"
+  },
+  {
+    "text": "changing it's a moving target so even if",
+    "begin": "00:36:13.839",
+    "end": "00:36:17.760"
+  },
+  {
+    "text": "your detectors",
+    "begin": "00:36:16.160",
+    "end": "00:36:20.000"
+  },
+  {
+    "text": "were",
+    "begin": "00:36:17.760",
+    "end": "00:36:20.000"
+  },
+  {
+    "text": "unusually capable of figuring out what",
+    "begin": "00:36:20.960",
+    "end": "00:36:25.280"
+  },
+  {
+    "text": "the algorithm was doing and in some way",
+    "begin": "00:36:23.200",
+    "end": "00:36:26.880"
+  },
+  {
+    "text": "correcting for its effect",
+    "begin": "00:36:25.280",
+    "end": "00:36:28.640"
+  },
+  {
+    "text": "the fact that it changes over time makes",
+    "begin": "00:36:26.880",
+    "end": "00:36:30.720"
+  },
+  {
+    "text": "that job impossible so",
+    "begin": "00:36:28.640",
+    "end": "00:36:33.760"
+  },
+  {
+    "text": "we are in in some sense enslaved to",
+    "begin": "00:36:30.720",
+    "end": "00:36:36.480"
+  },
+  {
+    "text": "its view of the world and what it does",
+    "begin": "00:36:33.760",
+    "end": "00:36:37.280"
+  },
+  {
+    "text": "among",
+    "begin": "00:36:36.480",
+    "end": "00:36:39.920"
+  },
+  {
+    "text": "presumably many things is it feeds",
+    "begin": "00:36:37.280",
+    "end": "00:36:40.960"
+  },
+  {
+    "text": "people things",
+    "begin": "00:36:39.920",
+    "end": "00:36:43.280"
+  },
+  {
+    "text": "that they either want to hear or that",
+    "begin": "00:36:40.960",
+    "end": "00:36:45.040"
+  },
+  {
+    "text": "will enrage them enough to keep them",
+    "begin": "00:36:43.280",
+    "end": "00:36:46.000"
+  },
+  {
+    "text": "focused",
+    "begin": "00:36:45.040",
+    "end": "00:36:48.480"
+  },
+  {
+    "text": "and both of those processes are",
+    "begin": "00:36:46.000",
+    "end": "00:36:49.839"
+  },
+  {
+    "text": "absolutely toxic",
+    "begin": "00:36:48.480",
+    "end": "00:36:53.040"
+  },
+  {
+    "text": "to sense making sense making requires",
+    "begin": "00:36:49.839",
+    "end": "00:36:54.640"
+  },
+  {
+    "text": "doesn't require that you have perfect",
+    "begin": "00:36:53.040",
+    "end": "00:36:58.240"
+  },
+  {
+    "text": "access to the world but it does require",
+    "begin": "00:36:54.640",
+    "end": "00:37:02.320"
+  },
+  {
+    "text": "a a relatively",
+    "begin": "00:36:58.240",
+    "end": "00:37:04.640"
+  },
+  {
+    "text": "useful signal-to-noise ratio that allows",
+    "begin": "00:37:02.320",
+    "end": "00:37:06.400"
+  },
+  {
+    "text": "you to detect the signal",
+    "begin": "00:37:04.640",
+    "end": "00:37:09.359"
+  },
+  {
+    "text": "and to process it and the problem is",
+    "begin": "00:37:06.400",
+    "end": "00:37:09.839"
+  },
+  {
+    "text": "there is",
+    "begin": "00:37:09.359",
+    "end": "00:37:12.160"
+  },
+  {
+    "text": "signal in the distortion that the",
+    "begin": "00:37:09.839",
+    "end": "00:37:14.160"
+  },
+  {
+    "text": "algorithm introduces its signal about",
+    "begin": "00:37:12.160",
+    "end": "00:37:14.880"
+  },
+  {
+    "text": "what",
+    "begin": "00:37:14.160",
+    "end": "00:37:17.839"
+  },
+  {
+    "text": "google for example wants the fact that",
+    "begin": "00:37:14.880",
+    "end": "00:37:18.960"
+  },
+  {
+    "text": "the algorithms",
+    "begin": "00:37:17.839",
+    "end": "00:37:21.839"
+  },
+  {
+    "text": "are serving the economic and possibly",
+    "begin": "00:37:18.960",
+    "end": "00:37:23.040"
+  },
+  {
+    "text": "political interests",
+    "begin": "00:37:21.839",
+    "end": "00:37:25.200"
+  },
+  {
+    "text": "of those who are deploying them is",
+    "begin": "00:37:23.040",
+    "end": "00:37:28.079"
+  },
+  {
+    "text": "absolutely toxic to sense making",
+    "begin": "00:37:25.200",
+    "end": "00:37:30.800"
+  },
+  {
+    "text": "it does not allow you to view the world",
+    "begin": "00:37:28.079",
+    "end": "00:37:31.359"
+  },
+  {
+    "text": "it's like",
+    "begin": "00:37:30.800",
+    "end": "00:37:34.000"
+  },
+  {
+    "text": "we've purchased glasses from somebody",
+    "begin": "00:37:31.359",
+    "end": "00:37:35.359"
+  },
+  {
+    "text": "that wants us to see",
+    "begin": "00:37:34.000",
+    "end": "00:37:38.400"
+  },
+  {
+    "text": "certain things and not see other things",
+    "begin": "00:37:35.359",
+    "end": "00:37:40.640"
+  },
+  {
+    "text": "and we have to take the glasses off but",
+    "begin": "00:37:38.400",
+    "end": "00:37:42.560"
+  },
+  {
+    "text": "our means for doing that",
+    "begin": "00:37:40.640",
+    "end": "00:37:44.960"
+  },
+  {
+    "text": "is essentially non-existent because we",
+    "begin": "00:37:42.560",
+    "end": "00:37:45.920"
+  },
+  {
+    "text": "don't know",
+    "begin": "00:37:44.960",
+    "end": "00:37:47.520"
+  },
+  {
+    "text": "what the glasses are doing which",
+    "begin": "00:37:45.920",
+    "end": "00:37:49.440"
+  },
+  {
+    "text": "distortions they are introducing and",
+    "begin": "00:37:47.520",
+    "end": "00:37:50.240"
+  },
+  {
+    "text": "when",
+    "begin": "00:37:49.440",
+    "end": "00:37:52.240"
+  },
+  {
+    "text": "it is impossible to correct for them and",
+    "begin": "00:37:50.240",
+    "end": "00:37:54.400"
+  },
+  {
+    "text": "i believe that this is actually creating",
+    "begin": "00:37:52.240",
+    "end": "00:37:58.079"
+  },
+  {
+    "text": "a literal derangement of civilization",
+    "begin": "00:37:54.400",
+    "end": "00:38:00.160"
+  },
+  {
+    "text": "that what we are seeing in the streets",
+    "begin": "00:37:58.079",
+    "end": "00:38:01.440"
+  },
+  {
+    "text": "for example",
+    "begin": "00:38:00.160",
+    "end": "00:38:05.280"
+  },
+  {
+    "text": "is effectively a group psychosis",
+    "begin": "00:38:01.440",
+    "end": "00:38:07.280"
+  },
+  {
+    "text": "that is born of an incorrect",
+    "begin": "00:38:05.280",
+    "end": "00:38:08.640"
+  },
+  {
+    "text": "understanding of",
+    "begin": "00:38:07.280",
+    "end": "00:38:11.839"
+  },
+  {
+    "text": "events and if left to",
+    "begin": "00:38:08.640",
+    "end": "00:38:15.119"
+  },
+  {
+    "text": "continue this trajectory will be",
+    "begin": "00:38:11.839",
+    "end": "00:38:17.359"
+  },
+  {
+    "text": "utterly devastating to western",
+    "begin": "00:38:15.119",
+    "end": "00:38:18.160"
+  },
+  {
+    "text": "civilization",
+    "begin": "00:38:17.359",
+    "end": "00:38:22.079"
+  },
+  {
+    "text": "and possibly beyond and i think that",
+    "begin": "00:38:18.160",
+    "end": "00:38:24.079"
+  },
+  {
+    "text": "comes back to the nature of the filter",
+    "begin": "00:38:22.079",
+    "end": "00:38:25.359"
+  },
+  {
+    "text": "bubble and to the nature of the",
+    "begin": "00:38:24.079",
+    "end": "00:38:26.560"
+  },
+  {
+    "text": "algorithms",
+    "begin": "00:38:25.359",
+    "end": "00:38:28.400"
+  },
+  {
+    "text": "so basically if you're a black lives",
+    "begin": "00:38:26.560",
+    "end": "00:38:29.680"
+  },
+  {
+    "text": "matter supporter your",
+    "begin": "00:38:28.400",
+    "end": "00:38:31.839"
+  },
+  {
+    "text": "your facebook feed which is just an",
+    "begin": "00:38:29.680",
+    "end": "00:38:33.040"
+  },
+  {
+    "text": "infinite scroll",
+    "begin": "00:38:31.839",
+    "end": "00:38:35.599"
+  },
+  {
+    "text": "of stuff that is designed to push your",
+    "begin": "00:38:33.040",
+    "end": "00:38:37.359"
+  },
+  {
+    "text": "buttons looks completely different from",
+    "begin": "00:38:35.599",
+    "end": "00:38:38.880"
+  },
+  {
+    "text": "a trump supporters",
+    "begin": "00:38:37.359",
+    "end": "00:38:41.119"
+  },
+  {
+    "text": "facebook feed and there just seems like",
+    "begin": "00:38:38.880",
+    "end": "00:38:43.119"
+  },
+  {
+    "text": "there is there are no",
+    "begin": "00:38:41.119",
+    "end": "00:38:45.359"
+  },
+  {
+    "text": "there are now no places where those two",
+    "begin": "00:38:43.119",
+    "end": "00:38:46.800"
+  },
+  {
+    "text": "worlds overlap",
+    "begin": "00:38:45.359",
+    "end": "00:38:49.680"
+  },
+  {
+    "text": "and that is just increasingly kind of",
+    "begin": "00:38:46.800",
+    "end": "00:38:50.720"
+  },
+  {
+    "text": "leaking out into the",
+    "begin": "00:38:49.680",
+    "end": "00:38:54.400"
+  },
+  {
+    "text": "into the real world well i wouldn't say",
+    "begin": "00:38:50.720",
+    "end": "00:38:57.359"
+  },
+  {
+    "text": "no places i think there are islands and",
+    "begin": "00:38:54.400",
+    "end": "00:38:58.320"
+  },
+  {
+    "text": "i think",
+    "begin": "00:38:57.359",
+    "end": "00:39:00.480"
+  },
+  {
+    "text": "rebel wisdom is one such island i think",
+    "begin": "00:38:58.320",
+    "end": "00:39:02.640"
+  },
+  {
+    "text": "dark horse podcast and the portal",
+    "begin": "00:39:00.480",
+    "end": "00:39:05.520"
+  },
+  {
+    "text": "are other islands but i know that",
+    "begin": "00:39:02.640",
+    "end": "00:39:06.880"
+  },
+  {
+    "text": "personally",
+    "begin": "00:39:05.520",
+    "end": "00:39:10.560"
+  },
+  {
+    "text": "i seek out both narratives",
+    "begin": "00:39:06.880",
+    "end": "00:39:13.680"
+  },
+  {
+    "text": "and i compare them and i'm sure that i",
+    "begin": "00:39:10.560",
+    "end": "00:39:15.520"
+  },
+  {
+    "text": "am not doing a perfect job of seeing",
+    "begin": "00:39:13.680",
+    "end": "00:39:16.800"
+  },
+  {
+    "text": "them but i'm doing",
+    "begin": "00:39:15.520",
+    "end": "00:39:19.359"
+  },
+  {
+    "text": "enough of a job that i understand that",
+    "begin": "00:39:16.800",
+    "end": "00:39:20.320"
+  },
+  {
+    "text": "i'm being",
+    "begin": "00:39:19.359",
+    "end": "00:39:23.280"
+  },
+  {
+    "text": "lied to in two different directions and",
+    "begin": "00:39:20.320",
+    "end": "00:39:24.960"
+  },
+  {
+    "text": "that does not lead to a whole lot of",
+    "begin": "00:39:23.280",
+    "end": "00:39:27.599"
+  },
+  {
+    "text": "certainty about exactly what is going on",
+    "begin": "00:39:24.960",
+    "end": "00:39:29.839"
+  },
+  {
+    "text": "but it does lead to proper skepticism of",
+    "begin": "00:39:27.599",
+    "end": "00:39:32.800"
+  },
+  {
+    "text": "what we are told is going on",
+    "begin": "00:39:29.839",
+    "end": "00:39:34.400"
+  },
+  {
+    "text": "something that has changed since we last",
+    "begin": "00:39:32.800",
+    "end": "00:39:35.839"
+  },
+  {
+    "text": "spoke is",
+    "begin": "00:39:34.400",
+    "end": "00:39:38.400"
+  },
+  {
+    "text": "we've seen what looks like and i covered",
+    "begin": "00:39:35.839",
+    "end": "00:39:40.480"
+  },
+  {
+    "text": "it in the sense making series",
+    "begin": "00:39:38.400",
+    "end": "00:39:44.000"
+  },
+  {
+    "text": "matt taibi in particular sort of",
+    "begin": "00:39:40.480",
+    "end": "00:39:46.560"
+  },
+  {
+    "text": "said a bit of a mia culpa uh obviously",
+    "begin": "00:39:44.000",
+    "end": "00:39:48.480"
+  },
+  {
+    "text": "this was much worse than we realized we",
+    "begin": "00:39:46.560",
+    "end": "00:39:50.000"
+  },
+  {
+    "text": "were kind of silent on this",
+    "begin": "00:39:48.480",
+    "end": "00:39:52.240"
+  },
+  {
+    "text": "you've also had glenn greenwald starting",
+    "begin": "00:39:50.000",
+    "end": "00:39:54.160"
+  },
+  {
+    "text": "to to speak out on it",
+    "begin": "00:39:52.240",
+    "end": "00:39:56.560"
+  },
+  {
+    "text": "both sort of stalwarts of the left mata",
+    "begin": "00:39:54.160",
+    "end": "00:39:58.240"
+  },
+  {
+    "text": "iglesias also kind of",
+    "begin": "00:39:56.560",
+    "end": "00:40:02.160"
+  },
+  {
+    "text": "raising concerns do you see those",
+    "begin": "00:39:58.240",
+    "end": "00:40:04.800"
+  },
+  {
+    "text": "those sort of signs of hope as",
+    "begin": "00:40:02.160",
+    "end": "00:40:06.720"
+  },
+  {
+    "text": "potentially quite important like for me",
+    "begin": "00:40:04.800",
+    "end": "00:40:07.920"
+  },
+  {
+    "text": "it does feel like there's there's",
+    "begin": "00:40:06.720",
+    "end": "00:40:10.240"
+  },
+  {
+    "text": "beginning to be a bit of a change",
+    "begin": "00:40:07.920",
+    "end": "00:40:13.599"
+  },
+  {
+    "text": "within the left especially around the",
+    "begin": "00:40:10.240",
+    "end": "00:40:15.119"
+  },
+  {
+    "text": "people starting to spot that there is a",
+    "begin": "00:40:13.599",
+    "end": "00:40:17.440"
+  },
+  {
+    "text": "danger of this sort of ideological",
+    "begin": "00:40:15.119",
+    "end": "00:40:20.160"
+  },
+  {
+    "text": "um framework that's been nurtured on the",
+    "begin": "00:40:17.440",
+    "end": "00:40:21.680"
+  },
+  {
+    "text": "left",
+    "begin": "00:40:20.160",
+    "end": "00:40:24.079"
+  },
+  {
+    "text": "there's certainly a degree of hope in it",
+    "begin": "00:40:21.680",
+    "end": "00:40:26.319"
+  },
+  {
+    "text": "i'm pleased to see people",
+    "begin": "00:40:24.079",
+    "end": "00:40:28.560"
+  },
+  {
+    "text": "waking up but i'm also frustrated",
+    "begin": "00:40:26.319",
+    "end": "00:40:29.599"
+  },
+  {
+    "text": "because",
+    "begin": "00:40:28.560",
+    "end": "00:40:32.560"
+  },
+  {
+    "text": "the key thing about recognizing that you",
+    "begin": "00:40:29.599",
+    "end": "00:40:33.760"
+  },
+  {
+    "text": "had it wrong",
+    "begin": "00:40:32.560",
+    "end": "00:40:36.720"
+  },
+  {
+    "text": "is figuring out why you had it wrong so",
+    "begin": "00:40:33.760",
+    "end": "00:40:38.319"
+  },
+  {
+    "text": "that you don't get it wrong the next",
+    "begin": "00:40:36.720",
+    "end": "00:40:38.960"
+  },
+  {
+    "text": "time",
+    "begin": "00:40:38.319",
+    "end": "00:40:41.599"
+  },
+  {
+    "text": "and there are some people that i think",
+    "begin": "00:40:38.960",
+    "end": "00:40:42.640"
+  },
+  {
+    "text": "are doing this job",
+    "begin": "00:40:41.599",
+    "end": "00:40:45.440"
+  },
+  {
+    "text": "as well as possible matt tybee would be",
+    "begin": "00:40:42.640",
+    "end": "00:40:47.280"
+  },
+  {
+    "text": "a great example",
+    "begin": "00:40:45.440",
+    "end": "00:40:49.520"
+  },
+  {
+    "text": "and then there are others who just want",
+    "begin": "00:40:47.280",
+    "end": "00:40:50.319"
+  },
+  {
+    "text": "now that",
+    "begin": "00:40:49.520",
+    "end": "00:40:51.920"
+  },
+  {
+    "text": "they have figured out that they had it",
+    "begin": "00:40:50.319",
+    "end": "00:40:53.680"
+  },
+  {
+    "text": "wrong they just want to simply inhabit",
+    "begin": "00:40:51.920",
+    "end": "00:40:54.960"
+  },
+  {
+    "text": "the right position",
+    "begin": "00:40:53.680",
+    "end": "00:40:57.520"
+  },
+  {
+    "text": "and now they're the new experts and the",
+    "begin": "00:40:54.960",
+    "end": "00:40:58.960"
+  },
+  {
+    "text": "point is nope",
+    "begin": "00:40:57.520",
+    "end": "00:41:02.560"
+  },
+  {
+    "text": "you actually blew it and the discovery",
+    "begin": "00:40:58.960",
+    "end": "00:41:03.440"
+  },
+  {
+    "text": "that you blew it",
+    "begin": "00:41:02.560",
+    "end": "00:41:06.640"
+  },
+  {
+    "text": "now means you need to study the process",
+    "begin": "00:41:03.440",
+    "end": "00:41:08.079"
+  },
+  {
+    "text": "that misled you",
+    "begin": "00:41:06.640",
+    "end": "00:41:10.160"
+  },
+  {
+    "text": "so that you understand what that error",
+    "begin": "00:41:08.079",
+    "end": "00:41:11.520"
+  },
+  {
+    "text": "was made of",
+    "begin": "00:41:10.160",
+    "end": "00:41:13.680"
+  },
+  {
+    "text": "and in the case of for example",
+    "begin": "00:41:11.520",
+    "end": "00:41:15.040"
+  },
+  {
+    "text": "mataglasius",
+    "begin": "00:41:13.680",
+    "end": "00:41:17.200"
+  },
+  {
+    "text": "i don't see that i don't see the self",
+    "begin": "00:41:15.040",
+    "end": "00:41:19.119"
+  },
+  {
+    "text": "skepticism that should have been caused",
+    "begin": "00:41:17.200",
+    "end": "00:41:22.240"
+  },
+  {
+    "text": "by the discovery that he had it wrong so",
+    "begin": "00:41:19.119",
+    "end": "00:41:25.359"
+  },
+  {
+    "text": "it's a mixed bag and i hope we can get",
+    "begin": "00:41:22.240",
+    "end": "00:41:27.119"
+  },
+  {
+    "text": "to this process because ultimately the",
+    "begin": "00:41:25.359",
+    "end": "00:41:28.480"
+  },
+  {
+    "text": "cost of having been",
+    "begin": "00:41:27.119",
+    "end": "00:41:32.800"
+  },
+  {
+    "text": "wrong in this case is gargantuan",
+    "begin": "00:41:28.480",
+    "end": "00:41:34.880"
+  },
+  {
+    "text": "yeah i mean it does seem to me just from",
+    "begin": "00:41:32.800",
+    "end": "00:41:36.880"
+  },
+  {
+    "text": "the last",
+    "begin": "00:41:34.880",
+    "end": "00:41:39.760"
+  },
+  {
+    "text": "three months or so that there has been a",
+    "begin": "00:41:36.880",
+    "end": "00:41:41.599"
+  },
+  {
+    "text": "change i mean the harper's letter",
+    "begin": "00:41:39.760",
+    "end": "00:41:44.400"
+  },
+  {
+    "text": "was also i know i think i think you you",
+    "begin": "00:41:41.599",
+    "end": "00:41:45.760"
+  },
+  {
+    "text": "may have a slightly different take on",
+    "begin": "00:41:44.400",
+    "end": "00:41:48.160"
+  },
+  {
+    "text": "that but for me it was a",
+    "begin": "00:41:45.760",
+    "end": "00:41:50.640"
+  },
+  {
+    "text": "it was a line it was a sort of very",
+    "begin": "00:41:48.160",
+    "end": "00:41:52.400"
+  },
+  {
+    "text": "tenuous line in the sand but the",
+    "begin": "00:41:50.640",
+    "end": "00:41:53.520"
+  },
+  {
+    "text": "response to it",
+    "begin": "00:41:52.400",
+    "end": "00:41:56.400"
+  },
+  {
+    "text": "showed the problem and you did have a",
+    "begin": "00:41:53.520",
+    "end": "00:41:57.839"
+  },
+  {
+    "text": "huge number of people signing that",
+    "begin": "00:41:56.400",
+    "end": "00:41:58.400"
+  },
+  {
+    "text": "letter",
+    "begin": "00:41:57.839",
+    "end": "00:41:59.599"
+  },
+  {
+    "text": "and i think the response in the",
+    "begin": "00:41:58.400",
+    "end": "00:42:01.200"
+  },
+  {
+    "text": "aftermath showed the issue you can argue",
+    "begin": "00:41:59.599",
+    "end": "00:42:02.400"
+  },
+  {
+    "text": "with the wording of the letter and i",
+    "begin": "00:42:01.200",
+    "end": "00:42:03.280"
+  },
+  {
+    "text": "think you would have worded it",
+    "begin": "00:42:02.400",
+    "end": "00:42:04.319"
+  },
+  {
+    "text": "differently",
+    "begin": "00:42:03.280",
+    "end": "00:42:06.960"
+  },
+  {
+    "text": "but for me it was strong enough for",
+    "begin": "00:42:04.319",
+    "end": "00:42:08.079"
+  },
+  {
+    "text": "people to get behind",
+    "begin": "00:42:06.960",
+    "end": "00:42:09.599"
+  },
+  {
+    "text": "and then the aftermath really",
+    "begin": "00:42:08.079",
+    "end": "00:42:11.680"
+  },
+  {
+    "text": "demonstrated what the issue",
+    "begin": "00:42:09.599",
+    "end": "00:42:14.400"
+  },
+  {
+    "text": "was i i saw you discuss it and said that",
+    "begin": "00:42:11.680",
+    "end": "00:42:16.400"
+  },
+  {
+    "text": "you wouldn't have signed it",
+    "begin": "00:42:14.400",
+    "end": "00:42:19.599"
+  },
+  {
+    "text": "do you look at it differently at all now",
+    "begin": "00:42:16.400",
+    "end": "00:42:22.160"
+  },
+  {
+    "text": "no i think the letter evidence is",
+    "begin": "00:42:19.599",
+    "end": "00:42:23.040"
+  },
+  {
+    "text": "exactly",
+    "begin": "00:42:22.160",
+    "end": "00:42:26.000"
+  },
+  {
+    "text": "the matti iglesias problem which is that",
+    "begin": "00:42:23.040",
+    "end": "00:42:27.920"
+  },
+  {
+    "text": "people who got it wrong are now looking",
+    "begin": "00:42:26.000",
+    "end": "00:42:29.680"
+  },
+  {
+    "text": "to carve out a new deal",
+    "begin": "00:42:27.920",
+    "end": "00:42:32.319"
+  },
+  {
+    "text": "that protects them rather than recognize",
+    "begin": "00:42:29.680",
+    "end": "00:42:33.040"
+  },
+  {
+    "text": "that they put",
+    "begin": "00:42:32.319",
+    "end": "00:42:35.280"
+  },
+  {
+    "text": "a lot of us in jeopardy and that that",
+    "begin": "00:42:33.040",
+    "end": "00:42:37.440"
+  },
+  {
+    "text": "jeopardy is their responsibility",
+    "begin": "00:42:35.280",
+    "end": "00:42:39.280"
+  },
+  {
+    "text": "and it's not that everyone who signed",
+    "begin": "00:42:37.440",
+    "end": "00:42:40.960"
+  },
+  {
+    "text": "the letter is in that boat",
+    "begin": "00:42:39.280",
+    "end": "00:42:42.720"
+  },
+  {
+    "text": "my biggest concern about the letter was",
+    "begin": "00:42:40.960",
+    "end": "00:42:44.560"
+  },
+  {
+    "text": "that it dragged people who have been",
+    "begin": "00:42:42.720",
+    "end": "00:42:45.920"
+  },
+  {
+    "text": "very far-sighted",
+    "begin": "00:42:44.560",
+    "end": "00:42:49.359"
+  },
+  {
+    "text": "on this question like jonathan height",
+    "begin": "00:42:45.920",
+    "end": "00:42:51.680"
+  },
+  {
+    "text": "in with people like maddie iglesias and",
+    "begin": "00:42:49.359",
+    "end": "00:42:53.839"
+  },
+  {
+    "text": "then it excluded others",
+    "begin": "00:42:51.680",
+    "end": "00:42:57.599"
+  },
+  {
+    "text": "so those who had this right",
+    "begin": "00:42:53.839",
+    "end": "00:43:00.319"
+  },
+  {
+    "text": "should be the ones pointing the",
+    "begin": "00:42:57.599",
+    "end": "00:43:02.240"
+  },
+  {
+    "text": "direction to go so we don't make the",
+    "begin": "00:43:00.319",
+    "end": "00:43:03.119"
+  },
+  {
+    "text": "mistake again",
+    "begin": "00:43:02.240",
+    "end": "00:43:06.240"
+  },
+  {
+    "text": "rather than grouping people who are",
+    "begin": "00:43:03.119",
+    "end": "00:43:09.599"
+  },
+  {
+    "text": "still understood to be part of polite",
+    "begin": "00:43:06.240",
+    "end": "00:43:10.640"
+  },
+  {
+    "text": "society",
+    "begin": "00:43:09.599",
+    "end": "00:43:13.119"
+  },
+  {
+    "text": "and excluding those who were demonized",
+    "begin": "00:43:10.640",
+    "end": "00:43:14.160"
+  },
+  {
+    "text": "by them",
+    "begin": "00:43:13.119",
+    "end": "00:43:17.200"
+  },
+  {
+    "text": "so the idw for example was portrayed as",
+    "begin": "00:43:14.160",
+    "end": "00:43:18.400"
+  },
+  {
+    "text": "some sort of",
+    "begin": "00:43:17.200",
+    "end": "00:43:20.880"
+  },
+  {
+    "text": "far right alt-right this that or the",
+    "begin": "00:43:18.400",
+    "end": "00:43:21.440"
+  },
+  {
+    "text": "other",
+    "begin": "00:43:20.880",
+    "end": "00:43:24.640"
+  },
+  {
+    "text": "that portrayal was absolute nonsense and",
+    "begin": "00:43:21.440",
+    "end": "00:43:27.520"
+  },
+  {
+    "text": "that stigma is still in force that",
+    "begin": "00:43:24.640",
+    "end": "00:43:28.880"
+  },
+  {
+    "text": "stigma is the reason",
+    "begin": "00:43:27.520",
+    "end": "00:43:31.920"
+  },
+  {
+    "text": "that no one from idw was invited to sign",
+    "begin": "00:43:28.880",
+    "end": "00:43:32.880"
+  },
+  {
+    "text": "that letter",
+    "begin": "00:43:31.920",
+    "end": "00:43:35.920"
+  },
+  {
+    "text": "just returning to the",
+    "begin": "00:43:32.880",
+    "end": "00:43:39.599"
+  },
+  {
+    "text": "um the unity 2020 plan it relies",
+    "begin": "00:43:35.920",
+    "end": "00:43:41.760"
+  },
+  {
+    "text": "on a groundswell of support you've made",
+    "begin": "00:43:39.599",
+    "end": "00:43:42.960"
+  },
+  {
+    "text": "that clear",
+    "begin": "00:43:41.760",
+    "end": "00:43:45.920"
+  },
+  {
+    "text": "at what point do you need that",
+    "begin": "00:43:42.960",
+    "end": "00:43:47.599"
+  },
+  {
+    "text": "groundswell of support to happen",
+    "begin": "00:43:45.920",
+    "end": "00:43:51.200"
+  },
+  {
+    "text": "and when at what point will you",
+    "begin": "00:43:47.599",
+    "end": "00:43:54.640"
+  },
+  {
+    "text": "decide whether it has or hasn't",
+    "begin": "00:43:51.200",
+    "end": "00:43:56.800"
+  },
+  {
+    "text": "uh it needs to happen very soon now",
+    "begin": "00:43:54.640",
+    "end": "00:43:57.760"
+  },
+  {
+    "text": "there's a question",
+    "begin": "00:43:56.800",
+    "end": "00:44:00.960"
+  },
+  {
+    "text": "we have a lot of things which might if",
+    "begin": "00:43:57.760",
+    "end": "00:44:03.040"
+  },
+  {
+    "text": "one of the things that we need were to",
+    "begin": "00:44:00.960",
+    "end": "00:44:04.000"
+  },
+  {
+    "text": "fall into place",
+    "begin": "00:44:03.040",
+    "end": "00:44:06.160"
+  },
+  {
+    "text": "it would catalyze the others and so",
+    "begin": "00:44:04.000",
+    "end": "00:44:08.880"
+  },
+  {
+    "text": "there's sort of a question of uh",
+    "begin": "00:44:06.160",
+    "end": "00:44:10.720"
+  },
+  {
+    "text": "what is the first cause here but yes it",
+    "begin": "00:44:08.880",
+    "end": "00:44:12.240"
+  },
+  {
+    "text": "has to happen very soon in order for it",
+    "begin": "00:44:10.720",
+    "end": "00:44:14.079"
+  },
+  {
+    "text": "to be a plausible plan",
+    "begin": "00:44:12.240",
+    "end": "00:44:16.240"
+  },
+  {
+    "text": "i won't say more than that because the",
+    "begin": "00:44:14.079",
+    "end": "00:44:18.319"
+  },
+  {
+    "text": "details of exactly when depend",
+    "begin": "00:44:16.240",
+    "end": "00:44:21.599"
+  },
+  {
+    "text": "on how events unfold and they also",
+    "begin": "00:44:18.319",
+    "end": "00:44:22.079"
+  },
+  {
+    "text": "depend",
+    "begin": "00:44:21.599",
+    "end": "00:44:24.319"
+  },
+  {
+    "text": "on the decisions of individual states",
+    "begin": "00:44:22.079",
+    "end": "00:44:26.640"
+  },
+  {
+    "text": "with respect to their ballots",
+    "begin": "00:44:24.319",
+    "end": "00:44:28.640"
+  },
+  {
+    "text": "and could could you talk more about what",
+    "begin": "00:44:26.640",
+    "end": "00:44:29.920"
+  },
+  {
+    "text": "those things are that you think might",
+    "begin": "00:44:28.640",
+    "end": "00:44:32.079"
+  },
+  {
+    "text": "catalyze that process",
+    "begin": "00:44:29.920",
+    "end": "00:44:35.119"
+  },
+  {
+    "text": "i can't because they're in motion and i",
+    "begin": "00:44:32.079",
+    "end": "00:44:36.319"
+  },
+  {
+    "text": "don't my",
+    "begin": "00:44:35.119",
+    "end": "00:44:38.960"
+  },
+  {
+    "text": "primary objective is to give this plan",
+    "begin": "00:44:36.319",
+    "end": "00:44:40.640"
+  },
+  {
+    "text": "the maximum chance of",
+    "begin": "00:44:38.960",
+    "end": "00:44:43.599"
+  },
+  {
+    "text": "functioning in the 2020 cycle and",
+    "begin": "00:44:40.640",
+    "end": "00:44:44.960"
+  },
+  {
+    "text": "discussing",
+    "begin": "00:44:43.599",
+    "end": "00:44:47.599"
+  },
+  {
+    "text": "the exact details of how it might unfold",
+    "begin": "00:44:44.960",
+    "end": "00:44:49.119"
+  },
+  {
+    "text": "and what is in motion",
+    "begin": "00:44:47.599",
+    "end": "00:44:52.880"
+  },
+  {
+    "text": "is clearly a hazard to the plan so",
+    "begin": "00:44:49.119",
+    "end": "00:44:55.760"
+  },
+  {
+    "text": "in the interests of unity 2020 i'm going",
+    "begin": "00:44:52.880",
+    "end": "00:44:57.680"
+  },
+  {
+    "text": "to",
+    "begin": "00:44:55.760",
+    "end": "00:44:59.920"
+  },
+  {
+    "text": "leave it at that our ability to make",
+    "begin": "00:44:57.680",
+    "end": "00:45:01.040"
+  },
+  {
+    "text": "sense of the world",
+    "begin": "00:44:59.920",
+    "end": "00:45:03.440"
+  },
+  {
+    "text": "is breaking down we're making more and",
+    "begin": "00:45:01.040",
+    "end": "00:45:05.119"
+  },
+  {
+    "text": "more consequential choices",
+    "begin": "00:45:03.440",
+    "end": "00:45:07.359"
+  },
+  {
+    "text": "with worse and worse sense making to",
+    "begin": "00:45:05.119",
+    "end": "00:45:08.720"
+  },
+  {
+    "text": "inform those choices",
+    "begin": "00:45:07.359",
+    "end": "00:45:11.599"
+  },
+  {
+    "text": "which is kind of running increasingly",
+    "begin": "00:45:08.720",
+    "end": "00:45:12.480"
+  },
+  {
+    "text": "fast",
+    "begin": "00:45:11.599",
+    "end": "00:45:14.640"
+  },
+  {
+    "text": "through the woods increasingly blind",
+    "begin": "00:45:12.480",
+    "end": "00:45:16.800"
+  },
+  {
+    "text": "over the last two years rebel wisdom has",
+    "begin": "00:45:14.640",
+    "end": "00:45:18.560"
+  },
+  {
+    "text": "interviewed some of the world's top",
+    "begin": "00:45:16.800",
+    "end": "00:45:19.680"
+  },
+  {
+    "text": "thinkers",
+    "begin": "00:45:18.560",
+    "end": "00:45:21.839"
+  },
+  {
+    "text": "now we've brought them together for an",
+    "begin": "00:45:19.680",
+    "end": "00:45:24.319"
+  },
+  {
+    "text": "eight-week online course",
+    "begin": "00:45:21.839",
+    "end": "00:45:26.960"
+  },
+  {
+    "text": "sensemaking 101 with daniel",
+    "begin": "00:45:24.319",
+    "end": "00:45:28.400"
+  },
+  {
+    "text": "schmacktenberger",
+    "begin": "00:45:26.960",
+    "end": "00:45:31.680"
+  },
+  {
+    "text": "diane mucho hamilton john viveki",
+    "begin": "00:45:28.400",
+    "end": "00:45:35.280"
+  },
+  {
+    "text": "doshin roshi and more improve your sense",
+    "begin": "00:45:31.680",
+    "end": "00:45:36.240"
+  },
+  {
+    "text": "making",
+    "begin": "00:45:35.280",
+    "end": "00:45:38.720"
+  },
+  {
+    "text": "develop your sovereignty and join a",
+    "begin": "00:45:36.240",
+    "end": "00:45:39.920"
+  },
+  {
+    "text": "wider community",
+    "begin": "00:45:38.720",
+    "end": "00:45:46.560"
+  },
+  {
+    "text": "looking to do the same",
+    "begin": "00:45:39.920",
+    "end": "00:45:46.560"
+  }
+]

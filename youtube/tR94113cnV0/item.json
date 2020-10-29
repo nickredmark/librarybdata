@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "tR94113cnV0"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-05T21:37:49Z",
+    "channelId": "UCMzT-mdCqoyEv_-YZVtE7MQ",
+    "title": "Deep Code Bits: The Meaning of Meaning",
+    "description": "\"5 minutes on meaning\" With Jim Rutt Full video: https://www.youtube.com/watch?v=a2mZqs3g5ks&t=5853s Edited by Lorcan McSharp.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/tR94113cnV0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/tR94113cnV0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/tR94113cnV0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan Hall",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-09-05T21:37:49Z"
+  },
+  "_id": "tR94113cnV0",
+  "publishedAt": "2020-09-05T21:37:49Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCMzT-mdCqoyEv_-YZVtE7MQ"
+  ]
+}

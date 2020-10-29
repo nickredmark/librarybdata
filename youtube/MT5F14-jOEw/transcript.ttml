@@ -1,0 +1,1578 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.160" end="00:00:04.059" style="s2">howdy this is jim rutt and this is the</p>
+<p begin="00:00:02.399" end="00:00:11.519" style="s2">jim rutt show</p>
+<p begin="00:00:04.059" end="00:00:14.080" style="s2">[Music]</p>
+<p begin="00:00:11.519" end="00:00:15.839" style="s2">this is a current episode currents are</p>
+<p begin="00:00:14.080" end="00:00:17.760" style="s2">shorter and less heavily produced than</p>
+<p begin="00:00:15.839" end="00:00:18.240" style="s2">our full-length episodes and generally</p>
+<p begin="00:00:17.760" end="00:00:20.880" style="s2">focus</p>
+<p begin="00:00:18.240" end="00:00:21.359" style="s2">on a single topic as always links to</p>
+<p begin="00:00:20.880" end="00:00:23.279" style="s2">books</p>
+<p begin="00:00:21.359" end="00:00:25.800" style="s2">articles and organizations mentioned are</p>
+<p begin="00:00:23.279" end="00:00:31.840" style="s2">available on the episode page at</p>
+<p begin="00:00:25.800" end="00:00:31.840" style="s2">jimrudshow.com that&#39;s jimrutshow.com</p>
+<p begin="00:00:32.079" end="00:00:36.640" style="s2">today&#39;s guest is robin hansen robin&#39;s a</p>
+<p begin="00:00:34.719" end="00:00:38.320" style="s2">regular on the show i think this is his</p>
+<p begin="00:00:36.640" end="00:00:40.559" style="s2">fourth appearance</p>
+<p begin="00:00:38.320" end="00:00:43.280" style="s2">uh in his day job robin is a professor</p>
+<p begin="00:00:40.559" end="00:00:46.320" style="s2">of economics at george mason university</p>
+<p begin="00:00:43.280" end="00:00:46.960" style="s2">he&#39;s described his mission modestly as a</p>
+<p begin="00:00:46.320" end="00:00:49.440" style="s2">sacred</p>
+<p begin="00:00:46.960" end="00:00:51.039" style="s2">quest to understand everything and to</p>
+<p begin="00:00:49.440" end="00:00:52.960" style="s2">save the world</p>
+<p begin="00:00:51.039" end="00:00:54.719" style="s2">pretty cool i like that i mean look at</p>
+<p begin="00:00:52.960" end="00:00:56.399" style="s2">my progress and how long i&#39;m likely to</p>
+<p begin="00:00:54.719" end="00:00:57.600" style="s2">live i&#39;m not really sure that uh</p>
+<p begin="00:00:56.399" end="00:00:59.039" style="s2">that&#39;s really on target but we&#39;re going</p>
+<p begin="00:00:57.600" end="00:01:00.399" style="s2">to keep trying we&#39;re going to keep shots</p>
+<p begin="00:00:59.039" end="00:01:02.640" style="s2">all we can do right</p>
+<p begin="00:01:00.399" end="00:01:04.960" style="s2">he writes an amazingly interesting blog</p>
+<p begin="00:01:02.640" end="00:01:06.720" style="s2">at overcomingbias.com and his tweet</p>
+<p begin="00:01:04.960" end="00:01:10.159" style="s2">stream at robin hansen</p>
+<p begin="00:01:06.720" end="00:01:13.760" style="s2">is well worth following today&#39;s topic</p>
+<p begin="00:01:10.159" end="00:01:16.880" style="s2">is do we live in a simulation</p>
+<p begin="00:01:13.760" end="00:01:17.119" style="s2">a topic that i remember uh discussing in</p>
+<p begin="00:01:16.880" end="00:01:21.119" style="s2">a</p>
+<p begin="00:01:17.119" end="00:01:23.439" style="s2">freshman session at mit in 1971</p>
+<p begin="00:01:21.119" end="00:01:26.320" style="s2">so people have been thinking about this</p>
+<p begin="00:01:23.439" end="00:01:28.560" style="s2">for a long time uh</p>
+<p begin="00:01:26.320" end="00:01:31.280" style="s2">and robin&#39;s been thinking about it for</p>
+<p begin="00:01:28.560" end="00:01:33.040" style="s2">in a formal sense for longer than most</p>
+<p begin="00:01:31.280" end="00:01:35.200" style="s2">before we jump into it i&#39;m going to</p>
+<p begin="00:01:33.040" end="00:01:36.799" style="s2">stipulate at least and i&#39;ll actually</p>
+<p begin="00:01:35.200" end="00:01:38.240" style="s2">let you know robin can push back on this</p>
+<p begin="00:01:36.799" end="00:01:39.520" style="s2">if he wants i&#39;m going to stipulate that</p>
+<p begin="00:01:38.240" end="00:01:41.600" style="s2">there are limits</p>
+<p begin="00:01:39.520" end="00:01:43.200" style="s2">to this kind of speculation about the</p>
+<p begin="00:01:41.600" end="00:01:45.439" style="s2">ground of being</p>
+<p begin="00:01:43.200" end="00:01:46.320" style="s2">that we&#39;re going to get engage in today</p>
+<p begin="00:01:45.439" end="00:01:49.280" style="s2">for example</p>
+<p begin="00:01:46.320" end="00:01:50.880" style="s2">we can&#39;t disprove the assertion that the</p>
+<p begin="00:01:49.280" end="00:01:52.799" style="s2">universe was created five</p>
+<p begin="00:01:50.880" end="00:01:54.560" style="s2">seconds ago with all of our memories in</p>
+<p begin="00:01:52.799" end="00:01:57.119" style="s2">place and all ballistic</p>
+<p begin="00:01:54.560" end="00:01:59.200" style="s2">objects in motion so there are serious</p>
+<p begin="00:01:57.119" end="00:02:00.799" style="s2">bounds to metaphysical speculations of</p>
+<p begin="00:01:59.200" end="00:02:03.920" style="s2">all sorts</p>
+<p begin="00:02:00.799" end="00:02:05.439" style="s2">but with that let&#39;s hop in i got a</p>
+<p begin="00:02:03.920" end="00:02:07.600" style="s2">degree in philosophy of science a long</p>
+<p begin="00:02:05.439" end="00:02:09.280" style="s2">time ago so i think i&#39;m real</p>
+<p begin="00:02:07.600" end="00:02:11.440" style="s2">and i you know i did ai where it which</p>
+<p begin="00:02:09.280" end="00:02:14.239" style="s2">is a lot of you know how you do</p>
+<p begin="00:02:11.440" end="00:02:16.400" style="s2">reasoning and thinking and after all</p>
+<p begin="00:02:14.239" end="00:02:18.400" style="s2">that background i&#39;m relatively skeptical</p>
+<p begin="00:02:16.400" end="00:02:19.760" style="s2">of the value of sort of introducing</p>
+<p begin="00:02:18.400" end="00:02:21.360" style="s2">these fundamental limits on what you</p>
+<p begin="00:02:19.760" end="00:02:23.280" style="s2">could know arguments</p>
+<p begin="00:02:21.360" end="00:02:24.800" style="s2">seems to me you just dive into a topic</p>
+<p begin="00:02:23.280" end="00:02:26.080" style="s2">and you figure out what you can say and</p>
+<p begin="00:02:24.800" end="00:02:28.160" style="s2">what you can&#39;t</p>
+<p begin="00:02:26.080" end="00:02:29.360" style="s2">temporarily at least and and that&#39;s what</p>
+<p begin="00:02:28.160" end="00:02:32.480" style="s2">you should do</p>
+<p begin="00:02:29.360" end="00:02:33.519" style="s2">uh trying to draw some grand law about</p>
+<p begin="00:02:32.480" end="00:02:35.200" style="s2">topics you should not</p>
+<p begin="00:02:33.519" end="00:02:37.280" style="s2">go into because you couldn&#39;t possibly</p>
+<p begin="00:02:35.200" end="00:02:37.840" style="s2">know that just doesn&#39;t seem to work for</p>
+<p begin="00:02:37.280" end="00:02:39.280" style="s2">me</p>
+<p begin="00:02:37.840" end="00:02:41.519" style="s2">yeah i agree i said we&#39;re going to live</p>
+<p begin="00:02:39.280" end="00:02:42.000" style="s2">in the actual world uh the fact that we</p>
+<p begin="00:02:41.519" end="00:02:44.480" style="s2">can&#39;t</p>
+<p begin="00:02:42.000" end="00:02:45.440" style="s2">disprove you know logical impossibility</p>
+<p begin="00:02:44.480" end="00:02:47.040" style="s2">of x you know</p>
+<p begin="00:02:45.440" end="00:02:49.360" style="s2">flying spaghetti monsters or the</p>
+<p begin="00:02:47.040" end="00:02:51.760" style="s2">universe was created five seconds ago</p>
+<p begin="00:02:49.360" end="00:02:53.519" style="s2">uh you know it can&#39;t constrain us</p>
+<p begin="00:02:51.760" end="00:02:54.400" style="s2">otherwise we&#39;d starve to death right</p>
+<p begin="00:02:53.519" end="00:02:57.040" style="s2">that&#39;s the</p>
+<p begin="00:02:54.400" end="00:02:57.840" style="s2">reality of a pragmatic being in the</p>
+<p begin="00:02:57.040" end="00:03:01.680" style="s2">universe is</p>
+<p begin="00:02:57.840" end="00:03:05.120" style="s2">hey we make decisions we have ideas</p>
+<p begin="00:03:01.680" end="00:03:07.040" style="s2">etc so back to the topic of do we live</p>
+<p begin="00:03:05.120" end="00:03:09.440" style="s2">in a simulation the earliest thing i</p>
+<p begin="00:03:07.040" end="00:03:14.080" style="s2">found from you in writing at least was a</p>
+<p begin="00:03:09.440" end="00:03:14.640" style="s2">paper uh back in june of 2001 which i</p>
+<p begin="00:03:14.080" end="00:03:18.080" style="s2">believe was</p>
+<p begin="00:03:14.640" end="00:03:20.560" style="s2">prior to bostrom&#39;s speculations the very</p>
+<p begin="00:03:18.080" end="00:03:23.599" style="s2">interesting and in some ways humorous uh</p>
+<p begin="00:03:20.560" end="00:03:25.599" style="s2">paper called how to live in a simulation</p>
+<p begin="00:03:23.599" end="00:03:27.120" style="s2">uh was that the start of your thinking</p>
+<p begin="00:03:25.599" end="00:03:27.599" style="s2">or have you been thinking about this for</p>
+<p begin="00:03:27.120" end="00:03:30.319" style="s2">longer</p>
+<p begin="00:03:27.599" end="00:03:32.000" style="s2">i had been on mailing lists which had</p>
+<p begin="00:03:30.319" end="00:03:35.920" style="s2">discussed the topic for the previous</p>
+<p begin="00:03:32.000" end="00:03:38.080" style="s2">10 years ad hadn&#39;t as had nick bostrom</p>
+<p begin="00:03:35.920" end="00:03:39.840" style="s2">i mean he didn&#39;t get that out of his own</p>
+<p begin="00:03:38.080" end="00:03:40.239" style="s2">head i mean that was also an idea that</p>
+<p begin="00:03:39.840" end="00:03:41.599" style="s2">was</p>
+<p begin="00:03:40.239" end="00:03:43.840" style="s2">lots of people had been talking about</p>
+<p begin="00:03:41.599" end="00:03:45.280" style="s2">for a while in the mailing list that we</p>
+<p begin="00:03:43.840" end="00:03:47.519" style="s2">shared</p>
+<p begin="00:03:45.280" end="00:03:49.120" style="s2">and you know i was responding in part to</p>
+<p begin="00:03:47.519" end="00:03:51.280" style="s2">people talking about a lot but</p>
+<p begin="00:03:49.120" end="00:03:53.120" style="s2">i find it interesting that for odd</p>
+<p begin="00:03:51.280" end="00:03:55.120" style="s2">hypotheses like this</p>
+<p begin="00:03:53.120" end="00:03:56.560" style="s2">there&#39;s vastly more interest in the</p>
+<p begin="00:03:55.120" end="00:03:59.760" style="s2">question is it true</p>
+<p begin="00:03:56.560" end="00:04:02.319" style="s2">than how does it matter</p>
+<p begin="00:03:59.760" end="00:04:03.840" style="s2">so even like are there aliens or other</p>
+<p begin="00:04:02.319" end="00:04:06.159" style="s2">sort of dramatic hypotheses</p>
+<p begin="00:04:03.840" end="00:04:07.040" style="s2">overwhelmingly people will talk about is</p>
+<p begin="00:04:06.159" end="00:04:08.879" style="s2">it true</p>
+<p begin="00:04:07.040" end="00:04:11.920" style="s2">and they rarely get around to talking</p>
+<p begin="00:04:08.879" end="00:04:14.400" style="s2">about how does it matter if it matters</p>
+<p begin="00:04:11.920" end="00:04:16.560" style="s2">uh so my paper was there on the how does</p>
+<p begin="00:04:14.400" end="00:04:17.919" style="s2">it matter if it matters topic</p>
+<p begin="00:04:16.560" end="00:04:20.000" style="s2">and it seemed to me that that was</p>
+<p begin="00:04:17.919" end="00:04:21.759" style="s2">neglected so i was able you know in a</p>
+<p begin="00:04:20.000" end="00:04:23.759" style="s2">relatively short time to come up with a</p>
+<p begin="00:04:21.759" end="00:04:25.040" style="s2">bunch of obvious conclusions about how</p>
+<p begin="00:04:23.759" end="00:04:27.520" style="s2">it would matter</p>
+<p begin="00:04:25.040" end="00:04:28.720" style="s2">and that would affect what you would do</p>
+<p begin="00:04:27.520" end="00:04:30.240" style="s2">if you believed you lived in the</p>
+<p begin="00:04:28.720" end="00:04:32.320" style="s2">stipulation similarly you could write</p>
+<p begin="00:04:30.240" end="00:04:34.080" style="s2">other analyses on</p>
+<p begin="00:04:32.320" end="00:04:36.160" style="s2">what the consequences are if there are</p>
+<p begin="00:04:34.080" end="00:04:38.479" style="s2">aliens or if we&#39;ll be able to</p>
+<p begin="00:04:36.160" end="00:04:39.360" style="s2">do brain emulations in the future or if</p>
+<p begin="00:04:38.479" end="00:04:41.199" style="s2">there were</p>
+<p begin="00:04:39.360" end="00:04:42.800" style="s2">you know long ago advanced civilizations</p>
+<p begin="00:04:41.199" end="00:04:45.520" style="s2">that died down that we</p>
+<p begin="00:04:42.800" end="00:04:46.320" style="s2">you know don&#39;t yet know about all these</p>
+<p begin="00:04:45.520" end="00:04:48.400" style="s2">topics</p>
+<p begin="00:04:46.320" end="00:04:49.680" style="s2">i find it interesting that people have</p>
+<p begin="00:04:48.400" end="00:04:52.160" style="s2">an overwhelming interest</p>
+<p begin="00:04:49.680" end="00:04:52.800" style="s2">in talking about is it true and you get</p>
+<p begin="00:04:52.160" end="00:04:54.720" style="s2">to</p>
+<p begin="00:04:52.800" end="00:04:56.880" style="s2">okay if it were true how would it matter</p>
+<p begin="00:04:54.720" end="00:04:58.240" style="s2">people lose interest</p>
+<p begin="00:04:56.880" end="00:05:00.639" style="s2">it&#39;s interesting and yeah you came up</p>
+<p begin="00:04:58.240" end="00:05:03.759" style="s2">with a quite snappy</p>
+<p begin="00:05:00.639" end="00:05:05.520" style="s2">uh uh argument on what you should do if</p>
+<p begin="00:05:03.759" end="00:05:06.720" style="s2">we do live in a simulation in fact i&#39;m</p>
+<p begin="00:05:05.520" end="00:05:08.479" style="s2">going to read the quote</p>
+<p begin="00:05:06.720" end="00:05:10.639" style="s2">back from your paper which i just</p>
+<p begin="00:05:08.479" end="00:05:13.120" style="s2">thought was hilariously</p>
+<p begin="00:05:10.639" end="00:05:14.400" style="s2">rich and good and i don&#39;t know quite</p>
+<p begin="00:05:13.120" end="00:05:16.320" style="s2">what to make of it but i&#39;d love to get</p>
+<p begin="00:05:14.400" end="00:05:18.000" style="s2">your thoughts on it</p>
+<p begin="00:05:16.320" end="00:05:19.600" style="s2">if you might be living in a similar</p>
+<p begin="00:05:18.000" end="00:05:21.919" style="s2">simulation then all</p>
+<p begin="00:05:19.600" end="00:05:22.800" style="s2">else equal you should care less about</p>
+<p begin="00:05:21.919" end="00:05:25.680" style="s2">others</p>
+<p begin="00:05:22.800" end="00:05:27.919" style="s2">live more for today make your world look</p>
+<p begin="00:05:25.680" end="00:05:30.639" style="s2">more likely to become rich</p>
+<p begin="00:05:27.919" end="00:05:32.000" style="s2">expect to and try more to participate in</p>
+<p begin="00:05:30.639" end="00:05:34.720" style="s2">pivotal events</p>
+<p begin="00:05:32.000" end="00:05:36.560" style="s2">be more entertaining and praiseworthy</p>
+<p begin="00:05:34.720" end="00:05:38.080" style="s2">and keep the famous people around you</p>
+<p begin="00:05:36.560" end="00:05:40.479" style="s2">happier and more interested</p>
+<p begin="00:05:38.080" end="00:05:41.120" style="s2">in you i just love that i&#39;m not quite</p>
+<p begin="00:05:40.479" end="00:05:44.240" style="s2">sure why</p>
+<p begin="00:05:41.120" end="00:05:45.840" style="s2">but it&#39;s just very interesting</p>
+<p begin="00:05:44.240" end="00:05:48.400" style="s2">well i would say it is sort of the</p>
+<p begin="00:05:45.840" end="00:05:50.720" style="s2">logical implications of the hypothesis</p>
+<p begin="00:05:48.400" end="00:05:51.840" style="s2">and what might be funny is that you</p>
+<p begin="00:05:50.720" end="00:05:54.479" style="s2">usually expect</p>
+<p begin="00:05:51.840" end="00:05:55.440" style="s2">advice people give to fit the usual</p>
+<p begin="00:05:54.479" end="00:05:58.560" style="s2">tropes of</p>
+<p begin="00:05:55.440" end="00:06:00.319" style="s2">you know admirable living usually</p>
+<p begin="00:05:58.560" end="00:06:01.680" style="s2">whatever arguments you give are supposed</p>
+<p begin="00:06:00.319" end="00:06:03.600" style="s2">to draw the conclusion</p>
+<p begin="00:06:01.680" end="00:06:05.680" style="s2">that we should love each other and be</p>
+<p begin="00:06:03.600" end="00:06:07.840" style="s2">more communal and</p>
+<p begin="00:06:05.680" end="00:06:09.759" style="s2">think about the long run and care for</p>
+<p begin="00:06:07.840" end="00:06:12.400" style="s2">our children and</p>
+<p begin="00:06:09.759" end="00:06:13.360" style="s2">you know love art you know in some sense</p>
+<p begin="00:06:12.400" end="00:06:15.039" style="s2">that&#39;s the generic</p>
+<p begin="00:06:13.360" end="00:06:17.360" style="s2">conclusion of every argument about what</p>
+<p begin="00:06:15.039" end="00:06:18.880" style="s2">you should do because we all just expect</p>
+<p begin="00:06:17.360" end="00:06:20.479" style="s2">people to be trying to argue for that so</p>
+<p begin="00:06:18.880" end="00:06:22.240" style="s2">it&#39;s often funny to see</p>
+<p begin="00:06:20.479" end="00:06:23.680" style="s2">when you go through an analysis you draw</p>
+<p begin="00:06:22.240" end="00:06:24.639" style="s2">conclusions that aren&#39;t those</p>
+<p begin="00:06:23.680" end="00:06:26.160" style="s2">conclusions</p>
+<p begin="00:06:24.639" end="00:06:28.400" style="s2">although interestingly in this case the</p>
+<p begin="00:06:26.160" end="00:06:30.800" style="s2">conclusion looks very much like the way</p>
+<p begin="00:06:28.400" end="00:06:33.759" style="s2">people actually live</p>
+<p begin="00:06:30.800" end="00:06:35.680" style="s2">well yeah people aren&#39;t that crazy but</p>
+<p begin="00:06:33.759" end="00:06:37.280" style="s2">yeah so it pushes you even more in that</p>
+<p begin="00:06:35.680" end="00:06:38.080" style="s2">direction relative to the ideals you</p>
+<p begin="00:06:37.280" end="00:06:40.880" style="s2">might</p>
+<p begin="00:06:38.080" end="00:06:42.400" style="s2">typically espouse anyway that was a very</p>
+<p begin="00:06:40.880" end="00:06:44.080" style="s2">good introduction people can</p>
+<p begin="00:06:42.400" end="00:06:46.000" style="s2">can check that out on robin&#39;s essay</p>
+<p begin="00:06:44.080" end="00:06:46.800" style="s2">which as usual will have on the episode</p>
+<p begin="00:06:46.000" end="00:06:49.280" style="s2">page</p>
+<p begin="00:06:46.800" end="00:06:50.560" style="s2">so let&#39;s uh start with the probably the</p>
+<p begin="00:06:49.280" end="00:06:53.039" style="s2">framing that</p>
+<p begin="00:06:50.560" end="00:06:55.520" style="s2">is most talked about though i&#39;m going to</p>
+<p begin="00:06:53.039" end="00:06:58.560" style="s2">explain why i think bostrom&#39;s</p>
+<p begin="00:06:55.520" end="00:06:59.440" style="s2">view of ancestor simulation is limited</p>
+<p begin="00:06:58.560" end="00:07:01.840" style="s2">later</p>
+<p begin="00:06:59.440" end="00:07:03.280" style="s2">but maybe you can lay out his three-part</p>
+<p begin="00:07:01.840" end="00:07:06.639" style="s2">argument a little bit and</p>
+<p begin="00:07:03.280" end="00:07:09.360" style="s2">your take on that well sure so um</p>
+<p begin="00:07:06.639" end="00:07:10.880" style="s2">there&#39;s three scenarios uh he says and</p>
+<p begin="00:07:09.360" end="00:07:13.520" style="s2">that they&#39;re the only options and you</p>
+<p begin="00:07:10.880" end="00:07:17.039" style="s2">have to pick between one of the three</p>
+<p begin="00:07:13.520" end="00:07:20.160" style="s2">so um one scenario is that</p>
+<p begin="00:07:17.039" end="00:07:20.560" style="s2">as we move on into the future uh we will</p>
+<p begin="00:07:20.160" end="00:07:23.840" style="s2">never</p>
+<p begin="00:07:20.560" end="00:07:26.000" style="s2">really be able to uh create</p>
+<p begin="00:07:23.840" end="00:07:27.199" style="s2">simulations that is we&#39;ll never get the</p>
+<p begin="00:07:26.000" end="00:07:29.680" style="s2">capability</p>
+<p begin="00:07:27.199" end="00:07:30.960" style="s2">the technology or maybe we&#39;ll even die</p>
+<p begin="00:07:29.680" end="00:07:33.360" style="s2">out and we&#39;ll just never</p>
+<p begin="00:07:30.960" end="00:07:34.960" style="s2">be able to create creatures who are</p>
+<p begin="00:07:33.360" end="00:07:36.400" style="s2">living in a simulation and don&#39;t really</p>
+<p begin="00:07:34.960" end="00:07:38.000" style="s2">know that that&#39;s the fact</p>
+<p begin="00:07:36.400" end="00:07:39.919" style="s2">it requires some technical abilities to</p>
+<p begin="00:07:38.000" end="00:07:40.479" style="s2">do that you have to be able to create</p>
+<p begin="00:07:39.919" end="00:07:43.759" style="s2">these</p>
+<p begin="00:07:40.479" end="00:07:44.479" style="s2">simulated creatures who have a rich life</p>
+<p begin="00:07:43.759" end="00:07:46.319" style="s2">and who</p>
+<p begin="00:07:44.479" end="00:07:48.240" style="s2">think you know a lot like a human like</p>
+<p begin="00:07:46.319" end="00:07:51.360" style="s2">us thinks and feels</p>
+<p begin="00:07:48.240" end="00:07:52.479" style="s2">and um i have a whole book on how uh you</p>
+<p begin="00:07:51.360" end="00:07:54.160" style="s2">know what would happen if that</p>
+<p begin="00:07:52.479" end="00:07:56.960" style="s2">technology were to become widespread</p>
+<p begin="00:07:54.160" end="00:07:58.000" style="s2">called the age of m but basically one</p>
+<p begin="00:07:56.960" end="00:08:00.160" style="s2">scenario says</p>
+<p begin="00:07:58.000" end="00:08:02.400" style="s2">that doesn&#39;t happen we never are able to</p>
+<p begin="00:08:00.160" end="00:08:04.720" style="s2">make these future creatures</p>
+<p begin="00:08:02.400" end="00:08:06.800" style="s2">a second scenario says we do become able</p>
+<p begin="00:08:04.720" end="00:08:08.960" style="s2">to make these future creatures</p>
+<p begin="00:08:06.800" end="00:08:10.560" style="s2">and we do even make a few but we don&#39;t</p>
+<p begin="00:08:08.960" end="00:08:12.720" style="s2">make very many</p>
+<p begin="00:08:10.560" end="00:08:13.840" style="s2">for some reason uh when the future is</p>
+<p begin="00:08:12.720" end="00:08:17.280" style="s2">able to make</p>
+<p begin="00:08:13.840" end="00:08:18.319" style="s2">creatures like us who could be fooled</p>
+<p begin="00:08:17.280" end="00:08:19.360" style="s2">into thinking they were living in a</p>
+<p begin="00:08:18.319" end="00:08:20.960" style="s2">simulation</p>
+<p begin="00:08:19.360" end="00:08:22.639" style="s2">uh there is the potential that they</p>
+<p begin="00:08:20.960" end="00:08:24.319" style="s2">could make a lot of them</p>
+<p begin="00:08:22.639" end="00:08:26.720" style="s2">an enormous number but they don&#39;t they</p>
+<p begin="00:08:24.319" end="00:08:29.360" style="s2">just make a few</p>
+<p begin="00:08:26.720" end="00:08:31.280" style="s2">and the third scenario is that the</p>
+<p begin="00:08:29.360" end="00:08:31.919" style="s2">future is able to make these creatures</p>
+<p begin="00:08:31.280" end="00:08:34.959" style="s2">like us</p>
+<p begin="00:08:31.919" end="00:08:38.080" style="s2">and that they do make</p>
+<p begin="00:08:34.959" end="00:08:39.360" style="s2">creatures like us and they make a lot of</p>
+<p begin="00:08:38.080" end="00:08:42.080" style="s2">creatures like us</p>
+<p begin="00:08:39.360" end="00:08:43.519" style="s2">and therefore there are more of those</p>
+<p begin="00:08:42.080" end="00:08:45.040" style="s2">creatures in the future</p>
+<p begin="00:08:43.519" end="00:08:47.279" style="s2">who think they are living in a world</p>
+<p begin="00:08:45.040" end="00:08:49.760" style="s2">like us than there are actually people</p>
+<p begin="00:08:47.279" end="00:08:51.839" style="s2">living in the time and you know manner</p>
+<p begin="00:08:49.760" end="00:08:53.680" style="s2">that we think we live</p>
+<p begin="00:08:51.839" end="00:08:55.600" style="s2">and if that&#39;s true then if you ask well</p>
+<p begin="00:08:53.680" end="00:08:57.200" style="s2">which of them am i you have to conclude</p>
+<p begin="00:08:55.600" end="00:08:58.640" style="s2">you&#39;re more likely to be one of those</p>
+<p begin="00:08:57.200" end="00:08:59.920" style="s2">future creatures than one of the current</p>
+<p begin="00:08:58.640" end="00:09:02.320" style="s2">creatures who thinks</p>
+<p begin="00:08:59.920" end="00:09:03.040" style="s2">you&#39;re in the real world most people who</p>
+<p begin="00:09:02.320" end="00:09:05.200" style="s2">think they&#39;re</p>
+<p begin="00:09:03.040" end="00:09:06.160" style="s2">living in our era and in our time are</p>
+<p begin="00:09:05.200" end="00:09:08.320" style="s2">wrong</p>
+<p begin="00:09:06.160" end="00:09:09.440" style="s2">most of them are creatures in the future</p>
+<p begin="00:09:08.320" end="00:09:11.920" style="s2">who believe</p>
+<p begin="00:09:09.440" end="00:09:12.800" style="s2">that this is what they&#39;re living and the</p>
+<p begin="00:09:11.920" end="00:09:13.920" style="s2">claim is</p>
+<p begin="00:09:12.800" end="00:09:16.320" style="s2">you have to pick one of these three</p>
+<p begin="00:09:13.920" end="00:09:18.000" style="s2">scenarios now obviously there could be</p>
+<p begin="00:09:16.320" end="00:09:20.080" style="s2">other reasons why you might be living in</p>
+<p begin="00:09:18.000" end="00:09:21.760" style="s2">a simulation you might be in some other</p>
+<p begin="00:09:20.080" end="00:09:23.279" style="s2">you know very different universe which</p>
+<p begin="00:09:21.760" end="00:09:24.959" style="s2">creates a creature like you but that</p>
+<p begin="00:09:23.279" end="00:09:26.640" style="s2">just adds to the possibility that you</p>
+<p begin="00:09:24.959" end="00:09:28.640" style="s2">might be living in a simulation</p>
+<p begin="00:09:26.640" end="00:09:30.640" style="s2">so the claim is you&#39;ve got to pick one</p>
+<p begin="00:09:28.640" end="00:09:33.200" style="s2">of these three options</p>
+<p begin="00:09:30.640" end="00:09:34.959" style="s2">i pick the option that they don&#39;t care</p>
+<p begin="00:09:33.200" end="00:09:37.760" style="s2">much</p>
+<p begin="00:09:34.959" end="00:09:39.440" style="s2">so i agree that most likely the future</p>
+<p begin="00:09:37.760" end="00:09:39.760" style="s2">will be able to create simulations like</p>
+<p begin="00:09:39.440" end="00:09:41.279" style="s2">us</p>
+<p begin="00:09:39.760" end="00:09:43.120" style="s2">most likely they will create some of</p>
+<p begin="00:09:41.279" end="00:09:45.920" style="s2">them and</p>
+<p begin="00:09:43.120" end="00:09:46.880" style="s2">um you know that will be important but</p>
+<p begin="00:09:45.920" end="00:09:49.200" style="s2">when i look</p>
+<p begin="00:09:46.880" end="00:09:50.240" style="s2">from our era back and i say the</p>
+<p begin="00:09:49.200" end="00:09:52.640" style="s2">analogies</p>
+<p begin="00:09:50.240" end="00:09:54.399" style="s2">of what we do to make things that are</p>
+<p begin="00:09:52.640" end="00:09:56.240" style="s2">like simulations of our ancestors we</p>
+<p begin="00:09:54.399" end="00:09:57.279" style="s2">make movies we make plays we write</p>
+<p begin="00:09:56.240" end="00:10:00.720" style="s2">novels we play</p>
+<p begin="00:09:57.279" end="00:10:03.200" style="s2">games or video games and when we</p>
+<p begin="00:10:00.720" end="00:10:04.079" style="s2">try to simulate our ancestors and sort</p>
+<p begin="00:10:03.200" end="00:10:06.880" style="s2">of</p>
+<p begin="00:10:04.079" end="00:10:07.519" style="s2">you know do as best we can with that our</p>
+<p begin="00:10:06.880" end="00:10:09.839" style="s2">interest</p>
+<p begin="00:10:07.519" end="00:10:11.519" style="s2">fades much more quickly than does</p>
+<p begin="00:10:09.839" end="00:10:14.240" style="s2">population</p>
+<p begin="00:10:11.519" end="00:10:15.360" style="s2">so you know before 200 years ago</p>
+<p begin="00:10:14.240" end="00:10:18.640" style="s2">basically</p>
+<p begin="00:10:15.360" end="00:10:20.240" style="s2">population doubled every thousand years</p>
+<p begin="00:10:18.640" end="00:10:22.880" style="s2">but it seems to me our interest in the</p>
+<p begin="00:10:20.240" end="00:10:24.480" style="s2">past falls more quickly than every</p>
+<p begin="00:10:22.880" end="00:10:26.240" style="s2">doubling ever you know a half every</p>
+<p begin="00:10:24.480" end="00:10:27.680" style="s2">thousand years so our interest in the</p>
+<p begin="00:10:26.240" end="00:10:29.519" style="s2">year fifteen hundred</p>
+<p begin="00:10:27.680" end="00:10:30.880" style="s2">is far more than twice as much than our</p>
+<p begin="00:10:29.519" end="00:10:32.480" style="s2">interest in the year five hundred which</p>
+<p begin="00:10:30.880" end="00:10:33.440" style="s2">is far more than twice as much than our</p>
+<p begin="00:10:32.480" end="00:10:36.480" style="s2">interest in the year</p>
+<p begin="00:10:33.440" end="00:10:39.680" style="s2">minus 500 and so on</p>
+<p begin="00:10:36.480" end="00:10:41.360" style="s2">so that suggests that uh most interest</p>
+<p begin="00:10:39.680" end="00:10:42.720" style="s2">is concentrated near</p>
+<p begin="00:10:41.360" end="00:10:44.560" style="s2">the people who are able to do the</p>
+<p begin="00:10:42.720" end="00:10:45.279" style="s2">simulations we are mostly interested in</p>
+<p begin="00:10:44.560" end="00:10:47.920" style="s2">simulating</p>
+<p begin="00:10:45.279" end="00:10:49.040" style="s2">people like us in societies like us and</p>
+<p begin="00:10:47.920" end="00:10:51.440" style="s2">when we go back</p>
+<p begin="00:10:49.040" end="00:10:52.320" style="s2">into more stranger distant cultures we</p>
+<p begin="00:10:51.440" end="00:10:53.839" style="s2">tend to</p>
+<p begin="00:10:52.320" end="00:10:55.839" style="s2">change them to make them more like our</p>
+<p begin="00:10:53.839" end="00:10:57.680" style="s2">world like say game of thrones does</p>
+<p begin="00:10:55.839" end="00:10:59.920" style="s2">as you may know game of thrones has</p>
+<p begin="00:10:57.680" end="00:11:01.680" style="s2">characters in cities far larger than any</p>
+<p begin="00:10:59.920" end="00:11:03.200" style="s2">cities that ever existed back then</p>
+<p begin="00:11:01.680" end="00:11:04.880" style="s2">they&#39;re cities that are the size of our</p>
+<p begin="00:11:03.200" end="00:11:06.320" style="s2">cities why because</p>
+<p begin="00:11:04.880" end="00:11:08.880" style="s2">well that&#39;s the kind of cities we live</p>
+<p begin="00:11:06.320" end="00:11:11.120" style="s2">in and that&#39;s what we like to see okay</p>
+<p begin="00:11:08.880" end="00:11:12.240" style="s2">so that&#39;s my take there&#39;s the three</p>
+<p begin="00:11:11.120" end="00:11:14.800" style="s2">scenarios um</p>
+<p begin="00:11:12.240" end="00:11:16.399" style="s2">you have to pick one i&#39;ve picked they</p>
+<p begin="00:11:14.800" end="00:11:17.920" style="s2">don&#39;t care</p>
+<p begin="00:11:16.399" end="00:11:20.160" style="s2">interesting i&#39;ll push back a little bit</p>
+<p begin="00:11:17.920" end="00:11:21.920" style="s2">of on interest declinings</p>
+<p begin="00:11:20.160" end="00:11:23.200" style="s2">very rapidly i know if you remember the</p>
+<p begin="00:11:21.920" end="00:11:26.560" style="s2">very best-selling</p>
+<p begin="00:11:23.200" end="00:11:28.480" style="s2">uh series clan of the cave bears a</p>
+<p begin="00:11:26.560" end="00:11:30.800" style="s2">gene errol something like that was the</p>
+<p begin="00:11:28.480" end="00:11:33.200" style="s2">author uh they&#39;re remarkably fun</p>
+<p begin="00:11:30.800" end="00:11:34.800" style="s2">and they were set as a percentage of all</p>
+<p begin="00:11:33.200" end="00:11:38.079" style="s2">our movies or</p>
+<p begin="00:11:34.800" end="00:11:40.000" style="s2">fiction i mean it&#39;s really small it may</p>
+<p begin="00:11:38.079" end="00:11:41.120" style="s2">i think they did a movie right one movie</p>
+<p begin="00:11:40.000" end="00:11:42.959" style="s2">of it i don&#39;t know</p>
+<p begin="00:11:41.120" end="00:11:45.120" style="s2">but it was a series it was three books</p>
+<p begin="00:11:42.959" end="00:11:46.880" style="s2">and one movie and so</p>
+<p begin="00:11:45.120" end="00:11:48.880" style="s2">that&#39;s really small fraction of all the</p>
+<p begin="00:11:46.880" end="00:11:51.600" style="s2">uh fiction we have</p>
+<p begin="00:11:48.880" end="00:11:52.800" style="s2">yeah but the future is a long time so</p>
+<p begin="00:11:51.600" end="00:11:54.160" style="s2">you know well maybe</p>
+<p begin="00:11:52.800" end="00:11:56.160" style="s2">of course we don&#39;t know if the future is</p>
+<p begin="00:11:54.160" end="00:11:59.040" style="s2">a long time and some of your other work</p>
+<p begin="00:11:56.160" end="00:12:00.639" style="s2">uh talks about you know the uh the great</p>
+<p begin="00:11:59.040" end="00:12:02.480" style="s2">pruning rules in the future</p>
+<p begin="00:12:00.639" end="00:12:04.079" style="s2">and maybe our future ain&#39;t that long so</p>
+<p begin="00:12:02.480" end="00:12:06.000" style="s2">that&#39;s another possibility right which</p>
+<p begin="00:12:04.079" end="00:12:07.600" style="s2">is that we may get the capability</p>
+<p begin="00:12:06.000" end="00:12:09.279" style="s2">you should notice there are almost no</p>
+<p begin="00:12:07.600" end="00:12:11.519" style="s2">stories or movies about the other</p>
+<p begin="00:12:09.279" end="00:12:12.399" style="s2">hominids who existed around and near</p>
+<p begin="00:12:11.519" end="00:12:14.480" style="s2">humans</p>
+<p begin="00:12:12.399" end="00:12:15.519" style="s2">yeah that is true that is uh that is</p>
+<p begin="00:12:14.480" end="00:12:17.440" style="s2">zero of those</p>
+<p begin="00:12:15.519" end="00:12:19.360" style="s2">yeah so hey you screenwriters out there</p>
+<p begin="00:12:17.440" end="00:12:21.680" style="s2">let&#39;s uh talk about the interaction</p>
+<p begin="00:12:19.360" end="00:12:23.600" style="s2">between homo sapiens and neanderthals</p>
+<p begin="00:12:21.680" end="00:12:24.720" style="s2">from the neanderthal perspective that</p>
+<p begin="00:12:23.600" end="00:12:28.160" style="s2">would be interesting</p>
+<p begin="00:12:24.720" end="00:12:31.920" style="s2">exactly okay so uh we don&#39;t</p>
+<p begin="00:12:28.160" end="00:12:34.079" style="s2">our our future uh descendants don&#39;t care</p>
+<p begin="00:12:31.920" end="00:12:35.839" style="s2">so let me now open it up a little bit</p>
+<p begin="00:12:34.079" end="00:12:37.839" style="s2">and again uh</p>
+<p begin="00:12:35.839" end="00:12:40.320" style="s2">as i mentioned at the beginning uh</p>
+<p begin="00:12:37.839" end="00:12:43.360" style="s2">ancestor simulations is only it&#39;s uh</p>
+<p begin="00:12:40.320" end="00:12:44.639" style="s2">one little wedge of possible uh</p>
+<p begin="00:12:43.360" end="00:12:46.880" style="s2">ways that we could be living in a</p>
+<p begin="00:12:44.639" end="00:12:49.200" style="s2">simulation you referenced one is that</p>
+<p begin="00:12:46.880" end="00:12:51.200" style="s2">uh you know that we could be actually a</p>
+<p begin="00:12:49.200" end="00:12:53.120" style="s2">simulation in a higher order universe</p>
+<p begin="00:12:51.200" end="00:12:53.920" style="s2">nothing like our current universe and</p>
+<p begin="00:12:53.120" end="00:12:56.160" style="s2">then for whatever</p>
+<p begin="00:12:53.920" end="00:12:57.839" style="s2">god knows reason literally maybe some</p>
+<p begin="00:12:56.160" end="00:13:00.959" style="s2">kid playing god on his</p>
+<p begin="00:12:57.839" end="00:13:03.680" style="s2">playstation xxx</p>
+<p begin="00:13:00.959" end="00:13:04.880" style="s2">has spun up this simulation for</p>
+<p begin="00:13:03.680" end="00:13:07.600" style="s2">entertainment purposes</p>
+<p begin="00:13:04.880" end="00:13:08.480" style="s2">research purposes educational purposes</p>
+<p begin="00:13:07.600" end="00:13:09.600" style="s2">who knows what</p>
+<p begin="00:13:08.480" end="00:13:12.800" style="s2">maybe ones that we can&#39;t even</p>
+<p begin="00:13:09.600" end="00:13:15.920" style="s2">contemplate so higher order universe</p>
+<p begin="00:13:12.800" end="00:13:18.079" style="s2">is is certainly one</p>
+<p begin="00:13:15.920" end="00:13:19.600" style="s2">and in fact the neat thing about that is</p>
+<p begin="00:13:18.079" end="00:13:21.040" style="s2">it gets rid of</p>
+<p begin="00:13:19.600" end="00:13:22.959" style="s2">some of the constraints in boston&#39;s</p>
+<p begin="00:13:21.040" end="00:13:24.560" style="s2">analysis he does a fairly good job of</p>
+<p begin="00:13:22.959" end="00:13:26.639" style="s2">convincing me at least that</p>
+<p begin="00:13:24.560" end="00:13:28.399" style="s2">yes in the future it is plausible that</p>
+<p begin="00:13:26.639" end="00:13:31.600" style="s2">we can have the computational</p>
+<p begin="00:13:28.399" end="00:13:33.279" style="s2">power to simulate brains in a jar equal</p>
+<p begin="00:13:31.600" end="00:13:34.639" style="s2">to the number of humans that currently</p>
+<p begin="00:13:33.279" end="00:13:36.320" style="s2">exist</p>
+<p begin="00:13:34.639" end="00:13:37.839" style="s2">however if you&#39;re in a higher order</p>
+<p begin="00:13:36.320" end="00:13:40.480" style="s2">universe you have some higher</p>
+<p begin="00:13:37.839" end="00:13:42.079" style="s2">possible computational capabilities</p>
+<p begin="00:13:40.480" end="00:13:44.480" style="s2">which is enough to</p>
+<p begin="00:13:42.079" end="00:13:46.480" style="s2">essentially calculate the universe</p>
+<p begin="00:13:44.480" end="00:13:49.040" style="s2">itself and simulate that</p>
+<p begin="00:13:46.480" end="00:13:50.160" style="s2">not just our brains in a jar so higher</p>
+<p begin="00:13:49.040" end="00:13:53.120" style="s2">order universe</p>
+<p begin="00:13:50.160" end="00:13:54.399" style="s2">opens up a whole whole bunch of</p>
+<p begin="00:13:53.120" end="00:13:55.680" style="s2">additional things</p>
+<p begin="00:13:54.399" end="00:13:57.440" style="s2">uh that could be going on in the</p>
+<p begin="00:13:55.680" end="00:13:58.160" style="s2">simulation it&#39;s not all fake it could</p>
+<p begin="00:13:57.440" end="00:14:00.480" style="s2">actually be</p>
+<p begin="00:13:58.160" end="00:14:02.880" style="s2">real quote unquote you know our science</p>
+<p begin="00:14:00.480" end="00:14:04.959" style="s2">really works uh</p>
+<p begin="00:14:02.880" end="00:14:06.079" style="s2">and of course another possibility is a</p>
+<p begin="00:14:04.959" end="00:14:09.120" style="s2">friend of mine</p>
+<p begin="00:14:06.079" end="00:14:10.560" style="s2">uh uh one told me about the idea and a</p>
+<p begin="00:14:09.120" end="00:14:12.639" style="s2">solomon i don&#39;t know if she coined it or</p>
+<p begin="00:14:10.560" end="00:14:13.600" style="s2">not she called it the sleazy simulation</p>
+<p begin="00:14:12.639" end="00:14:14.880" style="s2">that uh</p>
+<p begin="00:14:13.600" end="00:14:17.120" style="s2">you know even in the higher order</p>
+<p begin="00:14:14.880" end="00:14:18.639" style="s2">universe you know the you know</p>
+<p begin="00:14:17.120" end="00:14:20.560" style="s2">computation is going to be limited by</p>
+<p begin="00:14:18.639" end="00:14:22.000" style="s2">economics as you often point out think</p>
+<p begin="00:14:20.560" end="00:14:24.240" style="s2">about the economics</p>
+<p begin="00:14:22.000" end="00:14:26.240" style="s2">uh and so yeah maybe we simulate the</p>
+<p begin="00:14:24.240" end="00:14:29.360" style="s2">earth to 14 decibel points with</p>
+<p begin="00:14:26.240" end="00:14:31.120" style="s2">uh quantum mechanics but ah</p>
+<p begin="00:14:29.360" end="00:14:33.279" style="s2">maybe uh the planets around alpha</p>
+<p begin="00:14:31.120" end="00:14:34.000" style="s2">centauri are just wireframes at this</p>
+<p begin="00:14:33.279" end="00:14:36.160" style="s2">point</p>
+<p begin="00:14:34.000" end="00:14:37.839" style="s2">and they&#39;ll only bother to calculate the</p>
+<p begin="00:14:36.160" end="00:14:40.079" style="s2">stuff in fine grain form</p>
+<p begin="00:14:37.839" end="00:14:42.639" style="s2">once somebody gets out there and then</p>
+<p begin="00:14:40.079" end="00:14:45.760" style="s2">there&#39;s even crazier possible</p>
+<p begin="00:14:42.639" end="00:14:46.720" style="s2">ways to get to a simulation uh you know</p>
+<p begin="00:14:45.760" end="00:14:49.440" style="s2">we talked before</p>
+<p begin="00:14:46.720" end="00:14:51.600" style="s2">i&#39;ve talked before on the show about the</p>
+<p begin="00:14:49.440" end="00:14:52.880" style="s2">really out there idea called boltzmann</p>
+<p begin="00:14:51.600" end="00:14:54.880" style="s2">brains</p>
+<p begin="00:14:52.880" end="00:14:56.560" style="s2">uh the idea that if the universe is</p>
+<p begin="00:14:54.880" end="00:14:57.360" style="s2">infinite or effectively infinite though</p>
+<p begin="00:14:56.560" end="00:15:00.320" style="s2">actually i would say</p>
+<p begin="00:14:57.360" end="00:15:02.320" style="s2">infinite and it behaves in a quantum</p>
+<p begin="00:15:00.320" end="00:15:04.480" style="s2">mechanical fashion the way we sort of</p>
+<p begin="00:15:02.320" end="00:15:07.680" style="s2">believe the universe works</p>
+<p begin="00:15:04.480" end="00:15:10.000" style="s2">then at some exceedingly low probability</p>
+<p begin="00:15:07.680" end="00:15:11.120" style="s2">brains can exist and can pop into</p>
+<p begin="00:15:10.000" end="00:15:13.600" style="s2">existence</p>
+<p begin="00:15:11.120" end="00:15:15.600" style="s2">through quantum fluctuations perhaps the</p>
+<p begin="00:15:13.600" end="00:15:18.720" style="s2">way the universe was started</p>
+<p begin="00:15:15.600" end="00:15:21.040" style="s2">that are large enough to simulate</p>
+<p begin="00:15:18.720" end="00:15:22.800" style="s2">our current visible universe the</p>
+<p begin="00:15:21.040" end="00:15:25.440" style="s2">universe from the big bang</p>
+<p begin="00:15:22.800" end="00:15:27.279" style="s2">and here&#39;s the really crazy and sick</p>
+<p begin="00:15:25.440" end="00:15:30.160" style="s2">thing about that if the universe were</p>
+<p begin="00:15:27.279" end="00:15:31.839" style="s2">truly infinite now infinite is a</p>
+<p begin="00:15:30.160" end="00:15:34.079" style="s2">powerful concept</p>
+<p begin="00:15:31.839" end="00:15:35.440" style="s2">there&#39;s an infinite number of boltzmann</p>
+<p begin="00:15:34.079" end="00:15:38.959" style="s2">brains large enough</p>
+<p begin="00:15:35.440" end="00:15:40.800" style="s2">to simulate our universe so uh</p>
+<p begin="00:15:38.959" end="00:15:42.320" style="s2">that&#39;s if that were indeed the case and</p>
+<p begin="00:15:40.800" end="00:15:44.560" style="s2">it&#39;s almost certain we live</p>
+<p begin="00:15:42.320" end="00:15:45.519" style="s2">in a simulation in a boltzmann brain</p>
+<p begin="00:15:44.560" end="00:15:47.440" style="s2">well</p>
+<p begin="00:15:45.519" end="00:15:49.759" style="s2">no so that does we have to take the</p>
+<p begin="00:15:47.440" end="00:15:52.399" style="s2">ratio so this is the key point</p>
+<p begin="00:15:49.759" end="00:15:54.000" style="s2">i&#39;m i&#39;m happy to guess that most likely</p>
+<p begin="00:15:52.399" end="00:15:54.880" style="s2">scenario is in fact that the universe is</p>
+<p begin="00:15:54.000" end="00:15:57.519" style="s2">infinite</p>
+<p begin="00:15:54.880" end="00:15:58.320" style="s2">uh that seems to me plausible however</p>
+<p begin="00:15:57.519" end="00:16:00.959" style="s2">then</p>
+<p begin="00:15:58.320" end="00:16:02.160" style="s2">what we are likely to be in depends on</p>
+<p begin="00:16:00.959" end="00:16:05.600" style="s2">ratios of things</p>
+<p begin="00:16:02.160" end="00:16:07.839" style="s2">in this infinity and unfortunately it&#39;s</p>
+<p begin="00:16:05.600" end="00:16:10.160" style="s2">often ambiguous how to calculate ratios</p>
+<p begin="00:16:07.839" end="00:16:11.440" style="s2">when you have infinite universes because</p>
+<p begin="00:16:10.160" end="00:16:13.199" style="s2">when you take the limits in different</p>
+<p begin="00:16:11.440" end="00:16:14.959" style="s2">directions you get different answers</p>
+<p begin="00:16:13.199" end="00:16:17.440" style="s2">and that&#39;s a fundamental theoretical</p>
+<p begin="00:16:14.959" end="00:16:20.160" style="s2">problem people have in reasoning about</p>
+<p begin="00:16:17.440" end="00:16:21.680" style="s2">probabilities in infinite universes but</p>
+<p begin="00:16:20.160" end="00:16:23.040" style="s2">we should probably set that one aside</p>
+<p begin="00:16:21.680" end="00:16:25.279" style="s2">here</p>
+<p begin="00:16:23.040" end="00:16:26.240" style="s2">and uh my best understanding is that</p>
+<p begin="00:16:25.279" end="00:16:29.199" style="s2">boltzmann brain</p>
+<p begin="00:16:26.240" end="00:16:29.920" style="s2">uh speculation is greatly diminished</p>
+<p begin="00:16:29.199" end="00:16:31.440" style="s2">when you</p>
+<p begin="00:16:29.920" end="00:16:32.800" style="s2">have a proper understanding of how</p>
+<p begin="00:16:31.440" end="00:16:33.440" style="s2">quantum mechanics is supposed to really</p>
+<p begin="00:16:32.800" end="00:16:36.560" style="s2">work</p>
+<p begin="00:16:33.440" end="00:16:37.440" style="s2">uh people have talked as if one</p>
+<p begin="00:16:36.560" end="00:16:40.480" style="s2">component of a</p>
+<p begin="00:16:37.440" end="00:16:42.639" style="s2">of a superposition was a you know</p>
+<p begin="00:16:40.480" end="00:16:44.639" style="s2">conscious thing and i don&#39;t think that&#39;s</p>
+<p begin="00:16:42.639" end="00:16:48.240" style="s2">right i think you have to sort of</p>
+<p begin="00:16:44.639" end="00:16:51.279" style="s2">focus on um you basically decohered</p>
+<p begin="00:16:48.240" end="00:16:53.519" style="s2">some parts of the quantum system</p>
+<p begin="00:16:51.279" end="00:16:55.759" style="s2">and that&#39;s why i would actually not</p>
+<p begin="00:16:53.519" end="00:16:58.639" style="s2">focus very much on the</p>
+<p begin="00:16:55.759" end="00:16:59.600" style="s2">uh boltzmann brains but i&#39;m fine with</p>
+<p begin="00:16:58.639" end="00:17:01.759" style="s2">thinking about</p>
+<p begin="00:16:59.600" end="00:17:03.120" style="s2">what if our the real universe is</p>
+<p begin="00:17:01.759" end="00:17:03.680" style="s2">different than the universe we see</p>
+<p begin="00:17:03.120" end="00:17:06.480" style="s2">around us</p>
+<p begin="00:17:03.680" end="00:17:06.959" style="s2">i mean that&#39;s not crazy right it seems</p>
+<p begin="00:17:06.480" end="00:17:08.640" style="s2">to me</p>
+<p begin="00:17:06.959" end="00:17:10.160" style="s2">the only way to really get a handle on</p>
+<p begin="00:17:08.640" end="00:17:12.160" style="s2">that is to ask</p>
+<p begin="00:17:10.160" end="00:17:13.199" style="s2">if we could simulate universes that</p>
+<p begin="00:17:12.160" end="00:17:16.319" style="s2">weren&#39;t the universe</p>
+<p begin="00:17:13.199" end="00:17:19.520" style="s2">we live in which ones would we simulate</p>
+<p begin="00:17:16.319" end="00:17:22.160" style="s2">and why uh that is the hope is that</p>
+<p begin="00:17:19.520" end="00:17:23.679" style="s2">at some larger level of aggregation or</p>
+<p begin="00:17:22.160" end="00:17:26.319" style="s2">analysis</p>
+<p begin="00:17:23.679" end="00:17:28.400" style="s2">the existence of creatures who uh have</p>
+<p begin="00:17:26.319" end="00:17:29.760" style="s2">reasons for doing things and who compete</p>
+<p begin="00:17:28.400" end="00:17:31.520" style="s2">in some world</p>
+<p begin="00:17:29.760" end="00:17:33.280" style="s2">would be more robust than maybe the</p>
+<p begin="00:17:31.520" end="00:17:34.160" style="s2">details of the physics of the universe</p>
+<p begin="00:17:33.280" end="00:17:36.720" style="s2">they live in</p>
+<p begin="00:17:34.160" end="00:17:37.679" style="s2">and so even if the creatures who</p>
+<p begin="00:17:36.720" end="00:17:39.120" style="s2">simulate us</p>
+<p begin="00:17:37.679" end="00:17:41.039" style="s2">aren&#39;t in the same kind of physical</p>
+<p begin="00:17:39.120" end="00:17:41.760" style="s2">universe as our we are they might still</p>
+<p begin="00:17:41.039" end="00:17:45.039" style="s2">have</p>
+<p begin="00:17:41.760" end="00:17:46.240" style="s2">similar sorts of reasons for simulating</p>
+<p begin="00:17:45.039" end="00:17:47.840" style="s2">something</p>
+<p begin="00:17:46.240" end="00:17:49.440" style="s2">that seems to be sort of our best hope</p>
+<p begin="00:17:47.840" end="00:17:51.440" style="s2">for making a guess about</p>
+<p begin="00:17:49.440" end="00:17:53.440" style="s2">what sort of universe they might live in</p>
+<p begin="00:17:51.440" end="00:17:55.600" style="s2">if they</p>
+<p begin="00:17:53.440" end="00:17:57.200" style="s2">uh are simulating us and we are not in</p>
+<p begin="00:17:55.600" end="00:17:59.760" style="s2">this kind of universe that they&#39;re in</p>
+<p begin="00:17:57.200" end="00:18:01.520" style="s2">so if we were going to simulate</p>
+<p begin="00:17:59.760" end="00:18:03.600" style="s2">universes which we do sometimes say in</p>
+<p begin="00:18:01.520" end="00:18:05.039" style="s2">video games or movies that are different</p>
+<p begin="00:18:03.600" end="00:18:07.679" style="s2">from our universe</p>
+<p begin="00:18:05.039" end="00:18:08.960" style="s2">what we tend to do is we tend to pick</p>
+<p begin="00:18:07.679" end="00:18:11.039" style="s2">universes which have</p>
+<p begin="00:18:08.960" end="00:18:13.039" style="s2">similar social structures even if they</p>
+<p begin="00:18:11.039" end="00:18:16.960" style="s2">have some sort of different underlying</p>
+<p begin="00:18:13.039" end="00:18:18.559" style="s2">physical infrastructure and we also tend</p>
+<p begin="00:18:16.960" end="00:18:21.760" style="s2">to pick universes that are</p>
+<p begin="00:18:18.559" end="00:18:23.760" style="s2">less constrained there&#39;s a reason why we</p>
+<p begin="00:18:21.760" end="00:18:26.640" style="s2">love stories with magic</p>
+<p begin="00:18:23.760" end="00:18:28.240" style="s2">magic takes away in our stories at least</p>
+<p begin="00:18:26.640" end="00:18:29.120" style="s2">many of the constraints that we must</p>
+<p begin="00:18:28.240" end="00:18:31.840" style="s2">suffer under</p>
+<p begin="00:18:29.120" end="00:18:32.559" style="s2">that make our stories harder to tell so</p>
+<p begin="00:18:31.840" end="00:18:36.480" style="s2">uh</p>
+<p begin="00:18:32.559" end="00:18:39.440" style="s2">most fantasy is set in worlds which are</p>
+<p begin="00:18:36.480" end="00:18:41.039" style="s2">very different from ours in physically</p>
+<p begin="00:18:39.440" end="00:18:42.400" style="s2">perhaps but socially they&#39;re much more</p>
+<p begin="00:18:41.039" end="00:18:44.000" style="s2">like our world and</p>
+<p begin="00:18:42.400" end="00:18:45.679" style="s2">the key difference in their physical</p>
+<p begin="00:18:44.000" end="00:18:47.679" style="s2">world tends to be that</p>
+<p begin="00:18:45.679" end="00:18:49.200" style="s2">magic or something like it allows them</p>
+<p begin="00:18:47.679" end="00:18:49.679" style="s2">to do the sort of things we would want</p>
+<p begin="00:18:49.200" end="00:18:51.520" style="s2">to do</p>
+<p begin="00:18:49.679" end="00:18:53.440" style="s2">except that our physical world makes it</p>
+<p begin="00:18:51.520" end="00:18:56.080" style="s2">hard</p>
+<p begin="00:18:53.440" end="00:18:58.320" style="s2">so that suggests that if there&#39;s a</p>
+<p begin="00:18:56.080" end="00:19:01.440" style="s2">strange universe simulating us</p>
+<p begin="00:18:58.320" end="00:19:03.919" style="s2">that first their social world is</p>
+<p begin="00:19:01.440" end="00:19:05.520" style="s2">more like ours than their physical world</p>
+<p begin="00:19:03.919" end="00:19:07.360" style="s2">that is they still</p>
+<p begin="00:19:05.520" end="00:19:09.039" style="s2">have creatures who have reasons like we</p>
+<p begin="00:19:07.360" end="00:19:10.960" style="s2">do and perhaps motives like we do which</p>
+<p begin="00:19:09.039" end="00:19:13.760" style="s2">is why they simulated creatures like us</p>
+<p begin="00:19:10.960" end="00:19:16.559" style="s2">with our sorts of reasons and motives</p>
+<p begin="00:19:13.760" end="00:19:19.600" style="s2">and that our physical universe is less</p>
+<p begin="00:19:16.559" end="00:19:19.600" style="s2">constrained than theirs</p>
+<p begin="00:19:19.840" end="00:19:24.480" style="s2">they probably have to deal with a more</p>
+<p begin="00:19:22.240" end="00:19:27.679" style="s2">difficult universe</p>
+<p begin="00:19:24.480" end="00:19:28.080" style="s2">that gets in the way of their plans even</p>
+<p begin="00:19:27.679" end="00:19:30.640" style="s2">more</p>
+<p begin="00:19:28.080" end="00:19:32.960" style="s2">frustratingly those are the two</p>
+<p begin="00:19:30.640" end="00:19:35.600" style="s2">hypotheses i would offer based on</p>
+<p begin="00:19:32.960" end="00:19:36.240" style="s2">the mere fact that we postulate that</p>
+<p begin="00:19:35.600" end="00:19:38.480" style="s2">they live</p>
+<p begin="00:19:36.240" end="00:19:39.600" style="s2">in a very different universe that&#39;s</p>
+<p begin="00:19:38.480" end="00:19:42.400" style="s2">interesting we could call it</p>
+<p begin="00:19:39.600" end="00:19:43.200" style="s2">uh perhaps the argument against then</p>
+<p begin="00:19:42.400" end="00:19:45.919" style="s2">such is</p>
+<p begin="00:19:43.200" end="00:19:47.039" style="s2">as far as we know or at least those of</p>
+<p begin="00:19:45.919" end="00:19:50.559" style="s2">us who are</p>
+<p begin="00:19:47.039" end="00:19:53.760" style="s2">rank naive realists like myself</p>
+<p begin="00:19:50.559" end="00:19:54.240" style="s2">no magic no magic is a at least a check</p>
+<p begin="00:19:53.760" end="00:19:56.960" style="s2">mark</p>
+<p begin="00:19:54.240" end="00:19:57.840" style="s2">against being in a simulation because if</p>
+<p begin="00:19:56.960" end="00:19:59.919" style="s2">someone were to</p>
+<p begin="00:19:57.840" end="00:20:02.000" style="s2">have simulated it by your argument</p>
+<p begin="00:19:59.919" end="00:20:05.200" style="s2">presumably they would dialed in</p>
+<p begin="00:20:02.000" end="00:20:06.159" style="s2">uh something at least uh as you said</p>
+<p begin="00:20:05.200" end="00:20:08.080" style="s2">make was more</p>
+<p begin="00:20:06.159" end="00:20:10.400" style="s2">interesting than their own universe and</p>
+<p begin="00:20:08.080" end="00:20:12.240" style="s2">that might well look like magic</p>
+<p begin="00:20:10.400" end="00:20:14.799" style="s2">right but our universe does have some</p>
+<p begin="00:20:12.240" end="00:20:16.720" style="s2">amazing capabilities and maybe</p>
+<p begin="00:20:14.799" end="00:20:18.720" style="s2">those amazing capabilities are magic</p>
+<p begin="00:20:16.720" end="00:20:21.039" style="s2">relative to their world</p>
+<p begin="00:20:18.720" end="00:20:22.799" style="s2">no that&#39;s uh i suppose possible nothing</p>
+<p begin="00:20:21.039" end="00:20:24.320" style="s2">comes to mind anything come to mind uh</p>
+<p begin="00:20:22.799" end="00:20:26.880" style="s2">for you in that category</p>
+<p begin="00:20:24.320" end="00:20:28.480" style="s2">the quantum hilbert space is to me</p>
+<p begin="00:20:26.880" end="00:20:30.799" style="s2">pretty spectacularly</p>
+<p begin="00:20:28.480" end="00:20:31.679" style="s2">amazing what is the quantum hillbird</p>
+<p begin="00:20:30.799" end="00:20:33.360" style="s2">space</p>
+<p begin="00:20:31.679" end="00:20:35.039" style="s2">well i mean it&#39;s it&#39;s the idea that the</p>
+<p begin="00:20:33.360" end="00:20:37.440" style="s2">physical state of the universe is this</p>
+<p begin="00:20:35.039" end="00:20:40.000" style="s2">very high dimensional vector space</p>
+<p begin="00:20:37.440" end="00:20:41.039" style="s2">where uh you know the it&#39;s a there&#39;s a</p>
+<p begin="00:20:40.000" end="00:20:42.559" style="s2">linear</p>
+<p begin="00:20:41.039" end="00:20:44.240" style="s2">evolution equation in that very high</p>
+<p begin="00:20:42.559" end="00:20:46.480" style="s2">dimensional vector space which is</p>
+<p begin="00:20:44.240" end="00:20:48.799" style="s2">how all the universe in some sense in</p>
+<p begin="00:20:46.480" end="00:20:51.039" style="s2">principle can be correlated</p>
+<p begin="00:20:48.799" end="00:20:52.880" style="s2">every atom and every spin everywhere in</p>
+<p begin="00:20:51.039" end="00:20:54.240" style="s2">the entire universe in principle can be</p>
+<p begin="00:20:52.880" end="00:20:57.440" style="s2">in these very complicated</p>
+<p begin="00:20:54.240" end="00:21:00.400" style="s2">correlated states and</p>
+<p begin="00:20:57.440" end="00:21:01.120" style="s2">that&#39;s a power that we rarely see being</p>
+<p begin="00:21:00.400" end="00:21:02.559" style="s2">used but</p>
+<p begin="00:21:01.120" end="00:21:04.640" style="s2">in principle it&#39;s right there in the</p>
+<p begin="00:21:02.559" end="00:21:06.720" style="s2">math and sometimes we are able to use it</p>
+<p begin="00:21:04.640" end="00:21:08.159" style="s2">yeah we recently had seth lloyd on the</p>
+<p begin="00:21:06.720" end="00:21:10.159" style="s2">show and he talked a bit about</p>
+<p begin="00:21:08.159" end="00:21:12.640" style="s2">uh the universe is a quantum computer</p>
+<p begin="00:21:10.159" end="00:21:14.720" style="s2">that is computing itself</p>
+<p begin="00:21:12.640" end="00:21:16.159" style="s2">right then those are quantum the quantum</p>
+<p begin="00:21:14.720" end="00:21:17.440" style="s2">computer that is the universe is a</p>
+<p begin="00:21:16.159" end="00:21:21.039" style="s2">pretty amazing</p>
+<p begin="00:21:17.440" end="00:21:21.360" style="s2">technical machine okay here we here we</p>
+<p begin="00:21:21.039" end="00:21:23.600" style="s2">go</p>
+<p begin="00:21:21.360" end="00:21:25.600" style="s2">suppose the higher order universe is</p>
+<p begin="00:21:23.600" end="00:21:27.280" style="s2">strictly newtonian</p>
+<p begin="00:21:25.600" end="00:21:29.120" style="s2">and they wanted something more</p>
+<p begin="00:21:27.280" end="00:21:31.760" style="s2">interesting so they dialed in</p>
+<p begin="00:21:29.120" end="00:21:32.880" style="s2">quantum mechanics and uh general</p>
+<p begin="00:21:31.760" end="00:21:36.559" style="s2">relativity</p>
+<p begin="00:21:32.880" end="00:21:39.600" style="s2">well that would be odd because um</p>
+<p begin="00:21:36.559" end="00:21:40.880" style="s2">they&#39;re trying to to build in their own</p>
+<p begin="00:21:39.600" end="00:21:42.320" style="s2">universe computers</p>
+<p begin="00:21:40.880" end="00:21:44.320" style="s2">that they can&#39;t build in the universe</p>
+<p begin="00:21:42.320" end="00:21:45.280" style="s2">that supposedly can be built in another</p>
+<p begin="00:21:44.320" end="00:21:48.000" style="s2">universe so</p>
+<p begin="00:21:45.280" end="00:21:49.440" style="s2">that&#39;s a bit dangerous in the sense that</p>
+<p begin="00:21:48.000" end="00:21:52.559" style="s2">if you give</p>
+<p begin="00:21:49.440" end="00:21:55.600" style="s2">you know your simulated creatures powers</p>
+<p begin="00:21:52.559" end="00:21:57.760" style="s2">computing powers that you don&#39;t have</p>
+<p begin="00:21:55.600" end="00:21:59.840" style="s2">then when they try to compute things you</p>
+<p begin="00:21:57.760" end="00:22:01.600" style="s2">won&#39;t be able to compute them</p>
+<p begin="00:21:59.840" end="00:22:03.200" style="s2">you&#39;ll have to make up answers and</p>
+<p begin="00:22:01.600" end="00:22:04.320" style="s2">convince them that the fake answers are</p>
+<p begin="00:22:03.200" end="00:22:06.400" style="s2">the real answers</p>
+<p begin="00:22:04.320" end="00:22:08.480" style="s2">and that may not work well if they have</p>
+<p begin="00:22:06.400" end="00:22:10.559" style="s2">more ways to check on the answers</p>
+<p begin="00:22:08.480" end="00:22:12.320" style="s2">well let&#39;s add one more fix that okay so</p>
+<p begin="00:22:10.559" end="00:22:15.120" style="s2">it&#39;s a newtonian</p>
+<p begin="00:22:12.320" end="00:22:16.320" style="s2">meta universe but uh the speed of light</p>
+<p begin="00:22:15.120" end="00:22:18.960" style="s2">is infinite</p>
+<p begin="00:22:16.320" end="00:22:20.240" style="s2">and so therefore you can build computers</p>
+<p begin="00:22:18.960" end="00:22:22.320" style="s2">uh and there&#39;s no</p>
+<p begin="00:22:20.240" end="00:22:23.440" style="s2">uh quantum mechanical effects so there&#39;s</p>
+<p begin="00:22:22.320" end="00:22:27.039" style="s2">no limit</p>
+<p begin="00:22:23.440" end="00:22:30.080" style="s2">uh other than perhaps the plank length</p>
+<p begin="00:22:27.039" end="00:22:32.240" style="s2">at how fine grain computation can be</p>
+<p begin="00:22:30.080" end="00:22:33.679" style="s2">and uh and further because you&#39;re no</p>
+<p begin="00:22:32.240" end="00:22:36.320" style="s2">limited by the speed of light</p>
+<p begin="00:22:33.679" end="00:22:36.720" style="s2">uh computation can be arbitrarily fast</p>
+<p begin="00:22:36.320" end="00:22:39.679" style="s2">and</p>
+<p begin="00:22:36.720" end="00:22:40.080" style="s2">maybe something about heat dispersion is</p>
+<p begin="00:22:39.679" end="00:22:41.280" style="s2">different</p>
+<p begin="00:22:40.080" end="00:22:42.960" style="s2">so you don&#39;t have the overheating</p>
+<p begin="00:22:41.280" end="00:22:43.840" style="s2">problems that you have in in our</p>
+<p begin="00:22:42.960" end="00:22:46.480" style="s2">computations</p>
+<p begin="00:22:43.840" end="00:22:48.720" style="s2">so therefore they can perhaps throw</p>
+<p begin="00:22:46.480" end="00:22:48.720" style="s2">enough</p>
+<p begin="00:22:48.880" end="00:22:53.600" style="s2">classical computing at the problem to do</p>
+<p begin="00:22:51.679" end="00:22:55.360" style="s2">at least a good enough job that we can&#39;t</p>
+<p begin="00:22:53.600" end="00:22:56.559" style="s2">tell the difference to simulate quantum</p>
+<p begin="00:22:55.360" end="00:22:58.799" style="s2">computing</p>
+<p begin="00:22:56.559" end="00:22:59.600" style="s2">so we should probably address this issue</p>
+<p begin="00:22:58.799" end="00:23:02.000" style="s2">people have</p>
+<p begin="00:22:59.600" end="00:23:03.600" style="s2">that um many people imagine that if</p>
+<p begin="00:23:02.000" end="00:23:06.320" style="s2">we&#39;re in a simulation it&#39;s a very</p>
+<p begin="00:23:03.600" end="00:23:07.360" style="s2">faithful very accurate simulation and</p>
+<p begin="00:23:06.320" end="00:23:09.520" style="s2">therefore</p>
+<p begin="00:23:07.360" end="00:23:11.360" style="s2">uh if their universe doesn&#39;t have the</p>
+<p begin="00:23:09.520" end="00:23:12.240" style="s2">same computing abilities as ours or</p>
+<p begin="00:23:11.360" end="00:23:14.559" style="s2">they&#39;re limited that</p>
+<p begin="00:23:12.240" end="00:23:15.679" style="s2">there would be errors sometimes and you</p>
+<p begin="00:23:14.559" end="00:23:17.120" style="s2">might be able to tell that you were</p>
+<p begin="00:23:15.679" end="00:23:19.280" style="s2">living in a simulation</p>
+<p begin="00:23:17.120" end="00:23:21.039" style="s2">because of the errors in their</p>
+<p begin="00:23:19.280" end="00:23:23.520" style="s2">calculations</p>
+<p begin="00:23:21.039" end="00:23:25.120" style="s2">uh so some people say that therefore you</p>
+<p begin="00:23:23.520" end="00:23:26.480" style="s2">know we&#39;ve looked at some sort of</p>
+<p begin="00:23:25.120" end="00:23:28.480" style="s2">you know things in our universe with</p>
+<p begin="00:23:26.480" end="00:23:29.760" style="s2">high enough accuracy that they conclude</p>
+<p begin="00:23:28.480" end="00:23:31.760" style="s2">well we couldn&#39;t be eliminated in a</p>
+<p begin="00:23:29.760" end="00:23:33.520" style="s2">simulation because uh</p>
+<p begin="00:23:31.760" end="00:23:35.280" style="s2">we would see these errors and we don&#39;t</p>
+<p begin="00:23:33.520" end="00:23:37.679" style="s2">see them</p>
+<p begin="00:23:35.280" end="00:23:38.880" style="s2">and i i think that view is basically</p>
+<p begin="00:23:37.679" end="00:23:41.679" style="s2">mistaken</p>
+<p begin="00:23:38.880" end="00:23:43.039" style="s2">uh under the presumption that you would</p>
+<p begin="00:23:41.679" end="00:23:44.960" style="s2">the only way to simulate</p>
+<p begin="00:23:43.039" end="00:23:47.120" style="s2">a universe is to simulate it in high</p>
+<p begin="00:23:44.960" end="00:23:48.320" style="s2">detail and high accuracy</p>
+<p begin="00:23:47.120" end="00:23:50.400" style="s2">i think there&#39;s a fork i think there&#39;s</p>
+<p begin="00:23:48.320" end="00:23:52.880" style="s2">an important fork here one is</p>
+<p begin="00:23:50.400" end="00:23:54.480" style="s2">do you simulate the universe or do you</p>
+<p begin="00:23:52.880" end="00:23:56.080" style="s2">simulate the agents</p>
+<p begin="00:23:54.480" end="00:23:57.679" style="s2">uh because if you simulate the agents</p>
+<p begin="00:23:56.080" end="00:24:00.240" style="s2">you can make them think that they&#39;re</p>
+<p begin="00:23:57.679" end="00:24:01.919" style="s2">right experiments are correct to 14</p>
+<p begin="00:24:00.240" end="00:24:03.120" style="s2">decibel points even when it&#39;s just a</p>
+<p begin="00:24:01.919" end="00:24:04.960" style="s2">shitty wireframe</p>
+<p begin="00:24:03.120" end="00:24:06.320" style="s2">exactly so so almost all the discussion</p>
+<p begin="00:24:04.960" end="00:24:09.039" style="s2">of simulation</p>
+<p begin="00:24:06.320" end="00:24:11.200" style="s2">is focused on agents and simulating the</p>
+<p begin="00:24:09.039" end="00:24:13.039" style="s2">agents and seeing their experiences but</p>
+<p begin="00:24:11.200" end="00:24:14.080" style="s2">if you&#39;re just focused on the agent&#39;s</p>
+<p begin="00:24:13.039" end="00:24:15.760" style="s2">experiences</p>
+<p begin="00:24:14.080" end="00:24:17.600" style="s2">they don&#39;t experience the universe and</p>
+<p begin="00:24:15.760" end="00:24:19.600" style="s2">find physical detail</p>
+<p begin="00:24:17.600" end="00:24:21.760" style="s2">they experience only some broad accurate</p>
+<p begin="00:24:19.600" end="00:24:24.240" style="s2">aggregates of what they see in here</p>
+<p begin="00:24:21.760" end="00:24:25.279" style="s2">and so it&#39;s quite possible at a much</p>
+<p begin="00:24:24.240" end="00:24:27.039" style="s2">much lower cost</p>
+<p begin="00:24:25.279" end="00:24:28.480" style="s2">to give them the impression that they&#39;re</p>
+<p begin="00:24:27.039" end="00:24:31.600" style="s2">in a consistent universe</p>
+<p begin="00:24:28.480" end="00:24:32.000" style="s2">when they&#39;re not in fact brains in a jar</p>
+<p begin="00:24:31.600" end="00:24:33.760" style="s2">is much</p>
+<p begin="00:24:32.000" end="00:24:36.000" style="s2">easier to simulate than an actual</p>
+<p begin="00:24:33.760" end="00:24:36.880" style="s2">physical universe good to 14 decimal</p>
+<p begin="00:24:36.000" end="00:24:38.640" style="s2">points i think that&#39;s</p>
+<p begin="00:24:36.880" end="00:24:39.840" style="s2">that&#39;s fair enough right so we should</p>
+<p begin="00:24:38.640" end="00:24:40.559" style="s2">just walk through though just to make</p>
+<p begin="00:24:39.840" end="00:24:43.200" style="s2">clear to people</p>
+<p begin="00:24:40.559" end="00:24:44.000" style="s2">why that&#39;s possible first of all if if</p>
+<p begin="00:24:43.200" end="00:24:45.679" style="s2">say they</p>
+<p begin="00:24:44.000" end="00:24:47.919" style="s2">create a device and it produces</p>
+<p begin="00:24:45.679" end="00:24:49.440" style="s2">error-prone noisy estimates</p>
+<p begin="00:24:47.919" end="00:24:51.600" style="s2">those don&#39;t have to be the estimates you</p>
+<p begin="00:24:49.440" end="00:24:53.039" style="s2">show their eyes or their ears</p>
+<p begin="00:24:51.600" end="00:24:55.440" style="s2">you can clean it up and present them</p>
+<p begin="00:24:53.039" end="00:24:57.520" style="s2">clean data when they see the results of</p>
+<p begin="00:24:55.440" end="00:24:59.919" style="s2">whatever experiments they run</p>
+<p begin="00:24:57.520" end="00:25:02.159" style="s2">you know they don&#39;t know that in fact it</p>
+<p begin="00:24:59.919" end="00:25:05.360" style="s2">wasn&#39;t actually run by a real experiment</p>
+<p begin="00:25:02.159" end="00:25:06.640" style="s2">in addition if you ever find out that</p>
+<p begin="00:25:05.360" end="00:25:08.000" style="s2">they&#39;ve been able to put together</p>
+<p begin="00:25:06.640" end="00:25:08.799" style="s2">several different things that you didn&#39;t</p>
+<p begin="00:25:08.000" end="00:25:10.880" style="s2">anticipate</p>
+<p begin="00:25:08.799" end="00:25:12.960" style="s2">and showed a contradiction and show that</p>
+<p begin="00:25:10.880" end="00:25:13.679" style="s2">in fact it couldn&#39;t possibly be a real</p>
+<p begin="00:25:12.960" end="00:25:15.600" style="s2">world</p>
+<p begin="00:25:13.679" end="00:25:17.520" style="s2">well at that point you can pause the</p>
+<p begin="00:25:15.600" end="00:25:19.360" style="s2">simulation and reverse it</p>
+<p begin="00:25:17.520" end="00:25:21.279" style="s2">go back before they started you know</p>
+<p begin="00:25:19.360" end="00:25:22.880" style="s2">collecting the data that was</p>
+<p begin="00:25:21.279" end="00:25:24.240" style="s2">produced the contradiction and then be</p>
+<p begin="00:25:22.880" end="00:25:25.120" style="s2">more careful and make sure that doesn&#39;t</p>
+<p begin="00:25:24.240" end="00:25:27.120" style="s2">happen</p>
+<p begin="00:25:25.120" end="00:25:28.480" style="s2">so if you&#39;re running these simulations</p>
+<p begin="00:25:27.120" end="00:25:30.960" style="s2">it&#39;s quite possible</p>
+<p begin="00:25:28.480" end="00:25:31.679" style="s2">at relatively low cost to pause them</p>
+<p begin="00:25:30.960" end="00:25:33.360" style="s2">reverse them</p>
+<p begin="00:25:31.679" end="00:25:34.799" style="s2">change something and then continue on</p>
+<p begin="00:25:33.360" end="00:25:36.320" style="s2">and make sure you don&#39;t make whatever</p>
+<p begin="00:25:34.799" end="00:25:38.480" style="s2">mistake you were</p>
+<p begin="00:25:36.320" end="00:25:40.559" style="s2">worried about i like that yeah you could</p>
+<p begin="00:25:38.480" end="00:25:42.480" style="s2">have the meta universal</p>
+<p begin="00:25:40.559" end="00:25:44.400" style="s2">editor that uh maintained or it&#39;s kind</p>
+<p begin="00:25:42.480" end="00:25:47.760" style="s2">of like the consistency person</p>
+<p begin="00:25:44.400" end="00:25:50.000" style="s2">on a continuity person on a movie set</p>
+<p begin="00:25:47.760" end="00:25:51.520" style="s2">who makes sure that the flowers were red</p>
+<p begin="00:25:50.000" end="00:25:54.559" style="s2">when they reshoot the scene</p>
+<p begin="00:25:51.520" end="00:25:56.480" style="s2">uh with the vase on the table uh not</p>
+<p begin="00:25:54.559" end="00:25:57.600" style="s2">yellow and of course they&#39;re famously</p>
+<p begin="00:25:56.480" end="00:25:59.840" style="s2">continuity</p>
+<p begin="00:25:57.600" end="00:26:01.600" style="s2">failures in movies and uh there&#39;s a</p>
+<p begin="00:25:59.840" end="00:26:04.000" style="s2">whole genre of people who look for them</p>
+<p begin="00:26:01.600" end="00:26:06.480" style="s2">but yeah so imagine a continuity editor</p>
+<p begin="00:26:04.000" end="00:26:09.679" style="s2">uh for our universe that could uh back</p>
+<p begin="00:26:06.480" end="00:26:11.679" style="s2">out replace and then replay</p>
+<p begin="00:26:09.679" end="00:26:12.960" style="s2">supposed contradictions discovered by</p>
+<p begin="00:26:11.679" end="00:26:14.640" style="s2">our scientists</p>
+<p begin="00:26:12.960" end="00:26:17.840" style="s2">i want to mention that i think this</p>
+<p begin="00:26:14.640" end="00:26:20.000" style="s2">topic tends to break people</p>
+<p begin="00:26:17.840" end="00:26:21.760" style="s2">and it&#39;s one of the reasons i&#39;m wary of</p>
+<p begin="00:26:20.000" end="00:26:22.799" style="s2">talking about it a lot or pursuing it a</p>
+<p begin="00:26:21.760" end="00:26:24.159" style="s2">lot</p>
+<p begin="00:26:22.799" end="00:26:27.679" style="s2">there are a lot of people out there</p>
+<p begin="00:26:24.159" end="00:26:29.679" style="s2">whose minds are not that stable</p>
+<p begin="00:26:27.679" end="00:26:31.120" style="s2">who can function reasonably well in</p>
+<p begin="00:26:29.679" end="00:26:32.720" style="s2">ordinary environments but</p>
+<p begin="00:26:31.120" end="00:26:34.320" style="s2">a hypothesis like the simulation</p>
+<p begin="00:26:32.720" end="00:26:36.320" style="s2">argument puts them in some sort of a</p>
+<p begin="00:26:34.320" end="00:26:40.240" style="s2">paranoid state of mind</p>
+<p begin="00:26:36.320" end="00:26:42.320" style="s2">and breaks them and that&#39;s sad</p>
+<p begin="00:26:40.240" end="00:26:44.159" style="s2">uh because in fact most likely i would</p>
+<p begin="00:26:42.320" end="00:26:46.000" style="s2">say we are not living in a simulation</p>
+<p begin="00:26:44.159" end="00:26:47.440" style="s2">and you know the adjustments you would</p>
+<p begin="00:26:46.000" end="00:26:49.679" style="s2">make for the small chance you live in a</p>
+<p begin="00:26:47.440" end="00:26:52.159" style="s2">simulation tend to be relatively minor</p>
+<p begin="00:26:49.679" end="00:26:53.600" style="s2">they&#39;re real but they&#39;re minor so mostly</p>
+<p begin="00:26:52.159" end="00:26:56.559" style="s2">i think you do okay</p>
+<p begin="00:26:53.600" end="00:26:58.240" style="s2">ignoring the hypothesis that you might</p>
+<p begin="00:26:56.559" end="00:26:59.760" style="s2">live in a simulation</p>
+<p begin="00:26:58.240" end="00:27:03.760" style="s2">and getting really obsessed with</p>
+<p begin="00:26:59.760" end="00:27:05.600" style="s2">hypothesis mostly isn&#39;t very healthy</p>
+<p begin="00:27:03.760" end="00:27:07.279" style="s2">which is sad because you know i i like</p>
+<p begin="00:27:05.600" end="00:27:07.760" style="s2">to be intellectual and explore a wide</p>
+<p begin="00:27:07.279" end="00:27:09.360" style="s2">range of</p>
+<p begin="00:27:07.760" end="00:27:11.039" style="s2">interesting topics and there are</p>
+<p begin="00:27:09.360" end="00:27:12.720" style="s2">interesting things you can learn a bit</p>
+<p begin="00:27:11.039" end="00:27:15.919" style="s2">by thinking about this topic</p>
+<p begin="00:27:12.720" end="00:27:17.120" style="s2">but it&#39;s a little dangerous</p>
+<p begin="00:27:15.919" end="00:27:18.480" style="s2">yeah i think that could be you know if</p>
+<p begin="00:27:17.120" end="00:27:20.240" style="s2">people listen to the show know when i</p>
+<p begin="00:27:18.480" end="00:27:21.279" style="s2">talk about boltzmann brains i usually</p>
+<p begin="00:27:20.240" end="00:27:23.919" style="s2">put out the</p>
+<p begin="00:27:21.279" end="00:27:26.880" style="s2">advice never never think about boltzmann</p>
+<p begin="00:27:23.919" end="00:27:29.919" style="s2">brains while tripping on acid</p>
+<p begin="00:27:26.880" end="00:27:31.919" style="s2">but so i have this book the age of m</p>
+<p begin="00:27:29.919" end="00:27:34.799" style="s2">and uh it&#39;s about this future world</p>
+<p begin="00:27:31.919" end="00:27:37.279" style="s2">where uh brain emulations are the main</p>
+<p begin="00:27:34.799" end="00:27:38.480" style="s2">dominant powers on earth and in the</p>
+<p begin="00:27:37.279" end="00:27:41.039" style="s2">universe</p>
+<p begin="00:27:38.480" end="00:27:43.600" style="s2">and in that world they have more uses</p>
+<p begin="00:27:41.039" end="00:27:46.720" style="s2">for simulations than we do</p>
+<p begin="00:27:43.600" end="00:27:48.960" style="s2">so i was able to identify ways in which</p>
+<p begin="00:27:46.720" end="00:27:50.480" style="s2">they might usefully</p>
+<p begin="00:27:48.960" end="00:27:52.559" style="s2">have simulations as part of their</p>
+<p begin="00:27:50.480" end="00:27:54.720" style="s2">regular practices</p>
+<p begin="00:27:52.559" end="00:27:57.120" style="s2">and that makes the hype simulation</p>
+<p begin="00:27:54.720" end="00:27:59.679" style="s2">hypothesis more interesting or relevant</p>
+<p begin="00:27:57.120" end="00:28:00.960" style="s2">yeah tell us about that so uh one thing</p>
+<p begin="00:27:59.679" end="00:28:02.880" style="s2">is that</p>
+<p begin="00:28:00.960" end="00:28:04.399" style="s2">you know sometimes people will have a</p>
+<p begin="00:28:02.880" end="00:28:06.399" style="s2">crisis so for example one of the reasons</p>
+<p begin="00:28:04.399" end="00:28:08.559" style="s2">we like to watch war movies or war</p>
+<p begin="00:28:06.399" end="00:28:10.559" style="s2">movies about tsunamis or things like</p>
+<p begin="00:28:08.559" end="00:28:12.159" style="s2">that is we don&#39;t experience them very</p>
+<p begin="00:28:10.559" end="00:28:12.880" style="s2">often but we&#39;d like to be prepared for</p>
+<p begin="00:28:12.159" end="00:28:14.559" style="s2">them so</p>
+<p begin="00:28:12.880" end="00:28:16.559" style="s2">going through you know fictional</p>
+<p begin="00:28:14.559" end="00:28:18.640" style="s2">versions of them and let us sort of</p>
+<p begin="00:28:16.559" end="00:28:19.520" style="s2">mentally practice for what we would do</p>
+<p begin="00:28:18.640" end="00:28:22.960" style="s2">if a big</p>
+<p begin="00:28:19.520" end="00:28:25.679" style="s2">rare but important event happened</p>
+<p begin="00:28:22.960" end="00:28:26.480" style="s2">well emulations uh basically they can</p>
+<p begin="00:28:25.679" end="00:28:28.559" style="s2">agree</p>
+<p begin="00:28:26.480" end="00:28:30.000" style="s2">that whoever is running their brain the</p>
+<p begin="00:28:28.559" end="00:28:32.000" style="s2">infrastructure in the operating system</p>
+<p begin="00:28:30.000" end="00:28:34.080" style="s2">is running their brain is allowed to put</p>
+<p begin="00:28:32.000" end="00:28:35.360" style="s2">them in simulation sometimes</p>
+<p begin="00:28:34.080" end="00:28:37.200" style="s2">allowed to put them in crisis</p>
+<p begin="00:28:35.360" end="00:28:39.120" style="s2">simulations uh</p>
+<p begin="00:28:37.200" end="00:28:41.200" style="s2">they can do this so that you know they</p>
+<p begin="00:28:39.120" end="00:28:43.039" style="s2">can practice what to do in a crisis and</p>
+<p begin="00:28:41.200" end="00:28:45.919" style="s2">so that other people can evaluate</p>
+<p begin="00:28:43.039" end="00:28:46.480" style="s2">how well they might respond to a crisis</p>
+<p begin="00:28:45.919" end="00:28:48.559" style="s2">so</p>
+<p begin="00:28:46.480" end="00:28:51.279" style="s2">when you start to see a crisis like</p>
+<p begin="00:28:48.559" end="00:28:53.760" style="s2">maybe we&#39;ve seen over the last year</p>
+<p begin="00:28:51.279" end="00:28:55.840" style="s2">as an m you&#39;d say to yourself i might be</p>
+<p begin="00:28:53.760" end="00:28:58.320" style="s2">in a simulation here</p>
+<p begin="00:28:55.840" end="00:28:59.120" style="s2">but you would then you know buckle down</p>
+<p begin="00:28:58.320" end="00:29:00.720" style="s2">and try to</p>
+<p begin="00:28:59.120" end="00:29:02.240" style="s2">deal with the simulation well because</p>
+<p begin="00:29:00.720" end="00:29:03.679" style="s2">you know you&#39;re probably being watched</p>
+<p begin="00:29:02.240" end="00:29:05.120" style="s2">and judged on how well you&#39;ll handle</p>
+<p begin="00:29:03.679" end="00:29:08.000" style="s2">this and you&#39;re going to learn</p>
+<p begin="00:29:05.120" end="00:29:10.320" style="s2">uh later how what you might do better as</p>
+<p begin="00:29:08.000" end="00:29:13.440" style="s2">a result of the simulation and you will</p>
+<p begin="00:29:10.320" end="00:29:15.440" style="s2">not freak out so emulations</p>
+<p begin="00:29:13.440" end="00:29:17.200" style="s2">when they see big crisis situations will</p>
+<p begin="00:29:15.440" end="00:29:18.559" style="s2">be less likely to freak out they&#39;ll be</p>
+<p begin="00:29:17.200" end="00:29:20.080" style="s2">more likely to just</p>
+<p begin="00:29:18.559" end="00:29:21.919" style="s2">you know buckle down and do what they</p>
+<p begin="00:29:20.080" end="00:29:23.679" style="s2">need to do to deal with it</p>
+<p begin="00:29:21.919" end="00:29:25.279" style="s2">uh because they expect they&#39;re more</p>
+<p begin="00:29:23.679" end="00:29:28.480" style="s2">likely to be in a simulation</p>
+<p begin="00:29:25.279" end="00:29:30.799" style="s2">in those scenarios of course there&#39;s no</p>
+<p begin="00:29:28.480" end="00:29:32.880" style="s2">need in those kinds of system well maybe</p>
+<p begin="00:29:30.799" end="00:29:34.559" style="s2">let&#39;s think about that is how accurate</p>
+<p begin="00:29:32.880" end="00:29:35.520" style="s2">do those simulations have to be in</p>
+<p begin="00:29:34.559" end="00:29:38.480" style="s2">particular if you&#39;re an</p>
+<p begin="00:29:35.520" end="00:29:40.720" style="s2">m who knows you&#39;re a simulation and has</p>
+<p begin="00:29:38.480" end="00:29:42.880" style="s2">been in the simulations uh these side</p>
+<p begin="00:29:40.720" end="00:29:44.559" style="s2">simulations uh before</p>
+<p begin="00:29:42.880" end="00:29:47.039" style="s2">it only has to be sort of good enough to</p>
+<p begin="00:29:44.559" end="00:29:48.799" style="s2">be useful much like agent-based modeling</p>
+<p begin="00:29:47.039" end="00:29:49.120" style="s2">in the quantitative social sciences i</p>
+<p begin="00:29:48.799" end="00:29:51.360" style="s2">mean</p>
+<p begin="00:29:49.120" end="00:29:52.559" style="s2">if you can see clear evidence that it&#39;s</p>
+<p begin="00:29:51.360" end="00:29:54.000" style="s2">a simulation</p>
+<p begin="00:29:52.559" end="00:29:56.159" style="s2">and so can the other people in your</p>
+<p begin="00:29:54.000" end="00:29:58.720" style="s2">simulation then you&#39;ve moved into the uh</p>
+<p begin="00:29:56.159" end="00:30:00.480" style="s2">trial practice mode right so as you know</p>
+<p begin="00:29:58.720" end="00:30:02.320" style="s2">in a building often you&#39;ll hear a fire</p>
+<p begin="00:30:00.480" end="00:30:03.919" style="s2">alarm go off right</p>
+<p begin="00:30:02.320" end="00:30:05.200" style="s2">the first moment you hear the fire alarm</p>
+<p begin="00:30:03.919" end="00:30:06.960" style="s2">go off you might think well this might</p>
+<p begin="00:30:05.200" end="00:30:08.720" style="s2">be a real fire</p>
+<p begin="00:30:06.960" end="00:30:10.159" style="s2">at some point somebody might say this is</p>
+<p begin="00:30:08.720" end="00:30:12.000" style="s2">a drill</p>
+<p begin="00:30:10.159" end="00:30:13.440" style="s2">but they still might ask you to continue</p>
+<p begin="00:30:12.000" end="00:30:16.000" style="s2">with the drill like</p>
+<p begin="00:30:13.440" end="00:30:17.520" style="s2">carefully march outside et cetera and</p>
+<p begin="00:30:16.000" end="00:30:18.720" style="s2">there&#39;s a point to having drills where</p>
+<p begin="00:30:17.520" end="00:30:20.399" style="s2">people know it&#39;s a drill but there&#39;s</p>
+<p begin="00:30:18.720" end="00:30:22.000" style="s2">also points in having drills where you</p>
+<p begin="00:30:20.399" end="00:30:24.240" style="s2">don&#39;t know it&#39;s a drill</p>
+<p begin="00:30:22.000" end="00:30:25.679" style="s2">so i expect they would probably because</p>
+<p begin="00:30:24.240" end="00:30:27.760" style="s2">it&#39;s relatively low cost</p>
+<p begin="00:30:25.679" end="00:30:29.279" style="s2">not tell you it&#39;s a drill they&#39;ll want</p>
+<p begin="00:30:27.760" end="00:30:30.480" style="s2">you to see what it&#39;s like if you&#39;re not</p>
+<p begin="00:30:29.279" end="00:30:33.520" style="s2">sure it&#39;s a drill</p>
+<p begin="00:30:30.480" end="00:30:35.279" style="s2">yep that&#39;s uh yeah that&#39;s interesting uh</p>
+<p begin="00:30:33.520" end="00:30:36.559" style="s2">and it&#39;s a you know a sub class of</p>
+<p begin="00:30:35.279" end="00:30:39.039" style="s2">simulation that&#39;s</p>
+<p begin="00:30:36.559" end="00:30:41.520" style="s2">less than high fidelity but to the</p>
+<p begin="00:30:39.039" end="00:30:43.919" style="s2">question about whether our universe</p>
+<p begin="00:30:41.520" end="00:30:45.279" style="s2">or what we experience subjectively is a</p>
+<p begin="00:30:43.919" end="00:30:47.200" style="s2">simulation or not</p>
+<p begin="00:30:45.279" end="00:30:49.760" style="s2">uh doesn&#39;t appear to be relevant because</p>
+<p begin="00:30:47.200" end="00:30:52.240" style="s2">at least subjectively</p>
+<p begin="00:30:49.760" end="00:30:53.600" style="s2">we appear to be living in a best we know</p>
+<p begin="00:30:52.240" end="00:30:56.480" style="s2">high fidelity universe</p>
+<p begin="00:30:53.600" end="00:30:58.720" style="s2">well that was the point of my essay on</p>
+<p begin="00:30:56.480" end="00:31:00.159" style="s2">how to live in a simulation</p>
+<p begin="00:30:58.720" end="00:31:02.240" style="s2">when people talk about living in a</p>
+<p begin="00:31:00.159" end="00:31:04.480" style="s2">simulation their mind usually defaults</p>
+<p begin="00:31:02.240" end="00:31:06.240" style="s2">to some universe-wide simulation</p>
+<p begin="00:31:04.480" end="00:31:08.159" style="s2">but my argument is that&#39;s not what you</p>
+<p begin="00:31:06.240" end="00:31:09.679" style="s2">should expect if you are living in a</p>
+<p begin="00:31:08.159" end="00:31:11.440" style="s2">simulation</p>
+<p begin="00:31:09.679" end="00:31:13.200" style="s2">most likely if you are in a simulation</p>
+<p begin="00:31:11.440" end="00:31:14.559" style="s2">it&#39;s a very small one because those are</p>
+<p begin="00:31:13.200" end="00:31:16.080" style="s2">a lot cheaper and therefore will be a</p>
+<p begin="00:31:14.559" end="00:31:17.919" style="s2">lot more numerous</p>
+<p begin="00:31:16.080" end="00:31:19.679" style="s2">most likely the simulation includes the</p>
+<p begin="00:31:17.919" end="00:31:21.039" style="s2">room you&#39;re in perhaps a few rooms</p>
+<p begin="00:31:19.679" end="00:31:23.360" style="s2">nearby</p>
+<p begin="00:31:21.039" end="00:31:24.159" style="s2">uh a few people in the few rooms nearby</p>
+<p begin="00:31:23.360" end="00:31:27.679" style="s2">you and</p>
+<p begin="00:31:24.159" end="00:31:29.679" style="s2">nothing else uh and it won&#39;t last very</p>
+<p begin="00:31:27.679" end="00:31:32.720" style="s2">long it may not last the hour</p>
+<p begin="00:31:29.679" end="00:31:33.440" style="s2">may not last the day most simulations</p>
+<p begin="00:31:32.720" end="00:31:36.240" style="s2">would be</p>
+<p begin="00:31:33.440" end="00:31:37.760" style="s2">small things like that even if it looks</p>
+<p begin="00:31:36.240" end="00:31:38.799" style="s2">like you&#39;re in a universe so of course</p>
+<p begin="00:31:37.760" end="00:31:39.360" style="s2">when you&#39;re sitting in the room you&#39;re</p>
+<p begin="00:31:38.799" end="00:31:41.200" style="s2">in</p>
+<p begin="00:31:39.360" end="00:31:42.640" style="s2">you think you&#39;re in a universe that&#39;s</p>
+<p begin="00:31:41.200" end="00:31:43.679" style="s2">all consistent with the room you&#39;re in</p>
+<p begin="00:31:42.640" end="00:31:45.440" style="s2">you think that</p>
+<p begin="00:31:43.679" end="00:31:47.360" style="s2">there are rooms next door and on and on</p>
+<p begin="00:31:45.440" end="00:31:49.600" style="s2">for hundreds of rooms</p>
+<p begin="00:31:47.360" end="00:31:50.480" style="s2">but in your simulation that&#39;s just not</p>
+<p begin="00:31:49.600" end="00:31:51.519" style="s2">true</p>
+<p begin="00:31:50.480" end="00:31:52.960" style="s2">of course you would have to have the</p>
+<p begin="00:31:51.519" end="00:31:54.799" style="s2">expense if we&#39;re going to be like</p>
+<p begin="00:31:52.960" end="00:31:56.080" style="s2">ourselves at least of simulating the</p>
+<p begin="00:31:54.799" end="00:31:59.360" style="s2">memories as well</p>
+<p begin="00:31:56.080" end="00:32:02.080" style="s2">which is uh not that high the</p>
+<p begin="00:31:59.360" end="00:32:02.559" style="s2">the amount of bits in an episodic memory</p>
+<p begin="00:32:02.080" end="00:32:05.840" style="s2">is not</p>
+<p begin="00:32:02.559" end="00:32:08.080" style="s2">huge so that&#39;s that may only uh it adds</p>
+<p begin="00:32:05.840" end="00:32:11.120" style="s2">a lot to the computational load but not</p>
+<p begin="00:32:08.080" end="00:32:12.720" style="s2">a uh prohibitive amount i&#39;ve never</p>
+<p begin="00:32:11.120" end="00:32:14.240" style="s2">really thought that much about partial</p>
+<p begin="00:32:12.720" end="00:32:15.760" style="s2">brain simulations</p>
+<p begin="00:32:14.240" end="00:32:18.000" style="s2">but you know if they&#39;re possible those</p>
+<p begin="00:32:15.760" end="00:32:19.840" style="s2">that i guess would be even more common</p>
+<p begin="00:32:18.000" end="00:32:21.600" style="s2">so i usually think in terms of</p>
+<p begin="00:32:19.840" end="00:32:23.279" style="s2">simulating your entire brain and maybe</p>
+<p begin="00:32:21.600" end="00:32:24.320" style="s2">the entire brains of a few people around</p>
+<p begin="00:32:23.279" end="00:32:26.080" style="s2">you</p>
+<p begin="00:32:24.320" end="00:32:28.320" style="s2">but honestly i&#39;ll have to say well it</p>
+<p begin="00:32:26.080" end="00:32:30.000" style="s2">could be some situations where we only</p>
+<p begin="00:32:28.320" end="00:32:31.360" style="s2">need to simulate part of your brain to</p>
+<p begin="00:32:30.000" end="00:32:32.559" style="s2">find out what you do in that simulation</p>
+<p begin="00:32:31.360" end="00:32:34.399" style="s2">and the rest of your brain doesn&#39;t</p>
+<p begin="00:32:32.559" end="00:32:36.640" style="s2">actually have to be there</p>
+<p begin="00:32:34.399" end="00:32:38.559" style="s2">yeah okay i think that&#39;s uh that could</p>
+<p begin="00:32:36.640" end="00:32:40.559" style="s2">well be reasonable and if indeed memory</p>
+<p begin="00:32:38.559" end="00:32:41.279" style="s2">is the most computationally expensive</p>
+<p begin="00:32:40.559" end="00:32:44.320" style="s2">part</p>
+<p begin="00:32:41.279" end="00:32:45.360" style="s2">that could be simulated on the side in a</p>
+<p begin="00:32:44.320" end="00:32:46.720" style="s2">different way</p>
+<p begin="00:32:45.360" end="00:32:48.720" style="s2">right as soon as somebody asks what you</p>
+<p begin="00:32:46.720" end="00:32:50.159" style="s2">did last thursday then at that moment</p>
+<p begin="00:32:48.720" end="00:32:51.760" style="s2">the simulation</p>
+<p begin="00:32:50.159" end="00:32:53.519" style="s2">generates that information and pops it</p>
+<p begin="00:32:51.760" end="00:32:54.159" style="s2">in but until you ask the question it&#39;s</p>
+<p begin="00:32:53.519" end="00:32:57.360" style="s2">not there</p>
+<p begin="00:32:54.159" end="00:32:59.679" style="s2">yeah or yeah and or it could just be</p>
+<p begin="00:32:57.360" end="00:33:00.640" style="s2">like a uh you know finite state machine</p>
+<p begin="00:32:59.679" end="00:33:03.440" style="s2">right predefined</p>
+<p begin="00:33:00.640" end="00:33:05.360" style="s2">canned memories that were relatively</p>
+<p begin="00:33:03.440" end="00:33:06.880" style="s2">inexpensive to create and</p>
+<p begin="00:33:05.360" end="00:33:09.200" style="s2">who knows maybe they&#39;re developed by an</p>
+<p begin="00:33:06.880" end="00:33:10.320" style="s2">uh evolutionary algorithm</p>
+<p begin="00:33:09.200" end="00:33:12.880" style="s2">and they&#39;re running a whole bunch of</p>
+<p begin="00:33:10.320" end="00:33:13.519" style="s2">these things in parallel so in the hm</p>
+<p begin="00:33:12.880" end="00:33:15.360" style="s2">book</p>
+<p begin="00:33:13.519" end="00:33:16.720" style="s2">i noticed a number of different reasons</p>
+<p begin="00:33:15.360" end="00:33:18.399" style="s2">why you might want a simulation there&#39;s</p>
+<p begin="00:33:16.720" end="00:33:20.480" style="s2">not just one of them</p>
+<p begin="00:33:18.399" end="00:33:22.159" style="s2">and i so for example you might want to</p>
+<p begin="00:33:20.480" end="00:33:24.880" style="s2">simulate to test people&#39;s loyalty</p>
+<p begin="00:33:22.159" end="00:33:26.640" style="s2">to see if in some temptation they might</p>
+<p begin="00:33:24.880" end="00:33:29.039" style="s2">they would betray you or</p>
+<p begin="00:33:26.640" end="00:33:30.640" style="s2">stay loyal you might want to see where</p>
+<p begin="00:33:29.039" end="00:33:32.080" style="s2">ideas came from so</p>
+<p begin="00:33:30.640" end="00:33:33.840" style="s2">intellectual property of course is</p>
+<p begin="00:33:32.080" end="00:33:35.039" style="s2">important and and good institutions for</p>
+<p begin="00:33:33.840" end="00:33:37.440" style="s2">intellectual property are important so</p>
+<p begin="00:33:35.039" end="00:33:40.240" style="s2">one of the institutions might be that we</p>
+<p begin="00:33:37.440" end="00:33:41.519" style="s2">take the situation where some idea was</p>
+<p begin="00:33:40.240" end="00:33:43.120" style="s2">generated and we simulated</p>
+<p begin="00:33:41.519" end="00:33:45.519" style="s2">enough detail to figure out who to give</p>
+<p begin="00:33:43.120" end="00:33:46.559" style="s2">credit for it what were the real sources</p>
+<p begin="00:33:45.519" end="00:33:49.760" style="s2">of that innovation</p>
+<p begin="00:33:46.559" end="00:33:52.799" style="s2">idea and simulations could be</p>
+<p begin="00:33:49.760" end="00:33:54.240" style="s2">used for that purpose too and if we have</p>
+<p begin="00:33:52.799" end="00:33:56.080" style="s2">like a half dozen or more</p>
+<p begin="00:33:54.240" end="00:33:57.760" style="s2">different reasons we might want to run a</p>
+<p begin="00:33:56.080" end="00:33:59.279" style="s2">simulation then i realized</p>
+<p begin="00:33:57.760" end="00:34:02.559" style="s2">in fact what we&#39;ll want to do is run</p>
+<p begin="00:33:59.279" end="00:34:05.919" style="s2">simulations which simultaneously</p>
+<p begin="00:34:02.559" end="00:34:07.519" style="s2">achieve as many purposes as possible</p>
+<p begin="00:34:05.919" end="00:34:08.879" style="s2">you can you know test someone&#39;s loyalty</p>
+<p begin="00:34:07.519" end="00:34:09.440" style="s2">while you look at where an innovation</p>
+<p begin="00:34:08.879" end="00:34:12.639" style="s2">came from</p>
+<p begin="00:34:09.440" end="00:34:14.720" style="s2">while there&#39;s a tsunami outside you can</p>
+<p begin="00:34:12.639" end="00:34:16.480" style="s2">do a number of different things at once</p>
+<p begin="00:34:14.720" end="00:34:19.359" style="s2">and that has an advantage</p>
+<p begin="00:34:16.480" end="00:34:20.720" style="s2">of lowering computational expenses this</p>
+<p begin="00:34:19.359" end="00:34:22.639" style="s2">is just a standard</p>
+<p begin="00:34:20.720" end="00:34:24.240" style="s2">thing in experimentation literature</p>
+<p begin="00:34:22.639" end="00:34:26.800" style="s2">about how</p>
+<p begin="00:34:24.240" end="00:34:28.399" style="s2">experiments that do many factors at once</p>
+<p begin="00:34:26.800" end="00:34:30.000" style="s2">are in a sense more efficient than in</p>
+<p begin="00:34:28.399" end="00:34:32.079" style="s2">experiments that test each factor</p>
+<p begin="00:34:30.000" end="00:34:34.879" style="s2">independently</p>
+<p begin="00:34:32.079" end="00:34:36.720" style="s2">and it lowers the chance that somebody</p>
+<p begin="00:34:34.879" end="00:34:38.079" style="s2">in simulation can figure out why it&#39;s</p>
+<p begin="00:34:36.720" end="00:34:41.760" style="s2">there</p>
+<p begin="00:34:38.079" end="00:34:43.280" style="s2">yeah though uh to do uh abcd testing you</p>
+<p begin="00:34:41.760" end="00:34:44.800" style="s2">have to run a lot more trials so you</p>
+<p begin="00:34:43.280" end="00:34:46.159" style="s2">have to run the combinatorics of how</p>
+<p begin="00:34:44.800" end="00:34:48.399" style="s2">many trials you have to do to get a</p>
+<p begin="00:34:46.159" end="00:34:48.720" style="s2">valid statistical signal right but it&#39;s</p>
+<p begin="00:34:48.399" end="00:34:50.720" style="s2">still</p>
+<p begin="00:34:48.720" end="00:34:52.079" style="s2">less than the sum of doing a trials and</p>
+<p begin="00:34:50.720" end="00:34:54.320" style="s2">d files and c dials and d</p>
+<p begin="00:34:52.079" end="00:34:55.520" style="s2">trials yeah i think that&#39;s probably</p>
+<p begin="00:34:54.320" end="00:34:57.119" style="s2">correct uh</p>
+<p begin="00:34:55.520" end="00:34:58.800" style="s2">there you say there&#39;s good literature on</p>
+<p begin="00:34:57.119" end="00:35:00.480" style="s2">that but yeah yeah so there&#39;s</p>
+<p begin="00:34:58.800" end="00:35:02.240" style="s2">there is a literature on factorial</p>
+<p begin="00:35:00.480" end="00:35:04.560" style="s2">designs for experiments basically</p>
+<p begin="00:35:02.240" end="00:35:05.440" style="s2">and yes you get basically you learn more</p>
+<p begin="00:35:04.560" end="00:35:07.520" style="s2">about factors a b</p>
+<p begin="00:35:05.440" end="00:35:09.200" style="s2">c and d if you put them all together in</p>
+<p begin="00:35:07.520" end="00:35:11.760" style="s2">a single trial</p>
+<p begin="00:35:09.200" end="00:35:13.359" style="s2">uh than if you do each one separately</p>
+<p begin="00:35:11.760" end="00:35:14.960" style="s2">yeah google of course does that</p>
+<p begin="00:35:13.359" end="00:35:16.720" style="s2">right it has a couple hundred parameters</p>
+<p begin="00:35:14.960" end="00:35:18.880" style="s2">that it varies for every person nobody</p>
+<p begin="00:35:16.720" end="00:35:22.079" style="s2">sees the same google as it turns out</p>
+<p begin="00:35:18.880" end="00:35:23.119" style="s2">right so now when you&#39;re in a simulation</p>
+<p begin="00:35:22.079" end="00:35:24.640" style="s2">even if you have a</p>
+<p begin="00:35:23.119" end="00:35:27.440" style="s2">suspicion you&#39;re in a simulation you can</p>
+<p begin="00:35:24.640" end="00:35:29.680" style="s2">be much less sure about what it&#39;s for</p>
+<p begin="00:35:27.440" end="00:35:31.599" style="s2">so you can less bias your behavior to</p>
+<p begin="00:35:29.680" end="00:35:33.119" style="s2">make it look your behavior look good for</p>
+<p begin="00:35:31.599" end="00:35:34.400" style="s2">the purposes of the simulation because</p>
+<p begin="00:35:33.119" end="00:35:36.960" style="s2">there&#39;s multiple purposes</p>
+<p begin="00:35:34.400" end="00:35:38.320" style="s2">and your behavior strategy would be at</p>
+<p begin="00:35:36.960" end="00:35:39.119" style="s2">cross purposes for these different</p>
+<p begin="00:35:38.320" end="00:35:41.760" style="s2">reasons</p>
+<p begin="00:35:39.119" end="00:35:43.280" style="s2">and of course this same reasoning</p>
+<p begin="00:35:41.760" end="00:35:46.240" style="s2">doesn&#39;t just apply to</p>
+<p begin="00:35:43.280" end="00:35:47.119" style="s2">an age of m where the uh agents are</p>
+<p begin="00:35:46.240" end="00:35:49.200" style="s2">embedded in</p>
+<p begin="00:35:47.119" end="00:35:50.800" style="s2">uh you know our known universe and do</p>
+<p begin="00:35:49.200" end="00:35:52.880" style="s2">side simulations for very</p>
+<p begin="00:35:50.800" end="00:35:54.640" style="s2">various pragmatic purposes but also</p>
+<p begin="00:35:52.880" end="00:35:57.040" style="s2">apply to the other arguments from</p>
+<p begin="00:35:54.640" end="00:35:58.079" style="s2">uh you know meta universes to boltzmann</p>
+<p begin="00:35:57.040" end="00:36:01.599" style="s2">brains</p>
+<p begin="00:35:58.079" end="00:36:03.920" style="s2">right so again if whatever universe</p>
+<p begin="00:36:01.599" end="00:36:05.920" style="s2">we are actually in has a similar social</p>
+<p begin="00:36:03.920" end="00:36:07.520" style="s2">world a similar mental world more</p>
+<p begin="00:36:05.920" end="00:36:09.839" style="s2">similar at least to our social and</p>
+<p begin="00:36:07.520" end="00:36:12.000" style="s2">mental world than its physical world</p>
+<p begin="00:36:09.839" end="00:36:13.920" style="s2">then they would similarly have these</p>
+<p begin="00:36:12.000" end="00:36:14.720" style="s2">reasons to do cost-effective simulations</p>
+<p begin="00:36:13.920" end="00:36:16.480" style="s2">where they</p>
+<p begin="00:36:14.720" end="00:36:18.480" style="s2">achieve several purposes at once with</p>
+<p begin="00:36:16.480" end="00:36:20.560" style="s2">their simulation and therefore</p>
+<p begin="00:36:18.480" end="00:36:22.800" style="s2">we can be less sure what the purpose of</p>
+<p begin="00:36:20.560" end="00:36:24.079" style="s2">the simulation we&#39;re in is</p>
+<p begin="00:36:22.800" end="00:36:27.599" style="s2">especially since they might have other</p>
+<p begin="00:36:24.079" end="00:36:30.560" style="s2">purposes that are uncommon for us</p>
+<p begin="00:36:27.599" end="00:36:31.520" style="s2">let&#39;s go back a little bit to the uh the</p>
+<p begin="00:36:30.560" end="00:36:34.079" style="s2">meta-universe</p>
+<p begin="00:36:31.520" end="00:36:35.520" style="s2">uh idea and you know you talked about</p>
+<p begin="00:36:34.079" end="00:36:37.200" style="s2">some ones that argued from</p>
+<p begin="00:36:35.520" end="00:36:39.599" style="s2">all right their culture like our culture</p>
+<p begin="00:36:37.200" end="00:36:42.640" style="s2">but maybe the the simulations</p>
+<p begin="00:36:39.599" end="00:36:43.760" style="s2">for a much higher order purpose uh one</p>
+<p begin="00:36:42.640" end="00:36:45.920" style="s2">of my favorite</p>
+<p begin="00:36:43.760" end="00:36:47.200" style="s2">uh physicists who likes to speculate a</p>
+<p begin="00:36:45.920" end="00:36:49.200" style="s2">lot and even publish</p>
+<p begin="00:36:47.200" end="00:36:50.880" style="s2">uh what are frankly very fancy</p>
+<p begin="00:36:49.200" end="00:36:53.760" style="s2">speculations with some</p>
+<p begin="00:36:50.880" end="00:36:54.320" style="s2">uh discussion of possible experiments</p>
+<p begin="00:36:53.760" end="00:36:56.960" style="s2">someday</p>
+<p begin="00:36:54.320" end="00:36:57.760" style="s2">is lee smallin and he&#39;s got a very</p>
+<p begin="00:36:56.960" end="00:37:00.079" style="s2">interesting</p>
+<p begin="00:36:57.760" end="00:37:01.359" style="s2">uh hypothesis about evolutionary</p>
+<p begin="00:37:00.079" end="00:37:03.200" style="s2">universes</p>
+<p begin="00:37:01.359" end="00:37:05.440" style="s2">uh and you know the detail that he</p>
+<p begin="00:37:03.200" end="00:37:07.599" style="s2">happens to put out is that</p>
+<p begin="00:37:05.440" end="00:37:09.040" style="s2">maybe a universe is the back end of a</p>
+<p begin="00:37:07.599" end="00:37:11.520" style="s2">black hole</p>
+<p begin="00:37:09.040" end="00:37:13.119" style="s2">and that each universe that is created</p>
+<p begin="00:37:11.520" end="00:37:16.160" style="s2">at the back end of a black hole</p>
+<p begin="00:37:13.119" end="00:37:18.720" style="s2">has somewhat of random resetting of the</p>
+<p begin="00:37:16.160" end="00:37:21.040" style="s2">laws of physics relative to its</p>
+<p begin="00:37:18.720" end="00:37:22.160" style="s2">parent universe and as it turns out some</p>
+<p begin="00:37:21.040" end="00:37:24.160" style="s2">laws of physics are</p>
+<p begin="00:37:22.160" end="00:37:26.160" style="s2">more likely to produce black holes than</p>
+<p begin="00:37:24.160" end="00:37:28.560" style="s2">others and so you get this interesting</p>
+<p begin="00:37:26.160" end="00:37:30.800" style="s2">evolutionary dynamic but if you were to</p>
+<p begin="00:37:28.560" end="00:37:32.960" style="s2">actually have a universe like this</p>
+<p begin="00:37:30.800" end="00:37:34.400" style="s2">you&#39;d have many many many and maybe it&#39;s</p>
+<p begin="00:37:32.960" end="00:37:35.599" style="s2">infinite or maybe it&#39;s a very large</p>
+<p begin="00:37:34.400" end="00:37:37.040" style="s2">number and there&#39;s a big difference</p>
+<p begin="00:37:35.599" end="00:37:38.880" style="s2">between the two</p>
+<p begin="00:37:37.040" end="00:37:40.640" style="s2">but what&#39;s let&#39;s imagine that the</p>
+<p begin="00:37:38.880" end="00:37:43.680" style="s2">simulation at the meta</p>
+<p begin="00:37:40.640" end="00:37:45.760" style="s2">meta meta universe is at that level so</p>
+<p begin="00:37:43.680" end="00:37:46.960" style="s2">essentially they&#39;re doing evolutionary</p>
+<p begin="00:37:45.760" end="00:37:50.160" style="s2">exploration</p>
+<p begin="00:37:46.960" end="00:37:52.880" style="s2">of uh universe speculation uh</p>
+<p begin="00:37:50.160" end="00:37:53.680" style="s2">through this uh lee smallin uh type</p>
+<p begin="00:37:52.880" end="00:37:55.760" style="s2">application</p>
+<p begin="00:37:53.680" end="00:37:57.280" style="s2">then we get no biases about their</p>
+<p begin="00:37:55.760" end="00:38:00.240" style="s2">culture like our culture</p>
+<p begin="00:37:57.280" end="00:38:01.920" style="s2">our psychology like their psychology</p>
+<p begin="00:38:00.240" end="00:38:02.640" style="s2">well that scenario seems to be a</p>
+<p begin="00:38:01.920" end="00:38:05.839" style="s2">scenario where</p>
+<p begin="00:38:02.640" end="00:38:07.680" style="s2">universes are just really cheap</p>
+<p begin="00:38:05.839" end="00:38:09.440" style="s2">if in fact you can set up some</p>
+<p begin="00:38:07.680" end="00:38:11.359" style="s2">generative process that a universe</p>
+<p begin="00:38:09.440" end="00:38:12.960" style="s2">creates black holes that each of which</p>
+<p begin="00:38:11.359" end="00:38:14.960" style="s2">creates more universes</p>
+<p begin="00:38:12.960" end="00:38:16.720" style="s2">obviously you&#39;re in a situation where</p>
+<p begin="00:38:14.960" end="00:38:18.480" style="s2">you know a lot of stuff can happen</p>
+<p begin="00:38:16.720" end="00:38:20.000" style="s2">very cheap compared to your initial</p>
+<p begin="00:38:18.480" end="00:38:22.000" style="s2">expenses</p>
+<p begin="00:38:20.000" end="00:38:23.040" style="s2">so in a world where computation is</p>
+<p begin="00:38:22.000" end="00:38:25.520" style="s2">extremely cheap</p>
+<p begin="00:38:23.040" end="00:38:26.960" style="s2">you can just do an extremely lot of it</p>
+<p begin="00:38:25.520" end="00:38:29.119" style="s2">and so you may well</p>
+<p begin="00:38:26.960" end="00:38:30.079" style="s2">do computation across a very wide range</p>
+<p begin="00:38:29.119" end="00:38:32.079" style="s2">of possibilities</p>
+<p begin="00:38:30.079" end="00:38:34.560" style="s2">which then of course don&#39;t have to be as</p>
+<p begin="00:38:32.079" end="00:38:36.880" style="s2">near to where you started</p>
+<p begin="00:38:34.560" end="00:38:38.079" style="s2">so yes uh in a world where they are just</p>
+<p begin="00:38:36.880" end="00:38:40.160" style="s2">using crazy</p>
+<p begin="00:38:38.079" end="00:38:41.440" style="s2">wide amounts of computation to explore a</p>
+<p begin="00:38:40.160" end="00:38:44.160" style="s2">crazy wide around to</p>
+<p begin="00:38:41.440" end="00:38:45.040" style="s2">range of possibilities uh we can say</p>
+<p begin="00:38:44.160" end="00:38:46.560" style="s2">much less</p>
+<p begin="00:38:45.040" end="00:38:48.640" style="s2">about their world from what our world</p>
+<p begin="00:38:46.560" end="00:38:50.000" style="s2">looks like yeah i think that&#39;s</p>
+<p begin="00:38:48.640" end="00:38:51.839" style="s2">a reason why i know you often use an</p>
+<p begin="00:38:50.000" end="00:38:54.000" style="s2">economic pruning rule if you assume a</p>
+<p begin="00:38:51.839" end="00:38:55.920" style="s2">meta universe with no boundaries then</p>
+<p begin="00:38:54.000" end="00:38:57.280" style="s2">the economic pruning rules are very hard</p>
+<p begin="00:38:55.920" end="00:39:00.560" style="s2">to discern</p>
+<p begin="00:38:57.280" end="00:39:03.040" style="s2">again when when things are cheap then</p>
+<p begin="00:39:00.560" end="00:39:04.560" style="s2">variety gets large uh i mean that&#39;s of</p>
+<p begin="00:39:03.040" end="00:39:05.680" style="s2">course the thing we see in our ordinary</p>
+<p begin="00:39:04.560" end="00:39:07.520" style="s2">economic world when</p>
+<p begin="00:39:05.680" end="00:39:08.880" style="s2">products are expensive there&#39;s a limited</p>
+<p begin="00:39:07.520" end="00:39:10.640" style="s2">range of them and they&#39;re</p>
+<p begin="00:39:08.880" end="00:39:12.160" style="s2">trying to be more functional the cheaper</p>
+<p begin="00:39:10.640" end="00:39:13.599" style="s2">a kind of product gets the more</p>
+<p begin="00:39:12.160" end="00:39:14.079" style="s2">variation some of them world have the</p>
+<p begin="00:39:13.599" end="00:39:15.680" style="s2">less</p>
+<p begin="00:39:14.079" end="00:39:18.079" style="s2">constraint they have by any particular</p>
+<p begin="00:39:15.680" end="00:39:20.079" style="s2">functionality or cost considerations you</p>
+<p begin="00:39:18.079" end="00:39:21.839" style="s2">can just go wild make it a wide wide</p>
+<p begin="00:39:20.079" end="00:39:23.520" style="s2">range</p>
+<p begin="00:39:21.839" end="00:39:26.000" style="s2">and that may or may not be i mean it&#39;s</p>
+<p begin="00:39:23.520" end="00:39:29.040" style="s2">entertaining but it might not be useful</p>
+<p begin="00:39:26.000" end="00:39:30.560" style="s2">well be optimistic in the sense that you</p>
+<p begin="00:39:29.040" end="00:39:32.160" style="s2">know look all those people we should</p>
+<p begin="00:39:30.560" end="00:39:33.520" style="s2">want to live in a huge universe where</p>
+<p begin="00:39:32.160" end="00:39:34.480" style="s2">there&#39;s lots and lots of creatures out</p>
+<p begin="00:39:33.520" end="00:39:37.119" style="s2">there</p>
+<p begin="00:39:34.480" end="00:39:37.920" style="s2">it&#39;s it&#39;s really scary to think that we</p>
+<p begin="00:39:37.119" end="00:39:39.680" style="s2">are the only</p>
+<p begin="00:39:37.920" end="00:39:41.440" style="s2">like intelligent life in our visible</p>
+<p begin="00:39:39.680" end="00:39:42.000" style="s2">universe and if we kill ourselves it&#39;s</p>
+<p begin="00:39:41.440" end="00:39:44.880" style="s2">all gone</p>
+<p begin="00:39:42.000" end="00:39:46.000" style="s2">i mean oh my god i want there to be a</p>
+<p begin="00:39:44.880" end="00:39:48.240" style="s2">lot more</p>
+<p begin="00:39:46.000" end="00:39:49.200" style="s2">things like us out there so that if we</p>
+<p begin="00:39:48.240" end="00:39:50.720" style="s2">kill ourselves</p>
+<p begin="00:39:49.200" end="00:39:53.119" style="s2">other things will go on and there&#39;s just</p>
+<p begin="00:39:50.720" end="00:39:54.720" style="s2">more happy creatures out there</p>
+<p begin="00:39:53.119" end="00:39:56.800" style="s2">we talked about this a lot on one of our</p>
+<p begin="00:39:54.720" end="00:39:59.440" style="s2">earlier podcasts it&#39;s interesting</p>
+<p begin="00:39:56.800" end="00:40:00.320" style="s2">uh like all good nerdy 13 year olds i</p>
+<p begin="00:39:59.440" end="00:40:02.400" style="s2">definitely</p>
+<p begin="00:40:00.320" end="00:40:03.920" style="s2">believe that solving the drake equation</p>
+<p begin="00:40:02.400" end="00:40:05.680" style="s2">said there is lots and lots of</p>
+<p begin="00:40:03.920" end="00:40:07.200" style="s2">intelligent life in the universe</p>
+<p begin="00:40:05.680" end="00:40:09.440" style="s2">but the more i&#39;ve thought about it the</p>
+<p begin="00:40:07.200" end="00:40:10.079" style="s2">more i&#39;ve read the less certain i am by</p>
+<p begin="00:40:09.440" end="00:40:13.280" style="s2">any means</p>
+<p begin="00:40:10.079" end="00:40:16.480" style="s2">including reading uh your own work</p>
+<p begin="00:40:13.280" end="00:40:19.359" style="s2">oh sure but but that scares</p>
+<p begin="00:40:16.480" end="00:40:20.640" style="s2">that&#39;s scary to me if we&#39;re all alone</p>
+<p begin="00:40:19.359" end="00:40:22.160" style="s2">and there&#39;s not only</p>
+<p begin="00:40:20.640" end="00:40:24.000" style="s2">nothing else in our hubble volume but</p>
+<p begin="00:40:22.160" end="00:40:26.960" style="s2">nothing else in 10 to the 20 hubble</p>
+<p begin="00:40:24.000" end="00:40:28.160" style="s2">volumes around us then stuff like us is</p>
+<p begin="00:40:26.960" end="00:40:30.560" style="s2">really really rare</p>
+<p begin="00:40:28.160" end="00:40:31.680" style="s2">and uh we could really screw it up on</p>
+<p begin="00:40:30.560" end="00:40:34.079" style="s2">the other hand uh</p>
+<p begin="00:40:31.680" end="00:40:35.760" style="s2">and i think this is important in fact it</p>
+<p begin="00:40:34.079" end="00:40:36.240" style="s2">might be the most important thing there</p>
+<p begin="00:40:35.760" end="00:40:38.480" style="s2">is</p>
+<p begin="00:40:36.240" end="00:40:39.760" style="s2">if in turns in turn if it turns out that</p>
+<p begin="00:40:38.480" end="00:40:42.640" style="s2">is true and</p>
+<p begin="00:40:39.760" end="00:40:43.040" style="s2">i&#39;m now to the point of i can&#39;t decide</p>
+<p begin="00:40:42.640" end="00:40:45.839" style="s2">uh</p>
+<p begin="00:40:43.040" end="00:40:47.040" style="s2">maybe we&#39;re alone maybe we&#39;re not uh and</p>
+<p begin="00:40:45.839" end="00:40:48.960" style="s2">if we are alone</p>
+<p begin="00:40:47.040" end="00:40:51.920" style="s2">that gives us a tremendous</p>
+<p begin="00:40:48.960" end="00:40:54.880" style="s2">responsibility and a tremendous uh</p>
+<p begin="00:40:51.920" end="00:40:55.359" style="s2">source of purpose uh and people talk</p>
+<p begin="00:40:54.880" end="00:40:57.920" style="s2">about</p>
+<p begin="00:40:55.359" end="00:40:58.400" style="s2">the meaning crisis i say hey to me to my</p>
+<p begin="00:40:57.920" end="00:41:00.800" style="s2">mind</p>
+<p begin="00:40:58.400" end="00:41:02.720" style="s2">until proven otherwise our meaning our</p>
+<p begin="00:41:00.800" end="00:41:03.359" style="s2">purpose is to bring the universe to</p>
+<p begin="00:41:02.720" end="00:41:05.440" style="s2">light it&#39;s an</p>
+<p begin="00:41:03.359" end="00:41:07.440" style="s2">overwhelming banquet of meaning more</p>
+<p begin="00:41:05.440" end="00:41:10.720" style="s2">meaning than we can really eat</p>
+<p begin="00:41:07.440" end="00:41:12.160" style="s2">why honestly because we&#39;re not uh</p>
+<p begin="00:41:10.720" end="00:41:15.119" style="s2">i mean if you look at the world we&#39;re</p>
+<p begin="00:41:12.160" end="00:41:18.560" style="s2">not remotely taking on that task</p>
+<p begin="00:41:15.119" end="00:41:20.720" style="s2">we are not remotely as acting as if we</p>
+<p begin="00:41:18.560" end="00:41:22.160" style="s2">had such an enormous responsibility</p>
+<p begin="00:41:20.720" end="00:41:23.760" style="s2">almost everybody is very</p>
+<p begin="00:41:22.160" end="00:41:25.599" style="s2">locally focused on their own life in</p>
+<p begin="00:41:23.760" end="00:41:28.400" style="s2">their own little considerations and</p>
+<p begin="00:41:25.599" end="00:41:29.920" style="s2">indirectly it turns out favorably the</p>
+<p begin="00:41:28.400" end="00:41:33.040" style="s2">economy and society is growing</p>
+<p begin="00:41:29.920" end="00:41:34.160" style="s2">and you know we have prospects to grow a</p>
+<p begin="00:41:33.040" end="00:41:36.880" style="s2">long way but</p>
+<p begin="00:41:34.160" end="00:41:37.359" style="s2">we&#39;re not really organized and focused</p>
+<p begin="00:41:36.880" end="00:41:40.079" style="s2">on</p>
+<p begin="00:41:37.359" end="00:41:41.839" style="s2">making sure that happens um we are</p>
+<p begin="00:41:40.079" end="00:41:43.680" style="s2">stumbling along</p>
+<p begin="00:41:41.839" end="00:41:45.359" style="s2">yeah but maybe we should be i think</p>
+<p begin="00:41:43.680" end="00:41:46.880" style="s2">that&#39;s my point right but</p>
+<p begin="00:41:45.359" end="00:41:49.520" style="s2">you know if we were to stop and think</p>
+<p begin="00:41:46.880" end="00:41:51.760" style="s2">about this is why i keep saying that</p>
+<p begin="00:41:49.520" end="00:41:53.839" style="s2">the fermi paradox is the second most</p>
+<p begin="00:41:51.760" end="00:41:55.520" style="s2">important question in science</p>
+<p begin="00:41:53.839" end="00:41:57.359" style="s2">uh the first one being why is there</p>
+<p begin="00:41:55.520" end="00:41:59.599" style="s2">something not nothing</p>
+<p begin="00:41:57.359" end="00:42:02.079" style="s2">but are there others out there or not</p>
+<p begin="00:41:59.599" end="00:42:04.240" style="s2">has gigantic implications on</p>
+<p begin="00:42:02.079" end="00:42:05.119" style="s2">everything humans do and it would seem</p>
+<p begin="00:42:04.240" end="00:42:06.880" style="s2">to me</p>
+<p begin="00:42:05.119" end="00:42:08.400" style="s2">to take the precautionary principle</p>
+<p begin="00:42:06.880" end="00:42:11.280" style="s2">somewhat seriously</p>
+<p begin="00:42:08.400" end="00:42:12.880" style="s2">uh we ought to act as if we&#39;re alone</p>
+<p begin="00:42:11.280" end="00:42:14.800" style="s2">until we prove otherwise and it may be</p>
+<p begin="00:42:12.880" end="00:42:15.359" style="s2">that we prove otherwise fairly soon</p>
+<p begin="00:42:14.800" end="00:42:18.800" style="s2">right or</p>
+<p begin="00:42:15.359" end="00:42:21.520" style="s2">maybe we never prove otherwise so</p>
+<p begin="00:42:18.800" end="00:42:22.400" style="s2">ideally you&#39;d think we just have some</p>
+<p begin="00:42:21.520" end="00:42:25.599" style="s2">scale</p>
+<p begin="00:42:22.400" end="00:42:27.040" style="s2">so coordination parameter where if we</p>
+<p begin="00:42:25.599" end="00:42:28.800" style="s2">don&#39;t need to coordinate very much we</p>
+<p begin="00:42:27.040" end="00:42:30.480" style="s2">each just do our own thing and when</p>
+<p begin="00:42:28.800" end="00:42:31.119" style="s2">coordination gets more important we</p>
+<p begin="00:42:30.480" end="00:42:34.319" style="s2">would</p>
+<p begin="00:42:31.119" end="00:42:36.160" style="s2">turn the dial up and make more personal</p>
+<p begin="00:42:34.319" end="00:42:37.920" style="s2">sacrifices in order to coordinate better</p>
+<p begin="00:42:36.160" end="00:42:39.520" style="s2">and then we would coordinate better</p>
+<p begin="00:42:37.920" end="00:42:41.200" style="s2">that would be the thing that a rational</p>
+<p begin="00:42:39.520" end="00:42:42.880" style="s2">creature would do right</p>
+<p begin="00:42:41.200" end="00:42:44.640" style="s2">well when you look at what happens to</p>
+<p begin="00:42:42.880" end="00:42:47.839" style="s2">humans when we turn that dial</p>
+<p begin="00:42:44.640" end="00:42:49.680" style="s2">really crazy scary things happen</p>
+<p begin="00:42:47.839" end="00:42:51.920" style="s2">when humans are believed that they</p>
+<p begin="00:42:49.680" end="00:42:54.400" style="s2">really strongly need to coordinate</p>
+<p begin="00:42:51.920" end="00:42:55.520" style="s2">they fight wars they create totalitarian</p>
+<p begin="00:42:54.400" end="00:42:58.240" style="s2">governments</p>
+<p begin="00:42:55.520" end="00:42:59.920" style="s2">they do lots of crazy stuff that&#39;s</p>
+<p begin="00:42:58.240" end="00:43:02.880" style="s2">pretty destructive</p>
+<p begin="00:42:59.920" end="00:43:04.160" style="s2">so that scares me i say well if we&#39;re in</p>
+<p begin="00:43:02.880" end="00:43:05.520" style="s2">a world where we really do need to</p>
+<p begin="00:43:04.160" end="00:43:07.680" style="s2">coordinate a lot and then we</p>
+<p begin="00:43:05.520" end="00:43:09.599" style="s2">tell everybody hey everybody uh stop</p>
+<p begin="00:43:07.680" end="00:43:10.720" style="s2">being so self-centered and let&#39;s focus</p>
+<p begin="00:43:09.599" end="00:43:12.400" style="s2">on coordinating because we have this</p>
+<p begin="00:43:10.720" end="00:43:14.240" style="s2">huge responsibility</p>
+<p begin="00:43:12.400" end="00:43:16.319" style="s2">and i look what what people have done in</p>
+<p begin="00:43:14.240" end="00:43:18.000" style="s2">those situations in the past i go oh my</p>
+<p begin="00:43:16.319" end="00:43:20.000" style="s2">god</p>
+<p begin="00:43:18.000" end="00:43:21.839" style="s2">maybe we&#39;d be better off not being told</p>
+<p begin="00:43:20.000" end="00:43:25.520" style="s2">even at the cost of</p>
+<p begin="00:43:21.839" end="00:43:27.520" style="s2">a big chance of failure i don&#39;t know but</p>
+<p begin="00:43:25.520" end="00:43:29.280" style="s2">either direction is scary having this</p>
+<p begin="00:43:27.520" end="00:43:30.880" style="s2">huge responsibility and failing to meet</p>
+<p begin="00:43:29.280" end="00:43:33.040" style="s2">it and scary and</p>
+<p begin="00:43:30.880" end="00:43:34.240" style="s2">putting together the usual sorts of you</p>
+<p begin="00:43:33.040" end="00:43:36.319" style="s2">know organizations</p>
+<p begin="00:43:34.240" end="00:43:38.000" style="s2">and coordination that people have in the</p>
+<p begin="00:43:36.319" end="00:43:39.680" style="s2">past when they thought they</p>
+<p begin="00:43:38.000" end="00:43:42.880" style="s2">are dealing with really important big</p>
+<p begin="00:43:39.680" end="00:43:45.280" style="s2">things that&#39;s also scary</p>
+<p begin="00:43:42.880" end="00:43:46.400" style="s2">it&#39;s scary but it may be necessary</p>
+<p begin="00:43:45.280" end="00:43:49.839" style="s2">learning how to</p>
+<p begin="00:43:46.400" end="00:43:51.680" style="s2">actually cooperate at very large scale</p>
+<p begin="00:43:49.839" end="00:43:53.040" style="s2">uh without putting our civilization at</p>
+<p begin="00:43:51.680" end="00:43:54.480" style="s2">risk every time we do it</p>
+<p begin="00:43:53.040" end="00:43:56.240" style="s2">so that&#39;s where i would put my number</p>
+<p begin="00:43:54.480" end="00:43:58.079" style="s2">three question</p>
+<p begin="00:43:56.240" end="00:43:59.680" style="s2">along your list first question why is</p>
+<p begin="00:43:58.079" end="00:44:01.760" style="s2">there anything second is there anybody</p>
+<p begin="00:43:59.680" end="00:44:05.040" style="s2">else out there and number three</p>
+<p begin="00:44:01.760" end="00:44:07.240" style="s2">how do we coordinate i would agree</p>
+<p begin="00:44:05.040" end="00:44:08.400" style="s2">yeah how do we do we operate</p>
+<p begin="00:44:07.240" end="00:44:11.440" style="s2">cooperatively</p>
+<p begin="00:44:08.400" end="00:44:12.079" style="s2">at scale at the giga scale or the tara</p>
+<p begin="00:44:11.440" end="00:44:14.079" style="s2">scale</p>
+<p begin="00:44:12.079" end="00:44:16.480" style="s2">i say we know tentatively the answer</p>
+<p begin="00:44:14.079" end="00:44:18.079" style="s2">which is we have lots of hypotheses for</p>
+<p begin="00:44:16.480" end="00:44:19.280" style="s2">better ways to coordinate and we should</p>
+<p begin="00:44:18.079" end="00:44:20.880" style="s2">be testing them</p>
+<p begin="00:44:19.280" end="00:44:23.520" style="s2">we should be doing many small scale</p>
+<p begin="00:44:20.880" end="00:44:25.200" style="s2">trials of various ideas we have for</p>
+<p begin="00:44:23.520" end="00:44:28.480" style="s2">better ways to coordinate</p>
+<p begin="00:44:25.200" end="00:44:30.480" style="s2">and so we are failing even to do that uh</p>
+<p begin="00:44:28.480" end="00:44:32.000" style="s2">and that&#39;s the sort of thing i most want</p>
+<p begin="00:44:30.480" end="00:44:35.520" style="s2">to push people to do in the world</p>
+<p begin="00:44:32.000" end="00:44:37.520" style="s2">is to try small-scale trials of our</p>
+<p begin="00:44:35.520" end="00:44:38.560" style="s2">many innovative ideas for better ways to</p>
+<p begin="00:44:37.520" end="00:44:40.000" style="s2">coordinate yeah</p>
+<p begin="00:44:38.560" end="00:44:42.240" style="s2">interestingly that&#39;s what our game b</p>
+<p begin="00:44:40.000" end="00:44:43.440" style="s2">movement is all about uh not all about</p>
+<p begin="00:44:42.240" end="00:44:44.560" style="s2">that&#39;s one of the main things one of the</p>
+<p begin="00:44:43.440" end="00:44:46.160" style="s2">things i&#39;ve been involved with for the</p>
+<p begin="00:44:44.560" end="00:44:48.480" style="s2">last nine years is</p>
+<p begin="00:44:46.160" end="00:44:50.400" style="s2">uh you know defining what some of those</p>
+<p begin="00:44:48.480" end="00:44:52.400" style="s2">better ways to operate might be</p>
+<p begin="00:44:50.400" end="00:44:54.319" style="s2">and we&#39;re finally finally getting to the</p>
+<p begin="00:44:52.400" end="00:44:55.440" style="s2">point where in 2021 we&#39;re actually going</p>
+<p begin="00:44:54.319" end="00:44:57.520" style="s2">to start trying them</p>
+<p begin="00:44:55.440" end="00:44:59.359" style="s2">and jim i will praise you as being one</p>
+<p begin="00:44:57.520" end="00:45:00.319" style="s2">of the people who maybe takes principle</p>
+<p begin="00:44:59.359" end="00:45:03.760" style="s2">zero</p>
+<p begin="00:45:00.319" end="00:45:05.200" style="s2">which is the most important thing is to</p>
+<p begin="00:45:03.760" end="00:45:06.480" style="s2">think about what the most important</p>
+<p begin="00:45:05.200" end="00:45:08.240" style="s2">thing is and then</p>
+<p begin="00:45:06.480" end="00:45:09.599" style="s2">do stuff related to what you think the</p>
+<p begin="00:45:08.240" end="00:45:11.359" style="s2">most important thing is and</p>
+<p begin="00:45:09.599" end="00:45:12.800" style="s2">the vast majority of people don&#39;t do</p>
+<p begin="00:45:11.359" end="00:45:14.400" style="s2">that</p>
+<p begin="00:45:12.800" end="00:45:16.400" style="s2">it&#39;s very rare to find people who</p>
+<p begin="00:45:14.400" end="00:45:17.920" style="s2">actually think about gee what&#39;s the most</p>
+<p begin="00:45:16.400" end="00:45:19.200" style="s2">important thing in the world and then</p>
+<p begin="00:45:17.920" end="00:45:21.839" style="s2">focus their energies on</p>
+<p begin="00:45:19.200" end="00:45:23.680" style="s2">doing that thing yeah yep it&#39;s very</p>
+<p begin="00:45:21.839" end="00:45:24.160" style="s2">tempting unfortunately we were designed</p>
+<p begin="00:45:23.680" end="00:45:26.480" style="s2">uh</p>
+<p begin="00:45:24.160" end="00:45:27.839" style="s2">or evolved i should say don&#39;t get rid of</p>
+<p begin="00:45:26.480" end="00:45:30.800" style="s2">that design word</p>
+<p begin="00:45:27.839" end="00:45:31.359" style="s2">we you know make we were evolved uh you</p>
+<p begin="00:45:30.800" end="00:45:34.640" style="s2">know to</p>
+<p begin="00:45:31.359" end="00:45:36.560" style="s2">live in hunter-gatherer groups of 150 or</p>
+<p begin="00:45:34.640" end="00:45:38.880" style="s2">less it had some loose affiliations with</p>
+<p begin="00:45:36.560" end="00:45:41.839" style="s2">maybe a thousand or two thousand people</p>
+<p begin="00:45:38.880" end="00:45:42.400" style="s2">uh and we had low energy uh source fire</p>
+<p begin="00:45:41.839" end="00:45:44.800" style="s2">being our</p>
+<p begin="00:45:42.400" end="00:45:46.079" style="s2">our most energetic source and not too</p>
+<p begin="00:45:44.800" end="00:45:48.079" style="s2">much ability to</p>
+<p begin="00:45:46.079" end="00:45:49.359" style="s2">you know meddle with the the big picture</p>
+<p begin="00:45:48.079" end="00:45:51.520" style="s2">of the universe</p>
+<p begin="00:45:49.359" end="00:45:54.400" style="s2">but all that&#39;s not true anymore so i</p>
+<p begin="00:45:51.520" end="00:45:57.200" style="s2">think the necessity for focusing on</p>
+<p begin="00:45:54.400" end="00:45:59.040" style="s2">uh on on so i&#39;ve just got an error here</p>
+<p begin="00:45:57.200" end="00:46:00.640" style="s2">i said quota exceeded error you&#39;ve run</p>
+<p begin="00:45:59.040" end="00:46:02.400" style="s2">out of free disk space to save a local</p>
+<p begin="00:46:00.640" end="00:46:04.720" style="s2">backup of this data</p>
+<p begin="00:46:02.400" end="00:46:05.760" style="s2">let&#39;s wrap up here just in case we&#39;re</p>
+<p begin="00:46:04.720" end="00:46:09.119" style="s2">losing what we&#39;re</p>
+<p begin="00:46:05.760" end="00:46:12.079" style="s2">getting at here uh which is uh</p>
+<p begin="00:46:09.119" end="00:46:12.960" style="s2">at the end of the day what do you think</p>
+<p begin="00:46:12.079" end="00:46:15.200" style="s2">about</p>
+<p begin="00:46:12.960" end="00:46:17.440" style="s2">uh if you had to put a metabet on in</p>
+<p begin="00:46:15.200" end="00:46:18.319" style="s2">your opinion marketplace in the meta</p>
+<p begin="00:46:17.440" end="00:46:20.880" style="s2">universe</p>
+<p begin="00:46:18.319" end="00:46:22.800" style="s2">uh do we live in a in the various kinds</p>
+<p begin="00:46:20.880" end="00:46:23.359" style="s2">of possible simulation what are your</p>
+<p begin="00:46:22.800" end="00:46:26.880" style="s2">thoughts</p>
+<p begin="00:46:23.359" end="00:46:28.720" style="s2">i still gotta put it on a few percent um</p>
+<p begin="00:46:26.880" end="00:46:30.160" style="s2">well a few percent living in the kind of</p>
+<p begin="00:46:28.720" end="00:46:31.920" style="s2">simulation where</p>
+<p begin="00:46:30.160" end="00:46:33.359" style="s2">the physical world around me is not</p>
+<p begin="00:46:31.920" end="00:46:35.440" style="s2">really what i think it is</p>
+<p begin="00:46:33.359" end="00:46:37.119" style="s2">now if we are in a universe that was</p>
+<p begin="00:46:35.440" end="00:46:38.400" style="s2">created by some purpose and you want to</p>
+<p begin="00:46:37.119" end="00:46:41.040" style="s2">call that a simulation</p>
+<p begin="00:46:38.400" end="00:46:42.480" style="s2">um i think that&#39;s much more likely i</p>
+<p begin="00:46:41.040" end="00:46:43.760" style="s2">think all bets are off on basically</p>
+<p begin="00:46:42.480" end="00:46:45.119" style="s2">where our universe came from</p>
+<p begin="00:46:43.760" end="00:46:47.200" style="s2">it could well have come from some</p>
+<p begin="00:46:45.119" end="00:46:48.560" style="s2">intelligent source produced on with some</p>
+<p begin="00:46:47.200" end="00:46:49.760" style="s2">program in mind</p>
+<p begin="00:46:48.560" end="00:46:51.599" style="s2">uh but that&#39;s the scenario where</p>
+<p begin="00:46:49.760" end="00:46:53.119" style="s2">basically the universe as we see is the</p>
+<p begin="00:46:51.599" end="00:46:55.760" style="s2">universe roughly we see</p>
+<p begin="00:46:53.119" end="00:46:56.560" style="s2">um it&#39;s just has has a purpose in the</p>
+<p begin="00:46:55.760" end="00:46:58.160" style="s2">source</p>
+<p begin="00:46:56.560" end="00:47:00.160" style="s2">but if we&#39;re saying the universe around</p>
+<p begin="00:46:58.160" end="00:47:02.000" style="s2">me is not what i think it looks like</p>
+<p begin="00:47:00.160" end="00:47:02.400" style="s2">that&#39;s all an image just to make my</p>
+<p begin="00:47:02.000" end="00:47:04.480" style="s2">brain</p>
+<p begin="00:47:02.400" end="00:47:06.480" style="s2">think it&#39;s there i&#39;ve got to put that at</p>
+<p begin="00:47:04.480" end="00:47:09.680" style="s2">say no more than a few percent</p>
+<p begin="00:47:06.480" end="00:47:10.240" style="s2">yeah i i think i&#39;m with you that i i</p>
+<p begin="00:47:09.680" end="00:47:13.520" style="s2">can&#39;t</p>
+<p begin="00:47:10.240" end="00:47:14.240" style="s2">uh even uh get any principal way to</p>
+<p begin="00:47:13.520" end="00:47:16.720" style="s2">think about</p>
+<p begin="00:47:14.240" end="00:47:17.280" style="s2">the meta universe problem uh it&#39;s just</p>
+<p begin="00:47:16.720" end="00:47:19.680" style="s2">like</p>
+<p begin="00:47:17.280" end="00:47:20.960" style="s2">above my pay grade and humanity&#39;s pay</p>
+<p begin="00:47:19.680" end="00:47:22.319" style="s2">grade at the moment</p>
+<p begin="00:47:20.960" end="00:47:24.400" style="s2">but of course it&#39;s quite interesting</p>
+<p begin="00:47:22.319" end="00:47:26.800" style="s2">that the history of humanity is</p>
+<p begin="00:47:24.400" end="00:47:28.559" style="s2">taken up with nothing much else other</p>
+<p begin="00:47:26.800" end="00:47:29.440" style="s2">than speculating about that kind of</p>
+<p begin="00:47:28.559" end="00:47:31.040" style="s2">stuff</p>
+<p begin="00:47:29.440" end="00:47:33.520" style="s2">but nonetheless we don&#39;t really have any</p>
+<p begin="00:47:31.040" end="00:47:34.640" style="s2">way to have any principled idea on why</p>
+<p begin="00:47:33.520" end="00:47:36.559" style="s2">the universe</p>
+<p begin="00:47:34.640" end="00:47:38.000" style="s2">exists or in the form that it does well</p>
+<p begin="00:47:36.559" end="00:47:38.720" style="s2">again i guess i&#39;ll push back and i&#39;ll</p>
+<p begin="00:47:38.000" end="00:47:40.240" style="s2">say look</p>
+<p begin="00:47:38.720" end="00:47:42.000" style="s2">um if you&#39;ve tried for a while and you</p>
+<p begin="00:47:40.240" end="00:47:43.599" style="s2">haven&#39;t found a method you know a way to</p>
+<p begin="00:47:42.000" end="00:47:45.040" style="s2">do it then it&#39;s fine to quit</p>
+<p begin="00:47:43.599" end="00:47:46.559" style="s2">i don&#39;t think you can conclude that we</p>
+<p begin="00:47:45.040" end="00:47:47.680" style="s2">don&#39;t have any way to do it we just</p>
+<p begin="00:47:46.559" end="00:47:50.079" style="s2">haven&#39;t found one yet</p>
+<p begin="00:47:47.680" end="00:47:50.960" style="s2">yeah and it&#39;s not even obvious how we</p>
+<p begin="00:47:50.079" end="00:47:52.559" style="s2">would right</p>
+<p begin="00:47:50.960" end="00:47:54.960" style="s2">but that doesn&#39;t mean there isn&#39;t a way</p>
+<p begin="00:47:52.559" end="00:47:56.240" style="s2">it just means we&#39;ve tried we&#39;re given up</p>
+<p begin="00:47:54.960" end="00:47:56.880" style="s2">now and somebody else can try if they</p>
+<p begin="00:47:56.240" end="00:48:00.559" style="s2">want</p>
+<p begin="00:47:56.880" end="00:48:03.040" style="s2">yeah exactly in terms of uh</p>
+<p begin="00:48:00.559" end="00:48:04.800" style="s2">things like boltzmann brains or other</p>
+<p begin="00:48:03.040" end="00:48:06.000" style="s2">artifacts of infinite universes i&#39;ve</p>
+<p begin="00:48:04.800" end="00:48:08.079" style="s2">chosen principally on</p>
+<p begin="00:48:06.000" end="00:48:09.760" style="s2">aesthetic grounds to reject infinite</p>
+<p begin="00:48:08.079" end="00:48:10.800" style="s2">universes again</p>
+<p begin="00:48:09.760" end="00:48:12.720" style="s2">when it comes to metaphysical</p>
+<p begin="00:48:10.800" end="00:48:14.160" style="s2">speculations where there is no evidence</p>
+<p begin="00:48:12.720" end="00:48:16.880" style="s2">one way or the other</p>
+<p begin="00:48:14.160" end="00:48:18.720" style="s2">uh well i would say there is evidence in</p>
+<p begin="00:48:16.880" end="00:48:20.400" style="s2">how we do indexable reasoning but that</p>
+<p begin="00:48:18.720" end="00:48:21.920" style="s2">would take us on a whole different</p>
+<p begin="00:48:20.400" end="00:48:24.079" style="s2">conversation so there is a whole</p>
+<p begin="00:48:21.920" end="00:48:26.960" style="s2">literature on indexical probability</p>
+<p begin="00:48:24.079" end="00:48:28.640" style="s2">and lexical priors and they do suggest</p>
+<p begin="00:48:26.960" end="00:48:30.319" style="s2">in my opinion that infinite use</p>
+<p begin="00:48:28.640" end="00:48:31.520" style="s2">universes are pretty likely</p>
+<p begin="00:48:30.319" end="00:48:33.200" style="s2">we&#39;ll have to do that sometime but not</p>
+<p begin="00:48:31.520" end="00:48:35.040" style="s2">today but anyway i personally reject</p>
+<p begin="00:48:33.200" end="00:48:36.880" style="s2">infinite universes to get rid of weird</p>
+<p begin="00:48:35.040" end="00:48:37.520" style="s2">artifacts like boltzmann brains and</p>
+<p begin="00:48:36.880" end="00:48:39.520" style="s2">other</p>
+<p begin="00:48:37.520" end="00:48:40.880" style="s2">oddities because well of course many</p>
+<p begin="00:48:39.520" end="00:48:42.319" style="s2">people that rejects the simulation</p>
+<p begin="00:48:40.880" end="00:48:43.440" style="s2">argument on the same principle hey</p>
+<p begin="00:48:42.319" end="00:48:44.880" style="s2">that&#39;s weird i don&#39;t want to think about</p>
+<p begin="00:48:43.440" end="00:48:46.880" style="s2">weird universes</p>
+<p begin="00:48:44.880" end="00:48:49.119" style="s2">or the other one you know occam&#39;s razor</p>
+<p begin="00:48:46.880" end="00:48:50.640" style="s2">which we know is not a law it&#39;s just a</p>
+<p begin="00:48:49.119" end="00:48:52.240" style="s2">a heuristic which is a pretty</p>
+<p begin="00:48:50.640" end="00:48:53.680" style="s2">conservative heuristic it just says i</p>
+<p begin="00:48:52.240" end="00:48:55.920" style="s2">don&#39;t want to think about weird</p>
+<p begin="00:48:53.680" end="00:48:57.599" style="s2">yeah or yeah it&#39;s a little stronger than</p>
+<p begin="00:48:55.920" end="00:49:00.319" style="s2">that which is that uh</p>
+<p begin="00:48:57.599" end="00:49:00.880" style="s2">really complicated is probably less</p>
+<p begin="00:49:00.319" end="00:49:04.559" style="s2">com</p>
+<p begin="00:49:00.880" end="00:49:06.079" style="s2">less common than less complicated</p>
+<p begin="00:49:04.559" end="00:49:07.839" style="s2">but but the main argument is because i</p>
+<p begin="00:49:06.079" end="00:49:09.040" style="s2">don&#39;t want to think about it</p>
+<p begin="00:49:07.839" end="00:49:10.400" style="s2">but they trouble the thing about</p>
+<p begin="00:49:09.040" end="00:49:12.000" style="s2">complicated stuff i&#39;m going to stick</p>
+<p begin="00:49:10.400" end="00:49:12.800" style="s2">with the simple thing that i can think</p>
+<p begin="00:49:12.000" end="00:49:14.559" style="s2">about more easily</p>
+<p begin="00:49:12.800" end="00:49:17.359" style="s2">and that you know it goes to your point</p>
+<p begin="00:49:14.559" end="00:49:20.000" style="s2">that uh you know it may be unhealthy</p>
+<p begin="00:49:17.359" end="00:49:21.920" style="s2">not to have some level of uh</p>
+<p begin="00:49:20.000" end="00:49:23.040" style="s2">simplification if we&#39;re gonna live one&#39;s</p>
+<p begin="00:49:21.920" end="00:49:24.559" style="s2">life right so if i&#39;m gonna</p>
+<p begin="00:49:23.040" end="00:49:26.000" style="s2">spend all my time worrying about whether</p>
+<p begin="00:49:24.559" end="00:49:27.359" style="s2">we&#39;re inside of a boltzmann brain what</p>
+<p begin="00:49:26.000" end="00:49:28.839" style="s2">the that means i wouldn&#39;t get</p>
+<p begin="00:49:27.359" end="00:49:31.599" style="s2">anything done</p>
+<p begin="00:49:28.839" end="00:49:32.160" style="s2">absolutely all righty well any final</p>
+<p begin="00:49:31.599" end="00:49:33.680" style="s2">thoughts</p>
+<p begin="00:49:32.160" end="00:49:35.760" style="s2">it&#39;s been great talking again and i&#39;m</p>
+<p begin="00:49:33.680" end="00:49:39.270" style="s2">gonna hope for a number five</p>
+<p begin="00:49:35.760" end="00:49:41.920" style="s2">all righty it&#39;s been fun okay bye</p>
+<p begin="00:49:39.270" end="00:49:44.000" style="s2">[Music]</p>
+<p begin="00:49:41.920" end="00:49:46.079" style="s2">production services and audio editing by</p>
+<p begin="00:49:44.000" end="00:49:49.599" style="s2">jared janes consulting</p>
+<p begin="00:49:46.079" end="00:49:49.599" style="s2">music by tom muller at</p>
+<p begin="00:49:53.160" end="00:49:56.160" style="s2">modernspacemusic.com</p>
+</div>
+</body>
+</tt>
