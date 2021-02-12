@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "r2S58rH0PAw"
+  },
+  "snippet": {
+    "publishedAt": "2018-06-02T02:43:30Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "Russell Brand &amp; Jordan B Peterson - Under the Skin #52",
+    "description": "Russell Brand talked with me in London. This was our second conversation (the first was in LA a few months ago: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/r2S58rH0PAw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/r2S58rH0PAw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/r2S58rH0PAw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-06-02T02:43:30Z"
+  },
+  "_id": "r2S58rH0PAw",
+  "publishedAt": "2018-06-02T02:43:30Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

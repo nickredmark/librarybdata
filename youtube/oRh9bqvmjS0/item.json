@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "oRh9bqvmjS0"
+  },
+  "snippet": {
+    "publishedAt": "2018-02-14T05:23:47Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "With Russell Brand...",
+    "description": "I talked with comedian and actor Russell Brand at his LA home yesterday (February 12). The podcast will be up February 14 at ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/oRh9bqvmjS0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/oRh9bqvmjS0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/oRh9bqvmjS0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-02-14T05:23:47Z"
+  },
+  "_id": "oRh9bqvmjS0",
+  "publishedAt": "2018-02-14T05:23:47Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

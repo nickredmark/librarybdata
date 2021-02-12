@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "7K6sWYLpaVA"
+  },
+  "snippet": {
+    "publishedAt": "2017-03-27T17:26:49Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "2017/03/27: Dr. Oren Amitay and the Ontario Psychological Association",
+    "description": "Recently, Dr. Oren Amitay, a lecturer in psychology at Ryerson U, invited me to talk to his class (and extended an invitation to other students at the university).",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7K6sWYLpaVA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7K6sWYLpaVA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7K6sWYLpaVA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-03-27T17:26:49Z"
+  },
+  "_id": "7K6sWYLpaVA",
+  "publishedAt": "2017-03-27T17:26:49Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "7OxKRlgr66EagTDcdPhkYrZKw3U",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "9psdN65IzOw"
-  },
+  "id": "UExlUkJhLU5lcjRCdXYyc0ctM0phYmw0Ukt4UndrWnR0dy45NDk1REZENzhEMzU5MDQz",
   "snippet": {
-    "publishedAt": "2020-03-19T22:40:51Z",
-    "channelId": "UCw1Sl_jFYRl2gbkBLp7w4lg",
+    "publishedAt": "2020-06-11T19:37:48Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "EP7 Daniel Schmachtenberger and the Evolution of Technology",
-    "description": "Click here for full show notes including episode mentions & recommendations! https://www.jimruttshow.com/daniel-schmachtenberger/ Daniel ...",
+    "description": "Click here for full show notes including episode mentions & recommendations!\nhttps://www.jimruttshow.com/daniel-schmachtenberger/\n\nDaniel Schmachtenberger is a Co-Founder of the Neurohacker Collective and director of Research and Development, where he is focused on developing processes and technologies for advancing medicine and human optimization. He is particularly focused on personalized medicine, adequate approaches to complex illness, and deepening our knowledge of how the human regulatory systems function, how they break down, and how they can be supported to function with greater resilience. Daniel conducts many of the podcasts at Collective Insights, and has a blog on redesigning civilization at CivilizationEmerging.com.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/9psdN65IzOw/default.jpg",
@@ -25,15 +22,29 @@
         "url": "https://i.ytimg.com/vi/9psdN65IzOw/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/9psdN65IzOw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/9psdN65IzOw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Jim Rutt Show",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-03-19T22:40:51Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
+    "position": 29,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "9psdN65IzOw"
+    }
   },
   "_id": "9psdN65IzOw",
-  "publishedAt": "2020-03-19T22:40:51Z",
-  "type": "youtube-channel-item",
+  "publishedAt": "2020-06-11T19:37:48Z",
+  "type": "youtube-playlist-item",
   "collections": [
     "https://www.youtube.com/channel/UCw1Sl_jFYRl2gbkBLp7w4lg",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw"

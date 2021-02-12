@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "1EmrMTRj5jc"
+  },
+  "snippet": {
+    "publishedAt": "2017-07-04T02:13:58Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "Q &amp; A 2017 07 July",
+    "description": "This is a Question and Answer session that I set up for my Patreon subscribers. I plan to conduct such sessions once per month. Thanks very much to my ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1EmrMTRj5jc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1EmrMTRj5jc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1EmrMTRj5jc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-07-04T02:13:58Z"
+  },
+  "_id": "1EmrMTRj5jc",
+  "publishedAt": "2017-07-04T02:13:58Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

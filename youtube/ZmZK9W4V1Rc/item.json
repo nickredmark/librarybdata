@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "ZmZK9W4V1Rc"
+  },
+  "snippet": {
+    "publishedAt": "2017-01-22T02:51:51Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "An open letter to Sam Harris",
+    "description": "Dr. Sam Harris and I recently had a discussion: https://www.samharris.org/podcast/item/what-is-true. We hit an impasse over the definition of truth. I don't think ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ZmZK9W4V1Rc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ZmZK9W4V1Rc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ZmZK9W4V1Rc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-01-22T02:51:51Z"
+  },
+  "_id": "ZmZK9W4V1Rc",
+  "publishedAt": "2017-01-22T02:51:51Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

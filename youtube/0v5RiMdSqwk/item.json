@@ -1,14 +1,11 @@
 {
-  "kind": "youtube#searchResult",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "0v5RiMdSqwk"
-  },
+  "kind": "youtube#playlistItem",
+  "id": "UExlUkJhLU5lcjRCdXYyc0ctM0phYmw0Ukt4UndrWnR0dy4xRDJGOTc4RkUxMzUwMUFG",
   "snippet": {
-    "publishedAt": "2020-09-29T19:00:13Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "publishedAt": "2020-09-30T02:22:37Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "War on Sensemaking V, Daniel Schmachtenberger",
-    "description": "The increasing inability to make sense of the world is an existential problem, what might we be able to do to fix it? The original War on Sensemaking film was a ...",
+    "description": "The increasing inability to make sense of the world is an existential problem, what might we be able to do to fix it?\n\nThe original War on Sensemaking film was a viral hit: https://www.youtube.com/watch?v=7LqaotiGWjQ\n\nIn the time since then Daniel Schmachtenberger has been thinking hard about how deep the problem goes and what is needed to fix it.\n\nThis film outlines how essential sensemaking is to a functioning society, and introduces a new project that is designed to fix it, the Consilience Project.\n\nSee the very end of the film for more on that, and to offer help, go to: https://airtable.com/shrVKehFhMKxEpWU1\n\nDaniel will be doing a live Q&A about this film for Rebel Wisdom members, check out the different membership options here: https://www.rebelwisdom.co.uk/plans\n\nTo learn more of the skills we talk about in these films, the next cohort of our online course, Sensemaking 101, begins in a week's time: https://www.rebelwisdom.co.uk/courses",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/0v5RiMdSqwk/default.jpg",
@@ -24,15 +21,29 @@
         "url": "https://i.ytimg.com/vi/0v5RiMdSqwk/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/0v5RiMdSqwk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/0v5RiMdSqwk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-09-29T19:00:13Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "0v5RiMdSqwk"
+    }
   },
   "_id": "0v5RiMdSqwk",
-  "publishedAt": "2020-09-29T19:00:13Z",
-  "type": "youtube-channel-item",
+  "publishedAt": "2020-09-30T02:22:37Z",
+  "type": "youtube-playlist-item",
   "collections": [
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
     "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw"

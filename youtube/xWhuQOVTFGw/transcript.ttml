@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:13.010" end="00:00:15.010" style="s2">You</p>
+<p begin="00:00:20.880" end="00:00:22.939" style="s2">All right, well I&#39;m talking today with</p>
+<p begin="00:00:23.790" end="00:00:30.290" style="s2">Dr. James Lindsay, Dr. Peter Boghossian, and Dr. Helen Pluckrose and they&#39;re all</p>
+<p begin="00:00:31.230" end="00:00:37.190" style="s2">Famous or infamous depending on your perspective as the authors of a series of hoax</p>
+<p begin="00:00:37.800" end="00:00:43.430" style="s2">Articles that were published in what purport to be academic journals in the last year</p>
+<p begin="00:00:43.739" end="00:00:47.839" style="s2">Following up work done by Sokal how long ago was that?</p>
+<p begin="00:00:48.449" end="00:00:51.859" style="s2">Now it&#39;s got to be like 25 years now. Right, right</p>
+<p begin="00:00:51.860" end="00:00:55.759" style="s2">So we&#39;ve all assumed or you&#39;ve always said that the situation hasn&#39;t improved</p>
+<p begin="00:00:55.760" end="00:00:59.149" style="s2">so the first thing I&#39;m going to do we&#39;re going to have an extended discussion about</p>
+<p begin="00:00:59.309" end="00:01:03.379" style="s2">these articles and about the motivations for producing them and and then the</p>
+<p begin="00:01:03.509" end="00:01:08.719" style="s2">necessity for that and the morality of that and the aftermath and all of that and the first thing I&#39;m going to do is have</p>
+<p begin="00:01:08.720" end="00:01:12.649" style="s2">Each of you introduce yourself and then we&#39;ll launch right into a discussion about the,</p>
+<p begin="00:01:13.380" end="00:01:15.380" style="s2">Let&#39;s call it the scandal</p>
+<p begin="00:01:17.670" end="00:01:21.170" style="s2">Dr. Lindsay, yeah, um good to be here</p>
+<p begin="00:01:21.170" end="00:01:25.519" style="s2">So I have a background in mathematics and physics my PhDs in math</p>
+<p begin="00:01:25.520" end="00:01:29.299" style="s2">I left academia in 2010 and have been studying</p>
+<p begin="00:01:30.000" end="00:01:31.680" style="s2">mostly</p>
+<p begin="00:01:31.680" end="00:01:35.599" style="s2">religious and moral philosophy and psychology since and</p>
+<p begin="00:01:36.299" end="00:01:42.139" style="s2">Then got wrapped up in this idea. I kind of was the I guess epicenter of the project</p>
+<p begin="00:01:42.140" end="00:01:47.930" style="s2">I did all the submissions and managed all the emails and all of that and then Peter and Alan</p>
+<p begin="00:01:49.560" end="00:01:51.200" style="s2">Filled in all of my weaknesses</p>
+<p begin="00:01:51.200" end="00:01:57.860" style="s2">And so we spend you know an 18 about 18 months working on this a year really ten months writing papers</p>
+<p begin="00:01:58.530" end="00:02:01.009" style="s2">then there is the getting ready to go public so</p>
+<p begin="00:02:02.520" end="00:02:05.479" style="s2">That&#39;s kind of who I am and how I got into this I just a</p>
+<p begin="00:02:06.360" end="00:02:09.139" style="s2">lapsed mathematician who gives a</p>
+<p begin="00:02:09.600" end="00:02:16.909" style="s2">lot of concern to how we produce knowledge and what what academic standards are and should be</p>
+<p begin="00:02:17.070" end="00:02:19.489" style="s2">So what did, why did you leave Academia?</p>
+<p begin="00:02:20.040" end="00:02:25.219" style="s2">I wish I could say that it was like this prescient thing. I saw the writing on the wall that it was going mad</p>
+<p begin="00:02:25.220" end="00:02:31.770" style="s2">And I wanted out but really it was just a number of personal responsibilities and commitments that led me to now want to pursue</p>
+<p begin="00:02:32.590" end="00:02:39.600" style="s2">Employment where I didn&#39;t know where I would be placed from, you know one postdoc to the next it was family commitments primarily</p>
+<p begin="00:02:40.000" end="00:02:47.250" style="s2">But you were still interested enough to continue while with this project interested enough in the academic world. Yeah, I never really</p>
+<p begin="00:02:47.950" end="00:02:49.570" style="s2">wanted to stop</p>
+<p begin="00:02:49.570" end="00:02:52.139" style="s2">Researching or reading and thinking and coming up with new ideas</p>
+<p begin="00:02:52.720" end="00:02:55.650" style="s2">It&#39;s very difficult to do mathematics without some institutional</p>
+<p begin="00:02:56.140" end="00:03:02.880" style="s2">Backing a math is hard as some people have noticed so I didn&#39;t have the resources necessary really to pursue</p>
+<p begin="00:03:03.730" end="00:03:09.929" style="s2">Mathematical research independently, but I found that I could you know dig into philosophy and I could dig into</p>
+<p begin="00:03:10.840" end="00:03:14.369" style="s2">psychology kind of on my own not professionally, of course, but</p>
+<p begin="00:03:15.220" end="00:03:18.960" style="s2">Enough to get an idea of what I was was looking at in a philosophical sense</p>
+<p begin="00:03:19.090" end="00:03:25.350" style="s2">to answer questions that I was it was really deeply interested in mostly the question that drove me probably from about</p>
+<p begin="00:03:26.380" end="00:03:30.659" style="s2">2011 forward was you know, what do people really mean?</p>
+<p begin="00:03:30.660" end="00:03:36.869" style="s2">What are they talking about when they say the word God and so I really got involved in talking about their thinking about religion</p>
+<p begin="00:03:36.870" end="00:03:40.170" style="s2">that&#39;s what led me to religious and moral psychology trying to understand why people</p>
+<p begin="00:03:40.989" end="00:03:46.349" style="s2">believe things that they do and why they why they manifest their beliefs in certain ways and</p>
+<p begin="00:03:47.230" end="00:03:49.589" style="s2">ultimately because I was you know</p>
+<p begin="00:03:49.590" end="00:03:55.200" style="s2">That kind of a guy. I just wanted to find out what the I figure I live in the southeast US</p>
+<p begin="00:03:55.450" end="00:03:59.039" style="s2">It&#39;s a really religious area. People talk to me about their belief in God all the time.</p>
+<p begin="00:03:59.040" end="00:04:05.099" style="s2">I hear it constantly at different levels from the you know, yeah</p>
+<p begin="00:04:05.100" end="00:04:08.369" style="s2">there&#39;s I kind of believe level all the way to the</p>
+<p begin="00:04:09.640" end="00:04:14.100" style="s2">borderline insane level of conviction to very implausible</p>
+<p begin="00:04:14.890" end="00:04:20.850" style="s2">Propositions level and I wanted to understand I know the people talking about ideas like God</p>
+<p begin="00:04:21.100" end="00:04:23.010" style="s2">Means something when they save the term</p>
+<p begin="00:04:23.010" end="00:04:25.409" style="s2">It&#39;s something very not just do they mean something</p>
+<p begin="00:04:25.410" end="00:04:30.660" style="s2">They mean something very important to themselves and I wanted to figure out from a perspective that didn&#39;t rely upon</p>
+<p begin="00:04:31.630" end="00:04:35.369" style="s2">The religious the theology or the religious mythology or narrative</p>
+<p begin="00:04:35.680" end="00:04:39.780" style="s2">What they were speaking to as articles within in the material world</p>
+<p begin="00:04:40.090" end="00:04:44.010" style="s2">And so I became very interested in that and spent a number of years reading and writing about it</p>
+<p begin="00:04:44.540" end="00:04:49.480" style="s2">and by the way the kind of culture war, if you want to call it that,</p>
+<p begin="00:04:50.150" end="00:04:52.689" style="s2">progressed at seeing what was happening to people I was</p>
+<p begin="00:04:53.210" end="00:04:56.769" style="s2">Interested in Sam Harris for example was certainly one of these people</p>
+<p begin="00:04:57.110" end="00:05:02.919" style="s2">you see these people get called racist or sexist for what seemed to be nothing and you try to dig into it again with the</p>
+<p begin="00:05:03.050" end="00:05:08.680" style="s2">interest in meaning of words kept seeing these references back to these, you know, power dynamics and</p>
+<p begin="00:05:09.980" end="00:05:15.249" style="s2">sociological definitions that they only see racism or sexism is structural entities that allow</p>
+<p begin="00:05:16.100" end="00:05:17.780" style="s2">basically people of</p>
+<p begin="00:05:17.780" end="00:05:21.130" style="s2">People to be considered racist or sexist just because of their identity</p>
+<p begin="00:05:21.980" end="00:05:29.980" style="s2">By just by virtue of being say a white male you could be racist and sexist. You inevitably are that&#39;s exactly exactly so</p>
+<p begin="00:05:30.530" end="00:05:37.780" style="s2">That&#39;s what led me to get curious about the grievance Studies canon ultimately. I see. okay. Peter, okay, let&#39;s hear sir</p>
+<p begin="00:05:37.810" end="00:05:40.600" style="s2">lets hear from you and tell everybody who you are and what you&#39;re up to</p>
+<p begin="00:05:41.240" end="00:05:47.319" style="s2">I&#39;m currently teaching philosophy at Portland State University in the philosophy department and I</p>
+<p begin="00:05:47.990" end="00:05:55.269" style="s2">Am up to James Lindsay and I just finished a book how to have impossible conversations that will come out probably in</p>
+<p begin="00:05:55.850" end="00:06:01.869" style="s2">2019 from Da Capo press and I don&#39;t know what I&#39;m up to now because I may be</p>
+<p begin="00:06:02.390" end="00:06:05.469" style="s2">Looking at a career change very soon. So</p>
+<p begin="00:06:07.310" end="00:06:14.800" style="s2">We will get into that later but the University filed charges against me they found me guilty of not seeking IRB approval and the</p>
+<p begin="00:06:15.530" end="00:06:21.700" style="s2">Investigation is ongoing for the falsification.. Oh! So we better have quite a conversation as well about IRB approval;</p>
+<p begin="00:06:21.700" end="00:06:25.330" style="s2">that&#39;s another rabbit hole we can plunge down because that&#39;s another catastrophic</p>
+<p begin="00:06:25.940" end="00:06:29.800" style="s2">catastrophe that the university has inflicted upon itself over the last two decades.</p>
+<p begin="00:06:30.380" end="00:06:32.380" style="s2">So that&#39;s something that&#39;s become increasingly</p>
+<p begin="00:06:32.660" end="00:06:40.240" style="s2">Politicized so it&#39;s very difficult to understand how you could get IRB approval for a satire, or why you might need it.</p>
+<p begin="00:06:40.730" end="00:06:44.409" style="s2">Yeah, okay. Okay. Good Helen. Let&#39;s hear from you</p>
+<p begin="00:06:46.190" end="00:06:53.530" style="s2">Well, I&#39;m the member of the group who isn&#39;t doctor I&#39;m a lonely MA but I have a background in</p>
+<p begin="00:06:54.050" end="00:06:55.940" style="s2">literature and early</p>
+<p begin="00:06:55.940" end="00:06:58.059" style="s2">late medieval early modern studies</p>
+<p begin="00:06:58.060" end="00:07:03.999" style="s2">I&#39;m I&#39;m interested in how women used the Christian narrative to</p>
+<p begin="00:07:05.599" end="00:07:10.209" style="s2">To get Authority in autonomy for themselves sort of 1300 to 1700</p>
+<p begin="00:07:10.210" end="00:07:16.120" style="s2">So I&#39;m looking at how this changed before and after the Reformation how the narratives changed</p>
+<p begin="00:07:16.669" end="00:07:18.199" style="s2">I</p>
+<p begin="00:07:18.199" end="00:07:25.809" style="s2">I left at the end of my Master&#39;s. I was intending to go back and do my PhD in medieval manuscripts</p>
+<p begin="00:07:26.689" end="00:07:34.209" style="s2">But it&#39;s just got I keep going early on earlier because it is so difficult to get away from the ideology. I&#39;m</p>
+<p begin="00:07:34.849" end="00:07:37.929" style="s2">Interested in medieval manuscripts, but not overwhelmingly</p>
+<p begin="00:07:37.930" end="00:07:39.610" style="s2">I want to look at social history</p>
+<p begin="00:07:39.610" end="00:07:45.969" style="s2">But it&#39;s so difficult to do that because there is a pressure now to do so anachronistically: to read it through</p>
+<p begin="00:07:46.430" end="00:07:52.389" style="s2">Gender ideology of today, so I have to accept that the reason I was going to do medieval manuscripts</p>
+<p begin="00:07:52.430" end="00:07:58.900" style="s2">is because I can translate and transcribe and this is something objective that I can do. I can produce an edition of</p>
+<p begin="00:07:59.960" end="00:08:07.029" style="s2">Texts, which aren&#39;t readily available and explain them and that&#39;s the only real way that I&#39;m able to look at</p>
+<p begin="00:08:07.699" end="00:08:11.228" style="s2">religious writing by and about women in</p>
+<p begin="00:08:12.110" end="00:08:16.659" style="s2">any objective way and it isn&#39;t really I want to do so I stepped away for a year</p>
+<p begin="00:08:16.659" end="00:08:19.239" style="s2">And in that year I started writing about</p>
+<p begin="00:08:20.060" end="00:08:24.489" style="s2">about post-modernism about feminism about liberalism and ideology and</p>
+<p begin="00:08:25.129" end="00:08:28.749" style="s2">Then they just got to be so much to do with that</p>
+<p begin="00:08:29.419" end="00:08:35.859" style="s2">But I I haven&#39;t gone back at all so involved in in writing about what&#39;s going on right now</p>
+<p begin="00:08:35.860" end="00:08:38.740" style="s2">and so that is where I&#39;m now.</p>
+<p begin="00:08:39.289" end="00:08:42.398" style="s2">I see.  Well, it&#39;s interesting because you you talked about</p>
+<p begin="00:08:43.130" end="00:08:44.329" style="s2">your</p>
+<p begin="00:08:44.329" end="00:08:47.139" style="s2">your belief that women in the</p>
+<p begin="00:08:48.470" end="00:08:54.490" style="s2">mid stages of development of the Christian Church we&#39;re using the idea is to actually liberate themselves and to</p>
+<p begin="00:08:56.839" end="00:08:58.250" style="s2">Yeah</p>
+<p begin="00:08:58.250" end="00:09:03.699" style="s2">Example from Marjorie Kemp to Amelia Lanier and we&#39;re looking at very different ways in</p>
+<p begin="00:09:04.070" end="00:09:10.869" style="s2">Which you know it within the Catholic narrative, for example, women would say well God speaks directly to me he is the ultimate</p>
+<p begin="00:09:13.010" end="00:09:17.319" style="s2">patriarch so that gives me a certain authority to disagree with a patriarchial church.</p>
+<p begin="00:09:18.350" end="00:09:25.990" style="s2">if I think it&#39;s fair with my husband and then later after the Reformation there was a slightly different emphasis in which</p>
+<p begin="00:09:26.570" end="00:09:32.770" style="s2">Women, you know everyone, could interpret the Bible and that includes women so there was a different kind of authority</p>
+<p begin="00:09:33.320" end="00:09:40.659" style="s2">There too. So that that&#39;s generally have been what up what I&#39;ve been interested in. There&#39;s slightly different ways that women have approached</p>
+<p begin="00:09:41.330" end="00:09:43.330" style="s2">biblical text biblical narratives and</p>
+<p begin="00:09:44.450" end="00:09:47.739" style="s2">And yes, and used them to challenge that our mainstream</p>
+<p begin="00:09:48.470" end="00:09:55.540" style="s2">Interpretations and and makes them make some pretty good arguments. Well Amelia Lenya certainly did Marjorie Kemp mostly screams</p>
+<p begin="00:09:57.830" end="00:09:59.830" style="s2">Okay</p>
+<p begin="00:10:01.310" end="00:10:04.840" style="s2">Why are you guys telling us what the genesis of this project was?</p>
+<p begin="00:10:04.840" end="00:10:08.859" style="s2">let&#39;s outline the project itself that the sequence of papers that you wrote and</p>
+<p begin="00:10:09.470" end="00:10:14.800" style="s2">Let&#39;s talk about the genesis of that as well. So I want to take that one. Okay?</p>
+<p begin="00:10:15.740" end="00:10:17.799" style="s2">It&#39;s really kind of kind of interesting</p>
+<p begin="00:10:18.230" end="00:10:22.960" style="s2">I don&#39;t know if your audience would know this Jordan or not, but all three of us</p>
+<p begin="00:10:22.960" end="00:10:29.889" style="s2">you know were writing a bit within what might have been considered the new atheist vein and working within that and</p>
+<p begin="00:10:30.020" end="00:10:36.429" style="s2">And I was working on a book trying to answer my big kind of early 2010&#39;s research question</p>
+<p begin="00:10:36.430" end="00:10:40.659" style="s2">What do people mean when they say god I was writing a book called that I eventually titled</p>
+<p begin="00:10:40.660" end="00:10:45.070" style="s2">Everybody is wrong about God and I Peter called me one day while I was working on</p>
+<p begin="00:10:45.260" end="00:10:47.559" style="s2">Either the book itself or the research for it</p>
+<p begin="00:10:47.560" end="00:10:52.299" style="s2">I don&#39;t recall the specifics at the time, but he called me one day and said, you know, dude, dude</p>
+<p begin="00:10:52.300" end="00:10:57.190" style="s2">I think I&#39;m going crazy. I keep trying to tell people something that&#39;s as obvious as can be to me and</p>
+<p begin="00:10:58.850" end="00:11:02.920" style="s2">Somebody has to believe I&#39;m not crazy everybody thinks. I&#39;m nuts. Please tell me I&#39;m not crazy</p>
+<p begin="00:11:02.920" end="00:11:05.020" style="s2">and so I said, you know, what is it and he said</p>
+<p begin="00:11:05.660" end="00:11:06.860" style="s2">I</p>
+<p begin="00:11:06.860" end="00:11:08.510" style="s2">Look at the way</p>
+<p begin="00:11:08.510" end="00:11:15.010" style="s2">People in gender studies used their scholarly Canon, the way they they produce that the way that they refer to it,</p>
+<p begin="00:11:15.620" end="00:11:18.010" style="s2">the the fact that it seems disconnected</p>
+<p begin="00:11:19.300" end="00:11:22.659" style="s2">in a literal sense from what&#39;s going on in reality and</p>
+<p begin="00:11:23.390" end="00:11:29.829" style="s2">It feels like it&#39;s their bible, it feels like it&#39;s a holy scripture for something like a religion</p>
+<p begin="00:11:29.860" end="00:11:33.849" style="s2">Am I going nuts and as it turned out the reason I started writing the book</p>
+<p begin="00:11:34.700" end="00:11:38.409" style="s2">Everybody&#39;s wrong about God was partly to answer my big research question</p>
+<p begin="00:11:38.410" end="00:11:45.339" style="s2">But it was also because I noticed that the community built up around new atheist activism which called itself the atheism community</p>
+<p begin="00:11:46.250" end="00:11:52.899" style="s2">showed almost all of the symptoms of qualifying as a religion at least from like Durkheim&#39;s perspectives and</p>
+<p begin="00:11:53.210" end="00:11:55.210" style="s2">Maybe even from some others</p>
+<p begin="00:11:55.370" end="00:12:00.609" style="s2">So I immediately latched on to what Pete said and I said no, you&#39;re not crazy. I think you&#39;re probably right</p>
+<p begin="00:12:00.850" end="00:12:05.380" style="s2">I think you are absolutely right that the scholarly Canon in gender studies and so on is</p>
+<p begin="00:12:06.500" end="00:12:08.240" style="s2">operating like a</p>
+<p begin="00:12:08.240" end="00:12:10.240" style="s2">book of faith for</p>
+<p begin="00:12:10.520" end="00:12:12.970" style="s2">Something but I don&#39;t know exactly what this is</p>
+<p begin="00:12:12.970" end="00:12:18.010" style="s2">And so we got curious about that scholarly canon kind of from that point</p>
+<p begin="00:12:18.140" end="00:12:23.410" style="s2">It wasn&#39;t long after that that the infamous feminist Glaciology paper came out</p>
+<p begin="00:12:24.140" end="00:12:25.940" style="s2">where the a</p>
+<p begin="00:12:25.940" end="00:12:32.829" style="s2">few four or five researchers published a very well funded study showing they&#39;re claiming to show that the</p>
+<p begin="00:12:33.170" end="00:12:36.700" style="s2">Glaciology is inherently sexist all the way back to its roots</p>
+<p begin="00:12:38.540" end="00:12:40.540" style="s2">Back to you know, the</p>
+<p begin="00:12:40.910" end="00:12:45.190" style="s2">intrepid explorers of mountains and polar regions and all this so is</p>
+<p begin="00:12:45.950" end="00:12:49.509" style="s2">justified by being a big tough guy in the 19th century or whatever and</p>
+<p begin="00:12:50.720" end="00:12:52.720" style="s2">That apparently somehow this</p>
+<p begin="00:12:53.420" end="00:12:59.440" style="s2">masculinist bias hangs over it and so the answer to this is to put feminist art projects as part of glacier science and</p>
+<p begin="00:13:00.680" end="00:13:03.909" style="s2">(...) ology is as part of glacier science or else it&#39;s racist and sexist and</p>
+<p begin="00:13:04.610" end="00:13:06.110" style="s2">I</p>
+<p begin="00:13:06.110" end="00:13:08.110" style="s2">Mean, I remember reading the paper</p>
+<p begin="00:13:08.930" end="00:13:12.909" style="s2">Lightly at the time and thinking there&#39;s no way this is real and Peter and I had a phone call</p>
+<p begin="00:13:13.160" end="00:13:17.860" style="s2">We started looking at new peer review on the Twitter at the same time. Oh, you should never look at that.</p>
+<p begin="00:13:17.860" end="00:13:22.599" style="s2">Oh my gosh, so so we&#39;ve we&#39;ve actually got two issues here</p>
+<p begin="00:13:22.600" end="00:13:29.259" style="s2">then. Let&#39;s say now all the sudden because yeah, there&#39;s a there&#39;s the there&#39;s the issue of what&#39;s going on in the</p>
+<p begin="00:13:31.250" end="00:13:36.849" style="s2">Social justice oriented academic disciplines and then there&#39;s a deeper issue of how</p>
+<p begin="00:13:37.580" end="00:13:39.580" style="s2">people view the world</p>
+<p begin="00:13:39.590" end="00:13:41.120" style="s2">individually and collectively</p>
+<p begin="00:13:41.120" end="00:13:45.850" style="s2">yes through the lens of a belief system and the probability that that</p>
+<p begin="00:13:46.460" end="00:13:52.389" style="s2">Belief system will take on something approximating the trappings of a religious movement. Mm-hmm</p>
+<p begin="00:13:52.450" end="00:13:55.900" style="s2">Yes, so so that&#39;s a deeper question.</p>
+<p begin="00:13:55.900" end="00:14:01.780" style="s2">I mean one of the things that I discussed continually with Sam Harris when we had our series of debates was</p>
+<p begin="00:14:02.450" end="00:14:03.650" style="s2">the</p>
+<p begin="00:14:03.650" end="00:14:05.180" style="s2">question of the</p>
+<p begin="00:14:05.180" end="00:14:11.320" style="s2">Inescapability of something approximating the religious framework to orient people in relationship to action in the world</p>
+<p begin="00:14:11.540" end="00:14:17.319" style="s2">All right, like I happen to believe that a framework like that is inescapable. The question is not whether you&#39;re going to have one</p>
+<p begin="00:14:17.320" end="00:14:21.669" style="s2">it&#39;s which one you&#39;re going to have and what is it going to be rooted in and I mean</p>
+<p begin="00:14:22.250" end="00:14:28.869" style="s2">one of the things I think that both Nietzsche and Dostoyevsky warn people about in the late 19th century was that</p>
+<p begin="00:14:29.900" end="00:14:35.979" style="s2">What what this isn&#39;t a quote from either of them, but it&#39;s something approximating someone else. Whose name. I don&#39;t remember</p>
+<p begin="00:14:37.040" end="00:14:39.790" style="s2">He who believes in nothing will end up believing in anything?</p>
+<p begin="00:14:40.610" end="00:14:41.780" style="s2">and</p>
+<p begin="00:14:41.780" end="00:14:46.269" style="s2">And there&#39;s something there&#39;s something in that that&#39;s extraordinarily deep as far as I&#39;m concerned</p>
+<p begin="00:14:46.270" end="00:14:50.139" style="s2">All right, so you were interested in religious phenomenology, and then you guys started to see that</p>
+<p begin="00:14:50.720" end="00:14:51.740" style="s2">as</p>
+<p begin="00:14:51.740" end="00:14:57.970" style="s2">far as you were concerned a variety of different quasi academic or academic movements were taking on the trappings of our</p>
+<p begin="00:14:59.930" end="00:15:01.930" style="s2">Religious</p>
+<p begin="00:15:02.150" end="00:15:07.269" style="s2">They were starting to look religious in their approach and in their application of their beliefs, right</p>
+<p begin="00:15:08.810" end="00:15:11.020" style="s2">On the social justice end of it, right</p>
+<p begin="00:15:11.660" end="00:15:16.959" style="s2">community for example was definitely engaging in of course they had kind of their</p>
+<p begin="00:15:17.600" end="00:15:19.600" style="s2">their unique</p>
+<p begin="00:15:20.000" end="00:15:23.679" style="s2">vocabulary that they speak to one another in and identify one another by</p>
+<p begin="00:15:24.530" end="00:15:29.410" style="s2">which is kind of like an ecclesiastical vocabulary, but if social justice and then they</p>
+<p begin="00:15:30.320" end="00:15:32.320" style="s2">were</p>
+<p begin="00:15:32.930" end="00:15:39.940" style="s2">Definitely involved, what what they call political correctness is in practice virtually identical to what you see with people carrying blasphemy</p>
+<p begin="00:15:41.960" end="00:15:45.280" style="s2">So these parallels started to stick out at the same time</p>
+<p begin="00:15:45.890" end="00:15:50.410" style="s2">The way that we started looking at the real peer review Twitter account in the way that they seem to be producing</p>
+<p begin="00:15:50.990" end="00:15:53.240" style="s2">Our knowledge that they could then refer to</p>
+<p begin="00:15:54.360" end="00:15:55.500" style="s2">virtually</p>
+<p begin="00:15:55.500" end="00:15:59.570" style="s2">Replicates special revelation the they came up with their ideas</p>
+<p begin="00:15:59.570" end="00:16:03.739" style="s2">they believed that they came from some morally backed source of</p>
+<p begin="00:16:04.980" end="00:16:09.920" style="s2">Goodness, and put them forth. And then where they were were morally vetted and</p>
+<p begin="00:16:10.920" end="00:16:16.250" style="s2">Given an epistemological status they didn&#39;t deserve as a result. Okay. What do you think the sources?</p>
+<p begin="00:16:16.890" end="00:16:21.770" style="s2">The source at the time I had no idea but now after having done the project</p>
+<p begin="00:16:21.770" end="00:16:25.729" style="s2">I think the source is actually what I&#39;ve come to call a postmodern mythology that</p>
+<p begin="00:16:26.220" end="00:16:33.500" style="s2">Our social reality is conditioned upon use of language and representation and it&#39;s all done in service to power</p>
+<p begin="00:16:33.540" end="00:16:38.750" style="s2">dynamics that underlie how society works those power dynamics are trapped up in identity and</p>
+<p begin="00:16:40.380" end="00:16:43.669" style="s2">Mediated primarily through language and media weather</p>
+<p begin="00:16:43.709" end="00:16:47.989" style="s2">Okay, so I&#39;ve identified the sources of that not only me obviously</p>
+<p begin="00:16:47.990" end="00:16:48.600" style="s2">but</p>
+<p begin="00:16:48.600" end="00:16:56.570" style="s2">I&#39;ve identified the sources of that belief with the French post modernist movement fundamentally other people trace some of it back farther to</p>
+<p begin="00:16:56.910" end="00:17:02.899" style="s2">What&#39;s essentially something approximating a Marxist doctrine which is the doctrine of which is a doctrine of power relations</p>
+<p begin="00:17:02.899" end="00:17:04.899" style="s2">I would say sure you have any</p>
+<p begin="00:17:05.459" end="00:17:10.129" style="s2">Criticisms or further comments on that. Let&#39;s call it geneology geneology or Lynne</p>
+<p begin="00:17:11.459" end="00:17:13.459" style="s2">Helen</p>
+<p begin="00:17:13.709" end="00:17:15.709" style="s2">Good yeah, I I</p>
+<p begin="00:17:15.929" end="00:17:16.860" style="s2">largely agree</p>
+<p begin="00:17:16.860" end="00:17:22.069" style="s2">I with the idea that that we had a quite a profound epistemic</p>
+<p begin="00:17:22.380" end="00:17:25.999" style="s2">shift in the late 60s with the rise of the post modernists I</p>
+<p begin="00:17:27.059" end="00:17:29.059" style="s2">disagree with people who</p>
+<p begin="00:17:29.790" end="00:17:33.379" style="s2">Cry and kind of relate this closely to Marxism</p>
+<p begin="00:17:33.380" end="00:17:38.059" style="s2">I think it&#39;s clear that they they have a common ancestor and that they have certain ideas</p>
+<p begin="00:17:38.760" end="00:17:43.879" style="s2">in common, but if we complete Marxism and post-modernism</p>
+<p begin="00:17:44.790" end="00:17:51.379" style="s2">Too closely on more than those yet that that sort of oppressor and oppressed group that sort of them</p>
+<p begin="00:17:52.500" end="00:17:55.189" style="s2">false consciousness these sort of key ideas</p>
+<p begin="00:17:55.190" end="00:18:01.340" style="s2">which really were floating around at the same time and they&#39;ve come up in the same place if we complete those two closely and we</p>
+<p begin="00:18:01.340" end="00:18:05.929" style="s2">are not looking at the really profound differences in Epis theology in which</p>
+<p begin="00:18:06.720" end="00:18:11.209" style="s2">Marxism was really trying to continue a modernist project. It was totalitarian</p>
+<p begin="00:18:11.210" end="00:18:18.649" style="s2">It was Objectivist mostly and it went sort of in a straight line and the if there is a word for the extremes</p>
+<p begin="00:18:19.320" end="00:18:26.450" style="s2">Marxism it is totalitarianism. If there&#39;s a word for the extremes of post-modernism its disintegration its fragmentation</p>
+<p begin="00:18:26.450" end="00:18:29.509" style="s2">So we&#39;re looking now at something very different something very</p>
+<p begin="00:18:29.940" end="00:18:34.460" style="s2">intangible that is coming in and it&#39;s saying we cannot access an</p>
+<p begin="00:18:35.009" end="00:18:39.859" style="s2">Objective truth. Everything is created in discourses empowers us in systems of power</p>
+<p begin="00:18:40.620" end="00:18:48.379" style="s2">Ok, so why in the world is power and privilege them? I mean it still seems that the post modernists are willing to</p>
+<p begin="00:18:49.320" end="00:18:54.889" style="s2">Assume that the pursuit of power is first of all obvious that everyone&#39;s pursuing it</p>
+<p begin="00:18:54.889" end="00:18:58.699" style="s2">But it&#39;s also ok for those who don&#39;t have it to pursue it</p>
+<p begin="00:18:58.919" end="00:19:04.699" style="s2">So it&#39;s not as if they&#39;ve abandoned the idea as far as I can tell above a linear narrative</p>
+<p begin="00:19:04.950" end="00:19:08.029" style="s2">Towards some end the end seems to me to be power</p>
+<p begin="00:19:08.029" end="00:19:13.579" style="s2">And so why is that justifiable from the postmodern perspective given that linear?</p>
+<p begin="00:19:14.159" end="00:19:15.450" style="s2">movement and</p>
+<p begin="00:19:15.450" end="00:19:20.629" style="s2">Meta-narratives aren&#39;t justifiable because of this change that happened in the late 80s</p>
+<p begin="00:19:20.809" end="00:19:22.669" style="s2">so when circle for example</p>
+<p begin="00:19:22.669" end="00:19:28.849" style="s2">he he did his hoax what he was looking at was this quite sort of pure post-modernism this</p>
+<p begin="00:19:29.460" end="00:19:35.299" style="s2">Very sort of intangible idea. That&#39;s an objective reality can&#39;t exist that we can&#39;t grasp anything that everything is a construct</p>
+<p begin="00:19:35.519" end="00:19:37.819" style="s2">But what happened in the 80s?</p>
+<p begin="00:19:38.399" end="00:19:40.399" style="s2">Gradually, was that this just after?</p>
+<p begin="00:19:40.980" end="00:19:45.139" style="s2">prolific amounts of writing it just kind of fizzled because once you&#39;ve</p>
+<p begin="00:19:45.779" end="00:19:51.199" style="s2">Disintegrated and dismantled absolutely everything and it&#39;s all in a mess on the floor. You have got nowhere to go with this</p>
+<p begin="00:19:51.450" end="00:19:56.029" style="s2">So we started seeing then the rise in materialist feminism first of all</p>
+<p begin="00:19:56.370" end="00:19:59.959" style="s2">And then within sort of critical race approaches</p>
+<p begin="00:20:00.509" end="00:20:06.679" style="s2">Intersectionality in queer theory in post colonialism particularly. We started seeing a change towards</p>
+<p begin="00:20:07.139" end="00:20:09.469" style="s2">Okay, so everything is a cultural construct</p>
+<p begin="00:20:10.049" end="00:20:12.469" style="s2">But we can&#39;t address anything</p>
+<p begin="00:20:12.470" end="00:20:18.049" style="s2">If we don&#39;t accept that a certain group of people in a certain place at a certain time experience certain things</p>
+<p begin="00:20:18.620" end="00:20:26.120" style="s2">so what we&#39;re looking at now is an objective reality that oppression and systems of power exist, but but already</p>
+<p begin="00:20:28.770" end="00:20:32.660" style="s2">Mm-hmm. Everything else is socially constructed so the funding</p>
+<p begin="00:20:35.250" end="00:20:38.510" style="s2">That construct has power yes, it is objectively true</p>
+<p begin="00:20:38.700" end="00:20:45.620" style="s2">That power is benefiting straight white men and disadvantaging women of color trans women etcetera</p>
+<p begin="00:20:45.620" end="00:20:52.250" style="s2">So this this was the the change that happened then so now it&#39;s politically actionable and this I mean kimberlé crenshaw</p>
+<p begin="00:20:52.290" end="00:20:56.929" style="s2">But this most explicitly when she said it&#39;s politics applied to postmodern theory, okay?</p>
+<p begin="00:20:58.200" end="00:21:02.210" style="s2">So we want to get this straight because it&#39;s very very important. So</p>
+<p begin="00:21:02.940" end="00:21:10.460" style="s2">you just you distinguish the postmodern movement from the Marxist movement because the Marxism Marxists were still moving in a</p>
+<p begin="00:21:10.890" end="00:21:16.550" style="s2">Single direction and you considered that still part of the modernist project. You equated Marxism and post-modernism</p>
+<p begin="00:21:17.309" end="00:21:21.169" style="s2">Insofar as they both adopt, let&#39;s say an oppressor</p>
+<p begin="00:21:22.500" end="00:21:23.820" style="s2">Jarett</p>
+<p begin="00:21:23.820" end="00:21:29.360" style="s2">Yes, although many other things do too and often that that&#39;s quite warranted. I mean the the American</p>
+<p begin="00:21:30.059" end="00:21:32.359" style="s2">Revolution for example was an oppressor oppressed</p>
+<p begin="00:21:33.120" end="00:21:35.120" style="s2">revolution</p>
+<p begin="00:21:35.460" end="00:21:40.910" style="s2">Power and power differentials exist the issue is not there are other realities that might be considered</p>
+<p begin="00:21:41.580" end="00:21:45.140" style="s2">Exactly history is whether that we&#39;re seeing and truly it</p>
+<p begin="00:21:45.720" end="00:21:50.780" style="s2">Yes, and whether it&#39;s reasonable to reduce everything to a single dimension of motivation</p>
+<p begin="00:21:50.780" end="00:21:57.979" style="s2">so the postmodern project collapses into its own nihilism and something emerges out of the ashes and that&#39;s the</p>
+<p begin="00:21:59.160" end="00:22:03.109" style="s2">assumption that a transcendent reality does in fact exist, but the only</p>
+<p begin="00:22:03.720" end="00:22:08.630" style="s2">Defining feature of that transcendent reality is the existence of power in the existence of power differential</p>
+<p begin="00:22:10.830" end="00:22:13.340" style="s2">And identity and that&#39;s associated with identity</p>
+<p begin="00:22:13.340" end="00:22:18.110" style="s2">Okay, but then the question becomes just there&#39;s a question that goes underneath that even which is well</p>
+<p begin="00:22:18.110" end="00:22:25.729" style="s2">Why is it why is it that that is accepted as the fundamental reality because there&#39;s no rationale for that in</p>
+<p begin="00:22:25.980" end="00:22:27.980" style="s2">post-modernism itself in fact</p>
+<p begin="00:22:28.050" end="00:22:34.880" style="s2">Should criticize that they do they do very much and this the argument that goes on repeatedly with the old-style</p>
+<p begin="00:22:35.310" end="00:22:37.639" style="s2">postmodernist saying this isn&#39;t post-modernism and</p>
+<p begin="00:22:38.280" end="00:22:41.480" style="s2">So a week we&#39;ve tended to call it applied post-modernism</p>
+<p begin="00:22:42.150" end="00:22:44.040" style="s2">John nurse to build it</p>
+<p begin="00:22:44.040" end="00:22:51.139" style="s2">the pomide cluster because it&#39;s just a set of ideas about identity about power about privilege about</p>
+<p begin="00:22:51.240" end="00:22:55.159" style="s2">language the importance of language and and</p>
+<p begin="00:22:56.340" end="00:22:58.639" style="s2">hierarchies and things which have come from</p>
+<p begin="00:22:58.980" end="00:23:06.230" style="s2">Post-modernism which have got politicized and then within activism have got convinced into kind of user friendly chunks and further</p>
+<p begin="00:23:06.450" end="00:23:11.419" style="s2">Bastardized so we can&#39;t we can&#39;t take this away from post-modernism</p>
+<p begin="00:23:11.420" end="00:23:15.230" style="s2">it didn&#39;t come from anywhere else, but neither is it the</p>
+<p begin="00:23:16.020" end="00:23:18.500" style="s2">That they&#39;re pure sort of deconstructive</p>
+<p begin="00:23:19.050" end="00:23:23.720" style="s2">or post-structuralist or any of that of that whole sort of massive range of</p>
+<p begin="00:23:24.270" end="00:23:30.680" style="s2">Theory that it existed from the late 60s into the mid 80s. That&#39;s that died. It&#39;s it&#39;s gone</p>
+<p begin="00:23:30.960" end="00:23:33.799" style="s2">It&#39;s fragmented itself as it is always bound to do</p>
+<p begin="00:23:34.470" end="00:23:35.760" style="s2">so</p>
+<p begin="00:23:35.760" end="00:23:40.460" style="s2">Drive to your question about why or how they justified this change</p>
+<p begin="00:23:41.310" end="00:23:43.310" style="s2">I&#39;ll just say we we called this</p>
+<p begin="00:23:44.340" end="00:23:51.289" style="s2">This set of disciplines or approaches grievance studies for a reason it&#39;s about grievances. It&#39;s the politics of grievance</p>
+<p begin="00:23:51.390" end="00:23:56.960" style="s2">So they feel aggrieved therefore they feel justified in trying to disrupt power</p>
+<p begin="00:23:56.960" end="00:24:04.490" style="s2">They see that exists and to claim power for themselves. It&#39;s social revenge. That&#39;s what they&#39;re that&#39;s what they&#39;re animus is. That&#39;s their</p>
+<p begin="00:24:05.010" end="00:24:07.010" style="s2">moral justification for</p>
+<p begin="00:24:08.550" end="00:24:13.190" style="s2">For continuing to fragment and and to chase the very thing they say is</p>
+<p begin="00:24:14.490" end="00:24:17.240" style="s2">You know the great corruptor of man, which is power</p>
+<p begin="00:24:19.140" end="00:24:26.030" style="s2">If this is true I do I have some sympathy with that claim it doesn&#39;t matter that there are philosophical</p>
+<p begin="00:24:27.090" end="00:24:32.120" style="s2">Incoherencies within the structure within the intellectual structure at all. What matters is that?</p>
+<p begin="00:24:32.670" end="00:24:37.490" style="s2">There&#39;s an animus and a motive and the motive is fundamentally something approximating revenge</p>
+<p begin="00:24:37.490" end="00:24:44.899" style="s2">why why would you say look why would you say revenge and not justice like and this this goes to another issue just</p>
+<p begin="00:24:45.330" end="00:24:48.260" style="s2">obviously all three of you opposed this movement and</p>
+<p begin="00:24:49.200" end="00:24:54.260" style="s2">we&#39;ve already decided in this discussion that it&#39;s something like The Revenge of the</p>
+<p begin="00:24:54.960" end="00:24:57.590" style="s2">Marginalized but the marginalized could well object</p>
+<p begin="00:24:57.590" end="00:25:04.280" style="s2">well, this isn&#39;t revenge you only see it that way because you&#39;re part of the privileged Power Group and it&#39;s actually a search for</p>
+<p begin="00:25:04.980" end="00:25:12.079" style="s2">It&#39;s a search for it&#39;s a search the genuine search for justice you&#39;re and also most of the marginalized on social justice</p>
+<p begin="00:25:13.050" end="00:25:18.709" style="s2">Orientated that that&#39;s what we have to remember this is speaking on behalf of women and racial and sexual minorities</p>
+<p begin="00:25:19.350" end="00:25:21.350" style="s2">most members of every group</p>
+<p begin="00:25:21.690" end="00:25:24.830" style="s2">Do not ascribe to it. They&#39;re they&#39;re politically diverse. So</p>
+<p begin="00:25:28.590" end="00:25:32.990" style="s2">That&#39;s one of the reasons that that the claim for the pursuit of justice is</p>
+<p begin="00:25:33.750" end="00:25:41.329" style="s2">Invalidated it&#39;s that there&#39;s no evidence whatsoever that the activist types who dominate these disciplines are valid representatives of the communities</p>
+<p begin="00:25:41.940" end="00:25:46.820" style="s2">That they purport to stand for it. And in fact if you surveyed the communities themselves</p>
+<p begin="00:25:48.120" end="00:25:54.979" style="s2">In any reasonable manner then the communities indicate their lack of agreement with with this way of looking at the world. Yeah</p>
+<p begin="00:25:55.050" end="00:25:56.390" style="s2">Yes, okay, okay</p>
+<p begin="00:25:56.390" end="00:25:56.940" style="s2">and</p>
+<p begin="00:25:56.940" end="00:25:57.710" style="s2">Of course</p>
+<p begin="00:25:57.710" end="00:26:03.650" style="s2">There is also the the complicating element that nearly always appears that you do have kernels of truth on both sides of that</p>
+<p begin="00:26:03.810" end="00:26:09.109" style="s2">discussion there are legitimate questions of justice that are being tied up into this and then there are</p>
+<p begin="00:26:09.480" end="00:26:12.890" style="s2">legitimate reasons to see it as being motivated primarily by</p>
+<p begin="00:26:13.290" end="00:26:17.839" style="s2">something approximating revenge or grievance or reparations or something like that and</p>
+<p begin="00:26:18.240" end="00:26:25.250" style="s2">They get intertwined and as you were mentioning with any time, you&#39;re working with postmodern epistemologies. There&#39;s no reason to expect consistency</p>
+<p begin="00:26:25.500" end="00:26:29.510" style="s2">They reject consistency as a bug in the system</p>
+<p begin="00:26:30.080" end="00:26:36.439" style="s2">They&#39;re unrepentant that unrepentant about being inconsistent. So that&#39;s no small point</p>
+<p begin="00:26:36.440" end="00:26:43.430" style="s2">And I think for people watching that that point needs to be punched home. So Jim, could you speak to a little more about that?</p>
+<p begin="00:26:44.280" end="00:26:46.280" style="s2">Well, yeah, it&#39;s um</p>
+<p begin="00:26:46.920" end="00:26:49.759" style="s2">the the idea that you would be consistent is</p>
+<p begin="00:26:50.850" end="00:26:55.490" style="s2">One of the ideas that would be caught up in the Western philosophical tradition as they would phrase it</p>
+<p begin="00:26:55.620" end="00:27:01.340" style="s2">It&#39;s caught up in the exam tradition that was bred of white and male power</p>
+<p begin="00:27:01.340" end="00:27:07.459" style="s2">And so that needs to be disrupted because that power inherently from the perspective of this</p>
+<p begin="00:27:07.860" end="00:27:15.349" style="s2">World view that power inherently corrupts, but more importantly and inherently always acts to preserve and maintain and legitimize itself</p>
+<p begin="00:27:15.350" end="00:27:22.279" style="s2">okay, so the demand for consistency becomes itself an act of oppression against me back lane is that</p>
+<p begin="00:27:23.040" end="00:27:27.710" style="s2">all seems reasonable to me so so look so so here&#39;s a peculiar thing and</p>
+<p begin="00:27:28.230" end="00:27:30.439" style="s2">It&#39;s an observation of something approximating</p>
+<p begin="00:27:30.960" end="00:27:33.620" style="s2">Let&#39;s say a Freudian notion of projection</p>
+<p begin="00:27:34.290" end="00:27:36.290" style="s2">um</p>
+<p begin="00:27:37.830" end="00:27:40.909" style="s2">The people who are pushing this viewpoint aren&#39;t legitimate</p>
+<p begin="00:27:41.490" end="00:27:44.569" style="s2">representatives of their communities in any real sense of the matter and</p>
+<p begin="00:27:44.940" end="00:27:50.029" style="s2">They push a particular viewpoint that has very little academic credibility as far as I&#39;m concerned</p>
+<p begin="00:27:50.180" end="00:27:53.299" style="s2">and it is primarily concerned with political activism and with the</p>
+<p begin="00:27:54.210" end="00:27:57.289" style="s2">obtaining or the justification of obtaining power</p>
+<p begin="00:27:57.990" end="00:28:05.269" style="s2">Now we could assume that this is being done on behalf of the people who are putting forward the doctrine and so to me, see</p>
+<p begin="00:28:05.270" end="00:28:10.220" style="s2">I&#39;ve come to understand that part of the reason that people cling to their belief systems is because</p>
+<p begin="00:28:11.010" end="00:28:12.720" style="s2">they have</p>
+<p begin="00:28:12.720" end="00:28:14.990" style="s2">Their the reason they have the moral authority</p>
+<p begin="00:28:15.870" end="00:28:23.779" style="s2">To occupy the hierarchical position that society has granted them is because they&#39;re regarded as experts in an in a belief</p>
+<p begin="00:28:24.030" end="00:28:25.290" style="s2">structure and</p>
+<p begin="00:28:25.290" end="00:28:32.870" style="s2">if the their claim to that expertise is questioned and their moral justification for occupying their position is</p>
+<p begin="00:28:34.170" end="00:28:38.990" style="s2">eradicate and it&#39;s the position that gives them purpose in life and that protects them from</p>
+<p begin="00:28:39.840" end="00:28:42.620" style="s2">Uncertainty and anxiety. It&#39;s not the belief structure itself</p>
+<p begin="00:28:42.620" end="00:28:48.169" style="s2">You see it&#39;s very fabric that they&#39;re experts in the belief system and that justifies their position in the hierarchy</p>
+<p begin="00:28:48.180" end="00:28:51.169" style="s2">So they put forward this claim to continue</p>
+<p begin="00:28:51.900" end="00:28:59.210" style="s2">Justifying the fact that they occupy, and very perversely, and this is the for any projection is very perversely the very positions of power</p>
+<p begin="00:28:59.550" end="00:29:05.360" style="s2">whose existence they criticize this would be the university professor claims in particular that seems</p>
+<p begin="00:29:05.970" end="00:29:11.659" style="s2">reasonable to you or or is there something wrong with that line of it that comports actually with what I</p>
+<p begin="00:29:11.850" end="00:29:15.750" style="s2">From reading John hight, for example who talks about</p>
+<p begin="00:29:16.270" end="00:29:18.039" style="s2">psychosocial evaluation and</p>
+<p begin="00:29:18.039" end="00:29:24.719" style="s2">the way that human beings do that with one another how we identify where we stand in our social and moral hierarchies</p>
+<p begin="00:29:25.270" end="00:29:30.569" style="s2">and how we where we position ourselves and others and each other in relation to one another and that</p>
+<p begin="00:29:31.150" end="00:29:33.660" style="s2">One of those three dimensions he named divinity</p>
+<p begin="00:29:33.660" end="00:29:35.660" style="s2">and so that would be the</p>
+<p begin="00:29:35.740" end="00:29:41.189" style="s2">Part you&#39;re speaking to so we gain we gain status and the hierarchy through our closeness of kin</p>
+<p begin="00:29:41.190" end="00:29:46.650" style="s2">so if you and I are friends you rank me higher than I probably deserve because that&#39;s how humans do and</p>
+<p begin="00:29:46.809" end="00:29:53.069" style="s2">We gain status by reputation and that&#39;s why we care what Michael Jordan things about politics and we gain status by</p>
+<p begin="00:29:53.710" end="00:29:59.340" style="s2">Our moral standing which is what John hight called divinity and of course he explored it primarily in the happiness</p>
+<p begin="00:29:59.620" end="00:30:01.559" style="s2">hypothesis with regard to his trips</p>
+<p begin="00:30:01.559" end="00:30:08.038" style="s2">I think to India and seeing a traditional religion and then comparing that directly against so-called weird societies in</p>
+<p begin="00:30:08.679" end="00:30:14.908" style="s2">Western democracies, and I think that what we&#39;re actually seeing in a lot of these cases as we&#39;re seeing</p>
+<p begin="00:30:15.460" end="00:30:17.789" style="s2">Partly at least people are acting out</p>
+<p begin="00:30:19.360" end="00:30:24.059" style="s2">What what often gets completed with religion, in fact is that they&#39;re acting out the need to</p>
+<p begin="00:30:25.690" end="00:30:27.610" style="s2">Fulfill or</p>
+<p begin="00:30:27.610" end="00:30:30.510" style="s2">participate in that third dimension of psychosocial evaluation</p>
+<p begin="00:30:31.330" end="00:30:38.100" style="s2">Although in secular societies we throw out the the explicit religious structure for it and we have to find it in other ways</p>
+<p begin="00:30:38.140" end="00:30:45.569" style="s2">So that&#39;s what you&#39;re actually talking about. They occupy a moral expertise that moral expertise gives them standing within the prevailing</p>
+<p begin="00:30:46.419" end="00:30:49.739" style="s2">Moral and social Malou and then that defines their place in the community</p>
+<p begin="00:30:50.020" end="00:30:53.309" style="s2">As in both in terms of prestige and in terms of hierarchy</p>
+<p begin="00:30:53.500" end="00:30:58.559" style="s2">So they&#39;re basically acting out precisely what they&#39;re accusing all other disciplines of doing</p>
+<p begin="00:31:00.370" end="00:31:04.859" style="s2">Irony oh, yeah, and the difference is to see the thing is the difference as far as I&#39;m concerned is that</p>
+<p begin="00:31:05.380" end="00:31:07.589" style="s2">If you look at a discipline like engineering</p>
+<p begin="00:31:07.590" end="00:31:12.000" style="s2">Which I think is perhaps as close to the polar opposite of this. This might be managed</p>
+<p begin="00:31:12.370" end="00:31:18.239" style="s2">One of the things that engineers do is look at the world in a certain way, but another thing they do is build bridges</p>
+<p begin="00:31:19.210" end="00:31:21.210" style="s2">Exactly, right. That&#39;s right</p>
+<p begin="00:31:21.490" end="00:31:23.640" style="s2">There&#39;s an objective real world</p>
+<p begin="00:31:25.090" end="00:31:27.090" style="s2">Direction there - there</p>
+<p begin="00:31:27.700" end="00:31:31.169" style="s2">philosophizing and their beliefs that results in something of tangible and</p>
+<p begin="00:31:31.809" end="00:31:36.209" style="s2">Universally recognized benefit to the community at large and something that can fail</p>
+<p begin="00:31:36.759" end="00:31:42.569" style="s2">And that&#39;s right. Right right. Also, that&#39;s very important. Okay now, okay next issue. So now</p>
+<p begin="00:31:43.090" end="00:31:46.259" style="s2">the first issue first of the next two issues say is</p>
+<p begin="00:31:47.019" end="00:31:49.019" style="s2">Why is it that you three?</p>
+<p begin="00:31:49.239" end="00:31:56.519" style="s2">Found yourself in the position where you decided to take this on as a critical project and why is it that so few other?</p>
+<p begin="00:31:56.710" end="00:31:58.710" style="s2">academics are doing so I</p>
+<p begin="00:32:00.429" end="00:32:02.518" style="s2">Don&#39;t have good answers for why so few</p>
+<p begin="00:32:02.590" end="00:32:07.169" style="s2">Academics are doing so because I don&#39;t want to just blatantly call people cowards that I don&#39;t know</p>
+<p begin="00:32:07.539" end="00:32:11.998" style="s2">But you don&#39;t get treated well for fighting let&#39;s dig into that a bit</p>
+<p begin="00:32:11.999" end="00:32:16.979" style="s2">Okay, because I think I think cowardice is one or fear and let&#39;s let&#39;s not fear</p>
+<p begin="00:32:17.259" end="00:32:23.459" style="s2">Let&#39;s go with fear. And let&#39;s also note that the fear is well justified very just yeah, that&#39;s correct, right</p>
+<p begin="00:32:23.460" end="00:32:27.179" style="s2">Well Peter you&#39;re in a great position to speak to that because what&#39;s happening to you?</p>
+<p begin="00:32:28.779" end="00:32:32.579" style="s2">Yeah, so I don&#39;t know if you want to go down the path of what&#39;s happening to me it but I</p>
+<p begin="00:32:33.279" end="00:32:35.789" style="s2">Think you&#39;re right our mutual friend Brett</p>
+<p begin="00:32:35.789" end="00:32:41.699" style="s2">Weinstein said to me that academia when we had a conversation about academia is self selecting for cowardice</p>
+<p begin="00:32:41.700" end="00:32:45.929" style="s2">And I think it&#39;s a process that people go through before they have tenure where they&#39;re</p>
+<p begin="00:32:46.090" end="00:32:49.769" style="s2">Afraid to buck the system afraid to challenge ideas. They&#39;re afraid to</p>
+<p begin="00:32:50.649" end="00:32:56.039" style="s2">Question because they won&#39;t get tenure and then once they do get tenure then they won&#39;t make it a moat climb now</p>
+<p begin="00:32:56.139" end="00:33:02.099" style="s2">Dad a sort of the same thing happens in corporations at the middle manager level like it&#39;s not a disease that&#39;s endemic to</p>
+<p begin="00:33:02.470" end="00:33:03.789" style="s2">to academia</p>
+<p begin="00:33:03.789" end="00:33:08.608" style="s2">Well, it&#39;s not but it&#39;s one variable and a suite of variables that we have to take a look at</p>
+<p begin="00:33:08.609" end="00:33:16.379" style="s2">The other one is the culture in which the cultural milieu that Jim spoke about in which people are terrified to be called sexist racist</p>
+<p begin="00:33:16.539" end="00:33:21.929" style="s2">Bigot, they don&#39;t challenge those. I&#39;m even hesitant to say the things they don&#39;t challenge</p>
+<p begin="00:33:21.929" end="00:33:24.868" style="s2">but I&#39;ll say it like race and IQ or and</p>
+<p begin="00:33:25.419" end="00:33:30.059" style="s2">Trans issues transform issues if you teach an ethics class people won&#39;t really dig into those</p>
+<p begin="00:33:30.669" end="00:33:32.409" style="s2">issues in a substantive way</p>
+<p begin="00:33:32.409" end="00:33:34.979" style="s2">But I think that there are many factors</p>
+<p begin="00:33:35.320" end="00:33:41.019" style="s2">but not just one but it&#39;s just you that people will come up to Jim and myself and I haven&#39;t spoken explicitly to Helen about</p>
+<p begin="00:33:41.020" end="00:33:46.720" style="s2">This and they&#39;ll thank me. Yeah. Oh, thank you so much. Oh great. Can you do that publicly? No, no</p>
+<p begin="00:33:47.390" end="00:33:49.280" style="s2">No, the same thing happened to me</p>
+<p begin="00:33:49.280" end="00:33:54.850" style="s2">So so I think Peter we should talk about what&#39;s happening to you because look we talked about fear</p>
+<p begin="00:33:55.280" end="00:33:57.280" style="s2">We can talk about cowardice we can talk about</p>
+<p begin="00:33:57.770" end="00:34:04.000" style="s2">Justifiable fear because there&#39;s no there&#39;s no pleasure in being isolated and mobs and undermined and fired</p>
+<p begin="00:34:04.280" end="00:34:09.880" style="s2">Right so that the the apprehension of that is not merely cowardice. It&#39;s it&#39;s realistic and</p>
+<p begin="00:34:10.460" end="00:34:16.030" style="s2">I&#39;m not under estimating the potential role the additional role of cowardice, but and there&#39;s another issue too here</p>
+<p begin="00:34:16.030" end="00:34:19.360" style="s2">And I&#39;ve been thinking about it&#39;s like to me many of these</p>
+<p begin="00:34:20.060" end="00:34:24.969" style="s2">postmodern activists propositions are so fundamentally absurd and so</p>
+<p begin="00:34:25.430" end="00:34:31.149" style="s2">Academically weak that most serious social scientists and pretty much all serious stem</p>
+<p begin="00:34:31.580" end="00:34:34.959" style="s2">Types, the stem researchers have just ignored them</p>
+<p begin="00:34:35.750" end="00:34:37.190" style="s2">You know</p>
+<p begin="00:34:37.190" end="00:34:39.429" style="s2">They thought they were beneath contempt</p>
+<p begin="00:34:46.550" end="00:34:52.930" style="s2">You know a brilliant postmodern activist idea like intersectionality or like patriarchy theory or like white privilege</p>
+<p begin="00:34:53.060" end="00:34:57.999" style="s2">all you have to do is spend an hour thinking through those things critically and you realize that there&#39;s</p>
+<p begin="00:34:58.160" end="00:35:01.930" style="s2">Absolutely, nothing whatsoever to them methodologically or conceptually</p>
+<p begin="00:35:03.200" end="00:35:08.650" style="s2">As Jim was saying, you know that can be a kernel of truth in things</p>
+<p begin="00:35:08.650" end="00:35:11.199" style="s2">But when they are theoretically built up</p>
+<p begin="00:35:11.200" end="00:35:16.720" style="s2">I mean obviously they&#39;re there there are societies in which white people are</p>
+<p begin="00:35:17.090" end="00:35:18.590" style="s2">regarded more positively on</p>
+<p begin="00:35:18.590" end="00:35:19.520" style="s2">average but</p>
+<p begin="00:35:19.520" end="00:35:25.300" style="s2">this is something that can be measured empirically which can be looked at which can be talked about and we don&#39;t actually have that we</p>
+<p begin="00:35:25.300" end="00:35:26.900" style="s2">have imaginary</p>
+<p begin="00:35:26.900" end="00:35:29.589" style="s2">knapsacks and talk of complicity and</p>
+<p begin="00:35:30.350" end="00:35:31.790" style="s2">and</p>
+<p begin="00:35:31.790" end="00:35:33.050" style="s2">epidemiological</p>
+<p begin="00:35:33.050" end="00:35:36.340" style="s2">Environments in which white people literally can&#39;t understand what&#39;s going on</p>
+<p begin="00:35:36.340" end="00:35:41.229" style="s2">So we get it and we get a big mess and it&#39;s it&#39;s the kernel of truth is in there</p>
+<p begin="00:35:41.230" end="00:35:43.480" style="s2">And so that gives them the opportunity to kind of retreat</p>
+<p begin="00:35:43.700" end="00:35:48.400" style="s2">To this sensible space where they&#39;ll say but there is racism and that there is sexism</p>
+<p begin="00:35:48.400" end="00:35:48.760" style="s2">Well, yes</p>
+<p begin="00:35:48.760" end="00:35:54.279" style="s2">of course there is but what you&#39;re doing here with these theoretical concepts is is not</p>
+<p begin="00:35:54.710" end="00:35:57.309" style="s2">Looking realistically and reasonably at that</p>
+<p begin="00:35:59.299" end="00:36:06.849" style="s2">Problem of univariate reduction right? It&#39;s like, okay. Well racism is a problem in sexism is a problem. We&#39;ll say and well any form of</p>
+<p begin="00:36:07.400" end="00:36:12.970" style="s2">Discrimination that isn&#39;t associated with the hypothetical outcome of the project is a problem</p>
+<p begin="00:36:13.009" end="00:36:20.229" style="s2">But there are methods that everyone who is a decent social scientist knows to measure those and to estimate the proportion</p>
+<p begin="00:36:20.480" end="00:36:22.480" style="s2">of the variance in the</p>
+<p begin="00:36:22.579" end="00:36:28.869" style="s2">Outcome problem that those issues are accounting for and the postmodern activist types - absolutely none of them. Yeah</p>
+<p begin="00:36:29.029" end="00:36:36.189" style="s2">We&#39;re the attention. Yeah. What do you said? I mean, why would they because they don&#39;t care about their agenda driven in there?</p>
+<p begin="00:36:36.319" end="00:36:38.319" style="s2">They&#39;re not a truth oriented. So</p>
+<p begin="00:36:38.630" end="00:36:45.700" style="s2">There&#39;s gonna be no point to even think like that. Well, they also can&#39;t they don&#39;t have the method without the training knowledge exactly</p>
+<p begin="00:36:45.700" end="00:36:47.660" style="s2">So so that also provides additional</p>
+<p begin="00:36:47.660" end="00:36:53.289" style="s2">impetus for being motivated to criticize those to do because it&#39;s a lot easier than facing the reality and the</p>
+<p begin="00:36:53.420" end="00:36:56.049" style="s2">consequences of your own ignorance and because gaming</p>
+<p begin="00:36:56.390" end="00:37:01.329" style="s2">Let&#39;s talk about what&#39;s happening to you because I want to know about the cost that you&#39;re buried for this and then we&#39;ll go back</p>
+<p begin="00:37:01.329" end="00:37:03.669" style="s2">To why you guys decided to do what you did?</p>
+<p begin="00:37:04.400" end="00:37:08.410" style="s2">so PSU, like many college campuses has become an</p>
+<p begin="00:37:09.079" end="00:37:14.738" style="s2">Ideological community and I&#39;ve demonstrated that I don&#39;t fit that mold and I suspect that</p>
+<p begin="00:37:14.739" end="00:37:21.669" style="s2">They&#39;re gonna go to great lengths to get rid of me. So what&#39;s happened is I&#39;ve been found guilty of not seeking IRB approval and</p>
+<p begin="00:37:22.430" end="00:37:27.369" style="s2">Okay, you should tell the viewers what that means and provide some background detail because it&#39;s okay</p>
+<p begin="00:37:28.819" end="00:37:31.569" style="s2">Okay. So RB approval is theirs</p>
+<p begin="00:37:33.140" end="00:37:35.319" style="s2">It&#39;s called IRB institutional</p>
+<p begin="00:37:36.170" end="00:37:42.339" style="s2">Review board and whenever you do a an experiment on human subjects human beings or animals</p>
+<p begin="00:37:42.739" end="00:37:43.759" style="s2">by the way</p>
+<p begin="00:37:43.759" end="00:37:47.738" style="s2">You need to go through the IRB and you need to get permission and you detail</p>
+<p begin="00:37:47.809" end="00:37:51.189" style="s2">Exactly what it is that you&#39;re going to do and they say to you</p>
+<p begin="00:37:51.190" end="00:37:56.109" style="s2">Well, you have to change this you have to do this. Don&#39;t do this etc. And then they give you permission</p>
+<p begin="00:37:56.420" end="00:38:02.470" style="s2">Okay. Now these these systems just a little more background. These systems were originally said fundamentally to monitor</p>
+<p begin="00:38:03.230" end="00:38:10.659" style="s2">Relatively or potentially dangerous medical experimentation on human beings, but they&#39;ve expanded their purview so that now it&#39;s impossible for anybody</p>
+<p begin="00:38:10.660" end="00:38:15.520" style="s2">Who&#39;s an academic in any institution to even interview people without?</p>
+<p begin="00:38:16.040" end="00:38:22.599" style="s2">Seeking permission from a very vast and rigid bureaucratic structure that&#39;s easily politicized</p>
+<p begin="00:38:23.089" end="00:38:23.589" style="s2">Yeah</p>
+<p begin="00:38:23.589" end="00:38:29.349" style="s2">they came out of and they do exist for good reasons the Nuremberg trials mainly at cetera et cetera and people were</p>
+<p begin="00:38:29.510" end="00:38:31.719" style="s2">and that envelope as has</p>
+<p begin="00:38:32.420" end="00:38:36.040" style="s2">The number of experiments or the number of things that are caught under that umbrella</p>
+<p begin="00:38:36.800" end="00:38:42.999" style="s2">continues to increase we can talk about the ethics of the IRB more generally, but in our case or particularly marketing</p>
+<p begin="00:38:43.190" end="00:38:45.730" style="s2">though the IRB has no Jim and</p>
+<p begin="00:38:46.220" end="00:38:52.089" style="s2">James and Helen don&#39;t fall under the auspices of PSU SRV so they can&#39;t be sanctioned. I however</p>
+<p begin="00:38:52.940" end="00:38:58.359" style="s2">Allegedly can can be sanctioned. So I&#39;ve been found guilty on that first charge</p>
+<p begin="00:38:58.940" end="00:39:05.050" style="s2">Which Howard why now? Look let&#39;s tell everybody he published a sequence of papers</p>
+<p begin="00:39:05.050" end="00:39:08.800" style="s2">How many papers in journals how many so we we wrote?</p>
+<p begin="00:39:09.319" end="00:39:11.769" style="s2">27 of them were accepted and four were published</p>
+<p begin="00:39:13.430" end="00:39:16.210" style="s2">On the cusp of publication for example, okay</p>
+<p begin="00:39:18.050" end="00:39:25.089" style="s2">Let&#39;s get it straight these are satirical publications that were published in hypothetically serious academic journals</p>
+<p begin="00:39:25.089" end="00:39:28.269" style="s2">And now Peter you&#39;re being gone after for not seeking</p>
+<p begin="00:39:28.970" end="00:39:35.500" style="s2">Institutional review board permission to publish studies that didn&#39;t exist. Yeah to two things</p>
+<p begin="00:39:35.500" end="00:39:39.819" style="s2">that&#39;s the first thing I&#39;ve been found guilty of that and it&#39;s escalated to the</p>
+<p begin="00:39:40.310" end="00:39:47.229" style="s2">provost and the president University and I believe that the Provost is a former Gender Studies scholar and on the names of those people just</p>
+<p begin="00:39:47.810" end="00:39:54.039" style="s2">I&#39;ll let that sit there. I do I do I can&#39;t pronounce the president&#39;s name to be blunt with you</p>
+<p begin="00:39:55.040" end="00:39:58.929" style="s2">And the provost is new Provost. I&#39;m not avoiding the question. I just don&#39;t maybe that&#39;s fine</p>
+<p begin="00:39:58.929" end="00:40:00.940" style="s2">We can always put that in the description of the video</p>
+<p begin="00:40:01.220" end="00:40:05.440" style="s2">So so what are you guilty of, exactly, because these studies didn&#39;t exist.</p>
+<p begin="00:40:05.580" end="00:40:08.800" style="s2">You didn&#39;t undertake research on any human subjects</p>
+<p begin="00:40:08.930" end="00:40:15.510" style="s2">Now they&#39;ve decided that the journals editors and reviewers are the human subjects that we were studying</p>
+<p begin="00:40:15.640" end="00:40:22.290" style="s2">so not the studies themselves, but go up one level of meta to the fact that we were studying the culture of</p>
+<p begin="00:40:23.980" end="00:40:25.030" style="s2">Journal</p>
+<p begin="00:40:25.030" end="00:40:26.680" style="s2">journal review and publication</p>
+<p begin="00:40:26.680" end="00:40:33.540" style="s2">so the editors who are not anonymous and then the anonymous peer reviewers are considered to be the human subjects of our</p>
+<p begin="00:40:35.020" end="00:40:41.040" style="s2">I see so that&#39;s supposed to be distinguishable from you thinking and writing about the things that you encounter in your own life</p>
+<p begin="00:40:41.040" end="00:40:45.060" style="s2">For example, which is also what now supposed to be subject to IRB approval</p>
+<p begin="00:40:45.730" end="00:40:47.730" style="s2">yeah, so so</p>
+<p begin="00:40:48.580" end="00:40:51.479" style="s2">Okay, so there&#39;s a lot of moving parts of this. So we need to break it down</p>
+<p begin="00:40:51.480" end="00:40:54.240" style="s2">I want to I want to continue with the</p>
+<p begin="00:40:54.820" end="00:40:56.320" style="s2">Excuse me</p>
+<p begin="00:40:56.320" end="00:41:03.299" style="s2">guilty of not seeking IRB approval that can include term up determination from my current position and</p>
+<p begin="00:41:04.780" end="00:41:11.759" style="s2">I just want to speak to that before I talk about the data fabrication charges, so I don&#39;t agree with the decision</p>
+<p begin="00:41:11.760" end="00:41:16.350" style="s2">But I definitely understand the pressures that they have on them to do something</p>
+<p begin="00:41:17.080" end="00:41:23.219" style="s2">Who knows what&#39;s happening Russia&#39;s pressures from a who these activist types are very tiny proportion of the population</p>
+<p begin="00:41:23.740" end="00:41:26.790" style="s2">So and when we&#39;re talking about pressure, what exactly do we mean?</p>
+<p begin="00:41:27.580" end="00:41:35.369" style="s2">well, there was an anonymous hit piece by 12 or 11 of my colleagues published in the student newspaper the Portland Vanguard and</p>
+<p begin="00:41:36.100" end="00:41:38.100" style="s2">They may be a small</p>
+<p begin="00:41:38.440" end="00:41:43.980" style="s2">Representation, it&#39;s unclear to me...  In academia I don&#39;t think they&#39;re a small proportion of the population.</p>
+<p begin="00:41:44.140" end="00:41:51.210" style="s2">they are a large and I think that they wield institutionalized power and have weaponized things like title nine against</p>
+<p begin="00:41:51.910" end="00:41:53.910" style="s2">people they don&#39;t like</p>
+<p begin="00:41:53.980" end="00:41:55.980" style="s2">so there&#39;s that but</p>
+<p begin="00:41:55.990" end="00:42:00.540" style="s2">I do want to say I don&#39;t really know what&#39;s happening behind the scenes like my guess. Is that these?</p>
+<p begin="00:42:01.300" end="00:42:03.160" style="s2">This group is extraordinarily</p>
+<p begin="00:42:03.160" end="00:42:07.920" style="s2">Vocal but with their face with no as a decision for what kind of university they want to be</p>
+<p begin="00:42:07.920" end="00:42:12.330" style="s2">Is it one that uses power to support freedom of inquiry and pursue the truth?</p>
+<p begin="00:42:12.330" end="00:42:15.119" style="s2">or do they want to protect social justice at all costs and</p>
+<p begin="00:42:15.640" end="00:42:20.430" style="s2">the fabrication of data thing is interesting because that&#39;s an ongoing a</p>
+<p begin="00:42:21.040" end="00:42:22.510" style="s2">currently ongoing</p>
+<p begin="00:42:22.510" end="00:42:25.320" style="s2">Investigation and again, those are very very serious charges</p>
+<p begin="00:42:26.050" end="00:42:28.989" style="s2">Let&#39;s look here too. Like there&#39;s a very big difference</p>
+<p begin="00:42:30.110" end="00:42:34.690" style="s2">Let&#39;s get this very clear between a self-admitted satire</p>
+<p begin="00:42:35.360" end="00:42:38.440" style="s2">Which had historical precedent and which has ethical justification,</p>
+<p begin="00:42:38.750" end="00:42:44.290" style="s2">even if you don&#39;t agree with the justification, and data fabrication.  Data fabrication occurs</p>
+<p begin="00:42:44.290" end="00:42:50.230" style="s2">When you put data forward and you claim that it&#39;s a truthful representation of a real-world situation.</p>
+<p begin="00:42:50.990" end="00:42:56.080" style="s2">And.. Obviously that&#39;s distinct from satire in comedy. Everyone understands that distinction.</p>
+<p begin="00:42:56.330" end="00:42:59.170" style="s2">Well, the idea is that</p>
+<p begin="00:43:00.380" end="00:43:07.059" style="s2">those rules were put in there for very good reasons and that is people wouldn&#39;t use that to advance their careers, which</p>
+<p begin="00:43:07.940" end="00:43:12.609" style="s2">And they wanted to hide the results so they don&#39;t didn&#39;t want anybody to see what it was</p>
+<p begin="00:43:12.980" end="00:43:17.409" style="s2">So the problem with that is that it would as Sokol wrote that it would contaminate</p>
+<p begin="00:43:18.020" end="00:43:19.280" style="s2">the</p>
+<p begin="00:43:19.280" end="00:43:21.280" style="s2">research lines in perpetuity, so</p>
+<p begin="00:43:22.010" end="00:43:28.420" style="s2">what the success of our project depended upon it being revealed so that no longer applies and</p>
+<p begin="00:43:29.150" end="00:43:36.160" style="s2">the idea that we would somehow not only have I not benefited from this, but this has come at a tremendous cost to me so</p>
+<p begin="00:43:36.830" end="00:43:38.030" style="s2">Yes</p>
+<p begin="00:43:38.030" end="00:43:42.729" style="s2">It&#39;s in my opinion. It is a grotesque abuse of</p>
+<p begin="00:43:43.670" end="00:43:46.089" style="s2">what it means to fabricate data and</p>
+<p begin="00:43:47.300" end="00:43:51.700" style="s2">It may be interesting to see it&#39;ll be interesting to see what happens and be interesting to see when it goes to court</p>
+<p begin="00:43:51.860" end="00:43:59.650" style="s2">Okay, so so well, yeah tell me about the proceedings when it goes to court. What kind of court is it going to I?</p>
+<p begin="00:44:00.530" end="00:44:04.330" style="s2">Don&#39;t know. I mean first let me even take a step back from there</p>
+<p begin="00:44:04.610" end="00:44:10.660" style="s2">so if you look at the timeline of events when this occurred and I have that off the top of my head, but</p>
+<p begin="00:44:11.750" end="00:44:13.040" style="s2">the</p>
+<p begin="00:44:13.040" end="00:44:16.570" style="s2">when I was found guilty from the IRB, there&#39;s been a series of</p>
+<p begin="00:44:17.510" end="00:44:19.090" style="s2">not seeking IRB approval</p>
+<p begin="00:44:19.090" end="00:44:23.920" style="s2">There is a series of a time when the university president could just end this</p>
+<p begin="00:44:24.350" end="00:44:29.979" style="s2">Just like that. You can say well we&#39;re gonna put a letter of reprimand in your</p>
+<p begin="00:44:30.860" end="00:44:36.700" style="s2">Wiener, we&#39;ve decided you&#39;ve already done this they can ominous kind of awkward</p>
+<p begin="00:44:39.390" end="00:44:41.309" style="s2">Who found you guilty</p>
+<p begin="00:44:41.309" end="00:44:44.719" style="s2">That was the IRB in the day. That was December 14th</p>
+<p begin="00:44:44.720" end="00:44:49.339" style="s2">I see. So the IRB is policing its own its own policies here</p>
+<p begin="00:44:49.799" end="00:44:55.788" style="s2">Yeah, so that was it for the IRB charge the open the data falsification charge is open and still being investigated</p>
+<p begin="00:44:56.400" end="00:44:59.960" style="s2">And that actually started I think like two or three days after we went public</p>
+<p begin="00:44:59.960" end="00:45:01.999" style="s2">He got an email and said you&#39;ve been summoned to a meeting</p>
+<p begin="00:45:02.309" end="00:45:05.569" style="s2">but we were all in Portland together at the time and I was over the</p>
+<p begin="00:45:05.700" end="00:45:10.639" style="s2">IRB which purports to be an ethics committee doesn&#39;t have any problem with the ethics of policing themselves</p>
+<p begin="00:45:12.569" end="00:45:13.619" style="s2">No</p>
+<p begin="00:45:13.619" end="00:45:18.588" style="s2">Okay, so you might want to point that out very strongly if they&#39;re not in a position to be policing</p>
+<p begin="00:45:19.109" end="00:45:22.998" style="s2">Accordance with their own policies no conflict of interest clearly</p>
+<p begin="00:45:23.400" end="00:45:29.690" style="s2">There&#39;s something appalling about that and it&#39;s not surprising because there&#39;s plenty of calling about the institutional review boards. Hmm</p>
+<p begin="00:45:33.989" end="00:45:38.209" style="s2">Guilty it&#39;s been escalated to the president. And again the president could just decide</p>
+<p begin="00:45:39.059" end="00:45:39.920" style="s2">Just like that</p>
+<p begin="00:45:39.920" end="00:45:40.339" style="s2">You know</p>
+<p begin="00:45:40.339" end="00:45:45.528" style="s2">we&#39;re just gonna put a letter in this file of reprimand and we&#39;re gonna move on and I think that the whole problem would be</p>
+<p begin="00:45:47.009" end="00:45:49.909" style="s2">Ended except my guess is that there are a lot of people</p>
+<p begin="00:45:50.249" end="00:45:52.789" style="s2">Crying for vengeance right now against me, right?</p>
+<p begin="00:45:52.920" end="00:45:58.249" style="s2">So they want to hang you out to dry as an object lesson to people who would dare to do the things that you threw</p>
+<p begin="00:45:58.249" end="00:46:02.329" style="s2">you&#39;ve done because I&#39;m a heretic and I&#39;m a blasphemer and I have</p>
+<p begin="00:46:02.729" end="00:46:07.159" style="s2">Attacked their canons and there has to be some price that&#39;s paid for this</p>
+<p begin="00:46:07.160" end="00:46:12.109" style="s2">That&#39;s my guess on their thinking and then the fabrication of data charge again. That&#39;s a very serious charge</p>
+<p begin="00:46:12.779" end="00:46:17.718" style="s2">Okay data, and those rules are put in put in place for a reason</p>
+<p begin="00:46:17.819" end="00:46:21.679" style="s2">I don&#39;t think a court would find I</p>
+<p begin="00:46:22.319" end="00:46:25.609" style="s2">Mean it would be if see when this goes to court or if it does even go to court</p>
+<p begin="00:46:26.160" end="00:46:29.809" style="s2">The idea that this was fabricated either for personal gain</p>
+<p begin="00:46:29.809" end="00:46:36.919" style="s2">Or that would have to not be revealed at some time and that the future lines of literature would be contaminated and polluted</p>
+<p begin="00:46:37.049" end="00:46:40.909" style="s2">It&#39;s just it&#39;s just not true. And I think that</p>
+<p begin="00:46:41.519" end="00:46:47.359" style="s2">Well, they also a clear it it&#39;s a career-ending charge. So that&#39;s partly why it&#39;s being brought against you right data fabrication</p>
+<p begin="00:46:47.359" end="00:46:48.190" style="s2">There is anything rich?</p>
+<p begin="00:46:48.190" end="00:46:53.579" style="s2">Well, there isn&#39;t any same thing worse within the domain of science than you can do that you can do than that</p>
+<p begin="00:46:54.730" end="00:46:59.849" style="s2">And it it&#39;s really unfortunate and preposterous because the data fabrication occurred</p>
+<p begin="00:47:00.400" end="00:47:04.650" style="s2">intentionally in the sense that we wanted to find out if they could detect because we</p>
+<p begin="00:47:05.020" end="00:47:09.719" style="s2">Suspected from the very beginning as we were kind of discussing earlier that these people who largely work in</p>
+<p begin="00:47:09.880" end="00:47:14.400" style="s2">Humanities are not equipped to do social science, but that&#39;s ultimately what they&#39;re basically doing</p>
+<p begin="00:47:14.400" end="00:47:19.079" style="s2">and so we wanted to see if they could detect utterly ridiculous data or</p>
+<p begin="00:47:19.599" end="00:47:25.679" style="s2">Data that were clearly cherry-picked or data or conclusions. I should say that we&#39;re drawn from data that aren&#39;t warranted</p>
+<p begin="00:47:25.680" end="00:47:31.619" style="s2">And so we wrote papers that included in this case. For example a dog park paper just</p>
+<p begin="00:47:33.099" end="00:47:36.269" style="s2">Transparently ridiculous data, in fact the first draft of that paper</p>
+<p begin="00:47:36.270" end="00:47:41.189" style="s2">even we we knew the data were so bad that they were probably going to ask to see it and</p>
+<p begin="00:47:42.190" end="00:47:47.369" style="s2">Road okay, so you go through the papers then so so we&#39;ll talk about the dog park paper</p>
+<p begin="00:47:47.369" end="00:47:53.879" style="s2">why don&#39;t you go through the papers that have been published just briefly and say yes, they are and and and tell us why they&#39;re</p>
+<p begin="00:47:54.700" end="00:47:56.700" style="s2">transparently ridiculous because that&#39;s also</p>
+<p begin="00:47:57.790" end="00:47:59.500" style="s2">Attention, right?</p>
+<p begin="00:47:59.500" end="00:48:01.649" style="s2">Yeah. Yeah the dog park paper</p>
+<p begin="00:48:02.530" end="00:48:07.109" style="s2">was the first one we had accepted in February and it</p>
+<p begin="00:48:07.900" end="00:48:09.730" style="s2">chronicles</p>
+<p begin="00:48:09.730" end="00:48:17.730" style="s2">it&#39;s a feminist scholar putative Lee that&#39;s chronicling dog rape culture by examining dog humping in Portland dog parks and</p>
+<p begin="00:48:19.270" end="00:48:21.010" style="s2">Then draws conclusions</p>
+<p begin="00:48:21.010" end="00:48:22.210" style="s2">from that</p>
+<p begin="00:48:22.210" end="00:48:29.129" style="s2">Using black feminist criminology as a tool to conclude that it would be appropriate to train men as we train dogs</p>
+<p begin="00:48:29.130" end="00:48:33.119" style="s2">if only it were politically feasible, so we have to come up with metaphorical equivalents and</p>
+<p begin="00:48:33.670" end="00:48:40.470" style="s2">that it concludes that oppression of dogs based on perceived gender is real and the reason that that was</p>
+<p begin="00:48:41.410" end="00:48:43.500" style="s2">Allegedly concluded was we claimed that?</p>
+<p begin="00:48:44.710" end="00:48:46.710" style="s2">humans intervened and broke up</p>
+<p begin="00:48:47.740" end="00:48:53.069" style="s2">Gay dog rape much more frequently and vigorously than they broke up straight dog rape</p>
+<p begin="00:48:53.859" end="00:48:56.848" style="s2">And the peen it&#39;s already a bit weird</p>
+<p begin="00:48:58.150" end="00:49:00.569" style="s2">These things the paper the paper</p>
+<p begin="00:49:01.000" end="00:49:01.619" style="s2">in</p>
+<p begin="00:49:01.619" end="00:49:04.139" style="s2">included for instance the detail that the that the</p>
+<p begin="00:49:04.210" end="00:49:10.529" style="s2">scholar our sat in the dog park for a thousand hours over the course of a year, but never in the heavy rain and</p>
+<p begin="00:49:12.039" end="00:49:17.069" style="s2">Observed and then examined personally closely examined the genitals of</p>
+<p begin="00:49:17.650" end="00:49:21.059" style="s2">just short of ten thousand dogs, which if you&#39;ve been to a dog park</p>
+<p begin="00:49:21.269" end="00:49:24.539" style="s2">You&#39;ve probably realized the same people bring their dogs almost every day</p>
+<p begin="00:49:25.240" end="00:49:29.309" style="s2">It&#39;s there&#39;s not 10,000 dogs in any dog park in a year, but never mind</p>
+<p begin="00:49:31.059" end="00:49:37.979" style="s2">Develop a reputation for looking at dogs genitals. Yeah, I think so and then immediately turning to ask their owners</p>
+<p begin="00:49:38.140" end="00:49:40.289" style="s2">Excuse me, sir. Could you tell me your sexual orientation?</p>
+<p begin="00:49:41.470" end="00:49:45.240" style="s2">That&#39;s what the paper says week and it&#39;s very native of 10,000 dogs</p>
+<p begin="00:49:45.940" end="00:49:50.549" style="s2">Genitals of 10,000 dogs and then interrogated their owners as to their sexual orientations</p>
+<p begin="00:49:50.799" end="00:49:57.599" style="s2">It includes details that are irrelevant like whether dogs used the bathroom in the in the other dogs or in the the food bowl</p>
+<p begin="00:49:58.690" end="00:50:01.470" style="s2">The water ball it talked about, you know</p>
+<p begin="00:50:01.470" end="00:50:07.799" style="s2">The way people would break up dog fights like doing jumping jacks and singing we thought this data was so absurd</p>
+<p begin="00:50:08.049" end="00:50:09.930" style="s2">That we put in the first draft</p>
+<p begin="00:50:09.930" end="00:50:11.769" style="s2">which the journal saw a</p>
+<p begin="00:50:11.769" end="00:50:15.689" style="s2">Line that said that we took the data and put it in a recycle bin</p>
+<p begin="00:50:15.759" end="00:50:20.639" style="s2">So that they couldn&#39;t possibly ask us to produce it because we thought oh man if they ask for this data</p>
+<p begin="00:50:20.640" end="00:50:26.430" style="s2">Which is so stupid it&#39;s over. So we said that we recycled the data which is already its own research miss practice and</p>
+<p begin="00:50:27.009" end="00:50:31.799" style="s2">No problem, you know the journal was like just write it up. Okay. I can&#39;t believe we&#39;re having this conversation</p>
+<p begin="00:50:34.599" end="00:50:37.199" style="s2">Listen the more we talk about this the more ridiculous it gets</p>
+<p begin="00:50:44.440" end="00:50:49.079" style="s2">There was the paper where we argued that if straight white or straight man, I&#39;m sorry</p>
+<p begin="00:50:49.079" end="00:50:55.919" style="s2">It doesn&#39;t matter what their races if straight men were to anally penetrate them selves with sex toys. They&#39;d become less transphobic and more feminist</p>
+<p begin="00:50:57.999" end="00:51:02.099" style="s2">Which apparently got that conversation either they may not want to have that conversation</p>
+<p begin="00:51:02.099" end="00:51:05.308" style="s2">But this data was this conclusion</p>
+<p begin="00:51:05.309" end="00:51:10.979" style="s2">Which was called a truly marvelous paper in an important contribution to knowledge by one of its reviewers</p>
+<p begin="00:51:11.499" end="00:51:13.499" style="s2">This paper was published</p>
+<p begin="00:51:13.720" end="00:51:15.310" style="s2">this paper</p>
+<p begin="00:51:15.310" end="00:51:20.320" style="s2">was based on interviews with 13 men only eight of whom were straight and</p>
+<p begin="00:51:21.590" end="00:51:24.519" style="s2">of course, it was all interview data, and it was just</p>
+<p begin="00:51:25.310" end="00:51:32.469" style="s2">just people saying the most ridiculous things about their experience of sticking things in their own butts and then their feelings about feminism and</p>
+<p begin="00:51:34.820" end="00:51:39.160" style="s2">Concern for rape culture and in their attitudes about trans people and so on</p>
+<p begin="00:51:39.680" end="00:51:41.949" style="s2">including one so-called social conservative</p>
+<p begin="00:51:42.080" end="00:51:48.100" style="s2">Who was quoted saying he didn&#39;t want to take part in some stupid liberal study about sticking things up his butt. I mean</p>
+<p begin="00:51:49.760" end="00:51:57.580" style="s2">It&#39;s almost impossible to have looked at this and not thought, you know, something&#39;s going on here but instead they thought truly marvelous paper in</p>
+<p begin="00:51:59.210" end="00:52:02.439" style="s2">Its that that&#39;s a second paper a third paper</p>
+<p begin="00:52:03.500" end="00:52:10.209" style="s2">Was an ethnography allegedly of a 70 some-odd year-old man who went to Hooters with his Brazilian jiu-jitsu class</p>
+<p begin="00:52:10.790" end="00:52:15.610" style="s2">after workouts and sat there and basically just womanized for</p>
+<p begin="00:52:16.460" end="00:52:22.090" style="s2">Hours upon hours. It recorded something like 10,000 hours or sorry 10,000 minutes of</p>
+<p begin="00:52:24.020" end="00:52:26.709" style="s2">Conversation at the table which could all be summarized</p>
+<p begin="00:52:26.710" end="00:52:29.140" style="s2">This was an example of clear cherry-picking of data</p>
+<p begin="00:52:29.240" end="00:52:31.100" style="s2">the only features of the</p>
+<p begin="00:52:31.100" end="00:52:35.469" style="s2">Conversation that were relevant were the way that the guys hit on the servers or talk about the servers</p>
+<p begin="00:52:35.510" end="00:52:43.180" style="s2">you know various body parts or most importantly how much they enjoyed the fact that Hooters provides them a place that they can go and</p>
+<p begin="00:52:43.610" end="00:52:47.680" style="s2">Tell young attractive women what to do in a situation in which they are</p>
+<p begin="00:52:48.020" end="00:52:52.390" style="s2">Contractually obligated to fulfill those those orders like literally double</p>
+<p begin="00:52:52.880" end="00:52:58.029" style="s2">entendre on the word order like please I would like some beer that&#39;s an order so</p>
+<p begin="00:52:59.870" end="00:53:02.769" style="s2">That was an example of clear cherry-picking and of course deriving</p>
+<p begin="00:53:03.530" end="00:53:05.450" style="s2">ridiculous conclusions</p>
+<p begin="00:53:05.450" end="00:53:11.620" style="s2">didn&#39;t you guys know while you were doing this that you are going to get yourself in like a boatload of trouble I mean and</p>
+<p begin="00:53:11.620" end="00:53:13.600" style="s2">Now I see when you&#39;re talking about it you laugh</p>
+<p begin="00:53:13.600" end="00:53:16.900" style="s2">And so you still got a sense of humor, which is quite a remarkable thing</p>
+<p begin="00:53:17.150" end="00:53:21.459" style="s2">But leave you you did this for a long time and like yeah</p>
+<p begin="00:53:21.770" end="00:53:28.120" style="s2">It&#39;s hard to believe actually that you did manage to do it. I had some some moments especially where</p>
+<p begin="00:53:28.690" end="00:53:34.960" style="s2">I mean we were always aware that there would be a backlash and then when I started actually signing the transfer of copyright</p>
+<p begin="00:53:35.810" end="00:53:38.529" style="s2">documents to have the papers actually published</p>
+<p begin="00:53:38.530" end="00:53:42.639" style="s2">I started to feel a little like, you know, we might really get in some trouble for this</p>
+<p begin="00:53:42.640" end="00:53:44.640" style="s2">but at this point we&#39;re kind of in deep and</p>
+<p begin="00:53:45.170" end="00:53:50.950" style="s2">Might as well carry on and try to finish the experiment. We had intended to try to write papers for 12 months and</p>
+<p begin="00:53:51.560" end="00:53:57.159" style="s2">Then spend six to eight months kind of, you know, following up. The academic publishing process is slow</p>
+<p begin="00:53:57.530" end="00:54:01.239" style="s2">They do the review you get it back a couple months later you have to do edits</p>
+<p begin="00:54:01.240" end="00:54:07.419" style="s2">It takes maybe another month or two before they accept or whatever then publication maybe another couple months later. So all it&#39;s slow</p>
+<p begin="00:54:07.420" end="00:54:08.740" style="s2">So we want to do a lot, you know</p>
+<p begin="00:54:08.740" end="00:54:09.950" style="s2">six to eight months after</p>
+<p begin="00:54:09.950" end="00:54:16.359" style="s2">Twelve months of writing and that was the intended and duration that we should be wrapping up the project now if we didn&#39;t get busted</p>
+<p begin="00:54:16.490" end="00:54:20.740" style="s2">But about late summer, the the dog park paper got picked up</p>
+<p begin="00:54:21.920" end="00:54:26.079" style="s2">by some journalists and the real peer-review and got made fun of and we realized we were probably</p>
+<p begin="00:54:26.270" end="00:54:30.849" style="s2">Not going to make it to the end of our intended year and a half dish</p>
+<p begin="00:54:31.520" end="00:54:34.629" style="s2">Time span, so we ended up writing for 10 total months</p>
+<p begin="00:54:34.630" end="00:54:36.260" style="s2">which is a bit of time and</p>
+<p begin="00:54:36.260" end="00:54:43.030" style="s2">Then what a lot of papers still under review which was really a shame because I&#39;m fairly sure that I had to got in</p>
+<p begin="00:54:43.130" end="00:54:47.589" style="s2">But I do want to speak to that Jordan because somebody had to do this. Yeah</p>
+<p begin="00:54:52.670" end="00:54:58.990" style="s2">Because the ideology because the perfect these professors are looking at their classrooms as an ideology now and</p>
+<p begin="00:54:59.720" end="00:55:02.349" style="s2">They&#39;re attempting to indoctrinate people and do</p>
+<p begin="00:55:02.960" end="00:55:10.599" style="s2">Things about reality that have nothing to do with reality. They&#39;ve placed an agenda ahead of the truth, and it&#39;s corroding our</p>
+<p begin="00:55:11.450" end="00:55:13.839" style="s2">Institutions in it&#39;s eroding trust in those</p>
+<p begin="00:55:14.630" end="00:55:16.630" style="s2">universities and institutions and</p>
+<p begin="00:55:17.329" end="00:55:20.919" style="s2">You identified the problem many people identified the problem</p>
+<p begin="00:55:21.050" end="00:55:28.929" style="s2">but something had to be done about it beyond identification and calling these people out we needed to show that needs to</p>
+<p begin="00:55:29.270" end="00:55:32.259" style="s2">deal Ajith amides canon&#39;s because they&#39;re</p>
+<p begin="00:55:32.869" end="00:55:40.088" style="s2">The way that they were coming to knowledge is just epistemological to say it&#39;s not rigorous. This child is is charitable</p>
+<p begin="00:55:40.790" end="00:55:46.679" style="s2">So there kind of few pieces to that right? So you everybody as we mentioned a little bit earlier we touched upon</p>
+<p begin="00:55:47.410" end="00:55:51.690" style="s2">Is now familiar with the idea that racism and sexism don&#39;t seem to mean the same thing</p>
+<p begin="00:55:51.690" end="00:55:52.530" style="s2">They meant ten years ago</p>
+<p begin="00:55:52.530" end="00:55:53.230" style="s2">you</p>
+<p begin="00:55:53.230" end="00:55:55.530" style="s2">Used to be able to say racist and sexist and amend</p>
+<p begin="00:55:55.660" end="00:55:58.350" style="s2">Discrimination based on race or sex and it could go in any direction</p>
+<p begin="00:55:58.350" end="00:56:05.249" style="s2">But now it&#39;s got this this power dynamic privilege plus power stuff. Everybody&#39;s talking about privilege. So that&#39;s everywhere</p>
+<p begin="00:56:05.250" end="00:56:10.889" style="s2">but if that&#39;s one dimension that it&#39;s impossible to avoid that the sociological or</p>
+<p begin="00:56:11.440" end="00:56:13.800" style="s2">grievance studies definitions for concepts are</p>
+<p begin="00:56:14.560" end="00:56:18.600" style="s2">Everywhere, but they&#39;re also two other pieces of evidence one that we saw before we started</p>
+<p begin="00:56:19.270" end="00:56:24.060" style="s2">that would be a paper that was done by charlotta Stern who documented how</p>
+<p begin="00:56:24.940" end="00:56:28.409" style="s2">Insular Gender Studies is how they literally took</p>
+<p begin="00:56:29.860" end="00:56:34.110" style="s2">the year since Steven Pinker published the blank slate 2003</p>
+<p begin="00:56:34.780" end="00:56:41.639" style="s2">Until 2015 or 16. She looked at a bunch of papers got a sample of those papers and determined whether or not they</p>
+<p begin="00:56:42.610" end="00:56:44.610" style="s2">incorporated or ignored the</p>
+<p begin="00:56:45.369" end="00:56:49.919" style="s2">information that Pinker had shared as a as a as a test and found that there was an</p>
+<p begin="00:56:50.080" end="00:56:56.549" style="s2">Overwhelming amount of just putting the blinkers on and pretending that biology still doesn&#39;t exist. And that human nature is totally</p>
+<p begin="00:57:00.190" end="00:57:01.350" style="s2">a pretense here</p>
+<p begin="00:57:01.350" end="00:57:08.069" style="s2">I mean the reason it&#39;s not a pretense is because as far as I can tell the people who are in these disciplines know</p>
+<p begin="00:57:08.619" end="00:57:12.809" style="s2">Absolutely. Nothing whatsoever about biology. No, they don&#39;t want it</p>
+<p begin="00:57:14.109" end="00:57:18.929" style="s2">the less, you know about biology the more you don&#39;t want to know that you need a</p>
+<p begin="00:57:19.630" end="00:57:23.880" style="s2">Daunting task. Yeah, I want to speak to that for a moment if I may so</p>
+<p begin="00:57:24.760" end="00:57:32.669" style="s2">At my university there&#39;s a course offered on the philosophy of race and it would seem to me that a minimum</p>
+<p begin="00:57:33.760" end="00:57:41.369" style="s2">qualification one would need to teach that is that one would have to have some kind of degree in evolutionary biology, but</p>
+<p begin="00:57:41.980" end="00:57:46.679" style="s2">that does not seem to be the case and I think again we&#39;re seeing</p>
+<p begin="00:57:47.200" end="00:57:48.369" style="s2">consistently</p>
+<p begin="00:57:48.369" end="00:57:50.369" style="s2">You know race is such an explosive</p>
+<p begin="00:57:50.890" end="00:57:52.140" style="s2">explosive topic</p>
+<p begin="00:57:52.140" end="00:57:55.290" style="s2">but when you start with the idea that you have the</p>
+<p begin="00:57:55.530" end="00:58:01.259" style="s2">And then you work backward and cherry-picked the literature and in this case is extraordinarily easy because you just go to these</p>
+<p begin="00:58:01.840" end="00:58:06.299" style="s2">The journals and the canons of literature and then you start teaching that so what happens then?</p>
+<p begin="00:58:06.510" end="00:58:08.550" style="s2">is the kind of the self fulfillment of the</p>
+<p begin="00:58:09.250" end="00:58:10.360" style="s2">postmodern</p>
+<p begin="00:58:10.360" end="00:58:13.110" style="s2">Condition is that they then manufacture</p>
+<p begin="00:58:13.630" end="00:58:17.160" style="s2">Pieces and information that people take as knowledge. That&#39;s right</p>
+<p begin="00:58:17.410" end="00:58:21.930" style="s2">We see that happening in our institutions now and it&#39;s nobody&#39;s calling them out on it</p>
+<p begin="00:58:21.930" end="00:58:24.990" style="s2">So it&#39;s again I say that because it&#39;s your point of why did we do this?</p>
+<p begin="00:58:25.150" end="00:58:31.170" style="s2">Because the public trust in these institutions is being eroded and we&#39;re teaching our kids things that are just not true</p>
+<p begin="00:58:31.450" end="00:58:35.310" style="s2">they&#39;re just they&#39;re totally untethered to reality even though</p>
+<p begin="00:58:35.590" end="00:58:38.009" style="s2">some of these people may be very well-meaning and</p>
+<p begin="00:58:38.080" end="00:58:43.439" style="s2">There&#39;s always a citation we learned there&#39;s always a cite all the citations you want to find something that says</p>
+<p begin="00:58:43.600" end="00:58:45.929" style="s2">Anything ridiculous about sex toys and anal</p>
+<p begin="00:58:46.570" end="00:58:48.490" style="s2">taken care of there&#39;s</p>
+<p begin="00:58:48.490" end="00:58:50.909" style="s2">questions power dynamics using that already</p>
+<p begin="00:58:51.880" end="00:58:53.110" style="s2">that</p>
+<p begin="00:58:53.110" end="00:58:57.449" style="s2">Really is that is the important thing to sort of realize it about what we did</p>
+<p begin="00:58:57.450" end="00:59:00.600" style="s2">I mean all of that ridiculous stuff that Jim was saying earlier</p>
+<p begin="00:59:01.030" end="00:59:08.100" style="s2">He we were able to say that because there was already something out there which led to it or said it</p>
+<p begin="00:59:08.770" end="00:59:16.770" style="s2">itself, and so if you&#39;re actually looking at what our project is something that&#39;s very important to look at is our references because to</p>
+<p begin="00:59:16.770" end="00:59:23.459" style="s2">Make its its satellite. I mean some of it like the dog park really yet. It&#39;s there&#39;s this humorous</p>
+<p begin="00:59:23.530" end="00:59:25.530" style="s2">There&#39;s a very humorous element in it</p>
+<p begin="00:59:25.660" end="00:59:32.280" style="s2">But on a deeper level what it is is just gathering so much of this nonsense together</p>
+<p begin="00:59:33.250" end="00:59:39.330" style="s2">Sighting it putting it in there and then kind of making it do whatever it whatever we wanted it to do that</p>
+<p begin="00:59:39.330" end="00:59:45.330" style="s2">That was was the project and it&#39;s so your point is that you have embedded</p>
+<p begin="00:59:47.380" end="00:59:49.380" style="s2">Literature</p>
+<p begin="00:59:55.300" end="00:59:59.129" style="s2">They really, I mean a lot of the some of the academics have said well</p>
+<p begin="00:59:59.130" end="01:00:03.570" style="s2">We haven&#39;t been fooled because we still stand by the papers what you wrote was</p>
+<p begin="01:00:04.150" end="01:00:08.040" style="s2">Reasonable because they are indistinguishable and that really was</p>
+<p begin="01:00:08.910" end="01:00:14.849" style="s2">The point we wanted to have we&#39;ve ended up with a really good resource for anyone who wants to know what is out there</p>
+<p begin="01:00:15.100" end="01:00:17.080" style="s2">they can look at our</p>
+<p begin="01:00:17.080" end="01:00:21.600" style="s2">references they can look at the arguments if they enabled us to make they can look at how the reviewers</p>
+<p begin="01:00:22.000" end="01:00:26.129" style="s2">What they rejected us for what they accepted us for what they pushed us to do</p>
+<p begin="01:00:26.380" end="01:00:30.150" style="s2">There&#39;s a very clear pattern but because it is so complicated and so few people</p>
+<p begin="01:00:30.370" end="01:00:36.990" style="s2">have taken the time it would take to read all of our papers to read all of the comments to follow up our, um, our</p>
+<p begin="01:00:37.450" end="01:00:44.069" style="s2">references it&#39;s not always clear that what we&#39;re doing is putting it right in the Canon that is</p>
+<p begin="01:00:45.569" end="01:00:46.780" style="s2">The other issue, and that has</p>
+<p begin="01:00:47.700" end="01:00:51.720" style="s2">To do with the motivation of other academics not to be bothered with this, let&#39;s say, is that</p>
+<p begin="01:00:52.360" end="01:00:55.470" style="s2">The statistic that I&#39;m most familiar with is that about 80%</p>
+<p begin="01:00:55.600" end="01:00:59.549" style="s2">Of humanities papers get cited 0 times and the problem</p>
+<p begin="01:00:59.550" end="01:01:06.570" style="s2">Is that even to go after very bad ideas in an academically rigorous way is actually an extraordinarily</p>
+<p begin="01:01:06.880" end="01:01:11.849" style="s2">daunting task and it might be daunting in direct proportion to the to the</p>
+<p begin="01:01:12.490" end="01:01:18.719" style="s2">Appallingness of the ideas. So for example, if you&#39;re grading out a very bad undergraduate essay</p>
+<p begin="01:01:19.300" end="01:01:24.210" style="s2">It&#39;s way more difficult to grade a D paper than it is to grade a B paper</p>
+<p begin="01:01:24.550" end="01:01:29.820" style="s2">Because a D paper has so many errors in it. You don&#39;t even know where to start write the words are wrong</p>
+<p begin="01:01:29.820" end="01:01:33.420" style="s2">The sentences are wrong. The sentences aren&#39;t organized in the paragraph</p>
+<p begin="01:01:33.420" end="01:01:38.789" style="s2">the paragraphs are chaotic and disjointed and the whole thing makes no sense and you actually have to ...</p>
+<p begin="01:01:39.340" end="01:01:44.009" style="s2">There isn&#39;t a level of criticism that can&#39;t be applied to a very bad paper</p>
+<p begin="01:01:44.010" end="01:01:49.650" style="s2">And so it&#39;s absolutely exhausting intellectually apart from the danger that it poses</p>
+<p begin="01:01:50.590" end="01:01:55.529" style="s2">Personally, and so, you know before we assume that it&#39;s mere</p>
+<p begin="01:01:56.110" end="01:02:01.890" style="s2">Lack of character on the part of our fellow academics that is stopping them from taking a stand against such things</p>
+<p begin="01:02:02.410" end="01:02:07.289" style="s2">although I do by the sort of entrenched cowardice idea that emerges as</p>
+<p begin="01:02:07.960" end="01:02:09.960" style="s2">perhaps an inevitable consequence of</p>
+<p begin="01:02:10.720" end="01:02:12.720" style="s2">participating in a structured hierarchy</p>
+<p begin="01:02:14.230" end="01:02:19.499" style="s2">It&#39;s that there are there are many more reasons why this has flourished including the inappropriate,</p>
+<p begin="01:02:19.540" end="01:02:23.580" style="s2">what would you call it, subsidization of these viewpoints for the last 50 years?</p>
+<p begin="01:02:25.120" end="01:02:27.630" style="s2">Yeah, I think that&#39;s right, it&#39;s really really</p>
+<p begin="01:02:28.600" end="01:02:35.399" style="s2">Painstaking to pour through these papers and as a person, you know with a commitment to science and a background in science</p>
+<p begin="01:02:35.400" end="01:02:38.850" style="s2">It wasn&#39;t just even painstaking. I actually went into some pretty</p>
+<p begin="01:02:39.400" end="01:02:42.270" style="s2">dark places I have dark psychological places</p>
+<p begin="01:02:42.270" end="01:02:47.520" style="s2">I remember reading the so I mentioned reading the Glaciology paper earlier the feminist glaciology</p>
+<p begin="01:02:47.520" end="01:02:51.120" style="s2">But I didn&#39;t read it in depth when we first found it, but when we started to do this project</p>
+<p begin="01:02:51.120" end="01:02:55.589" style="s2">I wanted to emulate it and write one about feminist astronomy. You do it. Yeah</p>
+<p begin="01:02:56.260" end="01:02:59.249" style="s2">And I read the thing in tremendous depth and with great care</p>
+<p begin="01:02:59.440" end="01:03:05.639" style="s2">Taking notes all the way through and and you know preparing so I could could write a facsimile and I shut down</p>
+<p begin="01:03:05.650" end="01:03:10.560" style="s2">I mean, I just almost locked myself in a room by myself for three days in a dark depression</p>
+<p begin="01:03:13.450" end="01:03:15.450" style="s2">I had to talk him down</p>
+<p begin="01:03:15.610" end="01:03:18.209" style="s2">because he just got so despairing and he was just</p>
+<p begin="01:03:18.730" end="01:03:21.600" style="s2">Quoting bits to me. Look at this. How can this be?</p>
+<p begin="01:03:25.690" end="01:03:32.490" style="s2">Look, the same thing happened to me when I was writing 12 rules for life. I wrote a chapter called don&#39;t bother children when they&#39;re skateboarding and it&#39;s about the discouragement. Let&#39;s say of</p>
+<p begin="01:03:33.190" end="01:03:39.210" style="s2">Primarily of young men as a direct consequence of this the kind of rhetoric that we&#39;re discussing like that made me</p>
+<p begin="01:03:39.670" end="01:03:45.810" style="s2">Unbearable to my family for about three months because the more I studied it the more, well, It has a really</p>
+<p begin="01:03:46.540" end="01:03:52.560" style="s2">Fragmenting and chaotic effect going on you psychologically and I&#39;ve also seen this manifested in my students</p>
+<p begin="01:03:52.690" end="01:03:55.530" style="s2">who, you know, who undergo this kind of activist</p>
+<p begin="01:03:57.040" end="01:03:59.399" style="s2">indoctrination.  It&#39;s such a it&#39;s such a</p>
+<p begin="01:03:59.980" end="01:04:01.090" style="s2">corrosive and</p>
+<p begin="01:04:01.090" end="01:04:07.590" style="s2">cynical view of the world that all were we&#39;re all in it in our groups and that all the groups are fighting one another for</p>
+<p begin="01:04:07.590" end="01:04:10.739" style="s2">Power and that that&#39;s a fundamental transcendent reality</p>
+<p begin="01:04:11.260" end="01:04:12.660" style="s2">It&#39;s just yeah</p>
+<p begin="01:04:12.660" end="01:04:16.290" style="s2">Now imagine imagine the sort of person who looks at that as</p>
+<p begin="01:04:16.720" end="01:04:22.770" style="s2">an epistemological and moral virtue, and who teaches that to their students; who attempts to</p>
+<p begin="01:04:23.590" end="01:04:26.189" style="s2">indoctrinate their students into these,</p>
+<p begin="01:04:26.920" end="01:04:32.639" style="s2">they don&#39;t even rise to the level of being false, in terms of these morally dangerous ideas,</p>
+<p begin="01:04:32.640" end="01:04:35.280" style="s2">and then they think that there are better people as a result;</p>
+<p begin="01:04:35.580" end="01:04:40.500" style="s2">And then they think that if somebody calls them out on it, they&#39;re evil.  Okay, so let&#39;s</p>
+<p begin="01:04:40.500" end="01:04:44.800" style="s2">look at this too.  When Haidt and Lukianoff wrote &quot;The Coddling of the American Mind&quot; (wonderful book)</p>
+<p begin="01:04:44.800" end="01:04:47.910" style="s2">they pointed out as the American Psychological</p>
+<p begin="01:04:48.550" end="01:04:54.179" style="s2">Association and the American Psychiatric Association should have that all of the safe space and</p>
+<p begin="01:04:55.510" end="01:04:59.580" style="s2">Doctrines and trigger warning doctrines and and and that sort of thing</p>
+<p begin="01:05:00.100" end="01:05:05.189" style="s2">And the speech codes, for example that are increasingly forbidding even sarcasm are</p>
+<p begin="01:05:06.160" end="01:05:10.170" style="s2">Exactly the opposite of the approach that you would take if you were a trained psychologist</p>
+<p begin="01:05:10.300" end="01:05:12.570" style="s2">Trying to produce people who are more resilient</p>
+<p begin="01:05:12.570" end="01:05:15.330" style="s2">You actually make them weaker and more anxiety</p>
+<p begin="01:05:15.760" end="01:05:20.939" style="s2">prone more anxiety prone more depressed and more hopeless and I think the evidence for that&#39;s</p>
+<p begin="01:05:21.130" end="01:05:21.990" style="s2">Absolutely clear</p>
+<p begin="01:05:21.990" end="01:05:28.830" style="s2">and I think it&#39;s appalling that it wasn&#39;t clinical psychologists or psychiatrists who pointed it out and so it is that the</p>
+<p begin="01:05:29.080" end="01:05:36.749" style="s2">These doctors are being put forth for the benefit of those who formulate the doctrines and that the students are  sacrificial victims in that in</p>
+<p begin="01:05:36.970" end="01:05:44.010" style="s2">that process. Yeah, there&#39;s one here&#39;s one more piece that I think is important it goes back to what Jim said about</p>
+<p begin="01:05:45.040" end="01:05:52.410" style="s2">not not seeing that a contradiction is problematic because the whole idea of contradiction is white science or Western science and that&#39;s</p>
+<p begin="01:05:52.720" end="01:05:54.370" style="s2">That&#39;s problematic</p>
+<p begin="01:05:54.370" end="01:06:00.150" style="s2">is that we found that these folks don&#39;t really value discourse and dialogue and so</p>
+<p begin="01:06:00.460" end="01:06:04.590" style="s2">They don&#39;t really value having ideas challenged and questioned</p>
+<p begin="01:06:04.590" end="01:06:09.449" style="s2">That&#39;s not their their reason for teaching these ideas in the first place. And if I may give you a quick example</p>
+<p begin="01:06:10.630" end="01:06:11.950" style="s2">Here&#39;s me</p>
+<p begin="01:06:11.950" end="01:06:16.290" style="s2">well in state university wants to include ER has included at this point a</p>
+<p begin="01:06:16.900" end="01:06:21.239" style="s2">course on Native American philosophy which which I think is a great idea and</p>
+<p begin="01:06:23.170" end="01:06:24.340" style="s2">Somebody in the audience</p>
+<p begin="01:06:24.340" end="01:06:25.180" style="s2">Asked a question</p>
+<p begin="01:06:25.180" end="01:06:32.040" style="s2">And and the question was I went to a presentation and the question this individual asked was well</p>
+<p begin="01:06:32.110" end="01:06:36.839" style="s2">What do we do as settlers as colonialists when we want to question or challenge these?</p>
+<p begin="01:06:37.450" end="01:06:39.450" style="s2">ideas in the Native American philosophy</p>
+<p begin="01:06:39.970" end="01:06:41.920" style="s2">and the presenter said</p>
+<p begin="01:06:41.920" end="01:06:48.780" style="s2">You know, I&#39;ve struggled with this it&#39;s very difficult for me. But the bottom line was it shouldn&#39;t it should be exempt from</p>
+<p begin="01:06:50.109" end="01:06:55.258" style="s2">Tools that we have used for other disciplines, you know the dialectic, you know</p>
+<p begin="01:06:55.900" end="01:07:00.449" style="s2">Challenging and so that first of all that places me in an almost impossible position</p>
+<p begin="01:07:01.089" end="01:07:03.389" style="s2">What am I supposed to do say, you know?</p>
+<p begin="01:07:03.390" end="01:07:09.150" style="s2">Why is it exempt what it should play by the rules every other philosophy because then I become the God who hates</p>
+<p begin="01:07:09.819" end="01:07:11.819" style="s2">Western eight</p>
+<p begin="01:07:13.509" end="01:07:18.689" style="s2">Indigenous people who age into this phosphate and then on the tool of the patriarchy which gets back to what you were</p>
+<p begin="01:07:18.849" end="01:07:20.998" style="s2">Question or asking before is why do we have this?</p>
+<p begin="01:07:21.940" end="01:07:28.199" style="s2">Silenced in academia and what&#39;s the problem of it? So I think part of the problem is that these folks don&#39;t value discourse</p>
+<p begin="01:07:28.199" end="01:07:31.109" style="s2">They don&#39;t value dialogue. They don&#39;t value open expression</p>
+<p begin="01:07:31.109" end="01:07:33.149" style="s2">They don&#39;t vote they view that and again</p>
+<p begin="01:07:33.150" end="01:07:36.119" style="s2">There&#39;s a paper for this they view that as a type of violence</p>
+<p begin="01:07:36.219" end="01:07:38.609" style="s2">words or type of minds this type of form of violence</p>
+<p begin="01:07:38.609" end="01:07:41.909" style="s2">And so then their students develop brittle</p>
+<p begin="01:07:42.249" end="01:07:45.208" style="s2">Epistemologies because they&#39;ve never heard the other side of the story</p>
+<p begin="01:07:45.209" end="01:07:50.219" style="s2">Right and they develop them just when they should be developing resil resilience. Exactly, correct? And</p>
+<p begin="01:07:51.819" end="01:07:53.099" style="s2">Yeah, it is a litmus test</p>
+<p begin="01:07:53.099" end="01:07:59.788" style="s2">I always I always ask folks why who are gender studies in my class or study in the ingredient Studies fields</p>
+<p begin="01:08:00.009" end="01:08:03.809" style="s2">why isn&#39;t Martha Nussbaum&#39;s criticism of Judith Butler taught and</p>
+<p begin="01:08:04.900" end="01:08:08.789" style="s2">(I don&#39;t) hear a single single student that says yes, I&#39;ve learned about that in my classes</p>
+<p begin="01:08:08.859" end="01:08:09.359" style="s2">well</p>
+<p begin="01:08:09.359" end="01:08:15.629" style="s2">they don&#39;t they don&#39;t teach that because they have a prevailing moral orthodoxy and they want to indoctrinate students with it and</p>
+<p begin="01:08:15.819" end="01:08:19.769" style="s2">they&#39;ve kind of hijacked the administration and as I said before they&#39;ve weaponized</p>
+<p begin="01:08:20.679" end="01:08:26.279" style="s2">offices of diversity inclusion etcetera to punish people who are heretics and who question or challenge this</p>
+<p begin="01:08:26.349" end="01:08:31.199" style="s2">Okay, so we&#39;re gonna run out of time we run down to about ten minutes here</p>
+<p begin="01:08:31.199" end="01:08:37.739" style="s2">so I want to here&#39;s a question that I want to bring to all three of you I think one is</p>
+<p begin="01:08:38.319" end="01:08:41.908" style="s2">Why in the world should anybody outside of academia care about this?</p>
+<p begin="01:08:41.909" end="01:08:45.929" style="s2">that&#39;s the first thing (great question) and most a very careful answer that and the second is</p>
+<p begin="01:08:47.739" end="01:08:54.509" style="s2">For each of you what&#39;s been the personal consequence of this and would you have repeated it if you knew what the</p>
+<p begin="01:08:54.670" end="01:08:57.569" style="s2">Consequences were going to be so let&#39;s start with the first one</p>
+<p begin="01:08:57.569" end="01:09:02.699" style="s2">Why in the world should they why in the world should anyone care that some half-witted academic journal?</p>
+<p begin="01:09:02.890" end="01:09:05.640" style="s2">published an insane paper by three renegade</p>
+<p begin="01:09:06.730" end="01:09:11.069" style="s2">academics about what about dog rape of all the absurd</p>
+<p begin="01:09:11.710" end="01:09:14.519" style="s2">of the observe absurd topics</p>
+<p begin="01:09:15.760" end="01:09:18.929" style="s2">It&#39;s so surreal that it seems</p>
+<p begin="01:09:20.980" end="01:09:25.169" style="s2">Virtually incomprehensible.  Sensible people should avoid it. So what&#39;s the answer to that?</p>
+<p begin="01:09:26.770" end="01:09:28.770" style="s2">Well, go ahead Ellen</p>
+<p begin="01:09:31.960" end="01:09:33.960" style="s2">The university is</p>
+<p begin="01:09:35.110" end="01:09:37.170" style="s2">It is our source of knowledge production</p>
+<p begin="01:09:37.300" end="01:09:39.040" style="s2">If we look back through history</p>
+<p begin="01:09:39.040" end="01:09:45.450" style="s2">When our cultures were Christian the new knowledge about this was coming from the universities when we had the Scientific Revolution</p>
+<p begin="01:09:46.600" end="01:09:49.230" style="s2">when we went into the Enlightenment</p>
+<p begin="01:09:49.230" end="01:09:53.969" style="s2">This was coming from the universities these things don&#39;t stay in the universities</p>
+<p begin="01:09:53.970" end="01:09:56.550" style="s2">We have seen it is coming out in</p>
+<p begin="01:09:56.950" end="01:10:04.409" style="s2">Its what is essentially happened with the kind of identity studies that we&#39;re looking at is that it has been made directly</p>
+<p begin="01:10:04.630" end="01:10:06.270" style="s2">actionable by activists</p>
+<p begin="01:10:06.270" end="01:10:11.670" style="s2">It has been tagged on to the end of the civil rights movements and liberal feminism and gay pride</p>
+<p begin="01:10:12.010" end="01:10:17.130" style="s2">When those movements have started to see diminishing returns and people wanted to continue</p>
+<p begin="01:10:17.440" end="01:10:22.349" style="s2">Then it&#39;s it&#39;s tagged on to the end of that to a society, which is just seeing the end of empire</p>
+<p begin="01:10:22.510" end="01:10:25.530" style="s2">The end of Jim Crow and is geared towards</p>
+<p begin="01:10:25.960" end="01:10:29.879" style="s2">Towards social justice and it is kind it is it is seeded here</p>
+<p begin="01:10:29.879" end="01:10:31.879" style="s2">So its also a warning to the corporations because it is permeating the HR department.  It&#39;s like think something this insidious is going to stay in the</p>
+<p begin="01:10:38.380" end="01:10:43.139" style="s2">Universities and don&#39;t be thinking that you can import 2% of it without importing the other 98%.</p>
+<p begin="01:10:43.930" end="01:10:48.659" style="s2">Yeah, people leave University and they join these industries. Also, there&#39;s pressure on corporations</p>
+<p begin="01:10:49.870" end="01:10:53.579" style="s2">to comply with the the reigning moral orthodoxy</p>
+<p begin="01:10:53.580" end="01:10:53.820" style="s2">I mean</p>
+<p begin="01:10:53.820" end="01:10:58.889" style="s2">I don&#39;t think that the average business owner or the average person in the street knows anything about</p>
+<p begin="01:10:59.380" end="01:11:06.150" style="s2">Foucault or Crenshaw or even thinks much about this but it is in the air now and it is it is in the air now, and it is</p>
+<p begin="01:11:06.400" end="01:11:12.989" style="s2">effecting it is effecting everything and we do need to take it seriously without sort of having a moral panic</p>
+<p begin="01:11:12.990" end="01:11:18.510" style="s2">We need to look at it calmly and empirically and address it as it actually is.</p>
+<p begin="01:11:18.730" end="01:11:23.849" style="s2">Yeah, and what should we do about it? That&#39;s the next issue because that&#39;s a podcast.</p>
+<p begin="01:11:23.849" end="01:11:25.849" style="s2">Yeah, okay fine.  That&#39;s another podcast.</p>
+<p begin="01:11:26.680" end="01:11:30.780" style="s2">And the final question for all three of you is and maybe one at a time</p>
+<p begin="01:11:32.680" end="01:11:34.680" style="s2">Would you do it again I</p>
+<p begin="01:11:35.080" end="01:11:37.410" style="s2">Would yeah, I would definitely do it again</p>
+<p begin="01:11:38.200" end="01:11:42.800" style="s2">Okay, so we know that you&#39;re an unrepentant troublemaker. I am definitely an unrepentant troublemaker.</p>
+<p begin="01:11:42.880" end="01:11:48.359" style="s2">I&#39;ve also found like my one great talent in the world and I feel like it I&#39;ve made my own life obsolete now</p>
+<p begin="01:11:49.720" end="01:11:53.610" style="s2">Okay, I can be a wonderful bullshit artist if anybody is looking for one</p>
+<p begin="01:11:54.880" end="01:11:58.679" style="s2">Okay. Yeah, I would definitely do it again. It&#39;s worth the risk. I think it needed to be done</p>
+<p begin="01:11:59.320" end="01:12:04.650" style="s2">Helen let&#39;s ask you next and then we&#39;ll get let Peter have the last word because he&#39;s the one that&#39;s got the most on the</p>
+<p begin="01:12:04.650" end="01:12:08.040" style="s2">Line at the moment. Yes. Yes, I would do it again</p>
+<p begin="01:12:08.070" end="01:12:13.049" style="s2">I mean I&#39;ve I was imagining all sorts of things from being arrested under sort of hate</p>
+<p begin="01:12:13.050" end="01:12:20.159" style="s2">Speech Act to being physically attacked because I have an uncommon name. I&#39;ve had an awful lot of online abuse</p>
+<p begin="01:12:20.160" end="01:12:22.200" style="s2">I&#39;ve got some persistent stalkers</p>
+<p begin="01:12:22.450" end="01:12:28.020" style="s2">But that has essentially ...  I probably won&#39;t get into a PhD program in my own country though</p>
+<p begin="01:12:28.020" end="01:12:31.799" style="s2">somebody in Germany has offered, bless her, but it&#39;s been</p>
+<p begin="01:12:32.440" end="01:12:34.440" style="s2">It&#39;s been it&#39;s been quite necessary for survival, it was worth doing and I would do it again.  Okay Peter</p>
+<p begin="01:12:39.610" end="01:12:47.130" style="s2">It had done. It had to be done. There&#39;s a crisis in the universities. There&#39;s a crisis with knowledge production as a crisis of confidence</p>
+<p begin="01:12:48.340" end="01:12:51.299" style="s2">this may come at a heavy price to me and</p>
+<p begin="01:12:51.790" end="01:12:59.069" style="s2">I have had to weigh out my family obligations helping put my son through school, you know being a</p>
+<p begin="01:12:59.590" end="01:13:05.489" style="s2">Part of a, I&#39;m married so being in a relationship in which I economically contribute to the to the house</p>
+<p begin="01:13:05.710" end="01:13:09.270" style="s2">but this had to be done someone had to do it and if I am a</p>
+<p begin="01:13:09.490" end="01:13:12.570" style="s2">Consequence of this then. So be it it had to be done. Yeah</p>
+<p begin="01:13:12.570" end="01:13:18.389" style="s2">Well Peter weren&#39;t there&#39;s a bunch of us who are not particularly inclined to let you be a sole sacrificial victim;</p>
+<p begin="01:13:18.390" end="01:13:21.960" style="s2">So if your university wants to get too stupid with you then, um,</p>
+<p begin="01:13:22.870" end="01:13:29.349" style="s2">Let&#39;s let&#39;s assume that they&#39;re going to be consequences. I sincerely appreciate your support the bottom of my heart. Thank you</p>
+<p begin="01:13:29.500" end="01:13:31.400" style="s2">Yeah, well enough is enough.</p>
+<p begin="01:13:31.400" end="01:13:35.980" style="s2">So well look guys. It was really good talking to you. Although I think that you&#39;re quite the</p>
+<p begin="01:13:38.090" end="01:13:44.500" style="s2">Surreal bunch of troublemakers and perhaps exactly what this crazy situation requires and</p>
+<p begin="01:13:47.090" end="01:13:53.020" style="s2">Well, and I and I hope that I hope Peter that that things work out for you properly over the next few years</p>
+<p begin="01:13:53.020" end="01:13:59.319" style="s2">It&#39;s gonna be a tough haul for a while. There&#39;s no doubt about that. So well, are you getting any student support at your university?</p>
+<p begin="01:13:59.480" end="01:14:05.020" style="s2">Yeah, I&#39;m getting a lot of student support the University, but you know I have to be blunt with you</p>
+<p begin="01:14:05.020" end="01:14:08.620" style="s2">I&#39;ve people are threatened to attack me a few weeks ago someone spit at me</p>
+<p begin="01:14:09.050" end="01:14:12.520" style="s2">My colleagues literally well walk down the corridor they&#39;ll turn their heads</p>
+<p begin="01:14:12.520" end="01:14:19.029" style="s2">It&#39;s it&#39;s a but that you know, the uncomfortable things they own it&#39;s not that much different from the typical University Department</p>
+<p begin="01:14:20.150" end="01:14:23.859" style="s2">yeah, it&#39;s it has seemed to be I</p>
+<p begin="01:14:25.010" end="01:14:29.350" style="s2">Am I mean I I want to be blunt with you</p>
+<p begin="01:14:29.870" end="01:14:34.959" style="s2">It is a concern for my safety in Portland when I leave the house now</p>
+<p begin="01:14:35.750" end="01:14:43.450" style="s2">yeah, and I now been threatened on more than one occasion by people and I&#39;m concerned.  Do you,</p>
+<p begin="01:14:43.450" end="01:14:48.159" style="s2">You do you find the threats credible? I mean, I know every every threat is upsetting</p>
+<p begin="01:14:48.160" end="01:14:53.889" style="s2">But like are you actually in the situation where you have some apprehension about leaving your house? Or are you able to put that aside?</p>
+<p begin="01:14:54.650" end="01:14:57.370" style="s2">I don&#39;t have any apprehension about leaving my house</p>
+<p begin="01:14:58.219" end="01:14:59.860" style="s2">look, You know,</p>
+<p begin="01:14:59.860" end="01:15:04.989" style="s2">I wake up in the morning and I in emails and tweets people telling me how stupid I am and what a</p>
+<p begin="01:15:05.239" end="01:15:10.299" style="s2">Bad person I am a homophobe and a racist. All right, that doesn&#39;t do anything to me</p>
+<p begin="01:15:10.300" end="01:15:13.930" style="s2">But when I walk out in the street.. I was out at a bar a few weeks ago</p>
+<p begin="01:15:14.450" end="01:15:18.399" style="s2">Or maybe a few months ago. I don&#39;t need no lifetime lines, but you know someone</p>
+<p begin="01:15:19.100" end="01:15:24.969" style="s2">Someone came up to me and he started harassing me. I fortunately with my jujitsu coach John Biggins</p>
+<p begin="01:15:26.360" end="01:15:32.920" style="s2">and he&#39;s a black belt in jujitsu, and he immediately pulled up the chair beside us and I kept saying let&#39;s talk</p>
+<p begin="01:15:32.920" end="01:15:37.089" style="s2">Let&#39;s have a conversation. No, he followed me in the bathroom. I came out of the bathroom</p>
+<p begin="01:15:37.760" end="01:15:40.000" style="s2">Finally I look I don&#39;t know what&#39;s happening</p>
+<p begin="01:15:40.139" end="01:15:41.550" style="s2">I don&#39;t know why you&#39;re so upset</p>
+<p begin="01:15:41.550" end="01:15:46.170" style="s2">But I&#39;m happy to talk to you and he said I don&#39;t want to talk to you Peter. I want to hurt you</p>
+<p begin="01:15:46.900" end="01:15:48.989" style="s2">That&#39;s that&#39;s pretty that&#39;s pretty serious</p>
+<p begin="01:15:49.389" end="01:15:55.439" style="s2">Yeah, and then it happened again on the street when I was surrounded about a week and a half ago, by people</p>
+<p begin="01:15:55.440" end="01:15:59.489" style="s2">I assume they&#39;re antifa or people or something clearly wanted to</p>
+<p begin="01:16:00.580" end="01:16:02.560" style="s2">hurt me, so</p>
+<p begin="01:16:02.560" end="01:16:09.509" style="s2">You know, I am I am concerned. I am concerned look, I mean those four people who have a been through</p>
+<p begin="01:16:09.540" end="01:16:15.479" style="s2">It&#39;s very hard for people how to be true that sort of thing to understand just exactly how distressing that kind of occurrence is not</p>
+<p begin="01:16:15.639" end="01:16:21.359" style="s2">Only good things happens, but because it could happen again and it could become more serious. So I&#39;m really sorry to hear that</p>
+<p begin="01:16:21.360" end="01:16:24.569" style="s2">I didn&#39;t realize it didn&#39;t come to that. That&#39;s that&#39;s no laughing matter</p>
+<p begin="01:16:24.960" end="01:16:26.739" style="s2">I appreciate that and</p>
+<p begin="01:16:26.739" end="01:16:32.879" style="s2">Threats on your door left on your door and on any poster that&#39;s got anything to do with you and there&#39;s there&#39;s this swastikas</p>
+<p begin="01:16:32.880" end="01:16:36.659" style="s2">There&#39;s insults, there&#39;s leaflets and notices</p>
+<p begin="01:16:39.520" end="01:16:44.669" style="s2">Oddly, that kind of stuff doesn&#39;t bother me it&#39;s when it&#39;s in the physical world where I feel</p>
+<p begin="01:16:46.030" end="01:16:50.699" style="s2">Someone I mean if someone tells you they&#39;re gonna hurt you. You should take their word. Yes</p>
+<p begin="01:16:50.770" end="01:16:57.479" style="s2">Definitely when it&#39;s that direct and when it&#39;s that in-your-face, so those threats are credible. That&#39;s that&#39;s a real. That&#39;s a real danger</p>
+<p begin="01:16:57.730" end="01:17:05.459" style="s2">So that&#39;s that&#39;s well. Look. I&#39;m really sorry to hear that. And I&#39;m I&#39;m also sorry to hear that. You&#39;re paying a substan</p>
+<p begin="01:17:05.489" end="01:17:08.339" style="s2">I&#39;m sorry to hear a general that you&#39;re paying a substantive price for that</p>
+<p begin="01:17:08.800" end="01:17:11.909" style="s2">I&#39;m going to do what I can for what that&#39;s worth to</p>
+<p begin="01:17:12.070" end="01:17:17.580" style="s2">try to make sure that people hear about this and that you&#39;re not in it alone because I think you guys are like</p>
+<p begin="01:17:18.070" end="01:17:20.699" style="s2">comedians, you know you&#39;re Canaries in the coal mine and</p>
+<p begin="01:17:20.980" end="01:17:26.790" style="s2">whatever happens to you is going to happen to a lot of other people if if it&#39;s allowed to happen to you so it can&#39;t</p>
+<p begin="01:17:26.790" end="01:17:33.569" style="s2">Be allowed to happen to you. That&#39;s what it looks like to me. So thank you for supporting yeah. Alright guys</p>
+<p begin="01:17:33.570" end="01:17:35.759" style="s2">Well, thanks a lot for talking to me all</p>
+<p begin="01:17:36.610" end="01:17:39.820" style="s2">it was, it was</p>
+<p begin="01:17:39.820" end="01:17:42.119" style="s2">stupidly interesting talking with you.  I know that&#39;s a hell of a thing to say.</p>
+<p begin="01:17:47.680" end="01:17:53.309" style="s2">You know, it&#39;s so ridiculous you you can&#39;t you couldn&#39;t invent this in a bad piece of fiction</p>
+<p begin="01:17:54.220" end="01:18:00.329" style="s2">And it&#39;s it&#39;s so sad that that this is the sort of thing that we have to occupy ourself with</p>
+<p begin="01:18:00.550" end="01:18:02.700" style="s2">when there is serious work to be done, so</p>
+<p begin="01:18:03.400" end="01:18:06.239" style="s2">Maybe. All right. Well happy new year.</p>
+<p begin="01:18:06.420" end="01:18:11.640" style="s2">I suppose hopefully this will be a watershed year and things will get more intelligent from here on in</p>
+<p begin="01:18:11.820" end="01:18:15.540" style="s2">Yeah, I&#39;m sure hoping that&#39;ll be the case. Me, too. Thank you</p>
+<p begin="01:18:15.670" end="01:18:22.440" style="s2">All right, ladies and gentlemen, thank you very much for your time and I&#39;ll let you know when this is all coming online. Okay?</p>
+</div>
+</body>
+</tt>

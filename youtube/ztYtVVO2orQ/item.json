@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "5FKhyUbHX0S4SXK-Yqvvn9SNdJc",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "ztYtVVO2orQ"
-  },
+  "id": "UExlUkJhLU5lcjRCc1Vlb1dHb0UtNDdVejZxM2EzdGMwMy4wMTcyMDhGQUE4NTIzM0Y5",
   "snippet": {
-    "publishedAt": "2020-06-09T16:00:28Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "publishedAt": "2020-08-09T23:44:33Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "The Man Who Missed the Pandemic, Daniel Thorson",
-    "description": "Just as the Covid pandemic was starting to transform our lives, Daniel Thorson, the creator of the Emerge podcast, started a 75 day silent retreat in rural Vermont ...",
+    "description": "Just as the Covid pandemic was starting to transform our lives, Daniel Thorson, the creator of the Emerge podcast, started a 75 day silent retreat in rural Vermont.\n\nHe emerged into a different world, and straight into a media storm, starting in the pages of the New York Times and continuing with interviews around the world.\n\nHowever, there is an even more intriguing story, because for the last two years on the Emerge podcast Daniel has been exploring exactly the topics of existential risk and societal fragility that the pandemic has laid bare for everyone. \n\nRebel Wisdom's David Fuller caught up to see what he made of his re-emergence into this new world.\n\nRelevant links:\n\nDaniel's Emerge Podcast: https://www.whatisemerging.com/emergepodcast\n\nJordan Hall, Deep Code: https://www.youtube.com/watch?v=_j3cCrpXERg\n\nDaniel Schmachtenberger, War on Sensemaking: https://www.youtube.com/watch?v=7LqaotiGWjQ\n\nDaniel Schmachtenberger, Phase Shift for Humanity: https://www.youtube.com/watch?v=nQRzxEobWco&t=137s\n\nThe Story of Collapse, Daniel Thorson & Josh Fields: https://www.youtube.com/watch?v=dj82JMVNO9o&t=264s\n\nYou can listen to podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com\n\n\nYou can also become a Rebel Wisdom member, for many benefits including our regular Q&As with the interviewees from our films, check out: https://www.rebelwisdom.co.uk/plans",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/ztYtVVO2orQ/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/ztYtVVO2orQ/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ztYtVVO2orQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/ztYtVVO2orQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-06-09T16:00:28Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BsUeoWGoE-47Uz6q3a3tc03",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "ztYtVVO2orQ"
+    }
   },
   "_id": "ztYtVVO2orQ",
-  "publishedAt": "2020-06-09T16:00:28Z",
+  "publishedAt": "2020-08-09T23:44:33Z",
   "collections": [
     "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4BsUeoWGoE-47Uz6q3a3tc03"
   ],
-  "type": "youtube-channel-item"
+  "type": "youtube-playlist-item"
 }

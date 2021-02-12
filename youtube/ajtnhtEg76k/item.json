@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "ajtnhtEg76k"
+  },
+  "snippet": {
+    "publishedAt": "2016-01-19T02:14:48Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "2016 Personality Lecture 02: Introduction and Overview (Part 2)",
+    "description": "Hi all: this is the second lecture in my University of Toronto Personality course, finishing the overview of what will be covered. Much of the content will be new ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ajtnhtEg76k/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ajtnhtEg76k/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ajtnhtEg76k/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2016-01-19T02:14:48Z"
+  },
+  "_id": "ajtnhtEg76k",
+  "publishedAt": "2016-01-19T02:14:48Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

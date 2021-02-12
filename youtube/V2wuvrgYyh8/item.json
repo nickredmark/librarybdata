@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "IInSN3jqPVR6sHE97LKYGUpUIKU",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "V2wuvrgYyh8"
-  },
+  "id": "UExlUkJhLU5lcjRCdXYyc0ctM0phYmw0Ukt4UndrWnR0dy41MzJCQjBCNDIyRkJDN0VD",
   "snippet": {
-    "publishedAt": "2020-04-14T20:24:41Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "publishedAt": "2020-06-11T19:37:10Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "Covid 19 Situational Update 2, Daniel Schmachtenberger",
-    "description": "Where are we at with the progress of the pandemic and what needs to happen next? In a follow up to the previous situational assessment, Existential Risk ...",
+    "description": "Where are we at with the progress of the pandemic and what needs to happen next? In a follow up to the previous situational assessment, Existential Risk Analyst Daniel Schmachtenberger takes a look at the landscape.\n\nYou can listen to podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com\n\n\nYou can also become a Rebel Wisdom member, for many benefits including our regular Q&As with the interviewees from our films, check out: https://www.rebelwisdom.co.uk/plans",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/V2wuvrgYyh8/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/V2wuvrgYyh8/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/V2wuvrgYyh8/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/V2wuvrgYyh8/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-04-14T20:24:41Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
+    "position": 27,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "V2wuvrgYyh8"
+    }
   },
   "_id": "V2wuvrgYyh8",
   "collections": [
     "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw"
   ],
-  "publishedAt": "2020-04-14T20:24:41Z",
-  "type": "youtube-channel-item"
+  "publishedAt": "2020-06-11T19:37:10Z",
+  "type": "youtube-playlist-item"
 }

@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "2WxU7W_PBZ3SrzRY1Ybc4Qsy8pA",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "Lb8uelYBekE"
-  },
+  "id": "UExlUkJhLU5lcjRCdEtIeWNMSDJJMkExZ3N1bGpsVkVUdC40QTA3NTU2RkM1QzlCMzYx",
   "snippet": {
-    "publishedAt": "2020-03-21T20:20:28Z",
-    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "publishedAt": "2020-08-09T00:47:39Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "Situational Assessment w/ Jordan Hall (March 21, 2020)",
-    "description": "Jordan Hall provides a situational assessment on COVID-19 and the meta-crisis. Followed by a group conversation.",
+    "description": "Jordan Hall provides a situational assessment on COVID-19 and the meta-crisis. Followed by a group conversation. \n\nhttps://medium.com/deep-code/situational-assessment-right-now-7d9856b562f5\n\nRSVP for more sessions: www.thestoa.ca\nJoin The Stoa mailing list: https://thestoa.substack.com\nIntro song: Kali Yuga Blues by Bardo Pond\n\nThe Stoa is based on the gift economy. You can give us a gift here: www.thestoa.ca/gift",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/Lb8uelYBekE/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/Lb8uelYBekE/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Lb8uelYBekE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Lb8uelYBekE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-03-21T20:20:28Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt",
+    "position": 26,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "Lb8uelYBekE"
+    }
   },
   "_id": "Lb8uelYBekE",
   "collections": [
     "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt"
   ],
-  "publishedAt": "2020-03-21T20:20:28Z",
-  "type": "youtube-channel-item"
+  "publishedAt": "2020-08-09T00:47:39Z",
+  "type": "youtube-playlist-item"
 }

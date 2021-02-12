@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "kdYo87pThsPuB_cv1JxO5iYC0VE",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "kGMI_T1YWaE"
-  },
+  "id": "UExlUkJhLU5lcjRCc1Vlb1dHb0UtNDdVejZxM2EzdGMwMy45NDk1REZENzhEMzU5MDQz",
   "snippet": {
-    "publishedAt": "2019-03-15T15:36:59Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "publishedAt": "2020-08-29T19:04:34Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "The story of Rebel Wisdom - Emerge podcast",
-    "description": "In this conversation with Daniel Thorson of Emerge, Rebel Wisdom's David Fuller explains the genesis of the channel, discusses Rebel Wisdom's main ...",
+    "description": "In this conversation with Daniel Thorson of Emerge, Rebel Wisdom's David Fuller explains the genesis of the channel, discusses Rebel Wisdom's main influences and outlines the future of the project.\n\nCheck out the Emerge Podcast for interviews with many top thinkers such as Jordan Greenhall & Daniel Schmachtenberger: https://anchor.fm/emerge\n\nRebel Wisdom is a platform for the biggest ideas around. \nhttp://www.rebelwisdom.co.uk/\n\nWe've just launched the Rebel Wisdom store! Buy T Shirts and more on https://shop.rebelwisdom.co.uk \n\nFor access to exclusive member-only content, and to join the conversation - become part of the Rebel Wisdom community - go to: https://www.rebelwisdom.co.uk/plans",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/kGMI_T1YWaE/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/kGMI_T1YWaE/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/kGMI_T1YWaE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/kGMI_T1YWaE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2019-03-15T15:36:59Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BsUeoWGoE-47Uz6q3a3tc03",
+    "position": 6,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "kGMI_T1YWaE"
+    }
   },
   "_id": "kGMI_T1YWaE",
   "collections": [
     "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4BsUeoWGoE-47Uz6q3a3tc03"
   ],
-  "publishedAt": "2019-03-15T15:36:59Z",
-  "type": "youtube-channel-item"
+  "publishedAt": "2020-08-29T19:04:34Z",
+  "type": "youtube-playlist-item"
 }

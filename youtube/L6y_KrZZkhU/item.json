@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "fqg7Im9fKbmvU9CfMgR1bosMZaA",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "L6y_KrZZkhU"
-  },
+  "id": "UExlUkJhLU5lcjRCdEtIeWNMSDJJMkExZ3N1bGpsVkVUdC45NkVENTkxRDdCQUFBMDY4",
   "snippet": {
-    "publishedAt": "2020-04-02T20:07:36Z",
-    "channelId": "UCUCXWOOz06krkFBsZwH6kHg",
+    "publishedAt": "2020-08-09T00:49:26Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "Conversation: Jubilee and Jordan Hall",
-    "description": "Second conversation with Jordan Hall First one found here: ...",
+    "description": "Second conversation with Jordan Hall\nFirst one  found here: https://www.youtube.com/watch?v=nEWyVrxXFCY&list=PL3XnbKGydpYLQS1fTqKymAYv_7OVBRj7F&index=11",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/L6y_KrZZkhU/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/L6y_KrZZkhU/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/L6y_KrZZkhU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/L6y_KrZZkhU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Jubilee Creates Something Amazing",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-04-02T20:07:36Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt",
+    "position": 20,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "L6y_KrZZkhU"
+    }
   },
   "_id": "L6y_KrZZkhU",
   "collections": [
     "https://www.youtube.com/channel/UCUCXWOOz06krkFBsZwH6kHg",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt"
   ],
-  "publishedAt": "2020-04-02T20:07:36Z",
-  "type": "youtube-channel-item"
+  "publishedAt": "2020-08-09T00:49:26Z",
+  "type": "youtube-playlist-item"
 }

@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "GF0v5J-oH62gZpoxgCUyBhhu_74",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "a2mZqs3g5ks"
-  },
+  "id": "UExlUkJhLU5lcjRCdEtIeWNMSDJJMkExZ3N1bGpsVkVUdC5DRUQwODMxQzUyRTlGRkY3",
   "snippet": {
-    "publishedAt": "2020-04-10T17:36:02Z",
-    "channelId": "UCw1Sl_jFYRl2gbkBLp7w4lg",
+    "publishedAt": "2020-08-09T00:50:02Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "EP26 Jordan Hall on the Game B Emergence",
-    "description": "Click here for full show notes including episode mentions & recommendations! https://www.jimruttshow.com/jordan-hall/ Jordan Hall and Jim have another ...",
+    "description": "Click here for full show notes including episode mentions & recommendations!\nhttps://www.jimruttshow.com/jordan-hall/\n\nJordan Hall and Jim have another wide-ranging conversation about Game B. They start with a quick overview of Game A and then move on to talk about the emerging collaboration of Game B & how it happened, its competitive advantage over Game A, liminal spaces, embodied wisdom, sovereignty & sense-making, the pre-B phase, changing our lives to be Game B oriented, meaningfulness, the transition to Game B, parenting & working in Game B, the importance of conviviality & multidimensional health, policing & justice in Game B, the dynamics of coherence, the hard problem of scaling Dunbar’s number, parasitizing Game A to boot up Game B, the role of locality & remote collaboration, the value of failure, and more.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/a2mZqs3g5ks/default.jpg",
@@ -25,15 +22,29 @@
         "url": "https://i.ytimg.com/vi/a2mZqs3g5ks/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/a2mZqs3g5ks/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/a2mZqs3g5ks/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Jim Rutt Show",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-04-10T17:36:02Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt",
+    "position": 18,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "a2mZqs3g5ks"
+    }
   },
   "_id": "a2mZqs3g5ks",
-  "publishedAt": "2020-04-10T17:36:02Z",
-  "type": "youtube-channel-item",
+  "publishedAt": "2020-08-09T00:50:02Z",
+  "type": "youtube-playlist-item",
   "collections": [
     "https://www.youtube.com/channel/UCw1Sl_jFYRl2gbkBLp7w4lg",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt"

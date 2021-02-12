@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "WVdYdvqvH-OjGwr4xtjbG5pSvhg",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "b5ECbxr-CGg"
-  },
+  "id": "UExlUkJhLU5lcjRCdEtIeWNMSDJJMkExZ3N1bGpsVkVUdC41RTNBREYwMkI5QzU3RkY2",
   "snippet": {
-    "publishedAt": "2020-06-05T23:04:19Z",
-    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "publishedAt": "2020-08-09T00:51:57Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "Situational Assessment: Riot Edition w/ Jordan Hall (June 3rd, 2020)",
-    "description": "Jordan Hall provides a situational assessment on COVID-19 and the meta-crisis. Followed by a group conversation.",
+    "description": "Jordan Hall provides a situational assessment on COVID-19 and the meta-crisis. Followed by a group conversation. \n\nhttps://medium.com/deep-code/situational-assessment-right-now-7d9856b562f5\n\nRSVP for more sessions: www.thestoa.ca\nJoin The Stoa mailing list: https://thestoa.substack.com\nIntro song: Kali Yuga Blues by Bardo Pond\n\nSupport The Stoa @ www.patreon.com/the_stoa",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/b5ECbxr-CGg/default.jpg",
@@ -27,15 +24,19 @@
         "height": 360
       }
     },
-    "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-06-05T23:04:19Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt",
+    "position": 12,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "b5ECbxr-CGg"
+    }
   },
   "_id": "b5ECbxr-CGg",
-  "publishedAt": "2020-06-05T23:04:19Z",
+  "publishedAt": "2020-08-09T00:51:57Z",
   "collections": [
     "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt"
   ],
-  "type": "youtube-channel-item"
+  "type": "youtube-playlist-item"
 }

@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "rZaxcLk2CZnCxSEClaJyNNmZpXA",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "59BjCaNRK74"
-  },
+  "id": "UExlUkJhLU5lcjRCdEtIeWNMSDJJMkExZ3N1bGpsVkVUdC5ENjI1QUI0MDI5NEQzODFE",
   "snippet": {
-    "publishedAt": "2020-06-20T22:51:21Z",
-    "channelId": "UCqMjfLBUjqy9EJUaLyOeMiA",
-    "title": "Jordan Hall Q&amp;A (June 18, 2020)",
-    "description": "Jordan Hall offers some advice for how to structure our discord and answers questions from members. Join the discord: https://discord.gg/MXxRcmv.",
+    "publishedAt": "2020-08-09T00:53:28Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
+    "title": "Jordan Hall Q&A (June 18, 2020)",
+    "description": "Jordan Hall offers some advice for how to structure our discord and answers questions from members.\n\nJoin the discord: https://discord.gg/MXxRcmv",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/59BjCaNRK74/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/59BjCaNRK74/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/59BjCaNRK74/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/59BjCaNRK74/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Awakening from the Meaning Crisis Discord",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-06-20T22:51:21Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt",
+    "position": 10,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "59BjCaNRK74"
+    }
   },
   "_id": "59BjCaNRK74",
-  "publishedAt": "2020-06-20T22:51:21Z",
+  "publishedAt": "2020-08-09T00:53:28Z",
   "collections": [
     "https://www.youtube.com/channel/UCqMjfLBUjqy9EJUaLyOeMiA",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt"
   ],
-  "type": "youtube-channel-item"
+  "type": "youtube-playlist-item"
 }

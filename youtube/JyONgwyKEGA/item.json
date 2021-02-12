@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "JyONgwyKEGA"
+  },
+  "snippet": {
+    "publishedAt": "2018-07-15T04:07:43Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "Nina Paley: Animator Extraordinaire",
+    "description": "Nina Paley is an animator and artist who makes unbelievably beautiful films. We discussed her life, her views, and her work, interspersing her animation ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/JyONgwyKEGA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/JyONgwyKEGA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/JyONgwyKEGA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-07-15T04:07:43Z"
+  },
+  "_id": "JyONgwyKEGA",
+  "publishedAt": "2018-07-15T04:07:43Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

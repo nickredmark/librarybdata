@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "TVYDdZWUWlE"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-05T23:10:09Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "Conversations with John Anderson: Jordan Peterson and Dave Rubin",
+    "description": "Jordan and Dave joined John Anderson at this private forum event to further examine their diagnoses of and prescriptions for our contemporary challenges.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/TVYDdZWUWlE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/TVYDdZWUWlE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/TVYDdZWUWlE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-03-05T23:10:09Z"
+  },
+  "_id": "TVYDdZWUWlE",
+  "publishedAt": "2019-03-05T23:10:09Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

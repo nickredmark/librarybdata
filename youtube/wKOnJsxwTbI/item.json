@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "wKOnJsxwTbI"
+  },
+  "snippet": {
+    "publishedAt": "2017-02-19T22:43:12Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "Author Gregg Hurwitz",
+    "description": "Gregg Hurwitz is a New York Times Bestselling author and creator of Evan Smoak of Orphan X and The Nowhere Man. He has penned stories for Marvel's ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/wKOnJsxwTbI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/wKOnJsxwTbI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/wKOnJsxwTbI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-02-19T22:43:12Z"
+  },
+  "_id": "wKOnJsxwTbI",
+  "publishedAt": "2017-02-19T22:43:12Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

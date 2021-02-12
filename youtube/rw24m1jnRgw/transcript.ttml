@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.760" style="s2">I&#39;m here in the UK at Penguin which I love because</p>
+<p begin="00:00:04.760" end="00:00:08.300" style="s2"> I think Penguin is the best publisher in the world</p>
+<p begin="00:00:08.720" end="00:00:10.900" style="s2"> and England is the center of the English language.</p>
+<p begin="00:00:11.060" end="00:00:12.740" style="s2"> And that&#39;s quite a bit because</p>
+<p begin="00:00:13.000" end="00:00:15.220" style="s2"> England has brought a tradition to the world</p>
+<p begin="00:00:15.420" end="00:00:18.280" style="s2"> of truth-finding and clarification</p>
+<p begin="00:00:18.400" end="00:00:21.440" style="s2"> and illuminated it in various ways</p>
+<p begin="00:00:21.445" end="00:00:23.095" style="s2"> and I hope this book</p>
+<p begin="00:00:23.380" end="00:00:28.560" style="s2"> that takes English tradition a step further</p>
+<p begin="00:00:28.560" end="00:00:30.900" style="s2"> as befits a good settler.</p>
+<p begin="00:00:31.280" end="00:00:32.280" style="s2"> So</p>
+<p begin="00:00:32.720" end="00:00:35.140" style="s2"> I hope you read it</p>
+<p begin="00:00:35.220" end="00:00:38.760" style="s2"> and I hope it helps put your life in order.</p>
+<p begin="00:00:38.815" end="00:00:41.405" style="s2"> I think people like the things I&#39;ve said</p>
+<p begin="00:00:41.405" end="00:00:43.025" style="s2"> very helpful in that area</p>
+<p begin="00:00:43.380" end="00:00:45.980" style="s2"> and I have tried to clear them</p>
+<p begin="00:00:46.180" end="00:00:48.180" style="s2"> and expand with this book</p>
+<p begin="00:00:48.340" end="00:00:50.700" style="s2"> to deepen them.</p>
+<p begin="00:00:50.920" end="00:00:53.340" style="s2"> So hopefully you will find out when you read it.</p>
+</div>
+</body>
+</tt>

@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "o_EXYIi6GsgGCZsJmGA_vaaLK8w",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "hKvVdGNzCQk"
-  },
+  "id": "UExlUkJhLU5lcjRCdXYyc0ctM0phYmw0Ukt4UndrWnR0dy5DNkMwRUI2MkI4QkI4NDFG",
   "snippet": {
-    "publishedAt": "2020-06-12T12:31:58Z",
-    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "publishedAt": "2020-06-22T05:39:17Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "Converting Moloch from Sith to Jedi w/ Daniel Schmachtenberger",
-    "description": "May 27, 2020 Daniel Schmachtenberger visits the Stoa to discuss how to close the niches that incentivize sociopathy. RSVP for more sessions: www.thestoa.ca ...",
+    "description": "May 27, 2020\n\nDaniel Schmachtenberger visits the Stoa to discuss how to close the niches that incentivize sociopathy.\n\nRSVP for more sessions: www.thestoa.ca\nJoin The Stoa mailing list: https://thestoa.substack.com\nIntro song: Kali Yuga Blues by Bardo Pond\n\nSupport The Stoa @ www.patreon.com/the_stoa",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/hKvVdGNzCQk/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/hKvVdGNzCQk/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/hKvVdGNzCQk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/hKvVdGNzCQk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-06-12T12:31:58Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
+    "position": 20,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "hKvVdGNzCQk"
+    }
   },
   "_id": "hKvVdGNzCQk",
-  "publishedAt": "2020-06-12T12:31:58Z",
+  "publishedAt": "2020-06-22T05:39:17Z",
   "collections": [
     "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw"
   ],
-  "type": "youtube-channel-item"
+  "type": "youtube-playlist-item"
 }

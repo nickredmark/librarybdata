@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "8smlMJGLW9p50tadzazIO9AqadI",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "aX5n0DYXnUQ"
-  },
+  "id": "UExlUkJhLU5lcjRCdXYyc0ctM0phYmw0Ukt4UndrWnR0dy5DQUNERDQ2NkIzRUQxNTY1",
   "snippet": {
-    "publishedAt": "2020-03-22T09:53:46Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
-    "title": "Covid 19 Situational Assessment, Risk Landscape &amp; Possible Solutions, Daniel Schmachtenberger",
-    "description": "In this fast changing and overwhelming pandemic crisis, what is really going on, and what should individuals and governments do? Daniel Schmachtenberger ...",
+    "publishedAt": "2020-06-11T19:37:38Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
+    "title": "Covid 19 Situational Assessment, Risk Landscape & Possible Solutions, Daniel Schmachtenberger",
+    "description": "In this fast changing and overwhelming pandemic crisis, what is really going on, and what should individuals and governments do?\n\nDaniel Schmachtenberger works on global catastrophic risk assessment and mitigation, systemic fragility, and evolving societal architecture. He has been tracking this virus since its early outbreak in China and for the last few weeks has been working on supporting coordinated response strategies, interfacing with major institutional and private sector actors.\n\nIn this situational assessment, he outlines some of the misconceptions about the virus, some likely trajectories for the US and the rest of the world, and lays out some concrete proposals for avoiding disaster.\n\nDaniel's recent post on Facebook outlined issues with misinformation and the information ecology during the pandemic: https://www.facebook.com/notes/daniel-schmachtenberger/mind-viruses-during-a-pandemic/10156663879545213/\n\nUseful analysis for understanding the pandemic are the articles by Tomas Pueyo:\n\nCoronavirus: Why You Must Act Now: https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca\n\nCoronavirus: The Hammer and the Dance: https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56\n\nDaniel's full bio from Helena: https://helena.org/about\n\n\"Daniel has participated in projects to survey the landscape of existential and catastrophic risks, advance forecasting and mitigation strategies, and develop capacities for the kinds of multi-agent coordination needed to implement sufficient solutions. Associated work has been done to synthesize and advance civilizational collapse and institutional decay models, insofar as they are useful in both scenario modeling and designing more resilient systems.\n\nThat body of work also explored the social architectures that give rise to the coordination failures underneath and driving all catastrophic risk scenarios, and identified a finite set of generator functions (believed to be a complete set). Categorical solutions to those generator functions would solve for the class of collapse obsoleting the need for focus on isolated instances. Such solutions are believed to be achievable and would represent the kernel for a new and robust civilizational model…that has the capacity for enduring antifragility in the presence of the (destabilizing) power conferred by decentralized exponential technology. \n\nAdvancing those models for long term viability, along with advancing the capacities for sense-making, design, and coordination needed to support the necessary nearer-term transitional and protective work, is Daniel’s mission and focus.\n\nSome of this thinking on these topics can be found here (mostly in podcasts):\n\nhttps://civilizationemerging.com/\n\nHe has also done work in functional medicine and biotech, education and human development, and consulted local and global organizations on how to solve complex problems across many sectors.\"\n\nYou can listen to podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com/ \n\nRebel Wisdom are now running regular Q&As with the interviewees from our films for our members, check out: https://www.rebelwisdom.co.uk/plans",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/aX5n0DYXnUQ/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/aX5n0DYXnUQ/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/aX5n0DYXnUQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/aX5n0DYXnUQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-03-22T09:53:46Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
+    "position": 28,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "aX5n0DYXnUQ"
+    }
   },
   "_id": "aX5n0DYXnUQ",
   "collections": [
     "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw"
   ],
-  "publishedAt": "2020-03-22T09:53:46Z",
-  "type": "youtube-channel-item"
+  "publishedAt": "2020-06-11T19:37:38Z",
+  "type": "youtube-playlist-item"
 }

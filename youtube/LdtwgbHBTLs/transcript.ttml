@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.845" end="00:00:02.095" style="s2">Hello everyone.</p>
+<p begin="00:00:02.625" end="00:00:04.265" style="s2"> April 19th</p>
+<p begin="00:00:04.575" end="00:00:07.635" style="s2"> at the Sony Center in Toronto, Ontario, Canada</p>
+<p begin="00:00:07.635" end="00:00:10.605" style="s2"> I will have a debate with Slavoj Žižek,</p>
+<p begin="00:00:10.625" end="00:00:13.285" style="s2"> Slovenian philosopher and professor at</p>
+<p begin="00:00:13.285" end="00:00:16.305" style="s2"> Institute of Sociology and Philosophy</p>
+<p begin="00:00:16.305" end="00:00:19.295" style="s2"> at the University of Ljubljana, whose works</p>
+<p begin="00:00:19.295" end="00:00:22.105" style="s2"> on cultural studies, psychoanalysis,</p>
+<p begin="00:00:22.105" end="00:00:25.145" style="s2"> and above all, for the purposes of this announcement,</p>
+<p begin="00:00:25.145" end="00:00:27.305" style="s2"> known to Marxism</p>
+<p begin="00:00:27.305" end="00:00:28.665" style="s2"> all over the world.</p>
+<p begin="00:00:29.895" end="00:00:32.815" style="s2"> The pre-sale code is JBPSZ</p>
+<p begin="00:00:32.815" end="00:00:35.185" style="s2"> and valid from Thursday,</p>
+<p begin="00:00:35.185" end="00:00:38.225" style="s2"> February 28 at 11 a.m. local time,</p>
+<p begin="00:00:38.225" end="00:00:41.305" style="s2"> until Thursday at 10pm local time.</p>
+<p begin="00:00:41.425" end="00:00:44.675" style="s2"> General ticket sales begin Friday at 10 p.m.</p>
+<p begin="00:00:44.680" end="00:00:46.640" style="s2"> local time.</p>
+<p begin="00:00:47.160" end="00:00:48.280" style="s2"> It&#39;s our topic</p>
+<p begin="00:00:49.500" end="00:00:52.395" style="s2"> Happiness: Marxism versus</p>
+<p begin="00:00:52.395" end="00:00:53.405" style="s2"> capitalism.</p>
+<p begin="00:00:54.285" end="00:00:55.615" style="s2"> I hope to see you there.</p>
+</div>
+</body>
+</tt>

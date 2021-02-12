@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "w_X88-hoHmg"
+  },
+  "snippet": {
+    "publishedAt": "2017-01-16T14:22:57Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "If you&#39;ve found this video, go here: https://www.youtube.com/watch?time_continue=804&amp;v=HbAZ6cFxCeY",
+    "description": "The audio on this version is not good. Go instead to https://www.youtube.com/watch?time_continue=804&v=HbAZ6cFxCeY. Same lecture, much better audio.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/w_X88-hoHmg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/w_X88-hoHmg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/w_X88-hoHmg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-01-16T14:22:57Z"
+  },
+  "_id": "w_X88-hoHmg",
+  "publishedAt": "2017-01-16T14:22:57Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

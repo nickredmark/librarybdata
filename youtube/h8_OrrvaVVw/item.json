@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "h8_OrrvaVVw"
+  },
+  "snippet": {
+    "publishedAt": "2019-01-01T15:59:21Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "Goodbye to Patreon",
+    "description": "In this video, Dave Rubin and I focus on four issues: (1) our departure from Patreon (as of Jan 15, 2019); (2) plans to create an alternative creator-funding ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/h8_OrrvaVVw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/h8_OrrvaVVw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/h8_OrrvaVVw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-01-01T15:59:21Z"
+  },
+  "_id": "h8_OrrvaVVw",
+  "publishedAt": "2019-01-01T15:59:21Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

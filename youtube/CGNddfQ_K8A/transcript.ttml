@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.380" end="00:00:05.089" style="s2">I&#39;m very pleased to announce the new</p>
+<p begin="00:00:03.030" end="00:00:08.040" style="s2">partnership between Westwood One</p>
+<p begin="00:00:05.089" end="00:00:10.590" style="s2">America&#39;s largest audio network and the</p>
+<p begin="00:00:08.040" end="00:00:12.750" style="s2">Jordan B Peterson podcast with the</p>
+<p begin="00:00:10.590" end="00:00:16.470" style="s2">premiere episode released this Sunday</p>
+<p begin="00:00:12.750" end="00:00:17.910" style="s2">March 24th subsequent podcasts will be</p>
+<p begin="00:00:16.470" end="00:00:19.740" style="s2">released every Sunday</p>
+<p begin="00:00:17.910" end="00:00:21.600" style="s2">featuring lectures about issues of</p>
+<p begin="00:00:19.740" end="00:00:24.119" style="s2">profound psychological and social</p>
+<p begin="00:00:21.600" end="00:00:27.449" style="s2">importance and discussions with leading</p>
+<p begin="00:00:24.119" end="00:00:29.609" style="s2">scientists philosophers and authors I&#39;m</p>
+<p begin="00:00:27.449" end="00:00:31.679" style="s2">also very happy that I will be joined in</p>
+<p begin="00:00:29.609" end="00:00:34.050" style="s2">this revised podcast by my daughter</p>
+<p begin="00:00:31.679" end="00:00:37.290" style="s2">Mikaela Petersen who will serve as</p>
+<p begin="00:00:34.050" end="00:00:39.180" style="s2">co-host and discussant it&#39;s a project we</p>
+<p begin="00:00:37.290" end="00:00:41.190" style="s2">have both been excited to develop and</p>
+<p begin="00:00:39.180" end="00:00:44.219" style="s2">are looking forward to continually</p>
+<p begin="00:00:41.190" end="00:00:46.110" style="s2">improving we hope that the Westwood one</p>
+<p begin="00:00:44.219" end="00:00:48.090" style="s2">partnership will improve the quality of</p>
+<p begin="00:00:46.110" end="00:00:51.920" style="s2">our production and introduced many new</p>
+<p begin="00:00:48.090" end="00:00:51.920" style="s2">listeners to the podcast</p>
+</div>
+</body>
+</tt>

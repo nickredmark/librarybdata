@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.480" end="00:00:05.500" style="s2">I am making this video to say hi to my viewers and listeners in China</p>
+<p begin="00:00:05.500" end="00:00:07.260" style="s2">and also to wish them Happy New Year.</p>
+<p begin="00:00:08.220" end="00:00:10.460" style="s2">I was prompted to do so by Ms</p>
+<p begin="00:00:10.460" end="00:00:18.340" style="s2">Meng Jie Ma, a Chinese student studying in Germany, who has worked diligently to translate and subtitle a number of my videos</p>
+<p begin="00:00:18.780" end="00:00:22.500" style="s2">I&#39;ve placed links to those in the description of this video</p>
+<p begin="00:00:22.960" end="00:00:27.120" style="s2">Meng Jie has also organized a number of people to work on the translations</p>
+<p begin="00:00:27.300" end="00:00:31.360" style="s2">They have a group on Weibo, which I have linked to in the description</p>
+<p begin="00:00:32.020" end="00:00:33.430" style="s2">Thanks, Meng Jie</p>
+<p begin="00:00:33.430" end="00:00:35.320" style="s2">much appreciated.</p>
+<p begin="00:00:35.320" end="00:00:43.660" style="s2">I would also like to announce that my new book &quot;12 rules for life&quot; will be translated into Chinese and published by Beijing Cheers books.</p>
+<p begin="00:00:43.660" end="00:00:48.580" style="s2">I don&#39;t know the publication date yet, but I will let everyone know as soon as I do.</p>
+<p begin="00:00:49.120" end="00:00:51.720" style="s2">Links to the publisher are also in the description.</p>
+<p begin="00:00:52.200" end="00:00:59.780" style="s2">I am extremely pleased to hear that my lectures are finding an audience in China and Happy New Year to everyone there.</p>
+<p begin="00:01:00.280" end="00:01:02.280" style="s2">Bye, for now.</p>
+</div>
+</body>
+</tt>

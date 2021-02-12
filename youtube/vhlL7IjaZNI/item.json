@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "vhlL7IjaZNI"
+  },
+  "snippet": {
+    "publishedAt": "2017-12-01T21:52:45Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "Drinking from the Firehose with Howard Bloom",
+    "description": "It's easier in some ways to say what Howard Bloom isn't than what he is. He's not dull, for starters. Talking to him gave me the same sense of drinking from a fire ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vhlL7IjaZNI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vhlL7IjaZNI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vhlL7IjaZNI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-12-01T21:52:45Z"
+  },
+  "_id": "vhlL7IjaZNI",
+  "publishedAt": "2017-12-01T21:52:45Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

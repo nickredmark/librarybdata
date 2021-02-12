@@ -1,14 +1,11 @@
 {
-  "kind": "youtube#searchResult",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "Fj6UjIV2VQQ"
-  },
+  "kind": "youtube#playlistItem",
+  "id": "UExlUkJhLU5lcjRCdXYyc0ctM0phYmw0Ukt4UndrWnR0dy5EODkyNDMzRkJBNkQ2NkMz",
   "snippet": {
-    "publishedAt": "2020-10-18T23:13:28Z",
-    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "publishedAt": "2020-10-19T18:44:03Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "Digital Porch: Session 2 w/ Daniel Schmachtenberger",
-    "description": "October 12th, 2020 This is apart of The Stoa's \"Sensemaker in Residence\" series. The Digital Porch w/ Daniel Schmachtenberger October 5th October 12th ...",
+    "description": "October 12th, 2020\n\nThis is apart of The Stoa's \"Sensemaker in Residence\" series. \n\nThe Digital Porch w/ Daniel Schmachtenberger\n\nOctober 5th\nOctober 12th\nOctober 19th\nOctober 26th\n\nDaniel will visit The Stoa each Monday for the month of October, with no theme or agenda. He will sit on the digital porch that is The Stoa, and answer whatever questions might emerge. \n\nWhy are the YouTube comments disabled? Answer: https://thestoa.substack.com/p/stoic-...\n\nthestoa.ca\npatreon.com/the_stoa\nthestoa.substack.com",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/Fj6UjIV2VQQ/default.jpg",
@@ -26,13 +23,17 @@
         "height": 360
       }
     },
-    "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-10-18T23:13:28Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
+    "position": 82,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "Fj6UjIV2VQQ"
+    }
   },
   "_id": "Fj6UjIV2VQQ",
-  "publishedAt": "2020-10-18T23:13:28Z",
-  "type": "youtube-channel-item",
+  "publishedAt": "2020-10-19T18:44:03Z",
+  "type": "youtube-playlist-item",
   "collections": [
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
     "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"

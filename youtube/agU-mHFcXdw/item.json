@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "agU-mHFcXdw"
+  },
+  "snippet": {
+    "publishedAt": "2017-08-09T11:46:41Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "2017/08/08: James Damore and his Google Memo on Diversity",
+    "description": "This video uploaded incompletely and contains only the first 21 minutes of the full 50 minute interview (available here: https://youtu.be/SEDuVF7kiPU) ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/agU-mHFcXdw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/agU-mHFcXdw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/agU-mHFcXdw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-08-09T11:46:41Z"
+  },
+  "_id": "agU-mHFcXdw",
+  "publishedAt": "2017-08-09T11:46:41Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

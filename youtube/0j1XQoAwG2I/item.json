@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "0j1XQoAwG2I"
+  },
+  "snippet": {
+    "publishedAt": "2016-01-27T16:07:21Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "Potential: Jordan Peterson TEDxUofT",
+    "description": "Everyone talks about their potential, and the potential of other people? But what is potential? It does not yet exist, but people act and talk as if it were real.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0j1XQoAwG2I/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0j1XQoAwG2I/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0j1XQoAwG2I/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2016-01-27T16:07:21Z"
+  },
+  "_id": "0j1XQoAwG2I",
+  "publishedAt": "2016-01-27T16:07:21Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

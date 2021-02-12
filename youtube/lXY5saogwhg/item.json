@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "lXY5saogwhg"
+  },
+  "snippet": {
+    "publishedAt": "2016-07-15T19:25:29Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "Live Q&amp;A Practice Run",
+    "description": "This session was recorded on July 13th in anticipation of Dr. Peterson's live Q&A event, which will take place on July 21st, 8:30pm Eastern/5:30pm Central.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/lXY5saogwhg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/lXY5saogwhg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/lXY5saogwhg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2016-07-15T19:25:29Z"
+  },
+  "_id": "lXY5saogwhg",
+  "publishedAt": "2016-07-15T19:25:29Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "LVtXmxDIeIaKX3tuRiHUqI_r24c",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "GWk-ZpJdRFg"
-  },
+  "id": "UExlUkJhLU5lcjRCdXYyc0ctM0phYmw0Ukt4UndrWnR0dy5CQzUwREI3MzkxQjdBM0E0",
   "snippet": {
-    "publishedAt": "2020-06-02T17:38:16Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
+    "publishedAt": "2020-08-21T22:43:50Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "Making Sense of the Downward Spiral, Daniel Schmachtenberger",
-    "description": "America's cities are ablaze with rioting after the killing of George Floyd in Minneapolis. This comes in the heightened tensions of the coronavirus crisis. How can ...",
+    "description": "America's cities are ablaze with rioting after the killing of George Floyd in Minneapolis. This comes in the heightened tensions of the coronavirus crisis. How can we make sense of this spiral of polarisation, and are bad actors taking advantage of the situation?\n\nThis conversation with evolutionary philosopher Daniel Schmachtenberger concluded the Rebel Wisdom Festival on Sunday. \n\nA full set of films from the festival are available on the Rebel Wisdom website, including:\n\nLessons from Counterculture History, Greg Thomas & Erik Davis\n\nImagined Futures for Team Human, Jamie Wheal & Douglas Rushkoff\n\nSpiritual Emergency & Mental Health in a post-Covid World, Jules Evans\n\nImagined Futures in Psychedelic Medicine with Ros Watts & Alexander Beiner\n\nSensemaking the Media Landscape with David Fuller & Peter Limberg\n\nAnd many more, with Jordan Hall, John Vervaeke, Nora Bateson, Dr Tia Kansara, Carl Miller & others.\n\nTo view them, become a Rebel Wisdom Member for as little as $5: https://www.rebelwisdom.co.uk/plans\n\nYou can listen to podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/GWk-ZpJdRFg/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/GWk-ZpJdRFg/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/GWk-ZpJdRFg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/GWk-ZpJdRFg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-06-02T17:38:16Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
+    "position": 23,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "GWk-ZpJdRFg"
+    }
   },
   "_id": "GWk-ZpJdRFg",
-  "publishedAt": "2020-06-02T17:38:16Z",
+  "publishedAt": "2020-08-21T22:43:50Z",
   "collections": [
     "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw"
   ],
-  "type": "youtube-channel-item"
+  "type": "youtube-playlist-item"
 }

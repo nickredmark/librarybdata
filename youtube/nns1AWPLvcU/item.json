@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "tOtmXyzsLaOI__F1OpZSTCE6A3A",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "nns1AWPLvcU"
-  },
+  "id": "UExlUkJhLU5lcjRCc1Vlb1dHb0UtNDdVejZxM2EzdGMwMy5DQUNERDQ2NkIzRUQxNTY1",
   "snippet": {
-    "publishedAt": "2020-06-04T01:08:33Z",
-    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "publishedAt": "2020-08-10T00:07:15Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "The Daniel Thorson Welcome Back Party",
-    "description": "June 1st, 2020 DT is back and we are going to party... with a proper Stoic friendly Q&A. :) RSVP for more sessions: www.thestoa.ca Join The Stoa mailing list: ...",
+    "description": "June 1st, 2020\n\nDT is back and we are going to party... with a proper Stoic friendly Q&A. :)\n\nRSVP for more sessions: www.thestoa.ca\nJoin The Stoa mailing list: https://thestoa.substack.com\nIntro song: Kali Yuga Blues by Bardo Pond\n\nThe Stoa is based on the gift economy. You can give us a gift here: www.thestoa.ca/gift",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/nns1AWPLvcU/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/nns1AWPLvcU/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/nns1AWPLvcU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/nns1AWPLvcU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-06-04T01:08:33Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BsUeoWGoE-47Uz6q3a3tc03",
+    "position": 5,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "nns1AWPLvcU"
+    }
   },
   "_id": "nns1AWPLvcU",
-  "publishedAt": "2020-06-04T01:08:33Z",
+  "publishedAt": "2020-08-10T00:07:15Z",
   "collections": [
     "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4BsUeoWGoE-47Uz6q3a3tc03"
   ],
-  "type": "youtube-channel-item"
+  "type": "youtube-playlist-item"
 }

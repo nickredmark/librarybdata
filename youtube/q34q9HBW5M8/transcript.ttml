@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.060" end="00:00:05.009" style="s2">hi everyone in the next week I&#39;m gonna</p>
+<p begin="00:00:02.700" end="00:00:06.750" style="s2">close off the American section of my 12</p>
+<p begin="00:00:05.009" end="00:00:09.110" style="s2">rules for life tour I wanted to</p>
+<p begin="00:00:06.750" end="00:00:11.519" style="s2">highlight a couple of upcoming events on</p>
+<p begin="00:00:09.110" end="00:00:14.730" style="s2">Wednesday October 3rd I&#39;m going to be in</p>
+<p begin="00:00:11.519" end="00:00:17.250" style="s2">st. Louis at the stiffle Opera House on</p>
+<p begin="00:00:14.730" end="00:00:20.609" style="s2">Saturday October 6th at Salt Lake City</p>
+<p begin="00:00:17.250" end="00:00:23.939" style="s2">Utah in Abra vanil hall and Monday</p>
+<p begin="00:00:20.609" end="00:00:28.130" style="s2">October 8th in Colorado Springs Colorado</p>
+<p begin="00:00:23.939" end="00:00:33.300" style="s2">I&#39;m also visiting Des Moines Kansas City</p>
+<p begin="00:00:28.130" end="00:00:36.020" style="s2">Denver San Antonio and Irving if you</p>
+<p begin="00:00:33.300" end="00:00:39.870" style="s2">want tickets for those events go to</p>
+<p begin="00:00:36.020" end="00:00:42.600" style="s2">www.hsn comm forward slash events that&#39;s</p>
+<p begin="00:00:39.870" end="00:00:49.640" style="s2">Jordan B Peterson com forward slash</p>
+<p begin="00:00:42.600" end="00:00:49.640" style="s2">events hope to see you there bye bye</p>
+</div>
+</body>
+</tt>

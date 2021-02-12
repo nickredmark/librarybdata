@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "SYnCaCQe-sI"
+  },
+  "snippet": {
+    "publishedAt": "2019-01-07T02:10:17Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "Comedians, canaries and coalmines",
+    "description": "The jester in the king's court is the only person allowed to tell the truth. The king who can no longer tolerate his jester has become a tyrant. This is a short clip ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/SYnCaCQe-sI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/SYnCaCQe-sI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/SYnCaCQe-sI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-01-07T02:10:17Z"
+  },
+  "_id": "SYnCaCQe-sI",
+  "publishedAt": "2019-01-07T02:10:17Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

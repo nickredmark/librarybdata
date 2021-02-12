@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "3MxQubO7xjdZO7tmuLLdb2Z5aGs",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "DPcQ6igOTZ4"
-  },
+  "id": "UExlUkJhLU5lcjRCdEtIeWNMSDJJMkExZ3N1bGpsVkVUdC5DNkMwRUI2MkI4QkI4NDFG",
   "snippet": {
-    "publishedAt": "2020-04-04T17:55:11Z",
-    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "publishedAt": "2020-08-09T00:49:32Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "Situational Assessment w/ Jordan Hall (April 4, 2020)",
-    "description": "Jordan Hall provides a situational assessment on COVID-19 and our meta-crisis. Followed by a group conversation. RSVP for more sessions: www.thestoa.ca ...",
+    "description": "Jordan Hall provides a situational assessment on COVID-19 and our meta-crisis. Followed by a group conversation.\n\nRSVP for more sessions: www.thestoa.ca\nJoin The Stoa mailing list: https://thestoa.substack.com\nIntro song: Kali Yuga Blues by Bardo Pond\n\nSupport The Stoa @ www.patreon.com/the_stoa",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/DPcQ6igOTZ4/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/DPcQ6igOTZ4/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/DPcQ6igOTZ4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/DPcQ6igOTZ4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-04-04T17:55:11Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt",
+    "position": 19,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "DPcQ6igOTZ4"
+    }
   },
   "_id": "DPcQ6igOTZ4",
   "collections": [
     "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4BtKHycLH2I2A1gsuljlVETt"
   ],
-  "publishedAt": "2020-04-04T17:55:11Z",
-  "type": "youtube-channel-item"
+  "publishedAt": "2020-08-09T00:49:32Z",
+  "type": "youtube-playlist-item"
 }

@@ -1,14 +1,11 @@
 {
-  "kind": "youtube#searchResult",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "Pyy3veuvXVE"
-  },
+  "kind": "youtube#playlistItem",
+  "id": "UExlUkJhLU5lcjRCdXYyc0ctM0phYmw0Ukt4UndrWnR0dy42NEZDNTU0RTRENDUzRjMz",
   "snippet": {
-    "publishedAt": "2020-09-04T01:41:33Z",
-    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "publishedAt": "2020-09-04T02:31:41Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "Dharma Inquiry w/ Daniel Schmachtenberger",
-    "description": "August 31, 2020 Daniel Schmachtenberger visits The Stoa to discuss his popular \"dharma inquiry\" questions (https://civilizationemerging.com/dharma-inquiry/).",
+    "description": "August 31, 2020\n\nDaniel Schmachtenberger visits The Stoa to discuss his popular \"dharma inquiry\" questions (https://civilizationemerging.com/dharma-inquiry/). \n\nNote: The Stoa is not a YouTube channel (or YouTube comments). If you'd like to join the discussion come to The Stoa (www.thestoa.ca) or join the Discord: https://discord.gg/mAxAKgp\n\nSupport The Stoa @ https://www.patreon.com/the_stoa\nTo keep up to date on what is happening at The Stoa: https://thestoa.substack.com",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/Pyy3veuvXVE/default.jpg",
@@ -26,13 +23,17 @@
         "height": 360
       }
     },
-    "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-09-04T01:41:33Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
+    "position": 3,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "Pyy3veuvXVE"
+    }
   },
   "_id": "Pyy3veuvXVE",
-  "publishedAt": "2020-09-04T01:41:33Z",
-  "type": "youtube-channel-item",
+  "publishedAt": "2020-09-04T02:31:41Z",
+  "type": "youtube-playlist-item",
   "collections": [
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
     "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA"

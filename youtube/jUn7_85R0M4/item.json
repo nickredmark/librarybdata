@@ -1,14 +1,11 @@
 {
-  "kind": "youtube#searchResult",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "jUn7_85R0M4"
-  },
+  "kind": "youtube#playlistItem",
+  "id": "UExlUkJhLU5lcjRCdXYyc0ctM0phYmw0Ukt4UndrWnR0dy43RDg3MzJDMTRFMTZFOTAw",
   "snippet": {
-    "publishedAt": "2020-08-25T13:31:01Z",
-    "channelId": "UCfI5jzpoUbwP4wkmQ6ZNqbA",
+    "publishedAt": "2020-08-29T17:36:10Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
     "title": "Metamodern Stoicism w/ Daniel Schmachtenberger",
-    "description": "August 25, 2020 Daniel Schmachtenberger visits The Stoa to share his thoughts on the possibility of a Metamodern Stoicism. Daniel visits The Stoa next on ...",
+    "description": "August 25, 2020\n\nDaniel Schmachtenberger visits The Stoa to share his thoughts on the possibility of a Metamodern Stoicism.\n\nDaniel visits The Stoa next on August 31, 2020 @ 7:30 PM ET to discuss his Dharma Inquiry questions ((https://civilizationemerging.com/dharma-inquiry/). RSVP @ www.thestoa.ca\n\nSupport The Stoa @ https://www.patreon.com/the_stoa\nSign up for the mailing list @ https://thestoa.substack.com",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/jUn7_85R0M4/default.jpg",
@@ -24,15 +21,24 @@
         "url": "https://i.ytimg.com/vi/jUn7_85R0M4/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/jUn7_85R0M4/sddefault.jpg",
+        "width": 640,
+        "height": 480
       }
     },
-    "channelTitle": "The Stoa",
-    "liveBroadcastContent": "none",
-    "publishTime": "2020-08-25T13:31:01Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw",
+    "position": 5,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "jUn7_85R0M4"
+    }
   },
   "_id": "jUn7_85R0M4",
-  "publishedAt": "2020-08-25T13:31:01Z",
-  "type": "youtube-channel-item",
+  "publishedAt": "2020-08-29T17:36:10Z",
+  "type": "youtube-playlist-item",
   "collections": [
     "https://www.youtube.com/channel/UCfI5jzpoUbwP4wkmQ6ZNqbA",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4Buv2sG-3Jabl4RKxRwkZttw"

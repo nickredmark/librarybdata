@@ -1,0 +1,5852 @@
+[
+  {
+    "text": "Hi, guys.",
+    "begin": "00:00:04.170",
+    "end": "00:00:06.270"
+  },
+  {
+    "text": "So we’re going to talk about the brain today.",
+    "begin": "00:00:06.270",
+    "end": "00:00:14.610"
+  },
+  {
+    "text": "Last lecture I talked to you a little bitabout construct validation and what it means",
+    "begin": "00:00:14.610",
+    "end": "00:00:19.200"
+  },
+  {
+    "text": "to measure something and so, we’re goingto take a bit of a detour.",
+    "begin": "00:00:19.200",
+    "end": "00:00:25.220"
+  },
+  {
+    "text": "So I told you about measurement problems lasttime.",
+    "begin": "00:00:25.220",
+    "end": "00:00:32.360"
+  },
+  {
+    "text": "If you do your measurement properly in psychometrics—ifyou’re studying personality, if you’re",
+    "begin": "00:00:32.360",
+    "end": "00:00:37.590"
+  },
+  {
+    "text": "studying individual differences—there areroughly six things that you can discover and",
+    "begin": "00:00:37.590",
+    "end": "00:00:43.830"
+  },
+  {
+    "text": "they can be broken up different ways.",
+    "begin": "00:00:43.830",
+    "end": "00:00:47.050"
+  },
+  {
+    "text": "That’s the big five model: extraversion,neuroticism, agreeableness, contentiousness,",
+    "begin": "00:00:47.050",
+    "end": "00:00:53.410"
+  },
+  {
+    "text": "openness, and they can be subdivided as youshould know because, in principle, you’ve",
+    "begin": "00:00:53.410",
+    "end": "00:00:57.840"
+  },
+  {
+    "text": "read the paper that subdivided them into ten.",
+    "begin": "00:00:57.840",
+    "end": "00:01:01.070"
+  },
+  {
+    "text": "That turns out to be quite useful, but fornow we’ll just presume that there are five,",
+    "begin": "00:01:01.070",
+    "end": "00:01:06.330"
+  },
+  {
+    "text": "and then the other factor of human functionthat’s pretty easy to derive and measure",
+    "begin": "00:01:06.330",
+    "end": "00:01:12.829"
+  },
+  {
+    "text": "is IQ.",
+    "begin": "00:01:12.829",
+    "end": "00:01:14.259"
+  },
+  {
+    "text": "Now, IQ likely nests under openness becauseopenness looks like it’s something roughly",
+    "begin": "00:01:14.259",
+    "end": "00:01:20.460"
+  },
+  {
+    "text": "like intellect which is interest in ideas,but—that’s probably an ability with ideas—but",
+    "begin": "00:01:20.460",
+    "end": "00:01:25.250"
+  },
+  {
+    "text": "that’s probably measured better by an IQtest, so if I ask you how smart you are and",
+    "begin": "00:01:25.250",
+    "end": "00:01:30.140"
+  },
+  {
+    "text": "you say you’re pretty smart that would giveyou a relatively high score on the intellect",
+    "begin": "00:01:30.140",
+    "end": "00:01:33.670"
+  },
+  {
+    "text": "scale, but if I tested your IQ I will geta better measure than that so in some sense",
+    "begin": "00:01:33.670",
+    "end": "00:01:38.590"
+  },
+  {
+    "text": "IQ nests inside the big five model.",
+    "begin": "00:01:38.590",
+    "end": "00:01:41.799"
+  },
+  {
+    "text": "But you can think about it as a separate thingand I think it’s reasonable to do that so,",
+    "begin": "00:01:41.799",
+    "end": "00:01:45.869"
+  },
+  {
+    "text": "you know, it depends on what you’re up tofundamentally.",
+    "begin": "00:01:45.869",
+    "end": "00:01:50.329"
+  },
+  {
+    "text": "Now, when the big five was first invented—inventedor discovered, depending on how you look at",
+    "begin": "00:01:50.329",
+    "end": "00:01:56.650"
+  },
+  {
+    "text": "it—as I mentioned briefly, as well, it wasbrute force statistics basically, so the idea",
+    "begin": "00:01:56.650",
+    "end": "00:02:02.289"
+  },
+  {
+    "text": "behind the big five is that the—it’s calledthe lexical hypothesis—and the lexical hypothesis",
+    "begin": "00:02:02.289",
+    "end": "00:02:08.580"
+  },
+  {
+    "text": "is that, because human traits are so importantto us because we want to understand ourselves",
+    "begin": "00:02:08.580",
+    "end": "00:02:15.250"
+  },
+  {
+    "text": "and, perhaps even more importantly, we wantto understand other people, and because we",
+    "begin": "00:02:15.250",
+    "end": "00:02:19.760"
+  },
+  {
+    "text": "have language, there’s a reasonable probabilitythat we’ve encapsulated the structure of",
+    "begin": "00:02:19.760",
+    "end": "00:02:25.360"
+  },
+  {
+    "text": "human personality within our language.",
+    "begin": "00:02:25.360",
+    "end": "00:02:28.640"
+  },
+  {
+    "text": "And so, if you analyze the linguistic representationsproperly, then perhaps you can extract out",
+    "begin": "00:02:28.640",
+    "end": "00:02:35.890"
+  },
+  {
+    "text": "the central personality features, and that’sbasically what the lexical hypothesis is.",
+    "begin": "00:02:35.890",
+    "end": "00:02:40.550"
+  },
+  {
+    "text": "And it’s important to know the lexical hypotheses.",
+    "begin": "00:02:40.550",
+    "end": "00:02:42.690"
+  },
+  {
+    "text": "And it’s a bit more sophisticated than thatbecause it basically presumes that you can",
+    "begin": "00:02:42.690",
+    "end": "00:02:49.269"
+  },
+  {
+    "text": "extract out relevant information about personalityfrom adjectives—descriptive adjectives—from",
+    "begin": "00:02:49.269",
+    "end": "00:02:55.970"
+  },
+  {
+    "text": "phrases and from questions, and you’ll getthe same basic dimensional structure regardless",
+    "begin": "00:02:55.970",
+    "end": "00:03:02.319"
+  },
+  {
+    "text": "of which of those techniques you use.",
+    "begin": "00:03:02.319",
+    "end": "00:03:04.650"
+  },
+  {
+    "text": "And that turns out to be true for all intentsand purposes.",
+    "begin": "00:03:04.650",
+    "end": "00:03:11.010"
+  },
+  {
+    "text": "Now, the lexical hypothesis depends on itsvalidity, depends for its validity on the",
+    "begin": "00:03:11.010",
+    "end": "00:03:17.330"
+  },
+  {
+    "text": "initial claim that personality is accuratelyrepresented within the structure of language.",
+    "begin": "00:03:17.330",
+    "end": "00:03:21.959"
+  },
+  {
+    "text": "And so one of the things I would say is thatthere’s a weak big five hypothesis and a",
+    "begin": "00:03:21.959",
+    "end": "00:03:28.430"
+  },
+  {
+    "text": "strong big five hypothesis, okay?",
+    "begin": "00:03:28.430",
+    "end": "00:03:30.970"
+  },
+  {
+    "text": "The weak big five hypothesis is that, insofaras you use language to describe personality,",
+    "begin": "00:03:30.970",
+    "end": "00:03:38.459"
+  },
+  {
+    "text": "personality has a five factor structure that’sreliably extractable.",
+    "begin": "00:03:38.459",
+    "end": "00:03:40.420"
+  },
+  {
+    "text": "Now the strong big five theory is that, nono, personality has a five factor structure,",
+    "begin": "00:03:40.420",
+    "end": "00:03:48.569"
+  },
+  {
+    "text": "and it’s accurately represented in language,but when you pull out the structure from language,",
+    "begin": "00:03:48.569",
+    "end": "00:03:52.910"
+  },
+  {
+    "text": "what you’re pulling out is actually representativeof genuine personality.",
+    "begin": "00:03:52.910",
+    "end": "00:03:59.250"
+  },
+  {
+    "text": "Now, the weak hypothesis, I would say, isestablished.",
+    "begin": "00:03:59.250",
+    "end": "00:04:04.750"
+  },
+  {
+    "text": "And it’s worth knowing because what it meansis that if you invent a questionnaire that",
+    "begin": "00:04:04.750",
+    "end": "00:04:10.270"
+  },
+  {
+    "text": "has anything to do with self description,it might be self description at multiple different",
+    "begin": "00:04:10.270",
+    "end": "00:04:14.410"
+  },
+  {
+    "text": "levels of analysis, like values for example,instead of just adjectives, or attitudes instead",
+    "begin": "00:04:14.410",
+    "end": "00:04:22.160"
+  },
+  {
+    "text": "of just adjectives, I mean, these categoriesare sort of unclear.",
+    "begin": "00:04:22.160",
+    "end": "00:04:26.980"
+  },
+  {
+    "text": "What’s the difference between your attitudeand your temperament?",
+    "begin": "00:04:26.980",
+    "end": "00:04:31.090"
+  },
+  {
+    "text": "Well, it’s usually defined by the sentencethat you use the words in, right, you extract",
+    "begin": "00:04:31.090",
+    "end": "00:04:35.490"
+  },
+  {
+    "text": "out the words, they sort of stand there alone—it’s very difficult to clarify their meaning.",
+    "begin": "00:04:35.490",
+    "end": "00:04:41.890"
+  },
+  {
+    "text": "Anyways, the lexical hypothesis I think isone of the most well established—it’s",
+    "begin": "00:04:41.890",
+    "end": "00:04:50.100"
+  },
+  {
+    "text": "one of the most well-validated claims in psychology.",
+    "begin": "00:04:50.100",
+    "end": "00:04:53.440"
+  },
+  {
+    "text": "I think it may be the most validated claim,apart from maybe the work that has extracted",
+    "begin": "00:04:53.440",
+    "end": "00:04:58.890"
+  },
+  {
+    "text": "IQ out from cognitive questions.",
+    "begin": "00:04:58.890",
+    "end": "00:05:02.350"
+  },
+  {
+    "text": "And basically it was brute force statistics,you know, people developed different lists",
+    "begin": "00:05:02.350",
+    "end": "00:05:09.190"
+  },
+  {
+    "text": "of adjectives and you can complain in someways about how they did it, and we’ll talk",
+    "begin": "00:05:09.190",
+    "end": "00:05:13.330"
+  },
+  {
+    "text": "about that a bit later, but, because theytried to throw out evaluative words like good",
+    "begin": "00:05:13.330",
+    "end": "00:05:17.960"
+  },
+  {
+    "text": "and evil for example—those aren’t in thebig five—so they tried to only use adjectives",
+    "begin": "00:05:17.960",
+    "end": "00:05:23.560"
+  },
+  {
+    "text": "that didn’t necessarily seem to be, like,valued or devalued.",
+    "begin": "00:05:23.560",
+    "end": "00:05:30.000"
+  },
+  {
+    "text": "So introvert and extrovert, well, they’reopposites, but is it better to be an introvert?",
+    "begin": "00:05:30.000",
+    "end": "00:05:34.950"
+  },
+  {
+    "text": "Is it better to be an extravert?",
+    "begin": "00:05:34.950",
+    "end": "00:05:37.240"
+  },
+  {
+    "text": "Well, it’s not obvious so all the wordsthat cover that dimension can be kept in because",
+    "begin": "00:05:37.240",
+    "end": "00:05:43.120"
+  },
+  {
+    "text": "there’s no value judgments associated withit and the originators of the big five theory",
+    "begin": "00:05:43.120",
+    "end": "00:05:47.940"
+  },
+  {
+    "text": "wanted to keep it as free of values as possible.",
+    "begin": "00:05:47.940",
+    "end": "00:05:51.040"
+  },
+  {
+    "text": "Now that’s already a hypothesis right?",
+    "begin": "00:05:51.040",
+    "end": "00:05:53.220"
+  },
+  {
+    "text": "It’s a hypothesis that you can come up withan accurate description of human personality",
+    "begin": "00:05:53.220",
+    "end": "00:05:58.870"
+  },
+  {
+    "text": "even if you eliminate all the words that areclearly valenced.",
+    "begin": "00:05:58.870",
+    "end": "00:06:03.000"
+  },
+  {
+    "text": "And we did an experiment here a while backthat was pretty interesting.",
+    "begin": "00:06:03.000",
+    "end": "00:06:07.420"
+  },
+  {
+    "text": "We got hold of a data set of descriptive adjectivesand we put all the evaluative words back in.",
+    "begin": "00:06:07.420",
+    "end": "00:06:13.000"
+  },
+  {
+    "text": "So, like nasty and horrible and awkward andcruel, and then the good words as well: moral,",
+    "begin": "00:06:13.000",
+    "end": "00:06:22.990"
+  },
+  {
+    "text": "pleasant, uplifting, all those things.",
+    "begin": "00:06:22.990",
+    "end": "00:06:26.020"
+  },
+  {
+    "text": "And then we had people rate people they likedand people they didn’t like using that expanded",
+    "begin": "00:06:26.020",
+    "end": "00:06:30.840"
+  },
+  {
+    "text": "list and we got a real archetype in some senseof the hateable person and a tremendous number",
+    "begin": "00:06:30.840",
+    "end": "00:06:36.640"
+  },
+  {
+    "text": "of the words that were used came from theevaluative dimension.",
+    "begin": "00:06:36.640",
+    "end": "00:06:40.470"
+  },
+  {
+    "text": "So I think that when you throw out the evaluativewords you actually throw out a lot of what",
+    "begin": "00:06:40.470",
+    "end": "00:06:44.800"
+  },
+  {
+    "text": "people actually use, descriptive words todescribe, because when you like someone or",
+    "begin": "00:06:44.800",
+    "end": "00:06:49.630"
+  },
+  {
+    "text": "don’t like someone, if someone’s likeableor unlikeable that’s a pretty important",
+    "begin": "00:06:49.630",
+    "end": "00:06:54.960"
+  },
+  {
+    "text": "phenomena.",
+    "begin": "00:06:54.960",
+    "end": "00:06:55.960"
+  },
+  {
+    "text": "I mean, you hang around the people you likegenerally speaking and you don’t associate",
+    "begin": "00:06:55.960",
+    "end": "00:07:00.340"
+  },
+  {
+    "text": "with the people you don’t like, so it’sa fundamental choice.",
+    "begin": "00:07:00.340",
+    "end": "00:07:02.970"
+  },
+  {
+    "text": "But we’ll talk about that later becausethere’s reasons that happened and the reasons",
+    "begin": "00:07:02.970",
+    "end": "00:07:08.580"
+  },
+  {
+    "text": "were valid, and it’s not that easy to fixit.",
+    "begin": "00:07:08.580",
+    "end": "00:07:12.050"
+  },
+  {
+    "text": "And besides that, the standard five factormodel has all sorts of utility.",
+    "begin": "00:07:12.050",
+    "end": "00:07:16.090"
+  },
+  {
+    "text": "But you need to know what its strengths areand its limitations are.",
+    "begin": "00:07:16.090",
+    "end": "00:07:20.530"
+  },
+  {
+    "text": "Now, hypothetically, what you do to draw outthe five factor model was you take, imagine",
+    "begin": "00:07:20.530",
+    "end": "00:07:25.300"
+  },
+  {
+    "text": "a set of all descriptive adjectives, okay,and then you take a random sample of those",
+    "begin": "00:07:25.300",
+    "end": "00:07:31.060"
+  },
+  {
+    "text": "descriptive adjectives, so that it’s notbiased—you’re not going to use all of",
+    "begin": "00:07:31.060",
+    "end": "00:07:35.890"
+  },
+  {
+    "text": "them because, you know, if you asked someoneto describe themselves on a questionnaire",
+    "begin": "00:07:35.890",
+    "end": "00:07:39.580"
+  },
+  {
+    "text": "using all the adjectives we have to describepersonality they’d be there for like a day.",
+    "begin": "00:07:39.580",
+    "end": "00:07:44.370"
+  },
+  {
+    "text": "And so that’s not every efficient.",
+    "begin": "00:07:44.370",
+    "end": "00:07:45.450"
+  },
+  {
+    "text": "And so you want to take a random sample.",
+    "begin": "00:07:45.450",
+    "end": "00:07:48.080"
+  },
+  {
+    "text": "Maybe you only sample the words that peopleare most likely to use.",
+    "begin": "00:07:48.080",
+    "end": "00:07:52.080"
+  },
+  {
+    "text": "So for example if you go online you’ll findthat there are word frequency tables.",
+    "begin": "00:07:52.080",
+    "end": "00:07:56.250"
+  },
+  {
+    "text": "You know, most of your language, about 500words covers about 80% of what you say.",
+    "begin": "00:07:56.250",
+    "end": "00:08:04.650"
+  },
+  {
+    "text": "You know, and I don’t remember what thelexicon of the typical person is, I think",
+    "begin": "00:08:04.650",
+    "end": "00:08:09.940"
+  },
+  {
+    "text": "it’s in the neighbourhood of 3500 words,but that might be wrong, but there’s like",
+    "begin": "00:08:09.940",
+    "end": "00:08:15.050"
+  },
+  {
+    "text": "750,000 words in the English language.",
+    "begin": "00:08:15.050",
+    "end": "00:08:17.010"
+  },
+  {
+    "text": "It’s an omnivorous language, it just pullswords in from all over.",
+    "begin": "00:08:17.010",
+    "end": "00:08:21.100"
+  },
+  {
+    "text": "And so we hardly use any of those words, andyou know, there’s ones that are used extraordinarily",
+    "begin": "00:08:21.100",
+    "end": "00:08:27.150"
+  },
+  {
+    "text": "infrequently.",
+    "begin": "00:08:27.150",
+    "end": "00:08:28.370"
+  },
+  {
+    "text": "So what you could do is you could look atthe total set of adjectives and then you could",
+    "begin": "00:08:28.370",
+    "end": "00:08:32.620"
+  },
+  {
+    "text": "pull out, you know, identify the ones thatare used,, you know, the thousand most frequently",
+    "begin": "00:08:32.620",
+    "end": "00:08:38.360"
+  },
+  {
+    "text": "used words and that’d probably cover 95%of the territory, and then you can pick out",
+    "begin": "00:08:38.360",
+    "end": "00:08:42.509"
+  },
+  {
+    "text": "a random set of 100.",
+    "begin": "00:08:42.509",
+    "end": "00:08:44.540"
+  },
+  {
+    "text": "Then you could administer it to people, andthen you could factor analyze it—you’d",
+    "begin": "00:08:44.540",
+    "end": "00:08:48.259"
+  },
+  {
+    "text": "administer it to lots of people—then youfactor analyze it and you get five relatively",
+    "begin": "00:08:48.259",
+    "end": "00:08:52.829"
+  },
+  {
+    "text": "clear and stable factors.",
+    "begin": "00:08:52.829",
+    "end": "00:08:54.709"
+  },
+  {
+    "text": "And the one that comes out first, it’s thedominant factor in some sense, or the easiest",
+    "begin": "00:08:54.709",
+    "end": "00:09:01.769"
+  },
+  {
+    "text": "measure or maybe the best represented in languageor something like that, it’s extraversion",
+    "begin": "00:09:01.769",
+    "end": "00:09:05.610"
+  },
+  {
+    "text": "versus introversion.",
+    "begin": "00:09:05.610",
+    "end": "00:09:07.870"
+  },
+  {
+    "text": "And the extraversion is a positive emotiondimension.",
+    "begin": "00:09:07.870",
+    "end": "00:09:12.569"
+  },
+  {
+    "text": "And it’s associated with enthusiasm andassertiveness.",
+    "begin": "00:09:12.569",
+    "end": "00:09:20.129"
+  },
+  {
+    "text": "And assertive people will say, they’ll dominatethe conversation with language.",
+    "begin": "00:09:20.129",
+    "end": "00:09:24.100"
+  },
+  {
+    "text": "Or, well basically that’s the way to thinkabout it.",
+    "begin": "00:09:24.100",
+    "end": "00:09:28.699"
+  },
+  {
+    "text": "Enthusiastic people, they’re up for anything,you know, they’re the ones they’re always",
+    "begin": "00:09:28.699",
+    "end": "00:09:31.941"
+  },
+  {
+    "text": "smiling and telling jokes and having partiesand that sort of thing.",
+    "begin": "00:09:31.941",
+    "end": "00:09:33.629"
+  },
+  {
+    "text": "And generally extroverts really like to bearound people.",
+    "begin": "00:09:33.629",
+    "end": "00:09:38.519"
+  },
+  {
+    "text": "So they’re happy, they’re gregarious,they’re assertive, they’re enthusiastic,",
+    "begin": "00:09:38.519",
+    "end": "00:09:42.870"
+  },
+  {
+    "text": "they’re noisy, they blink more than introverts—nowwhy that is I have no idea, but apparently",
+    "begin": "00:09:42.870",
+    "end": "00:09:47.589"
+  },
+  {
+    "text": "they do [student laughter].",
+    "begin": "00:09:47.589",
+    "end": "00:09:48.880"
+  },
+  {
+    "text": "So if you notice someone blinking a lot youcan assume that they’re extroverts.",
+    "begin": "00:09:48.880",
+    "end": "00:09:55.300"
+  },
+  {
+    "text": "If they’re not conscientious , you knowthere’s this idea of people being impulsive,",
+    "begin": "00:09:55.300",
+    "end": "00:09:59.399"
+  },
+  {
+    "text": "it’s a very badly defined term so when youhear a psychologist talking about impulsivity",
+    "begin": "00:09:59.399",
+    "end": "00:10:04.370"
+  },
+  {
+    "text": "the first think you could realize is theydon’t know, you don’t know what they’re",
+    "begin": "00:10:04.370",
+    "end": "00:10:07.660"
+  },
+  {
+    "text": "talking about because probably there’s nosuch thing as impulsivity.",
+    "begin": "00:10:07.660",
+    "end": "00:10:11.389"
+  },
+  {
+    "text": "But extraverted people who are not very conscientioustend to--that's one of the things you might",
+    "begin": "00:10:11.389",
+    "end": "00:10:19.499"
+  },
+  {
+    "text": "think about as associated with impulsivity.",
+    "begin": "00:10:19.499",
+    "end": "00:10:21.500"
+  },
+  {
+    "text": "There's all sorts of other things though to,so--okay there's a positive emption dimension",
+    "begin": "00:10:21.500",
+    "end": "00:10:26.999"
+  },
+  {
+    "text": "and that's extraversion and there's a negativeemotion dimension and that's neuroticism.",
+    "begin": "00:10:26.999",
+    "end": "00:10:32.000"
+  },
+  {
+    "text": "And neuroticism seems to break down into somethinglike withdrawal and volatility.",
+    "begin": "00:10:32.000",
+    "end": "00:10:36.300"
+  },
+  {
+    "text": "And volatile people are touchy.",
+    "begin": "00:10:36.300",
+    "end": "00:10:38.209"
+  },
+  {
+    "text": "So, you know, they'll react quite a lot ifsomething negative happens.",
+    "begin": "00:10:38.209",
+    "end": "00:10:42.850"
+  },
+  {
+    "text": "So if you tease them they might get upsetor if you start fighting with them in a sort",
+    "begin": "00:10:42.850",
+    "end": "00:10:46.800"
+  },
+  {
+    "text": "of provocative way instead of sort of calmingeverything down, they'll just ramp it up.",
+    "begin": "00:10:46.800",
+    "end": "00:10:51.470"
+  },
+  {
+    "text": "And if there's two of you that're volatileand you're having a conversation and the conversation",
+    "begin": "00:10:51.470",
+    "end": "00:10:55.680"
+  },
+  {
+    "text": "goes a little bit, you know, into unpleasantterritory, you can really get each other going.",
+    "begin": "00:10:55.680",
+    "end": "00:11:00.370"
+  },
+  {
+    "text": "So, yes?",
+    "begin": "00:11:00.370",
+    "end": "00:11:01.889"
+  },
+  {
+    "text": "Student: \"Is it like, in terms of the hero,like internal states?\"",
+    "begin": "00:11:01.889",
+    "end": "00:11:07.950"
+  },
+  {
+    "text": "Both.",
+    "begin": "00:11:07.950",
+    "end": "00:11:08.950"
+  },
+  {
+    "text": "Both, yeah.",
+    "begin": "00:11:08.950",
+    "end": "00:11:09.950"
+  },
+  {
+    "text": "I mean, that's part of the problem with usingthe word emotion because, you know, is an",
+    "begin": "00:11:09.950",
+    "end": "00:11:11.950"
+  },
+  {
+    "text": "emotion an internal state or a set of behaviours,and the answer to that is, as far as we can",
+    "begin": "00:11:11.950",
+    "end": "00:11:16.439"
+  },
+  {
+    "text": "tell it's both.",
+    "begin": "00:11:16.439",
+    "end": "00:11:17.720"
+  },
+  {
+    "text": "So now, I'm going to start talking about extraversionand neuroticism, and part of the reason for",
+    "begin": "00:11:17.720",
+    "end": "00:11:25.639"
+  },
+  {
+    "text": "that is because I think the evidence for therelationship between those traits and the",
+    "begin": "00:11:25.639",
+    "end": "00:11:30.959"
+  },
+  {
+    "text": "way the brain functions is, in some sense,the clearest.",
+    "begin": "00:11:30.959",
+    "end": "00:11:34.680"
+  },
+  {
+    "text": "Now, you remember the big five were extractedout using statistical procedures, right, so",
+    "begin": "00:11:34.680",
+    "end": "00:11:40.050"
+  },
+  {
+    "text": "there's no reason to assume necessarily thatthe traits would bear any straightforward",
+    "begin": "00:11:40.050",
+    "end": "00:11:45.310"
+  },
+  {
+    "text": "relationship to brain function.",
+    "begin": "00:11:45.310",
+    "end": "00:11:48.410"
+  },
+  {
+    "text": "Because they weren't derived from analysisof brain function.",
+    "begin": "00:11:48.410",
+    "end": "00:11:52.300"
+  },
+  {
+    "text": "At least not directly.",
+    "begin": "00:11:52.300",
+    "end": "00:11:54.570"
+  },
+  {
+    "text": "They were extracted from analysis of linguisticrepresentations of other people's and your",
+    "begin": "00:11:54.570",
+    "end": "00:11:59.520"
+  },
+  {
+    "text": "own behaviour.",
+    "begin": "00:11:59.520",
+    "end": "00:12:00.899"
+  },
+  {
+    "text": "But it turns out that there's quite a concordancebetween certain elements of neuropsychological",
+    "begin": "00:12:00.899",
+    "end": "00:12:06.670"
+  },
+  {
+    "text": "theory and the positive and negative emotionaltraits: extraversion and neuroticism.",
+    "begin": "00:12:06.670",
+    "end": "00:12:13.519"
+  },
+  {
+    "text": "And so what I'm going to do today is, I'mgoing to talk to you about how positive and",
+    "begin": "00:12:13.519",
+    "end": "00:12:18.800"
+  },
+  {
+    "text": "negative emotion are instantiated in somesense, neurologically.",
+    "begin": "00:12:18.800",
+    "end": "00:12:26.420"
+  },
+  {
+    "text": "But I'm going to put that in a broader pictureof brain function because, well first of all,",
+    "begin": "00:12:26.420",
+    "end": "00:12:33.600"
+  },
+  {
+    "text": "why not?",
+    "begin": "00:12:33.600",
+    "end": "00:12:34.600"
+  },
+  {
+    "text": "And second because a lot of the things I'mgoing to tell you about the brain today will",
+    "begin": "00:12:34.600",
+    "end": "00:12:37.490"
+  },
+  {
+    "text": "sort of retroactively shed light on some ofthe clinical theories we've already talked",
+    "begin": "00:12:37.490",
+    "end": "00:12:42.029"
+  },
+  {
+    "text": "about.",
+    "begin": "00:12:42.029",
+    "end": "00:12:43.199"
+  },
+  {
+    "text": "So, which is nice, you know, because, oneof the ways you find out if something is true,",
+    "begin": "00:12:43.199",
+    "end": "00:12:48.720"
+  },
+  {
+    "text": "and this is something we also talked aboutduring the last lecture, is that it manifests",
+    "begin": "00:12:48.720",
+    "end": "00:12:53.420"
+  },
+  {
+    "text": "itself even when you use different measurementtechniques.",
+    "begin": "00:12:53.420",
+    "end": "00:12:57.029"
+  },
+  {
+    "text": "And so you have statistical derivation, youknow, which basically took place, it really",
+    "begin": "00:12:57.029",
+    "end": "00:13:02.110"
+  },
+  {
+    "text": "started to accelerate I would say, first inthe 1960s and then in the 1980s--it made a",
+    "begin": "00:13:02.110",
+    "end": "00:13:07.123"
+  },
+  {
+    "text": "big comeback in the 1980s.",
+    "begin": "00:13:07.123",
+    "end": "00:13:09.059"
+  },
+  {
+    "text": "But paralleling that were theories of braindevelopment.",
+    "begin": "00:13:09.059",
+    "end": "00:13:11.889"
+  },
+  {
+    "text": "And they weren't really--the scientists thatwere doing the one sort of research weren't",
+    "begin": "00:13:11.889",
+    "end": "00:13:16.001"
+  },
+  {
+    "text": "really communicating with the scientists thatwere doing the other kind of research.",
+    "begin": "00:13:16.001",
+    "end": "00:13:19.290"
+  },
+  {
+    "text": "So they were methodologically separate.",
+    "begin": "00:13:19.290",
+    "end": "00:13:20.720"
+  },
+  {
+    "text": "They used different techniques as well.",
+    "begin": "00:13:20.720",
+    "end": "00:13:22.839"
+  },
+  {
+    "text": "They weren't talking back and forth much andthey were using different measurement techniques.",
+    "begin": "00:13:22.839",
+    "end": "00:13:27.480"
+  },
+  {
+    "text": "So if they both come up with the same thingthen you think, oh well there's probably something",
+    "begin": "00:13:27.480",
+    "end": "00:13:31.941"
+  },
+  {
+    "text": "to that because, you know, the sighted peoplediscovered it and the people who could hear",
+    "begin": "00:13:31.941",
+    "end": "00:13:37.490"
+  },
+  {
+    "text": "discovered it.",
+    "begin": "00:13:37.490",
+    "end": "00:13:38.490"
+  },
+  {
+    "text": "It's the same kind of idea.",
+    "begin": "00:13:38.490",
+    "end": "00:13:40.560"
+  },
+  {
+    "text": "So, and you know, this has been worked outin a fair bit of detail over the last 30 years",
+    "begin": "00:13:40.560",
+    "end": "00:13:49.379"
+  },
+  {
+    "text": "really.",
+    "begin": "00:13:49.379",
+    "end": "00:13:50.930"
+  },
+  {
+    "text": "And so the papers that you're supposed toread with this, they're difficult papers.",
+    "begin": "00:13:50.930",
+    "end": "00:13:56.630"
+  },
+  {
+    "text": "I believe you're reading Grey, which is amodel of the limbic system and basal ganglia,",
+    "begin": "00:13:56.630",
+    "end": "00:14:00.939"
+  },
+  {
+    "text": "applications to anxiety and schizophrenia.",
+    "begin": "00:14:00.939",
+    "end": "00:14:03.990"
+  },
+  {
+    "text": "And I think you have goals and behaviour,that's the Carver&Scheier paper.",
+    "begin": "00:14:03.990",
+    "end": "00:14:09.140"
+  },
+  {
+    "text": "I put the Swanson paper in as optional.",
+    "begin": "00:14:09.140",
+    "end": "00:14:12.050"
+  },
+  {
+    "text": "That's cerebral hemisphere regulation andmotivated behaviour.",
+    "begin": "00:14:12.050",
+    "end": "00:14:14.869"
+  },
+  {
+    "text": "That is a tough paper.",
+    "begin": "00:14:14.869",
+    "end": "00:14:16.529"
+  },
+  {
+    "text": "And so is the Grey paper.",
+    "begin": "00:14:16.529",
+    "end": "00:14:18.230"
+  },
+  {
+    "text": "And it's partly because these guys, both ofthem, Grey's paper is a distillation of a",
+    "begin": "00:14:18.230",
+    "end": "00:14:25.470"
+  },
+  {
+    "text": "very very thick book that's very very difficult.",
+    "begin": "00:14:25.470",
+    "end": "00:14:28.139"
+  },
+  {
+    "text": "And that's been written twice.",
+    "begin": "00:14:28.139",
+    "end": "00:14:29.180"
+  },
+  {
+    "text": "It was published first in 1982 and then againin 1999.",
+    "begin": "00:14:29.180",
+    "end": "00:14:32.699"
+  },
+  {
+    "text": "It's a brilliant book.",
+    "begin": "00:14:32.699",
+    "end": "00:14:34.319"
+  },
+  {
+    "text": "It's had a tremendous impact on psychology.",
+    "begin": "00:14:34.319",
+    "end": "00:14:36.970"
+  },
+  {
+    "text": "Grey was one of those people who, he was sodamned smart it was just painful.",
+    "begin": "00:14:36.970",
+    "end": "00:14:41.730"
+  },
+  {
+    "text": "His reference list--I don't know how manypapers are in his reference list.",
+    "begin": "00:14:41.730",
+    "end": "00:14:45.190"
+  },
+  {
+    "text": "Like 2,000.",
+    "begin": "00:14:45.190",
+    "end": "00:14:46.350"
+  },
+  {
+    "text": "And one of the really weird things about Greythat makes him stand out among scientists",
+    "begin": "00:14:46.350",
+    "end": "00:14:49.670"
+  },
+  {
+    "text": "is, he actually read all those papers.",
+    "begin": "00:14:49.670",
+    "end": "00:14:51.740"
+  },
+  {
+    "text": "And more than that, he understood them.",
+    "begin": "00:14:51.740",
+    "end": "00:14:54.550"
+  },
+  {
+    "text": "And so that's really something.",
+    "begin": "00:14:54.550",
+    "end": "00:14:55.860"
+  },
+  {
+    "text": "And so Grey's book on anxiety--he did a lotof work on animal behaviour and, I'll tell",
+    "begin": "00:14:55.860",
+    "end": "00:15:03.680"
+  },
+  {
+    "text": "you, if you want solid psychological informationabout how the brain works, the people you",
+    "begin": "00:15:03.680",
+    "end": "00:15:09.790"
+  },
+  {
+    "text": "pay attention to are the people who are studyinganimal behaviour and animal brains.",
+    "begin": "00:15:09.790",
+    "end": "00:15:16.550"
+  },
+  {
+    "text": "They know what they're doing.",
+    "begin": "00:15:16.550",
+    "end": "00:15:17.740"
+  },
+  {
+    "text": "They're so methodologically careful.",
+    "begin": "00:15:17.740",
+    "end": "00:15:19.569"
+  },
+  {
+    "text": "They're very very reliable.",
+    "begin": "00:15:19.569",
+    "end": "00:15:21.389"
+  },
+  {
+    "text": "And the human neuropsychologists and the peoplethat use PET scanners and MRIs and all those",
+    "begin": "00:15:21.389",
+    "end": "00:15:25.699"
+  },
+  {
+    "text": "things, they're way way way behind the animalresearchers.",
+    "begin": "00:15:25.699",
+    "end": "00:15:28.540"
+  },
+  {
+    "text": "Because the animal researchers can just getin there at a lot higher resolution and they",
+    "begin": "00:15:28.540",
+    "end": "00:15:32.930"
+  },
+  {
+    "text": "can do much more stringent experiments.",
+    "begin": "00:15:32.930",
+    "end": "00:15:34.860"
+  },
+  {
+    "text": "And they tend to be more methodologicallycareful and more scientifically-minded.",
+    "begin": "00:15:34.860",
+    "end": "00:15:39.759"
+  },
+  {
+    "text": "So anyways, the Grey book is a brilliant book.",
+    "begin": "00:15:39.759",
+    "end": "00:15:42.339"
+  },
+  {
+    "text": "It took me like four months to read that damnbook.",
+    "begin": "00:15:42.339",
+    "end": "00:15:45.089"
+  },
+  {
+    "text": "And I mean I really had to take it apart becausehe probably poured 30 years of work into it,",
+    "begin": "00:15:45.089",
+    "end": "00:15:52.079"
+  },
+  {
+    "text": "something like that.",
+    "begin": "00:15:52.079",
+    "end": "00:15:54.420"
+  },
+  {
+    "text": "He worked a lot in 30 years.",
+    "begin": "00:15:54.420",
+    "end": "00:15:55.730"
+  },
+  {
+    "text": "You know?",
+    "begin": "00:15:55.730",
+    "end": "00:15:56.730"
+  },
+  {
+    "text": "He did a lot of experimentation and he reada lot and so he built a model of the brain's",
+    "begin": "00:15:56.730",
+    "end": "00:16:00.839"
+  },
+  {
+    "text": "function that was based partly on Russianneuropsychology, partly on cybernetic theory,",
+    "begin": "00:16:00.839",
+    "end": "00:16:07.050"
+  },
+  {
+    "text": "partly on animal behaviour, partly on neuropsychopharmacology,and so that's the study of how drugs affect",
+    "begin": "00:16:07.050",
+    "end": "00:16:13.279"
+  },
+  {
+    "text": "behaviour and cognition, and then partly froma higher order conceptual perspective.",
+    "begin": "00:16:13.279",
+    "end": "00:16:19.499"
+  },
+  {
+    "text": "And then he stacked all those things up, oneon top of the other, to make sure that the",
+    "begin": "00:16:19.499",
+    "end": "00:16:23.170"
+  },
+  {
+    "text": "picture was the same at every single levelof analysis.",
+    "begin": "00:16:23.170",
+    "end": "00:16:26.619"
+  },
+  {
+    "text": "It's absolutely brilliant work and it tookthe social psychologists like--they really",
+    "begin": "00:16:26.619",
+    "end": "00:16:31.360"
+  },
+  {
+    "text": "started about Grey, although he publishedhis book in 1982--they probably started thinking",
+    "begin": "00:16:31.360",
+    "end": "00:16:36.110"
+  },
+  {
+    "text": "Grey seriously in about 2005.",
+    "begin": "00:16:36.110",
+    "end": "00:16:37.910"
+  },
+  {
+    "text": "So it took 23 years for his book to startto make its wide-scale entrance in the more",
+    "begin": "00:16:37.910",
+    "end": "00:16:45.559"
+  },
+  {
+    "text": "general psychological community.",
+    "begin": "00:16:45.559",
+    "end": "00:16:48.050"
+  },
+  {
+    "text": "Anyways, and so you're going to read thispaper which is a model of the limbic system",
+    "begin": "00:16:48.050",
+    "end": "00:16:52.910"
+  },
+  {
+    "text": "and basal ganglia.",
+    "begin": "00:16:52.910",
+    "end": "00:16:54.500"
+  },
+  {
+    "text": "And 30 years were distilled into the bookand then that was distilled into this paper.",
+    "begin": "00:16:54.500",
+    "end": "00:16:59.230"
+  },
+  {
+    "text": "So you know, it's rough going.",
+    "begin": "00:16:59.230",
+    "end": "00:17:02.119"
+  },
+  {
+    "text": "And then the Swanson paper, he's another guy--samekind of guy--he's a developmental neuroanatomist",
+    "begin": "00:17:02.119",
+    "end": "00:17:08.020"
+  },
+  {
+    "text": "and if you're really interested in psychologyI would really recommend reading those papers",
+    "begin": "00:17:08.020",
+    "end": "00:17:13.060"
+  },
+  {
+    "text": "because they're hard going, but if you getit, you have this substrata of knowledge underneath",
+    "begin": "00:17:13.060",
+    "end": "00:17:19.500"
+  },
+  {
+    "text": "you that's really firm.",
+    "begin": "00:17:19.500",
+    "end": "00:17:21.050"
+  },
+  {
+    "text": "And I really like Swanson's paper--the guy'sa genius.",
+    "begin": "00:17:21.050",
+    "end": "00:17:24.310"
+  },
+  {
+    "text": "And what's so cool about Swanson's paper isthat, if you talk to human neuropsychologists",
+    "begin": "00:17:24.310",
+    "end": "00:17:29.270"
+  },
+  {
+    "text": "you'll find that they're biased toward thecerebral cortex.",
+    "begin": "00:17:29.270",
+    "end": "00:17:33.140"
+  },
+  {
+    "text": "And they're sort of, I think there's sortof an anthropomorphic pride that goes along",
+    "begin": "00:17:33.140",
+    "end": "00:17:36.870"
+  },
+  {
+    "text": "with that.",
+    "begin": "00:17:36.870",
+    "end": "00:17:37.870"
+  },
+  {
+    "text": "It's like, well how are we different fromanimals.",
+    "begin": "00:17:37.870",
+    "end": "00:17:39.030"
+  },
+  {
+    "text": "Well, you know, we've got thumbs and that'sgreat--hurray for the thumbs--and we stand",
+    "begin": "00:17:39.030",
+    "end": "00:17:43.190"
+  },
+  {
+    "text": "upright, but if you look at us neurologicallythe big difference is that we have this tremendously",
+    "begin": "00:17:43.190",
+    "end": "00:17:47.650"
+  },
+  {
+    "text": "expanded cerebral cortex, especially the prefrontalcortex, and so then people think--well because,",
+    "begin": "00:17:47.650",
+    "end": "00:17:53.840"
+  },
+  {
+    "text": "you know, because that's one of the thingsthat differentiates us from animals and it's",
+    "begin": "00:17:53.840",
+    "end": "00:17:57.890"
+  },
+  {
+    "text": "relatively evolutionarily modern, becausethe human brain really really developed rapidly",
+    "begin": "00:17:57.890",
+    "end": "00:18:02.960"
+  },
+  {
+    "text": "over the last two million years, that it'slike king of the brain in some sense.",
+    "begin": "00:18:02.960",
+    "end": "00:18:08.870"
+  },
+  {
+    "text": "And it's the place where all the complicatedthings happen.",
+    "begin": "00:18:08.870",
+    "end": "00:18:12.270"
+  },
+  {
+    "text": "And that's just not right, because like, breathing--that'scomplicated.",
+    "begin": "00:18:12.270",
+    "end": "00:18:17.110"
+  },
+  {
+    "text": "That's why you don't get to control it voluntarily.",
+    "begin": "00:18:17.110",
+    "end": "00:18:19.710"
+  },
+  {
+    "text": "And keeping your heart going, that's complicatedtoo, and so you don't get to have a decision",
+    "begin": "00:18:19.710",
+    "end": "00:18:24.060"
+  },
+  {
+    "text": "about that.",
+    "begin": "00:18:24.060",
+    "end": "00:18:25.060"
+  },
+  {
+    "text": "Your brain has made that automatic.",
+    "begin": "00:18:25.060",
+    "end": "00:18:27.300"
+  },
+  {
+    "text": "Like millions of years ago because there'sjust no way you're going to get voluntary",
+    "begin": "00:18:27.300",
+    "end": "00:18:31.630"
+  },
+  {
+    "text": "control over something that's that vital.",
+    "begin": "00:18:31.630",
+    "end": "00:18:33.890"
+  },
+  {
+    "text": "You know, so, assuming that newer brain areasdo more complex things, in some ways I think",
+    "begin": "00:18:33.890",
+    "end": "00:18:40.910"
+  },
+  {
+    "text": "that's actually precisely backwards.",
+    "begin": "00:18:40.910",
+    "end": "00:18:42.670"
+  },
+  {
+    "text": "It's the old brain areas that've been aroundfor, you know, a hundred million years, those",
+    "begin": "00:18:42.670",
+    "end": "00:18:48.570"
+  },
+  {
+    "text": "things are smart.",
+    "begin": "00:18:48.570",
+    "end": "00:18:50.170"
+  },
+  {
+    "text": "And that's why they survived for so long andwhy they're distributed in so many different",
+    "begin": "00:18:50.170",
+    "end": "00:18:55.650"
+  },
+  {
+    "text": "species.",
+    "begin": "00:18:55.650",
+    "end": "00:18:56.810"
+  },
+  {
+    "text": "Your brain is somewhat like a lobster's brain--it'sa lot like a mouse brain.",
+    "begin": "00:18:56.810",
+    "end": "00:19:02.240"
+  },
+  {
+    "text": "And it's a lot like a rat brain.",
+    "begin": "00:19:02.240",
+    "end": "00:19:03.480"
+  },
+  {
+    "text": "And you might think a rat isn't a very goodmodel of a human, because after all, they're",
+    "begin": "00:19:03.480",
+    "end": "00:19:07.640"
+  },
+  {
+    "text": "rats, but one thing I can tell you is thata rat brain is a way better model of a human",
+    "begin": "00:19:07.640",
+    "end": "00:19:12.650"
+  },
+  {
+    "text": "brain than your model of human brain is amodel of the human brain.",
+    "begin": "00:19:12.650",
+    "end": "00:19:17.380"
+  },
+  {
+    "text": "You know what I mean?",
+    "begin": "00:19:17.380",
+    "end": "00:19:18.380"
+  },
+  {
+    "text": "It's like people think of the brain.",
+    "begin": "00:19:18.380",
+    "end": "00:19:19.990"
+  },
+  {
+    "text": "Well, they have a dopey model.",
+    "begin": "00:19:19.990",
+    "end": "00:19:21.860"
+  },
+  {
+    "text": "Use a rat as an example, of course it's offin some ways because rats can't talk for example,",
+    "begin": "00:19:21.860",
+    "end": "00:19:27.880"
+  },
+  {
+    "text": "but there are so many levels of analysis whereyou might as well be a rat, you know?",
+    "begin": "00:19:27.880",
+    "end": "00:19:34.000"
+  },
+  {
+    "text": "Technically speaking.",
+    "begin": "00:19:34.000",
+    "end": "00:19:35.000"
+  },
+  {
+    "text": "The pharmacology for example is very verysimilar.",
+    "begin": "00:19:35.000",
+    "end": "00:19:38.210"
+  },
+  {
+    "text": "The function of the neurotransmitters, thebasic anatomy of the structures.",
+    "begin": "00:19:38.210",
+    "end": "00:19:43.580"
+  },
+  {
+    "text": "There's a tremendous amount of overlap.",
+    "begin": "00:19:43.580",
+    "end": "00:19:46.580"
+  },
+  {
+    "text": "And so you might as well go for the commonalitiesamong brains before you focus in on the differences,",
+    "begin": "00:19:46.580",
+    "end": "00:19:52.820"
+  },
+  {
+    "text": "because in some sense that way you get thebasic architecture right.",
+    "begin": "00:19:52.820",
+    "end": "00:19:56.530"
+  },
+  {
+    "text": "Now one of the things that's really interestingabout Swanson, and he's not a neuropsychologist",
+    "begin": "00:19:56.530",
+    "end": "00:20:02.650"
+  },
+  {
+    "text": "and he's not really even a psychologist--he'sa developmental neuroanatomist.",
+    "begin": "00:20:02.650",
+    "end": "00:20:07.520"
+  },
+  {
+    "text": "And so, there's lots of ways of chopping upthe brain, you know, to look at it, because",
+    "begin": "00:20:07.520",
+    "end": "00:20:12.950"
+  },
+  {
+    "text": "it's a really complicated thing.",
+    "begin": "00:20:12.950",
+    "end": "00:20:14.490"
+  },
+  {
+    "text": "It's like saying, well how many ways can youdivide up a city to analyze it.",
+    "begin": "00:20:14.490",
+    "end": "00:20:19.540"
+  },
+  {
+    "text": "Well, there's endless number of ways thatyou can divide up a city to look at it.",
+    "begin": "00:20:19.540",
+    "end": "00:20:25.320"
+  },
+  {
+    "text": "It's the same with the brain because it'sinfinitely subdividable, in some sense, certainly",
+    "begin": "00:20:25.320",
+    "end": "00:20:31.020"
+  },
+  {
+    "text": "all the way down to the molecular structures.",
+    "begin": "00:20:31.020",
+    "end": "00:20:33.460"
+  },
+  {
+    "text": "And then even at higher order levels, youknow, because it's so complex and it's hierarchically",
+    "begin": "00:20:33.460",
+    "end": "00:20:38.460"
+  },
+  {
+    "text": "structured you can just divide it up in allsorts of different ways and so, at higher",
+    "begin": "00:20:38.460",
+    "end": "00:20:43.630"
+  },
+  {
+    "text": "levels of resolution there isn't even thatmuch agreement on how to name the parts.",
+    "begin": "00:20:43.630",
+    "end": "00:20:48.180"
+  },
+  {
+    "text": "Now, what the developmental neuroanatomistsdo is that they look at how the brain develops",
+    "begin": "00:20:48.180",
+    "end": "00:20:53.000"
+  },
+  {
+    "text": "in utero over time.",
+    "begin": "00:20:53.000",
+    "end": "00:20:55.010"
+  },
+  {
+    "text": "Because it's a developing thing that sortof unfolds like a flower unfolds, you know?",
+    "begin": "00:20:55.010",
+    "end": "00:20:59.860"
+  },
+  {
+    "text": "And you can track which part of the earlybrain turns into the later brain and you can",
+    "begin": "00:20:59.860",
+    "end": "00:21:05.640"
+  },
+  {
+    "text": "get some sense of the--it's like an evolutionarytree you know?",
+    "begin": "00:21:05.640",
+    "end": "00:21:10.810"
+  },
+  {
+    "text": "If these three parts grew out of this partthen you can assume that there's some commonality",
+    "begin": "00:21:10.810",
+    "end": "00:21:15.520"
+  },
+  {
+    "text": "between them.",
+    "begin": "00:21:15.520",
+    "end": "00:21:16.520"
+  },
+  {
+    "text": "And that can also help you figure out howto divide up the brain.",
+    "begin": "00:21:16.520",
+    "end": "00:21:19.110"
+  },
+  {
+    "text": "And so that's one of the things that Swansondoes.",
+    "begin": "00:21:19.110",
+    "end": "00:21:21.540"
+  },
+  {
+    "text": "But the other thing he does that I reallylike is that, instead of looking at the brain",
+    "begin": "00:21:21.540",
+    "end": "00:21:25.990"
+  },
+  {
+    "text": "from top down which is what human neuropsychologiststend to do because they concentrate on say",
+    "begin": "00:21:25.990",
+    "end": "00:21:30.780"
+  },
+  {
+    "text": "language and higher order cognitive functions,which we think of as complex but you think,",
+    "begin": "00:21:30.780",
+    "end": "00:21:36.940"
+  },
+  {
+    "text": "they're not that damn complex, you know, likea computer can do mathematics so much better",
+    "begin": "00:21:36.940",
+    "end": "00:21:42.080"
+  },
+  {
+    "text": "than you that there's not even any comparison,you know.",
+    "begin": "00:21:42.080",
+    "end": "00:21:45.090"
+  },
+  {
+    "text": "And it won't be very long before a lot ofthe things that we think of as abstract cognition",
+    "begin": "00:21:45.090",
+    "end": "00:21:50.570"
+  },
+  {
+    "text": "are things that computers are going to beable to do.",
+    "begin": "00:21:50.570",
+    "end": "00:21:52.873"
+  },
+  {
+    "text": "They just won GO tournament, for example.",
+    "begin": "00:21:52.873",
+    "end": "00:21:55.350"
+  },
+  {
+    "text": "And the computers are now better--even yourPC is better at playing chess than probably",
+    "begin": "00:21:55.350",
+    "end": "00:22:00.060"
+  },
+  {
+    "text": "anyone in this room.",
+    "begin": "00:22:00.060",
+    "end": "00:22:01.580"
+  },
+  {
+    "text": "And the really high end computers are betterat playing chess than anyone who lives.",
+    "begin": "00:22:01.580",
+    "end": "00:22:06.400"
+  },
+  {
+    "text": "And so computers are catching up damn fast,but you'll notice that they don't do things",
+    "begin": "00:22:06.400",
+    "end": "00:22:09.950"
+  },
+  {
+    "text": "like bus tables in restaurants, because itturns out that's really hard.",
+    "begin": "00:22:09.950",
+    "end": "00:22:13.520"
+  },
+  {
+    "text": "[Student laughter] Well, I mean think aboutit.",
+    "begin": "00:22:13.520",
+    "end": "00:22:16.220"
+  },
+  {
+    "text": "It's hard.",
+    "begin": "00:22:16.220",
+    "end": "00:22:17.220"
+  },
+  {
+    "text": "You're carrying different sized loads allthe time.",
+    "begin": "00:22:17.220",
+    "end": "00:22:19.780"
+  },
+  {
+    "text": "You have to interact socially with peopleproperly.",
+    "begin": "00:22:19.780",
+    "end": "00:22:22.290"
+  },
+  {
+    "text": "You have to stay the hell out of the way.",
+    "begin": "00:22:22.290",
+    "end": "00:22:23.940"
+  },
+  {
+    "text": "You have to exactly time when you're goingto come to the table.",
+    "begin": "00:22:23.940",
+    "end": "00:22:28.590"
+  },
+  {
+    "text": "You have to move extraordinarily efficiently,especially as the place gets busy.",
+    "begin": "00:22:28.590",
+    "end": "00:22:32.210"
+  },
+  {
+    "text": "You know, there's a lot of demands on youto do that job effectively.",
+    "begin": "00:22:32.210",
+    "end": "00:22:35.900"
+  },
+  {
+    "text": "And you know, we think about it as a low endjob but it's not automated.",
+    "begin": "00:22:35.900",
+    "end": "00:22:41.570"
+  },
+  {
+    "text": "The low end jobs are the ones that are goingto be automated first.",
+    "begin": "00:22:41.570",
+    "end": "00:22:44.370"
+  },
+  {
+    "text": "And it's not obvious that they're going tobe the things that we associated with low-end",
+    "begin": "00:22:44.370",
+    "end": "00:22:48.420"
+  },
+  {
+    "text": "labour.",
+    "begin": "00:22:48.420",
+    "end": "00:22:49.880"
+  },
+  {
+    "text": "It's just that--well.",
+    "begin": "00:22:49.880",
+    "end": "00:22:51.190"
+  },
+  {
+    "text": "Now, what Swanson did with the nervous system--Iwas so happy when I found this paper because--he",
+    "begin": "00:22:51.190",
+    "end": "00:22:57.750"
+  },
+  {
+    "text": "did exactly with the nervous system what Piagetdid with children.",
+    "begin": "00:22:57.750",
+    "end": "00:23:01.510"
+  },
+  {
+    "text": "He showed how the nervous system builds itselffrom the bottom up.",
+    "begin": "00:23:01.510",
+    "end": "00:23:05.780"
+  },
+  {
+    "text": "And so Swanson lays right on top of Piaget--it'slovely.",
+    "begin": "00:23:05.780",
+    "end": "00:23:10.510"
+  },
+  {
+    "text": "And then the other thing that Swanson doesvery very nicely is, he elucidates a lot of",
+    "begin": "00:23:10.510",
+    "end": "00:23:15.530"
+  },
+  {
+    "text": "the Freudian presuppositions.",
+    "begin": "00:23:15.530",
+    "end": "00:23:18.300"
+  },
+  {
+    "text": "So Freud of course talked about the id, andthe id is this, it's sort of like the archaic",
+    "begin": "00:23:18.300",
+    "end": "00:23:23.720"
+  },
+  {
+    "text": "brain in some sense, you know.",
+    "begin": "00:23:23.720",
+    "end": "00:23:25.260"
+  },
+  {
+    "text": "It's where all your primal impulses lurk.",
+    "begin": "00:23:25.260",
+    "end": "00:23:28.480"
+  },
+  {
+    "text": "And you know he called that one thing theid.",
+    "begin": "00:23:28.480",
+    "end": "00:23:30.870"
+  },
+  {
+    "text": "Well you might say, well is there an id inthe brain and the answer is, well, vaguely.",
+    "begin": "00:23:30.870",
+    "end": "00:23:39.760"
+  },
+  {
+    "text": "Vaguely.",
+    "begin": "00:23:39.760",
+    "end": "00:23:41.620"
+  },
+  {
+    "text": "The brain does differ in terms of the ageof its subcomponents.",
+    "begin": "00:23:41.620",
+    "end": "00:23:46.470"
+  },
+  {
+    "text": "And as you go deeper into the brain and closerto the spine, the brain areas get phylogenetically",
+    "begin": "00:23:46.470",
+    "end": "00:23:51.740"
+  },
+  {
+    "text": "older, and the more phylogenetically olderareas of the brain, which are underneath the",
+    "begin": "00:23:51.740",
+    "end": "00:23:56.060"
+  },
+  {
+    "text": "cortex, they have their own little circuits.",
+    "begin": "00:23:56.060",
+    "end": "00:24:00.010"
+  },
+  {
+    "text": "And there's some commonality between them,and they do govern primal--I think of them",
+    "begin": "00:24:00.010",
+    "end": "00:24:04.610"
+  },
+  {
+    "text": "as primal sub-personalities.",
+    "begin": "00:24:04.610",
+    "end": "00:24:06.880"
+  },
+  {
+    "text": "We've talked about that before.",
+    "begin": "00:24:06.880",
+    "end": "00:24:08.580"
+  },
+  {
+    "text": "It's better than thinking about them as drivesor goals or anything like that because not",
+    "begin": "00:24:08.580",
+    "end": "00:24:13.330"
+  },
+  {
+    "text": "only do they--they're like sets of associatedbehaviours, but they're not just that.",
+    "begin": "00:24:13.330",
+    "end": "00:24:21.420"
+  },
+  {
+    "text": "They're also ways of looking at the worldand ways of thinking about the world.",
+    "begin": "00:24:21.420",
+    "end": "00:24:25.910"
+  },
+  {
+    "text": "So, you know, if you're angry, it's not likeyou're being driven to use your fists.",
+    "begin": "00:24:25.910",
+    "end": "00:24:32.070"
+  },
+  {
+    "text": "That's not how it works.",
+    "begin": "00:24:32.070",
+    "end": "00:24:33.070"
+  },
+  {
+    "text": "What happens is that the angry subpersonalitycomes out and, you know, it does a whole bunch",
+    "begin": "00:24:33.070",
+    "end": "00:24:37.680"
+  },
+  {
+    "text": "of things.",
+    "begin": "00:24:37.680",
+    "end": "00:24:38.680"
+  },
+  {
+    "text": "It's got its own state of arousal.",
+    "begin": "00:24:38.680",
+    "end": "00:24:41.330"
+  },
+  {
+    "text": "It's characterized both by positive and negativeemotion, which is something that's quite peculiar",
+    "begin": "00:24:41.330",
+    "end": "00:24:45.590"
+  },
+  {
+    "text": "about anger, because it's both a defensiveaction and an aggressive, forward moving behaviour.",
+    "begin": "00:24:45.590",
+    "end": "00:24:51.830"
+  },
+  {
+    "text": "And it has a viewpoint.",
+    "begin": "00:24:51.830",
+    "end": "00:24:53.290"
+  },
+  {
+    "text": "Like it's a biased viewpoint.",
+    "begin": "00:24:53.290",
+    "end": "00:24:54.610"
+  },
+  {
+    "text": "If you're angry with someone, all you cansee about them is how damn irritating they",
+    "begin": "00:24:54.610",
+    "end": "00:24:58.380"
+  },
+  {
+    "text": "are and how much they need to be defeated.",
+    "begin": "00:24:58.380",
+    "end": "00:25:00.620"
+  },
+  {
+    "text": "You know, roughly speaking.",
+    "begin": "00:25:00.620",
+    "end": "00:25:01.660"
+  },
+  {
+    "text": "And so it's a whole personality.",
+    "begin": "00:25:01.660",
+    "end": "00:25:04.170"
+  },
+  {
+    "text": "Now, it's a one dimensional personality becauseall it's really got is anger, and that's not",
+    "begin": "00:25:04.170",
+    "end": "00:25:09.560"
+  },
+  {
+    "text": "enough to solve every problem.",
+    "begin": "00:25:09.560",
+    "end": "00:25:12.130"
+  },
+  {
+    "text": "But you can't think about it as a drive exactlybecause it's not deterministic.",
+    "begin": "00:25:12.130",
+    "end": "00:25:17.580"
+  },
+  {
+    "text": "You know, even when you're angry, you havea range of choices to make.",
+    "begin": "00:25:17.580",
+    "end": "00:25:21.920"
+  },
+  {
+    "text": "Now, they're circumscribed by the fact thatyou're angry, but it's best to think about",
+    "begin": "00:25:21.920",
+    "end": "00:25:28.340"
+  },
+  {
+    "text": "it as a sub personality.",
+    "begin": "00:25:28.340",
+    "end": "00:25:29.690"
+  },
+  {
+    "text": "I think you just get a lot farther that way.",
+    "begin": "00:25:29.690",
+    "end": "00:25:31.600"
+  },
+  {
+    "text": "Now, what Swanson did--you know how Piagettalked about children/infants, they start",
+    "begin": "00:25:31.600",
+    "end": "00:25:36.930"
+  },
+  {
+    "text": "out with a few fundamental reflexes, right,that they're sort of born with, including",
+    "begin": "00:25:36.930",
+    "end": "00:25:41.380"
+  },
+  {
+    "text": "the ability to use their mouth and their tongueas an exploratory device.",
+    "begin": "00:25:41.380",
+    "end": "00:25:47.140"
+  },
+  {
+    "text": "And then they have certain reflexes that theycan manifest right away, and then they have",
+    "begin": "00:25:47.140",
+    "end": "00:25:50.800"
+  },
+  {
+    "text": "the ability to modify those reflexes.",
+    "begin": "00:25:50.800",
+    "end": "00:25:53.500"
+  },
+  {
+    "text": "And so, as far as Piaget was concerned, thatwas enough to get the ball rolling.",
+    "begin": "00:25:53.500",
+    "end": "00:25:56.980"
+  },
+  {
+    "text": "It was sort of like the child was like bootingup across time.",
+    "begin": "00:25:56.980",
+    "end": "00:26:00.080"
+  },
+  {
+    "text": "It's got some, you know, outside of the operatingsystem you've got some bare processes in your",
+    "begin": "00:26:00.080",
+    "end": "00:26:05.890"
+  },
+  {
+    "text": "computer that get it started enough so theoperating system can turn on.",
+    "begin": "00:26:05.890",
+    "end": "00:26:09.560"
+  },
+  {
+    "text": "It sort of unfolds up into something complex.",
+    "begin": "00:26:09.560",
+    "end": "00:26:12.400"
+  },
+  {
+    "text": "Well that's sort of what human beings do acrosstime.",
+    "begin": "00:26:12.400",
+    "end": "00:26:14.840"
+  },
+  {
+    "text": "They start out with these basic reflexes thatare simple movements and then they earn how",
+    "begin": "00:26:14.840",
+    "end": "00:26:19.640"
+  },
+  {
+    "text": "to modify the movements and then they learnhow to chain the movements together and then",
+    "begin": "00:26:19.640",
+    "end": "00:26:23.570"
+  },
+  {
+    "text": "they learn how to use the chained movementsas tools, in some sense, as embodied tools,",
+    "begin": "00:26:23.570",
+    "end": "00:26:31.280"
+  },
+  {
+    "text": "to allow these biologically determined sub-personalitiesto operate in the world with some chance of",
+    "begin": "00:26:31.280",
+    "end": "00:26:37.980"
+  },
+  {
+    "text": "success.",
+    "begin": "00:26:37.980",
+    "end": "00:26:38.980"
+  },
+  {
+    "text": "Okay, now you can layer that onto the nervoussystem, so part of what's happening when you",
+    "begin": "00:26:38.980",
+    "end": "00:26:43.980"
+  },
+  {
+    "text": "get these basic movements down, the ones thatare not automatic like your ability to grip",
+    "begin": "00:26:43.980",
+    "end": "00:26:48.350"
+  },
+  {
+    "text": "and the ability to do this with your handsand all the basic subroutines you have with",
+    "begin": "00:26:48.350",
+    "end": "00:26:54.560"
+  },
+  {
+    "text": "your body--those are automatized, they'remade into little machines, and a lot of them",
+    "begin": "00:26:54.560",
+    "end": "00:26:58.560"
+  },
+  {
+    "text": "run spinally.",
+    "begin": "00:26:58.560",
+    "end": "00:27:01.360"
+  },
+  {
+    "text": "You know, because what you think in some senseis that, if you're walking, you're thinking",
+    "begin": "00:27:01.360",
+    "end": "00:27:05.310"
+  },
+  {
+    "text": "about walking in some way--that's how youwalk.",
+    "begin": "00:27:05.310",
+    "end": "00:27:07.640"
+  },
+  {
+    "text": "And it's like, that's not right.",
+    "begin": "00:27:07.640",
+    "end": "00:27:08.930"
+  },
+  {
+    "text": "What happens is your orient yourself to agoal, and in some sense you just disinhibit",
+    "begin": "00:27:08.930",
+    "end": "00:27:14.080"
+  },
+  {
+    "text": "the system that knows how to walk.",
+    "begin": "00:27:14.080",
+    "end": "00:27:16.410"
+  },
+  {
+    "text": "And then it more or less does it automatically,and you know, you direct it.",
+    "begin": "00:27:16.410",
+    "end": "00:27:19.860"
+  },
+  {
+    "text": "And you can modify what it's doing if there'san error.",
+    "begin": "00:27:19.860",
+    "end": "00:27:22.880"
+  },
+  {
+    "text": "But you kind of know that, right?",
+    "begin": "00:27:22.880",
+    "end": "00:27:24.220"
+  },
+  {
+    "text": "You drive to school or you drive somewhereyou're familiar to, you don't even necessarily",
+    "begin": "00:27:24.220",
+    "end": "00:27:29.130"
+  },
+  {
+    "text": "remember the drive if you've done it 50 times.",
+    "begin": "00:27:29.130",
+    "end": "00:27:32.160"
+  },
+  {
+    "text": "It's because you're basically--in some senseyou're just sequencing automated behaviours.",
+    "begin": "00:27:32.160",
+    "end": "00:27:37.160"
+  },
+  {
+    "text": "And, a good thing too because, if you didn'thave those automated expert behaviours at",
+    "begin": "00:27:37.160",
+    "end": "00:27:42.530"
+  },
+  {
+    "text": "hand, you wouldn't know how to drive.",
+    "begin": "00:27:42.530",
+    "end": "00:27:45.780"
+  },
+  {
+    "text": "Because, you're just not smart--the time thatyou drive most consciously is when you first",
+    "begin": "00:27:45.780",
+    "end": "00:27:51.870"
+  },
+  {
+    "text": "learn how to drive.",
+    "begin": "00:27:51.870",
+    "end": "00:27:53.080"
+  },
+  {
+    "text": "Well, you don't want a conscious driver, youwant an unconscious expert driver whose consciousness",
+    "begin": "00:27:53.080",
+    "end": "00:27:59.390"
+  },
+  {
+    "text": "is monitoring the world for anything unexpected.",
+    "begin": "00:27:59.390",
+    "end": "00:28:02.290"
+  },
+  {
+    "text": "That's what you want.",
+    "begin": "00:28:02.290",
+    "end": "00:28:03.290"
+  },
+  {
+    "text": "So, and that's the case with almost everythingyou do.",
+    "begin": "00:28:03.290",
+    "end": "00:28:06.160"
+  },
+  {
+    "text": "If you have to become conscious of what you'redoing, the probability that you don't do it",
+    "begin": "00:28:06.160",
+    "end": "00:28:10.120"
+  },
+  {
+    "text": "very well is really high.",
+    "begin": "00:28:10.120",
+    "end": "00:28:11.790"
+  },
+  {
+    "text": "And you know that because maybe you're talkingto someone, it happens when I'm lecturing",
+    "begin": "00:28:11.790",
+    "end": "00:28:15.560"
+  },
+  {
+    "text": "sometimes--if I'm not really on top of thingsI'll get self-conscious--and that's a terrible",
+    "begin": "00:28:15.560",
+    "end": "00:28:20.290"
+  },
+  {
+    "text": "thing to have happen when you lecture, youknow, it just makes you stumble.",
+    "begin": "00:28:20.290",
+    "end": "00:28:23.580"
+  },
+  {
+    "text": "If it's going well I know where I'm goingand I have all these little routines that're",
+    "begin": "00:28:23.580",
+    "end": "00:28:28.450"
+  },
+  {
+    "text": "stories and things that I know that--theyjust automatically sequence.",
+    "begin": "00:28:28.450",
+    "end": "00:28:31.700"
+  },
+  {
+    "text": "All I have to do is point the lecture in theright direction and, you know, the things",
+    "begin": "00:28:31.700",
+    "end": "00:28:36.750"
+  },
+  {
+    "text": "that are logically associated with the directionof the lecture will--they'll come up.",
+    "begin": "00:28:36.750",
+    "end": "00:28:43.910"
+  },
+  {
+    "text": "They're primed in some sense.",
+    "begin": "00:28:43.910",
+    "end": "00:28:45.940"
+  },
+  {
+    "text": "And so, Swanson helped me understand the functionsof the lower part of the brain quite well",
+    "begin": "00:28:45.940",
+    "end": "00:28:52.290"
+  },
+  {
+    "text": "and then to map that onto Piaget.",
+    "begin": "00:28:52.290",
+    "end": "00:28:53.970"
+  },
+  {
+    "text": "And one of the things he helped me understandwas just exactly how sophisticated the lower",
+    "begin": "00:28:53.970",
+    "end": "00:28:59.090"
+  },
+  {
+    "text": "parts of the brain are, the more automaticparts.",
+    "begin": "00:28:59.090",
+    "end": "00:29:02.090"
+  },
+  {
+    "text": "Now, the behaviourists used to believe that,or did believe and still believe to some degree,",
+    "begin": "00:29:02.090",
+    "end": "00:29:07.140"
+  },
+  {
+    "text": "that a lot of your behaviour is reflexive.",
+    "begin": "00:29:07.140",
+    "end": "00:29:10.270"
+  },
+  {
+    "text": "And the radical behaviourists, the guys fromthe 50s, more or less made that case that",
+    "begin": "00:29:10.270",
+    "end": "00:29:15.330"
+  },
+  {
+    "text": "even complex behaviour among animals is nothingbut the chaining together of automatic reflexes.",
+    "begin": "00:29:15.330",
+    "end": "00:29:21.190"
+  },
+  {
+    "text": "So it was a deterministic chain of reflexes.",
+    "begin": "00:29:21.190",
+    "end": "00:29:24.630"
+  },
+  {
+    "text": "Well, you do have reflex actions, you know,so if you touch a hot stove you'll jerk your",
+    "begin": "00:29:24.630",
+    "end": "00:29:30.410"
+  },
+  {
+    "text": "hand away, and your brain isn't involved inthat--it's just your spinal cord that's involved",
+    "begin": "00:29:30.410",
+    "end": "00:29:34.860"
+  },
+  {
+    "text": "in that.",
+    "begin": "00:29:34.860",
+    "end": "00:29:35.860"
+  },
+  {
+    "text": "Now, your brain is involved when the painhits, and maybe that's so you stop doing it",
+    "begin": "00:29:35.860",
+    "end": "00:29:39.930"
+  },
+  {
+    "text": "in the future, but the conscious part of yourbrain is too slow to get your hand away from",
+    "begin": "00:29:39.930",
+    "end": "00:29:45.780"
+  },
+  {
+    "text": "the stove in time.",
+    "begin": "00:29:45.780",
+    "end": "00:29:47.080"
+  },
+  {
+    "text": "And so, what's happening in your body in somesense is that you have these multiple layers",
+    "begin": "00:29:47.080",
+    "end": "00:29:51.770"
+  },
+  {
+    "text": "of neurological organization and some of themare quite fixed--they're automatic deterministic",
+    "begin": "00:29:51.770",
+    "end": "00:29:57.630"
+  },
+  {
+    "text": "systems and those are things you've reallyreally practiced and that you can just can",
+    "begin": "00:29:57.630",
+    "end": "00:30:01.680"
+  },
+  {
+    "text": "run as a routine.",
+    "begin": "00:30:01.680",
+    "end": "00:30:03.470"
+  },
+  {
+    "text": "And above that are those things that you'vechained together, but they can be chained",
+    "begin": "00:30:03.470",
+    "end": "00:30:07.470"
+  },
+  {
+    "text": "together in different ways so they're lessautomatized.",
+    "begin": "00:30:07.470",
+    "end": "00:30:10.380"
+  },
+  {
+    "text": "And then if you keep going up they get moreand more complex and less automatized, until",
+    "begin": "00:30:10.380",
+    "end": "00:30:15.770"
+  },
+  {
+    "text": "at the top, which is where your consciousnessis, roughly speaking, you have to program",
+    "begin": "00:30:15.770",
+    "end": "00:30:21.320"
+  },
+  {
+    "text": "what you're doing, you know.",
+    "begin": "00:30:21.320",
+    "end": "00:30:22.720"
+  },
+  {
+    "text": "You have to pay very careful attention tohow to go about doing this because you don't",
+    "begin": "00:30:22.720",
+    "end": "00:30:27.370"
+  },
+  {
+    "text": "have the systems built into you.",
+    "begin": "00:30:27.370",
+    "end": "00:30:29.640"
+  },
+  {
+    "text": "So you know what that's like if you're tryingto learn something new, it takes a lot of",
+    "begin": "00:30:29.640",
+    "end": "00:30:33.060"
+  },
+  {
+    "text": "energy and you really have to pay attention.",
+    "begin": "00:30:33.060",
+    "end": "00:30:36.240"
+  },
+  {
+    "text": "And then once you start to get it, well, whatreally happens is there's things you don't",
+    "begin": "00:30:36.240",
+    "end": "00:30:43.130"
+  },
+  {
+    "text": "have to think about any more.",
+    "begin": "00:30:43.130",
+    "end": "00:30:44.820"
+  },
+  {
+    "text": "And thank god for that, because first of all,you can't think that much because you're a",
+    "begin": "00:30:44.820",
+    "end": "00:30:49.320"
+  },
+  {
+    "text": "limited capacity processor, and second, theprogramming is quite difficult.",
+    "begin": "00:30:49.320",
+    "end": "00:30:55.130"
+  },
+  {
+    "text": "Okay so ",
+    "begin": "00:30:55.130",
+    "end": "00:31:22.980"
+  },
+  {
+    "text": "if you look on the right there, there's alittle diagram that's a hierarchical--or a",
+    "begin": "00:31:22.980",
+    "end": "00:31:27.740"
+  },
+  {
+    "text": "little table really and it's talking aboutthe motor system.",
+    "begin": "00:31:27.740",
+    "end": "00:31:31.700"
+  },
+  {
+    "text": "Now the motor system is what allows you tooutput action.",
+    "begin": "00:31:31.700",
+    "end": "00:31:37.570"
+  },
+  {
+    "text": "And you're outputting action at all sortsof levels that you don't even realize because,",
+    "begin": "00:31:37.570",
+    "end": "00:31:41.770"
+  },
+  {
+    "text": "you know, you might think that sight is asensory activity, for example, but there's",
+    "begin": "00:31:41.770",
+    "end": "00:31:47.840"
+  },
+  {
+    "text": "a very tight relationship between sensoryactivity and motor activity.",
+    "begin": "00:31:47.840",
+    "end": "00:31:51.060"
+  },
+  {
+    "text": "So, for example, when you're looking at ascene, even though you don't know it, your",
+    "begin": "00:31:51.060",
+    "end": "00:31:54.730"
+  },
+  {
+    "text": "eyes are going like this.",
+    "begin": "00:31:54.730",
+    "end": "00:31:56.850"
+  },
+  {
+    "text": "And the reason you're going like that is becauseif you held your eyes absolutely still, and",
+    "begin": "00:31:56.850",
+    "end": "00:32:00.510"
+  },
+  {
+    "text": "you can actually learn to do this, if youhold your eyes absolutely still your vision",
+    "begin": "00:32:00.510",
+    "end": "00:32:04.160"
+  },
+  {
+    "text": "will fade right out and you won't be ableto see anything.",
+    "begin": "00:32:04.160",
+    "end": "00:32:06.600"
+  },
+  {
+    "text": "And it's because the little retinal cellsthat are picking up the light get exhausted",
+    "begin": "00:32:06.600",
+    "end": "00:32:12.490"
+  },
+  {
+    "text": "and then so they stop transmitting.",
+    "begin": "00:32:12.490",
+    "end": "00:32:13.960"
+  },
+  {
+    "text": "And so part of the reason you're zipping youreyes back and forth is so that different parts",
+    "begin": "00:32:13.960",
+    "end": "00:32:18.050"
+  },
+  {
+    "text": "of your eye can process the scene and it doesn'tget exhausted.",
+    "begin": "00:32:18.050",
+    "end": "00:32:21.520"
+  },
+  {
+    "text": "And plus, you're also looking around and you'relooking at when things move, you know, you",
+    "begin": "00:32:21.520",
+    "end": "00:32:26.930"
+  },
+  {
+    "text": "direct your attention to that, or if someonemakes a gesture.",
+    "begin": "00:32:26.930",
+    "end": "00:32:29.560"
+  },
+  {
+    "text": "And so, you're actually kind of using youreyes like tentacles, you know, to check out",
+    "begin": "00:32:29.560",
+    "end": "00:32:35.720"
+  },
+  {
+    "text": "the information that's coded in the light.",
+    "begin": "00:32:35.720",
+    "end": "00:32:39.060"
+  },
+  {
+    "text": "And even when you hear and that sort of thingthere's a fair bit of motor activity associated",
+    "begin": "00:32:39.060",
+    "end": "00:32:43.150"
+  },
+  {
+    "text": "with it--you turn your head unconsciouslyand there's all sorts of little motor actions",
+    "begin": "00:32:43.150",
+    "end": "00:32:46.910"
+  },
+  {
+    "text": "in your ear that also help you tune in, andso those things are tightly associated.",
+    "begin": "00:32:46.910",
+    "end": "00:32:51.300"
+  },
+  {
+    "text": "But roughly speaking, the motor output isaction.",
+    "begin": "00:32:51.300",
+    "end": "00:32:56.820"
+  },
+  {
+    "text": "And then Swanson shows that there are theselayers in the nervous system that go from",
+    "begin": "00:32:56.820",
+    "end": "00:33:02.860"
+  },
+  {
+    "text": "the spinal cord upward.",
+    "begin": "00:33:02.860",
+    "end": "00:33:05.080"
+  },
+  {
+    "text": "The first ones are the somatomotor neuronpools, and the second are locomotor pattern",
+    "begin": "00:33:05.080",
+    "end": "00:33:09.520"
+  },
+  {
+    "text": "generators, and the third are locomotor patterninitiators and then the forth are locomotor",
+    "begin": "00:33:09.520",
+    "end": "00:33:15.620"
+  },
+  {
+    "text": "pattern controllers.",
+    "begin": "00:33:15.620",
+    "end": "00:33:16.730"
+  },
+  {
+    "text": "It's a hierarchy.",
+    "begin": "00:33:16.730",
+    "end": "00:33:17.750"
+  },
+  {
+    "text": "And so, the way to kind of lay Piaget on it,in some sense, is to think of the somatomotor",
+    "begin": "00:33:17.750",
+    "end": "00:33:23.440"
+  },
+  {
+    "text": "neuron pools as simple actions that can beimplemented automatically.",
+    "begin": "00:33:23.440",
+    "end": "00:33:30.520"
+  },
+  {
+    "text": "And then the locomotor pattern generator hastaken those simple actions and chained them",
+    "begin": "00:33:30.520",
+    "end": "00:33:35.620"
+  },
+  {
+    "text": "into relatively more complex melodies of action,so kinetic melodies, and then the locomotor",
+    "begin": "00:33:35.620",
+    "end": "00:33:44.300"
+  },
+  {
+    "text": "pattern initiator more or less decides whenthose kenetic melodies should be implemented.",
+    "begin": "00:33:44.300",
+    "end": "00:33:49.160"
+  },
+  {
+    "text": "And even that can be unconscious.",
+    "begin": "00:33:49.160",
+    "end": "00:33:52.350"
+  },
+  {
+    "text": "So it's still at that level of brain organization,it's still more or less automatic.",
+    "begin": "00:33:52.350",
+    "end": "00:33:56.510"
+  },
+  {
+    "text": "Even stimulus-response is a way to think aboutit.",
+    "begin": "00:33:56.510",
+    "end": "00:33:59.140"
+  },
+  {
+    "text": "And then you go one level higher and that'swhen you get the ability to voluntarily use",
+    "begin": "00:33:59.140",
+    "end": "00:34:04.170"
+  },
+  {
+    "text": "these automated things.",
+    "begin": "00:34:04.170",
+    "end": "00:34:06.280"
+  },
+  {
+    "text": "So I can show you an example of how this works.",
+    "begin": "00:34:06.280",
+    "end": "00:34:09.109"
+  },
+  {
+    "text": "This is called a ballistic movement.",
+    "begin": "00:34:09.109",
+    "end": "00:34:11.129"
+  },
+  {
+    "text": "So, I'm going to take my hand and I'm goingto bring it down really fast right toward",
+    "begin": "00:34:11.129",
+    "end": "00:34:15.599"
+  },
+  {
+    "text": "that edge.",
+    "begin": "00:34:15.599",
+    "end": "00:34:16.929"
+  },
+  {
+    "text": "Okay so--alright now, so that's very fastmovement.",
+    "begin": "00:34:16.929",
+    "end": "00:34:21.999"
+  },
+  {
+    "text": "Now one of the things that's cool about thatmovement is that I don't have time, once that",
+    "begin": "00:34:21.999",
+    "end": "00:34:27.460"
+  },
+  {
+    "text": "action starts, it happens so fast that it'sdone by the time that the information about",
+    "begin": "00:34:27.460",
+    "end": "00:34:34.909"
+  },
+  {
+    "text": "that action actually gets to my brain.",
+    "begin": "00:34:34.909",
+    "end": "00:34:38.200"
+  },
+  {
+    "text": "Once I let that go, I can't control it.",
+    "begin": "00:34:38.200",
+    "end": "00:34:42.059"
+  },
+  {
+    "text": "What I basically am doing is disinhibitingthe motor control systems that I already have",
+    "begin": "00:34:42.059",
+    "end": "00:34:49.139"
+  },
+  {
+    "text": "established in my psychophysiological being.",
+    "begin": "00:34:49.139",
+    "end": "00:34:53.500"
+  },
+  {
+    "text": "I'm disinhibiting one of those and then itruns automatically.",
+    "begin": "00:34:53.500",
+    "end": "00:34:57.500"
+  },
+  {
+    "text": "And so that's what you're doing all the timewhen you're acting in life.",
+    "begin": "00:34:57.500",
+    "end": "00:35:02.940"
+  },
+  {
+    "text": "It's kind of a neat--I wrote a paper a whileback with an undergraduate student of mine,",
+    "begin": "00:35:02.940",
+    "end": "00:35:07.369"
+  },
+  {
+    "text": "he was a pretty bright character, and we gotinvited to do a paper--I got invited to do",
+    "begin": "00:35:07.369",
+    "end": "00:35:12.440"
+  },
+  {
+    "text": "a paper--on free will, and so we were thinkingabout free will and, it's very interesting",
+    "begin": "00:35:12.440",
+    "end": "00:35:18.279"
+  },
+  {
+    "text": "to think about free will in relationship tothese hierarchies because it sort of goes",
+    "begin": "00:35:18.279",
+    "end": "00:35:22.059"
+  },
+  {
+    "text": "like this: it's that, out there in the future,you've got free will.",
+    "begin": "00:35:22.059",
+    "end": "00:35:27.150"
+  },
+  {
+    "text": "But as the future moves towards the present,you don't.",
+    "begin": "00:35:27.150",
+    "end": "00:35:31.359"
+  },
+  {
+    "text": "Once it gets close enough to the present youhave to have initiated something automatic",
+    "begin": "00:35:31.359",
+    "end": "00:35:36.190"
+  },
+  {
+    "text": "that will happen.",
+    "begin": "00:35:36.190",
+    "end": "00:35:37.190"
+  },
+  {
+    "text": "And so I can give you an example.",
+    "begin": "00:35:37.190",
+    "end": "00:35:39.319"
+  },
+  {
+    "text": "People who play the piano very well, theylook ahead of where they're playing in the",
+    "begin": "00:35:39.319",
+    "end": "00:35:45.249"
+  },
+  {
+    "text": "music.",
+    "begin": "00:35:45.249",
+    "end": "00:35:46.249"
+  },
+  {
+    "text": "Because they know how to do this, they don'thave to think about it.",
+    "begin": "00:35:46.249",
+    "end": "00:35:49.190"
+  },
+  {
+    "text": "What they have to do is look ahead so thatthe part of them that knows how to do this",
+    "begin": "00:35:49.190",
+    "end": "00:35:52.589"
+  },
+  {
+    "text": "gets ready to do it.",
+    "begin": "00:35:52.589",
+    "end": "00:35:54.059"
+  },
+  {
+    "text": "And all of you are experts in that way likely--allof those of you who drive--you're also experts",
+    "begin": "00:35:54.059",
+    "end": "00:35:59.470"
+  },
+  {
+    "text": "that way.",
+    "begin": "00:35:59.470",
+    "end": "00:36:00.470"
+  },
+  {
+    "text": "Because when you're driving, where do youlook?",
+    "begin": "00:36:00.470",
+    "end": "00:36:01.859"
+  },
+  {
+    "text": "If you're a good driver, on the highway, youlook at least half a second or a second ahead.",
+    "begin": "00:36:01.859",
+    "end": "00:36:07.650"
+  },
+  {
+    "text": "Why?",
+    "begin": "00:36:07.650",
+    "end": "00:36:08.650"
+  },
+  {
+    "text": "Well because 50 feet ahead has already happened.",
+    "begin": "00:36:08.650",
+    "end": "00:36:12.330"
+  },
+  {
+    "text": "Right, it's too close in time for you to doanything about it, so basically what you're",
+    "begin": "00:36:12.330",
+    "end": "00:36:16.410"
+  },
+  {
+    "text": "doing is you're looking at the road and thenyou're disinhibiting sequences of actions--the",
+    "begin": "00:36:16.410",
+    "end": "00:36:23.289"
+  },
+  {
+    "text": "ones that are going to correspond to whatyou want to do with the road most adequately.",
+    "begin": "00:36:23.289",
+    "end": "00:36:28.000"
+  },
+  {
+    "text": "And the closer you get to executing one ofthose motor behaviours, the more automated",
+    "begin": "00:36:28.000",
+    "end": "00:36:34.030"
+  },
+  {
+    "text": "it is.",
+    "begin": "00:36:34.030",
+    "end": "00:36:35.030"
+  },
+  {
+    "text": "SO by the time you manifest the action, there'sno free will there at all.",
+    "begin": "00:36:35.030",
+    "end": "00:36:38.769"
+  },
+  {
+    "text": "But you set it up to be released in some sense.",
+    "begin": "00:36:38.769",
+    "end": "00:36:42.150"
+  },
+  {
+    "text": "So I can say, well, there's no free will inthat, but there was in deciding to do it at",
+    "begin": "00:36:42.150",
+    "end": "00:36:48.690"
+  },
+  {
+    "text": "that point.",
+    "begin": "00:36:48.690",
+    "end": "00:36:50.160"
+  },
+  {
+    "text": "So and that's sort of how your automaticitymeets your freedom.",
+    "begin": "00:36:50.160",
+    "end": "00:36:55.220"
+  },
+  {
+    "text": "You've got to think about it as somethingextending across time.",
+    "begin": "00:36:55.220",
+    "end": "00:36:58.569"
+  },
+  {
+    "text": "Okay, so having established that then we'regoing to get into the neurological localization",
+    "begin": "00:36:58.569",
+    "end": "00:37:11.440"
+  },
+  {
+    "text": "a little bit.",
+    "begin": "00:37:11.440",
+    "end": "00:37:12.720"
+  },
+  {
+    "text": "So you might say, well you collect all thesepatterns of behaviour and then you automate",
+    "begin": "00:37:12.720",
+    "end": "00:37:17.880"
+  },
+  {
+    "text": "them into routines.",
+    "begin": "00:37:17.880",
+    "end": "00:37:19.089"
+  },
+  {
+    "text": "I can give you an example, so, for a child,you know, when a child is first born, if you",
+    "begin": "00:37:19.089",
+    "end": "00:37:24.890"
+  },
+  {
+    "text": "tap on its cheek it'll go like this.",
+    "begin": "00:37:24.890",
+    "end": "00:37:26.940"
+  },
+  {
+    "text": "It's called a rooting reflex, and it'll moveits mouth and tongue.",
+    "begin": "00:37:26.940",
+    "end": "00:37:30.529"
+  },
+  {
+    "text": "Well what it’s doing, roughly speaking,is its searching for a nipple, and if you",
+    "begin": "00:37:30.529",
+    "end": "00:37:34.490"
+  },
+  {
+    "text": "just put your finger there it'll clamp ontothat and start to suck.",
+    "begin": "00:37:34.490",
+    "end": "00:37:38.289"
+  },
+  {
+    "text": "And so the child comes out with that ability.",
+    "begin": "00:37:38.289",
+    "end": "00:37:41.259"
+  },
+  {
+    "text": "And that's a reflex, it's sort of built intothe neurology.",
+    "begin": "00:37:41.259",
+    "end": "00:37:44.619"
+  },
+  {
+    "text": "But then when the child starts to interactwith the mother to actually breastfeed, well",
+    "begin": "00:37:44.619",
+    "end": "00:37:48.430"
+  },
+  {
+    "text": "then that initial reflex has to be modifiedquite substantially in the context of the",
+    "begin": "00:37:48.430",
+    "end": "00:37:55.519"
+  },
+  {
+    "text": "relationship with the mother because the barereflex, it's enough to get the thing going",
+    "begin": "00:37:55.519",
+    "end": "00:37:59.859"
+  },
+  {
+    "text": "but it's not enough to make it work.",
+    "begin": "00:37:59.859",
+    "end": "00:38:01.869"
+  },
+  {
+    "text": "And so often mothers take a fair bit of timeto learn how to breastfeed, but it's also",
+    "begin": "00:38:01.869",
+    "end": "00:38:06.559"
+  },
+  {
+    "text": "because the baby is taking a fair bit of timeto learn how to do it.",
+    "begin": "00:38:06.559",
+    "end": "00:38:09.460"
+  },
+  {
+    "text": "So they have to establish the dance that goeswith that.",
+    "begin": "00:38:09.460",
+    "end": "00:38:13.400"
+  },
+  {
+    "text": "And one of the things that's quite cool aboutthat dance, so to speak, is there's been studies",
+    "begin": "00:38:13.400",
+    "end": "00:38:18.490"
+  },
+  {
+    "text": "done of depressed and non-depressed mothersinteracting with their infants.",
+    "begin": "00:38:18.490",
+    "end": "00:38:22.799"
+  },
+  {
+    "text": "And so if you take a non-depressed motherinteracting with her infant and you just film",
+    "begin": "00:38:22.799",
+    "end": "00:38:27.849"
+  },
+  {
+    "text": "them, and you speed up the film, you can seethe baby reacts and the mother reacts and",
+    "begin": "00:38:27.849",
+    "end": "00:38:33.369"
+  },
+  {
+    "text": "the baby reacts and the mother reacts andit's like a dance, you know, there's this",
+    "begin": "00:38:33.369",
+    "end": "00:38:35.900"
+  },
+  {
+    "text": "continual flow of information between thetwo of them.",
+    "begin": "00:38:35.900",
+    "end": "00:38:39.150"
+  },
+  {
+    "text": "And if the baby's with a depressed motherthat doesn't happen.",
+    "begin": "00:38:39.150",
+    "end": "00:38:42.309"
+  },
+  {
+    "text": "It's jerky and discontinuous.",
+    "begin": "00:38:42.309",
+    "end": "00:38:45.230"
+  },
+  {
+    "text": "And so if you think about that you can seehow the dialectical interaction between the",
+    "begin": "00:38:45.230",
+    "end": "00:38:50.680"
+  },
+  {
+    "text": "mother and child is building up the child'srepertoire of complex abilities--within a",
+    "begin": "00:38:50.680",
+    "end": "00:38:58.050"
+  },
+  {
+    "text": "social context.",
+    "begin": "00:38:58.050",
+    "end": "00:38:59.829"
+  },
+  {
+    "text": "I know I told you guys before, roughly speaking,that kids really get socialized to play with",
+    "begin": "00:38:59.829",
+    "end": "00:39:06.289"
+  },
+  {
+    "text": "each other between two and four.",
+    "begin": "00:39:06.289",
+    "end": "00:39:09.529"
+  },
+  {
+    "text": "But that's not exactly true because even atthe lower level, more automated, and more",
+    "begin": "00:39:09.529",
+    "end": "00:39:15.749"
+  },
+  {
+    "text": "primordial reflex behaviours, like the onesthat are associated with breastfeeding, even",
+    "begin": "00:39:15.749",
+    "end": "00:39:21.940"
+  },
+  {
+    "text": "those develop under the constraints of socialguidelines.",
+    "begin": "00:39:21.940",
+    "end": "00:39:26.520"
+  },
+  {
+    "text": "So society's always there, right from thereflex level up.",
+    "begin": "00:39:26.520",
+    "end": "00:39:30.930"
+  },
+  {
+    "text": "But you know what happens when kids are betweentwo and four, they have to learn to actually",
+    "begin": "00:39:30.930",
+    "end": "00:39:35.880"
+  },
+  {
+    "text": "play, they have to learn how to play complexgames with other children and so that involves",
+    "begin": "00:39:35.880",
+    "end": "00:39:41.589"
+  },
+  {
+    "text": "communication and negotiation at a verballevel.",
+    "begin": "00:39:41.589",
+    "end": "00:39:45.609"
+  },
+  {
+    "text": "And also with people their own age.",
+    "begin": "00:39:45.609",
+    "end": "00:39:47.640"
+  },
+  {
+    "text": "So you know, it's continuous in some senseand discontinuous in another sense.",
+    "begin": "00:39:47.640",
+    "end": "00:39:53.160"
+  },
+  {
+    "text": "Okay so anyways, you might say well why doyou bother stringing all these things together,",
+    "begin": "00:39:53.160",
+    "end": "00:39:57.930"
+  },
+  {
+    "text": "and well, you think about the breastfeedingissue.",
+    "begin": "00:39:57.930",
+    "end": "00:40:00.349"
+  },
+  {
+    "text": "Why does a baby bother to learn how to breastfeed?",
+    "begin": "00:40:00.349",
+    "end": "00:40:02.270"
+  },
+  {
+    "text": "Well, that's pretty obvious isn't it.",
+    "begin": "00:40:02.270",
+    "end": "00:40:04.359"
+  },
+  {
+    "text": "I mean, first of all, if it doesn’t thenit doesn't live.",
+    "begin": "00:40:04.359",
+    "end": "00:40:09.029"
+  },
+  {
+    "text": "And there's a bunch of reasons for that--oneis obviously it's not going to be nourished",
+    "begin": "00:40:09.029",
+    "end": "00:40:13.160"
+  },
+  {
+    "text": "properly, although, there are things you cando to substitute for that.",
+    "begin": "00:40:13.160",
+    "end": "00:40:17.210"
+  },
+  {
+    "text": "Although still, breastfeeding still seemsto be the best thing you can do for your baby.",
+    "begin": "00:40:17.210",
+    "end": "00:40:21.480"
+  },
+  {
+    "text": "Although, you can work around it, but fundamentallyit seems to be the best thing you can do.",
+    "begin": "00:40:21.480",
+    "end": "00:40:26.410"
+  },
+  {
+    "text": "But then the baby's also learning all sortsof other things, like it's got skin-to-skin",
+    "begin": "00:40:26.410",
+    "end": "00:40:29.880"
+  },
+  {
+    "text": "contact and it's snuggling and it being comfortedand doing eye gaze to eye gaze and it's cooing",
+    "begin": "00:40:29.880",
+    "end": "00:40:34.880"
+  },
+  {
+    "text": "and the mother's imitating it and there'sjust a lot of things going on there.",
+    "begin": "00:40:34.880",
+    "end": "00:40:39.069"
+  },
+  {
+    "text": "And so the child is organizing all that, partlyto fulfill a basic biological need, which",
+    "begin": "00:40:39.069",
+    "end": "00:40:45.589"
+  },
+  {
+    "text": "is two needs, both thirst and hunger, butit’s also fulfilling its need for play,",
+    "begin": "00:40:45.589",
+    "end": "00:40:50.200"
+  },
+  {
+    "text": "for example, because children have a circuitfor play.",
+    "begin": "00:40:50.200",
+    "end": "00:40:53.320"
+  },
+  {
+    "text": "So you could say play is part of the id--it'sa fundamental biological need.",
+    "begin": "00:40:53.320",
+    "end": "00:40:58.180"
+  },
+  {
+    "text": "The other thing children have to have is skin-to-skintouch--they'll die without it, it's not optional.",
+    "begin": "00:40:58.180",
+    "end": "00:41:05.329"
+  },
+  {
+    "text": "You even see that in rats.",
+    "begin": "00:41:05.329",
+    "end": "00:41:07.260"
+  },
+  {
+    "text": "So if you take a rat pup away from its motherand you feed it, but you don't do anything",
+    "begin": "00:41:07.260",
+    "end": "00:41:11.839"
+  },
+  {
+    "text": "with it, it just dies.",
+    "begin": "00:41:11.839",
+    "end": "00:41:12.960"
+  },
+  {
+    "text": "It goes into opiate overdose roughly speaking--itsgastrointestinal systems shut down--and then",
+    "begin": "00:41:12.960",
+    "end": "00:41:18.269"
+  },
+  {
+    "text": "it dies.",
+    "begin": "00:41:18.269",
+    "end": "00:41:19.269"
+  },
+  {
+    "text": "And you can stop that from happening by isolatingit, feeding it, and then like massaging it",
+    "begin": "00:41:19.269",
+    "end": "00:41:24.260"
+  },
+  {
+    "text": "with the eraser end of the pencil--you cankeep the rat pup alive.",
+    "begin": "00:41:24.260",
+    "end": "00:41:29.510"
+  },
+  {
+    "text": "And Jaak Panksepp was one of the people eitherdiscovered that or worked on it, and that",
+    "begin": "00:41:29.510",
+    "end": "00:41:34.850"
+  },
+  {
+    "text": "word was extended by Tiffany Fields in a hospitalin Florida--some really brilliant work.",
+    "begin": "00:41:34.850",
+    "end": "00:41:41.839"
+  },
+  {
+    "text": "She was looking at Panksepp's work on thenecessity of tactile stimulation and she thought,",
+    "begin": "00:41:41.839",
+    "end": "00:41:47.809"
+  },
+  {
+    "text": "hey I bet we could try that with prematurebabies.",
+    "begin": "00:41:47.809",
+    "end": "00:41:50.210"
+  },
+  {
+    "text": "Because if a baby's premature, a couple ofthings are problems.",
+    "begin": "00:41:50.210",
+    "end": "00:41:53.839"
+  },
+  {
+    "text": "I mean, first of all, at the need of the term,pregnancy term, that's when babies lay on",
+    "begin": "00:41:53.839",
+    "end": "00:41:58.390"
+  },
+  {
+    "text": "fat.",
+    "begin": "00:41:58.390",
+    "end": "00:41:59.390"
+  },
+  {
+    "text": "You know, so they come out and they've gotsome storage there in case things don't get",
+    "begin": "00:41:59.390",
+    "end": "00:42:04.279"
+  },
+  {
+    "text": "going very well.",
+    "begin": "00:42:04.279",
+    "end": "00:42:05.900"
+  },
+  {
+    "text": "And they're gaining a lot of weight in thatlast period of pregnancy, so if they come",
+    "begin": "00:42:05.900",
+    "end": "00:42:09.279"
+  },
+  {
+    "text": "out premature then they're really skinny.",
+    "begin": "00:42:09.279",
+    "end": "00:42:12.220"
+  },
+  {
+    "text": "And then what happens often is they startto lose weight and that's not good because",
+    "begin": "00:42:12.220",
+    "end": "00:42:15.950"
+  },
+  {
+    "text": "they should be ramping up the weight gainreally quickly.",
+    "begin": "00:42:15.950",
+    "end": "00:42:18.359"
+  },
+  {
+    "text": "A newborn baby will outgrow its clothes inone week, you know, they're gaining weight",
+    "begin": "00:42:18.359",
+    "end": "00:42:24.180"
+  },
+  {
+    "text": "quickly.",
+    "begin": "00:42:24.180",
+    "end": "00:42:25.180"
+  },
+  {
+    "text": "The premature babies lose weight, and it'shard to keep them going.",
+    "begin": "00:42:25.180",
+    "end": "00:42:28.910"
+  },
+  {
+    "text": "They put them in an incubator, they feed them,but what Tiffany Field did was, she had the",
+    "begin": "00:42:28.910",
+    "end": "00:42:34.529"
+  },
+  {
+    "text": "nurses go in there with gloves and massagethe babies for three minutes ten times a day.",
+    "begin": "00:42:34.529",
+    "end": "00:42:41.069"
+  },
+  {
+    "text": "And those babies gained weight as fast asbabies that were still in utero and you could",
+    "begin": "00:42:41.069",
+    "end": "00:42:45.890"
+  },
+  {
+    "text": "still detect the differences in their developmentsix weeks later.",
+    "begin": "00:42:45.890",
+    "end": "00:42:49.470"
+  },
+  {
+    "text": "Which in baby terms is like forever, right.",
+    "begin": "00:42:49.470",
+    "end": "00:42:51.690"
+  },
+  {
+    "text": "I mean you change as much from zero monthsto six months as you probably do from six",
+    "begin": "00:42:51.690",
+    "end": "00:42:55.690"
+  },
+  {
+    "text": "months to 20 years old.",
+    "begin": "00:42:55.690",
+    "end": "00:42:57.609"
+  },
+  {
+    "text": "It's such a radical transformation.",
+    "begin": "00:42:57.609",
+    "end": "00:43:00.099"
+  },
+  {
+    "text": "Okay, the reason I'm telling you all thisis because, you lay out these hierarchies",
+    "begin": "00:43:00.099",
+    "end": "00:43:06.329"
+  },
+  {
+    "text": "of behaviour that are well practiced and automatizedand brought under the control of social conditioning,",
+    "begin": "00:43:06.329",
+    "end": "00:43:11.869"
+  },
+  {
+    "text": "but you really do them in the service of--wellthat's the question.",
+    "begin": "00:43:11.869",
+    "end": "00:43:17.589"
+  },
+  {
+    "text": "In the service of, we'll say, biological necessity,for the sake of argument.",
+    "begin": "00:43:17.589",
+    "end": "00:43:21.710"
+  },
+  {
+    "text": "Well you have to eat and you have to drink,and so one of the reasons you lay out the",
+    "begin": "00:43:21.710",
+    "end": "00:43:26.240"
+  },
+  {
+    "text": "hierarchy that's associated with breastfeedingis so that you can do that directly, but also",
+    "begin": "00:43:26.240",
+    "end": "00:43:31.789"
+  },
+  {
+    "text": "so that you can establish a relationship sothat not only are you doing it directly this",
+    "begin": "00:43:31.789",
+    "end": "00:43:36.230"
+  },
+  {
+    "text": "day, but you're also going to do it tomorrowand the next day and the day after that.",
+    "begin": "00:43:36.230",
+    "end": "00:43:41.259"
+  },
+  {
+    "text": "And so the hunger system is integrated withthese other systems of biological constraint",
+    "begin": "00:43:41.259",
+    "end": "00:43:48.240"
+  },
+  {
+    "text": "in some sense, and they're trying to comeup with an answer to the continual problem.",
+    "begin": "00:43:48.240",
+    "end": "00:43:53.890"
+  },
+  {
+    "text": "So you have dedicated biological systems thathelp you address problems that are associated",
+    "begin": "00:43:53.890",
+    "end": "00:44:00.989"
+  },
+  {
+    "text": "problems that are associated with your biologicalnature that are universal.",
+    "begin": "00:44:00.989",
+    "end": "00:44:04.059"
+  },
+  {
+    "text": "And those would be the things that Freud woulddescribe as the id.",
+    "begin": "00:44:04.059",
+    "end": "00:44:06.589"
+  },
+  {
+    "text": "So you can think of these hierarchies of motorbehaviour, which sort of develop up into sub",
+    "begin": "00:44:06.589",
+    "end": "00:44:14.230"
+  },
+  {
+    "text": "personalities, as nested in some sense insideof motivational states.",
+    "begin": "00:44:14.230",
+    "end": "00:44:19.349"
+  },
+  {
+    "text": "So there's the motorbehavious hierarchy thatyou use when you're angry, there's the motorbehaviour",
+    "begin": "00:44:19.349",
+    "end": "00:44:24.430"
+  },
+  {
+    "text": "hierarchy you use when you're distressed--andkids get very good at that, you know, so they'll",
+    "begin": "00:44:24.430",
+    "end": "00:44:30.079"
+  },
+  {
+    "text": "cry, which is a reflex, but by the time they'reabout two, they're pretty damn good at crying.",
+    "begin": "00:44:30.079",
+    "end": "00:44:36.470"
+  },
+  {
+    "text": "You know, they've got a cry that sounds likethey're sad and upset when they're really",
+    "begin": "00:44:36.470",
+    "end": "00:44:40.259"
+  },
+  {
+    "text": "angry.",
+    "begin": "00:44:40.259",
+    "end": "00:44:41.259"
+  },
+  {
+    "text": "And so if you really listen you can hear thedifference.",
+    "begin": "00:44:41.259",
+    "end": "00:44:44.170"
+  },
+  {
+    "text": "Because an angry baby sounds different thana sad baby.",
+    "begin": "00:44:44.170",
+    "end": "00:44:48.200"
+  },
+  {
+    "text": "But if you don't listen, the baby will haveyou thinking it's sad no problem.",
+    "begin": "00:44:48.200",
+    "end": "00:44:52.060"
+  },
+  {
+    "text": "Then you'll feel sorry for it and go helpit out, and really it's just thinking \"up",
+    "begin": "00:44:52.060",
+    "end": "00:44:55.730"
+  },
+  {
+    "text": "yours\" [Student laughter].",
+    "begin": "00:44:55.730",
+    "end": "00:44:57.319"
+  },
+  {
+    "text": "So we know this partly because--so let's sayyou've got a baby and it's under nine months,",
+    "begin": "00:44:57.319",
+    "end": "00:45:03.369"
+  },
+  {
+    "text": "six months old, and it's crying in its crib.",
+    "begin": "00:45:03.369",
+    "end": "00:45:05.440"
+  },
+  {
+    "text": "You think, well what should you do?",
+    "begin": "00:45:05.440",
+    "end": "00:45:07.009"
+  },
+  {
+    "text": "You go in there and you pick up the baby andyou comfort it and you probably do that pretty",
+    "begin": "00:45:07.009",
+    "end": "00:45:10.470"
+  },
+  {
+    "text": "much non-stop when the baby's that young becausethey're so young they should really still",
+    "begin": "00:45:10.470",
+    "end": "00:45:14.690"
+  },
+  {
+    "text": "be in utero--they're very young.",
+    "begin": "00:45:14.690",
+    "end": "00:45:16.910"
+  },
+  {
+    "text": "But by nine months that baby's starting toget smart.",
+    "begin": "00:45:16.910",
+    "end": "00:45:20.059"
+  },
+  {
+    "text": "And so it's about nine months when it canvisually recognize people it knows and people",
+    "begin": "00:45:20.059",
+    "end": "00:45:25.650"
+  },
+  {
+    "text": "he/she doesn’t know.",
+    "begin": "00:45:25.650",
+    "end": "00:45:28.020"
+  },
+  {
+    "text": "And then, so the baby's in there and it'ssquawking a bit and so, it wants some attention,",
+    "begin": "00:45:28.020",
+    "end": "00:45:33.359"
+  },
+  {
+    "text": "and then someone walks in and it's not themother.",
+    "begin": "00:45:33.359",
+    "end": "00:45:35.809"
+  },
+  {
+    "text": "And the baby bursts into tears and peoplethink the baby's all sad because its mother",
+    "begin": "00:45:35.809",
+    "end": "00:45:39.869"
+  },
+  {
+    "text": "didn't show up.",
+    "begin": "00:45:39.869",
+    "end": "00:45:40.869"
+  },
+  {
+    "text": "It's not sad, it's really irritated that thewrong person showed up.",
+    "begin": "00:45:40.869",
+    "end": "00:45:45.190"
+  },
+  {
+    "text": "And you can tell that because people havedone facial coding of the baby's expression",
+    "begin": "00:45:45.190",
+    "end": "00:45:49.839"
+  },
+  {
+    "text": "and also its skin tone and an angry baby looksangry.",
+    "begin": "00:45:49.839",
+    "end": "00:45:53.049"
+  },
+  {
+    "text": "First of all it turns all red, it's reallyangry.",
+    "begin": "00:45:53.049",
+    "end": "00:45:56.380"
+  },
+  {
+    "text": "And you see that behaviour later too in tempertantrums.",
+    "begin": "00:45:56.380",
+    "end": "00:45:59.680"
+  },
+  {
+    "text": "Like a two year old that's having a tempertantrum is just having a fit of rage.",
+    "begin": "00:45:59.680",
+    "end": "00:46:05.519"
+  },
+  {
+    "text": "The rage system, because there is a rage system,is just completely out of control, it's just",
+    "begin": "00:46:05.519",
+    "end": "00:46:10.380"
+  },
+  {
+    "text": "absolutely dominating their behaviour.",
+    "begin": "00:46:10.380",
+    "end": "00:46:13.200"
+  },
+  {
+    "text": "You don't really want to encourage that becausethe rage system should start to be modulated",
+    "begin": "00:46:13.200",
+    "end": "00:46:18.069"
+  },
+  {
+    "text": "by other systems and other higher order controlsystems.",
+    "begin": "00:46:18.069",
+    "end": "00:46:21.759"
+  },
+  {
+    "text": "Not so much suppressed or repressed whichis sort of how the Freudians would think , but",
+    "begin": "00:46:21.759",
+    "end": "00:46:26.210"
+  },
+  {
+    "text": "integrated into more complex and sophisticatedmodes of action, so the child can use its",
+    "begin": "00:46:26.210",
+    "end": "00:46:31.279"
+  },
+  {
+    "text": "anger--which is an extraordinarily usefulcapacity, because it allows you to defend",
+    "begin": "00:46:31.279",
+    "end": "00:46:36.869"
+  },
+  {
+    "text": "yourself--so the child can learn to use thatin a sophisticated way so it can solve the",
+    "begin": "00:46:36.869",
+    "end": "00:46:41.069"
+  },
+  {
+    "text": "problems that would lead to a rage attackwithout ever getting to the point where it",
+    "begin": "00:46:41.069",
+    "end": "00:46:46.059"
+  },
+  {
+    "text": "has to be enraged.",
+    "begin": "00:46:46.059",
+    "end": "00:46:47.779"
+  },
+  {
+    "text": "That's a functional child--it's not like it'slearned to repress its anger, it's just that",
+    "begin": "00:46:47.779",
+    "end": "00:46:51.079"
+  },
+  {
+    "text": "it gets along with people and never has toget angry.",
+    "begin": "00:46:51.079",
+    "end": "00:46:54.059"
+  },
+  {
+    "text": "So, now some kids learn to repress their angerbecause they're in a household where any manifestation",
+    "begin": "00:46:54.059",
+    "end": "00:47:01.280"
+  },
+  {
+    "text": "of anger is dealt with very very harshly.",
+    "begin": "00:47:01.280",
+    "end": "00:47:04.289"
+  },
+  {
+    "text": "And maybe there's a rule that everyone hasto be nice to each other all the time, or",
+    "begin": "00:47:04.289",
+    "end": "00:47:09.390"
+  },
+  {
+    "text": "else.",
+    "begin": "00:47:09.390",
+    "end": "00:47:10.390"
+  },
+  {
+    "text": "Sort of a paradoxical rule.",
+    "begin": "00:47:10.390",
+    "end": "00:47:12.549"
+  },
+  {
+    "text": "But anyways, you can imagine there's a lotof these biological systems and so I want",
+    "begin": "00:47:12.549",
+    "end": "00:47:17.119"
+  },
+  {
+    "text": "to show you some of their instantiation here,so let's look at this one.",
+    "begin": "00:47:17.119",
+    "end": "00:47:23.170"
+  },
+  {
+    "text": "When you get up above the spinal cord, there'sa little brain area, I'll show you about how",
+    "begin": "00:47:23.170",
+    "end": "00:47:29.369"
+  },
+  {
+    "text": "big it is.",
+    "begin": "00:47:29.369",
+    "end": "00:47:30.640"
+  },
+  {
+    "text": "There it is.",
+    "begin": "00:47:30.640",
+    "end": "00:47:31.640"
+  },
+  {
+    "text": "So there's your brain, the top-on part, thepart on top, that's the cerebral cortex.",
+    "begin": "00:47:31.640",
+    "end": "00:47:37.540"
+  },
+  {
+    "text": "That's the part that people are really proudof.",
+    "begin": "00:47:37.540",
+    "end": "00:47:39.769"
+  },
+  {
+    "text": "It's like, oh wow, look at our cerebral cortex.",
+    "begin": "00:47:39.769",
+    "end": "00:47:41.990"
+  },
+  {
+    "text": "Doesn't it have a lot of neurons [studentlaughter].",
+    "begin": "00:47:41.990",
+    "end": "00:47:45.049"
+  },
+  {
+    "text": "Then, in the middle there, there are olderbrain area--phylogenetically old--and then",
+    "begin": "00:47:45.049",
+    "end": "00:47:50.520"
+  },
+  {
+    "text": "as you go down toward the spinal cord theybasically get older and older and older and",
+    "begin": "00:47:50.520",
+    "end": "00:47:53.830"
+  },
+  {
+    "text": "older.",
+    "begin": "00:47:53.830",
+    "end": "00:47:55.499"
+  },
+  {
+    "text": "And more and more critical to your development.",
+    "begin": "00:47:55.499",
+    "end": "00:47:59.269"
+  },
+  {
+    "text": "So the serotonin system, we talked about ita little bit in lobsters, right.",
+    "begin": "00:47:59.269",
+    "end": "00:48:03.799"
+  },
+  {
+    "text": "The serotonin system determines where a lobsteris in a dominance hierarchy, it determines",
+    "begin": "00:48:03.799",
+    "end": "00:48:08.549"
+  },
+  {
+    "text": "whether it stands like this or whether itstands like this.",
+    "begin": "00:48:08.549",
+    "end": "00:48:11.829"
+  },
+  {
+    "text": "That's an old system.",
+    "begin": "00:48:11.829",
+    "end": "00:48:12.869"
+  },
+  {
+    "text": "And when your brain is developing in uteroit's the serotonin system that guides its",
+    "begin": "00:48:12.869",
+    "end": "00:48:17.609"
+  },
+  {
+    "text": "development.",
+    "begin": "00:48:17.609",
+    "end": "00:48:18.609"
+  },
+  {
+    "text": "So that's how important it is, sort of likethe conductor of the orchestra, but it's also",
+    "begin": "00:48:18.609",
+    "end": "00:48:22.200"
+  },
+  {
+    "text": "the thing that controls the entire unfoldingof the brain.",
+    "begin": "00:48:22.200",
+    "end": "00:48:26.960"
+  },
+  {
+    "text": "And it's a really really archaic system, soin some sense your being is controlled by",
+    "begin": "00:48:26.960",
+    "end": "00:48:36.200"
+  },
+  {
+    "text": "these things that are ancient, beyond comprehension.",
+    "begin": "00:48:36.200",
+    "end": "00:48:38.509"
+  },
+  {
+    "text": "Anyways, you look at the hypothalamus andyou think, well that's not very big.",
+    "begin": "00:48:38.509",
+    "end": "00:48:44.269"
+  },
+  {
+    "text": "And yeah, it's not.",
+    "begin": "00:48:44.269",
+    "end": "00:48:46.430"
+  },
+  {
+    "text": "But, if you take a cat and you--so a cat brainlooks something like that--if you take off",
+    "begin": "00:48:46.430",
+    "end": "00:48:52.499"
+  },
+  {
+    "text": "all the stuff that's in light orange and mostof the top of the stuff that's above the hypothalamus",
+    "begin": "00:48:52.499",
+    "end": "00:48:57.640"
+  },
+  {
+    "text": "that's in white--you just take all that out,and it's a female cat and it's in a cage--you",
+    "begin": "00:48:57.640",
+    "end": "00:49:02.789"
+  },
+  {
+    "text": "really can't tell the difference between itand a cat that has all the rest of that brain.",
+    "begin": "00:49:02.789",
+    "end": "00:49:07.519"
+  },
+  {
+    "text": "Now there's some things it can't do.",
+    "begin": "00:49:07.519",
+    "end": "00:49:09.690"
+  },
+  {
+    "text": "It doesn't do very well if you take it intoa new situation because it can't learn.",
+    "begin": "00:49:09.690",
+    "end": "00:49:14.579"
+  },
+  {
+    "text": "More importantly in some sense, it can't remember.",
+    "begin": "00:49:14.579",
+    "end": "00:49:18.050"
+  },
+  {
+    "text": "So it's in a perpetual sense of everythinghappening for the very first time.",
+    "begin": "00:49:18.050",
+    "end": "00:49:22.809"
+  },
+  {
+    "text": "But it's still capable of a lot of the reactionsthat would be necessary for you to stay alive.",
+    "begin": "00:49:22.809",
+    "end": "00:49:27.440"
+  },
+  {
+    "text": "SO it can regulate its liquid intake, it canregulate its food intake, it can react sexually,",
+    "begin": "00:49:27.440",
+    "end": "00:49:32.930"
+  },
+  {
+    "text": "it's capable of defensive aggression, althoughit'll really fly into a rage so it's kind",
+    "begin": "00:49:32.930",
+    "end": "00:49:36.989"
+  },
+  {
+    "text": "of like a disinhibited two year old in somesense.",
+    "begin": "00:49:36.989",
+    "end": "00:49:40.979"
+  },
+  {
+    "text": "And as long as you keep it in the cage andprovide it with food and water it's like the",
+    "begin": "00:49:40.979",
+    "end": "00:49:45.279"
+  },
+  {
+    "text": "way it lives.",
+    "begin": "00:49:45.279",
+    "end": "00:49:47.229"
+  },
+  {
+    "text": "And it's hyper exploratory which I think isjust weird beyond belief.",
+    "begin": "00:49:47.229",
+    "end": "00:49:50.989"
+  },
+  {
+    "text": "You know, you take the brain off a cat andthen all it wants to do is explore.",
+    "begin": "00:49:50.989",
+    "end": "00:49:54.800"
+  },
+  {
+    "text": "Which is not what you think at all.",
+    "begin": "00:49:54.800",
+    "end": "00:49:56.229"
+  },
+  {
+    "text": "It's like, a cat with no brain is really curious--itjust doesn't make sense.",
+    "begin": "00:49:56.229",
+    "end": "00:50:01.299"
+  },
+  {
+    "text": "But it does actually because the systems thatdrive your exploratory urge are rooted in",
+    "begin": "00:50:01.299",
+    "end": "00:50:06.739"
+  },
+  {
+    "text": "that hypothalamus and they're actually thesame systems--it's individual differences",
+    "begin": "00:50:06.739",
+    "end": "00:50:13.740"
+  },
+  {
+    "text": "in the functions and sensitivity of thosesystems that are in part associated with individual",
+    "begin": "00:50:13.740",
+    "end": "00:50:18.380"
+  },
+  {
+    "text": "differences in extraversion.",
+    "begin": "00:50:18.380",
+    "end": "00:50:20.299"
+  },
+  {
+    "text": "So extroverts are sort of hyper exploratoryin social situations.",
+    "begin": "00:50:20.299",
+    "end": "00:50:23.920"
+  },
+  {
+    "text": "Whereas introverts aren't.",
+    "begin": "00:50:23.920",
+    "end": "00:50:25.540"
+  },
+  {
+    "text": "And the exploratory circuit that has its originsin the hypothalamus runs on dopamine, roughly",
+    "begin": "00:50:25.540",
+    "end": "00:50:32.420"
+  },
+  {
+    "text": "speaking, and then it runs through the baseof your brain and then up into your prefrontal",
+    "begin": "00:50:32.420",
+    "end": "00:50:37.309"
+  },
+  {
+    "text": "cortex in particular.",
+    "begin": "00:50:37.309",
+    "end": "00:50:38.970"
+  },
+  {
+    "text": "And it's also the system that responds tococaine and amphetamines and other drugs that",
+    "begin": "00:50:38.970",
+    "end": "00:50:43.660"
+  },
+  {
+    "text": "people like to take because they heightenpositive emotion.",
+    "begin": "00:50:43.660",
+    "end": "00:50:47.200"
+  },
+  {
+    "text": "So it's variability at a very very low levelin the brain that determines things like the",
+    "begin": "00:50:47.200",
+    "end": "00:50:53.789"
+  },
+  {
+    "text": "differences in extraverts and introverts.",
+    "begin": "00:50:53.789",
+    "end": "00:50:55.329"
+  },
+  {
+    "text": "Anyways, it's this tiny little part of thebrain and if that's all you have you can get",
+    "begin": "00:50:55.329",
+    "end": "00:51:03.010"
+  },
+  {
+    "text": "along not too bad.",
+    "begin": "00:51:03.010",
+    "end": "00:51:06.380"
+  },
+  {
+    "text": "But that's also because it's tiny from onelevel of analysis, but it's really big from",
+    "begin": "00:51:06.380",
+    "end": "00:51:11.079"
+  },
+  {
+    "text": "another.",
+    "begin": "00:51:11.079",
+    "end": "00:51:12.619"
+  },
+  {
+    "text": "I mean, you can increase your resolution whenyou're doing brain analysis all the way down",
+    "begin": "00:51:12.619",
+    "end": "00:51:19.130"
+  },
+  {
+    "text": "to the molecular level and still be lookingat the brain, you know.",
+    "begin": "00:51:19.130",
+    "end": "00:51:23.329"
+  },
+  {
+    "text": "Below the molecular level, at the atomic level,well everything's made out of atoms.",
+    "begin": "00:51:23.329",
+    "end": "00:51:28.739"
+  },
+  {
+    "text": "But the brain is already there at a molecularlevel and it's insanely complicated at a molecular",
+    "begin": "00:51:28.739",
+    "end": "00:51:33.799"
+  },
+  {
+    "text": "level, and the hypothalamus is way biggerthan a molecule.",
+    "begin": "00:51:33.799",
+    "end": "00:51:38.339"
+  },
+  {
+    "text": "And so even though it's small compared tothe rest of our brain it's still a whopping",
+    "begin": "00:51:38.339",
+    "end": "00:51:43.030"
+  },
+  {
+    "text": "big structure by atomic standards and so there'sa hell of a lot going on down there.",
+    "begin": "00:51:43.030",
+    "end": "00:51:47.079"
+  },
+  {
+    "text": "And you notice the hypothalamus, you mightsay, is there such a thing as the id.",
+    "begin": "00:51:47.079",
+    "end": "00:51:53.109"
+  },
+  {
+    "text": "Well, yes and no.",
+    "begin": "00:51:53.109",
+    "end": "00:51:56.329"
+  },
+  {
+    "text": "Is it in the brain?",
+    "begin": "00:51:56.329",
+    "end": "00:51:57.630"
+  },
+  {
+    "text": "Yes and no.",
+    "begin": "00:51:57.630",
+    "end": "00:51:58.979"
+  },
+  {
+    "text": "A really low resolution representation ofwhat's in the brain, that's one way of thinking",
+    "begin": "00:51:58.979",
+    "end": "00:52:04.079"
+  },
+  {
+    "text": "about it.",
+    "begin": "00:52:04.079",
+    "end": "00:52:05.079"
+  },
+  {
+    "text": "But then you might say, is there a hypothalamus?",
+    "begin": "00:52:05.079",
+    "end": "00:52:07.890"
+  },
+  {
+    "text": "And the answer to that is, well, yes and no.",
+    "begin": "00:52:07.890",
+    "end": "00:52:10.049"
+  },
+  {
+    "text": "Because there's the hypothalamic structure,and you see it's made out of a bunch of things",
+    "begin": "00:52:10.049",
+    "end": "00:52:14.309"
+  },
+  {
+    "text": "that are different.",
+    "begin": "00:52:14.309",
+    "end": "00:52:15.509"
+  },
+  {
+    "text": "And so you could say, well should you evengroup those things together.",
+    "begin": "00:52:15.509",
+    "end": "00:52:18.819"
+  },
+  {
+    "text": "And the answer to that is, it depends on whyyou're grouping them together.",
+    "begin": "00:52:18.819",
+    "end": "00:52:22.910"
+  },
+  {
+    "text": "If it's useful for some purpose of understandingor control, to group them together--they're",
+    "begin": "00:52:22.910",
+    "end": "00:52:30.630"
+  },
+  {
+    "text": "similar in the way that they emerge in thecourse of brain development, and they're roughly",
+    "begin": "00:52:30.630",
+    "end": "00:52:34.239"
+  },
+  {
+    "text": "of the same phylogenetic age--but there'slots of reasons to treat them as the same",
+    "begin": "00:52:34.239",
+    "end": "00:52:38.890"
+  },
+  {
+    "text": "and there's lots of reasons to treat themas different.",
+    "begin": "00:52:38.890",
+    "end": "00:52:40.509"
+  },
+  {
+    "text": "It depends on what you're trying to do.",
+    "begin": "00:52:40.509",
+    "end": "00:52:43.109"
+  },
+  {
+    "text": "Anyways, the hypothalamus has all these littlesub-structures that are really in some sense",
+    "begin": "00:52:43.109",
+    "end": "00:52:56.410"
+  },
+  {
+    "text": "at the core of the sub-personalities thatwe talked about.",
+    "begin": "00:52:56.410",
+    "end": "00:53:00.029"
+  },
+  {
+    "text": "So, for example--okay so this is Swanson againand he's showing you--this is a rat's brain",
+    "begin": "00:53:00.029",
+    "end": "00:53:12.910"
+  },
+  {
+    "text": "from the bottom--and he's showing you thelayout of the hypothalamus.",
+    "begin": "00:53:12.910",
+    "end": "00:53:16.859"
+  },
+  {
+    "text": "You see it's got all those different nuclei.",
+    "begin": "00:53:16.859",
+    "end": "00:53:19.170"
+  },
+  {
+    "text": "It doesn't look like one thing, it looks likea bunch of things.",
+    "begin": "00:53:19.170",
+    "end": "00:53:22.049"
+  },
+  {
+    "text": "And so here he says, the descending paraventricularnucleus is involved in the control of eating",
+    "begin": "00:53:22.049",
+    "end": "00:53:30.119"
+  },
+  {
+    "text": "and drinking, and that's shown in green.",
+    "begin": "00:53:30.119",
+    "end": "00:53:33.140"
+  },
+  {
+    "text": "So that's the thing that--when you get hungryor thirsty--that's the thing that sort of",
+    "begin": "00:53:33.140",
+    "end": "00:53:37.499"
+  },
+  {
+    "text": "turns on your hungry and thirsty sub-personality.",
+    "begin": "00:53:37.499",
+    "end": "00:53:40.890"
+  },
+  {
+    "text": "And then the rest of the cell groups playa major role in controlling two classes of",
+    "begin": "00:53:40.890",
+    "end": "00:53:45.269"
+  },
+  {
+    "text": "social behaviour, that is, behaviours involvinginteractions between animals: reproductive--that's",
+    "begin": "00:53:45.269",
+    "end": "00:53:49.999"
+  },
+  {
+    "text": "the red areas--and defensive--the purplishareas.",
+    "begin": "00:53:49.999",
+    "end": "00:53:55.809"
+  },
+  {
+    "text": "So now what you can think is, you have allthose little subroutines that we talked about,",
+    "begin": "00:53:55.809",
+    "end": "00:54:00.460"
+  },
+  {
+    "text": "that're sort of at hand and ready to go, andthen they're organized underneath these major",
+    "begin": "00:54:00.460",
+    "end": "00:54:05.799"
+  },
+  {
+    "text": "classes of motivation so that, you have todo something--like eat--and so it's like there's",
+    "begin": "00:54:05.799",
+    "end": "00:54:13.359"
+  },
+  {
+    "text": "an eating robot in you, that's one way ofthinking about it, except it's smarter than",
+    "begin": "00:54:13.359",
+    "end": "00:54:17.390"
+  },
+  {
+    "text": "that and it's alive and conscious.",
+    "begin": "00:54:17.390",
+    "end": "00:54:19.640"
+  },
+  {
+    "text": "These things are alive, they're not machinesand they're not deterministic.",
+    "begin": "00:54:19.640",
+    "end": "00:54:25.529"
+  },
+  {
+    "text": "You can think of them as low-resolution personalities,or uni-dimensional personalities because the",
+    "begin": "00:54:25.529",
+    "end": "00:54:30.539"
+  },
+  {
+    "text": "only thing the eating system really caresabout is whether or not you eat.",
+    "begin": "00:54:30.539",
+    "end": "00:54:33.759"
+  },
+  {
+    "text": "And the drinking system is the same thing.",
+    "begin": "00:54:33.759",
+    "end": "00:54:36.019"
+  },
+  {
+    "text": "You know, you see malfunctions sometimes inpeople of these singular systems, so you can",
+    "begin": "00:54:36.019",
+    "end": "00:54:41.039"
+  },
+  {
+    "text": "develop a condition if you have hypothalamicdamage where you'll drink water til you die",
+    "begin": "00:54:41.039",
+    "end": "00:54:47.479"
+  },
+  {
+    "text": "and no one can stop you.",
+    "begin": "00:54:47.479",
+    "end": "00:54:49.260"
+  },
+  {
+    "text": "They can lock you in a room away from sinksand that would stop you, but you'd be raging",
+    "begin": "00:54:49.260",
+    "end": "00:54:53.729"
+  },
+  {
+    "text": "away inside trying to claw through the doorto get to the damn water because you're so",
+    "begin": "00:54:53.729",
+    "end": "00:54:57.579"
+  },
+  {
+    "text": "hyper-thirsty that it's all that there isleft of you in some sense and if you're allowed",
+    "begin": "00:54:57.579",
+    "end": "00:55:03.469"
+  },
+  {
+    "text": "access to a tap, you'll just drink and drinkand drink and drink and drink until you drown.",
+    "begin": "00:55:03.469",
+    "end": "00:55:08.359"
+  },
+  {
+    "text": "And, you know, people can say, hey you'vehad enough water--it's like, forget that.",
+    "begin": "00:55:08.359",
+    "end": "00:55:13.869"
+  },
+  {
+    "text": "The hypothalamus is a major league system,and when push comes to shove, it's the thing",
+    "begin": "00:55:13.869",
+    "end": "00:55:19.089"
+  },
+  {
+    "text": "that's in control.",
+    "begin": "00:55:19.089",
+    "end": "00:55:20.539"
+  },
+  {
+    "text": "And one of the ways of thinking about theway that you organize your life is that, the",
+    "begin": "00:55:20.539",
+    "end": "00:55:26.299"
+  },
+  {
+    "text": "hypothalamus controls the major motivationsystems--we just talked about those--and so",
+    "begin": "00:55:26.299",
+    "end": "00:55:30.190"
+  },
+  {
+    "text": "those are the things that people would thinkabout as drives.",
+    "begin": "00:55:30.190",
+    "end": "00:55:33.039"
+  },
+  {
+    "text": "Although they're not drives, they're too complicatedto be drives.",
+    "begin": "00:55:33.039",
+    "end": "00:55:36.279"
+  },
+  {
+    "text": "And then there's other systems that come uplater that we'll also talk about that govern",
+    "begin": "00:55:36.279",
+    "end": "00:55:40.819"
+  },
+  {
+    "text": "emotion, like anxiety and a different systemthat governs pain.",
+    "begin": "00:55:40.819",
+    "end": "00:55:46.650"
+  },
+  {
+    "text": "Partly what you're trying to do as your organizeyour life is to make sure those systems stay",
+    "begin": "00:55:46.650",
+    "end": "00:55:50.390"
+  },
+  {
+    "text": "shut off.",
+    "begin": "00:55:50.390",
+    "end": "00:55:52.160"
+  },
+  {
+    "text": "And then you think, well I'm in control.",
+    "begin": "00:55:52.160",
+    "end": "00:55:53.809"
+  },
+  {
+    "text": "Well no, you're not.",
+    "begin": "00:55:53.809",
+    "end": "00:55:55.320"
+  },
+  {
+    "text": "You just satisfied all the things that couldtake control from you, and so now you have",
+    "begin": "00:55:55.320",
+    "end": "00:56:00.549"
+  },
+  {
+    "text": "a modicum of choice.",
+    "begin": "00:56:00.549",
+    "end": "00:56:02.089"
+  },
+  {
+    "text": "And basically what you're doing when all thesethings have had what they need is you're running",
+    "begin": "00:56:02.089",
+    "end": "00:56:05.759"
+  },
+  {
+    "text": "around exploring.",
+    "begin": "00:56:05.759",
+    "end": "00:56:07.569"
+  },
+  {
+    "text": "You know, and that's also another one of thesecircuits because the hypothalamus, as I already",
+    "begin": "00:56:07.569",
+    "end": "00:56:12.670"
+  },
+  {
+    "text": "said, governs exploration.",
+    "begin": "00:56:12.670",
+    "end": "00:56:14.119"
+  },
+  {
+    "text": "So, a lot of--see, psychologists often getthings backwards and they ask silly questions",
+    "begin": "00:56:14.119",
+    "end": "00:56:23.329"
+  },
+  {
+    "text": "like why are people anxious.",
+    "begin": "00:56:23.329",
+    "end": "00:56:25.119"
+  },
+  {
+    "text": "That's a stupid question.",
+    "begin": "00:56:25.119",
+    "end": "00:56:26.769"
+  },
+  {
+    "text": "It's why are people ever calm--that's a question.",
+    "begin": "00:56:26.769",
+    "end": "00:56:31.680"
+  },
+  {
+    "text": "Why are you anxious?",
+    "begin": "00:56:31.680",
+    "end": "00:56:33.269"
+  },
+  {
+    "text": "Well, hmm, think of all the terrible thingsthat can happen to you.",
+    "begin": "00:56:33.269",
+    "end": "00:56:36.390"
+  },
+  {
+    "text": "And they will happen to you, even worse, andthere isn't anything you can do about it.",
+    "begin": "00:56:36.390",
+    "end": "00:56:39.759"
+  },
+  {
+    "text": "It's like why aren't you quaking in your bootsjust sitting there.",
+    "begin": "00:56:39.759",
+    "end": "00:56:43.010"
+  },
+  {
+    "text": "Well, that's a mystery.",
+    "begin": "00:56:43.010",
+    "end": "00:56:45.250"
+  },
+  {
+    "text": "You know, and then, here you are in your normalstate--it's like, well no, this is not a normal",
+    "begin": "00:56:45.250",
+    "end": "00:56:52.519"
+  },
+  {
+    "text": "state.",
+    "begin": "00:56:52.519",
+    "end": "00:56:53.519"
+  },
+  {
+    "text": "People have been trying for seven millionyears, as people, to create a situation so",
+    "begin": "00:56:53.519",
+    "end": "00:57:02.009"
+  },
+  {
+    "text": "complex and comfortable that a couple hundredof you can sit here without having your hypothalamus",
+    "begin": "00:57:02.009",
+    "end": "00:57:08.579"
+  },
+  {
+    "text": "driving you toward something and actuallyjust listen to something for a few hours.",
+    "begin": "00:57:08.579",
+    "end": "00:57:13.420"
+  },
+  {
+    "text": "That's not normal.",
+    "begin": "00:57:13.420",
+    "end": "00:57:14.869"
+  },
+  {
+    "text": "That's so staggeringly abnormal that it'sa miracle.",
+    "begin": "00:57:14.869",
+    "end": "00:57:19.859"
+  },
+  {
+    "text": "The typical person--and for most of humanhistory--it's like, you are hungry, man.",
+    "begin": "00:57:19.859",
+    "end": "00:57:26.579"
+  },
+  {
+    "text": "And that's not the same.",
+    "begin": "00:57:26.579",
+    "end": "00:57:27.839"
+  },
+  {
+    "text": "Like you people--well some of you have probablybeen hungry in your life, but--is there someone",
+    "begin": "00:57:27.839",
+    "end": "00:57:34.210"
+  },
+  {
+    "text": "here who's gone without food for more thanone day?",
+    "begin": "00:57:34.210",
+    "end": "00:57:37.950"
+  },
+  {
+    "text": "Okay has anybody here gone without food formore than a week.",
+    "begin": "00:57:37.950",
+    "end": "00:57:41.359"
+  },
+  {
+    "text": "Okay, how about three days?",
+    "begin": "00:57:41.359",
+    "end": "00:57:45.749"
+  },
+  {
+    "text": "Okay, so like, are you hungry?",
+    "begin": "00:57:45.749",
+    "end": "00:57:50.520"
+  },
+  {
+    "text": "No.",
+    "begin": "00:57:50.520",
+    "end": "00:57:51.520"
+  },
+  {
+    "text": "You're hungry when you haven't had anythingto eat for twenty days, then you're hungry.",
+    "begin": "00:57:51.520",
+    "end": "00:57:56.089"
+  },
+  {
+    "text": "And the same goes for thirst and cold andall the things we're just never exposed to.",
+    "begin": "00:57:56.089",
+    "end": "00:58:00.650"
+  },
+  {
+    "text": "So we think civilized people are all calmand nice and easy to get along with, it's",
+    "begin": "00:58:00.650",
+    "end": "00:58:04.301"
+  },
+  {
+    "text": "like, yeah well you have absolutely everythingyou need all the time and that makes you as",
+    "begin": "00:58:04.301",
+    "end": "00:58:12.109"
+  },
+  {
+    "text": "easy to get along with as any completely insaneprimate ever gets.",
+    "begin": "00:58:12.109",
+    "end": "00:58:16.960"
+  },
+  {
+    "text": "Okay, so you might say, well god, if you cansurvive with just the hypothalamus, what good",
+    "begin": "00:58:16.960",
+    "end": "00:58:24.049"
+  },
+  {
+    "text": "is the rest of the brain?",
+    "begin": "00:58:24.049",
+    "end": "00:58:26.009"
+  },
+  {
+    "text": "And the answer is, well, if you're thirsty--let'ssay you're angry, the hunger system isn't",
+    "begin": "00:58:26.009",
+    "end": "00:58:36.000"
+  },
+  {
+    "text": "going to be able to take care of that, right.",
+    "begin": "00:58:36.000",
+    "end": "00:58:37.730"
+  },
+  {
+    "text": "So you're hungry, okay, that works.",
+    "begin": "00:58:37.730",
+    "end": "00:58:40.319"
+  },
+  {
+    "text": "You're angry, that works.",
+    "begin": "00:58:40.319",
+    "end": "00:58:42.150"
+  },
+  {
+    "text": "But then you have another problem, which isyou're hungry now and you're angry now, perhaps,",
+    "begin": "00:58:42.150",
+    "end": "00:58:47.780"
+  },
+  {
+    "text": "you can move through those states.",
+    "begin": "00:58:47.780",
+    "end": "00:58:50.059"
+  },
+  {
+    "text": "If you watch that, you'll see that in twoyear olds--it's part of why they're so fun",
+    "begin": "00:58:50.059",
+    "end": "00:58:53.210"
+  },
+  {
+    "text": "to be around.",
+    "begin": "00:58:53.210",
+    "end": "00:58:54.900"
+  },
+  {
+    "text": "First of all, they're really excited and they'rerunning around playing and then they trip",
+    "begin": "00:58:54.900",
+    "end": "00:58:58.410"
+  },
+  {
+    "text": "and they're crying like made and then youpoke them and they laugh and then they want",
+    "begin": "00:58:58.410",
+    "end": "00:59:01.829"
+  },
+  {
+    "text": "something to eat and then they fall asleep[student laughter].",
+    "begin": "00:59:01.829",
+    "end": "00:59:04.140"
+  },
+  {
+    "text": "You know, they're just run by their hypothalamusand it's really fun to see because they're",
+    "begin": "00:59:04.140",
+    "end": "00:59:09.200"
+  },
+  {
+    "text": "so alive and so enthusiastic and spontaneous,but they're completely clueless.",
+    "begin": "00:59:09.200",
+    "end": "00:59:13.670"
+  },
+  {
+    "text": "It's like, you take one of those creaturesto the mall and leave it there and it's just",
+    "begin": "00:59:13.670",
+    "end": "00:59:18.400"
+  },
+  {
+    "text": "not happy at all.",
+    "begin": "00:59:18.400",
+    "end": "00:59:20.059"
+  },
+  {
+    "text": "And the reason for that is, well it doesn'tknow how to sequence any of its actions, right.",
+    "begin": "00:59:20.059",
+    "end": "00:59:25.190"
+  },
+  {
+    "text": "It runs through these states of need, butit isn't complicated enough to figure out",
+    "begin": "00:59:25.190",
+    "end": "00:59:30.890"
+  },
+  {
+    "text": "how to address those needs in any consistentsense across multiple environments in a social",
+    "begin": "00:59:30.890",
+    "end": "00:59:37.460"
+  },
+  {
+    "text": "world.",
+    "begin": "00:59:37.460",
+    "end": "00:59:38.460"
+  },
+  {
+    "text": "You need the rest of your brain for that.",
+    "begin": "00:59:38.460",
+    "end": "00:59:40.270"
+  },
+  {
+    "text": "And that again fits in with the Piagetianidea--is that what you're doing is you're",
+    "begin": "00:59:40.270",
+    "end": "00:59:44.170"
+  },
+  {
+    "text": "taking these micropersonalities that are basicallyinstantiated within the hypothalamus and then",
+    "begin": "00:59:44.170",
+    "end": "00:59:50.119"
+  },
+  {
+    "text": "you're organizing those into more and morecomplex games.",
+    "begin": "00:59:50.119",
+    "end": "00:59:53.430"
+  },
+  {
+    "text": "And you need the cortex to do that becausethe cortex is partly what enables you to think",
+    "begin": "00:59:53.430",
+    "end": "00:59:58.839"
+  },
+  {
+    "text": "about time.",
+    "begin": "00:59:58.839",
+    "end": "01:00:00.819"
+  },
+  {
+    "text": "You know, because the hypothalamus, it's ahere and now thing.",
+    "begin": "01:00:00.819",
+    "end": "01:00:05.319"
+  },
+  {
+    "text": "The hypothalamic cat lives in the present--there'sthe present, and that's it.",
+    "begin": "01:00:05.319",
+    "end": "01:00:10.630"
+  },
+  {
+    "text": "You can probably get some sense of that--likeone of the things that happens to people if",
+    "begin": "01:00:10.630",
+    "end": "01:00:15.740"
+  },
+  {
+    "text": "they take amphetamines or if they take psychedelicdrugs is that some of the inhibitory control,",
+    "begin": "01:00:15.740",
+    "end": "01:00:22.460"
+  },
+  {
+    "text": "some of the more complex control systems thatare cortical, shut down.",
+    "begin": "01:00:22.460",
+    "end": "01:00:26.670"
+  },
+  {
+    "text": "And so then they enter a state where it'sall now and you know, the now just comes at",
+    "begin": "01:00:26.670",
+    "end": "01:00:32.940"
+  },
+  {
+    "text": "people in that state.",
+    "begin": "01:00:32.940",
+    "end": "01:00:34.319"
+  },
+  {
+    "text": "It's a transcendent experience, but of course,despite that, you're not functional.",
+    "begin": "01:00:34.319",
+    "end": "01:00:40.259"
+  },
+  {
+    "text": "And so in some sense you trade that transcendentrelationship with reality for a narrow functionality.",
+    "begin": "01:00:40.259",
+    "end": "01:00:46.230"
+  },
+  {
+    "text": "And that's too bad and that's life, but it'sa tradeoff.",
+    "begin": "01:00:46.230",
+    "end": "01:00:51.000"
+  },
+  {
+    "text": "So anyways you're organizing these sub-personalitiesand you're using your cortex to do that because",
+    "begin": "01:00:51.000",
+    "end": "01:00:57.329"
+  },
+  {
+    "text": "you don't just have to think about eating,you have to think about, how am I going to",
+    "begin": "01:00:57.329",
+    "end": "01:01:02.150"
+  },
+  {
+    "text": "get the food?",
+    "begin": "01:01:02.150",
+    "end": "01:01:03.270"
+  },
+  {
+    "text": "When is the food going to come?",
+    "begin": "01:01:03.270",
+    "end": "01:01:04.680"
+  },
+  {
+    "text": "How am I going to cook the food?",
+    "begin": "01:01:04.680",
+    "end": "01:01:06.130"
+  },
+  {
+    "text": "What about all the other people that wantto eat?",
+    "begin": "01:01:06.130",
+    "end": "01:01:08.270"
+  },
+  {
+    "text": "How do we regulate that in our family?",
+    "begin": "01:01:08.270",
+    "end": "01:01:10.479"
+  },
+  {
+    "text": "And then how do we regulate that with thefact that we also need to sleep and we need",
+    "begin": "01:01:10.479",
+    "end": "01:01:13.599"
+  },
+  {
+    "text": "to work and we need to get along with otherpeople and we need to have something interesting",
+    "begin": "01:01:13.599",
+    "end": "01:01:16.869"
+  },
+  {
+    "text": "to do and--it's ridiculously complicated.",
+    "begin": "01:01:16.869",
+    "end": "01:01:20.479"
+  },
+  {
+    "text": "And there's no end to the complication because,maybe you're just solving the problem for",
+    "begin": "01:01:20.479",
+    "end": "01:01:28.119"
+  },
+  {
+    "text": "you, and then you're two.",
+    "begin": "01:01:28.119",
+    "end": "01:01:30.460"
+  },
+  {
+    "text": "Or maybe you're trying to work it out withinyour family.",
+    "begin": "01:01:30.460",
+    "end": "01:01:32.589"
+  },
+  {
+    "text": "Well then that's sort of like the Crumb brothers,they never get out of their family because",
+    "begin": "01:01:32.589",
+    "end": "01:01:36.289"
+  },
+  {
+    "text": "they never come to an arrangement that workswell enough so that they can, in some sense",
+    "begin": "01:01:36.289",
+    "end": "01:01:40.809"
+  },
+  {
+    "text": "move into the broader world.",
+    "begin": "01:01:40.809",
+    "end": "01:01:42.720"
+  },
+  {
+    "text": "Then you solve the family problem but thenyou've got the tribe problem and, maybe you",
+    "begin": "01:01:42.720",
+    "end": "01:01:47.690"
+  },
+  {
+    "text": "can solve that to some degree, but then youhave the broader political problem and it's",
+    "begin": "01:01:47.690",
+    "end": "01:01:51.079"
+  },
+  {
+    "text": "like--there's an infinite problems that cropup for you to solve so there's plenty for",
+    "begin": "01:01:51.079",
+    "end": "01:01:56.670"
+  },
+  {
+    "text": "you to do with your big cortex.",
+    "begin": "01:01:56.670",
+    "end": "01:01:58.369"
+  },
+  {
+    "text": "And you know we paid a big price for thatthing because once we discovered time, we",
+    "begin": "01:01:58.369",
+    "end": "01:02:06.869"
+  },
+  {
+    "text": "can make a bargain with the future, whichis basically what you do when you regulate",
+    "begin": "01:02:06.869",
+    "end": "01:02:10.249"
+  },
+  {
+    "text": "your behaviour, right.",
+    "begin": "01:02:10.249",
+    "end": "01:02:11.359"
+  },
+  {
+    "text": "You're making a bargain with the future.",
+    "begin": "01:02:11.359",
+    "end": "01:02:13.519"
+  },
+  {
+    "text": "You say to yourself, if I forego so and sonow then, later, it'll pay off.",
+    "begin": "01:02:13.519",
+    "end": "01:02:21.519"
+  },
+  {
+    "text": "And that's real useful.",
+    "begin": "01:02:21.519",
+    "end": "01:02:22.549"
+  },
+  {
+    "text": "You can conceptualize the future, and youcan conceptualize the future as something",
+    "begin": "01:02:22.549",
+    "end": "01:02:26.220"
+  },
+  {
+    "text": "you can bargain with.",
+    "begin": "01:02:26.220",
+    "end": "01:02:27.940"
+  },
+  {
+    "text": "But there's a lot of cost to that.",
+    "begin": "01:02:27.940",
+    "end": "01:02:29.510"
+  },
+  {
+    "text": "One is you don't get to do just what you wantright now, and of course that sucks--it's",
+    "begin": "01:02:29.510",
+    "end": "01:02:33.489"
+  },
+  {
+    "text": "partly why people drink alcohol.",
+    "begin": "01:02:33.489",
+    "end": "01:02:36.450"
+  },
+  {
+    "text": "Because alcohol is disinhibiting, it stopsyou from--it actually doesn't stop you from",
+    "begin": "01:02:36.450",
+    "end": "01:02:41.190"
+  },
+  {
+    "text": "thinking about the future--it stops you fromcaring about what you think about the future.",
+    "begin": "01:02:41.190",
+    "end": "01:02:47.219"
+  },
+  {
+    "text": "And that's just as good.",
+    "begin": "01:02:47.219",
+    "end": "01:02:48.640"
+  },
+  {
+    "text": "And so then you can go out and have fun becausefun is impulsive and often extremely dangerous,",
+    "begin": "01:02:48.640",
+    "end": "01:02:53.180"
+  },
+  {
+    "text": "because the long term consequences can bereally devastating.",
+    "begin": "01:02:53.180",
+    "end": "01:02:58.009"
+  },
+  {
+    "text": "But it's a real pain to keep yourself controlledall the time because you're foregoing direct",
+    "begin": "01:02:58.009",
+    "end": "01:03:03.700"
+  },
+  {
+    "text": "reward constantly.",
+    "begin": "01:03:03.700",
+    "end": "01:03:05.849"
+  },
+  {
+    "text": "I think it's part of the reason why peoplein heavily industrialized complex countries",
+    "begin": "01:03:05.849",
+    "end": "01:03:12.079"
+  },
+  {
+    "text": "aren't necessarily happy.",
+    "begin": "01:03:12.079",
+    "end": "01:03:14.259"
+  },
+  {
+    "text": "You know, it takes a lot of grinding awayto keep all the machinery that keeps all of",
+    "begin": "01:03:14.259",
+    "end": "01:03:19.609"
+  },
+  {
+    "text": "this in place going.",
+    "begin": "01:03:19.609",
+    "end": "01:03:21.470"
+  },
+  {
+    "text": "So you're not getting typhoid and tigers aren'ttearing you apart, but by the same token,",
+    "begin": "01:03:21.470",
+    "end": "01:03:27.190"
+  },
+  {
+    "text": "you have to be unbelievably disciplined andready to act constantly to keep everything",
+    "begin": "01:03:27.190",
+    "end": "01:03:33.009"
+  },
+  {
+    "text": "that's so complex around you working.",
+    "begin": "01:03:33.009",
+    "end": "01:03:35.079"
+  },
+  {
+    "text": "And that's not necessarily fun.",
+    "begin": "01:03:35.079",
+    "end": "01:03:37.579"
+  },
+  {
+    "text": "Okay, now, let’s look at something else.",
+    "begin": "01:03:37.579",
+    "end": "01:03:42.819"
+  },
+  {
+    "text": "Now you can tell me if I showed you this--Ihope I didn't show you this.",
+    "begin": "01:03:42.819",
+    "end": "01:04:02.499"
+  },
+  {
+    "text": "You see that?",
+    "begin": "01:04:02.499",
+    "end": "01:04:03.499"
+  },
+  {
+    "text": "Okay, good.",
+    "begin": "01:04:03.499",
+    "end": "01:04:04.589"
+  },
+  {
+    "text": "Now some of you know this, and so you justdon't say anything.",
+    "begin": "01:04:04.589",
+    "end": "01:04:08.819"
+  },
+  {
+    "text": "Although you probably don't know this specificversion.",
+    "begin": "01:04:08.819",
+    "end": "01:04:12.259"
+  },
+  {
+    "text": "So if you've seen this sort of thing beforeyou're going to think you're smart while you're",
+    "begin": "01:04:12.259",
+    "end": "01:04:16.069"
+  },
+  {
+    "text": "watching it, but it'll probably still tripyou up--I hope.",
+    "begin": "01:04:16.069",
+    "end": "01:04:32.819"
+  },
+  {
+    "text": "Give me a sec here and we'll see if we canactually get some sound out of this thing.",
+    "begin": "01:04:32.819",
+    "end": "01:06:15.430"
+  },
+  {
+    "text": "Yeah, so that's quite the illustration.",
+    "begin": "01:06:15.430",
+    "end": "01:06:25.940"
+  },
+  {
+    "text": "So one of the questions you might ask is,well okay first of all, how many of you didn't",
+    "begin": "01:06:25.940",
+    "end": "01:06:32.910"
+  },
+  {
+    "text": "see the gorilla?",
+    "begin": "01:06:32.910",
+    "end": "01:06:34.599"
+  },
+  {
+    "text": "Okay, how many of you have seen this sortof video before?",
+    "begin": "01:06:34.599",
+    "end": "01:06:38.119"
+  },
+  {
+    "text": "Okay so you knew about the damn gorilla [studentlaughter].",
+    "begin": "01:06:38.119",
+    "end": "01:06:40.109"
+  },
+  {
+    "text": "Of the people who didn't know about the gorilla,how many people didn't see the gorilla.",
+    "begin": "01:06:40.109",
+    "end": "01:06:44.920"
+  },
+  {
+    "text": "Well, some.",
+    "begin": "01:06:44.920",
+    "end": "01:06:46.259"
+  },
+  {
+    "text": "Okay, fine.",
+    "begin": "01:06:46.259",
+    "end": "01:06:47.609"
+  },
+  {
+    "text": "How many of you got the other things?",
+    "begin": "01:06:47.609",
+    "end": "01:06:50.829"
+  },
+  {
+    "text": "Both of them?",
+    "begin": "01:06:50.829",
+    "end": "01:06:52.229"
+  },
+  {
+    "text": "Okay, well so you get the point.",
+    "begin": "01:06:52.229",
+    "end": "01:06:54.489"
+  },
+  {
+    "text": "The point is--and it's a brilliant experiment,it's an insanely brilliant experiment--that",
+    "begin": "01:06:54.489",
+    "end": "01:07:01.289"
+  },
+  {
+    "text": "you're blind to a ridiculous degree.",
+    "begin": "01:07:01.289",
+    "end": "01:07:05.499"
+  },
+  {
+    "text": "And your visual system and your brain areconstantly coping with the fact that you're",
+    "begin": "01:07:05.499",
+    "end": "01:07:11.099"
+  },
+  {
+    "text": "blind.",
+    "begin": "01:07:11.099",
+    "end": "01:07:12.099"
+  },
+  {
+    "text": "And you can kind of detect it to some degreeif you look at someone, but you pay attention",
+    "begin": "01:07:12.099",
+    "end": "01:07:16.469"
+  },
+  {
+    "text": "to the things that surround them, you'll seethat--so, I'm looking at you.",
+    "begin": "01:07:16.469",
+    "end": "01:07:20.729"
+  },
+  {
+    "text": "I can't see your nose for sure, it's gone.",
+    "begin": "01:07:20.729",
+    "end": "01:07:24.140"
+  },
+  {
+    "text": "I can’t even see your face.",
+    "begin": "01:07:24.140",
+    "end": "01:07:26.099"
+  },
+  {
+    "text": "I can see your glasses.",
+    "begin": "01:07:26.099",
+    "end": "01:07:28.549"
+  },
+  {
+    "text": "I can't see any features in your face at all.",
+    "begin": "01:07:28.549",
+    "end": "01:07:29.819"
+  },
+  {
+    "text": "Can you smile?",
+    "begin": "01:07:29.819",
+    "end": "01:07:30.819"
+  },
+  {
+    "text": "No, the one behind.",
+    "begin": "01:07:30.819",
+    "end": "01:07:37.280"
+  },
+  {
+    "text": "Well one of the things I've noticed when doingthis is that if you look here--look at my",
+    "begin": "01:07:37.280",
+    "end": "01:07:41.280"
+  },
+  {
+    "text": "finger--but pay attention to my face, it'sreally hard.",
+    "begin": "01:07:41.280",
+    "end": "01:07:44.799"
+  },
+  {
+    "text": "Because normally when you pay attention youmove your eyes to what you're paying attention",
+    "begin": "01:07:44.799",
+    "end": "01:07:48.049"
+  },
+  {
+    "text": "to.",
+    "begin": "01:07:48.049",
+    "end": "01:07:49.049"
+  },
+  {
+    "text": "Okay so here's what you might see--the firstthing you might see is that you can't see",
+    "begin": "01:07:49.049",
+    "end": "01:07:52.369"
+  },
+  {
+    "text": "my nose [student laughter].",
+    "begin": "01:07:52.369",
+    "end": "01:07:54.210"
+  },
+  {
+    "text": "The second thing you might see is that youcan really see my eyes, especially if they",
+    "begin": "01:07:54.210",
+    "end": "01:07:58.869"
+  },
+  {
+    "text": "move [uproar of student laughter].",
+    "begin": "01:07:58.869",
+    "end": "01:08:01.059"
+  },
+  {
+    "text": "Weird eh?",
+    "begin": "01:08:01.059",
+    "end": "01:08:02.059"
+  },
+  {
+    "text": "Isn't that weird?",
+    "begin": "01:08:02.059",
+    "end": "01:08:03.259"
+  },
+  {
+    "text": "God, it's so weird.",
+    "begin": "01:08:03.259",
+    "end": "01:08:04.651"
+  },
+  {
+    "text": "It's like all of a sudden these eyes pop upand they're going back and forth like this.",
+    "begin": "01:08:04.651",
+    "end": "01:08:10.279"
+  },
+  {
+    "text": "Yeah, so we'll try this too.",
+    "begin": "01:08:10.279",
+    "end": "01:08:11.279"
+  },
+  {
+    "text": "So look at my finger again.",
+    "begin": "01:08:11.279",
+    "end": "01:08:15.499"
+  },
+  {
+    "text": "You can also see teeth.",
+    "begin": "01:08:15.499",
+    "end": "01:08:16.650"
+  },
+  {
+    "text": "Well, why?",
+    "begin": "01:08:16.650",
+    "end": "01:08:17.900"
+  },
+  {
+    "text": "Well, if you're looking here and there's somethingthere with eyes and teeth, you should probably",
+    "begin": "01:08:17.900",
+    "end": "01:08:21.740"
+  },
+  {
+    "text": "be able to see it right?",
+    "begin": "01:08:21.740",
+    "end": "01:08:23.239"
+  },
+  {
+    "text": "So what that basically means is that you'vegot this tiny little fovea, which is right",
+    "begin": "01:08:23.239",
+    "end": "01:08:27.370"
+  },
+  {
+    "text": "in the centre of your retina, it's just denselypacked with cells and then those cells transmit",
+    "begin": "01:08:27.370",
+    "end": "01:08:33.099"
+  },
+  {
+    "text": "information along the optic nerve, and they'rejust connected like mad to cells in the visual",
+    "begin": "01:08:33.099",
+    "end": "01:08:37.640"
+  },
+  {
+    "text": "cortex.",
+    "begin": "01:08:37.640",
+    "end": "01:08:38.839"
+  },
+  {
+    "text": "But you don't have that much room, so youcan't connect all the cells in your retina",
+    "begin": "01:08:38.839",
+    "end": "01:08:43.199"
+  },
+  {
+    "text": "to like 10,000 cells at the first level ofconnection.",
+    "begin": "01:08:43.199",
+    "end": "01:08:45.970"
+  },
+  {
+    "text": "You'd have to have a brain this big you know,and you don't.",
+    "begin": "01:08:45.970",
+    "end": "01:08:49.220"
+  },
+  {
+    "text": "So you get by, and part of the way you getby is you're always moving your eyes around.",
+    "begin": "01:08:49.220",
+    "end": "01:08:54.500"
+  },
+  {
+    "text": "And so it looks like you can see everything,but you can't.",
+    "begin": "01:08:54.500",
+    "end": "01:08:57.359"
+  },
+  {
+    "text": "In fact, out here, like if I'm looking atyou--now I can tell my hands are there, although",
+    "begin": "01:08:57.359",
+    "end": "01:09:02.810"
+  },
+  {
+    "text": "if I didn't know they were hands I probablycouldn't figure it out--they're kinda blurry",
+    "begin": "01:09:02.810",
+    "end": "01:09:08.060"
+  },
+  {
+    "text": "I would say.",
+    "begin": "01:09:08.060",
+    "end": "01:09:09.829"
+  },
+  {
+    "text": "And they're in black and white, but I can'ttell that.",
+    "begin": "01:09:09.829",
+    "end": "01:09:12.779"
+  },
+  {
+    "text": "So out here, who cares what colour it is.",
+    "begin": "01:09:12.779",
+    "end": "01:09:16.380"
+  },
+  {
+    "text": "So you just don't see the colour.",
+    "begin": "01:09:16.380",
+    "end": "01:09:17.569"
+  },
+  {
+    "text": "But you don't know that you don't see thecolour.",
+    "begin": "01:09:17.569",
+    "end": "01:09:19.449"
+  },
+  {
+    "text": "Now of course, I can have my hands here, andthen I put them here--I can hardly see them--and",
+    "begin": "01:09:19.449",
+    "end": "01:09:23.819"
+  },
+  {
+    "text": "then oop, they're gone.",
+    "begin": "01:09:23.819",
+    "end": "01:09:25.619"
+  },
+  {
+    "text": "They're so gone it's like they don't evenexist.",
+    "begin": "01:09:25.619",
+    "end": "01:09:27.630"
+  },
+  {
+    "text": "It's not even--because you'd think in somesense that what is behind your head would",
+    "begin": "01:09:27.630",
+    "end": "01:09:31.880"
+  },
+  {
+    "text": "be black, like when you close your eyes, that'snothing.",
+    "begin": "01:09:31.880",
+    "end": "01:09:36.049"
+  },
+  {
+    "text": "But no no, what you can't see behind yourhead is so not there that it's literally--it",
+    "begin": "01:09:36.049",
+    "end": "01:09:45.069"
+  },
+  {
+    "text": "isn't even not there, that's how gone it is.",
+    "begin": "01:09:45.069",
+    "end": "01:09:48.440"
+  },
+  {
+    "text": "Okay, so part of the way your eyes work isthat the periphery is attached to devices,",
+    "begin": "01:09:48.440",
+    "end": "01:09:55.510"
+  },
+  {
+    "text": "in some sense, and some of them detect linesand some of them detect movement.",
+    "begin": "01:09:55.510",
+    "end": "01:10:00.239"
+  },
+  {
+    "text": "You remember Jurassic Park?",
+    "begin": "01:10:00.239",
+    "end": "01:10:01.739"
+  },
+  {
+    "text": "\"Don't move.",
+    "begin": "01:10:01.739",
+    "end": "01:10:03.000"
+  },
+  {
+    "text": "The dinosaur can't see you unless you move.\"",
+    "begin": "01:10:03.000",
+    "end": "01:10:05.590"
+  },
+  {
+    "text": "It's like, yeah, frogs are like that.",
+    "begin": "01:10:05.590",
+    "end": "01:10:08.320"
+  },
+  {
+    "text": "And cats are like that to some degree.",
+    "begin": "01:10:08.320",
+    "end": "01:10:09.870"
+  },
+  {
+    "text": "They can really see things move this way.",
+    "begin": "01:10:09.870",
+    "end": "01:10:12.020"
+  },
+  {
+    "text": "Partly because their eyes are slitted, makesit easier for them to see things moving like",
+    "begin": "01:10:12.020",
+    "end": "01:10:16.900"
+  },
+  {
+    "text": "this.",
+    "begin": "01:10:16.900",
+    "end": "01:10:17.900"
+  },
+  {
+    "text": "They're not so good at things moving likethis.",
+    "begin": "01:10:17.900",
+    "end": "01:10:18.900"
+  },
+  {
+    "text": "Well, it's because they chase mice, right.",
+    "begin": "01:10:18.900",
+    "end": "01:10:21.869"
+  },
+  {
+    "text": "Mice will--most mice, except ones that hop[student laughter]--they move this way, and",
+    "begin": "01:10:21.869",
+    "end": "01:10:26.190"
+  },
+  {
+    "text": "so cats are specialized for that.",
+    "begin": "01:10:26.190",
+    "end": "01:10:28.420"
+  },
+  {
+    "text": "And so you're also specialized to see teethand eyes because you want to know if something's",
+    "begin": "01:10:28.420",
+    "end": "01:10:33.860"
+  },
+  {
+    "text": "looking at you, and you want to know if ithas teeth.",
+    "begin": "01:10:33.860",
+    "end": "01:10:36.810"
+  },
+  {
+    "text": "And so what that means in part is that thesurrounding tissue in your eyes reports to",
+    "begin": "01:10:36.810",
+    "end": "01:10:43.010"
+  },
+  {
+    "text": "some degree to your visual cortex, which iswhat you use to actually have conscious vision",
+    "begin": "01:10:43.010",
+    "end": "01:10:47.960"
+  },
+  {
+    "text": "with, but a lot of it just dumps down intosome of the brain areas we haven't talked",
+    "begin": "01:10:47.960",
+    "end": "01:10:51.810"
+  },
+  {
+    "text": "about.",
+    "begin": "01:10:51.810",
+    "end": "01:10:52.810"
+  },
+  {
+    "text": "Not necessarily directly down to the hypothalamus,although I suspect it has inputs there, I",
+    "begin": "01:10:52.810",
+    "end": "01:10:57.980"
+  },
+  {
+    "text": "just don't know.",
+    "begin": "01:10:57.980",
+    "end": "01:10:59.070"
+  },
+  {
+    "text": "But your eyes talk to your spinal cord directly,so that you can see something snake-like,",
+    "begin": "01:10:59.070",
+    "end": "01:11:04.739"
+  },
+  {
+    "text": "for example, and jump.",
+    "begin": "01:11:04.739",
+    "end": "01:11:06.030"
+  },
+  {
+    "text": "Just like you jump if your hand touches ahot stove.",
+    "begin": "01:11:06.030",
+    "end": "01:11:09.470"
+  },
+  {
+    "text": "You don't even see the snake, it's like snake-jump.",
+    "begin": "01:11:09.470",
+    "end": "01:11:12.340"
+  },
+  {
+    "text": "And the reason for that is if you wait aroundto see the snake, it's like it's bitten you",
+    "begin": "01:11:12.340",
+    "end": "01:11:15.341"
+  },
+  {
+    "text": "15 times and you're dead.",
+    "begin": "01:11:15.341",
+    "end": "01:11:16.900"
+  },
+  {
+    "text": "So you can't wait around and see this, like\"oh look.",
+    "begin": "01:11:16.900",
+    "end": "01:11:19.780"
+  },
+  {
+    "text": "A snake.\"",
+    "begin": "01:11:19.780",
+    "end": "01:11:21.470"
+  },
+  {
+    "text": "And then you jump.",
+    "begin": "01:11:21.470",
+    "end": "01:11:22.470"
+  },
+  {
+    "text": "It's like, no.",
+    "begin": "01:11:22.470",
+    "end": "01:11:23.470"
+  },
+  {
+    "text": "That doesn't work.",
+    "begin": "01:11:23.470",
+    "end": "01:11:25.730"
+  },
+  {
+    "text": "Your body has conserved all these layers ofreflex and movement, all the way up to higher",
+    "begin": "01:11:25.730",
+    "end": "01:11:31.290"
+  },
+  {
+    "text": "order voluntary movement, because otherwiseyou just wouldn't be fast enough when something",
+    "begin": "01:11:31.290",
+    "end": "01:11:35.239"
+  },
+  {
+    "text": "super fast happens.",
+    "begin": "01:11:35.239",
+    "end": "01:11:36.760"
+  },
+  {
+    "text": "And then, the way your eyes are built, youreyes can tell your body to jump.",
+    "begin": "01:11:36.760",
+    "end": "01:11:41.050"
+  },
+  {
+    "text": "It's no vision, right.",
+    "begin": "01:11:41.050",
+    "end": "01:11:42.780"
+  },
+  {
+    "text": "It's just pattern.",
+    "begin": "01:11:42.780",
+    "end": "01:11:43.870"
+  },
+  {
+    "text": "Snake-pattern, jump-pattern.",
+    "begin": "01:11:43.870",
+    "end": "01:11:45.620"
+  },
+  {
+    "text": "Snake-pattern, retinal-pattern, optic-nervepattern, brain-pattern, muscle-pattern.",
+    "begin": "01:11:45.620",
+    "end": "01:11:50.210"
+  },
+  {
+    "text": "No vision.",
+    "begin": "01:11:50.210",
+    "end": "01:11:51.530"
+  },
+  {
+    "text": "No seeing.",
+    "begin": "01:11:51.530",
+    "end": "01:11:52.850"
+  },
+  {
+    "text": "Because you don't need the seeing.",
+    "begin": "01:11:52.850",
+    "end": "01:11:54.380"
+  },
+  {
+    "text": "You just have to do pattern matching.",
+    "begin": "01:11:54.380",
+    "end": "01:11:57.130"
+  },
+  {
+    "text": "It's a weird way of thinking about it, butit's not much different than touching, you",
+    "begin": "01:11:57.130",
+    "end": "01:12:00.401"
+  },
+  {
+    "text": "know.",
+    "begin": "01:12:00.401",
+    "end": "01:12:01.750"
+  },
+  {
+    "text": "You can feel the pattern, you can build athree-dimensional representation of it, you",
+    "begin": "01:12:01.750",
+    "end": "01:12:06.600"
+  },
+  {
+    "text": "can really see well with your eyes--it's likethe idea that blind people can't see is a",
+    "begin": "01:12:06.600",
+    "end": "01:12:10.120"
+  },
+  {
+    "text": "really dopey idea.",
+    "begin": "01:12:10.120",
+    "end": "01:12:11.130"
+  },
+  {
+    "text": "They can't see colour.",
+    "begin": "01:12:11.130",
+    "end": "01:12:12.690"
+  },
+  {
+    "text": "And they're not very good at detecting thingsin the distance.",
+    "begin": "01:12:12.690",
+    "end": "01:12:15.510"
+  },
+  {
+    "text": "But they have a visual world, it's just builtout of things that don't have colour.",
+    "begin": "01:12:15.510",
+    "end": "01:12:19.310"
+  },
+  {
+    "text": "You know perfectly well that that's the casebecause I can hand you an object and you could",
+    "begin": "01:12:19.310",
+    "end": "01:12:24.320"
+  },
+  {
+    "text": "fiddle around with it behind your back andafter some fiddling around you'd know exactly",
+    "begin": "01:12:24.320",
+    "end": "01:12:28.070"
+  },
+  {
+    "text": "what it looked like.",
+    "begin": "01:12:28.070",
+    "end": "01:12:29.620"
+  },
+  {
+    "text": "And you know you might pull it out here andsay , well I didn't know it was blue.",
+    "begin": "01:12:29.620",
+    "end": "01:12:33.239"
+  },
+  {
+    "text": "It's like, yeah okay, you didn't know it wasblue, but you still saw it.",
+    "begin": "01:12:33.239",
+    "end": "01:12:37.240"
+  },
+  {
+    "text": "And you get pretty god-damn good vision withyour ears.",
+    "begin": "01:12:37.240",
+    "end": "01:12:40.710"
+  },
+  {
+    "text": "So there are kids who're blind who've learnedto echolocate.",
+    "begin": "01:12:40.710",
+    "end": "01:12:44.159"
+  },
+  {
+    "text": "So they go click-click-click, they don't makethat noise exactly, but they do click [clicking",
+    "begin": "01:12:44.159",
+    "end": "01:12:48.500"
+  },
+  {
+    "text": "sounds] and they can detect the clicks bouncingoff of things.",
+    "begin": "01:12:48.500",
+    "end": "01:12:52.030"
+  },
+  {
+    "text": "And they can do that well enough, not onlyto walk, but some of them can actually ride",
+    "begin": "01:12:52.030",
+    "end": "01:12:54.960"
+  },
+  {
+    "text": "bikes.",
+    "begin": "01:12:54.960",
+    "end": "01:12:56.210"
+  },
+  {
+    "text": "It's like, hey that's impressive, man.",
+    "begin": "01:12:56.210",
+    "end": "01:13:00.920"
+  },
+  {
+    "text": "Yeah, there's one kid--I saw a kid on youtubewho's blind who could shoot baskets, yeah,",
+    "begin": "01:13:00.920",
+    "end": "01:13:05.880"
+  },
+  {
+    "text": "which is--that's impressive, man.",
+    "begin": "01:13:05.880",
+    "end": "01:13:08.360"
+  },
+  {
+    "text": "But my point is that a lot of the neural tissueis--it'll take whatever input it gets.",
+    "begin": "01:13:08.360",
+    "end": "01:13:14.440"
+  },
+  {
+    "text": "So if you're born blind, your auditory systemswill invade your visual system.",
+    "begin": "01:13:14.440",
+    "end": "01:13:20.170"
+  },
+  {
+    "text": "And then you have twice as much brain devotedto your hearing.",
+    "begin": "01:13:20.170",
+    "end": "01:13:23.239"
+  },
+  {
+    "text": "So, and then you know, you can use that quiteeffectively.",
+    "begin": "01:13:23.239",
+    "end": "01:13:26.270"
+  },
+  {
+    "text": "So I think we're probably pretty much outof time.",
+    "begin": "01:13:26.270",
+    "end": "01:13:30.820"
+  },
+  {
+    "text": "One thing I want to tell you before we goon to the next part though is that--so now",
+    "begin": "01:13:30.820",
+    "end": "01:13:34.159"
+  },
+  {
+    "text": "we've sort of built up the idea of these underlyingmotivational systems.",
+    "begin": "01:13:34.159",
+    "end": "01:13:39.429"
+  },
+  {
+    "text": "And now you can kind of see how they work,so you might say to yourself, why didn't you",
+    "begin": "01:13:39.429",
+    "end": "01:13:45.909"
+  },
+  {
+    "text": "see the gorilla and the curtain and the personleaving.",
+    "begin": "01:13:45.909",
+    "end": "01:13:49.880"
+  },
+  {
+    "text": "It's really complicated, it's really complicated.",
+    "begin": "01:13:49.880",
+    "end": "01:13:52.659"
+  },
+  {
+    "text": "Well, the first answer is, you did what Iasked.",
+    "begin": "01:13:52.659",
+    "end": "01:13:58.990"
+  },
+  {
+    "text": "And then you might ask, well why?",
+    "begin": "01:13:58.990",
+    "end": "01:14:00.710"
+  },
+  {
+    "text": "Why did you do what I asked?",
+    "begin": "01:14:00.710",
+    "end": "01:14:01.710"
+  },
+  {
+    "text": "I mean you missed the damn gorilla, right.",
+    "begin": "01:14:01.710",
+    "end": "01:14:03.610"
+  },
+  {
+    "text": "It's like, obviously that wasn't a very gooddecision.",
+    "begin": "01:14:03.610",
+    "end": "01:14:06.670"
+  },
+  {
+    "text": "So you think, well why did you do what I asked?",
+    "begin": "01:14:06.670",
+    "end": "01:14:09.110"
+  },
+  {
+    "text": "And the answer would be--well, it's sort oflike the Milgram obedience experiment except",
+    "begin": "01:14:09.110",
+    "end": "01:14:14.500"
+  },
+  {
+    "text": "at a way lower level.",
+    "begin": "01:14:14.500",
+    "end": "01:14:16.610"
+  },
+  {
+    "text": "It's like, we've got an agreement going onhere.",
+    "begin": "01:14:16.610",
+    "end": "01:14:19.260"
+  },
+  {
+    "text": "You guys are all very sophisticated and complexgame players, otherwise you couldn't sit here",
+    "begin": "01:14:19.260",
+    "end": "01:14:25.300"
+  },
+  {
+    "text": "peacefully for an hour and a half.",
+    "begin": "01:14:25.300",
+    "end": "01:14:27.120"
+  },
+  {
+    "text": "So you're very well socialized, all of you.",
+    "begin": "01:14:27.120",
+    "end": "01:14:30.300"
+  },
+  {
+    "text": "And so that means you've organized all yourmotivations into a hierarchy, and that hierarchy",
+    "begin": "01:14:30.300",
+    "end": "01:14:36.350"
+  },
+  {
+    "text": "is guiding your behaviour here.",
+    "begin": "01:14:36.350",
+    "end": "01:14:37.660"
+  },
+  {
+    "text": "It might be something like, well we need tolearn something and hypothetically, you come",
+    "begin": "01:14:37.660",
+    "end": "01:14:41.491"
+  },
+  {
+    "text": "here and you learn something.",
+    "begin": "01:14:41.491",
+    "end": "01:14:42.590"
+  },
+  {
+    "text": "And so you're playing that out.",
+    "begin": "01:14:42.590",
+    "end": "01:14:44.650"
+  },
+  {
+    "text": "And because that's the motivational statethat you're in, when I ask you to do something,",
+    "begin": "01:14:44.650",
+    "end": "01:14:50.989"
+  },
+  {
+    "text": "you're just going to do it.",
+    "begin": "01:14:50.989",
+    "end": "01:14:52.410"
+  },
+  {
+    "text": "Well then, what's so cool is that as soonas you decide to point your attention at something,",
+    "begin": "01:14:52.410",
+    "end": "01:15:00.690"
+  },
+  {
+    "text": "what you see in the world radically transforms.",
+    "begin": "01:15:00.690",
+    "end": "01:15:03.230"
+  },
+  {
+    "text": "So I say, well count the basketballs and allof a sudden all you can see are basketballs.",
+    "begin": "01:15:03.230",
+    "end": "01:15:07.840"
+  },
+  {
+    "text": "And you think, no no, I see--I'm not blind.",
+    "begin": "01:15:07.840",
+    "end": "01:15:10.130"
+  },
+  {
+    "text": "It's like well, you're pretty damn blind.",
+    "begin": "01:15:10.130",
+    "end": "01:15:13.380"
+  },
+  {
+    "text": "And so, that's partly how you can understandhow motivation is a sub-personality.",
+    "begin": "01:15:13.380",
+    "end": "01:15:19.840"
+  },
+  {
+    "text": "Like it has its whole sets of perceptionsand values.",
+    "begin": "01:15:19.840",
+    "end": "01:15:22.060"
+  },
+  {
+    "text": "It's like, all of a sudden, I set you up ina little motivated state--it was a complicated",
+    "begin": "01:15:22.060",
+    "end": "01:15:27.179"
+  },
+  {
+    "text": "one--but it was just like, here's a task.",
+    "begin": "01:15:27.179",
+    "end": "01:15:30.380"
+  },
+  {
+    "text": "And so you're all motivated, you're goingto do the task properly, for god only knows",
+    "begin": "01:15:30.380",
+    "end": "01:15:34.780"
+  },
+  {
+    "text": "how many reasons, and then all of a sudden,all that exists in the world are basketballs.",
+    "begin": "01:15:34.780",
+    "end": "01:15:40.090"
+  },
+  {
+    "text": "And so, it's as if your goal-directed attentionhas transformed the phenomenology of the world.",
+    "begin": "01:15:40.090",
+    "end": "01:15:48.820"
+  },
+  {
+    "text": "And that's something that's really cool becauseone of the things it implies is that what",
+    "begin": "01:15:48.820",
+    "end": "01:15:54.050"
+  },
+  {
+    "text": "you see of the world depends on what you'reaiming at.",
+    "begin": "01:15:54.050",
+    "end": "01:15:57.200"
+  },
+  {
+    "text": "And in a real sense--this isn't some trivialsense.",
+    "begin": "01:15:57.200",
+    "end": "01:15:59.890"
+  },
+  {
+    "text": "It means like literally what you're aimingat--I'm going to count the basketballs--it",
+    "begin": "01:15:59.890",
+    "end": "01:16:04.739"
+  },
+  {
+    "text": "means, well you're not noticing the gorillas.",
+    "begin": "01:16:04.739",
+    "end": "01:16:07.510"
+  },
+  {
+    "text": "So one of the things that you might ask yourself,and this is partly what the phenomenologists",
+    "begin": "01:16:07.510",
+    "end": "01:16:10.969"
+  },
+  {
+    "text": "were on about is, what're you aiming at?",
+    "begin": "01:16:10.969",
+    "end": "01:16:14.989"
+  },
+  {
+    "text": "And what is it that what you're aiming atallows you to see, and what is it that what",
+    "begin": "01:16:14.989",
+    "end": "01:16:20.340"
+  },
+  {
+    "text": "you're aiming at blinds you to.",
+    "begin": "01:16:20.340",
+    "end": "01:16:22.860"
+  },
+  {
+    "text": "And it blinds you to a lot more than it allowsyou to see.",
+    "begin": "01:16:22.860",
+    "end": "01:16:26.110"
+  },
+  {
+    "text": "And so another thing that you can think aboutis like, if everything you see makes you angry",
+    "begin": "01:16:26.110",
+    "end": "01:16:29.699"
+  },
+  {
+    "text": "and bitter and resentful, you might think,well hmm, what exactly am I aiming at that's",
+    "begin": "01:16:29.699",
+    "end": "01:16:36.860"
+  },
+  {
+    "text": "making the world organize itself around mein that manner?",
+    "begin": "01:16:36.860",
+    "end": "01:16:39.550"
+  },
+  {
+    "text": "And that would be a complex, for a Jungianperspective.",
+    "begin": "01:16:39.550",
+    "end": "01:16:45.250"
+  },
+  {
+    "text": "A complex would do that.",
+    "begin": "01:16:45.250",
+    "end": "01:16:46.579"
+  },
+  {
+    "text": "So it's a set of values, they're sort of economist,they inhabit you, it's a sub-personality,",
+    "begin": "01:16:46.579",
+    "end": "01:16:51.000"
+  },
+  {
+    "text": "it's quite complex, it's got something it'saiming at.",
+    "begin": "01:16:51.000",
+    "end": "01:16:54.199"
+  },
+  {
+    "text": "You might not even know what that is becauseyou're acting it out instead of understanding",
+    "begin": "01:16:54.199",
+    "end": "01:16:58.060"
+  },
+  {
+    "text": "it.",
+    "begin": "01:16:58.060",
+    "end": "01:16:59.060"
+  },
+  {
+    "text": "And because you're inside of it, it lays theworld out for you in a particular way that",
+    "begin": "01:16:59.060",
+    "end": "01:17:03.860"
+  },
+  {
+    "text": "makes the world look like it's showing youthat what you think is right.",
+    "begin": "01:17:03.860",
+    "end": "01:17:08.679"
+  },
+  {
+    "text": "But if you're--what do they say-- to the manwith a hammer, everything looks like a nail.",
+    "begin": "01:17:08.679",
+    "end": "01:17:15.300"
+  },
+  {
+    "text": "And that's one of the things that's so damncool about that experiment.",
+    "begin": "01:17:15.300",
+    "end": "01:17:19.070"
+  },
+  {
+    "text": "It's like, really?",
+    "begin": "01:17:19.070",
+    "end": "01:17:20.590"
+  },
+  {
+    "text": "I'm really that blind?",
+    "begin": "01:17:20.590",
+    "end": "01:17:22.199"
+  },
+  {
+    "text": "I can miss something that radical just whenI'm involved in some dopey task like counting",
+    "begin": "01:17:22.199",
+    "end": "01:17:27.880"
+  },
+  {
+    "text": "basketballs it makes me so blind that it'salmost beyond comprehension.",
+    "begin": "01:17:27.880",
+    "end": "01:17:32.000"
+  },
+  {
+    "text": "Well, so in some ways you skip between differentstates of blindness.",
+    "begin": "01:17:32.000",
+    "end": "01:17:37.280"
+  },
+  {
+    "text": "A lot of them are biologically motivated.",
+    "begin": "01:17:37.280",
+    "end": "01:17:39.520"
+  },
+  {
+    "text": "And you turn those into a hierarchy and that'ssort of your higher value system and then",
+    "begin": "01:17:39.520",
+    "end": "01:17:43.889"
+  },
+  {
+    "text": "that thing points you at something, and thewhole world lays itself out around that.",
+    "begin": "01:17:43.889",
+    "end": "01:17:48.230"
+  },
+  {
+    "text": "And the way it does it is divides the worldinto irrelevant things--and so those would've",
+    "begin": "01:17:48.230",
+    "end": "01:17:52.860"
+  },
+  {
+    "text": "been the curtains in this particular example,or the gorilla or even the player in black",
+    "begin": "01:17:52.860",
+    "end": "01:17:57.489"
+  },
+  {
+    "text": "who left the game--irrelevant, because itdidn't interfere with you counting.",
+    "begin": "01:17:57.489",
+    "end": "01:18:01.750"
+  },
+  {
+    "text": "So what you look at makes most of the worldirrelevant.",
+    "begin": "01:18:01.750",
+    "end": "01:18:05.010"
+  },
+  {
+    "text": "It makes some things , things that serve you.",
+    "begin": "01:18:05.010",
+    "end": "01:18:07.800"
+  },
+  {
+    "text": "And that makes you feel positive emotion.",
+    "begin": "01:18:07.800",
+    "end": "01:18:10.110"
+  },
+  {
+    "text": "And it makes other things things that getin your way.",
+    "begin": "01:18:10.110",
+    "end": "01:18:12.489"
+  },
+  {
+    "text": "And that's what makes negative emotions.",
+    "begin": "01:18:12.489",
+    "end": "01:18:14.680"
+  },
+  {
+    "text": "And so you've got the hypothalamic systemsthat point you in biological directions.",
+    "begin": "01:18:14.680",
+    "end": "01:18:19.030"
+  },
+  {
+    "text": "You organize those, and then, as you're approachingthe things you're aiming at, the positive",
+    "begin": "01:18:19.030",
+    "end": "01:18:25.600"
+  },
+  {
+    "text": "emotion systems tell you you're on track andthe negative emotion systems tell you when",
+    "begin": "01:18:25.600",
+    "end": "01:18:29.349"
+  },
+  {
+    "text": "something's interfering.",
+    "begin": "01:18:29.349",
+    "end": "01:18:30.750"
+  },
+  {
+    "text": "And those are actually different neurologicalsystems.",
+    "begin": "01:18:30.750",
+    "end": "01:18:34.280"
+  },
+  {
+    "text": "So they're not in the hypothalamus.",
+    "begin": "01:18:34.280",
+    "end": "01:18:36.010"
+  },
+  {
+    "text": "The positive emotion system is in some degree.",
+    "begin": "01:18:36.010",
+    "end": "01:18:38.699"
+  },
+  {
+    "text": "But the negative emotion system, that evolvedlater.",
+    "begin": "01:18:38.699",
+    "end": "01:18:41.550"
+  },
+  {
+    "text": "And there's a couple of them.",
+    "begin": "01:18:41.550",
+    "end": "01:18:42.550"
+  },
+  {
+    "text": "There's one that produces pain, we'll talkabout it more.",
+    "begin": "01:18:42.550",
+    "end": "01:18:45.170"
+  },
+  {
+    "text": "And there's another one that produces anxiety.",
+    "begin": "01:18:45.170",
+    "end": "01:18:47.570"
+  },
+  {
+    "text": "And so, now you kind of understand--roughly--therelationship between motivation, perception,",
+    "begin": "01:18:47.570",
+    "end": "01:18:55.850"
+  },
+  {
+    "text": "and emotion.",
+    "begin": "01:18:55.850",
+    "end": "01:18:57.070"
+  },
+  {
+    "text": "They all act together.",
+    "begin": "01:18:57.070",
+    "end": "01:19:00.010"
+  },
+  {
+    "text": "And they're all dependent in this weird wayon what you're after.",
+    "begin": "01:19:00.010",
+    "end": "01:19:04.070"
+  },
+  {
+    "text": "So you can think for 50 years and you won'tget to the bottom of it.",
+    "begin": "01:19:04.070",
+    "end": "01:19:07.770"
+  },
+  {
+    "text": "You know the Buddhists say that everythingis illusion.",
+    "begin": "01:19:07.770",
+    "end": "01:19:10.020"
+  },
+  {
+    "text": "Maya, right, people live in illusion.",
+    "begin": "01:19:10.020",
+    "end": "01:19:12.500"
+  },
+  {
+    "text": "Because what you're aiming at determines whatyou see.",
+    "begin": "01:19:12.500",
+    "end": "01:19:15.449"
+  },
+  {
+    "text": "So, anyways, it's worth thinking about.",
+    "begin": "01:19:15.449",
+    "end": "01:19:19.520"
+  }
+]

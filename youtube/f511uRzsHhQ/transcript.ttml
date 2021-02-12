@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.170" end="00:00:06.270" style="s2">Hi, guys.</p>
+<p begin="00:00:06.270" end="00:00:14.610" style="s2">So we’re going to talk about the brain today.</p>
+<p begin="00:00:14.610" end="00:00:19.200" style="s2">Last lecture I talked to you a little bit<br />about construct validation and what it means</p>
+<p begin="00:00:19.200" end="00:00:25.220" style="s2">to measure something and so, we’re going<br />to take a bit of a detour.</p>
+<p begin="00:00:25.220" end="00:00:32.360" style="s2">So I told you about measurement problems last<br />time.</p>
+<p begin="00:00:32.360" end="00:00:37.590" style="s2">If you do your measurement properly in psychometrics—if<br />you’re studying personality, if you’re</p>
+<p begin="00:00:37.590" end="00:00:43.830" style="s2">studying individual differences—there are<br />roughly six things that you can discover and</p>
+<p begin="00:00:43.830" end="00:00:47.050" style="s2">they can be broken up different ways.</p>
+<p begin="00:00:47.050" end="00:00:53.410" style="s2">That’s the big five model: extraversion,<br />neuroticism, agreeableness, contentiousness,</p>
+<p begin="00:00:53.410" end="00:00:57.840" style="s2">openness, and they can be subdivided as you<br />should know because, in principle, you’ve</p>
+<p begin="00:00:57.840" end="00:01:01.070" style="s2">read the paper that subdivided them into ten.</p>
+<p begin="00:01:01.070" end="00:01:06.330" style="s2">That turns out to be quite useful, but for<br />now we’ll just presume that there are five,</p>
+<p begin="00:01:06.330" end="00:01:12.829" style="s2">and then the other factor of human function<br />that’s pretty easy to derive and measure</p>
+<p begin="00:01:12.829" end="00:01:14.259" style="s2">is IQ.</p>
+<p begin="00:01:14.259" end="00:01:20.460" style="s2">Now, IQ likely nests under openness because<br />openness looks like it’s something roughly</p>
+<p begin="00:01:20.460" end="00:01:25.250" style="s2">like intellect which is interest in ideas,<br />but—that’s probably an ability with ideas—but</p>
+<p begin="00:01:25.250" end="00:01:30.140" style="s2">that’s probably measured better by an IQ<br />test, so if I ask you how smart you are and</p>
+<p begin="00:01:30.140" end="00:01:33.670" style="s2">you say you’re pretty smart that would give<br />you a relatively high score on the intellect</p>
+<p begin="00:01:33.670" end="00:01:38.590" style="s2">scale, but if I tested your IQ I will get<br />a better measure than that so in some sense</p>
+<p begin="00:01:38.590" end="00:01:41.799" style="s2">IQ nests inside the big five model.</p>
+<p begin="00:01:41.799" end="00:01:45.869" style="s2">But you can think about it as a separate thing<br />and I think it’s reasonable to do that so,</p>
+<p begin="00:01:45.869" end="00:01:50.329" style="s2">you know, it depends on what you’re up to<br />fundamentally.</p>
+<p begin="00:01:50.329" end="00:01:56.650" style="s2">Now, when the big five was first invented—invented<br />or discovered, depending on how you look at</p>
+<p begin="00:01:56.650" end="00:02:02.289" style="s2">it—as I mentioned briefly, as well, it was<br />brute force statistics basically, so the idea</p>
+<p begin="00:02:02.289" end="00:02:08.580" style="s2">behind the big five is that the—it’s called<br />the lexical hypothesis—and the lexical hypothesis</p>
+<p begin="00:02:08.580" end="00:02:15.250" style="s2">is that, because human traits are so important<br />to us because we want to understand ourselves</p>
+<p begin="00:02:15.250" end="00:02:19.760" style="s2">and, perhaps even more importantly, we want<br />to understand other people, and because we</p>
+<p begin="00:02:19.760" end="00:02:25.360" style="s2">have language, there’s a reasonable probability<br />that we’ve encapsulated the structure of</p>
+<p begin="00:02:25.360" end="00:02:28.640" style="s2">human personality within our language.</p>
+<p begin="00:02:28.640" end="00:02:35.890" style="s2">And so, if you analyze the linguistic representations<br />properly, then perhaps you can extract out</p>
+<p begin="00:02:35.890" end="00:02:40.550" style="s2">the central personality features, and that’s<br />basically what the lexical hypothesis is.</p>
+<p begin="00:02:40.550" end="00:02:42.690" style="s2">And it’s important to know the lexical hypotheses.</p>
+<p begin="00:02:42.690" end="00:02:49.269" style="s2">And it’s a bit more sophisticated than that<br />because it basically presumes that you can</p>
+<p begin="00:02:49.269" end="00:02:55.970" style="s2">extract out relevant information about personality<br />from adjectives—descriptive adjectives—from</p>
+<p begin="00:02:55.970" end="00:03:02.319" style="s2">phrases and from questions, and you’ll get<br />the same basic dimensional structure regardless</p>
+<p begin="00:03:02.319" end="00:03:04.650" style="s2">of which of those techniques you use.</p>
+<p begin="00:03:04.650" end="00:03:11.010" style="s2">And that turns out to be true for all intents<br />and purposes.</p>
+<p begin="00:03:11.010" end="00:03:17.330" style="s2">Now, the lexical hypothesis depends on its<br />validity, depends for its validity on the</p>
+<p begin="00:03:17.330" end="00:03:21.959" style="s2">initial claim that personality is accurately<br />represented within the structure of language.</p>
+<p begin="00:03:21.959" end="00:03:28.430" style="s2">And so one of the things I would say is that<br />there’s a weak big five hypothesis and a</p>
+<p begin="00:03:28.430" end="00:03:30.970" style="s2">strong big five hypothesis, okay?</p>
+<p begin="00:03:30.970" end="00:03:38.459" style="s2">The weak big five hypothesis is that, insofar<br />as you use language to describe personality,</p>
+<p begin="00:03:38.459" end="00:03:40.420" style="s2">personality has a five factor structure that’s<br />reliably extractable.</p>
+<p begin="00:03:40.420" end="00:03:48.569" style="s2">Now the strong big five theory is that, no<br />no, personality has a five factor structure,</p>
+<p begin="00:03:48.569" end="00:03:52.910" style="s2">and it’s accurately represented in language,<br />but when you pull out the structure from language,</p>
+<p begin="00:03:52.910" end="00:03:59.250" style="s2">what you’re pulling out is actually representative<br />of genuine personality.</p>
+<p begin="00:03:59.250" end="00:04:04.750" style="s2">Now, the weak hypothesis, I would say, is<br />established.</p>
+<p begin="00:04:04.750" end="00:04:10.270" style="s2">And it’s worth knowing because what it means<br />is that if you invent a questionnaire that</p>
+<p begin="00:04:10.270" end="00:04:14.410" style="s2">has anything to do with self description,<br />it might be self description at multiple different</p>
+<p begin="00:04:14.410" end="00:04:22.160" style="s2">levels of analysis, like values for example,<br />instead of just adjectives, or attitudes instead</p>
+<p begin="00:04:22.160" end="00:04:26.980" style="s2">of just adjectives, I mean, these categories<br />are sort of unclear.</p>
+<p begin="00:04:26.980" end="00:04:31.090" style="s2">What’s the difference between your attitude<br />and your temperament?</p>
+<p begin="00:04:31.090" end="00:04:35.490" style="s2">Well, it’s usually defined by the sentence<br />that you use the words in, right, you extract</p>
+<p begin="00:04:35.490" end="00:04:41.890" style="s2">out the words, they sort of stand there alone—it’<br />s very difficult to clarify their meaning.</p>
+<p begin="00:04:41.890" end="00:04:50.100" style="s2">Anyways, the lexical hypothesis I think is<br />one of the most well established—it’s</p>
+<p begin="00:04:50.100" end="00:04:53.440" style="s2">one of the most well-validated claims in psychology.</p>
+<p begin="00:04:53.440" end="00:04:58.890" style="s2">I think it may be the most validated claim,<br />apart from maybe the work that has extracted</p>
+<p begin="00:04:58.890" end="00:05:02.350" style="s2">IQ out from cognitive questions.</p>
+<p begin="00:05:02.350" end="00:05:09.190" style="s2">And basically it was brute force statistics,<br />you know, people developed different lists</p>
+<p begin="00:05:09.190" end="00:05:13.330" style="s2">of adjectives and you can complain in some<br />ways about how they did it, and we’ll talk</p>
+<p begin="00:05:13.330" end="00:05:17.960" style="s2">about that a bit later, but, because they<br />tried to throw out evaluative words like good</p>
+<p begin="00:05:17.960" end="00:05:23.560" style="s2">and evil for example—those aren’t in the<br />big five—so they tried to only use adjectives</p>
+<p begin="00:05:23.560" end="00:05:30.000" style="s2">that didn’t necessarily seem to be, like,<br />valued or devalued.</p>
+<p begin="00:05:30.000" end="00:05:34.950" style="s2">So introvert and extrovert, well, they’re<br />opposites, but is it better to be an introvert?</p>
+<p begin="00:05:34.950" end="00:05:37.240" style="s2">Is it better to be an extravert?</p>
+<p begin="00:05:37.240" end="00:05:43.120" style="s2">Well, it’s not obvious so all the words<br />that cover that dimension can be kept in because</p>
+<p begin="00:05:43.120" end="00:05:47.940" style="s2">there’s no value judgments associated with<br />it and the originators of the big five theory</p>
+<p begin="00:05:47.940" end="00:05:51.040" style="s2">wanted to keep it as free of values as possible.</p>
+<p begin="00:05:51.040" end="00:05:53.220" style="s2">Now that’s already a hypothesis right?</p>
+<p begin="00:05:53.220" end="00:05:58.870" style="s2">It’s a hypothesis that you can come up with<br />an accurate description of human personality</p>
+<p begin="00:05:58.870" end="00:06:03.000" style="s2">even if you eliminate all the words that are<br />clearly valenced.</p>
+<p begin="00:06:03.000" end="00:06:07.420" style="s2">And we did an experiment here a while back<br />that was pretty interesting.</p>
+<p begin="00:06:07.420" end="00:06:13.000" style="s2">We got hold of a data set of descriptive adjectives<br />and we put all the evaluative words back in.</p>
+<p begin="00:06:13.000" end="00:06:22.990" style="s2">So, like nasty and horrible and awkward and<br />cruel, and then the good words as well: moral,</p>
+<p begin="00:06:22.990" end="00:06:26.020" style="s2">pleasant, uplifting, all those things.</p>
+<p begin="00:06:26.020" end="00:06:30.840" style="s2">And then we had people rate people they liked<br />and people they didn’t like using that expanded</p>
+<p begin="00:06:30.840" end="00:06:36.640" style="s2">list and we got a real archetype in some sense<br />of the hateable person and a tremendous number</p>
+<p begin="00:06:36.640" end="00:06:40.470" style="s2">of the words that were used came from the<br />evaluative dimension.</p>
+<p begin="00:06:40.470" end="00:06:44.800" style="s2">So I think that when you throw out the evaluative<br />words you actually throw out a lot of what</p>
+<p begin="00:06:44.800" end="00:06:49.630" style="s2">people actually use, descriptive words to<br />describe, because when you like someone or</p>
+<p begin="00:06:49.630" end="00:06:54.960" style="s2">don’t like someone, if someone’s likeable<br />or unlikeable that’s a pretty important</p>
+<p begin="00:06:54.960" end="00:06:55.960" style="s2">phenomena.</p>
+<p begin="00:06:55.960" end="00:07:00.340" style="s2">I mean, you hang around the people you like<br />generally speaking and you don’t associate</p>
+<p begin="00:07:00.340" end="00:07:02.970" style="s2">with the people you don’t like, so it’s<br />a fundamental choice.</p>
+<p begin="00:07:02.970" end="00:07:08.580" style="s2">But we’ll talk about that later because<br />there’s reasons that happened and the reasons</p>
+<p begin="00:07:08.580" end="00:07:12.050" style="s2">were valid, and it’s not that easy to fix<br />it.</p>
+<p begin="00:07:12.050" end="00:07:16.090" style="s2">And besides that, the standard five factor<br />model has all sorts of utility.</p>
+<p begin="00:07:16.090" end="00:07:20.530" style="s2">But you need to know what its strengths are<br />and its limitations are.</p>
+<p begin="00:07:20.530" end="00:07:25.300" style="s2">Now, hypothetically, what you do to draw out<br />the five factor model was you take, imagine</p>
+<p begin="00:07:25.300" end="00:07:31.060" style="s2">a set of all descriptive adjectives, okay,<br />and then you take a random sample of those</p>
+<p begin="00:07:31.060" end="00:07:35.890" style="s2">descriptive adjectives, so that it’s not<br />biased—you’re not going to use all of</p>
+<p begin="00:07:35.890" end="00:07:39.580" style="s2">them because, you know, if you asked someone<br />to describe themselves on a questionnaire</p>
+<p begin="00:07:39.580" end="00:07:44.370" style="s2">using all the adjectives we have to describe<br />personality they’d be there for like a day.</p>
+<p begin="00:07:44.370" end="00:07:45.450" style="s2">And so that’s not every efficient.</p>
+<p begin="00:07:45.450" end="00:07:48.080" style="s2">And so you want to take a random sample.</p>
+<p begin="00:07:48.080" end="00:07:52.080" style="s2">Maybe you only sample the words that people<br />are most likely to use.</p>
+<p begin="00:07:52.080" end="00:07:56.250" style="s2">So for example if you go online you’ll find<br />that there are word frequency tables.</p>
+<p begin="00:07:56.250" end="00:08:04.650" style="s2">You know, most of your language, about 500<br />words covers about 80% of what you say.</p>
+<p begin="00:08:04.650" end="00:08:09.940" style="s2">You know, and I don’t remember what the<br />lexicon of the typical person is, I think</p>
+<p begin="00:08:09.940" end="00:08:15.050" style="s2">it’s in the neighbourhood of 3500 words,<br />but that might be wrong, but there’s like</p>
+<p begin="00:08:15.050" end="00:08:17.010" style="s2">750,000 words in the English language.</p>
+<p begin="00:08:17.010" end="00:08:21.100" style="s2">It’s an omnivorous language, it just pulls<br />words in from all over.</p>
+<p begin="00:08:21.100" end="00:08:27.150" style="s2">And so we hardly use any of those words, and<br />you know, there’s ones that are used extraordinarily</p>
+<p begin="00:08:27.150" end="00:08:28.370" style="s2">infrequently.</p>
+<p begin="00:08:28.370" end="00:08:32.620" style="s2">So what you could do is you could look at<br />the total set of adjectives and then you could</p>
+<p begin="00:08:32.620" end="00:08:38.360" style="s2">pull out, you know, identify the ones that<br />are used,, you know, the thousand most frequently</p>
+<p begin="00:08:38.360" end="00:08:42.509" style="s2">used words and that’d probably cover 95%<br />of the territory, and then you can pick out</p>
+<p begin="00:08:42.509" end="00:08:44.540" style="s2">a random set of 100.</p>
+<p begin="00:08:44.540" end="00:08:48.259" style="s2">Then you could administer it to people, and<br />then you could factor analyze it—you’d</p>
+<p begin="00:08:48.259" end="00:08:52.829" style="s2">administer it to lots of people—then you<br />factor analyze it and you get five relatively</p>
+<p begin="00:08:52.829" end="00:08:54.709" style="s2">clear and stable factors.</p>
+<p begin="00:08:54.709" end="00:09:01.769" style="s2">And the one that comes out first, it’s the<br />dominant factor in some sense, or the easiest</p>
+<p begin="00:09:01.769" end="00:09:05.610" style="s2">measure or maybe the best represented in language<br />or something like that, it’s extraversion</p>
+<p begin="00:09:05.610" end="00:09:07.870" style="s2">versus introversion.</p>
+<p begin="00:09:07.870" end="00:09:12.569" style="s2">And the extraversion is a positive emotion<br />dimension.</p>
+<p begin="00:09:12.569" end="00:09:20.129" style="s2">And it’s associated with enthusiasm and<br />assertiveness.</p>
+<p begin="00:09:20.129" end="00:09:24.100" style="s2">And assertive people will say, they’ll dominate<br />the conversation with language.</p>
+<p begin="00:09:24.100" end="00:09:28.699" style="s2">Or, well basically that’s the way to think<br />about it.</p>
+<p begin="00:09:28.699" end="00:09:31.941" style="s2">Enthusiastic people, they’re up for anything,<br />you know, they’re the ones they’re always</p>
+<p begin="00:09:31.941" end="00:09:33.629" style="s2">smiling and telling jokes and having parties<br />and that sort of thing.</p>
+<p begin="00:09:33.629" end="00:09:38.519" style="s2">And generally extroverts really like to be<br />around people.</p>
+<p begin="00:09:38.519" end="00:09:42.870" style="s2">So they’re happy, they’re gregarious,<br />they’re assertive, they’re enthusiastic,</p>
+<p begin="00:09:42.870" end="00:09:47.589" style="s2">they’re noisy, they blink more than introverts—now<br />why that is I have no idea, but apparently</p>
+<p begin="00:09:47.589" end="00:09:48.880" style="s2">they do [student laughter].</p>
+<p begin="00:09:48.880" end="00:09:55.300" style="s2">So if you notice someone blinking a lot you<br />can assume that they’re extroverts.</p>
+<p begin="00:09:55.300" end="00:09:59.399" style="s2">If they’re not conscientious , you know<br />there’s this idea of people being impulsive,</p>
+<p begin="00:09:59.399" end="00:10:04.370" style="s2">it’s a very badly defined term so when you<br />hear a psychologist talking about impulsivity</p>
+<p begin="00:10:04.370" end="00:10:07.660" style="s2">the first think you could realize is they<br />don’t know, you don’t know what they’re</p>
+<p begin="00:10:07.660" end="00:10:11.389" style="s2">talking about because probably there’s no<br />such thing as impulsivity.</p>
+<p begin="00:10:11.389" end="00:10:19.499" style="s2">But extraverted people who are not very conscientious<br />tend to--that&#39;s one of the things you might</p>
+<p begin="00:10:19.499" end="00:10:21.500" style="s2">think about as associated with impulsivity.</p>
+<p begin="00:10:21.500" end="00:10:26.999" style="s2">There&#39;s all sorts of other things though to,<br />so--okay there&#39;s a positive emption dimension</p>
+<p begin="00:10:26.999" end="00:10:32.000" style="s2">and that&#39;s extraversion and there&#39;s a negative<br />emotion dimension and that&#39;s neuroticism.</p>
+<p begin="00:10:32.000" end="00:10:36.300" style="s2">And neuroticism seems to break down into something<br />like withdrawal and volatility.</p>
+<p begin="00:10:36.300" end="00:10:38.209" style="s2">And volatile people are touchy.</p>
+<p begin="00:10:38.209" end="00:10:42.850" style="s2">So, you know, they&#39;ll react quite a lot if<br />something negative happens.</p>
+<p begin="00:10:42.850" end="00:10:46.800" style="s2">So if you tease them they might get upset<br />or if you start fighting with them in a sort</p>
+<p begin="00:10:46.800" end="00:10:51.470" style="s2">of provocative way instead of sort of calming<br />everything down, they&#39;ll just ramp it up.</p>
+<p begin="00:10:51.470" end="00:10:55.680" style="s2">And if there&#39;s two of you that&#39;re volatile<br />and you&#39;re having a conversation and the conversation</p>
+<p begin="00:10:55.680" end="00:11:00.370" style="s2">goes a little bit, you know, into unpleasant<br />territory, you can really get each other going.</p>
+<p begin="00:11:00.370" end="00:11:01.889" style="s2">So, yes?</p>
+<p begin="00:11:01.889" end="00:11:07.950" style="s2">Student: &quot;Is it like, in terms of the hero,<br />like internal states?&quot;</p>
+<p begin="00:11:07.950" end="00:11:08.950" style="s2">Both.</p>
+<p begin="00:11:08.950" end="00:11:09.950" style="s2">Both, yeah.</p>
+<p begin="00:11:09.950" end="00:11:11.950" style="s2">I mean, that&#39;s part of the problem with using<br />the word emotion because, you know, is an</p>
+<p begin="00:11:11.950" end="00:11:16.439" style="s2">emotion an internal state or a set of behaviours,<br />and the answer to that is, as far as we can</p>
+<p begin="00:11:16.439" end="00:11:17.720" style="s2">tell it&#39;s both.</p>
+<p begin="00:11:17.720" end="00:11:25.639" style="s2">So now, I&#39;m going to start talking about extraversion<br />and neuroticism, and part of the reason for</p>
+<p begin="00:11:25.639" end="00:11:30.959" style="s2">that is because I think the evidence for the<br />relationship between those traits and the</p>
+<p begin="00:11:30.959" end="00:11:34.680" style="s2">way the brain functions is, in some sense,<br />the clearest.</p>
+<p begin="00:11:34.680" end="00:11:40.050" style="s2">Now, you remember the big five were extracted<br />out using statistical procedures, right, so</p>
+<p begin="00:11:40.050" end="00:11:45.310" style="s2">there&#39;s no reason to assume necessarily that<br />the traits would bear any straightforward</p>
+<p begin="00:11:45.310" end="00:11:48.410" style="s2">relationship to brain function.</p>
+<p begin="00:11:48.410" end="00:11:52.300" style="s2">Because they weren&#39;t derived from analysis<br />of brain function.</p>
+<p begin="00:11:52.300" end="00:11:54.570" style="s2">At least not directly.</p>
+<p begin="00:11:54.570" end="00:11:59.520" style="s2">They were extracted from analysis of linguistic<br />representations of other people&#39;s and your</p>
+<p begin="00:11:59.520" end="00:12:00.899" style="s2">own behaviour.</p>
+<p begin="00:12:00.899" end="00:12:06.670" style="s2">But it turns out that there&#39;s quite a concordance<br />between certain elements of neuropsychological</p>
+<p begin="00:12:06.670" end="00:12:13.519" style="s2">theory and the positive and negative emotional<br />traits: extraversion and neuroticism.</p>
+<p begin="00:12:13.519" end="00:12:18.800" style="s2">And so what I&#39;m going to do today is, I&#39;m<br />going to talk to you about how positive and</p>
+<p begin="00:12:18.800" end="00:12:26.420" style="s2">negative emotion are instantiated in some<br />sense, neurologically.</p>
+<p begin="00:12:26.420" end="00:12:33.600" style="s2">But I&#39;m going to put that in a broader picture<br />of brain function because, well first of all,</p>
+<p begin="00:12:33.600" end="00:12:34.600" style="s2">why not?</p>
+<p begin="00:12:34.600" end="00:12:37.490" style="s2">And second because a lot of the things I&#39;m<br />going to tell you about the brain today will</p>
+<p begin="00:12:37.490" end="00:12:42.029" style="s2">sort of retroactively shed light on some of<br />the clinical theories we&#39;ve already talked</p>
+<p begin="00:12:42.029" end="00:12:43.199" style="s2">about.</p>
+<p begin="00:12:43.199" end="00:12:48.720" style="s2">So, which is nice, you know, because, one<br />of the ways you find out if something is true,</p>
+<p begin="00:12:48.720" end="00:12:53.420" style="s2">and this is something we also talked about<br />during the last lecture, is that it manifests</p>
+<p begin="00:12:53.420" end="00:12:57.029" style="s2">itself even when you use different measurement<br />techniques.</p>
+<p begin="00:12:57.029" end="00:13:02.110" style="s2">And so you have statistical derivation, you<br />know, which basically took place, it really</p>
+<p begin="00:13:02.110" end="00:13:07.123" style="s2">started to accelerate I would say, first in<br />the 1960s and then in the 1980s--it made a</p>
+<p begin="00:13:07.123" end="00:13:09.059" style="s2">big comeback in the 1980s.</p>
+<p begin="00:13:09.059" end="00:13:11.889" style="s2">But paralleling that were theories of brain<br />development.</p>
+<p begin="00:13:11.889" end="00:13:16.001" style="s2">And they weren&#39;t really--the scientists that<br />were doing the one sort of research weren&#39;t</p>
+<p begin="00:13:16.001" end="00:13:19.290" style="s2">really communicating with the scientists that<br />were doing the other kind of research.</p>
+<p begin="00:13:19.290" end="00:13:20.720" style="s2">So they were methodologically separate.</p>
+<p begin="00:13:20.720" end="00:13:22.839" style="s2">They used different techniques as well.</p>
+<p begin="00:13:22.839" end="00:13:27.480" style="s2">They weren&#39;t talking back and forth much and<br />they were using different measurement techniques.</p>
+<p begin="00:13:27.480" end="00:13:31.941" style="s2">So if they both come up with the same thing<br />then you think, oh well there&#39;s probably something</p>
+<p begin="00:13:31.941" end="00:13:37.490" style="s2">to that because, you know, the sighted people<br />discovered it and the people who could hear</p>
+<p begin="00:13:37.490" end="00:13:38.490" style="s2">discovered it.</p>
+<p begin="00:13:38.490" end="00:13:40.560" style="s2">It&#39;s the same kind of idea.</p>
+<p begin="00:13:40.560" end="00:13:49.379" style="s2">So, and you know, this has been worked out<br />in a fair bit of detail over the last 30 years</p>
+<p begin="00:13:49.379" end="00:13:50.930" style="s2">really.</p>
+<p begin="00:13:50.930" end="00:13:56.630" style="s2">And so the papers that you&#39;re supposed to<br />read with this, they&#39;re difficult papers.</p>
+<p begin="00:13:56.630" end="00:14:00.939" style="s2">I believe you&#39;re reading Grey, which is a<br />model of the limbic system and basal ganglia,</p>
+<p begin="00:14:00.939" end="00:14:03.990" style="s2">applications to anxiety and schizophrenia.</p>
+<p begin="00:14:03.990" end="00:14:09.140" style="s2">And I think you have goals and behaviour,<br />that&#39;s the Carver&amp;Scheier paper.</p>
+<p begin="00:14:09.140" end="00:14:12.050" style="s2">I put the Swanson paper in as optional.</p>
+<p begin="00:14:12.050" end="00:14:14.869" style="s2">That&#39;s cerebral hemisphere regulation and<br />motivated behaviour.</p>
+<p begin="00:14:14.869" end="00:14:16.529" style="s2">That is a tough paper.</p>
+<p begin="00:14:16.529" end="00:14:18.230" style="s2">And so is the Grey paper.</p>
+<p begin="00:14:18.230" end="00:14:25.470" style="s2">And it&#39;s partly because these guys, both of<br />them, Grey&#39;s paper is a distillation of a</p>
+<p begin="00:14:25.470" end="00:14:28.139" style="s2">very very thick book that&#39;s very very difficult.</p>
+<p begin="00:14:28.139" end="00:14:29.180" style="s2">And that&#39;s been written twice.</p>
+<p begin="00:14:29.180" end="00:14:32.699" style="s2">It was published first in 1982 and then again<br />in 1999.</p>
+<p begin="00:14:32.699" end="00:14:34.319" style="s2">It&#39;s a brilliant book.</p>
+<p begin="00:14:34.319" end="00:14:36.970" style="s2">It&#39;s had a tremendous impact on psychology.</p>
+<p begin="00:14:36.970" end="00:14:41.730" style="s2">Grey was one of those people who, he was so<br />damned smart it was just painful.</p>
+<p begin="00:14:41.730" end="00:14:45.190" style="s2">His reference list--I don&#39;t know how many<br />papers are in his reference list.</p>
+<p begin="00:14:45.190" end="00:14:46.350" style="s2">Like 2,000.</p>
+<p begin="00:14:46.350" end="00:14:49.670" style="s2">And one of the really weird things about Grey<br />that makes him stand out among scientists</p>
+<p begin="00:14:49.670" end="00:14:51.740" style="s2">is, he actually read all those papers.</p>
+<p begin="00:14:51.740" end="00:14:54.550" style="s2">And more than that, he understood them.</p>
+<p begin="00:14:54.550" end="00:14:55.860" style="s2">And so that&#39;s really something.</p>
+<p begin="00:14:55.860" end="00:15:03.680" style="s2">And so Grey&#39;s book on anxiety--he did a lot<br />of work on animal behaviour and, I&#39;ll tell</p>
+<p begin="00:15:03.680" end="00:15:09.790" style="s2">you, if you want solid psychological information<br />about how the brain works, the people you</p>
+<p begin="00:15:09.790" end="00:15:16.550" style="s2">pay attention to are the people who are studying<br />animal behaviour and animal brains.</p>
+<p begin="00:15:16.550" end="00:15:17.740" style="s2">They know what they&#39;re doing.</p>
+<p begin="00:15:17.740" end="00:15:19.569" style="s2">They&#39;re so methodologically careful.</p>
+<p begin="00:15:19.569" end="00:15:21.389" style="s2">They&#39;re very very reliable.</p>
+<p begin="00:15:21.389" end="00:15:25.699" style="s2">And the human neuropsychologists and the people<br />that use PET scanners and MRIs and all those</p>
+<p begin="00:15:25.699" end="00:15:28.540" style="s2">things, they&#39;re way way way behind the animal<br />researchers.</p>
+<p begin="00:15:28.540" end="00:15:32.930" style="s2">Because the animal researchers can just get<br />in there at a lot higher resolution and they</p>
+<p begin="00:15:32.930" end="00:15:34.860" style="s2">can do much more stringent experiments.</p>
+<p begin="00:15:34.860" end="00:15:39.759" style="s2">And they tend to be more methodologically<br />careful and more scientifically-minded.</p>
+<p begin="00:15:39.759" end="00:15:42.339" style="s2">So anyways, the Grey book is a brilliant book.</p>
+<p begin="00:15:42.339" end="00:15:45.089" style="s2">It took me like four months to read that damn<br />book.</p>
+<p begin="00:15:45.089" end="00:15:52.079" style="s2">And I mean I really had to take it apart because<br />he probably poured 30 years of work into it,</p>
+<p begin="00:15:52.079" end="00:15:54.420" style="s2">something like that.</p>
+<p begin="00:15:54.420" end="00:15:55.730" style="s2">He worked a lot in 30 years.</p>
+<p begin="00:15:55.730" end="00:15:56.730" style="s2">You know?</p>
+<p begin="00:15:56.730" end="00:16:00.839" style="s2">He did a lot of experimentation and he read<br />a lot and so he built a model of the brain&#39;s</p>
+<p begin="00:16:00.839" end="00:16:07.050" style="s2">function that was based partly on Russian<br />neuropsychology, partly on cybernetic theory,</p>
+<p begin="00:16:07.050" end="00:16:13.279" style="s2">partly on animal behaviour, partly on neuropsychopharmacology,<br />and so that&#39;s the study of how drugs affect</p>
+<p begin="00:16:13.279" end="00:16:19.499" style="s2">behaviour and cognition, and then partly from<br />a higher order conceptual perspective.</p>
+<p begin="00:16:19.499" end="00:16:23.170" style="s2">And then he stacked all those things up, one<br />on top of the other, to make sure that the</p>
+<p begin="00:16:23.170" end="00:16:26.619" style="s2">picture was the same at every single level<br />of analysis.</p>
+<p begin="00:16:26.619" end="00:16:31.360" style="s2">It&#39;s absolutely brilliant work and it took<br />the social psychologists like--they really</p>
+<p begin="00:16:31.360" end="00:16:36.110" style="s2">started about Grey, although he published<br />his book in 1982--they probably started thinking</p>
+<p begin="00:16:36.110" end="00:16:37.910" style="s2">Grey seriously in about 2005.</p>
+<p begin="00:16:37.910" end="00:16:45.559" style="s2">So it took 23 years for his book to start<br />to make its wide-scale entrance in the more</p>
+<p begin="00:16:45.559" end="00:16:48.050" style="s2">general psychological community.</p>
+<p begin="00:16:48.050" end="00:16:52.910" style="s2">Anyways, and so you&#39;re going to read this<br />paper which is a model of the limbic system</p>
+<p begin="00:16:52.910" end="00:16:54.500" style="s2">and basal ganglia.</p>
+<p begin="00:16:54.500" end="00:16:59.230" style="s2">And 30 years were distilled into the book<br />and then that was distilled into this paper.</p>
+<p begin="00:16:59.230" end="00:17:02.119" style="s2">So you know, it&#39;s rough going.</p>
+<p begin="00:17:02.119" end="00:17:08.020" style="s2">And then the Swanson paper, he&#39;s another guy--same<br />kind of guy--he&#39;s a developmental neuroanatomist</p>
+<p begin="00:17:08.020" end="00:17:13.060" style="s2">and if you&#39;re really interested in psychology<br />I would really recommend reading those papers</p>
+<p begin="00:17:13.060" end="00:17:19.500" style="s2">because they&#39;re hard going, but if you get<br />it, you have this substrata of knowledge underneath</p>
+<p begin="00:17:19.500" end="00:17:21.050" style="s2">you that&#39;s really firm.</p>
+<p begin="00:17:21.050" end="00:17:24.310" style="s2">And I really like Swanson&#39;s paper--the guy&#39;s<br />a genius.</p>
+<p begin="00:17:24.310" end="00:17:29.270" style="s2">And what&#39;s so cool about Swanson&#39;s paper is<br />that, if you talk to human neuropsychologists</p>
+<p begin="00:17:29.270" end="00:17:33.140" style="s2">you&#39;ll find that they&#39;re biased toward the<br />cerebral cortex.</p>
+<p begin="00:17:33.140" end="00:17:36.870" style="s2">And they&#39;re sort of, I think there&#39;s sort<br />of an anthropomorphic pride that goes along</p>
+<p begin="00:17:36.870" end="00:17:37.870" style="s2">with that.</p>
+<p begin="00:17:37.870" end="00:17:39.030" style="s2">It&#39;s like, well how are we different from<br />animals.</p>
+<p begin="00:17:39.030" end="00:17:43.190" style="s2">Well, you know, we&#39;ve got thumbs and that&#39;s<br />great--hurray for the thumbs--and we stand</p>
+<p begin="00:17:43.190" end="00:17:47.650" style="s2">upright, but if you look at us neurologically<br />the big difference is that we have this tremendously</p>
+<p begin="00:17:47.650" end="00:17:53.840" style="s2">expanded cerebral cortex, especially the prefrontal<br />cortex, and so then people think--well because,</p>
+<p begin="00:17:53.840" end="00:17:57.890" style="s2">you know, because that&#39;s one of the things<br />that differentiates us from animals and it&#39;s</p>
+<p begin="00:17:57.890" end="00:18:02.960" style="s2">relatively evolutionarily modern, because<br />the human brain really really developed rapidly</p>
+<p begin="00:18:02.960" end="00:18:08.870" style="s2">over the last two million years, that it&#39;s<br />like king of the brain in some sense.</p>
+<p begin="00:18:08.870" end="00:18:12.270" style="s2">And it&#39;s the place where all the complicated<br />things happen.</p>
+<p begin="00:18:12.270" end="00:18:17.110" style="s2">And that&#39;s just not right, because like, breathing--that&#39;s<br />complicated.</p>
+<p begin="00:18:17.110" end="00:18:19.710" style="s2">That&#39;s why you don&#39;t get to control it voluntarily.</p>
+<p begin="00:18:19.710" end="00:18:24.060" style="s2">And keeping your heart going, that&#39;s complicated<br />too, and so you don&#39;t get to have a decision</p>
+<p begin="00:18:24.060" end="00:18:25.060" style="s2">about that.</p>
+<p begin="00:18:25.060" end="00:18:27.300" style="s2">Your brain has made that automatic.</p>
+<p begin="00:18:27.300" end="00:18:31.630" style="s2">Like millions of years ago because there&#39;s<br />just no way you&#39;re going to get voluntary</p>
+<p begin="00:18:31.630" end="00:18:33.890" style="s2">control over something that&#39;s that vital.</p>
+<p begin="00:18:33.890" end="00:18:40.910" style="s2">You know, so, assuming that newer brain areas<br />do more complex things, in some ways I think</p>
+<p begin="00:18:40.910" end="00:18:42.670" style="s2">that&#39;s actually precisely backwards.</p>
+<p begin="00:18:42.670" end="00:18:48.570" style="s2">It&#39;s the old brain areas that&#39;ve been around<br />for, you know, a hundred million years, those</p>
+<p begin="00:18:48.570" end="00:18:50.170" style="s2">things are smart.</p>
+<p begin="00:18:50.170" end="00:18:55.650" style="s2">And that&#39;s why they survived for so long and<br />why they&#39;re distributed in so many different</p>
+<p begin="00:18:55.650" end="00:18:56.810" style="s2">species.</p>
+<p begin="00:18:56.810" end="00:19:02.240" style="s2">Your brain is somewhat like a lobster&#39;s brain--it&#39;s<br />a lot like a mouse brain.</p>
+<p begin="00:19:02.240" end="00:19:03.480" style="s2">And it&#39;s a lot like a rat brain.</p>
+<p begin="00:19:03.480" end="00:19:07.640" style="s2">And you might think a rat isn&#39;t a very good<br />model of a human, because after all, they&#39;re</p>
+<p begin="00:19:07.640" end="00:19:12.650" style="s2">rats, but one thing I can tell you is that<br />a rat brain is a way better model of a human</p>
+<p begin="00:19:12.650" end="00:19:17.380" style="s2">brain than your model of human brain is a<br />model of the human brain.</p>
+<p begin="00:19:17.380" end="00:19:18.380" style="s2">You know what I mean?</p>
+<p begin="00:19:18.380" end="00:19:19.990" style="s2">It&#39;s like people think of the brain.</p>
+<p begin="00:19:19.990" end="00:19:21.860" style="s2">Well, they have a dopey model.</p>
+<p begin="00:19:21.860" end="00:19:27.880" style="s2">Use a rat as an example, of course it&#39;s off<br />in some ways because rats can&#39;t talk for example,</p>
+<p begin="00:19:27.880" end="00:19:34.000" style="s2">but there are so many levels of analysis where<br />you might as well be a rat, you know?</p>
+<p begin="00:19:34.000" end="00:19:35.000" style="s2">Technically speaking.</p>
+<p begin="00:19:35.000" end="00:19:38.210" style="s2">The pharmacology for example is very very<br />similar.</p>
+<p begin="00:19:38.210" end="00:19:43.580" style="s2">The function of the neurotransmitters, the<br />basic anatomy of the structures.</p>
+<p begin="00:19:43.580" end="00:19:46.580" style="s2">There&#39;s a tremendous amount of overlap.</p>
+<p begin="00:19:46.580" end="00:19:52.820" style="s2">And so you might as well go for the commonalities<br />among brains before you focus in on the differences,</p>
+<p begin="00:19:52.820" end="00:19:56.530" style="s2">because in some sense that way you get the<br />basic architecture right.</p>
+<p begin="00:19:56.530" end="00:20:02.650" style="s2">Now one of the things that&#39;s really interesting<br />about Swanson, and he&#39;s not a neuropsychologist</p>
+<p begin="00:20:02.650" end="00:20:07.520" style="s2">and he&#39;s not really even a psychologist--he&#39;s<br />a developmental neuroanatomist.</p>
+<p begin="00:20:07.520" end="00:20:12.950" style="s2">And so, there&#39;s lots of ways of chopping up<br />the brain, you know, to look at it, because</p>
+<p begin="00:20:12.950" end="00:20:14.490" style="s2">it&#39;s a really complicated thing.</p>
+<p begin="00:20:14.490" end="00:20:19.540" style="s2">It&#39;s like saying, well how many ways can you<br />divide up a city to analyze it.</p>
+<p begin="00:20:19.540" end="00:20:25.320" style="s2">Well, there&#39;s endless number of ways that<br />you can divide up a city to look at it.</p>
+<p begin="00:20:25.320" end="00:20:31.020" style="s2">It&#39;s the same with the brain because it&#39;s<br />infinitely subdividable, in some sense, certainly</p>
+<p begin="00:20:31.020" end="00:20:33.460" style="s2">all the way down to the molecular structures.</p>
+<p begin="00:20:33.460" end="00:20:38.460" style="s2">And then even at higher order levels, you<br />know, because it&#39;s so complex and it&#39;s hierarchically</p>
+<p begin="00:20:38.460" end="00:20:43.630" style="s2">structured you can just divide it up in all<br />sorts of different ways and so, at higher</p>
+<p begin="00:20:43.630" end="00:20:48.180" style="s2">levels of resolution there isn&#39;t even that<br />much agreement on how to name the parts.</p>
+<p begin="00:20:48.180" end="00:20:53.000" style="s2">Now, what the developmental neuroanatomists<br />do is that they look at how the brain develops</p>
+<p begin="00:20:53.000" end="00:20:55.010" style="s2">in utero over time.</p>
+<p begin="00:20:55.010" end="00:20:59.860" style="s2">Because it&#39;s a developing thing that sort<br />of unfolds like a flower unfolds, you know?</p>
+<p begin="00:20:59.860" end="00:21:05.640" style="s2">And you can track which part of the early<br />brain turns into the later brain and you can</p>
+<p begin="00:21:05.640" end="00:21:10.810" style="s2">get some sense of the--it&#39;s like an evolutionary<br />tree you know?</p>
+<p begin="00:21:10.810" end="00:21:15.520" style="s2">If these three parts grew out of this part<br />then you can assume that there&#39;s some commonality</p>
+<p begin="00:21:15.520" end="00:21:16.520" style="s2">between them.</p>
+<p begin="00:21:16.520" end="00:21:19.110" style="s2">And that can also help you figure out how<br />to divide up the brain.</p>
+<p begin="00:21:19.110" end="00:21:21.540" style="s2">And so that&#39;s one of the things that Swanson<br />does.</p>
+<p begin="00:21:21.540" end="00:21:25.990" style="s2">But the other thing he does that I really<br />like is that, instead of looking at the brain</p>
+<p begin="00:21:25.990" end="00:21:30.780" style="s2">from top down which is what human neuropsychologists<br />tend to do because they concentrate on say</p>
+<p begin="00:21:30.780" end="00:21:36.940" style="s2">language and higher order cognitive functions,<br />which we think of as complex but you think,</p>
+<p begin="00:21:36.940" end="00:21:42.080" style="s2">they&#39;re not that damn complex, you know, like<br />a computer can do mathematics so much better</p>
+<p begin="00:21:42.080" end="00:21:45.090" style="s2">than you that there&#39;s not even any comparison,<br />you know.</p>
+<p begin="00:21:45.090" end="00:21:50.570" style="s2">And it won&#39;t be very long before a lot of<br />the things that we think of as abstract cognition</p>
+<p begin="00:21:50.570" end="00:21:52.873" style="s2">are things that computers are going to be<br />able to do.</p>
+<p begin="00:21:52.873" end="00:21:55.350" style="s2">They just won GO tournament, for example.</p>
+<p begin="00:21:55.350" end="00:22:00.060" style="s2">And the computers are now better--even your<br />PC is better at playing chess than probably</p>
+<p begin="00:22:00.060" end="00:22:01.580" style="s2">anyone in this room.</p>
+<p begin="00:22:01.580" end="00:22:06.400" style="s2">And the really high end computers are better<br />at playing chess than anyone who lives.</p>
+<p begin="00:22:06.400" end="00:22:09.950" style="s2">And so computers are catching up damn fast,<br />but you&#39;ll notice that they don&#39;t do things</p>
+<p begin="00:22:09.950" end="00:22:13.520" style="s2">like bus tables in restaurants, because it<br />turns out that&#39;s really hard.</p>
+<p begin="00:22:13.520" end="00:22:16.220" style="s2">[Student laughter] Well, I mean think about<br />it.</p>
+<p begin="00:22:16.220" end="00:22:17.220" style="s2">It&#39;s hard.</p>
+<p begin="00:22:17.220" end="00:22:19.780" style="s2">You&#39;re carrying different sized loads all<br />the time.</p>
+<p begin="00:22:19.780" end="00:22:22.290" style="s2">You have to interact socially with people<br />properly.</p>
+<p begin="00:22:22.290" end="00:22:23.940" style="s2">You have to stay the hell out of the way.</p>
+<p begin="00:22:23.940" end="00:22:28.590" style="s2">You have to exactly time when you&#39;re going<br />to come to the table.</p>
+<p begin="00:22:28.590" end="00:22:32.210" style="s2">You have to move extraordinarily efficiently,<br />especially as the place gets busy.</p>
+<p begin="00:22:32.210" end="00:22:35.900" style="s2">You know, there&#39;s a lot of demands on you<br />to do that job effectively.</p>
+<p begin="00:22:35.900" end="00:22:41.570" style="s2">And you know, we think about it as a low end<br />job but it&#39;s not automated.</p>
+<p begin="00:22:41.570" end="00:22:44.370" style="s2">The low end jobs are the ones that are going<br />to be automated first.</p>
+<p begin="00:22:44.370" end="00:22:48.420" style="s2">And it&#39;s not obvious that they&#39;re going to<br />be the things that we associated with low-end</p>
+<p begin="00:22:48.420" end="00:22:49.880" style="s2">labour.</p>
+<p begin="00:22:49.880" end="00:22:51.190" style="s2">It&#39;s just that--well.</p>
+<p begin="00:22:51.190" end="00:22:57.750" style="s2">Now, what Swanson did with the nervous system--I<br />was so happy when I found this paper because--he</p>
+<p begin="00:22:57.750" end="00:23:01.510" style="s2">did exactly with the nervous system what Piaget<br />did with children.</p>
+<p begin="00:23:01.510" end="00:23:05.780" style="s2">He showed how the nervous system builds itself<br />from the bottom up.</p>
+<p begin="00:23:05.780" end="00:23:10.510" style="s2">And so Swanson lays right on top of Piaget--it&#39;s<br />lovely.</p>
+<p begin="00:23:10.510" end="00:23:15.530" style="s2">And then the other thing that Swanson does<br />very very nicely is, he elucidates a lot of</p>
+<p begin="00:23:15.530" end="00:23:18.300" style="s2">the Freudian presuppositions.</p>
+<p begin="00:23:18.300" end="00:23:23.720" style="s2">So Freud of course talked about the id, and<br />the id is this, it&#39;s sort of like the archaic</p>
+<p begin="00:23:23.720" end="00:23:25.260" style="s2">brain in some sense, you know.</p>
+<p begin="00:23:25.260" end="00:23:28.480" style="s2">It&#39;s where all your primal impulses lurk.</p>
+<p begin="00:23:28.480" end="00:23:30.870" style="s2">And you know he called that one thing the<br />id.</p>
+<p begin="00:23:30.870" end="00:23:39.760" style="s2">Well you might say, well is there an id in<br />the brain and the answer is, well, vaguely.</p>
+<p begin="00:23:39.760" end="00:23:41.620" style="s2">Vaguely.</p>
+<p begin="00:23:41.620" end="00:23:46.470" style="s2">The brain does differ in terms of the age<br />of its subcomponents.</p>
+<p begin="00:23:46.470" end="00:23:51.740" style="s2">And as you go deeper into the brain and closer<br />to the spine, the brain areas get phylogenetically</p>
+<p begin="00:23:51.740" end="00:23:56.060" style="s2">older, and the more phylogenetically older<br />areas of the brain, which are underneath the</p>
+<p begin="00:23:56.060" end="00:24:00.010" style="s2">cortex, they have their own little circuits.</p>
+<p begin="00:24:00.010" end="00:24:04.610" style="s2">And there&#39;s some commonality between them,<br />and they do govern primal--I think of them</p>
+<p begin="00:24:04.610" end="00:24:06.880" style="s2">as primal sub-personalities.</p>
+<p begin="00:24:06.880" end="00:24:08.580" style="s2">We&#39;ve talked about that before.</p>
+<p begin="00:24:08.580" end="00:24:13.330" style="s2">It&#39;s better than thinking about them as drives<br />or goals or anything like that because not</p>
+<p begin="00:24:13.330" end="00:24:21.420" style="s2">only do they--they&#39;re like sets of associated<br />behaviours, but they&#39;re not just that.</p>
+<p begin="00:24:21.420" end="00:24:25.910" style="s2">They&#39;re also ways of looking at the world<br />and ways of thinking about the world.</p>
+<p begin="00:24:25.910" end="00:24:32.070" style="s2">So, you know, if you&#39;re angry, it&#39;s not like<br />you&#39;re being driven to use your fists.</p>
+<p begin="00:24:32.070" end="00:24:33.070" style="s2">That&#39;s not how it works.</p>
+<p begin="00:24:33.070" end="00:24:37.680" style="s2">What happens is that the angry subpersonality<br />comes out and, you know, it does a whole bunch</p>
+<p begin="00:24:37.680" end="00:24:38.680" style="s2">of things.</p>
+<p begin="00:24:38.680" end="00:24:41.330" style="s2">It&#39;s got its own state of arousal.</p>
+<p begin="00:24:41.330" end="00:24:45.590" style="s2">It&#39;s characterized both by positive and negative<br />emotion, which is something that&#39;s quite peculiar</p>
+<p begin="00:24:45.590" end="00:24:51.830" style="s2">about anger, because it&#39;s both a defensive<br />action and an aggressive, forward moving behaviour.</p>
+<p begin="00:24:51.830" end="00:24:53.290" style="s2">And it has a viewpoint.</p>
+<p begin="00:24:53.290" end="00:24:54.610" style="s2">Like it&#39;s a biased viewpoint.</p>
+<p begin="00:24:54.610" end="00:24:58.380" style="s2">If you&#39;re angry with someone, all you can<br />see about them is how damn irritating they</p>
+<p begin="00:24:58.380" end="00:25:00.620" style="s2">are and how much they need to be defeated.</p>
+<p begin="00:25:00.620" end="00:25:01.660" style="s2">You know, roughly speaking.</p>
+<p begin="00:25:01.660" end="00:25:04.170" style="s2">And so it&#39;s a whole personality.</p>
+<p begin="00:25:04.170" end="00:25:09.560" style="s2">Now, it&#39;s a one dimensional personality because<br />all it&#39;s really got is anger, and that&#39;s not</p>
+<p begin="00:25:09.560" end="00:25:12.130" style="s2">enough to solve every problem.</p>
+<p begin="00:25:12.130" end="00:25:17.580" style="s2">But you can&#39;t think about it as a drive exactly<br />because it&#39;s not deterministic.</p>
+<p begin="00:25:17.580" end="00:25:21.920" style="s2">You know, even when you&#39;re angry, you have<br />a range of choices to make.</p>
+<p begin="00:25:21.920" end="00:25:28.340" style="s2">Now, they&#39;re circumscribed by the fact that<br />you&#39;re angry, but it&#39;s best to think about</p>
+<p begin="00:25:28.340" end="00:25:29.690" style="s2">it as a sub personality.</p>
+<p begin="00:25:29.690" end="00:25:31.600" style="s2">I think you just get a lot farther that way.</p>
+<p begin="00:25:31.600" end="00:25:36.930" style="s2">Now, what Swanson did--you know how Piaget<br />talked about children/infants, they start</p>
+<p begin="00:25:36.930" end="00:25:41.380" style="s2">out with a few fundamental reflexes, right,<br />that they&#39;re sort of born with, including</p>
+<p begin="00:25:41.380" end="00:25:47.140" style="s2">the ability to use their mouth and their tongue<br />as an exploratory device.</p>
+<p begin="00:25:47.140" end="00:25:50.800" style="s2">And then they have certain reflexes that they<br />can manifest right away, and then they have</p>
+<p begin="00:25:50.800" end="00:25:53.500" style="s2">the ability to modify those reflexes.</p>
+<p begin="00:25:53.500" end="00:25:56.980" style="s2">And so, as far as Piaget was concerned, that<br />was enough to get the ball rolling.</p>
+<p begin="00:25:56.980" end="00:26:00.080" style="s2">It was sort of like the child was like booting<br />up across time.</p>
+<p begin="00:26:00.080" end="00:26:05.890" style="s2">It&#39;s got some, you know, outside of the operating<br />system you&#39;ve got some bare processes in your</p>
+<p begin="00:26:05.890" end="00:26:09.560" style="s2">computer that get it started enough so the<br />operating system can turn on.</p>
+<p begin="00:26:09.560" end="00:26:12.400" style="s2">It sort of unfolds up into something complex.</p>
+<p begin="00:26:12.400" end="00:26:14.840" style="s2">Well that&#39;s sort of what human beings do across<br />time.</p>
+<p begin="00:26:14.840" end="00:26:19.640" style="s2">They start out with these basic reflexes that<br />are simple movements and then they earn how</p>
+<p begin="00:26:19.640" end="00:26:23.570" style="s2">to modify the movements and then they learn<br />how to chain the movements together and then</p>
+<p begin="00:26:23.570" end="00:26:31.280" style="s2">they learn how to use the chained movements<br />as tools, in some sense, as embodied tools,</p>
+<p begin="00:26:31.280" end="00:26:37.980" style="s2">to allow these biologically determined sub-personalities<br />to operate in the world with some chance of</p>
+<p begin="00:26:37.980" end="00:26:38.980" style="s2">success.</p>
+<p begin="00:26:38.980" end="00:26:43.980" style="s2">Okay, now you can layer that onto the nervous<br />system, so part of what&#39;s happening when you</p>
+<p begin="00:26:43.980" end="00:26:48.350" style="s2">get these basic movements down, the ones that<br />are not automatic like your ability to grip</p>
+<p begin="00:26:48.350" end="00:26:54.560" style="s2">and the ability to do this with your hands<br />and all the basic subroutines you have with</p>
+<p begin="00:26:54.560" end="00:26:58.560" style="s2">your body--those are automatized, they&#39;re<br />made into little machines, and a lot of them</p>
+<p begin="00:26:58.560" end="00:27:01.360" style="s2">run spinally.</p>
+<p begin="00:27:01.360" end="00:27:05.310" style="s2">You know, because what you think in some sense<br />is that, if you&#39;re walking, you&#39;re thinking</p>
+<p begin="00:27:05.310" end="00:27:07.640" style="s2">about walking in some way--that&#39;s how you<br />walk.</p>
+<p begin="00:27:07.640" end="00:27:08.930" style="s2">And it&#39;s like, that&#39;s not right.</p>
+<p begin="00:27:08.930" end="00:27:14.080" style="s2">What happens is your orient yourself to a<br />goal, and in some sense you just disinhibit</p>
+<p begin="00:27:14.080" end="00:27:16.410" style="s2">the system that knows how to walk.</p>
+<p begin="00:27:16.410" end="00:27:19.860" style="s2">And then it more or less does it automatically,<br />and you know, you direct it.</p>
+<p begin="00:27:19.860" end="00:27:22.880" style="s2">And you can modify what it&#39;s doing if there&#39;s<br />an error.</p>
+<p begin="00:27:22.880" end="00:27:24.220" style="s2">But you kind of know that, right?</p>
+<p begin="00:27:24.220" end="00:27:29.130" style="s2">You drive to school or you drive somewhere<br />you&#39;re familiar to, you don&#39;t even necessarily</p>
+<p begin="00:27:29.130" end="00:27:32.160" style="s2">remember the drive if you&#39;ve done it 50 times.</p>
+<p begin="00:27:32.160" end="00:27:37.160" style="s2">It&#39;s because you&#39;re basically--in some sense<br />you&#39;re just sequencing automated behaviours.</p>
+<p begin="00:27:37.160" end="00:27:42.530" style="s2">And, a good thing too because, if you didn&#39;t<br />have those automated expert behaviours at</p>
+<p begin="00:27:42.530" end="00:27:45.780" style="s2">hand, you wouldn&#39;t know how to drive.</p>
+<p begin="00:27:45.780" end="00:27:51.870" style="s2">Because, you&#39;re just not smart--the time that<br />you drive most consciously is when you first</p>
+<p begin="00:27:51.870" end="00:27:53.080" style="s2">learn how to drive.</p>
+<p begin="00:27:53.080" end="00:27:59.390" style="s2">Well, you don&#39;t want a conscious driver, you<br />want an unconscious expert driver whose consciousness</p>
+<p begin="00:27:59.390" end="00:28:02.290" style="s2">is monitoring the world for anything unexpected.</p>
+<p begin="00:28:02.290" end="00:28:03.290" style="s2">That&#39;s what you want.</p>
+<p begin="00:28:03.290" end="00:28:06.160" style="s2">So, and that&#39;s the case with almost everything<br />you do.</p>
+<p begin="00:28:06.160" end="00:28:10.120" style="s2">If you have to become conscious of what you&#39;re<br />doing, the probability that you don&#39;t do it</p>
+<p begin="00:28:10.120" end="00:28:11.790" style="s2">very well is really high.</p>
+<p begin="00:28:11.790" end="00:28:15.560" style="s2">And you know that because maybe you&#39;re talking<br />to someone, it happens when I&#39;m lecturing</p>
+<p begin="00:28:15.560" end="00:28:20.290" style="s2">sometimes--if I&#39;m not really on top of things<br />I&#39;ll get self-conscious--and that&#39;s a terrible</p>
+<p begin="00:28:20.290" end="00:28:23.580" style="s2">thing to have happen when you lecture, you<br />know, it just makes you stumble.</p>
+<p begin="00:28:23.580" end="00:28:28.450" style="s2">If it&#39;s going well I know where I&#39;m going<br />and I have all these little routines that&#39;re</p>
+<p begin="00:28:28.450" end="00:28:31.700" style="s2">stories and things that I know that--they<br />just automatically sequence.</p>
+<p begin="00:28:31.700" end="00:28:36.750" style="s2">All I have to do is point the lecture in the<br />right direction and, you know, the things</p>
+<p begin="00:28:36.750" end="00:28:43.910" style="s2">that are logically associated with the direction<br />of the lecture will--they&#39;ll come up.</p>
+<p begin="00:28:43.910" end="00:28:45.940" style="s2">They&#39;re primed in some sense.</p>
+<p begin="00:28:45.940" end="00:28:52.290" style="s2">And so, Swanson helped me understand the functions<br />of the lower part of the brain quite well</p>
+<p begin="00:28:52.290" end="00:28:53.970" style="s2">and then to map that onto Piaget.</p>
+<p begin="00:28:53.970" end="00:28:59.090" style="s2">And one of the things he helped me understand<br />was just exactly how sophisticated the lower</p>
+<p begin="00:28:59.090" end="00:29:02.090" style="s2">parts of the brain are, the more automatic<br />parts.</p>
+<p begin="00:29:02.090" end="00:29:07.140" style="s2">Now, the behaviourists used to believe that,<br />or did believe and still believe to some degree,</p>
+<p begin="00:29:07.140" end="00:29:10.270" style="s2">that a lot of your behaviour is reflexive.</p>
+<p begin="00:29:10.270" end="00:29:15.330" style="s2">And the radical behaviourists, the guys from<br />the 50s, more or less made that case that</p>
+<p begin="00:29:15.330" end="00:29:21.190" style="s2">even complex behaviour among animals is nothing<br />but the chaining together of automatic reflexes.</p>
+<p begin="00:29:21.190" end="00:29:24.630" style="s2">So it was a deterministic chain of reflexes.</p>
+<p begin="00:29:24.630" end="00:29:30.410" style="s2">Well, you do have reflex actions, you know,<br />so if you touch a hot stove you&#39;ll jerk your</p>
+<p begin="00:29:30.410" end="00:29:34.860" style="s2">hand away, and your brain isn&#39;t involved in<br />that--it&#39;s just your spinal cord that&#39;s involved</p>
+<p begin="00:29:34.860" end="00:29:35.860" style="s2">in that.</p>
+<p begin="00:29:35.860" end="00:29:39.930" style="s2">Now, your brain is involved when the pain<br />hits, and maybe that&#39;s so you stop doing it</p>
+<p begin="00:29:39.930" end="00:29:45.780" style="s2">in the future, but the conscious part of your<br />brain is too slow to get your hand away from</p>
+<p begin="00:29:45.780" end="00:29:47.080" style="s2">the stove in time.</p>
+<p begin="00:29:47.080" end="00:29:51.770" style="s2">And so, what&#39;s happening in your body in some<br />sense is that you have these multiple layers</p>
+<p begin="00:29:51.770" end="00:29:57.630" style="s2">of neurological organization and some of them<br />are quite fixed--they&#39;re automatic deterministic</p>
+<p begin="00:29:57.630" end="00:30:01.680" style="s2">systems and those are things you&#39;ve really<br />really practiced and that you can just can</p>
+<p begin="00:30:01.680" end="00:30:03.470" style="s2">run as a routine.</p>
+<p begin="00:30:03.470" end="00:30:07.470" style="s2">And above that are those things that you&#39;ve<br />chained together, but they can be chained</p>
+<p begin="00:30:07.470" end="00:30:10.380" style="s2">together in different ways so they&#39;re less<br />automatized.</p>
+<p begin="00:30:10.380" end="00:30:15.770" style="s2">And then if you keep going up they get more<br />and more complex and less automatized, until</p>
+<p begin="00:30:15.770" end="00:30:21.320" style="s2">at the top, which is where your consciousness<br />is, roughly speaking, you have to program</p>
+<p begin="00:30:21.320" end="00:30:22.720" style="s2">what you&#39;re doing, you know.</p>
+<p begin="00:30:22.720" end="00:30:27.370" style="s2">You have to pay very careful attention to<br />how to go about doing this because you don&#39;t</p>
+<p begin="00:30:27.370" end="00:30:29.640" style="s2">have the systems built into you.</p>
+<p begin="00:30:29.640" end="00:30:33.060" style="s2">So you know what that&#39;s like if you&#39;re trying<br />to learn something new, it takes a lot of</p>
+<p begin="00:30:33.060" end="00:30:36.240" style="s2">energy and you really have to pay attention.</p>
+<p begin="00:30:36.240" end="00:30:43.130" style="s2">And then once you start to get it, well, what<br />really happens is there&#39;s things you don&#39;t</p>
+<p begin="00:30:43.130" end="00:30:44.820" style="s2">have to think about any more.</p>
+<p begin="00:30:44.820" end="00:30:49.320" style="s2">And thank god for that, because first of all,<br />you can&#39;t think that much because you&#39;re a</p>
+<p begin="00:30:49.320" end="00:30:55.130" style="s2">limited capacity processor, and second, the<br />programming is quite difficult.</p>
+<p begin="00:30:55.130" end="00:31:22.980" style="s2">Okay so </p>
+<p begin="00:31:22.980" end="00:31:27.740" style="s2">if you look on the right there, there&#39;s a<br />little diagram that&#39;s a hierarchical--or a</p>
+<p begin="00:31:27.740" end="00:31:31.700" style="s2">little table really and it&#39;s talking about<br />the motor system.</p>
+<p begin="00:31:31.700" end="00:31:37.570" style="s2">Now the motor system is what allows you to<br />output action.</p>
+<p begin="00:31:37.570" end="00:31:41.770" style="s2">And you&#39;re outputting action at all sorts<br />of levels that you don&#39;t even realize because,</p>
+<p begin="00:31:41.770" end="00:31:47.840" style="s2">you know, you might think that sight is a<br />sensory activity, for example, but there&#39;s</p>
+<p begin="00:31:47.840" end="00:31:51.060" style="s2">a very tight relationship between sensory<br />activity and motor activity.</p>
+<p begin="00:31:51.060" end="00:31:54.730" style="s2">So, for example, when you&#39;re looking at a<br />scene, even though you don&#39;t know it, your</p>
+<p begin="00:31:54.730" end="00:31:56.850" style="s2">eyes are going like this.</p>
+<p begin="00:31:56.850" end="00:32:00.510" style="s2">And the reason you&#39;re going like that is because<br />if you held your eyes absolutely still, and</p>
+<p begin="00:32:00.510" end="00:32:04.160" style="s2">you can actually learn to do this, if you<br />hold your eyes absolutely still your vision</p>
+<p begin="00:32:04.160" end="00:32:06.600" style="s2">will fade right out and you won&#39;t be able<br />to see anything.</p>
+<p begin="00:32:06.600" end="00:32:12.490" style="s2">And it&#39;s because the little retinal cells<br />that are picking up the light get exhausted</p>
+<p begin="00:32:12.490" end="00:32:13.960" style="s2">and then so they stop transmitting.</p>
+<p begin="00:32:13.960" end="00:32:18.050" style="s2">And so part of the reason you&#39;re zipping your<br />eyes back and forth is so that different parts</p>
+<p begin="00:32:18.050" end="00:32:21.520" style="s2">of your eye can process the scene and it doesn&#39;t<br />get exhausted.</p>
+<p begin="00:32:21.520" end="00:32:26.930" style="s2">And plus, you&#39;re also looking around and you&#39;re<br />looking at when things move, you know, you</p>
+<p begin="00:32:26.930" end="00:32:29.560" style="s2">direct your attention to that, or if someone<br />makes a gesture.</p>
+<p begin="00:32:29.560" end="00:32:35.720" style="s2">And so, you&#39;re actually kind of using your<br />eyes like tentacles, you know, to check out</p>
+<p begin="00:32:35.720" end="00:32:39.060" style="s2">the information that&#39;s coded in the light.</p>
+<p begin="00:32:39.060" end="00:32:43.150" style="s2">And even when you hear and that sort of thing<br />there&#39;s a fair bit of motor activity associated</p>
+<p begin="00:32:43.150" end="00:32:46.910" style="s2">with it--you turn your head unconsciously<br />and there&#39;s all sorts of little motor actions</p>
+<p begin="00:32:46.910" end="00:32:51.300" style="s2">in your ear that also help you tune in, and<br />so those things are tightly associated.</p>
+<p begin="00:32:51.300" end="00:32:56.820" style="s2">But roughly speaking, the motor output is<br />action.</p>
+<p begin="00:32:56.820" end="00:33:02.860" style="s2">And then Swanson shows that there are these<br />layers in the nervous system that go from</p>
+<p begin="00:33:02.860" end="00:33:05.080" style="s2">the spinal cord upward.</p>
+<p begin="00:33:05.080" end="00:33:09.520" style="s2">The first ones are the somatomotor neuron<br />pools, and the second are locomotor pattern</p>
+<p begin="00:33:09.520" end="00:33:15.620" style="s2">generators, and the third are locomotor pattern<br />initiators and then the forth are locomotor</p>
+<p begin="00:33:15.620" end="00:33:16.730" style="s2">pattern controllers.</p>
+<p begin="00:33:16.730" end="00:33:17.750" style="s2">It&#39;s a hierarchy.</p>
+<p begin="00:33:17.750" end="00:33:23.440" style="s2">And so, the way to kind of lay Piaget on it,<br />in some sense, is to think of the somatomotor</p>
+<p begin="00:33:23.440" end="00:33:30.520" style="s2">neuron pools as simple actions that can be<br />implemented automatically.</p>
+<p begin="00:33:30.520" end="00:33:35.620" style="s2">And then the locomotor pattern generator has<br />taken those simple actions and chained them</p>
+<p begin="00:33:35.620" end="00:33:44.300" style="s2">into relatively more complex melodies of action,<br />so kinetic melodies, and then the locomotor</p>
+<p begin="00:33:44.300" end="00:33:49.160" style="s2">pattern initiator more or less decides when<br />those kenetic melodies should be implemented.</p>
+<p begin="00:33:49.160" end="00:33:52.350" style="s2">And even that can be unconscious.</p>
+<p begin="00:33:52.350" end="00:33:56.510" style="s2">So it&#39;s still at that level of brain organization,<br />it&#39;s still more or less automatic.</p>
+<p begin="00:33:56.510" end="00:33:59.140" style="s2">Even stimulus-response is a way to think about<br />it.</p>
+<p begin="00:33:59.140" end="00:34:04.170" style="s2">And then you go one level higher and that&#39;s<br />when you get the ability to voluntarily use</p>
+<p begin="00:34:04.170" end="00:34:06.280" style="s2">these automated things.</p>
+<p begin="00:34:06.280" end="00:34:09.109" style="s2">So I can show you an example of how this works.</p>
+<p begin="00:34:09.109" end="00:34:11.129" style="s2">This is called a ballistic movement.</p>
+<p begin="00:34:11.129" end="00:34:15.599" style="s2">So, I&#39;m going to take my hand and I&#39;m going<br />to bring it down really fast right toward</p>
+<p begin="00:34:15.599" end="00:34:16.929" style="s2">that edge.</p>
+<p begin="00:34:16.929" end="00:34:21.999" style="s2">Okay so--alright now, so that&#39;s very fast<br />movement.</p>
+<p begin="00:34:21.999" end="00:34:27.460" style="s2">Now one of the things that&#39;s cool about that<br />movement is that I don&#39;t have time, once that</p>
+<p begin="00:34:27.460" end="00:34:34.909" style="s2">action starts, it happens so fast that it&#39;s<br />done by the time that the information about</p>
+<p begin="00:34:34.909" end="00:34:38.200" style="s2">that action actually gets to my brain.</p>
+<p begin="00:34:38.200" end="00:34:42.059" style="s2">Once I let that go, I can&#39;t control it.</p>
+<p begin="00:34:42.059" end="00:34:49.139" style="s2">What I basically am doing is disinhibiting<br />the motor control systems that I already have</p>
+<p begin="00:34:49.139" end="00:34:53.500" style="s2">established in my psychophysiological being.</p>
+<p begin="00:34:53.500" end="00:34:57.500" style="s2">I&#39;m disinhibiting one of those and then it<br />runs automatically.</p>
+<p begin="00:34:57.500" end="00:35:02.940" style="s2">And so that&#39;s what you&#39;re doing all the time<br />when you&#39;re acting in life.</p>
+<p begin="00:35:02.940" end="00:35:07.369" style="s2">It&#39;s kind of a neat--I wrote a paper a while<br />back with an undergraduate student of mine,</p>
+<p begin="00:35:07.369" end="00:35:12.440" style="s2">he was a pretty bright character, and we got<br />invited to do a paper--I got invited to do</p>
+<p begin="00:35:12.440" end="00:35:18.279" style="s2">a paper--on free will, and so we were thinking<br />about free will and, it&#39;s very interesting</p>
+<p begin="00:35:18.279" end="00:35:22.059" style="s2">to think about free will in relationship to<br />these hierarchies because it sort of goes</p>
+<p begin="00:35:22.059" end="00:35:27.150" style="s2">like this: it&#39;s that, out there in the future,<br />you&#39;ve got free will.</p>
+<p begin="00:35:27.150" end="00:35:31.359" style="s2">But as the future moves towards the present,<br />you don&#39;t.</p>
+<p begin="00:35:31.359" end="00:35:36.190" style="s2">Once it gets close enough to the present you<br />have to have initiated something automatic</p>
+<p begin="00:35:36.190" end="00:35:37.190" style="s2">that will happen.</p>
+<p begin="00:35:37.190" end="00:35:39.319" style="s2">And so I can give you an example.</p>
+<p begin="00:35:39.319" end="00:35:45.249" style="s2">People who play the piano very well, they<br />look ahead of where they&#39;re playing in the</p>
+<p begin="00:35:45.249" end="00:35:46.249" style="s2">music.</p>
+<p begin="00:35:46.249" end="00:35:49.190" style="s2">Because they know how to do this, they don&#39;t<br />have to think about it.</p>
+<p begin="00:35:49.190" end="00:35:52.589" style="s2">What they have to do is look ahead so that<br />the part of them that knows how to do this</p>
+<p begin="00:35:52.589" end="00:35:54.059" style="s2">gets ready to do it.</p>
+<p begin="00:35:54.059" end="00:35:59.470" style="s2">And all of you are experts in that way likely--all<br />of those of you who drive--you&#39;re also experts</p>
+<p begin="00:35:59.470" end="00:36:00.470" style="s2">that way.</p>
+<p begin="00:36:00.470" end="00:36:01.859" style="s2">Because when you&#39;re driving, where do you<br />look?</p>
+<p begin="00:36:01.859" end="00:36:07.650" style="s2">If you&#39;re a good driver, on the highway, you<br />look at least half a second or a second ahead.</p>
+<p begin="00:36:07.650" end="00:36:08.650" style="s2">Why?</p>
+<p begin="00:36:08.650" end="00:36:12.330" style="s2">Well because 50 feet ahead has already happened.</p>
+<p begin="00:36:12.330" end="00:36:16.410" style="s2">Right, it&#39;s too close in time for you to do<br />anything about it, so basically what you&#39;re</p>
+<p begin="00:36:16.410" end="00:36:23.289" style="s2">doing is you&#39;re looking at the road and then<br />you&#39;re disinhibiting sequences of actions--the</p>
+<p begin="00:36:23.289" end="00:36:28.000" style="s2">ones that are going to correspond to what<br />you want to do with the road most adequately.</p>
+<p begin="00:36:28.000" end="00:36:34.030" style="s2">And the closer you get to executing one of<br />those motor behaviours, the more automated</p>
+<p begin="00:36:34.030" end="00:36:35.030" style="s2">it is.</p>
+<p begin="00:36:35.030" end="00:36:38.769" style="s2">SO by the time you manifest the action, there&#39;s<br />no free will there at all.</p>
+<p begin="00:36:38.769" end="00:36:42.150" style="s2">But you set it up to be released in some sense.</p>
+<p begin="00:36:42.150" end="00:36:48.690" style="s2">So I can say, well, there&#39;s no free will in<br />that, but there was in deciding to do it at</p>
+<p begin="00:36:48.690" end="00:36:50.160" style="s2">that point.</p>
+<p begin="00:36:50.160" end="00:36:55.220" style="s2">So and that&#39;s sort of how your automaticity<br />meets your freedom.</p>
+<p begin="00:36:55.220" end="00:36:58.569" style="s2">You&#39;ve got to think about it as something<br />extending across time.</p>
+<p begin="00:36:58.569" end="00:37:11.440" style="s2">Okay, so having established that then we&#39;re<br />going to get into the neurological localization</p>
+<p begin="00:37:11.440" end="00:37:12.720" style="s2">a little bit.</p>
+<p begin="00:37:12.720" end="00:37:17.880" style="s2">So you might say, well you collect all these<br />patterns of behaviour and then you automate</p>
+<p begin="00:37:17.880" end="00:37:19.089" style="s2">them into routines.</p>
+<p begin="00:37:19.089" end="00:37:24.890" style="s2">I can give you an example, so, for a child,<br />you know, when a child is first born, if you</p>
+<p begin="00:37:24.890" end="00:37:26.940" style="s2">tap on its cheek it&#39;ll go like this.</p>
+<p begin="00:37:26.940" end="00:37:30.529" style="s2">It&#39;s called a rooting reflex, and it&#39;ll move<br />its mouth and tongue.</p>
+<p begin="00:37:30.529" end="00:37:34.490" style="s2">Well what it’s doing, roughly speaking,<br />is its searching for a nipple, and if you</p>
+<p begin="00:37:34.490" end="00:37:38.289" style="s2">just put your finger there it&#39;ll clamp onto<br />that and start to suck.</p>
+<p begin="00:37:38.289" end="00:37:41.259" style="s2">And so the child comes out with that ability.</p>
+<p begin="00:37:41.259" end="00:37:44.619" style="s2">And that&#39;s a reflex, it&#39;s sort of built into<br />the neurology.</p>
+<p begin="00:37:44.619" end="00:37:48.430" style="s2">But then when the child starts to interact<br />with the mother to actually breastfeed, well</p>
+<p begin="00:37:48.430" end="00:37:55.519" style="s2">then that initial reflex has to be modified<br />quite substantially in the context of the</p>
+<p begin="00:37:55.519" end="00:37:59.859" style="s2">relationship with the mother because the bare<br />reflex, it&#39;s enough to get the thing going</p>
+<p begin="00:37:59.859" end="00:38:01.869" style="s2">but it&#39;s not enough to make it work.</p>
+<p begin="00:38:01.869" end="00:38:06.559" style="s2">And so often mothers take a fair bit of time<br />to learn how to breastfeed, but it&#39;s also</p>
+<p begin="00:38:06.559" end="00:38:09.460" style="s2">because the baby is taking a fair bit of time<br />to learn how to do it.</p>
+<p begin="00:38:09.460" end="00:38:13.400" style="s2">So they have to establish the dance that goes<br />with that.</p>
+<p begin="00:38:13.400" end="00:38:18.490" style="s2">And one of the things that&#39;s quite cool about<br />that dance, so to speak, is there&#39;s been studies</p>
+<p begin="00:38:18.490" end="00:38:22.799" style="s2">done of depressed and non-depressed mothers<br />interacting with their infants.</p>
+<p begin="00:38:22.799" end="00:38:27.849" style="s2">And so if you take a non-depressed mother<br />interacting with her infant and you just film</p>
+<p begin="00:38:27.849" end="00:38:33.369" style="s2">them, and you speed up the film, you can see<br />the baby reacts and the mother reacts and</p>
+<p begin="00:38:33.369" end="00:38:35.900" style="s2">the baby reacts and the mother reacts and<br />it&#39;s like a dance, you know, there&#39;s this</p>
+<p begin="00:38:35.900" end="00:38:39.150" style="s2">continual flow of information between the<br />two of them.</p>
+<p begin="00:38:39.150" end="00:38:42.309" style="s2">And if the baby&#39;s with a depressed mother<br />that doesn&#39;t happen.</p>
+<p begin="00:38:42.309" end="00:38:45.230" style="s2">It&#39;s jerky and discontinuous.</p>
+<p begin="00:38:45.230" end="00:38:50.680" style="s2">And so if you think about that you can see<br />how the dialectical interaction between the</p>
+<p begin="00:38:50.680" end="00:38:58.050" style="s2">mother and child is building up the child&#39;s<br />repertoire of complex abilities--within a</p>
+<p begin="00:38:58.050" end="00:38:59.829" style="s2">social context.</p>
+<p begin="00:38:59.829" end="00:39:06.289" style="s2">I know I told you guys before, roughly speaking,<br />that kids really get socialized to play with</p>
+<p begin="00:39:06.289" end="00:39:09.529" style="s2">each other between two and four.</p>
+<p begin="00:39:09.529" end="00:39:15.749" style="s2">But that&#39;s not exactly true because even at<br />the lower level, more automated, and more</p>
+<p begin="00:39:15.749" end="00:39:21.940" style="s2">primordial reflex behaviours, like the ones<br />that are associated with breastfeeding, even</p>
+<p begin="00:39:21.940" end="00:39:26.520" style="s2">those develop under the constraints of social<br />guidelines.</p>
+<p begin="00:39:26.520" end="00:39:30.930" style="s2">So society&#39;s always there, right from the<br />reflex level up.</p>
+<p begin="00:39:30.930" end="00:39:35.880" style="s2">But you know what happens when kids are between<br />two and four, they have to learn to actually</p>
+<p begin="00:39:35.880" end="00:39:41.589" style="s2">play, they have to learn how to play complex<br />games with other children and so that involves</p>
+<p begin="00:39:41.589" end="00:39:45.609" style="s2">communication and negotiation at a verbal<br />level.</p>
+<p begin="00:39:45.609" end="00:39:47.640" style="s2">And also with people their own age.</p>
+<p begin="00:39:47.640" end="00:39:53.160" style="s2">So you know, it&#39;s continuous in some sense<br />and discontinuous in another sense.</p>
+<p begin="00:39:53.160" end="00:39:57.930" style="s2">Okay so anyways, you might say well why do<br />you bother stringing all these things together,</p>
+<p begin="00:39:57.930" end="00:40:00.349" style="s2">and well, you think about the breastfeeding<br />issue.</p>
+<p begin="00:40:00.349" end="00:40:02.270" style="s2">Why does a baby bother to learn how to breastfeed?</p>
+<p begin="00:40:02.270" end="00:40:04.359" style="s2">Well, that&#39;s pretty obvious isn&#39;t it.</p>
+<p begin="00:40:04.359" end="00:40:09.029" style="s2">I mean, first of all, if it doesn’t then<br />it doesn&#39;t live.</p>
+<p begin="00:40:09.029" end="00:40:13.160" style="s2">And there&#39;s a bunch of reasons for that--one<br />is obviously it&#39;s not going to be nourished</p>
+<p begin="00:40:13.160" end="00:40:17.210" style="s2">properly, although, there are things you can<br />do to substitute for that.</p>
+<p begin="00:40:17.210" end="00:40:21.480" style="s2">Although still, breastfeeding still seems<br />to be the best thing you can do for your baby.</p>
+<p begin="00:40:21.480" end="00:40:26.410" style="s2">Although, you can work around it, but fundamentally<br />it seems to be the best thing you can do.</p>
+<p begin="00:40:26.410" end="00:40:29.880" style="s2">But then the baby&#39;s also learning all sorts<br />of other things, like it&#39;s got skin-to-skin</p>
+<p begin="00:40:29.880" end="00:40:34.880" style="s2">contact and it&#39;s snuggling and it being comforted<br />and doing eye gaze to eye gaze and it&#39;s cooing</p>
+<p begin="00:40:34.880" end="00:40:39.069" style="s2">and the mother&#39;s imitating it and there&#39;s<br />just a lot of things going on there.</p>
+<p begin="00:40:39.069" end="00:40:45.589" style="s2">And so the child is organizing all that, partly<br />to fulfill a basic biological need, which</p>
+<p begin="00:40:45.589" end="00:40:50.200" style="s2">is two needs, both thirst and hunger, but<br />it’s also fulfilling its need for play,</p>
+<p begin="00:40:50.200" end="00:40:53.320" style="s2">for example, because children have a circuit<br />for play.</p>
+<p begin="00:40:53.320" end="00:40:58.180" style="s2">So you could say play is part of the id--it&#39;s<br />a fundamental biological need.</p>
+<p begin="00:40:58.180" end="00:41:05.329" style="s2">The other thing children have to have is skin-to-skin<br />touch--they&#39;ll die without it, it&#39;s not optional.</p>
+<p begin="00:41:05.329" end="00:41:07.260" style="s2">You even see that in rats.</p>
+<p begin="00:41:07.260" end="00:41:11.839" style="s2">So if you take a rat pup away from its mother<br />and you feed it, but you don&#39;t do anything</p>
+<p begin="00:41:11.839" end="00:41:12.960" style="s2">with it, it just dies.</p>
+<p begin="00:41:12.960" end="00:41:18.269" style="s2">It goes into opiate overdose roughly speaking--its<br />gastrointestinal systems shut down--and then</p>
+<p begin="00:41:18.269" end="00:41:19.269" style="s2">it dies.</p>
+<p begin="00:41:19.269" end="00:41:24.260" style="s2">And you can stop that from happening by isolating<br />it, feeding it, and then like massaging it</p>
+<p begin="00:41:24.260" end="00:41:29.510" style="s2">with the eraser end of the pencil--you can<br />keep the rat pup alive.</p>
+<p begin="00:41:29.510" end="00:41:34.850" style="s2">And Jaak Panksepp was one of the people either<br />discovered that or worked on it, and that</p>
+<p begin="00:41:34.850" end="00:41:41.839" style="s2">word was extended by Tiffany Fields in a hospital<br />in Florida--some really brilliant work.</p>
+<p begin="00:41:41.839" end="00:41:47.809" style="s2">She was looking at Panksepp&#39;s work on the<br />necessity of tactile stimulation and she thought,</p>
+<p begin="00:41:47.809" end="00:41:50.210" style="s2">hey I bet we could try that with premature<br />babies.</p>
+<p begin="00:41:50.210" end="00:41:53.839" style="s2">Because if a baby&#39;s premature, a couple of<br />things are problems.</p>
+<p begin="00:41:53.839" end="00:41:58.390" style="s2">I mean, first of all, at the need of the term,<br />pregnancy term, that&#39;s when babies lay on</p>
+<p begin="00:41:58.390" end="00:41:59.390" style="s2">fat.</p>
+<p begin="00:41:59.390" end="00:42:04.279" style="s2">You know, so they come out and they&#39;ve got<br />some storage there in case things don&#39;t get</p>
+<p begin="00:42:04.279" end="00:42:05.900" style="s2">going very well.</p>
+<p begin="00:42:05.900" end="00:42:09.279" style="s2">And they&#39;re gaining a lot of weight in that<br />last period of pregnancy, so if they come</p>
+<p begin="00:42:09.279" end="00:42:12.220" style="s2">out premature then they&#39;re really skinny.</p>
+<p begin="00:42:12.220" end="00:42:15.950" style="s2">And then what happens often is they start<br />to lose weight and that&#39;s not good because</p>
+<p begin="00:42:15.950" end="00:42:18.359" style="s2">they should be ramping up the weight gain<br />really quickly.</p>
+<p begin="00:42:18.359" end="00:42:24.180" style="s2">A newborn baby will outgrow its clothes in<br />one week, you know, they&#39;re gaining weight</p>
+<p begin="00:42:24.180" end="00:42:25.180" style="s2">quickly.</p>
+<p begin="00:42:25.180" end="00:42:28.910" style="s2">The premature babies lose weight, and it&#39;s<br />hard to keep them going.</p>
+<p begin="00:42:28.910" end="00:42:34.529" style="s2">They put them in an incubator, they feed them,<br />but what Tiffany Field did was, she had the</p>
+<p begin="00:42:34.529" end="00:42:41.069" style="s2">nurses go in there with gloves and massage<br />the babies for three minutes ten times a day.</p>
+<p begin="00:42:41.069" end="00:42:45.890" style="s2">And those babies gained weight as fast as<br />babies that were still in utero and you could</p>
+<p begin="00:42:45.890" end="00:42:49.470" style="s2">still detect the differences in their development<br />six weeks later.</p>
+<p begin="00:42:49.470" end="00:42:51.690" style="s2">Which in baby terms is like forever, right.</p>
+<p begin="00:42:51.690" end="00:42:55.690" style="s2">I mean you change as much from zero months<br />to six months as you probably do from six</p>
+<p begin="00:42:55.690" end="00:42:57.609" style="s2">months to 20 years old.</p>
+<p begin="00:42:57.609" end="00:43:00.099" style="s2">It&#39;s such a radical transformation.</p>
+<p begin="00:43:00.099" end="00:43:06.329" style="s2">Okay, the reason I&#39;m telling you all this<br />is because, you lay out these hierarchies</p>
+<p begin="00:43:06.329" end="00:43:11.869" style="s2">of behaviour that are well practiced and automatized<br />and brought under the control of social conditioning,</p>
+<p begin="00:43:11.869" end="00:43:17.589" style="s2">but you really do them in the service of--well<br />that&#39;s the question.</p>
+<p begin="00:43:17.589" end="00:43:21.710" style="s2">In the service of, we&#39;ll say, biological necessity,<br />for the sake of argument.</p>
+<p begin="00:43:21.710" end="00:43:26.240" style="s2">Well you have to eat and you have to drink,<br />and so one of the reasons you lay out the</p>
+<p begin="00:43:26.240" end="00:43:31.789" style="s2">hierarchy that&#39;s associated with breastfeeding<br />is so that you can do that directly, but also</p>
+<p begin="00:43:31.789" end="00:43:36.230" style="s2">so that you can establish a relationship so<br />that not only are you doing it directly this</p>
+<p begin="00:43:36.230" end="00:43:41.259" style="s2">day, but you&#39;re also going to do it tomorrow<br />and the next day and the day after that.</p>
+<p begin="00:43:41.259" end="00:43:48.240" style="s2">And so the hunger system is integrated with<br />these other systems of biological constraint</p>
+<p begin="00:43:48.240" end="00:43:53.890" style="s2">in some sense, and they&#39;re trying to come<br />up with an answer to the continual problem.</p>
+<p begin="00:43:53.890" end="00:44:00.989" style="s2">So you have dedicated biological systems that<br />help you address problems that are associated</p>
+<p begin="00:44:00.989" end="00:44:04.059" style="s2">problems that are associated with your biological<br />nature that are universal.</p>
+<p begin="00:44:04.059" end="00:44:06.589" style="s2">And those would be the things that Freud would<br />describe as the id.</p>
+<p begin="00:44:06.589" end="00:44:14.230" style="s2">So you can think of these hierarchies of motor<br />behaviour, which sort of develop up into sub</p>
+<p begin="00:44:14.230" end="00:44:19.349" style="s2">personalities, as nested in some sense inside<br />of motivational states.</p>
+<p begin="00:44:19.349" end="00:44:24.430" style="s2">So there&#39;s the motorbehavious hierarchy that<br />you use when you&#39;re angry, there&#39;s the motorbehaviour</p>
+<p begin="00:44:24.430" end="00:44:30.079" style="s2">hierarchy you use when you&#39;re distressed--and<br />kids get very good at that, you know, so they&#39;ll</p>
+<p begin="00:44:30.079" end="00:44:36.470" style="s2">cry, which is a reflex, but by the time they&#39;re<br />about two, they&#39;re pretty damn good at crying.</p>
+<p begin="00:44:36.470" end="00:44:40.259" style="s2">You know, they&#39;ve got a cry that sounds like<br />they&#39;re sad and upset when they&#39;re really</p>
+<p begin="00:44:40.259" end="00:44:41.259" style="s2">angry.</p>
+<p begin="00:44:41.259" end="00:44:44.170" style="s2">And so if you really listen you can hear the<br />difference.</p>
+<p begin="00:44:44.170" end="00:44:48.200" style="s2">Because an angry baby sounds different than<br />a sad baby.</p>
+<p begin="00:44:48.200" end="00:44:52.060" style="s2">But if you don&#39;t listen, the baby will have<br />you thinking it&#39;s sad no problem.</p>
+<p begin="00:44:52.060" end="00:44:55.730" style="s2">Then you&#39;ll feel sorry for it and go help<br />it out, and really it&#39;s just thinking &quot;up</p>
+<p begin="00:44:55.730" end="00:44:57.319" style="s2">yours&quot; [Student laughter].</p>
+<p begin="00:44:57.319" end="00:45:03.369" style="s2">So we know this partly because--so let&#39;s say<br />you&#39;ve got a baby and it&#39;s under nine months,</p>
+<p begin="00:45:03.369" end="00:45:05.440" style="s2">six months old, and it&#39;s crying in its crib.</p>
+<p begin="00:45:05.440" end="00:45:07.009" style="s2">You think, well what should you do?</p>
+<p begin="00:45:07.009" end="00:45:10.470" style="s2">You go in there and you pick up the baby and<br />you comfort it and you probably do that pretty</p>
+<p begin="00:45:10.470" end="00:45:14.690" style="s2">much non-stop when the baby&#39;s that young because<br />they&#39;re so young they should really still</p>
+<p begin="00:45:14.690" end="00:45:16.910" style="s2">be in utero--they&#39;re very young.</p>
+<p begin="00:45:16.910" end="00:45:20.059" style="s2">But by nine months that baby&#39;s starting to<br />get smart.</p>
+<p begin="00:45:20.059" end="00:45:25.650" style="s2">And so it&#39;s about nine months when it can<br />visually recognize people it knows and people</p>
+<p begin="00:45:25.650" end="00:45:28.020" style="s2">he/she doesn’t know.</p>
+<p begin="00:45:28.020" end="00:45:33.359" style="s2">And then, so the baby&#39;s in there and it&#39;s<br />squawking a bit and so, it wants some attention,</p>
+<p begin="00:45:33.359" end="00:45:35.809" style="s2">and then someone walks in and it&#39;s not the<br />mother.</p>
+<p begin="00:45:35.809" end="00:45:39.869" style="s2">And the baby bursts into tears and people<br />think the baby&#39;s all sad because its mother</p>
+<p begin="00:45:39.869" end="00:45:40.869" style="s2">didn&#39;t show up.</p>
+<p begin="00:45:40.869" end="00:45:45.190" style="s2">It&#39;s not sad, it&#39;s really irritated that the<br />wrong person showed up.</p>
+<p begin="00:45:45.190" end="00:45:49.839" style="s2">And you can tell that because people have<br />done facial coding of the baby&#39;s expression</p>
+<p begin="00:45:49.839" end="00:45:53.049" style="s2">and also its skin tone and an angry baby looks<br />angry.</p>
+<p begin="00:45:53.049" end="00:45:56.380" style="s2">First of all it turns all red, it&#39;s really<br />angry.</p>
+<p begin="00:45:56.380" end="00:45:59.680" style="s2">And you see that behaviour later too in temper<br />tantrums.</p>
+<p begin="00:45:59.680" end="00:46:05.519" style="s2">Like a two year old that&#39;s having a temper<br />tantrum is just having a fit of rage.</p>
+<p begin="00:46:05.519" end="00:46:10.380" style="s2">The rage system, because there is a rage system,<br />is just completely out of control, it&#39;s just</p>
+<p begin="00:46:10.380" end="00:46:13.200" style="s2">absolutely dominating their behaviour.</p>
+<p begin="00:46:13.200" end="00:46:18.069" style="s2">You don&#39;t really want to encourage that because<br />the rage system should start to be modulated</p>
+<p begin="00:46:18.069" end="00:46:21.759" style="s2">by other systems and other higher order control<br />systems.</p>
+<p begin="00:46:21.759" end="00:46:26.210" style="s2">Not so much suppressed or repressed which<br />is sort of how the Freudians would think , but</p>
+<p begin="00:46:26.210" end="00:46:31.279" style="s2">integrated into more complex and sophisticated<br />modes of action, so the child can use its</p>
+<p begin="00:46:31.279" end="00:46:36.869" style="s2">anger--which is an extraordinarily useful<br />capacity, because it allows you to defend</p>
+<p begin="00:46:36.869" end="00:46:41.069" style="s2">yourself--so the child can learn to use that<br />in a sophisticated way so it can solve the</p>
+<p begin="00:46:41.069" end="00:46:46.059" style="s2">problems that would lead to a rage attack<br />without ever getting to the point where it</p>
+<p begin="00:46:46.059" end="00:46:47.779" style="s2">has to be enraged.</p>
+<p begin="00:46:47.779" end="00:46:51.079" style="s2">That&#39;s a functional child--it&#39;s not like it&#39;s<br />learned to repress its anger, it&#39;s just that</p>
+<p begin="00:46:51.079" end="00:46:54.059" style="s2">it gets along with people and never has to<br />get angry.</p>
+<p begin="00:46:54.059" end="00:47:01.280" style="s2">So, now some kids learn to repress their anger<br />because they&#39;re in a household where any manifestation</p>
+<p begin="00:47:01.280" end="00:47:04.289" style="s2">of anger is dealt with very very harshly.</p>
+<p begin="00:47:04.289" end="00:47:09.390" style="s2">And maybe there&#39;s a rule that everyone has<br />to be nice to each other all the time, or</p>
+<p begin="00:47:09.390" end="00:47:10.390" style="s2">else.</p>
+<p begin="00:47:10.390" end="00:47:12.549" style="s2">Sort of a paradoxical rule.</p>
+<p begin="00:47:12.549" end="00:47:17.119" style="s2">But anyways, you can imagine there&#39;s a lot<br />of these biological systems and so I want</p>
+<p begin="00:47:17.119" end="00:47:23.170" style="s2">to show you some of their instantiation here,<br />so let&#39;s look at this one.</p>
+<p begin="00:47:23.170" end="00:47:29.369" style="s2">When you get up above the spinal cord, there&#39;s<br />a little brain area, I&#39;ll show you about how</p>
+<p begin="00:47:29.369" end="00:47:30.640" style="s2">big it is.</p>
+<p begin="00:47:30.640" end="00:47:31.640" style="s2">There it is.</p>
+<p begin="00:47:31.640" end="00:47:37.540" style="s2">So there&#39;s your brain, the top-on part, the<br />part on top, that&#39;s the cerebral cortex.</p>
+<p begin="00:47:37.540" end="00:47:39.769" style="s2">That&#39;s the part that people are really proud<br />of.</p>
+<p begin="00:47:39.769" end="00:47:41.990" style="s2">It&#39;s like, oh wow, look at our cerebral cortex.</p>
+<p begin="00:47:41.990" end="00:47:45.049" style="s2">Doesn&#39;t it have a lot of neurons [student<br />laughter].</p>
+<p begin="00:47:45.049" end="00:47:50.520" style="s2">Then, in the middle there, there are older<br />brain area--phylogenetically old--and then</p>
+<p begin="00:47:50.520" end="00:47:53.830" style="s2">as you go down toward the spinal cord they<br />basically get older and older and older and</p>
+<p begin="00:47:53.830" end="00:47:55.499" style="s2">older.</p>
+<p begin="00:47:55.499" end="00:47:59.269" style="s2">And more and more critical to your development.</p>
+<p begin="00:47:59.269" end="00:48:03.799" style="s2">So the serotonin system, we talked about it<br />a little bit in lobsters, right.</p>
+<p begin="00:48:03.799" end="00:48:08.549" style="s2">The serotonin system determines where a lobster<br />is in a dominance hierarchy, it determines</p>
+<p begin="00:48:08.549" end="00:48:11.829" style="s2">whether it stands like this or whether it<br />stands like this.</p>
+<p begin="00:48:11.829" end="00:48:12.869" style="s2">That&#39;s an old system.</p>
+<p begin="00:48:12.869" end="00:48:17.609" style="s2">And when your brain is developing in utero<br />it&#39;s the serotonin system that guides its</p>
+<p begin="00:48:17.609" end="00:48:18.609" style="s2">development.</p>
+<p begin="00:48:18.609" end="00:48:22.200" style="s2">So that&#39;s how important it is, sort of like<br />the conductor of the orchestra, but it&#39;s also</p>
+<p begin="00:48:22.200" end="00:48:26.960" style="s2">the thing that controls the entire unfolding<br />of the brain.</p>
+<p begin="00:48:26.960" end="00:48:36.200" style="s2">And it&#39;s a really really archaic system, so<br />in some sense your being is controlled by</p>
+<p begin="00:48:36.200" end="00:48:38.509" style="s2">these things that are ancient, beyond comprehension.</p>
+<p begin="00:48:38.509" end="00:48:44.269" style="s2">Anyways, you look at the hypothalamus and<br />you think, well that&#39;s not very big.</p>
+<p begin="00:48:44.269" end="00:48:46.430" style="s2">And yeah, it&#39;s not.</p>
+<p begin="00:48:46.430" end="00:48:52.499" style="s2">But, if you take a cat and you--so a cat brain<br />looks something like that--if you take off</p>
+<p begin="00:48:52.499" end="00:48:57.640" style="s2">all the stuff that&#39;s in light orange and most<br />of the top of the stuff that&#39;s above the hypothalamus</p>
+<p begin="00:48:57.640" end="00:49:02.789" style="s2">that&#39;s in white--you just take all that out,<br />and it&#39;s a female cat and it&#39;s in a cage--you</p>
+<p begin="00:49:02.789" end="00:49:07.519" style="s2">really can&#39;t tell the difference between it<br />and a cat that has all the rest of that brain.</p>
+<p begin="00:49:07.519" end="00:49:09.690" style="s2">Now there&#39;s some things it can&#39;t do.</p>
+<p begin="00:49:09.690" end="00:49:14.579" style="s2">It doesn&#39;t do very well if you take it into<br />a new situation because it can&#39;t learn.</p>
+<p begin="00:49:14.579" end="00:49:18.050" style="s2">More importantly in some sense, it can&#39;t remember.</p>
+<p begin="00:49:18.050" end="00:49:22.809" style="s2">So it&#39;s in a perpetual sense of everything<br />happening for the very first time.</p>
+<p begin="00:49:22.809" end="00:49:27.440" style="s2">But it&#39;s still capable of a lot of the reactions<br />that would be necessary for you to stay alive.</p>
+<p begin="00:49:27.440" end="00:49:32.930" style="s2">SO it can regulate its liquid intake, it can<br />regulate its food intake, it can react sexually,</p>
+<p begin="00:49:32.930" end="00:49:36.989" style="s2">it&#39;s capable of defensive aggression, although<br />it&#39;ll really fly into a rage so it&#39;s kind</p>
+<p begin="00:49:36.989" end="00:49:40.979" style="s2">of like a disinhibited two year old in some<br />sense.</p>
+<p begin="00:49:40.979" end="00:49:45.279" style="s2">And as long as you keep it in the cage and<br />provide it with food and water it&#39;s like the</p>
+<p begin="00:49:45.279" end="00:49:47.229" style="s2">way it lives.</p>
+<p begin="00:49:47.229" end="00:49:50.989" style="s2">And it&#39;s hyper exploratory which I think is<br />just weird beyond belief.</p>
+<p begin="00:49:50.989" end="00:49:54.800" style="s2">You know, you take the brain off a cat and<br />then all it wants to do is explore.</p>
+<p begin="00:49:54.800" end="00:49:56.229" style="s2">Which is not what you think at all.</p>
+<p begin="00:49:56.229" end="00:50:01.299" style="s2">It&#39;s like, a cat with no brain is really curious--it<br />just doesn&#39;t make sense.</p>
+<p begin="00:50:01.299" end="00:50:06.739" style="s2">But it does actually because the systems that<br />drive your exploratory urge are rooted in</p>
+<p begin="00:50:06.739" end="00:50:13.740" style="s2">that hypothalamus and they&#39;re actually the<br />same systems--it&#39;s individual differences</p>
+<p begin="00:50:13.740" end="00:50:18.380" style="s2">in the functions and sensitivity of those<br />systems that are in part associated with individual</p>
+<p begin="00:50:18.380" end="00:50:20.299" style="s2">differences in extraversion.</p>
+<p begin="00:50:20.299" end="00:50:23.920" style="s2">So extroverts are sort of hyper exploratory<br />in social situations.</p>
+<p begin="00:50:23.920" end="00:50:25.540" style="s2">Whereas introverts aren&#39;t.</p>
+<p begin="00:50:25.540" end="00:50:32.420" style="s2">And the exploratory circuit that has its origins<br />in the hypothalamus runs on dopamine, roughly</p>
+<p begin="00:50:32.420" end="00:50:37.309" style="s2">speaking, and then it runs through the base<br />of your brain and then up into your prefrontal</p>
+<p begin="00:50:37.309" end="00:50:38.970" style="s2">cortex in particular.</p>
+<p begin="00:50:38.970" end="00:50:43.660" style="s2">And it&#39;s also the system that responds to<br />cocaine and amphetamines and other drugs that</p>
+<p begin="00:50:43.660" end="00:50:47.200" style="s2">people like to take because they heighten<br />positive emotion.</p>
+<p begin="00:50:47.200" end="00:50:53.789" style="s2">So it&#39;s variability at a very very low level<br />in the brain that determines things like the</p>
+<p begin="00:50:53.789" end="00:50:55.329" style="s2">differences in extraverts and introverts.</p>
+<p begin="00:50:55.329" end="00:51:03.010" style="s2">Anyways, it&#39;s this tiny little part of the<br />brain and if that&#39;s all you have you can get</p>
+<p begin="00:51:03.010" end="00:51:06.380" style="s2">along not too bad.</p>
+<p begin="00:51:06.380" end="00:51:11.079" style="s2">But that&#39;s also because it&#39;s tiny from one<br />level of analysis, but it&#39;s really big from</p>
+<p begin="00:51:11.079" end="00:51:12.619" style="s2">another.</p>
+<p begin="00:51:12.619" end="00:51:19.130" style="s2">I mean, you can increase your resolution when<br />you&#39;re doing brain analysis all the way down</p>
+<p begin="00:51:19.130" end="00:51:23.329" style="s2">to the molecular level and still be looking<br />at the brain, you know.</p>
+<p begin="00:51:23.329" end="00:51:28.739" style="s2">Below the molecular level, at the atomic level,<br />well everything&#39;s made out of atoms.</p>
+<p begin="00:51:28.739" end="00:51:33.799" style="s2">But the brain is already there at a molecular<br />level and it&#39;s insanely complicated at a molecular</p>
+<p begin="00:51:33.799" end="00:51:38.339" style="s2">level, and the hypothalamus is way bigger<br />than a molecule.</p>
+<p begin="00:51:38.339" end="00:51:43.030" style="s2">And so even though it&#39;s small compared to<br />the rest of our brain it&#39;s still a whopping</p>
+<p begin="00:51:43.030" end="00:51:47.079" style="s2">big structure by atomic standards and so there&#39;s<br />a hell of a lot going on down there.</p>
+<p begin="00:51:47.079" end="00:51:53.109" style="s2">And you notice the hypothalamus, you might<br />say, is there such a thing as the id.</p>
+<p begin="00:51:53.109" end="00:51:56.329" style="s2">Well, yes and no.</p>
+<p begin="00:51:56.329" end="00:51:57.630" style="s2">Is it in the brain?</p>
+<p begin="00:51:57.630" end="00:51:58.979" style="s2">Yes and no.</p>
+<p begin="00:51:58.979" end="00:52:04.079" style="s2">A really low resolution representation of<br />what&#39;s in the brain, that&#39;s one way of thinking</p>
+<p begin="00:52:04.079" end="00:52:05.079" style="s2">about it.</p>
+<p begin="00:52:05.079" end="00:52:07.890" style="s2">But then you might say, is there a hypothalamus?</p>
+<p begin="00:52:07.890" end="00:52:10.049" style="s2">And the answer to that is, well, yes and no.</p>
+<p begin="00:52:10.049" end="00:52:14.309" style="s2">Because there&#39;s the hypothalamic structure,<br />and you see it&#39;s made out of a bunch of things</p>
+<p begin="00:52:14.309" end="00:52:15.509" style="s2">that are different.</p>
+<p begin="00:52:15.509" end="00:52:18.819" style="s2">And so you could say, well should you even<br />group those things together.</p>
+<p begin="00:52:18.819" end="00:52:22.910" style="s2">And the answer to that is, it depends on why<br />you&#39;re grouping them together.</p>
+<p begin="00:52:22.910" end="00:52:30.630" style="s2">If it&#39;s useful for some purpose of understanding<br />or control, to group them together--they&#39;re</p>
+<p begin="00:52:30.630" end="00:52:34.239" style="s2">similar in the way that they emerge in the<br />course of brain development, and they&#39;re roughly</p>
+<p begin="00:52:34.239" end="00:52:38.890" style="s2">of the same phylogenetic age--but there&#39;s<br />lots of reasons to treat them as the same</p>
+<p begin="00:52:38.890" end="00:52:40.509" style="s2">and there&#39;s lots of reasons to treat them<br />as different.</p>
+<p begin="00:52:40.509" end="00:52:43.109" style="s2">It depends on what you&#39;re trying to do.</p>
+<p begin="00:52:43.109" end="00:52:56.410" style="s2">Anyways, the hypothalamus has all these little<br />sub-structures that are really in some sense</p>
+<p begin="00:52:56.410" end="00:53:00.029" style="s2">at the core of the sub-personalities that<br />we talked about.</p>
+<p begin="00:53:00.029" end="00:53:12.910" style="s2">So, for example--okay so this is Swanson again<br />and he&#39;s showing you--this is a rat&#39;s brain</p>
+<p begin="00:53:12.910" end="00:53:16.859" style="s2">from the bottom--and he&#39;s showing you the<br />layout of the hypothalamus.</p>
+<p begin="00:53:16.859" end="00:53:19.170" style="s2">You see it&#39;s got all those different nuclei.</p>
+<p begin="00:53:19.170" end="00:53:22.049" style="s2">It doesn&#39;t look like one thing, it looks like<br />a bunch of things.</p>
+<p begin="00:53:22.049" end="00:53:30.119" style="s2">And so here he says, the descending paraventricular<br />nucleus is involved in the control of eating</p>
+<p begin="00:53:30.119" end="00:53:33.140" style="s2">and drinking, and that&#39;s shown in green.</p>
+<p begin="00:53:33.140" end="00:53:37.499" style="s2">So that&#39;s the thing that--when you get hungry<br />or thirsty--that&#39;s the thing that sort of</p>
+<p begin="00:53:37.499" end="00:53:40.890" style="s2">turns on your hungry and thirsty sub-personality.</p>
+<p begin="00:53:40.890" end="00:53:45.269" style="s2">And then the rest of the cell groups play<br />a major role in controlling two classes of</p>
+<p begin="00:53:45.269" end="00:53:49.999" style="s2">social behaviour, that is, behaviours involving<br />interactions between animals: reproductive--that&#39;s</p>
+<p begin="00:53:49.999" end="00:53:55.809" style="s2">the red areas--and defensive--the purplish<br />areas.</p>
+<p begin="00:53:55.809" end="00:54:00.460" style="s2">So now what you can think is, you have all<br />those little subroutines that we talked about,</p>
+<p begin="00:54:00.460" end="00:54:05.799" style="s2">that&#39;re sort of at hand and ready to go, and<br />then they&#39;re organized underneath these major</p>
+<p begin="00:54:05.799" end="00:54:13.359" style="s2">classes of motivation so that, you have to<br />do something--like eat--and so it&#39;s like there&#39;s</p>
+<p begin="00:54:13.359" end="00:54:17.390" style="s2">an eating robot in you, that&#39;s one way of<br />thinking about it, except it&#39;s smarter than</p>
+<p begin="00:54:17.390" end="00:54:19.640" style="s2">that and it&#39;s alive and conscious.</p>
+<p begin="00:54:19.640" end="00:54:25.529" style="s2">These things are alive, they&#39;re not machines<br />and they&#39;re not deterministic.</p>
+<p begin="00:54:25.529" end="00:54:30.539" style="s2">You can think of them as low-resolution personalities,<br />or uni-dimensional personalities because the</p>
+<p begin="00:54:30.539" end="00:54:33.759" style="s2">only thing the eating system really cares<br />about is whether or not you eat.</p>
+<p begin="00:54:33.759" end="00:54:36.019" style="s2">And the drinking system is the same thing.</p>
+<p begin="00:54:36.019" end="00:54:41.039" style="s2">You know, you see malfunctions sometimes in<br />people of these singular systems, so you can</p>
+<p begin="00:54:41.039" end="00:54:47.479" style="s2">develop a condition if you have hypothalamic<br />damage where you&#39;ll drink water til you die</p>
+<p begin="00:54:47.479" end="00:54:49.260" style="s2">and no one can stop you.</p>
+<p begin="00:54:49.260" end="00:54:53.729" style="s2">They can lock you in a room away from sinks<br />and that would stop you, but you&#39;d be raging</p>
+<p begin="00:54:53.729" end="00:54:57.579" style="s2">away inside trying to claw through the door<br />to get to the damn water because you&#39;re so</p>
+<p begin="00:54:57.579" end="00:55:03.469" style="s2">hyper-thirsty that it&#39;s all that there is<br />left of you in some sense and if you&#39;re allowed</p>
+<p begin="00:55:03.469" end="00:55:08.359" style="s2">access to a tap, you&#39;ll just drink and drink<br />and drink and drink and drink until you drown.</p>
+<p begin="00:55:08.359" end="00:55:13.869" style="s2">And, you know, people can say, hey you&#39;ve<br />had enough water--it&#39;s like, forget that.</p>
+<p begin="00:55:13.869" end="00:55:19.089" style="s2">The hypothalamus is a major league system,<br />and when push comes to shove, it&#39;s the thing</p>
+<p begin="00:55:19.089" end="00:55:20.539" style="s2">that&#39;s in control.</p>
+<p begin="00:55:20.539" end="00:55:26.299" style="s2">And one of the ways of thinking about the<br />way that you organize your life is that, the</p>
+<p begin="00:55:26.299" end="00:55:30.190" style="s2">hypothalamus controls the major motivation<br />systems--we just talked about those--and so</p>
+<p begin="00:55:30.190" end="00:55:33.039" style="s2">those are the things that people would think<br />about as drives.</p>
+<p begin="00:55:33.039" end="00:55:36.279" style="s2">Although they&#39;re not drives, they&#39;re too complicated<br />to be drives.</p>
+<p begin="00:55:36.279" end="00:55:40.819" style="s2">And then there&#39;s other systems that come up<br />later that we&#39;ll also talk about that govern</p>
+<p begin="00:55:40.819" end="00:55:46.650" style="s2">emotion, like anxiety and a different system<br />that governs pain.</p>
+<p begin="00:55:46.650" end="00:55:50.390" style="s2">Partly what you&#39;re trying to do as your organize<br />your life is to make sure those systems stay</p>
+<p begin="00:55:50.390" end="00:55:52.160" style="s2">shut off.</p>
+<p begin="00:55:52.160" end="00:55:53.809" style="s2">And then you think, well I&#39;m in control.</p>
+<p begin="00:55:53.809" end="00:55:55.320" style="s2">Well no, you&#39;re not.</p>
+<p begin="00:55:55.320" end="00:56:00.549" style="s2">You just satisfied all the things that could<br />take control from you, and so now you have</p>
+<p begin="00:56:00.549" end="00:56:02.089" style="s2">a modicum of choice.</p>
+<p begin="00:56:02.089" end="00:56:05.759" style="s2">And basically what you&#39;re doing when all these<br />things have had what they need is you&#39;re running</p>
+<p begin="00:56:05.759" end="00:56:07.569" style="s2">around exploring.</p>
+<p begin="00:56:07.569" end="00:56:12.670" style="s2">You know, and that&#39;s also another one of these<br />circuits because the hypothalamus, as I already</p>
+<p begin="00:56:12.670" end="00:56:14.119" style="s2">said, governs exploration.</p>
+<p begin="00:56:14.119" end="00:56:23.329" style="s2">So, a lot of--see, psychologists often get<br />things backwards and they ask silly questions</p>
+<p begin="00:56:23.329" end="00:56:25.119" style="s2">like why are people anxious.</p>
+<p begin="00:56:25.119" end="00:56:26.769" style="s2">That&#39;s a stupid question.</p>
+<p begin="00:56:26.769" end="00:56:31.680" style="s2">It&#39;s why are people ever calm--that&#39;s a question.</p>
+<p begin="00:56:31.680" end="00:56:33.269" style="s2">Why are you anxious?</p>
+<p begin="00:56:33.269" end="00:56:36.390" style="s2">Well, hmm, think of all the terrible things<br />that can happen to you.</p>
+<p begin="00:56:36.390" end="00:56:39.759" style="s2">And they will happen to you, even worse, and<br />there isn&#39;t anything you can do about it.</p>
+<p begin="00:56:39.759" end="00:56:43.010" style="s2">It&#39;s like why aren&#39;t you quaking in your boots<br />just sitting there.</p>
+<p begin="00:56:43.010" end="00:56:45.250" style="s2">Well, that&#39;s a mystery.</p>
+<p begin="00:56:45.250" end="00:56:52.519" style="s2">You know, and then, here you are in your normal<br />state--it&#39;s like, well no, this is not a normal</p>
+<p begin="00:56:52.519" end="00:56:53.519" style="s2">state.</p>
+<p begin="00:56:53.519" end="00:57:02.009" style="s2">People have been trying for seven million<br />years, as people, to create a situation so</p>
+<p begin="00:57:02.009" end="00:57:08.579" style="s2">complex and comfortable that a couple hundred<br />of you can sit here without having your hypothalamus</p>
+<p begin="00:57:08.579" end="00:57:13.420" style="s2">driving you toward something and actually<br />just listen to something for a few hours.</p>
+<p begin="00:57:13.420" end="00:57:14.869" style="s2">That&#39;s not normal.</p>
+<p begin="00:57:14.869" end="00:57:19.859" style="s2">That&#39;s so staggeringly abnormal that it&#39;s<br />a miracle.</p>
+<p begin="00:57:19.859" end="00:57:26.579" style="s2">The typical person--and for most of human<br />history--it&#39;s like, you are hungry, man.</p>
+<p begin="00:57:26.579" end="00:57:27.839" style="s2">And that&#39;s not the same.</p>
+<p begin="00:57:27.839" end="00:57:34.210" style="s2">Like you people--well some of you have probably<br />been hungry in your life, but--is there someone</p>
+<p begin="00:57:34.210" end="00:57:37.950" style="s2">here who&#39;s gone without food for more than<br />one day?</p>
+<p begin="00:57:37.950" end="00:57:41.359" style="s2">Okay has anybody here gone without food for<br />more than a week.</p>
+<p begin="00:57:41.359" end="00:57:45.749" style="s2">Okay, how about three days?</p>
+<p begin="00:57:45.749" end="00:57:50.520" style="s2">Okay, so like, are you hungry?</p>
+<p begin="00:57:50.520" end="00:57:51.520" style="s2">No.</p>
+<p begin="00:57:51.520" end="00:57:56.089" style="s2">You&#39;re hungry when you haven&#39;t had anything<br />to eat for twenty days, then you&#39;re hungry.</p>
+<p begin="00:57:56.089" end="00:58:00.650" style="s2">And the same goes for thirst and cold and<br />all the things we&#39;re just never exposed to.</p>
+<p begin="00:58:00.650" end="00:58:04.301" style="s2">So we think civilized people are all calm<br />and nice and easy to get along with, it&#39;s</p>
+<p begin="00:58:04.301" end="00:58:12.109" style="s2">like, yeah well you have absolutely everything<br />you need all the time and that makes you as</p>
+<p begin="00:58:12.109" end="00:58:16.960" style="s2">easy to get along with as any completely insane<br />primate ever gets.</p>
+<p begin="00:58:16.960" end="00:58:24.049" style="s2">Okay, so you might say, well god, if you can<br />survive with just the hypothalamus, what good</p>
+<p begin="00:58:24.049" end="00:58:26.009" style="s2">is the rest of the brain?</p>
+<p begin="00:58:26.009" end="00:58:36.000" style="s2">And the answer is, well, if you&#39;re thirsty--let&#39;s<br />say you&#39;re angry, the hunger system isn&#39;t</p>
+<p begin="00:58:36.000" end="00:58:37.730" style="s2">going to be able to take care of that, right.</p>
+<p begin="00:58:37.730" end="00:58:40.319" style="s2">So you&#39;re hungry, okay, that works.</p>
+<p begin="00:58:40.319" end="00:58:42.150" style="s2">You&#39;re angry, that works.</p>
+<p begin="00:58:42.150" end="00:58:47.780" style="s2">But then you have another problem, which is<br />you&#39;re hungry now and you&#39;re angry now, perhaps,</p>
+<p begin="00:58:47.780" end="00:58:50.059" style="s2">you can move through those states.</p>
+<p begin="00:58:50.059" end="00:58:53.210" style="s2">If you watch that, you&#39;ll see that in two<br />year olds--it&#39;s part of why they&#39;re so fun</p>
+<p begin="00:58:53.210" end="00:58:54.900" style="s2">to be around.</p>
+<p begin="00:58:54.900" end="00:58:58.410" style="s2">First of all, they&#39;re really excited and they&#39;re<br />running around playing and then they trip</p>
+<p begin="00:58:58.410" end="00:59:01.829" style="s2">and they&#39;re crying like made and then you<br />poke them and they laugh and then they want</p>
+<p begin="00:59:01.829" end="00:59:04.140" style="s2">something to eat and then they fall asleep<br />[student laughter].</p>
+<p begin="00:59:04.140" end="00:59:09.200" style="s2">You know, they&#39;re just run by their hypothalamus<br />and it&#39;s really fun to see because they&#39;re</p>
+<p begin="00:59:09.200" end="00:59:13.670" style="s2">so alive and so enthusiastic and spontaneous,<br />but they&#39;re completely clueless.</p>
+<p begin="00:59:13.670" end="00:59:18.400" style="s2">It&#39;s like, you take one of those creatures<br />to the mall and leave it there and it&#39;s just</p>
+<p begin="00:59:18.400" end="00:59:20.059" style="s2">not happy at all.</p>
+<p begin="00:59:20.059" end="00:59:25.190" style="s2">And the reason for that is, well it doesn&#39;t<br />know how to sequence any of its actions, right.</p>
+<p begin="00:59:25.190" end="00:59:30.890" style="s2">It runs through these states of need, but<br />it isn&#39;t complicated enough to figure out</p>
+<p begin="00:59:30.890" end="00:59:37.460" style="s2">how to address those needs in any consistent<br />sense across multiple environments in a social</p>
+<p begin="00:59:37.460" end="00:59:38.460" style="s2">world.</p>
+<p begin="00:59:38.460" end="00:59:40.270" style="s2">You need the rest of your brain for that.</p>
+<p begin="00:59:40.270" end="00:59:44.170" style="s2">And that again fits in with the Piagetian<br />idea--is that what you&#39;re doing is you&#39;re</p>
+<p begin="00:59:44.170" end="00:59:50.119" style="s2">taking these micropersonalities that are basically<br />instantiated within the hypothalamus and then</p>
+<p begin="00:59:50.119" end="00:59:53.430" style="s2">you&#39;re organizing those into more and more<br />complex games.</p>
+<p begin="00:59:53.430" end="00:59:58.839" style="s2">And you need the cortex to do that because<br />the cortex is partly what enables you to think</p>
+<p begin="00:59:58.839" end="01:00:00.819" style="s2">about time.</p>
+<p begin="01:00:00.819" end="01:00:05.319" style="s2">You know, because the hypothalamus, it&#39;s a<br />here and now thing.</p>
+<p begin="01:00:05.319" end="01:00:10.630" style="s2">The hypothalamic cat lives in the present--there&#39;s<br />the present, and that&#39;s it.</p>
+<p begin="01:00:10.630" end="01:00:15.740" style="s2">You can probably get some sense of that--like<br />one of the things that happens to people if</p>
+<p begin="01:00:15.740" end="01:00:22.460" style="s2">they take amphetamines or if they take psychedelic<br />drugs is that some of the inhibitory control,</p>
+<p begin="01:00:22.460" end="01:00:26.670" style="s2">some of the more complex control systems that<br />are cortical, shut down.</p>
+<p begin="01:00:26.670" end="01:00:32.940" style="s2">And so then they enter a state where it&#39;s<br />all now and you know, the now just comes at</p>
+<p begin="01:00:32.940" end="01:00:34.319" style="s2">people in that state.</p>
+<p begin="01:00:34.319" end="01:00:40.259" style="s2">It&#39;s a transcendent experience, but of course,<br />despite that, you&#39;re not functional.</p>
+<p begin="01:00:40.259" end="01:00:46.230" style="s2">And so in some sense you trade that transcendent<br />relationship with reality for a narrow functionality.</p>
+<p begin="01:00:46.230" end="01:00:51.000" style="s2">And that&#39;s too bad and that&#39;s life, but it&#39;s<br />a tradeoff.</p>
+<p begin="01:00:51.000" end="01:00:57.329" style="s2">So anyways you&#39;re organizing these sub-personalities<br />and you&#39;re using your cortex to do that because</p>
+<p begin="01:00:57.329" end="01:01:02.150" style="s2">you don&#39;t just have to think about eating,<br />you have to think about, how am I going to</p>
+<p begin="01:01:02.150" end="01:01:03.270" style="s2">get the food?</p>
+<p begin="01:01:03.270" end="01:01:04.680" style="s2">When is the food going to come?</p>
+<p begin="01:01:04.680" end="01:01:06.130" style="s2">How am I going to cook the food?</p>
+<p begin="01:01:06.130" end="01:01:08.270" style="s2">What about all the other people that want<br />to eat?</p>
+<p begin="01:01:08.270" end="01:01:10.479" style="s2">How do we regulate that in our family?</p>
+<p begin="01:01:10.479" end="01:01:13.599" style="s2">And then how do we regulate that with the<br />fact that we also need to sleep and we need</p>
+<p begin="01:01:13.599" end="01:01:16.869" style="s2">to work and we need to get along with other<br />people and we need to have something interesting</p>
+<p begin="01:01:16.869" end="01:01:20.479" style="s2">to do and--it&#39;s ridiculously complicated.</p>
+<p begin="01:01:20.479" end="01:01:28.119" style="s2">And there&#39;s no end to the complication because,<br />maybe you&#39;re just solving the problem for</p>
+<p begin="01:01:28.119" end="01:01:30.460" style="s2">you, and then you&#39;re two.</p>
+<p begin="01:01:30.460" end="01:01:32.589" style="s2">Or maybe you&#39;re trying to work it out within<br />your family.</p>
+<p begin="01:01:32.589" end="01:01:36.289" style="s2">Well then that&#39;s sort of like the Crumb brothers,<br />they never get out of their family because</p>
+<p begin="01:01:36.289" end="01:01:40.809" style="s2">they never come to an arrangement that works<br />well enough so that they can, in some sense</p>
+<p begin="01:01:40.809" end="01:01:42.720" style="s2">move into the broader world.</p>
+<p begin="01:01:42.720" end="01:01:47.690" style="s2">Then you solve the family problem but then<br />you&#39;ve got the tribe problem and, maybe you</p>
+<p begin="01:01:47.690" end="01:01:51.079" style="s2">can solve that to some degree, but then you<br />have the broader political problem and it&#39;s</p>
+<p begin="01:01:51.079" end="01:01:56.670" style="s2">like--there&#39;s an infinite problems that crop<br />up for you to solve so there&#39;s plenty for</p>
+<p begin="01:01:56.670" end="01:01:58.369" style="s2">you to do with your big cortex.</p>
+<p begin="01:01:58.369" end="01:02:06.869" style="s2">And you know we paid a big price for that<br />thing because once we discovered time, we</p>
+<p begin="01:02:06.869" end="01:02:10.249" style="s2">can make a bargain with the future, which<br />is basically what you do when you regulate</p>
+<p begin="01:02:10.249" end="01:02:11.359" style="s2">your behaviour, right.</p>
+<p begin="01:02:11.359" end="01:02:13.519" style="s2">You&#39;re making a bargain with the future.</p>
+<p begin="01:02:13.519" end="01:02:21.519" style="s2">You say to yourself, if I forego so and so<br />now then, later, it&#39;ll pay off.</p>
+<p begin="01:02:21.519" end="01:02:22.549" style="s2">And that&#39;s real useful.</p>
+<p begin="01:02:22.549" end="01:02:26.220" style="s2">You can conceptualize the future, and you<br />can conceptualize the future as something</p>
+<p begin="01:02:26.220" end="01:02:27.940" style="s2">you can bargain with.</p>
+<p begin="01:02:27.940" end="01:02:29.510" style="s2">But there&#39;s a lot of cost to that.</p>
+<p begin="01:02:29.510" end="01:02:33.489" style="s2">One is you don&#39;t get to do just what you want<br />right now, and of course that sucks--it&#39;s</p>
+<p begin="01:02:33.489" end="01:02:36.450" style="s2">partly why people drink alcohol.</p>
+<p begin="01:02:36.450" end="01:02:41.190" style="s2">Because alcohol is disinhibiting, it stops<br />you from--it actually doesn&#39;t stop you from</p>
+<p begin="01:02:41.190" end="01:02:47.219" style="s2">thinking about the future--it stops you from<br />caring about what you think about the future.</p>
+<p begin="01:02:47.219" end="01:02:48.640" style="s2">And that&#39;s just as good.</p>
+<p begin="01:02:48.640" end="01:02:53.180" style="s2">And so then you can go out and have fun because<br />fun is impulsive and often extremely dangerous,</p>
+<p begin="01:02:53.180" end="01:02:58.009" style="s2">because the long term consequences can be<br />really devastating.</p>
+<p begin="01:02:58.009" end="01:03:03.700" style="s2">But it&#39;s a real pain to keep yourself controlled<br />all the time because you&#39;re foregoing direct</p>
+<p begin="01:03:03.700" end="01:03:05.849" style="s2">reward constantly.</p>
+<p begin="01:03:05.849" end="01:03:12.079" style="s2">I think it&#39;s part of the reason why people<br />in heavily industrialized complex countries</p>
+<p begin="01:03:12.079" end="01:03:14.259" style="s2">aren&#39;t necessarily happy.</p>
+<p begin="01:03:14.259" end="01:03:19.609" style="s2">You know, it takes a lot of grinding away<br />to keep all the machinery that keeps all of</p>
+<p begin="01:03:19.609" end="01:03:21.470" style="s2">this in place going.</p>
+<p begin="01:03:21.470" end="01:03:27.190" style="s2">So you&#39;re not getting typhoid and tigers aren&#39;t<br />tearing you apart, but by the same token,</p>
+<p begin="01:03:27.190" end="01:03:33.009" style="s2">you have to be unbelievably disciplined and<br />ready to act constantly to keep everything</p>
+<p begin="01:03:33.009" end="01:03:35.079" style="s2">that&#39;s so complex around you working.</p>
+<p begin="01:03:35.079" end="01:03:37.579" style="s2">And that&#39;s not necessarily fun.</p>
+<p begin="01:03:37.579" end="01:03:42.819" style="s2">Okay, now, let’s look at something else.</p>
+<p begin="01:03:42.819" end="01:04:02.499" style="s2">Now you can tell me if I showed you this--I<br />hope I didn&#39;t show you this.</p>
+<p begin="01:04:02.499" end="01:04:03.499" style="s2">You see that?</p>
+<p begin="01:04:03.499" end="01:04:04.589" style="s2">Okay, good.</p>
+<p begin="01:04:04.589" end="01:04:08.819" style="s2">Now some of you know this, and so you just<br />don&#39;t say anything.</p>
+<p begin="01:04:08.819" end="01:04:12.259" style="s2">Although you probably don&#39;t know this specific<br />version.</p>
+<p begin="01:04:12.259" end="01:04:16.069" style="s2">So if you&#39;ve seen this sort of thing before<br />you&#39;re going to think you&#39;re smart while you&#39;re</p>
+<p begin="01:04:16.069" end="01:04:32.819" style="s2">watching it, but it&#39;ll probably still trip<br />you up--I hope.</p>
+<p begin="01:04:32.819" end="01:06:15.430" style="s2">Give me a sec here and we&#39;ll see if we can<br />actually get some sound out of this thing.</p>
+<p begin="01:06:15.430" end="01:06:25.940" style="s2">Yeah, so that&#39;s quite the illustration.</p>
+<p begin="01:06:25.940" end="01:06:32.910" style="s2">So one of the questions you might ask is,<br />well okay first of all, how many of you didn&#39;t</p>
+<p begin="01:06:32.910" end="01:06:34.599" style="s2">see the gorilla?</p>
+<p begin="01:06:34.599" end="01:06:38.119" style="s2">Okay, how many of you have seen this sort<br />of video before?</p>
+<p begin="01:06:38.119" end="01:06:40.109" style="s2">Okay so you knew about the damn gorilla [student<br />laughter].</p>
+<p begin="01:06:40.109" end="01:06:44.920" style="s2">Of the people who didn&#39;t know about the gorilla,<br />how many people didn&#39;t see the gorilla.</p>
+<p begin="01:06:44.920" end="01:06:46.259" style="s2">Well, some.</p>
+<p begin="01:06:46.259" end="01:06:47.609" style="s2">Okay, fine.</p>
+<p begin="01:06:47.609" end="01:06:50.829" style="s2">How many of you got the other things?</p>
+<p begin="01:06:50.829" end="01:06:52.229" style="s2">Both of them?</p>
+<p begin="01:06:52.229" end="01:06:54.489" style="s2">Okay, well so you get the point.</p>
+<p begin="01:06:54.489" end="01:07:01.289" style="s2">The point is--and it&#39;s a brilliant experiment,<br />it&#39;s an insanely brilliant experiment--that</p>
+<p begin="01:07:01.289" end="01:07:05.499" style="s2">you&#39;re blind to a ridiculous degree.</p>
+<p begin="01:07:05.499" end="01:07:11.099" style="s2">And your visual system and your brain are<br />constantly coping with the fact that you&#39;re</p>
+<p begin="01:07:11.099" end="01:07:12.099" style="s2">blind.</p>
+<p begin="01:07:12.099" end="01:07:16.469" style="s2">And you can kind of detect it to some degree<br />if you look at someone, but you pay attention</p>
+<p begin="01:07:16.469" end="01:07:20.729" style="s2">to the things that surround them, you&#39;ll see<br />that--so, I&#39;m looking at you.</p>
+<p begin="01:07:20.729" end="01:07:24.140" style="s2">I can&#39;t see your nose for sure, it&#39;s gone.</p>
+<p begin="01:07:24.140" end="01:07:26.099" style="s2">I can’t even see your face.</p>
+<p begin="01:07:26.099" end="01:07:28.549" style="s2">I can see your glasses.</p>
+<p begin="01:07:28.549" end="01:07:29.819" style="s2">I can&#39;t see any features in your face at all.</p>
+<p begin="01:07:29.819" end="01:07:30.819" style="s2">Can you smile?</p>
+<p begin="01:07:30.819" end="01:07:37.280" style="s2">No, the one behind.</p>
+<p begin="01:07:37.280" end="01:07:41.280" style="s2">Well one of the things I&#39;ve noticed when doing<br />this is that if you look here--look at my</p>
+<p begin="01:07:41.280" end="01:07:44.799" style="s2">finger--but pay attention to my face, it&#39;s<br />really hard.</p>
+<p begin="01:07:44.799" end="01:07:48.049" style="s2">Because normally when you pay attention you<br />move your eyes to what you&#39;re paying attention</p>
+<p begin="01:07:48.049" end="01:07:49.049" style="s2">to.</p>
+<p begin="01:07:49.049" end="01:07:52.369" style="s2">Okay so here&#39;s what you might see--the first<br />thing you might see is that you can&#39;t see</p>
+<p begin="01:07:52.369" end="01:07:54.210" style="s2">my nose [student laughter].</p>
+<p begin="01:07:54.210" end="01:07:58.869" style="s2">The second thing you might see is that you<br />can really see my eyes, especially if they</p>
+<p begin="01:07:58.869" end="01:08:01.059" style="s2">move [uproar of student laughter].</p>
+<p begin="01:08:01.059" end="01:08:02.059" style="s2">Weird eh?</p>
+<p begin="01:08:02.059" end="01:08:03.259" style="s2">Isn&#39;t that weird?</p>
+<p begin="01:08:03.259" end="01:08:04.651" style="s2">God, it&#39;s so weird.</p>
+<p begin="01:08:04.651" end="01:08:10.279" style="s2">It&#39;s like all of a sudden these eyes pop up<br />and they&#39;re going back and forth like this.</p>
+<p begin="01:08:10.279" end="01:08:11.279" style="s2">Yeah, so we&#39;ll try this too.</p>
+<p begin="01:08:11.279" end="01:08:15.499" style="s2">So look at my finger again.</p>
+<p begin="01:08:15.499" end="01:08:16.650" style="s2">You can also see teeth.</p>
+<p begin="01:08:16.650" end="01:08:17.900" style="s2">Well, why?</p>
+<p begin="01:08:17.900" end="01:08:21.740" style="s2">Well, if you&#39;re looking here and there&#39;s something<br />there with eyes and teeth, you should probably</p>
+<p begin="01:08:21.740" end="01:08:23.239" style="s2">be able to see it right?</p>
+<p begin="01:08:23.239" end="01:08:27.370" style="s2">So what that basically means is that you&#39;ve<br />got this tiny little fovea, which is right</p>
+<p begin="01:08:27.370" end="01:08:33.099" style="s2">in the centre of your retina, it&#39;s just densely<br />packed with cells and then those cells transmit</p>
+<p begin="01:08:33.099" end="01:08:37.640" style="s2">information along the optic nerve, and they&#39;re<br />just connected like mad to cells in the visual</p>
+<p begin="01:08:37.640" end="01:08:38.839" style="s2">cortex.</p>
+<p begin="01:08:38.839" end="01:08:43.199" style="s2">But you don&#39;t have that much room, so you<br />can&#39;t connect all the cells in your retina</p>
+<p begin="01:08:43.199" end="01:08:45.970" style="s2">to like 10,000 cells at the first level of<br />connection.</p>
+<p begin="01:08:45.970" end="01:08:49.220" style="s2">You&#39;d have to have a brain this big you know,<br />and you don&#39;t.</p>
+<p begin="01:08:49.220" end="01:08:54.500" style="s2">So you get by, and part of the way you get<br />by is you&#39;re always moving your eyes around.</p>
+<p begin="01:08:54.500" end="01:08:57.359" style="s2">And so it looks like you can see everything,<br />but you can&#39;t.</p>
+<p begin="01:08:57.359" end="01:09:02.810" style="s2">In fact, out here, like if I&#39;m looking at<br />you--now I can tell my hands are there, although</p>
+<p begin="01:09:02.810" end="01:09:08.060" style="s2">if I didn&#39;t know they were hands I probably<br />couldn&#39;t figure it out--they&#39;re kinda blurry</p>
+<p begin="01:09:08.060" end="01:09:09.829" style="s2">I would say.</p>
+<p begin="01:09:09.829" end="01:09:12.779" style="s2">And they&#39;re in black and white, but I can&#39;t<br />tell that.</p>
+<p begin="01:09:12.779" end="01:09:16.380" style="s2">So out here, who cares what colour it is.</p>
+<p begin="01:09:16.380" end="01:09:17.569" style="s2">So you just don&#39;t see the colour.</p>
+<p begin="01:09:17.569" end="01:09:19.449" style="s2">But you don&#39;t know that you don&#39;t see the<br />colour.</p>
+<p begin="01:09:19.449" end="01:09:23.819" style="s2">Now of course, I can have my hands here, and<br />then I put them here--I can hardly see them--and</p>
+<p begin="01:09:23.819" end="01:09:25.619" style="s2">then oop, they&#39;re gone.</p>
+<p begin="01:09:25.619" end="01:09:27.630" style="s2">They&#39;re so gone it&#39;s like they don&#39;t even<br />exist.</p>
+<p begin="01:09:27.630" end="01:09:31.880" style="s2">It&#39;s not even--because you&#39;d think in some<br />sense that what is behind your head would</p>
+<p begin="01:09:31.880" end="01:09:36.049" style="s2">be black, like when you close your eyes, that&#39;s<br />nothing.</p>
+<p begin="01:09:36.049" end="01:09:45.069" style="s2">But no no, what you can&#39;t see behind your<br />head is so not there that it&#39;s literally--it</p>
+<p begin="01:09:45.069" end="01:09:48.440" style="s2">isn&#39;t even not there, that&#39;s how gone it is.</p>
+<p begin="01:09:48.440" end="01:09:55.510" style="s2">Okay, so part of the way your eyes work is<br />that the periphery is attached to devices,</p>
+<p begin="01:09:55.510" end="01:10:00.239" style="s2">in some sense, and some of them detect lines<br />and some of them detect movement.</p>
+<p begin="01:10:00.239" end="01:10:01.739" style="s2">You remember Jurassic Park?</p>
+<p begin="01:10:01.739" end="01:10:03.000" style="s2">&quot;Don&#39;t move.</p>
+<p begin="01:10:03.000" end="01:10:05.590" style="s2">The dinosaur can&#39;t see you unless you move.&quot;</p>
+<p begin="01:10:05.590" end="01:10:08.320" style="s2">It&#39;s like, yeah, frogs are like that.</p>
+<p begin="01:10:08.320" end="01:10:09.870" style="s2">And cats are like that to some degree.</p>
+<p begin="01:10:09.870" end="01:10:12.020" style="s2">They can really see things move this way.</p>
+<p begin="01:10:12.020" end="01:10:16.900" style="s2">Partly because their eyes are slitted, makes<br />it easier for them to see things moving like</p>
+<p begin="01:10:16.900" end="01:10:17.900" style="s2">this.</p>
+<p begin="01:10:17.900" end="01:10:18.900" style="s2">They&#39;re not so good at things moving like<br />this.</p>
+<p begin="01:10:18.900" end="01:10:21.869" style="s2">Well, it&#39;s because they chase mice, right.</p>
+<p begin="01:10:21.869" end="01:10:26.190" style="s2">Mice will--most mice, except ones that hop<br />[student laughter]--they move this way, and</p>
+<p begin="01:10:26.190" end="01:10:28.420" style="s2">so cats are specialized for that.</p>
+<p begin="01:10:28.420" end="01:10:33.860" style="s2">And so you&#39;re also specialized to see teeth<br />and eyes because you want to know if something&#39;s</p>
+<p begin="01:10:33.860" end="01:10:36.810" style="s2">looking at you, and you want to know if it<br />has teeth.</p>
+<p begin="01:10:36.810" end="01:10:43.010" style="s2">And so what that means in part is that the<br />surrounding tissue in your eyes reports to</p>
+<p begin="01:10:43.010" end="01:10:47.960" style="s2">some degree to your visual cortex, which is<br />what you use to actually have conscious vision</p>
+<p begin="01:10:47.960" end="01:10:51.810" style="s2">with, but a lot of it just dumps down into<br />some of the brain areas we haven&#39;t talked</p>
+<p begin="01:10:51.810" end="01:10:52.810" style="s2">about.</p>
+<p begin="01:10:52.810" end="01:10:57.980" style="s2">Not necessarily directly down to the hypothalamus,<br />although I suspect it has inputs there, I</p>
+<p begin="01:10:57.980" end="01:10:59.070" style="s2">just don&#39;t know.</p>
+<p begin="01:10:59.070" end="01:11:04.739" style="s2">But your eyes talk to your spinal cord directly,<br />so that you can see something snake-like,</p>
+<p begin="01:11:04.739" end="01:11:06.030" style="s2">for example, and jump.</p>
+<p begin="01:11:06.030" end="01:11:09.470" style="s2">Just like you jump if your hand touches a<br />hot stove.</p>
+<p begin="01:11:09.470" end="01:11:12.340" style="s2">You don&#39;t even see the snake, it&#39;s like snake-jump.</p>
+<p begin="01:11:12.340" end="01:11:15.341" style="s2">And the reason for that is if you wait around<br />to see the snake, it&#39;s like it&#39;s bitten you</p>
+<p begin="01:11:15.341" end="01:11:16.900" style="s2">15 times and you&#39;re dead.</p>
+<p begin="01:11:16.900" end="01:11:19.780" style="s2">So you can&#39;t wait around and see this, like<br />&quot;oh look.</p>
+<p begin="01:11:19.780" end="01:11:21.470" style="s2">A snake.&quot;</p>
+<p begin="01:11:21.470" end="01:11:22.470" style="s2">And then you jump.</p>
+<p begin="01:11:22.470" end="01:11:23.470" style="s2">It&#39;s like, no.</p>
+<p begin="01:11:23.470" end="01:11:25.730" style="s2">That doesn&#39;t work.</p>
+<p begin="01:11:25.730" end="01:11:31.290" style="s2">Your body has conserved all these layers of<br />reflex and movement, all the way up to higher</p>
+<p begin="01:11:31.290" end="01:11:35.239" style="s2">order voluntary movement, because otherwise<br />you just wouldn&#39;t be fast enough when something</p>
+<p begin="01:11:35.239" end="01:11:36.760" style="s2">super fast happens.</p>
+<p begin="01:11:36.760" end="01:11:41.050" style="s2">And then, the way your eyes are built, your<br />eyes can tell your body to jump.</p>
+<p begin="01:11:41.050" end="01:11:42.780" style="s2">It&#39;s no vision, right.</p>
+<p begin="01:11:42.780" end="01:11:43.870" style="s2">It&#39;s just pattern.</p>
+<p begin="01:11:43.870" end="01:11:45.620" style="s2">Snake-pattern, jump-pattern.</p>
+<p begin="01:11:45.620" end="01:11:50.210" style="s2">Snake-pattern, retinal-pattern, optic-nerve<br />pattern, brain-pattern, muscle-pattern.</p>
+<p begin="01:11:50.210" end="01:11:51.530" style="s2">No vision.</p>
+<p begin="01:11:51.530" end="01:11:52.850" style="s2">No seeing.</p>
+<p begin="01:11:52.850" end="01:11:54.380" style="s2">Because you don&#39;t need the seeing.</p>
+<p begin="01:11:54.380" end="01:11:57.130" style="s2">You just have to do pattern matching.</p>
+<p begin="01:11:57.130" end="01:12:00.401" style="s2">It&#39;s a weird way of thinking about it, but<br />it&#39;s not much different than touching, you</p>
+<p begin="01:12:00.401" end="01:12:01.750" style="s2">know.</p>
+<p begin="01:12:01.750" end="01:12:06.600" style="s2">You can feel the pattern, you can build a<br />three-dimensional representation of it, you</p>
+<p begin="01:12:06.600" end="01:12:10.120" style="s2">can really see well with your eyes--it&#39;s like<br />the idea that blind people can&#39;t see is a</p>
+<p begin="01:12:10.120" end="01:12:11.130" style="s2">really dopey idea.</p>
+<p begin="01:12:11.130" end="01:12:12.690" style="s2">They can&#39;t see colour.</p>
+<p begin="01:12:12.690" end="01:12:15.510" style="s2">And they&#39;re not very good at detecting things<br />in the distance.</p>
+<p begin="01:12:15.510" end="01:12:19.310" style="s2">But they have a visual world, it&#39;s just built<br />out of things that don&#39;t have colour.</p>
+<p begin="01:12:19.310" end="01:12:24.320" style="s2">You know perfectly well that that&#39;s the case<br />because I can hand you an object and you could</p>
+<p begin="01:12:24.320" end="01:12:28.070" style="s2">fiddle around with it behind your back and<br />after some fiddling around you&#39;d know exactly</p>
+<p begin="01:12:28.070" end="01:12:29.620" style="s2">what it looked like.</p>
+<p begin="01:12:29.620" end="01:12:33.239" style="s2">And you know you might pull it out here and<br />say , well I didn&#39;t know it was blue.</p>
+<p begin="01:12:33.239" end="01:12:37.240" style="s2">It&#39;s like, yeah okay, you didn&#39;t know it was<br />blue, but you still saw it.</p>
+<p begin="01:12:37.240" end="01:12:40.710" style="s2">And you get pretty god-damn good vision with<br />your ears.</p>
+<p begin="01:12:40.710" end="01:12:44.159" style="s2">So there are kids who&#39;re blind who&#39;ve learned<br />to echolocate.</p>
+<p begin="01:12:44.159" end="01:12:48.500" style="s2">So they go click-click-click, they don&#39;t make<br />that noise exactly, but they do click [clicking</p>
+<p begin="01:12:48.500" end="01:12:52.030" style="s2">sounds] and they can detect the clicks bouncing<br />off of things.</p>
+<p begin="01:12:52.030" end="01:12:54.960" style="s2">And they can do that well enough, not only<br />to walk, but some of them can actually ride</p>
+<p begin="01:12:54.960" end="01:12:56.210" style="s2">bikes.</p>
+<p begin="01:12:56.210" end="01:13:00.920" style="s2">It&#39;s like, hey that&#39;s impressive, man.</p>
+<p begin="01:13:00.920" end="01:13:05.880" style="s2">Yeah, there&#39;s one kid--I saw a kid on youtube<br />who&#39;s blind who could shoot baskets, yeah,</p>
+<p begin="01:13:05.880" end="01:13:08.360" style="s2">which is--that&#39;s impressive, man.</p>
+<p begin="01:13:08.360" end="01:13:14.440" style="s2">But my point is that a lot of the neural tissue<br />is--it&#39;ll take whatever input it gets.</p>
+<p begin="01:13:14.440" end="01:13:20.170" style="s2">So if you&#39;re born blind, your auditory systems<br />will invade your visual system.</p>
+<p begin="01:13:20.170" end="01:13:23.239" style="s2">And then you have twice as much brain devoted<br />to your hearing.</p>
+<p begin="01:13:23.239" end="01:13:26.270" style="s2">So, and then you know, you can use that quite<br />effectively.</p>
+<p begin="01:13:26.270" end="01:13:30.820" style="s2">So I think we&#39;re probably pretty much out<br />of time.</p>
+<p begin="01:13:30.820" end="01:13:34.159" style="s2">One thing I want to tell you before we go<br />on to the next part though is that--so now</p>
+<p begin="01:13:34.159" end="01:13:39.429" style="s2">we&#39;ve sort of built up the idea of these underlying<br />motivational systems.</p>
+<p begin="01:13:39.429" end="01:13:45.909" style="s2">And now you can kind of see how they work,<br />so you might say to yourself, why didn&#39;t you</p>
+<p begin="01:13:45.909" end="01:13:49.880" style="s2">see the gorilla and the curtain and the person<br />leaving.</p>
+<p begin="01:13:49.880" end="01:13:52.659" style="s2">It&#39;s really complicated, it&#39;s really complicated.</p>
+<p begin="01:13:52.659" end="01:13:58.990" style="s2">Well, the first answer is, you did what I<br />asked.</p>
+<p begin="01:13:58.990" end="01:14:00.710" style="s2">And then you might ask, well why?</p>
+<p begin="01:14:00.710" end="01:14:01.710" style="s2">Why did you do what I asked?</p>
+<p begin="01:14:01.710" end="01:14:03.610" style="s2">I mean you missed the damn gorilla, right.</p>
+<p begin="01:14:03.610" end="01:14:06.670" style="s2">It&#39;s like, obviously that wasn&#39;t a very good<br />decision.</p>
+<p begin="01:14:06.670" end="01:14:09.110" style="s2">So you think, well why did you do what I asked?</p>
+<p begin="01:14:09.110" end="01:14:14.500" style="s2">And the answer would be--well, it&#39;s sort of<br />like the Milgram obedience experiment except</p>
+<p begin="01:14:14.500" end="01:14:16.610" style="s2">at a way lower level.</p>
+<p begin="01:14:16.610" end="01:14:19.260" style="s2">It&#39;s like, we&#39;ve got an agreement going on<br />here.</p>
+<p begin="01:14:19.260" end="01:14:25.300" style="s2">You guys are all very sophisticated and complex<br />game players, otherwise you couldn&#39;t sit here</p>
+<p begin="01:14:25.300" end="01:14:27.120" style="s2">peacefully for an hour and a half.</p>
+<p begin="01:14:27.120" end="01:14:30.300" style="s2">So you&#39;re very well socialized, all of you.</p>
+<p begin="01:14:30.300" end="01:14:36.350" style="s2">And so that means you&#39;ve organized all your<br />motivations into a hierarchy, and that hierarchy</p>
+<p begin="01:14:36.350" end="01:14:37.660" style="s2">is guiding your behaviour here.</p>
+<p begin="01:14:37.660" end="01:14:41.491" style="s2">It might be something like, well we need to<br />learn something and hypothetically, you come</p>
+<p begin="01:14:41.491" end="01:14:42.590" style="s2">here and you learn something.</p>
+<p begin="01:14:42.590" end="01:14:44.650" style="s2">And so you&#39;re playing that out.</p>
+<p begin="01:14:44.650" end="01:14:50.989" style="s2">And because that&#39;s the motivational state<br />that you&#39;re in, when I ask you to do something,</p>
+<p begin="01:14:50.989" end="01:14:52.410" style="s2">you&#39;re just going to do it.</p>
+<p begin="01:14:52.410" end="01:15:00.690" style="s2">Well then, what&#39;s so cool is that as soon<br />as you decide to point your attention at something,</p>
+<p begin="01:15:00.690" end="01:15:03.230" style="s2">what you see in the world radically transforms.</p>
+<p begin="01:15:03.230" end="01:15:07.840" style="s2">So I say, well count the basketballs and all<br />of a sudden all you can see are basketballs.</p>
+<p begin="01:15:07.840" end="01:15:10.130" style="s2">And you think, no no, I see--I&#39;m not blind.</p>
+<p begin="01:15:10.130" end="01:15:13.380" style="s2">It&#39;s like well, you&#39;re pretty damn blind.</p>
+<p begin="01:15:13.380" end="01:15:19.840" style="s2">And so, that&#39;s partly how you can understand<br />how motivation is a sub-personality.</p>
+<p begin="01:15:19.840" end="01:15:22.060" style="s2">Like it has its whole sets of perceptions<br />and values.</p>
+<p begin="01:15:22.060" end="01:15:27.179" style="s2">It&#39;s like, all of a sudden, I set you up in<br />a little motivated state--it was a complicated</p>
+<p begin="01:15:27.179" end="01:15:30.380" style="s2">one--but it was just like, here&#39;s a task.</p>
+<p begin="01:15:30.380" end="01:15:34.780" style="s2">And so you&#39;re all motivated, you&#39;re going<br />to do the task properly, for god only knows</p>
+<p begin="01:15:34.780" end="01:15:40.090" style="s2">how many reasons, and then all of a sudden,<br />all that exists in the world are basketballs.</p>
+<p begin="01:15:40.090" end="01:15:48.820" style="s2">And so, it&#39;s as if your goal-directed attention<br />has transformed the phenomenology of the world.</p>
+<p begin="01:15:48.820" end="01:15:54.050" style="s2">And that&#39;s something that&#39;s really cool because<br />one of the things it implies is that what</p>
+<p begin="01:15:54.050" end="01:15:57.200" style="s2">you see of the world depends on what you&#39;re<br />aiming at.</p>
+<p begin="01:15:57.200" end="01:15:59.890" style="s2">And in a real sense--this isn&#39;t some trivial<br />sense.</p>
+<p begin="01:15:59.890" end="01:16:04.739" style="s2">It means like literally what you&#39;re aiming<br />at--I&#39;m going to count the basketballs--it</p>
+<p begin="01:16:04.739" end="01:16:07.510" style="s2">means, well you&#39;re not noticing the gorillas.</p>
+<p begin="01:16:07.510" end="01:16:10.969" style="s2">So one of the things that you might ask yourself,<br />and this is partly what the phenomenologists</p>
+<p begin="01:16:10.969" end="01:16:14.989" style="s2">were on about is, what&#39;re you aiming at?</p>
+<p begin="01:16:14.989" end="01:16:20.340" style="s2">And what is it that what you&#39;re aiming at<br />allows you to see, and what is it that what</p>
+<p begin="01:16:20.340" end="01:16:22.860" style="s2">you&#39;re aiming at blinds you to.</p>
+<p begin="01:16:22.860" end="01:16:26.110" style="s2">And it blinds you to a lot more than it allows<br />you to see.</p>
+<p begin="01:16:26.110" end="01:16:29.699" style="s2">And so another thing that you can think about<br />is like, if everything you see makes you angry</p>
+<p begin="01:16:29.699" end="01:16:36.860" style="s2">and bitter and resentful, you might think,<br />well hmm, what exactly am I aiming at that&#39;s</p>
+<p begin="01:16:36.860" end="01:16:39.550" style="s2">making the world organize itself around me<br />in that manner?</p>
+<p begin="01:16:39.550" end="01:16:45.250" style="s2">And that would be a complex, for a Jungian<br />perspective.</p>
+<p begin="01:16:45.250" end="01:16:46.579" style="s2">A complex would do that.</p>
+<p begin="01:16:46.579" end="01:16:51.000" style="s2">So it&#39;s a set of values, they&#39;re sort of economist,<br />they inhabit you, it&#39;s a sub-personality,</p>
+<p begin="01:16:51.000" end="01:16:54.199" style="s2">it&#39;s quite complex, it&#39;s got something it&#39;s<br />aiming at.</p>
+<p begin="01:16:54.199" end="01:16:58.060" style="s2">You might not even know what that is because<br />you&#39;re acting it out instead of understanding</p>
+<p begin="01:16:58.060" end="01:16:59.060" style="s2">it.</p>
+<p begin="01:16:59.060" end="01:17:03.860" style="s2">And because you&#39;re inside of it, it lays the<br />world out for you in a particular way that</p>
+<p begin="01:17:03.860" end="01:17:08.679" style="s2">makes the world look like it&#39;s showing you<br />that what you think is right.</p>
+<p begin="01:17:08.679" end="01:17:15.300" style="s2">But if you&#39;re--what do they say-- to the man<br />with a hammer, everything looks like a nail.</p>
+<p begin="01:17:15.300" end="01:17:19.070" style="s2">And that&#39;s one of the things that&#39;s so damn<br />cool about that experiment.</p>
+<p begin="01:17:19.070" end="01:17:20.590" style="s2">It&#39;s like, really?</p>
+<p begin="01:17:20.590" end="01:17:22.199" style="s2">I&#39;m really that blind?</p>
+<p begin="01:17:22.199" end="01:17:27.880" style="s2">I can miss something that radical just when<br />I&#39;m involved in some dopey task like counting</p>
+<p begin="01:17:27.880" end="01:17:32.000" style="s2">basketballs it makes me so blind that it&#39;s<br />almost beyond comprehension.</p>
+<p begin="01:17:32.000" end="01:17:37.280" style="s2">Well, so in some ways you skip between different<br />states of blindness.</p>
+<p begin="01:17:37.280" end="01:17:39.520" style="s2">A lot of them are biologically motivated.</p>
+<p begin="01:17:39.520" end="01:17:43.889" style="s2">And you turn those into a hierarchy and that&#39;s<br />sort of your higher value system and then</p>
+<p begin="01:17:43.889" end="01:17:48.230" style="s2">that thing points you at something, and the<br />whole world lays itself out around that.</p>
+<p begin="01:17:48.230" end="01:17:52.860" style="s2">And the way it does it is divides the world<br />into irrelevant things--and so those would&#39;ve</p>
+<p begin="01:17:52.860" end="01:17:57.489" style="s2">been the curtains in this particular example,<br />or the gorilla or even the player in black</p>
+<p begin="01:17:57.489" end="01:18:01.750" style="s2">who left the game--irrelevant, because it<br />didn&#39;t interfere with you counting.</p>
+<p begin="01:18:01.750" end="01:18:05.010" style="s2">So what you look at makes most of the world<br />irrelevant.</p>
+<p begin="01:18:05.010" end="01:18:07.800" style="s2">It makes some things , things that serve you.</p>
+<p begin="01:18:07.800" end="01:18:10.110" style="s2">And that makes you feel positive emotion.</p>
+<p begin="01:18:10.110" end="01:18:12.489" style="s2">And it makes other things things that get<br />in your way.</p>
+<p begin="01:18:12.489" end="01:18:14.680" style="s2">And that&#39;s what makes negative emotions.</p>
+<p begin="01:18:14.680" end="01:18:19.030" style="s2">And so you&#39;ve got the hypothalamic systems<br />that point you in biological directions.</p>
+<p begin="01:18:19.030" end="01:18:25.600" style="s2">You organize those, and then, as you&#39;re approaching<br />the things you&#39;re aiming at, the positive</p>
+<p begin="01:18:25.600" end="01:18:29.349" style="s2">emotion systems tell you you&#39;re on track and<br />the negative emotion systems tell you when</p>
+<p begin="01:18:29.349" end="01:18:30.750" style="s2">something&#39;s interfering.</p>
+<p begin="01:18:30.750" end="01:18:34.280" style="s2">And those are actually different neurological<br />systems.</p>
+<p begin="01:18:34.280" end="01:18:36.010" style="s2">So they&#39;re not in the hypothalamus.</p>
+<p begin="01:18:36.010" end="01:18:38.699" style="s2">The positive emotion system is in some degree.</p>
+<p begin="01:18:38.699" end="01:18:41.550" style="s2">But the negative emotion system, that evolved<br />later.</p>
+<p begin="01:18:41.550" end="01:18:42.550" style="s2">And there&#39;s a couple of them.</p>
+<p begin="01:18:42.550" end="01:18:45.170" style="s2">There&#39;s one that produces pain, we&#39;ll talk<br />about it more.</p>
+<p begin="01:18:45.170" end="01:18:47.570" style="s2">And there&#39;s another one that produces anxiety.</p>
+<p begin="01:18:47.570" end="01:18:55.850" style="s2">And so, now you kind of understand--roughly--the<br />relationship between motivation, perception,</p>
+<p begin="01:18:55.850" end="01:18:57.070" style="s2">and emotion.</p>
+<p begin="01:18:57.070" end="01:19:00.010" style="s2">They all act together.</p>
+<p begin="01:19:00.010" end="01:19:04.070" style="s2">And they&#39;re all dependent in this weird way<br />on what you&#39;re after.</p>
+<p begin="01:19:04.070" end="01:19:07.770" style="s2">So you can think for 50 years and you won&#39;t<br />get to the bottom of it.</p>
+<p begin="01:19:07.770" end="01:19:10.020" style="s2">You know the Buddhists say that everything<br />is illusion.</p>
+<p begin="01:19:10.020" end="01:19:12.500" style="s2">Maya, right, people live in illusion.</p>
+<p begin="01:19:12.500" end="01:19:15.449" style="s2">Because what you&#39;re aiming at determines what<br />you see.</p>
+<p begin="01:19:15.449" end="01:19:19.520" style="s2">So, anyways, it&#39;s worth thinking about.</p>
+</div>
+</body>
+</tt>

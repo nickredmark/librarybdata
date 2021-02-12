@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "KVo5hq64B2M"
+  },
+  "snippet": {
+    "publishedAt": "2017-03-17T07:28:09Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "2017/03/07: The Resurrection of Logos",
+    "description": "This is a talk that happened about a week ago, featuring the Rev. Fr. Theodore Paraskevopoulus, Dr. Jordan B Peterson, Jonathan Pageau ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/KVo5hq64B2M/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/KVo5hq64B2M/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/KVo5hq64B2M/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2017-03-17T07:28:09Z"
+  },
+  "_id": "KVo5hq64B2M",
+  "publishedAt": "2017-03-17T07:28:09Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

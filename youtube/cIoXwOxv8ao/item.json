@@ -1,15 +1,12 @@
 {
-  "kind": "youtube#searchResult",
+  "kind": "youtube#playlistItem",
   "etag": "6Qwgu7X7pIbr_GCYpnkxLa9_L64",
-  "id": {
-    "kind": "youtube#video",
-    "videoId": "cIoXwOxv8ao"
-  },
+  "id": "UExlUkJhLU5lcjRCc1Vlb1dHb0UtNDdVejZxM2EzdGMwMy5GNjNDRDREMDQxOThCMDQ2",
   "snippet": {
-    "publishedAt": "2019-10-14T16:30:18Z",
-    "channelId": "UCFQ6Gptuq-sLflbJ4YY3Umw",
-    "title": "What is Emerging? Dialogue with Future Thinkers &amp; Emerge",
-    "description": "Rebel Wisdom, the Future Thinkers podcast and the Emerge podcast have all been following the threads of an emergent conversation online, interviewing many ...",
+    "publishedAt": "2020-08-29T19:06:03Z",
+    "channelId": "UCSZF0YOWeee_RTx-SZL7U2w",
+    "title": "What is Emerging? Dialogue with Future Thinkers & Emerge",
+    "description": "Rebel Wisdom, the Future Thinkers podcast and the Emerge podcast have all been following the threads of an emergent conversation online, interviewing many of the same people and seeing how their ideas connect.\n\nAt the Emerge gathering in Kiev, Rebel Wisdom's David Fuller, Mike Gilliland of the Future Thinkers and Daniel Thorson of Emerge sat down for a three-way discussion about where the conversation was at, and where it might be going next.\n\nTo get access to more exclusive content, become a Rebel Wisdom subscriber: https://www.rebelwisdom.co.uk/plans\n\nYou can listen to a podcast versions of our films on Spotify or Apple Podcasts by searching 'Rebel Wisdom' or download episodes from our Podbean page: https://rebelwisdom.podbean.com/ \n\nWe also have a Rebel Wisdom Discord discussion channel: https://discord.gg/RK4MeYW",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/cIoXwOxv8ao/default.jpg",
@@ -25,17 +22,31 @@
         "url": "https://i.ytimg.com/vi/cIoXwOxv8ao/hqdefault.jpg",
         "width": 480,
         "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/cIoXwOxv8ao/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/cIoXwOxv8ao/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       }
     },
-    "channelTitle": "Rebel Wisdom",
-    "liveBroadcastContent": "none",
-    "publishTime": "2019-10-14T16:30:18Z"
+    "channelTitle": "The Seeking",
+    "playlistId": "PLeRBa-Ner4BsUeoWGoE-47Uz6q3a3tc03",
+    "position": 7,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "cIoXwOxv8ao"
+    }
   },
   "_id": "cIoXwOxv8ao",
   "collections": [
     "https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw",
     "https://www.youtube.com/playlist?list=PLeRBa-Ner4BsUeoWGoE-47Uz6q3a3tc03"
   ],
-  "publishedAt": "2019-10-14T16:30:18Z",
-  "type": "youtube-channel-item"
+  "publishedAt": "2020-08-29T19:06:03Z",
+  "type": "youtube-playlist-item"
 }

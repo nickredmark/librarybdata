@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.740" end="00:00:08.940" style="s2">hello so some of you may have heard</p>
+<p begin="00:00:04.859" end="00:00:11.160" style="s2">about the leaked Google memo that is</p>
+<p begin="00:00:08.940" end="00:00:12.660" style="s2">been circulating virally around the</p>
+<p begin="00:00:11.160" end="00:00:15.900" style="s2">internet for the last couple of days</p>
+<p begin="00:00:12.660" end="00:00:20.880" style="s2">that was written by James d&#39;amour who</p>
+<p begin="00:00:15.900" end="00:00:22.260" style="s2">was fired for last night and calling of</p>
+<p begin="00:00:20.880" end="00:00:24.180" style="s2">his reached out to me and put us</p>
+<p begin="00:00:22.260" end="00:00:26.519" style="s2">together and so I&#39;m going to talk to</p>
+<p begin="00:00:24.180" end="00:00:29.730" style="s2">James today about exactly what happened</p>
+<p begin="00:00:26.519" end="00:00:30.300" style="s2">and why and perhaps what should be done</p>
+<p begin="00:00:29.730" end="00:00:36.300" style="s2">about it</p>
+<p begin="00:00:30.300" end="00:00:38.910" style="s2">so all so that&#39;s what we&#39;re going to do</p>
+<p begin="00:00:36.300" end="00:00:41.270" style="s2">with the interview I had with him which</p>
+<p begin="00:00:38.910" end="00:00:44.969" style="s2">finished at about 3 o&#39;clock on Tuesday</p>
+<p begin="00:00:41.270" end="00:00:49.379" style="s2">August 8 follows immediately after this</p>
+<p begin="00:00:44.969" end="00:00:54.180" style="s2">introduction hi everybody I&#39;m speaking</p>
+<p begin="00:00:49.379" end="00:00:57.420" style="s2">today with James d&#39;amour and an</p>
+<p begin="00:00:54.180" end="00:01:00.809" style="s2">unidentified Google employee who wishes</p>
+<p begin="00:00:57.420" end="00:01:05.159" style="s2">to remain anonymous reasons that I think</p>
+<p begin="00:01:00.809" end="00:01:08.909" style="s2">are obvious and James last week put his</p>
+<p begin="00:01:05.159" end="00:01:10.710" style="s2">hand in a blender by circulating an</p>
+<p begin="00:01:08.909" end="00:01:13.409" style="s2">internal memo that I would say has</p>
+<p begin="00:01:10.710" end="00:01:15.299" style="s2">become somewhat infamous so James let&#39;s</p>
+<p begin="00:01:13.409" end="00:01:17.340" style="s2">start with let&#39;s start with a bit of</p>
+<p begin="00:01:15.299" end="00:01:19.619" style="s2">discussion about you tell us who you are</p>
+<p begin="00:01:17.340" end="00:01:24.990" style="s2">about your background about what you</p>
+<p begin="00:01:19.619" end="00:01:27.299" style="s2">were doing at Google I yes so I was</p>
+<p begin="00:01:24.990" end="00:01:29.729" style="s2">actually just you know I really</p>
+<p begin="00:01:27.299" end="00:01:32.759" style="s2">interested in science and psychology and</p>
+<p begin="00:01:29.729" end="00:01:34.409" style="s2">stuff and then I really liked puzzles</p>
+<p begin="00:01:32.759" end="00:01:35.909" style="s2">and that&#39;s how I got into Google</p>
+<p begin="00:01:34.409" end="00:01:38.040" style="s2">actually I did one there coding</p>
+<p begin="00:01:35.909" end="00:01:42.060" style="s2">competition they just recruited me out</p>
+<p begin="00:01:38.040" end="00:01:44.850" style="s2">of that and so at Google I was mostly</p>
+<p begin="00:01:42.060" end="00:01:47.060" style="s2">working on search and image and video</p>
+<p begin="00:01:44.850" end="00:01:49.710" style="s2">search in particular</p>
+<p begin="00:01:47.060" end="00:01:55.470" style="s2">so what&#39;s tell us about your educational</p>
+<p begin="00:01:49.710" end="00:01:57.869" style="s2">background a bit I guess so I just did</p>
+<p begin="00:01:55.470" end="00:02:00.509" style="s2">random science and math and undergrad</p>
+<p begin="00:01:57.869" end="00:02:02.479" style="s2">and I ended up with a degree I didn&#39;t</p>
+<p begin="00:02:00.509" end="00:02:04.890" style="s2">really know what I was going to do so I</p>
+<p begin="00:02:02.479" end="00:02:09.840" style="s2">started doing research at MIT</p>
+<p begin="00:02:04.890" end="00:02:10.800" style="s2">and then I went to a systems biology at</p>
+<p begin="00:02:09.840" end="00:02:13.080" style="s2">Harvard</p>
+<p begin="00:02:10.800" end="00:02:16.680" style="s2">I initially wanted to work with Markovic</p>
+<p begin="00:02:13.080" end="00:02:19.380" style="s2">she&#39;s really great in evolution and game</p>
+<p begin="00:02:16.680" end="00:02:22.170" style="s2">theory but then I started working on</p>
+<p begin="00:02:19.380" end="00:02:24.120" style="s2">other things so tell us a bit about</p>
+<p begin="00:02:22.170" end="00:02:25.770" style="s2">systems biology what what is that</p>
+<p begin="00:02:24.120" end="00:02:31.080" style="s2">exactly what kind of research were you</p>
+<p begin="00:02:25.770" end="00:02:33.720" style="s2">doing at MIT I yes a distance biology</p>
+<p begin="00:02:31.080" end="00:02:37.460" style="s2">has many different meanings but it&#39;s</p>
+<p begin="00:02:33.720" end="00:02:42.090" style="s2">generally just mathematical biology and</p>
+<p begin="00:02:37.460" end="00:02:43.620" style="s2">I guess seeing biological systems as a</p>
+<p begin="00:02:42.090" end="00:02:47.340" style="s2">whole rather than just individual</p>
+<p begin="00:02:43.620" end="00:02:50.010" style="s2">molecules and so I like looking at</p>
+<p begin="00:02:47.340" end="00:02:55.080" style="s2">population and so my interest in</p>
+<p begin="00:02:50.010" end="00:02:59.370" style="s2">evolution so why did that a viable</p>
+<p begin="00:02:55.080" end="00:03:01.440" style="s2">candidate and Google do you think uh I</p>
+<p begin="00:02:59.370" end="00:03:05.760" style="s2">think they just saw a smart guy that</p>
+<p begin="00:03:01.440" end="00:03:07.470" style="s2">could code fair enough now you&#39;ve been</p>
+<p begin="00:03:05.760" end="00:03:10.080" style="s2">out three years is that correct but also</p>
+<p begin="00:03:07.470" end="00:03:13.140" style="s2">as new turned before that yeah so about</p>
+<p begin="00:03:10.080" end="00:03:15.180" style="s2">four years total sure how would you say</p>
+<p begin="00:03:13.140" end="00:03:17.100" style="s2">you performed as an employee you want</p>
+<p begin="00:03:15.180" end="00:03:21.270" style="s2">people being happy with you or if you</p>
+<p begin="00:03:17.100" end="00:03:24.570" style="s2">didn&#39;t together no I got promoted twice</p>
+<p begin="00:03:21.270" end="00:03:27.680" style="s2">my last review was the highest possible</p>
+<p begin="00:03:24.570" end="00:03:30.990" style="s2">superb which is the top few percentile</p>
+<p begin="00:03:27.680" end="00:03:33.810" style="s2">so I definitely wasn&#39;t based on</p>
+<p begin="00:03:30.990" end="00:03:35.370" style="s2">performance that they fired me and have</p>
+<p begin="00:03:33.810" end="00:03:38.760" style="s2">you enjoyed working at Google it should</p>
+<p begin="00:03:35.370" end="00:03:42.000" style="s2">be a good experience yeah I love Google</p>
+<p begin="00:03:38.760" end="00:03:45.750" style="s2">that&#39;s horrible part like I&#39;ve always</p>
+<p begin="00:03:42.000" end="00:03:48.600" style="s2">been the biggest Google fanboy all like</p>
+<p begin="00:03:45.750" end="00:03:50.370" style="s2">I&#39;ve never had an iPhone I always try to</p>
+<p begin="00:03:48.600" end="00:03:54.270" style="s2">convince my friends to use Android and</p>
+<p begin="00:03:50.370" end="00:03:57.600" style="s2">all these different things and yeah I</p>
+<p begin="00:03:54.270" end="00:03:59.700" style="s2">mean this just puts a sour taste in my</p>
+<p begin="00:03:57.600" end="00:04:01.140" style="s2">mouth okay so so you&#39;d go to a good</p>
+<p begin="00:03:59.700" end="00:04:02.670" style="s2">educational backgrounds you were</p>
+<p begin="00:04:01.140" end="00:04:04.560" style="s2">interested in things that Google would</p>
+<p begin="00:04:02.670" end="00:04:06.690" style="s2">be interested in you&#39;re good coder</p>
+<p begin="00:04:04.560" end="00:04:08.250" style="s2">you&#39;ve worked with them for a number of</p>
+<p begin="00:04:06.690" end="00:04:10.050" style="s2">years done an excellent job</p>
+<p begin="00:04:08.250" end="00:04:13.170" style="s2">you&#39;re pretty girl Google that&#39;s</p>
+<p begin="00:04:10.050" end="00:04:16.919" style="s2">basically the background yeah okay now</p>
+<p begin="00:04:13.170" end="00:04:18.299" style="s2">last week you wrote a memo which is</p>
+<p begin="00:04:16.919" end="00:04:20.400" style="s2">attracted a tremendous amount of</p>
+<p begin="00:04:18.299" end="00:04:23.310" style="s2">attention and then that memo</p>
+<p begin="00:04:20.400" end="00:04:25.620" style="s2">you made a number of claims and the</p>
+<p begin="00:04:23.310" end="00:04:27.570" style="s2">claims were and please correct me if</p>
+<p begin="00:04:25.620" end="00:04:30.590" style="s2">I&#39;ve got this for not summarizing this</p>
+<p begin="00:04:27.570" end="00:04:34.530" style="s2">property you were attempting to describe</p>
+<p begin="00:04:30.590" end="00:04:37.020" style="s2">reasons why there might why a lack of</p>
+<p begin="00:04:34.530" end="00:04:38.160" style="s2">gender parity might exist within Google</p>
+<p begin="00:04:37.020" end="00:04:40.229" style="s2">for example and with an engine</p>
+<p begin="00:04:38.160" end="00:04:44.010" style="s2">engineering or broadly and also in</p>
+<p begin="00:04:40.229" end="00:04:46.650" style="s2">occupations more broadly and yeah you</p>
+<p begin="00:04:44.010" end="00:04:49.250" style="s2">laid out a very elaborated document and</p>
+<p begin="00:04:46.650" end="00:04:52.950" style="s2">I reviewed it and as far as I can tell</p>
+<p begin="00:04:49.250" end="00:04:55.500" style="s2">your opinions are well supported by the</p>
+<p begin="00:04:52.950" end="00:04:58.169" style="s2">relevant psychological science and I</p>
+<p begin="00:04:55.500" end="00:05:00.570" style="s2">think what I&#39;ll do in the description of</p>
+<p begin="00:04:58.169" end="00:05:02.640" style="s2">this video when I link it is putting the</p>
+<p begin="00:05:00.570" end="00:05:03.990" style="s2">references so that people can decide for</p>
+<p begin="00:05:02.640" end="00:05:05.940" style="s2">themselves I want to put up a webpage</p>
+<p begin="00:05:03.990" end="00:05:07.640" style="s2">about gender differences in general but</p>
+<p begin="00:05:05.940" end="00:05:11.669" style="s2">I&#39;ll try to hit the highlights for this</p>
+<p begin="00:05:07.640" end="00:05:12.150" style="s2">particular document so why did you do</p>
+<p begin="00:05:11.669" end="00:05:17.370" style="s2">this</p>
+<p begin="00:05:12.150" end="00:05:20.880" style="s2">uh yeah so about a month and a half ago</p>
+<p begin="00:05:17.370" end="00:05:25.190" style="s2">I went to one of our diversity summits</p>
+<p begin="00:05:20.880" end="00:05:28.280" style="s2">all the unrecorded and super-secret and</p>
+<p begin="00:05:25.190" end="00:05:31.229" style="s2">they told me a lot of things that I</p>
+<p begin="00:05:28.280" end="00:05:34.919" style="s2">thought just were not right okay what I</p>
+<p begin="00:05:31.229" end="00:05:37.050" style="s2">mean unrecorded in super secret well</p>
+<p begin="00:05:34.919" end="00:05:40.860" style="s2">they were telling us about a lot of</p>
+<p begin="00:05:37.050" end="00:05:42.510" style="s2">these potentially illegal practices that</p>
+<p begin="00:05:40.860" end="00:05:47.930" style="s2">they&#39;ve been doing to try to increase</p>
+<p begin="00:05:42.510" end="00:05:50.100" style="s2">diversity and what kind of practices</p>
+<p begin="00:05:47.930" end="00:05:52.130" style="s2">well basically treating people</p>
+<p begin="00:05:50.100" end="00:05:56.970" style="s2">differently based on what they&#39;re raised</p>
+<p begin="00:05:52.130" end="00:05:59.880" style="s2">or Dildar are a system yeah basically</p>
+<p begin="00:05:56.970" end="00:06:04.229" style="s2">oh I see and so and it was ultra secret</p>
+<p begin="00:05:59.880" end="00:06:06.780" style="s2">and unrecorded in what manner uh yes I</p>
+<p begin="00:06:04.229" end="00:06:09.000" style="s2">most meetings at Google I recorded</p>
+<p begin="00:06:06.780" end="00:06:10.080" style="s2">anyone at Google come watch it we&#39;re</p>
+<p begin="00:06:09.000" end="00:06:13.410" style="s2">trying to be really open about</p>
+<p begin="00:06:10.080" end="00:06:15.720" style="s2">everything except for this they don&#39;t</p>
+<p begin="00:06:13.410" end="00:06:17.430" style="s2">want any paper trail for any of these</p>
+<p begin="00:06:15.720" end="00:06:21.630" style="s2">things low-key</p>
+<p begin="00:06:17.430" end="00:06:24.479" style="s2">why because I think it&#39;s illegal and I</p>
+<p begin="00:06:21.630" end="00:06:26.880" style="s2">mean as some of the internal polls</p>
+<p begin="00:06:24.479" end="00:06:28.320" style="s2">showed there were a large percent of</p>
+<p begin="00:06:26.880" end="00:06:31.680" style="s2">people that agreed with me on the</p>
+<p begin="00:06:28.320" end="00:06:35.159" style="s2">document and so if everyone got to see</p>
+<p begin="00:06:31.680" end="00:06:36.529" style="s2">this stuff then you know they would</p>
+<p begin="00:06:35.159" end="00:06:38.779" style="s2">really</p>
+<p begin="00:06:36.529" end="00:06:40.789" style="s2">of bringing up some criticism yes a</p>
+<p begin="00:06:38.779" end="00:06:42.159" style="s2">large number of people in Google and a</p>
+<p begin="00:06:40.789" end="00:06:45.709" style="s2">very large number of well-informed</p>
+<p begin="00:06:42.159" end="00:06:48.679" style="s2">biological scientists we may also add so</p>
+<p begin="00:06:45.709" end="00:06:51.769" style="s2">I mean ask I was quite struck by your</p>
+<p begin="00:06:48.679" end="00:06:53.419" style="s2">document given that no it would have</p>
+<p begin="00:06:51.769" end="00:06:55.279" style="s2">been a decent document for a</p>
+<p begin="00:06:53.419" end="00:06:57.019" style="s2">well-informed psychologists research</p>
+<p begin="00:06:55.279" end="00:06:58.999" style="s2">psychologist too right but here&#39;s</p>
+<p begin="00:06:57.019" end="00:07:01.729" style="s2">somewhat of an outsider but you got that</p>
+<p begin="00:06:58.999" end="00:07:04.639" style="s2">you got the highlights accurate as far</p>
+<p begin="00:07:01.729" end="00:07:07.129" style="s2">as I&#39;m concerned so okay so you went to</p>
+<p begin="00:07:04.639" end="00:07:08.659" style="s2">this diversity meeting and you weren&#39;t</p>
+<p begin="00:07:07.129" end="00:07:10.549" style="s2">happy with the sorts of things that you</p>
+<p begin="00:07:08.659" end="00:07:13.609" style="s2">were being told and with the practices</p>
+<p begin="00:07:10.549" end="00:07:19.669" style="s2">is that gold correct yeah and what would</p>
+<p begin="00:07:13.609" end="00:07:22.249" style="s2">I need to uh well so that and there&#39;s a</p>
+<p begin="00:07:19.669" end="00:07:25.219" style="s2">lot of ways in which they pressure</p>
+<p begin="00:07:22.249" end="00:07:27.919" style="s2">people to increase the diversity of</p>
+<p begin="00:07:25.219" end="00:07:30.619" style="s2">their team and you know there&#39;s no way</p>
+<p begin="00:07:27.919" end="00:07:32.029" style="s2">to do that besides actually choosing</p>
+<p begin="00:07:30.619" end="00:07:34.939" style="s2">someone based on their race or gender</p>
+<p begin="00:07:32.029" end="00:07:41.019" style="s2">right what do you mean I don&#39;t work</p>
+<p begin="00:07:34.939" end="00:07:44.899" style="s2">should be precisely I more women or</p>
+<p begin="00:07:41.019" end="00:07:48.110" style="s2">underrepresented racial minorities guys</p>
+<p begin="00:07:44.899" end="00:07:50.779" style="s2">you know can I jump in yeah I am I</p>
+<p begin="00:07:48.110" end="00:07:53.319" style="s2">I would hesitate to say that that&#39;s a</p>
+<p begin="00:07:50.779" end="00:07:56.479" style="s2">hundred percent true across 100 percent</p>
+<p begin="00:07:53.319" end="00:07:59.119" style="s2">right so the organization that I&#39;m in I</p>
+<p begin="00:07:56.479" end="00:08:02.599" style="s2">have not personally seen anything that I</p>
+<p begin="00:07:59.119" end="00:08:04.549" style="s2">would deem cross the line um you know I</p>
+<p begin="00:08:02.599" end="00:08:06.799" style="s2">personally believe that there are a good</p>
+<p begin="00:08:04.549" end="00:08:09.649" style="s2">amount of synergies to be found if you</p>
+<p begin="00:08:06.799" end="00:08:13.459" style="s2">can combine you know slightly different</p>
+<p begin="00:08:09.649" end="00:08:16.039" style="s2">ideologies into a room and that is the</p>
+<p begin="00:08:13.459" end="00:08:18.829" style="s2">thesis that some groups are working</p>
+<p begin="00:08:16.039" end="00:08:22.189" style="s2">towards obviously there&#39;s going to be a</p>
+<p begin="00:08:18.829" end="00:08:25.699" style="s2">distribution of how people follow the</p>
+<p begin="00:08:22.189" end="00:08:28.669" style="s2">rules and you know it&#39;s unfortunate to</p>
+<p begin="00:08:25.699" end="00:08:30.649" style="s2">hear that it&#39;s you know it could be that</p>
+<p begin="00:08:28.669" end="00:08:33.199" style="s2">some people fall to the wrong side of</p>
+<p begin="00:08:30.649" end="00:08:34.969" style="s2">that distribution but that certainly</p>
+<p begin="00:08:33.199" end="00:08:36.889" style="s2">wouldn&#39;t it would not apply to everybody</p>
+<p begin="00:08:34.969" end="00:08:38.870" style="s2">well yeah that&#39;s number one it&#39;s</p>
+<p begin="00:08:36.889" end="00:08:41.499" style="s2">certainly also distressing to hear that</p>
+<p begin="00:08:38.870" end="00:08:44.449" style="s2">there is acceptance of the idea that</p>
+<p begin="00:08:41.499" end="00:08:45.980" style="s2">diversity can be mapped on to race and</p>
+<p begin="00:08:44.449" end="00:08:47.839" style="s2">gender especially with regards to</p>
+<p begin="00:08:45.980" end="00:08:50.450" style="s2">performance because there&#39;s no evidence</p>
+<p begin="00:08:47.839" end="00:08:52.820" style="s2">for that whatsoever so okay so you</p>
+<p begin="00:08:50.450" end="00:08:56.120" style="s2">to this meeting and then you decided to</p>
+<p begin="00:08:52.820" end="00:08:57.830" style="s2">write this document and um how long had</p>
+<p begin="00:08:56.120" end="00:09:01.970" style="s2">you be working on it before he released</p>
+<p begin="00:08:57.830" end="00:09:05.720" style="s2">it yeah so I was doing it like</p>
+<p begin="00:09:01.970" end="00:09:07.370" style="s2">throughout my free time I and I just</p>
+<p begin="00:09:05.720" end="00:09:09.110" style="s2">wanted to clarify my thoughts on this</p>
+<p begin="00:09:07.370" end="00:09:11.240" style="s2">and I really just wanted to be proven</p>
+<p begin="00:09:09.110" end="00:09:12.890" style="s2">wrong because you know it&#39;s what I was</p>
+<p begin="00:09:11.240" end="00:09:13.340" style="s2">saying was right and something bad is</p>
+<p begin="00:09:12.890" end="00:09:16.910" style="s2">happening</p>
+<p begin="00:09:13.340" end="00:09:18.770" style="s2">and so yeah about a month ago I</p>
+<p begin="00:09:16.910" end="00:09:21.680" style="s2">submitted to feedback to that program</p>
+<p begin="00:09:18.770" end="00:09:24.710" style="s2">and you know I saw that people looked at</p>
+<p begin="00:09:21.680" end="00:09:29.990" style="s2">it but no one actually said anything -</p>
+<p begin="00:09:24.710" end="00:09:32.240" style="s2">butch lemon I basically said what I said</p>
+<p begin="00:09:29.990" end="00:09:35.750" style="s2">in the in the document and then I linked</p>
+<p begin="00:09:32.240" end="00:09:39.650" style="s2">to the document itself and so I actually</p>
+<p begin="00:09:35.750" end="00:09:42.260" style="s2">published this about a month ago and it</p>
+<p begin="00:09:39.650" end="00:09:45.170" style="s2">was only after it got viral and then</p>
+<p begin="00:09:42.260" end="00:09:48.470" style="s2">week two the news that Google started</p>
+<p begin="00:09:45.170" end="00:09:51.800" style="s2">caring okay so how did he go viral and</p>
+<p begin="00:09:48.470" end="00:09:55.100" style="s2">you know and how was it leaked uh yeah</p>
+<p begin="00:09:51.800" end="00:09:58.400" style="s2">so I there&#39;s a group at Google called</p>
+<p begin="00:09:55.100" end="00:10:00.740" style="s2">skeptics and so I was like okay maybe</p>
+<p begin="00:09:58.400" end="00:10:02.480" style="s2">they&#39;ll be able to prove me wrong some</p>
+<p begin="00:10:00.740" end="00:10:03.190" style="s2">way like they&#39;re skeptical about things</p>
+<p begin="00:10:02.480" end="00:10:07.100" style="s2">right</p>
+<p begin="00:10:03.190" end="00:10:09.170" style="s2">I wasn&#39;t naive like it and so I sent</p>
+<p begin="00:10:07.100" end="00:10:11.870" style="s2">them a message like okay what do you</p>
+<p begin="00:10:09.170" end="00:10:13.880" style="s2">think about this is Google in some sort</p>
+<p begin="00:10:11.870" end="00:10:18.500" style="s2">of echo chamber I&#39;m eyeing an echo</p>
+<p begin="00:10:13.880" end="00:10:22.390" style="s2">chamber and you know then it just</p>
+<p begin="00:10:18.500" end="00:10:26.210" style="s2">exploded after that and you are internal</p>
+<p begin="00:10:22.390" end="00:10:28.910" style="s2">yet it was just spread throughout all of</p>
+<p begin="00:10:26.210" end="00:10:31.160" style="s2">Google do you and you know with the feat</p>
+<p begin="00:10:28.910" end="00:10:35.420" style="s2">was the skeptics group just started to</p>
+<p begin="00:10:31.160" end="00:10:39.260" style="s2">spread it around yeah and then there are</p>
+<p begin="00:10:35.420" end="00:10:41.060" style="s2">a lot of upper management that uh you</p>
+<p begin="00:10:39.260" end="00:10:43.340" style="s2">know specifically called it out and</p>
+<p begin="00:10:41.060" end="00:10:46.100" style="s2">started saying how farm full it is and</p>
+<p begin="00:10:43.340" end="00:10:49.220" style="s2">how is unacceptable this sort of</p>
+<p begin="00:10:46.100" end="00:10:51.710" style="s2">viewpoint is not allowed at Google yeah</p>
+<p begin="00:10:49.220" end="00:10:53.240" style="s2">what sort of you find exactly the idea</p>
+<p begin="00:10:51.710" end="00:10:54.680" style="s2">that there are differences between men</p>
+<p begin="00:10:53.240" end="00:10:59.390" style="s2">and women that actually might play a</p>
+<p begin="00:10:54.680" end="00:11:01.780" style="s2">role in in in the corporate world got</p>
+<p begin="00:10:59.390" end="00:11:04.440" style="s2">definite opinion that&#39;s not acceptable</p>
+<p begin="00:11:01.780" end="00:11:07.300" style="s2">yes same</p>
+<p begin="00:11:04.440" end="00:11:11.020" style="s2">well it can you know understandably it</p>
+<p begin="00:11:07.300" end="00:11:13.120" style="s2">is this these issues are tricky morally</p>
+<p begin="00:11:11.020" end="00:11:15.220" style="s2">and politically but the thing that was</p>
+<p begin="00:11:13.120" end="00:11:17.529" style="s2">disturbing to me about watching the</p>
+<p begin="00:11:15.220" end="00:11:19.060" style="s2">response to you is that as far as I can</p>
+<p begin="00:11:17.529" end="00:11:20.830" style="s2">tell there isn&#39;t anything that you said</p>
+<p begin="00:11:19.060" end="00:11:23.649" style="s2">in that paper first of all that is in</p>
+<p begin="00:11:20.830" end="00:11:25.450" style="s2">fact biased in a manner that should open</p>
+<p begin="00:11:23.649" end="00:11:27.279" style="s2">you up to the sorts of charges that have</p>
+<p begin="00:11:25.450" end="00:11:29.740" style="s2">been opened up against you or that</p>
+<p begin="00:11:27.279" end="00:11:32.830" style="s2">violates the scientific literature as it</p>
+<p begin="00:11:29.740" end="00:11:36.850" style="s2">currently stands so both of those are</p>
+<p begin="00:11:32.830" end="00:11:39.700" style="s2">rather distressing yeah and there&#39;s a</p>
+<p begin="00:11:36.850" end="00:11:42.120" style="s2">lot of misrepresentation by upper</p>
+<p begin="00:11:39.700" end="00:11:44.740" style="s2">management just to silence me I think</p>
+<p begin="00:11:42.120" end="00:11:46.480" style="s2">yes and why is that do you think like</p>
+<p begin="00:11:44.740" end="00:11:48.310" style="s2">why why is it that google couldn&#39;t</p>
+<p begin="00:11:46.480" end="00:11:49.540" style="s2">actually you think that google couldn&#39;t</p>
+<p begin="00:11:48.310" end="00:11:51.880" style="s2">promote and have an intelligent</p>
+<p begin="00:11:49.540" end="00:11:54.279" style="s2">discussion about this instead of well</p>
+<p begin="00:11:51.880" end="00:11:56.170" style="s2">first of all releasing but Danny I read</p>
+<p begin="00:11:54.279" end="00:11:57.670" style="s2">Danielle Browns response to you which I</p>
+<p begin="00:11:56.170" end="00:12:00.940" style="s2">thought was absolutely appalling</p>
+<p begin="00:11:57.670" end="00:12:02.589" style="s2">ill-informed and appalling and then they</p>
+<p begin="00:12:00.940" end="00:12:05.170" style="s2">fired you which seems to be like really</p>
+<p begin="00:12:02.589" end="00:12:06.690" style="s2">bad PR room but more importantly doesn&#39;t</p>
+<p begin="00:12:05.170" end="00:12:08.970" style="s2">actually deal with the issues at hand</p>
+<p begin="00:12:06.690" end="00:12:11.050" style="s2">you know they&#39;re basically saying</p>
+<p begin="00:12:08.970" end="00:12:12.880" style="s2">something like well what was the</p>
+<p begin="00:12:11.050" end="00:12:15.310" style="s2">rationale for firing you exactly what</p>
+<p begin="00:12:12.880" end="00:12:17.410" style="s2">was the excuse that was given so the</p>
+<p begin="00:12:15.310" end="00:12:19.839" style="s2">official case was that I was</p>
+<p begin="00:12:17.410" end="00:12:22.060" style="s2">perpetuating gender stereotypes that you</p>
+<p begin="00:12:19.839" end="00:12:24.730" style="s2">were perpetuating gender stereotypes</p>
+<p begin="00:12:22.060" end="00:12:26.410" style="s2">yeah and did they say anything else</p>
+<p begin="00:12:24.730" end="00:12:30.010" style="s2">about your performance or about anything</p>
+<p begin="00:12:26.410" end="00:12:33.220" style="s2">else that you&#39;d done no there wasn&#39;t</p>
+<p begin="00:12:30.010" end="00:12:37.920" style="s2">that was the only reason and who fired</p>
+<p begin="00:12:33.220" end="00:12:41.950" style="s2">you technically it was my HR</p>
+<p begin="00:12:37.920" end="00:12:45.040" style="s2">representative and my director okay and</p>
+<p begin="00:12:41.950" end="00:12:47.140" style="s2">you ended deep do you have any idea on</p>
+<p begin="00:12:45.040" end="00:12:49.029" style="s2">whose orders they were acting or if this</p>
+<p begin="00:12:47.140" end="00:12:52.510" style="s2">was something that they conjured up</p>
+<p begin="00:12:49.029" end="00:12:56.529" style="s2">themselves or I&#39;m sure it probably went</p>
+<p begin="00:12:52.510" end="00:13:00.610" style="s2">from higher up than that because and</p>
+<p begin="00:12:56.529" end="00:13:03.250" style="s2">this is a huge PR move so they we need</p>
+<p begin="00:13:00.610" end="00:13:05.770" style="s2">approval from right higher up right and</p>
+<p begin="00:13:03.250" end="00:13:08.079" style="s2">I think the CEO CEO actually made some</p>
+<p begin="00:13:05.770" end="00:13:10.149" style="s2">comments about the issue today which</p>
+<p begin="00:13:08.079" end="00:13:14.880" style="s2">I&#39;ll probably cut into this video as we</p>
+<p begin="00:13:10.149" end="00:13:16.899" style="s2">as I edited so yeah okay all right so</p>
+<p begin="00:13:14.880" end="00:13:21.329" style="s2">the first question</p>
+<p begin="00:13:16.899" end="00:13:23.680" style="s2">use how are you doing I&#39;m doing okay I</p>
+<p begin="00:13:21.329" end="00:13:26.680" style="s2">there&#39;s a lot of messages that I&#39;m</p>
+<p begin="00:13:23.680" end="00:13:29.279" style="s2">trying to sort through and just trying</p>
+<p begin="00:13:26.680" end="00:13:31.839" style="s2">to figure out what I should do now but</p>
+<p begin="00:13:29.279" end="00:13:36.009" style="s2">yeah you can give it some interesting</p>
+<p begin="00:13:31.839" end="00:13:38.709" style="s2">job offers as far as I feel yep I&#39;ve</p>
+<p begin="00:13:36.009" end="00:13:41.199" style="s2">gotten at rising amount of the part yeah</p>
+<p begin="00:13:38.709" end="00:13:43.360" style="s2">well I suspect I&#39;m sacked I&#39;m virtually</p>
+<p begin="00:13:41.199" end="00:13:45.519" style="s2">certain that you have a majority view</p>
+<p begin="00:13:43.360" end="00:13:47.350" style="s2">point it&#39;s just that the people who hold</p>
+<p begin="00:13:45.519" end="00:13:50.230" style="s2">the alternative perspective which are</p>
+<p begin="00:13:47.350" end="00:13:52.149" style="s2">the radical social constructionist types</p>
+<p begin="00:13:50.230" end="00:13:54.429" style="s2">who exist in everything is a consequence</p>
+<p begin="00:13:52.149" end="00:13:56.050" style="s2">of socialization there are a little bit</p>
+<p begin="00:13:54.429" end="00:13:57.910" style="s2">more organized politically but they&#39;re</p>
+<p begin="00:13:56.050" end="00:14:00.100" style="s2">clearly wrong scientifically they&#39;re</p>
+<p begin="00:13:57.910" end="00:14:04.119" style="s2">wrong factually they&#39;re wrong ethically</p>
+<p begin="00:14:00.100" end="00:14:05.559" style="s2">for that matter so so you probably have</p>
+<p begin="00:14:04.119" end="00:14:06.819" style="s2">more support than you think and it will</p>
+<p begin="00:14:05.559" end="00:14:11.019" style="s2">be very interesting to see how that</p>
+<p begin="00:14:06.819" end="00:14:13.509" style="s2">turns out so so what do you think about</p>
+<p begin="00:14:11.019" end="00:14:14.920" style="s2">having written this or I mean now your</p>
+<p begin="00:14:13.509" end="00:14:16.990" style="s2">life is going to be turned upside down</p>
+<p begin="00:14:14.920" end="00:14:19.209" style="s2">and for quite a while I suspect I mean</p>
+<p begin="00:14:16.990" end="00:14:26.759" style="s2">so you put yourself out of line doing</p>
+<p begin="00:14:19.209" end="00:14:31.329" style="s2">this so what do you think about that it</p>
+<p begin="00:14:26.759" end="00:14:32.160" style="s2">it definitely sucks but at least I was</p>
+<p begin="00:14:31.329" end="00:14:34.629" style="s2">proven right</p>
+<p begin="00:14:32.160" end="00:14:40.749" style="s2">you know when what do you need my group</p>
+<p begin="00:14:34.629" end="00:14:43.269" style="s2">right well just that the whole culture</p>
+<p begin="00:14:40.749" end="00:14:49.389" style="s2">just tries to silence any dissenting</p>
+<p begin="00:14:43.269" end="00:14:51.720" style="s2">view and that we really need some more</p>
+<p begin="00:14:49.389" end="00:14:54.009" style="s2">objective way of looking at these things</p>
+<p begin="00:14:51.720" end="00:14:57.389" style="s2">yeah well I felt the same way with</p>
+<p begin="00:14:54.009" end="00:14:59.799" style="s2">University of Toronto decided to no</p>
+<p begin="00:14:57.389" end="00:15:01.569" style="s2">attempt to shut me down after I made my</p>
+<p begin="00:14:59.799" end="00:15:04.089" style="s2">videos I thought well that just proves</p>
+<p begin="00:15:01.569" end="00:15:05.679" style="s2">my point this is I mean I made the</p>
+<p begin="00:15:04.089" end="00:15:07.720" style="s2">videos saying well I don&#39;t like the</p>
+<p begin="00:15:05.679" end="00:15:09.429" style="s2">climate that&#39;s developing it&#39;s making it</p>
+<p begin="00:15:07.720" end="00:15:11.439" style="s2">very difficult to have conversations</p>
+<p begin="00:15:09.429" end="00:15:14.529" style="s2">about certain things and your examples</p>
+<p begin="00:15:11.439" end="00:15:17.949" style="s2">even more egregious I think because you</p>
+<p begin="00:15:14.529" end="00:15:20.649" style="s2">know I at least objected to a piece of</p>
+<p begin="00:15:17.949" end="00:15:22.449" style="s2">legislation that in principle would have</p>
+<p begin="00:15:20.649" end="00:15:24.879" style="s2">been a benefit to an identifiable group</p>
+<p begin="00:15:22.449" end="00:15:26.529" style="s2">let&#39;s say the irons gender group I don&#39;t</p>
+<p begin="00:15:24.879" end="00:15:29.049" style="s2">believe it is of any benefit to them but</p>
+<p begin="00:15:26.529" end="00:15:30.140" style="s2">you could make a case that it was but</p>
+<p begin="00:15:29.049" end="00:15:31.880" style="s2">you all you</p>
+<p begin="00:15:30.140" end="00:15:34.430" style="s2">as far as I can tell is review the</p>
+<p begin="00:15:31.880" end="00:15:36.020" style="s2">modern personality literature and the</p>
+<p begin="00:15:34.430" end="00:15:38.570" style="s2">literature on individual differences</p>
+<p begin="00:15:36.020" end="00:15:40.310" style="s2">relating to men and women and other</p>
+<p begin="00:15:38.570" end="00:15:43.250" style="s2">groups and there&#39;s actually not very</p>
+<p begin="00:15:40.310" end="00:15:46.220" style="s2">much opinion in your piece at all so</p>
+<p begin="00:15:43.250" end="00:15:49.730" style="s2">what that is is that it is not possible</p>
+<p begin="00:15:46.220" end="00:15:51.590" style="s2">to actually have a discussion about the</p>
+<p begin="00:15:49.730" end="00:15:53.630" style="s2">scientific literature on these issues</p>
+<p begin="00:15:51.590" end="00:15:55.960" style="s2">without putting yourself risk not to</p>
+<p begin="00:15:53.630" end="00:16:00.380" style="s2">hell of a thing for engineer because the</p>
+<p begin="00:15:55.960" end="00:16:02.630" style="s2">engineers and rely on the facts as far</p>
+<p begin="00:16:00.380" end="00:16:04.400" style="s2">as I can tell and one of the things I</p>
+<p begin="00:16:02.630" end="00:16:06.080" style="s2">like about engineers is that they tend</p>
+<p begin="00:16:04.400" end="00:16:09.470" style="s2">to stick very closely to the facts</p>
+<p begin="00:16:06.080" end="00:16:11.240" style="s2">they&#39;re not a very political group you</p>
+<p begin="00:16:09.470" end="00:16:17.570" style="s2">know generally speaking they&#39;re much</p>
+<p begin="00:16:11.240" end="00:16:18.710" style="s2">tactical yeah I don&#39;t know how they can</p>
+<p begin="00:16:17.570" end="00:16:21.740" style="s2">expect to silence</p>
+<p begin="00:16:18.710" end="00:16:26.720" style="s2">so many engineers and intelligent people</p>
+<p begin="00:16:21.740" end="00:16:28.220" style="s2">and to deny science like this yeah well</p>
+<p begin="00:16:26.720" end="00:16:30.080" style="s2">the question to is what are your</p>
+<p begin="00:16:28.220" end="00:16:33.020" style="s2">supporters within Google going to do</p>
+<p begin="00:16:30.080" end="00:16:38.180" style="s2">because you know I would say you&#39;re a</p>
+<p begin="00:16:33.020" end="00:16:40.070" style="s2">great warning man because you you showed</p>
+<p begin="00:16:38.180" end="00:16:44.330" style="s2">what happens you showed exactly what</p>
+<p begin="00:16:40.070" end="00:16:48.590" style="s2">happens if you have enough I don&#39;t know</p>
+<p begin="00:16:44.330" end="00:16:52.760" style="s2">what you call it curiosity and courage I</p>
+<p begin="00:16:48.590" end="00:16:55.820" style="s2">suppose but but mostly curiosity to lay</p>
+<p begin="00:16:52.760" end="00:16:58.280" style="s2">out what you think for discussion we</p>
+<p begin="00:16:55.820" end="00:17:00.950" style="s2">need to open this conversations you said</p>
+<p begin="00:16:58.280" end="00:17:02.720" style="s2">that you know you weren&#39;t jumping up and</p>
+<p begin="00:17:00.950" end="00:17:04.670" style="s2">down in existing you were right you were</p>
+<p begin="00:17:02.720" end="00:17:06.589" style="s2">trying to lay out what you understood</p>
+<p begin="00:17:04.670" end="00:17:10.040" style="s2">from doing the fair bit of reading and</p>
+<p begin="00:17:06.589" end="00:17:12.470" style="s2">and and make the case that see these</p>
+<p begin="00:17:10.040" end="00:17:14.000" style="s2">facts the facts about the differences</p>
+<p begin="00:17:12.470" end="00:17:16.040" style="s2">between men and women and employment</p>
+<p begin="00:17:14.000" end="00:17:17.959" style="s2">choice and payment and all that aren&#39;t</p>
+<p begin="00:17:16.040" end="00:17:20.120" style="s2">being discussed and they&#39;re not being</p>
+<p begin="00:17:17.959" end="00:17:21.699" style="s2">discussed I mean we know that example I</p>
+<p begin="00:17:20.120" end="00:17:25.010" style="s2">don&#39;t put this citation in the</p>
+<p begin="00:17:21.699" end="00:17:28.339" style="s2">description it&#39;s been very difficult for</p>
+<p begin="00:17:25.010" end="00:17:30.290" style="s2">the Swedes for example to flatten out</p>
+<p begin="00:17:28.339" end="00:17:32.690" style="s2">the gender distribution for engineers</p>
+<p begin="00:17:30.290" end="00:17:33.860" style="s2">and Sweden and it ended and in the</p>
+<p begin="00:17:32.690" end="00:17:36.860" style="s2">Scandinavian countries in general</p>
+<p begin="00:17:33.860" end="00:17:38.960" style="s2">despite their advanced social</p>
+<p begin="00:17:36.860" end="00:17:41.030" style="s2">engineering let&#39;s call it and they also</p>
+<p begin="00:17:38.960" end="00:17:42.570" style="s2">can&#39;t get male nurses you know I think</p>
+<p begin="00:17:41.030" end="00:17:44.850" style="s2">it&#39;s four out of five</p>
+<p begin="00:17:42.570" end="00:17:47.340" style="s2">in Scandinavia if I remember correct</p>
+<p begin="00:17:44.850" end="00:17:52.380" style="s2">they are female and the reverse number</p>
+<p begin="00:17:47.340" end="00:17:54.299" style="s2">our our engineers are male and you know</p>
+<p begin="00:17:52.380" end="00:17:58.740" style="s2">that seems to be associated with this</p>
+<p begin="00:17:54.299" end="00:18:01.409" style="s2">quite well founded scientific</p>
+<p begin="00:17:58.740" end="00:18:03.659" style="s2">observation that women tilt towards</p>
+<p begin="00:18:01.409" end="00:18:05.490" style="s2">interesting people and men tilt towards</p>
+<p begin="00:18:03.659" end="00:18:08.399" style="s2">interesting things and that that&#39;s</p>
+<p begin="00:18:05.490" end="00:18:11.159" style="s2">associated with testosterone exposure in</p>
+<p begin="00:18:08.399" end="00:18:12.779" style="s2">utero this is a science you know an</p>
+<p begin="00:18:11.159" end="00:18:14.580" style="s2">attack isn&#39;t anybody beating and</p>
+<p begin="00:18:12.779" end="00:18:16.289" style="s2">ideological drum because most of the</p>
+<p begin="00:18:14.580" end="00:18:17.879" style="s2">people I would say that most of the</p>
+<p begin="00:18:16.289" end="00:18:20.340" style="s2">people who are publishing this would</p>
+<p begin="00:18:17.879" end="00:18:23.070" style="s2">have been even happier had it turned out</p>
+<p begin="00:18:20.340" end="00:18:25.379" style="s2">the other way you know the findings</p>
+<p begin="00:18:23.070" end="00:18:27.899" style="s2">actually run contrary to their biases</p>
+<p begin="00:18:25.379" end="00:18:30.870" style="s2">because academia is generally full of</p>
+<p begin="00:18:27.899" end="00:18:32.580" style="s2">people whose biases are laughs and now</p>
+<p begin="00:18:30.870" end="00:18:36.720" style="s2">and then you know scientific findings</p>
+<p begin="00:18:32.580" end="00:18:38.429" style="s2">emerge to dispute an ideological</p>
+<p begin="00:18:36.720" end="00:18:41.299" style="s2">proposition that&#39;s certainly the case</p>
+<p begin="00:18:38.429" end="00:18:43.500" style="s2">with role of biology versus society in</p>
+<p begin="00:18:41.299" end="00:18:45.360" style="s2">establishing gender differences so the</p>
+<p begin="00:18:43.500" end="00:18:48.690" style="s2">science is very credible it doesn&#39;t mean</p>
+<p begin="00:18:45.360" end="00:18:50.909" style="s2">it&#39;s completely beyond dispute but</p>
+<p begin="00:18:48.690" end="00:18:52.769" style="s2">that&#39;s not the point either because your</p>
+<p begin="00:18:50.909" end="00:18:54.750" style="s2">survey was actually pretty decent survey</p>
+<p begin="00:18:52.769" end="00:18:56.490" style="s2">of the current state of affairs with</p>
+<p begin="00:18:54.750" end="00:19:00.929" style="s2">regards to individual differences that</p>
+<p begin="00:18:56.490" end="00:19:02.460" style="s2">doesn&#39;t mean that right so okay so what</p>
+<p begin="00:19:00.929" end="00:19:06.659" style="s2">what are you buddy or what is your</p>
+<p begin="00:19:02.460" end="00:19:10.289" style="s2">family think moto this yeah they</p>
+<p begin="00:19:06.659" end="00:19:11.580" style="s2">definitely support me but they don&#39;t</p>
+<p begin="00:19:10.289" end="00:19:13.799" style="s2">really know what I should do from here</p>
+<p begin="00:19:11.580" end="00:19:16.860" style="s2">they don&#39;t want me to you know just go</p>
+<p begin="00:19:13.799" end="00:19:19.409" style="s2">to a ton of news corporations and do all</p>
+<p begin="00:19:16.860" end="00:19:20.909" style="s2">these interviews and stuff and because</p>
+<p begin="00:19:19.409" end="00:19:24.149" style="s2">they just want to twist whatever I say</p>
+<p begin="00:19:20.909" end="00:19:26.490" style="s2">towards their agenda to it&#39;s it&#39;s not</p>
+<p begin="00:19:24.149" end="00:19:27.899" style="s2">really clear what I should be doing yeah</p>
+<p begin="00:19:26.490" end="00:19:29.340" style="s2">well there&#39;s certainly no shortage of</p>
+<p begin="00:19:27.899" end="00:19:31.110" style="s2">people that want to talk to you I mean</p>
+<p begin="00:19:29.340" end="00:19:33.659" style="s2">I&#39;ve been contacted by four or five</p>
+<p begin="00:19:31.110" end="00:19:36.480" style="s2">journalists who would like to speak with</p>
+<p begin="00:19:33.659" end="00:19:38.480" style="s2">you we can talk about that afterwards I</p>
+<p begin="00:19:36.480" end="00:19:41.429" style="s2">could let you know who they are but um</p>
+<p begin="00:19:38.480" end="00:19:45.830" style="s2">yeah well you&#39;ve got a you&#39;ve got a</p>
+<p begin="00:19:41.429" end="00:19:49.200" style="s2">conundrum on your hands no I mean you&#39;re</p>
+<p begin="00:19:45.830" end="00:19:50.279" style="s2">Europe you&#39;re a very straightforward</p>
+<p begin="00:19:49.200" end="00:19:53.340" style="s2">person</p>
+<p begin="00:19:50.279" end="00:19:56.010" style="s2">and you&#39;re obviously not grinding any</p>
+<p begin="00:19:53.340" end="00:19:56.390" style="s2">axe at least not in any obvious way so</p>
+<p begin="00:19:56.010" end="00:19:58.880" style="s2">mice</p>
+<p begin="00:19:56.390" end="00:20:01.070" style="s2">missions are that talking to the right</p>
+<p begin="00:19:58.880" end="00:20:03.470" style="s2">people could be of substantial use to</p>
+<p begin="00:20:01.070" end="00:20:05.990" style="s2">you but I guess it also depends on what</p>
+<p begin="00:20:03.470" end="00:20:09.710" style="s2">it is that you want me that&#39;s something</p>
+<p begin="00:20:05.990" end="00:20:12.380" style="s2">we can talk about now you you you</p>
+<p begin="00:20:09.710" end="00:20:14.630" style="s2">rattled up the cages of a fair good as</p>
+<p begin="00:20:12.380" end="00:20:16.820" style="s2">people and a fairly large organization</p>
+<p begin="00:20:14.630" end="00:20:18.620" style="s2">interestingly enough just on the heels</p>
+<p begin="00:20:16.820" end="00:20:20.330" style="s2">of Google and YouTube&#39;s announcement</p>
+<p begin="00:20:18.620" end="00:20:22.820" style="s2">about the new free speech restrictions</p>
+<p begin="00:20:20.330" end="00:20:24.790" style="s2">on on YouTube you know and their</p>
+<p begin="00:20:22.820" end="00:20:27.290" style="s2">incorporation of NGOs into that</p>
+<p begin="00:20:24.790" end="00:20:29.750" style="s2">censorship process so it&#39;s been quite a</p>
+<p begin="00:20:27.290" end="00:20:33.380" style="s2">week for Google I would say so</p>
+<p begin="00:20:29.750" end="00:20:34.760" style="s2">you&#39;ve opened up this can of worms what</p>
+<p begin="00:20:33.380" end="00:20:36.710" style="s2">is it</p>
+<p begin="00:20:34.760" end="00:20:39.530" style="s2">so imagine if you&#39;re looking six months</p>
+<p begin="00:20:36.710" end="00:20:41.410" style="s2">down the road and say and things happen</p>
+<p begin="00:20:39.530" end="00:20:43.640" style="s2">that we&#39;re good because of what you did</p>
+<p begin="00:20:41.410" end="00:20:48.110" style="s2">what is it that you would like to have</p>
+<p begin="00:20:43.640" end="00:20:50.630" style="s2">happen uh at the very least I want</p>
+<p begin="00:20:48.110" end="00:20:54.760" style="s2">because I do still care about Google I</p>
+<p begin="00:20:50.630" end="00:20:57.800" style="s2">want some conversation if we had and for</p>
+<p begin="00:20:54.760" end="00:21:02.990" style="s2">the ideologues to not just have their</p>
+<p begin="00:20:57.800" end="00:21:06.170" style="s2">way but yeah I still don&#39;t have a clear</p>
+<p begin="00:21:02.990" end="00:21:09.740" style="s2">vision on how exactly this will happen</p>
+<p begin="00:21:06.170" end="00:21:13.520" style="s2">you know how how this can spread farther</p>
+<p begin="00:21:09.740" end="00:21:14.990" style="s2">than just Google well you spend farther</p>
+<p begin="00:21:13.520" end="00:21:17.570" style="s2">than just Google that&#39;s for sure yeah</p>
+<p begin="00:21:14.990" end="00:21:21.860" style="s2">you know I mean I would say my</p>
+<p begin="00:21:17.570" end="00:21:23.330" style="s2">experience is with the press is that the</p>
+<p begin="00:21:21.860" end="00:21:26.660" style="s2">first thing that happens that will</p>
+<p begin="00:21:23.330" end="00:21:28.970" style="s2">happen is that you&#39;ll get jumped on by</p>
+<p begin="00:21:26.660" end="00:21:29.690" style="s2">people who call you the sorts of</p>
+<p begin="00:21:28.970" end="00:21:32.000" style="s2">epithets</p>
+<p begin="00:21:29.690" end="00:21:34.130" style="s2">that would be appropriate if you were a</p>
+<p begin="00:21:32.000" end="00:21:37.760" style="s2">bad guy and you should just shut up and</p>
+<p begin="00:21:34.130" end="00:21:39.080" style="s2">go away okay that&#39;s already happened but</p>
+<p begin="00:21:37.760" end="00:21:41.770" style="s2">I think you&#39;re going to get through that</p>
+<p begin="00:21:39.080" end="00:21:44.780" style="s2">real quick because I went through your</p>
+<p begin="00:21:41.770" end="00:21:46.160" style="s2">your writings which are not a stream by</p>
+<p begin="00:21:44.780" end="00:21:48.440" style="s2">the way and are certainly not as a</p>
+<p begin="00:21:46.160" end="00:21:50.240" style="s2">diversity street a way to have your</p>
+<p begin="00:21:48.440" end="00:21:53.300" style="s2">writings and and I can&#39;t see anything</p>
+<p begin="00:21:50.240" end="00:21:55.400" style="s2">there that identifies you as the sort of</p>
+<p begin="00:21:53.300" end="00:21:57.920" style="s2">person that can be easily impairment</p>
+<p begin="00:21:55.400" end="00:22:01.190" style="s2">leotard with the hateful epithet but you</p>
+<p begin="00:21:57.920" end="00:22:02.990" style="s2">know it&#39;s logical for the public let&#39;s</p>
+<p begin="00:22:01.190" end="00:22:05.090" style="s2">say including the media to jump on</p>
+<p begin="00:22:02.990" end="00:22:07.790" style="s2">someone like you when they blow a</p>
+<p begin="00:22:05.090" end="00:22:09.650" style="s2">whistle because the first thing that you</p>
+<p begin="00:22:07.790" end="00:22:10.070" style="s2">might presume if someone&#39;s causing</p>
+<p begin="00:22:09.650" end="00:22:11.240" style="s2">trouble</p>
+<p begin="00:22:10.070" end="00:22:13.850" style="s2">is that there&#39;s something wrong with</p>
+<p begin="00:22:11.240" end="00:22:15.800" style="s2">them so then you have to sort of beat</p>
+<p begin="00:22:13.850" end="00:22:17.570" style="s2">them awhile with the idea that there&#39;s</p>
+<p begin="00:22:15.800" end="00:22:19.940" style="s2">something wrong with them to see what</p>
+<p begin="00:22:17.570" end="00:22:21.590" style="s2">happens and so the first thing is you</p>
+<p begin="00:22:19.940" end="00:22:23.420" style="s2">have to withstand that but they don&#39;t</p>
+<p begin="00:22:21.590" end="00:22:26.150" style="s2">seem to be any smoking pistols in your</p>
+<p begin="00:22:23.420" end="00:22:28.670" style="s2">background so for example you were an</p>
+<p begin="00:22:26.150" end="00:22:30.800" style="s2">ideal Google employee well that protects</p>
+<p begin="00:22:28.670" end="00:22:33.500" style="s2">you a lot and you don&#39;t have a history</p>
+<p begin="00:22:30.800" end="00:22:35.420" style="s2">of this of any sort of troublemaking and</p>
+<p begin="00:22:33.500" end="00:22:37.310" style="s2">you have a solid educational background</p>
+<p begin="00:22:35.420" end="00:22:39.950" style="s2">and you&#39;re clearly a reasonable person</p>
+<p begin="00:22:37.310" end="00:22:43.700" style="s2">and so the first thing is is just to</p>
+<p begin="00:22:39.950" end="00:22:45.440" style="s2">steel yourself to get through that and</p>
+<p begin="00:22:43.700" end="00:22:48.500" style="s2">then what happened I think if you do</p>
+<p begin="00:22:45.440" end="00:22:50.270" style="s2">talk to media organisations and</p>
+<p begin="00:22:48.500" end="00:22:51.560" style="s2">especially if you talk to them the way</p>
+<p begin="00:22:50.270" end="00:22:54.260" style="s2">that you&#39;re talking to me which is</p>
+<p begin="00:22:51.560" end="00:22:56.150" style="s2">extraordinarily calm and composed then</p>
+<p begin="00:22:54.260" end="00:22:59.210" style="s2">you&#39;re going to reveal yourself even</p>
+<p begin="00:22:56.150" end="00:23:02.630" style="s2">more as a reasonable person and the</p>
+<p begin="00:22:59.210" end="00:23:04.280" style="s2">press overall will start to shift behind</p>
+<p begin="00:23:02.630" end="00:23:06.560" style="s2">you and I think the reason for that is</p>
+<p begin="00:23:04.280" end="00:23:08.930" style="s2">one thing you got to remember about the</p>
+<p begin="00:23:06.560" end="00:23:10.970" style="s2">press is that when push comes to shove</p>
+<p begin="00:23:08.930" end="00:23:14.420" style="s2">they&#39;re actually rather in favor of free</p>
+<p begin="00:23:10.970" end="00:23:17.930" style="s2">speech that given them without it they</p>
+<p begin="00:23:14.420" end="00:23:20.960" style="s2">would be dead click that so I don&#39;t</p>
+<p begin="00:23:17.930" end="00:23:24.010" style="s2">think like I don&#39;t think that you have</p>
+<p begin="00:23:20.960" end="00:23:27.050" style="s2">to worry about being exploited and</p>
+<p begin="00:23:24.010" end="00:23:29.680" style="s2">twisted by media sources I actually</p>
+<p begin="00:23:27.050" end="00:23:33.140" style="s2">think that it might be to your advantage</p>
+<p begin="00:23:29.680" end="00:23:35.650" style="s2">to talk to people you know you can</p>
+<p begin="00:23:33.140" end="00:23:39.650" style="s2">figure out who those people are but</p>
+<p begin="00:23:35.650" end="00:23:41.870" style="s2">you&#39;re just not the kind of person that</p>
+<p begin="00:23:39.650" end="00:23:43.820" style="s2">can be easily transformed into a villain</p>
+<p begin="00:23:41.870" end="00:23:47.390" style="s2">and the more that you can demonstrate</p>
+<p begin="00:23:43.820" end="00:23:49.040" style="s2">that the better it might be you know for</p>
+<p begin="00:23:47.390" end="00:23:55.760" style="s2">the cause that you&#39;re engaged in but</p>
+<p begin="00:23:49.040" end="00:23:57.230" style="s2">also for yourself yeah so what so like</p>
+<p begin="00:23:55.760" end="00:24:00.110" style="s2">how are you feeling about this</p>
+<p begin="00:23:57.230" end="00:24:03.290" style="s2">emotionally you must be in a bit of a</p>
+<p begin="00:24:00.110" end="00:24:07.480" style="s2">state of shock I would say yeah it&#39;s</p>
+<p begin="00:24:03.290" end="00:24:07.480" style="s2">been a stressful week for sure</p>
+<p begin="00:24:09.110" end="00:24:16.760" style="s2">but I&#39;m not feeling too negative about</p>
+<p begin="00:24:14.179" end="00:24:19.010" style="s2">it yet I hasn&#39;t fully hit me I don&#39;t</p>
+<p begin="00:24:16.760" end="00:24:20.480" style="s2">think yeah well it won&#39;t because God</p>
+<p begin="00:24:19.010" end="00:24:21.950" style="s2">knows what&#39;s going to happen to you over</p>
+<p begin="00:24:20.480" end="00:24:25.250" style="s2">the next few weeks right it&#39;s going to</p>
+<p begin="00:24:21.950" end="00:24:26.929" style="s2">be a real roller coaster and you know</p>
+<p begin="00:24:25.250" end="00:24:29.240" style="s2">the other thing that you might consider</p>
+<p begin="00:24:26.929" end="00:24:31.190" style="s2">is that it&#39;s possible that this will</p>
+<p begin="00:24:29.240" end="00:24:32.900" style="s2">turn out extraordinarily positive for</p>
+<p begin="00:24:31.190" end="00:24:36.080" style="s2">you you know there&#39;s going to be it&#39;s</p>
+<p begin="00:24:32.900" end="00:24:37.809" style="s2">going to be a rough ride but to the</p>
+<p begin="00:24:36.080" end="00:24:40.429" style="s2">degree that you are accurate in your</p>
+<p begin="00:24:37.809" end="00:24:43.190" style="s2">observations then you know it&#39;s not that</p>
+<p begin="00:24:40.429" end="00:24:45.380" style="s2">easy to do it&#39;s not that easy for the</p>
+<p begin="00:24:43.190" end="00:24:48.169" style="s2">opponents of truth to have a battle with</p>
+<p begin="00:24:45.380" end="00:24:52.880" style="s2">truth it&#39;s not even how about that</p>
+<p begin="00:24:48.169" end="00:24:54.770" style="s2">reality you know you to live so can I go</p>
+<p begin="00:24:52.880" end="00:24:57.049" style="s2">over some of the things that you said so</p>
+<p begin="00:24:54.770" end="00:25:00.110" style="s2">that we can discuss that sir today so</p>
+<p begin="00:24:57.049" end="00:25:03.700" style="s2">I&#39;m going to take a look Pierce so you</p>
+<p begin="00:25:00.110" end="00:25:06.500" style="s2">started with a pretty good solid</p>
+<p begin="00:25:03.700" end="00:25:08.750" style="s2">statement I would say Google&#39;s political</p>
+<p begin="00:25:06.500" end="00:25:10.940" style="s2">bias has equated the Freedom From events</p>
+<p begin="00:25:08.750" end="00:25:12.549" style="s2">with psychological safety but shaming</p>
+<p begin="00:25:10.940" end="00:25:14.960" style="s2">into silence is the antithesis of</p>
+<p begin="00:25:12.549" end="00:25:17.480" style="s2">psychological safe well that seems even</p>
+<p begin="00:25:14.960" end="00:25:19.100" style="s2">more relevant now you&#39;re at Intuit yeah</p>
+<p begin="00:25:17.480" end="00:25:21.200" style="s2">the sign a sign is creating an ideologue</p>
+<p begin="00:25:19.100" end="00:25:23.450" style="s2">evil echo chamber where some ideas are</p>
+<p begin="00:25:21.200" end="00:25:26.179" style="s2">too sacred to be honestly discussed well</p>
+<p begin="00:25:23.450" end="00:25:28.250" style="s2">I checked I went off to write an entire</p>
+<p begin="00:25:26.179" end="00:25:30.710" style="s2">arena certainly seems to indicate that</p>
+<p begin="00:25:28.250" end="00:25:32.299" style="s2">with the case the lack of discussion</p>
+<p begin="00:25:30.710" end="00:25:34.330" style="s2">process is the most extreme and</p>
+<p begin="00:25:32.299" end="00:25:36.919" style="s2">authoritarian elements of this ideology</p>
+<p begin="00:25:34.330" end="00:25:38.840" style="s2">some of the extreme the extreme is all</p>
+<p begin="00:25:36.919" end="00:25:40.640" style="s2">disparities in representation or do you</p>
+<p begin="00:25:38.840" end="00:25:42.740" style="s2">oppression that&#39;s a good one right</p>
+<p begin="00:25:40.640" end="00:25:45.590" style="s2">that&#39;s as univariate hypothesis it&#39;s</p>
+<p begin="00:25:42.740" end="00:25:47.809" style="s2">very very simple-minded mmm-hmm and then</p>
+<p begin="00:25:45.590" end="00:25:50.030" style="s2">the authoritarian element you defined as</p>
+<p begin="00:25:47.809" end="00:25:52.820" style="s2">the idea we should discriminate to</p>
+<p begin="00:25:50.030" end="00:25:54.980" style="s2">correct for this oppression great and</p>
+<p begin="00:25:52.820" end="00:25:56.690" style="s2">then you make a claim just difference in</p>
+<p begin="00:25:54.980" end="00:26:00.740" style="s2">distributions of traits between men and</p>
+<p begin="00:25:56.690" end="00:26:02.929" style="s2">women may in part explain why we don&#39;t</p>
+<p begin="00:26:00.740" end="00:26:05.600" style="s2">have 50% representation of women and</p>
+<p begin="00:26:02.929" end="00:26:07.820" style="s2">tech and leadership discrimination to</p>
+<p begin="00:26:05.600" end="00:26:10.070" style="s2">reach equal representation is unfair</p>
+<p begin="00:26:07.820" end="00:26:12.650" style="s2">divisive and bad for business okay so</p>
+<p begin="00:26:10.070" end="00:26:15.650" style="s2">that&#39;s your thesis and then you go along</p>
+<p begin="00:26:12.650" end="00:26:18.919" style="s2">and try to justify it so the first thing</p>
+<p begin="00:26:15.650" end="00:26:21.050" style="s2">you do is talk about left wing versus</p>
+<p begin="00:26:18.919" end="00:26:22.700" style="s2">right wing biases and I should point out</p>
+<p begin="00:26:21.050" end="00:26:25.310" style="s2">that you don&#39;t</p>
+<p begin="00:26:22.700" end="00:26:27.410" style="s2">concentrate on the left biases or on the</p>
+<p begin="00:26:25.310" end="00:26:29.600" style="s2">right - if you&#39;re completely even-handed</p>
+<p begin="00:26:27.410" end="00:26:32.510" style="s2">its regards to laying out the pros and</p>
+<p begin="00:26:29.600" end="00:26:34.550" style="s2">cons so the left death passion for the</p>
+<p begin="00:26:32.510" end="00:26:36.650" style="s2">weak disparities are Delian justices</p>
+<p begin="00:26:34.550" end="00:26:40.040" style="s2">humans are inherently Crawford it</p>
+<p begin="00:26:36.650" end="00:26:43.100" style="s2">changes good / unstable open an</p>
+<p begin="00:26:40.040" end="00:26:44.300" style="s2">idealistic they&#39;re not men you get on</p>
+<p begin="00:26:43.100" end="00:26:46.700" style="s2">with regards to the relevant</p>
+<p begin="00:26:44.300" end="00:26:48.620" style="s2">psychological literature where we see</p>
+<p begin="00:26:46.700" end="00:26:51.230" style="s2">that political correctness is motivated</p>
+<p begin="00:26:48.620" end="00:26:54.110" style="s2">by agreeableness and that liberalism is</p>
+<p begin="00:26:51.230" end="00:26:56.620" style="s2">fundamentally predicted by openness and</p>
+<p begin="00:26:54.110" end="00:26:58.940" style="s2">the right biases respect for authority</p>
+<p begin="00:26:56.620" end="00:27:01.100" style="s2">disparities are natural adjust humans</p>
+<p begin="00:26:58.940" end="00:27:03.350" style="s2">are inherently competitive changes</p>
+<p begin="00:27:01.100" end="00:27:05.360" style="s2">dangerous stable that would be high</p>
+<p begin="00:27:03.350" end="00:27:07.220" style="s2">conscientiousness low openness and</p>
+<p begin="00:27:05.360" end="00:27:09.560" style="s2">they&#39;re closed rather than open and</p>
+<p begin="00:27:07.220" end="00:27:11.210" style="s2">pragmatic rather than idealist yeah well</p>
+<p begin="00:27:09.560" end="00:27:12.830" style="s2">I don&#39;t think any reasonable person can</p>
+<p begin="00:27:11.210" end="00:27:14.930" style="s2">read that column and say that you were</p>
+<p begin="00:27:12.830" end="00:27:18.680" style="s2">coming down hard on the side of either</p>
+<p begin="00:27:14.930" end="00:27:20.240" style="s2">part of the political spectrum yeah dr.</p>
+<p begin="00:27:18.680" end="00:27:24.050" style="s2">Peterson can I jump in with a question</p>
+<p begin="00:27:20.240" end="00:27:28.760" style="s2">um it appears from my interactions with</p>
+<p begin="00:27:24.050" end="00:27:31.490" style="s2">many people that they are projecting</p>
+<p begin="00:27:28.760" end="00:27:34.580" style="s2">words that were not written on to the</p>
+<p begin="00:27:31.490" end="00:27:37.520" style="s2">paper and would you be able to elaborate</p>
+<p begin="00:27:34.580" end="00:27:40.490" style="s2">on the schemas that people develop and</p>
+<p begin="00:27:37.520" end="00:27:42.470" style="s2">how they classify information in their</p>
+<p begin="00:27:40.490" end="00:27:45.920" style="s2">minds because this is very much how</p>
+<p begin="00:27:42.470" end="00:27:47.120" style="s2">stereotypes form I would think is by</p>
+<p begin="00:27:45.920" end="00:27:50.150" style="s2">kind of just grouping a bunch of</p>
+<p begin="00:27:47.120" end="00:27:52.310" style="s2">disparate but semi-related people or</p>
+<p begin="00:27:50.150" end="00:27:54.740" style="s2">things together and then projecting an</p>
+<p begin="00:27:52.310" end="00:27:57.860" style="s2">idea that may or may not pertain to that</p>
+<p begin="00:27:54.740" end="00:28:00.290" style="s2">yeah well it&#39;s a low-resolution thought</p>
+<p begin="00:27:57.860" end="00:28:03.260" style="s2">issue I mean what&#39;s happened to James is</p>
+<p begin="00:28:00.290" end="00:28:04.700" style="s2">that he you know he he he put up his</p>
+<p begin="00:28:03.260" end="00:28:07.880" style="s2">hand and said wait a second I don&#39;t</p>
+<p begin="00:28:04.700" end="00:28:09.830" style="s2">agree with the diversity ideology and he</p>
+<p begin="00:28:07.880" end="00:28:13.730" style="s2">was immediately classified essentially</p>
+<p begin="00:28:09.830" end="00:28:15.500" style="s2">as misogynist and bigoted and that&#39;s the</p>
+<p begin="00:28:13.730" end="00:28:18.620" style="s2">simplest thing to do right because</p>
+<p begin="00:28:15.500" end="00:28:21.680" style="s2">misogynists and biggest will hold</p>
+<p begin="00:28:18.620" end="00:28:25.490" style="s2">viewpoints that are anti-female and</p>
+<p begin="00:28:21.680" end="00:28:27.230" style="s2">racist and so it&#39;s a lot easier just to</p>
+<p begin="00:28:25.490" end="00:28:29.300" style="s2">paint someone with a broad brush</p>
+<p begin="00:28:27.230" end="00:28:32.270" style="s2">especially if they&#39;re violating the</p>
+<p begin="00:28:29.300" end="00:28:36.190" style="s2">tenants of your implicit temperament</p>
+<p begin="00:28:32.270" end="00:28:39.159" style="s2">let&#39;s say than it is to dive into the</p>
+<p begin="00:28:36.190" end="00:28:40.690" style="s2">details where real thought occurs and I</p>
+<p begin="00:28:39.159" end="00:28:44.049" style="s2">think one of the sins that James</p>
+<p begin="00:28:40.690" end="00:28:46.059" style="s2">committed was that he actually dared to</p>
+<p begin="00:28:44.049" end="00:28:48.279" style="s2">make this about details rather than</p>
+<p begin="00:28:46.059" end="00:28:50.409" style="s2">about vague hand waving ideologies</p>
+<p begin="00:28:48.279" end="00:28:52.690" style="s2">that&#39;s very annoying to people who don&#39;t</p>
+<p begin="00:28:50.409" end="00:28:54.639" style="s2">want to think because in order to</p>
+<p begin="00:28:52.690" end="00:28:56.799" style="s2">analyze his claims you&#39;d have to go</p>
+<p begin="00:28:54.639" end="00:28:58.419" style="s2">through well let&#39;s say twenty or thirty</p>
+<p begin="00:28:56.799" end="00:29:00.549" style="s2">scientific papers and actually</p>
+<p begin="00:28:58.419" end="00:29:02.440" style="s2">understand what they mean and that&#39;s</p>
+<p begin="00:29:00.549" end="00:29:06.129" style="s2">very annoying especially if you&#39;re</p>
+<p begin="00:29:02.440" end="00:29:08.769" style="s2">pursuing a given agenda so okay so then</p>
+<p begin="00:29:06.129" end="00:29:11.110" style="s2">you say neither side is 100% correct and</p>
+<p begin="00:29:08.769" end="00:29:13.179" style="s2">both viewpoints are necessary for a</p>
+<p begin="00:29:11.110" end="00:29:15.220" style="s2">functioning society or in this case</p>
+<p begin="00:29:13.179" end="00:29:17.440" style="s2">company yeah well I think the data is</p>
+<p begin="00:29:15.220" end="00:29:19.659" style="s2">solid there too I mean our research has</p>
+<p begin="00:29:17.440" end="00:29:21.730" style="s2">indicated that open people who are</p>
+<p begin="00:29:19.659" end="00:29:24.340" style="s2">primarily liberals start companies and</p>
+<p begin="00:29:21.730" end="00:29:26.110" style="s2">the more closed people the conservatives</p>
+<p begin="00:29:24.340" end="00:29:28.059" style="s2">the traditionalists are good at running</p>
+<p begin="00:29:26.110" end="00:29:30.610" style="s2">them they&#39;re better at letting managers</p>
+<p begin="00:29:28.059" end="00:29:32.230" style="s2">and administrators and that&#39;s associated</p>
+<p begin="00:29:30.610" end="00:29:34.570" style="s2">with high conscientiousness so you&#39;ve</p>
+<p begin="00:29:32.230" end="00:29:36.480" style="s2">got it right there a company too far to</p>
+<p begin="00:29:34.570" end="00:29:39.190" style="s2">the right maybe too slow to react over a</p>
+<p begin="00:29:36.480" end="00:29:42.250" style="s2">hierarchical and untrusted and the</p>
+<p begin="00:29:39.190" end="00:29:44.159" style="s2">company can fire the left will be will</p>
+<p begin="00:29:42.250" end="00:29:46.240" style="s2">over this diversify its interests</p>
+<p begin="00:29:44.159" end="00:29:49.509" style="s2">already trusts its employees and</p>
+<p begin="00:29:46.240" end="00:29:51.009" style="s2">competitors and change perhaps too</p>
+<p begin="00:29:49.509" end="00:29:52.870" style="s2">rapidly yeah great point</p>
+<p begin="00:29:51.009" end="00:29:54.610" style="s2">perfect nicely balanced as far as I can</p>
+<p begin="00:29:52.870" end="00:29:56.559" style="s2">tell only facts and reasons can shed</p>
+<p begin="00:29:54.610" end="00:29:58.360" style="s2">light on these viruses but when it comes</p>
+<p begin="00:29:56.559" end="00:29:59.860" style="s2">to diversity and inclusion Google&#39;s left</p>
+<p begin="00:29:58.360" end="00:30:02.169" style="s2">bias has created the politically correct</p>
+<p begin="00:29:59.860" end="00:30:04.419" style="s2">monoculture that maintains its hold by</p>
+<p begin="00:30:02.169" end="00:30:07.629" style="s2">shaming dissenters into silence well</p>
+<p begin="00:30:04.419" end="00:30:09.730" style="s2">that certainly seems to be the case that</p>
+<p begin="00:30:07.629" end="00:30:11.350" style="s2">okay this silence removes any checks</p>
+<p begin="00:30:09.730" end="00:30:13.870" style="s2">against encroaching extremist and</p>
+<p begin="00:30:11.350" end="00:30:16.360" style="s2">authoritarian policies alright</p>
+<p begin="00:30:13.870" end="00:30:18.970" style="s2">at Google we regularly told that</p>
+<p begin="00:30:16.360" end="00:30:20.230" style="s2">implicit unconscious and explicit biases</p>
+<p begin="00:30:18.970" end="00:30:22.120" style="s2">are holding women back Kentucky</p>
+<p begin="00:30:20.230" end="00:30:24.580" style="s2">leadership of course men and women</p>
+<p begin="00:30:22.120" end="00:30:26.350" style="s2">experience bias tech and workplace</p>
+<p begin="00:30:24.580" end="00:30:27.879" style="s2">differently we should be cognizant of it</p>
+<p begin="00:30:26.350" end="00:30:29.590" style="s2">but it&#39;s far from the whole story on</p>
+<p begin="00:30:27.879" end="00:30:31.480" style="s2">average men and women biologically</p>
+<p begin="00:30:29.590" end="00:30:33.039" style="s2">differ in many ways these aren&#39;t just</p>
+<p begin="00:30:31.480" end="00:30:34.960" style="s2">socially constructed because they&#39;re</p>
+<p begin="00:30:33.039" end="00:30:37.120" style="s2">universal across cultures clear</p>
+<p begin="00:30:34.960" end="00:30:39.970" style="s2">biological causes links to prenatal</p>
+<p begin="00:30:37.120" end="00:30:41.799" style="s2">testosterone biological males castrating</p>
+<p begin="00:30:39.970" end="00:30:43.899" style="s2">at birth and raised as females often</p>
+<p begin="00:30:41.799" end="00:30:45.159" style="s2">still identify an act like males the</p>
+<p begin="00:30:43.899" end="00:30:46.869" style="s2">underlying traits are highly heritable</p>
+<p begin="00:30:45.159" end="00:30:48.399" style="s2">and they&#39;re exactly what we would</p>
+<p begin="00:30:46.869" end="00:30:49.570" style="s2">predict from the evolutionary psychology</p>
+<p begin="00:30:48.399" end="00:30:51.370" style="s2">perspective</p>
+<p begin="00:30:49.570" end="00:30:53.230" style="s2">no I&#39;m not saying that all men differ</p>
+<p begin="00:30:51.370" end="00:30:55.270" style="s2">from women in the following ways or that</p>
+<p begin="00:30:53.230" end="00:30:57.490" style="s2">these differences are just and then you</p>
+<p begin="00:30:55.270" end="00:31:00.100" style="s2">put in a nice chart indicating that a</p>
+<p begin="00:30:57.490" end="00:31:02.530" style="s2">the amount of overlap between men and</p>
+<p begin="00:31:00.100" end="00:31:05.020" style="s2">women portrayed is greater than the</p>
+<p begin="00:31:02.530" end="00:31:07.090" style="s2">amount of difference right and so you</p>
+<p begin="00:31:05.020" end="00:31:08.730" style="s2">state that directly that&#39;s that&#39;s</p>
+<p begin="00:31:07.090" end="00:31:11.950" style="s2">perfect that&#39;s a very good way of</p>
+<p begin="00:31:08.730" end="00:31:13.690" style="s2">defending your thesis and also on not</p>
+<p begin="00:31:11.950" end="00:31:17.860" style="s2">overstating the case then you do a nice</p>
+<p begin="00:31:13.690" end="00:31:20.110" style="s2">job of also graphically indicating what</p>
+<p begin="00:31:17.860" end="00:31:21.670" style="s2">happens if the distribution is ignored</p>
+<p begin="00:31:20.110" end="00:31:23.380" style="s2">and people are just treated as if</p>
+<p begin="00:31:21.670" end="00:31:25.570" style="s2">they&#39;re unipolar representing them</p>
+<p begin="00:31:23.380" end="00:31:27.220" style="s2">something different group which is kind</p>
+<p begin="00:31:25.570" end="00:31:30.040" style="s2">of what the duck put the people who are</p>
+<p begin="00:31:27.220" end="00:31:33.370" style="s2">predicating the push for diversity on</p>
+<p begin="00:31:30.040" end="00:31:35.380" style="s2">gender and race are assuming right which</p>
+<p begin="00:31:33.370" end="00:31:37.270" style="s2">is implement is really so funny because</p>
+<p begin="00:31:35.380" end="00:31:39.630" style="s2">it&#39;s really a biologically essentialist</p>
+<p begin="00:31:37.270" end="00:31:41.530" style="s2">argument much much greater than that</p>
+<p begin="00:31:39.630" end="00:31:45.340" style="s2">then the argument that you&#39;re making</p>
+<p begin="00:31:41.530" end="00:31:47.230" style="s2">which is that men and women and the</p>
+<p begin="00:31:45.340" end="00:31:50.380" style="s2">members of different races are so</p>
+<p begin="00:31:47.230" end="00:31:52.390" style="s2">different that in order for a full</p>
+<p begin="00:31:50.380" end="00:31:55.090" style="s2">diversity of viewpoint to be achieved</p>
+<p begin="00:31:52.390" end="00:31:57.790" style="s2">you have to pull in people by race and</p>
+<p begin="00:31:55.090" end="00:32:00.340" style="s2">gender which which implicitly states</p>
+<p begin="00:31:57.790" end="00:32:03.250" style="s2">that the differences are so great that</p>
+<p begin="00:32:00.340" end="00:32:06.000" style="s2">the distribution stole over model yeah</p>
+<p begin="00:32:03.250" end="00:32:09.040" style="s2">you couldn&#39;t make a more racist and</p>
+<p begin="00:32:06.000" end="00:32:10.810" style="s2">misogynist statement than that and it&#39;s</p>
+<p begin="00:32:09.040" end="00:32:12.460" style="s2">and it&#39;s also technically wrong because</p>
+<p begin="00:32:10.810" end="00:32:14.710" style="s2">men and women are more alike than they</p>
+<p begin="00:32:12.460" end="00:32:16.110" style="s2">are different maybe if you summed up all</p>
+<p begin="00:32:14.710" end="00:32:18.760" style="s2">the differences you can absolutely</p>
+<p begin="00:32:16.110" end="00:32:20.440" style="s2">differentiate between you know in all</p>
+<p begin="00:32:18.760" end="00:32:22.090" style="s2">likelihood you could but some of those</p>
+<p begin="00:32:20.440" end="00:32:24.460" style="s2">differences are clearly irrelevant to</p>
+<p begin="00:32:22.090" end="00:32:26.380" style="s2">the workplace okay then you go through</p>
+<p begin="00:32:24.460" end="00:32:29.170" style="s2">the personality difference literature</p>
+<p begin="00:32:26.380" end="00:32:32.530" style="s2">and you&#39;re you&#39;re exactly right on that</p>
+<p begin="00:32:29.170" end="00:32:35.200" style="s2">I see that the CEO took you to task</p>
+<p begin="00:32:32.530" end="00:32:36.850" style="s2">for using the word neuroticism however</p>
+<p begin="00:32:35.200" end="00:32:38.260" style="s2">that is the technical term in the</p>
+<p begin="00:32:36.850" end="00:32:40.390" style="s2">personality literature and there are</p>
+<p begin="00:32:38.260" end="00:32:43.090" style="s2">historical reasons for that a better</p>
+<p begin="00:32:40.390" end="00:32:44.590" style="s2">word might be negative emotion but it&#39;s</p>
+<p begin="00:32:43.090" end="00:32:46.210" style="s2">clearly the case that women are higher</p>
+<p begin="00:32:44.590" end="00:32:49.090" style="s2">in negative emotion than men and that</p>
+<p begin="00:32:46.210" end="00:32:51.190" style="s2">means that they are on average less</p>
+<p begin="00:32:49.090" end="00:32:53.250" style="s2">tolerant of uncertainty and stress they</p>
+<p begin="00:32:51.190" end="00:32:56.680" style="s2">suffer more psychologically for</p>
+<p begin="00:32:53.250" end="00:32:59.200" style="s2">equivalent levels of uncertainty stress</p>
+<p begin="00:32:56.680" end="00:33:01.180" style="s2">and that is also why cross culturally</p>
+<p begin="00:32:59.200" end="00:33:03.190" style="s2">women have more depressive disorders and</p>
+<p begin="00:33:01.180" end="00:33:03.490" style="s2">anxiety disorders and the research on</p>
+<p begin="00:33:03.190" end="00:33:06.670" style="s2">now</p>
+<p begin="00:33:03.490" end="00:33:08.320" style="s2">rock solid rock solid men have their own</p>
+<p begin="00:33:06.670" end="00:33:10.030" style="s2">problems right they&#39;re more likely to be</p>
+<p begin="00:33:08.320" end="00:33:10.929" style="s2">antisocial they&#39;re much more likely to</p>
+<p begin="00:33:10.030" end="00:33:12.220" style="s2">be in prison</p>
+<p begin="00:33:10.929" end="00:33:15.820" style="s2">they&#39;re more likely to have learning</p>
+<p begin="00:33:12.220" end="00:33:17.559" style="s2">disabilities so it&#39;s stating that there</p>
+<p begin="00:33:15.820" end="00:33:19.300" style="s2">are differences in the race of certain</p>
+<p begin="00:33:17.559" end="00:33:21.309" style="s2">kinds of psychopathologies doesn&#39;t put</p>
+<p begin="00:33:19.300" end="00:33:25.800" style="s2">any pride of gender into a position of</p>
+<p begin="00:33:21.309" end="00:33:28.720" style="s2">relative inferiority so and then you</p>
+<p begin="00:33:25.800" end="00:33:30.640" style="s2">quote research that suggests that</p>
+<p begin="00:33:28.720" end="00:33:33.100" style="s2">greater nation level gender equality</p>
+<p begin="00:33:30.640" end="00:33:34.630" style="s2">leads to psychological dissimilarity if</p>
+<p begin="00:33:33.100" end="00:33:36.880" style="s2">similarity in men and women&#39;s</p>
+<p begin="00:33:34.630" end="00:33:38.710" style="s2">personality traits absolutely that&#39;s</p>
+<p begin="00:33:36.880" end="00:33:40.000" style="s2">what the Scandinavian studies indicate</p>
+<p begin="00:33:38.710" end="00:33:42.760" style="s2">there&#39;s been a number of them and</p>
+<p begin="00:33:40.000" end="00:33:44.440" style="s2">they&#39;re very large studies so you got</p>
+<p begin="00:33:42.760" end="00:33:47.190" style="s2">that right but what does what the</p>
+<p begin="00:33:44.440" end="00:33:54.280" style="s2">researchers demonstrated was that as</p>
+<p begin="00:33:47.190" end="00:33:56.260" style="s2">calm as countries move to flatten out</p>
+<p begin="00:33:54.280" end="00:33:59.200" style="s2">the socio-economic playing field and</p>
+<p begin="00:33:56.260" end="00:34:00.790" style="s2">remove discrimination the differences</p>
+<p begin="00:33:59.200" end="00:34:02.170" style="s2">between men and women or many of the</p>
+<p begin="00:34:00.790" end="00:34:05.200" style="s2">differences between men and women</p>
+<p begin="00:34:02.170" end="00:34:07.900" style="s2">maximize instead of minimizing and in</p>
+<p begin="00:34:05.200" end="00:34:09.609" style="s2">Scandinavia you really see maximization</p>
+<p begin="00:34:07.900" end="00:34:11.320" style="s2">of the difference in men and women with</p>
+<p begin="00:34:09.609" end="00:34:14.369" style="s2">regards to interest in people versus</p>
+<p begin="00:34:11.320" end="00:34:18.190" style="s2">interests and things a major graduation</p>
+<p begin="00:34:14.369" end="00:34:19.960" style="s2">man tired drive for status yeah well we</p>
+<p begin="00:34:18.190" end="00:34:21.490" style="s2">know that women are high pergamus and</p>
+<p begin="00:34:19.960" end="00:34:23.350" style="s2">that they choose men on the basis of</p>
+<p begin="00:34:21.490" end="00:34:25.659" style="s2">their socioeconomic status right well</p>
+<p begin="00:34:23.350" end="00:34:29.679" style="s2">document and cross culture and also just</p>
+<p begin="00:34:25.659" end="00:34:32.020" style="s2">rationale because women have to make</p>
+<p begin="00:34:29.679" end="00:34:33.580" style="s2">themselves dependent when they are</p>
+<p begin="00:34:32.020" end="00:34:35.440" style="s2">pregnant and when they have infants and</p>
+<p begin="00:34:33.580" end="00:34:37.179" style="s2">it makes perfect sense for them to seek</p>
+<p begin="00:34:35.440" end="00:34:39.820" style="s2">out the most competent person they can</p>
+<p begin="00:34:37.179" end="00:34:41.350" style="s2">manage the most common and generous</p>
+<p begin="00:34:39.820" end="00:34:45.790" style="s2">person they can manage in order to help</p>
+<p begin="00:34:41.350" end="00:34:51.540" style="s2">them bear the burden so so not no no</p>
+<p begin="00:34:45.790" end="00:34:54.520" style="s2">dispute there at least no you&#39;re not</p>
+<p begin="00:34:51.540" end="00:34:56.800" style="s2">diverting from the central tenets of</p>
+<p begin="00:34:54.520" end="00:35:00.190" style="s2">evolutionary psychology and biology</p>
+<p begin="00:34:56.800" end="00:35:02.710" style="s2">people will detest those fine but you&#39;re</p>
+<p begin="00:35:00.190" end="00:35:04.330" style="s2">not conjuring this out of thin air</p>
+<p begin="00:35:02.710" end="00:35:08.320" style="s2">there&#39;s a nice sort of scientific</p>
+<p begin="00:35:04.330" end="00:35:11.320" style="s2">literature behind you so and you know</p>
+<p begin="00:35:08.320" end="00:35:14.770" style="s2">it&#39;s also very interesting to look at</p>
+<p begin="00:35:11.320" end="00:35:16.900" style="s2">the US labor stats on gender differences</p>
+<p begin="00:35:14.770" end="00:35:18.700" style="s2">in occupations you know because</p>
+<p begin="00:35:16.900" end="00:35:20.650" style="s2">it&#39;s so funny to watch the radical</p>
+<p begin="00:35:18.700" end="00:35:22.390" style="s2">feminists only go after the high status</p>
+<p begin="00:35:20.650" end="00:35:26.170" style="s2">occupations that&#39;s like a hundred</p>
+<p begin="00:35:22.390" end="00:35:28.569" style="s2">percent of bricklayers or men we don&#39;t</p>
+<p begin="00:35:26.170" end="00:35:30.430" style="s2">hear that being being complained about</p>
+<p begin="00:35:28.569" end="00:35:32.469" style="s2">and of course men occupy most of the</p>
+<p begin="00:35:30.430" end="00:35:34.180" style="s2">outside jobs they move more and they</p>
+<p begin="00:35:32.469" end="00:35:37.869" style="s2">will do more of the dangerous jobs as</p>
+<p begin="00:35:34.180" end="00:35:41.400" style="s2">well so so these are all factors that</p>
+<p begin="00:35:37.869" end="00:35:43.599" style="s2">are irrelevant but completely</p>
+<p begin="00:35:41.400" end="00:35:45.339" style="s2">undiscussed as far as I can tell by the</p>
+<p begin="00:35:43.599" end="00:35:49.509" style="s2">sort of ideological types that have been</p>
+<p begin="00:35:45.339" end="00:35:51.880" style="s2">going after you so women are now is more</p>
+<p begin="00:35:49.509" end="00:35:54.430" style="s2">cooperative yeah especially with members</p>
+<p begin="00:35:51.880" end="00:35:56.049" style="s2">of their in-group whether they&#39;re more</p>
+<p begin="00:35:54.430" end="00:35:57.719" style="s2">cooperative with members of their out</p>
+<p begin="00:35:56.049" end="00:36:00.400" style="s2">group is a different story right because</p>
+<p begin="00:35:57.719" end="00:36:02.589" style="s2">agreeable people are in group oriented</p>
+<p begin="00:36:00.400" end="00:36:04.900" style="s2">and very hard on out group members which</p>
+<p begin="00:36:02.589" end="00:36:07.960" style="s2">i think is partly why the pc types are</p>
+<p begin="00:36:04.900" end="00:36:10.719" style="s2">so hard on their enemies because you are</p>
+<p begin="00:36:07.960" end="00:36:12.969" style="s2">them as predators predators on instance</p>
+<p begin="00:36:10.719" end="00:36:15.099" style="s2">essentially something like that women on</p>
+<p begin="00:36:12.969" end="00:36:19.719" style="s2">average are more prone to anxiety yes</p>
+<p begin="00:36:15.099" end="00:36:22.359" style="s2">that&#39;s true women on average look for</p>
+<p begin="00:36:19.719" end="00:36:23.920" style="s2">more work-life balance that seems to be</p>
+<p begin="00:36:22.359" end="00:36:27.009" style="s2">the case I don&#39;t know if the literature</p>
+<p begin="00:36:23.920" end="00:36:29.200" style="s2">on that is tight you know but it&#39;s</p>
+<p begin="00:36:27.009" end="00:36:31.539" style="s2">certainly the case that law firms for</p>
+<p begin="00:36:29.200" end="00:36:34.119" style="s2">example how the hell did keeping their</p>
+<p begin="00:36:31.539" end="00:36:35.799" style="s2">women in partnership positions because</p>
+<p begin="00:36:34.119" end="00:36:38.589" style="s2">most of them don&#39;t want to work the</p>
+<p begin="00:36:35.799" end="00:36:41.049" style="s2">60-hour workweek 60 to 80 hour work</p>
+<p begin="00:36:38.589" end="00:36:45.400" style="s2">weeks that are necessary to performance</p>
+<p begin="00:36:41.049" end="00:36:47.229" style="s2">out that extremely high level and so dr.</p>
+<p begin="00:36:45.400" end="00:36:49.479" style="s2">Peterson for anybody who might be new</p>
+<p begin="00:36:47.229" end="00:36:53.349" style="s2">listening in you mentioned that a lot of</p>
+<p begin="00:36:49.479" end="00:36:55.660" style="s2">women might not be you know interested</p>
+<p begin="00:36:53.349" end="00:36:57.400" style="s2">in working there&#39;s a 60 to 80 hour work</p>
+<p begin="00:36:55.660" end="00:36:59.499" style="s2">week do you think would make sense to</p>
+<p begin="00:36:57.400" end="00:37:01.960" style="s2">expand upon that just a little bit I</p>
+<p begin="00:36:59.499" end="00:37:03.309" style="s2">know you talked through hypergamy um but</p>
+<p begin="00:37:01.960" end="00:37:05.739" style="s2">you&#39;ve also mentioned the thing about</p>
+<p begin="00:37:03.309" end="00:37:07.989" style="s2">why would anybody want to do that no</p>
+<p begin="00:37:05.739" end="00:37:11.469" style="s2">matter what in gender is we got to get</p>
+<p begin="00:37:07.989" end="00:37:13.210" style="s2">the misters right here the mystery isn&#39;t</p>
+<p begin="00:37:11.469" end="00:37:16.150" style="s2">why there are a bunch of people who are</p>
+<p begin="00:37:13.210" end="00:37:18.369" style="s2">low status because almost everyone&#39;s low</p>
+<p begin="00:37:16.150" end="00:37:20.859" style="s2">status comparatively speaking right men</p>
+<p begin="00:37:18.369" end="00:37:22.779" style="s2">and women life it&#39;s a small kind of</p>
+<p begin="00:37:20.859" end="00:37:25.150" style="s2">minority of people who are high status</p>
+<p begin="00:37:22.779" end="00:37:27.400" style="s2">on any dimension and they tend to be</p>
+<p begin="00:37:25.150" end="00:37:30.660" style="s2">hyper successful and they tend to be men</p>
+<p begin="00:37:27.400" end="00:37:34.589" style="s2">so you see this in scientific publishing</p>
+<p begin="00:37:30.660" end="00:37:36.750" style="s2">so the median professor mail publishes</p>
+<p begin="00:37:34.589" end="00:37:39.059" style="s2">as much as the median professor female</p>
+<p begin="00:37:36.750" end="00:37:41.519" style="s2">but the vast majority of the high</p>
+<p begin="00:37:39.059" end="00:37:43.799" style="s2">publishing people are males and that</p>
+<p begin="00:37:41.519" end="00:37:45.809" style="s2">seems to be because there are a small</p>
+<p begin="00:37:43.799" end="00:37:48.299" style="s2">percentage of males who are very stout</p>
+<p begin="00:37:45.809" end="00:37:50.819" style="s2">to seek very focused very energetic and</p>
+<p begin="00:37:48.299" end="00:37:54.240" style="s2">and very much prone to put their career</p>
+<p begin="00:37:50.819" end="00:37:58.980" style="s2">first and part of the theories for why</p>
+<p begin="00:37:54.240" end="00:38:02.549" style="s2">that is that some men are that that that</p>
+<p begin="00:37:58.980" end="00:38:04.829" style="s2">the evolutionary and sexual trade-off</p>
+<p begin="00:38:02.549" end="00:38:06.720" style="s2">for men with regards to high status is</p>
+<p begin="00:38:04.829" end="00:38:08.579" style="s2">much higher than it is for women so</p>
+<p begin="00:38:06.720" end="00:38:11.910" style="s2">there&#39;s good documentation I can find</p>
+<p begin="00:38:08.579" end="00:38:14.190" style="s2">these references to that the number of</p>
+<p begin="00:38:11.910" end="00:38:16.140" style="s2">sexual partners or opportunities that a</p>
+<p begin="00:38:14.190" end="00:38:18.529" style="s2">man has in previous year is tightly</p>
+<p begin="00:38:16.140" end="00:38:20.940" style="s2">associated with the socioeconomic status</p>
+<p begin="00:38:18.529" end="00:38:22.529" style="s2">whereas the number of partners or</p>
+<p begin="00:38:20.940" end="00:38:24.660" style="s2">opportunities for partnering that a</p>
+<p begin="00:38:22.529" end="00:38:27.089" style="s2">woman has is negatively correlated with</p>
+<p begin="00:38:24.660" end="00:38:29.009" style="s2">her status and that might be partly</p>
+<p begin="00:38:27.089" end="00:38:31.140" style="s2">because high status women who are</p>
+<p begin="00:38:29.009" end="00:38:33.269" style="s2">looking for either even higher status</p>
+<p begin="00:38:31.140" end="00:38:35.009" style="s2">men priced themselves out of the mating</p>
+<p begin="00:38:33.269" end="00:38:38.609" style="s2">market and there&#39;s actually pretty good</p>
+<p begin="00:38:35.009" end="00:38:42.380" style="s2">documentation of that as well so so</p>
+<p begin="00:38:38.609" end="00:38:46.740" style="s2">you&#39;re fine you&#39;re fine with all of that</p>
+<p begin="00:38:42.380" end="00:38:48.210" style="s2">the harm of those biases to achieve a</p>
+<p begin="00:38:46.740" end="00:38:49.950" style="s2">more equal gender and race</p>
+<p begin="00:38:48.210" end="00:38:51.660" style="s2">representation Hoople has created</p>
+<p begin="00:38:49.950" end="00:38:54.089" style="s2">several discriminatory practices</p>
+<p begin="00:38:51.660" end="00:38:55.950" style="s2">programs mentoring in classes only for</p>
+<p begin="00:38:54.089" end="00:38:57.690" style="s2">people with a certain gender or race a</p>
+<p begin="00:38:55.950" end="00:38:59.279" style="s2">high priority queue and special</p>
+<p begin="00:38:57.690" end="00:39:01.559" style="s2">treatment for diversity candidates</p>
+<p begin="00:38:59.279" end="00:39:03.779" style="s2">hiring practices which can effectively</p>
+<p begin="00:39:01.559" end="00:39:05.309" style="s2">lower the bar for diversity candidates</p>
+<p begin="00:39:03.779" end="00:39:07.859" style="s2">by decreasing the false negative rate</p>
+<p begin="00:39:05.309" end="00:39:10.140" style="s2">yeah that&#39;s a big problem either have</p>
+<p begin="00:39:07.859" end="00:39:12.660" style="s2">standards or they don&#39;t the process is</p>
+<p begin="00:39:10.140" end="00:39:14.640" style="s2">that if the standards produce a non</p>
+<p begin="00:39:12.660" end="00:39:16.680" style="s2">equitable outcome then what happens is</p>
+<p begin="00:39:14.640" end="00:39:19.380" style="s2">people criticize the standards and that</p>
+<p begin="00:39:16.680" end="00:39:22.769" style="s2">would be fine if the standards board no</p>
+<p begin="00:39:19.380" end="00:39:24.660" style="s2">relationship to the job but the problem</p>
+<p begin="00:39:22.769" end="00:39:26.670" style="s2">is is that if you have your hiring</p>
+<p begin="00:39:24.660" end="00:39:29.730" style="s2">practices set up halfway intelligently</p>
+<p begin="00:39:26.670" end="00:39:31.759" style="s2">and it&#39;s never perfect you&#39;re actually</p>
+<p begin="00:39:29.730" end="00:39:36.200" style="s2">hiring for out to buttes that would make</p>
+<p begin="00:39:31.759" end="00:39:38.579" style="s2">job detecting this much more likely yeah</p>
+<p begin="00:39:36.200" end="00:39:42.340" style="s2">so how did you come across all this</p>
+<p begin="00:39:38.579" end="00:39:46.240" style="s2">information part of it was through that</p>
+<p begin="00:39:42.340" end="00:39:48.430" style="s2">versity summit and just looking through</p>
+<p begin="00:39:46.240" end="00:39:51.820" style="s2">all the stuff that we have online or</p>
+<p begin="00:39:48.430" end="00:39:53.680" style="s2">into our internal sites yes oh yeah</p>
+<p begin="00:39:51.820" end="00:39:59.740" style="s2">doing a fair bit of literature review</p>
+<p begin="00:39:53.680" end="00:40:01.510" style="s2">yeah yeah these practices are based on</p>
+<p begin="00:39:59.740" end="00:40:03.490" style="s2">false assumptions generated by our</p>
+<p begin="00:40:01.510" end="00:40:05.800" style="s2">biases and can actually increase race</p>
+<p begin="00:40:03.490" end="00:40:07.930" style="s2">and gender tensions yeah well the whole</p>
+<p begin="00:40:05.800" end="00:40:09.820" style="s2">unconscious bias thing is a great</p>
+<p begin="00:40:07.930" end="00:40:11.860" style="s2">example of that is like first of all</p>
+<p begin="00:40:09.820" end="00:40:15.670" style="s2">those tests the implicit association</p>
+<p begin="00:40:11.860" end="00:40:16.960" style="s2">test are nowhere near reliable or valid</p>
+<p begin="00:40:15.670" end="00:40:20.470" style="s2">enough so nowhere near the quality</p>
+<p begin="00:40:16.960" end="00:40:26.470" style="s2">necessary to diagnose anyone as having a</p>
+<p begin="00:40:20.470" end="00:40:28.450" style="s2">unconscious bias second second the data</p>
+<p begin="00:40:26.470" end="00:40:30.660" style="s2">relating those so-called unconscious</p>
+<p begin="00:40:28.450" end="00:40:33.280" style="s2">biases to actual behavior is weak</p>
+<p begin="00:40:30.660" end="00:40:35.620" style="s2">third there&#39;s no evidence whatsoever</p>
+<p begin="00:40:33.280" end="00:40:37.450" style="s2">that anti unconscious bias training</p>
+<p begin="00:40:35.620" end="00:40:39.250" style="s2">programs have any positive effect</p>
+<p begin="00:40:37.450" end="00:40:41.560" style="s2">whatsoever and some that they have</p>
+<p begin="00:40:39.250" end="00:40:43.560" style="s2">negative effect the car because people</p>
+<p begin="00:40:41.560" end="00:40:46.120" style="s2">don&#39;t like to be called racists and</p>
+<p begin="00:40:43.560" end="00:40:49.480" style="s2">marched off to forestry education</p>
+<p begin="00:40:46.120" end="00:40:51.550" style="s2">training so suggestions demoralize</p>
+<p begin="00:40:49.480" end="00:40:53.830" style="s2">diversity yeah that would be good and</p>
+<p begin="00:40:51.550" end="00:40:56.470" style="s2">start to define it more appropriately</p>
+<p begin="00:40:53.830" end="00:40:58.240" style="s2">right then just to start having a real</p>
+<p begin="00:40:56.470" end="00:41:00.070" style="s2">conversation about what proper hiring</p>
+<p begin="00:40:58.240" end="00:41:02.860" style="s2">practices should be which should be</p>
+<p begin="00:41:00.070" end="00:41:05.800" style="s2">objective standards universally applied</p>
+<p begin="00:41:02.860" end="00:41:07.900" style="s2">without bias because that is the best we</p>
+<p begin="00:41:05.800" end="00:41:09.940" style="s2">can do that&#39;s still going to introduce</p>
+<p begin="00:41:07.900" end="00:41:11.800" style="s2">some non equal outcomes but of course</p>
+<p begin="00:41:09.940" end="00:41:14.500" style="s2">hiring practices are designed to do that</p>
+<p begin="00:41:11.800" end="00:41:17.320" style="s2">for exactly clearly designed to reward</p>
+<p begin="00:41:14.500" end="00:41:20.950" style="s2">more intelligent people Evan that is</p>
+<p begin="00:41:17.320" end="00:41:21.580" style="s2">highly heritable that&#39;s actually a real</p>
+<p begin="00:41:20.950" end="00:41:25.060" style="s2">problem</p>
+<p begin="00:41:21.580" end="00:41:27.960" style="s2">yeah and we definitely set up hiring</p>
+<p begin="00:41:25.060" end="00:41:32.140" style="s2">practices to reward conscientious people</p>
+<p begin="00:41:27.960" end="00:41:35.200" style="s2">so and what are when what about</p>
+<p begin="00:41:32.140" end="00:41:36.580" style="s2">propensity to negative emotion it seems</p>
+<p begin="00:41:35.200" end="00:41:38.020" style="s2">to me the screening for stress tolerance</p>
+<p begin="00:41:36.580" end="00:41:39.760" style="s2">is a reasonable thing to do in</p>
+<p begin="00:41:38.020" end="00:41:41.050" style="s2">high-stress jobs unless you want to put</p>
+<p begin="00:41:39.760" end="00:41:44.170" style="s2">the person in a position where they&#39;re</p>
+<p begin="00:41:41.050" end="00:41:47.740" style="s2">likely to collapse to be miserable I</p>
+<p begin="00:41:44.170" end="00:41:49.270" style="s2">don&#39;t see any ability it not dr.</p>
+<p begin="00:41:47.740" end="00:41:52.090" style="s2">Peterson I had a question actually</p>
+<p begin="00:41:49.270" end="00:41:56.200" style="s2">relating to that from an employment</p>
+<p begin="00:41:52.090" end="00:41:59.140" style="s2">standpoint is there an optimum</p>
+<p begin="00:41:56.200" end="00:42:01.839" style="s2">to stress that you&#39;ve seen from the most</p>
+<p begin="00:41:59.140" end="00:42:03.880" style="s2">economically productive employees by</p>
+<p begin="00:42:01.839" end="00:42:06.900" style="s2">that I mean I feel like there&#39;s a middle</p>
+<p begin="00:42:03.880" end="00:42:11.010" style="s2">ground between people who are laid-back</p>
+<p begin="00:42:06.900" end="00:42:15.099" style="s2">versus people who are probably</p>
+<p begin="00:42:11.010" end="00:42:16.960" style="s2">overstimulated by external factors that</p>
+<p begin="00:42:15.099" end="00:42:19.180" style="s2">make them self-conscious and these</p>
+<p begin="00:42:16.960" end="00:42:21.670" style="s2">people I think at least at the lower mid</p>
+<p begin="00:42:19.180" end="00:42:23.290" style="s2">levels of many companies actually have a</p>
+<p begin="00:42:21.670" end="00:42:25.240" style="s2">little bit more anxiety that powers</p>
+<p begin="00:42:23.290" end="00:42:25.990" style="s2">their ascension through the dominant</p>
+<p begin="00:42:25.240" end="00:42:28.000" style="s2">hierarchy</p>
+<p begin="00:42:25.990" end="00:42:31.300" style="s2">yeah well it&#39;s a tricky issue because</p>
+<p begin="00:42:28.000" end="00:42:33.339" style="s2">you&#39;re probably the sort of negative</p>
+<p begin="00:42:31.300" end="00:42:34.930" style="s2">emotion that might be useful in</p>
+<p begin="00:42:33.339" end="00:42:36.820" style="s2">motivating you is probably more</p>
+<p begin="00:42:34.930" end="00:42:39.339" style="s2">associated with conscientiousness fed</p>
+<p begin="00:42:36.820" end="00:42:41.380" style="s2">with neuroticism like neuroticism seems</p>
+<p begin="00:42:39.339" end="00:42:43.180" style="s2">to be late pretty tightly to anxiety and</p>
+<p begin="00:42:41.380" end="00:42:45.490" style="s2">emotional pain frustration</p>
+<p begin="00:42:43.180" end="00:42:48.579" style="s2">disappointment grief those all sort of</p>
+<p begin="00:42:45.490" end="00:42:49.599" style="s2">fit in those categories whereas the</p>
+<p begin="00:42:48.579" end="00:42:50.829" style="s2">negative emotion</p>
+<p begin="00:42:49.599" end="00:42:53.109" style="s2">perhaps that&#39;s associated with</p>
+<p begin="00:42:50.829" end="00:42:54.520" style="s2">conscientiousness and industriousness in</p>
+<p begin="00:42:53.109" end="00:42:58.170" style="s2">particular seems to be more something</p>
+<p begin="00:42:54.520" end="00:43:00.910" style="s2">like self contempt and disgust and so</p>
+<p begin="00:42:58.170" end="00:43:03.339" style="s2">conscientious people are made</p>
+<p begin="00:43:00.910" end="00:43:06.190" style="s2">uncomfortable by their lack of</p>
+<p begin="00:43:03.339" end="00:43:08.020" style="s2">productive efforts but that doesn&#39;t seem</p>
+<p begin="00:43:06.190" end="00:43:12.099" style="s2">to be associated with trade neuroticism</p>
+<p begin="00:43:08.020" end="00:43:13.839" style="s2">it&#39;s a different thing so that&#39;s partly</p>
+<p begin="00:43:12.099" end="00:43:15.579" style="s2">why it&#39;s so necessary to get the cycle</p>
+<p begin="00:43:13.839" end="00:43:17.290" style="s2">metrics right right and to get the to</p>
+<p begin="00:43:15.579" end="00:43:19.990" style="s2">get the measurement right so the best</p>
+<p begin="00:43:17.290" end="00:43:22.060" style="s2">hiring the best hiring screeners are</p>
+<p begin="00:43:19.990" end="00:43:25.359" style="s2">committing five personality tests</p>
+<p begin="00:43:22.060" end="00:43:26.829" style="s2">roughly speaking especially weighted</p>
+<p begin="00:43:25.359" end="00:43:28.750" style="s2">towards conscientiousness and for</p>
+<p begin="00:43:26.829" end="00:43:31.200" style="s2">complex jobs and general cognitive</p>
+<p begin="00:43:28.750" end="00:43:33.640" style="s2">ability tests although there&#39;s some</p>
+<p begin="00:43:31.200" end="00:43:35.200" style="s2">question about the legality of those in</p>
+<p begin="00:43:33.640" end="00:43:40.210" style="s2">the current political situation</p>
+<p begin="00:43:35.200" end="00:43:42.190" style="s2">so all alienating conservatives is both</p>
+<p begin="00:43:40.210" end="00:43:43.569" style="s2">non inclusive and generally bad business</p>
+<p begin="00:43:42.190" end="00:43:45.250" style="s2">because conservatives tend to be higher</p>
+<p begin="00:43:43.569" end="00:43:46.869" style="s2">in conscientiousness which is required</p>
+<p begin="00:43:45.250" end="00:43:49.589" style="s2">for much of the jury maintenance work</p>
+<p begin="00:43:46.869" end="00:43:50.819" style="s2">characteristic of a mature company yes</p>
+<p begin="00:43:49.589" end="00:43:56.980" style="s2">absolutely</p>
+<p begin="00:43:50.819" end="00:43:58.869" style="s2">so now here&#39;s what you suggest confront</p>
+<p begin="00:43:56.980" end="00:44:01.810" style="s2">Google&#39;s biases well you&#39;ve done that</p>
+<p begin="00:43:58.869" end="00:44:03.640" style="s2">we&#39;ve seen how that went I would start</p>
+<p begin="00:44:01.810" end="00:44:05.530" style="s2">by breaking down Google is Scoresby</p>
+<p begin="00:44:03.640" end="00:44:07.150" style="s2">political orientation and personality to</p>
+<p begin="00:44:05.530" end="00:44:09.190" style="s2">give a fuller picture into how our</p>
+<p begin="00:44:07.150" end="00:44:09.540" style="s2">biases are affecting our culture that&#39;s</p>
+<p begin="00:44:09.190" end="00:44:12.510" style="s2">a</p>
+<p begin="00:44:09.540" end="00:44:14.910" style="s2">find idea stop restricting programs and</p>
+<p begin="00:44:12.510" end="00:44:17.970" style="s2">clauses to certain genders or raises yes</p>
+<p begin="00:44:14.910" end="00:44:19.380" style="s2">well obviously I&#39;m going on an honest</p>
+<p begin="00:44:17.970" end="00:44:22.200" style="s2">discussion about the costs and benefits</p>
+<p begin="00:44:19.380" end="00:44:23.430" style="s2">of our diversity programs well I guess</p>
+<p begin="00:44:22.200" end="00:44:26.220" style="s2">that&#39;s what we&#39;re trying to end right</p>
+<p begin="00:44:23.430" end="00:44:28.230" style="s2">now disseminating just to increase the</p>
+<p begin="00:44:26.220" end="00:44:30.840" style="s2">representation of women in tech is a</p>
+<p begin="00:44:28.230" end="00:44:32.700" style="s2">misguided and biases mandating increases</p>
+<p begin="00:44:30.840" end="00:44:34.920" style="s2">for women&#39;s representation homeless</p>
+<p begin="00:44:32.700" end="00:44:38.280" style="s2">work-related in violent deaths prisons</p>
+<p begin="00:44:34.920" end="00:44:40.680" style="s2">and school dropouts yes it&#39;s the same</p>
+<p begin="00:44:38.280" end="00:44:42.210" style="s2">thing it&#39;s the same issue as the</p>
+<p begin="00:44:40.680" end="00:44:43.440" style="s2">bricklayer issue as well and what are</p>
+<p begin="00:44:42.210" end="00:44:45.510" style="s2">you going to do is going to chase the</p>
+<p begin="00:44:43.440" end="00:44:48.360" style="s2">nurses out of women out of nursing and</p>
+<p begin="00:44:45.510" end="00:44:50.790" style="s2">men and psychology and social work and</p>
+<p begin="00:44:48.360" end="00:44:52.530" style="s2">add University undergraduate programs</p>
+<p begin="00:44:50.790" end="00:44:54.690" style="s2">where they&#39;re radically over-represented</p>
+<p begin="00:44:52.530" end="00:44:56.970" style="s2">so what about juniors you&#39;re going to</p>
+<p begin="00:44:54.690" end="00:44:58.920" style="s2">get rid of them too and they&#39;re</p>
+<p begin="00:44:56.970" end="00:45:02.670" style="s2">over-represented in most complex</p>
+<p begin="00:44:58.920" end="00:45:04.230" style="s2">occupations and Asians as well so or</p>
+<p begin="00:45:02.670" end="00:45:06.000" style="s2">your honor you&#39;re only going to do this</p>
+<p begin="00:45:04.230" end="00:45:07.080" style="s2">in very limited circumstance you&#39;re</p>
+<p begin="00:45:06.000" end="00:45:09.270" style="s2">going to figure out some way to put a</p>
+<p begin="00:45:07.080" end="00:45:14.220" style="s2">limit on that or you seems very unlikely</p>
+<p begin="00:45:09.270" end="00:45:16.230" style="s2">I almost wonder what the ADL is you know</p>
+<p begin="00:45:14.220" end="00:45:18.900" style="s2">we&#39;ll be thinking six six months from</p>
+<p begin="00:45:16.230" end="00:45:21.240" style="s2">now or twelve months from now given the</p>
+<p begin="00:45:18.900" end="00:45:23.610" style="s2">high number of at least in the United</p>
+<p begin="00:45:21.240" end="00:45:26.010" style="s2">States Austin rowser Jews in leadership</p>
+<p begin="00:45:23.610" end="00:45:28.380" style="s2">positions at companies that are</p>
+<p begin="00:45:26.010" end="00:45:29.730" style="s2">advocating for less of themselves or</p>
+<p begin="00:45:28.380" end="00:45:32.220" style="s2">less people who are in the budget that</p>
+<p begin="00:45:29.730" end="00:45:33.570" style="s2">they&#39;re in yeah well as long as the</p>
+<p begin="00:45:32.220" end="00:45:35.640" style="s2">discussion centers on the</p>
+<p begin="00:45:33.570" end="00:45:38.070" style="s2">over-representation of white men people</p>
+<p begin="00:45:35.640" end="00:45:40.790" style="s2">seem to have no problem but you start to</p>
+<p begin="00:45:38.070" end="00:45:43.370" style="s2">break that down a little bit and because</p>
+<p begin="00:45:40.790" end="00:45:45.060" style="s2">Jewish white men are particularly</p>
+<p begin="00:45:43.370" end="00:45:47.040" style="s2">over-represented that&#39;s why we can make</p>
+<p begin="00:45:45.060" end="00:45:50.370" style="s2">an issue out of that really you&#39;re going</p>
+<p begin="00:45:47.040" end="00:45:51.690" style="s2">to do that so now Asians are already</p>
+<p begin="00:45:50.370" end="00:45:54.810" style="s2">having a harder time getting into</p>
+<p begin="00:45:51.690" end="00:45:57.000" style="s2">universities so that&#39;s well documented</p>
+<p begin="00:45:54.810" end="00:45:58.590" style="s2">so and that that&#39;s a terrible thing</p>
+<p begin="00:45:57.000" end="00:46:01.200" style="s2">partly because of the cost to the</p>
+<p begin="00:45:58.590" end="00:46:02.790" style="s2">individuals involved but also the cost</p>
+<p begin="00:46:01.200" end="00:46:04.260" style="s2">to society because it means that we&#39;re</p>
+<p begin="00:46:02.790" end="00:46:06.840" style="s2">not taking the people who are most</p>
+<p begin="00:46:04.260" end="00:46:08.730" style="s2">competent and allowing them to expand</p>
+<p begin="00:46:06.840" end="00:46:10.980" style="s2">their education to the greatest degree</p>
+<p begin="00:46:08.730" end="00:46:12.930" style="s2">possible and because there aren&#39;t that</p>
+<p begin="00:46:10.980" end="00:46:15.030" style="s2">smart competent people are actually</p>
+<p begin="00:46:12.930" end="00:46:16.710" style="s2">rather rare and it&#39;s to society&#39;s</p>
+<p begin="00:46:15.030" end="00:46:19.500" style="s2">advantage to exploit the hell out of</p>
+<p begin="00:46:16.710" end="00:46:22.010" style="s2">them and you know pay them well for that</p>
+<p begin="00:46:19.500" end="00:46:23.390" style="s2">but it&#39;s not like they&#39;re of no benefit</p>
+<p begin="00:46:22.010" end="00:46:26.180" style="s2">and everyone knows that when they try to</p>
+<p begin="00:46:23.390" end="00:46:27.790" style="s2">hire someone confident de-emphasize</p>
+<p begin="00:46:26.180" end="00:46:33.349" style="s2">empathy yes</p>
+<p begin="00:46:27.790" end="00:46:36.920" style="s2">empathy is a good ethics for small</p>
+<p begin="00:46:33.349" end="00:46:38.180" style="s2">family units and a terrible ethic to run</p>
+<p begin="00:46:36.920" end="00:46:40.010" style="s2">a company by it looks like</p>
+<p begin="00:46:38.180" end="00:46:41.660" style="s2">conscientiousness is the right ethic to</p>
+<p begin="00:46:40.010" end="00:46:43.040" style="s2">run a company but I think</p>
+<p begin="00:46:41.660" end="00:46:44.869" style="s2">conscientiousness we don&#39;t have good</p>
+<p begin="00:46:43.040" end="00:46:46.940" style="s2">animal models for conscientious and say</p>
+<p begin="00:46:44.869" end="00:46:49.430" style="s2">but I think conscientiousness probably</p>
+<p begin="00:46:46.940" end="00:46:51.800" style="s2">evolved so that human beings could could</p>
+<p begin="00:46:49.430" end="00:46:55.160" style="s2">operate in groups that were larger than</p>
+<p begin="00:46:51.800" end="00:46:57.020" style="s2">just kin sighs you know because inequity</p>
+<p begin="00:46:55.160" end="00:47:00.020" style="s2">makes sense at a kid level every month</p>
+<p begin="00:46:57.020" end="00:47:01.940" style="s2">or children to have a good outcome in</p>
+<p begin="00:47:00.020" end="00:47:04.609" style="s2">life and once resources distributed</p>
+<p begin="00:47:01.940" end="00:47:07.329" style="s2">equally between them so it&#39;s not like</p>
+<p begin="00:47:04.609" end="00:47:10.520" style="s2">it&#39;s something that doesn&#39;t have a niche</p>
+<p begin="00:47:07.329" end="00:47:12.500" style="s2">Micro a prioritized intention our focus</p>
+<p begin="00:47:10.520" end="00:47:14.480" style="s2">on micro aggressions etc and other</p>
+<p begin="00:47:12.500" end="00:47:16.430" style="s2">unintentional transgressions increases</p>
+<p begin="00:47:14.480" end="00:47:18.380" style="s2">our sensitivity you do a nice job of</p>
+<p begin="00:47:16.430" end="00:47:20.810" style="s2">criticizing that I read Derald wing</p>
+<p begin="00:47:18.380" end="00:47:21.410" style="s2">Sue&#39;s book on micro aggression it&#39;s an</p>
+<p begin="00:47:20.810" end="00:47:23.930" style="s2">appalling</p>
+<p begin="00:47:21.410" end="00:47:25.730" style="s2">it&#39;s not calling loaded the trait to put</p>
+<p begin="00:47:23.930" end="00:47:27.680" style="s2">it lightly and that leaves got</p>
+<p begin="00:47:25.730" end="00:47:30.770" style="s2">Lilienfeld it&#39;s a very good psychologist</p>
+<p begin="00:47:27.680" end="00:47:33.470" style="s2">has recently published a paper shredding</p>
+<p begin="00:47:30.770" end="00:47:35.450" style="s2">the construct validity of the concept of</p>
+<p begin="00:47:33.470" end="00:47:37.700" style="s2">micro aggression so it&#39;s a non-violent</p>
+<p begin="00:47:35.450" end="00:47:40.069" style="s2">construct right from the bottom-up it&#39;s</p>
+<p begin="00:47:37.700" end="00:47:41.750" style="s2">purely ideological in nature and it&#39;s</p>
+<p begin="00:47:40.069" end="00:47:44.900" style="s2">also one of those constructs that allows</p>
+<p begin="00:47:41.750" end="00:47:48.530" style="s2">anyone who is offended to weaponize</p>
+<p begin="00:47:44.900" end="00:47:50.270" style="s2">their revenue discourse around it so the</p>
+<p begin="00:47:48.530" end="00:47:52.400" style="s2">rate consider making unconscious</p>
+<p begin="00:47:50.270" end="00:47:54.290" style="s2">training bias training mandatory for</p>
+<p begin="00:47:52.400" end="00:47:56.150" style="s2">promotion committees yeah that should</p>
+<p begin="00:47:54.290" end="00:47:58.550" style="s2">matter considered it should be stopped</p>
+<p begin="00:47:56.150" end="00:48:03.400" style="s2">there&#39;s no scientific basis whatsoever</p>
+<p begin="00:47:58.550" end="00:48:06.050" style="s2">for proceeding with that operation so</p>
+<p begin="00:48:03.400" end="00:48:08.030" style="s2">great well you know it&#39;s a pretty</p>
+<p begin="00:48:06.050" end="00:48:10.160" style="s2">straightforward document as far as I&#39;m</p>
+<p begin="00:48:08.030" end="00:48:12.440" style="s2">concerned and I&#39;ve gone through it with</p>
+<p begin="00:48:10.160" end="00:48:14.240" style="s2">a very fine toothed comb out of the</p>
+<p begin="00:48:12.440" end="00:48:16.700" style="s2">behavioral scientists and I would like</p>
+<p begin="00:48:14.240" end="00:48:19.280" style="s2">to State for the record that I believe</p>
+<p begin="00:48:16.700" end="00:48:21.920" style="s2">that what you said in there if not</p>
+<p begin="00:48:19.280" end="00:48:24.010" style="s2">accurate was at least representative of</p>
+<p begin="00:48:21.920" end="00:48:28.300" style="s2">the current state of art among</p>
+<p begin="00:48:24.010" end="00:48:30.859" style="s2">well-trained psychometrically informed</p>
+<p begin="00:48:28.300" end="00:48:33.220" style="s2">psychologists who are experts in the</p>
+<p begin="00:48:30.859" end="00:48:35.839" style="s2">field of individual difference so</p>
+<p begin="00:48:33.220" end="00:48:40.550" style="s2">congratulations</p>
+<p begin="00:48:35.839" end="00:48:44.490" style="s2">yeah yeah I&#39;d pay such a price for it</p>
+<p begin="00:48:40.550" end="00:48:47.640" style="s2">alright well thank you very much for the</p>
+<p begin="00:48:44.490" end="00:48:50.670" style="s2">conversation ah one last question why</p>
+<p begin="00:48:47.640" end="00:48:54.300" style="s2">did you agree to talk to me I</p>
+<p begin="00:48:50.670" end="00:48:56.310" style="s2">I&#39;m a huge fan and I know that you went</p>
+<p begin="00:48:54.300" end="00:48:59.819" style="s2">through it similar thing being any</p>
+<p begin="00:48:56.310" end="00:49:03.960" style="s2">influence on this I mean you&#39;re going to</p>
+<p begin="00:48:59.819" end="00:49:05.550" style="s2">pay out actually I&#39;m not sorry yeah I&#39;d</p>
+<p begin="00:49:03.960" end="00:49:08.369" style="s2">like to say I was sorry but I&#39;m not</p>
+<p begin="00:49:05.550" end="00:49:10.440" style="s2">actually really pleased that I I do</p>
+<p begin="00:49:08.369" end="00:49:12.060" style="s2">think that you&#39;re going to be a pea</p>
+<p begin="00:49:10.440" end="00:49:14.010" style="s2">being praised for this but that the net</p>
+<p begin="00:49:12.060" end="00:49:16.770" style="s2">consequence will be very positive and</p>
+<p begin="00:49:14.010" end="00:49:18.930" style="s2">I&#39;m I I think you did an excellent job</p>
+<p begin="00:49:16.770" end="00:49:20.940" style="s2">on this document I think you were very</p>
+<p begin="00:49:18.930" end="00:49:24.420" style="s2">careful I think the fact that you&#39;re</p>
+<p begin="00:49:20.940" end="00:49:26.640" style="s2">being labeled with epithets and that you</p>
+<p begin="00:49:24.420" end="00:49:29.089" style="s2">were fired is absolutely reprehensible</p>
+<p begin="00:49:26.640" end="00:49:31.200" style="s2">you know the affair to me that you&#39;re</p>
+<p begin="00:49:29.089" end="00:49:34.550" style="s2">just trying to figure out what the hell</p>
+<p begin="00:49:31.200" end="00:49:36.780" style="s2">is going on and they you know you&#39;re not</p>
+<p begin="00:49:34.550" end="00:49:38.970" style="s2">you&#39;re not any of the things that people</p>
+<p begin="00:49:36.780" end="00:49:40.349" style="s2">would like to think you are so that they</p>
+<p begin="00:49:38.970" end="00:49:42.000" style="s2">don&#39;t have to bloody well think about</p>
+<p begin="00:49:40.349" end="00:49:43.650" style="s2">what it is that you said and did</p>
+<p begin="00:49:42.000" end="00:49:46.349" style="s2">so like congratulations to you and then</p>
+<p begin="00:49:43.650" end="00:49:47.760" style="s2">courageous people are rare and you put</p>
+<p begin="00:49:46.349" end="00:49:51.060" style="s2">yourself on the line and I really</p>
+<p begin="00:49:47.760" end="00:49:52.950" style="s2">learned that in the last year so I would</p>
+<p begin="00:49:51.060" end="00:49:55.829" style="s2">say keep your head up assume that this</p>
+<p begin="00:49:52.950" end="00:49:58.530" style="s2">is going to work out it I wouldn&#39;t hide</p>
+<p begin="00:49:55.829" end="00:50:00.569" style="s2">from the press because I think the press</p>
+<p begin="00:49:58.530" end="00:50:05.310" style="s2">is actually you&#39;re the right kind of</p>
+<p begin="00:50:00.569" end="00:50:07.859" style="s2">person for the press to be something for</p>
+<p begin="00:50:05.310" end="00:50:10.920" style="s2">you to use you know your well-spoken</p>
+<p begin="00:50:07.859" end="00:50:15.270" style="s2">apply it you&#39;re you&#39;re you&#39;re convincing</p>
+<p begin="00:50:10.920" end="00:50:17.069" style="s2">irrational um Europe obviously at least</p>
+<p begin="00:50:15.270" end="00:50:21.119" style="s2">you come across on a decent diet very</p>
+<p begin="00:50:17.069" end="00:50:23.490" style="s2">very rapidly um there&#39;s no reason I</p>
+<p begin="00:50:21.119" end="00:50:25.410" style="s2">would say there&#39;s no reason not to let</p>
+<p begin="00:50:23.490" end="00:50:28.200" style="s2">people see who you are because I think</p>
+<p begin="00:50:25.410" end="00:50:30.780" style="s2">that would improve your credibility and</p>
+<p begin="00:50:28.200" end="00:50:33.000" style="s2">make your best even more powerful so you</p>
+<p begin="00:50:30.780" end="00:50:35.099" style="s2">think no doubt I mean you&#39;re you are</p>
+<p begin="00:50:33.000" end="00:50:38.790" style="s2">have every right to defend your privacy</p>
+<p begin="00:50:35.099" end="00:50:40.560" style="s2">you know but yeah and that&#39;s fine but I</p>
+<p begin="00:50:38.790" end="00:50:42.810" style="s2">don&#39;t think that you have a reason to be</p>
+<p begin="00:50:40.560" end="00:50:44.700" style="s2">afraid of the press I would say a couple</p>
+<p begin="00:50:42.810" end="00:50:48.340" style="s2">of things when you&#39;re talking to the</p>
+<p begin="00:50:44.700" end="00:50:52.130" style="s2">press don&#39;t apologize</p>
+<p begin="00:50:48.340" end="00:50:53.600" style="s2">don&#39;t tell people what you&#39;re not don&#39;t</p>
+<p begin="00:50:52.130" end="00:50:55.610" style="s2">tell them that you know how to get make</p>
+<p begin="00:50:53.600" end="00:50:59.150" style="s2">anonymous audience that&#39;s a technical</p>
+<p begin="00:50:55.610" end="00:51:03.200" style="s2">error and stick to your damn guns you</p>
+<p begin="00:50:59.150" end="00:51:05.150" style="s2">know as as quietly and forthrightly as</p>
+<p begin="00:51:03.200" end="00:51:07.400" style="s2">you can and now you&#39;re going to come out</p>
+<p begin="00:51:05.150" end="00:51:08.750" style="s2">on top of this because you&#39;re you&#39;re on</p>
+<p begin="00:51:07.400" end="00:51:11.170" style="s2">the side of the right as far as I&#39;m</p>
+<p begin="00:51:08.750" end="00:51:11.170" style="s2">concerned</p>
+</div>
+</body>
+</tt>

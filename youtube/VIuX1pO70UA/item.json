@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#searchResult",
+  "id": {
+    "kind": "youtube#video",
+    "videoId": "VIuX1pO70UA"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-22T19:36:23Z",
+    "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+    "title": "An Animated Intro to Truth, Order and Chaos",
+    "description": "Godwin video (www.chancegodwin.com), who specializes in educational animations, recently contacted me with this video (taken from a conversation I recently ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/VIuX1pO70UA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/VIuX1pO70UA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/VIuX1pO70UA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "channelTitle": "Jordan B Peterson",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-05-22T19:36:23Z"
+  },
+  "_id": "VIuX1pO70UA",
+  "publishedAt": "2018-05-22T19:36:23Z",
+  "type": "youtube-channel-item",
+  "collections": [
+    "https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"
+  ]
+}

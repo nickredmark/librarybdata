@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:03.159" end="00:00:05.159" style="s2">Hi everyone</p>
+<p begin="00:00:05.170" end="00:00:10.710" style="s2">I&#39;m gonna travel to 12 cities in the US, Canada and the UK in the next few months</p>
+<p begin="00:00:11.320" end="00:00:15.660" style="s2">To speak about my book, &#39;12 Rules for Life&#39; and other related issues</p>
+<p begin="00:00:17.040" end="00:00:21.120" style="s2">First I&#39;ll be in New York at the Beacon Theater at the end of March.</p>
+<p begin="00:00:21.200" end="00:00:24.480" style="s2">I&#39;ll announce the precise date in the next few days</p>
+<p begin="00:00:25.180" end="00:00:27.700" style="s2">I&#39;ll be going to the other 11 cities in May</p>
+<p begin="00:00:28.120" end="00:00:30.820" style="s2">I&#39;ll announce those dates very soon too.</p>
+<p begin="00:00:31.180" end="00:00:33.420" style="s2">Those cities include, Toronto</p>
+<p begin="00:00:33.460" end="00:00:36.600" style="s2">Washington, Chicago, Detroit</p>
+<p begin="00:00:37.260" end="00:00:38.460" style="s2">Denver</p>
+<p begin="00:00:38.460" end="00:00:41.060" style="s2">San Francisco, Seattle</p>
+<p begin="00:00:41.560" end="00:00:42.760" style="s2">London</p>
+<p begin="00:00:42.760" end="00:00:45.860" style="s2">Austin, Dallas and Phoenix</p>
+<p begin="00:00:46.060" end="00:00:48.700" style="s2">Tickets will be available for presale</p>
+<p begin="00:00:49.240" end="00:00:54.460" style="s2">February 21st if you go to my website JordanBPeterson.com and</p>
+<p begin="00:00:54.640" end="00:00:57.420" style="s2">Subscribe to the mailing list at the bottom of the page</p>
+<p begin="00:00:58.020" end="00:01:05.180" style="s2">You can register for presale notification. There&#39;s also an events page at JordanBPeterson.com</p>
+<p begin="00:01:05.980" end="00:01:09.980" style="s2">Tickets will go on sale for everyone on February 23rd.</p>
+<p begin="00:01:10.140" end="00:01:12.340" style="s2">Hope to see you at one of those venues</p>
+<p begin="00:01:12.600" end="00:01:16.640" style="s2">Thanks very much for the continued support and interest</p>
+<p begin="00:01:17.280" end="00:01:19.280" style="s2">bye-bye</p>
+</div>
+</body>
+</tt>
